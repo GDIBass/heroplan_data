@@ -32,16 +32,12 @@ ascensions:
   4:
     description: Tier 4
     star_max:
-      3: 55
       4: 70
       5: 80
     limit_break:
-      - 3
+      3: 55
   5:
     description: Tier 5
-    star_max:
+    limit_break:
       4: 75
       5: 85
-    limit_break:
-      - 4
-      - 5

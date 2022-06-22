@@ -107,93 +107,112 @@ totals:
 
 modes:
   percentage:
-    display: %
+    display: "%"
   add:
     display: +
 
 effects:
   wound:
-    name: Wound
+    description: Wound
     effect: chance to apply bleeding from any normal attack. This effect deals 60% of the damage done by the normal attack over 5 turns. This effect stacks with similar effects
     mode: percentage
+    image: https://i.imgur.com/9K6OIKA.png
   mana_shield:
-    name: Mana Shield
+    description: Mana Shield
     effect: chance to resist any negative mana status effects or effects that prevent use of Special Skills.
     mode: percentage
+    image: https://i.imgur.com/QjHreDx.png
   companion:
-    name: Companion
+    description: Companion
     effect: chance to summon a Thorn Minion after receiving any damage. This effect is applied at the end of the turn.
     mode: percentage
+    image: https://i.imgur.com/c5m8BJB.png
   revive:
-    name: Revive
+    description: Revive
     effect: chance to revive with 1 HP after a fatal attack. The revive is applied at the end of the turn.
     mode: percentage
+    image: https://i.imgur.com/SVN4doC.png
   withstand:
-    name: Withstand
+    description: Withstand
     effect: chance to resist negative status effects.
     mode: percentage
+    image: https://i.imgur.com/au1lsPL.png
   protect:
-    name: Protect
+    description: Protect
     effect: chance to get +25% defense for 2 turns after receiving any damage. The effect is applied at the end of the turn.
     mode: percentage
+    image: https://i.imgur.com/wvfNY5n.png
   pierce:
-    name: Pierce
+    description: Pierce
     effect: chance to bypass defense buffs when attacking. This includes counterattacks.
     mode: percentage
+    image: https://i.imgur.com/510Pic9.png
   evade:
-    name: Evade
+    description: Evade
     effect: chance to dodge direct damage from offensive Special Skills.
     mode: percentage
+    image: https://i.imgur.com/k0iDMmz.png
   delay:
-    name: Delay
+    description: Delay
     effect: chance to drop the mana generation of the enemy by -50% for 2 turns after dealing damage. The effect is applied at the end of the turn.
     mode: percentage
+    image: https://i.imgur.com/Bx3YaLM.png
   jinx:
-    name: Jinx
+    description: Jinx
     effect: chance to deal +15% extra damage per each active buff the enemies have. The extra damage applies to both normal attacks and Special Skills.
     mode: percentage
+    image: https://i.imgur.com/xXQyg4J.png
   critical_bonus:
-    name: Critical Bonus
+    description: Critical Bonus
     effect: chance for critical strikes that do double damage.
     mode: percentage
+    image: https://i.imgur.com/akZegLh.png
   healing_bonus:
-    name: Healing Bonus
+    description: Healing Bonus
     effect: healing from healing items and special skills
     mode: percentage
+    image: https://i.imgur.com/MN8KuQn.png
   mana_bonus:
-    name: Mana Bonus
+    description: Mana Bonus
     effect: mana recovery speed
     mode: percentage
+    image: https://i.imgur.com/cvJrc7E.png
   attack_bonus:
-    name: Attack Bonus
+    description: Attack Bonus
     effect: attack
     mode: add
     stat: attack
+    image: https://i.imgur.com/RqWLFiX.png
   defense_bonus:
-    name: Defense Bonus
+    description: Defense Bonus
     effect: defense
     mode: add
     stat: defense
+    image: https://i.imgur.com/S9JN8yF.png
   health_bonus:
-    name: Health Bonus
+    description: Health Bonus
     effect: health
     mode: add
     stat: health
+    image: https://i.imgur.com/wvBlaRZ.png
   attack_percent:
-    name: Attack Percent
+    description: Attack Percent
     effect: attack
     mode: percentage
     stat: attack
+    image: https://i.imgur.com/aynf88B.png
   defense_percent:
-    name: Defense Percent
+    description: Defense Percent
     effect: defense
     mode: percentage
     stat: defense
+    image: https://i.imgur.com/V8UUwEs.png
   health_percent:
-    name: Health Percent
+    description: Health Percent
     effect: health
     mode: percentage
     stat: health
+    image: https://i.imgur.com/mUxYkbZ.png
 
 nodes:
   barbarian:
@@ -261,6 +280,15 @@ nodes:
     amount: 4
   four_percent_health:
     type: health_percent
+    amount: 4
+  four_percent_healing:
+    type: healing_bonus
+    amount: 4
+  four_percent_mana:
+    type: mana_bonus
+    amount: 4
+  four_percent_critical:
+    type: critical_bonus
     amount: 4
 
 trees:
@@ -353,7 +381,7 @@ trees:
     19:
       l: two_percent_critical
       r: two_percent_mana
-    20: fourPercentHealing
+    20: four_percent_healing
   druid:
     1: druid
     2:
@@ -715,6 +743,5 @@ trees:
       r: two_percent_mana
     20: four_percent_attack
 
-emblem:
-  reset:
-    image: https://i.imgur.com/aPVnS5S.png
+reset:
+  image: https://i.imgur.com/aPVnS5S.png

@@ -198,9 +198,6 @@ troops:
         green: https://i.imgur.com/U0T4VVT.jpg
         red: https://i.imgur.com/T7a6s6N.jpg
 
-empty:
-  image: https://i.imgur.com/T7kvaaI.jpg
-
 max_level_by_stars:
   1: 10
   2: 15
