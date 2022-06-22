@@ -1,0 +1,419 @@
+- name: Vlad
+  class: Rogue
+  source: Morlovia
+  speed: Very Fast
+  power: 449
+  attack: 368
+  defense: 486
+  health: 855
+  skill: Dawn of Sorrow
+  effects:
+    - The target receives 65 damage over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 115, up to 295 damage in total.
+    - The caster steals 61% of any healing applied to the target for 3 turns.
+  types:
+    - DOT 1
+    - Stacking
+    - Healing Stealer
+  family: Morlovia
+  image: https://i.imgur.com/BKgxWVA.jpg
+- name: Tyrum
+  class: Paladin
+  source: Season1
+  speed: Fast
+  power: 441
+  attack: 387
+  defense: 422
+  health: 879
+  skill: Piercing Hit
+  effects:
+    - Deal 310% damage to the target
+    - Dispels buffs from all enemies
+  types:
+    - Hit 1
+    - Dispeller
+  image: https://i.imgur.com/hbs30Wo.jpg
+  costume:
+    class: Rogue
+    power: 465
+    attack: 415
+    defense: 446
+    health: 933
+    skill: Purifying Hit
+    effects:
+      - Deal 310% damage to the target
+      - Cleanses status ailments from all allies
+    types:
+      - Hit 1
+      - Cleanser
+    image: https://i.imgur.com/b4nWBqd.jpg
+- name: Renfeld
+  class: Fighter
+  source: Season1
+  speed: Average
+  power: 445
+  attack: 488
+  defense: 398
+  health: 700
+  skill: Leeching Stars
+  effects:
+    - Deals 215% damage to the target
+    - Heals the caster for 50% of damage dealt
+  types:
+    - Hit 1
+    - Heal Self
+  image: https://i.imgur.com/YOrcUNZ.jpg
+  costume:
+    class: Cleric
+    power: 468
+    attack: 428
+    defense: 455
+    health: 904
+    skill: Leeching Saw
+    effects:
+      - Deals 195% damage to the target
+      - The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.  This effect can't be cleansed, but it gets removed if the caster dies
+    types:
+      - Hit 1
+      - Mana Steal
+    image: https://i.imgur.com/7QkxYAf.jpg
+- name: Prisca
+  class: Paladin
+  source: Season1
+  speed: Average
+  power: 446
+  attack: 413
+  defense: 464
+  health: 761
+  skill: Bleeding Stab
+  effects:
+    - Deals 235% damage to the target
+    - Heals the caster for 50% of damage dealt
+  types:
+    - Hit 1
+    - Heal Self
+  image: https://i.imgur.com/nIXEvou.jpg
+  costume:
+    class: Fighter
+    power: 470
+    attack: 415
+    defense: 466
+    health: 930
+    skill: Bleeding Thrust
+    effects:
+      - Deals 205% damage to the target and minor damage to nearby enemies
+      - Heals the caster for 30% of the damage dealt
+    types:
+      - Hit 3
+      - Heal Self
+    image: https://i.imgur.com/q3Ddqi6.jpg
+- name: Oberon
+  class: Fighter
+  source: Season1
+  speed: Slow
+  power: 445
+  attack: 422
+  defense: 411
+  health: 839
+  skill: Toxic Traps
+  effects:
+    - Deals 121% damage to all enemies
+    - All enemies receive 96 damage over 6 turns
+  types:
+    - Hit All
+    - DoT All
+  image: https://i.imgur.com/FkvOQpS.jpg
+  costume:
+    class: Sorcerer
+    power: 469
+    attack: 413
+    defense: 463
+    health: 933
+    skill: Toxic Tricks
+    effects:
+      - All enemies receive 324 Poison damage over 3 turns.  This effect can't be cleased.
+    types:
+      - Dot all
+    image: https://i.imgur.com/4wjqw3M.jpg
+- name: Gill-Ra
+  class: Sorcerer
+  source: Season2
+  speed: Slow
+  power: 449
+  attack: 436
+  defense: 453
+  health: 747
+  skill: Lament of Regression
+  effects:
+    - All enemies get -34% defense for 4 turns
+    - All enemies get -34% attack for 4 turns
+    - Cleanses status ailments from all allies
+  types:
+    - Defense Debuff
+    - Attack Debuff
+    - Cleanser
+  family: Lagoon
+  image: https://i.imgur.com/5yoZu18.jpg
+- name: Chochin
+  class: Sorcerer
+  source: Season2
+  speed: Average
+  power: 448
+  attack: 413
+  defense: 512
+  health: 684
+  skill: Unholy Light
+  effects:
+    - Deals 215% damage to the target and nearby enemies.
+    - The target and nearby enemies get -24% mana generation for 3 turns.
+  types:
+    - Hit 3
+    - Mana Generation Debuff
+  family: Sakura
+  image: https://i.imgur.com/L668UQC.jpg
+- name: Balthazar
+  class: Wizard
+  source: Season1
+  speed: Fast
+  power: 442
+  attack: 483
+  defense: 422
+  health: 648
+  skill: Electric Jolt
+  effects:
+    - Deals 335% damage to the target
+  types:
+    - Hit 1
+  image: https://i.imgur.com/OSefjqG.jpg
+  costume:
+    class: Sorcerer
+    power: 466
+    attack: 522
+    defense: 426
+    health: 712
+    skill: Poison Jolt
+    effects:
+      - Deals 315% damage to the target
+      - The target receives 60 Poison damage over 3 turns
+    types:
+      - Hit 1
+      - DoT 1
+    image: https://i.imgur.com/PBzwskK.jpg
+- name: Guardian Bat
+  class: Wizard
+  source: Teltoc
+  speed: Average
+  power: 455
+  attack: 437
+  defense: 418
+  health: 862
+  skill: Merciless Bite
+  effects:
+    - Deals 270% damage to the target and minor damage to nearby enemies
+    - The damage is increased by 60% per each dead ally
+  types:
+    - Hit 3
+  family: Teltoc
+  image: https://i.imgur.com/yMD2ogt.jpg
+- name: Bjorn
+  class: Monk
+  source: Season3
+  speed: Average
+  power: 463
+  attack: 458
+  defense: 436
+  health: 827
+  skill: Dual Slash
+  effects:
+    - Deals 200% damage to the target.
+    - Deals 350% damage to a random different enemy. Deals extra damage if the target is Holy.
+  types:
+    - Hit 1
+    - Hit Bounce
+  family: Midgard
+  image: https://i.imgur.com/vOaNkHC.jpg
+- name: An-Windr
+  class: Ranger
+  source: Season3
+  speed: Slow
+  power: 465
+  attack: 424
+  defense: 504
+  health: 792
+  skill: Tribal Rage
+  effects:
+    - The caster gets +45% attack, and a further 20% increase every time they or any of their allies are hit during 4 turns. When the effect ends, the caster deals 164% damage on all enemies. Each hit on the caster or their allies during the duration increases the damage by 10% to a maximum of 288% damage.
+  types:
+    - Attack Buff
+  family: Niflheim
+  image: https://i.imgur.com/MSmQZNX.jpg
+- name: Jack
+  class: Wizard
+  source: Morlovia
+  speed: Fast
+  power: 468
+  attack: 491
+  defense: 450
+  health: 752
+  skill: Explosive O'lantern
+  effects:
+    - Deals 200% damage to the target
+    - The target receieves a Pumpkin Bomb. After 3 turns the Pumpkin Bomb explodes and deals 206 damage to the target and nearby targets. The Pumpkin Bomb also explodes when the target is defeated.
+  types:
+    - Hit 1
+    - Bomb
+  family: Morlovia
+  image: https://i.imgur.com/1pbBKiM.jpg
+- name: Edd
+  class: Ranger
+  source: Villains
+  speed: Fast
+  power: 476
+  attack: 526
+  defense: 450
+  health: 723
+  skill: Crazed Lunge
+  effects:
+    - Deal 335% damage to the target.
+    - The target is immune to new buffs for 3 turns.
+  types:
+    - Hit 1
+  family: Villains
+  image: https://i.imgur.com/OuUgvKY.jpg
+- name: Morris
+  class: Fighter
+  source: Season4
+  speed: Average
+  power: 478
+  attack: 507
+  defense: 483
+  health: 721
+  skill: Dig a Hole
+  effects:
+    - Removes all status effects and stacks from the caster. Removes even status effects and stacsk that are otherwise undispellable or uncleansable.
+    - Caster digas a hole and hides in it for 2 turns.
+    - While in the hole, the caster can't gain mana but is immune to normal attacks, special attacks, and all status effects.
+    - After 2 turns the caster jumps out of the hole and heals 223 damage to a random enemy.
+    - "The hit enemy receives the following status ailment:"
+    - " * The target can't gain mana for 2 turns."
+  types:
+    - Hole
+  family: Underwild
+  passives:
+    - Duration of the first 3 status ailments this hero receives from Special Skills is decreased by 1 turn
+  image: https://i.imgur.com/RXYQ548.jpg
+- name: Maeve
+  class: Rogue
+  source: Slayers
+  speed: Slow
+  power: 478
+  attack: 458
+  defense: 509
+  health: 794
+  skill: Assassin's Blades
+  effects:
+    - Deals 260% damage to the target and nearby enemies.
+    - The target and nearby enemies get -44% defenese for 4 turns.
+    - "Stack (Max: 10): The caster gets +5% mana generation"
+    - "Stack (Max: 10): The caster recovers 5 HP each turn"
+  types:
+    - Hit 3
+    - Defense debuff
+    - Stack
+  family: Slayer
+  passives:
+    - Damage caused by status ailments reduced by -50%
+  image: https://i.imgur.com/vEp3yLs.jpg
+- name: Aderyn
+  class: Cleric
+  source: Knights
+  speed: Average
+  power: 480
+  attack: 451
+  defense: 497
+  health: 844
+  skill: Apothecary Kit
+  effects:
+    - Recovers 32% health for all allies.
+    - All enemies get -50% decrease for any healing received for 4 turns.
+  types:
+    - Heal all
+    - Healing Debuff
+  family: Raven
+  image: https://i.imgur.com/7kv6ZGx.jpg
+- name: Treevil
+  class: Wizard
+  source: Avalon
+  speed: Very Slow
+  power: 481
+  attack: 434
+  defense: 509
+  health: 870
+  skill: Archaic Dread
+  effects:
+    - Deals 250% damage to all enemies.
+    - All enemies get -54% attack for 6 turns.
+    - All enemies get -56% defense for 6 turns.
+    - All enemies get -44% mana generation for 6 turns.
+  types:
+    - Attack Debuff
+    - Defense Debuff
+    - Mana Generation Debuff
+  family: Avalon
+  image: https://i.imgur.com/8ZDDLNG.jpg
+- name: Aqeela
+  source: Season5
+  class: Rogue
+  family: Moon
+  speed: Fast
+  power: 483
+  attack: 450
+  defense: 498
+  health: 870
+  skill: One Jump Ahead
+  effects:
+    - Deals 155% damage to the target and nearby enemies.
+    - "The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack (Max: 10)."
+  types:
+    - Hit 3
+    - Dodge Buff
+  passives:
+    - "Effects on Special Skill - 50% chance to perform the following actions when this character casts their Special Skill:"
+    - "* Deals 70% damage to all enemies."
+    - "* Dispels the latest dispellable buff from enemies."
+  image: https://i.imgur.com/N5k1s9j.jpg
+- name: Budatin
+  class: Wizard
+  source: Gargoyle
+  family: Gargoyle
+  speed: Average
+  power: 482
+  attack: 500
+  defense: 502
+  health: 729
+  skill: Abiding Dogma
+  effects:
+    - Alters the power of all Dark shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
+  types:
+    - Shield Modification
+  passives:
+    - Gargoyle’s Stoneskin - Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next damage they receive is dropped to 1. This effect can’t be dispelled.
+  image: https://i.imgur.com/NFVk9Gf.jpg
+- name: Para
+  class: Rogue
+  speed: Average
+  family: Kalevala
+  source: Kalevala
+  power: 482
+  attack: 457
+  defense: 477
+  health: 884
+  skill: Familiar Witchcraft
+  effects:
+    - Recovers 32% health for all allies.
+    - All enemies get -24% attack for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  types:
+    - Recover all
+    - Attack debuff
+  passives:
+    - When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+  image: https://i.imgur.com/n5BGh1Y.jpg

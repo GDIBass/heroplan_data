@@ -1,0 +1,41 @@
+classes:
+  barbarian:
+    code: 0
+    description: Barbarian
+    image: https://i.imgur.com/SWoQzpg.png
+  cleric:
+    code: 1
+    description: Cleric
+    image: https://i.imgur.com/YkaRPK3.png
+  druid:
+    code: 2
+    description: Druid
+    image: https://i.imgur.com/vViZn74.png
+  fighter:
+    code: 3
+    description: Fighter
+    image: https://i.imgur.com/szH1t2i.png
+  monk:
+    code: 4
+    description: Monk
+    image: https://i.imgur.com/e02kC14.png
+  paladin:
+    code: 5
+    description: Paladin
+    image: https://i.imgur.com/hWsWNEu.png
+  ranger:
+    code: 6
+    description: Ranger
+    image: https://i.imgur.com/HFl3B4Z.png
+  rogue:
+    code: 7
+    description: Rogue
+    image: https://i.imgur.com/KNMzKgc.png
+  sorcerer:
+    code: 8
+    description: Sorcerer
+    image: https://i.imgur.com/87dMkjo.png
+  wizard:
+    code: 9
+    description: Wizard
+    image: https://i.imgur.com/FexXXRS.png

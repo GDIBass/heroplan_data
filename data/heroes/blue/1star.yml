@@ -1,0 +1,28 @@
+- name: Sigrunn
+  class: Fighter
+  source: Season1
+  speed: Fast
+  power: 210
+  attack: 183
+  defense: 208
+  health: 381
+  skill: Hacking Attack
+  effects:
+    - Deals 275% damage to the target
+  types:
+    - Hit 1
+  image: https://i.imgur.com/yx3yL1e.jpg
+- name: Brand
+  class: Fighter
+  source: Season1
+  speed: Average
+  power: 210
+  attack: 177
+  defense: 184
+  health: 443
+  skill: Fierce Slash
+  effects:
+    - Deals 115% damage to all enemies
+  types:
+    - Hit All
+  image: https://i.imgur.com/OSHdYXE.jpg

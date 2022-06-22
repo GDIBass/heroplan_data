@@ -1,0 +1,1120 @@
+- name: Frida
+  class: Paladin
+  source: hotm
+  speed: Average
+  power: 770
+  attack: 733
+  defense: 723
+  health: 1330
+  skill: Polar Bash
+  effects:
+    - Deals 290% damage to the target and nearby enemies
+    - The target and nearby enemies get -54% defense against Ice for 4 turns
+    - Dispels buffs from the target and nearby enemies
+    - Element Link gives all Ice allies +46% defense against Nature for 4 turns. This effect can't be cleansed
+  types:
+    - Hit 3
+    - Elemental Defense Debuff
+    - Dispeller
+  passives:
+    - The hero has an innate ability to resist status ailments that affect Attack.
+  image: https://i.imgur.com/vGjHyB4.jpg
+  family: 2019
+- name: Ariel
+  class: Cleric
+  source: Season2
+  speed: Average
+  power: 772
+  attack: 731
+  defense: 768
+  health: 1260
+  skill: Divine Protection
+  effects:
+    - Recovers 40% health for all allies
+    - All allies get +24% mana generation for 4 turns
+    - Cleanses status ailments from all allies
+  types:
+    - Healer
+    - Cleanser
+  family: Atlantis
+  image: https://i.imgur.com/WWzsu8l.jpg
+  costume:
+    class: Sorcerer
+    power: 772
+    attack: 743
+    defense: 758
+    health: 1250
+    skill: Deep Sea Ritual
+    effects:
+      - Boosts health of all allies by 520. If health exceeds max HP, it is added as temporary HP.
+      - All allies regenerate a moderate amount of mana over 4 turns.
+      - Cleanses status ailments from all allies.
+    types:
+      - Health Boost
+      - Mana regeneration
+      - Cleanser
+    image: https://i.imgur.com/gRSAJUL.jpg
+    bonuses: 2
+- name: Thorne
+  class: Paladin
+  source: Season1
+  speed: Average
+  power: 757
+  attack: 638
+  defense: 793
+  health: 1339
+  skill: Icecold Finisher
+  effects:
+    - Deals 480% damage to the target and minor damage to nearby enemies
+  types:
+    - Hit 3
+  image: https://i.imgur.com/9CT7f6V.jpg
+  costume:
+    class: Sorcerer
+    power: 798
+    attack: 726
+    defense: 786
+    health: 1424
+    skill: Freezing Finale
+    effects:
+      - Deals 540% damage to the target.
+      - The caster gets +24% mana geenration for 3 turns. This effect can't be dispelled.
+    types:
+      - Hit 1
+    image: https://i.imgur.com/YX5GVdv.jpg
+- name: Rumpelstiltskin
+  class: Sorcerer
+  source: Fables
+  speed: Average
+  power: 767
+  attack: 733
+  defense: 698
+  health: 1359
+  skill: Legerdemain
+  effects:
+    - "Draw a card for a special effect:"
+    - "Skull: Deals 270% damage to all enemies and all enemies receive 156 damage over 3 turns"
+    - "Cross: Recovers 27% health for all allies and dispels status ailments from all allies"
+    - "Stars: All enemies get -34% defense for 3 turns and all allies get +48% attack for 3 turns"
+  types:
+    - Gambler
+  family: Grimforest
+  image: https://i.imgur.com/v7aCbsm.jpg
+  costume:
+    class: Monk
+    power: 808
+    attack: 759
+    defense: 741
+    health: 1505
+    skill: Twilight Tricks
+    effects:
+      - "Draw a card for a special effect:"
+      - "Skull: Reduces max health of all enemies by 550. Max health can’t get lower than 30% of the original max health.All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 60 Poison damage and lowers the target’s mana generation by -9% each turn."
+      - "Cross: Boosts health of all allies by 620. If health exceeds max HP, it is added as a temporary HP.All allies are immune to new status ailments for 4 turns."
+      - "Stars: All enemies get -54% mana generation for 4 turns. This effect can’t be cleansedAll enemies are immune to new buffs for 4 turns."
+    types:
+      - Health reduction
+      - Health Boost
+      - Random
+      - Mana generation Debuff
+    image: https://i.imgur.com/G2za8YY.jpg
+- name: Richard
+  class: Paladin
+  source: Season1
+  speed: Average
+  power: 755
+  attack: 644
+  defense: 817
+  health: 1260
+  skill: Cloud Hammer
+  effects:
+    - Deals 415% damage to the target and minor damage to nearby enemies
+    - The target and nearby enemies get -34% attack for 6 turns
+  types:
+    - Hit 3
+    - Attack Debuff
+  image: https://i.imgur.com/G5NAe4a.jpg
+  costume:
+    class: Barbarian
+    power: 795
+    attack: 682
+    defense: 862
+    health: 1361
+    skill: Cloud Axe
+    effects:
+      - Deals 435% damage to the target and minor damage to nearby enemies
+      - The target and nearby enemies get -34% attack for 4 turns
+    types:
+      - Hit 3
+      - Attack Debuff
+    image: https://i.imgur.com/gyZ5BBo.jpg
+- name: Perseus
+  class: Paladin
+  source: Hotm
+  speed: Fast
+  power: 765
+  attack: 725
+  defense: 698
+  health: 1367
+  skill: Everlasting Wound
+  effects:
+    - Deal 355% damage to single enemy and they get -100% healing received for 4 turns (can't be cleansed)
+    - Nearby allies get +94% defense against Nature for 4 turns
+  types:
+    - Hit 1
+    - Healing Debuff
+  family: 2017
+  image: https://i.imgur.com/AMhR92j.jpg
+- name: Misandra
+  class: Fighter
+  source: Season2
+  speed: Fast
+  power: 774
+  attack: 723
+  defense: 751
+  health: 1330
+  skill: Chain Strike
+  effects:
+    - Deals 310% damage to the target
+    - Has a 42% chance for additional hits on random enemies up to 3 times. Additional hits deal minor damage.
+    - All allies gain a small amount of mana for each hit
+  types:
+    - Hit 1
+    - Chain Hit
+    - Mana Boost
+  family: Lagoon
+  image: https://i.imgur.com/YC2DFg3.jpg
+- name: Master Lepus
+  class: Druid
+  source: Springvale
+  speed: Fast
+  power: 763
+  attack: 795
+  defense: 690
+  health: 1194
+  skill: Reckless Finisher
+  effects:
+    - Deals 410% damage to the target and minor damage to nearby enemies
+    - The caster gets -20% defense for 3 turns. This effect can't be cleansed
+  types:
+    - Hit 3
+  family: Springvale
+  image: https://i.imgur.com/Ti2FM1v.jpg
+  costume:
+    class: Barbarian
+    power: 787
+    attack: 797
+    defense: 727
+    health: 1283
+    skill: Rift Blade
+    effects:
+      - Deals 280% damage to all enemies.
+      - Teh caster gets -24% mana generation for 4 turns. This effect can't be cleansed.
+    types:
+      - Hit 1
+    image: https://i.imgur.com/aLTsGWG.jpg
+    bonuses: 1
+- name: Magni
+  class: Fighter
+  source: Season1
+  speed: Fast
+  power: 754
+  attack: 793
+  defense: 591
+  health: 1334
+  skill: Strike of the Ancients
+  effects:
+    - Deals 420% damage to the target
+    - The caster and nearby allies get +63% defense for 4 turns
+  types:
+    - Hit 1
+    - Defense Buff
+  image: https://i.imgur.com/JpMZ0xh.jpg
+  costume:
+    class: Druid
+    power: 795
+    attack: 743
+    defense: 732
+    health: 1467
+    skill: Strike of the Monolith
+    effects:
+      - Deals 420% damage to the target
+      - The target and nearby enemies get -34% defense for 4 turns
+    types:
+      - Hit 1
+      - Defense Debuff
+    image: https://i.imgur.com/A0jPrh9.jpg
+- name: King Arthur
+  class: Paladin
+  source: Avalon
+  speed: Average
+  power: 765
+  attack: 708
+  defense: 733
+  health: 1336
+  skill: Excalibur
+  effects:
+    - Deals 468% damage to the target
+    - The target gets -39% attack for 4 turns
+    - The target gets -54% defense against Ice for 4 turns
+    - The caster gets +74% defense against Special Skills for 4 turns
+  types:
+    - Hit 1
+    - Attack Debuff
+    - Elemental Defense Debuff
+  family: Avalon
+  image: https://i.imgur.com/2lBnZH9.jpg
+- name: Isarnia
+  class: Wizard
+  source: Season1
+  speed: Slow
+  power: 755
+  attack: 797
+  defense: 655
+  health: 1200
+  skill: Glacial Shatter
+  effects:
+    - Deals 235% damage to all enemies
+    - All enemies get -44% defense for 6 turns
+  types:
+    - Hit All
+    - Defense Debuff
+  image: https://i.imgur.com/IqOKah3.jpg
+  costume:
+    class: Sorcerer
+    power: 794
+    attack: 869
+    defense: 659
+    health: 1293
+    skill: Glacial Explosion
+    effects:
+      - Deals 255% damage to all enemies
+      - All enemies get -34% defense for 6 turns
+    types:
+      - Hit All
+      - Defense Debuff
+    image: https://i.imgur.com/lgGiAdK.jpg
+- name: Athena
+  class: Ranger
+  source: Hotm
+  speed: Average
+  power: 765
+  attack: 737
+  defense: 692
+  health: 1349
+  skill: Athena's Bow
+  effects:
+    - Deals 305% damage to the target and minor damage to nearby enemies
+    - The target and nearby enemies get -41% defense and a further -4% decrease every time they are hit for 4 turns
+    - Deals extra damage against Fire
+  types:
+    - Hit 3
+    - Defense Debuff
+  family: 2017
+  image: https://i.imgur.com/uPsJEUS.jpg
+  costume:
+    class: Barbarian
+    power: 790
+    attack: 750
+    defense: 718
+    health: 1440
+    skill: Athena's Arrow
+    effects:
+      - Deals 290% damage to a single enemy and minor damage to nearby enemies.
+      - The target and nearby enemies get -41% defense, and a further -4% decrease every time that they are hit for 3 turns.
+      - All Fire enemies get -34% defense against Ice for 3 turns.
+      - Element Link gives all Ice  allies +15% attack and +15% defense for 6 turns. This effect can’t be dispelled.
+    types:
+      - Hit 3
+      - Defense Debbuff
+    image: https://i.imgur.com/MA6JXX4.jpg
+    bonuses: 2
+- name: Alice
+  class: Rogue
+  source: Wonderland
+  speed: Fast
+  power: 769
+  attack: 741
+  defense: 714
+  health: 1326
+  skill: Timeless Timepiece
+  effects:
+    - Deals 430% damage to the target
+    - Target gets -44% attack for 3 turns. The effect duration is reset if the target is healed. This effect cannot be dispelled
+  types:
+    - Hit 1
+    - Attack Debuff
+  family: Wonderland
+  image: https://i.imgur.com/DEMKiBc.jpg
+- name: Alasie
+  class: Ranger
+  source: Hotm
+  speed: Fast
+  power: 768
+  attack: 739
+  defense: 706
+  health: 1336
+  skill: Spirit Arrow
+  effects:
+    - Deals 462% damage to the target
+    - The target and nearby enemies get -24% mana generation for 3 turns. This effect can't be cleansed
+    - Elemental Link gives all Ice allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed
+  types:
+    - Hit 1
+    - Mana Generation Debuff
+  family: 2018
+  image: https://i.imgur.com/xx3qiK5.jpg
+  costume:
+    class: Rogue
+    power: 793
+    attack: 752
+    defense: 733
+    health: 1427
+    skill: Arrow of Nujalik
+    effects:
+      - Deals 412% damage to the target and minor damage to nearby enemies.
+      - Reduces the mana of the target and nearby enemies by 20%.
+      - The target and nearby enemies get -24% mana generation for 3 turns. This effect can’t be dispelled.
+      - Element Link gives all Ice  allies +5% attack and +5% defense for 6 turns. This effect can’t be dispelled.
+    types:
+      - Hit 3
+      - Mana reduction
+    image: https://i.imgur.com/UQE64tc.jpg
+    bonuses: 2
+- name: Aegir
+  class: Paladin
+  source: Hotm
+  speed: Average
+  power: 768
+  attack: 615
+  defense: 805
+  health: 1446
+  skill: Icy Resilience
+  effects:
+    - All allies share received damage with each other for 3 turns
+    - All allies get +30% defense for 3 turns
+    - All allies heal 100% of dealt normal damage for 3 turns
+    - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't be cleansed
+  types:
+    - Healer
+    - Tank
+    - Defense Buff
+    - Ally Damage Share
+  family: 2018
+  image: https://i.imgur.com/BzRTcqJ.jpg
+- name: Miki
+  class: Barbarian
+  source: Hotm
+  speed: Slow
+  power: 770
+  attack: 712
+  defense: 778
+  health: 1275
+  skill: Wrath of Tundra
+  effects:
+    - All allies get +130% normal attack that only applies when the enemy has more HP than the attacker. Stacks with simlar status effects up to a maximum of +170% normal attack. The effect lasts for 5 turns
+    - The target and nearby enemies get silenced for 4 turns
+    - Element Link gives +4% mana regeneration for all Ice allies for 4 turns. This effect can't be despelled
+  types:
+    - Titan Attack Buff
+    - Silencer
+  passives:
+    - The hero has an innate ability to resist status aliments that Block Special Skills
+  image: https://i.imgur.com/FM0GgVz.jpg
+  family: 2019
+- name: Finley
+  class: Ranger
+  source: Pirates
+  speed: Fast
+  power: 781
+  attack: 753
+  defense: 745
+  health: 1314
+  skill: Commodore's Revenge
+  effects:
+    - Deals 385% damage to the target
+    - If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once
+    - All hit targets get -34% defense for 3 turns
+  types:
+    - Hit 1
+    - Chain Hit
+    - Defense Debuff
+  family: Corellia
+  image: https://i.imgur.com/RIPu5ha.jpg
+  costume:
+    class: Fighter
+    power: 822
+    attack: 825
+    defense: 761
+    health: 1400
+    skill: Commodore's Malice
+    effects:
+      - Deals 420% damage to the target.
+      - If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
+      - All hit targets get -34% defense for 3 turns.
+    types:
+      - Hit 1
+      - Bounce
+      - Defense Debuff
+    image: https://i.imgur.com/8HdzNsi.jpg
+    bonuses: 2
+- name: Snow White
+  class: Cleric
+  source: Fables
+  speed: Slow
+  power: 780
+  attack: 756
+  defense: 747
+  health: 1299
+  skill: Enchanted Edge
+  effects:
+    - Cleanses all buffs and status ailments from all allies and enemies.
+    - Deals 180% damage to all enemies, and additional 15% damage per removed status effect, up to 420% damage in total.
+  types:
+    - Dispeller
+    - Cleanser
+    - Hit All
+  family: Grimforest
+  image: https://i.imgur.com/EVw3AO1.jpg
+  costume:
+    class: Ranger
+    bonuses: 1
+    power: 805
+    attack: 803
+    defense: 748
+    health: 1355
+    skill: Slaying Stake
+    effects:
+      - Dispels and cleanses all buffs and status ailments from all allies and enemies.
+      - Deals 140% damage to all enemies.
+      - Deals additional 30% damage per removed status effect, up to 500% damage in total.
+    types:
+      - Dispeller
+      - Hit All
+    image: https://i.imgur.com/ko9NEXz.jpg
+- name: Vela
+  class: Druid
+  source: Hotm
+  speed: Fast
+  power: 771
+  attack: 743
+  defense: 729
+  health: 1303
+  skill: Aquatic Outbreak
+  effects:
+    - Deals 130% damage to all enemies.
+    - All enemies receive 177 Water damage over 3 turns.
+    - All enemies get -24% attack for 4 turns.
+    - Element link gives all Ice allies +10% critical chance for 6 turns. This effect can't be cleansed.
+  types:
+    - Hit All
+    - Dot All
+  passives:
+    - The Hero has an innate ability to resist incoming negative effects and damage from Minions.
+  image: https://i.imgur.com/mUzztO6.jpg
+  family: 2020
+- name: Fenrir
+  class: Fighter
+  source: Season3
+  speed: Fast
+  power: 785
+  attack: 780
+  defense: 737
+  health: 1297
+  skill: Gargantuan Bite
+  effects:
+    - Deals 320% damage to the target.
+    - Deals 640% damage if the target has less than 50% health remaining.
+    - The caster gains a moderate amount of mana for each enemy killed and a small amount of mana for each enemy minion killed.
+  types:
+    - Hit 1
+  family: Niflheim
+  image: https://i.imgur.com/jTbJkeI.jpg
+- name: Raffaele
+  class: Monk
+  source: Hotm
+  speed: Slow
+  power: 773
+  attack: 650
+  defense: 803
+  health: 1402
+  skill: Ice Treatment
+  effects:
+    - Heals all allies who have less than 50% HP left to 50% health.
+    - All allies regenerate 812 HP over 4 turns.
+    - Cleanses status ailments from all allies.
+    - Element Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed.
+  types:
+    - Healer
+    - Cleanser
+    - HOT
+  passives:
+    - This Hero has innate resistance against status ailments that affect Attack.
+  image: https://i.imgur.com/O0p11HF.jpg
+  family: 2020
+- name: Skadi
+  class: Monk
+  source: Season3
+  speed: Average
+  power: 788
+  attack: 696
+  defense: 793
+  health: 1411
+  skill: Iceberg Crush
+  effects:
+    - Deals 220% damage to all enemies.
+    - The damage is increased by 50% per each dead enemy.
+    - "Stack: All enemies receive 30 Frost damage per each killed enemy or enemy minion at the end of each turn. The maximum size of stack is 10."
+    - "Stack: All enemies get -6% mana generation per each killed enemy or enemy minion. The maximum size of stack is 10."
+  types:
+    - Hit All
+    - Stack
+  family: Jotunheim
+  image: https://i.imgur.com/MzjdnYC.jpg
+- name: Cobalt
+  class: Wizard
+  source: Ninja
+  speed: Charge
+  power: 798
+  attack: 801
+  defense: 685
+  health: 1435
+  skill: Katana Rain
+  effects:
+    - 1x Mana Charge
+    - "* Deals 290% damage to the target"
+    - "* The attack has a 60% chance to bypass defensive buffs"
+    - 2x Mana Charge
+    - "* Deals 325% damage to the target and nearby enemies"
+    - "* The attack has a 85% chance to bypass defensive buffs"
+    - 3x Mana Charge
+    - "* Deals 360% damage to all enemies"
+    - "* The attack has a 100% chance to bypass defensive buffs"
+  types:
+    - Charger
+    - Hit All
+    - Bypass
+  family: Ninja
+  image: https://i.imgur.com/rRMs2Ba.jpg
+- name: Glenda
+  class: Wizard
+  source: Hotm
+  speed: Average
+  power: 780
+  attack: 749
+  defense: 723
+  health: 1361
+  skill: Midnight Magic
+  effects:
+    - Deals 270% damage to the target and nearby enemies
+    - The caster and nearby allies' Special Skills deal an additional +40% damage for 4 turns
+    - Cleanses status ailements from all allies
+    - Element Link summons an Ice Minion for all Ice allies with 5% HP and 10% attack inherited from the caster.
+  types:
+    - Hit 3
+    - Cleanser
+  passives:
+    - This Hero has innate resistance against status ailments that give immunity to new buffs.
+  image: https://i.imgur.com/25WLFwN.jpg
+  family: 2020
+- name: Krampus
+  class: Sorcerer
+  source: CHristmas
+  speed: Average
+  power: 802
+  attack: 667
+  defense: 852
+  health: 1468
+  skill: Scourge of Joy
+  effects:
+    - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+    - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns
+    - The caster gets +44% defense, and a further 10% increase every time they are hit during 3 turns.  This effect can't be dispelled.
+    - All allies get +50% attack for 3 turns
+  types:
+    - Summoner
+    - Taunt
+    - Defense Buff
+    - Attack Buff
+  family: Christmas
+  image: https://i.imgur.com/9L71cZ8.jpg
+  costume:
+    class: Rogue
+    power: 819
+    attack: 658
+    defense: 880
+    health: 1558
+    skill: Merriest Misery
+    effects:
+      - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+      - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.
+      - The caster gets +50% defense for 4 turns.
+      - All allies get +45% attack, and a further 20% increase every time they are hit during 4 turns.
+    types:
+      - Summoner
+      - Taunt
+      - Defense Buff
+      - Attack Buff
+    image: https://i.imgur.com/fkiwdOj.jpg
+    bonuses: 2
+- name: Lord Loki
+  class: Wizard
+  source: Season3
+  speed: Average
+  power: 787
+  attack: 774
+  defense: 743
+  health: 1312
+  skill: Trickster's Mischief
+  effects:
+    - Copies target's Special Skill and uses it as if it was the caster's own Special Skill.
+    - If the target does not have a Special Skill or it can't be copied, the following special skill will be cast
+    - "Villain Swing:"
+    - " * Deals 275% damage to the target"
+  types:
+    - Copy Special
+    - Hit 1
+  family: Jotunheim
+  image: https://i.imgur.com/eGy2uqe.jpg
+- name: Crystalis
+  class: Wizard
+  source: Villains
+  speed: Fast
+  power: 801
+  attack: 778
+  defense: 756
+  health: 1374
+  skill: Freezing Crystal
+  effects:
+    - Deals 190% damage to all enemies.
+    - Reduces the duration of all enemies’ active buffs by 1 turn.
+    - All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 70 damage and lowers the target’s attack by -11% each turn.
+  types:
+    - Hit All
+    - Buff Reduction
+    - DoT all
+  family: Villains
+  image: https://i.imgur.com/fA7IHzy.jpg
+- name: Frosth
+  class: Rogue
+  source: Hotm
+  speed: Fast
+  power: 789
+  attack: 776
+  defense: 731
+  health: 1347
+  skill: Cold Command
+  effects:
+    - Summons a Frost Sprite Minion for each ally with 13% HP and 15% attack inherited from the caster.
+    - All allies' Minions get +30% HP and +30% attack
+    - Element Link gives all Ice allies small amounts of mana at the end of the turn for 4 turns. This effect can't be dispelled.
+  types:
+    - Defense Buff
+    - Attack Buff
+    - Summoner
+  passives:
+    - This hero has innate resistance against Burn.
+    - This Hero's status ailments are dispelled when a Minion owned by them is destroyed.
+  image: https://i.imgur.com/ux7vLKs.jpg
+  family: 2021
+- name: Bobo
+  class: Barbarian
+  source: Starfall
+  speed: Slow
+  power: 805
+  attack: 751
+  defense: 801
+  health: 1380
+  skill: Bobo Blitz
+  effects:
+    - Deals 320% damage to all enemies.
+    - "The enemy with the highest base defense gets the following status ailment:"
+    - " * The target gets -60% defense for 4 turns. This effect can't be cleansed."
+    - "The enemy with the highest base attack gets the following status ailment:"
+    - " * The target gets -60% attack for 4 turns. This effect can't be cleanesd."
+  types:
+    - Hit All
+    - Defense Debuff
+    - Attack Debuff
+  family: Starfall
+  image: https://i.imgur.com/9wspOnr.jpg
+- name: Theobald
+  class: Monk
+  source: Starfall
+  speed: Slow
+  power: 803
+  attack: 735
+  defense: 803
+  health: 1404
+  skill: Multi-Throw
+  effects:
+    - Deals 375% damage to the enemy with the higest ramining HP. Deals 230% damage to all other enemies.
+    - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Nature Special Skills for 4 turns.
+    - All allies get +50% attack fo 4 turns.
+  types:
+    - Hit All
+    - Attack Buff
+    - Reflect
+  family: Starfall
+  image: https://i.imgur.com/z0VwSFd.jpg
+- name: Russula
+  class: Rogue
+  source: Season4
+  speed: Very Fast
+  power: 807
+  attack: 793
+  defense: 782
+  health: 1328
+  skill: Vengeful Backstab
+  effects:
+    - Deals 280% damage to the target.
+    - The caster goes into hiding for 2 turns.
+    - While hidden, the caster can't receive new status effects or stacks and all received damage is reduced by -30%.
+    - When the caster comes out of hiding, it deals 277 damage to all enemies that used Special SKills while it was hiding.
+  types:
+    - Hit 1
+    - Hiding
+  passives:
+    - Duration for the first 3 status ailments this hero receives from Special Skills is decreased by 1 turn.
+  family: Underwild
+  image: https://i.imgur.com/MqnrIZ3.jpg
+- name: Morel
+  class: Ranger
+  source: Season4
+  speed: Fast
+  power: 807
+  attack: 772
+  defense: 745
+  health: 1452
+  skill: Deathly Glaive
+  effects:
+    - Deals 180% damage to all enemies
+    - All enemis get -34% defense for 3 turns.
+  types:
+    - Hit All
+    - Defense Debuff
+  passives:
+    - First time this Hero casts Special Skill that does damage, additional 30% is added to its power.
+  family: Underwild
+  image: https://i.imgur.com/BbpdvD9.jpg
+- name: Cathal
+  class: Barbarian
+  source: Slayers
+  speed: Slow
+  power: 811
+  attack: 747
+  defense: 803
+  health: 1427
+  skill: Breaker Blade
+  effects:
+    - Deals 570% damage to the target.
+    - The attack has a 60% chance to bypass defensive buffs. This incldues counterattacks.
+    - "Stack +2 (Max: 10): The caster gets +10% mana generation"
+    - "Stack (Max: 10): The caster recovers 10 HP each turn."
+  types:
+    - Hit 1
+    - Bypass
+    - Stacks
+  passives:
+    - Damage caused by status ailments is reduced by -50%
+  family: Slayer
+  image: https://i.imgur.com/T6kV2Hh.jpg
+- name: Rian
+  class: Cleric
+  source: Slayers
+  speed: Slow
+  power: 808
+  attack: 725
+  defense: 817
+  health: 1439
+  skill: Breaker Blade
+  effects:
+    - Cleanses status ailments from all allies.
+    - Deals 180% damage to all enemies.
+    - Deals additional 20% damage per removed status effect, up to 340% damage in total.
+    - "Stack (Max: 10): The caster gets +5% mana generation"
+    - "Stack +2 (Max: 10): The caster recovers 20 HP each turn."
+  types:
+    - Hit All
+    - Cleanser
+    - Bypass
+    - Stacks
+  passives:
+    - Damage caused by status ailments is reduced by -50%
+  family: Slayer
+  image: https://i.imgur.com/pgR8NJw.jpg
+- name: Alexandrine
+  class: Cleric
+  source: hotm
+  speed: Average
+  power: 794
+  attack: 745
+  defense: 747
+  health: 1423
+  skill: SHimmering Shield
+  effects:
+    - Recovers 18% health for all allies.
+    - Recovers additional 3% health per each Ice shield on the board, up to 42% health in total
+    - Alters the critical chance or accuracy of all Ice shields on the board. When attacking Hero casts the special, the shield becomes enhanced with +54% critical chance. When a defending Hero casts the special, he shields become weakened with -47% accuracy.
+    - Element Link gives +10% increase for any healing received for all Ice allies for 4 turns. This effect can't be dispelled.
+  types:
+    - Heal all
+    - Shield Enhancement
+  passives:
+    - This Hero recovers 10% health when they receive a status ailment.
+    - This Hero has an innate resistance against status ailments that affect Healing.
+  image: https://i.imgur.com/aFNgbfI.jpg
+  family: 2021
+- name: Milena
+  class: Wizard
+  source: Magic
+  speed: Magic
+  power: 813
+  attack: 784
+  defense: 774
+  health: 1409
+  skill: Restoration and Annihilation
+  effects:
+    - "Special Skill has a different effect when charged with 100%/200% mana:"
+    - "1x Mana Charge:"
+    - " * Recovers 20% health for all allies."
+    - " * Cleanses status ailments from all allies."
+    - "2x Mana Charge:"
+    - " * Deals 390% damage to all enemies."
+    - " * Dispels buffs from all enemies."
+  types:
+    - Heal All
+    - Cleanser
+    - Hit All
+    - Dispeller
+    - Charge
+  passives:
+    - On a fully charged Special Skill this Hero has a 50% chance to deal 100% damage to all enemies that are not of Ice element.
+  family: Magic
+  image: https://i.imgur.com/30AXxJs.jpg
+- name: Esme
+  class: Sorcerer
+  source: Knights
+  speed: Average
+  power: 816
+  attack: 762
+  defense: 780
+  health: 1477
+  skill: Fiendslayer
+  effects:
+    - Destroys all Fiends from all allies.
+    - Recovers 40% health for all allies.
+    - If an ally had fiends they will be immune to new Fiends for 4 turns.
+  types:
+    - Heal
+    - Fiend Destroyer
+  family: Wolf
+  image: https://i.imgur.com/nObQye7.jpg
+- name: Zircon
+  class: Fighter
+  source: Ninja
+  speed: Charge
+  power: 818
+  attack: 735
+  defense: 840
+  health: 1435
+  skill: Wall of Ki
+  effects:
+    - "Special Skill has a different effect when charged with 100%/200%/300% mana:"
+    - "1x Mana Charge:"
+    - " - All allies' health is boosted by 144 HP over 2 turns."
+    - " - All allies get +24% defense, and a further 5% increase every time they are hit during 2 turns."
+    - " - All allies are immune to buff dispels for 2 turns."
+    - "2x Mana Charge:"
+    - " - All allies' health is boosted by 504 HP over 3 turns."
+    - " - All allies get +34% defense, and a further 5% increase every time they are hit during 3 turns."
+    - " - All allies are immune to buff dispels for 3 turns."
+    - "3x Mana Charge:"
+    - " - All allies' health is boosted by 980 HP over 4 turns."
+    - " - All allies get +54% defense, and a further 5% increase every time they are hit during 4 turns."
+    - " - All allies are immune to buff dispels for 4 turns."
+  types:
+    - Charge
+    - Health boost
+    - Defense Buff
+    - Dispell Immunity
+  family: Ninja
+  image: https://i.imgur.com/3XPQv8U.jpg
+- name: Gaillard
+  class: Sorcerer
+  source: Blackfriday
+  family: Gargoyle
+  speed: Fast
+  power: 820
+  attack: 836
+  defense: 718
+  health: 1444
+  skill: Educated Exorcism
+  effects:
+    - Deals 490% damage to the target.
+    - All allies are immune to incoming negative effects and damage from Fiends for 4 turns.
+    - All allies are immune to new Fiends for 4 turns.
+  types:
+    - Hit 1
+    - Fiend Immunity
+  passives:
+    - Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The next damage they receive is dropped to 1. This effect can't be dispelled.
+  image: https://i.imgur.com/ts2Grgv.jpg
+- name: Mr Pengi
+  class: Druid
+  source: Christmas
+  speed: Fast
+  power: 821
+  attack: 803
+  defense: 780
+  health: 1404
+  skill: Herring Blaster
+  effects:
+    - Deals 450% damage to the target.
+    - Deals an additional 130% damage to as many random enemies as there are Minions owned by allies. The damage is reduced on each consecutive hit.
+    - All hit targets receive 132 Frost damage.
+    - Summons an Elf Minion for the caster and nearby allies with 10% HP and 10% attack inheried from the caster.
+  types:
+    - Hit 1
+    - Hit All
+    - Summoner
+  family: Winter
+  image: https://i.imgur.com/BbxUIy4.jpg
+- name: Passepartout
+  class: Fighter
+  source: Season4
+  speed: Average
+  power: 811
+  attack: 756
+  defense: 803
+  health: 1411
+  skill: Helping Hands
+  effects:
+    - Recovers 25% health for all allies.
+    - All allies regenerate 400 HP over 4 turns, and a further increase of 100 HP per each Nature shield on the board, up to 1200 HP total.
+    - All allies get +20% defense, and a further 7% increase for each Nature shield on the board for 4 turns, up to 76% defense.
+  types:
+    - Healer
+    - HoT all
+    - Defense buff
+  passives:
+    - Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.
+  family: Underwild
+  image: https://i.imgur.com/6D1hJ1P.jpg
+- name: Exeera
+  class: Barbarian
+  source: Season4
+  speed: Average
+  power: 813
+  attack: 791
+  defense: 776
+  health: 1390
+  skill: Saturated Suffering
+  effects:
+    - All enemies receive 237 Water damage, and an increase of 33 damage per each Ice shield on the board over 3 turns, up to 633 damage. This effect is uncleansable for all Fire enemies.
+    - All Ice enemies are immune to this attack
+  types:
+    - Dot All
+  family: Underwild
+  passives:
+    - This Hero receives 20% mana at the start of the battle.
+  image: https://i.imgur.com/UnO1gz8.jpg
+- name: Quintin
+  class: Rogue
+  source: Knights
+  speed: Fast
+  power: 822
+  attack: 821
+  defense: 766
+  health: 1396
+  skill: Echoes of Pain
+  effects:
+    - Deals 420% damage to the target.
+    - The target receives 100% damage for all the damage their allies receive for 4 turns.
+  types:
+    - Hit 1
+    - Damage Share
+  family: Raven
+  image: https://i.imgur.com/8ISALDU.jpg
+- name: Iris
+  class: Wizard
+  speed: Fast
+  source: hotm
+  family: 2022
+  power: 799
+  attack: 784
+  defense: 747
+  health: 1365
+  skill: Erase Strength
+  effects:
+    - Deals 325% damage to the target and minor damage to the nearby enemies.
+    - Dispells buffs from the target at the end of each turn for 3 turns.
+    - Deals extra damage against Fire.
+    - Element Link gives all Ice allies +10% attack for 4 turns. This effect can’t be dispelled.
+  types:
+    - Hit 3
+    - Dispeller
+  passives:
+    - This Hero receives 10% mana each time a buff is dispelled from this Hero.
+    - This hero has innate resistance against Burn
+  image: https://i.imgur.com/2NdyTvR.jpg
+- name: Sobek
+  source: Season5
+  class: Wizard
+  family: Sun
+  speed: Average
+  power: 826
+  attack: 826
+  defense: 716
+  health: 1516
+  skill: Jaws of the River
+  effects:
+    - Deals 290% damage to all enemies.
+    - The attack bypasses defensive buffs. This includes counterattacks.
+  types:
+    - Hit All
+    - Bypass
+  passives:
+    - Effects on Special Skill - 60% chance to perform the following actions when this character casts their Special Skill
+    - "* Deals 70% damage to all enemies."
+    - "* All enemies receive 246 Sand damage over 3 turns."
+  image: https://i.imgur.com/3Y3v4bs.jpg
+- name: Tethys
+  source: Season2
+  class: Ranger
+  family: Atlantis
+  speed: Fast
+  power: 825
+  attack: 817
+  defense: 760
+  health: 1442
+  skill: Amphibious Assault
+  effects:
+    - Deals 300% damage to target and nearby enemies.
+    - The target and nearby enemies receive 390 Water damage over 3 turns.
+    - All allies that are not of Ice element get +30% attack of 3 turns.
+    - All Ice allies get +60% attack for 3 turns.
+  types:
+    - Hit 3
+    - Dot 3
+  image: https://i.imgur.com/LPmQIgT.jpg
+- name: Aino
+  class: Cleric
+  speed: Average
+  family: Kalevala
+  source: Kalevala
+  power: 825
+  attack: 778
+  defense: 801
+  health: 1456
+  skill: Summer Carol
+  effects:
+    - Cleanses status ailments from all allies.
+    - Recovers 40% health for all allies.
+    - All enemies get -24% mana generation for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  types:
+    - Cleanser
+    - Heal all
+  passives:
+    - When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+  image: https://i.imgur.com/VkKPr4n.jpg

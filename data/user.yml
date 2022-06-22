@@ -1,0 +1,13 @@
+sharing_modes:
+  alliance:
+    id: 0
+    description: Alliance Only
+  link:
+    id: 1
+    description: Link Only
+  name:
+    id: 2
+    description: Profile Name
+  searchable:
+    id: 3
+    description: Searchable

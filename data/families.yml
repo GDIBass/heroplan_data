@@ -1,0 +1,165 @@
+families:
+  avalon:
+    code: 1
+    description: Avalon
+    image: https://i.imgur.com/3w1wXtX.png
+  corellia:
+    code: 2
+    description: Corellia
+    image: https://i.imgur.com/G2RecHB.png
+  grimforest:
+    code: 3
+    description: Grimforest
+    image: https://i.imgur.com/GVVODC4.png
+  teltoc:
+    code: 4
+    description: Teltoc
+    image: https://i.imgur.com/6rPXlkh.png
+  wonderland:
+    code: 5
+    description: Wonderland
+    image: https://i.imgur.com/DJoFMFs.png
+  villains:
+    code: 6
+    description: Villains
+    image: https://i.imgur.com/HkuRc7f.png
+  starfall:
+    code: 7
+    description: Starfall
+    image: https://i.imgur.com/EWmrEVJ.png
+  slayer:
+    code: 8
+    description: Slayer
+    image: https://i.imgur.com/aswQGWQ.png
+  wolf:
+    code: 9
+    description: Wolf
+    image: https://i.imgur.com/X6O3SJI.png
+  raven:
+    code: 10
+    description: Raven
+    image: https://i.imgur.com/sUg7Gui.png
+  springvale:
+    code: 11
+    description: Springvale
+    image: https://i.imgur.com/yv2c0VP.png
+  sand:
+    code: 12
+    description: Sand
+    image: https://i.imgur.com/BPk0qGL.png
+  morlovia:
+    code: 13
+    description: Morlovia
+    image: https://i.imgur.com/OLdVZhz.png
+  christmas:
+    code: 14
+    description: Christmas
+    image: https://i.imgur.com/icjpHCr.png
+  ninja:
+    code: 15
+    description: Ninja
+    image: https://i.imgur.com/qT7O029.png
+  magic:
+    code: 16
+    description: Magic
+    image: https://i.imgur.com/iEc5AVT.png
+  lagoon:
+    code: 20
+    description: Lagoon
+    image: https://i.imgur.com/Uyr4xyW.png
+  sakura:
+    code: 21
+    description: Sakura
+    image: https://i.imgur.com/Zhij1jV.png
+  atlantis:
+    code: 22
+    description: Atlantis
+    image: https://i.imgur.com/NnEpJz6.png
+  alfheim:
+    code: 31
+    description: Alfheim
+    image: https://i.imgur.com/Lyd0crW.png
+  asgard:
+    code: 32
+    description: Asgard
+    image: https://i.imgur.com/WH4jFxU.png
+  helheim:
+    code: 33
+    description: Helheim
+    image: https://i.imgur.com/06GGSHD.png
+  jotunheim:
+    code: 34
+    description: Jotunheim
+    image: https://i.imgur.com/9l70B0q.png
+  midgard:
+    code: 35
+    description: Midgard
+    image: https://i.imgur.com/iwz5zfk.png
+  muspelheim:
+    code: 36
+    description: Muspelheim
+    image: https://i.imgur.com/yfntUFd.png
+  niflheim:
+    code: 37
+    description: Niflheim
+    image: https://i.imgur.com/9IKlBPF.png
+  svartalfheim:
+    code: 38
+    description: Svartalfheim
+    image: https://i.imgur.com/db0FRjF.png
+  vanaheim:
+    code: 39
+    description: Vanaheim
+    image: https://i.imgur.com/cxNRl8V.png
+  underwild:
+    code: 41
+    description: Underwild
+    image: https://i.imgur.com/XH6RVMi.png
+  kingdom:
+    code: 42
+    description: Kingdom
+    image: https://i.imgur.com/Yt0YsgL.png
+  sun:
+    code: 51
+    description: Sun
+    image: https://i.imgur.com/lOOvOGn.png
+  moon:
+    code: 52
+    description: Moon
+    image: https://i.imgur.com/UTdgxg0.png
+  gargoyle:
+    code: 61
+    description: Gargoyle
+    image: https://i.imgur.com/ufI7ypu.png
+  styx:
+    code: 62
+    description: Styx
+    image: https://i.imgur.com/yRp9vf6.png
+  kalevala:
+    code: 63
+    description: Kalevala
+    image: https://i.imgur.com/dNC6vDL.png
+  2017:
+    code: 2017
+    description: 2017
+    image: https://i.imgur.com/Ukh12sD.png
+  2018:
+    code: 2018
+    description: 2018
+    image: https://i.imgur.com/0NLCsjr.png
+  2019:
+    code: 2019
+    description: 2019
+    image: https://i.imgur.com/typJ7Ps.png
+  2020:
+    code: 2020
+    description: 2020
+    image: https://i.imgur.com/n2Qg9sY.png
+  2021:
+    code: 2021
+    description: 2021
+    image: https://i.imgur.com/cE1r5Rx.png
+  2022:
+    code: 2022
+    description: 2022
+    image: https://i.imgur.com/IoPEewI.png

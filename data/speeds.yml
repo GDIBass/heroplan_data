@@ -1,0 +1,29 @@
+speeds:
+  very_fast:
+    code: 1
+    name: VF
+    description: Very Fast
+  fast:
+    code: 2
+    name: F
+    description: Fast
+  average:
+    code: 3
+    name: A
+    description: Average
+  slow:
+    code: 4
+    name: S
+    description: Slow
+  very_slow:
+    code: 5
+    name: VS
+    description: Very Slow
+  charge:
+    code: 6
+    name: C
+    description: Charge
+  magic:
+    code: 7
+    name: M
+    description: Magic

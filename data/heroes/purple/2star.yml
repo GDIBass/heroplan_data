@@ -1,0 +1,42 @@
+- name: Silthus
+  class: Barbarian
+  source: Season1
+  speed: Average
+  power: 333
+  attack: 293
+  defense: 290
+  health: 749
+  skill: Attack Rally
+  effects:
+    - All allies get +48% attack for 4 turns
+  types:
+    - Attack Buff
+  image: https://i.imgur.com/toVI2j1.jpg
+- name: Layla
+  class: Rogue
+  source: Season1
+  speed: Fast
+  power: 338
+  attack: 336
+  defense: 340
+  health: 574
+  skill: Poisoned Blade
+  effects:
+    - The target receives 78 damage over 6 turns
+  types:
+    - DOT 1
+  image: https://i.imgur.com/bWdwLhP.jpg
+- name: Julius
+  class: Fighter
+  source: Season1
+  speed: Fast
+  power: 335
+  attack: 363
+  defense: 310
+  health: 548
+  skill: Focused Shot
+  effects:
+    - Deals 250% damage to the target
+  types:
+    - Hit 1
+  image: https://i.imgur.com/J6kO15m.jpg

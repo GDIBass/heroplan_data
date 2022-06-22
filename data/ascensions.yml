@@ -1,0 +1,47 @@
+max_ascension:
+  1: 2
+  2: 4
+  3: 4
+  4: 5
+  5: 5
+
+ascensions:
+  1:
+    description: Tier 1
+    star_max:
+      1: 10
+      2: 20
+      3: 30
+      4: 40
+      5: 50
+  2:
+    description: Tier 2
+    star_max:
+      1: 20
+      2: 30
+      3: 40
+      4: 50
+      5: 60
+  3:
+    description: Tier 3
+    star_max:
+      2: 40
+      3: 50
+      4: 60
+      5: 70
+  4:
+    description: Tier 4
+    star_max:
+      3: 55
+      4: 70
+      5: 80
+    limit_break:
+      - 3
+  5:
+    description: Tier 5
+    star_max:
+      4: 75
+      5: 85
+    limit_break:
+      - 4
+      - 5

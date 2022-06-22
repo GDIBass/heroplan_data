@@ -1,0 +1,42 @@
+- name: Toril
+  class: Barbarian
+  source: Season1
+  speed: Average
+  power: 333
+  attack: 310
+  defense: 292
+  health: 703
+  skill: Attack Rally
+  effects:
+    - All allies get +48% attack for 4 turns
+  types:
+    - Attack Buff
+  image: https://i.imgur.com/IzIi9fO.jpg
+- name: Ragnhild
+  class: Fighter
+  source: Season1
+  speed: Average
+  power: 334
+  attack: 369
+  defense: 305
+  health: 538
+  skill: Fierce Slash
+  effects:
+    - Deals 115% damage to all enemies
+  types:
+    - Hit All
+  image: https://i.imgur.com/safl82B.jpg
+- name: Olaf
+  class: Paladin
+  source: Season1
+  speed: Average
+  power: 332
+  attack: 283
+  defense: 307
+  health: 733
+  skill: Defensive Tactics
+  effects:
+    - All allies get +63% defense for 4 turns
+  types:
+    - Defense Buff
+  image: https://i.imgur.com/PR4Dyht.jpg

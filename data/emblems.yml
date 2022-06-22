@@ -1,0 +1,720 @@
+totals:
+  1:
+    1: 1
+    2: 2
+    3: 3
+    4: 4
+    5: 5
+    6: 6
+    7: 7
+    8: 8
+    9: 9
+    10: 10
+    11: 11
+    12: 12
+    13: 13
+    14: 14
+    15: 15
+    16: 16
+    17: 17
+    18: 18
+    19: 19
+    20: 20
+  2:
+   1: 3
+   2: 5
+   3: 7
+   4: 10
+   5: 12
+   6: 14
+   7: 17
+   8: 22
+   9: 24
+   10: 29
+   11: 31
+   12: 34
+   13: 36
+   14: 38
+   15: 41
+   16: 43
+   17: 45
+   18: 47
+   19: 52
+   20: 62
+  3:
+   1: 14
+   2: 21
+   3: 28
+   4: 42
+   5: 49
+   6: 56
+   7: 70
+   8: 87
+   9: 94
+   10: 111
+   11: 118
+   12: 132
+   13: 139
+   14: 146
+   15: 160
+   16: 167
+   17: 174
+   18: 181
+   19: 198
+   20: 233
+  4:
+   1: 30
+   2: 45
+   3: 60
+   4: 90
+   5: 105
+   6: 120
+   7: 150
+   8: 190
+   9: 205
+   10: 245
+   11: 260
+   12: 290
+   13: 305
+   14: 320
+   15: 350
+   16: 365
+   17: 380
+   18: 395
+   19: 435
+   20: 505
+  5:
+   1: 65
+   2: 115
+   3: 165
+   4: 230
+   5: 280
+   6: 330
+   7: 395
+   8: 520
+   9: 570
+   10: 695
+   11: 745
+   12: 810
+   13: 860
+   14: 910
+   15: 975
+   16: 1025
+   17: 1075
+   18: 1125
+   19: 1250
+   20: 1500
+
+modes:
+  percentage:
+    display: %
+  add:
+    display: +
+
+effects:
+  wound:
+    name: Wound
+    effect: chance to apply bleeding from any normal attack. This effect deals 60% of the damage done by the normal attack over 5 turns. This effect stacks with similar effects
+    mode: percentage
+  mana_shield:
+    name: Mana Shield
+    effect: chance to resist any negative mana status effects or effects that prevent use of Special Skills.
+    mode: percentage
+  companion:
+    name: Companion
+    effect: chance to summon a Thorn Minion after receiving any damage. This effect is applied at the end of the turn.
+    mode: percentage
+  revive:
+    name: Revive
+    effect: chance to revive with 1 HP after a fatal attack. The revive is applied at the end of the turn.
+    mode: percentage
+  withstand:
+    name: Withstand
+    effect: chance to resist negative status effects.
+    mode: percentage
+  protect:
+    name: Protect
+    effect: chance to get +25% defense for 2 turns after receiving any damage. The effect is applied at the end of the turn.
+    mode: percentage
+  pierce:
+    name: Pierce
+    effect: chance to bypass defense buffs when attacking. This includes counterattacks.
+    mode: percentage
+  evade:
+    name: Evade
+    effect: chance to dodge direct damage from offensive Special Skills.
+    mode: percentage
+  delay:
+    name: Delay
+    effect: chance to drop the mana generation of the enemy by -50% for 2 turns after dealing damage. The effect is applied at the end of the turn.
+    mode: percentage
+  jinx:
+    name: Jinx
+    effect: chance to deal +15% extra damage per each active buff the enemies have. The extra damage applies to both normal attacks and Special Skills.
+    mode: percentage
+  critical_bonus:
+    name: Critical Bonus
+    effect: chance for critical strikes that do double damage.
+    mode: percentage
+  healing_bonus:
+    name: Healing Bonus
+    effect: healing from healing items and special skills
+    mode: percentage
+  mana_bonus:
+    name: Mana Bonus
+    effect: mana recovery speed
+    mode: percentage
+  attack_bonus:
+    name: Attack Bonus
+    effect: attack
+    mode: add
+    stat: attack
+  defense_bonus:
+    name: Defense Bonus
+    effect: defense
+    mode: add
+    stat: defense
+  health_bonus:
+    name: Health Bonus
+    effect: health
+    mode: add
+    stat: health
+  attack_percent:
+    name: Attack Percent
+    effect: attack
+    mode: percentage
+    stat: attack
+  defense_percent:
+    name: Defense Percent
+    effect: defense
+    mode: percentage
+    stat: defense
+  health_percent:
+    name: Health Percent
+    effect: health
+    mode: percentage
+    stat: health
+
+nodes:
+  barbarian:
+    type: wound
+    amount: 6
+  cleric:
+    type: mana_shield
+    amount: 7
+  druid:
+    type: companion
+    amount: 3
+  fighter:
+    type: revive
+    amount: 6
+  monk:
+    type: withstand
+    amount: 6
+  paladin:
+    type: protect
+    amount: 5
+  ranger:
+    type: pierce
+    amount: 5
+  rogue:
+    type: evade
+    amount: 4
+  sorcerer:
+    type: delay
+    amount: 3
+  wizard:
+    type: jinx
+    amount: 5
+  attack_stat:
+    type: attack_bonus
+    amount: 15
+  defense_stat:
+    type: defense_bonus
+    amount: 15
+  health_stat:
+    type: health_bonus
+    amount: 36
+  two_percent_critical:
+    type: critical_bonus
+    amount: 2
+  two_percent_healing:
+    type: healing_bonus
+    amount: 2
+  two_percent_mana:
+    type: mana_bonus
+    amount: 2
+  three_percent_attack:
+    type: attack_percent
+    amount: 3
+  three_percent_defense:
+    type: defense_percent
+    amount: 3
+  three_percent_health:
+    type: health_percent
+    amount: 3
+  four_percent_attack:
+    type: attack_percent
+    amount: 4
+  four_percent_defense:
+    type: defense_percent
+    amount: 4
+  four_percent_health:
+    type: health_percent
+    amount: 4
+
+trees:
+  barbarian:
+    1: barbarian
+    2:
+      l: attack_stat
+      r: health_stat
+    3:
+      l: health_stat
+      r: defense_stat
+    4: barbarian
+    5:
+      l: defense_stat
+      r: attack_stat
+    6:
+      l: health_stat
+      r: defense_stat
+    7: barbarian
+    8:
+      l: two_percent_healing
+      r: three_percent_attack
+    9:
+      l: attack_stat
+      r: defense_stat
+    10: two_percent_critical
+    11:
+      l: health_stat
+      r: attack_stat
+    12: barbarian
+    13:
+      l: attack_stat
+      r: defense_stat
+    14:
+      l: defense_stat
+      r: health_stat
+    15: barbarian
+    16:
+      l: health_stat
+      r: defense_stat
+    17:
+      l: attack_stat
+      r: health_stat
+    18: attack_stat
+    19:
+      l: two_percent_mana
+      r: three_percent_defense
+    20: four_percent_health
+  cleric:
+    1: cleric
+    2:
+      l: health_stat
+      r: defense_stat
+    3:
+      l: defense_stat
+      r: attack_stat
+    4: cleric
+    5:
+      l: attack_stat
+      r: health_stat
+    6:
+      l: defense_stat
+      r: attack_stat
+    7: cleric
+    8:
+      l: three_percent_attack
+      r: three_percent_defense
+    9:
+      l: health_stat
+      r: attack_stat
+    10: three_percent_health
+    11:
+      l: defense_stat
+      r: health_stat
+    12: cleric
+    13:
+      l: health_stat
+      r: attack_stat
+    14:
+      l: attack_stat
+      r: defense_stat
+    15: cleric
+    16:
+      l: defense_stat
+      r: attack_stat
+    17:
+      l: health_stat
+      r: defense_stat
+    18: health_stat
+    19:
+      l: two_percent_critical
+      r: two_percent_mana
+    20: fourPercentHealing
+  druid:
+    1: druid
+    2:
+      l: health_stat
+      r: attack_stat
+    3:
+      l: attack_stat
+      r: defense_stat
+    4: druid
+    5:
+      l: defense_stat
+      r: health_stat
+    6:
+      l: attack_stat
+      r: defense_stat
+    7: druid
+    8:
+      l: two_percent_healing
+      r: three_percent_attack
+    9:
+      l: health_stat
+      r: defense_stat
+    10: three_percent_health
+    11:
+      l: attack_stat
+      r: health_stat
+    12: druid
+    13:
+      l: health_stat
+      r: defense_stat
+    14:
+      l: defense_stat
+      r: attack_stat
+    15: druid
+    16:
+      l: attack_stat
+      r: defense_stat
+    17:
+      l: health_stat
+      r: attack_stat
+    18: health_stat
+    19:
+      l: two_percent_critical
+      r: three_percent_defense
+    20: four_percent_mana
+  fighter:
+    1: fighter
+    2:
+      l: defense_stat
+      r: attack_stat
+    3:
+      l: attack_stat
+      r: health_stat
+    4: fighter
+    5:
+      l: health_stat
+      r: defense_stat
+    6:
+      l: attack_stat
+      r: health_stat
+    7: fighter
+    8:
+      l: three_percent_health
+      r: two_percent_healing
+    9:
+      l: defense_stat
+      r: health_stat
+    10: three_percent_defense
+    11:
+      l: attack_stat
+      r: defense_stat
+    12: fighter
+    13:
+      l: defense_stat
+      r: health_stat
+    14:
+      l: health_stat
+      r: attack_stat
+    15: fighter
+    16:
+      l: attack_stat
+      r: health_stat
+    17:
+      l: defense_stat
+      r: attack_stat
+    18: defense_stat
+    19:
+      l: two_percent_mana
+      r: two_percent_critical
+    20: four_percent_attack
+  monk:
+    1: monk
+    2:
+      l: health_stat
+      r: defense_stat
+    3:
+      l: defense_stat
+      r: attack_stat
+    4: monk
+    5:
+      l: attack_stat
+      r: health_stat
+    6:
+      l: defense_stat
+      r: attack_stat
+    7: monk
+    8:
+      l: three_percent_defense
+      r: three_percent_health
+    9:
+      l: health_stat
+      r: attack_stat
+    10: two_percent_critical
+    11:
+      l: defense_stat
+      r: health_stat
+    12: monk
+    13:
+      l: health_stat
+      r: attack_stat
+    14:
+      l: attack_stat
+      r: defense_stat
+    15: monk
+    16:
+      l: defense_stat
+      r: attack_stat
+    17:
+      l: health_stat
+      r: defense_stat
+    18: health_stat
+    19:
+      l: two_percent_healing
+      r: three_percent_attack
+    20: four_percent_mana
+  paladin:
+    1: paladin
+    2:
+      l: defense_stat
+      r: attack_stat
+    3:
+      l: attack_stat
+      r: health_stat
+    4: paladin
+    5:
+      l: health_stat
+      r: defense_stat
+    6:
+      l: attack_stat
+      r: health_stat
+    7: paladin
+    8:
+      l: three_percent_health
+      r: two_percent_healing
+    9:
+      l: defense_stat
+      r: health_stat
+    10: three_percent_attack
+    11:
+      l: attack_stat
+      r: defense_stat
+    12: paladin
+    13:
+      l: defense_stat
+      r: health_stat
+    14:
+      l: health_stat
+      r: attack_stat
+    15: paladin
+    16:
+      l: attack_stat
+      r: health_stat
+    17:
+      l: defense_stat
+      r: attack_stat
+    18: defense_stat
+    19:
+      l: two_percent_mana
+      r: two_percent_critical
+    20: four_percent_defense
+  ranger:
+    1: ranger
+    2:
+      l: attack_stat
+      r: defense_stat
+    3:
+      l: defense_stat
+      r: health_stat
+    4: ranger
+    5:
+      l: health_stat
+      r: attack_stat
+    6:
+      l: defense_stat
+      r: health_stat
+    7: ranger
+    8:
+      l: three_percent_defense
+      r: two_percent_mana
+    9:
+      l: attack_stat
+      r: health_stat
+    10: three_percent_attack
+    11:
+      l: defense_stat
+      r: attack_stat
+    12: ranger
+    13:
+      l: attack_stat
+      r: health_stat
+    14:
+      l: health_stat
+      r: defense_stat
+    15: ranger
+    16:
+      l: defense_stat
+      r: health_stat
+    17:
+      l: attack_stat
+      r: defense_stat
+    18: attack_stat
+    19:
+      l: three_percent_health
+      r: two_percent_healing
+    20: four_percent_critical
+  rogue:
+    1: rogue
+    2:
+      l: attack_stat
+      r: health_stat
+    3:
+      l: health_stat
+      r: defense_stat
+    4: rogue
+    5:
+      l: defense_stat
+      r: attack_stat
+    6:
+      l: health_stat
+      r: defense_stat
+    7: rogue
+    8:
+      l: three_percent_health
+      r: two_percent_mana
+    9:
+      l: attack_stat
+      r: defense_stat
+    10: three_percent_attack
+    11:
+      l: health_stat
+      r: attack_stat
+    12: rogue
+    13:
+      l: attack_stat
+      r: defense_stat
+    14:
+      l: defense_stat
+      r: health_stat
+    15: rogue
+    16:
+      l: health_stat
+      r: defense_stat
+    17:
+      l: attack_stat
+      r: health_stat
+    18: attack_stat
+    19:
+      l: three_percent_defense
+      r: two_percent_healing
+    20: four_percent_critical
+  sorcerer:
+    1: sorcerer
+    2:
+      l: defense_stat
+      r: health_stat
+    3:
+      l: health_stat
+      r: attack_stat
+    4: sorcerer
+    5:
+      l: attack_stat
+      r: defense_stat
+    6:
+      l: health_stat
+      r: attack_stat
+    7: sorcerer
+    8:
+      l: two_percent_healing
+      r: two_percent_critical
+    9:
+      l: defense_stat
+      r: attack_stat
+    10: three_percent_health
+    11:
+      l: health_stat
+      r: defense_stat
+    12: sorcerer
+    13:
+      l: defense_stat
+      r: attack_stat
+    14:
+      l: attack_stat
+      r: health_stat
+    15: sorcerer
+    16:
+      l: health_stat
+      r: attack_stat
+    17:
+      l: defense_stat
+      r: health_stat
+    18: defense_stat
+    19:
+      l: three_percent_attack
+      r: three_percent_defense
+    20: four_percent_mana
+  wizard:
+    1: wizard
+    2:
+      l: attack_stat
+      r: defense_stat
+    3:
+      l: defense_stat
+      r: health_stat
+    4: wizard
+    5:
+      l: health_stat
+      r: attack_stat
+    6:
+      l: defense_stat
+      r: health_stat
+    7: wizard
+    8:
+      l: three_percent_health
+      r: three_percent_defense
+    9:
+      l: attack_stat
+      r: health_stat
+    10: two_percent_critical
+    11:
+      l: defense_stat
+      r: attack_stat
+    12: wizard
+    13:
+      l: attack_stat
+      r: health_stat
+    14:
+      l: health_stat
+      r: defense_stat
+    15: wizard
+    16:
+      l: defense_stat
+      r: health_stat
+    17:
+      l: attack_stat
+      r: defense_stat
+    18: attack_stat
+    19:
+      l: two_percent_healing
+      r: two_percent_mana
+    20: four_percent_attack
+
+emblem:
+  reset:
+    image: https://i.imgur.com/aPVnS5S.png

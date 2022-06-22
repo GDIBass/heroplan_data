@@ -1,0 +1,335 @@
+- name: Squire Wabbit
+  class: Ranger
+  source: Springvale
+  speed: Fast
+  power: 445
+  attack: 538
+  defense: 382
+  health: 608
+  skill: Reckless Stab
+  effects:
+    - Deals 355% damage to the target
+    - The caster gets -20% defense for 3 turns. This effect can't be cleansed
+  types:
+    - Hit 1
+  family: Springvale
+  image: https://i.imgur.com/545SVXP.jpg
+- name: Rudolph
+  class: Fighter
+  source: Christmas
+  speed: Fast
+  power: 448
+  attack: 540
+  defense: 391
+  health: 608
+  skill: Antler Attack
+  effects:
+    - Deals 285% damage to the target
+    - Reduces the mana of the target by 20%
+    - Summons an Elf Minion with 10% HP and 10% attack inherited from the caster
+  types:
+    - Hit 1
+    - Mana Reduction
+    - Summoner
+  family: Christmas
+  image: https://i.imgur.com/mEYb8Ac.jpg
+- name: Nashgar
+  class: Barbarian
+  source: Season1
+  speed: Fast
+  power: 443
+  attack: 514
+  defense: 368
+  health: 684
+  skill: Burning Strike
+  effects:
+    - Deals 290% damage to the target
+    - The target receives 120 damage over 6 turns
+  types:
+    - Hit 1
+    - Dot 1
+  image: https://i.imgur.com/DrsAnEe.jpg
+  costume:
+    class: Rogue
+    power: 466
+    attack: 567
+    defense: 369
+    health: 715
+    skill: Searing Strike
+    effects:
+      - Deals 260% damage to the target.
+      - The target receives 129 Burn damage over 3 turns
+    types:
+      - Hit 1
+    image: https://i.imgur.com/DZd6oKm.jpg
+- name: Namahage
+  class: Barbarian
+  source: Season2
+  speed: Fast
+  power: 449
+  attack: 526
+  defense: 418
+  health: 597
+  skill: Bloodthirst
+  effects:
+    - Deals 290% damage to the target.
+    - The caster gets +45% attack, and a further 20% increase every time they are hit during 5 turns.
+  types:
+    - Hit 1
+    - Attack Buff
+  family: Sakura
+  image: https://i.imgur.com/7ovDLzi.jpg
+- name: Jahangir
+  class: Sorcerer
+  source: Season1
+  speed: Slow
+  power: 445
+  attack: 498
+  defense: 436
+  health: 599
+  skill: Fireball
+  effects:
+    - Deals 145% damage to all enemies
+    - All enemies receive 114 damage over 6 turns
+  types:
+    - Hit All
+    - Dot All
+  image: https://i.imgur.com/7oZTOqz.jpg
+  costume:
+    class: Wizard
+    power: 467
+    attack: 514
+    defense: 443
+    health: 705
+    skill: Scorching Ray
+    effects:
+      - Deals 115% damage to all enemies
+      - All enemies receive 156 Burn damage over 4 turns
+    types:
+      - Hit all
+    image: https://i.imgur.com/IPO19rX.jpg
+- name: Hawkmoon
+  class: Cleric
+  source: Season1
+  speed: Average
+  power: 444
+  attack: 474
+  defense: 446
+  health: 637
+  skill: Wind Prayer
+  effects:
+    - Recover 32% health for all allies
+  types:
+    - Healer
+  image: https://i.imgur.com/6ZyfSsX.jpg
+  costume:
+    class: Sorcerer
+    power: 468
+    attack: 492
+    defense: 472
+    health: 707
+    skill: Wind Gospel
+    effects:
+      - All allies regenerate 459 HP over 3 turns
+      - All allies get +30% attack for 3 turns
+    types:
+      - HOT
+      - Attack Buff
+    image: https://i.imgur.com/KgnrxgB.jpg
+- name: Azar
+  class: Barbarian
+  source: Season1
+  speed: Fast
+  power: 444
+  attack: 493
+  defense: 413
+  health: 651
+  skill: Sharp Cut
+  effects:
+    - Deals 280% damage to the target
+    - Reduces the mana of the target by 25%
+  types:
+    - Hit 1
+    - Mana Reduction
+  image: https://i.imgur.com/sizxBDX.jpg
+  costume:
+    class: Ranger
+    power: 467
+    attack: 495
+    defense: 453
+    health: 729
+    skill: Acute Cut
+    effects:
+      - Deals 170% damage to the target and nearby enemies
+      - Reduces the mana of the target and nearby enemies by 15%
+    types:
+      - Hit 3
+      - Mana Reduction
+    image: https://i.imgur.com/tInZp5F.jpg
+- name: Bauchan
+  class: Monk
+  source: Avalon
+  speed: Average
+  power: 455
+  attack: 420
+  defense: 453
+  health: 839
+  skill: Goblin Fury
+  effects:
+    - Deals 105% damage to all enemies
+    - Reduces the mana of all enemies by 20%
+    - All allies get +24% mana generation for 4 turns
+  types:
+    - Hit All
+    - Mana Reduction
+    - Mana Generation Buff
+  family: Avalon
+  image: https://i.imgur.com/EA1ItRL.jpg
+- name: Ei-Dunn
+  class: Paladin
+  source: Season3
+  speed: Average
+  power: 466
+  attack: 422
+  defense: 481
+  health: 851
+  skill: Tainted Axe
+  effects:
+    - Deals 240% damage to the target and nearby enemies.
+    - The target and nearby enemies get -24% mana generation for 4 turns.
+  types:
+    - Hit All
+    - Mana Generation Debuff
+  family: Niflheim
+  image: https://i.imgur.com/ZFpobou.jpg
+- name: Sudri
+  class: Ranger
+  source: Season3
+  speed: Slow
+  power: 462
+  attack: 439
+  defense: 484
+  health: 775
+  skill: Burning Shields
+  effects:
+    - Deals 120% damage to all enemies.
+    - Deals additional 24% damage per each Fire shield on the board, up to 360% damage in total.
+  types:
+    - Hit All
+  family: Muspelheim
+  image: https://i.imgur.com/kbwg0o2.jpg
+- name: Skrekok
+  class: Rogue
+  source: Villains
+  speed: Average
+  power: 476
+  attack: 493
+  defense: 472
+  health: 762
+  skill: Mad Rat Mania
+  effects:
+    - Deals 225% damage to the target and nearby enemies.
+    - The caster and nearby allies get +45% attack and a further +20% increase every time they are hit during 3 turns.
+  types:
+    - Hit 3
+    - Attack Buff
+  family: Villains
+  image: https://i.imgur.com/e258l3c.jpg
+- name: Vollermork
+  class: Paladin
+  source: Season4
+  speed: Slow
+  power: 478
+  attack: 476
+  defense: 514
+  health: 738
+  skill: Thresher Worms
+  effects:
+    - Summons a Worm Fiend for all enemies. The Fiend damages the enemy with 32% attack every turn.
+    - The Worm Fiend absorbs healing and disappears when it has absorbed health equal to 16% of the targets max health
+  types:
+    - Fiend
+  family: Underwild
+  passives:
+    - This Hero receives 20% mana at the start of the battle.
+  image: https://i.imgur.com/mAw3KL3.jpg
+- name: Kornel
+  class: Druid
+  source: Magic
+  speed: Magic
+  power: 479
+  attack: 472
+  defense: 490
+  health: 802
+  skill: Imaginary Increments
+  effects:
+    - "Special Skill has a different effect when charged with 100%/200% mana:"
+    - "1x Mana Charge:"
+    - " * The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns."
+    - "2x Mana Charge:"
+    - " * The target and nearby enemies get -44% defense, and a further -4% increase every time they are hit during 6 turns."
+  types:
+    - Attack Buff
+    - Defense Debuff
+    - Charge
+  passives:
+    - On a fully charged Special Skill this Hero has a 50% chance to deal 100% damage to all enemies that are not of Fire element.
+  family: Magic
+  image: https://i.imgur.com/mQovZC2.jpg
+- name: Phoenicus
+  class: Monk
+  source: Wonderland
+  speed: Fast
+  power: 481
+  attack: 446
+  defense: 521
+  health: 815
+  skill: Valuable Contribution
+  effects:
+    - All allies except the caster get +50% attack for 3 turns.
+    - All allies except the caster get +24% mana generation for 3 turns.
+  types:
+    - Attack Buff
+    - Mana Generation Buff
+  family: Wonderland
+  image: https://i.imgur.com/zBoeoLf.jpg
+- name: Li
+  source: Kingdom
+  class: Paladin
+  family: Kingdom
+  power: 482
+  attack: 480
+  defense: 486
+  health: 813
+  skill: Sickle of Wu
+  speed: Slow
+  effects:
+    - Deals 160% damage to all enemies.
+    - Summons a Wu Soldier Minion for each ally with 8% HP and 18% attack inherited from the caster.
+    - "Each hit from a Wu Soldier Minion gives the target the following status ailments:"
+    -  The target receives 108 Burn damage over 3 turns.
+  types:
+    - Hit All
+    - Summoner
+  image: https://i.imgur.com/6qcUvA0.jpg
+- name: Waqas
+  source: Season5
+  class: Paladin
+  family: Sun
+  speed: Slow
+  power: 483
+  attack: 535
+  defense: 472
+  health: 709
+  skill: Unyielding Protector
+  effects:
+    - Deals 205% damage to all enemies.
+    - Reduces max health for all enemies by 110 each turn for 3 turns. Max health can’t get lower than 30% of the original max health.
+  types:
+    - Hit All
+    - Health Reduction
+  passives:
+    - "Effects on Special Skill - 70% chance to perform the following actions when this character casts their Special Skill:"
+    - "* Deals 70% damage to all enemies."
+    - "* All enemies get -34% attack for 3 turns."
+  image: https://i.imgur.com/CWQ9rw6.jpg

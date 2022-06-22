@@ -1,0 +1,357 @@
+- name: Valen
+  class: Fighter
+  source: Season1
+  speed: Fast
+  power: 442
+  attack: 479
+  defense: 411
+  health: 679
+  skill: Chilling Slash
+  effects:
+    - Deals 300% damage to the target
+    - The target gets -34% defense for 6 turns
+  types:
+    - Hit 1
+    - Defense Debuff
+  image: https://i.imgur.com/8iWG7cB.jpg
+  costume:
+    class: Rogue
+    power: 465
+    attack: 488
+    defense: 443
+    health: 757
+    skill: Thrilling Clash
+    effects:
+      - Deals 335% damage to the target.
+      - The caster getts +54% attack for 6 turns.
+    types:
+      - Hit 1
+    image: https://i.imgur.com/V2ztXVp.jpg
+- name: Ulmer
+  class: Wizard
+  source: Season1
+  speed: Slow
+  power: 445
+  attack: 528
+  defense: 359
+  health: 677
+  skill: Blizzard
+  effects:
+    - Deals 116% damage to all enemies and they get -34% defense for 6 turns
+  types:
+    - Hit All
+    - Defense Debuff
+  image: https://i.imgur.com/8fr1xWV.jpg
+  costume:
+    class: Monk
+    power: 468
+    attack: 522
+    defense: 403
+    health: 772
+    skill: Whiteout
+    effects:
+      - Deals 145% damage to all enemies
+      - All allies get +48% attack for 6 turns
+    types:
+      - Hit all
+    image: https://i.imgur.com/0GakWdj.jpg
+- name: Karil
+  class: Barbarian
+  source: Season1
+  speed: Average
+  power: 442
+  attack: 484
+  defense: 378
+  health: 733
+  skill: Ramming Rush
+  effects:
+    - Deals 260% damage to the target and minor damage to nearby enemies
+  types:
+    - Hit 3
+  image: https://i.imgur.com/Upbhrq6.jpg
+  costume:
+    class: Rogue
+    power: 466
+    attack: 527
+    defense: 379
+    health: 793
+    skill: Forge Rush
+    effects:
+      - Deals 240% damage to the target and minor damage to nearby enemies
+      - The target and nearby enemies receive 60 Burn damage over 3 turns
+    types:
+      - Hit 3
+      - Dot 3
+    image: https://i.imgur.com/g4KxM6b.jpg
+- name: Gunnar
+  class: Paladin
+  source: Season1
+  speed: Slow
+  power: 441
+  attack: 387
+  defense: 533
+  health: 656
+  skill: Spirit Link
+  effects:
+    - All allies share received damage with each other for 5 turns
+    - All allies get +63% defense for 5 turns
+  types:
+    - Defense Buff
+    - Ally Damage Share
+  image: https://i.imgur.com/ra4Iv0M.jpg
+  costume:
+    class: Druid
+    power: 464
+    attack: 415
+    defense: 544
+    health: 729
+    skill: Steel Link
+    effects:
+      - All enemies share received damage with each other for 5 turns
+      - All enenmies get -44% defense for 5 turns
+    types:
+      - Defense Debuff
+      - Enemy Damage Share
+    image: https://i.imgur.com/vP2SgVY.jpg
+- name: Graymane
+  class: Sorcerer
+  source: Season1
+  speed: Average
+  power: 441
+  attack: 467
+  defense: 368
+  health: 789
+  skill: Wolf Bite
+  effects:
+    - Deals 225% damage to the target
+    - Heals the caster for 50% of damage dealt
+  types:
+    - Hit 1
+    - Self Heal
+  image: https://i.imgur.com/QFfHzlB.jpg
+  costume:
+    class: Barbarian
+    power: 465
+    attack: 457
+    defense: 411
+    health: 896
+    skill: Racoon Bite
+    effects:
+      - Deals 235% damage to the target
+      - The caster is immune to new status ailments for 3 turns.  This effect can't be dispelled
+      - The caster gets +50% attack for 3 turns.
+    types:
+      - Hit 1
+    image: https://i.imgur.com/zH4VZaJ.jpg
+- name: Gato
+  class: Fighter
+  source: Season2
+  speed: Fast
+  power: 447
+  attack: 516
+  defense: 401
+  health: 639
+  skill: Swamp Slash
+  effects:
+    - Deals 300% damage to the target
+    - The caster and nearby allies are immune to new status ailments for 3 turns
+  types:
+    - Hit 1
+    - Debuff Immunity
+  family: Lagoon
+  image: https://i.imgur.com/4RQUIxe.jpg
+- name: Vodnik
+  class: Paladin
+  source: Pirates
+  speed: Fast
+  power: 455
+  attack: 439
+  defense: 429
+  health: 834
+  skill: Trident Lunge
+  effects:
+    - Deals 280% damage to the target
+    - The more mana the enemies have, the more damage they will receive, up to 400%
+  types:
+    - Hit 1
+  family: Corellia
+  image: https://i.imgur.com/aLr0hqV.jpg
+- name: Nordri
+  class: Barbarian
+  source: Season3
+  speed: Average
+  power: 464
+  attack: 488
+  defense: 406
+  health: 818
+  skill: Frosty Axes
+  effects:
+    - Deals 245% damage to the target and minor damage to nearby enemies
+    - The target and nearby enemies get -54% defense against Ice for 4 turns
+  types:
+    - Hit 3
+    - Elemental Defense Debuff
+  family: Jotunheim
+  image: https://i.imgur.com/kNdE9Hw.jpg
+- name: Chick Jr
+  class: Paladin
+  source: Springvale
+  speed: Average
+  power: 462
+  attack: 523
+  defense: 413
+  health: 703
+  skill: Compact Lance
+  effects:
+    - Deals 180% damage to all enemies
+    - The caster gets -20% attack for 3 turns. This effect can't be cleansed.
+  types:
+    - Hit All
+  family: Springvale
+  image: https://i.imgur.com/3LZJ0cl.jpg
+- name: Jarvur
+  class: Druid
+  source: Season3
+  speed: Fast
+  power: 466
+  attack: 500
+  defense: 422
+  health: 775
+  skill: Jab and Hook
+  effects:
+    - Deals 285% damage to the target.
+    - "Stack: The caster get +10% attack. The maximum size of stack is 10."
+  types:
+    - Hit 1
+    - Stacking
+  family: Svartalfheim
+  image: https://i.imgur.com/eZV4meS.jpg
+- name: Frosty
+  class: Rogue
+  source: Christmas
+  speed: Average
+  power: 475
+  attack: 441
+  defense: 523
+  health: 783
+  skill: Joyful Backup
+  effects:
+    - Recovers 32% health for all allies
+    - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+  types:
+    - Heal All
+    - Summoner
+  family: Christmas
+  image: https://i.imgur.com/33YbQ2h.jpg
+- name: Helo
+  class: Druid
+  source: Season4
+  speed: Average
+  power: 478
+  attack: 457
+  defense: 505
+  health: 799
+  skill: Healthiest Catch
+  effects:
+    - Recovers 32% health for all allies.
+    - Cleanses status ailments from all allies.
+  types:
+    - Heal All
+    - Cleanse All
+  family: Underwild
+  passives:
+    - Duration of the first 3 buffs this hero receives from Special Skills is increased by 1 turn
+  image: https://i.imgur.com/e1OFOms.jpg
+- name: Guardian Lemur
+  class: Fighter
+  source: Teltoc
+  speed: Average
+  power: 481
+  attack: 455
+  defense: 491
+  health: 853
+  skill: Guardian Armor
+  effects:
+    - Recovers 32% health for all allies.
+    - All allies get +94% defense against Nature for 4 turns.
+  types:
+    - Heal all
+  family: Teltoc
+  image: https://i.imgur.com/XPlmtwO.jpg
+- name: Yao
+  source: Kingdom
+  class: Ranger
+  family: Kingdom
+  power: 482
+  attack: 486
+  defense: 496
+  health: 777
+  skill: Sword of Wei
+  speed: Average
+  effects:
+    - Deals 215% damage to the target and nearby enemies.
+    - Summons a Wei Soldier Minion with 14% HP and 20% attack inherited from the caster.
+    - Each hit from a Wei Soldier Minion dispells all dispellable buffs from the target.
+  types:
+    - Hit 3
+    - Summoner
+  image: https://i.imgur.com/uzjBEsd.jpg
+- name: Jarif
+  source: Season5
+  class: Wizard
+  family: Moon
+  speed: Average
+  power: 483
+  attack: 507
+  defense: 408
+  health: 908
+  skill: Disabling Decree
+  effects:
+    - Deals 335% damage to the target.
+    - The target is immune to new status effect buffs for 3 turns, and receives 70 damage for each attempted buff.
+  types:
+    - Hit 1
+  passives:
+    - "Effects on Special Skill - 60% chance to perform the following actions when this character casts their Special Skill:"
+    - "* Deals 70% damage to all enemies."
+    - "* All enemies get -24% mana generation for 3 turns."
+  image: https://i.imgur.com/ntCu0sS.jpg
+- name: Soroca
+  class: Paladin
+  source: Gargoyle
+  family: Gargoyle
+  speed: Average
+  power: 482
+  attack: 512
+  defense: 500
+  health: 703
+  skill: Faithful Force
+  effects:
+    - Deals 235% damage to the target.
+    - Deals additional 10% damage per each Ice shield on the board up to 335% damage in total.
+  types:
+    - Hit 1
+  passives:
+    - Gargoyle’s Stoneskin - Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next damage they receive is dropped to 1. This effect can’t be dispelled.
+  image: https://i.imgur.com/m9CtBNT.jpg
+- name: Joukahainen
+  class: Monk
+  speed: Average
+  family: Kalevala
+  source: Kalevala
+  power: 482
+  attack: 465
+  defense: 472
+  health: 877
+  skill: Arrows of Fury
+  effects:
+    - Dispels buffs from all enemies.
+    - Deals 165% damage to all enemies.
+    - All enemies are immune to new status effect buffs for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  types:
+    - Dispeller
+    - Hit All
+    - Buff Immunity
+  passives:
+    - When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+  image: https://i.imgur.com/MfQu0Jd.jpg

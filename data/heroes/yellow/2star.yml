@@ -1,0 +1,44 @@
+- name: Sha Ji
+  class: Cleric
+  source: Season1
+  speed: Average
+  power: 334
+  attack: 275
+  defense: 345
+  health: 693
+  skill: Healing Chant
+  effects:
+    - Recovers 28% health for all allies
+  types:
+    - Healer
+  image: https://i.imgur.com/OCarZIF.jpg
+- name: Nash
+  class: Wizard
+  source: Season1
+  speed: Fast
+  power: 335
+  attack: 331
+  defense: 343
+  health: 562
+  skill: Paralyzing Smash
+  effects:
+    - Deals 195% damage to the target
+    - The target gets -34% attack for 6 turns
+  types:
+    - Hit 1
+    - Attack Debuff
+  image: https://i.imgur.com/HfePtEe.jpg
+- name: Hou
+  class: Monk
+  source: Season1
+  speed: Average
+  power: 336
+  attack: 366
+  defense: 341
+  health: 488
+  skill: Defensive Tactics
+  effects:
+    - All allies get +63% defense for 4 turns
+  types:
+    - Defense Buff
+  image: https://i.imgur.com/twn2sqC.jpg

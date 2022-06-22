@@ -1,0 +1,302 @@
+- name: Melia
+  class: Druid
+  source: Season2
+  speed: Fast
+  power: 450
+  attack: 505
+  defense: 404
+  health: 684
+  skill: Atlantean Sword
+  effects:
+    - Deals 120% damage to all enemies
+    - All allies get +36% critical chance for 4 turns
+  types:
+    - Hit All
+    - Crit Buff
+  family: Atlantis
+  image: https://i.imgur.com/4LFidrS.jpg
+  costume:
+    class: Fighter
+    power: 464
+    attack: 534
+    defense: 405
+    health: 709
+    skill: Atlantean Blade
+    effects:
+      - Deals 120% damage to all enemies.
+      - All enemies get -25% accuracy for 3 turns. Chance to miss also applies too offensive Special Skills.
+    types:
+      - Hit All
+      - Accuracy Debuff
+    bonuses: 2
+    image: https://i.imgur.com/pRlDHaa.jpg
+- name: Kailani
+  class: Cleric
+  source: Season1
+  speed: Slow
+  power: 444
+  attack: 429
+  defense: 453
+  health: 729
+  skill: Spirit Link
+  effects:
+    - All allies get +63% defense and share received damage with all their allies for 5 turns
+  types:
+    - Ally Damage Share
+  image: https://i.imgur.com/h7fAkgX.jpg
+  costume:
+    class: Sorcerer
+    power: 467
+    attack: 423
+    defense: 497
+    health: 825
+    skill: Spirit Rally
+    effects:
+      - All allies share received damage with eachother for 5 turns
+      - All allies get +50% attack for 5 turns
+    types:
+      - Attack Buff
+    image: https://i.imgur.com/OOF8ysq.jpg
+- name: Gan Ju
+  class: Monk
+  source: Season1
+  speed: Fast
+  power: 443
+  attack: 467
+  defense: 363
+  health: 811
+  skill: Mystic Chop
+  effects:
+    - Deals 270% damage to the target
+    - Reduces the mana of the target by 25%
+  types:
+    - Hit 1
+    - Mana Reduction
+  image: https://i.imgur.com/Eor4cBc.jpg
+  costume:
+    class: Barbarian
+    power: 468
+    attack: 519
+    defense: 371
+    health: 844
+    skill: Rural Chop
+    effects:
+      - Deals 220% damage to the target
+      - Reduces the mana of the target by 40%
+    types:
+      - Hit 1
+    image: https://i.imgur.com/UfGiJQd.jpg
+- name: Dawa
+  class: Rogue
+  source: Season1
+  speed: Average
+  power: 440
+  attack: 488
+  defense: 391
+  health: 679
+  skill: Leaping Attack
+  effects:
+    - Deals 210% damage to the target and minor damage to nearby enemies
+  types:
+    - Hit 3
+  image: https://i.imgur.com/p1FG8Av.jpg
+  costume:
+    class: Barbarian
+    power: 463
+    attack: 527
+    defense: 423
+    health: 684
+    skill: Pounding Attack
+    effects:
+      - Deals 200% damage to the target
+      - Deals 230% damage to a random different enemy. Deals extra damage to the target if the target is Dark
+    types:
+      - Hit 1
+    image: https://i.imgur.com/4JD88JW.jpg
+- name: Bane
+  class: Monk
+  source: Season1
+  speed: Fast
+  power: 440
+  attack: 469
+  defense: 410
+  health: 693
+  skill: Harmonic Slam
+  effects:
+    - Deals 300% damage to the target
+    - The target gets -35% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
+  types:
+    - Hit 1
+    - Blind
+  image: https://i.imgur.com/9aCbPHu.jpg
+  costume:
+    class: Ranger
+    power: 464
+    attack: 529
+    defense: 423
+    health: 682
+    skill: Harmonic Bash
+    effects:
+      - Deals 280% damage to the target
+      - The target gets -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
+    types:
+      - Hit 1
+      - Blind
+    image: https://i.imgur.com/dGKlDsc.jpg
+- name: Arman
+  class: Fighter
+  source: Sand
+  speed: Slow
+  power: 448
+  attack: 477
+  defense: 418
+  health: 712
+  skill: Sand Breeze
+  effects:
+    - Deals 130% damage to all enemies
+    - All enemies receive 92 damage over 4 turns
+    - All enemies get -50% increase for any healing received for 2 turns. This effect can't be cleansed
+    - Dispels status ailments from the caster
+  types:
+    - Hit All
+    - Dot All
+    - Healing Debuff
+  family: Sand
+  image: https://i.imgur.com/N88uqSK.jpg
+- name: Pixie
+  class: Cleric
+  source: Fables
+  speed: Average
+  power: 455
+  attack: 427
+  defense: 436
+  health: 848
+  skill: Pixie Dust
+  effects:
+    - Deals 290% damage to the target.
+    - Automatically does 21% damage to the target when the target's mana is full and reduces their mana by 50% for 3 turns.
+  types:
+    - Hit 1
+    - Mindless Self Attack
+  family: Grimforest
+  image: https://i.imgur.com/jFlvi1a.jpg
+- name: Kvasir
+  class: Druid
+  source: Season3
+  speed: Fast
+  power: 461
+  attack: 429
+  defense: 424
+  health: 915
+  skill: Bee Bravado
+  effects:
+    - Summons a Bee Minion for each ally. The Bee Minion inherits 15% HP and 17% attack from the caster.
+    - "Each hit from a Bee Minion gives the target the following status ailments: * The target receives 14 Poison damage over 2 turns. * The target can't receive new Minions for 4 turns."
+  types:
+    - Summoner
+    - Dot 1
+  family: Alfheim
+  image: https://i.imgur.com/iXRJ2NZ.jpg
+- name: Agnes
+  class: Rogue
+  source: Season3
+  speed: Fast
+  power: 464
+  attack: 556
+  defense: 486
+  health: 491
+  skill: Precise Chop
+  effects:
+    - Deals 320% damage to the target.
+    - The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
+  types:
+    - Hit 1
+  family: Asgard
+  image: https://i.imgur.com/epjHmoJ.jpg
+- name: Poppy
+  class: Ranger
+  source: Season4
+  speed: Fast
+  power: 478
+  attack: 497
+  defense: 453
+  health: 804
+  skill: Ricochet Bolt
+  effects:
+    - Deals 300% damage to the target.
+    - Has a 42% chance for additional hits on random enemies up to 3 times.  Additional hits deal minor damage.
+  types:
+    - Hit 1
+  family: Underwild
+  passives:
+    - First time this Hero casts Special Skill that does damage, additional 30% damage is added to its power
+  image: https://i.imgur.com/pxiscDG.jpg
+- name: Candy
+  class: Cleric
+  source: Starfall
+  speed: Average
+  power: 477
+  attack: 465
+  defense: 488
+  health: 809
+  skill: Whimsical Aid
+  effects:
+    - Heals all allies who have less than 50% HP left to 50% health.
+    - All allies regenerate 261 HP over 3 turns.
+  types:
+    - Heal all
+    - HOT all
+  family: Starfall
+  image: https://i.imgur.com/JMKpOq5.jpg
+- name: Bertulf
+  class: Monk
+  source: Knights
+  speed: Average
+  power: 480
+  attack: 491
+  defense: 460
+  health: 820
+  skill: Magnificient Meal
+  effects:
+    - All allies get +100% normal attack for 4 turns. This effect can be active in addition to effectst hat alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.
+  types:
+    - Attack Buff
+  family: Raven
+  image: https://i.imgur.com/0zQumOG.jpg
+- name: Sally
+  class: Barbarian
+  source: Pirates
+  speed: Slow
+  power: 481
+  attack: 484
+  defense: 467
+  health: 830
+  skill: Piercing Sabre
+  effects:
+    - Deals 270% damage to the target.
+    - The attack chains through all the enemies who are adjacent to any hit enemy.
+  types:
+    - Hit 1
+    - Chain
+  family: Corellia
+  image: https://i.imgur.com/wpH6Nrx.jpg
+- name: Rekhetre
+  source: Season5
+  class: Wizard
+  family: Sun
+  speed: Average
+  power: 483
+  attack: 470
+  defense: 493
+  health: 825
+  skill: Puzzling Riddle
+  effects:
+    - All allies regenerate 450 boosted health over 3 turns. Boosted health can exceed max HP.
+    - The caster gets +84% defense against Dark, and a further 2% increase every time they are hit during 3 turns.
+  types:
+    - Regen All
+  passives:
+    - "Effects on Special Skill - 60% chance to perform the following actions when this character casts their Special Skill:"
+    - "* Boosts health of all allies by 10%. Boosted health can exceed max HP."
+    - "* Cleanses the latest cleansable status ailments from all allies."
+  image: https://i.imgur.com/nkaWucV.jpg

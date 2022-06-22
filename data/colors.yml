@@ -1,0 +1,24 @@
+colors:
+  purple:
+    code: 1
+    description: Purple
+    avatarImage: https://i.imgur.com/xiPH2Zc.png
+  yellow:
+    code: 2
+    description: Yellow
+    avatarImage: https://i.imgur.com/9bzM9KP.png
+  blue:
+    color: 3
+    description: Blue
+    avatarImage: https://i.imgur.com/v04zcUN.png
+  green:
+    color: 4
+    description: Green
+    avatarImage: https://i.imgur.com/txwdzeB.png
+  red:
+    color: 5
+    description: Red
+    avatarImage: https://i.imgur.com/sfUwjbW.png
+
+open_color:
+  avatarImage: https://i.imgur.com/3pq6sfa.jpg

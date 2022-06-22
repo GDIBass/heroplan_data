@@ -1,0 +1,42 @@
+- name: Needler
+  class: Ranger
+  source: Season1
+  speed: Fast
+  power: 333
+  attack: 358
+  defense: 315
+  health: 539
+  skill: Focused Shot
+  effects:
+    - Deals 250% damage to the target
+  types:
+    - Hit 1
+  image: https://i.imgur.com/KlbXSTV.jpg
+- name: Jenneh
+  class: Druid
+  source: Season1
+  speed: Average
+  power: 335
+  attack: 328
+  defense: 325
+  health: 602
+  skill: Mark of Ivy
+  effects:
+    - Deals 245% damage to the target
+  types:
+    - Hit 1
+  image: https://i.imgur.com/reFxsXr.jpg
+- name: Brogan
+  class: Fighter
+  source: Season1
+  speed: Average
+  power: 335
+  attack: 295
+  defense: 340
+  health: 660
+  skill: Tackle
+  effects:
+    - Deals 200% damage to the target and minor damage to nearby enemies
+  types:
+    - Hit 3
+  image: https://i.imgur.com/wLaZQ4W.jpg

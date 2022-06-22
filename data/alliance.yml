@@ -1,0 +1,16 @@
+member_status:
+  none:
+    id: 0
+    description: No Alliance
+  request:
+    id: 1
+    description: Requested Join
+  member:
+    id: 2
+    description: Member
+  manager:
+    id: 3
+    description: Manager
+  leader:
+    id: 4
+    description: Leader

@@ -1,0 +1,56 @@
+- name: Jill
+  class: Fighter
+  source: Season1
+  speed: Average
+  power: 332
+  attack: 320
+  defense: 325
+  health: 604
+  skill: Attack Rally
+  effects:
+    - All allies get 48% attack for 4 turns
+  types:
+    - Attack Buff
+  image: https://i.imgur.com/FTGm2in.jpg
+- name: Zudak
+  class: Barbarian
+  source: Season1
+  speed: Average
+  power: 336
+  attack: 312
+  defense: 359
+  health: 587
+  skill: Tackle
+  effects:
+    - Deals 200% damage to the target and minor damage to nearby enemies
+  types:
+    - Hit 3
+  image: https://i.imgur.com/O3JN2m9.jpg
+- name: Shaarkot
+  class: Sorcerer
+  source: Season1
+  speed: Average
+  power: 334
+  attack: 356
+  defense: 275
+  health: 627
+  skill: Attack Rally
+  effects:
+    - All allies get +48% attack for 4 turns
+  types:
+    - Attack Buff
+  image: https://i.imgur.com/TOP4jvU.jpg
+- name: Farid
+  class: Barbarian
+  source: Season1
+  speed: Average
+  power: 337
+  attack: 350
+  defense: 288
+  health: 635
+  skill: Fierce Slash
+  effects:
+    - Deals 115% damage to all enemies
+  types:
+    - Hit All
+  image: https://i.imgur.com/MeeFayZ.jpg

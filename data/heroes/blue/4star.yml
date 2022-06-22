@@ -1,0 +1,359 @@
+- name: Valeria
+  class: Monk
+  source: Morlovia
+  speed: Very Fast
+  power: 649
+  attack: 609
+  defense: 656
+  health: 1196
+  skill: Dusk of Sorrow
+  effects:
+    - Deals 235% damage to the target.
+    - The target receives 150 damage over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 220, up to 580 damage in total.
+    - The caster steals 61% of any healing applied to the target for 3 turns.
+  types:
+    - Hit 1
+    - Dot 1
+    - Steal Healing
+  family: Morlovia
+  image: https://i.imgur.com/Zwdjhmt.jpg
+- name: Sonya
+  class: Paladin
+  source: Season1
+  speed: Fast
+  power: 643
+  attack: 607
+  defense: 731
+  health: 1011
+  skill: Piercing Strike
+  effects:
+    - Deals 345% damage to the target
+    - Dispels buffs from all enemies
+  types:
+    - Hit 1
+    - Dispeller
+  image: https://i.imgur.com/zE5VVll.jpg
+  costume:
+    class: Druid
+    power: 678
+    attack: 646
+    defense: 762
+    health: 1103
+    skill: Purifying Strike
+    effects:
+      - Deals 345% damage to the target
+      - Cleanses status ailments from all allies
+    types:
+      - Hit 1
+      - Cleanser
+    image: https://i.imgur.com/jsa6nmc.jpg
+- name: Triton
+  class: Ranger
+  source: Season2
+  speed: Fast
+  power: 652
+  attack: 720
+  defense: 601
+  health: 1049
+  skill: Trident Throw
+  effects:
+    - Deals 335% damage to the target
+    - All allies get +39% increase for any healing received for 4 turns
+  types:
+    - Hit 1
+    - Healing Buff
+  family: Atlantis
+  image: https://i.imgur.com/nJsozVv.jpg
+- name: Kiril
+  class: Wizard
+  source: Season1
+  speed: Average
+  power: 647
+  attack: 656
+  defense: 673
+  health: 1034
+  skill: Blessed Brew
+  effects:
+    - Recovers 28% health for all allies
+    - All allies get +30% attack for 3 turns
+    - All allies get +30% defense for 3 turns
+  types:
+    - Healer
+    - Attack Buff
+    - Defense Buff
+  image: https://i.imgur.com/OnjIJvT.jpg
+  costume:
+    class: Sorcerer
+    power: 682
+    attack: 702
+    defense: 680
+    health: 1153
+    skill: Blessed Solo
+    effects:
+      - Recovers 28% health for all allies
+      - All enemies get -34% attack for 3 turns
+      - All enemies get -34% defense for 3 turns
+    types:
+      - Healer
+      - Attack Debuff
+      - Defense Debuff
+    image: https://i.imgur.com/BwPG5qR.jpg
+- name: Grimm
+  class: Barbarian
+  source: Season1
+  speed: Average
+  power: 642
+  attack: 716
+  defense: 531
+  health: 1132
+  skill: Ramming Pulverizer
+  effects:
+    - Deals 295% damage to the target and minor damage to nearby enemies
+    - The target and nearby enemies get -34% defense for 6 turns
+  types:
+    - Hit 3
+    - Defense Debuff
+  image: https://i.imgur.com/Mx4BDfE.jpg
+  costume:
+    class: Rogue
+    power: 678
+    attack: 716
+    defense: 585
+    health: 1278
+    skill: Merciless Pulverizer
+    effects:
+      - Deals 295% damage to the target and minor damage to nearby enemies
+      - The caster and nearby allies get +50% attack for 6 turns
+    types:
+      - Hit 3
+    image: https://i.imgur.com/Z9LP9Ei.jpg
+- name: Captain of Diamonds
+  class: Paladin
+  source: Wonderland
+  speed: Fast
+  power: 650
+  attack: 620
+  defense: 682
+  health: 1126
+  skill: Pest Control
+  effects:
+    - Destroys all minions from the target
+    - Deals 260% damage to the target
+    - Attacks randomly a new target if any minions were destroyed
+  types:
+    - Hit 1
+    - Destroy Minions
+    - Chain Hit
+  family: Wonderland
+  image: https://i.imgur.com/BgqqlFR.jpg
+- name: Boril
+  class: Cleric
+  source: Season1
+  speed: Average
+  power: 643
+  attack: 501
+  defense: 792
+  health: 1151
+  skill: Perfect Riposte
+  effects:
+    - The caster and nearby allies counterattack with 125% of the damage received for 5 turns
+  types:
+    - Riposte
+  image: https://i.imgur.com/jFkMrWZ.jpg
+  costume:
+    class: Paladin
+    power: 679
+    attack: 504
+    defense: 851
+    health: 1287
+    skill: Sturdy Riposte
+    effects:
+      - All allies counterattack with 60^ of the damage received for 4 turns
+    types:
+      - Riposte
+    image: https://i.imgur.com/p8PKYHQ.jpg
+- name: Agwe
+  class: Cleric
+  source: Season2
+  speed: Average
+  power: 648
+  attack: 686
+  defense: 616
+  health: 1079
+  skill: Rogue Wave
+  effects:
+    - Deals 190% damage to all enemies
+    - All allies get +54% defense against Nature for 4 turns
+  types:
+    - Hit All
+    - Elemental Defense Buff
+  family: Lagoon
+  image: https://i.imgur.com/cTx7oHb.jpg
+- name: Mireweave
+  class: Ranger
+  source: Season3
+  speed: Very Fast
+  power: 660
+  attack: 697
+  defense: 597
+  health: 1175
+  skill: Chain of Pain
+  effects:
+    - Deals 150% damage to the target and nearby enemies.
+    - "Stack: The caster gets +10% attack. The maximum size of the stack is 10."
+  types:
+    - Hit 3
+    - Stacking
+  family: Vanaheim
+  image: https://i.imgur.com/mjsblyy.jpg
+- name: Jott
+  class: Barbarian
+  source: Season3
+  speed: Slow
+  power: 664
+  attack: 720
+  defense: 607
+  health: 1126
+  skill: Ice Boom
+  effects:
+    - Deals 200% damage to all enemies.
+    - All Ice shields on the board become enhanced. Enhanced shields have +64% attack when casted from attacker side and -57% attack when cast from defender side.
+  types:
+    - Hit All
+    - Tile Enhancer
+  family: Jotunheim
+  image: https://i.imgur.com/f9Anp7W.jpg
+- name: Sapphire
+  class: Rogue
+  source: Ninja
+  speed: Charge
+  power: 670
+  attack: 726
+  defense: 541
+  health: 1285
+  skill: From Shadows
+  effects:
+    - 1x Mana Charge
+    - "* Deals 225% damage to the target"
+    - "* The attack has a 35% chance to bypass defensive buffs. This includes counter attack."
+    - 2x Mana Charge
+    - "* Deals 250% damage to the target and nearby enemies"
+    - "* The attack has a 60% chance to bypass defensive buffs. This includes counter attack."
+    - 3x Mana Charge
+    - "* Deals 290% damage to all enemies"
+    - "* The attack has a 85% chance to bypass defensive buffs. This includes counter attack."
+  types:
+    - Charger
+    - Hit All
+    - Bypass
+  family: Ninja
+  image: https://i.imgur.com/XCynMAV.jpg
+- name: Frank
+  class: Barbarian
+  source: Morlovia
+  speed: Slow
+  power: 667
+  attack: 635
+  defense: 639
+  health: 1292
+  skill: Undead Razer
+  effects:
+    - Deals 200% damage to all enemies
+    - The damage is increased by 45% per dead enemy
+    - All enemies get -44 defense for 4 turns
+  types:
+    - Hit All
+    - Defense Debuff
+  family: Morlovia
+  image: https://i.imgur.com/dQao9jX.jpg
+  costume:
+    class: Monk
+    power: 681
+    attack: 655
+    defense: 645
+    health: 1334
+    skill: Undead Obliterator
+    effects:
+      - Deals 170% damage to all enemies
+      - The damage is increased by 45% for each dead enemy.
+      - "Stack (Max:10): All enemies receive 20 Frost damage per each killed enemy or enemy Minion at the end of each turn."
+      - "Stack (Max: 10): All enemies get -4% mana generation per each killed enemy or enemy Minion."
+    types:
+      - Hit all
+      - Stacker
+    bonuses: 2
+    image: https://i.imgur.com/HUrGPkv.jpg
+- name: Sanngrior
+  class: Cleric
+  source: Villains
+  speed: Average
+  power: 675
+  attack: 565
+  defense: 680
+  health: 1447
+  skill: Valkyrie’s Fortitude
+  effects:
+    - Boosts health of the caster and nearby allies by 650.
+    - The caster and nearby allies get +94% defence against Nature for 3 turns.
+  types:
+    - Healer
+  family: Villains
+  image: https://i.imgur.com/IunsdpJ.jpg
+- name: Zila Lei
+  class: Rogue
+  source: Season4
+  speed: Fast
+  power: 677
+  attack: 677
+  defense: 652
+  health: 1234
+  skill: Fishbone Blades
+  effects:
+    - Deals 185% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.
+    - The enemies on the edges of the enemy formation get -34% defense for 3 turns.
+  types:
+    - Hit 2
+    - Defense Down
+  family: Underwild
+  passives:
+    - First time this Hero casts Special Skill that does damage, additional 30% damage is added to its power
+  image: https://i.imgur.com/AZ3KQGe.jpg
+- name: Xiahou Dun
+  source: Kingdom
+  class: Fighter
+  speed: Fast
+  family: Kingdom
+  power: 682
+  attack: 640
+  defense: 746
+  health: 1179
+  skill: Qilin Blade
+  effects:
+    - Deals 355% damage to the target.
+    - Summons a Wei Soldier Minion for the caster and nearby allies with 14% HP and 20% attack inherited from the caster.
+    - Each hit from a Wei Soldier Minion dispells all dispellable buffs from the target.
+  types:
+    - Hit 1
+    - Summoner
+  image: https://i.imgur.com/6njHzyt.jpg
+- name: Azmia
+  source: Season5
+  class: Monk
+  family: Moon
+  speed: Average
+  power: 683
+  attack: 539
+  defense: 830
+  health: 1266
+  skill: Counterstance
+  effects:
+    - Recovers 20% health for all allies.
+    - The caster and nearby allies counterattack with 120% of the damage received for 4 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 150%.
+  types:
+    - Heal All
+    - Counterattack
+  passives:
+    - "Effects on Special Skill - 60% chance to perform the following actions when this character casts their Special Skill:"
+    - "* Boosts health of all allies by 10%. Boosted health can exceed max HP."
+    - "* Cleanses the latest cleansable status ailments from all allies."
+  image: https://i.imgur.com/VnnI4Om.jpg
