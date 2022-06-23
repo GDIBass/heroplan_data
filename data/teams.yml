@@ -16,6 +16,21 @@ types:
       type: 5
       description: War Team Five
   war_defense:
+    purple:
+      type: 1
+      description: Purple Defense
+    yellow:
+      type: 2
+      description: Yellow Defense
+    blue:
+      type: 3
+      description: Blue Defense
+    green:
+      type: 4
+      description: Green Defense
+    red:
+      type: 5
+      description: Red Defense
     undead_horde:
       type: 6
       description: Undead Horde Defense
@@ -234,9 +249,7 @@ categories:
   war_defenses:
     category: 9
     description: War Defenses
-    types:
-      - color
-      - war_defense
+    types: war_defense
   trials:
     category: 11
     description: Trial Teams
@@ -244,6 +257,7 @@ categories:
   titans:
     category: 16
     description: Titan Teams
+    types: color
   event_rare:
     category: 23
     description: Rare Event

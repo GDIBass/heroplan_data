@@ -1,29 +1,29 @@
 speeds:
   very_fast:
     code: 1
-    name: VF
+    shortName: VF
     description: Very Fast
   fast:
     code: 2
-    name: F
+    shortName: F
     description: Fast
   average:
     code: 3
-    name: A
+    shortName: A
     description: Average
   slow:
     code: 4
-    name: S
+    shortName: S
     description: Slow
   very_slow:
     code: 5
-    name: VS
+    shortName: VS
     description: Very Slow
   charge:
     code: 6
-    name: C
+    shortName: C
     description: Charge
   magic:
     code: 7
-    name: M
+    shortName: M
     description: Magic
