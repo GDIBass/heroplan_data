@@ -3,163 +3,311 @@ families:
     code: 1
     description: Avalon
     image: https://i.imgur.com/3w1wXtX.png
+    bonus:
+      - "Bonus for 2/3/4/5 Unique Heroes:"
+      - "+5%/+10%/+15%/+20% critical chance"
+      - "+4%/+6%/+9%/+13% healing"
   corellia:
     code: 2
     description: Corellia
     image: https://i.imgur.com/G2RecHB.png
+    bonus:
+      - "Bonus for 2/3/4/5 Unique Heroes:"
+      - "+3%/+6%/+10%/+15% attack"
+      - "+2%/+4%/+7%/+12% mana generation"
   grimforest:
     code: 3
     description: Grimforest
     image: https://i.imgur.com/GVVODC4.png
+    bonus:
+      - "Bonus for 2/3/4/5 Unique Heroes:"
+      - "+3%/+6%/+10%/+15% attack"
+      - "+5%/+10%/+15%/+20% defense"
   teltoc:
     code: 4
     description: Teltoc
     image: https://i.imgur.com/6rPXlkh.png
+    bonus:
+      - "Bonus for 2/3/4/5 Unique Heroes:"
+      - "+5%/+10%/+15%/+20% defense"
+      - "+4%/+6%/+9%/+13% healing"
   wonderland:
     code: 5
     description: Wonderland
     image: https://i.imgur.com/DJoFMFs.png
+    bonus:
+      - "Bonus for 2/3/4/5 Unique Heroes:"
+      - "+2%/+4%/+7%/+12% mana generation"
+      - "+5%/+10%/+15%/+20% critical chance"
   villains:
     code: 6
     description: Villains
     image: https://i.imgur.com/HkuRc7f.png
+    bonus:
+      - "Bonus for 2/3 Heroes:"
+      - "+20%/+40% chance to heal 30%/60% of dealt damage when attacking an enemy."
   starfall:
     code: 7
     description: Starfall
     image: https://i.imgur.com/EWmrEVJ.png
+    bonus:
+      - "Bonus for 2/3 Heroes:"
+      - "40%/60% chance to cleanse the Hero's most recent cleansable status ailment at the end of each turn."
   slayer:
     code: 8
     description: Slayer
     image: https://i.imgur.com/aswQGWQ.png
+    bonus:
+      - "Bonus for 1/2/3 Heroes:"
+      - "50%/75%/100% chance to receive the following stacks at the end of each turn:"
+      - " * Stack (Max: 10): The caster recovers 10 HP each turn."
+      - " * Stack (Max: 10): The caster gets +5% mana generation."
   wolf:
     code: 9
     description: Wolf
     image: https://i.imgur.com/X6O3SJI.png
+    bonus:
+      - "Bonus for 2/3 Heroes:"
+      - "35%/50% chance to make a cast buff undispellable."
   raven:
     code: 10
     description: Raven
     image: https://i.imgur.com/sUg7Gui.png
+    bonus:
+      - "Bonus for 2/3 Heroes:"
+      - "35%/50% chance to make a cast ailment uncleansable."
   springvale:
     code: 11
     description: Springvale
     image: https://i.imgur.com/yv2c0VP.png
+    bonus:
+      - "Bonus for 2/3 Unique Heroes:"
+      - "+10%/+20% attack"
   sand:
     code: 12
     description: Sand
     image: https://i.imgur.com/BPk0qGL.png
+    bonus:
+      - "Bonus for 2/3 Unique Heroes:"
+      - "+10%/+20% defense"
   morlovia:
     code: 13
     description: Morlovia
     image: https://i.imgur.com/OLdVZhz.png
+    bonus:
+      - "Bonus for 2/3 Unique Heroes:"
+      - "+5%/+12% mana generation"
   christmas:
     code: 14
     description: Christmas
     image: https://i.imgur.com/icjpHCr.png
+    bonus:
+      - "Bonus for 2/3 Unique Heroes:"
+      - "+5%/ +10% health for Minions"
+      - "+5%/ +10% attack for Minions"
   ninja:
-    code: 15
+    code: 18
     description: Ninja
     image: https://i.imgur.com/qT7O029.png
+    bonus:
+      - "Bonus for 2/3 Unique Heroes:"
+      - "+5%/+10% chance to dodge normal attacks and special skills"
+      - "+5%/10% chance to counterattack with 60%/90% of the damage received"
   magic:
-    code: 16
+    code: 19
     description: Magic
     image: https://i.imgur.com/iEc5AVT.png
+    bonus:
+      - "Bonus for 2/3 Unique Heroes:"
+      - "25% / 50% chance to cast +5 mana generation stack on a random ally when this hero casts their special skill."
+      - "Maximum stack size: 10"
   lagoon:
     code: 20
     description: Lagoon
     image: https://i.imgur.com/Uyr4xyW.png
+    bonus:
+      - "Bonus for 2/3/4/5 Unique Heroes:"
+      - "+3%/+6%/+10%/+15% attack"
   sakura:
     code: 21
     description: Sakura
     image: https://i.imgur.com/Zhij1jV.png
+    bonus:
+      - "Bonus for 2/3/4/5 Unique Heroes:"
+      - "+2%/+4%/+7%/+12% mana generation"
   atlantis:
     code: 22
     description: Atlantis
     image: https://i.imgur.com/NnEpJz6.png
+    bonus:
+      - "Bonus for 2/3/4/5 Unique Heroes:"
+      - "+5%/+10%/+15%/+20% defense"
   alfheim:
     code: 31
     description: Alfheim
     image: https://i.imgur.com/Lyd0crW.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "All allies are healed by 2/4/7% when an Alfheim Hero reaches low health."
   asgard:
     code: 32
     description: Asgard
     image: https://i.imgur.com/WH4jFxU.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "All allies gain 10/15/20% mana when an Asgard Hero dies"
   helheim:
     code: 33
     description: Helheim
     image: https://i.imgur.com/06GGSHD.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "Deals 25/50/100% damage to all enemies when a Helheim Hero dies."
   jotunheim:
     code: 34
     description: Jotunheim
     image: https://i.imgur.com/9l70B0q.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "All allies get an Ice Giant minion with 6/10/14% HP and 10/12/16% attack inherited from the caster when a Jotunheim Hero dies."
   midgard:
     code: 35
     description: Midgard
     image: https://i.imgur.com/iwz5zfk.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "All allies get +5%/+10%/+15% attack for as long as a Midgard ally has low health. This effect cannot be dispelled."
   muspelheim:
     code: 36
     description: Muspelheim
     image: https://i.imgur.com/yfntUFd.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "All enemies receive 22/37/64 Burn damage for as long as a Muspelheim ally has low health. This effect cannot be dispelled."
   niflheim:
     code: 37
     description: Niflheim
     image: https://i.imgur.com/9IKlBPF.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "All enemies have -5/-10/-15% accuracy for as long as a Niflheim ally has low health. Chance to miss also applies to offensive Special Skills."
   svartalfheim:
     code: 38
     description: Svartalfheim
     image: https://i.imgur.com/db0FRjF.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "All enemies received 22/37/64 Poison damage for as long as a Svartalfheim ally has low health. This effect cannot be dispelled."
   vanaheim:
     code: 39
     description: Vanaheim
     image: https://i.imgur.com/cxNRl8V.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "The mana of all enemies is reduced by -5/-10/-15% when a Vanaheim Hero dies."
   underwild:
     code: 41
     description: Underwild
     image: https://i.imgur.com/XH6RVMi.png
+    bonus:
+      - "Bonus for 1/2/3/4/5 Unique Heroes:"
+      - "20%/24%/28%/32%/36% chance to spawn an Underwild Gem on the board when this Hero casts their Special Skill"
   kingdom:
     code: 42
     description: Kingdom
     image: https://i.imgur.com/Yt0YsgL.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "2% / 4% / 6% mana each time a Minion is summoned for the Hero."
+      - "2% / 3% / 4% heal each time a Minion is summoned for the Hero."
+      - "Morale Boost:"
+      - "Heroes belonging to this family as well as heroes fighting alongside with them receive additional perks in War of the Three Kingdoms:"
+      - "+10% attack, + 3% defense, +7% health"
   sun:
     code: 51
     description: Sun
     image: https://i.imgur.com/lOOvOGn.png
+    bonus:
+      - "Bonus for 1/2 Unique Heroes:"
+      - "10% / 20% chance to make a cast -35% accuracy for 2 turns and X Burn damage over 2 turns on an enemy who deals Special Skill damage to this character."
+      - "If the enemy’s Special Skill defeats this character, the chance is 50%/75%"
   moon:
     code: 52
     description: Moon
     image: https://i.imgur.com/UTdgxg0.png
+    bonus:
+      - "Bonus for 1/2 Unique Heroes:"
+      - "10% / 20% chance to make a cast -24% defense for 2 turns and X Water damage over 2 turns on an enemy who deals Special Skill damage to this character."
+      - "If the enemy’s Special Skill defeats this character, the chance is 50%/75%"
   gargoyle:
     code: 61
     description: Gargoyle
     image: https://i.imgur.com/ufI7ypu.png
+    bonus:
+      - "Bonus for 1/2/3/ Unique Heroes:"
+      - "Immune to Poison damage / Immune to Poison and Burn damage / Immune to Poison and Burn and Water damage"
   styx:
     code: 62
     description: Styx
     image: https://i.imgur.com/yRp9vf6.png
+    bonus:
+      - "Bonus for 1/2 Unique Heroes:"
+      - "When this Hero receives a status ailment affecting defense, 40%/60% chance to cast the received ailment to all enemies."
   kalevala:
     code: 63
     description: Kalevala
     image: https://i.imgur.com/dNC6vDL.png
+    bonus:
+      - "Bonus for 1/2/3 Unique Heroes:"
+      - "Receive -10%/-25%/-40% less damage from the Special Skills of the stronger element."
   2017:
     code: 2017
     description: 2017
     image: https://i.imgur.com/Ukh12sD.png
+    bonus:
+      - "Bonus for 1/2/3:"
+      - "+5%/+10%/+15% mana generation."
+      - "Bonus for 2+ Heroes:"
+      - "Element Link affects all allies."
   2018:
     code: 2018
     description: 2018
     image: https://i.imgur.com/0NLCsjr.png
+    bonus:
+      - "Bonus for 1/2/3:"
+      - "+10%/+15%/+20% defense."
+      - "Bonus for 2+ Heroes:"
+      - "Element Link affects all allies."
   2019:
     code: 2019
     description: 2019
     image: https://i.imgur.com/typJ7Ps.png
+    bonus:
+      - "Bonus for 1/2/3:"
+      - "+10%/+15%/+20% attack."
+      - "Bonus for 2+ Heroes:"
+      - "Element Link affects all allies."
   2020:
     code: 2020
     description: 2020
     image: https://i.imgur.com/n2Qg9sY.png
+    bonus:
+      - "Bonus for 1/2/3:"
+      - "+10%/+15%/+20% healing."
+      - "Bonus for 2+ Heroes:"
+      - "Element Link affects all allies."
   2021:
     code: 2021
     description: 2021
     image: https://i.imgur.com/cE1r5Rx.png
+    bonus:
+      - "Bonus for 1/2/3:"
+      - "+10%/+15%/+20% critical chance."
+      - "Bonus for 2+ Heroes:"
+      - "Element Link affects all allies."
   2022:
     code: 2022
     description: 2022
     image: https://i.imgur.com/IoPEewI.png
+    bonus:
+      - "Bonus will activate on January 1st, 2023"

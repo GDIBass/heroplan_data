@@ -3,27 +3,65 @@ speeds:
     code: 1
     shortName: VF
     description: Very Fast
+    tiles: 6.5
+    breakPoints:
+      9:
+        tiles: 6
   fast:
     code: 2
     shortName: F
     description: Fast
+    tiles: 8
+    breakPoints:
+      15:
+        tiles: 7
   average:
     code: 3
     shortName: A
     description: Average
+    tiles: 10
+    breakPoints:
+      12:
+        tiles: 9
   slow:
     code: 4
     shortName: S
     description: Slow
+    tiles: 12
+    breakPoints:
+      10:
+        tiles: 11
+      20:
+        tiles: 10
   very_slow:
     code: 5
     shortName: VS
     description: Very Slow
+    tiles: 13.5
+    breakPoints:
+      4:
+        tiles: 13
+      13:
+        tiles: 12
   charge:
     code: 6
     shortName: C
     description: Charge
+    tiles: 5/10/15
+    breakPoints:
+      7:
+        tiles: 5/10/14
+      9:
+        tiles: 5/9/14
+      15:
+        tiles: 5/9/13
   magic:
     code: 7
     shortName: M
     description: Magic
+    tiles: 6/13
+    breakPoints:
+      5:
+        tiles: 6/12
+      13:
+        tiles: 5/11
