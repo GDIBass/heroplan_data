@@ -11,3 +11,9 @@ sharing_modes:
   searchable:
     id: 3
     description: Searchable
+
+social_networks:
+  google:
+    description: Google
+  facebook:
+    description: Facebook
