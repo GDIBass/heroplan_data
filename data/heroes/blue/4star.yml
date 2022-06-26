@@ -281,7 +281,7 @@
     types:
       - Hit all
       - Stacker
-    bonuses: 2
+    bonuses: 2/2/4/1
     image: https://i.imgur.com/HUrGPkv.jpg
 - name: Sanngrior
   class: Cleric

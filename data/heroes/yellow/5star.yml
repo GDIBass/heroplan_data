@@ -49,7 +49,7 @@
       - Hit 1
       - Debuff Immunity
     image: https://i.imgur.com/jU6Z8JO.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Leonidas
   class: Monk
   source: Season1
@@ -151,7 +151,7 @@
       - Dot 3
       - Cleanse
     image: https://i.imgur.com/ETB8w9H.jpg
-    bonuses: 1
+    bonuses: 3/3/6/1
   family: Sand
   image: https://i.imgur.com/XCRwmmP.jpg
 - name: Onatel
@@ -286,7 +286,7 @@
       - Hit All
       - Summoner
       - Accuracy Debuff
-    bonuses: 2
+    bonuses: 2/2/4/1
     image: https://i.imgur.com/Q0YpLSK.jpg
 - name: Guinevere
   class: Wizard
@@ -357,7 +357,7 @@
     types:
       - Hit 3
     image: https://i.imgur.com/31loghP.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Delilah
   class: Fighter
   source: Hotm
@@ -428,7 +428,7 @@
       - Hit 3
       - Defense Debuff
     image: https://i.imgur.com/qj3SAsZ.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Guardian Gazelle
   class: Druid
   source: Teltoc
@@ -556,7 +556,7 @@
       - Defense Debuff
       - Dispeller
     image: https://i.imgur.com/wRsoDQK.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Bai Yeong
   class: Ranger
   source: Hotm

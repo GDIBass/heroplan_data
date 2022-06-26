@@ -32,7 +32,7 @@
     types:
       - Attack Buff
       - Regen
-    bonuses: 2
+    bonuses: 2/2/4/1
     image: https://i.imgur.com/BehrpwT.jpg
 - name: Sir Lancelot
   class: Fighter

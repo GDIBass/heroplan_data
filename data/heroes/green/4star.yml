@@ -168,7 +168,7 @@
       - Hit all
       - Chain
     image: https://i.imgur.com/mwBA0kR.jpg
-    bonuses: 1
+    bonuses: 3/3/6/1
 - name: Hansel
   class: Cleric
   source: Fables
@@ -239,7 +239,7 @@
       - Hit All
       - Attack Buff
       - Regen
-    bonuses: 2
+    bonuses: 2/2/4/1
     image: https://i.imgur.com/MAOY5JJ.jpg
 - name: Caedmon
   class: Druid

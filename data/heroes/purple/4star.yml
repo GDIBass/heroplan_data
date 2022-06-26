@@ -259,7 +259,7 @@
       - While in Ghost form, all allies except the caster regenerate 140 HP every turn.
     types:
       - Ghost
-    bonuses: 2
+    bonuses: 2/2/4/1
     image: https://i.imgur.com/VZyVFDJ.jpg
 - name: Stonecleave
   class: Barbarian

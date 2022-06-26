@@ -50,7 +50,7 @@
     types:
       - Hit All
       - Reflect Buff
-    bonuses: 2
+    bonuses: 2/2/4/1
     image: https://i.imgur.com/cXwWGpL.jpg
 - name: Zimkitha
   class: Druid
@@ -111,7 +111,7 @@
       - Attack Debuff
       - Defense Debuff
     image: https://i.imgur.com/3zbVEXc.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Red Hood
   class: Ranger
   source: Fables
@@ -283,7 +283,7 @@
       - Hit All
       - DoT All
     image: https://i.imgur.com/qMb0Vgk.jpg
-    bonuses: 1
+    bonuses: 3/3/6/1
 - name: Elena
   class: Fighter
   source: Season1
@@ -626,7 +626,7 @@
       - Hit All
       - Health Steal
       - Status Ailment Immunity
-    bonuses: 2
+    bonuses: 2/2/4/1
     image: https://i.imgur.com/Cda8pQ8.jpg
 - name: Reuben
   class: Cleric

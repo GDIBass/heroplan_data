@@ -28,7 +28,7 @@
     types:
       - Hit All
       - Accuracy Debuff
-    bonuses: 2
+    bonuses: 2/2/4/1
     image: https://i.imgur.com/pRlDHaa.jpg
 - name: Kailani
   class: Cleric

@@ -108,7 +108,7 @@
       - Dot all
       - Cleanser
     image: https://i.imgur.com/vpqf6zq.jpg
-    bonuses: 1
+    bonuses: 3/3/6/1
   image: https://i.imgur.com/jUayUm6.jpg
 - name: The Hatter
   class: Cleric
@@ -179,7 +179,7 @@
       - Summoner
       - HoT All
     image: https://i.imgur.com/0QsTiw8.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Lianna
   class: Ranger
   source: Season1
@@ -388,7 +388,7 @@
       - HOT
       - MOT
     image: https://i.imgur.com/qgThGvZ.jpg
-    bonuses: 1
+    bonuses: 3/3/6/1
 - name: Lady of the Lake
   class: Sorcerer
   source: Avalon
@@ -410,7 +410,7 @@
   image: https://i.imgur.com/hlRFlMx.jpg
   costume:
     class: Fighter
-    bonuses: 1
+    bonuses: 3/3/6/1
     power: 805
     attack: 767
     defense: 771
@@ -622,7 +622,7 @@
     types:
       - Hit 3
       - Cleanser
-    bonuses: 2
+    bonuses: 2/2/4/1
     image: https://i.imgur.com/ObnUcTT.jpg
 - name: Bertila
   class: Fighter

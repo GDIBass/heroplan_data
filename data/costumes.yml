@@ -1,3 +1,110 @@
 images:
   costume:  https://i.imgur.com/AHPba5W.png
   maxcostume:  https://i.imgur.com/nV1XgCg.png
+
+bonuses:
+  default-5star:
+    max:
+      attack: 5
+      defense: 5
+      health: 10
+      mana: 5
+    4:
+      attack: 2
+      defense: 2
+      health: 5
+      mana: 1
+    3:
+      attack: 2
+      defense: 2
+      health: 4
+      mana: 2
+    2:
+      attack: 1
+      defense: 1
+      health: 2
+      mana: 1
+  default-4star:
+    max:
+      attack: 5
+      defense: 5
+      health: 10
+      mana: 5
+    4:
+      attack: 2
+      defense: 2
+      health: 5
+      mana: 1
+    3:
+      attack: 3
+      defense: 3
+      health: 5
+      mana: 3
+    2:
+      attack: 1
+      defense: 1
+      health: 2
+      mana: 1
+  default-3star:
+    max:
+      attack: 5
+      defense: 5
+      health: 10
+      mana: 5
+    4:
+      attack: 2
+      defense: 2
+      health: 5
+      mana: 1
+    3:
+      attack: 3
+      defense: 3
+      health: 6
+      mana: 3
+    2:
+      attack: 1
+      defense: 1
+      health: 3
+      mana: 1
+  3/3/6/1:
+    max:
+      attack: 3
+      defense: 3
+      health: 6
+      mana: 1
+    4:
+      attack: 2
+      defense: 2
+      health: 3
+      mana: 1
+    3:
+      attack: 2
+      defense: 2
+      health: 4
+      mana: 1
+    2:
+      attack: 1
+      defense: 1
+      health: 2
+      mana: 1
+  2/2/4/1:
+    max:
+      attack: 2
+      defense: 2
+      health: 4
+      mana: 1
+    4:
+      attack: 1
+      defense: 1
+      health: 3
+      mana: 1
+    3:
+      attack: 1
+      defense: 1
+      health: 2
+      mana: 1
+    2:
+      attack: 1
+      defense: 1
+      health: 1
+      mana: 1

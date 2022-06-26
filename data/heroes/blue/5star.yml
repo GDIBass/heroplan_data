@@ -54,7 +54,7 @@
       - Mana regeneration
       - Cleanser
     image: https://i.imgur.com/gRSAJUL.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Thorne
   class: Paladin
   source: Season1
@@ -213,7 +213,7 @@
     types:
       - Hit 1
     image: https://i.imgur.com/aLTsGWG.jpg
-    bonuses: 1
+    bonuses: 3/3/6/1
 - name: Magni
   class: Fighter
   source: Season1
@@ -328,7 +328,7 @@
       - Hit 3
       - Defense Debbuff
     image: https://i.imgur.com/MA6JXX4.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Alice
   class: Rogue
   source: Wonderland
@@ -380,7 +380,7 @@
       - Hit 3
       - Mana reduction
     image: https://i.imgur.com/UQE64tc.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Aegir
   class: Paladin
   source: Hotm
@@ -457,7 +457,7 @@
       - Bounce
       - Defense Debuff
     image: https://i.imgur.com/8HdzNsi.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Snow White
   class: Cleric
   source: Fables
@@ -478,7 +478,7 @@
   image: https://i.imgur.com/EVw3AO1.jpg
   costume:
     class: Ranger
-    bonuses: 1
+    bonuses: 3/3/6/1
     power: 805
     attack: 803
     defense: 748
@@ -656,7 +656,7 @@
       - Defense Buff
       - Attack Buff
     image: https://i.imgur.com/fkiwdOj.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Lord Loki
   class: Wizard
   source: Season3
@@ -978,7 +978,7 @@
     - Hit 1
     - Hit All
     - Summoner
-  family: Winter
+  family: Christmas
   image: https://i.imgur.com/BbxUIy4.jpg
 - name: Passepartout
   class: Fighter

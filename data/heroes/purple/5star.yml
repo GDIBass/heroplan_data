@@ -32,7 +32,7 @@
     types:
       - Hit All
     image: https://i.imgur.com/HefSfvM.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Seshat
   class: Ranger
   source: Hotm
@@ -72,7 +72,7 @@
       - Hit 1
       - Summoner
     image: https://i.imgur.com/qNMuMVA.jpg
-    bonuses: 1
+    bonuses: 3/3/6/1
 - name: Kunchen
   class: Cleric
   source: Hotm
@@ -133,7 +133,7 @@
       - DoT 3
       - Health Steal
       - Defense Debuff
-    bonuses: 2
+    bonuses: 2/2/4/1
     image: https://i.imgur.com/bKghYKS.jpg
 - name: Thoth-Amun
   class: Sorcerer
@@ -325,7 +325,7 @@
       - Buff immunity
       - Defense Debuff
     image: https://i.imgur.com/3Xk7Vld.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Hel
   class: Wizard
   source: Hotm
@@ -493,7 +493,7 @@
       - Health boost
       - Zombie
     image: https://i.imgur.com/cwv2NUd.jpg
-    bonuses: 2
+    bonuses: 2/2/4/1
 - name: Jabberwock
   class: Monk
   source: Wonderland
@@ -513,7 +513,7 @@
   image: https://i.imgur.com/ODUCn9s.jpg
   costume:
     class: Druid
-    bonuses: 1
+    bonuses: 3/3/6/1
     power: 805
     attack: 775
     defense: 763
@@ -614,7 +614,7 @@
     types:
       - Hit all
     image: https://i.imgur.com/vAkZp36.jpg
-    bonuses: 1
+    bonuses: 3/3/6/1
 - name: Clarissa
   class: Paladin
   source: Hotm
