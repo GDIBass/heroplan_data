@@ -997,7 +997,7 @@
     - When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
   image: https://i.imgur.com/wOeJMxg.jpg
 - name: Vainamoinen
-  class: Druid
+  class: Sorcerer
   speed: Fast
   family: Kalevala
   source: Kalevala

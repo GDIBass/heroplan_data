@@ -427,7 +427,7 @@
   skill: Feral Revenge
   effects:
     - The caster and nearby allies counterattack with 135% of the damage received for 5 turns.
-    - The caster and nearby allies decrease -10% maan from the attacker on each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn.
+    - The caster and nearby allies decrease -10% mana from the attacker on each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn.
   types:
     - Counterattack
   family: Wolf
