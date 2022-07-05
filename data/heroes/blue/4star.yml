@@ -324,8 +324,8 @@
   speed: Fast
   family: Kingdom
   power: 682
-  attack: 640
-  defense: 746
+  attack: 641
+  defense: 748
   health: 1179
   skill: Qilin Blade
   effects:
@@ -342,13 +342,13 @@
   family: Moon
   speed: Average
   power: 683
-  attack: 539
-  defense: 830
-  health: 1266
+  attack: 584
+  defense: 745
+  health: 1326
   skill: Counterstance
   effects:
-    - Recovers 20% health for all allies.
-    - The caster and nearby allies counterattack with 120% of the damage received for 4 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 150%.
+    - Recovers 15% health for all allies.
+    - The caster and nearby allies counterattack with 100% of the damage received for 4 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 130%.
   types:
     - Heal All
     - Counterattack

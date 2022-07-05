@@ -143,9 +143,9 @@
     skill: Surf's Up
     effects:
       - Deals 185% damage to the target and nearby enemies.
-      - The target and nearby enemies receive 438 Water damage over 3 turns
-      - The target and nearby enemies get -75% decrease for any healing received for 2 turns. This effect can't be cleansed.
-      - Cleanses status ailements from the caster and nearby allies.
+      - The target and nearby enemies receive 584 Water damage over 4 turns
+      - The target and nearby enemies get -75% decrease for any healing received for 4 turns. This effect can't be cleansed.
+      - Cleanses status ailments from the caster and nearby allies.
     types:
       - Hit 3
       - Dot 3
@@ -860,10 +860,10 @@
   source: Blackfriday
   family: Gargoyle
   speed: Average
-  power: 820
-  attack: 811
-  defense: 741
-  health: 1458
+  power: 826
+  attack: 817
+  defense: 747
+  health: 1472
   skill: Radiant Rapid-Fire
   effects:
     - Deals 245% damage to all enemies.
@@ -1005,10 +1005,10 @@
   class: Druid
   family: Moon
   speed: Average
-  power: 826
-  attack: 780
-  defense: 788
-  health: 1487
+  power: 833
+  attack: 788
+  defense: 795
+  health: 1501
   skill: Summon Sand Golems
   effects:
     - "Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker gets the following status ailment:"

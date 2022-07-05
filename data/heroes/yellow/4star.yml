@@ -287,9 +287,9 @@
   class: Sorcerer
   speed: Slow
   family: Kingdom
-  power: 682
-  attack: 647
-  defense: 708
+  power: 683
+  attack: 675
+  defense: 709
   health: 1170
   skill: Noble's Empathy
   effects:

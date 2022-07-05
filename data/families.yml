@@ -140,8 +140,8 @@ families:
     description: Atlantis
     image: https://i.imgur.com/NnEpJz6.png
     bonus:
-      - "Bonus for 2/3/4/5 Unique Heroes:"
-      - "+5%/+10%/+15%/+20% defense"
+      - "Bonus for 1/2/3/4/5 Unique Heroes:"
+      - "+5%/+10%/+15%/+20%/+25% defense"
   alfheim:
     code: 31
     description: Alfheim
@@ -218,8 +218,8 @@ families:
     image: https://i.imgur.com/Yt0YsgL.png
     bonus:
       - "Bonus for 1/2/3 Unique Heroes:"
-      - "2% / 4% / 6% mana each time a Minion is summoned for the Hero."
-      - "2% / 3% / 4% heal each time a Minion is summoned for the Hero."
+      - "3% / 6% / 10% mana each time a Minion is summoned for the Hero."
+      - "4% / 6% / 8% heal each time a Minion is summoned for the Hero."
       - "Morale Boost:"
       - "Heroes belonging to this family as well as heroes fighting alongside with them receive additional perks in War of the Three Kingdoms:"
       - "+10% attack, + 3% defense, +7% health"
@@ -229,8 +229,8 @@ families:
     image: https://i.imgur.com/lOOvOGn.png
     bonus:
       - "Bonus for 1/2 Unique Heroes:"
-      - "10% / 20% chance to make a cast -35% accuracy for 2 turns and X Burn damage over 2 turns on an enemy who deals Special Skill damage to this character."
-      - "If the enemy’s Special Skill defeats this character, the chance is 50%/75%"
+      - "50% / 75% chance to make a cast -35% accuracy for 2 turns and X Burn damage over 2 turns on an enemy who deals Special Skill damage to this character."
+      - "If the enemy’s Special Skill defeats this character, the chance is 75%/100%"
   moon:
     code: 52
     description: Moon

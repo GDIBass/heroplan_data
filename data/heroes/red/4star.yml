@@ -439,8 +439,8 @@
   family: Kingdom
   power: 682
   attack: 782
-  defense: 545
-  health: 1223
+  defense: 546
+  health: 1224
   skill: Royal Blades
   effects:
     - Deals 280% damage to the target and minor damage to dearby enemies.
@@ -455,9 +455,9 @@
   speed: Average
   family: Kingdom
   power: 682
-  attack: 638
-  defense: 670
-  health: 1335
+  attack: 639
+  defense: 671
+  health: 1336
   skill: Scion Sword
   effects:
     - Deals 355% damage to the target.

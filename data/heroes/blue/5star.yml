@@ -962,10 +962,10 @@
   source: Blackfriday
   family: Gargoyle
   speed: Fast
-  power: 820
-  attack: 836
-  defense: 718
-  health: 1444
+  power: 826
+  attack: 842
+  defense: 725
+  health: 1458
   skill: Educated Exorcism
   effects:
     - Deals 490% damage to the target.
@@ -1080,10 +1080,10 @@
   class: Wizard
   family: Sun
   speed: Average
-  power: 826
-  attack: 826
-  defense: 716
-  health: 1516
+  power: 833
+  attack: 834
+  defense: 723
+  health: 1532
   skill: Jaws of the River
   effects:
     - Deals 290% damage to all enemies.

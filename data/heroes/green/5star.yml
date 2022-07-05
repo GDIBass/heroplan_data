@@ -100,9 +100,9 @@
     skill: Wipeout
     effects:
       - Deals 176% damage to all enemies.
-      - All enemies receive 360 Sand damage over 3 turns.
-      - All allies get +33% mana generation for 3 turns
-      - Cleanses sstatus ailments from all allies
+      - All enemies receive 600 Sand damage over 5 turns.
+      - All allies get +33% mana generation for 5 turns
+      - Cleanses status ailments from all allies
     types:
       - Hit All
       - Dot all
@@ -921,10 +921,10 @@
   class: Wizard
   family: Moon
   speed: Fast
-  power: 826
-  attack: 821
-  defense: 764
-  health: 1431
+  power: 833
+  attack: 828
+  defense: 772
+  health: 1446
   skill: Luring Song
   effects:
     - Deals 305% damage to the target and minor damage to nearby enemies.
