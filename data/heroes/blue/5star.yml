@@ -571,6 +571,23 @@
     - Stack
   family: Jotunheim
   image: https://i.imgur.com/MzjdnYC.jpg
+  costume:
+    class: Paladin
+    power: 830
+    attack: 769
+    defense: 800
+    health: 1518
+    skill: Iceberg Havoc
+    effects:
+      - Deals 320% damage to the target and nearby enemies.
+      - The damage is increased by 35% per each dead enemy.
+      - "Stack (Max: 10): All enemies receive 44 Frost damage per each killed enemy or enemy Minion at the end of each turn."
+      - "Stack (Max: 10): All enemies get -7% mana generation per each killed enemy or enemy Minion."
+    types:
+      - Hit 3
+      - DoT
+      - Mana Generation Debuff
+    image: https://i.imgur.com/SWH0vbH.jpg
 - name: Cobalt
   class: Wizard
   source: Ninja
@@ -1118,3 +1135,24 @@
   passives:
     - When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
   image: https://i.imgur.com/VkKPr4n.jpg
+- name: Klaern
+  source: Hotm
+  class: Sorcerer
+  family: 2022
+  speed: Slow
+  power: 804
+  attack: 762
+  defense: 768
+  health: 1411
+  skill: Hailstorm
+  effects:
+    - Deals 240% damage to all enemies
+    - All enemies receive 205 Water damage over 5 turns. The caster absorbs 25% of dealt Water damage as health.
+    - Element Link gives all ice allies +10% defense for 4 turns. This effect can't be dispelled.
+  types:
+    - Hit all
+    - Health steal
+  passives:
+    - This character has innate resistance against mana reduction.
+    - This character has innate resistance against status ailments that block Special Skills.
+  image: https://i.imgur.com/zoE3F2A.jpg

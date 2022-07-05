@@ -901,7 +901,7 @@
     - " - Reduces the mana of the target and nearby enemies by 50%."
     - " - The target and nearby enemies get -24% mana generation for 3 turns."
     - "3x Mana Charge:"
-    - " - Deals 290% damage to all enemies."
+    - " - Deals 370% damage to all enemies."
     - " - Reduces the mana of all enemies by 100%."
     - " - The target gets -34% mana generation for 4 turns."
   types:
