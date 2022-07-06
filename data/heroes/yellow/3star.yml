@@ -197,6 +197,21 @@
     - Dot 1
   family: Alfheim
   image: https://i.imgur.com/iXRJ2NZ.jpg
+  costume:
+    class: Paladin
+    power: 477
+    attack: 429
+    defense: 443
+    health: 986
+    skill: Bee Bombast
+    effects:
+      - Summons a Bee Minion for each ally. The Bee Minion inherits 18% HP and 15% attack from the caster.
+      - "Each hit from the Bee Minion gives the target the following status ailments:"
+      - " * The target receives 54 Poison damage over 3 turns."
+      - " * The target is immune to status effects buffs for 2 turns."
+    types:
+      - Summoner
+    image: https://i.imgur.com/3EEFeIL.jpg
 - name: Agnes
   class: Rogue
   source: Season3

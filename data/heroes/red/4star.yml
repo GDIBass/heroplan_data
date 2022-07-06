@@ -251,6 +251,19 @@
     - Hit All
   family: Muspelheim
   image: https://i.imgur.com/yxQi63p.jpg
+  costume:
+    class: Druid
+    power: 683
+    attack: 722
+    defense: 656
+    health: 1161
+    skill: Volcanic Boulders
+    effects:
+      - Deals 365% damage to target and nearby enemies. Each hit has 85% accuracy.
+      - The damage is increased by 25% per each dead enemy.
+    types:
+      - Hit 3
+    image: https://i.imgur.com/BBcd7nx.jpg
 - name: Shadereave
   class: Fighter
   source: Season3

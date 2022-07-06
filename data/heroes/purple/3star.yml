@@ -231,6 +231,22 @@
     - Hit Bounce
   family: Midgard
   image: https://i.imgur.com/vOaNkHC.jpg
+  costume:
+    class: Rogue
+    power: 478
+    attack: 464
+    defense: 456
+    health: 878
+    skill: Empowered Slash
+    effects:
+      - Deals 180% damage to the target.
+      - Deals 380% damage to a random different enemy.
+      - Enemies hit get -24% mana generation for 3 turns. The status effect is uncleansable and lasts 2 turns longer on Holy characters.
+    types:
+      - Hit 1
+      - Bounce
+      - Mana Generation Debuff
+    image: https://i.imgur.com/KuvURzu.jpg
 - name: An-Windr
   class: Ranger
   source: Season3
