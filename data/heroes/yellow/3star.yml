@@ -212,6 +212,7 @@
     types:
       - Summoner
     image: https://i.imgur.com/3EEFeIL.jpg
+    bonuses: 3/3/6/1
 - name: Agnes
   class: Rogue
   source: Season3

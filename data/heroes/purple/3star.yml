@@ -247,6 +247,7 @@
       - Bounce
       - Mana Generation Debuff
     image: https://i.imgur.com/KuvURzu.jpg
+    bonuses: 3/3/6/1
 - name: An-Windr
   class: Ranger
   source: Season3

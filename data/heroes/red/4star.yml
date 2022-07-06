@@ -264,6 +264,7 @@
     types:
       - Hit 3
     image: https://i.imgur.com/BBcd7nx.jpg
+    bonuses: 3/3/6/1
 - name: Shadereave
   class: Fighter
   source: Season3

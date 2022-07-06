@@ -221,6 +221,20 @@
     - Health Boost
   family: Asgard
   image: https://i.imgur.com/sx7Ooj7.jpg
+  costume:
+    class: Cleric
+    power: 685
+    attack: 612
+    defense: 636
+    health: 1486
+    skill: Furious Board
+    effects:
+      - All allies regenerate 480 boosted health over 4 turns. Boosted health can exceed max HP.
+      - The caster gets +35% attack, and a further 15% increase every time they or any of their allies are hit during 4 turns. When the effect ends, all enemies receive 236 damage. Each hit on the caster or their allies during the duration increases the damage by 15 to a maximum of 416 damage.
+    types:
+      - Health boost
+    bonuses: 3/3/6/1
+    image: https://i.imgur.com/0fW6S7f.jpg
 - name: Griffin
   class: Rogue
   source: Season4
