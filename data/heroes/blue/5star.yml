@@ -1156,3 +1156,23 @@
     - This character has innate resistance against mana reduction.
     - This character has innate resistance against status ailments that block Special Skills.
   image: https://i.imgur.com/zoE3F2A.jpg
+- name: Bennu
+  source: Season5
+  class: Druid
+  family: Sun
+  speed: Average
+  power: 836
+  attack: 768
+  defense: 834
+  health: 1497
+  skill: Divine Reflection
+  effects:
+    - The caster and nearby allies counterattack with 100% of the damage received for 5 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 130%.
+    - The caster and nearby allies reduce all received damage by -50% for 5 turns.
+  types:
+    - Counterattack
+  passives:
+    - 60% chance to perform the following actions when this character casts their Special Skill
+    - " * Boosts health of all allies by 10%. Boosted health can exceed max HP."
+    - " * Cleanses the latest cleansable status ailment from all allies."
+  image:
