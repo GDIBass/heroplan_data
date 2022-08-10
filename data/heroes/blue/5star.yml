@@ -636,7 +636,7 @@
   family: 2020
 - name: Krampus
   class: Sorcerer
-  source: CHristmas
+  source: Christmas
   speed: Average
   power: 802
   attack: 667
@@ -656,7 +656,7 @@
   family: Christmas
   image: https://i.imgur.com/9L71cZ8.jpg
   costume:
-    class: Rogue
+    class: Barbarian
     power: 819
     attack: 658
     defense: 880
@@ -765,9 +765,9 @@
   health: 1404
   skill: Multi-Throw
   effects:
-    - Deals 375% damage to the enemy with the higest ramining HP. Deals 230% damage to all other enemies.
+    - Deals 375% damage to the enemy with the highest remaining HP. Deals 260% damage to all other enemies.
     - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Nature Special Skills for 4 turns.
-    - All allies get +50% attack fo 4 turns.
+    - All allies get +45% attack, and a further increase of +20% every time they are hit, for 4 turns.
   types:
     - Hit All
     - Attack Buff
