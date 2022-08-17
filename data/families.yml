@@ -260,6 +260,14 @@ families:
     bonus:
       - "Bonus for 1/2/3 Unique Heroes:"
       - "Receive -10%/-25%/-40% less damage from the Special Skills of the stronger element."
+  bard:
+    code: 64
+    description: Bard
+    image: https://i.imgur.com/qQBckbX.png
+    bonus:
+      - Bard Family supports other families and realms.
+      - " * Solo Heroes get +5% mana generation. Team members are Solo Heroes if they have no family or realm members in the Team."
+      - "The members of this family have additional perks in the Challenge Festival events."
   2017:
     code: 2017
     description: 2017

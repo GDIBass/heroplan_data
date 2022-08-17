@@ -77,3 +77,6 @@ sources:
   kalevala:
     code: 126
     description: Legends of Kalevala
+  festival:
+    code: 127
+    description: Challenge Festival

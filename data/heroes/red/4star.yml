@@ -522,3 +522,22 @@
   passives:
     - When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
   image: https://i.imgur.com/f4cHfqp.jpg
+- name: Zhabog
+  class: Druid
+  speed: Fast
+  family: Bard
+  source: Festival
+  power: 682
+  attack: 658
+  defense: 603
+  health: 1419
+  skill: Melody of Misery
+  effects:
+    - Deals 350% damage to the target.
+    - The duration of status ailments is reset for all enemies.
+  types:
+    - Hit 1
+    - Status Ailment Reset
+  passives:
+    - Reduces the chance of revival by -50%. The effect applies to all enemies in the battle.
+  image: https://i.imgur.com/GX1p5W9.jpg
