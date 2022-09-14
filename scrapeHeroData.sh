@@ -7,8 +7,14 @@
 # pip install shot-scraper
 # playwright install
 
-# modify this URL for the hero you're scraping for
-HERO=Grace
+HERO=$1
+
+if [ -z "$HERO" ]; then
+    echo "🚨 HERO is not specifed."
+    echo "Usage: scrapeHeroData.sh Grace" 
+    exit 1
+fi
+
 URL=https://empiresandpuzzles.fandom.com/wiki/$HERO
 
 shot-scraper javascript $URL "({
