@@ -268,6 +268,13 @@ families:
       - Bard Family supports other families and realms.
       - " * Solo Heroes get +5% mana generation. Team members are Solo Heroes if they have no family or realm members in the Team."
       - "The members of this family have additional perks in the Challenge Festival events."
+  monsterhunter:
+    code: 65
+    description: Monster Hunter
+    image: https://i.imgur.com/nHCW21A.png
+    bonus:
+      - "Bonus for 2/3/4/5 Heroes:"
+      - "+5%/+10%/+15%/+20% attack."
   2017:
     code: 2017
     description: 2017

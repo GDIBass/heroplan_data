@@ -541,3 +541,25 @@
   passives:
     - Reduces the chance of revival by -50%. The effect applies to all enemies in the battle.
   image: https://i.imgur.com/GX1p5W9.jpg
+- name: Maheegan
+  class: Monk
+  speed: Average
+  source: Covenant
+  family: MonsterHunter
+  power: 684
+  attack: 656
+  defense: 673
+  health: 1298
+  skill: Claws of the Hunter
+  effects:
+    - Deals 280% damage to the target and minor damage to nearby enemies.
+    - Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.
+    - The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health.
+  types:
+    - Hit 3
+    - Fiend
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns.
+    - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  image: https://i.imgur.com/c554xVo.jpg

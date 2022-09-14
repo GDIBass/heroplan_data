@@ -467,6 +467,22 @@
     - Mana Generation Buff
   family: Midgard
   image: https://i.imgur.com/J8w1rJX.jpg
+  costume:
+    class: Cleric
+    power: 830
+    attack: 788
+    defense: 784
+    health: 1501
+    skill: Golden Strings
+    effects:
+      - Increases the mana of the caster and nearby allies by 15%.
+      - The caster and nearby allies counterattack with 125% of the damage received for 4 turns.
+      - The caster and nearby allies reduce all received damage by 40% for 4 turns.
+    types:
+      - Mana boost
+      - Counterattack
+      - Damage Reduction
+    image: https://i.imgur.com/L0IBEq2.jpg
 - name: Norns
   class: Sorcerer
   source: Season3
@@ -1107,3 +1123,29 @@
   passives:
     - Reduces the chance of revival by -50%. The effect applies to all enemies in the battle.
   image: https://i.imgur.com/CuNew0r.jpg
+- name: Malin
+  class: Monk
+  speed: Slow
+  source: Covenant
+  family: MonsterHunter
+  power: 835
+  attack: 788
+  defense: 828
+  health: 1452
+  skill: Wild Cleave
+  effects:
+    - Deals 325% damage to all enemies.
+    - All enemies receive 448 Bleed damage over 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.
+    - All enemies get -75% decrease for any healing for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.
+    - All enemies get -35% accuracy for 4 turns. Chance to miss applies to offensive Special Skills. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.
+    - Deals extra damage against Dark.
+  types:
+    - Hit All
+    - DoT all
+    - Healing Debuff
+    - Accuracy Debuff
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns.
+    - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  image: https://i.imgur.com/7OmJaIC.jpg

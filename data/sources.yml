@@ -80,3 +80,6 @@ sources:
   festival:
     code: 127
     description: Challenge Festival
+  covenant:
+    code: 128
+    description: Covenant of Champions
