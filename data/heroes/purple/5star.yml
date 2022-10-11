@@ -1316,3 +1316,26 @@
     - Deals 70% damage to all enemies.
     - All enemies get -24% mana generation for 3 turns.
   image: https://i.imgur.com/8kUB8ir.jpg
+- name: Hawthorn
+  class: Cleric
+  speed: Average
+  source: Covenant
+  family: MonsterHunter
+  power: 837
+  attack: 770
+  defense: 821
+  health: 1522
+  skill: Medicinal Fumes
+  effects:
+    - All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.
+    - All allies receive a moderate amount of mana over 4 turns.
+    - All allies reflect status ailments for 4 turns.
+  types:
+    - Health Regen
+    - Mana Regen
+    - Ailment Reflection
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns.
+    - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  image: https://i.imgur.com/fbtStrK.jpg

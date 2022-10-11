@@ -1217,3 +1217,26 @@
   passives:
     - When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies
   image: https://i.imgur.com/eyJkRvq.jpg
+- name: Adalinda
+  class: Paladin
+  speed: Averager
+  family: MonsterHunter
+  source: Covenant
+  power: 838
+  attack: 753
+  defense: 828
+  health: 1555
+  skill: Hunting Charge
+  effects:
+    - Deals 395% damage to the target and nearby enemies.
+    - Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack every turn. The damage increases by 8% each turn, up to a maximum of 93%.
+    - The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health.
+    - The target and nearby enemies get -56% defense for 4 turns
+  types:
+    - Hit 3
+    - Fiend
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns.
+    - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  image: https://i.imgur.com/2lTPgSd.jpg
