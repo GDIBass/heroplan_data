@@ -519,3 +519,30 @@
   passives:
     - When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
   image: https://i.imgur.com/tts9FVU.jpg
+- name: Brontes
+  speed: Charge
+  source: Styx
+  family: Styx
+  class: Monk
+  power: 685
+  attack: 690
+  defense: 716
+  health: 1130
+  skill: Good Dose of Garlic
+  effects:
+    - "Special Skill has a different effect when charged with 100% / 200% / 300% mana:"
+    - "1x Mana Charge:"
+    - "* Recovers 25% health for the caster and nearby allies."
+    - "* The caster and nearby allies get +24% mana generation for 2 turns."
+    - "2x Mana Charge:"
+    - "* Recovers 35% health for the caster and nearby allies."
+    - "* Increases the mana of the caster and nearby allies by 10%."
+    - "3x Mana Charge:"
+    - "* Recovers 55% health for the caster and nearby allies."
+    - "* Increases the mana of the caster and nearby allies by 30%."
+    - "* The caster and nearby allies get +40% mana generation for 4 turns."
+  types:
+    - Charge
+  passives:
+    - Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.
+  image: https://i.imgur.com/73sHBAH.jpg

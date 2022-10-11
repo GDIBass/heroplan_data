@@ -592,6 +592,20 @@
     - Minion Steal
   family: Muspelheim
   image: https://i.imgur.com/BYGrEEN.jpg
+  costume:
+    class: Fighter
+    power: 827
+    attack: 795
+    defense: 810
+    health: 1409
+    skill: Maiden's Orders
+    effects:
+      - Destroys all Minions from the target and nearby enemies.
+      - Deals 335% damage to the target and nearby enemies.
+    types:
+      - Hit 3
+      - Destroys Minions
+    image: https://i.imgur.com/ZoOkEJb.jpg
 - name: Vanda
   class: Sorcerer
   source: Morlovia
@@ -1013,7 +1027,7 @@
   class: Sorcerer
   family: Styx
   speed: Charge
-  source: Hotm
+  source: Styx
   power: 829
   attack: 795
   defense: 801
@@ -1209,3 +1223,53 @@
     - Hit 3
     - Summoner
   image: https://i.imgur.com/EShG44Z.jpg
+- name: Alucard
+  class: Sorcerer
+  speed: Very Fast
+  family: Morlovia
+  source: Morlovia
+  power: 836
+  attack: 838
+  defense: 788
+  health: 1411
+  skill: Vampiric Curse
+  effects:
+    - Destroys all Minions from the target and nearby enemies.
+    - Deals 250% damage to the target and nearby enemies.
+    - All allies recover 10% health for each destroyed Minion.
+    - All allies get 3% mana for each destroyed Minion.
+    - The attack bypasses defensive buffs. This includes counterattacks.
+  types:
+    - Minion Destruction
+    - Hit 3
+  passives:
+    - When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
+  image: https://i.imgur.com/ZDIKUNx.jpg
+- name: Erebus
+  class: Wizard
+  speed: Charge
+  source: Styx
+  family: Styx
+  power: 832
+  attack: 807
+  defense: 793
+  health: 1450
+  skill: Dark Orb
+  effects:
+    - "Special Skill has a different effect when charged with 100% / 200% / 300% mana:"
+    - "1x Mana Charge:"
+    - "* Destroys all Minions from the target."
+    - "* Deals 440% damage to the target."
+    - "2x Mana Charge:"
+    - "* Destroys all Minions from the target."
+    - "* Deals 550% damage to the target."
+    - "* The target can’t summon new Minions with Special Skill and receives 100 damage for each Minion they attempt to summon for 3 turns."
+    - "3x Mana Charge:"
+    - "* Destroys all Minions from the target."
+    - "* Deals 615% damage to the target."
+    - "* The target can’t summon new Minions with Special Skill and receives 100 damage for each Minion they attempt to summon for 4 turns.All allies regenerate 732 HP over 4 turns."
+  types:
+    - Charge
+  passives:
+    - Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.
+  image: https://i.imgur.com/gnNXm6f.jpg

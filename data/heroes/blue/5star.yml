@@ -1195,3 +1195,25 @@
     - Hit All
     - Summoner
   image: https://i.imgur.com/U1AQZ8U.jpg
+- name: Miriam & Midnight
+  class: Wizard
+  speed: Average
+  source: Morlovia
+  family: Morlovia
+  power: 835
+  attack: 778
+  defense: 824
+  health: 1483
+  skill: Litter of Kittens
+  effects:
+    - Summons a Blue Kitten Minion for the caster and nearby allies. Blue Kitten Minion inherits 40% HP and 20% attack from the caster. The Minion recovers 15% health for its owner at the end of each turn.
+    - The Blue Kitten Minion lifts the newest cleansable status ailment from its owner and add its to the hit target.
+    - The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 5 turns.
+    - The caster and nearby allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.
+  types:
+    - Summoner
+    - Attack Buff
+    - Health Regen
+  passives:
+    - When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies
+  image: https://i.imgur.com/eyJkRvq.jpg

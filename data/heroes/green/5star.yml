@@ -1061,3 +1061,25 @@
     - This character has innate resistance against Burn.
     - Each time an enemy receives a Taunt status effect this character’s mana is increased by 10% .
   image: https://i.imgur.com/GvwTLSo.jpg
+- name: Ma'at
+  class: Rogue
+  speed: Fast
+  source: Season5
+  family: Sun
+  power: 840
+  attack: 807
+  defense: 811
+  health: 1474
+  skill: Bringer of Order
+  effects:
+    - Deals 195% damage to all enemies.
+    - All enemies get -34% defense for 3 turns.
+    - All Fire enemies get -24% attack for 3 turns.
+  types:
+    - Hit All
+    - Defense Debuff
+  passives:
+    - "50% chance to perform the following actions when this character casts their Special Skill:"
+    - Deals 70% damage to all enemies.
+    - All enemies get -34% attack for 3 turns.
+  image: https://i.imgur.com/Lc6n5Vz.jpg
