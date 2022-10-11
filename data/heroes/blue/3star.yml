@@ -380,3 +380,30 @@
     - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
     - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
   image: https://i.imgur.com/yP9tWF8.jpg
+- name: Virgil
+  class: Cleric
+  speed: Charge
+  source: Styx
+  family: Styx
+  power: 484
+  attack: 413
+  defense: 495
+  health: 976
+  skill: Imaginary Increments
+  effects:
+    - "Special Skill has a different effect when charged with 100% / 200% / 300% mana:"
+    - "1x Mana Charge:"
+    - "* Recovers 15% health for all allies."
+    - "* All allies get +40% defense against Nature for 2 turns."
+    - "2x Mana Charge:"
+    - "* Recovers 25% health for all allies."
+    - "* All allies get +54% defense against Special Skills for 3 turns."
+    - "3x Mana Charge:"
+    - "* Recovers 45% health for all allies."
+    - "* All allies get +94% defense against Nature for 2 turns."
+    - "* All allies get +74% defense against Special Skills for 3 turns."
+  types:
+    - Charge
+  passives:
+    - Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.
+  image: https://i.imgur.com/lXHaox1.jpg

@@ -1149,3 +1149,100 @@
     - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
     - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
   image: https://i.imgur.com/7OmJaIC.jpg
+- name: Jequn
+  class: Monk
+  speed: Very Fast
+  source: SuperElemental
+  family: SuperElemental
+  power: 835
+  attack: 824
+  defense: 718
+  health: 1582
+  skill: Archaic Sacred Symbol
+  effects:
+    - Deals 200% damage to all enemies.
+    - All Dark enemies get -34% accuracy for 3 turns. [Chance to miss also applies to offensive Special Skills.]
+    - All Ice enemies get -34% defense for 3 turns.
+    - All Nature enemies get -34% mana generation for 3 turns.
+    - All Fire enemies get -34% attack for 3 turns.
+  types:
+    - Hit All
+    - Elemental
+  passives:
+    - This character’s Troops deal 100% more additional damage against weaker element.
+    - This character receives 10% less additional damage from Troops of stronger element.
+    - This Hero has an innate resistance against incoming negative effects and damage from Minions.
+  image: https://i.imgur.com/sJ0rROO.jpg
+- name: Matilda
+  class: Monk
+  speed: Average
+  source: Morlovia
+  family: Morlovia
+  power: 835
+  attack: 803
+  defense: 809
+  health: 1446
+  skill: Muffin Poisoning
+  effects:
+    - All enemies receive 324 Poison damage over 3 turns.
+    - Summons a Muffin Fiend for all enemies. The Fiend damages the enemy with 38% attack every turn.
+    - The Muffin Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its target’s max health.
+    - "Each hit from the Muffin Fiend has the following effects:"
+    - "* The target takes +50% increased damage from status ailments for 3 turns."
+    - "* There is a 50% chance to refesh the duration of the status ailment with the least turns remaining."
+  types:
+    - Dot All
+    - Fiend
+  passives:
+    -  When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
+  image: https://i.imgur.com/Lb4Sdwp.jpg
+- name: Nemesis
+  class: Paladin
+  speed: Charge
+  family: Styx
+  source: Styx
+  power: 832
+  attack: 852
+  defense: 758
+  health: 1406
+  skill: Day of Reckoning
+  effects:
+    - "Special Skill has a different effect when charged with 100% / 200% / 300% mana:"
+    - "1x Mana Charge:"
+    - "* Deals 440% damage to the target."
+    - "* For 3 turns each time an enemy’s mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 150 damage."
+    - "2x Mana Charge:"
+    - "* Deals 580% damage to the target."
+    - "* All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns."
+    - "3x Mana Charge:"
+    - "* Deals 620% damage to the target."
+    - "* All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns."
+    - "* For 3 turns each time an enemy’s mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 150 damage."
+  types:
+    - Charge
+  passives:
+    - Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.
+  image: https://i.imgur.com/erwVVF0.jpg
+- name: Zandria
+  class: Paladin
+  speed: Very Slow
+  source: SuperElemental
+  family: SuperElemental
+  power: 835
+  attack: 756
+  defense: 819
+  health: 1549
+  skill: Unwavering Devotion
+  effects:
+    - Deals 210% damage to all enemies.
+    - Deals additional 20% damage per each Holy shield on the board up to 450% damage in total.
+    - Each fallen ally has a 20% chance to be revived at 40% HP.
+    - Each Holy shield on the board increases the chance of to be revived by 5% up to 80% chance in total.
+  types:
+    - Hit All
+    - Reviver
+  passives:
+    - This character’s Troops deal 100% more additional damage against weaker element.
+    - This character receives 10% less additional damage from Troops of stronger element.
+    - This Hero has an innate resistance against incoming negative effects and damage from Minions.
+  image: https://i.imgur.com/h5xLq71.jpg

@@ -333,3 +333,28 @@
     - "* Deals 70% damage to all enemies."
     - "* All enemies get -34% attack for 3 turns."
   image: https://i.imgur.com/CWQ9rw6.jpg
+- name: Dante
+  speed: Charge
+  class: Rogue
+  source: Styx
+  family: Styx
+  power: 484
+  attack: 537
+  defense: 472
+  health: 709
+  skill: Dante’s Inferno
+  effects:
+    - "Special Skill has a different effect when charged with 100% / 200% / 300% mana:"
+    - "1x Mana Charge:"
+    - "* Deals 105% damage to all enemies. The attack bypasses defensive buffs. This includes counterattacks."
+    - "2x Mana Charge:"
+    - "* Deals 125% damage to all enemies. The attack bypasses defensive buffs. This includes counterattacks."
+    - "* All enemies receive 120 Burn damage over 4 turns."
+    - "3x Mana Charge:"
+    - "* Deals 205% damage to all enemies. The attack bypasses defensive buffs. This includes counterattacks."
+    - "* All enemies receive 160 Burn damage over 4 turns."
+  types:
+    - Charge
+  passives:
+    - Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.
+  image: https://i.imgur.com/FNkLC6z.jpg
