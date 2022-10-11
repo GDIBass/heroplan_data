@@ -1246,3 +1246,20 @@
     - This character receives 10% less additional damage from Troops of stronger element.
     - This Hero has an innate resistance against incoming negative effects and damage from Minions.
   image: https://i.imgur.com/h5xLq71.jpg
+- name: Anne
+  class: Fighter
+  speed: Fast
+  source: Pirates
+  family: Pirates
+  power: 835
+  attack: 819
+  defense: 797
+  health: 1473
+  skill: Cannon Blast
+  effects:
+    - Deals 550% damage to the target.
+    - If the target had more than 50% health before receiving damage, targets another enemy who had over 50% health before receiving damage from this Special Skill. If none of the other enemies had 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
+    - If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns.
+  types:
+    - Hit 1
+  image: https://i.imgur.com/YcbkyW1.jpg
