@@ -284,6 +284,25 @@ families:
       - The Power Gem deals 20 damage to a random enemy each turn until it is matched.
       - Power Gems can only spawn on regular shields that match the element of this hero.
       - Only 5 Power Gems per element can be on the board at the same time.
+  pet:
+    code: 67
+    description: Mighty Pet Family
+    image: https://i.imgur.com/pwIys3e.png\
+    bonus:
+      - "Bonus for 1/2/3 Heroes:"
+      - "Minions for this Hero inherit +2%/+3%/+4% extra attack."
+      - "Minions for this Hero inherit +2%/+3%/+4% extra health."
+      - "Fiends for this Hero absorb -2%/-3%/-4% less max health."
+      - "Fiends for this Hero inherit -2%/-3%/-4% less attack."
+  masquerade:
+    code: 68
+    description: Masquerade Family
+    image: https://i.imgur.com/pKGDz7r.png
+    bonus:
+      - "Masquerade characters summon a Mask Minion for themselves at the start of the battle. THe more Masquerade characters there are in the same team, the better the Mask Minion is:"
+      - "1 family member: This character summons a Mask Minion with 8% health and 8% attack inherited from the character."
+      - "Additional skill with 2 family members: Mask Minion gives its owner +7% attack while the owner has a Mask Minion. This effect can't be dispelled."
+      - "Additional skill with 3 family members: Mask Minion gives its owner immunity to all status ailments while the owner has a Mask Minion. This effect can't be dispelled."
   2017:
     code: 2017
     description: 2017
