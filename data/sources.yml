@@ -89,3 +89,6 @@ sources:
   superelemental:
     code: 130
     description: Super Elemental
+  pet:
+    code: 131
+    description: Pets

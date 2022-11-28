@@ -433,3 +433,45 @@
   passives:
     - Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.
   image: https://i.imgur.com/yK7UFvQ.jpg
+- name: Meadow
+  class: Ranger
+  family: Monsterhunter
+  source: Monsterhunter
+  speed: Very Fast
+  power: 684
+  attack: 709
+  defense: 618
+  health: 1275
+  skill: Poison-Tipped-Arrow
+  effects:
+    - Deals 265% damage to the target.
+    - The target receives 402 Poison damage over 3 turns, starting low and increasing with every turn..
+  types:
+    - Hit 1
+    - Dot 1
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total
+    - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  image: https://i.imgur.com/rm17UZ5.jpg
+- name: Cupcake
+  family: Pets
+  source: Pets
+  class: Rogue
+  speed: Average
+  power: 684
+  attack: 690
+  defense: 620
+  health: 1317
+  skill: Grand Heist
+  effects:
+    - Steals Minions from the target.
+    - Deals 400% damage to the target.
+    - The target can’t receive new Minions for 4 turns.
+  types:
+    - Minion Steal
+    - Hit 1
+    - Minion Block Debuff
+  passives:
+    - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
+    - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
+  image: https://i.imgur.com/p15TPST.jpg

@@ -1339,3 +1339,25 @@
     - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
     - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
   image: https://i.imgur.com/fbtStrK.jpg
+- name: Morax
+  class: Sorcerer
+  speed: Average
+  family: 2022
+  source: Hotm
+  power: 807
+  attack: 764
+  defense: 766
+  health: 1431
+  skill: Scythe of Sorceries
+  effects:
+    - Deals 400% damage to the target and minor damage to nearby enemies.
+    - The target gets -24% mana generation for 4 turns.
+    - Reduces max health of the target’s nearby enemies by 400. Max health can’t be lower than 30% of the original max health.
+    - Element Link gives all Dark allies immunity to new Fiends for 4 turns. This effect cannot be dispelled
+  types:
+    - Hit 3
+    - Mana generation debuff
+  passives:
+    - This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.
+    - This character gains 5% mana each time an enemy casts a Special Skill that boosts health.
+  image: https://i.imgur.com/9tJznmy.jpg

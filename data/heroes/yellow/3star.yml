@@ -316,3 +316,45 @@
     - "* Boosts health of all allies by 10%. Boosted health can exceed max HP."
     - "* Cleanses the latest cleansable status ailments from all allies."
   image: https://i.imgur.com/nkaWucV.jpg
+- name: Edelaide
+  class: Paladin
+  speed: Fast
+  source: Monsterhunter
+  family: Monsterhunter
+  power: 484
+  attack: 436
+  defense: 509
+  health: 886
+  skill: Nomadic Hymn
+  effects:
+    - Recovers 26% health for all allies.
+    - All allies get +195% attack and -35% accuracy that only applies when the enemy has more HP than the attacker. The effect lasts for 3 turns.
+  types:
+    - Healer
+    - Attack buff
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  image: https://i.imgur.com/BfXS6GU.jpg
+- name: Ribbit
+  family: Pets
+  source: Pets
+  class: Monk
+  speed: Average
+  power: 484
+  attack: 486
+  defense: 500
+  health: 782
+  skill: Amphibian Sword Sting
+  effects:
+    - Deals 250% damage to the target and nearby enemies.
+    - Reduces the mana of the target and nearby enemies by 15%.
+    - The target and nearby enemies receive 260 Poison damage over 4 turns.
+  types:
+    - Hit 3
+    - Mana reduction
+    - Dot 3
+  passives:
+    - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
+    - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
+  image: https://i.imgur.com/2fpNcNU.jpg

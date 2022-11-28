@@ -509,6 +509,22 @@
     - Attack Buff
   family: Asgard
   image: https://i.imgur.com/bjKzbra.jpg
+  costume:
+    class: Wizard
+    power: 831
+    attack: 682
+    defense: 901
+    health: 1540
+    skill: Blessing of Gjallarhorn
+    effects:
+      - Each fallen ally has 50% chance to get revived with 20% HP.
+      - All allies get +50% attack for 4 turns.
+      - All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.
+    types:
+      - Revive
+      - Attack Buff
+      - Regeneration
+    image: https://i.imgur.com/YoTKnv0.jpg
 - name: Ratatoskr
   class: Monk
   source: Season3
@@ -1083,3 +1099,49 @@
     - Deals 70% damage to all enemies.
     - All enemies get -34% attack for 3 turns.
   image: https://i.imgur.com/Lc6n5Vz.jpg
+- name: Kai
+  class: Rogue
+  speed: Very Fast
+  power: 838
+  attack: 840
+  defense: 782
+  health: 1429
+  skill: Mantis Strike
+  family: Monsterhunter
+  source: Monsterhunter
+  effects:
+    - Deals 435% damage to the target.
+    - Summons a Bone Trap Fiend for the target. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.
+    - The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health.
+    - The target gets -50% decrease of any healing received for 3 turns.
+    - Dispels buffs from the target at the end of each turn for 3 turns
+  types:
+    - Hit 1
+    - Summoner
+    - Dispeller
+    - Healing Debuff
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    -  This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  image: https://i.imgur.com/D9rMcBZ.jpg
+- name: Max
+  family: Pets
+  source: Pets
+  class: Druid
+  speed: Slow
+  power: 837
+  attack: 803
+  defense: 821
+  health: 1437
+  skill: Puppy Tales
+  effects:
+    - Recovers 45% health for all allies.
+    - Summons a Brown Puppy Minion for each ally with 35% HP and 55% attack inherited from the caster.
+    - All allies reduce all received damage from the attacks and special skills of the stronger enemy by -80% for 5 turns.
+  types:
+    - Heal All
+    - Summoner
+  passives:
+    - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
+    - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
+  image: https://i.imgur.com/V0qUVNH.jpg
