@@ -1329,3 +1329,24 @@
     - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/xJBNOD9.jpg
+- name: Jove
+  family: Masquerade
+  source: Blackfriday
+  class: Fighter
+  speed: Fast
+  power: 838
+  attack: 842
+  defense: 793
+  health: 1406
+  skill: Strike from the Skies
+  effects:
+    - Deals 550% damage to the target, and minor damage to all other enemies.
+    - All enemies get -75% decrease for any healing received for 4 turns.
+    - All enemies get -75% less mana from Special Skills for 4 turns.
+  types:
+    - Hit 3
+    - Healing Debuff
+    - Mana Debuff
+  passives:
+    - This character is cleansed of status ailments when Minion owned by them is destroyed.
+  image: https://i.imgur.com/YFCeTvj.jpg

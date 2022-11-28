@@ -512,6 +512,22 @@
     - Health Boost
   family: Muspelheim
   image: https://i.imgur.com/bmdaK3F.jpg
+  costume:
+    class: Monk
+    power: 829
+    attack: 810
+    defense: 761
+    health: 1483
+    skill: Relentless Brawler
+    effects:
+      - Deals 400% damage to the target.
+      - Boosts health of the caster by 850. Boosted health can exceed max HP.
+      - All allies resist mana reduction for as long as the caster has boosted health. This effect can't be dispelled.
+      - Deals 185% damage to a random enemy each turn for as long as the caster has boosted health. This effect can't be dispelled.
+    types:
+      - Hit 1
+      - Health Boost
+    image: https://i.imgur.com/oTqqeuM.jpg
 - name: Noor
   class: Druid
   source: Hotm

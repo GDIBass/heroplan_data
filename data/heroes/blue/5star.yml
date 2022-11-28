@@ -1262,3 +1262,47 @@
     - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/9IVPXvc.jpg
+- name: Waterpipe
+  family: Monsterhunter
+  source: Monsterhunter
+  class: Fighter
+  speed: Average
+  power: 837
+  attack: 815
+  defense: 774
+  health: 1503
+  skill: Harpoon Sentry
+  effects:
+    - Summons a Harpoon Sentry Minion for each ally with 12% HP and 20% attack inherited from the caster.
+    - "Each hit from a Harpoon Sentry Minion reduces the mana of the target by -5% and gives the target the following status ailments:"
+    - "* The target gets -30% defense against Special Skills foe 2 turns."
+    - "* The target is immune to new status effect buffs for 2 turns"
+  types:
+    - Summoner
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  image: https://i.imgur.com/pzkFRII.jpg
+- name: Fortuna
+  family: Masquerade
+  source: Blackfriday
+  class: Rogue
+  speed: Fast
+  power: 838
+  attack: 784
+  defense: 821
+  health: 1493
+  skill: Bad Fortune
+  effects:
+    - Dispels buffs from all enemies.
+    - Deals 230% damage to all enemies.
+    - Summons a Corrupted Mask Fiend to all enemies. The Fiend damages the enemies with 55% attack every turn.
+    - The Corrupted Mask Fiend absorbs healing. It disappears after absorbing a healing amount equal to 33% of its target’s max health.
+    - The Corrupted Mask Fiend gives -54% attack for its owner for as long as the owner has Corrupted Mask Fiends. This effect can’t be cleansed.
+  types:
+    - Dispeller
+    - Hit All
+    - Fiend
+  passives:
+    - This character is cleansed of status ailments when Minion owned by them is destroyed.
+  image: https://i.imgur.com/gvXOhuM.jpg

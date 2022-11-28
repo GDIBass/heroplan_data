@@ -1145,3 +1145,44 @@
     - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/V0qUVNH.jpg
+- name: Hammertusk
+  family: Monsterhunter
+  source: Monsterhunter
+  class: Barbarian
+  speed: Average
+  power: 837
+  attack: 770
+  defense: 834
+  health: 1487
+  skill: Demolishing Crush
+  effects:
+    - Deals 345% damage to the target and nearby enemies.
+    - All damage the target and nearby enemies receives is increased by +45% for 4 turns.
+  types:
+    - Hit 3
+    - Damage Receive Debuff
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  image: https://i.imgur.com/pL7PYXM.jpg
+- name: Ahmose
+  family: Moon
+  source: Season5
+  class: Wizard
+  speed: Slow
+  power: 841
+  attack: 778
+  defense: 836
+  health: 1503
+  skill: Ancient Mirror
+  effects:
+    - Deals 400% damage to all enemies.
+    - All allies reflect all status effects and 150% damage back to the attacker and block other negative effects from enemies’ Fire Special Skill for 4 turns. This effect can’t be dispelled.
+  types:
+    - Hit All
+    - Damage reflect
+  passives:
+    - 70% chance to perform the following actions when this character casts their Special Skill
+    - "* Deals 70% damage to all enemies."
+    - "* All enemies get -24% mana generation for 3 turns."
+  image: https://i.imgur.com/AHjh1HX.jpg

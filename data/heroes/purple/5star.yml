@@ -1361,3 +1361,29 @@
     - This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.
     - This character gains 5% mana each time an enemy casts a Special Skill that boosts health.
   image: https://i.imgur.com/9tJznmy.jpg
+- name: Charon
+  family: Styx
+  source: Styx
+  class: Barbarian
+  speed: Charge
+  power: 832
+  attack: 715
+  defense: 832
+  health: 1598
+  skill: Ferry From the Beyond
+  effects:
+    - "Special Skill has a different effect when charged with 100% / 200% / 300% mana:"
+    - "1x Mana Charge:"
+    - "* Boosts health of all allies by 350. Boosted health can exceed max HP."
+    - "2x Mana Charge:"
+    - "* Each fallen ally has 40% chance to get revived with 10% HP."
+    - "* All allies regenerate 459 HP over 3 turns."
+    - "3x Mana Charge:"
+    - "* Boosts health of all allies by 600. Boosted health can exceed max HP."
+    - "* Each fallen ally has 60% chance to get revived with 20% HP."
+    - "* All allies regenerate 732 HP over 4 turns."
+  types:
+    - Charge
+  passives:
+    -  This Hero has innate resistance against defense status ailments and elemental defense status ailments.
+  image: https://i.imgur.com/eSyywNh.jpg
