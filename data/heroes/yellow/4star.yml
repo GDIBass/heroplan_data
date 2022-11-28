@@ -379,7 +379,7 @@
   passives:
     - Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.
   image: https://i.imgur.com/JQkhZ6P.jpg
-- name: Bubbles
+- name: Waddles
   family: Pets
   source: Pets
   class: Fighter
