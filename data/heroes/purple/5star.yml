@@ -652,6 +652,7 @@
   image: https://i.imgur.com/YBAuibe.jpg
   family: 2020
 - name: Myztero
+  family: Mystery
   class: Rogue
   source: Secret
   speed: Very Fast
