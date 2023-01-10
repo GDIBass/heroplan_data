@@ -1306,7 +1306,7 @@
   passives:
     - This character is cleansed of status ailments when Minion owned by them is destroyed.
   image: https://i.imgur.com/gvXOhuM.jpg
-  - name: Balur
+- name: Balur
   source: Hotm
   class: Fighter
   family: 2022
