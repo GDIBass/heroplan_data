@@ -144,6 +144,21 @@
     - Titan Attack Buff
   family: Lagoon
   image: https://i.imgur.com/VmIENFl.jpg
+  costume:
+    class: Paladin
+    power: 773
+    attack: 694
+    defense: 824
+    health: 1252
+    skill: Kane Prowess
+    effects:
+      - Boosts health for all allies by 470. Boosted health can exceed max HP.
+      - All allies get +80% normal attack for 5 turns. The normal attack is increased by +20% each turn. This effect can be active with addition to effect that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.
+    types:
+      - Health Boost
+      - Titan Attack Buff
+    image: https://i.imgur.com/UPOaKMz.jpg
+    bonuses: 3/3/6/1
 - name: Mother North
   class: Cleric
   source: Christmas
