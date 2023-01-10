@@ -112,4 +112,4 @@ costume:
 
 If you're adding a new family, source, speed or other appropriate config change please update those accordingly.  Eventually these will be updated dynamically.
 
-If enough people contribute I'll set up a regular job to update heroes evrery night.
+If enough people contribute I'll set up a regular job to update heroes every night.
