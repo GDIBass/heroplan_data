@@ -1,16 +1,21 @@
 member_status:
   none:
     id: 0
+    key: none
     description: No Alliance
   request:
     id: 1
+    key: request
     description: Requested Join
   member:
     id: 2
+    key: member
     description: Member
   manager:
     id: 3
+    key: manager
     description: Manager
   leader:
     id: 4
+    key: leader
     description: Leader

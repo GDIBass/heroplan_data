@@ -1,5 +1,6 @@
 troops:
   one_star_defense:
+    key: one_star_defense
     id: 10
     stars: 1
     name: Defense
@@ -18,6 +19,7 @@ troops:
         green: https://i.imgur.com/8cf9zsc.jpg
         red: https://i.imgur.com/doAHapy.jpg
   one_star_attack:
+    key: one_star_attack
     id: 11
     stars: 1
     name: Attack
@@ -36,6 +38,7 @@ troops:
         green: https://i.imgur.com/bTgnGL5.jpg
         red: https://i.imgur.com/0rjB3w6.jpg
   two_star_defense:
+    key: two_star_defense
     id: 20
     stars: 2
     name: Defense
@@ -54,6 +57,7 @@ troops:
         green: https://i.imgur.com/LAOp8XS.jpg
         red: https://i.imgur.com/wpUlqDe.jpg
   two_star_attack:
+    key: two_star_attack
     id: 21
     stars: 2
     name: Attack
@@ -72,6 +76,7 @@ troops:
         green: https://i.imgur.com/LmGODY3.jpg
         red: https://i.imgur.com/XCDd0W1.jpg
   three_star_healing_crit:
+    key: three_star_healing_crit
     id: 30
     stars: 3
     name: Healing/Crit
@@ -90,6 +95,7 @@ troops:
         green: https://i.imgur.com/ZVi1tUn.jpg
         red: https://i.imgur.com/hTqHG5E.jpg
   three_star_health_crit:
+    key: three_star_health_crit
     id: 31
     stars: 3
     name: Health/Crit
@@ -108,6 +114,7 @@ troops:
         green: https://i.imgur.com/M00EhSS.jpg
         red: https://i.imgur.com/b5uNnHg.jpg
   three_star_health_healing:
+    key: three_star_health_healing
     id: 32
     stars: 3
     name: Health/Healing
@@ -126,6 +133,7 @@ troops:
         green: https://i.imgur.com/x4eh7Vd.jpg
         red: https://i.imgur.com/tJ7xrG9.jpg
   four_star_crit:
+    key: four_star_crit
     id: 40
     stars: 4
     description: Four Star Crit
@@ -144,6 +152,7 @@ troops:
         green: https://i.imgur.com/DqvIvIs.jpg
         red: https://i.imgur.com/NMDa26I.jpg
   four_star_mana:
+    key: four_star_mana
     id: 41
     stars: 4
     name: Mana
@@ -169,6 +178,7 @@ troops:
       23: 13
       29: 15
   four_star_ninja:
+    key: four_star_ninja
     id: 42
     stars: 4
     name: Ninja
@@ -187,6 +197,7 @@ troops:
         green: https://i.imgur.com/oPiOuKj.jpg
         red: https://i.imgur.com/5bpZz5e.jpg
   four_star_magic:
+    key: four_star_magic
     id: 43
     stars: 4
     name: Magic

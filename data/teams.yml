@@ -1,101 +1,124 @@
 types:
   war:
     one:
+      key: one
       type: 1
       description: War Team One
     two:
+      key: two
       type: 2
       description: War Team Two
     three:
+      key: three
       type: 3
       description: War Team Three
     four:
+      key: four
       type: 4
       description: War Team Four
     five:
+      key: five
       type: 5
       description: War Team Five
   war_defense:
     purple:
+      key: purple
       type: 1
       description: Purple Defense
     yellow:
+      key: yellow
       type: 2
       description: Yellow Defense
     blue:
+      key: blue
       type: 3
       description: Blue Defense
     green:
+      key: green
       type: 4
       description: Green Defense
     red:
+      key: red
       type: 5
       description: Red Defense
     undead_horde:
+      key: undead_horde
       type: 6
       description: Undead Horde Defense
     equalizer:
+      key: equalizer
       type: 7
       description: Equalizer Defense
     rush:
+      key: rush
       type: 8
       description: Rush Defense
   trial:
     strength:
+      key: strength
       type: 0
       description: Trials of Strength
       classes:
         - barbarian
         - fighter
     fortitude:
+      key: fortitude
       type: 1
       description: Trials of Fortitude
       classes:
         - cleric
         - druid
     mysticism:
+      key: mysticism
       type: 2
       description: Trials of Mysticism
       classes:
         - sorcerer
         - wizard
     serenity:
+      key: serenity
       type: 3
       description: Trials of Serenity
       classes:
         - paladin
         - ranger
     survival:
+      key: survival
       type: 4
       description: Trials of Survival
       classes:
         - barbarian
         - rogue
     piety:
+      key: piety
       type: 5
       description: Trials of Piety
       classes:
         - cleric
         - monk
     decimation:
+      key: decimation
       type: 6
       description: Trials of Decimation
       classes:
         - fighter
         - wizard
     nature:
+      key: nature
       type: 7
       description: Trials of Nature
       classes:
         - druid
         - ranger
     shadows:
+      key: shadows
       type: 8
       description: Trials of Shadows
       classes:
         - rogue
         - sorcerer
     justice:
+      key: justice
       type: 9
       description: Trials of Justice
       classes:
@@ -103,105 +126,138 @@ types:
         - paladin
   color:
     purple:
+      key: purple
       type: 1
       description: Purple Team
     yellow:
+      key: yellow
       type: 2
       description: Yellow Team
     blue:
+      key: blue
       type: 3
       description: Blue Team
     green:
+      key: green
       type: 4
       description: Green Team
     red:
+      key: red
       type: 5
       description: Red Team
   tournament:
     buff_booster:
+      key: buff_booster
       type: 1
       description: Buff Booster
     rush_attack:
+      key: rush_attack
       type: 2
       description: Rush Attack
     bloody_battle:
+      key: bloody_battle
       type: 3
       description: Bloody Battle
   tavern:
     1:
+      key: 1
       type: 1
       description: Tavern Team 1
     2:
+      key: 2
       type: 2
       description: Tavern Team 2
     3:
+      key: 3
       type: 3
       description: Tavern Team 3
     4:
+      key: 4
       type: 4
       description: Tavern Team 4
     5:
+      key: 5
       type: 5
       description: Tavern Team 5
     6:
+      key: 6
       type: 6
       description: Tavern Team 6
     7:
+      key: 7
       type: 7
       description: Tavern Team 7
     8:
+      key: 8
       type: 8
       description: Tavern Team 8
     9:
+      key: 9
       type: 9
       description: Tavern Team 9
     10:
+      key: 10
       type: 10
       description: Tavern Team 10
     11:
+      key: 11
       type: 11
       description: Tavern Team 11
     12:
+      key: 12
       type: 12
       description: Tavern Team 12
     13:
+      key: 13
       type: 13
       description: Tavern Team 13
     14:
+      key: 14
       type: 14
       description: Tavern Team 14
     15:
+      key: 15
       type: 15
       description: Tavern Team 15
   custom:
     1:
+      key: 1
       type: 1
       description: Team 1
     2:
+      key: 2
       type: 2
       description: Team 2
     3:
+      key: 3
       type: 3
       description: Team 3
     4:
+      key: 4
       type: 4
       description: Team 4
     5:
+      key: 5
       type: 5
       description: Team 5
     6:
+      key: 6
       type: 6
       description: Team 6
     7:
+      key: 7
       type: 7
       description: Team 7
     8:
+      key: 8
       type: 8
       description: Team 8
     9:
+      key: 9
       type: 9
       description: Team 9
     10:
+      key: 10
       type: 10
       description: Team 10
 
@@ -492,17 +548,22 @@ categories:
 
 positions:
   left_wing:
+    key: left_wing
     id: 1
     description: Left Wing
   left_flank:
+    key: left_flank
     id: 2
     description: Left Flank
   tank:
+    key: tank
     id: 3
     description: Tank
   right_flank:
+    key: right_flank
     id: 4
     description: Right Flank
   right_wing:
+    key: right_wing
     id: 5
     description: Right Wing
