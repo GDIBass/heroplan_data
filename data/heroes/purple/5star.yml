@@ -344,6 +344,23 @@
     - Mana Gain Freeze
   family: 2017
   image: https://i.imgur.com/5oaRVxv.jpg
+  costume:
+    class: Cleric
+    power: 765
+    attack: 745
+    defense: 692
+    health: 1328
+    skill: Crush of Malice
+    effects:
+      - Deals 300% damage to all enemies.
+      - The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can’t be cleansed, but it gets removed if the caster dies.
+      - Deals extra damage to Holy.
+      - Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can’t be displelled.
+    types:
+      - Hit 5
+      - Mana Steal
+    image: https://i.imgur.com/l8I8LCr.jpg
+    bonuses: 3/3/6/1
 - name: Guardian Panther
   class: Fighter
   source: Teltoc
@@ -918,7 +935,7 @@
   effects:
     - Deals 275% damage to the all enemies.
     - Summons a Spectre Fiend for all enemies. The Fiend damages the enemy with 45% attack every turn.
-    - The Spectre Fiend absorbs healing and disappears when it has absorbed helaht equal to 30% of it's target's max health.
+    - The Spectre Fiend absorbs healing and disappears when it has absorbed health equal to 30% of it's target's max health.
     - "Stack (Max: 10): The caster gets +5% mana generation"
     - "Stack +2 (Max: 10): The caster recovers 20 HP each turn."
   types:
