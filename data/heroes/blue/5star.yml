@@ -202,6 +202,23 @@
     - Mana Boost
   family: Lagoon
   image: https://i.imgur.com/YC2DFg3.jpg
+  costume:
+    class: Rogue
+    power: 800
+    attack: 773
+    defense: 744
+    health: 1401
+    skill: Ipu Drum Chain
+    effects:
+      - Deals 280% damage to hit targets.
+      - Has a 42% chance for additional hits on random enemies up to 3 times.
+      - Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.
+    types:
+      - Hit 1
+      - Chain Hit
+      - Mindless Attack
+    image: https://i.imgur.com/ZELxM85.jpg
+    bonuses: 3/3/6/1
 - name: Master Lepus
   class: Druid
   source: Springvale
