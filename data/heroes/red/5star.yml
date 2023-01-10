@@ -1400,3 +1400,24 @@
     - " * Deals 70% damage to all enemies."
     - " * Dispells the latest dispellable buff from all enemies."
   image: https://i.imgur.com/vkAXXiK.jpg
+- name: Hathor
+  source: Season5
+  class: Sorcerer
+  family: Moon
+  speed: Fast
+  power: 843
+  attack: 774
+  defense: 795
+  health: 1610
+  skill: Motherly Care
+  effects:
+    - Boosts health of all allies by 480. Boosted Heath can exceed max HP.
+    - All allies are immune to new status ailments for 4 turns.
+  types:
+    - Health Boost
+    - Status Ailment Immunity
+  passives:
+    - Effects on Special Skill - 50% chance to perform the following actions when this character casts their Special Skill
+    - " * Boosts health of all allies by 10%. Boosted Heath can exceed max HP."
+    - " * All allies gain a small amount of mana."
+  image: https://i.imgur.com/sV7BVbk.jpg
