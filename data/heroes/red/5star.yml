@@ -1334,3 +1334,90 @@
     - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/5iYa63c.jpg
+- name: Roughian & Nurgib
+  source: Hotm
+  class: Rogue
+  family: 2023
+  speed: Fast
+  power: 808
+  attack: 801
+  defense: 704
+  health: 1470
+  skill: Mana Scavenge
+  effects:
+    - Steals 50% mana from the target and distributes them on allies.
+    - Deals 420% damage to the target.
+    - The more health the enemy has, the more damage they will receive, up to 570%.
+    - Element Link gives all Fire allies get +5% chance to dodge status ailments for 4 turns. This effect can't be dispelled.
+  types:
+    - Hit 1
+    - Mana steal
+  passives:
+    - This character receives 5% mana each time its health is recovered.
+    - Every 3 turns, eats all Minions for a random enemy and gains a small amount of mana for each eaten Minion.
+  image: https://i.imgur.com/5TAVpUJ.jpg
+- name: Xenda
+  source: Season4
+  class: Fighter
+  family: Underwild
+  speed: Average
+  power: 837
+  attack: 819
+  defense: 788
+  health: 1464
+  skill: Underworld Blaze
+  effects:
+    - Deals 250% damage to all enemies.
+    - All enemies receive 292 Burn damage over 4 turns. The caster absorbs 15% of dealt Burn damage as health.
+    - The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.
+  types:
+    - Hit 5
+    - Dot 5
+    - Mana steal
+  passives:
+    - Received damage is reduced by -20% for the first 3 times this character receives damage from Special Skills.
+  image: https://i.imgur.com/pr4mBGS.jpg
+- name: Tetisheri
+  source: Season5
+  class: Paladin
+  family: Moon
+  speed: Fast
+  power: 839
+  attack: 805
+  defense: 782
+  health: 1524
+  skill: Ancient Spell
+  effects:
+    - Deals 500% damage to the target and minor damage to nearby enemies.
+    - The target gets -54% defense for 3 turns.
+    - If target is defeated in the next 3 turns, all caster’s allies get +20% mana
+  types:
+    - Hit 3
+    - Defense Debuff
+    - Mana boost
+  passives:
+    - Effects on Special Skill - 60% chance to perform the following actions when this character casts their Special Skill
+    - " * Deals 70% damage to all enemies."
+    - " * Dispells the latest dispellable buff from all enemies."
+  image: https://i.imgur.com/vkAXXiK.jpg
+- name: Hathor
+  source: Season5
+  class: Sorcerer
+  family: Moon
+  speed: Fast
+  power: 843
+  attack: 774
+  defense: 795
+  health: 1610
+  skill: Motherly Care
+  effects:
+    - Boosts health of all allies by 480. Boosted Heath can exceed max HP.
+    - All allies are immune to new status ailments for 4 turns.
+  types:
+    - Health Boost
+    - Status Ailment Immunity
+  passives:
+    - Effects on Special Skill - 50% chance to perform the following actions when this character casts their Special Skill
+    - " * Boosts health of all allies by 10%. Boosted Heath can exceed max HP."
+    - " * All allies gain a small amount of mana."
+  image: https://i.imgur.com/sV7BVbk.jpg

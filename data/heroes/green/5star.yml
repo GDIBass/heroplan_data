@@ -144,6 +144,21 @@
     - Titan Attack Buff
   family: Lagoon
   image: https://i.imgur.com/VmIENFl.jpg
+  costume:
+    class: Paladin
+    power: 773
+    attack: 694
+    defense: 824
+    health: 1252
+    skill: Kane Prowess
+    effects:
+      - Boosts health for all allies by 470. Boosted health can exceed max HP.
+      - All allies get +80% normal attack for 5 turns. The normal attack is increased by +20% each turn. This effect can be active with addition to effect that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.
+    types:
+      - Health Boost
+      - Titan Attack Buff
+    image: https://i.imgur.com/UPOaKMz.jpg
+    bonuses: 3/3/6/1
 - name: Mother North
   class: Cleric
   source: Christmas
@@ -1186,3 +1201,28 @@
     - "* Deals 70% damage to all enemies."
     - "* All enemies get -24% mana generation for 3 turns."
   image: https://i.imgur.com/AHjh1HX.jpg
+- name: Enigmo
+  family: Mystery
+  source: Blackfriday
+  class: Paladin
+  speed: Average
+  power: 838
+  attack: 809
+  defense: 805
+  health: 1464
+  skill: Absorbed Underlings
+  effects:
+    - Recovers 25% health for all allies.
+    - Deals 150% damage to all enemies.
+    - All Minions memorized by the innate abilty are summoned to all allies.
+    - All Fiends memorized by the innate abilty are summoned to all enemies.
+  types:
+    - Healer
+    - Hit 5
+    - Minion Summoner
+    - Fiend Summoner
+  passives:
+    - This character has innate ability to Memorize any Minion or Fiend summoned by enemies’ Special Skills. The latest Minion and Fiend that enemies summon will stay memorized until the Special Skill is cast.
+  image: https://i.imgur.com/S6ta64j.jpg
+
+
