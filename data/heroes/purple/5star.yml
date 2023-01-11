@@ -1405,3 +1405,25 @@
   passives:
     -  This Hero has innate resistance against defense status ailments and elemental defense status ailments.
   image: https://i.imgur.com/eSyywNh.jpg
+- name: Aramis
+  source: Musketeer
+  class: Ranger
+  family: Musketeer
+  speed: Average
+  power: 840
+  attack: 869
+  defense: 774
+  health: 1388
+  skill: Charmer's Blades
+  effects:
+    - Deals 375% damage to the target and nearby enemies.
+    - Boosts all allies’ health by 30% of damage dealt.
+    - All allies are immune to new status ailments for 3 turns. This effect can’t be dispelled.
+  types:
+    - Hit 3
+    - Status Ailment Immunity
+    - Damage Heal
+  passives:
+    - When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
+  image: https://i.imgur.com/7DRTWTb.jpg
+
