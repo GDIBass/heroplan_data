@@ -1468,3 +1468,21 @@
     - Dot All
   family: Christmas
   image: https://i.imgur.com/egM1t1a.jpg
+- name: Kemeny
+  class: Sorcerer
+  source: Gargoyle
+  family: Gargoyle
+  speed: Average
+  power: 835
+  attack: 813
+  defense: 799
+  health: 1444
+  skill: Cry for Absolution
+  effects:
+    - Deals 330% damage to all enemies.
+    - Deals additional 65% damage per status ailment the caster has up to 655% damage in total.
+  types:
+    - Hit All
+  passives:
+    - Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The next damage they receive is dropped to 1. This effect can't be dispelled.
+  image: https://i.imgur.com/PmkgBzd.jpg
