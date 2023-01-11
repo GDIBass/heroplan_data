@@ -403,3 +403,22 @@
     - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
     - When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.
   image: https://i.imgur.com/gtuGK1d.jpg
+- name: Buster
+  class: Barbarian
+  source: Christmas
+  speed: Slow
+  power: 484
+  attack: 509
+  defense: 451
+  health: 825
+  skill: Frosty Punches
+  effects:
+    - Deals 275% damage to the target and nearby enemies.
+    - Summons an Elf Minion for the caster with 7% HP and 10% attack inherited from the caster.
+    - All damage the target and nearby enemies receive is increased by +24% and a further +2% increase per each Fire shield on the board for 4 turns, up to +40% increased damage.
+  types:
+    - Hit 3
+    - Summoner
+    - Damage Debuff
+  family: Christmas
+  image: https://i.imgur.com/LgUJQa9.jpg
