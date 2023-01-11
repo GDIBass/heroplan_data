@@ -1449,3 +1449,22 @@
     - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
     - When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.
   image: https://i.imgur.com/gtuGK1d.jpg
+- name: Peppermint
+  class: Sorcerer
+  source: Christmas
+  speed: Average
+  power: 836
+  attack: 809
+  defense: 821
+  health: 1417
+  skill: Putrid Perfume
+  effects:
+    - Deals 250% damage to all enemies.
+    - Summons an Elf Minion for each ally with 7% HP and 10% attack inherited from the caster.
+    - All enemies receive 272 Poison damage, and an increase of 16 damage per each Dark shield on the board over 4 turns up to 400 damage.
+  types:
+    - Hit All
+    - Summoner
+    - Dot All
+  family: Christmas
+  image: https://i.imgur.com/egM1t1a.jpg
