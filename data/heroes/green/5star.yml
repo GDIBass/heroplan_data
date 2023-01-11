@@ -1224,5 +1224,24 @@
   passives:
     - This character has innate ability to Memorize any Minion or Fiend summoned by enemies’ Special Skills. The latest Minion and Fiend that enemies summon will stay memorized until the Special Skill is cast.
   image: https://i.imgur.com/S6ta64j.jpg
-
+- name: Augustus
+  family: Christmas
+  source: Christmas
+  class: Druid
+  speed: Slow
+  power: 836
+  attack: 778
+  defense: 832
+  health: 1472
+  skill: Wisdom of the Gnomes
+  effects:
+    - Cleanses status ailments from all allies.
+    - Boosts health for all allies by 690. Boosted health can exceed max HP.
+    - Boosts health by additional 30 per each Nature shield on the board, up to 930 boosted health.
+    - Summons an Elf Minion for each ally with 7% HP and 10% attack inherited from the caster.
+    - All allies get +34% defense and a further 6% increase per each Nature shields on the board for 5 turns, up to +82% defense.
+  types:
+    - Healer
+    - Minion Summoner
+  image: https://i.imgur.com/ZygWgx2.jpg
 
