@@ -911,7 +911,7 @@
     - Element Link gives +10% increase for any healing received for all Ice allies for 4 turns. This effect can't be dispelled.
   types:
     - Heal all
-    - Shield Enhancement
+    - Shield Enhance
   passives:
     - This Hero recovers 10% health when they receive a status ailment.
     - This Hero has an innate resistance against status ailments that affect Healing.
