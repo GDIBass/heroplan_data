@@ -1411,3 +1411,25 @@
     - Heal 1
     - Attack Debuff
   image: https://i.imgur.com/vft4guR.jpg
+- name: Ogima
+  class: Barbarian
+  speed: Fast
+  family: Bard
+  source: Festival
+  power: 837
+  attack: 834
+  defense: 799
+  health: 1404
+  skill: Rhythm of Havoc
+  effects:
+    - Destroys all Minions for all enemies.
+    - Deals 275% damage to all enemies.
+    - Deals additional 30% damage to all enemies for each Minion destroyed.
+    - "Stack (Max: 10): All enemies get 7% mana generation for each destroyed Minion."
+  types:
+    - Minion Destruction
+    - Hit All
+    - Stack
+  passives:
+    - Reduces the chance of revival by -50%. The effect applies to all enemies in the battle.
+  image: https://i.imgur.com/8WZ5oVt.jpg
