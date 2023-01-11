@@ -1405,3 +1405,22 @@
   passives:
     -  This Hero has innate resistance against defense status ailments and elemental defense status ailments.
   image: https://i.imgur.com/eSyywNh.jpg
+- name: Peppermint
+  class: Sorcerer
+  speed: Average
+  family: Christmas
+  source: Christmas
+  power: 836
+  attack: 809
+  defense: 821
+  health: 1417
+  skill: Putrid Perfume
+  effects:
+    - Deals 250% damage to all enemies.
+    - Summons an Elf Minion for each ally with 7% HP and 10% attack inherited from the caster.
+    - All enemies receive 272 Poison damage, and an increase of 16 damage per each Dark shield on the board over 4 turns, up to 400 damage.
+  types:
+    - Hit All
+    - Summoner
+    - Dot All
+  image: https://i.imgur.com/C3UxKmC.jpg
