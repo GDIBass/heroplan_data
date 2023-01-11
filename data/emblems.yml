@@ -107,107 +107,128 @@ totals:
 
 modes:
   percentage:
+    key: percentage
     display: "%"
   add:
+    key: add
     display: +
 
 effects:
   wound:
+    key: wound
     description: Wound
     effect: chance to apply bleeding from any normal attack. This effect deals 60% of the damage done by the normal attack over 5 turns. This effect stacks with similar effects
     mode: percentage
     image: https://i.imgur.com/9K6OIKA.png
   mana_shield:
+    key: mana_shield
     description: Mana Shield
     effect: chance to resist any negative mana status effects or effects that prevent use of Special Skills.
     mode: percentage
     image: https://i.imgur.com/QjHreDx.png
   companion:
+    key: companion
     description: Companion
     effect: chance to summon a Thorn Minion after receiving any damage. This effect is applied at the end of the turn.
     mode: percentage
     image: https://i.imgur.com/c5m8BJB.png
   revive:
+    key: revive
     description: Revive
     effect: chance to revive with 1 HP after a fatal attack. The revive is applied at the end of the turn.
     mode: percentage
     image: https://i.imgur.com/SVN4doC.png
   withstand:
+    key: withstand
     description: Withstand
     effect: chance to resist negative status effects.
     mode: percentage
     image: https://i.imgur.com/au1lsPL.png
   protect:
+    key: protect
     description: Protect
     effect: chance to get +25% defense for 2 turns after receiving any damage. The effect is applied at the end of the turn.
     mode: percentage
     image: https://i.imgur.com/wvfNY5n.png
   pierce:
+    key: pierce
     description: Pierce
     effect: chance to bypass defense buffs when attacking. This includes counterattacks.
     mode: percentage
     image: https://i.imgur.com/510Pic9.png
   evade:
+    key: evade
     description: Evade
     effect: chance to dodge direct damage from offensive Special Skills.
     mode: percentage
     image: https://i.imgur.com/k0iDMmz.png
   delay:
+    key: delay
     description: Delay
     effect: chance to drop the mana generation of the enemy by -50% for 2 turns after dealing damage. The effect is applied at the end of the turn.
     mode: percentage
     image: https://i.imgur.com/Bx3YaLM.png
   jinx:
+    key: jinx
     description: Jinx
     effect: chance to deal +15% extra damage per each active buff the enemies have. The extra damage applies to both normal attacks and Special Skills.
     mode: percentage
     image: https://i.imgur.com/xXQyg4J.png
   critical_bonus:
+    key: critical_bonus
     description: Critical Bonus
     effect: chance for critical strikes that do double damage.
     mode: percentage
     image: https://i.imgur.com/akZegLh.png
   healing_bonus:
+    key: healing_bonus
     description: Healing Bonus
     effect: healing from healing items and special skills
     mode: percentage
     image: https://i.imgur.com/MN8KuQn.png
   mana_bonus:
+    key: mana_bonus
     description: Mana Bonus
     effect: mana recovery speed
     mode: percentage
     image: https://i.imgur.com/cvJrc7E.png
   attack_bonus:
+    key: attack_bonus
     description: Attack Bonus
     effect: attack
     mode: add
     stat: attack
     image: https://i.imgur.com/RqWLFiX.png
   defense_bonus:
+    key: defense_bonus
     description: Defense Bonus
     effect: defense
     mode: add
     stat: defense
     image: https://i.imgur.com/S9JN8yF.png
   health_bonus:
+    key: health_bonus
     description: Health Bonus
     effect: health
     mode: add
     stat: health
     image: https://i.imgur.com/wvBlaRZ.png
   attack_percent:
+    key: attack_percent
     description: Attack Percent
     effect: attack
     mode: percentage
     stat: attack
     image: https://i.imgur.com/aynf88B.png
   defense_percent:
+    key: defense_percent
     description: Defense Percent
     effect: defense
     mode: percentage
     stat: defense
     image: https://i.imgur.com/V8UUwEs.png
   health_percent:
+    key: health_percent
     description: Health Percent
     effect: health
     mode: percentage
@@ -216,83 +237,109 @@ effects:
 
 nodes:
   barbarian:
+    key: barbarian
     type: wound
     amount: 6
   cleric:
+    key: cleric
     type: mana_shield
     amount: 7
   druid:
+    key: druid
     type: companion
     amount: 3
   fighter:
+    key: fighter
     type: revive
     amount: 6
   monk:
+    key: monk
     type: withstand
     amount: 6
   paladin:
+    key: paladin
     type: protect
     amount: 5
   ranger:
+    key: ranger
     type: pierce
     amount: 5
   rogue:
+    key: rogue
     type: evade
     amount: 4
   sorcerer:
+    key: sorcerer
     type: delay
     amount: 3
   wizard:
+    key: wizard
     type: jinx
     amount: 5
   attack_stat:
+    key: attack_stat
     type: attack_bonus
     amount: 15
   defense_stat:
+    key: defense_stat
     type: defense_bonus
     amount: 15
   health_stat:
+    key: health_stat
     type: health_bonus
     amount: 36
   two_percent_critical:
+    key: two_percent_critical
     type: critical_bonus
     amount: 2
   two_percent_healing:
+    key: two_percent_healing
     type: healing_bonus
     amount: 2
   two_percent_mana:
+    key: two_percent_mana
     type: mana_bonus
     amount: 2
   three_percent_attack:
+    key: three_percent_attack
     type: attack_percent
     amount: 3
   three_percent_defense:
+    key: three_percent_defense
     type: defense_percent
     amount: 3
   three_percent_health:
+    key: three_percent_health
     type: health_percent
     amount: 3
   four_percent_attack:
+    key: four_percent_attack
     type: attack_percent
     amount: 4
   four_percent_defense:
+    key: four_percent_defense
     type: defense_percent
     amount: 4
   four_percent_health:
+    key: four_percent_health
     type: health_percent
     amount: 4
   four_percent_healing:
+    key: four_percent_healing
     type: healing_bonus
     amount: 4
   four_percent_mana:
+    key: four_percent_mana
     type: mana_bonus
     amount: 4
   four_percent_critical:
+    key: four_percent_critical
     type: critical_bonus
     amount: 4
 
 trees:
   barbarian:
+    key: barbarian
     1: barbarian
     2:
       l: attack_stat
@@ -338,6 +385,7 @@ trees:
       r: three_percent_defense
     20: four_percent_health
   cleric:
+    key: cleric
     1: cleric
     2:
       l: health_stat
@@ -383,6 +431,7 @@ trees:
       r: two_percent_mana
     20: four_percent_healing
   druid:
+    key: druid
     1: druid
     2:
       l: health_stat
@@ -428,6 +477,7 @@ trees:
       r: three_percent_defense
     20: four_percent_mana
   fighter:
+    key: fighter
     1: fighter
     2:
       l: defense_stat
@@ -473,6 +523,7 @@ trees:
       r: two_percent_critical
     20: four_percent_attack
   monk:
+    key: monk
     1: monk
     2:
       l: health_stat
@@ -518,6 +569,7 @@ trees:
       r: three_percent_attack
     20: four_percent_mana
   paladin:
+    key: paladin
     1: paladin
     2:
       l: defense_stat
@@ -563,6 +615,7 @@ trees:
       r: two_percent_critical
     20: four_percent_defense
   ranger:
+    key: ranger
     1: ranger
     2:
       l: attack_stat
@@ -608,6 +661,7 @@ trees:
       r: two_percent_healing
     20: four_percent_critical
   rogue:
+    key: rogue
     1: rogue
     2:
       l: attack_stat
@@ -653,6 +707,7 @@ trees:
       r: two_percent_healing
     20: four_percent_critical
   sorcerer:
+    key: sorcerer
     1: sorcerer
     2:
       l: defense_stat
@@ -698,6 +753,7 @@ trees:
       r: three_percent_defense
     20: four_percent_mana
   wizard:
+    key: wizard
     1: wizard
     2:
       l: attack_stat

@@ -1,19 +1,25 @@
 sharing_modes:
   alliance:
+    key: alliance
     id: 0
     description: Alliance Only
   link:
+    key: link
     id: 1
     description: Link Only
   name:
+    key: name
     id: 2
     description: Profile Name
   searchable:
+    key: searchable
     id: 3
     description: Searchable
 
 social_networks:
   google:
+    key: google
     description: Google
   facebook:
+    key: facebook
     description: Facebook

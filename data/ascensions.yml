@@ -7,6 +7,7 @@ max_ascension:
 
 ascensions:
   1:
+    key: 1
     description: Tier 1
     star_max:
       1: 10
@@ -15,6 +16,7 @@ ascensions:
       4: 40
       5: 50
   2:
+    key: 2
     description: Tier 2
     star_max:
       1: 20
@@ -23,6 +25,7 @@ ascensions:
       4: 50
       5: 60
   3:
+    key: 3
     description: Tier 3
     star_max:
       2: 40
@@ -30,6 +33,7 @@ ascensions:
       4: 60
       5: 70
   4:
+    key: 4
     description: Tier 4
     star_max:
       4: 70
@@ -37,6 +41,7 @@ ascensions:
     limit_break:
       3: 55
   5:
+    key: 5
     description: Tier 5
     limit_break:
       4: 75

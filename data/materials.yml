@@ -1,29 +1,43 @@
 ascension:
   blue3:
+    key: blue3
     image: https://i.imgur.com/AR7l9mp.png
   blue4:
+    key: blue4
     image: https://i.imgur.com/zozYThm.png
   compasses:
+    key: compasses
     image: https://i.imgur.com/yqukPCF.png
   damascusBlades:
+    key: damascusBlades
     image: https://i.imgur.com/I2zWhY4.png
   fineGloves:
+    key: fineGloves
     image: https://i.imgur.com/CfSpSTt.png
   green3:
+    key: green3
     image: https://i.imgur.com/bSJ4tHX.png
   green4:
+    key: green4
     image: https://i.imgur.com/HIqamXV.png
   purple3:
+    key: purple3
     image: https://i.imgur.com/jyyHPgp.png
   purple4:
+    key: purple4
     image: https://i.imgur.com/dbVCCkD.png
   red3:
+    key: red3
     image: https://i.imgur.com/2Riqkhx.png
   red4:
+    key: red4
     image: https://i.imgur.com/SSkOwLe.png
   tomesOfTactics:
+    key: tomesOfTactics
     image: https://i.imgur.com/VdXSYGS.png
   yellow3:
+    key: yellow3
     image: https://i.imgur.com/UUcKiGg.png
   yellow4:
+    key: yellow4
     image: https://i.imgur.com/44uCfZS.png
