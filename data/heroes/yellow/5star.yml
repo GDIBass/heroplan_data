@@ -1355,7 +1355,7 @@
 - name: Jove
   family: Masquerade
   source: Blackfriday
-  class: Fighter
+  class: Ranger
   speed: Fast
   power: 838
   attack: 842
