@@ -911,7 +911,7 @@
     - Element Link gives +10% increase for any healing received for all Ice allies for 4 turns. This effect can't be dispelled.
   types:
     - Heal all
-    - Shield Enhancement
+    - Shield Enhance
   passives:
     - This Hero recovers 10% health when they receive a status ailment.
     - This Hero has an innate resistance against status ailments that affect Healing.
@@ -1363,11 +1363,30 @@
     - This character has innate resistance against status ailments that affect attack.
     - This character regenerates 20 HP each time an enemy receives Bleed damage.
   image: https://i.imgur.com/HIow6YQ.jpg
+- name: Porthos
+  source: Musketeer
+  class: Barbarian
+  family: Musketeer
+  speed: Slow
+  power: 840
+  attack: 817
+  defense: 793
+  health: 1485
+  skill: Musketeer's Mead
+  effects:
+    - Deals 355% damage to all enemies.
+    - Alters the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enchanced with +74% attack. When a defending Hero casts the special, the shields become weakened with -67% attack.
+    - Deals extra damage against Fire.
+  types:
+    - Hit All
+    - Tile Enhancer
+  passives:
+    - When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
+  image: https://i.imgur.com/BwYaSTj.jpg
 - name: Tinsel
   class: Wizard
-  speed: Fast
-  family: Christmas
   source: Christmas
+  speed: Fast
   power: 836
   attack: 838
   defense: 793
@@ -1382,5 +1401,27 @@
     - Hit 3
     - Summoner
     - Defense Debuff
-    - Accuracy Debuff
-  image: https://i.imgur.com/SzxXhIH.jpg
+    - Blind
+  family: Christmas
+  image: https://i.imgur.com/huD8kmB.jpg
+- name: Matrera
+  class: Rogue
+  source: Gargoyle
+  family: Gargoyle
+  speed: Average
+  power: 835
+  attack: 809
+  defense: 791
+  health: 1472
+  skill: Heretic Slayer
+  effects:
+    - Deals 650% damage to the target.
+    - If the target dies, the exceed damage is dealt to each nearby enemy.
+    - The target and nearby enemies get -40% attack for 3 turns.
+  types:
+    - Hit 1
+    - Chain
+    - Attack Debuff
+  passives:
+    - Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The next damage they receive is dropped to 1. This effect can't be dispelled.
+  image: https://i.imgur.com/5yPwJb7.jpg

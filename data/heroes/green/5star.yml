@@ -554,7 +554,7 @@
     - All Nature shields on the board become enhanced. Enhanced shields have +64% attack when attacking hero casts the special and -57% attack when defending hero casts the special.
   types:
     - Healer
-    - Shield Enhancer
+    - Shield Enhance
   family: Alfheim
   image: https://i.imgur.com/IwBPUx4.jpg
 - name: Zocc
@@ -1218,11 +1218,118 @@
     - All Fiends memorized by the innate abilty are summoned to all enemies.
   types:
     - Healer
-    - Hit 5
+    - Hit All
     - Minion Summoner
     - Fiend Summoner
   passives:
     - This character has innate ability to Memorize any Minion or Fiend summoned by enemies’ Special Skills. The latest Minion and Fiend that enemies summon will stay memorized until the Special Skill is cast.
   image: https://i.imgur.com/S6ta64j.jpg
-
-
+- name: Queen Anne
+  source: Musketeer
+  class: Cleric
+  family: Musketeer
+  speed: Slow
+  power: 840
+  attack: 706
+  defense: 887
+  health: 1573
+  skill: The Queen's Speech
+  effects:
+    - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 6 turns.
+    - All allies get +65% defense for 6 turns.
+    - All allies get +44% mana generation for 6 turns.
+  types:
+    - Taunt
+    - Defense Buff
+    - Mana Generation Buff
+  passives:
+    - When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
+  image: https://i.imgur.com/BoTIbhq.jpg
+- name: Arthos
+  source: Musketeer
+  class: Monk
+  family: Musketeer
+  speed: Very Fast
+  power: 840
+  attack: 842
+  defense: 725
+  health: 1553
+  skill: Piercing Shot
+  effects:
+    - Destroys all Minions from the target.
+    - Deals 470% damage to the target.
+    - The caster gets 20% mana for each destroyed Minion.
+    - The attack bypasses defensive buffs. This includes counterattacks.
+  types:
+    - Hit 1
+    - Minion Destruction
+    - Bypass
+  passives:
+    - When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
+  image: https://i.imgur.com/HvsiBgn.jpg
+- name: Augustus
+  class: Druid
+  source: Christmas
+  speed: Slow
+  power: 836
+  attack: 778
+  defense: 832
+  health: 1472
+  skill: Wisdom of the Gnomes
+  effects:
+    - Cleanses status ailments from all allies.
+    - Boosts health for all allies by 690. Boosted health can exceed max HP.
+    - Boosts health by additional 30 per each Nature shield on the board, up to 930 boosted health.
+    - Summons an Elf Minion for each ally with 7% HP and 10% attack inherited from the caster.
+    - All allies get +34% defense and a further 6% increase per each Nature shields on the board for 5 turns, up to +82% defense.
+  types:
+    - Cleanser
+    - Health Boost
+    - Summoner
+    - Defense Buff
+  family: Christmas
+  image: https://i.imgur.com/AEEIfML.jpg
+- name: Xandrella
+  class: Sorcerer
+  speed: Average
+  source: SuperElemental
+  family: SuperElemental
+  power: 840
+  attack: 784
+  defense: 795
+  health: 1563
+  skill: Staff of Mana Control
+  effects:
+    - Deals 450% damage to target and all Ice enemies.
+    - Automatically does 407 damage to the target and all Ice enemies, when their mana is full and reduces their mana by 50% for 4 turns.
+    - Alters the power of all Nature shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
+  types:
+    - Hit 1
+    - Hit Blue
+    - Shield Enhance
+  passives:
+    - This character’s Troops deal 100% more additional damage against weaker element.
+    - This character receives 10% less additional damage from Troops of stronger element.
+  image: https://i.imgur.com/KaW9HIP.jpg
+- name: Roz
+  class: Ranger
+  speed: Fast
+  source: SuperElemental
+  family: SuperElemental
+  power: 840
+  attack: 813
+  defense: 782
+  health: 1514
+  skill: Elemental Infusion Arrow
+  effects:
+    - Deals 500% damage to the target.
+    - If there are 6 or more Nature shields on the board damage is dealt to the target and nearby enemies.
+    - If there are 12 or more Nature shields on the board damage is dealt to all enemies.
+  types:
+    - Hit 1
+    - Hit 3
+    - Hit All
+  passives:
+    - This character’s Troops deal 100% more additional damage against weaker element.
+    - This character receives 10% less additional damage from Troops of stronger element.
+  image: https://i.imgur.com/5xvOFq1.jpg

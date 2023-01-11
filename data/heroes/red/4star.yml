@@ -497,7 +497,7 @@
     - Heals all allies for 30% of the damage dealt
   types:
     - Hit 1
-    - Life steal
+    - Damage Heal
   passives:
     - "Effects on Special Skill - 50% chance to perform the following actions when this character casts their Special Skill:"
     - "* Deals 70% damage to all enemies."

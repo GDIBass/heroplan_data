@@ -357,7 +357,7 @@
       - Deals extra damage to Holy.
       - Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can’t be displelled.
     types:
-      - Hit 5
+      - Hit All
       - Mana Steal
     image: https://i.imgur.com/8SUbwUY.jpg
     bonuses: 3/3/6/1
@@ -612,7 +612,7 @@
     - Dark Cube reduces max health from the target by 224. Max health can't get lower than 30% of the original max health.
     - The target automatically casts Mindless Attack on a random ally when mana is full during 3 turns.
   types:
-    - Hit All
+    - Hit 5
     - Health Reduction
     - Mindless Attack
   family: Svartalfheim
@@ -785,7 +785,7 @@
     - Alters the power of all Dark shields on the board. When an attacking hero casts the special, the shields become enhanced with +64% attack. When a defending hero casts the special, the shields become weakened with -57% attack.
   types:
     - Hit All
-    - Shield Enhancer
+    - Shield Enhance
   family: Villains
   image: https://i.imgur.com/uCM3DQT.jpg
 - name: Malicna
@@ -960,8 +960,8 @@
     - Alter the power of all Dark shields on the boards. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
     - Increases the mana of all allies by 20%.
   types:
-    - Heal all
-    - Shield enhance
+    - Heal All
+    - Shield Enhance
     - Mana Increase
   family: Underwild
   passives:
@@ -1405,11 +1405,54 @@
   passives:
     -  This Hero has innate resistance against defense status ailments and elemental defense status ailments.
   image: https://i.imgur.com/eSyywNh.jpg
+- name: Aramis
+  source: Musketeer
+  class: Ranger
+  family: Musketeer
+  speed: Average
+  power: 840
+  attack: 869
+  defense: 774
+  health: 1388
+  skill: Charmer's Blades
+  effects:
+    - Deals 375% damage to the target and nearby enemies.
+    - Boosts all allies’ health by 30% of damage dealt.
+    - All allies are immune to new status ailments for 3 turns. This effect can’t be dispelled.
+  types:
+    - Hit 3
+    - Status Ailment Immunity
+    - Damage Heal
+  passives:
+    - When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
+  image: https://i.imgur.com/7DRTWTb.jpg
+- name: Goretooth
+  class: Fighter
+  speed: Very Fast
+  source: Covenant
+  family: AbyssHunter
+  power: 839
+  attack: 859
+  defense: 788
+  health: 1380
+  skill: Titantooth Blade
+  effects:
+    - Deals 430% damage to the target.
+    - The target gets -45% defense for 2 turns. The defense decreases by -15% each turn, up to -60%.
+    - The target can’t gain mana for 2 turns.
+  types:
+    - Hit 1
+    - Defense Debuff
+    - Mana Gain Freeze
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns.
+    - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    - When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.
+  image: https://i.imgur.com/gtuGK1d.jpg
 - name: Peppermint
   class: Sorcerer
-  speed: Average
-  family: Christmas
   source: Christmas
+  speed: Average
   power: 836
   attack: 809
   defense: 821
@@ -1418,9 +1461,28 @@
   effects:
     - Deals 250% damage to all enemies.
     - Summons an Elf Minion for each ally with 7% HP and 10% attack inherited from the caster.
-    - All enemies receive 272 Poison damage, and an increase of 16 damage per each Dark shield on the board over 4 turns, up to 400 damage.
+    - All enemies receive 272 Poison damage, and an increase of 16 damage per each Dark shield on the board over 4 turns up to 400 damage.
   types:
     - Hit All
     - Summoner
     - Dot All
-  image: https://i.imgur.com/C3UxKmC.jpg
+  family: Christmas
+  image: https://i.imgur.com/egM1t1a.jpg
+- name: Kemeny
+  class: Sorcerer
+  source: Gargoyle
+  family: Gargoyle
+  speed: Average
+  power: 835
+  attack: 813
+  defense: 799
+  health: 1444
+  skill: Cry for Absolution
+  effects:
+    - Deals 330% damage to all enemies.
+    - Deals additional 65% damage per status ailment the caster has up to 655% damage in total.
+  types:
+    - Hit All
+  passives:
+    - Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The next damage they receive is dropped to 1. This effect can't be dispelled.
+  image: https://i.imgur.com/PmkgBzd.jpg
