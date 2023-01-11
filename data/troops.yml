@@ -222,6 +222,32 @@ troops:
       17: 14
       23: 17
       29: 20
+  four_star_styx:
+    key: four_star_styx
+    id: 44
+    stars: 4
+    name: Styx
+    description: Four Star Styx
+    images:
+      full:
+        purple: https://i.imgur.com/Sgs2PFj.jpg
+        yellow: https://i.imgur.com/7ZTuVaf.jpg
+        blue: https://i.imgur.com/vVakHN0.jpg
+        green: https://i.imgur.com/k4rBLfL.jpg
+        red: https://i.imgur.com/fZuKT6L.jpg
+      half:
+        purple: https://i.imgur.com/vkJ3IFw.jpg
+        yellow: https://i.imgur.com/aXztcoc.jpg
+        blue: https://i.imgur.com/Ao2YWkt.jpg
+        green: https://i.imgur.com/ZVANPn6.jpg
+        red: https://i.imgur.com/momvypU.jpg
+    mana_bonus:
+      1: 5
+      5: 8
+      12: 11
+      16: 14
+      23: 17
+      27: 20
 
 max_level_by_stars:
   1: 10
