@@ -1194,7 +1194,6 @@
   passives:
     - This character’s Troops deal 100% more additional damage against weaker element.
     - This character receives 10% less additional damage from Troops of stronger element.
-    - This Hero has an innate resistance against incoming negative effects and damage from Minions.
   image: https://i.imgur.com/sJ0rROO.jpg
 - name: Matilda
   class: Monk
