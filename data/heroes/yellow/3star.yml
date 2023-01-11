@@ -358,3 +358,27 @@
     - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/2fpNcNU.jpg
+- name: Kinsaishi
+  class: Monk
+  source: Ninja
+  family: Ninja
+  speed: Charge
+  power: 486
+  attack: 543
+  defense: 514
+  health: 627
+  skill: Lightning Stream
+  effects:
+    - "Special Skill has a different effect when charged with 100%/200%/300% mana:"
+    - "x1 Mana Charge:"
+    - " - Deals 145% damage to the target."
+    - " - Deals additional 145% damage to 2 random enemies."
+    - "x2 Mana Charge:"
+    - " - Deals 195% damage to the target."
+    - " - Deals additional 195% damage to 3 random enemies."
+    - "x3 Mana Charge:"
+    - " - Deals 220% damage to the target."
+    - " - Deals additional 220% damage to 4 random enemies."
+  types:
+    - Hit 1
+  image: https://i.imgur.com/X6RI3nP.jpg
