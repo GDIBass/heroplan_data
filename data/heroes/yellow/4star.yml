@@ -399,3 +399,22 @@
     - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/acvvh6o.jpg
+- name: Holly
+  family: Christmas
+  source: Christmas
+  class: Cleric
+  speed: Slow
+  power: 684
+  attack: 622
+  defense: 716
+  health: 1298
+  skill: Hearty Stew
+  effects:
+    - Recovers 20% heath for all allies.
+    - Recovers additional 3% health per each Holy shield on the board, up to 44% health in total.
+    - Summons an Elf Minion for each ally with 7% HP and 10% attack inherited from the caster.
+    - All allies get +14% attack, and a further 5% increase per each Holy shield on the board for 4 turns, up to +54% attack.
+  types:
+    - Healer
+    - Minion Summoner
+  image: https://i.imgur.com/4Te2xY1.jpg
