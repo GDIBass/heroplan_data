@@ -127,3 +127,7 @@ sources:
     key: masquerade
     code: 132
     description: Masquerade
+  musketeer:
+    key: musketeer
+    code: 133
+    description: Brave Musketeers
