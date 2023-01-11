@@ -420,3 +420,23 @@
     - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
     - When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 8% health.
   image: https://i.imgur.com/Z4N4G0e.jpg
+- name: Holly
+  class: Cleric
+  source: Christmas
+  speed: Slow
+  power: 684
+  attack: 622
+  defense: 716
+  health: 1298
+  skill: Hearty Stew
+  effects:
+    - Recovers 20% heath for all allies.
+    - Recovers additional 3% health per each Holy shield on the board, up to 44% health in total.
+    - Summons an Elf Minion for each ally with 7% HP and 10% attack inherited from the caster.
+    - All allies get +14% attack, and a further 5% increase per each Holy shield on the board for 4 turns, up to +54% attack.
+  types:
+    - Healer
+    - Summoner
+    - Attack Buff
+  family: Christmas
+  image: https://i.imgur.com/n6rgqje.jpg
