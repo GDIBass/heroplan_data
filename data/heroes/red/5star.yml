@@ -1440,3 +1440,26 @@
   passives:
     - When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
   image: https://i.imgur.com/cwvEsxY.jpg
+- name: Otis
+  class: Barbarian
+  speed: Slow
+  source: Covenant
+  family: AbyssHunter
+  power: 838
+  attack: 813
+  defense: 821
+  health: 1421
+  skill: Dauntless Bladestorm
+  effects:
+    - Deals 370% damage to all enemies.
+    - All enemies receive 543 Bleed damage over 4 turns, starting low, and increasing with every turn.
+    - All enemies get -70% decrease for any healing received for 4 turns. The healing received decreases by -10% each turn, up to -100%.
+  types:
+    - Hit All
+    - Dot All
+    - Healing Debuff
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns.
+    - If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    - When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.
+  image: https://i.imgur.com/z2xqRCU.jpg
