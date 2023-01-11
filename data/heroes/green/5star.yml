@@ -1224,5 +1224,25 @@
   passives:
     - This character has innate ability to Memorize any Minion or Fiend summoned by enemies’ Special Skills. The latest Minion and Fiend that enemies summon will stay memorized until the Special Skill is cast.
   image: https://i.imgur.com/S6ta64j.jpg
-
+- name: Queen Anne
+  source: Musketeer
+  class: Cleric
+  family: Musketeer
+  speed: Slow
+  power: 840
+  attack: 706
+  defense: 887
+  health: 1573
+  skill: The Queen's Speech
+  effects:
+    - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 6 turns.
+    - All allies get +65% defense for 6 turns.
+    - All allies get +44% mana generation for 6 turns.
+  types:
+    - Taunt
+    - Defense Buff
+    - Mana Generation Buff
+  passives:
+    - When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
+  image: https://i.imgur.com/BoTIbhq.jpg
 
