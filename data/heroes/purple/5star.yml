@@ -357,7 +357,7 @@
       - Deals extra damage to Holy.
       - Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can’t be displelled.
     types:
-      - Hit 5
+      - Hit All
       - Mana Steal
     image: https://i.imgur.com/8SUbwUY.jpg
     bonuses: 3/3/6/1
@@ -612,7 +612,7 @@
     - Dark Cube reduces max health from the target by 224. Max health can't get lower than 30% of the original max health.
     - The target automatically casts Mindless Attack on a random ally when mana is full during 3 turns.
   types:
-    - Hit All
+    - Hit 5
     - Health Reduction
     - Mindless Attack
   family: Svartalfheim

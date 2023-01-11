@@ -1218,7 +1218,7 @@
     - All Fiends memorized by the innate abilty are summoned to all enemies.
   types:
     - Healer
-    - Hit 5
+    - Hit All
     - Minion Summoner
     - Fiend Summoner
   passives:
