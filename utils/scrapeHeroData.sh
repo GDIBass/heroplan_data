@@ -11,11 +11,13 @@ HERO=$1
 
 if [ -z "$HERO" ]; then
     echo "🚨 HERO is not specifed."
-    echo "Usage: scrapeHeroData.sh Grace" 
+    echo "Usage: scrapeHeroData.sh Grace"
     exit 1
 fi
 
 URL=https://empiresandpuzzles.fandom.com/wiki/$HERO
+
+mkdir -p ./tmp
 
 shot-scraper javascript $URL "({
   name: document.querySelector('h2[data-source=title1]').innerText,
@@ -36,4 +38,6 @@ shot-scraper javascript $URL "({
     .map((n) => n.trim()),
   image: '<TODO>',
   family: document.querySelector('div[data-source=family] a:nth-of-type(2)').innerText,
-})" | yq -P '.' > $HERO.yaml
+})" | yq -P '.' > ./tmp/$HERO.yaml
+
+echo "✔ Hero Data saved at ./tmp/$HERO.yaml"
