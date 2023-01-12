@@ -343,7 +343,7 @@ families:
       - "1 family member: This character summons a Mask Minion with 8% health and 8% attack inherited from the character."
       - "Additional skill with 2 family members: Mask Minion gives its owner +7% attack while the owner has a Mask Minion. This effect can't be dispelled."
       - "Additional skill with 3 family members: Mask Minion gives its owner immunity to all status ailments while the owner has a Mask Minion. This effect can't be dispelled."
-musketeers:
+  musketeer:
     key: musketeer
     code: 69
     description: Brave Musketeers
