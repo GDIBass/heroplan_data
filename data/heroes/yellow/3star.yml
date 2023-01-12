@@ -319,8 +319,8 @@
 - name: Edelaide
   class: Paladin
   speed: Fast
-  source: Monsterhunter
-  family: Monsterhunter
+  source: MonsterHunter
+  family: MonsterHunter
   power: 484
   attack: 436
   defense: 509

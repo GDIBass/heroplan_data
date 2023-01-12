@@ -382,6 +382,7 @@
   image: https://i.imgur.com/DIjmjpT.jpg
   costume:
     class: Paladin
+    bonuses: 5/5/10/5
     power: 806
     attack: 804
     defense: 676
@@ -491,6 +492,7 @@
   image: https://i.imgur.com/sKXoFnG.jpg
   costume:
     class: Druid
+    bonuses: 5/5/10/5
     power: 805
     attack: 775
     defense: 763
@@ -530,7 +532,7 @@
   image: https://i.imgur.com/ODUCn9s.jpg
   costume:
     class: Druid
-    bonuses: 3/3/6/1
+    bonuses: 5/5/10/5
     power: 805
     attack: 775
     defense: 763
@@ -1382,7 +1384,7 @@
 - name: Charon
   family: Styx
   source: Styx
-  class: Barbarian
+  class: Cleric
   speed: Charge
   power: 832
   attack: 715

@@ -425,7 +425,7 @@
   image: https://i.imgur.com/hlRFlMx.jpg
   costume:
     class: Fighter
-    bonuses: 3/3/6/1
+    bonuses: 5/5/10/5
     power: 805
     attack: 767
     defense: 771
@@ -1122,8 +1122,8 @@
   defense: 782
   health: 1429
   skill: Mantis Strike
-  family: Monsterhunter
-  source: Monsterhunter
+  family: MonsterHunter
+  source: MonsterHunter
   effects:
     - Deals 435% damage to the target.
     - Summons a Bone Trap Fiend for the target. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.
@@ -1161,8 +1161,8 @@
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/V0qUVNH.jpg
 - name: Hammertusk
-  family: Monsterhunter
-  source: Monsterhunter
+  family: MonsterHunter
+  source: MonsterHunter
   class: Barbarian
   speed: Average
   power: 837
@@ -1245,7 +1245,7 @@
   passives:
     - When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
   image: https://i.imgur.com/BoTIbhq.jpg
-- name: Arthos
+- name: Athos
   source: Musketeer
   class: Monk
   family: Musketeer

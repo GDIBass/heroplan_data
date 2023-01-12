@@ -435,8 +435,8 @@
   image: https://i.imgur.com/yK7UFvQ.jpg
 - name: Meadow
   class: Ranger
-  family: Monsterhunter
-  source: Monsterhunter
+  family: MonsterHunter
+  source: MonsterHunter
   speed: Very Fast
   power: 684
   attack: 709

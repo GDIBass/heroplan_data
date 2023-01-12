@@ -102,6 +102,7 @@
   image: https://i.imgur.com/v7aCbsm.jpg
   costume:
     class: Monk
+    bonuses: 5/5/10/5
     power: 808
     attack: 759
     defense: 741
@@ -478,6 +479,7 @@
   image: https://i.imgur.com/RIPu5ha.jpg
   costume:
     class: Fighter
+    bonuses: 5/5/10/5
     power: 822
     attack: 825
     defense: 761
@@ -513,7 +515,7 @@
   image: https://i.imgur.com/EVw3AO1.jpg
   costume:
     class: Ranger
-    bonuses: 3/3/6/1
+    bonuses: 5/5/10/5
     power: 805
     attack: 803
     defense: 748
@@ -1298,8 +1300,8 @@
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/9IVPXvc.jpg
 - name: Waterpipe
-  family: Monsterhunter
-  source: Monsterhunter
+  family: MonsterHunter
+  source: MonsterHunter
   class: Fighter
   speed: Average
   power: 837
