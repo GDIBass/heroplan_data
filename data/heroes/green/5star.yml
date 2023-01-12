@@ -1245,7 +1245,7 @@
   passives:
     - When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
   image: https://i.imgur.com/BoTIbhq.jpg
-- name: Arthos
+- name: Athos
   source: Musketeer
   class: Monk
   family: Musketeer
