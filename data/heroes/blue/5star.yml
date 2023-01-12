@@ -494,7 +494,6 @@
       - Bounce
       - Defense Debuff
     image: https://i.imgur.com/8HdzNsi.jpg
-    bonuses: 2/2/4/1
 - name: Snow White
   class: Cleric
   source: Fables
