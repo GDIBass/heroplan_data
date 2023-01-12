@@ -1382,7 +1382,7 @@
 - name: Charon
   family: Styx
   source: Styx
-  class: Barbarian
+  class: Cleric
   speed: Charge
   power: 832
   attack: 715
