@@ -1295,8 +1295,8 @@
   attack: 799
   defense: 807
   health: 1479
-  family: Monsterhunter
-  source: Monsterhunter
+  family: MonsterHunter
+  source: MonsterHunter
   speed: Slow
   skill: Flail Swing
   effects:

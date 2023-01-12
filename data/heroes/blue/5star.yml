@@ -1298,8 +1298,8 @@
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/9IVPXvc.jpg
 - name: Waterpipe
-  family: Monsterhunter
-  source: Monsterhunter
+  family: MonsterHunter
+  source: MonsterHunter
   class: Fighter
   speed: Average
   power: 837
