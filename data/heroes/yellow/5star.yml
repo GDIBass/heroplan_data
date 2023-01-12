@@ -416,6 +416,7 @@
   image: https://i.imgur.com/00qNGOk.jpg
   costume:
     class: Wizard
+    bonuses: 5/5/10/5
     power: 804
     attack: 763
     defense: 763

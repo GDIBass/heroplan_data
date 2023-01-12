@@ -425,7 +425,7 @@
   image: https://i.imgur.com/hlRFlMx.jpg
   costume:
     class: Fighter
-    bonuses: 3/3/6/1
+    bonuses: 5/5/10/5
     power: 805
     attack: 767
     defense: 771
