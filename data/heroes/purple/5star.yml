@@ -512,7 +512,6 @@
       - Health boost
       - Zombie
     image: https://i.imgur.com/cwv2NUd.jpg
-    bonuses: 2/2/4/1
 - name: Jabberwock
   class: Monk
   source: Wonderland
