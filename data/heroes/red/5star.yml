@@ -234,6 +234,7 @@
     - Hit All
     - Mana Generation Buff
     - Defense Buff
+  family: Classic
   image: https://i.imgur.com/Qk5TZ17.jpg
   costume:
     class: Barbarian
@@ -248,7 +249,25 @@
       - All allies get +46% defense for 5 turns
     types:
       - Hit 1
+    family: Classic
     image: https://i.imgur.com/Wuav96d.jpg
+  costume2:
+    class: Druid
+    power: 862
+    attack: 829
+    defense: 767
+    health: 1658
+    skill: Chieftain's Vengeance
+    effects:
+      - Deals 285% damage to all enemies
+      - All allies receive a moderate amount of mana over 5 turns
+      - All allies get +40% defense for 5 turns
+    types:
+      - Hit all
+      - Mana Generation
+      - Defense Buff
+    family: Classic
+    image: https://i.imgur.com/Az13Jne.jpg
 - name: Gravemaker
   class: Barbarian
   source: Hotm

@@ -286,6 +286,7 @@
   types:
     - Hit All
     - Attack Debuff
+  family: Classic
   image: https://i.imgur.com/6787feX.jpg
   costume:
     class: Ranger
@@ -300,7 +301,27 @@
     types:
       - Hit All
       - Attack Debuff
+    family: Classic
     image: https://i.imgur.com/jionVR2.jpg
+  costume2:
+    class: Wizard
+    power: 794
+    attack: 685
+    defense: 719
+    health: 1633
+    skill: Anger of the Woods
+    effects:
+      - Deals 260% damage to all enemies
+      - All enemies get -31% attack, and a further 4% decrease any time they are hit during 4 turns
+      - All enemies get -24% defense for 4 turns
+      - All enemies receive 212 Poison damage over 4 turns
+    types:
+      - Hit All
+      - Attack Debuff
+      - Defense Debuff
+      - Dot 4
+    family: Classic
+    image: https://i.imgur.com/IfQ1lHo.jpg
 - name: Gregorion
   class: Ranger
   source: Hotm
@@ -352,6 +373,7 @@
   types:
     - Hit 3
     - Self Heal
+  family: Classic
   image: https://i.imgur.com/gkqoNuc.jpg
   costume:
     class: Barbarian
@@ -366,7 +388,23 @@
     types:
       - Hit 3
       - Healing Steal
+    family: Classic
     image: https://i.imgur.com/r8h2KIN.jpg
+  costume2:
+    class: Paladin
+    power: 862
+    attack: 805
+    defense: 871
+    health: 1514
+    skill: Lunar Spear
+    effects:
+      - Deals 230% damage to all enemies
+      - All enemies get -50% decrease for any healing received for 3 turns. This effect can't be cleansed.
+    types:
+      - Hit All
+      - Healing Decrease
+    family: Classic
+    image: https://i.imgur.com/45ULmYn.jpg
 - name: Alberich
   class: Druid
   source: Hotm

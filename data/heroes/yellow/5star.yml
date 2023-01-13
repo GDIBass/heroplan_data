@@ -67,6 +67,7 @@
     - Hit 1
     - Mana Reduction
     - Self Heal
+  family: Classic
   image: https://i.imgur.com/SPyWzYD.jpg
   costume:
     class: Barbarian
@@ -81,7 +82,25 @@
       - All Dark enemies get -34% attack for 4 turns
     types:
       - Hit 3
+    family: Classic
     image: https://i.imgur.com/c7cvRg8.jpg
+  costume2:
+    class: Ranger
+    power: 792
+    attack: 753
+    defense: 763
+    health: 1369
+    skill: Spartan Slash
+    effects:
+      - Deals 240% damage to all enemies
+      - Reduces the mana of all enemies by 10%
+      - All enemies get -34% defense for 3 turns. Against Dark characters, this status effect becomes uncleansable lasts 2 turn longer
+    types:
+      - Hit All
+      - Mana Reduction
+      - Defense Debuff
+    family: Classic
+    image: https://i.imgur.com/6haP2Yz.jpg
 - name: Vivica
   class: Cleric
   source: Season1
@@ -99,6 +118,7 @@
     - Healer
     - Defense Buff
     - Cleanser
+  family: Classic
   image: https://i.imgur.com/aHsNbej.jpg
   costume:
     class: Sorcerer
@@ -115,7 +135,25 @@
       - Healer
       - Defense Debuff
       - Dispeller
+    family: Classic
     image: https://i.imgur.com/aaAeFsE.jpg
+  costume2:
+    class: Fighter
+    power: 859
+    attack: 800
+    defense: 807
+    health: 1630
+    skill: Omnimend
+    effects:
+      - Boosts health of all allies by 670. Boosted health can exceed max HP
+      - All enemies get -39% attack for 4 turns
+      - Dispels buffs from all enemies
+    types:
+      - Healer
+      - Attack Debuff
+      - Dispeller
+    family: Classic
+    image: https://i.imgur.com/J8lGs8A.jpg
 - name: Rana
   class: Monk
   source: Sand
@@ -237,6 +275,7 @@
   types:
     - Hit 1
     - Blind
+  family: Classic
   image: https://i.imgur.com/d5mevmf.jpg
   costume:
     class: Fighter
@@ -251,7 +290,25 @@
     types:
       - Hit 1
       - Blind
+    family: Classic
     image: https://i.imgur.com/gxmmtLK.jpg
+  costume2:
+    class: Barbarian
+    power: 792
+    attack: 790
+    defense: 672
+    health: 1452
+    skill: Stellar Beam
+    effects:
+      - Deals 360% damage to target and nearby enemies
+      - The target and nearby enemies receive 180 Burn damage over 3 turns
+      - The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills
+    types:
+      - Hit 3
+      - Dot 3
+      - Blind
+    family: Classic
+    image: https://i.imgur.com/rJxyTcK.jpg
 - name: Inari
   class: Rogue
   source: Season2

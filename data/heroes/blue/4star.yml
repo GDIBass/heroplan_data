@@ -81,6 +81,7 @@
     - Healer
     - Attack Buff
     - Defense Buff
+  family: Classic
   image: https://i.imgur.com/OnjIJvT.jpg
   costume:
     class: Sorcerer
@@ -97,7 +98,25 @@
       - Healer
       - Attack Debuff
       - Defense Debuff
+    family: Classic
     image: https://i.imgur.com/BwPG5qR.jpg
+  costume2:
+    class: Barbarian
+    power: 739
+    attack: 732
+    defense: 782
+    health: 1279
+    skill: Blessed Tankard
+    effects:
+      - Boosts health of all allies by 400. Boosted health can exceed max HP
+      - All allies get +30% defense for 3 turns
+      - All enemies get -34% attack for 3 turns
+    types:
+      - Healer
+      - Attack Debuff
+      - Defense Buff
+    family: Classic
+    image: https://i.imgur.com/s7WIRC3.jpg
 - name: Grimm
   class: Barbarian
   source: Season1

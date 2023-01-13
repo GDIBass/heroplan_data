@@ -256,6 +256,7 @@
   types:
     - Hit 1
     - Dispeller
+  family: Classic
   image: https://i.imgur.com/jv6lywZ.jpg
   costume:
     class: Fighter
@@ -270,7 +271,24 @@
     types:
       - Hit 1
       - Cleanser
+    family: Classic
     image: https://i.imgur.com/zrZ4p5y.jpg
+  costume2:
+    class: Paladin
+    power: 734
+    attack: 745
+    defense: 719
+    health: 1340
+    skill: Valorant Strike
+    effects:
+      - Deals 275% damage to the target and nearby enemies
+      - The target and nearby enemies are immune to new status effect buffs for 3 turns
+      - Dispels buffs from the target and nearby enemies
+    types:
+      - Hit 3
+      - Dispels Buffs
+    family: Classic
+    image: https://i.imgur.com/0FiXuyI.jpg
 - name: Buddy
   class: Ranger
   source: Christmas
