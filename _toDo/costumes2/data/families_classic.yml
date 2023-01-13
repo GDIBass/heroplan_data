@@ -1,0 +1,12 @@
+families:
+  classic:
+    key: classic
+    code: <TOBEDEFINED>
+    description: Classic
+    image: https://i.imgur.com/lJEARZp.png
+    bonus:
+      - "Classic Family Heroes need to be fully ascended to receive the Family Bonus."
+      - "Bonus for 2/3/4/5 Heroes:"
+      - "+1%/+3%/+5%/+7% attack."
+      - "+1%/+3%/+5%/+7% defense."
+      - "+1%/+3%/+5%/+7% healing." 

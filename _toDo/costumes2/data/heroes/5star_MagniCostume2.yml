@@ -1,0 +1,47 @@
+- name: Magni
+  class: Fighter
+  source: Season1
+  speed: Fast
+  power: 754
+  attack: 793
+  defense: 591
+  health: 1334
+  skill: Strike of the Ancients
+  effects:
+    - Deals 420% damage to the target
+    - The caster and nearby allies get +63% defense for 4 turns
+  types:
+    - Hit 1
+    - Defense Buff
+  family: Classic
+  image: https://i.imgur.com/JpMZ0xh.jpg
+  costume:
+    class: Druid
+    power: 795
+    attack: 743
+    defense: 732
+    health: 1467
+    skill: Strike of the Monolith
+    effects:
+      - Deals 420% damage to the target
+      - The target and nearby enemies get -34% defense for 4 turns
+    types:
+      - Hit 1
+      - Defense Debuff
+    family: Classic
+    image: https://i.imgur.com/A0jPrh9.jpg
+  costume2:
+    class: Rogue
+    power: 795
+    attack: 778
+    defense: 674
+    health: 1494
+    skill: Strike of the Underworld
+    effects:
+      - Deals 285% damage to target and nearby enemies.
+      - The target and nearby enemies get -64% defense against Special Skills for 4 turns
+    types:
+      - Hit 3
+      - Defense Debuff
+    family: Classic
+    image: https://i.imgur.com/npmSFHz.jpg

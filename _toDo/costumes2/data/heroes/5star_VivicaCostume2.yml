@@ -1,0 +1,53 @@
+- name: Vivica
+  class: Cleric
+  source: Season1
+  speed: Slow
+  power: 755
+  attack: 714
+  defense: 694
+  health: 1328
+  skill: Omniheal
+  effects:
+    - Recovers 44% health for all allies
+    - All allies get +63% defense for 4 turns
+    - Cleanses status ailments from all allies
+  types:
+    - Healer
+    - Defense Buff
+    - Cleanser
+  family: Classic
+  image: https://i.imgur.com/aHsNbej.jpg
+  costume:
+    class: Sorcerer
+    power: 796
+    attack: 741
+    defense: 735
+    health: 1475
+    skill: Omnicure
+    effects:
+      - Recovers 44% health for all allies
+      - All enemies get -44% defense for 4 turns
+      - Dispels buffs from all enemies
+    types:
+      - Healer
+      - Defense Debuff
+      - Dispeller
+    family: Classic
+    image: https://i.imgur.com/aaAeFsE.jpg
+  costume2:
+    class: Fighter
+    power: 859
+    attack: 800
+    defense: 807
+    health: 1630
+    skill: Omnimend
+    effects:
+      - Boosts health of all allies by 670. Boosted health can exceed max HP
+      - All enemies get -39% attack for 4 turns
+      - Dispels buffs from all enemies
+    types:
+      - Healer
+      - Attack Debuff
+      - Dispeller
+    family: Classic
+    image: https://i.imgur.com/J8lGs8A.jpg
