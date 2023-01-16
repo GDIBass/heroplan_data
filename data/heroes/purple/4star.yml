@@ -284,10 +284,10 @@
   class: Wizard
   source: Season3
   speed: Average
-  power: 660
-  attack: 707
-  defense: 629
-  health: 1083
+  power: 681
+  attack: 728
+  defense: 647
+  health: 1147
   skill: Nightglade Pollen
   effects:
     - Deals 150% damage to all enemies.
@@ -299,6 +299,22 @@
     - Healing Debuff
   family: Svartalfheim
   image: https://i.imgur.com/RvN7nUK.jpg
+  costume:
+    class: Druid
+    power: 681
+    attack: 749
+    defense: 625
+    health: 1138
+    skill: Nightbloom Dust
+    effects:
+      - Deals 280% damage to the target and nearby enemies.
+      - Reduces the mana of the target and nearby enemies by 15%.
+      - The target and nearby enemies get -75% decrease for any healing received for 3 turns.
+    types:
+      - Hit 3
+      - Mana Reduction
+      - Healing Debuff
+    image: https://i.imgur.com/GaN2l9J.jpg
 - name: Ametrine
   class: Barbarian
   source: Ninja

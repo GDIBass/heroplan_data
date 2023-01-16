@@ -582,20 +582,35 @@
   class: Rogue
   source: Season3
   speed: Fast
-  power: 786
-  attack: 753
-  defense: 760
-  health: 1320
+  power: 828
+  attack: 795
+  defense: 793
+  health: 1449
   skill: Brittling Force
   effects:
     - Deals 100% damage to all enemies.
-    - Deals 18% damage per each Nature shield on the board, up to 244% damage in total.
+    - Deals additional 18% damage per each Nature shield on the board, up to 244% damage in total.
     - All enemies get -8% defense, and a further -3% decrease per each Nature shield on the board for 3 turns, up to -44% defense.
   types:
     - Hit All
     - Defense Debuff
   family: Alfheim
   image: https://i.imgur.com/UMxFVGq.jpg
+  costume:
+    class: Wizard
+    power: 828
+    attack: 795
+    defense: 793
+    health: 1449
+    skill: Brittling Burst
+    effects:
+      - Deals 90% damage to all enemies.
+      - Deals additional 18% damage per each Nature shield on the board, up to 234% damage in total.
+      - All enemies get -12% defense, and a further -3% decrease per each Nature shield on the board for 3 turns, up to -48% defense.
+    types:
+      - Hit All
+      - Defense Debuff
+    image: https://i.imgur.com/S1ppfMA.jpg
 - name: Jade
   class: Monk
   source: Ninja
@@ -684,7 +699,7 @@
   defense: 760
   health: 1369
   skill: Accelerated Growth
-  effects: 
+  effects:
     - Recovers 30% health for all allies.
     - All allies regenerate a moderate amount of mana over 3 turns.
     - Cleanses status ailments from all allies.
@@ -1137,7 +1152,7 @@
     - Healing Debuff
   passives:
     - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
-    -  This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+    - This character has a 10% chance to drop the direct damage received from Special Skills to 1.
   image: https://i.imgur.com/D9rMcBZ.jpg
 - name: Max
   family: Pets
