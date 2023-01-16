@@ -634,6 +634,21 @@
     - Defense Debuff
   family: Alfheim
   image: https://i.imgur.com/UMxFVGq.jpg
+  costume:
+    class: Wizard
+    power: 828
+    attack: 795
+    defense: 793
+    health: 1449
+    skill: Brittling Burst
+    effects:
+      - Deals 90% damage to all enemies.
+      - Deals additional 18% damage per each Nature shield on the board, up to 234% damage in total.
+      - All enemies get -12% defense, and a further -3% decrease per each Nature shield on the board for 3 turns, up to -48% defense.
+    types:
+      - Hit All
+      - Defense Debuff
+    image: https://i.imgur.com/G0IAEBg.jpg
 - name: Jade
   class: Monk
   source: Ninja
