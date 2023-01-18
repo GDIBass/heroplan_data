@@ -354,6 +354,17 @@ families:
       - "While in Cover, the ally takes no damage from Special Skill attacks or normal attacks. This character takes 90% / 70% / 70% of the damage that would by received by the character in Cover."
       - "This effect can’t be dispelled, but ends when this character is defeated. Characters can only give cover to one ally at a time."
       - "The members of this family have additional perks in the Brave Musketeers event."
+  classic:
+    key: classic
+    code: 70
+    description: Classic
+    image: https://i.imgur.com/lJEARZp.png
+    bonus:
+      - "Classic Family Heroes need to be fully ascended to receive the Family Bonus."
+      - "Bonus for 2/3/4/5 Heroes:"
+      - "+1%/+3%/+5%/+7% attack."
+      - "+1%/+3%/+5%/+7% defense."
+      - "+1%/+3%/+5%/+7% healing." 
   2017:
     key: 2017
     code: 2017

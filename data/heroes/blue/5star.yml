@@ -265,6 +265,7 @@
   types:
     - Hit 1
     - Defense Buff
+  family: Classic
   image: https://i.imgur.com/JpMZ0xh.jpg
   costume:
     class: Druid
@@ -279,7 +280,23 @@
     types:
       - Hit 1
       - Defense Debuff
+    family: Classic
     image: https://i.imgur.com/A0jPrh9.jpg
+  costume2:
+    class: Rogue
+    power: 795
+    attack: 778
+    defense: 674
+    health: 1494
+    skill: Strike of the Underworld
+    effects:
+      - Deals 285% damage to target and nearby enemies.
+      - The target and nearby enemies get -64% defense against Special Skills for 4 turns
+    types:
+      - Hit 3
+      - Defense Debuff
+    family: Classic
+    image: https://i.imgur.com/npmSFHz.jpg
 - name: King Arthur
   class: Paladin
   source: Avalon
@@ -315,6 +332,7 @@
   types:
     - Hit All
     - Defense Debuff
+  family: Classic
   image: https://i.imgur.com/IqOKah3.jpg
   costume:
     class: Sorcerer
@@ -329,7 +347,24 @@
     types:
       - Hit All
       - Defense Debuff
+    family: Classic
     image: https://i.imgur.com/lgGiAdK.jpg
+  costume2:
+    class: Cleric
+    power: 857
+    attack: 934
+    defense: 733
+    health: 1432
+    skill: Glacial Vortex
+    effects:
+      - Deals 270% damage to all enemies
+      - All enemies get -34% attack for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer
+      - Deals extra damage against Fire
+    types:
+      - Hit All
+      - Attack Debuff
+    family: Classic
+    image: https://i.imgur.com/wccczud.jpg
 - name: Athena
   class: Ranger
   source: Hotm
