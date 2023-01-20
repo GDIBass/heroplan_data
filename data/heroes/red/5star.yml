@@ -1512,3 +1512,21 @@
     - Dot All
     - Healing Debuff
   image: https://i.imgur.com/ZKtM2K1.jpg
+- name: Xiaotu
+  class: Druid
+  source: lunaryear
+  family: lunaryear
+  speed: Average
+  power: 842
+  attack: 834
+  defense: 799
+  health: 1439
+  skill: Reverse Recovery
+  effects:
+    - Deals 655% damage to the target.
+    - The target and nearby enemies resist healing and receive 250 damage per each resisted healing for 4 turns.
+  types:
+    - Hit 1
+  passives:
+    - Disable Minion Abilities - Attracts and abilities of all Minions owned by enemies are disabled.
+  image: https://i.imgur.com/BFeoiOp.jpg
