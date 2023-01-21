@@ -364,7 +364,18 @@ families:
       - "Bonus for 2/3/4/5 Heroes:"
       - "+1%/+3%/+5%/+7% attack."
       - "+1%/+3%/+5%/+7% defense."
-      - "+1%/+3%/+5%/+7% healing." 
+      - "+1%/+3%/+5%/+7% healing."
+  lunaryear:
+    key: lunaryear
+    code: 71
+    description: Lunar Year
+    image: https://i.imgur.com/NWClrk7.png
+    bonus:
+      - "Heroes become stronger when teamed with other unique Heroes of the same family."
+      - "The Lunar Year family features different Lunar Year Animal Heroes. Each Lunar Year Animal grants different bonus to the members of the Lunar Year family when paired with at least 1 other Lunar Year Hero."
+      - "This Hero gives the following Lunar Year Rabbit bonus to the members of the Lunar Year Family:"
+      - "+5% mana generation."
+      - "The members of this family have additional perks in the Lunar New Year event."
   2017:
     key: 2017
     code: 2017
