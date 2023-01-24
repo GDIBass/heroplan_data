@@ -41,3 +41,18 @@ shot-scraper javascript "$URL" "({
 })" | yq -P '.' > "./tmp/$HERO.yaml"
 
 echo "✔ Hero Data saved at ./tmp/$HERO.yaml"
+
+echo -e "\n>>> Scraping Hero Image..."
+
+imgData=$(shot-scraper javascript "$URL" "({
+    src: document.querySelector('img.pi-image-thumbnail').src,
+    name: document.querySelector('img.pi-image-thumbnail').dataset.imageName
+  })"
+)
+
+src=$(echo "$imgData" | jq --raw-output '.src')
+name=$(echo "$imgData" | jq --raw-output '.name')
+
+wget -q -O "./tmp/$name" "$src"
+
+echo -e "\n✔ Hero image saved at ./tmp/$name. Check for accuracy and upload it to imgur.com and update the \"$HERO.yaml\" with imgur.com link."
