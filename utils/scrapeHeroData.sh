@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 ##### PRE REQUISITES
 ## Install shot-scraper and playwright
@@ -15,11 +15,11 @@ if [ -z "$HERO" ]; then
     exit 1
 fi
 
-URL=https://empiresandpuzzles.fandom.com/wiki/$HERO
+URL="https://empiresandpuzzles.fandom.com/wiki/$HERO"
 
 mkdir -p ./tmp
 
-shot-scraper javascript $URL "({
+shot-scraper javascript "$URL" "({
   name: document.querySelector('h2[data-source=title1]').innerText,
   class: document.querySelector('div[data-source=class] a:nth-of-type(2)').innerText,
   source: '<TODO>',
@@ -38,6 +38,6 @@ shot-scraper javascript $URL "({
     .map((n) => n.trim()),
   image: '<TODO>',
   family: document.querySelector('div[data-source=family] a:nth-of-type(2)').innerText,
-})" | yq -P '.' > ./tmp/$HERO.yaml
+})" | yq -P '.' > "./tmp/$HERO.yaml"
 
 echo "✔ Hero Data saved at ./tmp/$HERO.yaml"
