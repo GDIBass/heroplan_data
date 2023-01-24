@@ -126,7 +126,7 @@ We now have a script to do some heavy lifting for you.
   ```
 
   1. Clone the repo
-  2. On a command line (use [wsl](https://learn.microsoft.com/en-us/windows/wsl/install) if on Windows), run
+  2. On a command line (use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) if on Windows), run
  ```
  ./utils/scrapeHeroData <name of hero>
  ```
@@ -136,7 +136,7 @@ We now have a script to do some heavy lifting for you.
  ```
  ./utils/scrapeHeroData "Grace"
  ```
-This will produce the follwoing `herodata.yml` file in you `./tmp` folder:
+This will create the following `herodata.yml` file in you `./tmp` folder and also download the hero image:
 
 ```
 name: Grace
@@ -162,7 +162,7 @@ passives:
 image: <TODO>
 family: Legends 2022
 ```
-  3. Follow steps 1-3 of [Adding hero data manually](#adding-hero-data-manually) to add the images. (this part may get automated in future)
+  3. Upload the hero image to imgur.com and update the `<herodata>.yaml` with the corresponding link.
   4. Complete any remaining `<todo>` parts
   5. Send a pull request with the new files.
 
