@@ -119,6 +119,12 @@ If you're adding a new family, source, speed or other appropriate config change 
 We now have a script to do some heavy lifting for you. 
 
 #### Automated parts
+  0. Download and setup prerequisites:
+  ```
+  pip install shot-scraper
+  playwright install
+  ```
+
   1. Clone the repo
   2. On a command line (use [wsl](https://learn.microsoft.com/en-us/windows/wsl/install) if on Windows), run
  ```
