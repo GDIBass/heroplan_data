@@ -156,7 +156,7 @@ passives:
 image: <TODO>
 family: Legends 2022
 ```
-  3. Follow steps 1-3 of readme.md#adding-hero-data-manually to add the images. (this part may get automated in future)
+  3. Follow steps 1-3 of [Adding hero data manually](#adding-hero-data-manually) to add the images. (this part may get automated in future)
   4. Complete any remaining `<todo>` parts
   5. Send a pull request with the new files.
 
