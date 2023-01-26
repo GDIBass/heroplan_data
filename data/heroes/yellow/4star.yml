@@ -104,6 +104,20 @@
     - Elemental Defense Debuff
   family: Teltoc
   image: https://i.imgur.com/yQuuDkU.jpg
+  costume:
+    class: Barbarian
+    power: 680
+    attack: 675
+    defense: 666
+    health: 1236
+    skill: Severing Strike
+    effects:
+      - Deals 280% damage to the target.
+      - The caster and nearby allies get +94% defense against Dark for 3 turns.
+    types:
+      - Hit 1
+      - Defense Buff
+    image: https://i.imgur.com/SmImrcW.jpg
 - name: Gretel
   class: Barbarian
   source: Fables
