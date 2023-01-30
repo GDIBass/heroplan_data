@@ -19,7 +19,7 @@ You'll need to know the following things in order to contribute:
 
 1. How to use github & open a PR
 2. How to use GNU image manipulator (or have the image file handy)
-3. YAML and what it looks like and how it workjs
+3. YAML and what it looks like and how it works
 
 
 ## 1. File locations
@@ -42,6 +42,8 @@ Hero information is separted by color.  Heroes for each color can be found in:
 From there the files are separated out by stars (1star, 2star, 3star, etc).
 
 ## 2. Adding/updating heroes
+
+### Adding hero data manually
 
 1. Create a hero image (if it doesn't exist or needs updating)
 * Open the template of the correct color
@@ -111,5 +113,57 @@ costume:
 ```
 
 If you're adding a new family, source, speed or other appropriate config change please update those accordingly.  Eventually these will be updated dynamically.
+
+### Adding hero data semi automatically
+
+We now have a script to do some heavy lifting for you. 
+
+#### Automated parts
+  0. Download and setup prerequisites:
+  ```
+  pip install shot-scraper
+  playwright install
+  ```
+
+  1. Clone the repo
+  2. On a command line (use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) if on Windows), run
+ ```
+ ./utils/scrapeHeroData <name of hero>
+ ```
+
+ For example:
+
+ ```
+ ./utils/scrapeHeroData "Grace"
+ ```
+This will create the following `herodata.yml` file in you `./tmp` folder and also download the hero image:
+
+```
+name: Grace
+class: Druid
+source: <TODO>
+speed: Fast
+power: 806
+attack: 756
+defense: 766
+health: 1444
+skill: Malison of the Wildlands
+effects:
+  - Deals 285% damage to the target and nearby enemies.
+  - The target and nearby enemies cannot cast any new Taunt status effects for 3 turns.
+  - The target and nearby enemies get -34% defense against Special Skills for 3 turns.
+  - Element Link gives all Nature allies immunity to new Fiends for 4 turns
+  - Element Link affects all allies when using 2 or more members of the same family.
+types:
+  - <TODO>
+passives:
+  - Resist Burn - This character has innate resistance against Burn.
+  - Mana on Taunt - Each time an enemy receives a Taunt status effect this character’s mana is increased by 10% .
+image: <TODO>
+family: Legends 2022
+```
+  3. Upload the hero image to imgur.com and update the `<herodata>.yaml` with the corresponding link.
+  4. Complete any remaining `<todo>` parts
+  5. Send a pull request with the new files.
 
 If enough people contribute I'll set up a regular job to update heroes every night.
