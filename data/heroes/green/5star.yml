@@ -302,7 +302,7 @@
       - Hit All
       - Attack Debuff
     family: Classic
-    image: https://i.imgur.com/jionVR2.jpg
+    image: https://i.imgur.com/AffGFoZ.jpg
   costume2:
     class: Wizard
     power: 794
@@ -541,7 +541,7 @@
     - Mana Generation Debuff
   passives:
     - The Hero has innate resistance against Minion Removal.
-  image: https://i.imgur.com/U63JhNk.jpg
+  image: https://i.imgur.com/xKwfgME.jpg
   family: 2020
 - name: Heimdall
   class: Paladin

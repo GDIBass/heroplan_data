@@ -112,7 +112,7 @@
     types:
       - Defense Debuff
       - Enemy Damage Share
-    image: https://i.imgur.com/vP2SgVY.jpg
+    image: https://i.imgur.com/MxDScRN.jpg
 - name: Graymane
   class: Sorcerer
   source: Season1
@@ -192,7 +192,7 @@
     - Hit 3
     - Elemental Defense Debuff
   family: Jotunheim
-  image: https://i.imgur.com/kNdE9Hw.jpg
+  image: https://i.imgur.com/35qzhpx.jpg
 - name: Chick Jr
   class: Paladin
   source: Springvale

@@ -1,14 +1,18 @@
 filters:
   max:
+    key: max
     description: Max
     type: max
   3/70:
+    key: 3/70
     description: 3/70
     type: 3/70
   non_max:
+    key: non_max
     description: Non-max
     type: non_max
   limit_broken:
+    key: limit_broken
     description: Limit Broken
     type: ascension
     ascensions:
@@ -16,6 +20,7 @@ filters:
       4: 5
       5: 5
   4th_ascension:
+    key: 4th_ascension
     description: 4th ascension
     type: ascension
     ascensions:
@@ -25,6 +30,7 @@ filters:
       4: 4
       5: 4
   3rd_ascension:
+    key: 3rd_ascension
     description: 3rd ascension
     type: ascension
     ascensions:
@@ -34,6 +40,7 @@ filters:
       4: 3
       5: 3
   2nd_ascension:
+    key: 2nd_ascension
     description: 2nd ascension
     type: ascension
     ascensions:
@@ -43,6 +50,7 @@ filters:
       4: 2
       5: 2
   1st_ascension:
+    key: 1st_ascension
     description: 1st ascension
     type: ascension
     ascensions:

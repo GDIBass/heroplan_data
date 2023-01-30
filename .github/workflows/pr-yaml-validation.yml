@@ -1,0 +1,18 @@
+name: PR Yaml Validation
+run-name: ${{ github.actor }} validating YAML on PR
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  validate-yaml:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      - uses: gdibass/heroplan_data_validator@main

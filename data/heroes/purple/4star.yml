@@ -14,7 +14,7 @@
   types:
     - Hit 3
     - Defense Debuff
-  image: https://i.imgur.com/d1kizWl.jpg
+  image: https://i.imgur.com/XQUgnc6.jpg
   costume:
     class: Paladin
     power: 674
@@ -28,7 +28,7 @@
     types:
       - Hit all
       - Defense Debuff
-    image: https://i.imgur.com/QSaL4cP.jpg
+    image: https://i.imgur.com/IyFUCM0.jpg
 - name: Sabina
   class: Sorcerer
   source: Season1
@@ -43,7 +43,7 @@
     - Dispels buffs from all enemies
   types:
     - Healer
-  image: https://i.imgur.com/xEzmD1D.jpg
+  image: https://i.imgur.com/G6mmZNN.jpg
   costume:
     class: Cleric
     power: 674
@@ -73,7 +73,7 @@
   types:
     - Healer
     - Cleanser
-  image: https://i.imgur.com/Y4YUtsb.jpg
+  image: https://i.imgur.com/epzxGwy.jpg
   costume:
     class: Ranger
     power: 681
@@ -89,7 +89,7 @@
       - HOT
       - Attack Buff
       - Cleanser
-    image: https://i.imgur.com/dR0LrS3.jpg
+    image: https://i.imgur.com/9nzkBMP.jpg
 - name: Proteus
   class: Wizard
   source: Season2
@@ -279,7 +279,7 @@
   types:
     - Ghost
   realm: Helheim
-  image: https://i.imgur.com/9LKW944.jpg
+  image: https://i.imgur.com/7VLylDF.jpg
 - name: Fura
   class: Wizard
   source: Season3

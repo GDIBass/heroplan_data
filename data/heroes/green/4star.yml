@@ -59,7 +59,7 @@
       - HOT
       - Defense Buff
       - Dispeller
-    image: https://i.imgur.com/WtkTDo3.jpg
+    image: https://i.imgur.com/5gxdGVM.jpg
 - name: Skittleskull
   class: Sorcerer
   source: Season1
@@ -89,7 +89,7 @@
     types:
       - Hit All
       - Attack Debuff
-    image: https://i.imgur.com/Ra4Kn9A.jpg
+    image: https://i.imgur.com/9DvgVYg.jpg
 - name: Peters
   class: Rogue
   source: Pirates

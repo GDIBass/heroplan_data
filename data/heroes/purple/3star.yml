@@ -31,7 +31,7 @@
   types:
     - Hit 1
     - Dispeller
-  image: https://i.imgur.com/hbs30Wo.jpg
+  image: https://i.imgur.com/HKuMtXT.jpg
   costume:
     class: Rogue
     power: 465
@@ -45,7 +45,7 @@
     types:
       - Hit 1
       - Cleanser
-    image: https://i.imgur.com/b4nWBqd.jpg
+    image: https://i.imgur.com/Rir8owz.jpg
 - name: Renfeld
   class: Fighter
   source: Season1
@@ -61,7 +61,7 @@
   types:
     - Hit 1
     - Heal Self
-  image: https://i.imgur.com/YOrcUNZ.jpg
+  image: https://i.imgur.com/6HwABCg.jpg
   costume:
     class: Cleric
     power: 468
@@ -91,7 +91,7 @@
   types:
     - Hit 1
     - Heal Self
-  image: https://i.imgur.com/nIXEvou.jpg
+  image: https://i.imgur.com/IoRPZNA.jpg
   costume:
     class: Fighter
     power: 470
