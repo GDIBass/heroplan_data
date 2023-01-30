@@ -29,7 +29,7 @@
       - Hit All
       - Accuracy Debuff
     bonuses: 2/2/4/1
-    image: https://i.imgur.com/pRlDHaa.jpg
+    image: https://i.imgur.com/M7NWE48.jpg
 - name: Kailani
   class: Cleric
   source: Season1
@@ -142,7 +142,7 @@
     types:
       - Hit 1
       - Blind
-    image: https://i.imgur.com/dGKlDsc.jpg
+    image: https://i.imgur.com/oMyq8FB.jpg
 - name: Arman
   class: Fighter
   source: Sand

@@ -59,6 +59,18 @@ sources:
     key: knights
     code: 59
     description: Clash of Knights
+  monsterhunter:
+    key: monsterhunter
+    code: 60
+    description: Monster Hunter
+  pets:
+    key: pets
+    code: 61
+    description: Pets
+  dynasty:
+    key: dynasty
+    code: 62
+    description: Dynasty
   springvale:
     key: springvale
     code: 101

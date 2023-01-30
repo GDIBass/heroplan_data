@@ -148,7 +148,7 @@
     types:
       - Hit 3
       - Attack Debuff
-    image: https://i.imgur.com/gyZ5BBo.jpg
+    image: https://i.imgur.com/WKQthMP.jpg
 - name: Perseus
   class: Paladin
   source: Hotm
@@ -348,7 +348,7 @@
       - Hit All
       - Defense Debuff
     family: Classic
-    image: https://i.imgur.com/lgGiAdK.jpg
+    image: https://i.imgur.com/j8POeJ4.jpg
   costume2:
     class: Cleric
     power: 857
@@ -1307,7 +1307,7 @@
   image: https://i.imgur.com/eyJkRvq.jpg
 - name: Adalinda
   class: Paladin
-  speed: Averager
+  speed: Average
   family: MonsterHunter
   source: Covenant
   power: 838

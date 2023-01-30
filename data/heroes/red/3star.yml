@@ -135,7 +135,7 @@
     types:
       - HOT
       - Attack Buff
-    image: https://i.imgur.com/KgnrxgB.jpg
+    image: https://i.imgur.com/FY7tylo.jpg
 - name: Azar
   class: Barbarian
   source: Season1
@@ -201,7 +201,7 @@
     - Hit All
     - Mana Generation Debuff
   family: Niflheim
-  image: https://i.imgur.com/ZFpobou.jpg
+  image: https://i.imgur.com/RabUqBI.jpg
 - name: Sudri
   class: Ranger
   source: Season3

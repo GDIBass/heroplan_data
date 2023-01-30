@@ -209,7 +209,7 @@
       - All enemies get -41% defense and a further -4% decrease every time they are hit for 4 turns
     types:
       - Defense Debuff
-    image: https://i.imgur.com/yGyIAlx.jpg
+    image: https://i.imgur.com/ig1RoGx.jpg
 - name: Berden
   class: Ranger
   source: Season1
@@ -279,7 +279,7 @@
     - Defense Buff
     - HOT
   family: Niflheim
-  image: https://i.imgur.com/18QURkH.jpg
+  image: https://i.imgur.com/TVINRSf.jpg
 - name: Grevle
   class: Wizard
   source: Season3

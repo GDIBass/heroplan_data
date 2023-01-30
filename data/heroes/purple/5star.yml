@@ -226,7 +226,7 @@
       - Hit All
       - Attack Debuff
     family: Classic
-    image: https://i.imgur.com/76RLl1O.jpg
+    image: https://i.imgur.com/TBwlwOC.jpg
   costume2:
     class: Druid
     power: 798
@@ -701,7 +701,7 @@
   types:
     - Hit All
   family: Springvale
-  image: https://i.imgur.com/KLPPpnK.jpg
+  image: https://i.imgur.com/WU18HC0.jpg
   costume:
     class: Druid
     power: 814
@@ -1273,7 +1273,7 @@
     - Attack Buff
   passives:
     - Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.
-  image: https://i.imgur.com/8zi5PWx.png
+  image: https://i.imgur.com/aQwzAEQ.jpg
 - name: Arfanias
   class: Rogue
   family: 2022

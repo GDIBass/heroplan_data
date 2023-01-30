@@ -136,7 +136,7 @@
       - Defense Debuff
       - Dispeller
     family: Classic
-    image: https://i.imgur.com/aaAeFsE.jpg
+    image: https://i.imgur.com/pm7wcbP.jpg
   costume2:
     class: Fighter
     power: 859
@@ -291,7 +291,7 @@
       - Hit 1
       - Blind
     family: Classic
-    image: https://i.imgur.com/gxmmtLK.jpg
+    image: https://i.imgur.com/YXbYHIl.jpg
   costume2:
     class: Barbarian
     power: 792
@@ -545,7 +545,7 @@
     - Counterattack
     - Mana Generation Buff
   family: Midgard
-  image: https://i.imgur.com/J8w1rJX.jpg
+  image: https://i.imgur.com/IEuL57g.jpg
   costume:
     class: Cleric
     power: 830
