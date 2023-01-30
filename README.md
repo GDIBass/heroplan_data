@@ -166,4 +166,13 @@ family: Legends 2022
   4. Complete any remaining `<todo>` parts
   5. Send a pull request with the new files.
 
-If enough people contribute I'll set up a regular job to update heroes every night.
+## Automated Validation & Failures
+
+When you submit a pull request an automated job will run through to make sure you've added the data correctly.
+If the job fails it should give a descriptive error of the problem.  Simply pull it up and fix the error!
+If you can't figure it out feel free to ping me on here, or the forums.
+
+
+The hero data is updated automatically every night at midnight PST.  This only applies to heroes currently.
+
+Eventually I'll also have the data updated on pull request, and include the entire configuration set.
