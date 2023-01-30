@@ -520,6 +520,22 @@
     - Cleanser
   family: 2018
   image: https://i.imgur.com/9AxepJ9.jpg
+  costume:
+    class: Cleric
+    bonuses: 5/5/10/5
+    power: 793
+    attack: 723
+    defense: 761
+    health: 1444
+    skill: Voidshield
+    effects:
+      - Recovers 43% health for all allies.
+      - Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.
+      - Element Link gives all Dark allies +5% attack and +5% defense for 6 turns. Can't be dispelled.
+    types:
+      - Heal
+      - Cleanser
+    image: https://i.imgur.com/WvBRV3O.jpg
 - name: Marie-Therese
   class: Monk
   source: Pirates

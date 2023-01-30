@@ -473,6 +473,23 @@
     - Ally Damage Share
   family: 2018
   image: https://i.imgur.com/BzRTcqJ.jpg
+  costume:
+    class: Monk
+    power: 793
+    attack: 653
+    defense: 793
+    health: 1560
+    skill: Glacial Resilience
+    effects:
+      - All allies share received damage with each other for 3 turns.
+      - All allies get +30% defense, and a further 5% increase every time they are hit during 3 turns.
+      - All allies regenerate 549 HP over 3 turns.
+      - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can’t be dispelled.
+    types:
+      - Share Damage
+      - Defense Buff
+    image: https://i.imgur.com/JN0Ddwo.jpg
+    bonuses: 5/5/10/5
 - name: Miki
   class: Barbarian
   source: Hotm
@@ -1490,3 +1507,20 @@
     - Taunt
     - Counterattack
   image: https://i.imgur.com/TgO9p2o.jpg
+- name: Guardian Hippo
+  class: Barbarian
+  source: Teltoc
+  speed: Fast
+  power: 841
+  attack: 828
+  defense: 782
+  health: 1483
+  skill: Brutal Support
+  effects:
+    - After any ally casts their Special skill during next 3 turns, this character deals 225% damage to all enemies.
+    - All allies get +34% mana generation for 3 turns.
+  types:
+    - Hit All
+    - Mana Generation
+  family: Teltoc
+  image: https://i.imgur.com/VXhh6s9.jpg

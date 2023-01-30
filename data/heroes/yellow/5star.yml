@@ -506,6 +506,28 @@
     - Titan Attack Buff
   family: Teltoc
   image: https://i.imgur.com/B2LpVrC.jpg
+  costume:
+    class: Fighter
+    bonuses: 5/5/10/5
+    power: 822
+    attack: 812
+    defense: 783
+    health: 1381
+    skill: Bandalora Dance
+    effects:
+      - Removes all status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.
+      - Recovers 48% health for all allies.
+      - "For 4 turns all allies except the caster starting dancing the Dance of Spirits:"
+      - "+150% attack."
+      - Reduces all received damage by -30%.
+      - Gives immunity to new status effects.
+      - If the caster dies, the dancer receives 100 damage and their mana is reduced by 100.
+      - This effect can’t be dispelled, but it gets removed if caster dies
+    types:
+      - Cleanser
+      - Healer
+      - Attack Buff
+    image: https://i.imgur.com/E5qL0sl.jpg
 - name: Sif
   class: Rogue
   source: Season3
