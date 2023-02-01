@@ -1524,3 +1524,46 @@
     - Mana Generation
   family: Teltoc
   image: https://i.imgur.com/VXhh6s9.jpg
+- name: Zengar
+  class: Barbarian
+  source: SuperElemental
+  family: SuperElemental
+  speed: Fast
+  power: 841
+  attack: 819
+  defense: 751
+  health: 1569
+  skill: Great Frost Axe
+  effects:
+    - Deals 200% damage to the target.
+    - If the target is of Fire element, deals 450% damage to nearby enemies.
+    - The target receives 417 Frost damage over 3 turns.
+    - If the target is of Fire element, nearby enemies receive 540 Frost damage over 3 turns.
+  types:
+    - Damage 1
+    - Damage 3
+    - Dot 1
+    - Dot 3
+  passives:
+    - "Passive Skill as an attacking character: This character’s Troops deal 100% more additional damage against weaker element."
+    - "Passive Skill as a defending character: This character receives 10% less additional damage from Troops of stronger element."
+  image: https://i.imgur.com/DQY3Orp.jpg
+- name: Anzia
+  class: Cleric
+  source: SuperElemental
+  family: SuperElemental
+  speed: Average
+  power: 841
+  attack: 762
+  defense: 780
+  health: 1654
+  skill: Radiant Comeback
+  effects:
+    - All allies counterattack with 75% of the damage received, and a further 7% increase per each Ice shield on the board for 5 turns, up to 159% damage in total.
+    - All Ice allies regenerate a moderate amount of mana for each counterattack for 5 turns. This effect gets diminished for consecutive activations during the same turn.
+  types:
+    - Counterattack
+  passives:
+    - "Passive Skill as an attacking character: This character’s Troops deal 100% more additional damage against weaker element."
+    - "Passive Skill as a defending character: This character receives 10% less additional damage from Troops of stronger element."
+  image: https://i.imgur.com/9igBdFq.jpg
