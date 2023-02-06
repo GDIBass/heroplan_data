@@ -19,3 +19,4 @@ member_status:
     id: 4
     key: leader
     description: Leader
+    leader: true
