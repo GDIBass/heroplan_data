@@ -1553,3 +1553,25 @@
   passives:
     - "Disable Minion Abilities - Attracts and abilities of all Minions owned by enemies are disabled."
   image: https://i.imgur.com/3mERqj0.jpg
+- name: Dabria
+  class: Monk
+  speed: Average
+  source: Covenant
+  family: MonsterHunter
+  power: 841
+  attack: 803
+  defense: 846
+  health: 1417
+  skill: Liturgy of the Fallen
+  effects:
+    - Each fallen ally has a 40% chance to get revived with 20% HP.
+    - All allies regenerating 894 HP over 4 turns, starting low an increasing every turn.
+    - All allies get +24% defense for 4 turns. The defense increases by 10% each turn up to +54%.
+  types:
+    - Revive
+    - Healer
+    - Defense Buff
+  passives:
+    - Damage Over Time on Special - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
+    - Hunter’s Sense - When this character casts their Special Skill, they have 100% chance to transfer the newest cleansable status ailment from themselves to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.
+  image: https://i.imgur.com/EUt5N6q.jpg
