@@ -1567,3 +1567,30 @@
     - "Passive Skill as an attacking character: This character’s Troops deal 100% more additional damage against weaker element."
     - "Passive Skill as a defending character: This character receives 10% less additional damage from Troops of stronger element."
   image: https://i.imgur.com/9igBdFq.jpg
+- name: Thanatos
+  class: Druid
+  source: Styx
+  family: Styx
+  speed: Charge
+  power: 836
+  attack: 791
+  defense: 828
+  health: 1448
+  skill: Delay the Inevitable
+  effects:
+    - "1x Mana Charge:"
+    - "Recovers 20% health for all allies."
+    - "All allies get +24% mana generation for 2 turns."
+    - "2x Mana Charge:"
+    - "Recovers 30% health for all allies."
+    - "Increases the mana of all allies by 10%."
+    - "3x Mana Charge:"
+    - "Recovers 50% health for all allies."
+    - "Increases the mana of all allies by 20%."
+    - "All allies get +40% mana generation for 4 turns."
+  types:
+    - Healer
+    - Mana Generation
+  passives:
+    - "Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns."
+  image: https://i.imgur.com/WM6GD2A.jpg
