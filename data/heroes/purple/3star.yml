@@ -434,3 +434,23 @@
   passives:
     - When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
   image: https://i.imgur.com/n5BGh1Y.jpg
+- name: Greel
+  class: Barbarian
+  speed: Very Slow
+  source: Covenant
+  family: MonsterHunter
+  power: 487
+  attack: 526
+  defense: 477
+  health: 747
+  skill: Stubby Reap
+  effects:
+    - Deals 210% damage to all enemies.
+    - Deals 315% damage if the target has less than 50% health remaining.
+    - The caster gains 20% mana for each enemy defeated by the attack.
+  types:
+    - Hit All
+  passives:
+    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
+    - When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.
+  image: https://i.imgur.com/GbQldWm.jpg
