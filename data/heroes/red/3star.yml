@@ -202,7 +202,7 @@
     - Mana Generation Debuff
   family: Niflheim
   image: https://i.imgur.com/RabUqBI.jpg
-costume:
+  costume:
     class: Barbarian
     power: 481
     attack: 502
