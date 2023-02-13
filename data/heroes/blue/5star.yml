@@ -1294,16 +1294,15 @@
   health: 1483
   skill: Litter of Kittens
   effects:
-    - Summons a Blue Kitten Minion for the caster and nearby allies. Blue Kitten Minion inherits 40% HP and 20% attack from the caster. The Minion recovers 15% health for its owner at the end of each turn.
+    - Summons a Blue Kitten Minion for the caster and nearby allies. Blue Kitten Minion inherits 30% HP and 30% attack from the caster. The Minion recovers 22% health for its owner at the end of each turn.
     - The Blue Kitten Minion lifts the newest cleansable status ailment from its owner and add its to the hit target.
-    - The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 5 turns.
-    - The caster and nearby allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.
+    - The caster and nearby allies get +50% attack.
   types:
     - Summoner
     - Attack Buff
     - Health Regen
   passives:
-    - When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies
   image: https://i.imgur.com/eyJkRvq.jpg
 - name: Adalinda
   class: Paladin
@@ -1422,14 +1421,15 @@
   family: Musketeer
   speed: Slow
   power: 840
-  attack: 817
+  attack: 819
   defense: 793
   health: 1485
   skill: Musketeer's Mead
   effects:
-    - Deals 355% damage to all enemies.
+    - Deals 380% damage to all enemies.
     - Alters the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enchanced with +74% attack. When a defending Hero casts the special, the shields become weakened with -67% attack.
     - Deals extra damage against Fire.
+    - Caster regenerates 918 HP over 6 turns.
   types:
     - Hit All
     - Tile Enhancer

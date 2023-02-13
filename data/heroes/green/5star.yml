@@ -233,7 +233,7 @@
   health: 1231
   skill: Moonlight Serenade
   effects:
-    - Target and nearby enemies receive 869 damage over 4 turns, starting low and increasing with every turn
+    - Target and nearby enemies receive 932 damage over 4 turns, starting low and increasing with every turn
     - Cleanses status ailments from all allies
   types:
     - DoT 3
@@ -691,6 +691,8 @@
     - Hit 3
     - Cleanser
   family: Morlovia
+  passives:
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/jBtXWpz.jpg
   costume:
     class: Sorcerer
@@ -1283,14 +1285,15 @@
   family: Musketeer
   speed: Slow
   power: 840
-  attack: 706
-  defense: 887
-  health: 1573
+  attack: 708
+  defense: 889
+  health: 1580
   skill: The Queen's Speech
   effects:
     - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 6 turns.
     - All allies get +65% defense for 6 turns.
     - All allies get +44% mana generation for 6 turns.
+    - Caster regenerates 918 HP over 6 turns
   types:
     - Taunt
     - Defense Buff
@@ -1304,15 +1307,16 @@
   family: Musketeer
   speed: Very Fast
   power: 840
-  attack: 842
-  defense: 725
-  health: 1553
+  attack: 846
+  defense: 729
+  health: 1565
   skill: Piercing Shot
   effects:
     - Destroys all Minions from the target.
     - Deals 470% damage to the target.
     - The caster gets 20% mana for each destroyed Minion.
     - The attack bypasses defensive buffs. This includes counterattacks.
+    - Caster regenerates 306 HP over 2 turns.
   types:
     - Hit 1
     - Minion Destruction

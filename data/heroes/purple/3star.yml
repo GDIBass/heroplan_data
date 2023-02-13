@@ -14,6 +14,8 @@
     - DOT 1
     - Stacking
     - Healing Stealer
+  passives:
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   family: Morlovia
   image: https://i.imgur.com/BKgxWVA.jpg
 - name: Tyrum
@@ -279,6 +281,8 @@
     - Hit 1
     - Bomb
   family: Morlovia
+  passives:
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/1pbBKiM.jpg
 - name: Edd
   class: Ranger
