@@ -515,6 +515,23 @@
     - Self Resurection
   family: Helheim
   image: https://i.imgur.com/1Pdi9b0.jpg
+  costume:
+    class: Barbarian
+    power: 832
+    attack: 810
+    defense: 793
+    health: 1443
+    skill: Indestructible Claw
+    effects:
+      - Deals 260% damage to the target and nearby enemies.
+      - The attack bypasses defensive buffs. This includes counterattacks.
+      - The target and nearby enemies receive 528 Bleed damage over 4 turns. The caster absorbs 40% of the dealt Bleed damage as health.
+      - If the caster dies during the next 4 turns they are resurrected in the beginning of their turn with 40% health. All status effects and stacks are removed when the caster dies.
+    types:
+      - Hit 3
+      - Dot 3
+    bonuses: 5/5/10/5
+    image: https://i.imgur.com/7UO34fo.jpg
 - name: Baldur
   class: Ranger
   source: Season3
@@ -660,6 +677,8 @@
     - Health Steal
     - Status Ailment Immunity
   family: Morlovia
+  passives:
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/FsFObHs.jpg
   costume:
     class: Wizard
@@ -688,7 +707,7 @@
   health: 1310
   skill: Occult Redemption
   effects:
-    - Deals 215% damage to the target and nearby enemies.
+    - Deals 260% damage to the target and nearby enemies.
     - All allies get -50% reduction to damage received from status effects for 4 turns.
     - Element Link summons a Fire Minion for all Fire allies with 5% HP and 10% attack inherited from the caster.
   types:
@@ -1279,7 +1298,7 @@
     - Minion Destruction
     - Hit 3
   passives:
-    - When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/ZDIKUNx.jpg
 - name: Erebus
   class: Wizard
@@ -1448,12 +1467,13 @@
   speed: Fast
   power: 840
   attack: 834
-  defense: 797
-  health: 1433
+  defense: 801
+  health: 1446
   skill: Flaming Rapier
   effects:
-    - Deals 500% damage to the target.
-    - The target receives 849 Burn damage over 3 turns. This effect spreads to nearby enemies.
+    - Deals 470% damage to the target.
+    - The target receives 1023 Burn damage over 3 turns. This effect spreads to nearby enemies.
+    - Caster regenerates 459 HP over 3 turns
   types:
     - Hit 1
     - Dot 1

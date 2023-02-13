@@ -579,6 +579,7 @@
     - Summon a Spy Fiend for all enemies. The Fiend damages the enemy with 45% attack every turn.
     - The Spy Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its target’s max health.
     - At the end of each turn, the Spy Fiend steals one of its target’s dispellable buffs and gives it to one character on the opposite team.
+    - Caster regenerates 324 HP over 4 turns.
   types:
     - Hit 3
     - Fiend
