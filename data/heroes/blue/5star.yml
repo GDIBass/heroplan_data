@@ -1614,3 +1614,26 @@
   passives:
     - Resist Special Skill Blocking - This character has innate resistance against status ailments that block Special Skills.
   image: https://i.imgur.com/BKwCrac.jpg
+- name: Hetepheres
+  class: Cleric
+  source: Season5
+  family: Sun
+  speed: Average
+  power: 844
+  attack: 743
+  defense: 861
+  health: 1563
+  skill: Bewildering Riddle
+  effects:
+    - Recovers 50% health for all allies.
+    - All allies get +84% defense agains Nature, and a further 2% increase every time they are hit during 4 turns.
+    - All enemies get -40% accuracy for 4 turns.
+  types:
+    - Healer
+    - Defense Buff
+  passives:
+    - "60% chance to perform the following actions when this character casts their Special Skill:"
+    - Boosts health of all allies by 10%.
+    - Boosted health can exceed max HP.
+    - Cleanses the latest cleansable status ailment from all allies.
+  image: https://i.imgur.com/wdaa6Lv.jpg
