@@ -134,7 +134,7 @@ sources:
   pet:
     key: pet
     code: 131
-    description: Pets
+    description: Pet
   masquerade:
     key: masquerade
     code: 132
@@ -147,3 +147,7 @@ sources:
     key: lunaryear
     code: 134
     description: Lunar Year
+  love:
+    key: love
+    code: 135
+    description: Season of Love

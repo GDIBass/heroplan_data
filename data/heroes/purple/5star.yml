@@ -1604,3 +1604,22 @@
     - Hit All
     - Fiend Summoner
   image: https://i.imgur.com/OBE1Glz.jpg
+- name: Phthonus
+  class: Wizard
+  source: Love
+  family: Cupid
+  speed: Slow
+  power: 841
+  attack: 803
+  defense: 788
+  health: 1534
+  skill: Potions of Covetous Desire
+  effects:
+    - Deals 360% damage to all enemies.
+    - Dispels buffs from all enemies.
+    - Recovers 8% health per removed status effect for all allies, up to 64% health in total.
+  types:
+    - Hit All
+    - Dispeller
+    - Healer
+  image: https://i.imgur.com/OE7cx2p.jpg

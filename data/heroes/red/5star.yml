@@ -1550,3 +1550,22 @@
   passives:
     - Disable Minion Abilities - Attracts and abilities of all Minions owned by enemies are disabled.
   image: https://i.imgur.com/BFeoiOp.jpg
+- name: Cupido
+  class: Ranger
+  source: Love
+  family: Cupid
+  speed: Average
+  power: 842
+  attack: 826
+  defense: 788
+  health: 1487
+  skill: Love Conquers All
+  effects:
+    - Deals 295% damage to the target and nearby enemies.
+    - The target and nearby enemies automatically cast Healing Gift+ on the character with least health in proportion to their max health on the opposing team when mana is full at the start of the turn during 3 turns.
+    - +Healing Gift - Recovers 20% health for the enemy with the lowest remaining HP in proportion to their max HP.
+  types:
+    - Hit 3
+  passives:
+    - Resist Special Skill Blocking - This character has innate resistance against status ailments that block Special Skills.
+  image: https://i.imgur.com/4hhCXCA.jpg

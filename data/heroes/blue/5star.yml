@@ -1594,3 +1594,23 @@
   passives:
     - "Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns."
   image: https://i.imgur.com/WM6GD2A.jpg
+- name: Himeros
+  class: Rogue
+  source: Love
+  family: Cupid
+  speed: Very Fast
+  power: 841
+  attack: 846
+  defense: 786
+  health: 1433
+  skill: Grips of Longing
+  effects:
+    - Dispels buffs from the target.
+    - Deals 460% damage to the target.
+    - The caster and nearby allies’ Special Skills deal an additional +40% damage for 3 turns.
+  types:
+    - Dispeller
+    - Hit 1
+  passives:
+    - Resist Special Skill Blocking - This character has innate resistance against status ailments that block Special Skills.
+  image: https://i.imgur.com/BKwCrac.jpg
