@@ -376,6 +376,14 @@ families:
       - "This Hero gives the following Lunar Year Rabbit bonus to the members of the Lunar Year Family:"
       - "+5% mana generation."
       - "The members of this family have additional perks in the Lunar New Year event."
+  cupid:
+    key: cupid
+    code: 72
+    description: Cupid
+    image: https://i.imgur.com/B0hihiA.png
+    bonus:
+      - "Cupid Family supports other families and realms"
+      - "Solo Heroes get +20% increase for any healing received. Team members are Solo Heroes if they have no family or realm members in the Team."
   2017:
     key: 2017
     code: 2017
