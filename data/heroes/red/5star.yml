@@ -380,6 +380,21 @@
       - Hit 3
       - Dot 3
     image: https://i.imgur.com/TDGgAGz.jpg
+  costume2:
+    class: Fighter
+    power: 861
+    attack: 923
+    defense: 722
+    health: 1507
+    skill: Volcanic Explosion
+    effects:
+      - Deals 310% damage to the target and nearby enemies.
+      - The target and nearby enemies receive 630 Burn damage over 4 turns. The caster absorbs 40% of the dealt Burn damage as health.
+    types:
+      - Hit 3
+      - DoT
+    family: Classic
+    image: https://i.imgur.com/6N4jIyy.jpg
 - name: Ares
   class: Paladin
   source: Hotm
