@@ -56,7 +56,7 @@
       - Hit All
       - Mana Reduction
     image: https://i.imgur.com/6LRP9pF.jpg
-   costume2:
+  costume2:
     class: Wizard
     power: 731
     attack: 725
