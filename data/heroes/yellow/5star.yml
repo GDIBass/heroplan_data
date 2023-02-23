@@ -260,6 +260,21 @@
     types:
       - Hit all
     image: https://i.imgur.com/KCL7Y0s.jpg
+  costume2:
+    class: Sorcerer
+    power: 858
+    attack: 793
+    defense: 802
+    health: 1656
+    skill: Ritual of Judgement
+    effects:
+      - Deals 300% damage to all enemies.
+      - The damage is increased by 45% per each dead enemy.
+      - All enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills
+    types:
+      - Hit All
+    family: Classic
+    image: https://i.imgur.com/feWdynO.jpg
 - name: Joon
   class: Monk
   source: Season1
