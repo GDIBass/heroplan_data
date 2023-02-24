@@ -508,5 +508,6 @@
     - Fiend Destroyer
     - Healer
   family: Cupid
-  passives: Resist Special Skill Blocking - This character has innate resistance against status ailments that block Special Skills.
+  passives:
+    - Resist Special Skill Blocking - This character has innate resistance against status ailments that block Special Skills.
   image: https://i.imgur.com/FUJWm4U.jpg
