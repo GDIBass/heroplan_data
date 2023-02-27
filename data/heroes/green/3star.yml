@@ -519,3 +519,19 @@
   passives:
     - Resist Special Skill Blocking - This character has innate resistance against status ailments that block Special Skills.
   image: https://i.imgur.com/07KHMD9.jpg
+- name: General Yin
+  source: Kingdom
+  class: Barbarian
+  speed: Slow
+  family: Kingdom
+  power: 486
+  attack: 519
+  defense: 507
+  health: 700
+  skill: Enchanted Axe Swing
+  effects:
+    - Deals 180% damage to all enemies.
+    - Deals additional 8% damage per removed status effect, up to 276% damage in total.
+  types:
+    - Hit All
+  image: https://i.imgur.com/hCb3jKN.jpg

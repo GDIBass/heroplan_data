@@ -1590,3 +1590,20 @@
     - Damage Over Time on Special - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
     - Hunter’s Sense - When this character casts their Special Skill, they have 100% chance to transfer the newest cleansable status ailment from themselves to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.
   image: https://i.imgur.com/EUt5N6q.jpg
+- name: Queen Guawong
+  source: Kingdom
+  class: Sorcerer
+  speed: Average
+  family: Kingdom
+  power: 842
+  attack: 778
+  defense: 813
+  health: 1555
+  skill: The Queen’s Radiance
+  effects:
+    - Deals 330% damage to all enemies.
+    - All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill
+    - The caster gets Vengeance for 4 turns. If Vengeance is dispelled by an enemy’s Special Skill, all enemies receive 525 damage
+  types:
+    - Hit All
+  image: https://i.imgur.com/CNKl3X2.jpg

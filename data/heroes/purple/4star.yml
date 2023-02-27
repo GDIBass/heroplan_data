@@ -490,3 +490,21 @@
     - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/p15TPST.jpg
+- name: Heifeng Guai
+  source: Kingdom
+  class: Rogue
+  speed: Fast
+  family: Kingdom
+  power: 686
+  attack: 669
+  defense: 624
+  health: 1379
+  skill: Black Tassel Spear Sting
+  effects:
+    - Deals 285% damage to target
+    - The duration of dispellable status ailments is reset for the target.
+    - The target gets -35% defense for 3 turns.
+  types:
+    - Hit 1
+    - Defense Down
+  image: https://i.imgur.com/cY9fvY1.jpg
