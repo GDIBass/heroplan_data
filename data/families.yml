@@ -384,6 +384,18 @@ families:
     bonus:
       - "Cupid Family supports other families and realms"
       - "Solo Heroes get +20% increase for any healing received. Team members are Solo Heroes if they have no family or realm members in the Team."
+  journey:
+    key: journey
+    code: 73
+    description: Journey
+    image: https://i.imgur.com/ytXqy0g.png
+    bonus:
+      - "Heroes become stronger when teamed with other unique Heroes of the same family."
+      - "Bonus for 1/2/3 Heroes:"
+      - "50% chance to increase the duration of each status effect that is cast by the hero by 1/2/3 turns."
+      - "MORALE BOOST"
+      - "Heroes belonging to this family as well as Heroes fighting alongside them receive the following perks in War of the Three Kingdoms:"
+      - "+10% attack, +3% defense, +7% health."
   2017:
     key: 2017
     code: 2017
