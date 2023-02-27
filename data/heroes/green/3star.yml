@@ -523,7 +523,7 @@
   source: Kingdom
   class: Barbarian
   speed: Slow
-  family: Kingdom
+  family: Journey
   power: 486
   attack: 519
   defense: 507
