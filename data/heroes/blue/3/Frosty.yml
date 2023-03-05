@@ -1,0 +1,19 @@
+name: Frosty
+class: Rogue
+source: Christmas
+speed: Average
+power: 475
+attack: 441
+defense: 523
+health: 783
+skill: Joyful Backup
+effects:
+  - Recovers 32% health for all allies
+  - >-
+    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited
+    from the caster.
+types:
+  - Heal All
+  - Summoner
+family: Christmas
+image: https://i.imgur.com/33YbQ2h.jpg

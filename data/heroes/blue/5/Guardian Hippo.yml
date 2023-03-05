@@ -1,0 +1,19 @@
+name: Guardian Hippo
+class: Barbarian
+source: Teltoc
+speed: Fast
+power: 841
+attack: 828
+defense: 782
+health: 1483
+skill: Brutal Support
+effects:
+  - >-
+    After any ally casts their Special skill during next 3 turns, this character
+    deals 225% damage to all enemies.
+  - All allies get +34% mana generation for 3 turns.
+types:
+  - Hit All
+  - Mana Generation
+family: Teltoc
+image: https://i.imgur.com/VXhh6s9.jpg

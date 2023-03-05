@@ -1,0 +1,29 @@
+name: Jahangir
+class: Sorcerer
+source: Season1
+speed: Slow
+power: 445
+attack: 498
+defense: 436
+health: 599
+skill: Fireball
+effects:
+  - Deals 145% damage to all enemies
+  - All enemies receive 114 damage over 6 turns
+types:
+  - Hit All
+  - Dot All
+image: https://i.imgur.com/7oZTOqz.jpg
+costume:
+  class: Wizard
+  power: 467
+  attack: 514
+  defense: 443
+  health: 705
+  skill: Scorching Ray
+  effects:
+    - Deals 115% damage to all enemies
+    - All enemies receive 156 Burn damage over 4 turns
+  types:
+    - Hit all
+  image: https://i.imgur.com/IPO19rX.jpg

@@ -1,0 +1,25 @@
+name: Lu Bu
+source: Kingdom
+class: Barbarian
+speed: Slow
+family: Kingdom
+power: 825
+attack: 778
+defense: 791
+health: 1479
+skill: Disrupting Charge
+effects:
+  - Deals 295% damage to all enemies.
+  - >-
+    Summons a Mercenary Fiend for all enemies. The Fiend damages its target with
+    48% attack every turn.
+  - >-
+    The Mercenary Fiend absorbs healing. It disappears after absorbing a healing
+    amount equal to 32% of its target’s max health.
+  - >-
+    The Mercenary Fiend’s target is immune to new buffs as long as the target
+    has Mercenary Fiends. This effect can’t be cleansed.
+types:
+  - Hit All
+  - Fiend
+image: https://i.imgur.com/pOnV8Et.jpg

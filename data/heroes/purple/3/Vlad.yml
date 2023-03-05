@@ -1,0 +1,26 @@
+name: Vlad
+class: Rogue
+source: Morlovia
+speed: Very Fast
+power: 449
+attack: 368
+defense: 486
+health: 855
+skill: Dawn of Sorrow
+effects:
+  - >-
+    The target receives 65 damage over 5 turns. If a target already has this
+    effect, the duration will be refreshed and the damage will be increased by
+    115, up to 295 damage in total.
+  - The caster steals 61% of any healing applied to the target for 3 turns.
+types:
+  - DOT 1
+  - Stacking
+  - Healing Stealer
+passives:
+  - >-
+    When this character casts their Special Skill, they have a 50% chance to
+    steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 70% damage to all enemies.
+family: Morlovia
+image: https://i.imgur.com/BKgxWVA.jpg

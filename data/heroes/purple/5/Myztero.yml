@@ -1,0 +1,21 @@
+name: Myztero
+family: Mystery
+class: Rogue
+source: Secret
+speed: Very Fast
+power: 784
+attack: 772
+defense: 725
+health: 1332
+skill: Absordium Deflectors
+effects:
+  - Deals 107% damage to all enemies.
+  - All status ailments memorized by the innate ability are cast to all enemies.
+types:
+  - Hit All
+passives:
+  - >-
+    This hero has an innate ability to memorize status ailments. The latest 5
+    status ailments that are cast on the Hero will stay memorized until the
+    Special Skill is cast.
+image: https://i.imgur.com/J37iEs6.jpg

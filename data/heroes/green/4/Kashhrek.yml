@@ -1,0 +1,33 @@
+name: Kashhrek
+class: Wizard
+source: Season1
+speed: Average
+power: 643
+attack: 548
+defense: 648
+health: 1321
+skill: Swamp Skin
+effects:
+  - Recovers 45% health for the caster and nearby allies
+  - The caster and nearby allies get +94% defense against Fire for 3 turns
+types:
+  - Healer
+  - Elemental Defense Buff
+image: https://i.imgur.com/f38vwx3.jpg
+costume:
+  class: Sorcerer
+  power: 680
+  attack: 585
+  defense: 690
+  health: 1409
+  skill: Second Skin
+  effects:
+    - >-
+      Boosts health of the caster and nearby allies by 450. If health exceeds
+      max HP, it is added as temporary HP. Max temporary HP is 100% of max HP.
+      Bosted health counters max HP reduction.
+    - The caster and nearby allies get +64% defense against Fire for 3 turns.
+  types:
+    - Health Boost
+    - Elemental Defnese Buff
+  image: https://i.imgur.com/5DjkhS8.jpg

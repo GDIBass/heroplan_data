@@ -1,0 +1,18 @@
+name: Guinevere
+class: Wizard
+source: Avalon
+speed: Average
+power: 765
+attack: 669
+defense: 778
+health: 1347
+skill: Word of the Queen
+effects:
+  - Reduces the mana of all enemies by 20%
+  - The caster and nearby allies regenerate 612 HP over 4 turns
+  - The caster and nearby allies get +54% defense against Dark for 4 turns
+types:
+  - Mana Reduction
+  - Healer
+family: Avalon
+image: https://i.imgur.com/dYjW9Xa.jpg

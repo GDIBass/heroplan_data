@@ -1,0 +1,23 @@
+name: Cao Cao
+source: Kingdom
+class: Rogue
+family: Kingdom
+speed: Slow
+power: 827
+attack: 788
+defense: 803
+health: 1439
+skill: Order to Overwhelm
+effects:
+  - Deals 275% damage to all enemies.
+  - >-
+    Summons a Wei Soldier Minion for each ally with 20% HP and 25% attack
+    inherited from the caster.
+  - >-
+    Each hit from a Wei Soldier Minion dispels all dispellable buffs from the
+    target.
+  - Deals extra damage against Fire.
+types:
+  - Hit All
+  - Summoner
+image: https://i.imgur.com/U1AQZ8U.jpg

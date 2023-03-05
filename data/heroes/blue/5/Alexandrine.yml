@@ -1,0 +1,32 @@
+name: Alexandrine
+class: Cleric
+source: hotm
+speed: Average
+power: 794
+attack: 745
+defense: 747
+health: 1423
+skill: SHimmering Shield
+effects:
+  - Recovers 18% health for all allies.
+  - >-
+    Recovers additional 3% health per each Ice shield on the board, up to 42%
+    health in total
+  - >-
+    Alters the critical chance or accuracy of all Ice shields on the board. When
+    attacking Hero casts the special, the shield becomes enhanced with +54%
+    critical chance. When a defending Hero casts the special, he shields become
+    weakened with -47% accuracy.
+  - >-
+    Element Link gives +10% increase for any healing received for all Ice allies
+    for 4 turns. This effect can't be dispelled.
+types:
+  - Heal all
+  - Shield Enhance
+passives:
+  - This Hero recovers 10% health when they receive a status ailment.
+  - >-
+    This Hero has an innate resistance against status ailments that affect
+    Healing.
+image: https://i.imgur.com/aFNgbfI.jpg
+family: 2021

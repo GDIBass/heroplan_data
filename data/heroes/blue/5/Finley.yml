@@ -1,0 +1,42 @@
+name: Finley
+class: Ranger
+source: Pirates
+speed: Fast
+power: 781
+attack: 753
+defense: 745
+health: 1314
+skill: Commodore's Revenge
+effects:
+  - Deals 385% damage to the target
+  - >-
+    If the target has buffs, targets another enemy with buffs. If none of the
+    other enemies have buffs, targets a random enemy. The damage is reduced on
+    each consecutive hit. Each enemy can only be hit once
+  - All hit targets get -34% defense for 3 turns
+types:
+  - Hit 1
+  - Chain Hit
+  - Defense Debuff
+family: Corellia
+image: https://i.imgur.com/RIPu5ha.jpg
+costume:
+  class: Fighter
+  bonuses: 5/5/10/5
+  power: 822
+  attack: 825
+  defense: 761
+  health: 1400
+  skill: Commodore's Malice
+  effects:
+    - Deals 420% damage to the target.
+    - >-
+      If the target has buffs, targets another enemy with buffs. If none of the
+      other enemies have buffs, targets a random enemy. The damage is reduced on
+      each consecutive hit. Each enemy can only be hit once.
+    - All hit targets get -34% defense for 3 turns.
+  types:
+    - Hit 1
+    - Bounce
+    - Defense Debuff
+  image: https://i.imgur.com/8HdzNsi.jpg

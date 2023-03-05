@@ -1,0 +1,35 @@
+name: Hypnos
+class: Sorcerer
+family: Styx
+speed: Charge
+source: Styx
+power: 829
+attack: 795
+defense: 801
+health: 1444
+skill: Night Falls
+effects:
+  - >-
+    Special Skill has a different effect when charged with 100% / 200% / 300%
+    mana:
+  - '1x Mana Charge:'
+  - ' * Deals 170% damage to all enemies.'
+  - ' * All enemies cannot cast any new Taunt status effects for 2 turns.'
+  - '2x Mana Charge:'
+  - ' * Deals 300% damage to all enemies.'
+  - ' * Dispels buffs from all enemies.'
+  - '3x Mana Charge:'
+  - ' * Deals 335% damage to all enemies.'
+  - ' * Dispels buffs from all enemies.'
+  - ' * All enemies cannot cast any new Taunt status effects for 4 turns.'
+  - ' * All enemies get -44% defense for 4 turns.'
+types:
+  - Hit all
+  - Defense Debuff
+  - Dispell
+  - Taunt Block
+passives:
+  - >-
+    Decrease Defense Ailment Duration - Duration of the defense status ailments
+    this character receives from Special Skills is decreased by 2 turns.
+image: https://i.imgur.com/HPFyboz.jpg

@@ -1,0 +1,25 @@
+name: Alucard
+class: Sorcerer
+speed: Very Fast
+family: Morlovia
+source: Morlovia
+power: 836
+attack: 838
+defense: 788
+health: 1411
+skill: Vampiric Curse
+effects:
+  - Destroys all Minions from the target and nearby enemies.
+  - Deals 250% damage to the target and nearby enemies.
+  - All allies recover 10% health for each destroyed Minion.
+  - All allies get 3% mana for each destroyed Minion.
+  - The attack bypasses defensive buffs. This includes counterattacks.
+types:
+  - Minion Destruction
+  - Hit 3
+passives:
+  - >-
+    When this character casts their Special Skill, they have a 50% chance to
+    steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 70% damage to all enemies.
+image: https://i.imgur.com/ZDIKUNx.jpg

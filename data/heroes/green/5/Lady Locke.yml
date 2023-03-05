@@ -1,0 +1,19 @@
+name: Lady Locke
+class: Sorcerer
+source: Pirates
+speed: Average
+power: 765
+attack: 805
+defense: 665
+health: 1231
+skill: Moonlight Serenade
+effects:
+  - >-
+    Target and nearby enemies receive 932 damage over 4 turns, starting low and
+    increasing with every turn
+  - Cleanses status ailments from all allies
+types:
+  - DoT 3
+  - Cleanser
+family: Corellia
+image: https://i.imgur.com/rSEO0Xi.jpg

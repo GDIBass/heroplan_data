@@ -1,0 +1,21 @@
+name: Griffin
+class: Rogue
+source: Season4
+speed: Fast
+power: 677
+attack: 739
+defense: 639
+health: 1109
+skill: Invisible Strike
+effects:
+  - Deals 340% damage to the target.
+  - The attack will always bypass counterattacks and reflection.
+types:
+  - Hit 1
+  - Bypass
+family: Underwild
+passives:
+  - >-
+    First time this Hero casts Special Skill that does damage, additional 30% is
+    added to its power.
+image: https://i.imgur.com/MRV1QX0.jpg

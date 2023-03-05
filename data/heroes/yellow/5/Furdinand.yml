@@ -1,0 +1,28 @@
+name: Furdinand
+source: Pets
+family: Pets
+class: Cleric
+speed: Average
+power: 835
+attack: 782
+defense: 828
+health: 1462
+skill: Bark of Protection
+effects:
+  - Cleanses status ailments from all allies.
+  - All allies share received damage with each other for 4 turns.
+  - All allies reflect status ailments and negative stacks for 4 turns.
+  - All allies regenerate 732 HP over 4 turns.
+types:
+  - Cleanser
+  - Damage Share
+  - Status Ailment Reflection
+  - Health Regeneration
+passives:
+  - >-
+    When a Minion is summoned to any ally, this character gains 5% health and 5%
+    mana. This effect can activate only once per turn.
+  - >-
+    When a Fiend is summoned to any enemy, this character deals 85% damage to
+    all enemies. This effect can activate only once per turn.
+image: https://i.imgur.com/xJBNOD9.jpg

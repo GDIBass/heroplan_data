@@ -1,0 +1,14 @@
+name: Sigrunn
+class: Fighter
+source: Season1
+speed: Fast
+power: 210
+attack: 183
+defense: 208
+health: 381
+skill: Hacking Attack
+effects:
+  - Deals 275% damage to the target
+types:
+  - Hit 1
+image: https://i.imgur.com/yx3yL1e.jpg

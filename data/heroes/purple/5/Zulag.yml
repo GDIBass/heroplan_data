@@ -1,0 +1,23 @@
+name: Zulag
+class: Paladin
+source: Hotm
+speed: Average
+power: 778
+attack: 669
+defense: 782
+health: 1433
+skill: Robust Ward
+effects:
+  - The caster and nearby allies regenerate 612 HP over 4 turns
+  - The caster and nearby allies get +46% defense for 4 turns
+  - >-
+    The caster and nearby allies get +74% defense against special skills for 4
+    turns.
+  - >-
+    Element Link summons a Dark Minion for all Dark allies with 5% HP and 5%
+    attack inherited from the caster
+types:
+  - Defense Buff
+  - HoT 3
+image: https://i.imgur.com/oEPqMWI.jpg
+family: 2020

@@ -1,0 +1,22 @@
+name: Saoirse
+class: Fighter
+source: Slayers
+speed: Slow
+power: 810
+attack: 737
+defense: 809
+health: 1433
+skill: Fracturing Slash
+effects:
+  - Deals 315% damage to the target and nearby enemies.
+  - The target and nearby enemies get -54% defense for 3 turns.
+  - 'Stack +2 (Max: 10): The caster gets +10% mana generation'
+  - 'Stack (Max: 10): The caster recovers 10 HP each turn.'
+types:
+  - Hit 3
+  - Defense Debuff
+  - Stacks
+passives:
+  - Damage caused by status ailments is reduced by -50%
+family: Slayer
+image: https://i.imgur.com/pHj3rld.jpg

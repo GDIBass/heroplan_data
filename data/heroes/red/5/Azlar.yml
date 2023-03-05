@@ -1,0 +1,50 @@
+name: Azlar
+class: Barbarian
+source: Season1
+speed: Slow
+power: 757
+attack: 793
+defense: 607
+health: 1322
+skill: Volcanic Eruption
+effects:
+  - Deals 205% damage to all enemies
+  - All enemies receive 360 damage over 6 turns
+types:
+  - Hit All
+  - Dot All
+image: https://i.imgur.com/wAibSFk.jpg
+costume:
+  class: Paladin
+  power: 798
+  attack: 821
+  defense: 663
+  health: 1431
+  skill: Volcanic Flareup
+  effects:
+    - Deals 205% damage to the target and nearby enemies
+    - Deals 410% damage if the target has less than 50% health remaining
+    - >-
+      The target and nearby enemies receive 430 Burn damage over 2 turns. This
+      effect can't be cleansed.
+  types:
+    - Hit 3
+    - Dot 3
+  image: https://i.imgur.com/TDGgAGz.jpg
+costume2:
+  class: Fighter
+  power: 861
+  attack: 923
+  defense: 722
+  health: 1507
+  skill: Volcanic Explosion
+  effects:
+    - Deals 310% damage to the target and nearby enemies.
+    - >-
+      The target and nearby enemies receive 630 Burn damage over 4 turns. The
+      caster absorbs 40% of the dealt Burn damage as health.
+  types:
+    - Hit 3
+    - DoT
+  family: Classic
+  image: https://i.imgur.com/6N4jIyy.jpg

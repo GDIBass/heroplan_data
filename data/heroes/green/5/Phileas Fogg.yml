@@ -1,0 +1,23 @@
+name: Phileas Fogg
+class: Fighter
+source: Season4
+speed: Fast
+power: 807
+attack: 832
+defense: 727
+health: 1339
+skill: Valiant Lunge
+effects:
+  - Dispels buffs from target.
+  - Deals 420% damage to the target
+  - The target gets -58% defense against Nature for 4 turns.
+types:
+  - Hit 1
+  - Elemental Debuff
+  - OP
+family: Underwild
+passives:
+  - >-
+    Received damage is reduced by -20% for the first 3 times this Hero receives
+    damage from Special Skills
+image: https://i.imgur.com/L3xRyB9.jpg

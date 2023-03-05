@@ -1,0 +1,14 @@
+name: Kenjiro
+class: Fighter
+source: Season1
+speed: Average
+power: 211
+attack: 205
+defense: 188
+health: 370
+skill: Fierce Slash
+effects:
+  - Deals 115% damage to all enemies
+types:
+  - Hit All
+image: https://i.imgur.com/C6MAFbk.jpg

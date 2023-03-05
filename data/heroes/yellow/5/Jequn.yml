@@ -1,0 +1,29 @@
+name: Jequn
+class: Monk
+speed: Very Fast
+source: SuperElemental
+family: SuperElemental
+power: 835
+attack: 824
+defense: 718
+health: 1582
+skill: Archaic Sacred Symbol
+effects:
+  - Deals 200% damage to all enemies.
+  - >-
+    All Dark enemies get -34% accuracy for 3 turns. [Chance to miss also applies
+    to offensive Special Skills.]
+  - All Ice enemies get -34% defense for 3 turns.
+  - All Nature enemies get -34% mana generation for 3 turns.
+  - All Fire enemies get -34% attack for 3 turns.
+types:
+  - Hit All
+  - Elemental
+passives:
+  - >-
+    This character’s Troops deal 100% more additional damage against weaker
+    element.
+  - >-
+    This character receives 10% less additional damage from Troops of stronger
+    element.
+image: https://i.imgur.com/sJ0rROO.jpg

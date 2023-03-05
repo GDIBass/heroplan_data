@@ -1,0 +1,18 @@
+name: Captain Nemo
+class: Fighter
+source: Season4
+speed: Fast
+power: 809
+attack: 821
+defense: 751
+health: 1334
+skill: Captain's Cutlass
+effects:
+  - Deals 300% damage to the target.
+  - Deals 600% damage if the caster has status ailments or negative stats.
+types:
+  - Hit 1
+passives:
+  - This Hero receives 30% mana at the start of the battle
+family: Underwild
+image: https://i.imgur.com/lNl4PPg.jpg

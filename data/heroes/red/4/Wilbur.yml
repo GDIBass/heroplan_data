@@ -1,0 +1,39 @@
+name: Wilbur
+class: Monk
+source: Season2
+speed: Average
+power: 649
+attack: 605
+defense: 690
+health: 1143
+skill: Wonderful Feast
+effects:
+  - All allies share received damage with each other for 4 turns
+  - All allies get +63% defense for 4 turns
+  - All enemies share received damage with each other for 4 turns
+  - All enemies get -44% defense for 4 turns
+types:
+  - Ally Damage Share
+  - Enemy Damage Share
+  - Defense Buff
+  - Defense Debuff
+family: Lagoon
+image: https://i.imgur.com/EjclF3b.jpg
+costume:
+  class: Cleric
+  power: 671
+  attack: 656
+  defense: 677
+  health: 1197
+  skill: Brilliant Brew
+  effects:
+    - >-
+      All allies get +100% normal attack for 4 turns. This effect can be active
+      in addition to effects that alter attack in general. Normal attacks can
+      have a total maximum of +140% increased power while this effect is active.
+    - All allies regenerate 280 HP over 4 turns.
+  types:
+    - Attack Buff
+    - Regen
+  bonuses: 2/2/4/1
+  image: https://i.imgur.com/BehrpwT.jpg

@@ -1,0 +1,29 @@
+name: Dawa
+class: Rogue
+source: Season1
+speed: Average
+power: 440
+attack: 488
+defense: 391
+health: 679
+skill: Leaping Attack
+effects:
+  - Deals 210% damage to the target and minor damage to nearby enemies
+types:
+  - Hit 3
+image: https://i.imgur.com/p1FG8Av.jpg
+costume:
+  class: Barbarian
+  power: 463
+  attack: 527
+  defense: 423
+  health: 684
+  skill: Pounding Attack
+  effects:
+    - Deals 200% damage to the target
+    - >-
+      Deals 230% damage to a random different enemy. Deals extra damage to the
+      target if the target is Dark
+  types:
+    - Hit 1
+  image: https://i.imgur.com/4JD88JW.jpg

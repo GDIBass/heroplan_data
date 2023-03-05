@@ -1,0 +1,23 @@
+name: Buddy
+class: Ranger
+source: Christmas
+speed: Average
+power: 649
+attack: 531
+defense: 690
+health: 1323
+skill: Gift Sack
+effects:
+  - Deals 205% damage to the target and nearby enemies
+  - >-
+    Summons an Elf Minion for the caster and nearby allies with 10% HP and 10%
+    attack inherited from the caster
+  - The target and nearby enemies get -24% attack for 3 turns
+  - The target and nearby enemies get -34% defense for 3 turns
+types:
+  - Hit 3
+  - Summoner
+  - Attack Debuffer
+  - Defense Debuffer
+family: Christmas
+image: https://i.imgur.com/fZWbFxH.jpg

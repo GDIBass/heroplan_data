@@ -1,0 +1,30 @@
+name: Azar
+class: Barbarian
+source: Season1
+speed: Fast
+power: 444
+attack: 493
+defense: 413
+health: 651
+skill: Sharp Cut
+effects:
+  - Deals 280% damage to the target
+  - Reduces the mana of the target by 25%
+types:
+  - Hit 1
+  - Mana Reduction
+image: https://i.imgur.com/sizxBDX.jpg
+costume:
+  class: Ranger
+  power: 467
+  attack: 495
+  defense: 453
+  health: 729
+  skill: Acute Cut
+  effects:
+    - Deals 170% damage to the target and nearby enemies
+    - Reduces the mana of the target and nearby enemies by 15%
+  types:
+    - Hit 3
+    - Mana Reduction
+  image: https://i.imgur.com/tInZp5F.jpg

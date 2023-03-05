@@ -1,0 +1,40 @@
+name: Snow White
+class: Cleric
+source: Fables
+speed: Slow
+power: 780
+attack: 756
+defense: 747
+health: 1299
+skill: Enchanted Edge
+effects:
+  - Cleanses all buffs and status ailments from all allies and enemies.
+  - >-
+    Deals 180% damage to all enemies, and additional 15% damage per removed
+    status effect, up to 420% damage in total.
+types:
+  - Dispeller
+  - Cleanser
+  - Hit All
+family: Grimforest
+image: https://i.imgur.com/EVw3AO1.jpg
+costume:
+  class: Ranger
+  bonuses: 5/5/10/5
+  power: 805
+  attack: 803
+  defense: 748
+  health: 1355
+  skill: Slaying Stake
+  effects:
+    - >-
+      Dispels and cleanses all buffs and status ailments from all allies and
+      enemies.
+    - Deals 140% damage to all enemies.
+    - >-
+      Deals additional 30% damage per removed status effect, up to 500% damage
+      in total.
+  types:
+    - Dispeller
+    - Hit All
+  image: https://i.imgur.com/ko9NEXz.jpg

@@ -1,0 +1,28 @@
+name: Xenda
+source: Season4
+class: Fighter
+family: Underwild
+speed: Average
+power: 837
+attack: 819
+defense: 788
+health: 1464
+skill: Underworld Blaze
+effects:
+  - Deals 250% damage to all enemies.
+  - >-
+    All enemies receive 292 Burn damage over 4 turns. The caster absorbs 15% of
+    dealt Burn damage as health.
+  - >-
+    The caster steals generated mana of all enemies over 4 turns starting low
+    and increasing every turn until on the last turn all the generated mana is
+    stolen.
+types:
+  - Hit All
+  - Dot All
+  - Mana steal
+passives:
+  - >-
+    Received damage is reduced by -20% for the first 3 times this character
+    receives damage from Special Skills.
+image: https://i.imgur.com/pr4mBGS.jpg

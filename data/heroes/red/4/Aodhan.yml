@@ -1,0 +1,27 @@
+name: Aodhan
+class: Wizard
+source: Slayers
+speed: Slow
+power: 677
+attack: 625
+defense: 684
+health: 1298
+skill: Wily Wisps
+effects:
+  - Deals 210% damage to all enemies.
+  - >-
+    Summons a Wisp Fiend for all enemies. The Fiend damages the enemy with 35%
+    attack every turn.
+  - >-
+    The Wisp Fiend absorbs healing and disappears when it has absorbed health
+    equal to 18% of its target's max health.
+  - 'Stack +2 (Max: 10): The caster gets +10% mana generation.'
+  - 'Sack (Max: 10): The caster recovers 10 HP each turn.'
+types:
+  - Hit All
+  - Summoner
+  - Stack
+family: Slayer
+passives:
+  - Damage caused by status ailments reduced by -50%
+image: https://i.imgur.com/81JNp9d.jpg

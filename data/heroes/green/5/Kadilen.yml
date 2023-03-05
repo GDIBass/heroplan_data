@@ -1,0 +1,33 @@
+name: Kadilen
+class: Druid
+source: Season1
+speed: Fast
+power: 757
+attack: 696
+defense: 766
+health: 1246
+skill: Eclipse Shield
+effects:
+  - Deals 190% damage to all enemies
+  - All allies get +74% defense against Special Skills for 3 turns
+types:
+  - Hit All
+  - Special Skill Defense Buff
+image: https://i.imgur.com/Gjh3PRB.jpg
+costume:
+  class: Sorcerer
+  power: 797
+  attack: 698
+  defense: 830
+  health: 1398
+  skill: Crescent Shield
+  effects:
+    - Deals 170% damage to all enemies.
+    - >-
+      All allies get +45% chance to dodge special skills for 3 turns. Each dodge
+      summons a thorn minion.
+    - Thorn minion has 15% HP and 15% attack inherited from the caster
+  types:
+    - Hit All
+    - Minion Dodge Buff
+  image: https://i.imgur.com/N7LZ2EP.jpg

@@ -1,0 +1,20 @@
+name: Gretel
+class: Barbarian
+source: Fables
+speed: Average
+power: 646
+attack: 703
+defense: 599
+health: 1056
+skill: Witch Slayer
+effects:
+  - Deals 175% damage to the target and minor damage to nearby enemies
+  - >-
+    Automatically does 21% damage to the target when their mana is full and
+    reduces their mana to 50% for 3 turns
+  - The caster gets +74% defense against Special Skills for 3 turns
+types:
+  - Hit 3
+  - Mindless Self Attack
+family: Grimforest
+image: https://i.imgur.com/cq0lzx6.jpg

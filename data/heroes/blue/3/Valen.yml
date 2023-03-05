@@ -1,0 +1,29 @@
+name: Valen
+class: Fighter
+source: Season1
+speed: Fast
+power: 442
+attack: 479
+defense: 411
+health: 679
+skill: Chilling Slash
+effects:
+  - Deals 300% damage to the target
+  - The target gets -34% defense for 6 turns
+types:
+  - Hit 1
+  - Defense Debuff
+image: https://i.imgur.com/8iWG7cB.jpg
+costume:
+  class: Rogue
+  power: 465
+  attack: 488
+  defense: 443
+  health: 757
+  skill: Thrilling Clash
+  effects:
+    - Deals 335% damage to the target.
+    - The caster getts +54% attack for 6 turns.
+  types:
+    - Hit 1
+  image: https://i.imgur.com/V2ztXVp.jpg

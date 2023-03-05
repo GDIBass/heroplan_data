@@ -1,0 +1,32 @@
+name: Rigard
+class: Cleric
+source: Season1
+speed: Average
+power: 644
+attack: 595
+defense: 673
+health: 1166
+skill: Purification
+effects:
+  - Recover 42% health for all allies
+  - Cleanses status ailments from all allies
+types:
+  - Healer
+  - Cleanser
+image: https://i.imgur.com/epzxGwy.jpg
+costume:
+  class: Ranger
+  power: 681
+  attack: 633
+  defense: 702
+  health: 1271
+  skill: Regeneration
+  effects:
+    - All allies regenerate 609 HP over 3 turns
+    - All allies get +48% attack for 3 turns
+    - Cleanses status ailments from all allies
+  types:
+    - HOT
+    - Attack Buff
+    - Cleanser
+  image: https://i.imgur.com/9nzkBMP.jpg

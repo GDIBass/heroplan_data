@@ -1,0 +1,28 @@
+name: Devana
+class: Ranger
+source: Hotm
+speed: Average
+power: 792
+attack: 741
+defense: 756
+health: 1404
+skill: Arrows and Claws
+effects:
+  - Deals 255% damage to the target and nearby enemies.
+  - Summons a Lynx Minion with 35% HP and 35% attack inherited from the caster.
+  - Before Lynx Minion hits target, it destroys all Minions from the target.
+  - Dispells buffs from the target and nearby enemies.
+  - >-
+    Element Link givs all Holy allies small amount of mana at the end of the
+    turn for 4 turns. This effect can't be dispelled.
+types:
+  - Hit 3
+  - Summoner
+  - Dispeller
+passives:
+  - >-
+    This Hero has an innate resistance against incoming negative effects and
+    damage from Minions.
+  - This Hero has an innate resistance against Dispels of buffs.
+image: https://i.imgur.com/kOGhPnC.jpg
+family: 2021

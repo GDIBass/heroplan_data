@@ -1,0 +1,19 @@
+name: Ares
+class: Paladin
+source: Hotm
+speed: Average
+power: 765
+attack: 659
+defense: 741
+health: 1442
+skill: Might of Ares
+effects:
+  - The caster and nearby allies get +54% attack for 4 turns
+  - The caster and nearby allies get +36% critical chance for 4 turns
+  - The caster and nearby allies regenerate 720 HP over 4 turns
+types:
+  - Attack Buff
+  - Crit Buff
+  - Hot
+family: 2017
+image: https://i.imgur.com/KvZBThZ.jpg

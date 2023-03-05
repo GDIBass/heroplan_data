@@ -1,0 +1,25 @@
+name: Sergei
+class: Druid
+source: Magic
+speed: Magic
+power: 678
+attack: 658
+defense: 620
+health: 1351
+skill: Midnight Moon
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200% mana:'
+  - '1x Mana Charge:'
+  - ' * All enemies get -54% defense against Dark for 3 turns.'
+  - '2x Mana Charge:'
+  - ' * All allies get +100% normal attack for 5 turns. Stacks with similar status effects up to a maximum of +160% normal attack.'
+types:
+  - Elemental Defense Debuff
+  - Normal attack buff
+  - Charge
+passives:
+  - >-
+    On a fully charged Special Skill this Hero has a 50% chance to deal 100%
+    damage to all enemies that are not of Dark element.
+family: Magic
+image: https://i.imgur.com/2gnuaoM.jpg

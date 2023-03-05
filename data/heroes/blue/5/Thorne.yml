@@ -1,0 +1,29 @@
+name: Thorne
+class: Paladin
+source: Season1
+speed: Average
+power: 757
+attack: 638
+defense: 793
+health: 1339
+skill: Icecold Finisher
+effects:
+  - Deals 480% damage to the target and minor damage to nearby enemies
+types:
+  - Hit 3
+image: https://i.imgur.com/9CT7f6V.jpg
+costume:
+  class: Sorcerer
+  power: 798
+  attack: 726
+  defense: 786
+  health: 1424
+  skill: Freezing Finale
+  effects:
+    - Deals 540% damage to the target.
+    - >-
+      The caster gets +24% mana geenration for 3 turns. This effect can't be
+      dispelled.
+  types:
+    - Hit 1
+  image: https://i.imgur.com/YX5GVdv.jpg

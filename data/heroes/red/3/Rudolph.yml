@@ -1,0 +1,19 @@
+name: Rudolph
+class: Fighter
+source: Christmas
+speed: Fast
+power: 448
+attack: 540
+defense: 391
+health: 608
+skill: Antler Attack
+effects:
+  - Deals 285% damage to the target
+  - Reduces the mana of the target by 20%
+  - Summons an Elf Minion with 10% HP and 10% attack inherited from the caster
+types:
+  - Hit 1
+  - Mana Reduction
+  - Summoner
+family: Christmas
+image: https://i.imgur.com/mEYb8Ac.jpg

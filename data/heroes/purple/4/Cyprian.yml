@@ -1,0 +1,28 @@
+name: Cyprian
+class: Paladin
+source: Season1
+speed: Average
+power: 642
+attack: 563
+defense: 605
+health: 1362
+skill: Perfect Riposte
+effects:
+  - >-
+    The caster and nearby allies counterattack with 125% of the damage received
+    for 5 turns
+types:
+  - Counterattack
+image: https://i.imgur.com/wpGUug5.jpg
+costume:
+  class: Sorcerer
+  power: 679
+  attack: 555
+  defense: 698
+  health: 1460
+  skill: Deadly Riposte
+  effects:
+    - All allies counterattack with 60% of the damage received for 4 turns
+  types:
+    - Counterattack
+  image: https://i.imgur.com/sJK7XXq.jpg

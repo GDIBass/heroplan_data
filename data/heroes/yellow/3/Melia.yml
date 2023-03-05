@@ -1,0 +1,34 @@
+name: Melia
+class: Druid
+source: Season2
+speed: Fast
+power: 450
+attack: 505
+defense: 404
+health: 684
+skill: Atlantean Sword
+effects:
+  - Deals 120% damage to all enemies
+  - All allies get +36% critical chance for 4 turns
+types:
+  - Hit All
+  - Crit Buff
+family: Atlantis
+image: https://i.imgur.com/4LFidrS.jpg
+costume:
+  class: Fighter
+  power: 464
+  attack: 534
+  defense: 405
+  health: 709
+  skill: Atlantean Blade
+  effects:
+    - Deals 120% damage to all enemies.
+    - >-
+      All enemies get -25% accuracy for 3 turns. Chance to miss also applies too
+      offensive Special Skills.
+  types:
+    - Hit All
+    - Accuracy Debuff
+  bonuses: 2/2/4/1
+  image: https://i.imgur.com/M7NWE48.jpg

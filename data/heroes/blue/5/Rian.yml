@@ -1,0 +1,26 @@
+name: Rian
+class: Cleric
+source: Slayers
+speed: Slow
+power: 808
+attack: 725
+defense: 817
+health: 1439
+skill: Breaker Blade
+effects:
+  - Cleanses status ailments from all allies.
+  - Deals 180% damage to all enemies.
+  - >-
+    Deals additional 20% damage per removed status effect, up to 340% damage in
+    total.
+  - 'Stack (Max: 10): The caster gets +5% mana generation'
+  - 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
+types:
+  - Hit All
+  - Cleanser
+  - Bypass
+  - Stacks
+passives:
+  - Damage caused by status ailments is reduced by -50%
+family: Slayer
+image: https://i.imgur.com/pgR8NJw.jpg

@@ -1,0 +1,19 @@
+name: Thoth-Amun
+class: Sorcerer
+source: Hotm
+speed: Fast
+power: 765
+attack: 731
+defense: 694
+health: 1361
+skill: Skeletal Summon
+effects:
+  - Deals 215% to the target and nearby enemies
+  - >-
+    Summons an Undead Minion with 20% HP and 15% attack inherited from the
+    caster
+types:
+  - Hit 3
+  - Summoner
+family: 2017
+image: https://i.imgur.com/qJmJu2G.jpg

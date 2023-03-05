@@ -1,0 +1,25 @@
+name: Grimble
+class: Cleric
+source: Hotm
+speed: Average
+power: 770
+attack: 615
+defense: 824
+health: 1425
+skill: Gnomish Carnage
+effects:
+  - Destroys all minions from all enemies.
+  - Deals 235% damage to all enemies.
+  - All allies get a small amount of mana for each destroyed minion
+  - >-
+    Element Link gives all Dark allies +10% critical chance for 6 turns. This
+    effect can’t be dispelled.
+types:
+  - Destroy Minions
+  - Hit All
+passives:
+  - >-
+    The hero has an innate ability to resist status ailments that affect
+    Accuracy. Doesn't apply to status effects from allies
+image: https://i.imgur.com/1sMnXH3.jpg
+family: 2019

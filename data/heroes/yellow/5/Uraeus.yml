@@ -1,0 +1,24 @@
+name: Uraeus
+class: Sorcerer
+source: Hotm
+speed: Average
+power: 786
+attack: 778
+defense: 727
+health: 1324
+skill: Strike of the Cobra
+effects:
+  - Deals 485% damage to the target
+  - Damage bypasses target's Minions.
+  - All enemies who own a Minion receive 315 Sand damage over 3 turns
+  - >-
+    Element Link summons a Holy Minion for all Holy allies with 5% HP and 10%
+    attack inherited from the caster
+types:
+  - Hit 1
+  - Minion Bypass
+passives:
+  - The Hero gains 50 HP when a Minion owned by them is destroyed
+  - This Hero has an innate resistance against Sand damage
+image: https://i.imgur.com/1T6P7Be.jpg
+family: 2021

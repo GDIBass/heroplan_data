@@ -1,0 +1,29 @@
+name: Colen
+class: Fighter
+source: Season1
+speed: Slow
+power: 643
+attack: 728
+defense: 537
+health: 1094
+skill: Fire Storm
+effects:
+  - Deals 180% damage to all enemies
+  - All enemies receive 330 damage over 6 turns
+types:
+  - Hit All
+  - Dot All
+image: https://i.imgur.com/eqgOQXS.jpg
+costume:
+  class: Paladin
+  power: 678
+  attack: 771
+  defense: 546
+  health: 1222
+  skill: Flame Assault
+  effects:
+    - Deals 250% damage to all enemies
+    - All enemies receive 204 Burn damage over 3 turns
+  types:
+    - Hit all
+  image: https://i.imgur.com/pAWbbb8.jpg

@@ -1,0 +1,25 @@
+name: Cobalt
+class: Wizard
+source: Ninja
+speed: Charge
+power: 798
+attack: 801
+defense: 685
+health: 1435
+skill: Katana Rain
+effects:
+  - 1x Mana Charge
+  - '* Deals 290% damage to the target'
+  - '* The attack has a 60% chance to bypass defensive buffs'
+  - 2x Mana Charge
+  - '* Deals 325% damage to the target and nearby enemies'
+  - '* The attack has a 85% chance to bypass defensive buffs'
+  - 3x Mana Charge
+  - '* Deals 360% damage to all enemies'
+  - '* The attack has a 100% chance to bypass defensive buffs'
+types:
+  - Charger
+  - Hit All
+  - Bypass
+family: Ninja
+image: https://i.imgur.com/rRMs2Ba.jpg

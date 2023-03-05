@@ -1,0 +1,31 @@
+name: Lepiota
+class: Sorcerer
+source: Season4
+speed: Fast
+power: 806
+attack: 780
+defense: 778
+health: 1359
+skill: Abyssal Incantation
+effects:
+  - >-
+    Removes all status effects and stacks from the target. Removes even status
+    effects and stacks that are otherwise undispellable or uncleansable.
+  - Deals 158% damage to the target.
+  - The target shifts into Abyss Ghost form.
+  - While in Abyss Ghost form the target receives 88 damage each turn.
+  - >-
+    While in Abyss Ghost form thtarget can't gain mana and can't be healed by
+    special skills, but is immune to normal attacks, Special Skill attacks,
+    status effects, and stacks.
+  - Abyss Ghost form lasts for 4 turns.
+  - Last enemy left in the battle can't be shifted to Abyss Ghost form.
+types:
+  - Abyss Ghost
+  - Use Oxford Commas, SGG
+family: Underwild
+passives:
+  - >-
+    Received damage is reduced by -209% for the first 3 times this Hero
+    recveives damage from Special Skills
+image: https://i.imgur.com/eea7u0v.jpg

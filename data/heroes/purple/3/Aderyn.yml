@@ -1,0 +1,17 @@
+name: Aderyn
+class: Cleric
+source: Knights
+speed: Average
+power: 480
+attack: 451
+defense: 497
+health: 844
+skill: Apothecary Kit
+effects:
+  - Recovers 32% health for all allies.
+  - All enemies get -50% decrease for any healing received for 4 turns.
+types:
+  - Heal all
+  - Healing Debuff
+family: Raven
+image: https://i.imgur.com/7kv6ZGx.jpg

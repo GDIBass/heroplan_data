@@ -1,0 +1,19 @@
+name: An-Windr
+class: Ranger
+source: Season3
+speed: Slow
+power: 465
+attack: 424
+defense: 504
+health: 792
+skill: Tribal Rage
+effects:
+  - >-
+    The caster gets +45% attack, and a further 20% increase every time they or
+    any of their allies are hit during 4 turns. When the effect ends, the caster
+    deals 164% damage on all enemies. Each hit on the caster or their allies
+    during the duration increases the damage by 10% to a maximum of 288% damage.
+types:
+  - Attack Buff
+family: Niflheim
+image: https://i.imgur.com/MSmQZNX.jpg

@@ -1,0 +1,14 @@
+name: Julius
+class: Fighter
+source: Season1
+speed: Fast
+power: 335
+attack: 363
+defense: 310
+health: 548
+skill: Focused Shot
+effects:
+  - Deals 250% damage to the target
+types:
+  - Hit 1
+image: https://i.imgur.com/J6kO15m.jpg

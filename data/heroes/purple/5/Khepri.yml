@@ -1,0 +1,31 @@
+name: Khepri
+class: Ranger
+family: Moon
+source: Season5
+speed: Average
+power: 835
+attack: 776
+defense: 809
+health: 1520
+skill: Scarab Bombardment
+effects:
+  - Deals 275% damage to target and nearby enemies.
+  - >-
+    Summons a Bomb Scarab fiend for the target and nearby enemies. The Fiend
+    damages its target with 38% attack every turn.
+  - >-
+    The Bomb Scarab Fiend absorbs healing. It disappears after absorbing a
+    healing amount equal to 30% of its target’s max health’
+  - >-
+    The Bomb Scarab Fiend explodes after 3 turns, dealing 300 damage to its
+    target and minor damage to nearby enemies.
+types:
+  - Hit 3
+  - Summoner
+passives:
+  - >-
+    60% chance to perform the following actions when this character casts their
+    Special Skill:
+  - '* Deals 70% damage to all enemies.'
+  - '* All enemies get -24% mana generation for 3 turns.'
+image: https://i.imgur.com/Z6trZDL.jpg

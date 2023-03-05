@@ -1,0 +1,27 @@
+name: Valeria
+class: Monk
+source: Morlovia
+speed: Very Fast
+power: 649
+attack: 609
+defense: 656
+health: 1196
+skill: Dusk of Sorrow
+effects:
+  - Deals 235% damage to the target.
+  - >-
+    The target receives 150 damage over 5 turns. If a target already has this
+    effect, the duration will be refreshed and the damage will be increased by
+    220, up to 580 damage in total.
+  - The caster steals 61% of any healing applied to the target for 3 turns.
+types:
+  - Hit 1
+  - Dot 1
+  - Steal Healing
+family: Morlovia
+passives:
+  - >-
+    When this character casts their Special Skill, they have a 50% chance to
+    steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 70% damage to all enemies.
+image: https://i.imgur.com/Zwdjhmt.jpg

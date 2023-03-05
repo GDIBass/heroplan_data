@@ -1,0 +1,22 @@
+name: Zimkitha
+class: Druid
+source: Hotm
+speed: Fast
+power: 769
+attack: 714
+defense: 681
+health: 1454
+skill: Dawn Strike
+effects:
+  - Deals 155% damage to all enemies
+  - All allies get +25% attack for 4 turns
+  - Cleanses status ailments from all allies
+  - >-
+    Element Link recovers 4% health for all Fire allies for 6 turns. This effect
+    can't be cleansed
+types:
+  - Hit All
+  - Attack Buff
+  - Cleanser
+family: 2018
+image: https://i.imgur.com/ZnoCx4D.jpg

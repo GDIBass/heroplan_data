@@ -1,0 +1,26 @@
+name: Enigmo
+family: Mystery
+source: Blackfriday
+class: Paladin
+speed: Average
+power: 838
+attack: 809
+defense: 805
+health: 1464
+skill: Absorbed Underlings
+effects:
+  - Recovers 25% health for all allies.
+  - Deals 150% damage to all enemies.
+  - All Minions memorized by the innate abilty are summoned to all allies.
+  - All Fiends memorized by the innate abilty are summoned to all enemies.
+types:
+  - Healer
+  - Hit All
+  - Minion Summoner
+  - Fiend Summoner
+passives:
+  - >-
+    This character has innate ability to Memorize any Minion or Fiend summoned
+    by enemies’ Special Skills. The latest Minion and Fiend that enemies summon
+    will stay memorized until the Special Skill is cast.
+image: https://i.imgur.com/S6ta64j.jpg

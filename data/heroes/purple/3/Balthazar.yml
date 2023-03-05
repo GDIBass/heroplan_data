@@ -1,0 +1,28 @@
+name: Balthazar
+class: Wizard
+source: Season1
+speed: Fast
+power: 442
+attack: 483
+defense: 422
+health: 648
+skill: Electric Jolt
+effects:
+  - Deals 335% damage to the target
+types:
+  - Hit 1
+image: https://i.imgur.com/OSefjqG.jpg
+costume:
+  class: Sorcerer
+  power: 466
+  attack: 522
+  defense: 426
+  health: 712
+  skill: Poison Jolt
+  effects:
+    - Deals 315% damage to the target
+    - The target receives 60 Poison damage over 3 turns
+  types:
+    - Hit 1
+    - DoT 1
+  image: https://i.imgur.com/PBzwskK.jpg

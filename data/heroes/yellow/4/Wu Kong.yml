@@ -1,0 +1,28 @@
+name: Wu Kong
+class: Monk
+source: Season1
+speed: Average
+power: 644
+attack: 707
+defense: 620
+health: 992
+skill: Gambler's Stance
+effects:
+  - All allies get +185% attack with -32% accuracy for 5 turns
+  - Chance to miss also applies to offensive special skills
+types:
+  - Titan Attack Buff
+image: https://i.imgur.com/EZfzNHv.jpg
+costume:
+  class: Paladin
+  power: 680
+  attack: 728
+  defense: 690
+  health: 1053
+  skill: Gambler's Slash
+  effects:
+    - Deals 210% damage to all enemies
+    - The caster gets -20% defense for 3 turns. This effect can't be cleansed.
+  types:
+    - Hit all
+  image: https://i.imgur.com/Xt9qUWm.jpg

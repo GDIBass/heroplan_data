@@ -1,0 +1,20 @@
+name: Ratatoskr
+class: Monk
+source: Season3
+speed: Average
+power: 785
+attack: 753
+defense: 741
+health: 1353
+skill: Nuts of Yggdrasil
+effects:
+  - Recovers 44% health for all allies.
+  - >-
+    All Nature shields on the board become enhanced. Enhanced shields have +64%
+    attack when attacking hero casts the special and -57% attack when defending
+    hero casts the special.
+types:
+  - Healer
+  - Shield Enhance
+family: Alfheim
+image: https://i.imgur.com/IwBPUx4.jpg

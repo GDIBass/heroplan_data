@@ -1,0 +1,31 @@
+name: Villiers
+source: Musketeer
+class: Wizard
+family: Musketeer
+speed: Average
+power: 686
+attack: 694
+defense: 680
+health: 1200
+skill: The Duke's Investigation
+effects:
+  - Deals 165% damage to the target and nearby enemies.
+  - >-
+    Summon a Spy Fiend for all enemies. The Fiend damages the enemy with 45%
+    attack every turn.
+  - >-
+    The Spy Fiend absorbs healing and disappears when it has absorbed health
+    equal to 30% of its target’s max health.
+  - >-
+    At the end of each turn, the Spy Fiend steals one of its target’s
+    dispellable buffs and gives it to one character on the opposite team.
+  - Caster regenerates 324 HP over 4 turns.
+types:
+  - Hit 3
+  - Fiend
+passives:
+  - >-
+    When this character receives damage from Special Skills or in place of a
+    character in Cover, there’s a 60% chance of deal 20% of the received damage
+    on all enemies.
+image: https://i.imgur.com/bq60wfg.jpg

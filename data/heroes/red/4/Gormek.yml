@@ -1,0 +1,30 @@
+name: Gormek
+class: Barbarian
+source: Season1
+speed: Average
+power: 642
+attack: 569
+defense: 565
+health: 1430
+skill: Ramming Pulverizer
+effects:
+  - Deals 295% damage to the target and minor damage on nearby enemies
+  - The target an nearby enemies get -34% defense for 6 turns
+types:
+  - Hit 3
+  - Defense Debuff
+image: https://i.imgur.com/A5zsfun.jpg
+costume:
+  class: Wizard
+  power: 680
+  attack: 611
+  defense: 606
+  health: 1511
+  skill: Pulverizing Abacus
+  effects:
+    - Destroys all Minions from all enemies
+    - Deals 180% damage to all enemies
+    - All allies recover 80 HP for each destroyed Minion
+  types:
+    - Minion Destroyer
+  image: https://i.imgur.com/OxaIMH8.jpg

@@ -1,0 +1,45 @@
+name: Inari
+class: Rogue
+source: Season2
+speed: Average
+power: 772
+attack: 813
+defense: 642
+health: 1312
+skill: Lucky Nine
+effects:
+  - Deals 180% damage to all enemies.
+  - >-
+    All allies get +56% chance to dodge Special Skills for 3 turns. Each dodge
+    summons a Sakura Fox minion
+  - >-
+    Sakura Fox Minion has 8% HP and 30% attack inherited from the caster. It
+    adds 7% mana to its owner at the end of each turn
+types:
+  - Hit All
+  - Dodge Buff
+  - Summoner
+family: Sakura
+image: https://i.imgur.com/MjynoiD.jpg
+costume:
+  class: Druid
+  power: 797
+  attack: 795
+  defense: 703
+  health: 1409
+  skill: Blinding Spell
+  effects:
+    - Deals 210% damage to all enemies.
+    - >-
+      Summons a Sakura Fox Minion for the caster and nearby allies. Sakura Fox
+      Minion has 12% HP and 30% attack inherited from the caster. The minion
+      adds 7% mana to its owner at the end of each turn.
+    - >-
+      All enemies get -40% accuracy for 3 turns. Chance to miss is also applies
+      to offensive Special Skills.
+  types:
+    - Hit All
+    - Summoner
+    - Accuracy Debuff
+  bonuses: 2/2/4/1
+  image: https://i.imgur.com/Q0YpLSK.jpg

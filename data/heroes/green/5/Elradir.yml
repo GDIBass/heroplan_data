@@ -1,0 +1,27 @@
+name: Elradir
+class: Wizard
+source: Hotm
+speed: Average
+power: 791
+attack: 766
+defense: 745
+health: 1353
+skill: Nature's Payback
+effects:
+  - Deals 255% damage to the target and nearby enemies.
+  - >-
+    The caster reflects 100% of the damage received from their status ailments
+    to all enemies for 3 turns.
+  - >-
+    Element Link gives all Nature allies small amount of mana at the end of the
+    turn for 4 turns. This effect can't be dispelled.
+types:
+  - Hit 3
+  - Reflect
+passives:
+  - The Hero gains a small amount of mana when they receive a status ailment.
+  - >-
+    The Hero has innate resistance against status ailments that Block Special
+    Skills.
+image: https://i.imgur.com/WDClMpO.jpg
+family: 2021

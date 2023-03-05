@@ -1,0 +1,16 @@
+name: Guardian Lemur
+class: Fighter
+source: Teltoc
+speed: Average
+power: 481
+attack: 455
+defense: 491
+health: 853
+skill: Guardian Armor
+effects:
+  - Recovers 32% health for all allies.
+  - All allies get +94% defense against Nature for 4 turns.
+types:
+  - Heal all
+family: Teltoc
+image: https://i.imgur.com/XPlmtwO.jpg

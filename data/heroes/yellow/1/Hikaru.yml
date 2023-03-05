@@ -1,0 +1,14 @@
+name: Hikaru
+class: Rogue
+source: Season1
+speed: Fast
+power: 213
+attack: 222
+defense: 189
+health: 340
+skill: Backstab
+effects:
+  - Deals 265% damage to the target
+types:
+  - Hit 1
+image: https://i.imgur.com/siyozo3.jpg

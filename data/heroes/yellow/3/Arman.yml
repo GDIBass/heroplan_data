@@ -1,0 +1,22 @@
+name: Arman
+class: Fighter
+source: Sand
+speed: Slow
+power: 448
+attack: 477
+defense: 418
+health: 712
+skill: Sand Breeze
+effects:
+  - Deals 130% damage to all enemies
+  - All enemies receive 92 damage over 4 turns
+  - >-
+    All enemies get -50% increase for any healing received for 2 turns. This
+    effect can't be cleansed
+  - Dispels status ailments from the caster
+types:
+  - Hit All
+  - Dot All
+  - Healing Debuff
+family: Sand
+image: https://i.imgur.com/N88uqSK.jpg

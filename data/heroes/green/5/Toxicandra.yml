@@ -1,0 +1,19 @@
+name: Toxicandra
+class: Cleric
+source: Villains
+speed: Fast
+power: 800
+attack: 774
+defense: 760
+health: 1369
+skill: Accelerated Growth
+effects:
+  - Recovers 30% health for all allies.
+  - All allies regenerate a moderate amount of mana over 3 turns.
+  - Cleanses status ailments from all allies.
+types:
+  - Healer
+  - MOT
+  - Cleanser
+family: Villains
+image: https://i.imgur.com/m5DCDHL.jpg

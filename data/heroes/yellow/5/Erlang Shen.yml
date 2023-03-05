@@ -1,0 +1,20 @@
+name: Erlang Shen
+source: Kingdom
+class: Fighter
+speed: Fast
+family: Journey
+power: 840
+attack: 824
+defense: 776
+health: 1501
+skill: Deteriorating Morale
+effects:
+  - Deals 475% damage to the target and minor damage to nearby enemies.
+  - >-
+    The target and nearby enemies get -48% attack for 3 turns. If the effect is
+    removed before the duration ends, the target with the effect suffers 502
+    damage.
+types:
+  - Heal 1
+  - Attack Debuff
+image: https://i.imgur.com/vft4guR.jpg

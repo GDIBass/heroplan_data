@@ -1,0 +1,41 @@
+name: Perseus
+class: Paladin
+source: Hotm
+speed: Fast
+power: 765
+attack: 725
+defense: 698
+health: 1367
+skill: Everlasting Wound
+effects:
+  - >-
+    Deal 355% damage to single enemy and they get -100% healing received for 4
+    turns (can't be cleansed)
+  - Nearby allies get +94% defense against Nature for 4 turns
+types:
+  - Hit 1
+  - Healing Debuff
+family: 2017
+image: https://i.imgur.com/AMhR92j.jpg
+costume:
+  class: Fighter
+  power: 765
+  attack: 725
+  defense: 698
+  health: 1367
+  skill: Arctic Wound
+  effects:
+    - Deals 305% damage to the target and nearby enemies.
+    - >-
+      The target and nearby enemies get -100% decrease of any healing received
+      for 4 turns. This effect can’t be cleansed.
+    - The target and nearby enemies get -68% defense against Ice for 4 turns.
+    - >-
+      Elemental Link gives 10% mana generation for all Ice allies for 4 turns.
+      This effect can’t be displelled.
+  types:
+    - Hit 3
+    - Elemental Defense Debuff
+    - Healing Debuff
+  image: https://i.imgur.com/nzVNwio.jpg
+  bonuses: 3/3/6/1

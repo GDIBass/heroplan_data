@@ -1,0 +1,21 @@
+name: Asterius
+class: Druid
+source: Villains
+speed: Average
+power: 802
+attack: 784
+defense: 762
+health: 1355
+skill: Brutal Bull Rush
+effects:
+  - Deals 360% damage to the target and nearby enemies.
+  - Reduces the duration of the target and nearby enemies buffs by 1 turn.
+  - >-
+    The target and nearby enemies receive Corrosive Burn for 3 turns. The
+    Corrosive Burn deals 101 burn damage and lowers the targets defence by -16%
+    each turn.
+types:
+  - Hit 3
+  - Dot 3
+family: Villains
+image: https://i.imgur.com/i9C7vjL.jpg

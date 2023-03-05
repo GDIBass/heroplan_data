@@ -1,0 +1,55 @@
+name: Joon
+class: Monk
+source: Season1
+speed: Fast
+power: 752
+attack: 749
+defense: 636
+health: 1339
+skill: Solar Beam
+effects:
+  - Deals 468% damage to the target
+  - >-
+    The target gets -40% accuracy for 6 turns. Chance to miss also applies to
+    offensive special skills
+types:
+  - Hit 1
+  - Blind
+family: Classic
+image: https://i.imgur.com/d5mevmf.jpg
+costume:
+  class: Fighter
+  power: 793
+  attack: 782
+  defense: 678
+  health: 1465
+  skill: Solar Strike
+  effects:
+    - Deals 488% damage to the target
+    - >-
+      The target gets -35% accuracy for 4 turns. Chance to miss also applies to
+      offensive special skills
+  types:
+    - Hit 1
+    - Blind
+  family: Classic
+  image: https://i.imgur.com/YXbYHIl.jpg
+costume2:
+  class: Barbarian
+  power: 792
+  attack: 790
+  defense: 672
+  health: 1452
+  skill: Stellar Beam
+  effects:
+    - Deals 360% damage to target and nearby enemies
+    - The target and nearby enemies receive 180 Burn damage over 3 turns
+    - >-
+      The target and nearby enemies get -35% accuracy for 3 turns. Chance to
+      miss also applies to offensive Special Skills
+  types:
+    - Hit 3
+    - Dot 3
+    - Blind
+  family: Classic
+  image: https://i.imgur.com/rJxyTcK.jpg

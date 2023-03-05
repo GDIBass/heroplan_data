@@ -1,0 +1,21 @@
+name: Guan Yu
+source: Kingdom
+class: Paladin
+speed: Average
+family: Kingdom
+power: 825
+attack: 815
+defense: 764
+health: 1435
+skill: Grren Dragon Crescent Blade
+effects:
+  - Deals 390% damage to the target and nearby enemies.
+  - Damage bypasses target’s Minions.
+  - >-
+    The target and nearby enemies get -25% defense and a further -3 defense for
+    each Minion owned by the enemies for 3 turns, up to -70% defense. This
+    effense can’t be cleansed.
+types:
+  - Hit 3
+  - Defense Debuff
+image: https://i.imgur.com/nDiRoqi.jpg

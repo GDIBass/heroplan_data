@@ -1,0 +1,28 @@
+name: Hawkmoon
+class: Cleric
+source: Season1
+speed: Average
+power: 444
+attack: 474
+defense: 446
+health: 637
+skill: Wind Prayer
+effects:
+  - Recover 32% health for all allies
+types:
+  - Healer
+image: https://i.imgur.com/6ZyfSsX.jpg
+costume:
+  class: Sorcerer
+  power: 468
+  attack: 492
+  defense: 472
+  health: 707
+  skill: Wind Gospel
+  effects:
+    - All allies regenerate 459 HP over 3 turns
+    - All allies get +30% attack for 3 turns
+  types:
+    - HOT
+    - Attack Buff
+  image: https://i.imgur.com/FY7tylo.jpg

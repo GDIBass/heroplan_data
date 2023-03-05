@@ -1,0 +1,22 @@
+name: Evelyn
+class: Ranger
+source: Hotm
+speed: Fast
+power: 768
+attack: 727
+defense: 712
+health: 1355
+skill: Shattering Warcry
+effects:
+  - Deals 210% damage to the target and nearby enemies
+  - The target and nearby enemies get -54% defense against Nature for 4 turns
+  - Dispels buffs from the target and nearby enemies
+  - >-
+    Element Link recovers 4% health for all Nature allies for 6 turns. This
+    effect can't be cleansed
+types:
+  - Hit 3
+  - Elemental D efense Debuff
+  - Dispeller
+family: 2018
+image: https://i.imgur.com/YnTLDcR.jpg

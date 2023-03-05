@@ -1,0 +1,30 @@
+name: Tiburtus
+class: Ranger
+source: Season1
+speed: Average
+power: 639
+attack: 660
+defense: 633
+health: 1045
+skill: Ramming Pulverizer
+effects:
+  - Deals 295% damage to the target and minor damage to nearby enemies
+  - The target and nearby enemies get -34% defense for 6 turns
+types:
+  - Hit 3
+  - Defense Debuff
+image: https://i.imgur.com/XQUgnc6.jpg
+costume:
+  class: Paladin
+  power: 674
+  attack: 688
+  defense: 675
+  health: 1140
+  skill: Symphonic Pulverizer
+  effects:
+    - Deals 175% damage to all enemies
+    - All enemies get -34% defense for 4 turns
+  types:
+    - Hit all
+    - Defense Debuff
+  image: https://i.imgur.com/IyFUCM0.jpg

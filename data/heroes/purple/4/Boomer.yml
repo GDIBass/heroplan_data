@@ -1,0 +1,16 @@
+name: Boomer
+class: Barbarian
+source: Pirates
+speed: Average
+power: 646
+attack: 541
+defense: 663
+health: 1323
+skill: Watery Grave
+effects:
+  - Deals 204% damage to all enemies
+  - The caster and nearby allies get +94% defense against Holy for 3 turns
+types:
+  - Hit All
+family: Corellia
+image: https://i.imgur.com/BLKBB2F.jpg

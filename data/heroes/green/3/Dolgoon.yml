@@ -1,0 +1,29 @@
+name: Dolgoon
+class: Sorcerer
+source: Magic
+speed: Magic
+power: 479
+attack: 462
+defense: 504
+health: 796
+skill: Voluminous Vigor
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200% mana:'
+  - '1x Mana Charge:'
+  - ' * All allies share received damage with each other for 2 turns.'
+  - ' * All allies get +63% defense for 2 turns.'
+  - '2x Mana Charge:'
+  - ' * All enemies share received damage with each other for 5 turns.'
+  - ' * All enemies get -56% defense for 5 turns.'
+types:
+  - Damage share buff
+  - Defense buff
+  - Damage share debuff
+  - Defense debuff
+  - Charge
+passives:
+  - >-
+    On a fully charged Special Skill this Hero has a 50% chance to deal 100%
+    damage to all enemies that are not of Nature element.
+family: Magic
+image: https://i.imgur.com/vRYNJwU.jpg

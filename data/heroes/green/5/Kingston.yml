@@ -1,0 +1,24 @@
+name: Kingston
+class: Fighter
+source: Hotm
+speed: Fast
+power: 770
+attack: 749
+defense: 735
+health: 1266
+skill: Stiletto Cyclone
+effects:
+  - Deals 445% damage to the target.
+  - >-
+    The target and nearby enemies get - 31% attack, and a further -4% decrease
+    every time they are hit during 4 turns.
+  - >-
+    Element Link gives +4% mana generation for all Nature allies for 4 turns.
+    This effect can't be cleansed.
+types:
+  - Hit 1
+  - Attack Debuff
+passives:
+  - The Hero has an innate ability to resist Burn
+image: https://i.imgur.com/rlpoKXr.jpg
+family: 2019

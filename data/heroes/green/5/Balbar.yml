@@ -1,0 +1,25 @@
+name: Balbar
+class: Druid
+source: Hotm
+speed: Average
+power: 796
+attack: 762
+defense: 756
+health: 1378
+skill: Slumber Spores
+effects:
+  - Deals 300% damage to the target.
+  - The target falls asleep.
+  - While asleep, the target can't attack or gain mana.
+  - All damage dealt to the sleeping target is increased by +60%.
+  - >-
+    The sleeping target is woken once it takes damage. This excludes damage from
+    minions and fiends.
+  - >-
+    Element Link gives +10% increase for any healing received for all Nature
+    allies for 4 turns. This effect can't be dispelled.
+types:
+  - Sleep
+  - Hit 1
+image: https://i.imgur.com/lTYrovf.jpg
+family: 2021

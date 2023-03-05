@@ -1,0 +1,19 @@
+name: Gill-Ra
+class: Sorcerer
+source: Season2
+speed: Slow
+power: 449
+attack: 436
+defense: 453
+health: 747
+skill: Lament of Regression
+effects:
+  - All enemies get -34% defense for 4 turns
+  - All enemies get -34% attack for 4 turns
+  - Cleanses status ailments from all allies
+types:
+  - Defense Debuff
+  - Attack Debuff
+  - Cleanser
+family: Lagoon
+image: https://i.imgur.com/5yoZu18.jpg

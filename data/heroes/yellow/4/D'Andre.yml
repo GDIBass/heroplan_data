@@ -1,0 +1,20 @@
+name: D'Andre
+class: Paladin
+source: Starfall
+speed: Average
+power: 676
+attack: 629
+defense: 637
+health: 1381
+skill: Vitalizing Spectacle
+effects:
+  - Recovers 35% health for all allies.
+  - >-
+    All allies with a dispellable status ailment that affects defense get +50%
+    defense for 3 turns.
+  - All allies get +24% mana generation for 3 turns.
+types:
+  - Healer
+  - Mana generation buff
+family: Starfall
+image: https://i.imgur.com/XnqMU7V.jpg

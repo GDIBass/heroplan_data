@@ -1,0 +1,24 @@
+name: Gaillard
+class: Sorcerer
+source: Blackfriday
+family: Gargoyle
+speed: Fast
+power: 826
+attack: 842
+defense: 725
+health: 1458
+skill: Educated Exorcism
+effects:
+  - Deals 490% damage to the target.
+  - >-
+    All allies are immune to incoming negative effects and damage from Fiends
+    for 4 turns.
+  - All allies are immune to new Fiends for 4 turns.
+types:
+  - Hit 1
+  - Fiend Immunity
+passives:
+  - >-
+    Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The
+    next damage they receive is dropped to 1. This effect can't be dispelled.
+image: https://i.imgur.com/ts2Grgv.jpg

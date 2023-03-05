@@ -1,0 +1,19 @@
+name: Sargasso
+class: Fighter
+source: Pirates
+speed: Average
+power: 765
+attack: 729
+defense: 708
+health: 1334
+skill: Curse of Sargasso
+effects:
+  - Deals 385% damage to the target and minor damage to nearby enemies
+  - >-
+    The target and nearby enemies get -80% increase for any healing received for
+    4 turns
+types:
+  - Hit 3
+  - Healing Debuff
+family: Corellia
+image: https://i.imgur.com/6s6FE8i.jpg

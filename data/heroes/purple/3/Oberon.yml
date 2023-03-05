@@ -1,0 +1,30 @@
+name: Oberon
+class: Fighter
+source: Season1
+speed: Slow
+power: 445
+attack: 422
+defense: 411
+health: 839
+skill: Toxic Traps
+effects:
+  - Deals 121% damage to all enemies
+  - All enemies receive 96 damage over 6 turns
+types:
+  - Hit All
+  - DoT All
+image: https://i.imgur.com/FkvOQpS.jpg
+costume:
+  class: Sorcerer
+  power: 469
+  attack: 413
+  defense: 463
+  health: 933
+  skill: Toxic Tricks
+  effects:
+    - >-
+      All enemies receive 324 Poison damage over 3 turns.  This effect can't be
+      cleased.
+  types:
+    - Dot all
+  image: https://i.imgur.com/4wjqw3M.jpg

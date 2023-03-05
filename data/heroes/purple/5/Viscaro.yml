@@ -1,0 +1,30 @@
+name: Viscaro
+class: Druid
+source: Hotm
+speed: Slow
+power: 798
+attack: 727
+defense: 805
+health: 1382
+skill: Cursed Garden
+effects:
+  - Deals 190% damage to all enemies. Damage bypasses target’s minions.
+  - >-
+    Summons a Cursed Sapling Fiend for all enemies. The Fiend damages the enemy
+    with 55% 60% every turn. The Cursed Sapling Fiend absorbs healing and
+    disappears when it has absorbed health equal to 45% of its owner’s max
+    health.
+  - >-
+    Attacks from Cursed Sapling Fiend deal extra damage if the target has
+    minions.
+  - >-
+    Element Link gives all Dark allies +10% attack for 4 turns. This effect
+    can’t be dispelled.
+  - >-
+    Element Link affects all allies when using 2 or more members of the same
+    family.
+types:
+  - Hit All
+  - Fiend
+family: 2022
+image: https://i.imgur.com/tgvzp56.jpg

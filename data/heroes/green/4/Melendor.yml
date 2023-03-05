@@ -1,0 +1,32 @@
+name: Melendor
+class: Druid
+source: Season1
+speed: Average
+power: 638
+attack: 714
+defense: 586
+health: 1000
+skill: Fog of the Fallen
+effects:
+  - Recovers 42% health for all allies
+  - Dispels buffs from all enemies
+types:
+  - Healer
+  - Dispeller
+image: https://i.imgur.com/3rwM4W7.jpg
+costume:
+  class: Wizard
+  power: 673
+  attack: 698
+  defense: 655
+  health: 1151
+  skill: Fog of the Perished
+  effects:
+    - All allies regenerate 609 HP over 3 turns
+    - All allies get +46% defense for 3 turns
+    - Dispels buffs from all enemies
+  types:
+    - HOT
+    - Defense Buff
+    - Dispeller
+  image: https://i.imgur.com/5gxdGVM.jpg

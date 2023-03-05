@@ -1,0 +1,22 @@
+name: Poppy
+class: Ranger
+source: Season4
+speed: Fast
+power: 478
+attack: 497
+defense: 453
+health: 804
+skill: Ricochet Bolt
+effects:
+  - Deals 300% damage to the target.
+  - >-
+    Has a 42% chance for additional hits on random enemies up to 3 times. 
+    Additional hits deal minor damage.
+types:
+  - Hit 1
+family: Underwild
+passives:
+  - >-
+    First time this Hero casts Special Skill that does damage, additional 30%
+    damage is added to its power
+image: https://i.imgur.com/pxiscDG.jpg

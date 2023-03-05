@@ -1,0 +1,37 @@
+name: Mok-Arr
+class: Barbarian
+source: Season2
+speed: Average
+power: 772
+attack: 741
+defense: 688
+health: 1400
+skill: Black Tide
+effects:
+  - Deals 270% damage to all enemies
+  - Deals 50% damage to all allies
+  - Deals extra damage against Holy
+  - All Dark allies and enemies are immune to this attack
+types:
+  - Hit All
+family: Lagoon
+image: https://i.imgur.com/f9fc9eh.jpg
+costume:
+  class: Fighter
+  power: 796
+  attack: 773
+  defense: 705
+  health: 1456
+  skill: Emerald Tine
+  effects:
+    - Deals 280% damage to all enemies.
+    - All Dark allies and enemies get +54% attack for 4 turns.
+    - >-
+      All allies and enemies that are not Dark element get -44% attack for 4
+      turns. This effect is uncleansable for all Holy enemies.
+    - Deals extra damage against Holy.
+  types:
+    - Hit All
+    - Attack Buff
+  bonuses: 2/2/4/1
+  image: https://i.imgur.com/EOk0EO8.jpg

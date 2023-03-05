@@ -1,0 +1,27 @@
+name: Papyros
+source: Season5
+class: Druid
+family: Moon
+speed: Average
+power: 833
+attack: 788
+defense: 795
+health: 1501
+skill: Summon Sand Golems
+effects:
+  - >-
+    Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each
+    time the Sand Golem Minion is attacked by normal attacks or Special Skills,
+    the attacker gets the following status ailment:
+  - '* The target receives 282 Sand damage over 3 turns.'
+  - All allies get +30% defense for 3 turns.
+types:
+  - Summoner
+  - Defense Buff
+passives:
+  - >-
+    Effects on Special Skill - 60% chance to perform the following actions when
+    this character casts their Special Skill
+  - '* Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+  - '* All allies gain a small amount of mana.'
+image: https://i.imgur.com/cV84mq0.jpg

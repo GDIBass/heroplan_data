@@ -1,0 +1,25 @@
+name: Waqas
+source: Season5
+class: Paladin
+family: Sun
+speed: Slow
+power: 483
+attack: 535
+defense: 472
+health: 709
+skill: Unyielding Protector
+effects:
+  - Deals 205% damage to all enemies.
+  - >-
+    Reduces max health for all enemies by 110 each turn for 3 turns. Max health
+    can’t get lower than 30% of the original max health.
+types:
+  - Hit All
+  - Health Reduction
+passives:
+  - >-
+    Effects on Special Skill - 70% chance to perform the following actions when
+    this character casts their Special Skill:
+  - '* Deals 70% damage to all enemies.'
+  - '* All enemies get -34% attack for 3 turns.'
+image: https://i.imgur.com/CWQ9rw6.jpg

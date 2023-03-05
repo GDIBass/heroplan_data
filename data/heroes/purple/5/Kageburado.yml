@@ -1,0 +1,36 @@
+name: Kageburado
+class: Barbarian
+source: Season2
+speed: Very Fast
+power: 772
+attack: 780
+defense: 714
+health: 1248
+skill: Break Strike
+effects:
+  - Dispels buffs from the target
+  - Deals 225% damage to the target
+  - Deals 450% damage if the target has more than 50% health remaining
+types:
+  - Dispeller
+  - Hit 1
+family: Sakura
+image: https://i.imgur.com/OUhEZUJ.jpg
+costume:
+  class: Paladin
+  power: 796
+  attack: 782
+  defense: 750
+  health: 1339
+  skill: Beetle Strike
+  effects:
+    - Dispels buffs from the target.
+    - Deals 320% damage to the target.
+    - The target is immune to new buffs for 2 turns.
+    - The target gets -34% defense for 2 turns.
+  types:
+    - Dispeller
+    - Buff immunity
+    - Defense Debuff
+  image: https://i.imgur.com/3Xk7Vld.jpg
+  bonuses: 2/2/4/1

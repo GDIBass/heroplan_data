@@ -1,0 +1,51 @@
+name: Thor
+class: Fighter
+source: Season3
+speed: Very Fast
+power: 788
+attack: 749
+defense: 735
+health: 1394
+skill: Power of Mjolnir
+effects:
+  - >-
+    Special Skill has a different effect on consecutive uses, in the following
+    order:
+  - '1st:'
+  - ' * Deals 280% damage to the target.'
+  - ' * The target get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
+  - '2nd:'
+  - ' * Deals 280% damage to the target and nearby enemies.'
+  - ' * The target and nearby enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
+  - '3rd:'
+  - ' * Deals 280% damage to all enemies.'
+  - ' * All enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
+types:
+  - Hit All
+  - Blind
+image: https://i.imgur.com/Cls9o26.jpg
+costume:
+  class: Paladin
+  power: 788
+  attack: 731
+  defense: 739
+  health: 1431
+  skill: Energy of Mjolnir
+  effects:
+    - >-
+      Special Skill has a different effect on consecutive uses, in the following
+      order:
+    - '1st:'
+    - ' * Deals 185% damage to all enemies.'
+    - ' * All enemies get -25% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
+    - '2nd:'
+    - ' * Deals 260% damage to all enemies.'
+    - ' * All enemies get -35% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
+    - '3rd:'
+    - ' * Deals 290% damage to all enemies.'
+    - ' * All enemies get -54% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
+  types:
+    - Hit All
+    - Blind
+  image: https://i.imgur.com/LYyDsUh.jpg
+  bonuses: 5/5/10/5

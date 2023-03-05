@@ -1,0 +1,22 @@
+name: Lady Loki
+class: Fighter
+source: Season3
+speed: Average
+power: 787
+attack: 747
+defense: 776
+health: 1312
+skill: Trickster's Malice
+effects:
+  - >-
+    Takes all cleansable status ailments  from all allies and randomly casts
+    them on all enemies
+  - Deals 170% damage to all enemies
+  - >-
+    Deals additional 8% damage per transferred status ailment, up to 298% damage
+    in total
+types:
+  - Cleanser
+  - Hit All
+family: Helheim
+image: https://i.imgur.com/NzRPKjE.jpg

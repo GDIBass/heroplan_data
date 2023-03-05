@@ -1,0 +1,41 @@
+name: Jabberwock
+class: Monk
+source: Wonderland
+speed: Fast
+power: 780
+attack: 743
+defense: 747
+health: 1328
+skill: Sideswipe
+effects:
+  - >-
+    Deals 300% damage to the enemies on the edges of the enemy formation, If
+    there is only one enemy alive, the damage is doubled.
+  - >-
+    The enemies on the edges of the enemy formation receive 234 poison damage
+    over 3 turns. This effect can't be cleansed.
+types:
+  - Hit 3
+  - Dot 3
+family: Wonderland
+image: https://i.imgur.com/ODUCn9s.jpg
+costume:
+  class: Druid
+  bonuses: 5/5/10/5
+  power: 805
+  attack: 775
+  defense: 763
+  health: 1397
+  skill: Avenger of Mothkind
+  effects:
+    - >-
+      Deals 300% damage to the enemies on the edges of the enemy formation. If
+      there is only one enemy alive, the damage is doubled.
+    - >-
+      The enemies on the edges of the enemy formation receive Corrosive Poison
+      for 3 turns. The Corrosive Poison deals 131 Poison damage and lowers the
+      target's mana generation by -12% each turn. This effect can't be cleansed.
+  types:
+    - Hit 2
+    - Dot
+  image: https://i.imgur.com/Y9oF73p.jpg

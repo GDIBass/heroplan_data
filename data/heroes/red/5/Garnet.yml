@@ -1,0 +1,40 @@
+name: Garnet
+class: Sorcerer
+source: Ninja
+speed: Charge
+power: 798
+attack: 731
+defense: 751
+health: 1481
+skill: Awaken Ki
+effects:
+  - 1x Mana Charge
+  - >-
+    * Boosts health of all allies by 180. If health exceeds max HP it is added
+    as temporary HP. Max temporary HP is 100% of max HP. Boosted health counters
+    max HP reduction.
+  - >-
+    * All allies are immune to new status ailments for 2 turns. This effect
+    can’t be dispelled.
+  - 2x Mana Charge
+  - >-
+    * Boosts health of all allies by 400. If health exceeds max HP it is added
+    as temporary HP. Max temporary HP is 100% of max HP. Boosted health counters
+    max HP reduction.
+  - >-
+    * All allies are immune to new status ailments for 3 turns. This effect
+    can’t be dispelled.
+  - 3x Mana Charge
+  - >-
+    * Boosts health of all allies by 720. If health exceeds max HP it is added
+    as temporary HP. Max temporary HP is 100% of max HP. Boosted health counters
+    max HP reduction.
+  - >-
+    * All allies are immune to new status ailments for 4 turns. This effect
+    can’t be dispelled.
+types:
+  - Charger
+  - Defense Buff
+  - Mana Generation Buff
+family: Ninja
+image: https://i.imgur.com/Vxe7UpD.jpg

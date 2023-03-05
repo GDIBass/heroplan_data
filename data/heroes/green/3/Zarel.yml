@@ -1,0 +1,25 @@
+name: Zarel
+class: Paladin
+speed: Slow
+family: Bard
+source: Festival
+power: 485
+attack: 493
+defense: 498
+health: 775
+skill: Tambourine Solo
+effects:
+  - Deals 260% damage to all enemies.
+  - All enemies get -34% attack for 5 turns.
+  - >-
+    All enemies can’t get their status ailments cleansed from Special Skill for
+    5 turns.
+types:
+  - Hit All
+  - Attack Debuff
+  - Cleanse Block
+passives:
+  - >-
+    Reduces the effect of defense ailments by 50%. The effect applies to this
+    character and its allies in the battle.
+image: https://i.imgur.com/UoxW1c2.jpg

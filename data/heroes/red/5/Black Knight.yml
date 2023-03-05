@@ -1,0 +1,40 @@
+name: Black Knight
+class: Barbarian
+source: Avalon
+speed: Average
+power: 779
+attack: 611
+defense: 846
+health: 1458
+skill: Just a Flesh Wound
+effects:
+  - The caster has a 50% chance to drop any received damage to 1 for 3 turns
+  - >-
+    The caster gets Taunt that prevents enemies from using Special Skills on the
+    caster's allies for 3 turns
+  - >-
+    All allies get +45% attack, and a further 20% increase every time they are
+    hit during 3 turns
+types:
+  - Taunt
+  - Attack Buff
+family: Avalon
+image: https://i.imgur.com/6so0gHz.jpg
+costume:
+  class: Wizard
+  bonuses: 5/5/10/5
+  power: 822
+  attack: 655
+  defense: 877
+  health: 1592
+  skill: But a Scratch
+  effects:
+    - The caster has a 50% chance to drop any received damage to 1 for 4 turns.
+    - >-
+      The caster gets Taunt that prevents enemies from using Special Skills on
+      the caster’s allies for 4 turns.
+    - All allies get +54% attack for 4 turns.
+  types:
+    - Damage Drop
+    - Taunt
+  image: https://i.imgur.com/BH9J6dC.jpg

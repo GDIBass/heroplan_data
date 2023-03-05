@@ -1,0 +1,26 @@
+name: Joukahainen
+class: Monk
+speed: Average
+family: Kalevala
+source: Kalevala
+power: 482
+attack: 465
+defense: 472
+health: 877
+skill: Arrows of Fury
+effects:
+  - Dispels buffs from all enemies.
+  - Deals 165% damage to all enemies.
+  - >-
+    All enemies are immune to new status effect buffs for 4 turns. Against
+    Nature characters, this status effect becomes uncleansable and lasts 2 turns
+    longer.
+types:
+  - Dispeller
+  - Hit All
+  - Buff Immunity
+passives:
+  - >-
+    When this character starts a turn with low health for the first time during
+    a battle, they recover 15% health and receive 15% mana.
+image: https://i.imgur.com/MfQu0Jd.jpg

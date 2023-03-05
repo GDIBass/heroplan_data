@@ -1,0 +1,17 @@
+name: Candy
+class: Cleric
+source: Starfall
+speed: Average
+power: 477
+attack: 465
+defense: 488
+health: 809
+skill: Whimsical Aid
+effects:
+  - Heals all allies who have less than 50% HP left to 50% health.
+  - All allies regenerate 261 HP over 3 turns.
+types:
+  - Heal all
+  - HOT all
+family: Starfall
+image: https://i.imgur.com/JMKpOq5.jpg

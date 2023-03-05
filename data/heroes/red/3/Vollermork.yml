@@ -1,0 +1,22 @@
+name: Vollermork
+class: Paladin
+source: Season4
+speed: Slow
+power: 478
+attack: 476
+defense: 514
+health: 738
+skill: Thresher Worms
+effects:
+  - >-
+    Summons a Worm Fiend for all enemies. The Fiend damages the enemy with 32%
+    attack every turn.
+  - >-
+    The Worm Fiend absorbs healing and disappears when it has absorbed health
+    equal to 16% of the targets max health
+types:
+  - Fiend
+family: Underwild
+passives:
+  - This Hero receives 20% mana at the start of the battle.
+image: https://i.imgur.com/mAw3KL3.jpg

@@ -1,0 +1,32 @@
+name: Master Lepus
+class: Druid
+source: Springvale
+speed: Fast
+power: 763
+attack: 795
+defense: 690
+health: 1194
+skill: Reckless Finisher
+effects:
+  - Deals 410% damage to the target and minor damage to nearby enemies
+  - The caster gets -20% defense for 3 turns. This effect can't be cleansed
+types:
+  - Hit 3
+family: Springvale
+image: https://i.imgur.com/Ti2FM1v.jpg
+costume:
+  class: Barbarian
+  power: 787
+  attack: 797
+  defense: 727
+  health: 1283
+  skill: Rift Blade
+  effects:
+    - Deals 280% damage to all enemies.
+    - >-
+      Teh caster gets -24% mana generation for 4 turns. This effect can't be
+      cleansed.
+  types:
+    - Hit 1
+  image: https://i.imgur.com/aLTsGWG.jpg
+  bonuses: 3/3/6/1

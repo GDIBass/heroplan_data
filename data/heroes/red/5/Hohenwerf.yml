@@ -1,0 +1,28 @@
+name: Hohenwerf
+class: Barbarian
+speed: Fast
+source: Gargoyle
+family: Gargoyle
+power: 826
+attack: 791
+defense: 786
+health: 1458
+skill: Possessor of Penance
+effects:
+  - Deals 450% damage to the target.
+  - Summons a Gargoyle Fiend for the target.
+  - >-
+    The Gargoyle Fiend absorbs healing and disappears when it has absorbed
+    health equal to 30% of its owner’s max health.
+  - >-
+    The Gargoyle Fiend forces its owner to cast Mindless Attack on a random ally
+    when mana is full for as long as the owner has Gargoyle Fiends. This effect
+    cannot be dispelled.
+types:
+  - Hit 1
+  - Fiend
+passives:
+  - >-
+    Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The
+    next damage they receive is dropped to 1. This effect can’t be dispelled.
+image: https://i.imgur.com/mNDZ6lN.jpg

@@ -1,0 +1,28 @@
+name: Ulmer
+class: Wizard
+source: Season1
+speed: Slow
+power: 445
+attack: 528
+defense: 359
+health: 677
+skill: Blizzard
+effects:
+  - Deals 116% damage to all enemies and they get -34% defense for 6 turns
+types:
+  - Hit All
+  - Defense Debuff
+image: https://i.imgur.com/8fr1xWV.jpg
+costume:
+  class: Monk
+  power: 468
+  attack: 522
+  defense: 403
+  health: 772
+  skill: Whiteout
+  effects:
+    - Deals 145% damage to all enemies
+    - All allies get +48% attack for 6 turns
+  types:
+    - Hit all
+  image: https://i.imgur.com/0GakWdj.jpg

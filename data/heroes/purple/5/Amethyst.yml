@@ -1,0 +1,28 @@
+name: Amethyst
+class: Sorcerer
+source: Ninja
+family: Ninja
+speed: Charge
+power: 842
+attack: 844
+defense: 782
+health: 1454
+skill: Assassins in the Night
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - ' - Deals 200% damage to all enemies.'
+  - ' - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 59% attack each turn.'
+  - ' - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 32% of its target’s max health.'
+  - 'x2 Mana Charge:'
+  - ' - Deals 275% damage to all enemies.'
+  - ' - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 75% attack each turn.'
+  - ' - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target’s max health.'
+  - 'x3 Mana Charge:'
+  - ' - Deals 355% damage to all enemies.'
+  - ' - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 84% attack each turn.'
+  - ' - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 54% of its target’s max health.'
+types:
+  - Hit All
+  - Fiend Summoner
+image: https://i.imgur.com/OBE1Glz.jpg

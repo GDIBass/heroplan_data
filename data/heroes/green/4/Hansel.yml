@@ -1,0 +1,20 @@
+name: Hansel
+class: Cleric
+source: Fables
+speed: Fast
+power: 646
+attack: 699
+defense: 601
+health: 1064
+skill: Witch Killer
+effects:
+  - Deals 255% damage to the target
+  - >-
+    Automatically does 21% damage to the target when their mana is full and
+    reduces their mana to 50% for 3 turns
+  - The caster gets +74% defense against Special Skills for 3 turns
+types:
+  - Hit 1
+  - Mindless Attack
+family: Grimforest
+image: https://i.imgur.com/SkK8Ieu.jpg

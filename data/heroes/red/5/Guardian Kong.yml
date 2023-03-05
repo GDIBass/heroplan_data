@@ -1,0 +1,37 @@
+name: Guardian Kong
+class: Barbarian
+source: Teltoc
+speed: Average
+power: 765
+attack: 786
+defense: 587
+health: 1433
+skill: Lord of the Jungle
+effects:
+  - Deals 250% damage to all enemies
+  - All allies get +94% defense against Ice for 4 turns
+  - Cleanses status ailments from all allies
+types:
+  - Hit All
+  - Cleanser
+family: Teltoc
+image: https://i.imgur.com/4n0L387.jpg
+costume:
+  class: Monk
+  bonuses: 5/5/10/5
+  power: 806
+  attack: 832
+  defense: 624
+  health: 1542
+  skill: Kong Smash
+  effects:
+    - Deals 300% damage to all enemies.
+    - >-
+      All allies reflect all status effects and 115% damage back to the attacker
+      and block other negative effects from enemies’ Ice Special Skills for 4
+      turns.
+    - Dispells buffs from all enemies.
+  types:
+    - Hit All
+    - Reflect Buff
+  image: https://i.imgur.com/cXwWGpL.jpg

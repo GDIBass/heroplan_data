@@ -1,0 +1,19 @@
+name: Delilah
+class: Fighter
+source: Hotm
+speed: Average
+power: 768
+attack: 737
+defense: 704
+health: 1345
+skill: Summon Temple Guardians
+effects:
+  - Recovers 33% health for all allies
+  - >-
+    Summons a Guardian Minion for each ally with 13% HP and 16% attack inherited
+    from the caster
+types:
+  - Healer
+  - Summoner
+family: 2018
+image: https://i.imgur.com/gbHdhVI.jpg

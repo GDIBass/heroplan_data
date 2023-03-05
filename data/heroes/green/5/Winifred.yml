@@ -1,0 +1,27 @@
+name: Winifred
+class: Wizard
+speed: Slow
+family: Bard
+source: Festival
+power: 829
+attack: 791
+defense: 795
+health: 1470
+skill: Madrigal of Mayhem
+effects:
+  - Deals 550% damage to the target.
+  - >-
+    The attack chains through all the enemies who are adjacent to any hit enemy,
+    and deals minor damage.
+  - All hit targets get -54% attack for 5 turns.
+  - All hit targets are immune to new status effect buffs for 5 turns.
+types:
+  - Hit 1
+  - Chain
+  - Attack Debuff
+  - Buff Immunity
+passives:
+  - >-
+    Reduces the chance of revival by -50%. The effect applies to all enemies in
+    the battle.
+image: https://i.imgur.com/keg45a3.jpg

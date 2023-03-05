@@ -1,0 +1,32 @@
+name: Ei-Dunn
+class: Paladin
+source: Season3
+speed: Average
+power: 466
+attack: 422
+defense: 481
+health: 851
+skill: Tainted Axe
+effects:
+  - Deals 240% damage to the target and nearby enemies.
+  - The target and nearby enemies get -24% mana generation for 4 turns.
+types:
+  - Hit All
+  - Mana Generation Debuff
+family: Niflheim
+image: https://i.imgur.com/RabUqBI.jpg
+costume:
+  class: Barbarian
+  power: 481
+  attack: 502
+  defense: 416
+  health: 889
+  skill: Vicious Axe
+  effects:
+    - Deals 180% damage to all enemies.
+    - Reduces the mana of all enemies by 10%.
+  types:
+    - Hit All
+    - Mana Reduction
+  bonuses: 3/3/6/1
+  image: https://i.imgur.com/Zi5MdT5.jpg

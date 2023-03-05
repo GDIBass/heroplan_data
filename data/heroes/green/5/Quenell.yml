@@ -1,0 +1,20 @@
+name: Quenell
+class: Ranger
+source: Knights
+speed: Fast
+power: 816
+attack: 795
+defense: 760
+health: 1433
+skill: Howling Sword
+effects:
+  - Deals 320% damage to the target and nearby enemies.
+  - >-
+    The caster gets additional +40% power for the next Special Skill they cast.
+    The additional power increases +40% each turn, up to a maximum of 200% in
+    total.
+types:
+  - Hit 3
+  - Power Boost
+family: Wolf
+image: https://i.imgur.com/PV2Q0BQ.jpg

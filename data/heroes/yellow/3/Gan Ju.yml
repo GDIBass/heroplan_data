@@ -1,0 +1,29 @@
+name: Gan Ju
+class: Monk
+source: Season1
+speed: Fast
+power: 443
+attack: 467
+defense: 363
+health: 811
+skill: Mystic Chop
+effects:
+  - Deals 270% damage to the target
+  - Reduces the mana of the target by 25%
+types:
+  - Hit 1
+  - Mana Reduction
+image: https://i.imgur.com/Eor4cBc.jpg
+costume:
+  class: Barbarian
+  power: 468
+  attack: 519
+  defense: 371
+  health: 844
+  skill: Rural Chop
+  effects:
+    - Deals 220% damage to the target
+    - Reduces the mana of the target by 40%
+  types:
+    - Hit 1
+  image: https://i.imgur.com/UfGiJQd.jpg

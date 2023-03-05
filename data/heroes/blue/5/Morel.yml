@@ -1,0 +1,21 @@
+name: Morel
+class: Ranger
+source: Season4
+speed: Fast
+power: 807
+attack: 772
+defense: 745
+health: 1452
+skill: Deathly Glaive
+effects:
+  - Deals 180% damage to all enemies
+  - All enemis get -34% defense for 3 turns.
+types:
+  - Hit All
+  - Defense Debuff
+passives:
+  - >-
+    First time this Hero casts Special Skill that does damage, additional 30% is
+    added to its power.
+family: Underwild
+image: https://i.imgur.com/BbpdvD9.jpg

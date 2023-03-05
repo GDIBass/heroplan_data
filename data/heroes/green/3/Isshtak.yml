@@ -1,0 +1,28 @@
+name: Isshtak
+class: Ranger
+source: Season1
+speed: Average
+power: 447
+attack: 453
+defense: 417
+health: 764
+skill: Ramming Rush
+effects:
+  - Deals 260% damage to the target and minor damage to nearby enemies
+types:
+  - Hit 3
+image: https://i.imgur.com/Sq218ZB.jpg
+costume:
+  class: Monk
+  power: 471
+  attack: 477
+  defense: 391
+  health: 928
+  skill: Bolstering Rush
+  effects:
+    - Deals 185% damage to the target and minor damage to nearby enemies
+    - The target and nearby enemies get -44% defense for 4 turns
+  types:
+    - Hit 3
+    - Defense Debuff
+  image: https://i.imgur.com/aTgE0vq.jpg

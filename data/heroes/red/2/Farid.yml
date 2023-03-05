@@ -1,0 +1,14 @@
+name: Farid
+class: Barbarian
+source: Season1
+speed: Average
+power: 337
+attack: 350
+defense: 288
+health: 635
+skill: Fierce Slash
+effects:
+  - Deals 115% damage to all enemies
+types:
+  - Hit All
+image: https://i.imgur.com/MeeFayZ.jpg

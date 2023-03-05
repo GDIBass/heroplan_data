@@ -1,0 +1,20 @@
+name: Muggy
+class: Fighter
+source: Season2
+speed: Fast
+power: 450
+attack: 634
+defense: 373
+health: 420
+skill: Bruiser Bros
+effects:
+  - >-
+    All allies become Bruiser Bros for 4 turns. If an ally dies while being a
+    Bruiser Bro they will be reborn as a Chameleon with:
+  - >-
+    66% health. Increased attack. Decreased defense. Devastating Special Skill:
+    Fierce Slash. This effect cannot be dispelled.
+types:
+  - Zombie Buff
+family: Lagoon
+image: https://i.imgur.com/oEhD3JD.jpg

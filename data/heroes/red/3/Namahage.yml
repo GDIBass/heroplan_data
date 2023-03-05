@@ -1,0 +1,19 @@
+name: Namahage
+class: Barbarian
+source: Season2
+speed: Fast
+power: 449
+attack: 526
+defense: 418
+health: 597
+skill: Bloodthirst
+effects:
+  - Deals 290% damage to the target.
+  - >-
+    The caster gets +45% attack, and a further 20% increase every time they are
+    hit during 5 turns.
+types:
+  - Hit 1
+  - Attack Buff
+family: Sakura
+image: https://i.imgur.com/7ovDLzi.jpg

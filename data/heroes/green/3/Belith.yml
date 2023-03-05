@@ -1,0 +1,30 @@
+name: Belith
+class: Druid
+source: Season1
+speed: Average
+power: 441
+attack: 425
+defense: 450
+health: 729
+skill: Calming Mist
+effects:
+  - Recovers 32% health for all allies
+  - Dispels buffs from all enemies
+types:
+  - Healer
+  - Dispeller
+image: https://i.imgur.com/aLWFiS9.jpg
+costume:
+  class: Wizard
+  power: 465
+  attack: 437
+  defense: 460
+  health: 848
+  skill: Tranquil Mist
+  effects:
+    - All allies regenerate 459 HP over 3 turns
+    - All allies are immune to buff dispells for 3 turns
+  types:
+    - HOT
+    - Dispell Immunity
+  image: https://i.imgur.com/MHO518e.jpg

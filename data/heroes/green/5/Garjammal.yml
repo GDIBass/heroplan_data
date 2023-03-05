@@ -1,0 +1,23 @@
+name: Garjammal
+class: Barbarian
+source: Season4
+speed: Fast
+power: 807
+attack: 791
+defense: 774
+health: 1349
+skill: Flail of Destruction
+effects:
+  - Deals 430% damage to the target
+  - >-
+    The caster regenerates 675 HP over 3 turns. The effect duration is reset if
+    the caster is hit with direct damage from a special skill.
+types:
+  - Hit 1
+  - Self DoT
+family: Underwild
+passives:
+  - >-
+    Duration of the first 3 status ailments this hero receives from Special
+    Skills is decreased by 1 turn.
+image: https://i.imgur.com/kz19bRj.jpg

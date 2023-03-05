@@ -1,0 +1,21 @@
+name: Red Hood
+class: Ranger
+source: Fables
+speed: Average
+power: 767
+attack: 729
+defense: 708
+health: 1353
+skill: Forest Friends
+effects:
+  - Deals 131% damage to all enemies
+  - >-
+    Summons a Fox Minion for each ally with 14% HP. The minion recovers 7%
+    health for its owner at the end of each turn. The minion prevents its owner
+    from losing mana to effects that drain mana
+types:
+  - Hit All
+  - Summoner
+  - Healer
+family: Grimforest
+image: https://i.imgur.com/P4he1aZ.jpg

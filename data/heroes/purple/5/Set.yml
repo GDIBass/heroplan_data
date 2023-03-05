@@ -1,0 +1,28 @@
+name: Set
+class: Monk
+speed: Slow
+source: Dynasty
+family: Moon
+power: 839
+attack: 782
+defense: 817
+health: 1514
+skill: Legions of Darkness
+effects:
+  - >-
+    Summon a Dark Soldier Minion for all allies with 40% HP and 40% attack
+    inherited from the caster.
+  - All enemies receive 315 Poison damage over 3 turns.
+  - >-
+    If the caster is defeated in the next 3 turns, all enemies mana is reduced
+    by -100%. This effect can’t be dispelled.
+types:
+  - Summoner
+  - DoT all
+passives:
+  - >-
+    50% chance to perform the following actions when this character casts their
+    Special Skill:
+  - Deals 70% damage to all enemies.
+  - All enemies get -24% mana generation for 3 turns.
+image: https://i.imgur.com/8kUB8ir.jpg

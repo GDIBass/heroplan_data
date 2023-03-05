@@ -1,0 +1,18 @@
+name: Sir Roostley
+class: Paladin
+source: Springvale
+speed: Average
+power: 789
+attack: 778
+defense: 727
+health: 1347
+skill: Luminous Lance
+effects:
+  - Deals 280% damage to the target.
+  - The attack chains through all enemies that are adjacent to any hit enemy.
+  - The caster gets -20% attack for 3 turns. This effect can't be cleansed.
+types:
+  - Hit 1
+  - Chain Hit
+family: Springvale
+image: https://i.imgur.com/YbdZndT.jpg

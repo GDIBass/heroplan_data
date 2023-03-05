@@ -1,0 +1,25 @@
+name: Jack
+class: Wizard
+source: Morlovia
+speed: Fast
+power: 468
+attack: 491
+defense: 450
+health: 752
+skill: Explosive O'lantern
+effects:
+  - Deals 200% damage to the target
+  - >-
+    The target receieves a Pumpkin Bomb. After 3 turns the Pumpkin Bomb explodes
+    and deals 206 damage to the target and nearby targets. The Pumpkin Bomb also
+    explodes when the target is defeated.
+types:
+  - Hit 1
+  - Bomb
+family: Morlovia
+passives:
+  - >-
+    When this character casts their Special Skill, they have a 50% chance to
+    steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 70% damage to all enemies.
+image: https://i.imgur.com/1pbBKiM.jpg

@@ -1,0 +1,47 @@
+name: Ameonna
+class: Sorcerer
+source: Season2
+speed: Fast
+power: 649
+attack: 771
+defense: 527
+health: 1054
+skill: Ghost
+effects:
+  - The caster shifts into Ghost Form
+  - >-
+    Ghost Form removes all cleansable and uncleansable buffs and status ailments
+    from the caster.
+  - While in Ghost form the caster gains +82% attack.
+  - >-
+    While in Ghost form the caster can't gain mana, but is immune to normal
+    attacks, special attacks, and all status effects.
+  - Ghost form lasts for 4 turns.
+types:
+  - Ghost
+family: Sakura
+image: https://i.imgur.com/VkDdipF.jpg
+costume:
+  class: Wizard
+  power: 671
+  attack: 700
+  defense: 651
+  health: 1139
+  skill: Yurei
+  effects:
+    - >-
+      Removes all status ailments and stacks from the caster. Removes even
+      status effects that are otherwise undispellable or uncleansable.
+    - The caster shifts to Ghost form for 4 turns.
+    - >-
+      While in Ghost form the caster can’t gain mana and can’t be healed by
+      Special Skills, but is immune to normal attacks, Special Skill attacks,
+      status effects and stacks.
+    - While in Ghost form, all allies except the caster have +44% defense.
+    - >-
+      While in Ghost form, all allies except the caster regenerate 140 HP every
+      turn.
+  types:
+    - Ghost
+  bonuses: 2/2/4/1
+  image: https://i.imgur.com/VZyVFDJ.jpg

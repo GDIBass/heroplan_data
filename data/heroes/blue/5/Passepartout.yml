@@ -1,0 +1,27 @@
+name: Passepartout
+class: Fighter
+source: Season4
+speed: Average
+power: 811
+attack: 756
+defense: 803
+health: 1411
+skill: Helping Hands
+effects:
+  - Recovers 25% health for all allies.
+  - >-
+    All allies regenerate 400 HP over 4 turns, and a further increase of 100 HP
+    per each Nature shield on the board, up to 1200 HP total.
+  - >-
+    All allies get +20% defense, and a further 7% increase for each Nature
+    shield on the board for 4 turns, up to 76% defense.
+types:
+  - Healer
+  - HoT all
+  - Defense buff
+passives:
+  - >-
+    Duration of the first 3 buff this hero receives from Special Skills is
+    increased by 1 turn.
+family: Underwild
+image: https://i.imgur.com/6D1hJ1P.jpg

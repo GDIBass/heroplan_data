@@ -1,0 +1,25 @@
+name: Cleopatra
+family: Sun
+source: Season5
+class: Cleric
+speed: Average
+power: 840
+attack: 743
+defense: 826
+health: 1602
+skill: Channeler of the Gods
+effects:
+  - Recovers 65% health for all allies.
+  - >-
+    All allies are immune to new status ailments for 3 turns, and recover 205
+    health for each attempted status ailment.
+types:
+  - Healer
+  - Status Ailment Immunity
+passives:
+  - >-
+    Effects on Special Skill - 60% chance to perform the following actions when
+    this character casts their Special Skill
+  - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+  - ' * Cleanses the latest cleansable status ailment from all allies.'
+image: https://i.imgur.com/pyEHRBi.jpg

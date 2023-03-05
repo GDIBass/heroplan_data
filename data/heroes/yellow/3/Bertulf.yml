@@ -1,0 +1,18 @@
+name: Bertulf
+class: Monk
+source: Knights
+speed: Average
+power: 480
+attack: 491
+defense: 460
+health: 820
+skill: Magnificient Meal
+effects:
+  - >-
+    All allies get +100% normal attack for 4 turns. This effect can be active in
+    addition to effectst hat alter attack in general. Normal attacks can have a
+    total maximum of +160% increased power while this effect is active.
+types:
+  - Attack Buff
+family: Raven
+image: https://i.imgur.com/0zQumOG.jpg

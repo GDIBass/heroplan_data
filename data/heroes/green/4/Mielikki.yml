@@ -1,0 +1,29 @@
+name: Mielikki
+class: Druid
+speed: Average
+family: Kalevala
+source: Kalevala
+power: 682
+attack: 614
+defense: 648
+health: 1440
+skill: Sprite Ballad
+effects:
+  - >-
+    Summons a Sprite of the Forest Minion for all allies with 15% HP and 10%
+    attack inherited from the caster.
+  - >-
+    The Sprite of the Forest Minion gives +20% mana generation for its owner for
+    as long as the owner has the Sprite of the Forest Minions. This effect can't
+    be dispelled.
+  - >-
+    All enemies get -24% attack for 4 turns. Against Fire characters, this
+    status effect becomes uncleansable and lasts 2 turns.
+types:
+  - Summoner
+  - Attack debuff
+passives:
+  - >-
+    When this character starts a turn with low health for the first time during
+    a battle, they recover 15% health and receive 15% mana.
+image: https://i.imgur.com/tts9FVU.jpg

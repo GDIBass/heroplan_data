@@ -1,0 +1,20 @@
+name: Akkorog
+class: Ranger
+source: Season4
+speed: Fast
+power: 806
+attack: 782
+defense: 772
+health: 1371
+skill: Colossal Chops
+effects:
+  - Rearranges the enemy positions randomly.
+  - Deals 280% damage to the target and nearby enemies.
+types:
+  - Hit 3
+family: Underwild
+passives:
+  - >-
+    First time this Hero casts Special Skill that does damage, additional 30%
+    damage is added to its power
+image: https://i.imgur.com/gMyh86R.jpg

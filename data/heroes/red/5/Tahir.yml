@@ -1,0 +1,26 @@
+name: Tahir
+class: Ranger
+speed: Fast
+family: 2022
+source: Hotm
+power: 805
+attack: 791
+defense: 737
+health: 1411
+skill: Hunter's Mark
+effects:
+  - Deals 350% damage to the target.
+  - Deals 525% damage if the target has status ailments or negative stacks.
+  - >-
+    If the target still alive, the nearby enemies get 336 Bleed damage for 3
+    turns.
+  - Element Link gives all Fire allies immunity to new Fiends for 4 turns.
+types:
+  - Hit 1
+  - Hit 3
+passives:
+  - This character has innate resistance against Bleed.
+  - >-
+    This character recovers 50 HP when they receive a status ailment or a
+    negative stack.
+image: https://i.imgur.com/CooQRgw.jpg

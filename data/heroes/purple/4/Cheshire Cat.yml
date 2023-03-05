@@ -1,0 +1,18 @@
+name: Cheshire Cat
+class: Sorcerer
+source: Wonderland
+speed: Fast
+power: 649
+attack: 658
+defense: 641
+health: 1105
+skill: Dazzling Grin
+effects:
+  - Rearranges the enemy positions randomly
+  - All holy enemies get -44% defense for 4 turns
+  - All enemies receive 276 damage over 4 turns. This effect can't be cleansed
+types:
+  - Reposition
+  - DoT All
+family: Wonderland
+image: https://i.imgur.com/Js5mqAr.jpg

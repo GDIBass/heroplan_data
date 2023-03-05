@@ -1,0 +1,29 @@
+name: Kailani
+class: Cleric
+source: Season1
+speed: Slow
+power: 444
+attack: 429
+defense: 453
+health: 729
+skill: Spirit Link
+effects:
+  - >-
+    All allies get +63% defense and share received damage with all their allies
+    for 5 turns
+types:
+  - Ally Damage Share
+image: https://i.imgur.com/h7fAkgX.jpg
+costume:
+  class: Sorcerer
+  power: 467
+  attack: 423
+  defense: 497
+  health: 825
+  skill: Spirit Rally
+  effects:
+    - All allies share received damage with eachother for 5 turns
+    - All allies get +50% attack for 5 turns
+  types:
+    - Attack Buff
+  image: https://i.imgur.com/OOF8ysq.jpg

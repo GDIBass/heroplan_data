@@ -1,0 +1,22 @@
+name: Penolite
+class: Ranger
+source: Blackfriday
+family: Gargoyle
+speed: Average
+power: 826
+attack: 817
+defense: 747
+health: 1472
+skill: Radiant Rapid-Fire
+effects:
+  - Deals 245% damage to all enemies.
+  - Deals 490% damage against Minion and Fiend Summoners.
+  - All enemies get -50% decrease for any healing received for 4 turns.
+types:
+  - Hit All
+  - Healing debuff
+passives:
+  - >-
+    Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The
+    next damage they receive is dropped to 1. This effect can't be dispelled.
+image: https://i.imgur.com/ifFiCU7.jpg

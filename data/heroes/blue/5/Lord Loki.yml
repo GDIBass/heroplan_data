@@ -1,0 +1,23 @@
+name: Lord Loki
+class: Wizard
+source: Season3
+speed: Average
+power: 787
+attack: 774
+defense: 743
+health: 1312
+skill: Trickster's Mischief
+effects:
+  - >-
+    Copies target's Special Skill and uses it as if it was the caster's own
+    Special Skill.
+  - >-
+    If the target does not have a Special Skill or it can't be copied, the
+    following special skill will be cast
+  - 'Villain Swing:'
+  - ' * Deals 275% damage to the target'
+types:
+  - Copy Special
+  - Hit 1
+family: Jotunheim
+image: https://i.imgur.com/eGy2uqe.jpg

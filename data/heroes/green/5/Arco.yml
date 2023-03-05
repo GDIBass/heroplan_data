@@ -1,0 +1,25 @@
+name: Arco
+class: Wizard
+source: Gargoyle
+family: Gargoyle
+speed: Average
+power: 826
+attack: 762
+defense: 815
+health: 1474
+skill: Possessor of Penance
+effects:
+  - Replaces all Fiends on all allies with Gargoyle Minions.
+  - >-
+    Summons a Gargoyle Minion for each ally. The Gargoyle Minion inherits 30% HP
+    and 20% attack for the caster.
+  - All allies’ health is boosted by 75 HP for each Minion owned by allies.
+types:
+  - Fiend Replacement
+  - Summoner
+passives:
+  - >-
+    Gargoyle’s Stoneskin - Every time this Gargoyle casts a Special Skill, their
+    Stoneskin hardens. The next damage they receive is dropped to 1. This effect
+    can’t be dispelled.
+image: https://i.imgur.com/nhYRyEk.jpg

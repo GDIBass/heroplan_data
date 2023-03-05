@@ -1,0 +1,32 @@
+name: Carver
+class: Rogue
+source: Season1
+speed: Average
+power: 444
+attack: 464
+defense: 448
+health: 653
+skill: Slash of the four Blades
+effects:
+  - Deals 125% damage to all enemies
+  - Reduces the mana of all enemies by 16%
+types:
+  - Hit All
+  - Mana Reduction
+image: https://i.imgur.com/DfWafQ3.jpg
+costume:
+  class: Fighter
+  power: 467
+  attack: 505
+  defense: 452
+  health: 708
+  skill: Stab of Four Blades
+  effects:
+    - Deals 125% damage to all enemies
+    - >-
+      All enemes get -24% mana generation for 3 turns. This effect can't be
+      cleansed
+  types:
+    - Hit All
+    - Mana Generation Debuff
+  image: https://i.imgur.com/xs9Nn7b.jpg

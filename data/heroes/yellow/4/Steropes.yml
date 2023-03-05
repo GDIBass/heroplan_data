@@ -1,0 +1,38 @@
+name: Steropes
+class: Cleric
+speed: Charge
+family: Styx
+source: Styx
+skill: Midnight Moon
+power: 685
+attack: 616
+defense: 737
+health: 1272
+effects:
+  - >-
+    Special Skill has a different effect when charged with 100% / 200% / 300%
+    mana:
+  - '1x Mana Charge:'
+  - >-
+    * All allies regenerate 324 boosted health over 3 turns. Boosted health can
+    exceed max HP.
+  - '2x Mana Charge:'
+  - >-
+    * If any ally dies during the next 3 turns they are resurrected in the
+    beginning of their next turn with 20% health. All status effects and stacks
+    are removed when the ally dies.
+  - '* 3x Mana Charge:'
+  - >-
+    * All allies regenerate 584 boosted health over 4 turns. Boosted health can
+    exceed max HP.
+  - >-
+    * If any ally dies during the next 4 turns they are resurrected in the
+    beginning of their next turn with 40% health. All status effects and stacks
+    are removed when the ally dies.
+types:
+  - Charge
+passives:
+  - >-
+    Duration of the defense status ailments this character receives from Special
+    Skills is decreased by 2 turns.
+image: https://i.imgur.com/JQkhZ6P.jpg

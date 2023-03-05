@@ -1,0 +1,14 @@
+name: Sharan
+class: Ranger
+source: Season1
+speed: Average
+power: 213
+attack: 168
+defense: 205
+health: 448
+skill: Minor Healing
+effects:
+  - Recovers 27% health for all allies
+types:
+  - Healer
+image: https://i.imgur.com/PC7yXFg.jpg
