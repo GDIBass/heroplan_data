@@ -1213,7 +1213,7 @@
   class: Barbarian
   speed: Fast
   source: Covenant
-  family: PlainsHunter
+  family: MonsterHunter
   power: 838
   attack: 831
   defense: 811
@@ -1349,8 +1349,8 @@
   attack: 799
   defense: 807
   health: 1479
-  family: PlainsHunter
-  source: PlainsHunter
+  family: MonsterHunter
+  source: MonsterHunter
   speed: Slow
   skill: Flail Swing
   effects:
@@ -1593,14 +1593,13 @@
   attack: 865
   defense: 795
   health: 1380
-  skill: Fury of the Silverback
+  skill: Fury of Silverback
   effects:
     - Deals 540% damage to the target.
-    - The damage is increased by 30% per each living ally of the caster.
     - "Stack (Max: 10): The caster gets +15% attack against the weaker element."
   types:
     - Hit 1
   passives:
-    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
-    - When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.
-  image: https://i.imgur.com/JJZKbFC.png
+    - Damage Over Time on Special - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
+    - Hunter’s Vigor - When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.
+  image: https://i.imgur.com/sBMiou9.jpg

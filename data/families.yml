@@ -304,10 +304,10 @@ families:
       - Bard Family supports other families and realms.
       - " * Solo Heroes get +5% mana generation. Team members are Solo Heroes if they have no family or realm members in the Team."
       - "The members of this family have additional perks in the Challenge Festival events."
-  plainshunter:
-    key: plainshunter
+  monsterhunter:
+    key: monsterhunter
     code: 65
-    description: Plains Hunter
+    description: Monster Hunter
     image: https://i.imgur.com/nHCW21A.png
     bonus:
       - "Bonus for 2/3/4/5 Heroes:"
@@ -396,19 +396,11 @@ families:
       - "MORALE BOOST"
       - "Heroes belonging to this family as well as Heroes fighting alongside them receive the following perks in War of the Three Kingdoms:"
       - "+10% attack, +3% defense, +7% health."
-  abysshunter:
-    key: abysshunter
-    code: 74
-    description: Abyss Hunter
-    image: https://i.imgur.com/lSJV05d.png
-    bonus:
-      - "Bonus for 2/3/4/5 Heroes:"
-      - "+5%/+10%/+15%/+20% defense."
   junglehunter:
     key: junglehunter
-    code: 75
+    code: 74
     description: Jungle Hunter
-    image: https://i.imgur.com/tWA3JlT.png
+    image: https://i.imgur.com/bp1I06m.png
     bonus:
       - "Bonus for 2/3/4/5 Heroes:"
       - "+5%/+10%/+15%/+20% HP."

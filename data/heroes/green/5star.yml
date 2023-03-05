@@ -1177,8 +1177,8 @@
   defense: 782
   health: 1429
   skill: Mantis Strike
-  family: PlainsHunter
-  source: PlainsHunter
+  family: MonsterHunter
+  source: MonsterHunter
   effects:
     - Deals 435% damage to the target.
     - Summons a Bone Trap Fiend for the target. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.
@@ -1216,8 +1216,8 @@
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/V0qUVNH.jpg
 - name: Hammertusk
-  family: PlainsHunter
-  source: PlainsHunter
+  family: MonsterHunter
+  source: MonsterHunter
   class: Barbarian
   speed: Average
   power: 837
@@ -1442,26 +1442,6 @@
     - Health Boost of Poison - Boosts health of this character and nearby allies by 2% for each enemy inflicted with Poison at the end of each turn. Boosted health can exceed max HP.
     - Resist Poison - This character has innate resistance against Poison.
   image: https://i.imgur.com/SWrRjRX.jpg
-- name: Staintongue
-  class: Paladin
-  speed: Fast
-  source: Covenant
-  family: PlainsHunter
-  power: 841
-  attack: 850
-  defense: 797
-  health: 1400
-  skill: Mallett Swing of the Beast
-  effects:
-    - Deals 330% damage to the target and nearby enemies.
-    - The target and nearby enemies get -30% accuracy for 3 turns. The accuracy decreases by -10% each turn, up to -50%.
-    - The target and nearby enemies receive 342 Poison damage over 3 turns.
-  types:
-    - Hit 3
-  passives:
-    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
-    - When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.
-  image: https://i.imgur.com/obJIXMO.jpg
 - name: Mistweaver
   class: Monk
   speed: Fast
@@ -1474,12 +1454,11 @@
   skill: Misty Punches
   effects:
     - Deals 350% damage to the target and nearby enemies.
-    - The target and nearby enemies resist healing and receive 220 damage per each resisted healing for 4 turns.
+    - The target and nearby enemies resist healing and receive 220 damage per each resisted healing for 3 turns.
     - "Stack (Max: 10): The caster gets +15% attack against the weaker element."
   types:
     - Hit 3
-    - Heal Immunity
   passives:
-    - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
-    - When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.
-  image: https://i.imgur.com/rURl6ju.png
+    - Damage Over Time on Special - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
+    - Hunter’s Vigor - When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.
+  image: https://i.imgur.com/F4ide5S.jpg
