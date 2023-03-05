@@ -21,7 +21,6 @@ You'll need to know the following things in order to contribute:
 2. How to use GNU image manipulator (or have the image file handy)
 3. YAML and what it looks like and how it works
 
-
 ## 1. File locations
 
 ### a. Image templates
@@ -35,23 +34,26 @@ Feel free to share these to whoever wants to be able to generate images.
 
 ### b. Hero information
 
-Hero information is separted by color.  Heroes for each color can be found in:
+Hero information is separted by color. Heroes for each color can be found in:
 
-``data/heroes/{color}/``
+``data/heroes/{color}/{stars}/``
 
-From there the files are separated out by stars (1star, 2star, 3star, etc).
+From there the files are separated in star folders (1-5), and each hero has its own file. The name of the file must
+exactly match the heroes name (with .yml at the end of the file).
 
 ## 2. Adding/updating heroes
 
 ### Adding hero data manually
 
 1. Create a hero image (if it doesn't exist or needs updating)
+
 * Open the template of the correct color
-* Paste in a screenshot of the hero into the editor and center it around their face, resizing if needed 
+* Paste in a screenshot of the hero into the editor and center it around their face, resizing if needed
 * Make the correct star layer/wrapper visible
 * Select the background of your image using the select tool
 * Colorize the background to the appropriate color
 * Export the image to the img/heroes directory as <heroname>.jpg or <heroname>costume.jpg
+
 2. Upload the image to imgur
 3. Copy the imgur link
 4. Add a hero to the appropriate file with the following keys:
@@ -61,6 +63,7 @@ From there the files are separated out by stars (1star, 2star, 3star, etc).
 name:
  * required string
  * The name of the hero
+ * Must match the filename (minus the .yml)
 class: required, one of Barbarian|Clerif|Druid|Fighter|Monk|Paladin|Ranger|Rogue|Sorcerer|Wizard
 source:
  * required, one of season1|season2|season3|hotm|fables|teltoc|avalon|wonderland|pirates|springvale|sand|morlovia|christmas|secret|ninja|villains
@@ -110,32 +113,40 @@ costume:
    * effects
    * types
    * bonuses: (optional, and supports 2/2/4/1 or 3/3/6/1)
+costume2:
+ * Identical to the costume selection but works for secondary costumes.
+ * This isn't used yet, but it will be used in the future.
 ```
 
-If you're adding a new family, source, speed or other appropriate config change please update those accordingly.  Eventually these will be updated dynamically.
+If you're adding a new family, source, speed or other appropriate config change please update those accordingly.
+Eventually these will be updated dynamically.
 
 ### Adding hero data semi automatically
 
-We now have a script to do some heavy lifting for you. 
+We now have a script to do some heavy lifting for you.
 
 #### Automated parts
-  0. Download and setup prerequisites:
+
+0. Download and setup prerequisites:
+
   ```
   pip install shot-scraper
   playwright install
   ```
 
-  1. Clone the repo
-  2. On a command line (use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) if on Windows), run
+1. Clone the repo
+2. On a command line (use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) if on Windows), run
+
  ```
  ./utils/scrapeHeroData <name of hero>
  ```
 
- For example:
+For example:
 
  ```
  ./utils/scrapeHeroData "Grace"
  ```
+
 This will create the following `herodata.yml` file in you `./tmp` folder and also download the hero image:
 
 ```
@@ -162,17 +173,17 @@ passives:
 image: <TODO>
 family: Legends 2022
 ```
-  3. Upload the hero image to imgur.com and update the `<herodata>.yaml` with the corresponding link.
-  4. Complete any remaining `<todo>` parts
-  5. Send a pull request with the new files.
+
+3. Upload the hero image to imgur.com and update the `<herodata>.yaml` with the corresponding link.
+4. Complete any remaining `<todo>` parts
+5. Send a pull request with the new files.
 
 ## Automated Validation & Failures
 
 When you submit a pull request an automated job will run through to make sure you've added the data correctly.
-If the job fails it should give a descriptive error of the problem.  Simply pull it up and fix the error!
+If the job fails it should give a descriptive error of the problem. Simply pull it up and fix the error!
 If you can't figure it out feel free to ping me on here, or the forums.
 
-
-The hero data is updated automatically every night at midnight PST.  This only applies to heroes currently.
+The hero data is updated automatically every night at midnight PST. This only applies to heroes currently.
 
 Eventually I'll also have the data updated on pull request, and include the entire configuration set.
