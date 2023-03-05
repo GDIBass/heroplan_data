@@ -442,7 +442,7 @@
   class: Barbarian
   speed: Very Slow
   source: Covenant
-  family: MonsterHunter
+  family: PlainsHunter
   power: 487
   attack: 526
   defense: 477

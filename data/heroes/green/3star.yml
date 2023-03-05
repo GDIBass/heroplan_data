@@ -460,8 +460,8 @@
     - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/WJOazL8.jpg
 - name: Fianna
-  family: MonsterHunter
-  source: MonsterHunter
+  family: PlainsHunter
+  source: PlainsHunter
   class: Ranger
   speed: Average
   power: 484
