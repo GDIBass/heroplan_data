@@ -403,7 +403,7 @@ families:
     image: https://i.imgur.com/lSJV05d.png
     bonus:
       - "Bonus for 2/3/4/5 Heroes:"
-      - "+5%/+10%/+15%/+20% HP."
+      - "+5%/+10%/+15%/+20% defense."
   junglehunter:
     key: junglehunter
     code: 75
