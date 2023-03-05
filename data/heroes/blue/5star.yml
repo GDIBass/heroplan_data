@@ -1351,7 +1351,7 @@
   image: https://i.imgur.com/9IVPXvc.jpg
 - name: Waterpipe
   family: PlainsHunter
-  source: PlainsHunter
+  source: Covenant
   class: Fighter
   speed: Average
   power: 837
