@@ -1213,7 +1213,7 @@
   class: Barbarian
   speed: Fast
   source: Covenant
-  family: MonsterHunter
+  family: PlainsHunter
   power: 838
   attack: 831
   defense: 811
@@ -1349,8 +1349,8 @@
   attack: 799
   defense: 807
   health: 1479
-  family: MonsterHunter
-  source: MonsterHunter
+  family: PlainsHunter
+  source: Covenant
   speed: Slow
   skill: Flail Swing
   effects:
@@ -1593,9 +1593,10 @@
   attack: 865
   defense: 795
   health: 1380
-  skill: Fury of Silverback
+  skill: Fury of the Silverback
   effects:
     - Deals 540% damage to the target.
+    - The damage is increased by 30% per each living ally of the caster.
     - "Stack (Max: 10): The caster gets +15% attack against the weaker element."
   types:
     - Hit 1

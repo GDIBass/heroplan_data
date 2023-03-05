@@ -1307,7 +1307,7 @@
 - name: Adalinda
   class: Paladin
   speed: Average
-  family: MonsterHunter
+  family: PlainsHunter
   source: Covenant
   power: 838
   attack: 753
@@ -1350,8 +1350,8 @@
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/9IVPXvc.jpg
 - name: Waterpipe
-  family: MonsterHunter
-  source: MonsterHunter
+  family: PlainsHunter
+  source: Covenant
   class: Fighter
   speed: Average
   power: 837

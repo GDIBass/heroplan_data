@@ -562,7 +562,7 @@
   class: Monk
   speed: Average
   source: Covenant
-  family: MonsterHunter
+  family: PlainsHunter
   power: 684
   attack: 656
   defense: 673
