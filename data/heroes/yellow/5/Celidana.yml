@@ -1,0 +1,28 @@
+name: Celidana
+class: Cleric
+speed: Slow
+source: Hotm
+family: 2022
+power: 807
+attack: 729
+defense: 793
+health: 1470
+skill: Sacrament of Salvation
+effects:
+  - >-
+    Boosts health of the caster and nearby allies by 800. Boosted health can
+    exceed max HP.
+  - >-
+    The caster and nearby allies get +50% defense as long as caster has boosted
+    health. This effect can’t be dispelled.
+  - The caster and nearby allies resist max health reduction for 5 turns.
+  - Element Link gives all Nature allies immunity to new Fiends for 4 turns.
+types:
+  - Health Boost
+  - Defense Buff
+passives:
+  - This character has innate resistance against max health reduction.
+  - >-
+    When an enemy casts their Special Skill, this character has a 50% chance to
+    boost this character’s health by 100.
+image: https://i.imgur.com/fzHIBe5.jpg

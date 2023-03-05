@@ -1,0 +1,17 @@
+name: Peters
+class: Rogue
+source: Pirates
+speed: Fast
+power: 645
+attack: 643
+defense: 641
+health: 1113
+skill: Buccaneers Blade
+effects:
+  - Deals 320% damage to the target
+  - The target gets silenced for 3 turns
+types:
+  - Hit 1
+  - Silence
+family: Corellia
+image: https://i.imgur.com/aPVBzpo.jpg

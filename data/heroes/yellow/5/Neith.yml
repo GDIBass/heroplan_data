@@ -1,0 +1,28 @@
+name: Neith
+class: Ranger
+source: Hotm
+speed: Average
+power: 770
+attack: 735
+defense: 737
+health: 1299
+skill: Sickle of Eradication
+effects:
+  - Deals 150% damage to all enemies
+  - Reduces the mana of all enemies by 10%
+  - >-
+    All enemies get -35% accuracy for 4 turns. Chance to miss also applies to
+    offensive Special Skills
+  - >-
+    Elemental link gives +4% mana generation for all Holy allies for 4 turns.
+    This effect cannot be dispelled.
+types:
+  - Hit All
+  - Mana Reduction
+  - Blind
+passives:
+  - >-
+    This hero has an innate ability to resist status ailments that Stop Mana
+    Generation
+image: https://i.imgur.com/5p5UjK8.jpg
+family: 2019

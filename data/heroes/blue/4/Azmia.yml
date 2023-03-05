@@ -1,0 +1,26 @@
+name: Azmia
+source: Season5
+class: Monk
+family: Moon
+speed: Average
+power: 683
+attack: 584
+defense: 745
+health: 1326
+skill: Counterstance
+effects:
+  - Recovers 15% health for all allies.
+  - >-
+    The caster and nearby allies counterattack with 100% of the damage received
+    for 4 turns. The damage of the counterattack increases by +5% with each
+    counterattack, maxing out at 130%.
+types:
+  - Heal All
+  - Counterattack
+passives:
+  - >-
+    Effects on Special Skill - 60% chance to perform the following actions when
+    this character casts their Special Skill:
+  - '* Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+  - '* Cleanses the latest cleansable status ailments from all allies.'
+image: https://i.imgur.com/VnnI4Om.jpg

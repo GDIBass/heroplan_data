@@ -1,0 +1,24 @@
+name: Louhi
+class: Monk
+speed: Average
+family: Kalevala
+source: Kalevala
+power: 827
+attack: 815
+defense: 774
+health: 1430
+skill: Feather Tempest
+effects:
+  - Dispels buffs from all enemies.
+  - Deals 215% damage to all enemies.
+  - >-
+    All enemies get -24% defense for 4 turns. Against Holy characters, this
+    status effect becomes uncleansable and last 2 turns longer.
+types:
+  - Dispel all
+  - Hit all
+passives:
+  - >-
+    When this character starts a turn with low health for the first time during
+    a battle, they recover 15% health and receive 15% mana.
+image: https://i.imgur.com/RQWKyOA.jpg

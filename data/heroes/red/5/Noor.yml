@@ -1,0 +1,26 @@
+name: Noor
+class: Druid
+source: Hotm
+speed: Slow
+power: 774
+attack: 704
+defense: 782
+health: 1314
+skill: Sparrow Fury
+effects:
+  - >-
+    Summons a Sparrow Minion for each ally. The Sparrow Minion inherits 25% HP
+    and 25% attack from the caster
+  - Before Sparrow Minion hits target, it destroys all Minions from the target.
+  - >-
+    Element Link gives all Fire allies +30% defense against Special Skills for 4
+    turns. This effect can't be cleansed.
+types:
+  - Summoner
+  - Destroy Minions
+passives:
+  - >-
+    Summons a Sparrow Minion for self when an enemy summons any Minions by
+    Special Skill.
+image: https://i.imgur.com/GEznO1b.jpg
+family: 2020

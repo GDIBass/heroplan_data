@@ -1,0 +1,33 @@
+name: Chao
+class: Ranger
+source: Season1
+speed: Fast
+power: 642
+attack: 607
+defense: 675
+health: 1115
+skill: Tactical Cut
+effects:
+  - Deals 315% damage to the target
+  - Reduces the mana of the target by 25%
+types:
+  - Hit 1
+  - Mana Reduction
+image: https://i.imgur.com/akseq6D.jpg
+costume:
+  class: Druid
+  power: 677
+  attack: 673
+  defense: 680
+  health: 1189
+  skill: Ornithological Cut
+  effects:
+    - Deals 275% damage to the target.
+    - >-
+      The caster steals generated mana of the target over 4 turns starting low
+      and increasing every turn until on the last turn all the generated mana is
+      stolen. This effect can't be cleansed, but it gets remoed if the caster
+      dies.
+  types:
+    - Hit 1
+  image: https://i.imgur.com/iiLBfC1.jpg

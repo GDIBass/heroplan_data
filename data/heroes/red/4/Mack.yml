@@ -1,0 +1,23 @@
+name: Mack
+class: Fighter
+source: Season4
+speed: Average
+power: 677
+attack: 646
+defense: 686
+health: 1247
+skill: Halfling's Wit
+effects:
+  - >-
+    The caster and nearby allies counterattack with 125% of the damage received
+    for 4 turns.
+  - The caster and nearby allies get +25% attack for 4 turns.
+types:
+  - Counterattack
+  - Attack Buff
+family: Underwild
+passives:
+  - >-
+    Duration of the first 3 buffs this hero receives from Special Skills is
+    increased by 1 turn
+image: https://i.imgur.com/nafpwvj.jpg

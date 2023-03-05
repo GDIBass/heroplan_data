@@ -1,0 +1,24 @@
+name: Jarif
+source: Season5
+class: Wizard
+family: Moon
+speed: Average
+power: 483
+attack: 507
+defense: 408
+health: 908
+skill: Disabling Decree
+effects:
+  - Deals 335% damage to the target.
+  - >-
+    The target is immune to new status effect buffs for 3 turns, and receives 70
+    damage for each attempted buff.
+types:
+  - Hit 1
+passives:
+  - >-
+    Effects on Special Skill - 60% chance to perform the following actions when
+    this character casts their Special Skill:
+  - '* Deals 70% damage to all enemies.'
+  - '* All enemies get -24% mana generation for 3 turns.'
+image: https://i.imgur.com/ntCu0sS.jpg

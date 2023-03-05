@@ -1,0 +1,19 @@
+name: Fenrir
+class: Fighter
+source: Season3
+speed: Fast
+power: 785
+attack: 780
+defense: 737
+health: 1297
+skill: Gargantuan Bite
+effects:
+  - Deals 320% damage to the target.
+  - Deals 640% damage if the target has less than 50% health remaining.
+  - >-
+    The caster gains a moderate amount of mana for each enemy killed and a small
+    amount of mana for each enemy minion killed.
+types:
+  - Hit 1
+family: Niflheim
+image: https://i.imgur.com/jTbJkeI.jpg

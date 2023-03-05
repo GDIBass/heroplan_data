@@ -1,0 +1,21 @@
+name: Mitsuko
+class: Sorcerer
+source: Season2
+speed: Average
+power: 775
+attack: 696
+defense: 727
+health: 1450
+skill: Mirror of Flames
+effects:
+  - Deals 245% damage to the target and nearby enemies
+  - Reduces the mana of the target and nearby enemies by 20%
+  - >-
+    All allies reflect all status effects and 115% damage from Ice Special
+    Skills back to the attacker for 4 turns
+types:
+  - Hit 3
+  - Mana Reduction
+  - Reflect Specials
+family: Sakura
+image: https://i.imgur.com/xMxFVwW.jpg

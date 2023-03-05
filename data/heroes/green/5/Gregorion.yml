@@ -1,0 +1,18 @@
+name: Gregorion
+class: Ranger
+source: Hotm
+speed: Average
+power: 768
+attack: 729
+defense: 710
+health: 1351
+skill: Unwavering Focus
+effects:
+  - All allies get +30% critical chance for 3 turns
+  - >-
+    Element Link gives all Nature allies +5% attack and +5% defense for 6 turns.
+    This effect can't be cleansed
+types:
+  - Critical Hit Buff
+family: 2018
+image: https://i.imgur.com/Vz5Hvbn.jpg

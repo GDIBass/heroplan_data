@@ -1,0 +1,14 @@
+name: Zudak
+class: Barbarian
+source: Season1
+speed: Average
+power: 336
+attack: 312
+defense: 359
+health: 587
+skill: Tackle
+effects:
+  - Deals 200% damage to the target and minor damage to nearby enemies
+types:
+  - Hit 3
+image: https://i.imgur.com/O3JN2m9.jpg

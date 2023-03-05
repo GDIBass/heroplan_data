@@ -1,0 +1,14 @@
+name: Sha Ji
+class: Cleric
+source: Season1
+speed: Average
+power: 334
+attack: 275
+defense: 345
+health: 693
+skill: Healing Chant
+effects:
+  - Recovers 28% health for all allies
+types:
+  - Healer
+image: https://i.imgur.com/OCarZIF.jpg

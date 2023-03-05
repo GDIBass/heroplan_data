@@ -1,0 +1,14 @@
+name: Tudan
+class: Rogue
+source: Season1
+speed: Fast
+power: 210
+attack: 208
+defense: 200
+health: 336
+skill: Backstab
+effects:
+  - Deals 265% damage to the target
+types:
+  - Hit 1
+image: https://i.imgur.com/cL8WR2O.jpg

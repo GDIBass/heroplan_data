@@ -1,0 +1,24 @@
+name: Octros
+class: Fighter
+source: Season4
+speed: Average
+power: 810
+attack: 762
+defense: 797
+health: 1396
+skill: The Hallowed Blade
+effects:
+  - Deals 180% damage to all enemies.
+  - >-
+    Deals 20% additional damage per each Fire shield on the board, up to 340%
+    damage in total.
+  - All enemies get -24% attack for 3 turns.
+types:
+  - Hit all
+  - Attack Debuff
+passives:
+  - >-
+    Duration of the first 3 buffs this hero receives from Special Skills is
+    increased by 1 turn.
+family: Underwild
+image: https://i.imgur.com/zGSnaa1.jpg

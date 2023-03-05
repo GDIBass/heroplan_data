@@ -1,0 +1,26 @@
+name: Theobald
+class: Monk
+source: Starfall
+speed: Slow
+power: 803
+attack: 735
+defense: 803
+health: 1404
+skill: Multi-Throw
+effects:
+  - >-
+    Deals 375% damage to the enemy with the highest remaining HP. Deals 260%
+    damage to all other enemies.
+  - >-
+    All allies reflect all status effects and 115% damage back to the attacker
+    and block other negative effects from enemies' Nature Special Skills for 4
+    turns.
+  - >-
+    All allies get +45% attack, and a further increase of +20% every time they
+    are hit, for 4 turns.
+types:
+  - Hit All
+  - Attack Buff
+  - Reflect
+family: Starfall
+image: https://i.imgur.com/z0VwSFd.jpg

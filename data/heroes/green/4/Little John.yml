@@ -1,0 +1,34 @@
+name: Little John
+class: Barbarian
+source: Season1
+speed: Slow
+power: 641
+attack: 741
+defense: 569
+health: 988
+skill: Massive Chop
+effects:
+  - Deals 185% damage to all enemies
+  - All enemies get -64% mana generation for 3 turns
+types:
+  - Hit All
+  - Mana Generation Debuff
+image: https://i.imgur.com/nRRdXVw.jpg
+costume:
+  class: Ranger
+  power: 676
+  attack: 756
+  defense: 624
+  health: 1086
+  skill: Massive Cleave
+  effects:
+    - Deals 185% damage to all enemies
+    - >-
+      The caster and nearby allies have from +30% to +30% chance of dodging
+      special attacks that do damage.  The higher the damage from the special
+      is, the higher the chance to dodge it. Each dodge gives a moderate amount
+      of mana to the target. The effect lasts for 4 turns.
+  types:
+    - Hit All
+    - Dodge Buff
+  image: https://i.imgur.com/OZPuj5P.jpg

@@ -1,0 +1,26 @@
+name: Malosi
+class: Barbarian
+source: Hotm
+speed: Very Fast
+power: 771
+attack: 743
+defense: 729
+health: 1303
+skill: Power Punch
+effects:
+  - Deals 300% damage to the target.
+  - >-
+    The target cannot cast any new status effects or stacks on enemies or allies
+    for 3 turns.
+  - >-
+    Element Link gives all Holy allies +10% critical chance for 6 turns. This
+    effect can't be cleansed.
+types:
+  - Hit 1
+  - Status Effect Block
+passives:
+  - >-
+    The hero has an innate ability to resist status ailments that affect
+    Defense. Doesn't apply to status ailments that affect elemental defense.
+image: https://i.imgur.com/ttNHqjc.jpg
+family: 2020

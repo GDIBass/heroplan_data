@@ -1,0 +1,14 @@
+name: Ragnhild
+class: Fighter
+source: Season1
+speed: Average
+power: 334
+attack: 369
+defense: 305
+health: 538
+skill: Fierce Slash
+effects:
+  - Deals 115% damage to all enemies
+types:
+  - Hit All
+image: https://i.imgur.com/safl82B.jpg

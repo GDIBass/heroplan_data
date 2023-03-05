@@ -1,0 +1,29 @@
+name: Yang Mai
+class: Monk
+source: HotM
+speed: Fast
+power: 790
+attack: 743
+defense: 762
+health: 1369
+skill: Flaming Fury
+effects:
+  - Deals 280% damage to the target.
+  - >-
+    Has a 50% chance for additional hits on random enemies up to 4 times.
+    Additional hits deal minor damage.
+  - 'The caster gains the following status effect each hit:'
+  - 'Stack: The caster gets +5% attack. The maximum size of stack is 10.'
+  - >-
+    Element Link gives all Fire allies small amount of mana at the end of the
+    turn for 4 turns. This effect can't be dispelled.
+types:
+  - Hit 1
+  - Stack
+passives:
+  - >-
+    Receives the following status effect when mana is reduced: The caster gets
+    +30% attack for 3 turns
+  - This Hero has innate resistance against Water damage
+image: https://i.imgur.com/vzzuVpu.jpg
+family: 2021

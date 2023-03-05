@@ -1,0 +1,29 @@
+name: Anzia
+class: Cleric
+source: SuperElemental
+family: SuperElemental
+speed: Average
+power: 841
+attack: 762
+defense: 780
+health: 1654
+skill: Radiant Comeback
+effects:
+  - >-
+    All allies counterattack with 75% of the damage received, and a further 7%
+    increase per each Ice shield on the board for 5 turns, up to 159% damage in
+    total.
+  - >-
+    All Ice allies regenerate a moderate amount of mana for each counterattack
+    for 5 turns. This effect gets diminished for consecutive activations during
+    the same turn.
+types:
+  - Counterattack
+passives:
+  - >-
+    Passive Skill as an attacking character: This character’s Troops deal 100%
+    more additional damage against weaker element.
+  - >-
+    Passive Skill as a defending character: This character receives 10% less
+    additional damage from Troops of stronger element.
+image: https://i.imgur.com/9igBdFq.jpg

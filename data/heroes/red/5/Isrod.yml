@@ -1,0 +1,23 @@
+name: Isrod
+class: Paladin
+source: Villains
+speed: Average
+power: 804
+attack: 758
+defense: 766
+health: 1423
+skill: Vengeful Strike
+effects:
+  - Deals 260% damage to the target and nearby enemies.
+  - >-
+    The caster and nearby allies counterattack with 110% of received damage for
+    3 turns.
+  - >-
+    The caster and nearby allies regenerate a small amount of mana for each
+    counterattack. The effect gets diminished for consecutive counterattacks
+    during the same turn.
+types:
+  - Hit 3
+  - Counterattack
+family: Villains
+image: https://i.imgur.com/LVoPJQp.jpg

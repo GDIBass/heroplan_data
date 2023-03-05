@@ -1,0 +1,28 @@
+name: Boril
+class: Cleric
+source: Season1
+speed: Average
+power: 643
+attack: 501
+defense: 792
+health: 1151
+skill: Perfect Riposte
+effects:
+  - >-
+    The caster and nearby allies counterattack with 125% of the damage received
+    for 5 turns
+types:
+  - Riposte
+image: https://i.imgur.com/jFkMrWZ.jpg
+costume:
+  class: Paladin
+  power: 679
+  attack: 504
+  defense: 851
+  health: 1287
+  skill: Sturdy Riposte
+  effects:
+    - All allies counterattack with 60^ of the damage received for 4 turns
+  types:
+    - Riposte
+  image: https://i.imgur.com/p8PKYHQ.jpg

@@ -1,0 +1,30 @@
+name: Brienne
+class: Druid
+source: Season1
+speed: Average
+power: 440
+attack: 446
+defense: 448
+health: 674
+skill: Berserker Fury
+effects:
+  - >-
+    All allies get +45% attack and a further 20% increase every time they are
+    hit during 5 turns
+types:
+  - Attack Buff
+image: https://i.imgur.com/sdXIZmv.jpg
+costume:
+  class: Cleric
+  power: 465
+  attack: 466
+  defense: 468
+  health: 751
+  skill: Jungle Fury
+  effects:
+    - >-
+      All enemies get -41% defense and a further -4% decrease every time they
+      are hit for 4 turns
+  types:
+    - Defense Debuff
+  image: https://i.imgur.com/ig1RoGx.jpg

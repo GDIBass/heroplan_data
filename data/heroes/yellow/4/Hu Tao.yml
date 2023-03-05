@@ -1,0 +1,35 @@
+name: Hu Tao
+class: Fighter
+source: Season1
+speed: Slow
+power: 638
+attack: 603
+defense: 631
+health: 1183
+skill: Sonic Wall
+effects:
+  - Deals 210% damage to all enemies
+  - All enemies get -40% accuracy for 4 turns
+  - Chance to miss also applies to offensive special skills
+types:
+  - Hit All
+  - Blind
+image: https://i.imgur.com/uyASMQ6.jpg
+costume:
+  class: Paladin
+  power: 674
+  attack: 581
+  defense: 744
+  health: 1268
+  skill: Aura Wave
+  effects:
+    - Deals 160% damage to all enemies
+    - >-
+      All enemies get -30% accuracy for 4 turns. Chance to miss also applies to
+      offensive Special SKills
+    - >-
+      All enemies get -50% decrease for any healing received for 4 turns. This
+      effect can't be cleansed
+  types:
+    - Hit all
+  image: https://i.imgur.com/vPJgzTp.jpg

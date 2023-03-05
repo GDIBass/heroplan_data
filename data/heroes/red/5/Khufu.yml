@@ -1,0 +1,27 @@
+name: Khufu
+class: Monk
+source: Season5
+family: Sun
+speed: Slow
+power: 833
+attack: 795
+defense: 776
+health: 1520
+skill: Perplexing Riddle
+effects:
+  - Deals 350% damage to the target.
+  - The attack chains through all the enemies who are adjacent to any hit enemy.
+  - >-
+    The target gets -41% defense against Fire, and further -4% decrease every
+    time they are hit during 4 turns.
+types:
+  - Hit 1
+  - Chain
+  - Elemental Defense Debuff
+passives:
+  - >-
+    Effects on Special Skill - 70% chance to perform the following actions when
+    this character casts their Special Skill
+  - '* Deals 70% damage to all enemies.'
+  - '* All enemies receive 246 Sand damage over 3 turns.'
+image: https://i.imgur.com/waF0HXl.jpg

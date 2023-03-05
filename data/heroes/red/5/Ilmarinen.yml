@@ -1,0 +1,29 @@
+name: Ilmarinen
+class: Fighter
+speed: Slow
+family: Kalevala
+source: Kalevala
+power: 825
+attack: 756
+defense: 819
+health: 1472
+skill: Forged in Fire
+effects:
+  - >-
+    Reduces the mana of all Ice enemies by 40%. Reduces the mana of all other
+    enemies by 20%.
+  - >-
+    All enemies share received damage with each other for 4 turns. This status
+    effect is undispellable and lasts 2 turns longer on Ice characters.
+  - >-
+    All enemies get -56% defense for 4 turns. Against ice characters, this
+    status effect becomes uncleansable and lasts 2 turns longer.
+types:
+  - Mana reduction
+  - Damage sharing
+  - Defense debuff
+passives:
+  - >-
+    When this character starts a turn with low health for the first time during
+    a battle, they recover 15% health and receive 15% mana.
+image: https://i.imgur.com/WriV7pU.jpg

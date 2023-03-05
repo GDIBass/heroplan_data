@@ -1,0 +1,26 @@
+name: Rufus
+source: Pets
+family: Pets
+class: Barbarian
+speed: Slow
+power: 484
+attack: 502
+defense: 467
+health: 808
+skill: Furry Logger's Swing
+effects:
+  - Deals 210% damage to all enemies.
+  - All enemies receive 216 Bleed damage over 4 turns.
+  - All enemies get -34% defense for 4 turns.
+types:
+  - Hit all
+  - Dot all
+  - Defense Debuff
+passives:
+  - >-
+    When a Minion is summoned to any ally, this character gains 5% health and 5%
+    mana. This effect can activate only once per turn.
+  - >-
+    When a Fiend is summoned to any enemy, this character deals 85% damage to
+    all enemies. This effect can activate only once per turn.
+image: https://i.imgur.com/nTxGQkg.jpg

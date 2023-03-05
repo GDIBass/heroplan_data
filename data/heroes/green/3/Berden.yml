@@ -1,0 +1,30 @@
+name: Berden
+class: Ranger
+source: Season1
+speed: Fast
+power: 444
+attack: 470
+defense: 425
+health: 688
+skill: Entangling Shot
+effects:
+  - Deals 325% damage to the target
+  - The target gets -34% attack for 6 turns
+types:
+  - Hot 1
+  - Attack Debuff
+image: https://i.imgur.com/VjExjHL.jpg
+costume:
+  class: Barbarian
+  power: 468
+  attack: 457
+  defense: 475
+  health: 787
+  skill: Crushing Shot
+  effects:
+    - Deals 325% damage to the target
+    - The target gets -34% defense for 6 turns
+  types:
+    - Hit 1
+    - Defense Debuff
+  image: https://i.imgur.com/H6Orhln.jpg

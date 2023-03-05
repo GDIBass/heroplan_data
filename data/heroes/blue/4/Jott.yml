@@ -1,0 +1,20 @@
+name: Jott
+class: Barbarian
+source: Season3
+speed: Slow
+power: 664
+attack: 720
+defense: 607
+health: 1126
+skill: Ice Boom
+effects:
+  - Deals 200% damage to all enemies.
+  - >-
+    All Ice shields on the board become enhanced. Enhanced shields have +64%
+    attack when casted from attacker side and -57% attack when cast from
+    defender side.
+types:
+  - Hit All
+  - Tile Enhancer
+family: Jotunheim
+image: https://i.imgur.com/f9Anp7W.jpg

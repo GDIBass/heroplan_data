@@ -1,0 +1,25 @@
+name: Anzogh
+class: Wizard
+source: Hotm
+speed: Average
+power: 770
+attack: 698
+defense: 793
+health: 1279
+skill: Flaming Grudge
+effects:
+  - Deals 215% damage to all enemies
+  - Heals each ally with 20% of total damage dealt
+  - >-
+    Element Link gives all Fire allies +46% defense against Ice for 4 turns.
+    This effect can't be cleansed
+types:
+  - Healer
+  - Hit All
+passives:
+  - >-
+    The hero has an innate ability to resist status ailments that affect Mana
+    Generation. Doesn't apply to status ailments that stop mana generation or
+    steal mana.
+image: https://i.imgur.com/1Kkc15H.jpg
+family: 2019

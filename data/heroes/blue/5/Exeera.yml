@@ -1,0 +1,21 @@
+name: Exeera
+class: Barbarian
+source: Season4
+speed: Average
+power: 813
+attack: 791
+defense: 776
+health: 1390
+skill: Saturated Suffering
+effects:
+  - >-
+    All enemies receive 237 Water damage, and an increase of 33 damage per each
+    Ice shield on the board over 3 turns, up to 633 damage. This effect is
+    uncleansable for all Fire enemies.
+  - All Ice enemies are immune to this attack
+types:
+  - Dot All
+family: Underwild
+passives:
+  - This Hero receives 20% mana at the start of the battle.
+image: https://i.imgur.com/UnO1gz8.jpg

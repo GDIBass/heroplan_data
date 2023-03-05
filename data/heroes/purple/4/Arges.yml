@@ -1,0 +1,31 @@
+name: Arges
+speed: Charge
+class: Wizard
+family: Styx
+source: Styx
+power: 685
+attack: 663
+defense: 637
+health: 1357
+skill: Potion Cocktail
+effects:
+  - >-
+    Special Skill has a different effect when charged with 100% / 200% / 300%
+    mana:
+  - '1x Mana Charge:'
+  - '* Deals 165% damages to the target and nearby enemies.'
+  - '* The caster and nearby allies get +30% attack for 3 turns.'
+  - '2x Mana Charge:'
+  - '* Deals 215% damages to the target and nearby enemies.'
+  - '* The target and nearby enemies get -34% defense for 3 turns.'
+  - '3x Mana Charge:'
+  - '* Deals 365% damages to the target and nearby enemies.'
+  - '* The caster and nearby allies get +50% attack for 3 turns.'
+  - '* The target and nearby enemies get -44% defense for 3 turns.'
+types:
+  - Charge
+passives:
+  - >-
+    Duration of the defense status ailments this character receives from Special
+    Skills is decreased by 2 turns.
+image: https://i.imgur.com/yK7UFvQ.jpg

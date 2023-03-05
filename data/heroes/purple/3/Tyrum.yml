@@ -1,0 +1,30 @@
+name: Tyrum
+class: Paladin
+source: Season1
+speed: Fast
+power: 441
+attack: 387
+defense: 422
+health: 879
+skill: Piercing Hit
+effects:
+  - Deal 310% damage to the target
+  - Dispels buffs from all enemies
+types:
+  - Hit 1
+  - Dispeller
+image: https://i.imgur.com/HKuMtXT.jpg
+costume:
+  class: Rogue
+  power: 465
+  attack: 415
+  defense: 446
+  health: 933
+  skill: Purifying Hit
+  effects:
+    - Deal 310% damage to the target
+    - Cleanses status ailments from all allies
+  types:
+    - Hit 1
+    - Cleanser
+  image: https://i.imgur.com/Rir8owz.jpg

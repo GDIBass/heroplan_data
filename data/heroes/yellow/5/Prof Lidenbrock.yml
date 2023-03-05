@@ -1,0 +1,25 @@
+name: Prof Lidenbrock
+class: Cleric
+source: Season4
+speed: Slow
+power: 806
+attack: 745
+defense: 807
+health: 1394
+skill: Glorious Grace
+effects:
+  - Cleanses status ailments from all allies.
+  - >-
+    Boosts health of all allies by 200. If health exceeds max HP, it is added as
+    temporary HP.
+  - >-
+    All allies' health is boosted by 600 HP over 4 turns. The effect duration is
+    reset if the target receives status ailments
+types:
+  - Health Boost
+  - HOT
+  - Cleanse All
+family: Underwild
+passives:
+  - This Hero receives 20% mana at the start of the battle.
+image: https://i.imgur.com/1q7ZFV3.jpg

@@ -1,0 +1,25 @@
+name: Zekena
+class: Barbarian
+source: Season4
+speed: Fast
+power: 812
+attack: 801
+defense: 756
+health: 1396
+skill: Swift Stingers
+effects:
+  - Deals 300% damage to the target.
+  - >-
+    Deals 450% damage to a random target enemy. Deals extra damage if ther
+    target is Dark.
+  - The target of the second hit gets -56% defense for 3 turns.
+types:
+  - Hit 1
+  - Bounce
+  - Defense Debuff
+passives:
+  - >-
+    Duration of the first 3 buff this hero receives from Special Skills is
+    increased by 1 turn.
+family: Underwild
+image: https://i.imgur.com/hsqxizP.jpg

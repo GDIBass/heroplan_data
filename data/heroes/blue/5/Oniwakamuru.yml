@@ -1,0 +1,29 @@
+name: Oniwakamuru
+class: Monk
+source: Ninja
+family: Ninja
+speed: Charge
+power: 841
+attack: 714
+defense: 867
+health: 1602
+skill: Standing Fortress
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - ' - Boosts health of caster by 390. Boosted health can exceed max HP.'
+  - ' - The caster gets Taunt that prevents enemies from using Special Skill on the caster’s allies for 2 turns. This effect can’t be dispelled.'
+  - ' - The caster counterattacks with 50% of the damage received for 2 turns.'
+  - 'x2 Mana Charge:'
+  - ' - Boosts health of caster by 490. Boosted health can exceed max HP.'
+  - ' - The caster gets Taunt that prevents enemies from using Special Skill on the caster’s allies for 3 turns. This effect can’t be dispelled.'
+  - ' - The caster counterattacks with 105% of the damage received for 3 turns.'
+  - 'x3 Mana Charge:'
+  - ' - Boosts health of caster by 540. Boosted health can exceed max HP.'
+  - ' - The caster gets Taunt that prevents enemies from using Special Skill on the caster’s allies for 4 turns. This effect can’t be dispelled.'
+  - ' - The caster counterattacks with 133% of the damage received for 3 turns.'
+types:
+  - Healer
+  - Taunt
+  - Counterattack
+image: https://i.imgur.com/TgO9p2o.jpg

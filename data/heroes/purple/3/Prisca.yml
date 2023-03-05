@@ -1,0 +1,30 @@
+name: Prisca
+class: Paladin
+source: Season1
+speed: Average
+power: 446
+attack: 413
+defense: 464
+health: 761
+skill: Bleeding Stab
+effects:
+  - Deals 235% damage to the target
+  - Heals the caster for 50% of damage dealt
+types:
+  - Hit 1
+  - Heal Self
+image: https://i.imgur.com/IoRPZNA.jpg
+costume:
+  class: Fighter
+  power: 470
+  attack: 415
+  defense: 466
+  health: 930
+  skill: Bleeding Thrust
+  effects:
+    - Deals 205% damage to the target and minor damage to nearby enemies
+    - Heals the caster for 30% of the damage dealt
+  types:
+    - Hit 3
+    - Heal Self
+  image: https://i.imgur.com/q3Ddqi6.jpg

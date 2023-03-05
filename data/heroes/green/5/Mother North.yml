@@ -1,0 +1,40 @@
+name: Mother North
+class: Cleric
+source: Christmas
+speed: Slow
+power: 770
+attack: 605
+defense: 819
+health: 1462
+skill: Super Porridge
+effects:
+  - Recovers 30% health for all allies
+  - Each fallen ally has a 50% chance to get revived with 10% HP
+  - >-
+    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited
+    from the caster
+types:
+  - Healer
+  - Reviver
+  - Summoner
+family: Christmas
+image: https://i.imgur.com/463IXXp.jpg
+costume:
+  class: Monk
+  power: 787
+  attack: 596
+  defense: 846
+  health: 1552
+  skill: Hyper Porridge
+  effects:
+    - Each fallen ally has a 55% chance to get revived with 15% HP.
+    - >-
+      Summons an Elf Minion for each ally with 10% HP and 10% attack inherited
+      from he caster.
+    - All allies regenerate 612 HP over 4 turns.
+  types:
+    - Revive
+    - Summoner
+    - HoT All
+  image: https://i.imgur.com/0QsTiw8.jpg
+  bonuses: 2/2/4/1

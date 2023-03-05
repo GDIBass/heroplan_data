@@ -1,0 +1,25 @@
+name: Cillian
+class: Fighter
+source: Slayers
+speed: Slow
+power: 677
+attack: 631
+defense: 682
+health: 1292
+skill: Reanimated Spite
+effects:
+  - Deals 315% damage to the target and nearby enemies.
+  - >-
+    If the caster dies during the next 4 turns they are resurrected in the
+    beginning of their next turn with 27% health. All status effects and stacks
+    are removed when the caster dies.
+  - 'Stack (Max: 10): The caster gets +5% mana generation.'
+  - 'Sack +2 (Max: 10): The caster recovers 20 HP each turn.'
+types:
+  - Hit 3
+  - Resurrect
+  - Stack
+family: Slayer
+passives:
+  - Damage caused by status ailments reduced by -50%
+image: https://i.imgur.com/ema4TPc.jpg

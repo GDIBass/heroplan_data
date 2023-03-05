@@ -1,0 +1,21 @@
+name: Ludwig
+class: Paladin
+source: Knights
+speed: Slow
+power: 816
+attack: 723
+defense: 844
+health: 1442
+skill: Fullmetal Pelt
+effects:
+  - >-
+    The caster gets Taunt that prevents enemies from using Special Skills on the
+    caster's allies for 6 turns.
+  - The caster gets +84% defense against Special Skills for 6 turns.
+  - >-
+    Nearby allies receive mana each turn for 6 turns. Received mana increases
+    each turn until the last turn, when 100% mana is received.
+types:
+  - Taunt
+family: Wolf
+image: https://i.imgur.com/VV20w6e.jpg

@@ -1,0 +1,31 @@
+name: Malicna
+class: Cleric
+source: Hotm
+speed: Average
+power: 788
+attack: 766
+defense: 741
+health: 1339
+skill: Grimoire Skim
+effects:
+  - Deals 260% damage to the target and nearby enemies
+  - 'Randomly casts one of the following alternatives:'
+  - 'Alternative 1:'
+  - ' * The target and nearby enemies get -54% defense for 3 turns'
+  - ' * The target and nearby enemies get -54% attack for 3 turns'
+  - ' * The target and nearby enemies get -24% mana generation for 3 turns'
+  - 'Alternative 2:'
+  - ' * The target and nearby enemies get -16% defnese for 3 turns'
+  - 'Alternative 3:'
+  - ' * The target and nearby enemies get -16% attack for 3 turns'
+  - ''
+  - >-
+    Elementi Link gives all Dark allies small amount of mana at the end of the
+    turn fo4 turns. This effect can't be dispelled
+types:
+  - Hit 3
+passives:
+  - The caster gets +94% defense against Holy for 3 turns when mana is reduced
+  - This Hero has innate resistance against status ailments that steal health
+image: https://i.imgur.com/ZMAYhxa.jpg
+family: 2021

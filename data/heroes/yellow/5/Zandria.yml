@@ -1,0 +1,33 @@
+name: Zandria
+class: Paladin
+speed: Very Slow
+source: SuperElemental
+family: SuperElemental
+power: 835
+attack: 756
+defense: 819
+health: 1549
+skill: Unwavering Devotion
+effects:
+  - Deals 210% damage to all enemies.
+  - >-
+    Deals additional 20% damage per each Holy shield on the board up to 450%
+    damage in total.
+  - Each fallen ally has a 20% chance to be revived at 40% HP.
+  - >-
+    Each Holy shield on the board increases the chance of to be revived by 5% up
+    to 80% chance in total.
+types:
+  - Hit All
+  - Reviver
+passives:
+  - >-
+    This character’s Troops deal 100% more additional damage against weaker
+    element.
+  - >-
+    This character receives 10% less additional damage from Troops of stronger
+    element.
+  - >-
+    This Hero has an innate resistance against incoming negative effects and
+    damage from Minions.
+image: https://i.imgur.com/h5xLq71.jpg

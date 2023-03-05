@@ -1,0 +1,30 @@
+name: Lughaidh
+class: Paladin
+source: Season4
+speed: Slow
+power: 810
+attack: 721
+defense: 832
+health: 1433
+skill: Transcendental Frame
+effects:
+  - >-
+    Removes all status effects and stacks from the caster. Removes even status
+    effects and stacks that are otherwise undispellable or uncleansable.
+  - The caster shifts into Ghost form for 4 turns.
+  - >-
+    While in Ghost form the caster can’t gain mana and can’t be healed by
+    Special Skills, but it is immune to normal attacks, Special Skill attacks,
+    status effects and stacks.
+  - While in Ghost form, all allies except the caster get +64% defense
+  - >-
+    While in Ghost form, all allies' except the caster's HP is boosted by 180 HP
+    every turn.
+types:
+  - Cleanser
+passives:
+  - >-
+    Received damage is reduces by -20% for the furst 3 times this Hero receives
+    damage from Special Skills.
+family: Underwild
+image: https://i.imgur.com/RFjr7Fi.jpg

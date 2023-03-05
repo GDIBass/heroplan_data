@@ -1,0 +1,40 @@
+name: Heimdall
+class: Paladin
+source: Season3
+speed: Slow
+power: 784
+attack: 655
+defense: 844
+health: 1417
+skill: Boon of Gjallarhorn
+effects:
+  - >-
+    Boosts health of all allies by 500. If health exceeds max HP, it is added as
+    temporary HP. Max temporary HP is 100% of max HP. Boosted health counters
+    max HP reduction.
+  - Each fallen ally has a 20% chance to get revived with 30% HP.
+  - All allies get +30% attack for 4 turns.
+types:
+  - Health Boost
+  - Reviver
+  - Attack Buff
+family: Asgard
+image: https://i.imgur.com/bjKzbra.jpg
+costume:
+  class: Wizard
+  power: 831
+  attack: 682
+  defense: 901
+  health: 1540
+  skill: Blessing of Gjallarhorn
+  effects:
+    - Each fallen ally has 50% chance to get revived with 20% HP.
+    - All allies get +50% attack for 4 turns.
+    - >-
+      All allies regenerate 672 boosted health over 4 turns. Boosted health can
+      exceed max HP.
+  types:
+    - Revive
+    - Attack Buff
+    - Regeneration
+  image: https://i.imgur.com/YoTKnv0.jpg

@@ -1,0 +1,23 @@
+name: Atomos
+class: Barbarian
+source: Season2
+speed: Average
+power: 772
+attack: 733
+defense: 727
+health: 1336
+skill: Immortal Annihilator
+effects:
+  - Deals 170% damage to all enemies
+  - >-
+    The more mana the enemies have, the more damage they will receive, up to
+    290%
+  - >-
+    If the caster dies during the next 5 turns they are resurrected in the
+    beginning of their next turn with 32% health. All status effects are removed
+    when the caster dies
+types:
+  - Hit All
+  - Self Resurrection
+family: Atlantis
+image: https://i.imgur.com/DAUb4SR.jpg

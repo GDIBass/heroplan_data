@@ -1,0 +1,22 @@
+name: Maeve
+class: Rogue
+source: Slayers
+speed: Slow
+power: 478
+attack: 458
+defense: 509
+health: 794
+skill: Assassin's Blades
+effects:
+  - Deals 260% damage to the target and nearby enemies.
+  - The target and nearby enemies get -44% defenese for 4 turns.
+  - 'Stack (Max: 10): The caster gets +5% mana generation'
+  - 'Stack (Max: 10): The caster recovers 5 HP each turn'
+types:
+  - Hit 3
+  - Defense debuff
+  - Stack
+family: Slayer
+passives:
+  - Damage caused by status ailments reduced by -50%
+image: https://i.imgur.com/vEp3yLs.jpg

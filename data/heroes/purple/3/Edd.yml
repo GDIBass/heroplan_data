@@ -1,0 +1,16 @@
+name: Edd
+class: Ranger
+source: Villains
+speed: Fast
+power: 476
+attack: 526
+defense: 450
+health: 723
+skill: Crazed Lunge
+effects:
+  - Deal 335% damage to the target.
+  - The target is immune to new buffs for 3 turns.
+types:
+  - Hit 1
+family: Villains
+image: https://i.imgur.com/OuUgvKY.jpg

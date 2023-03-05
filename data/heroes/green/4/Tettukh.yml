@@ -1,0 +1,23 @@
+name: Tettukh
+class: Monk
+source: Season4
+speed: Average
+power: 677
+attack: 663
+defense: 667
+health: 1241
+skill: Crippling Grapple
+effects:
+  - Deals 320% damage to the target
+  - The target gets silenced for 4 turns
+  - The target receives 100 Poison damage over 4 turns
+types:
+  - Hit 1
+  - Silence
+  - Dot 1
+family: Underwild
+passives:
+  - >-
+    Received damage is reduced by -20% for the first 3 times this Hero receives
+    damage from Special Skills
+image: https://i.imgur.com/OZiH56V.jpg

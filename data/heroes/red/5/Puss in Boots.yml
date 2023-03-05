@@ -1,0 +1,22 @@
+name: Puss in Boots
+class: Rogue
+source: Fables
+speed: Average
+power: 781
+attack: 764
+defense: 727
+health: 1322
+skill: Three Blind Mice
+effects:
+  - All Summoner allies summon a Minion for themselves
+  - >-
+    Summons 3 Mouse Minions with 10% HP and 30% attack inherited from the
+    caster. The Minions have -32% accuracy
+  - All allies regenerate 548 HP over 4 turns.
+  - All allies get +30% attack for 4 turns.
+types:
+  - Summoner
+  - Hot
+  - Attack Buff
+family: Grimforest
+image: https://i.imgur.com/H73nb1h.jpg

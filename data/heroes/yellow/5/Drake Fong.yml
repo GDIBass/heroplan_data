@@ -1,0 +1,42 @@
+name: Drake Fong
+class: Monk
+source: Hotm
+speed: Fast
+power: 768
+attack: 727
+defense: 712
+health: 1353
+skill: Flails of Fury
+effects:
+  - Deals 270% damage to the target and nearby enemies
+  - >-
+    The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss
+    also applies to offensive Special Skills
+  - >-
+    Element Link gives all Holy allies +5% attack and +5% defense for 6 turns.
+    This effect can't be cleansed
+types:
+  - Hit 3
+  - Blind
+family: 2018
+image: https://i.imgur.com/DfnVeiC.jpg
+costume:
+  class: Fighter
+  power: 792
+  attack: 759
+  defense: 727
+  health: 1416
+  skill: Fabled Fist
+  effects:
+    - Deals 240% damage to the target and nearby enemies.
+    - >-
+      The target and nearby enemies get -50% accuracy for 3 turns. Chance to
+      miss also applies to offensive Special Skills. The effect duration is
+      reset if the target is healed.
+    - >-
+      Element Link   gives all Holy  allies +5% attack and +5% defense for 6
+      turns. This effect can’t be dispelled.
+  types:
+    - Hit 3
+  image: https://i.imgur.com/31loghP.jpg
+  bonuses: 2/2/4/1

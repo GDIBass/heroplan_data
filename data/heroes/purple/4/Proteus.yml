@@ -1,0 +1,17 @@
+name: Proteus
+class: Wizard
+source: Season2
+speed: Average
+power: 650
+attack: 707
+defense: 595
+health: 1079
+skill: Scar of the Depths
+effects:
+  - The target and nearby enemies receive 327 Damage over 3 turns
+  - The target and nearby enemies can't gain mana for 3 turns
+types:
+  - DoT 3
+  - Mana Gain Freeze
+family: Atlantis
+image: https://i.imgur.com/m2PmJmo.jpg

@@ -1,0 +1,19 @@
+name: Rayne
+class: Fighter
+source: Knights
+speed: Average
+power: 822
+attack: 815
+defense: 780
+health: 1384
+skill: Plague Blade
+effects:
+  - Deals 450% damage to the target.
+  - >-
+    The target receives 748 Poision damage over 4 turns. This effect spreads to
+    nearby enemies.
+types:
+  - Hit 1
+  - Dot 1
+family: Raven
+image: https://i.imgur.com/wMh0j5F.jpg

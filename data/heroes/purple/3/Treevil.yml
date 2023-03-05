@@ -1,0 +1,20 @@
+name: Treevil
+class: Wizard
+source: Avalon
+speed: Very Slow
+power: 481
+attack: 434
+defense: 509
+health: 870
+skill: Archaic Dread
+effects:
+  - Deals 250% damage to all enemies.
+  - All enemies get -54% attack for 6 turns.
+  - All enemies get -56% defense for 6 turns.
+  - All enemies get -44% mana generation for 6 turns.
+types:
+  - Attack Debuff
+  - Defense Debuff
+  - Mana Generation Debuff
+family: Avalon
+image: https://i.imgur.com/8ZDDLNG.jpg

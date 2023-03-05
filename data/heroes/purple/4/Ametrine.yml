@@ -1,0 +1,25 @@
+name: Ametrine
+class: Barbarian
+source: Ninja
+speed: Charge
+power: 670
+attack: 716
+defense: 561
+health: 1268
+skill: Blur of Steel
+effects:
+  - 1x Mana Charge
+  - '* Dispels buffs from the target'
+  - '* Deals 220% damage to the target'
+  - 2x Mana Charge
+  - '* Dispels buffs from the target and nearby enemies'
+  - '* Deals 255% damage to the target and nearby enemies'
+  - 3x Mana Charge
+  - '* Dispels buffs from all enemies'
+  - '* Deals 300% damage to all enemies'
+types:
+  - Charger
+  - Hit All
+  - Dispeller
+family: Ninja
+image: https://i.imgur.com/6AFRaiq.jpg

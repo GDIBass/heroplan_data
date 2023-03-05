@@ -1,0 +1,29 @@
+name: Topaz
+class: Sorcerer
+source: Ninja
+family: Ninja
+power: 818
+attack: 821
+defense: 704
+health: 1491
+speed: Charge
+skill: Lethal Needles
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - ' * Destroys all Minions from the target.'
+  - ' * Deals 310% damage to the target.'
+  - ' * All allies get a small amount of mana for each destroyed Minion.'
+  - 'x2 Mana Charge:'
+  - ' * Destroys all Minions from the target and nearby enemies.'
+  - ' * Deals 350% damage to the target and nearby enemies.'
+  - ' * All allies get a small amount of mana for each destroyed Minion.'
+  - 'x3 Mana Charge:'
+  - ' * Destroys all Minions from all enemies.'
+  - ' * Deals 390% damage to the target.'
+  - ' * All allies get a small amount of mana for each destroyed Minion.'
+types:
+  - Minion Destroyer
+  - Hit
+  - Mana
+image: https://i.imgur.com/yKvm70P.jpg

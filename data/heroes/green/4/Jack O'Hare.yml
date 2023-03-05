@@ -1,0 +1,34 @@
+name: Jack O'Hare
+class: Ranger
+source: Springvale
+speed: Fast
+power: 648
+attack: 743
+defense: 603
+health: 960
+skill: Reckless Slash
+effects:
+  - Deal 180% damage to all enemies
+  - The caster gets -20% defense for 3 turns. This effect can't be cleansed
+types:
+  - Hit All
+family: Springvale
+image: https://i.imgur.com/KJoqPtw.jpg
+costume:
+  class: Paladin
+  power: 669
+  attack: 708
+  defense: 651
+  health: 1101
+  skill: Egg Barrage
+  effects:
+    - Deals 230% damage to the target.
+    - The attack chains through all enemies who are adjacent to any hit enemy.
+    - >-
+      All allies except the caster get -20% attack for 3 turns. This effect
+      can't be dispelled.
+  types:
+    - Hit all
+    - Chain
+  image: https://i.imgur.com/mwBA0kR.jpg
+  bonuses: 3/3/6/1

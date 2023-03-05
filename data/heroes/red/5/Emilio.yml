@@ -1,0 +1,24 @@
+name: Emilio
+class: Druid
+source: Starfall
+speed: Very Fast
+power: 807
+attack: 745
+defense: 803
+health: 1406
+skill: Flames and Rejuvenation
+effects:
+  - 'Casts one of the following special skills:'
+  - ''
+  - 'If any enemy has the Burn Status Ailment:'
+  - ' * All enemies receive 410 Burn damage over 5 turns.'
+  - ' * All allies regenerate 549 HP over 3 turns.'
+  - ' * All allies are immune to new status ailments for 3 turns.'
+  - 'Otherwise:'
+  - ' * All enemies receive 320 Burn damage over 5 turns.'
+  - ' * All allies are immune to new status ailments for 3 turns.'
+types:
+  - Gamble
+  - DOT All
+family: Starfall
+image: https://i.imgur.com/iAnFGWC.jpg

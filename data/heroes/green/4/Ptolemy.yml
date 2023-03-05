@@ -1,0 +1,25 @@
+name: Ptolemy
+source: Season5
+class: Monk
+family: Sun
+speed: Average
+power: 683
+attack: 586
+defense: 686
+health: 1436
+skill: Divine Connection
+effects:
+  - Recovers 30% health for all allies.
+  - >-
+    The caster and nearby allies are immune to new status ailments for 3 turns,
+    and recover 175 health for each attempted status ailments.
+types:
+  - Heal All
+  - Status Ailment Immunity
+passives:
+  - >-
+    Effects on Special Skill - 60% chance to perform the following actions when
+    this character casts their Special Skill:
+  - '* Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+  - '* Cleanses the latest cleansable status ailments from all allies.'
+image: https://i.imgur.com/3gaWwFG.jpg

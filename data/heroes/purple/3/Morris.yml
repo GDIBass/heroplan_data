@@ -1,0 +1,30 @@
+name: Morris
+class: Fighter
+source: Season4
+speed: Average
+power: 478
+attack: 507
+defense: 483
+health: 721
+skill: Dig a Hole
+effects:
+  - >-
+    Removes all status effects and stacks from the caster. Removes even status
+    effects and stacsk that are otherwise undispellable or uncleansable.
+  - Caster digas a hole and hides in it for 2 turns.
+  - >-
+    While in the hole, the caster can't gain mana but is immune to normal
+    attacks, special attacks, and all status effects.
+  - >-
+    After 2 turns the caster jumps out of the hole and heals 223 damage to a
+    random enemy.
+  - 'The hit enemy receives the following status ailment:'
+  - ' * The target can''t gain mana for 2 turns.'
+types:
+  - Hole
+family: Underwild
+passives:
+  - >-
+    Duration of the first 3 status ailments this hero receives from Special
+    Skills is decreased by 1 turn
+image: https://i.imgur.com/RXYQ548.jpg

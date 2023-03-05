@@ -1,0 +1,33 @@
+name: Nyx
+class: Wizard
+family: Styx
+speed: Charge
+source: Styx
+power: 829
+attack: 795
+defense: 801
+health: 1444
+skill: Night Falls
+effects:
+  - >-
+    Special Skill has a different effect when charged with 100% / 200% / 300%
+    mana:
+  - '1x Mana Charge:'
+  - ' * Deals 170% damage to all enemies.'
+  - ' * All allies get +30% attack for 3 turns.'
+  - '2x Mana Charge:'
+  - ' * Deals 300% damage to all enemies.'
+  - ' * All enemies get -34% defense for 3 turns.'
+  - '3x Mana Charge:'
+  - ' * Deals 335% damage to all enemies.'
+  - ' * All allies get +50% attack for 4 turns.'
+  - ' * All enemies get -44% defense for 4 turns.'
+types:
+  - Hit all
+  - Defense Debuff
+  - Attack Buff
+passives:
+  - >-
+    Duration of the defense status ailments this character receives from Special
+    Skills is decreased by 2 turns.
+image: https://i.imgur.com/aQwzAEQ.jpg

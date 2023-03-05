@@ -1,0 +1,27 @@
+name: Cristobal
+class: Sorcerer
+source: Magic
+speed: Magic
+power: 813
+attack: 791
+defense: 760
+health: 1417
+skill: Charmed Dual Blade
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200% mana:'
+  - '1x Mana Charge:'
+  - ' * Deals 235% damage to the target.'
+  - ' * Deals 470% damage if the target has less than 50% health remaining.'
+  - '2x Mana Charge:'
+  - ' * Deals 200% damage to all enemies.'
+  - ' * Deals 400% damage if the target has more than 50% health remaining.'
+types:
+  - Hit 1
+  - Hit all
+  - Charge
+passives:
+  - >-
+    On a fully charged Special Skill this Hero has a 50% chance to deal 100%
+    damage to all enemies that are not of Nature element.
+family: Magic
+image: https://i.imgur.com/H1Awz0g.jpg

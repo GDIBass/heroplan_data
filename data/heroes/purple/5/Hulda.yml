@@ -1,0 +1,27 @@
+name: Hulda
+source: Season4
+class: Cleric
+family: Underwild
+speed: Average
+power: 816
+attack: 758
+defense: 782
+health: 1479
+skill: Pet Larva
+effects:
+  - >-
+    Summons a Larva Minion for each ally with 31% HP inheried from the caster.
+    The Minion recovers 11% health for its owner at the end of each turn.
+  - >-
+    The Larva Minion gives +24% mana generation for its owner as long as the
+    owner has Larva Minions. This effect can't be dispelled.
+  - >-
+    The Larva Minion gives +54% defense for is owner for as long as the owner
+    has Larva Minions. This effect can't be dispelled.
+types:
+  - Summoner
+passives:
+  - >-
+    Duration of the first 3 buffs this Hero receives from Special Skills is
+    increased by 1 turn.
+image: https://i.imgur.com/J9OOPtS.jpg

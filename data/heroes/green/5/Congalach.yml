@@ -1,0 +1,21 @@
+name: Congalach
+class: Fighter
+family: Underwild
+source: Season4
+power: 815
+attack: 791
+defense: 782
+health: 1390
+speed: Slow
+skill: Spectre's Flail
+effects:
+  - Deals 310% damage to 5 random enemies.
+  - 'Stack (Max: 10): Each hit gives its target -9% attack'
+types:
+  - Hit 5
+  - Attack Debuff
+passives:
+  - >-
+    Received damage is reduced by -20% for the first 3 times this Hero receives
+    damage from Special Skills
+image: https://i.imgur.com/FKztylV.jpg

@@ -1,0 +1,38 @@
+name: Roc
+class: Barbarian
+source: Sand
+speed: Average
+power: 789
+attack: 762
+defense: 739
+health: 1361
+skill: Sand Cyclone
+effects:
+  - All enemies receive 306 Sand damage over 3 turns.
+  - >-
+    All enemies get -50% decrease for any healing received for 2 turns. This
+    effect can't be cleansed.
+  - Cleanses status ailments from all allies.
+types:
+  - Dot All
+  - Healing Debuff
+  - Cleanser
+family: Sand
+image: https://i.imgur.com/jRrOk7n.jpg
+costume:
+  class: Fighter
+  power: 814
+  attack: 782
+  defense: 771
+  health: 1427
+  skill: Beach Party
+  effects:
+    - All enemies receive 660 Sand damage over 4 turns.
+    - All enemies get -44% defense for 3 turns.
+    - Dispells buffs from all enemies.
+  types:
+    - Dot All
+    - Defense Debuff
+    - Dispeller
+  image: https://i.imgur.com/wRsoDQK.jpg
+  bonuses: 2/2/4/1

@@ -1,0 +1,24 @@
+name: Shadereave
+class: Fighter
+source: Season3
+speed: Slow
+power: 661
+attack: 595
+defense: 635
+health: 1357
+skill: Eternal Servitude
+effects:
+  - All allies get +30% attack for 4 turns.
+  - All allies get +30% critical chance for 4 turns.
+  - >-
+    All allies receive Draugr Blessing. If the blessed Hero dies in the next 4
+    turns, they will be reborn as a Draugr with:
+  - 100% inherited health.
+  - 500 attack.
+  - 500 defense.
+  - 'Special Skill: Eternal Loyalty'
+types:
+  - Attack BuffCritical Buff
+  - Zombie Buff
+family: Helheim
+image: https://i.imgur.com/t4qsaZf.jpg

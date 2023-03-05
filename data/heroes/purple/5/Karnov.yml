@@ -1,0 +1,21 @@
+name: Karnov
+class: Monk
+source: Villains
+speed: Slow
+power: 803
+attack: 766
+defense: 745
+health: 1444
+skill: Total Beatdown
+effects:
+  - Deals 290% damage to all enemies.
+  - >-
+    Alters the power of all Dark shields on the board. When an attacking hero
+    casts the special, the shields become enhanced with +64% attack. When a
+    defending hero casts the special, the shields become weakened with -57%
+    attack.
+types:
+  - Hit All
+  - Shield Enhance
+family: Villains
+image: https://i.imgur.com/uCM3DQT.jpg

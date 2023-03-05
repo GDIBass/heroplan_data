@@ -1,0 +1,38 @@
+name: Tarlak
+class: Monk
+source: Season2
+speed: Average
+power: 773
+attack: 824
+defense: 667
+health: 1240
+skill: Martial Prowess
+effects:
+  - >-
+    All allies get +100% normal attack for 4 turns. Stacks with similar status
+    effects up to a maximum of +160% normal attack
+  - All allies regenerate 324 HP over 4 turns
+types:
+  - Healer
+  - Titan Attack Buff
+family: Lagoon
+image: https://i.imgur.com/VmIENFl.jpg
+costume:
+  class: Paladin
+  power: 773
+  attack: 694
+  defense: 824
+  health: 1252
+  skill: Kane Prowess
+  effects:
+    - Boosts health for all allies by 470. Boosted health can exceed max HP.
+    - >-
+      All allies get +80% normal attack for 5 turns. The normal attack is
+      increased by +20% each turn. This effect can be active with addition to
+      effect that alter attack in general. Normal attacks can have a total
+      maximum of +160% increased power while this effect is active.
+  types:
+    - Health Boost
+    - Titan Attack Buff
+  image: https://i.imgur.com/UPOaKMz.jpg
+  bonuses: 3/3/6/1

@@ -1,0 +1,52 @@
+name: Krampus
+class: Sorcerer
+source: Christmas
+speed: Average
+power: 802
+attack: 667
+defense: 852
+health: 1468
+skill: Scourge of Joy
+effects:
+  - >-
+    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited
+    from the caster.
+  - >-
+    The caster gets Taunt that prevents enemies from using Special Skills on the
+    caster's allies for 3 turns
+  - >-
+    The caster gets +44% defense, and a further 10% increase every time they are
+    hit during 3 turns.  This effect can't be dispelled.
+  - All allies get +50% attack for 3 turns
+types:
+  - Summoner
+  - Taunt
+  - Defense Buff
+  - Attack Buff
+family: Christmas
+image: https://i.imgur.com/9L71cZ8.jpg
+costume:
+  class: Barbarian
+  power: 819
+  attack: 658
+  defense: 880
+  health: 1558
+  skill: Merriest Misery
+  effects:
+    - >-
+      Summons an Elf Minion for each ally with 10% HP and 10% attack inherited
+      from the caster.
+    - >-
+      The caster gets Taunt that prevents enemies from using Special Skills on
+      the caster's allies for 4 turns.
+    - The caster gets +50% defense for 4 turns.
+    - >-
+      All allies get +45% attack, and a further 20% increase every time they are
+      hit during 4 turns.
+  types:
+    - Summoner
+    - Taunt
+    - Defense Buff
+    - Attack Buff
+  image: https://i.imgur.com/fkiwdOj.jpg
+  bonuses: 2/2/4/1

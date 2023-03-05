@@ -1,0 +1,20 @@
+name: Grevle
+class: Wizard
+source: Season3
+speed: Average
+power: 464
+attack: 403
+defense: 613
+health: 623
+skill: Traveler's Snack
+effects:
+  - >-
+    Boosts health of all allies by 250. If health exceeds max HP, it is added as
+    temporary HP. Max temporary HP is 100% of max HP. Boosted health counters
+    max HP reduction.
+  - All allies get +30% attack for 4 turns.
+types:
+  - Health Boost
+  - Attack Buff
+family: Alfheim
+image: https://i.imgur.com/7vQQwXx.jpg

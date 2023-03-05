@@ -1,0 +1,16 @@
+name: Lady Woolerton
+class: Cleric
+source: Springvale
+speed: Fast
+power: 661
+attack: 626
+defense: 667
+health: 1217
+skill: Smooth Treatment
+effects:
+  - Recovers 40% Health for all allies.
+  - The caster can't gain mana for 2 turns. This effect can't be cleansed.
+types:
+  - Healer
+family: Springvale
+image: https://i.imgur.com/qf9ikj1.jpg

@@ -1,0 +1,17 @@
+name: Chochin
+class: Sorcerer
+source: Season2
+speed: Average
+power: 448
+attack: 413
+defense: 512
+health: 684
+skill: Unholy Light
+effects:
+  - Deals 215% damage to the target and nearby enemies.
+  - The target and nearby enemies get -24% mana generation for 3 turns.
+types:
+  - Hit 3
+  - Mana Generation Debuff
+family: Sakura
+image: https://i.imgur.com/L668UQC.jpg

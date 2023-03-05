@@ -1,0 +1,21 @@
+name: Gramps
+class: Cleric
+source: Season4
+speed: Slow
+power: 478
+attack: 448
+defense: 514
+health: 804
+skill: Elder's Remedy
+effects:
+  - Each fallen ally has a 33% chance to get revived with 23% HP.
+  - All allies regenerate a moderate ammount of mana over 4 turns.
+types:
+  - Revive
+  - Mana regen
+family: Underwild
+passives:
+  - >-
+    Received damage is reduced by -20% for the first 3 times this Hero receives
+    damage from Special Skills
+image: https://i.imgur.com/QGwMonb.jpg

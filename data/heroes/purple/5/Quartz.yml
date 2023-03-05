@@ -1,0 +1,30 @@
+name: Quartz
+class: Cleric
+source: Ninja
+speed: Charge
+power: 818
+attack: 751
+defense: 774
+health: 1526
+skill: Incite Ki
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - '1x Mana Charge:'
+  - ' - All allies regenerate 164 HP over 2 turns.'
+  - ' - All allies get +34% attack for 2 turns.'
+  - ' - Cleanses status ailments from all allies.'
+  - '2x Mana Charge:'
+  - ' - All allies regenerate 564 HP over 3 turns.'
+  - ' - All allies get +44% attack for 3 turns.'
+  - ' - Cleanses status ailments from all allies.'
+  - '3x Mana Charge:'
+  - ' - All allies regenerate 860 HP over 4 turns. This effect can''t be dispelled.'
+  - ' - All allies get +54% attack for 4 turns.'
+  - ' - Cleanses status ailments from all allies.'
+types:
+  - Charge
+  - Cleanser
+  - Attack buff
+  - HoT
+family: Ninja
+image: https://i.imgur.com/DHtXxDR.jpg

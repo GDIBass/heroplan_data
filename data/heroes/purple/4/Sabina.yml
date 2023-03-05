@@ -1,0 +1,29 @@
+name: Sabina
+class: Sorcerer
+source: Season1
+speed: Average
+power: 639
+attack: 699
+defense: 578
+health: 1060
+skill: Fog of the Fallen
+effects:
+  - Recovers 42% health for all allies
+  - Dispels buffs from all enemies
+types:
+  - Healer
+image: https://i.imgur.com/G6mmZNN.jpg
+costume:
+  class: Cleric
+  power: 674
+  attack: 742
+  defense: 642
+  health: 1074
+  skill: Haze of the Fallen
+  effects:
+    - All allies regenerate 609 HP over 3 turns
+    - All enemies are immune to new buffs for 3 turns
+    - Dispels buffs from all enemies
+  types:
+    - HOT All
+  image: https://i.imgur.com/flsZEGB.jpg

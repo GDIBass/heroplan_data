@@ -1,0 +1,24 @@
+name: Alfrike
+class: Wizard
+source: Season3
+speed: Very Slow
+power: 786
+attack: 659
+defense: 844
+health: 1421
+skill: Cube of Dark Realm
+effects:
+  - Casts 5 Dark Cubes to random enemies.
+  - Dark Cube deals 200% damage to the target.
+  - >-
+    Dark Cube reduces max health from the target by 224. Max health can't get
+    lower than 30% of the original max health.
+  - >-
+    The target automatically casts Mindless Attack on a random ally when mana is
+    full during 3 turns.
+types:
+  - Hit 5
+  - Health Reduction
+  - Mindless Attack
+family: Svartalfheim
+image: https://i.imgur.com/O54lA6V.jpg

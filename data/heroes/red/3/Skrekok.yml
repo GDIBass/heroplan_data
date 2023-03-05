@@ -1,0 +1,19 @@
+name: Skrekok
+class: Rogue
+source: Villains
+speed: Average
+power: 476
+attack: 493
+defense: 472
+health: 762
+skill: Mad Rat Mania
+effects:
+  - Deals 225% damage to the target and nearby enemies.
+  - >-
+    The caster and nearby allies get +45% attack and a further +20% increase
+    every time they are hit during 3 turns.
+types:
+  - Hit 3
+  - Attack Buff
+family: Villains
+image: https://i.imgur.com/e258l3c.jpg

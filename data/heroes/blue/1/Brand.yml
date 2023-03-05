@@ -1,0 +1,14 @@
+name: Brand
+class: Fighter
+source: Season1
+speed: Average
+power: 210
+attack: 177
+defense: 184
+health: 443
+skill: Fierce Slash
+effects:
+  - Deals 115% damage to all enemies
+types:
+  - Hit All
+image: https://i.imgur.com/OSHdYXE.jpg

@@ -1,0 +1,23 @@
+name: Sobek
+source: Season5
+class: Wizard
+family: Sun
+speed: Average
+power: 833
+attack: 834
+defense: 723
+health: 1532
+skill: Jaws of the River
+effects:
+  - Deals 290% damage to all enemies.
+  - The attack bypasses defensive buffs. This includes counterattacks.
+types:
+  - Hit All
+  - Bypass
+passives:
+  - >-
+    Effects on Special Skill - 60% chance to perform the following actions when
+    this character casts their Special Skill
+  - '* Deals 70% damage to all enemies.'
+  - '* All enemies receive 246 Sand damage over 3 turns.'
+image: https://i.imgur.com/3Y3v4bs.jpg

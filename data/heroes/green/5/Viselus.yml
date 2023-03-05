@@ -1,0 +1,28 @@
+name: Viselus
+class: Druid
+speed: Average
+source: Hotm
+family: 2023
+power: 810
+attack: 708
+defense: 817
+health: 1495
+skill: Withering Seasons
+effects:
+  - Destroys all Minions from the target and nearby enemies.
+  - Deals 260% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 480 Poison damage over 4 turns.
+  - >-
+    Element Link gives all Nature allies +5% chance to dodge status ailments for
+    4 turns. This effect cannot be dispelled.
+types:
+  - Hit 3
+  - Taunt Silence
+  - Defense Debuff
+passives:
+  - >-
+    Health Boost of Poison - Boosts health of this character and nearby allies
+    by 2% for each enemy inflicted with Poison at the end of each turn. Boosted
+    health can exceed max HP.
+  - Resist Poison - This character has innate resistance against Poison.
+image: https://i.imgur.com/SWrRjRX.jpg

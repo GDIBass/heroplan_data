@@ -1,0 +1,22 @@
+name: El Duque
+class: Monk
+source: Gargoyle
+family: Gargoyle
+speed: Very Fast
+power: 826
+attack: 817
+defense: 766
+health: 1437
+skill: Fists of Atonement
+effects:
+  - Deals 295% damage to the target and minor damage to nearby enemies.
+  - 'Stack: (Max: 10): The target and nearby enemies get -8% defense.'
+types:
+  - Hit 3
+  - Stack
+passives:
+  - >-
+    Gargoyle’s Stoneskin - Every time this Gargoyle casts a Special Skill, their
+    Stoneskin hardens. The next damage they receive is dropped to 1. This effect
+    can’t be dispelled.
+image: https://i.imgur.com/37akyr2.jpg

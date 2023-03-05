@@ -1,0 +1,25 @@
+name: Caitlin
+class: Wizard
+source: Slayers
+speed: Slow
+power: 809
+attack: 721
+defense: 821
+health: 1446
+skill: Dispelling Willpower
+effects:
+  - Dispels buffs from all enemies.
+  - Deals 180% damage to all enemies
+  - >-
+    Deals additional 20% damage per removed status effect, up to 340% damage in
+    total.
+  - 'Stack (Max: 10): The caster gets +5% mana generation'
+  - 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
+types:
+  - Hit All
+  - Dispeller
+  - Stacks
+passives:
+  - Damage caused by status ailments is reduced by -50%
+family: Slayer
+image: https://i.imgur.com/ERb7z96.jpg

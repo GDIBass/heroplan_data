@@ -1,0 +1,30 @@
+name: Zircon
+class: Fighter
+source: Ninja
+speed: Charge
+power: 818
+attack: 735
+defense: 840
+health: 1435
+skill: Wall of Ki
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - '1x Mana Charge:'
+  - ' - All allies'' health is boosted by 144 HP over 2 turns.'
+  - ' - All allies get +24% defense, and a further 5% increase every time they are hit during 2 turns.'
+  - ' - All allies are immune to buff dispels for 2 turns.'
+  - '2x Mana Charge:'
+  - ' - All allies'' health is boosted by 504 HP over 3 turns.'
+  - ' - All allies get +34% defense, and a further 5% increase every time they are hit during 3 turns.'
+  - ' - All allies are immune to buff dispels for 3 turns.'
+  - '3x Mana Charge:'
+  - ' - All allies'' health is boosted by 980 HP over 4 turns.'
+  - ' - All allies get +54% defense, and a further 5% increase every time they are hit during 4 turns.'
+  - ' - All allies are immune to buff dispels for 4 turns.'
+types:
+  - Charge
+  - Health boost
+  - Defense Buff
+  - Dispell Immunity
+family: Ninja
+image: https://i.imgur.com/3XPQv8U.jpg

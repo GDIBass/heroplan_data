@@ -1,0 +1,25 @@
+name: Zila Lei
+class: Rogue
+source: Season4
+speed: Fast
+power: 677
+attack: 677
+defense: 652
+health: 1234
+skill: Fishbone Blades
+effects:
+  - >-
+    Deals 185% damage to the enemies on the edges of the enemy formation. If
+    there is only one enemy alive, the damage is doubled.
+  - >-
+    The enemies on the edges of the enemy formation get -34% defense for 3
+    turns.
+types:
+  - Hit 2
+  - Defense Down
+family: Underwild
+passives:
+  - >-
+    First time this Hero casts Special Skill that does damage, additional 30%
+    damage is added to its power
+image: https://i.imgur.com/AZ3KQGe.jpg

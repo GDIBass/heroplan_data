@@ -1,0 +1,45 @@
+name: Danzaburo
+class: Rogue
+source: Season2
+speed: Average
+power: 652
+attack: 622
+defense: 637
+health: 1224
+skill: Trickster's Gambit
+effects:
+  - 'Perform a trick for a special effect:'
+  - >-
+    Swords: Deals 255% damage to all enemies. All enemies get -54% accuracy for
+    3 turns and chance to miss also applies to offensive Special Skills.
+  - 'Bottle: All allies get +24% mana generation, and +63% defense, for 4 turns'
+  - >-
+    Freeze: The caster can't gain mana for 2 turns. This effect can't be
+    cleansed.
+types:
+  - Gambler
+family: Sakura
+image: https://i.imgur.com/jP1BF2A.jpg
+costume:
+  class: Fighter
+  power: 674
+  attack: 609
+  defense: 667
+  health: 1351
+  skill: Amazing Deals
+  effects:
+    - 'Sell junk for a specific effect:'
+    - Dull Swords
+    - Deals 270% damage to all enemies.
+    - All enemies get -39% attack for 3 turns.
+    - Questionable Snake Oil
+    - All enemies get -24% mana generation for 3 turns.
+    - All enemies get -44% defense for 3 turns.
+    - Clearance Sale
+    - Increases the mana of all allies except the caster’s by 3%.
+    - The caster can’t gain mana for 2 turns. This effect can’t be cleansed.
+  types:
+    - Attack Buff
+    - Defense Down
+  bonuses: 2/2/4/1
+  image: https://i.imgur.com/HppFUSU.jpg

@@ -1,0 +1,22 @@
+name: Zarola
+class: Ranger
+speed: Fast
+family: Cupid
+source: Love
+power: 486
+attack: 547
+defense: 474
+health: 698
+skill: Punishing Shot
+effects:
+  - Deals 200% damage to the target and nearby enemies.
+  - >-
+    The less mana the enemies have, the more damage they will receive, up to
+    300%.
+types:
+  - Hit 3
+passives:
+  - >-
+    Resist Special Skill Blocking - This character has innate resistance against
+    status ailments that block Special Skills.
+image: https://i.imgur.com/07KHMD9.jpg

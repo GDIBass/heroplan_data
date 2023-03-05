@@ -1,0 +1,34 @@
+name: Poseidon
+class: Fighter
+source: Season2
+speed: Fast
+power: 775
+attack: 745
+defense: 718
+health: 1349
+skill: Ruler of the Seas
+effects:
+  - Deals 450% damage to the target.
+  - All allies resist new negative mana effects for 3 turns.
+  - >-
+    All allies resist new effects that block usage of Special Skills for 3
+    turns.
+types:
+  - Hit 1
+family: Atlantis
+image: https://i.imgur.com/4yAjxl7.jpg
+costume:
+  class: Ranger
+  power: 800
+  attack: 757
+  defense: 731
+  health: 1473
+  skill: Tidal Slayer
+  effects:
+    - Deals 480% damage to the target.
+    - All allies are immune to new status ailments for 3 turns.
+  types:
+    - Hit 1
+    - Debuff Immunity
+  image: https://i.imgur.com/jU6Z8JO.jpg
+  bonuses: 2/2/4/1

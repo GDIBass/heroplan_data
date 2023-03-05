@@ -1,0 +1,25 @@
+name: Shale
+class: Wizard
+source: Ninja
+speed: Charge
+power: 670
+attack: 603
+defense: 626
+health: 1423
+skill: Channel Ki
+effects:
+  - 1x Mana Charge
+  - '* The caster regenerates 411 HP over 3 turns'
+  - '* Cleanses status ailments from the caster'
+  - 2x Mana Charge
+  - '* The caster and nearby allies regenerate 549 HP over 3 turns'
+  - '* Cleanses status ailments from the caster and nearby allies'
+  - 3x Mana Charge
+  - '* All allies regenerate 714 HP over 3 turns'
+  - '* Cleanses status ailments from all allies'
+types:
+  - Charger
+  - Hot
+  - Cleanser
+family: Ninja
+image: https://i.imgur.com/MtPyEOT.jpg

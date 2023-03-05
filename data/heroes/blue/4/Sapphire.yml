@@ -1,0 +1,31 @@
+name: Sapphire
+class: Rogue
+source: Ninja
+speed: Charge
+power: 670
+attack: 726
+defense: 541
+health: 1285
+skill: From Shadows
+effects:
+  - 1x Mana Charge
+  - '* Deals 225% damage to the target'
+  - >-
+    * The attack has a 35% chance to bypass defensive buffs. This includes
+    counter attack.
+  - 2x Mana Charge
+  - '* Deals 250% damage to the target and nearby enemies'
+  - >-
+    * The attack has a 60% chance to bypass defensive buffs. This includes
+    counter attack.
+  - 3x Mana Charge
+  - '* Deals 290% damage to all enemies'
+  - >-
+    * The attack has a 85% chance to bypass defensive buffs. This includes
+    counter attack.
+types:
+  - Charger
+  - Hit All
+  - Bypass
+family: Ninja
+image: https://i.imgur.com/XCynMAV.jpg

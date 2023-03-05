@@ -1,0 +1,26 @@
+name: Kullervo
+class: Rogue
+speed: Average
+family: Kalevala
+source: Kalevala
+power: 825
+attack: 805
+defense: 780
+health: 1430
+skill: Heirloom Dagger
+effects:
+  - Deal 300% damage to the target.
+  - Deals 470% damage to a random different enemy.
+  - >-
+    Enemies hit automatically cast Mindless Attack on a random ally when mana is
+    full at the start of a turn during 3 turns. Against Dark characters, this
+    status effect becomes uncleansable and lasts 2 turns longer.
+types:
+  - Hit 1
+  - Bounce
+  - Mindless Attack
+passives:
+  - >-
+    When this character starts a turn with low health for the first time during
+    a battle, they recover 15% health and receive 15% mana.
+image: https://i.imgur.com/tmvOfKK.jpg

@@ -1,0 +1,28 @@
+name: Sartana
+class: Wizard
+source: Season1
+speed: Fast
+power: 757
+attack: 694
+defense: 700
+health: 1382
+skill: Deathstrike
+effects:
+  - Deals 452% damage to the target.
+  - The target receives 306 Poison damage over 6 turns.
+types:
+  - Hit 1
+  - Dot 1
+image: https://i.imgur.com/YBEHGb0.jpg
+costume:
+  class: Fighter
+  power: 798
+  attack: 685
+  defense: 771
+  health: 1558
+  skill: Dreadstrike
+  effects:
+    - Deals 532% damage to the target
+  types:
+    - Hit 1
+  image: https://i.imgur.com/gwzMUaT.jpg

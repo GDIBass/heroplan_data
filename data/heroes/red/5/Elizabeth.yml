@@ -1,0 +1,29 @@
+name: Elizabeth
+class: Monk
+source: Season4
+speed: Average
+power: 807
+attack: 768
+defense: 753
+health: 1448
+skill: Widow's Kiss
+effects:
+  - Deals 175% damage to all enemies.
+  - >-
+    Summons a Spider Fiend for all enemies. The Fiend damages the enemy with 43%
+    attack every turn.
+  - >-
+    The Spider Fiend absorbs healing and disappears when it has absorbed health
+    equal to 28% of the target's max health.
+  - >-
+    The Spider Fiend gives -24% mana generation for its owner as long as the
+    owner has Spider Fiends. This effect cannot be cleansed.
+types:
+  - Fiend
+  - Hit All
+family: Underwild
+passives:
+  - >-
+    Duration of the first 3 buffs this hero receives from Special Skills is
+    increased by 1 turn
+image: https://i.imgur.com/5redygr.jpg

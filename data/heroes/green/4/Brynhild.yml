@@ -1,0 +1,22 @@
+name: Brynhild
+class: Rogue
+source: Season3
+speed: Fast
+power: 660
+attack: 684
+defense: 609
+health: 1183
+skill: Valkyrie Defense
+effects:
+  - Recovers 37% health for the caster and nearby allies.
+  - The caster and nearby allies are immune to buff dispels for 3 turns.
+  - >-
+    The caster and nearby allies get +74% defense against Special Skills for 3
+    turns.
+  - The caster and nearby allies get +24% mana generation for 3 turns.
+types:
+  - Healer
+  - Dispel Immunity
+  - Mana Generation Buff
+family: Midgard
+image: https://i.imgur.com/igNkAbf.jpg

@@ -1,0 +1,18 @@
+name: Gobbler
+class: Druid
+source: Season2
+speed: Average
+power: 651
+attack: 641
+defense: 614
+health: 1215
+skill: Minion Eater
+effects:
+  - Deals 170% damage to all enemies
+  - Destroys all minions from all enemies
+  - All allies recover 80 health for each minion eaten
+types:
+  - Hit All
+  - Destroy Minions
+family: Lagoon
+image: https://i.imgur.com/Sc5af8g.jpg

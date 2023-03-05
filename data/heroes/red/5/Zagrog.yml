@@ -1,0 +1,28 @@
+name: Zagrog
+class: Rogue
+family: 2022
+source: Hotm
+speed: Average
+power: 800
+attack: 772
+defense: 751
+health: 1394
+skill: Indifferent Blade
+effects:
+  - Deals 430% damage to the target and minor damage to the nearby enemies.
+  - The attack bypasses defensive buffs. This includes counterattacks.
+  - The caster gains 20% mana if any defensive buffs were bypassed.
+  - >-
+    Element Link gives all Fire allies +10% defense for 4 turns. This effect
+    can’t be dispelled.
+types:
+  - Hit 3
+passives:
+  - >-
+    This hero has innate resistance against all status effects and stacks that
+    effect attack. This includes buffs.
+  - >-
+    This Hero has innate resistance against status ailments and negative stacks
+    that affect mana generation. Applies also to status ailments that block mana
+    or steal mana.
+image: https://i.imgur.com/jTxW191.jpg

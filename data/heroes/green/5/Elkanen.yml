@@ -1,0 +1,51 @@
+name: Elkanen
+class: Cleric
+source: Season1
+speed: Fast
+power: 758
+attack: 675
+defense: 784
+health: 1266
+skill: Crescent Spear
+effects:
+  - Deals 330% damage to the target and minor damage to nearby enemies
+  - Heals the caster for 38% or damage dealt
+types:
+  - Hit 3
+  - Self Heal
+family: Classic
+image: https://i.imgur.com/gkqoNuc.jpg
+costume:
+  class: Barbarian
+  power: 798
+  attack: 687
+  defense: 862
+  health: 1370
+  skill: Eclipse Spear
+  effects:
+    - Deals 280% damage to the target and nearby enemies
+    - >-
+      The caster steals 61% of any healing applied to the target and nearby
+      enemies for 3 turns
+  types:
+    - Hit 3
+    - Healing Steal
+  family: Classic
+  image: https://i.imgur.com/r8h2KIN.jpg
+costume2:
+  class: Paladin
+  power: 862
+  attack: 805
+  defense: 871
+  health: 1514
+  skill: Lunar Spear
+  effects:
+    - Deals 230% damage to all enemies
+    - >-
+      All enemies get -50% decrease for any healing received for 3 turns. This
+      effect can't be cleansed.
+  types:
+    - Hit All
+    - Healing Decrease
+  family: Classic
+  image: https://i.imgur.com/45ULmYn.jpg

@@ -1,0 +1,38 @@
+name: Fura
+class: Wizard
+source: Season3
+speed: Average
+power: 660
+attack: 707
+defense: 629
+health: 1083
+skill: Nightglade Pollen
+effects:
+  - Deals 150% damage to all enemies.
+  - >-
+    Reduces max health from all enemies by 100. Max health can’t get lower than
+    30% of the original max health.
+  - All enemies get -50% decrease for any healing received for 4 turns.
+types:
+  - Hit All
+  - Health Reduction
+  - Healing Debuff
+family: Svartalfheim
+image: https://i.imgur.com/RvN7nUK.jpg
+costume:
+  class: Druid
+  power: 681
+  attack: 749
+  defense: 625
+  health: 1139
+  skill: Nightbloom Dust
+  effects:
+    - Deals 280% to the target and nearby enemies.
+    - Reduces the mana of the target and the nearby enemies by 15%.
+    - >-
+      The target and nearby enemies get -75% decrease for any healing received
+      for 3 turns.
+  types:
+    - Hit 3
+  bonuses: 3/3/6/1
+  image: https://i.imgur.com/ibwrmzt.jpg

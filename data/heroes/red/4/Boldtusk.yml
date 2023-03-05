@@ -1,0 +1,30 @@
+name: Boldtusk
+class: Fighter
+source: Season1
+speed: Average
+power: 644
+attack: 588
+defense: 711
+health: 1107
+skill: Warcry
+effects:
+  - Recovers 27% health for all allies
+  - All allies get +48% attack for 4 turns
+types:
+  - Healer
+  - Attack Buff
+image: https://i.imgur.com/K7cfOtS.jpg
+costume:
+  class: Monk
+  power: 680
+  attack: 621
+  defense: 736
+  health: 1230
+  skill: War Feast
+  effects:
+    - Recovers 37% health for all allies
+    - All allies get +30% attack for 4 turns
+  types:
+    - Healer
+    - Attack Buff
+  image: https://i.imgur.com/ZFrdT4t.jpg

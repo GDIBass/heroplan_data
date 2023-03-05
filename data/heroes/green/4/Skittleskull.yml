@@ -1,0 +1,30 @@
+name: Skittleskull
+class: Sorcerer
+source: Season1
+speed: Slow
+power: 644
+attack: 728
+defense: 605
+health: 969
+skill: Creeping Vines
+effects:
+  - Deals 185% damage to all enemies
+  - All enemies get -34% attack for 6 turns
+types:
+  - Hit All
+  - Attack Debuff
+image: https://i.imgur.com/6Oucdm4.jpg
+costume:
+  class: Cleric
+  power: 678
+  attack: 778
+  defense: 631
+  health: 1035
+  skill: Candy Vines
+  effects:
+    - Deals 175% damage to all enemies
+    - All enemies get -39% attack for 6 turns
+  types:
+    - Hit All
+    - Attack Debuff
+  image: https://i.imgur.com/9DvgVYg.jpg

@@ -1,0 +1,25 @@
+name: Faiez
+source: Season5
+class: Cleric
+family: Sun
+speed: Slow
+power: 483
+attack: 465
+defense: 490
+health: 849
+skill: Plentiful Harvest
+effects:
+  - Boost health of all allies by 350. Boosted health can exceed max HP.
+  - All allies are immune to new status ailments for 4 turns.
+  - All allies get +30% defense for 4 turns
+types:
+  - Health Boost
+  - Status Ailment Immunity
+  - Defense Buff
+passives:
+  - >-
+    Effects on Special Skill - 70% chance to perform the following actions when
+    this character casts their Special Skill:
+  - '* Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+  - '* Cleanses the latest cleansable status ailments from all allies.'
+image: https://i.imgur.com/vZiyZG9.jpg

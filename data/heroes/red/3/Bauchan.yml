@@ -1,0 +1,19 @@
+name: Bauchan
+class: Monk
+source: Avalon
+speed: Average
+power: 455
+attack: 420
+defense: 453
+health: 839
+skill: Goblin Fury
+effects:
+  - Deals 105% damage to all enemies
+  - Reduces the mana of all enemies by 20%
+  - All allies get +24% mana generation for 4 turns
+types:
+  - Hit All
+  - Mana Reduction
+  - Mana Generation Buff
+family: Avalon
+image: https://i.imgur.com/EA1ItRL.jpg

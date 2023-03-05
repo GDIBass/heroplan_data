@@ -1,0 +1,34 @@
+name: Elena
+class: Fighter
+source: Season1
+speed: Slow
+power: 753
+attack: 809
+defense: 578
+health: 1312
+skill: Wall of Swords
+effects:
+  - Deals 202% damage to all enemies
+  - >-
+    The caster and nearby allies counterattack with 125% of the damage received
+    for 5 turns
+types:
+  - Hit All
+  - Counterattack
+image: https://i.imgur.com/DJkMDg0.jpg
+costume:
+  class: Rogue
+  power: 793
+  attack: 845
+  defense: 588
+  health: 1494
+  skill: Sword Barricade
+  effects:
+    - Deals 172% damage to all enemies
+    - >-
+      The caster and nearby allies counterattack with 155% of the damage
+      received for 5 turns
+  types:
+    - Hit All
+    - Counterattack
+  image: https://i.imgur.com/rs8S0na.jpg

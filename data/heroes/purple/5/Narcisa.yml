@@ -1,0 +1,23 @@
+name: Narcisa
+class: Sorcerer
+speed: Fast
+family: Bard
+source: Festival
+power: 829
+attack: 824
+defense: 768
+health: 1439
+skill: Song of Calamity
+effects:
+  - Deals 240% damage to all enemies.
+  - The duration of status ailments is reset for all enemies.
+  - All enemies get -34% attack for 3 turns
+types:
+  - Hit All
+  - Status Ailment Duration Reset
+  - Attack Debuff
+passives:
+  - >-
+    Reduces the chance of revival by -50%. The effect applies to all enemies in
+    the battle.
+image: https://i.imgur.com/ZW5xxnu.jpg

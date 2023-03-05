@@ -1,0 +1,29 @@
+name: Peridot
+class: Rogue
+source: Ninja
+family: Ninja
+power: 818
+attack: 815
+defense: 739
+health: 1435
+speed: Charge
+skill: Suffocating Smoke
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - ' * Deals 240% damage to the target.'
+  - ' • The target receives 220 Poison damage over 2 turns.'
+  - ' • The target gets -35% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.'
+  - 'x2 Mana Charge:'
+  - ' * Deals 280% damage to the target and nearby enemies.'
+  - ' * The target and nearby enemies receive 438 Poison damage over 3 turns.'
+  - ' * The target and nearby enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.'
+  - 'x3 Mana Charge:'
+  - ' * Deals 320% damage to all enemies.'
+  - ' * All enemies receive 764 Poison damage over 4 turns.'
+  - ' * All enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.'
+types:
+  - Hit
+  - Dot
+  - Accuracy Debuff
+image: https://i.imgur.com/E1kxfPE.jpg

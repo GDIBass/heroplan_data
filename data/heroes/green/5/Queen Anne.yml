@@ -1,0 +1,27 @@
+name: Queen Anne
+source: Musketeer
+class: Cleric
+family: Musketeer
+speed: Slow
+power: 840
+attack: 708
+defense: 889
+health: 1580
+skill: The Queen's Speech
+effects:
+  - >-
+    The caster gets Taunt that prevents enemies from using Special Skills on the
+    caster’s allies for 6 turns.
+  - All allies get +65% defense for 6 turns.
+  - All allies get +44% mana generation for 6 turns.
+  - Caster regenerates 918 HP over 6 turns
+types:
+  - Taunt
+  - Defense Buff
+  - Mana Generation Buff
+passives:
+  - >-
+    When this character receives damage from Special Skills or in place of a
+    character in Cover, there’s a 60% chance of deal 20% of the received damage
+    on all enemies.
+image: https://i.imgur.com/BoTIbhq.jpg

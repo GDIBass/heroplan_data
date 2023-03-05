@@ -1,0 +1,21 @@
+name: Helo
+class: Druid
+source: Season4
+speed: Average
+power: 478
+attack: 457
+defense: 505
+health: 799
+skill: Healthiest Catch
+effects:
+  - Recovers 32% health for all allies.
+  - Cleanses status ailments from all allies.
+types:
+  - Heal All
+  - Cleanse All
+family: Underwild
+passives:
+  - >-
+    Duration of the first 3 buffs this hero receives from Special Skills is
+    increased by 1 turn
+image: https://i.imgur.com/e1OFOms.jpg

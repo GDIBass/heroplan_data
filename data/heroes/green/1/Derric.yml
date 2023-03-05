@@ -1,0 +1,14 @@
+name: Derric
+class: Fighter
+source: Season1
+speed: Average
+power: 210
+attack: 193
+defense: 197
+health: 380
+skill: Axe Throw
+effects:
+  - Deals 255% damage to the target
+types:
+  - Hit 1
+image: https://i.imgur.com/qLk060b.jpg

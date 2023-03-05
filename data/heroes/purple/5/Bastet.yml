@@ -1,0 +1,25 @@
+name: Bastet
+class: Ranger
+speed: Fast
+family: Moon
+source: Season5
+power: 837
+attack: 784
+defense: 817
+health: 1495
+skill: Quick and Nimble
+effects:
+  - Deals 220% damage to all enemies.
+  - >-
+    All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge
+    gives +5% defense stack (Max: 10).
+types:
+  - Hit All
+  - Dodge Buff
+passives:
+  - >-
+    50% chance to perform the following actions when this character casts their
+    Special Skill:
+  - ' * Deals 70% damage to all enemies.'
+  - ' * Dispells the latest dispellable buff from all enemies.'
+image: https://i.imgur.com/4N9tjf5.jpg

@@ -1,0 +1,17 @@
+name: Triton
+class: Ranger
+source: Season2
+speed: Fast
+power: 652
+attack: 720
+defense: 601
+health: 1049
+skill: Trident Throw
+effects:
+  - Deals 335% damage to the target
+  - All allies get +39% increase for any healing received for 4 turns
+types:
+  - Hit 1
+  - Healing Buff
+family: Atlantis
+image: https://i.imgur.com/nJsozVv.jpg

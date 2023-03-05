@@ -1,0 +1,23 @@
+name: Director Zuri
+class: Sorcerer
+source: Starfall
+speed: Average
+power: 808
+attack: 766
+defense: 772
+health: 1421
+skill: Director's Blessing
+effects:
+  - >-
+    Recovers 65% health for the ally with the lowest ramining HP. All other
+    allies recover 30% health.
+  - >-
+    Summons a Clown Minion for each ally with 15% HP and 22% attack inherited
+    from the caster.
+  - Cleanses status ailments from all allies.
+types:
+  - Heal all
+  - Cleanser
+  - Summoner
+family: Starfall
+image: https://i.imgur.com/NrSrxkV.jpg

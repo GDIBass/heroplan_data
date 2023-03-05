@@ -1,0 +1,24 @@
+name: Dr Moreau
+class: Paladin
+source: Season4
+speed: Fast
+power: 807
+attack: 774
+defense: 751
+health: 1432
+skill: Blinding Wisdom
+effects:
+  - Deals 270% damage to the target and nearby enemies.
+  - >-
+    The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss
+    also applies to offensive Special Skills. The effect duration is reset if
+    the target is healed.
+types:
+  - Hit 3
+  - Accuracy Debuff
+family: Underwild
+passives:
+  - >-
+    Received damage is reduced by -20% for the first 3 times this Hero receives
+    damage from Special Skills.
+image: https://i.imgur.com/fpP6oo2.jpg

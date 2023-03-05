@@ -1,0 +1,23 @@
+name: Orla
+class: Ranger
+source: Slayers
+speed: Slow
+power: 677
+attack: 635
+defense: 680
+health: 1285
+skill: Graceful Shot
+effects:
+  - Deals 230% damage to the target.
+  - Deals 450% damage if the target has less than 50% health remaining.
+  - The target and nearby enemies get -24% mana generation for 3 turns.
+  - 'Stack +2 (Max: 10): The caster gets +10% mana generation.'
+  - 'Sack (Max: 10): The caster recovers 10 HP each turn.'
+types:
+  - Hit 1
+  - Mana generation debuff
+  - Stack
+family: Slayer
+passives:
+  - Damage caused by status ailments reduced by -50%
+image: https://i.imgur.com/YWXxtDj.jpg

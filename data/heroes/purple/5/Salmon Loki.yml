@@ -1,0 +1,21 @@
+name: Salmon Loki
+class: Druid
+source: Season3
+speed: Average
+power: 788
+attack: 745
+defense: 751
+health: 1376
+skill: Trickster's Transformation
+effects:
+  - Deals 225% damage to all Holy enemies.
+  - >-
+    For 3 turns the element of all enemies is changed each turn. On the first 2
+    turns, the element is random.
+  - On the last turn, enemies revert to their original element.
+  - After each element change, enemies take 126 damage if their element is HOly
+types:
+  - Hit Some
+  - Weird
+family: Niflheim
+image: https://i.imgur.com/fVTl018.jpg

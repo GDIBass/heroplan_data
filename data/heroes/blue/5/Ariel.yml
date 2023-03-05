@@ -1,0 +1,37 @@
+name: Ariel
+class: Cleric
+source: Season2
+speed: Average
+power: 772
+attack: 731
+defense: 768
+health: 1260
+skill: Divine Protection
+effects:
+  - Recovers 40% health for all allies
+  - All allies get +24% mana generation for 4 turns
+  - Cleanses status ailments from all allies
+types:
+  - Healer
+  - Cleanser
+family: Atlantis
+image: https://i.imgur.com/WWzsu8l.jpg
+costume:
+  class: Sorcerer
+  power: 772
+  attack: 743
+  defense: 758
+  health: 1250
+  skill: Deep Sea Ritual
+  effects:
+    - >-
+      Boosts health of all allies by 520. If health exceeds max HP, it is added
+      as temporary HP.
+    - All allies regenerate a moderate amount of mana over 4 turns.
+    - Cleanses status ailments from all allies.
+  types:
+    - Health Boost
+    - Mana regeneration
+    - Cleanser
+  image: https://i.imgur.com/gRSAJUL.jpg
+  bonuses: 2/2/4/1

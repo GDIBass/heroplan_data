@@ -1,0 +1,44 @@
+name: Baldur
+class: Ranger
+source: Season3
+speed: Average
+power: 787
+attack: 807
+defense: 696
+health: 1326
+skill: Unbreakable Brawler
+effects:
+  - >-
+    Boosts health of the caster by 1000. If health exceeds max HP, it is added
+    as temporary HP. Max temporary HP is 100% of max HP. Boosted health counters
+    max HP reduction.
+  - >-
+    All allies resist direct mana reduction for as long as the caster has
+    boosted health. This effect cannot be dispelled.
+  - >-
+    Deals 165% damage to a random enemy each turn for as long as the cater has
+    boosted health. This effect cannot be dispelled.
+types:
+  - Health Boost
+family: Muspelheim
+image: https://i.imgur.com/bmdaK3F.jpg
+costume:
+  class: Monk
+  power: 829
+  attack: 810
+  defense: 761
+  health: 1483
+  skill: Relentless Brawler
+  effects:
+    - Deals 400% damage to the target.
+    - Boosts health of the caster by 850. Boosted health can exceed max HP.
+    - >-
+      All allies resist mana reduction for as long as the caster has boosted
+      health. This effect can't be dispelled.
+    - >-
+      Deals 185% damage to a random enemy each turn for as long as the caster
+      has boosted health. This effect can't be dispelled.
+  types:
+    - Hit 1
+    - Health Boost
+  image: https://i.imgur.com/oTqqeuM.jpg

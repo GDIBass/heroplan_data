@@ -1,0 +1,14 @@
+name: Layla
+class: Rogue
+source: Season1
+speed: Fast
+power: 338
+attack: 336
+defense: 340
+health: 574
+skill: Poisoned Blade
+effects:
+  - The target receives 78 damage over 6 turns
+types:
+  - DOT 1
+image: https://i.imgur.com/bWdwLhP.jpg

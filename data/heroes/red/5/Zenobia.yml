@@ -1,0 +1,27 @@
+name: Zenobia
+class: Cleric
+source: Season4
+speed: Average
+power: 809
+attack: 824
+defense: 756
+health: 1316
+skill: Dual Sting
+effects:
+  - >-
+    Deals 320% damage to the enemies on he edges of the enemy formation. If
+    there is only one enemy alive, the damage is doubled.
+  - >-
+    Alters the power of all Fire shields on the board. When an attacking Hero
+    casts the special, the shield becomes enhanced with +64% attck. When a
+    defending Hero casts the special, the shields become weakened with -57^
+    attack.
+types:
+  - Hit 2
+  - Shield Enhance
+family: Underwild
+passives:
+  - >-
+    Duration of the first 3 buffs this hero receives from Special Skills is
+    increased by 1 turn.
+image: https://i.imgur.com/H6eN1G6.jpg

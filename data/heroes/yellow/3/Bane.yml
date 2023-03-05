@@ -1,0 +1,34 @@
+name: Bane
+class: Monk
+source: Season1
+speed: Fast
+power: 440
+attack: 469
+defense: 410
+health: 693
+skill: Harmonic Slam
+effects:
+  - Deals 300% damage to the target
+  - >-
+    The target gets -35% accuracy for 4 turns. Chance to miss also applies to
+    offensive Special Skills.
+types:
+  - Hit 1
+  - Blind
+image: https://i.imgur.com/9aCbPHu.jpg
+costume:
+  class: Ranger
+  power: 464
+  attack: 529
+  defense: 423
+  health: 682
+  skill: Harmonic Bash
+  effects:
+    - Deals 280% damage to the target
+    - >-
+      The target gets -40% accuracy for 4 turns. Chance to miss also applies to
+      offensive Special Skills.
+  types:
+    - Hit 1
+    - Blind
+  image: https://i.imgur.com/oMyq8FB.jpg

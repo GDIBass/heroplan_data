@@ -1,0 +1,19 @@
+name: Pixie
+class: Cleric
+source: Fables
+speed: Average
+power: 455
+attack: 427
+defense: 436
+health: 848
+skill: Pixie Dust
+effects:
+  - Deals 290% damage to the target.
+  - >-
+    Automatically does 21% damage to the target when the target's mana is full
+    and reduces their mana by 50% for 3 turns.
+types:
+  - Hit 1
+  - Mindless Self Attack
+family: Grimforest
+image: https://i.imgur.com/jFlvi1a.jpg

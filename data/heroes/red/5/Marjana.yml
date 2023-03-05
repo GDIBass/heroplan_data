@@ -1,0 +1,30 @@
+name: Marjana
+class: Rogue
+source: Season1
+speed: Fast
+power: 755
+attack: 669
+defense: 712
+health: 1404
+skill: Magma Smash
+effects:
+  - Deals 458% damage to the target
+  - The target receives 300 damage over 6 turns
+types:
+  - Hit 1
+  - Dot 1
+image: https://i.imgur.com/H8u69R9.jpg
+costume:
+  class: Wizard
+  power: 795
+  attack: 753
+  defense: 704
+  health: 1499
+  skill: Lava Blast
+  effects:
+    - Deals 358% damage to the target and minor damage to nearby enemies.
+    - The target and nearby enemies get -54% defense against Fire for 3 turns.
+    - All Ice enemies get -34% attack for 3 turns
+  types:
+    - Elemental Defense Debuff
+  image: https://i.imgur.com/E1sWcp1.jpg

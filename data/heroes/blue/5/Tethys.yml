@@ -1,0 +1,19 @@
+name: Tethys
+source: Season2
+class: Ranger
+family: Atlantis
+speed: Fast
+power: 825
+attack: 817
+defense: 760
+health: 1442
+skill: Amphibious Assault
+effects:
+  - Deals 300% damage to target and nearby enemies.
+  - The target and nearby enemies receive 390 Water damage over 3 turns.
+  - All allies that are not of Ice element get +30% attack of 3 turns.
+  - All Ice allies get +60% attack for 3 turns.
+types:
+  - Hit 3
+  - Dot 3
+image: https://i.imgur.com/LPmQIgT.jpg

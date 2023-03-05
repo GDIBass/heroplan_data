@@ -1,0 +1,50 @@
+name: Marie-Therese
+class: Monk
+source: Pirates
+speed: Slow
+power: 780
+attack: 774
+defense: 723
+health: 1301
+skill: Zombie Blessing
+effects:
+  - Deals 168% damage to all enemies
+  - All allies regenerate 612 HP over 4 turns
+  - All allies get +30% defense for 4 turns
+  - >-
+    All allies receive Zombie Blessing. If the blessed hero dies in the next 4
+    turns, they will be reborn as a Zombie with:
+  - '00% health. 500 attack. 500 defense. Special Skill: Poison Bite.'
+types:
+  - Hit All
+  - Healer
+  - Defense Buffer
+  - Zombie Buff
+family: Corellia
+image: https://i.imgur.com/sKXoFnG.jpg
+costume:
+  class: Druid
+  bonuses: 5/5/10/5
+  power: 805
+  attack: 775
+  defense: 763
+  health: 1397
+  skill: Zombie Invocation
+  effects:
+    - Deals 138% damage to all enemies
+    - >-
+      All allies regenerae 600 boosted health over 4 turns. Boosted health can
+      exceed max HP. This effect can't be dispelled.
+    - All allies get +30% defense for 4 turns. This effect can't be dispelled.
+    - >-
+      All allies receive Zombie Blessing. If the blessed Hero dies in the next 4
+      turns, they will be reborn as a Zombie with:
+    - '* 100% inherited health'
+    - '*  500 attack'
+    - '*  500 defense'
+    - '* Special Attack of Poison Bite.'
+  types:
+    - Hit all
+    - Health boost
+    - Zombie
+  image: https://i.imgur.com/cwv2NUd.jpg

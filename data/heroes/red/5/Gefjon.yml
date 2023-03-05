@@ -1,0 +1,31 @@
+name: Gefjon
+class: Ranger
+source: Season3
+speed: Fast
+power: 785
+attack: 772
+defense: 766
+health: 1258
+skill: Maiden's Command
+effects:
+  - Steals minions from the target.
+  - Deals 500% damage to the target
+types:
+  - Hit 1
+  - Minion Steal
+family: Muspelheim
+image: https://i.imgur.com/BYGrEEN.jpg
+costume:
+  class: Fighter
+  power: 827
+  attack: 795
+  defense: 810
+  health: 1409
+  skill: Maiden's Orders
+  effects:
+    - Destroys all Minions from the target and nearby enemies.
+    - Deals 335% damage to the target and nearby enemies.
+  types:
+    - Hit 3
+    - Destroys Minions
+  image: https://i.imgur.com/ZoOkEJb.jpg

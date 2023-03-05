@@ -1,0 +1,26 @@
+name: Rekhetre
+source: Season5
+class: Wizard
+family: Sun
+speed: Average
+power: 483
+attack: 470
+defense: 493
+health: 825
+skill: Puzzling Riddle
+effects:
+  - >-
+    All allies regenerate 450 boosted health over 3 turns. Boosted health can
+    exceed max HP.
+  - >-
+    The caster gets +84% defense against Dark, and a further 2% increase every
+    time they are hit during 3 turns.
+types:
+  - Regen All
+passives:
+  - >-
+    Effects on Special Skill - 60% chance to perform the following actions when
+    this character casts their Special Skill:
+  - '* Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+  - '* Cleanses the latest cleansable status ailments from all allies.'
+image: https://i.imgur.com/nkaWucV.jpg
