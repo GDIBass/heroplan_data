@@ -1,0 +1,11 @@
+key: kingdom
+code: 42
+description: Kingdom
+image: https://i.imgur.com/Yt0YsgL.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "3% / 6% / 10% mana each time a Minion is summoned for the Hero."
+  - "4% / 6% / 8% heal each time a Minion is summoned for the Hero."
+  - "Morale Boost:"
+  - "Heroes belonging to this family as well as heroes fighting alongside with them receive additional perks in War of the Three Kingdoms:"
+  - "+10% attack, + 3% defense, +7% health"

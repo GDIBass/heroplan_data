@@ -1,0 +1,8 @@
+key: grimforest
+code: 3
+description: Grimforest
+image: https://i.imgur.com/GVVODC4.png
+bonus:
+  - "Bonus for 2/3/4/5 Unique Heroes:"
+  - "+3%/+6%/+10%/+15% attack"
+  - "+5%/+10%/+15%/+20% defense"

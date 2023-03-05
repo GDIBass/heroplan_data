@@ -1,0 +1,8 @@
+key: christmas
+code: 14
+description: Christmas
+image: https://i.imgur.com/icjpHCr.png
+bonus:
+  - "Bonus for 2/3 Unique Heroes:"
+  - "+5%/ +10% health for Minions"
+  - "+5%/ +10% attack for Minions"

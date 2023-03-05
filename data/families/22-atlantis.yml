@@ -1,0 +1,7 @@
+key: atlantis
+code: 22
+description: Atlantis
+image: https://i.imgur.com/NnEpJz6.png
+bonus:
+  - "Bonus for 1/2/3/4/5 Unique Heroes:"
+  - "+5%/+10%/+15%/+20%/+25% defense"

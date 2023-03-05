@@ -1,0 +1,9 @@
+key: slayer
+code: 8
+description: Slayer
+image: https://i.imgur.com/aswQGWQ.png
+bonus:
+  - "Bonus for 1/2/3 Heroes:"
+  - "50%/75%/100% chance to receive the following stacks at the end of each turn:"
+  - " * Stack (Max: 10): The caster recovers 10 HP each turn."
+  - " * Stack (Max: 10): The caster gets +5% mana generation."

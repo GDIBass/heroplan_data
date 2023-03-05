@@ -1,0 +1,8 @@
+key: wonderland
+code: 5
+description: Wonderland
+image: https://i.imgur.com/DJoFMFs.png
+bonus:
+  - "Bonus for 2/3/4/5 Unique Heroes:"
+  - "+2%/+4%/+7%/+12% mana generation"
+  - "+5%/+10%/+15%/+20% critical chance"

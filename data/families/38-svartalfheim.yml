@@ -1,0 +1,7 @@
+key: svartalfheim
+code: 38
+description: Svartalfheim
+image: https://i.imgur.com/db0FRjF.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "All enemies received 22/37/64 Poison damage for as long as a Svartalfheim ally has low health. This effect cannot be dispelled."

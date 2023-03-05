@@ -1,0 +1,8 @@
+key: bard
+code: 64
+description: Bard
+image: https://i.imgur.com/qQBckbX.png
+bonus:
+  - Bard Family supports other families and realms.
+  - " * Solo Heroes get +5% mana generation. Team members are Solo Heroes if they have no family or realm members in the Team."
+  - "The members of this family have additional perks in the Challenge Festival events."

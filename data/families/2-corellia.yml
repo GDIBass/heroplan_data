@@ -1,0 +1,8 @@
+key: corellia
+code: 2
+description: Corellia
+image: https://i.imgur.com/G2RecHB.png
+bonus:
+  - "Bonus for 2/3/4/5 Unique Heroes:"
+  - "+3%/+6%/+10%/+15% attack"
+  - "+2%/+4%/+7%/+12% mana generation"

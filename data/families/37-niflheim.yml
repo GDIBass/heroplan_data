@@ -1,0 +1,7 @@
+key: niflheim
+code: 37
+description: Niflheim
+image: https://i.imgur.com/9IKlBPF.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "All enemies have -5/-10/-15% accuracy for as long as a Niflheim ally has low health. Chance to miss also applies to offensive Special Skills."

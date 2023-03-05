@@ -1,0 +1,9 @@
+key: 2018
+code: 2018
+description: 2018
+image: https://i.imgur.com/0NLCsjr.png
+bonus:
+  - "Bonus for 1/2/3:"
+  - "+10%/+15%/+20% defense."
+  - "Bonus for 2+ Heroes:"
+  - "Element Link affects all allies."

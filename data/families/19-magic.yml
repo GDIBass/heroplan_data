@@ -1,0 +1,8 @@
+key: magic
+code: 19
+description: Magic
+image: https://i.imgur.com/iEc5AVT.png
+bonus:
+  - "Bonus for 2/3 Unique Heroes:"
+  - "25% / 50% chance to cast +5 mana generation stack on a random ally when this hero casts their special skill."
+  - "Maximum stack size: 10"

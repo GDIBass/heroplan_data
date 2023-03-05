@@ -1,0 +1,7 @@
+key: vanaheim
+code: 39
+description: Vanaheim
+image: https://i.imgur.com/cxNRl8V.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "The mana of all enemies is reduced by -5/-10/-15% when a Vanaheim Hero dies."

@@ -1,0 +1,9 @@
+key: 2020
+code: 2020
+description: 2020
+image: https://i.imgur.com/n2Qg9sY.png
+bonus:
+  - "Bonus for 1/2/3:"
+  - "+10%/+15%/+20% healing."
+  - "Bonus for 2+ Heroes:"
+  - "Element Link affects all allies."

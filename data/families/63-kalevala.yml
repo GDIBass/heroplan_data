@@ -1,0 +1,7 @@
+key: kalevala
+code: 63
+description: Kalevala
+image: https://i.imgur.com/dNC6vDL.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "Receive -10%/-25%/-40% less damage from the Special Skills of the stronger element."

@@ -1,0 +1,7 @@
+key: sakura
+code: 21
+description: Sakura
+image: https://i.imgur.com/Zhij1jV.png
+bonus:
+  - "Bonus for 2/3/4/5 Unique Heroes:"
+  - "+2%/+4%/+7%/+12% mana generation"

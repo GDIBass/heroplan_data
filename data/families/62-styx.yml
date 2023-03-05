@@ -1,0 +1,7 @@
+key: styx
+code: 62
+description: Styx
+image: https://i.imgur.com/yRp9vf6.png
+bonus:
+  - "Bonus for 1/2 Unique Heroes:"
+  - "When this Hero receives a status ailment affecting defense, 40%/60% chance to cast the received ailment to all enemies."

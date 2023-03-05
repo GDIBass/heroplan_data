@@ -1,0 +1,7 @@
+key: asgard
+code: 32
+description: Asgard
+image: https://i.imgur.com/WH4jFxU.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "All allies gain 10/15/20% mana when an Asgard Hero dies"

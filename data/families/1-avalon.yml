@@ -1,0 +1,8 @@
+key: avalon
+code: 1
+description: Avalon
+image: https://i.imgur.com/3w1wXtX.png
+bonus:
+  - "Bonus for 2/3/4/5 Unique Heroes:"
+  - "+5%/+10%/+15%/+20% critical chance"
+  - "+4%/+6%/+9%/+13% healing"

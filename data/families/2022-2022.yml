@@ -1,0 +1,9 @@
+key: 2022
+code: 2022
+description: 2022
+image: https://i.imgur.com/UE4MmwK.png
+bonus:
+  - "Bonus for 1/2/3 Heroes:"
+  - "+10%/+15%/+20% attack."
+  - "Bonus for 2+ Heroes:"
+  - "Element Link affects all allies."

@@ -1,0 +1,7 @@
+key: gargoyle
+code: 61
+description: Gargoyle
+image: https://i.imgur.com/ufI7ypu.png
+bonus:
+  - "Bonus for 1/2/3/ Unique Heroes:"
+  - "Immune to Poison damage / Immune to Poison and Burn damage / Immune to Poison and Burn and Water damage"

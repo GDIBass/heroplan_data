@@ -1,0 +1,10 @@
+key: musketeer
+code: 69
+description: Brave Musketeers
+image: https://i.imgur.com/n63AlFO.png
+bonus:
+  - "Bonus for 1/2/3 Heroes:"
+  - "50%/75%/100% chance to give Cover to a random ally for 6 turns when this character casts their Special Skill."
+  - "While in Cover, the ally takes no damage from Special Skill attacks or normal attacks. This character takes 90% / 70% / 70% of the damage that would by received by the character in Cover."
+  - "This effect can’t be dispelled, but ends when this character is defeated. Characters can only give cover to one ally at a time."
+  - "The members of this family have additional perks in the Brave Musketeers event."
