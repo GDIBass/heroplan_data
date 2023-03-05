@@ -359,7 +359,7 @@
   class: Cleric
   speed: Average
   source: Covenant
-  family: MonsterHunter
+  family: PlainsHunter
   power: 484
   attack: 451
   defense: 477

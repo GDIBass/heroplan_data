@@ -59,10 +59,10 @@ sources:
     key: knights
     code: 59
     description: Clash of Knights
-  monsterhunter:
-    key: monsterhunter
+  plainshunter:
+    key: plainshunter
     code: 60
-    description: Monster Hunter
+    description: Plains Hunter
   pets:
     key: pets
     code: 61
@@ -71,6 +71,14 @@ sources:
     key: dynasty
     code: 62
     description: Dynasty
+  abysshunter:
+    key: abysshunter
+    code: 63
+    description: Abyss Hunter
+  junglehunter:
+    key: junglehunter
+    code: 64
+    description: Jungle Hunter
   springvale:
     key: springvale
     code: 101
