@@ -1,0 +1,9 @@
+key: 2021
+code: 2021
+description: 2021
+image: https://i.imgur.com/cE1r5Rx.png
+bonus:
+  - "Bonus for 1/2/3:"
+  - "+10%/+15%/+20% critical chance."
+  - "Bonus for 2+ Heroes:"
+  - "Element Link affects all allies."

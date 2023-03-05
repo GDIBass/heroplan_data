@@ -1,0 +1,7 @@
+key: name
+code: 1
+description: Full Name
+image: imgurLink
+bonus:
+  - "Bonus for 1/2/3:"
+  - "Bonus Line 2"

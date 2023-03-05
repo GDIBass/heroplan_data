@@ -1,0 +1,7 @@
+key: jotunheim
+code: 34
+description: Jotunheim
+image: https://i.imgur.com/9l70B0q.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "All allies get an Ice Giant minion with 6/10/14% HP and 10/12/16% attack inherited from the caster when a Jotunheim Hero dies."

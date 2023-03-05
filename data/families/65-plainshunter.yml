@@ -1,0 +1,7 @@
+key: monsterhunter
+code: 65
+description: Monster Hunter
+image: https://i.imgur.com/nHCW21A.png
+bonus:
+  - "Bonus for 2/3/4/5 Heroes:"
+  - "+5%/+10%/+15%/+20% attack."

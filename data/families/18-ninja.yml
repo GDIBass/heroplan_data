@@ -1,0 +1,8 @@
+key: ninja
+code: 18
+description: Ninja
+image: https://i.imgur.com/qT7O029.png
+bonus:
+  - "Bonus for 2/3 Unique Heroes:"
+  - "+5%/+10% chance to dodge normal attacks and special skills"
+  - "+5%/10% chance to counterattack with 60%/90% of the damage received"

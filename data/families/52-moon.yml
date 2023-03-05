@@ -1,0 +1,8 @@
+key: moon
+code: 52
+description: Moon
+image: https://i.imgur.com/UTdgxg0.png
+bonus:
+  - "Bonus for 1/2 Unique Heroes:"
+  - "10% / 20% chance to make a cast -24% defense for 2 turns and X Water damage over 2 turns on an enemy who deals Special Skill damage to this character."
+  - "If the enemy’s Special Skill defeats this character, the chance is 50%/75%"

@@ -1,0 +1,9 @@
+key: 2017
+code: 2017
+description: 2017
+image: https://i.imgur.com/Ukh12sD.png
+bonus:
+  - "Bonus for 1/2/3:"
+  - "+5%/+10%/+15% mana generation."
+  - "Bonus for 2+ Heroes:"
+  - "Element Link affects all allies."

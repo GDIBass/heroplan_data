@@ -1,0 +1,7 @@
+key: junglehunter
+code: 74
+description: Jungle Hunter
+image: https://i.imgur.com/bp1I06m.png
+bonus:
+  - "Bonus for 2/3/4/5 Heroes:"
+  - "+5%/+10%/+15%/+20% HP."

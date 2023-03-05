@@ -1,0 +1,7 @@
+key: midgard
+code: 35
+description: Midgard
+image: https://i.imgur.com/iwz5zfk.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "All allies get +5%/+10%/+15% attack for as long as a Midgard ally has low health. This effect cannot be dispelled."

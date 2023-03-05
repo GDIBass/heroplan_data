@@ -1,0 +1,7 @@
+key: wolf
+code: 9
+description: Wolf
+image: https://i.imgur.com/X6O3SJI.png
+bonus:
+  - "Bonus for 2/3 Heroes:"
+  - "35%/50% chance to make a cast buff undispellable."

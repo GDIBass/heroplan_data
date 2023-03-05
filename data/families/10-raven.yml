@@ -1,0 +1,7 @@
+key: raven
+code: 10
+description: Raven
+image: https://i.imgur.com/sUg7Gui.png
+bonus:
+  - "Bonus for 2/3 Heroes:"
+  - "35%/50% chance to make a cast ailment uncleansable."

@@ -1,0 +1,7 @@
+key: underwild
+code: 41
+description: Underwild
+image: https://i.imgur.com/XH6RVMi.png
+bonus:
+  - "Bonus for 1/2/3/4/5 Unique Heroes:"
+  - "20%/24%/28%/32%/36% chance to spawn an Underwild Gem on the board when this Hero casts their Special Skill"

@@ -1,0 +1,7 @@
+key: starfall
+code: 7
+description: Starfall
+image: https://i.imgur.com/EWmrEVJ.png
+bonus:
+  - "Bonus for 2/3 Heroes:"
+  - "40%/60% chance to cleanse the Hero's most recent cleansable status ailment at the end of each turn."

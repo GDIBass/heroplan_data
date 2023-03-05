@@ -1,0 +1,7 @@
+key: muspelheim
+code: 36
+description: Muspelheim
+image: https://i.imgur.com/yfntUFd.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "All enemies receive 22/37/64 Burn damage for as long as a Muspelheim ally has low health. This effect cannot be dispelled."

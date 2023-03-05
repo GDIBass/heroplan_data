@@ -1,0 +1,10 @@
+key: pet
+code: 67
+description: Mighty Pet Family
+image: https://i.imgur.com/pwIys3e.png
+bonus:
+  - "Bonus for 1/2/3 Heroes:"
+  - "Minions for this Hero inherit +2%/+3%/+4% extra attack."
+  - "Minions for this Hero inherit +2%/+3%/+4% extra health."
+  - "Fiends for this Hero absorb -2%/-3%/-4% less max health."
+  - "Fiends for this Hero inherit -2%/-3%/-4% less attack."
