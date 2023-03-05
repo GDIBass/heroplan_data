@@ -14,7 +14,7 @@
   types:
     - Hit 3
     - Defense Debuff
-  image: https://i.imgur.com/d1kizWl.jpg
+  image: https://i.imgur.com/XQUgnc6.jpg
   costume:
     class: Paladin
     power: 674
@@ -28,7 +28,7 @@
     types:
       - Hit all
       - Defense Debuff
-    image: https://i.imgur.com/QSaL4cP.jpg
+    image: https://i.imgur.com/IyFUCM0.jpg
 - name: Sabina
   class: Sorcerer
   source: Season1
@@ -43,7 +43,7 @@
     - Dispels buffs from all enemies
   types:
     - Healer
-  image: https://i.imgur.com/xEzmD1D.jpg
+  image: https://i.imgur.com/G6mmZNN.jpg
   costume:
     class: Cleric
     power: 674
@@ -73,7 +73,7 @@
   types:
     - Healer
     - Cleanser
-  image: https://i.imgur.com/Y4YUtsb.jpg
+  image: https://i.imgur.com/epzxGwy.jpg
   costume:
     class: Ranger
     power: 681
@@ -89,7 +89,7 @@
       - HOT
       - Attack Buff
       - Cleanser
-    image: https://i.imgur.com/dR0LrS3.jpg
+    image: https://i.imgur.com/9nzkBMP.jpg
 - name: Proteus
   class: Wizard
   source: Season2
@@ -279,15 +279,15 @@
   types:
     - Ghost
   realm: Helheim
-  image: https://i.imgur.com/9LKW944.jpg
+  image: https://i.imgur.com/7VLylDF.jpg
 - name: Fura
   class: Wizard
   source: Season3
   speed: Average
-  power: 681
-  attack: 728
-  defense: 647
-  health: 1147
+  power: 660
+  attack: 707
+  defense: 629
+  health: 1083
   skill: Nightglade Pollen
   effects:
     - Deals 150% damage to all enemies.
@@ -304,17 +304,16 @@
     power: 681
     attack: 749
     defense: 625
-    health: 1138
+    health: 1139
     skill: Nightbloom Dust
     effects:
-      - Deals 280% damage to the target and nearby enemies.
-      - Reduces the mana of the target and nearby enemies by 15%.
+      - Deals 280% to the target and nearby enemies.
+      - Reduces the mana of the target and the nearby enemies by 15%.
       - The target and nearby enemies get -75% decrease for any healing received for 3 turns.
     types:
       - Hit 3
-      - Mana Reduction
-      - Healing Debuff
-    image: https://i.imgur.com/GaN2l9J.jpg
+    bonuses: 3/3/6/1
+    image: https://i.imgur.com/ibwrmzt.jpg
 - name: Ametrine
   class: Barbarian
   source: Ninja
@@ -420,7 +419,7 @@
     - Cleanser
     - Healer
   passives:
-    - When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/FvJxtPO.jpg
 - name: Arges
   speed: Charge
@@ -491,3 +490,21 @@
     - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
     - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   image: https://i.imgur.com/p15TPST.jpg
+- name: Heifeng Guai
+  source: Kingdom
+  class: Rogue
+  speed: Fast
+  family: Journey
+  power: 686
+  attack: 669
+  defense: 624
+  health: 1379
+  skill: Black Tassel Spear Sting
+  effects:
+    - Deals 285% damage to target
+    - The duration of dispellable status ailments is reset for the target.
+    - The target gets -35% defense for 3 turns.
+  types:
+    - Hit 1
+    - Defense Down
+  image: https://i.imgur.com/cY9fvY1.jpg

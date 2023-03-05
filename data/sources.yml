@@ -59,6 +59,18 @@ sources:
     key: knights
     code: 59
     description: Clash of Knights
+  monsterhunter:
+    key: monsterhunter
+    code: 60
+    description: Monster Hunter
+  pets:
+    key: pets
+    code: 61
+    description: Pets
+  dynasty:
+    key: dynasty
+    code: 62
+    description: Dynasty
   springvale:
     key: springvale
     code: 101
@@ -122,7 +134,7 @@ sources:
   pet:
     key: pet
     code: 131
-    description: Pets
+    description: Pet
   masquerade:
     key: masquerade
     code: 132
@@ -131,3 +143,11 @@ sources:
     key: musketeer
     code: 133
     description: Brave Musketeers
+  lunaryear:
+    key: lunaryear
+    code: 134
+    description: Lunar Year
+  love:
+    key: love
+    code: 135
+    description: Season of Love

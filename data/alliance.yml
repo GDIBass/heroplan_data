@@ -15,7 +15,13 @@ member_status:
     id: 3
     key: manager
     description: Manager
+    manager: true
   leader:
     id: 4
     key: leader
     description: Leader
+    manager: true
+
+leader_status: 4
+requester_status: 1
+new_member_status: 2

@@ -67,6 +67,7 @@
     - Hit 1
     - Mana Reduction
     - Self Heal
+  family: Classic
   image: https://i.imgur.com/SPyWzYD.jpg
   costume:
     class: Barbarian
@@ -81,7 +82,25 @@
       - All Dark enemies get -34% attack for 4 turns
     types:
       - Hit 3
+    family: Classic
     image: https://i.imgur.com/c7cvRg8.jpg
+  costume2:
+    class: Ranger
+    power: 792
+    attack: 753
+    defense: 763
+    health: 1369
+    skill: Spartan Slash
+    effects:
+      - Deals 240% damage to all enemies
+      - Reduces the mana of all enemies by 10%
+      - All enemies get -34% defense for 3 turns. Against Dark characters, this status effect becomes uncleansable lasts 2 turn longer
+    types:
+      - Hit All
+      - Mana Reduction
+      - Defense Debuff
+    family: Classic
+    image: https://i.imgur.com/6haP2Yz.jpg
 - name: Vivica
   class: Cleric
   source: Season1
@@ -99,6 +118,7 @@
     - Healer
     - Defense Buff
     - Cleanser
+  family: Classic
   image: https://i.imgur.com/aHsNbej.jpg
   costume:
     class: Sorcerer
@@ -115,7 +135,25 @@
       - Healer
       - Defense Debuff
       - Dispeller
-    image: https://i.imgur.com/aaAeFsE.jpg
+    family: Classic
+    image: https://i.imgur.com/pm7wcbP.jpg
+  costume2:
+    class: Fighter
+    power: 859
+    attack: 800
+    defense: 807
+    health: 1630
+    skill: Omnimend
+    effects:
+      - Boosts health of all allies by 670. Boosted health can exceed max HP
+      - All enemies get -39% attack for 4 turns
+      - Dispels buffs from all enemies
+    types:
+      - Healer
+      - Attack Debuff
+      - Dispeller
+    family: Classic
+    image: https://i.imgur.com/J8lGs8A.jpg
 - name: Rana
   class: Monk
   source: Sand
@@ -222,6 +260,21 @@
     types:
       - Hit all
     image: https://i.imgur.com/KCL7Y0s.jpg
+  costume2:
+    class: Sorcerer
+    power: 858
+    attack: 793
+    defense: 802
+    health: 1656
+    skill: Ritual of Judgement
+    effects:
+      - Deals 300% damage to all enemies.
+      - The damage is increased by 45% per each dead enemy.
+      - All enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills
+    types:
+      - Hit All
+    family: Classic
+    image: https://i.imgur.com/feWdynO.jpg
 - name: Joon
   class: Monk
   source: Season1
@@ -237,6 +290,7 @@
   types:
     - Hit 1
     - Blind
+  family: Classic
   image: https://i.imgur.com/d5mevmf.jpg
   costume:
     class: Fighter
@@ -251,7 +305,25 @@
     types:
       - Hit 1
       - Blind
-    image: https://i.imgur.com/gxmmtLK.jpg
+    family: Classic
+    image: https://i.imgur.com/YXbYHIl.jpg
+  costume2:
+    class: Barbarian
+    power: 792
+    attack: 790
+    defense: 672
+    health: 1452
+    skill: Stellar Beam
+    effects:
+      - Deals 360% damage to target and nearby enemies
+      - The target and nearby enemies receive 180 Burn damage over 3 turns
+      - The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills
+    types:
+      - Hit 3
+      - Dot 3
+      - Blind
+    family: Classic
+    image: https://i.imgur.com/rJxyTcK.jpg
 - name: Inari
   class: Rogue
   source: Season2
@@ -449,6 +521,28 @@
     - Titan Attack Buff
   family: Teltoc
   image: https://i.imgur.com/B2LpVrC.jpg
+  costume:
+    class: Fighter
+    bonuses: 5/5/10/5
+    power: 822
+    attack: 812
+    defense: 783
+    health: 1381
+    skill: Bandalora Dance
+    effects:
+      - Removes all status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.
+      - Recovers 48% health for all allies.
+      - "For 4 turns all allies except the caster starting dancing the Dance of Spirits:"
+      - "+150% attack."
+      - Reduces all received damage by -30%.
+      - Gives immunity to new status effects.
+      - If the caster dies, the dancer receives 100 damage and their mana is reduced by 100.
+      - This effect can’t be dispelled, but it gets removed if caster dies
+    types:
+      - Cleanser
+      - Healer
+      - Attack Buff
+    image: https://i.imgur.com/E5qL0sl.jpg
 - name: Sif
   class: Rogue
   source: Season3
@@ -466,7 +560,7 @@
     - Counterattack
     - Mana Generation Buff
   family: Midgard
-  image: https://i.imgur.com/J8w1rJX.jpg
+  image: https://i.imgur.com/IEuL57g.jpg
   costume:
     class: Cleric
     power: 830
@@ -1063,6 +1157,7 @@
   image: https://i.imgur.com/cV84mq0.jpg
 - name: Kara
   source: Hotm
+  family: 2022
   class: Paladin
   speed: Average
   power: 802
@@ -1211,12 +1306,12 @@
     - The Muffin Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its target’s max health.
     - "Each hit from the Muffin Fiend has the following effects:"
     - "* The target takes +50% increased damage from status ailments for 3 turns."
-    - "* There is a 50% chance to refesh the duration of the status ailment with the least turns remaining."
+    - "* There is a 25% chance to refesh the duration of the status ailment with the least turns remaining."
   types:
     - Dot All
     - Fiend
   passives:
-    -  When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
+    -  When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/Lb4Sdwp.jpg
 - name: Nemesis
   class: Paladin
@@ -1397,7 +1492,7 @@
   source: Kingdom
   class: Fighter
   speed: Fast
-  family: Kingdom
+  family: Journey
   power: 840
   attack: 824
   defense: 776
@@ -1432,3 +1527,105 @@
   passives:
     - Reduces the chance of revival by -50%. The effect applies to all enemies in the battle.
   image: https://i.imgur.com/8WZ5oVt.jpg
+- name: Eset
+  class: Paladin
+  speed: Slow
+  family: Sun
+  source: Season5
+  power: 843
+  attack: 805
+  defense: 782
+  health: 1555
+  skill: Holly Aura
+  effects:
+    - Deals 250% damage to the target. Deals extra damage is the target is Dark.
+    - Deals 180% damage to 5 random enemies. Deals extra damage if the target is Dark.
+    - Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending hero casts the special, the shields become weakened with -57% attack.
+  types:
+    - Hit 1
+    - Hit Random
+  passives:
+    - "Effects on Special Skill"
+    - "70% chance to perform the following actions when this character casts their Special Skill:"
+    - "Deals 70% damage to all enemies."
+    - "All enemies get -34% attack for 3 turns."
+  image: https://i.imgur.com/0YdsTMt.jpg
+- name: Laohu
+  class: Monk
+  speed: Fast
+  family: lunaryear
+  source: lunaryear
+  power: 841
+  attack: 826
+  defense: 786
+  health: 1483
+  skill: Fierce Fu Jow Pai
+  effects:
+    - Deals 605% damage to the target.
+    - Boosts the caster’s health by 50% of damage dealt.
+  types:
+    - Hit 1
+    - Health Boost
+  passives:
+    - "Disable Minion Abilities - Attracts and abilities of all Minions owned by enemies are disabled."
+  image: https://i.imgur.com/3mERqj0.jpg
+- name: Dabria
+  class: Monk
+  speed: Average
+  source: Covenant
+  family: MonsterHunter
+  power: 841
+  attack: 803
+  defense: 846
+  health: 1417
+  skill: Liturgy of the Fallen
+  effects:
+    - Each fallen ally has a 40% chance to get revived with 20% HP.
+    - All allies regenerating 894 HP over 4 turns, starting low an increasing every turn.
+    - All allies get +24% defense for 4 turns. The defense increases by 10% each turn up to +54%.
+  types:
+    - Revive
+    - Healer
+    - Defense Buff
+  passives:
+    - Damage Over Time on Special - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
+    - Hunter’s Sense - When this character casts their Special Skill, they have 100% chance to transfer the newest cleansable status ailment from themselves to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.
+  image: https://i.imgur.com/EUt5N6q.jpg
+- name: Queen Guowang
+  source: Kingdom
+  class: Sorcerer
+  speed: Average
+  family: Journey
+  power: 842
+  attack: 778
+  defense: 813
+  health: 1555
+  skill: The Queen’s Radiance
+  effects:
+    - Deals 330% damage to all enemies.
+    - All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill
+    - The caster gets Vengeance for 4 turns. If Vengeance is dispelled by an enemy’s Special Skill, all enemies receive 525 damage
+  types:
+    - Hit All
+  image: https://i.imgur.com/CNKl3X2.jpg
+- name: Gilligan
+  class: Barbarian
+  speed: Slow
+  source: Hotm
+  family: 2023
+  power: 811
+  attack: 743
+  defense: 760
+  health: 1528
+  skill: Reckless Charge
+  effects:
+    - Deals 300% damage to the target and minor damage to nearby enemies.
+    - All allies get +44% defense against Dark for 4 turns.
+    - Element Link gives all Holy allies a +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled.
+  types:
+    - Hit 3
+    - Defense Buff
+  passives:
+    - Mana Per Enemy Buff - Gains small amount of mana for every status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).
+    - Resist Mana Ailments - This character has innate resistance against ailments that affect mana.
+  image: https://i.imgur.com/gcaSLmN.jpg

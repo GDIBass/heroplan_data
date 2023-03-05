@@ -115,6 +115,8 @@
     - Healing Steal
     - Defense Buff
   family: Morlovia
+  passives:
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/Trss5zi.jpg
   costume:
     class: Rogue
@@ -210,6 +212,7 @@
     - Deals 270% damage to all enemies
   types:
     - Hit All
+  family: Classic
   image: https://i.imgur.com/250UPh4.jpg
   costume:
     class: Monk
@@ -224,7 +227,23 @@
     types:
       - Hit All
       - Attack Debuff
-    image: https://i.imgur.com/76RLl1O.jpg
+    family: Classic
+    image: https://i.imgur.com/TBwlwOC.jpg
+  costume2:
+    class: Druid
+    power: 798
+    attack: 784
+    defense: 667
+    health: 1518
+    skill: Lightning Ultimatum
+    effects:
+      - Deals 225% damage to all enemies
+      - All enemies automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns
+    types:
+      - Hit All
+      - Mindless Attack
+    family: Classic
+    image: https://i.imgur.com/BmY4xiU.jpg
 - name: Obakan
   class: Barbarian
   source: Season1
@@ -240,6 +259,7 @@
   types:
     - Hit 3
     - Counterattack
+  family: Classic
   image: https://i.imgur.com/0JU9Ii1.jpg
   costume:
     class: Rogue
@@ -253,7 +273,23 @@
       - The casetr and nearby allies counterattack with 85% of the damage receied for 4 turns
     types:
       - Hit all
+    family: Classic
     image: https://i.imgur.com/SB2N0Vj.jpg
+  costume2:
+    class: Fighter
+    power: 859
+    attack: 829
+    defense: 793
+    health: 1591
+    skill: Vampiric Cleave
+    effects:
+      - Deals 260% damage to the target and nearby enemies
+      - The caster and nearby allies counterattack with 95% of the damage received for 3 turns
+      - The caster and nearby allies regenerate a moderate amount of mana for each counterattack. The effect gets diminished for consecutive activations during the same turn
+    types:
+      - Hit 3
+    family: Classic
+    image: https://i.imgur.com/jA79vt4.jpg
 - name: Mok-Arr
   class: Barbarian
   source: Season2
@@ -272,6 +308,23 @@
     - Hit All
   family: Lagoon
   image: https://i.imgur.com/f9fc9eh.jpg
+  costume:
+    class: Fighter
+    power: 796
+    attack: 773
+    defense: 705
+    health: 1456
+    skill: Emerald Tine
+    effects:
+      - Deals 280% damage to all enemies.
+      - All Dark allies and enemies get +54% attack for 4 turns.
+      - All allies and enemies that are not Dark element get -44% attack for 4 turns. This effect is uncleansable for all Holy enemies.
+      - Deals extra damage against Holy.
+    types:
+      - Hit All
+      - Attack Buff
+    bonuses: 2/2/4/1
+    image: https://i.imgur.com/EOk0EO8.jpg
 - name: Khiona
   class: Rogue
   source: Hotm
@@ -389,8 +442,8 @@
     health: 1505
     skill: Roar of the Panther
     effects:
-      - Deals 280% damage to the target and nearby enemies.
-      - All enemies get -64% defense against Dark for 3 turns.
+      - Deals 285% damage to the target and nearby enemies.
+      - All enemies get -34% defense against Dark for 3 turns.
       - All enemies are immune to new buffs for 3 turns.
     types:
       - Hit 3
@@ -412,6 +465,7 @@
   types:
     - Hit 1
     - Dispeller
+  family: Classic
   image: https://i.imgur.com/t244Fcr.jpg
   costume:
     class: Ranger
@@ -428,7 +482,24 @@
       - Hit 1
       - Dot 3
       - Cleanser
+    family: Classic
     image: https://i.imgur.com/mpRxFeU.jpg
+  costume2:
+    class: Barbarian
+    power: 797
+    attack: 765
+    defense: 735
+    health: 1422
+    skill: Dark Bolt
+    effects:
+      - Deals 335% damage to target and nearby enemies
+      - The target and nearby enemies get -64% defense against Dark for 4 turns.
+      - Deals extra damage against Holy.
+    types:
+      - Hit 3
+      - Defense Down
+    family: Classic
+    image: https://i.imgur.com/36NtLB6.jpg
 - name: Boss Wolf
   class: Druid
   source: Fables
@@ -468,6 +539,22 @@
     - Cleanser
   family: 2018
   image: https://i.imgur.com/9AxepJ9.jpg
+  costume:
+    class: Cleric
+    bonuses: 5/5/10/5
+    power: 793
+    attack: 723
+    defense: 761
+    health: 1444
+    skill: Voidshield
+    effects:
+      - Recovers 43% health for all allies.
+      - Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.
+      - Element Link gives all Dark allies +5% attack and +5% defense for 6 turns. Can't be dispelled.
+    types:
+      - Heal
+      - Cleanser
+    image: https://i.imgur.com/WvBRV3O.jpg
 - name: Marie-Therese
   class: Monk
   source: Pirates
@@ -633,7 +720,7 @@
   types:
     - Hit All
   family: Springvale
-  image: https://i.imgur.com/KLPPpnK.jpg
+  image: https://i.imgur.com/WU18HC0.jpg
   costume:
     class: Druid
     power: 814
@@ -1205,7 +1292,7 @@
     - Attack Buff
   passives:
     - Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.
-  image: https://i.imgur.com/8zi5PWx.png
+  image: https://i.imgur.com/aQwzAEQ.jpg
 - name: Arfanias
   class: Rogue
   family: 2022
@@ -1412,18 +1499,20 @@
   family: Musketeer
   speed: Average
   power: 840
-  attack: 869
-  defense: 774
-  health: 1388
+  attack: 873
+  defense: 780
+  health: 1402
   skill: Charmer's Blades
   effects:
     - Deals 375% damage to the target and nearby enemies.
     - Boosts all allies’ health by 30% of damage dealt.
     - All allies are immune to new status ailments for 3 turns. This effect can’t be dispelled.
+    - Caster gets +30% defense for 3 turns
   types:
     - Hit 3
     - Status Ailment Immunity
     - Damage Heal
+    - Defense Buff
   passives:
     - When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
   image: https://i.imgur.com/7DRTWTb.jpg
@@ -1515,3 +1604,22 @@
     - Hit All
     - Fiend Summoner
   image: https://i.imgur.com/OBE1Glz.jpg
+- name: Phthonus
+  class: Wizard
+  source: Love
+  family: Cupid
+  speed: Slow
+  power: 841
+  attack: 803
+  defense: 788
+  health: 1534
+  skill: Potions of Covetous Desire
+  effects:
+    - Deals 360% damage to all enemies.
+    - Dispels buffs from all enemies.
+    - Recovers 8% health per removed status effect for all allies, up to 64% health in total.
+  types:
+    - Hit All
+    - Dispeller
+    - Healer
+  image: https://i.imgur.com/OE7cx2p.jpg

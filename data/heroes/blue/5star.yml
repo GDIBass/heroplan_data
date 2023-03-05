@@ -148,7 +148,7 @@
     types:
       - Hit 3
       - Attack Debuff
-    image: https://i.imgur.com/gyZ5BBo.jpg
+    image: https://i.imgur.com/WKQthMP.jpg
 - name: Perseus
   class: Paladin
   source: Hotm
@@ -265,6 +265,7 @@
   types:
     - Hit 1
     - Defense Buff
+  family: Classic
   image: https://i.imgur.com/JpMZ0xh.jpg
   costume:
     class: Druid
@@ -279,7 +280,23 @@
     types:
       - Hit 1
       - Defense Debuff
+    family: Classic
     image: https://i.imgur.com/A0jPrh9.jpg
+  costume2:
+    class: Rogue
+    power: 795
+    attack: 778
+    defense: 674
+    health: 1494
+    skill: Strike of the Underworld
+    effects:
+      - Deals 285% damage to target and nearby enemies.
+      - The target and nearby enemies get -64% defense against Special Skills for 4 turns
+    types:
+      - Hit 3
+      - Defense Debuff
+    family: Classic
+    image: https://i.imgur.com/npmSFHz.jpg
 - name: King Arthur
   class: Paladin
   source: Avalon
@@ -315,6 +332,7 @@
   types:
     - Hit All
     - Defense Debuff
+  family: Classic
   image: https://i.imgur.com/IqOKah3.jpg
   costume:
     class: Sorcerer
@@ -329,7 +347,24 @@
     types:
       - Hit All
       - Defense Debuff
-    image: https://i.imgur.com/lgGiAdK.jpg
+    family: Classic
+    image: https://i.imgur.com/j8POeJ4.jpg
+  costume2:
+    class: Cleric
+    power: 857
+    attack: 934
+    defense: 733
+    health: 1432
+    skill: Glacial Vortex
+    effects:
+      - Deals 270% damage to all enemies
+      - All enemies get -34% attack for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer
+      - Deals extra damage against Fire
+    types:
+      - Hit All
+      - Attack Debuff
+    family: Classic
+    image: https://i.imgur.com/wccczud.jpg
 - name: Athena
   class: Ranger
   source: Hotm
@@ -438,6 +473,23 @@
     - Ally Damage Share
   family: 2018
   image: https://i.imgur.com/BzRTcqJ.jpg
+  costume:
+    class: Monk
+    power: 793
+    attack: 653
+    defense: 793
+    health: 1560
+    skill: Glacial Resilience
+    effects:
+      - All allies share received damage with each other for 3 turns.
+      - All allies get +30% defense, and a further 5% increase every time they are hit during 3 turns.
+      - All allies regenerate 549 HP over 3 turns.
+      - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can’t be dispelled.
+    types:
+      - Share Damage
+      - Defense Buff
+    image: https://i.imgur.com/JN0Ddwo.jpg
+    bonuses: 5/5/10/5
 - name: Miki
   class: Barbarian
   source: Hotm
@@ -1242,20 +1294,19 @@
   health: 1483
   skill: Litter of Kittens
   effects:
-    - Summons a Blue Kitten Minion for the caster and nearby allies. Blue Kitten Minion inherits 40% HP and 20% attack from the caster. The Minion recovers 15% health for its owner at the end of each turn.
+    - Summons a Blue Kitten Minion for the caster and nearby allies. Blue Kitten Minion inherits 30% HP and 30% attack from the caster. The Minion recovers 22% health for its owner at the end of each turn.
     - The Blue Kitten Minion lifts the newest cleansable status ailment from its owner and add its to the hit target.
-    - The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 5 turns.
-    - The caster and nearby allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.
+    - The caster and nearby allies get +50% attack.
   types:
     - Summoner
     - Attack Buff
     - Health Regen
   passives:
-    - When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies
   image: https://i.imgur.com/eyJkRvq.jpg
 - name: Adalinda
   class: Paladin
-  speed: Averager
+  speed: Average
   family: MonsterHunter
   source: Covenant
   power: 838
@@ -1370,14 +1421,15 @@
   family: Musketeer
   speed: Slow
   power: 840
-  attack: 817
+  attack: 819
   defense: 793
   health: 1485
   skill: Musketeer's Mead
   effects:
-    - Deals 355% damage to all enemies.
+    - Deals 380% damage to all enemies.
     - Alters the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enchanced with +74% attack. When a defending Hero casts the special, the shields become weakened with -67% attack.
     - Deals extra damage against Fire.
+    - Caster regenerates 918 HP over 6 turns.
   types:
     - Hit All
     - Tile Enhancer
@@ -1455,3 +1507,155 @@
     - Taunt
     - Counterattack
   image: https://i.imgur.com/TgO9p2o.jpg
+- name: Guardian Hippo
+  class: Barbarian
+  source: Teltoc
+  speed: Fast
+  power: 841
+  attack: 828
+  defense: 782
+  health: 1483
+  skill: Brutal Support
+  effects:
+    - After any ally casts their Special skill during next 3 turns, this character deals 225% damage to all enemies.
+    - All allies get +34% mana generation for 3 turns.
+  types:
+    - Hit All
+    - Mana Generation
+  family: Teltoc
+  image: https://i.imgur.com/VXhh6s9.jpg
+- name: Zengar
+  class: Barbarian
+  source: SuperElemental
+  family: SuperElemental
+  speed: Fast
+  power: 841
+  attack: 819
+  defense: 751
+  health: 1569
+  skill: Great Frost Axe
+  effects:
+    - Deals 200% damage to the target.
+    - If the target is of Fire element, deals 450% damage to nearby enemies.
+    - The target receives 417 Frost damage over 3 turns.
+    - If the target is of Fire element, nearby enemies receive 540 Frost damage over 3 turns.
+  types:
+    - Damage 1
+    - Damage 3
+    - Dot 1
+    - Dot 3
+  passives:
+    - "Passive Skill as an attacking character: This character’s Troops deal 100% more additional damage against weaker element."
+    - "Passive Skill as a defending character: This character receives 10% less additional damage from Troops of stronger element."
+  image: https://i.imgur.com/DQY3Orp.jpg
+- name: Anzia
+  class: Cleric
+  source: SuperElemental
+  family: SuperElemental
+  speed: Average
+  power: 841
+  attack: 762
+  defense: 780
+  health: 1654
+  skill: Radiant Comeback
+  effects:
+    - All allies counterattack with 75% of the damage received, and a further 7% increase per each Ice shield on the board for 5 turns, up to 159% damage in total.
+    - All Ice allies regenerate a moderate amount of mana for each counterattack for 5 turns. This effect gets diminished for consecutive activations during the same turn.
+  types:
+    - Counterattack
+  passives:
+    - "Passive Skill as an attacking character: This character’s Troops deal 100% more additional damage against weaker element."
+    - "Passive Skill as a defending character: This character receives 10% less additional damage from Troops of stronger element."
+  image: https://i.imgur.com/9igBdFq.jpg
+- name: Thanatos
+  class: Druid
+  source: Styx
+  family: Styx
+  speed: Charge
+  power: 836
+  attack: 791
+  defense: 828
+  health: 1448
+  skill: Delay the Inevitable
+  effects:
+    - "1x Mana Charge:"
+    - "Recovers 20% health for all allies."
+    - "All allies get +24% mana generation for 2 turns."
+    - "2x Mana Charge:"
+    - "Recovers 30% health for all allies."
+    - "Increases the mana of all allies by 10%."
+    - "3x Mana Charge:"
+    - "Recovers 50% health for all allies."
+    - "Increases the mana of all allies by 20%."
+    - "All allies get +40% mana generation for 4 turns."
+  types:
+    - Healer
+    - Mana Generation
+  passives:
+    - "Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns."
+  image: https://i.imgur.com/WM6GD2A.jpg
+- name: Himeros
+  class: Rogue
+  source: Love
+  family: Cupid
+  speed: Very Fast
+  power: 841
+  attack: 846
+  defense: 786
+  health: 1433
+  skill: Grips of Longing
+  effects:
+    - Dispels buffs from the target.
+    - Deals 460% damage to the target.
+    - The caster and nearby allies’ Special Skills deal an additional +40% damage for 3 turns.
+  types:
+    - Dispeller
+    - Hit 1
+  passives:
+    - Resist Special Skill Blocking - This character has innate resistance against status ailments that block Special Skills.
+  image: https://i.imgur.com/BKwCrac.jpg
+- name: Hetepheres
+  class: Cleric
+  source: Season5
+  family: Sun
+  speed: Average
+  power: 844
+  attack: 743
+  defense: 861
+  health: 1563
+  skill: Bewildering Riddle
+  effects:
+    - Recovers 50% health for all allies.
+    - All allies get +84% defense agains Nature, and a further 2% increase every time they are hit during 4 turns.
+    - All enemies get -40% accuracy for 4 turns.
+  types:
+    - Healer
+    - Defense Buff
+  passives:
+    - "60% chance to perform the following actions when this character casts their Special Skill:"
+    - Boosts health of all allies by 10%.
+    - Boosted health can exceed max HP.
+    - Cleanses the latest cleansable status ailment from all allies.
+  image: https://i.imgur.com/wdaa6Lv.jpg
+- name: Cinnamon
+  family: Pets
+  source: Pets
+  class: Paladin
+  speed: Average
+  power: 838
+  attack: 801
+  defense: 811
+  health: 1472
+  skill: Frozen Wind
+  effects:
+    - Deals 225% damage to all enemies.
+    - All enemies receive 496 Frost damage over 4 turns.
+    - All enemies get -54% defense against Ice for 4 turns.
+  types:
+    - Hit All
+    - DoT
+    - Defense Down
+  passives:
+    - When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
+    - When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
+  image: https://i.imgur.com/RDVpqBy.jpg

@@ -234,6 +234,7 @@
     - Hit All
     - Mana Generation Buff
     - Defense Buff
+  family: Classic
   image: https://i.imgur.com/Qk5TZ17.jpg
   costume:
     class: Barbarian
@@ -248,7 +249,25 @@
       - All allies get +46% defense for 5 turns
     types:
       - Hit 1
+    family: Classic
     image: https://i.imgur.com/Wuav96d.jpg
+  costume2:
+    class: Druid
+    power: 862
+    attack: 829
+    defense: 767
+    health: 1658
+    skill: Chieftain's Vengeance
+    effects:
+      - Deals 285% damage to all enemies
+      - All allies receive a moderate amount of mana over 5 turns
+      - All allies get +40% defense for 5 turns
+    types:
+      - Hit all
+      - Mana Generation
+      - Defense Buff
+    family: Classic
+    image: https://i.imgur.com/Az13Jne.jpg
 - name: Gravemaker
   class: Barbarian
   source: Hotm
@@ -313,7 +332,7 @@
     types:
       - Hit All
       - Counterattack
-    image: https://i.imgur.com/zRUrhlC.jpg
+    image: https://i.imgur.com/rs8S0na.jpg
 - name: Captain Kestrel
   class: Rogue
   source: Pirates
@@ -361,6 +380,21 @@
       - Hit 3
       - Dot 3
     image: https://i.imgur.com/TDGgAGz.jpg
+  costume2:
+    class: Fighter
+    power: 861
+    attack: 923
+    defense: 722
+    health: 1507
+    skill: Volcanic Explosion
+    effects:
+      - Deals 310% damage to the target and nearby enemies.
+      - The target and nearby enemies receive 630 Burn damage over 4 turns. The caster absorbs 40% of the dealt Burn damage as health.
+    types:
+      - Hit 3
+      - DoT
+    family: Classic
+    image: https://i.imgur.com/6N4jIyy.jpg
 - name: Ares
   class: Paladin
   source: Hotm
@@ -496,6 +530,23 @@
     - Self Resurection
   family: Helheim
   image: https://i.imgur.com/1Pdi9b0.jpg
+  costume:
+    class: Barbarian
+    power: 832
+    attack: 810
+    defense: 793
+    health: 1443
+    skill: Indestructible Claw
+    effects:
+      - Deals 260% damage to the target and nearby enemies.
+      - The attack bypasses defensive buffs. This includes counterattacks.
+      - The target and nearby enemies receive 528 Bleed damage over 4 turns. The caster absorbs 40% of the dealt Bleed damage as health.
+      - If the caster dies during the next 4 turns they are resurrected in the beginning of their turn with 40% health. All status effects and stacks are removed when the caster dies.
+    types:
+      - Hit 3
+      - Dot 3
+    bonuses: 5/5/10/5
+    image: https://i.imgur.com/7UO34fo.jpg
 - name: Baldur
   class: Ranger
   source: Season3
@@ -641,6 +692,8 @@
     - Health Steal
     - Status Ailment Immunity
   family: Morlovia
+  passives:
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/FsFObHs.jpg
   costume:
     class: Wizard
@@ -669,7 +722,7 @@
   health: 1310
   skill: Occult Redemption
   effects:
-    - Deals 215% damage to the target and nearby enemies.
+    - Deals 260% damage to the target and nearby enemies.
     - All allies get -50% reduction to damage received from status effects for 4 turns.
     - Element Link summons a Fire Minion for all Fire allies with 5% HP and 10% attack inherited from the caster.
   types:
@@ -1260,7 +1313,7 @@
     - Minion Destruction
     - Hit 3
   passives:
-    - When this character casts their Special Skill, they have a 100% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
+    - When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/ZDIKUNx.jpg
 - name: Erebus
   class: Wizard
@@ -1429,12 +1482,13 @@
   speed: Fast
   power: 840
   attack: 834
-  defense: 797
-  health: 1433
+  defense: 801
+  health: 1446
   skill: Flaming Rapier
   effects:
-    - Deals 500% damage to the target.
-    - The target receives 849 Burn damage over 3 turns. This effect spreads to nearby enemies.
+    - Deals 470% damage to the target.
+    - The target receives 1023 Burn damage over 3 turns. This effect spreads to nearby enemies.
+    - Caster regenerates 459 HP over 3 turns
   types:
     - Hit 1
     - Dot 1
@@ -1493,3 +1547,40 @@
     - Dot All
     - Healing Debuff
   image: https://i.imgur.com/ZKtM2K1.jpg
+- name: Xiaotu
+  class: Druid
+  source: lunaryear
+  family: lunaryear
+  speed: Average
+  power: 842
+  attack: 834
+  defense: 799
+  health: 1439
+  skill: Reverse Recovery
+  effects:
+    - Deals 655% damage to the target.
+    - The target and nearby enemies resist healing and receive 250 damage per each resisted healing for 4 turns.
+  types:
+    - Hit 1
+  passives:
+    - Disable Minion Abilities - Attracts and abilities of all Minions owned by enemies are disabled.
+  image: https://i.imgur.com/BFeoiOp.jpg
+- name: Cupido
+  class: Ranger
+  source: Love
+  family: Cupid
+  speed: Average
+  power: 842
+  attack: 826
+  defense: 788
+  health: 1487
+  skill: Love Conquers All
+  effects:
+    - Deals 295% damage to the target and nearby enemies.
+    - The target and nearby enemies automatically cast Healing Gift+ on the character with least health in proportion to their max health on the opposing team when mana is full at the start of the turn during 3 turns.
+    - +Healing Gift - Recovers 20% health for the enemy with the lowest remaining HP in proportion to their max HP.
+  types:
+    - Hit 3
+  passives:
+    - Resist Special Skill Blocking - This character has innate resistance against status ailments that block Special Skills.
+  image: https://i.imgur.com/4hhCXCA.jpg

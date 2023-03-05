@@ -59,7 +59,7 @@
       - HOT
       - Defense Buff
       - Dispeller
-    image: https://i.imgur.com/WtkTDo3.jpg
+    image: https://i.imgur.com/5gxdGVM.jpg
 - name: Skittleskull
   class: Sorcerer
   source: Season1
@@ -89,7 +89,7 @@
     types:
       - Hit All
       - Attack Debuff
-    image: https://i.imgur.com/Ra4Kn9A.jpg
+    image: https://i.imgur.com/9DvgVYg.jpg
 - name: Peters
   class: Rogue
   source: Pirates
@@ -256,6 +256,7 @@
   types:
     - Hit 1
     - Dispeller
+  family: Classic
   image: https://i.imgur.com/jv6lywZ.jpg
   costume:
     class: Fighter
@@ -270,7 +271,24 @@
     types:
       - Hit 1
       - Cleanser
+    family: Classic
     image: https://i.imgur.com/zrZ4p5y.jpg
+  costume2:
+    class: Paladin
+    power: 734
+    attack: 745
+    defense: 719
+    health: 1340
+    skill: Valorant Strike
+    effects:
+      - Deals 275% damage to the target and nearby enemies
+      - The target and nearby enemies are immune to new status effect buffs for 3 turns
+      - Dispels buffs from the target and nearby enemies
+    types:
+      - Hit 3
+      - Dispels Buffs
+    family: Classic
+    image: https://i.imgur.com/0FiXuyI.jpg
 - name: Buddy
   class: Ranger
   source: Christmas
@@ -561,6 +579,7 @@
     - Summon a Spy Fiend for all enemies. The Fiend damages the enemy with 45% attack every turn.
     - The Spy Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its target’s max health.
     - At the end of each turn, the Spy Fiend steals one of its target’s dispellable buffs and gives it to one character on the opposite team.
+    - Caster regenerates 324 HP over 4 turns.
   types:
     - Hit 3
     - Fiend
