@@ -396,6 +396,14 @@ families:
       - "MORALE BOOST"
       - "Heroes belonging to this family as well as Heroes fighting alongside them receive the following perks in War of the Three Kingdoms:"
       - "+10% attack, +3% defense, +7% health."
+  junglehunter:
+    key: junglehunter
+    code: 74
+    description: Jungle Hunter
+    image: https://i.imgur.com/nHCW21A.png
+    bonus:
+      - "Bonus for 2/3/4/5 Heroes:"
+      - "+5%/+10%/+15%/+20% HP."
   2017:
     key: 2017
     code: 2017
