@@ -1,20 +1,20 @@
-- name: Staintongue
-   class: Paladin
-   speed: Fast
-   source: Covenant
-   family: PlainsHunter
-   power: 841
-   attack: 850
-   defense: 797
-   health: 1400
-   skill: Mallett Swing of the Beast
-   effects:
-     - Deals 330% damage to the target and nearby enemies.
-     - The target and nearby enemies get -30% accuracy for 3 turns. The accuracy decreases by -10% each turn, up to -50%.
-     - The target and nearby enemies receive 342 Poison damage over 3 turns.
-   types:
-     - Hit 3
-   passives:
-     - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
-     - When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.
-   image: https://i.imgur.com/obJIXMO.jpg
+name: Staintongue
+class: Paladin
+speed: Fast
+source: Covenant
+family: PlainsHunter
+power: 841
+attack: 850
+defense: 797
+health: 1400
+skill: Mallett Swing of the Beast
+effects:
+  - Deals 330% damage to the target and nearby enemies.
+  - The target and nearby enemies get -30% accuracy for 3 turns. The accuracy decreases by -10% each turn, up to -50%.
+  - The target and nearby enemies receive 342 Poison damage over 3 turns.
+types:
+  - Hit 3
+passives:
+  - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.
+  - When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.
+image: https://i.imgur.com/obJIXMO.jpg
