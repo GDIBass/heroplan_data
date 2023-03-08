@@ -1,0 +1,27 @@
+name: Kitty
+source: Musketeer
+class: Druid
+family: Musketeer
+speed: Average
+power: 686
+attack: 643
+defense: 663
+health: 1362
+skill: Flowers of Kindness
+effects:
+  - >-
+    All allies regenerate 450 boosted health over 3 turns. Boosted health can exceed 
+    max HP.
+  - >-
+    All allies reflect cleansable status ailments they would receive to a random 
+    character on the opposing team for 3 turns.
+  - The caster gets +30% defense for 3 turns.
+types:
+  - Healer
+  - Defense Buff
+passives:
+  - >-
+    When this character receives damage from Special Skills or in place of a
+    character in Cover, there’s a 60% chance of deal 25% of the received damage
+    on all enemies.
+image: https://i.imgur.com/2nOJ3dV.jpg
