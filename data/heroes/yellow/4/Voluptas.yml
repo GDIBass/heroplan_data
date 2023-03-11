@@ -1,6 +1,6 @@
 name: Voluptas
 class: Druid
-source: Love
+source: love
 speed: Average
 power: 686
 attack: 650
@@ -9,7 +9,7 @@ health: 1387
 skill: Flat Cake for Sweethearts
 effects:
   - Destroys all Fiends from the caster and nearby allies.
-  - Recovers 40% heath for the caster and nearby allies.
+  - Recovers 40% health for the caster and nearby allies.
 types:
   - Fiend Destroyer
   - Healer
