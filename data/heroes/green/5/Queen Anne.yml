@@ -3,7 +3,7 @@ source: Musketeer
 class: Cleric
 family: Musketeer
 speed: Slow
-power: 840
+power: 842
 attack: 708
 defense: 889
 health: 1580
@@ -12,9 +12,9 @@ effects:
   - >-
     The caster gets Taunt that prevents enemies from using Special Skills on the
     caster’s allies for 6 turns.
+  - The caster regenerates 918 HP over 6 turns.
   - All allies get +65% defense for 6 turns.
   - All allies get +44% mana generation for 6 turns.
-  - Caster regenerates 918 HP over 6 turns
 types:
   - Taunt
   - Defense Buff
