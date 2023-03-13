@@ -12,8 +12,8 @@ effects:
     Summons a Moth Minion for each ally. The Moth Minion inherits 20% HP and 20%
     attack from the caster.
   - 'Each hit from a Moth Minon gives the target the following status ailments:'
-  - The target receives 180 Poison damage over 3 turns.
-  - The target can’t receive new Minions for 3 turns.
+  - ' * The target receives 180 Poison damage over 3 turns.'
+  - ' * The target resists new Minions for 3 turns.'
 types:
   - Summoner
   - Minion Blocking

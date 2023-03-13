@@ -10,7 +10,7 @@ skill: Brittling Force
 effects:
   - Deals 100% damage to all enemies.
   - >-
-    Deals 18% damage per each Nature shield on the board, up to 244% damage in
+    Deals additional 18% damage per each Nature shield on the board, up to 244% damage in
     total.
   - >-
     All enemies get -8% defense, and a further -3% decrease per each Nature

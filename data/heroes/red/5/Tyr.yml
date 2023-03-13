@@ -13,13 +13,12 @@ effects:
     The attack has a 60% chance to bypass defensive buffs. This includes
     counterattacks.
   - >-
-    The target receives 196 Bleed damage over 4 turns. This effect stacks with
-    similar effects.
+    The target receives 220 Bleed damage over 4 turns.
   - The caster regenerates 548 HP over 4 turns.
   - >-
     If the caster dies during the next 4 turns, they are resurrected in the
-    beginning of their next turn with 32% health. All status effects are removed
-    when the caster dies.
+    beginning of their next turn with 32% health. All status effects and stacks
+    are removed when the caster dies.
 types:
   - Hit 1
   - Dot 1

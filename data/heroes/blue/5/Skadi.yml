@@ -11,11 +11,11 @@ effects:
   - Deals 220% damage to all enemies.
   - The damage is increased by 50% per each dead enemy.
   - >-
-    Stack: All enemies receive 30 Frost damage per each killed enemy or enemy
-    minion at the end of each turn. The maximum size of stack is 10.
+    Stack (Max: 10): All enemies receive 32 Frost damage per each killed enemy or enemy
+    minion at the end of each turn.
   - >-
-    Stack: All enemies get -6% mana generation per each killed enemy or enemy
-    minion. The maximum size of stack is 10.
+    Stack (Max: 10): All enemies get -6% mana generation per each killed enemy or enemy
+    minion.
 types:
   - Hit All
   - Stack

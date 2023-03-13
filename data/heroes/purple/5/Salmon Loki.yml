@@ -8,12 +8,12 @@ defense: 751
 health: 1376
 skill: Trickster's Transformation
 effects:
-  - Deals 225% damage to all Holy enemies.
+  - Deals 250% damage to all Holy enemies.
   - >-
     For 3 turns the element of all enemies is changed each turn. On the first 2
     turns, the element is random.
   - On the last turn, enemies revert to their original element.
-  - After each element change, enemies take 126 damage if their element is HOly
+  - After each element change, enemies take 528 damage if their element is Holy.
 types:
   - Hit Some
   - Weird

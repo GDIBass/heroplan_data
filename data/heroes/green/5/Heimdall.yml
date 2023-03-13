@@ -8,10 +8,7 @@ defense: 844
 health: 1417
 skill: Boon of Gjallarhorn
 effects:
-  - >-
-    Boosts health of all allies by 500. If health exceeds max HP, it is added as
-    temporary HP. Max temporary HP is 100% of max HP. Boosted health counters
-    max HP reduction.
+  - Boosts health of all allies by 500. Boosted health can exceed max HP.
   - Each fallen ally has a 20% chance to get revived with 30% HP.
   - All allies get +30% attack for 4 turns.
 types:
