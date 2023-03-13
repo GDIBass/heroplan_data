@@ -27,7 +27,7 @@ costume:
   health: 1139
   skill: Nightbloom Dust
   effects:
-    - Deals 280% to the target and nearby enemies.
+    - Deals 280% damage to the target and nearby enemies.
     - Reduces the mana of the target and the nearby enemies by 15%.
     - >-
       The target and nearby enemies get -75% decrease for any healing received

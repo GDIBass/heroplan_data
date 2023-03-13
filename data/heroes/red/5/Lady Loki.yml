@@ -9,8 +9,8 @@ health: 1312
 skill: Trickster's Malice
 effects:
   - >-
-    Takes all cleansable status ailments  from all allies and randomly casts
-    them on all enemies
+    Lifts all cleansable status ailments  from all allies and randomly distributes
+    them on enemies.
   - Deals 170% damage to all enemies
   - >-
     Deals additional 8% damage per transferred status ailment, up to 298% damage

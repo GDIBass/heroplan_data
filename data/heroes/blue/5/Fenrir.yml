@@ -13,6 +13,7 @@ effects:
   - >-
     The caster gains a moderate amount of mana for each enemy killed and a small
     amount of mana for each enemy minion killed.
+  - Heals the caster for 50% of damage dealt.
 types:
   - Hit 1
 family: Niflheim

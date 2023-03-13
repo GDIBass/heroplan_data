@@ -9,7 +9,7 @@ health: 1196
 skill: Valkyrie Charge
 effects:
   - Deals 175% damage to the target and nearby enemies.
-  - The target and nearby enemies are immune to new buffs for 3 turns.
+  - The target and nearby enemies are immune to new status effect buffs for 3 turns.
   - >-
     The target and nearby enemies get -34% defense against Special Skills for 3
     turns.

@@ -9,7 +9,7 @@ health: 775
 skill: Jab and Hook
 effects:
   - Deals 285% damage to the target.
-  - 'Stack: The caster get +10% attack. The maximum size of stack is 10.'
+  - 'Stack (Max: 10): The caster gets +10% attack.'
 types:
   - Hit 1
   - Stacking

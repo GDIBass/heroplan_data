@@ -28,8 +28,8 @@ costume:
     - Deals 180% damage to the target.
     - Deals 380% damage to a random different enemy.
     - >-
-      Enemies hit get -24% mana generation for 3 turns. The status effect is
-      uncleansable and lasts 2 turns longer on Holy characters.
+      Enemies hit get -24% mana generation for 3 turns. Against Holy characters,
+      this status effect becomes uncleansable and lasts 2 turns longer.
   types:
     - Hit 1
     - Bounce

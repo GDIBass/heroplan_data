@@ -23,13 +23,14 @@ effects:
 types:
   - Hit All
   - Blind
+family: Midgard
 image: https://i.imgur.com/Cls9o26.jpg
 costume:
   class: Paladin
-  power: 788
-  attack: 731
-  defense: 739
-  health: 1431
+  power: 830
+  attack: 767
+  defense: 775
+  health: 1574
   skill: Energy of Mjolnir
   effects:
     - >-
