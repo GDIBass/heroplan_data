@@ -11,13 +11,13 @@ skill: Scarab Bombardment
 effects:
   - Deals 275% damage to target and nearby enemies.
   - >-
-    Summons a Bomb Scarab fiend for the target and nearby enemies. The Fiend
-    damages its target with 38% attack every turn.
+    Summons a Scarab Bomb Fiend for the target and nearby enemies. The Fiend
+    damages the enemy with 38% attack every turn.
   - >-
-    The Bomb Scarab Fiend absorbs healing. It disappears after absorbing a
-    healing amount equal to 30% of its target’s max health’
+    The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed a
+    health equal to 30% of its owner’s max health.
   - >-
-    The Bomb Scarab Fiend explodes after 3 turns, dealing 300 damage to its
+    The Scarab Bomb Fiend explodes after 3 turns, dealing 600 damage to its
     target and minor damage to nearby enemies.
 types:
   - Hit 3

@@ -12,19 +12,19 @@ effects:
   - Deals 190% damage to the target.
   - >-
     Summons a Bomb Scarab Fiend for the target. The Fiend damages its target
-    with 38% damage every turn.
+    with 38% attack every turn.
   - >-
-    The Bomb Scarab Fiend absorbs healing. It disappears after absorbing a
-    healing amount equal to 30% of its target’s max health.
+    The Bomb Scarab Fiend absorbs healing and disappears when it has absorbed
+    health equal to 30% of its owner’s max health.
   - >-
-    The Bomb Scarab Fiend explodes after 3 turns, dealing 300 damage to its
+    The Bomb Scarab Fiend explodes after 3 turns, dealing 600 damage to its
     target and minor damage to nearby enemies.
 types:
   - Hit 1
   - Fiend
 passives:
   - >-
-    Effects on Special Skill - 70% chance to perform the following actions when
+    Effects on Special Skill - 50% chance to perform the following actions when
     this character casts their Special Skill:
   - '* Deals 70% damage to all enemies.'
   - '* All enemies get -24% mana generation for 3 turns.'

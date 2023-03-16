@@ -9,9 +9,9 @@ health: 1532
 speed: Very Fast
 skill: Unrelenting Hunter
 effects:
-  - Deals 205% damage to target and nearby enemies
+  - Deals 250% damage to target and nearby enemies
   - >-
-    Reduces max health of the target and nearby enemies by 110 each turn for 3
+    Reduces max health of the target and nearby enemies by 450 over 3
     turns. Max health can’t get lower than 30% of the original health.
 types:
   - Hit 3

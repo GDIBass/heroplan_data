@@ -11,7 +11,7 @@ skill: Unyielding Protector
 effects:
   - Deals 205% damage to all enemies.
   - >-
-    Reduces max health for all enemies by 110 each turn for 3 turns. Max health
+    Reduces max health for all enemies by 450 over 3 turns. Max health
     can’t get lower than 30% of the original max health.
 types:
   - Hit All
