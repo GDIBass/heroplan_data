@@ -12,7 +12,9 @@ effects:
   - Reduces the mana of the target and nearby enemies by 20%
   - >-
     All allies reflect all status effects and 115% damage back to the attacker 
-    and block other negative effects from enemies' Ice Special Skills for 4 turns
+    and block other negative effects from enemies' Ice Special Skills for 4 turns.
+    Status effects cast by characters, Minions and Fiends on the same side cannot
+    be reflected.
 types:
   - Hit 3
   - Mana Reduction
@@ -31,7 +33,9 @@ costume:
     - All enemies get -34% mana generation.
     - >-
       All allies reflect all status effects and 115% damage back to the attacker 
-      and block other negative effects from enemies' Ice Special Skills for 4 turns
+      and block other negative effects from enemies' Ice Special Skills for 4 turns.
+      Status effects cast by characters, Minions and Fiends on the same side cannot
+      be reflected.
   types:
     - Hit All
     - Mana Generation Debuff

@@ -10,8 +10,8 @@ skill: Power Punch
 effects:
   - Deals 300% damage to the target.
   - >-
-    The target cannot cast any new status effects or stacks on enemies or allies
-    for 3 turns.
+    The target cannot cast any new status effects on enemies or allies for 3 turns. 
+    This includes stacks. This only includes status effects cast with Special Skill.
   - >-
     Element Link gives all Holy allies +10% critical chance for 6 turns. This
     effect can't be cleansed.
