@@ -20,3 +20,24 @@ types:
   - Cleanser
 family: 2018
 image: https://i.imgur.com/ZnoCx4D.jpg
+costume:
+  class: Paladin
+  power: 794
+  attack: 731
+  defense: 716
+  health: 1523
+  skill: Morning Catch
+  effects:
+    - Dispels buffs from all enemies.
+    - Deals 180% damage to all enemies.
+    - >-
+      Deals additional 15% damage per removed status effect, up to 360% damage
+      in total.
+    - >-
+      Element Link recovers 4% health for all Fire allies for 6 turns. This 
+      effect can't be dispelled.
+  types:
+    - Dispeller
+    - Hit all
+  image: https://i.imgur.com/M65Mn9a.jpg
+  bonuses: 3/3/6/1
