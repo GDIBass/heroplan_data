@@ -17,3 +17,29 @@ types:
   - Hot
 family: 2017
 image: https://i.imgur.com/KvZBThZ.jpg
+costume:
+  class: Druid
+  power: 790
+  attack: 703
+  defense: 731
+  health: 1534
+  skill: Seal of Ares
+  effects:
+    - >-
+      The caster and nearby allies get +45% attack for 4 turns. The attack 
+      increases by 5% each turn, up to +60%.
+    - >-
+      The caster and nearby allies counterattack with 90% of the damage received
+      for 4 turns. The counterattack damage increases by 10% each turn, up to 120%.
+    - >-
+      The caster and nearby allies regenerate 672 boosted health over 4 turns. 
+      Boosted health can exceed max HP.
+    - >-
+      Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. 
+      This effect can't be dispelled.
+  types:
+    - Attack Buff
+    - Counterattack
+    - Health Boost
+  image: https://i.imgur.com/Pf1h54r.jpg
+  bonuses: 3/3/6/1
