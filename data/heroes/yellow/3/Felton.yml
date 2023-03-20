@@ -12,8 +12,8 @@ effects:
   - Deals 355% damage to the target.
   - Deals 100 extra damage if the target has boosted health.
   - >-
-    All enemies reflect dispellable status effect buffs they would receive 
-    to a random character on the opposing team for 3 turns.
+    All enemies reflect status effect buffs to a random character on the opposing
+    team for 3 turns. Only dispellable buffs are reflected.
   - The caster regenerates 243 HP over 3 turns.
 types:
   - Hit 1

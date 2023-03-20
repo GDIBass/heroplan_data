@@ -12,11 +12,11 @@ effects:
   - Deals 385% damage to all enemies.
   - The caster regenerates 918 HP over 6 turns.
   - >-
-    All enemies reflect dispellable status effect buffs they would receive 
-    to a random character on the opposing team for 6 turns.
+    All enemies reflect status effect buffs to a random character on the opposing
+    team for 6 turns. Only dispellable buffs are reflected.
   - >-
-    All allies reflect cleansable status ailments they would receive to a 
-    random character on the opposing team for 6 turns.
+    All allies reflect cleansable status ailments to a random character on the 
+    opposing team for 6 turns. Only cleansable ailments are reflected.
 types:
   - Healer
 passives:

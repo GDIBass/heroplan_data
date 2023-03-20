@@ -13,8 +13,8 @@ effects:
     All allies regenerate 450 boosted health over 3 turns. Boosted health can exceed 
     max HP.
   - >-
-    All allies reflect cleansable status ailments they would receive to a random 
-    character on the opposing team for 3 turns.
+    All allies reflect status ailments to a random character on the opposing 
+    team for 3 turns. Only cleansable status ailments are reflected.
   - The caster gets +30% defense for 3 turns.
 types:
   - Healer
