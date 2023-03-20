@@ -20,6 +20,9 @@ types:
   - Dodge Buff
   - Health Boost
 passives:
-  - This Hero gains 5% mana when they receive a buff or a positive stack.
+  - This character gains 5% mana when they receive a buff or a positive stack.
+  - >-
+    This character has innate resistance against status ailments that block 
+    Special Skill
 family: 2021
 image: https://i.imgur.com/Q6iWdU3.jpg

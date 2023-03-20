@@ -8,23 +8,29 @@ defense: 805
 health: 1382
 skill: Cursed Garden
 effects:
-  - Deals 190% damage to all enemies. Damage bypasses target’s minions.
+  - Deals 190% damage to all enemies. 
+  - Damage bypasses target’s minions.
   - >-
-    Summons a Cursed Sapling Fiend for all enemies. The Fiend damages the enemy
-    with 55% 60% every turn. The Cursed Sapling Fiend absorbs healing and
-    disappears when it has absorbed health equal to 45% of its owner’s max
-    health.
+    Summons a Cursed Sapling Fiend for all enemies. The Fiend damages its target
+    with 60% attack every turn. 
+  - >-
+    The Cursed Sapling Fiend absorbs healing and it disappears after absorbing a
+    healing amount equal to 45% of its owner’s max health.
   - >-
     Attacks from Cursed Sapling Fiend deal extra damage if the target has
     minions.
   - >-
     Element Link gives all Dark allies +10% attack for 4 turns. This effect
     can’t be dispelled.
-  - >-
-    Element Link affects all allies when using 2 or more members of the same
-    family.
 types:
   - Hit All
   - Fiend
+passives:
+  - >-
+    Cursed sapling summoner: When an enemy summons any minions by special skill, 
+    this character summons a Cursed Sapling Fiend for that enemy.
+  - >-
+    Resist negative minion effects: This character has innate resistance against 
+    incoming negative effects and damage from Minions. 
 family: 2022
 image: https://i.imgur.com/tgvzp56.jpg

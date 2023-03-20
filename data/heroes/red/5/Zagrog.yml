@@ -9,7 +9,7 @@ defense: 751
 health: 1394
 skill: Indifferent Blade
 effects:
-  - Deals 430% damage to the target and minor damage to the nearby enemies.
+  - Deals 430% damage to the target and minor damage to nearby enemies.
   - The attack bypasses defensive buffs. This includes counterattacks.
   - The caster gains 20% mana if any defensive buffs were bypassed.
   - >-
@@ -19,10 +19,10 @@ types:
   - Hit 3
 passives:
   - >-
-    This hero has innate resistance against all status effects and stacks that
-    effect attack. This includes buffs.
+    Resist attack status effects: This character has innate resistance against 
+    all status effects and stacks that effect attack. This includes buffs.
   - >-
-    This Hero has innate resistance against status ailments and negative stacks
-    that affect mana generation. Applies also to status ailments that block mana
-    or steal mana.
+    Resist mana ailments: This character has innate resistance against status 
+    ailments and negative stacks that affect mana generation. Applies also to 
+    status ailments that block mana or steal mana.
 image: https://i.imgur.com/jTxW191.jpg

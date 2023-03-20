@@ -19,7 +19,7 @@ types:
   - Hit All
 passives:
   - >-
-    The hero has an innate ability to resist status ailments that affect
+    This character has an innate resistance against status ailments that affect
     Accuracy. Doesn't apply to status effects from allies
 image: https://i.imgur.com/1sMnXH3.jpg
 family: 2019

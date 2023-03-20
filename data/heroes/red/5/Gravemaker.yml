@@ -9,7 +9,7 @@ health: 1363
 skill: Ashes to Ashes
 effects:
   - Deals 135% damage to the target and nearby enemies.
-  - The target and nearby enemies receive 298 burn damage over 2 turns.
+  - The target and nearby enemies receive 306 burn damage over 2 turns.
   - Deals extra damage against Nature.
   - >-
     Element Link gives all Fire allies +5% attack and +5% defense for 6 turns.

@@ -14,11 +14,11 @@ effects:
     enemy has more health than the attacker. The effect lasts for 5 turns.
   - >-
     Element Link gives all Holy allies +46% defense against Dark for 4 turns.
-    This effect can't be cleansed.
+    This effect can't be dispelled.
 types:
   - Hit 1
   - Titan Attack Buff
 passives:
-  - The hero has an innate ability to resist Poison.
+  - This character has an innate resistance against Poison.
 image: https://i.imgur.com/pCzfhdF.jpg
 family: 2019

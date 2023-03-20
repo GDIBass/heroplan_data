@@ -10,18 +10,19 @@ skill: Wrath of Tundra
 effects:
   - >-
     All allies get +130% normal attack that only applies when the enemy has more
-    HP than the attacker. Stacks with simlar status effects up to a maximum of
-    +170% normal attack. The effect lasts for 5 turns
-  - The target and nearby enemies get silenced for 4 turns
+    HP than the attacker. This effect can be active in addition to effects that 
+    alter attack in general. Normal attacks can have a total maximum of +170% 
+    increased power while this efect is active. The effect lasts for 5 turns.
+  - The target and nearby enemies get silenced for 5 turns
   - >-
     Element Link gives +4% mana regeneration for all Ice allies for 4 turns.
-    This effect can't be despelled
+    This effect can't be dispelled.
 types:
   - Titan Attack Buff
   - Silencer
 passives:
   - >-
-    The hero has an innate ability to resist status aliments that Block Special
-    Skills
+    This character has an innate resistance against status aliments that Block 
+    Special Skills.
 image: https://i.imgur.com/FM0GgVz.jpg
 family: 2019

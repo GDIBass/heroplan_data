@@ -20,8 +20,8 @@ types:
   - Damage reduction buff
 passives:
   - >-
-    This Hero has innate resistance against status ailments that affect Mana
-    Generation.Doesn't apply to status ailments that stop amna generation or
-    steal mana.
+    This character has innate resistance against status ailments and negative 
+    stacks that affect Mana Generation. Doesn't apply to status ailments that 
+    stop mana generation or steal mana.
 image: https://i.imgur.com/0xyk3F5.jpg
 family: 2020

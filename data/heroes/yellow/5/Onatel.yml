@@ -22,7 +22,7 @@ types:
   - Mana Steal
 passives:
   - >-
-    The hero has an innate ability to resist status ailments that affect
+    This character has an innate ability to resist status ailments that affect
     Accuracy. Doesn't apply to status effects from allies.
 image: https://i.imgur.com/wCLflfr.jpg
 family: 2019
