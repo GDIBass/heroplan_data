@@ -9,7 +9,10 @@ health: 1248
 skill: Dragon Fang
 effects:
   - Deals 332% damage to the target and minor damage to nearby enemies
-  - The caster heals 50% of dealt normal damage for 5 turns
+  - The caster heals 50% of dealt normal damage for 5 turns.
+  - >-
+    Elemental Link gives all Holy allies +15% attack and +15% defense for 6
+    turns. This effect can’t be displelled.
 types:
   - Hit 3
   - Self Heal

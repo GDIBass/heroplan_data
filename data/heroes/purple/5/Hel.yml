@@ -11,6 +11,9 @@ effects:
   - Deals 315% damage to the target and minor damage to nearby enemies
   - The target and nearby enemies can't gain mana for 3 turns
   - Deals extra damage against Holy
+  - >-
+    Elemental Link gives all Dark allies +15% attack and +15% defense for 6
+    turns. This effect can’t be displelled.
 types:
   - Hit 3
   - Mana Gain Freeze

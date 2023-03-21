@@ -18,8 +18,8 @@ types:
   - Hit All
 passives:
   - >-
-    The hero has an innate ability to resist status ailments that affect Mana
-    Generation. Doesn't apply to status ailments that stop mana generation or
-    steal mana.
+    This character has an innate resistance against status ailments and negative 
+    stacks that affect mana generation. Doesn't apply to status ailments that 
+    stop mana generation or steal mana.
 image: https://i.imgur.com/1Kkc15H.jpg
 family: 2019

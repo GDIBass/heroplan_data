@@ -14,10 +14,12 @@ effects:
     The caster and nearby allies get +74% defense against special skills for 4
     turns.
   - >-
-    Element Link summons a Dark Minion for all Dark allies with 5% HP and 5%
+    Element Link summons a Dark Minion for all Dark allies with 5% HP and 10%
     attack inherited from the caster
 types:
   - Defense Buff
   - HoT 3
+passives:
+  - This character has innate resistance against Sand damage.
 image: https://i.imgur.com/oEPqMWI.jpg
 family: 2020

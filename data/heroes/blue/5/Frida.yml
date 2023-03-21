@@ -19,6 +19,6 @@ types:
   - Elemental Defense Debuff
   - Dispeller
 passives:
-  - The hero has an innate ability to resist status ailments that affect Attack.
+  - This character has an innate resistance against status ailments that affect Attack.
 image: https://i.imgur.com/vGjHyB4.jpg
 family: 2019

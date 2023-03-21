@@ -20,7 +20,8 @@ types:
   - Cleanser
 passives:
   - >-
-    The hero has an innate ability to resist status ailments that affect
-    Defense. Doesn't apply to status ailments affecting Elemental Defense.
+    This character has an innate resistance against status ailments and negative
+    stacks that affect defense. Doesn't apply to status ailments that affect 
+    Elemental Defense.
 image: https://i.imgur.com/4sKh1TW.jpg
 family: 2019

@@ -12,7 +12,7 @@ effects:
   - Increases the mana of the target by 50%
   - >-
     The target automatically casts Mindless Attack on a random ally when mana is
-    full during 3 turns.
+    full at the start of a turn during 3 turns.
   - >-
     Element Link gives all Nature allies +30% defense against Special Skills for
     4 turns. This effect can’t be dispelled.
@@ -21,7 +21,7 @@ types:
   - Mindless Attack
 passives:
   - >-
-    Resist Water Damage – This Hero has an innate resistance against Water
+    Resist Water Damage – This character has an innate resistance against Water
     damage.
 image: https://i.imgur.com/XA1fhlp.jpg
 family: 2020

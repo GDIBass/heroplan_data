@@ -8,9 +8,12 @@ defense: 679
 health: 1419
 skill: Burning Chains
 effects:
-  - The target receives 752 damage over 4 turns (can't be cleansed)
-  - The target gets -54% mana generaton for 4 turns (can't be cleansed)
+  - The target receives 752 damage over 4 turns. This effect can’t be cleansed.
+  - The target gets -54% mana generaton for 4 turns. This effect can’t be cleansed.
   - Deals extra damage against Nature
+  - >-
+    Elemental Link gives +10% mana generation to all Fire allies for 4 turns. 
+    This effect can’t be displelled.
 types:
   - Dot 1
   - Mana Generation Debuff

@@ -21,7 +21,7 @@ types:
   - Cleanser
 passives:
   - >-
-    This Hero has innate resistance against status ailments that give immunity
+    This character has innate resistance against status ailments that give immunity
     to new buffs.
 image: https://i.imgur.com/25WLFwN.jpg
 family: 2020

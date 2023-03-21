@@ -11,7 +11,9 @@ effects:
   - >-
     Summons a Frost Sprite Minion for each ally with 13% HP and 15% attack
     inherited from the caster.
-  - All allies' Minions get +30% HP and +30% attack
+  - >-
+    All allies' Minions get +30% HP and +30% attack. This special can increase 
+    HP and attack up to +200% of the Minion's original HP and attack.
   - >-
     Element Link gives all Ice allies small amounts of mana at the end of the
     turn for 4 turns. This effect can't be dispelled.
@@ -20,9 +22,9 @@ types:
   - Attack Buff
   - Summoner
 passives:
-  - This hero has innate resistance against Burn.
   - >-
-    This Hero's status ailments are dispelled when a Minion owned by them is
+    This character is cleansed of status ailments when a Minion owned by them is
     destroyed.
+  - This character has innate resistance against Burn.
 image: https://i.imgur.com/ux7vLKs.jpg
 family: 2021

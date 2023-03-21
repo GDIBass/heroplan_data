@@ -11,6 +11,9 @@ effects:
   - Each fallen ally has a 33% chance to get revived with 23% HP
   - All allies regenerate 612 HP over 4 turns
   - All allies regenerate a moderate amount of mana over 4 turns
+  - >-
+    Element Link gives all Nature allies +15% attack and +15 defense for 6
+    turns. This effect can't be dispelled.
 types:
   - Reviver
   - HOT

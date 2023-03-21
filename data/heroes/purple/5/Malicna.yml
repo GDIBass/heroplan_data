@@ -15,17 +15,18 @@ effects:
   - ' * The target and nearby enemies get -54% attack for 3 turns'
   - ' * The target and nearby enemies get -24% mana generation for 3 turns'
   - 'Alternative 2:'
-  - ' * The target and nearby enemies get -16% defnese for 3 turns'
+  - ' * The target and nearby enemies get -16% defense for 3 turns'
   - 'Alternative 3:'
   - ' * The target and nearby enemies get -16% attack for 3 turns'
   - ''
   - >-
-    Elementi Link gives all Dark allies small amount of mana at the end of the
-    turn fo4 turns. This effect can't be dispelled
+    Element Link gives all Dark allies small amount of mana at the end of the
+    turn for 4 turns. This effect can't be dispelled
 types:
+  - Gambler
   - Hit 3
 passives:
-  - The caster gets +94% defense against Holy for 3 turns when mana is reduced
-  - This Hero has innate resistance against status ailments that steal health
+  - This character gets +94% defense against Holy for 3 turns when mana is reduced
+  - This character has innate resistance against status ailments that steal health
 image: https://i.imgur.com/ZMAYhxa.jpg
 family: 2021

@@ -21,8 +21,8 @@ types:
   - Dispeller
 passives:
   - >-
-    This Hero has an innate resistance against incoming negative effects and
+    This character has an innate resistance against incoming negative effects and
     damage from Minions.
-  - This Hero has an innate resistance against Dispels of buffs.
+  - This character has an innate resistance against Dispels of buffs.
 image: https://i.imgur.com/kOGhPnC.jpg
 family: 2021

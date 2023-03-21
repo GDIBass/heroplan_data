@@ -12,6 +12,9 @@ effects:
   - >-
     Summons a Guardian Minion for each ally with 13% HP and 16% attack inherited
     from the caster
+  - >-
+    Elemental Link gives +10% mana generation for all Holy allies for 4 turns. 
+    This effect can’t be displelled.
 types:
   - Healer
   - Summoner

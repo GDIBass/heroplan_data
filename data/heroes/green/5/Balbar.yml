@@ -21,5 +21,12 @@ effects:
 types:
   - Sleep
   - Hit 1
+passives:
+  - >- 
+    Health recovery on buff received: This character recovers 5% health when they
+    receive a buff or a positive stack.
+  - >-
+    Resist buff immunity: This character has innate resistance against status 
+    ailments that give immunity to new buffs.
 image: https://i.imgur.com/lTYrovf.jpg
 family: 2021

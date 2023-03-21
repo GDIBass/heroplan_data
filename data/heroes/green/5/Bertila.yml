@@ -19,10 +19,10 @@ types:
   - Hit All
 Passives:
   - >-
-    The Hero gains a small amount of mana when a Minion owned by them is
-    destroyed
+    The character gains a small amount of mana when a Minion owned by them is
+    destroyed.
   - >-
-    This Hero has innate resistance against status ailments that affect
+    This character has innate resistance against status ailments that affect
     Accuracy.  Doesn't apply to status effects from allies.
 image: https://i.imgur.com/gXYlHzy.jpg
 family: 2021

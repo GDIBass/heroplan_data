@@ -19,6 +19,6 @@ types:
   - Cleanser
   - HOT
 passives:
-  - This Hero has innate resistance against status ailments that affect Attack.
+  - This character has innate resistance against status ailments that affect Attack.
 image: https://i.imgur.com/O0p11HF.jpg
 family: 2020
