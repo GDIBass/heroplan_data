@@ -13,7 +13,7 @@ effects:
   - Deals 275% damage to all enemies.
   - Deals additional 30% damage to all enemies for each Minion destroyed.
   - >-
-    Stack (Max: 10): All enemies get 7% mana generation for each destroyed
+    Stack (Max: 10): All enemies get -7% mana generation for each destroyed
     Minion.
 types:
   - Minion Destruction
@@ -21,6 +21,6 @@ types:
   - Stack
 passives:
   - >-
-    Reduces the chance of revival by -50%. The effect applies to all enemies in
-    the battle.
+    Mana increase reduction: Reduces the amount of mana increased by Special 
+    Skill by 50%. The effect applies to all enemies in the battle.
 image: https://i.imgur.com/8WZ5oVt.jpg

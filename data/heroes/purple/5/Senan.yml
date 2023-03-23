@@ -10,11 +10,11 @@ skill: Curse of the Specter
 effects:
   - Deals 275% damage to the all enemies.
   - >-
-    Summons a Spectre Fiend for all enemies. The Fiend damages the enemy with
+    Summons a Spectre Fiend for all enemies. The Fiend damages its target with
     45% attack every turn.
   - >-
-    The Spectre Fiend absorbs healing and disappears when it has absorbed health
-    equal to 30% of it's target's max health.
+    The Spectre Fiend absorbs healing. It disappears after absorbing a healing
+    amount equal to 30% of it's target's max health.
   - 'Stack (Max: 10): The caster gets +5% mana generation'
   - 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
 types:

@@ -9,10 +9,12 @@ health: 1380
 skill: Bobo Blitz
 effects:
   - Deals 320% damage to all enemies.
-  - 'The enemy with the highest base defense gets the following status ailment:'
-  - ' * The target gets -60% defense for 4 turns. This effect can''t be cleansed.'
-  - 'The enemy with the highest base attack gets the following status ailment:'
-  - ' * The target gets -60% attack for 4 turns. This effect can''t be cleanesd.'
+  - >-
+    The enemy with the highest base defense gets -60% defense for 4 turns. 
+    This effect can't be cleansed.
+  - >-
+    The enemy with the highest base attack gets -60% attack for 4 turns. 
+    This effect can't be cleansed.
 types:
   - Hit All
   - Defense Debuff

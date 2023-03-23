@@ -11,11 +11,11 @@ effects:
   - 'Casts one of the following special skills:'
   - ''
   - 'If any enemy has the Burn Status Ailment:'
-  - ' * All enemies receive 410 Burn damage over 5 turns.'
+  - ' * All enemies receive 415 Burn damage over 5 turns.'
   - ' * All allies regenerate 549 HP over 3 turns.'
   - ' * All allies are immune to new status ailments for 3 turns.'
   - 'Otherwise:'
-  - ' * All enemies receive 320 Burn damage over 5 turns.'
+  - ' * All enemies receive 365 Burn damage over 5 turns.'
   - ' * All allies are immune to new status ailments for 3 turns.'
 types:
   - Gamble

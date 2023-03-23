@@ -12,12 +12,14 @@ effects:
   - Deals 450% damage if the target has less than 50% health remaining.
   - The target and nearby enemies get -24% mana generation for 3 turns.
   - 'Stack +2 (Max: 10): The caster gets +10% mana generation.'
-  - 'Sack (Max: 10): The caster recovers 10 HP each turn.'
+  - 'Stack (Max: 10): The caster recovers 10 HP each turn.'
 types:
   - Hit 1
   - Mana generation debuff
   - Stack
 family: Slayer
 passives:
-  - Damage caused by status ailments reduced by -50%
+  - >-
+    Status ailment damage reduction: Damage caused by status ailments reduced 
+    by -50%.
 image: https://i.imgur.com/YWXxtDj.jpg

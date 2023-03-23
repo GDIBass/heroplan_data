@@ -11,9 +11,9 @@ effects:
   - Delas 550% damage to the target.
   - Reduces the duration of the target and nearby enemies buffs by 1 turn.
   - >-
-    The target and nearby enemies receive corrosive poison for 3 turns. The
-    corrosive poison deals 64 damage and lowers the target’s mana generation by
-    -13% each turn for 3 turns.
+    The target and nearby enemies receive corrosive poison for 4 turns. The
+    corrosive poison deals 144 Poison damage and lowers the target’s mana 
+    generation by -13% each turn.
 types:
   - Hit 1
   - Dot 3

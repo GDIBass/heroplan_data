@@ -9,9 +9,9 @@ health: 1268
 skill: Impairing Blade
 effects:
   - Deals 280% damage to all enemies
-  - Reduces the duration of the target and nearby enemies’ buffs by 1 turn.
+  - Reduces the duration of all enemies active buffs by 1 turn.
   - >-
-    All enemies get corrosive poison for 4 turns. Corrosive Poison does 50
+    All enemies get corrosive poison for 4 turns. Corrosive Poison deals 50
     damage and lowers the target’s mana generation by -9% each turn.
 types:
   - Hit 3
