@@ -78,3 +78,12 @@ speeds:
       13:
         - 5
         - 11
+  slayer:
+    key: slayer
+    code: 8
+    shortName: SL
+    Description: Slayer
+    Tiles: [11]
+    breakPoints:
+      10: [10]
+      22: [9]
