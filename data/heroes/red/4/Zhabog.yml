@@ -16,6 +16,6 @@ types:
   - Status Ailment Reset
 passives:
   - >-
-    Reduces the chance of revival by -50%. The effect applies to all enemies in
-    the battle.
+    Revival chance reduction: The chance of revival is reduced for all enemies 
+    in the battle. The chance is 50% of the original value.
 image: https://i.imgur.com/GX1p5W9.jpg

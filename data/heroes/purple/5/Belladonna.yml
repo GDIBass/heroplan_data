@@ -1,0 +1,24 @@
+name: Belladonna
+class: Rogue
+family: Bard
+source: Festival
+speed: Average
+power: 841
+attack: 821
+defense: 813
+health: 1442
+skill: Mystical Concerto
+effects:
+  - Recovers 42% health for all allies.
+  - All allies recover additional 8% health for each Fiend owned by the allies.
+  - All allies get +54% attack for 4 turns.
+  - All allies are immune to buff dispels for 4 turns.
+types:
+  - Heal all
+  - Attack Buff
+  - Dispel Immunity
+passives:
+  - >-
+    Mana increase reduction: Reduces the amount of mana increased by Special 
+    Skill by 50%. The effect applies to all enemies in the battle.
+image: https://i.imgur.com/sGuDCiH.jpg

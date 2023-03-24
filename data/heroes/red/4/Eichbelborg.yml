@@ -9,8 +9,7 @@ health: 1317
 skill: Pompous Flex
 effects:
   - Deals 340% damage to the target.
-  - 'The enemy with the highest base defense gets the following status ailment:'
-  - ' * The target gets -44% defense for 4 turns.'
+  - The enemy with the highest base defense gets -44% defense for 4 turns.
 types:
   - Hit 1
   - Defense Debuff

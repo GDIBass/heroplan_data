@@ -10,7 +10,7 @@ skill: Director's Blessing
 effects:
   - >-
     Recovers 65% health for the ally with the lowest ramining HP. All other
-    allies recover 30% health.
+    allies recover 42% health.
   - >-
     Summons a Clown Minion for each ally with 15% HP and 22% attack inherited
     from the caster.

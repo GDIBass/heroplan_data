@@ -10,7 +10,7 @@ skill: Vitalizing Spectacle
 effects:
   - Recovers 35% health for all allies.
   - >-
-    All allies with a dispellable status ailment that affects defense get +50%
+    All allies with a cleansable status ailment that affects defense get +50%
     defense for 3 turns.
   - All allies get +24% mana generation for 3 turns.
 types:
