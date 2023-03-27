@@ -1,0 +1,27 @@
+name: Doxan
+class: Fighter
+speed: Fast
+source: SuperElemental
+family: SuperElemental
+power: 845
+attack: 824
+defense: 784
+health: 1520
+skill: Dual Laser Blades
+effects:
+  - Deals 500% damage to the target and minor damage to all Nature enemies.
+  - The target and all Nature enemies receive 920 Burn damage over 4 turns.
+types:
+  - Hit 1
+  - Elemental
+  - DoT
+passives:
+  - >-
+    Troop strong damage modifier: This Passive Skill has two different 
+    function based on if this character is in attack or in defense.
+    Passive Skill as attacking character. This character's Troops deal 100%
+    more additional damage against the weaker element.
+    Passive Skill as defending character. This character receives 10% less 
+    additional damage from troops of stronger element.
+    
+image: https://i.imgur.com/aM5vSU2.jpg
