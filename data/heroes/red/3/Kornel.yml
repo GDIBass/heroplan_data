@@ -18,8 +18,6 @@ types:
   - Defense Debuff
   - Charge
 passives:
-  - >-
-    On a fully charged Special Skill this Hero has a 50% chance to deal 100%
-    damage to all enemies that are not of Fire element.
+  - 'Damage on special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.'
 family: Magic
 image: https://i.imgur.com/mQovZC2.jpg

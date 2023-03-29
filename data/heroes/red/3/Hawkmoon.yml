@@ -1,6 +1,7 @@
 name: Hawkmoon
 class: Cleric
 source: Season1
+family: Classic
 speed: Average
 power: 444
 attack: 474

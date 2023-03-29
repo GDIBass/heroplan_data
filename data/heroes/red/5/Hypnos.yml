@@ -13,16 +13,16 @@ effects:
     Special Skill has a different effect when charged with 100% / 200% / 300%
     mana:
   - '1x Mana Charge:'
-  - ' * Deals 170% damage to all enemies.'
-  - ' * All enemies cannot cast any new Taunt status effects for 2 turns.'
+  - ' * Deals 220% damage to all enemies.'
+  - ' * All enemies are immune to new status effects buffs for 2 turns.'
   - '2x Mana Charge:'
-  - ' * Deals 300% damage to all enemies.'
   - ' * Dispels buffs from all enemies.'
+  - ' * Deals 320% damage to all enemies.'
+  - ' * All enemies are immune to new status effects buffs for 3 turns.'
   - '3x Mana Charge:'
-  - ' * Deals 335% damage to all enemies.'
   - ' * Dispels buffs from all enemies.'
-  - ' * All enemies cannot cast any new Taunt status effects for 4 turns.'
-  - ' * All enemies get -44% defense for 4 turns.'
+  - ' * Deals 385% damage to all enemies.'
+  - ' * All enemies are immune to new status effects buffs for 4 turns.'
 types:
   - Hit all
   - Defense Debuff
@@ -30,6 +30,5 @@ types:
   - Taunt Block
 passives:
   - >-
-    Decrease Defense Ailment Duration - Duration of the defense status ailments
-    this character receives from Special Skills is decreased by 2 turns.
+    Resist Defense Ailments - This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
 image: https://i.imgur.com/HPFyboz.jpg

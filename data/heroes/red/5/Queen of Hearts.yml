@@ -8,13 +8,13 @@ defense: 729
 health: 1545
 skill: Queen of Cards
 effects:
-  - Deals 240% damage to the target and nearby enemies
+  - Deals 240% damage to the target and nearby enemies.
   - >-
     Summons a Playing Card Minion with 16% HP and 30% attack inherited from the
-    caster
+    caster.
   - >-
-    The Playing Card Minion gives its owner Taunt. Taunt prevents the enemies
-    from using their Special Skills on minion owner's allies
+    When summoned, the Playing Card Minion gives Taunt for its owner as long as
+    the owner has Playing Card Minions. This effect can't be dispelled.
   - The caster gets 74% defense against Special Skills for 4 turns
 types:
   - Hit All

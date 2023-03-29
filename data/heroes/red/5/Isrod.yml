@@ -6,7 +6,7 @@ power: 804
 attack: 758
 defense: 768
 health: 1423
-skill: Vengeful Strike
+skill: Vengeful Scythe
 effects:
   - Deals 260% damage to the target and nearby enemies.
   - >-

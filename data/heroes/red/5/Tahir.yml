@@ -12,15 +12,17 @@ effects:
   - Deals 350% damage to the target.
   - Deals 525% damage if the target has status ailments or negative stacks.
   - >-
-    If the target still alive, the nearby enemies get 336 Bleed damage for 3
+    If the target still alive, the nearby enemies get 258 Bleed damage for 3
     turns.
-  - Element Link gives all Fire allies immunity to new Fiends for 4 turns.
+  - >-
+    Element Link gives all Fire allies immunity to new Fiends for 4 turns. 
+    This effect cannot be dispelled.
 types:
   - Hit 1
-  - Hit 3
+  - DoT 2
 passives:
-  - This character has innate resistance against Bleed.
   - >-
     This character recovers 50 HP when they receive a status ailment or a
     negative stack.
+  - This character has innate resistance against Bleed.
 image: https://i.imgur.com/CooQRgw.jpg

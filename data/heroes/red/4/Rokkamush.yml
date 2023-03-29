@@ -6,18 +6,14 @@ power: 677
 attack: 707
 defense: 658
 health: 1147
-skill: Widow's Kiss
+skill: Blind Rage
 effects:
   - Deals 200% damage to all enemies. Each hit has 50% accuracy.
-  - >-
-    All enemies receive 180 Bleed damage over 4 turns. This effect stacks with
-    similar effects.
+  - All hit enemies receive 192 Bleed damage over 4 turns. 
 types:
   - Hit All
   - DoT All
 family: Underwild
 passives:
-  - >-
-    Duration of the first 3 buffs this hero receives from Special Skills is
-    increased by 1 turn
+  - 'Decrease ailment duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.'
 image: https://i.imgur.com/dOWSQgd.jpg

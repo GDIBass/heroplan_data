@@ -1,6 +1,7 @@
 name: Elena
 class: Fighter
 source: Season1
+family: Classic
 speed: Slow
 power: 753
 attack: 809

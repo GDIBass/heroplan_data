@@ -1,6 +1,7 @@
 name: Boldtusk
 class: Fighter
 source: Season1
+family: Classic
 speed: Average
 power: 644
 attack: 588
