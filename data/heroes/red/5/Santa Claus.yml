@@ -8,9 +8,9 @@ defense: 830
 health: 1437
 skill: Ultimate Gift Sack
 effects:
-  - Deals 150% damage to all enemies
+  - Deals 200% damage to all enemies
   - >-
-    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited
+    Summons an Elf Minion for each ally with 7% HP and 10% attack inherited
     from the caster
   - All enemies get -34% attack for 3 turns
   - All enemies get -44% defense for 3 turns

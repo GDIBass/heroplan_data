@@ -8,10 +8,10 @@ defense: 754
 health: 1126
 skill: Blazing Beak
 effects:
-  - Deals 225% damage to the target and nearby enemies
+  - Deals 225% damage to the target and nearby enemies.
   - The target and nearby enemies get -54% defense against fire for 4 turns
 types:
   - Hit 3
   - Elemental Defense Debuff
-family: Teltoc
+family: Guardian
 image: https://i.imgur.com/osWU4RP.jpg

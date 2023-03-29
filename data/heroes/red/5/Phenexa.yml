@@ -9,7 +9,7 @@ defense: 813
 health: 1454
 skill: Ballad of Restoration
 effects:
-  - Recovers 40% health for all allies.
+  - Recovers 42% health for all allies.
   - The duration of buffs is reset for all allies.
   - All allies get +30% critical chance for 4 turns.
   - All allies get +50% attack for 4 turns.

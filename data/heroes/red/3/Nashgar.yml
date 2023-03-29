@@ -1,10 +1,11 @@
 name: Nashgar
 class: Barbarian
 source: Season1
+family: Classic
 speed: Fast
 power: 443
 attack: 514
-defense: 368
+defense: 366
 health: 684
 skill: Burning Strike
 effects:

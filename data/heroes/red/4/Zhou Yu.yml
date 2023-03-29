@@ -3,7 +3,7 @@ source: Kingdom
 class: Ranger
 speed: Average
 family: Kingdom
-power: 682
+power: 683
 attack: 639
 defense: 671
 health: 1336
@@ -11,13 +11,10 @@ skill: Scion Sword
 effects:
   - Deals 355% damage to the target.
   - >-
-    Summons a Wu Soldier Minion for each ally with 8% HP and 18% attack
+    Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack
     inherited from the caster.
-  - >-
-    Each hit from a Wu Soldier Minion gives the target the following status
-    ailments:
-  - The target receives 147 Burn damage over 3 turns.
+  - The target hit by Wu Soldier Minion receives 207 Burn damage over 3 turns.
 types:
-  - Hit 3
-  - Defense Debuff
+  - Hit 1
+  - Summoner
 image: https://i.imgur.com/KiDn1jL.jpg
