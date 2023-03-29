@@ -13,10 +13,10 @@ effects:
   - >-
     Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend
     damages the enemy with 45% attack each turn. The damage increases by 8% each
-    turn, up to a maximum of 93%
+    turn, up to a maximum of 93%.
   - >-
     The Bone Trap Fiend absorbs healing and disappears when it has absorbed
-    health equal to 30% of its owner’s max health.
+    health equal to 35% of its owner’s max health.
 types:
   - Hit 3
   - Summoner

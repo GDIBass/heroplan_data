@@ -8,16 +8,14 @@ defense: 780
 health: 1339
 skill: Elemental Magic
 effects:
-  - Removes all cleansable and uncleansable status effects from all enemies
-  - >-
-    Changes the element of all enemies to the element they are strong against
-    for 4 turns
-  - All allies get +54% attack for 4 turns
-  - All allies get +36% critical chance for 4 turns
+  - Removes all status effects from all enemies. Removes even status effects that are otherwise undispellable or uncleansable.
+  - Changes the element of all enemies to the element they are strong against for 4 turns.
+  - All allies get +54% attack for 4 turns.
+  - All allies get +36% critical chance for 4 turns.
 types:
   - Dispeller
   - Attack Buff
   - Critical Buff
   - Element Change
-family: Teltoc
+family: Guardian
 image: https://i.imgur.com/Q04Vvnt.jpg

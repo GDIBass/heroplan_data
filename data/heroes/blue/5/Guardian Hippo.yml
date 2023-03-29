@@ -8,12 +8,10 @@ defense: 782
 health: 1483
 skill: Brutal Support
 effects:
-  - >-
-    After any ally casts their Special skill during next 3 turns, this character
-    deals 225% damage to all enemies.
+  - For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. Damage is dealt on the first Special Skill cast of each character per turn.
   - All allies get +34% mana generation for 3 turns.
 types:
   - Hit All
   - Mana Generation
-family: Teltoc
+family: Guardian
 image: https://i.imgur.com/VXhh6s9.jpg

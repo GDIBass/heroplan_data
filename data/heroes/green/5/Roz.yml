@@ -21,10 +21,7 @@ types:
   - Hit 3
   - Hit All
 passives:
-  - >-
-    This character’s Troops deal 100% more additional damage against weaker
-    element.
-  - >-
-    This character receives 10% less additional damage from Troops of stronger
-    element.
+  - This Passive Skill has two different functions based on if this character is in attack or in defense.
+  - 'Passive Skill as attacking character: This character’s Troops deal 100% more additional damage against weaker element.'
+  - 'Passive Skill as defending character: This character receives 10% less additional damage from Troops of stronger element.'
 image: https://i.imgur.com/5xvOFq1.jpg
