@@ -9,12 +9,11 @@ health: 1394
 skill: Glorious Grace
 effects:
   - Cleanses status ailments from all allies.
+  - Boosts health of all allies by 200. Boosted health can exceed max HP.
   - >-
-    Boosts health of all allies by 200. If health exceeds max HP, it is added as
-    temporary HP.
-  - >-
-    All allies' health is boosted by 600 HP over 4 turns. The effect duration is
-    reset if the target receives status ailments
+    All allies regenerate 600 boosted health over 4 turns. Boosted health can 
+    exceed max HP. The effect duration is reset if the target receives status 
+    ailments.
 types:
   - Health Boost
   - HOT

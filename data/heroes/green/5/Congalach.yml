@@ -9,8 +9,9 @@ health: 1390
 speed: Slow
 skill: Spectre's Flail
 effects:
-  - Deals 310% damage to 5 random enemies.
-  - 'Stack (Max: 10): Each hit gives its target -9% attack'
+  - Deals 310% damage to hit targets.
+  - Deals an additional 310% damage to 4 random enemies.
+  - 'Stack (Max: 10): Each hit gives its target -9% attack'.
 types:
   - Hit 5
   - Attack Debuff

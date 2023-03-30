@@ -15,7 +15,7 @@ types:
   - Defense Debuff
 passives:
   - >-
-    First time this Hero casts Special Skill that does damage, additional 30% is
-    added to its power.
+    The first time this character casts a Special Skill that does damage, 
+    an additional 30% is added to its power.
 family: Underwild
 image: https://i.imgur.com/BbpdvD9.jpg

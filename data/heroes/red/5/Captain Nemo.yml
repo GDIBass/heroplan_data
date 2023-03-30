@@ -13,6 +13,6 @@ effects:
 types:
   - Hit 1
 passives:
-  - This Hero receives 30% mana at the start of the battle
+  - This character receives 20% mana at the start of the battle.
 family: Underwild
 image: https://i.imgur.com/lNl4PPg.jpg
