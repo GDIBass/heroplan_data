@@ -26,6 +26,6 @@ types:
 family: Underwild
 passives:
   - >-
-    Received damage is reduced by -209% for the first 3 times this Hero
+    Received damage is reduced by -20% for the first 3 times this Hero
     recveives damage from Special Skills
 image: https://i.imgur.com/eea7u0v.jpg

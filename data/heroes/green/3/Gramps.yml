@@ -9,7 +9,7 @@ health: 804
 skill: Elder's Remedy
 effects:
   - Each fallen ally has a 33% chance to get revived with 23% HP.
-  - All allies regenerate a moderate ammount of mana over 4 turns.
+  - All allies receive a small ammount of mana over 4 turns.
 types:
   - Revive
   - Mana regen

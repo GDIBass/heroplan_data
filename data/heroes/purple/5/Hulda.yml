@@ -13,11 +13,11 @@ effects:
     Summons a Larva Minion for each ally with 31% HP inheried from the caster.
     The Minion recovers 11% health for its owner at the end of each turn.
   - >-
-    The Larva Minion gives +24% mana generation for its owner as long as the
-    owner has Larva Minions. This effect can't be dispelled.
+    When summoned, the Larva Minion gives +24% mana generation for its owner 
+    for as long as the owner has Larva Minions. This effect can't be dispelled.
   - >-
-    The Larva Minion gives +54% defense for is owner for as long as the owner
-    has Larva Minions. This effect can't be dispelled.
+    When summoned, the Larva Minion gives +54% defense for is owner for as long 
+    as the owner has Larva Minions. This effect can't be dispelled.
 types:
   - Summoner
 passives:

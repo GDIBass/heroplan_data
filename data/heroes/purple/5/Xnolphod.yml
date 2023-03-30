@@ -8,13 +8,13 @@ defense: 793
 health: 1380
 skill: Ancient Enchantment
 effects:
-  - Recovers 32% health for all allies
+  - Recovers 40% health for all allies.
+  - Increases the mana of all allies by 10%.
   - >-
-    Alter the power of all Dark shields on the boards. When an attacking Hero
+    Alters the power of all Dark shields on the boards. When an attacking Hero
     casts the special, the shields become enhanced and give +37% more mana. When
     a defending Hero casts the special, the shields become weakened and give
     -30% less mana.
-  - Increases the mana of all allies by 20%.
 types:
   - Heal All
   - Shield Enhance
