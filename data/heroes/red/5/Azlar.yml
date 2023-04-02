@@ -1,6 +1,7 @@
 name: Azlar
 class: Barbarian
 source: Season1
+family: Classic
 speed: Slow
 power: 757
 attack: 793
@@ -46,5 +47,4 @@ costume2:
   types:
     - Hit 3
     - DoT
-  family: Classic
   image: https://i.imgur.com/6N4jIyy.jpg

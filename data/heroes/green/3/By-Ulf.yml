@@ -11,9 +11,10 @@ effects:
   - The caster and nearby allies get +48% attack for 4 turns.
   - The caster and nearby allies get +46% defense for 4 turns.
   - The caster and nearby allies regenerate 612 HP over 4 turns.
-  - >-
-    After 4 turns the caster gets negative status effects. The negative status
-    effects that the caster gets after 4 turns are:
+  - After 4 turns the caster gets status ailments. 
+  - ' '
+  - >-    
+    The status ailments that the caster gets after 4 turns are:
   - The caster gets -34% attack for 4 turns. This effect can't be cleansed.
   - The caster gets -34% defense for 4 turns. This effect can't be cleansed.
   - >-

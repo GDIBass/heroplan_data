@@ -11,10 +11,10 @@ effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
   - ' * The target and nearby enemies receive 116 Burn damage over 2 turns.'
-  - ' * If he caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.'
+  - ' * If the caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.'
   - '2x Mana Charge:'
-  - ' * Each fallen ally has a 34% chance to get revived with 30% HP.'
-  - ' * All allies regenerate 609 HP over 3 turns.'
+  - ' * Each fallen ally has a 44% chance to get revived with 40% HP.'
+  - ' * All allies regenerate 714 HP over 3 turns.'
   - ' * All allies reduce all received damage by -50% for 3 turns.'
 types:
   - HoT All
@@ -23,8 +23,6 @@ types:
   - Damage Reduction
   - Charge
 passives:
-  - >-
-    On a fully charged Special Skill this Hero has a 50% chance to deal 100%
-    damage to all enemies that are not of Fire element.
+  - 'Healt recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'
 family: Magic
 image: https://i.imgur.com/i5g8Fr0.jpg

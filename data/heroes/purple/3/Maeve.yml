@@ -18,5 +18,7 @@ types:
   - Stack
 family: Slayer
 passives:
-  - Damage caused by status ailments reduced by -50%
+  - >-
+    Status ailment damage reduction: Damage caused by status ailments reduced 
+    by -50%.
 image: https://i.imgur.com/vEp3yLs.jpg

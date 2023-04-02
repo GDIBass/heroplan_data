@@ -2,10 +2,10 @@ name: Odin
 class: Paladin
 source: Season3
 speed: Fast
-power: 788
-attack: 762
-defense: 751
-health: 1330
+power: 830
+attack: 800
+defense: 788
+health: 1463
 skill: Fury of Grimnir
 effects:
   - Deals 100% damage to all enemies.
@@ -14,9 +14,28 @@ effects:
     damage in total
   - >-
     All allies get +8% mana generation, and a further 2% increase per each Holy
-    shield on the board for 3 turns, up to 28% mana generation
+    shield on the board for 3 turns, up to +28% mana generation
 types:
   - Hit All
   - Mana Generation Buff
 family: Midgard
 image: https://i.imgur.com/WpdZnYI.jpg
+costume:
+  class: Fighter
+  power: 830
+  attack: 784
+  defense: 802
+  health: 1475
+  skill: Rage of Grimnir
+  effects:
+    - Deals 90% damage to all enemies.
+    - >-
+      Deals additional 25% damage per each Holy shield on the board, up to 290%
+      damage in total
+    - >-
+      All allies get +8% mana generation, and a further 3% increase per each Holy
+      shield on the board for 3 turns, up to +38% mana generation
+  types:
+    - Hit All
+    - Mana Generation Buff
+  image: https://i.imgur.com/guLxDJt.jpg

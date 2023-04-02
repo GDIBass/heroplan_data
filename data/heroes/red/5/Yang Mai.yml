@@ -13,7 +13,7 @@ effects:
     Has a 50% chance for additional hits on random enemies up to 4 times.
     Additional hits deal minor damage.
   - 'The caster gains the following status effect each hit:'
-  - 'Stack: The caster gets +5% attack. The maximum size of stack is 10.'
+  - 'Stack (Max: 10): The caster gets +5% attack.'
   - >-
     Element Link gives all Fire allies small amount of mana at the end of the
     turn for 4 turns. This effect can't be dispelled.
@@ -22,8 +22,9 @@ types:
   - Stack
 passives:
   - >-
-    Receives the following status effect when mana is reduced: The caster gets
-    +30% attack for 3 turns
-  - This Hero has innate resistance against Water damage
+    Status effect on mana reduction: The caster gets +30% attack for 3 turns
+    when their mana is reduced.
+  - >-
+    Resist water damage: This character has innate resistance against Water damage.
 image: https://i.imgur.com/vzzuVpu.jpg
 family: 2021

@@ -9,12 +9,12 @@ defense: 776
 health: 1409
 skill: Inevitable Demise
 effects:
-  - Deals 430% damage to the target and minor damage to the nearby enemies.
   - All enemies can’t revive their allies or themselves for 5 turns.
-  - >-
-    All enemies can’t receive status effects that would resurrect them for 5
-    turns.
+  - All enemies can’t receive new status effects that would resurrect them for 5 turns.
+  - Deals 430% damage to the target and minor damage to the nearby enemies.
 types:
   - Revive Block
   - Hit 3
+passives:
+  - 'Start Battle with mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/xMJYpsy.jpg

@@ -9,11 +9,11 @@ health: 608
 skill: Antler Attack
 effects:
   - Deals 285% damage to the target
-  - Reduces the mana of the target by 20%
-  - Summons an Elf Minion with 10% HP and 10% attack inherited from the caster
+  - Reduces the mana of the target by 20%.
+  - Summons an Elf Minion with 7% HP and 10% attack inherited from the caster
 types:
   - Hit 1
   - Mana Reduction
   - Summoner
-family: Christmas
+family: Winter
 image: https://i.imgur.com/mEYb8Ac.jpg

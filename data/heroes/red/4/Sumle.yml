@@ -8,7 +8,7 @@ defense: 629
 health: 1077
 skill: Magma Boulders
 effects:
-  - Deals 225% damage to all enemies. Each hit has 80% accuracy.
+  - Deals 235% damage to all enemies. Each hit has 80% accuracy.
   - The damage is increased by 70% per each dead enemy.
 types:
   - Hit All

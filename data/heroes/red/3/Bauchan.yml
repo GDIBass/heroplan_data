@@ -5,12 +5,12 @@ speed: Average
 power: 455
 attack: 420
 defense: 453
-health: 839
+health: 830
 skill: Goblin Fury
 effects:
-  - Deals 105% damage to all enemies
-  - Reduces the mana of all enemies by 20%
-  - All allies get +24% mana generation for 4 turns
+  - Deals 105% damage to all enemies.
+  - Reduces the mana of all enemies by 20%.
+  - All allies get +24% mana generation for 4 turns.
 types:
   - Hit All
   - Mana Reduction

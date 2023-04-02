@@ -9,7 +9,7 @@ health: 1175
 skill: Chain of Pain
 effects:
   - Deals 150% damage to the target and nearby enemies.
-  - 'Stack: The caster gets +10% attack. The maximum size of the stack is 10.'
+  - 'Stack (Max: 10): The caster gets +10% attack.'
 types:
   - Hit 3
   - Stacking

@@ -1,6 +1,7 @@
 name: Colen
 class: Fighter
 source: Season1
+family: Classic
 speed: Slow
 power: 643
 attack: 728

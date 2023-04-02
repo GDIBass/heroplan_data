@@ -12,8 +12,8 @@ effects:
   - >-
     The caster and nearby allies have from +30% to +90% chance of dodging
     special attacks that do damage. The higher the damage from the special is,
-    the higher the chance to dodge it. Each dodge gives a moderate amount of
-    mana to the target. Effect lasts 3 turns
+    the higher the chance to dodge it. Each dodge gives +24% mana to the target. 
+    Effect lasts 3 turns.
   - >-
     Elemental Link gives all Nature allies +46% defense against Fire for 4
     turns. This effect cannot be dispelled
@@ -21,6 +21,6 @@ types:
   - Hit 3
   - Dodge Buff
 passives:
-  - The hero has an innate ability to resist dispels of buffs.
+  - This character has an innate ability to resist dispels of buffs.
 image: https://i.imgur.com/3T1uKuW.jpg
 family: 2019

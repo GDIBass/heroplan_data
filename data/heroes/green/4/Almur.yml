@@ -2,10 +2,10 @@ name: Almur
 class: Sorcerer
 source: Season3
 speed: Fast
-power: 662
-attack: 626
-defense: 648
-health: 1262
+power: 684
+attack: 644
+defense: 667
+health: 1337
 skill: Shadow Sweep
 effects:
   - Deals 150% damage to the target and nearby enemies.
@@ -19,3 +19,19 @@ types:
   - Elemental Defense Debuff
 family: Svartalfheim
 image: https://i.imgur.com/myuGoyp.jpg
+costume:
+  class: Barbarian
+  power: 684
+  attack: 667
+  defense: 634
+  health: 1348
+  skill: Shadow Lunge
+  effects:
+    - Deals 290% damage to the target.
+    - Reduces the mana of teh target by 20%.
+    - The target gets -58% defense against Nature for 3 turns.
+  types:
+    - Hit 1
+    - Mana Reduction
+    - Elemental Defense Debuff
+  image: https://i.imgur.com/G55eXUT.jpg

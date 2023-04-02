@@ -8,11 +8,9 @@ defense: 751
 health: 1394
 skill: Chakram Kick
 effects:
-  - Deals 290% daamage to the target and nearby enemies.
+  - Deals 330% daamage to the target and nearby enemies.
   - >-
-    The hit enemy with the fastest base mana speed gets the following status
-    ailment:
-  - ' * The target gets -44% mana generation for 3 turns.'
+    The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns.'
 types:
   - Hit 3
   - Mana generation debuff

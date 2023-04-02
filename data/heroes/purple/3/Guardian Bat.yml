@@ -9,8 +9,8 @@ health: 862
 skill: Merciless Bite
 effects:
   - Deals 270% damage to the target and minor damage to nearby enemies
-  - The damage is increased by 60% per each dead ally
+  - The damage is increased by 50% per each dead ally
 types:
   - Hit 3
-family: Teltoc
+family: Guardian
 image: https://i.imgur.com/yMD2ogt.jpg

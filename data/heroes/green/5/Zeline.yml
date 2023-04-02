@@ -12,6 +12,9 @@ effects:
   - All enemies get -34% attack for 4 turns
   - Deals extra damage against Ice
   - Dispels buffs from all enemies
+  - >-
+    Elemental Link gives +10% mana generation for all Nature allies for 4 turns.
+    This effect can't be dispelled.
 types:
   - Hit All
   - Attack Debuff

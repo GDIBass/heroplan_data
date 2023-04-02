@@ -2,10 +2,10 @@ name: Agwe
 class: Cleric
 source: Season2
 speed: Average
-power: 648
-attack: 686
-defense: 616
-health: 1079
+power: 669
+attack: 706
+defense: 634
+health: 1143
 skill: Rogue Wave
 effects:
   - Deals 190% damage to all enemies
@@ -15,3 +15,18 @@ types:
   - Elemental Defense Buff
 family: Lagoon
 image: https://i.imgur.com/cTx7oHb.jpg
+costume:
+  class: Wizard
+  power: 669
+  attack: 658
+  defense: 710
+  health: 1107
+  skill: Spilled Decoctions
+  effects:
+    - Deals 185% damage to all enemies.
+    - All Nature enemies receive 536 Burn damage over 4 turns
+  types:
+    - Hit All
+    - Elemental Burn Ailment
+  image: https://i.imgur.com/1q4qwgL.jpg
+

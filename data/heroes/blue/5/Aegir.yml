@@ -9,7 +9,7 @@ health: 1446
 skill: Icy Resilience
 effects:
   - All allies share received damage with each other for 3 turns
-  - All allies get +30% defense for 3 turns
+  - All allies get +35% defense for 3 turns
   - All allies heal 100% of dealt normal damage for 3 turns
   - >-
     Element Link recovers 4% health for all Ice allies for 6 turns. This effect
@@ -40,5 +40,6 @@ costume:
   types:
     - Share Damage
     - Defense Buff
+    - Healer
   image: https://i.imgur.com/JN0Ddwo.jpg
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/1

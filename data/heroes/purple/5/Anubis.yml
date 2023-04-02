@@ -1,0 +1,27 @@
+name: Anubis
+class: Sorcerer
+speed: Average
+family: Moon
+source: Season5
+power: 845
+attack: 791
+defense: 826
+health: 1520
+skill: Mark of Anubis
+effects:
+  - >-
+    Inflicts the target with Greed for 3 turns. The enemies with Greed prevent 
+    other enemies from receiving friendly effects of their allies Special Skills.
+  - All enemies receive 486 Poison damage over 3 turns.
+  - All enemies get -34% defense for 3 turns.
+types:
+  - Hit 1
+  - Dot all
+  - Defense Debuff
+passives:
+  - >-
+    Effects on special skill: 60% chance to perform the following actions when
+    this character casts their Special Skill:
+  - ' * Deals 70% damage to all enemies.'
+  - ' * Dispells the latest dispellable buff from all enemies.'
+image: https://i.imgur.com/QQQGz6W.jpg

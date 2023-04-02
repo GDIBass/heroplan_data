@@ -18,7 +18,7 @@ types:
   - Mana boost
 passives:
   - >-
-    Effects on Special Skill - 60% chance to perform the following actions when
+    Effects on Special Skill - 50% chance to perform the following actions when
     this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * Dispells the latest dispellable buff from all enemies.'

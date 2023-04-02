@@ -10,7 +10,9 @@ health: 1365
 skill: Erase Strength
 effects:
   - Deals 325% damage to the target and minor damage to the nearby enemies.
-  - Dispells buffs from the target at the end of each turn for 3 turns.
+  - >-
+    Dispells buffs from the target and nearby enemies at the end of each turn 
+    for 3 turns.
   - Deals extra damage against Fire.
   - >-
     Element Link gives all Ice allies +10% attack for 4 turns. This effect can’t
@@ -19,6 +21,8 @@ types:
   - Hit 3
   - Dispeller
 passives:
-  - This Hero receives 10% mana each time a buff is dispelled from this Hero.
-  - This hero has innate resistance against Burn
+  - >-
+    This character receives 10% mana each time a buff is dispelled from this 
+    character.
+  - This character has innate resistance against Burn.
 image: https://i.imgur.com/2NdyTvR.jpg

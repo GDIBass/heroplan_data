@@ -10,8 +10,8 @@ skill: Power Punch
 effects:
   - Deals 300% damage to the target.
   - >-
-    The target cannot cast any new status effects or stacks on enemies or allies
-    for 3 turns.
+    The target cannot cast any new status effects on enemies or allies for 3 turns. 
+    This includes stacks. This only includes status effects cast with Special Skill.
   - >-
     Element Link gives all Holy allies +10% critical chance for 6 turns. This
     effect can't be cleansed.
@@ -20,7 +20,7 @@ types:
   - Status Effect Block
 passives:
   - >-
-    The hero has an innate ability to resist status ailments that affect
-    Defense. Doesn't apply to status ailments that affect elemental defense.
+    The hero has an innate resistance against status ailments and negative stacks that
+    affect Defense. Doesn't apply to status ailments that affect elemental defense.
 image: https://i.imgur.com/ttNHqjc.jpg
 family: 2020

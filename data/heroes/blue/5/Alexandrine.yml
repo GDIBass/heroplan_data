@@ -11,7 +11,7 @@ effects:
   - Recovers 18% health for all allies.
   - >-
     Recovers additional 3% health per each Ice shield on the board, up to 42%
-    health in total
+    health in total.
   - >-
     Alters the critical chance or accuracy of all Ice shields on the board. When
     attacking Hero casts the special, the shield becomes enhanced with +54%
@@ -24,9 +24,11 @@ types:
   - Heal all
   - Shield Enhance
 passives:
-  - This Hero recovers 10% health when they receive a status ailment.
   - >-
-    This Hero has an innate resistance against status ailments that affect
+    This character recovers 10% health when they receive a status ailment or a 
+    negative stack.
+  - >-
+    This character has an innate resistance against status ailments that affect
     Healing.
 image: https://i.imgur.com/aFNgbfI.jpg
 family: 2021

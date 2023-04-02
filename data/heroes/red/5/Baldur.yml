@@ -8,16 +8,14 @@ defense: 696
 health: 1326
 skill: Unbreakable Brawler
 effects:
+  - Deals 165% damage to a random enemy.
+  - Boosts health of the caster by 1000. Boosted health can exceed max HP.
   - >-
-    Boosts health of the caster by 1000. If health exceeds max HP, it is added
-    as temporary HP. Max temporary HP is 100% of max HP. Boosted health counters
-    max HP reduction.
+    All allies resist mana reduction for as long as the caster has
+    boosted health. This effect can't be dispelled.
   - >-
-    All allies resist direct mana reduction for as long as the caster has
-    boosted health. This effect cannot be dispelled.
-  - >-
-    Deals 165% damage to a random enemy each turn for as long as the cater has
-    boosted health. This effect cannot be dispelled.
+    Deals 165% damage to a random enemy each turn for as long as the caster
+    has boosted health. This effect can't be dispelled.
 types:
   - Health Boost
 family: Muspelheim

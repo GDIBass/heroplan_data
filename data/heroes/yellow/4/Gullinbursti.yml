@@ -8,15 +8,12 @@ defense: 607
 health: 1396
 skill: Angry Boar
 effects:
-  - >-
-    Boosts health of all allies by 400. If health exceeds max HP, it is added as
-    temporary HP. Max temporary HP is 100% of max HP. Boosted health counters
-    max HP reduction.
+  - Boosts health of all allies by 400. Boosted health can exceed max HP.
   - >-
     The caster get +45% attack, and a further 20% increase every time they or
-    any of their allies are hit during 4 turns. When the effect ends, the caster
-    deals 164% damage of all enemies. Each hit on the caster or their allies
-    during the duration increases the damage by 10% to a maximum of 288% damage.
+    any of their allies are hit during 3 turns. When the effect ends, all enemies
+    receive 176 damage. Each hit on the caster or their allies during the 
+    duration increases the damage by 13 to a maximum of 332 damage.
 types:
   - Health Boost
 family: Asgard

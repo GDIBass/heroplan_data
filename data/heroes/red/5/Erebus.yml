@@ -14,24 +14,24 @@ effects:
     mana:
   - '1x Mana Charge:'
   - '* Destroys all Minions from the target.'
-  - '* Deals 440% damage to the target.'
+  - '* Deals 520% damage to the target.'
   - '2x Mana Charge:'
   - '* Destroys all Minions from the target.'
-  - '* Deals 550% damage to the target.'
+  - '* Deals 610% damage to the target.'
   - >-
-    * The target can’t summon new Minions with Special Skill and receives 100
+    * The target can’t summon new Minions with Special Skill and receives 200
     damage for each Minion they attempt to summon for 3 turns.
   - '3x Mana Charge:'
   - '* Destroys all Minions from the target.'
-  - '* Deals 615% damage to the target.'
+  - '* Deals 675% damage to the target.'
   - >-
-    * The target can’t summon new Minions with Special Skill and receives 100
-    damage for each Minion they attempt to summon for 4 turns.All allies
-    regenerate 732 HP over 4 turns.
+    * The target can’t summon new Minions with Special Skill and receives 200
+    damage for each Minion they attempt to summon for 4 turns.
 types:
   - Charge
 passives:
   - >-
-    Duration of the defense status ailments this character receives from Special
-    Skills is decreased by 2 turns.
+    Resist defense Ailments: This character has innate resistance against status 
+    ailments that affect defense. Applies also to status ailments that affect 
+    elemental defense.
 image: https://i.imgur.com/gnNXm6f.jpg

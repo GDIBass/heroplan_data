@@ -8,6 +8,7 @@ defense: 710
 health: 1351
 skill: Unwavering Focus
 effects:
+  - Deals 455% damage to the target.
   - All allies get +30% critical chance for 3 turns
   - >-
     Element Link gives all Nature allies +5% attack and +5% defense for 6 turns.

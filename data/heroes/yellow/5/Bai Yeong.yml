@@ -20,7 +20,7 @@ types:
   - Hit 1
 passives:
   - >-
-    This Hero has innate resistance against status ailments that are from
+    This character has innate resistance against status ailments that are from
     minions
 image: https://i.imgur.com/4FIVAWy.jpg
 family: 2020

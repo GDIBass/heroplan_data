@@ -5,14 +5,14 @@ speed: Fast
 power: 807
 attack: 774
 defense: 751
-health: 1432
+health: 1439
 skill: Blinding Wisdom
 effects:
   - Deals 270% damage to the target and nearby enemies.
   - >-
-    The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss
-    also applies to offensive Special Skills. The effect duration is reset if
-    the target is healed.
+    The target and nearby enemies get -35% accuracy for 3 turns. The effect 
+    duration is reset if the target is healed. Chance to miss also applies 
+    to offensive Special Skills. 
 types:
   - Hit 3
   - Accuracy Debuff
