@@ -17,3 +17,20 @@ types:
   - Cleanser
 family: Lagoon
 image: https://i.imgur.com/5yoZu18.jpg
+costume:
+  class: Rogue
+  power: 463
+  attack: 478
+  defense: 441
+  health: 767
+  skill: Lament of the Hunt
+  effects:
+    - All allies get +25% defense for 4 turns.
+    - All allies get +25% attack for 4 turns.
+    - Dispells buffs from all enemies.
+  types:
+    - Defense Buff
+    - Attack Buff
+    - Dispeller
+  image: https://i.imgur.com/bezss9U.jpg
+  bonuses: 3/3/6/1

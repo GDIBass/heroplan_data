@@ -15,3 +15,19 @@ types:
   - Healing Buff
 family: Atlantis
 image: https://i.imgur.com/nJsozVv.jpg
+costume:
+  class: Barbarian
+  power: 673
+  attack: 689
+  defense: 682
+  health: 1119
+  skill: Herculean Throw
+  effects:
+    - Deals 295% damage to the target and minor damage to nearby enemies.
+    - All allies get +30% attack for 4 turns.
+  types:
+    - Hit 1
+    - Attack Buff
+  image: https://i.imgur.com/a7f5qcE.jpg
+  bonuses: 3/3/6/1
+  

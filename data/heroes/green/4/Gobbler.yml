@@ -8,11 +8,31 @@ defense: 614
 health: 1215
 skill: Minion Eater
 effects:
-  - Deals 170% damage to all enemies
-  - Destroys all minions from all enemies
-  - All allies recover 80 health for each minion eaten
+  - Destroys all minions from all enemies.
+  - Deals 170% damage to all enemies.
+  - All allies recover 80 HP for each destroyed Minion.
 types:
   - Hit All
   - Destroy Minions
 family: Lagoon
 image: https://i.imgur.com/Sc5af8g.jpg
+costume:
+  class: Paladin
+  power: 673
+  attack: 586
+  defense: 660
+  health: 1420
+  skill: Protein Eater
+  effects:
+    - Steals Minions from the target.
+    - Deals 310% damage to the target.
+    - >-
+      The target receives 213 Sand damage over 3 turns. This effect spreads to 
+      nearby enemies.
+  types:
+    - Minion Steal
+    - Hit 1
+    - DoT 1
+  image: https://i.imgur.com/ZFJ0073.jpg
+  bonuses: 3/3/6/1
+  
