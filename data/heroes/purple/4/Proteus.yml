@@ -8,10 +8,25 @@ defense: 595
 health: 1079
 skill: Scar of the Depths
 effects:
-  - The target and nearby enemies receive 327 Damage over 3 turns
-  - The target and nearby enemies can't gain mana for 3 turns
+  - The target and nearby enemies receive 336 Poison damage over 3 turns
+  - The target and nearby enemies can't gain mana for 3 turns.
 types:
   - DoT 3
   - Mana Gain Freeze
 family: Atlantis
 image: https://i.imgur.com/m2PmJmo.jpg
+costume:
+  class: Sorcerer
+  power: 671
+  attack: 774
+  defense: 555
+  health: 1145
+  skill: Curse of the Depths
+  effects:
+    - All enemies receive 324 Poison damage over 2 turns.
+    - All enemies get -50% mana generation for 4 turns.
+  types:
+    - DoT All
+    - Mana debuff
+  image: https://i.imgur.com/5sfSAJC.jpg
+  bonuses: 3/3/6/1
