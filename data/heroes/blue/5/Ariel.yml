@@ -18,15 +18,13 @@ family: Atlantis
 image: https://i.imgur.com/WWzsu8l.jpg
 costume:
   class: Sorcerer
-  power: 772
-  attack: 743
-  defense: 758
-  health: 1250
+  power: 796
+  attack: 765
+  defense: 780
+  health: 1325
   skill: Deep Sea Ritual
   effects:
-    - >-
-      Boosts health of all allies by 520. If health exceeds max HP, it is added
-      as temporary HP.
+    - Boosts health of all allies by 520. Boosted health can exceed max HP.
     - All allies regenerate a moderate amount of mana over 4 turns.
     - Cleanses status ailments from all allies.
   types:
@@ -34,4 +32,4 @@ costume:
     - Mana regeneration
     - Cleanser
   image: https://i.imgur.com/gRSAJUL.jpg
-  bonuses: 2/2/4/1
+  bonuses: 3/3/6/1
