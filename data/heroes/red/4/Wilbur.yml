@@ -34,6 +34,6 @@ costume:
     - All allies regenerate 280 HP over 4 turns.
   types:
     - Attack Buff
-    - Regen
-  bonuses: 2/2/4/1
+    - HOT 
   image: https://i.imgur.com/BehrpwT.jpg
+  bonuses: 3/3/6/1

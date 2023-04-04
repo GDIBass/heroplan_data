@@ -21,7 +21,7 @@ types:
 family: Sakura
 image: https://i.imgur.com/jP1BF2A.jpg
 costume:
-  class: Fighter
+  class: Sorcerer
   power: 674
   attack: 609
   defense: 667
@@ -30,16 +30,16 @@ costume:
   effects:
     - 'Sell junk for a specific effect:'
     - Dull Swords
-    - Deals 270% damage to all enemies.
-    - All enemies get -39% attack for 3 turns.
+    - '* Deals 270% damage to all enemies.'
+    - '* All enemies get -39% attack for 3 turns.'
     - Questionable Snake Oil
-    - All enemies get -24% mana generation for 3 turns.
-    - All enemies get -44% defense for 3 turns.
+    - '* All enemies get -24% mana generation for 3 turns.'
+    - '* All enemies get -44% defense for 3 turns.'
     - Clearance Sale
-    - Increases the mana of all allies except the caster’s by 3%.
-    - The caster can’t gain mana for 2 turns. This effect can’t be cleansed.
+    - '* Increases the mana of all allies except the caster’s by 3%.'
+    - '* The caster can’t gain mana for 2 turns. This effect can’t be cleansed.'
   types:
     - Attack Buff
     - Defense Down
-  bonuses: 2/2/4/1
   image: https://i.imgur.com/HppFUSU.jpg
+  bonuses: 3/3/6/1

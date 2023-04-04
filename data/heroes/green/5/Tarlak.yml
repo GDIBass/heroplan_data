@@ -19,10 +19,10 @@ family: Lagoon
 image: https://i.imgur.com/VmIENFl.jpg
 costume:
   class: Paladin
-  power: 773
-  attack: 694
-  defense: 824
-  health: 1252
+  power: 798
+  attack: 714
+  defense: 848
+  health: 1327
   skill: Kane Prowess
   effects:
     - Boosts health for all allies by 470. Boosted health can exceed max HP.
