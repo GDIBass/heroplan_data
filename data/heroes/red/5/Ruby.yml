@@ -20,7 +20,7 @@ effects:
   - '3x Mana Charge:'
   - ' - Deals 370% damage to all enemies.'
   - ' - Reduces the mana of all enemies by 100%.'
-  - ' - The target gets -34% mana generation for 4 turns.'
+  - ' - All enemies gets -34% mana generation for 4 turns.'
 types:
   - Charge
   - Hit All
