@@ -2,27 +2,30 @@ name: Jade
 class: Monk
 source: Ninja
 speed: Charge
-power: 789
-attack: 716
+power: 798
+attack: 692
 defense: 819
-health: 1415
+health: 1446
 skill: Shared Visage
 effects:
   - 1x Mana Charge
-  - '* Reduces the mana of all enemies by 10%'
+  - '* Deals 115% damage to all enemies.'
+  - '* Reduces the mana of all enemies by 10%.'
   - >-
-    * The caster gets 25% chance of dodging special attacks that do damage for 3
-    turns
+    * The caster gets +25% chance of dodging special attacks that deal damage
+    for 3 turns.
   - 2x Mana Charge
-  - '* Reduces the mana of all enemies by 15%'
+  - '* Deals 210% damage to all enemies.'
+  - '* Reduces the mana of all enemies by 15%.'
   - >-
-    * The caster and nearby allies get 50% chance of dodging special attacks
-    that do damage for 4 turns
+    * The caster and nearby allies get +50% chance of dodging special attacks
+    that deal damage for 4 turns.
   - 3x Mana Charge
-  - '* Reduces the mana of all enemies by 25%'
+  - '* Deals 300% damage to all enemies.'
+  - '* Reduces the mana of all enemies by 25%.'
   - >-
-    * All allies get 75% chance of dodging special attacks that do damage for 5
-    turns
+    * All allies get +75% chance of dodging special attacks that deal damage 
+    for 5 turns.
 types:
   - Charger
   - Mana Reduction

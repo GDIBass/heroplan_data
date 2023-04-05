@@ -10,13 +10,13 @@ skill: Katana Rain
 effects:
   - 1x Mana Charge
   - '* Deals 290% damage to the target'
-  - '* The attack has a 60% chance to bypass defensive buffs'
+  - '* The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.'
   - 2x Mana Charge
   - '* Deals 325% damage to the target and nearby enemies'
-  - '* The attack has a 85% chance to bypass defensive buffs'
+  - '* The attack has a 85% chance to bypass defensive buffs. This includes counterattacks.'
   - 3x Mana Charge
   - '* Deals 360% damage to all enemies'
-  - '* The attack has a 100% chance to bypass defensive buffs'
+  - '* The attack has a 100% chance to bypass defensive buffs. This includes counterattacks.'
 types:
   - Charger
   - Hit All
