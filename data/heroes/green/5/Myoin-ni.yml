@@ -1,0 +1,29 @@
+name: Myoin-ni
+class: Druid
+source: Ninja
+family: Ninja
+speed: Charge
+power: 848
+attack: 809
+defense: 852
+health: 1444
+skill: Resolute Spirit
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - ' - Boosts health of all allies by 370. Boosted health can exceed max HP.'
+  - ' - All allies get +33% mana generation for 2 turns.'
+  - ' - All allies get +25% defense for 2 turns.'
+  - 'x2 Mana Charge:'
+  - ' - Boosts health of all allies by 530. Boosted health can exceed max HP.'
+  - ' - All allies get +33% mana generation for 3 turns.'
+  - ' - All allies get +40% defense for 3 turns.'
+  - 'x3 Mana Charge:'
+  - ' - Boosts health of all allies by 600. Boosted health can exceed max HP.'
+  - ' - All allies get +33% mana generation for 4 turns.'
+  - ' - All allies get +65% defense for 4 turns.'
+types:
+  - Healer
+  - Mana Generation Buff
+  - Defense Buff
+image: https://i.imgur.com/tXk6QNw.jpg
