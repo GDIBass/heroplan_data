@@ -24,7 +24,7 @@ costume:
   attack: 612
   defense: 636
   health: 1486
-  skill: Furious Board
+  skill: Furious Boar
   effects:
     - >-
       All allies regenerate 480 boosted health over 4 turns. Boosted health can

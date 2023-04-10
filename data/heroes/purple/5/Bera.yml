@@ -6,7 +6,7 @@ power: 786
 attack: 743
 defense: 749
 health: 1369
-skill: Fluttering Twilight
+skill: Disir of Dusk
 effects:
   - >-
     Summons a Moth Minion for each ally. The Moth Minion inherits 20% HP and 20%
