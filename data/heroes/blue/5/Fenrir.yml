@@ -18,3 +18,23 @@ types:
   - Hit 1
 family: Niflheim
 image: https://i.imgur.com/jTbJkeI.jpg
+costume:
+  class: Barbarian
+  power: 827
+  attack: 832
+  defense: 761
+  health: 1413
+  skill: Colossal Bite
+  effects:
+  - Deals 350% damage to the target.
+  - Deals 700% damage if the target has less than 50% health remaining.
+  - >-
+    The caster recovers 35% health for each enemy killed and 15% health for 
+    each enemy Minion killed.
+  - Increases the mana of the caster by 15%.
+  types:
+    - Hit 1
+    - Self heal
+  image: https://i.imgur.com/ZPobGZa.jpg
+  bonuses: 5/5/10/5
+  
