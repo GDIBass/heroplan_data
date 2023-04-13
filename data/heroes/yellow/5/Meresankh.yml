@@ -1,0 +1,20 @@
+name: Meresankh
+class: Druid
+source: Season5
+family: Sun
+speed: Average
+power: 846
+attack: 747
+defense: 854
+health: 1580
+skill: Impossible Riddle
+effects:
+  - Deals 130% damage to all enemies.
+  - The more mana the enemies have,the more damage they will receive,up to 250%
+  - Reduces the mana of all enemies by 20%.
+  - All enemies get -14% mana generation for 3 turns.
+types:
+  - Hit all
+  - Mana Reduction
+  - Mana Generation Debuff
+image: https://i.imgur.com/PIgKmeD.jpg
