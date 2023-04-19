@@ -16,7 +16,6 @@ effects:
 types:
   - Hit 1
   - Blind
-family: Classic
 image: https://i.imgur.com/d5mevmf.jpg
 costume:
   bonuses: 5/5/10/5
