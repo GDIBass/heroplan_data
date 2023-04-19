@@ -1,6 +1,7 @@
 name: Kailani
 class: Cleric
 source: Season1
+family: Classic
 speed: Slow
 power: 444
 attack: 429
@@ -15,6 +16,7 @@ types:
   - Ally Damage Share
 image: https://i.imgur.com/h7fAkgX.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 467
   attack: 423

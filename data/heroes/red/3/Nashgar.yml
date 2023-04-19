@@ -10,12 +10,13 @@ health: 684
 skill: Burning Strike
 effects:
   - Deals 290% damage to the target
-  - The target receives 120 damage over 6 turns
+  - The target receives 126 damage over 6 turns
 types:
   - Hit 1
   - Dot 1
 image: https://i.imgur.com/DrsAnEe.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Rogue
   power: 466
   attack: 567

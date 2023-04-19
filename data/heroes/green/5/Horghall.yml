@@ -1,6 +1,7 @@
 name: Horghall
 class: Druid
 source: Season1
+family: Classic
 speed: Slow
 power: 753
 attack: 657
@@ -8,12 +9,11 @@ defense: 650
 health: 1545
 skill: Anger of the Forest
 effects:
-  - Deals 235% damage to all enemies
+  - Deals 280% damage to all enemies
   - All enemies get -34% attack for 6 turns
 types:
   - Hit All
   - Attack Debuff
-family: Classic
 image: https://i.imgur.com/6787feX.jpg
 costume:
   class: Ranger
@@ -23,7 +23,7 @@ costume:
   health: 1669
   skill: Anger of the Jester
   effects:
-    - Deals 215% damage to all enemies
+    - Deals 250% damage to all enemies
     - All enemies get -54% attack for 6 turns
   types:
     - Hit All
@@ -32,10 +32,10 @@ costume:
   image: https://i.imgur.com/AffGFoZ.jpg
 costume2:
   class: Wizard
-  power: 794
-  attack: 685
-  defense: 719
-  health: 1633
+  power: 857
+  attack: 750
+  defense: 787
+  health: 1784
   skill: Anger of the Woods
   effects:
     - Deals 260% damage to all enemies

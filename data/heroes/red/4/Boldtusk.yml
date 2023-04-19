@@ -16,6 +16,7 @@ types:
   - Attack Buff
 image: https://i.imgur.com/K7cfOtS.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Monk
   power: 680
   attack: 621

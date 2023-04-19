@@ -1,6 +1,7 @@
 name: Prisca
 class: Paladin
 source: Season1
+family: Classic
 speed: Average
 power: 446
 attack: 413
@@ -15,6 +16,7 @@ types:
   - Heal Self
 image: https://i.imgur.com/IoRPZNA.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Fighter
   power: 470
   attack: 415

@@ -18,8 +18,9 @@ types:
   - Counterattack
 image: https://i.imgur.com/DJkMDg0.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Rogue
-  power: 793
+  power: 794
   attack: 845
   defense: 588
   health: 1494

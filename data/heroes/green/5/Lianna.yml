@@ -1,6 +1,7 @@
 name: Lianna
 class: Ranger
 source: Season1
+family: Classic
 speed: Fast
 power: 755
 attack: 729
@@ -13,6 +14,7 @@ types:
   - Hit 1
 image: https://i.imgur.com/uJj6MQb.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Cleric
   power: 795
   attack: 773
@@ -26,3 +28,17 @@ costume:
     - Hit 1
     - Mana Generation Debuff
   image: https://i.imgur.com/ieaiSor.jpg
+costume2:
+  class: Druid
+  power: 858
+  attack: 865
+  defense: 805
+  health: 1470
+  skill: Flawless Shot
+  effects:
+    - Deals 500% damage to the target
+    - The targe gets silenced for 3 turns
+  types:
+    - Hit 1
+    - Silencer
+  image: https://i.imgur.com/UwDUNi0.jpg

@@ -1,6 +1,7 @@
 name: Grimm
 class: Barbarian
 source: Season1
+family: Classic
 speed: Average
 power: 642
 attack: 716
@@ -15,6 +16,7 @@ types:
   - Defense Debuff
 image: https://i.imgur.com/Mx4BDfE.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Rogue
   power: 678
   attack: 716

@@ -1,6 +1,7 @@
 name: Hu Tao
 class: Fighter
 source: Season1
+family: Classic
 speed: Slow
 power: 638
 attack: 603
@@ -16,6 +17,7 @@ types:
   - Blind
 image: https://i.imgur.com/uyASMQ6.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
   power: 674
   attack: 581

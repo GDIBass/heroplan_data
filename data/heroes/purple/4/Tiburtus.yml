@@ -1,6 +1,7 @@
 name: Tiburtus
 class: Ranger
 source: Season1
+family: Classic
 speed: Average
 power: 639
 attack: 660
@@ -15,6 +16,7 @@ types:
   - Defense Debuff
 image: https://i.imgur.com/XQUgnc6.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
   power: 674
   attack: 688

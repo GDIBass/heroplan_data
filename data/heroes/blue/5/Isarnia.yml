@@ -1,6 +1,7 @@
 name: Isarnia
 class: Wizard
 source: Season1
+family: Classic
 speed: Slow
 power: 755
 attack: 797
@@ -16,6 +17,7 @@ types:
 family: Classic
 image: https://i.imgur.com/IqOKah3.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 794
   attack: 869
@@ -46,5 +48,4 @@ costume2:
   types:
     - Hit All
     - Attack Debuff
-  family: Classic
   image: https://i.imgur.com/wccczud.jpg

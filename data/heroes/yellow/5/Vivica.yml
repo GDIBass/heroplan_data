@@ -1,6 +1,7 @@
 name: Vivica
 class: Cleric
 source: Season1
+family: Classic
 speed: Slow
 power: 755
 attack: 714
@@ -15,7 +16,6 @@ types:
   - Healer
   - Defense Buff
   - Cleanser
-family: Classic
 image: https://i.imgur.com/aHsNbej.jpg
 costume:
   class: Sorcerer

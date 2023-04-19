@@ -1,6 +1,7 @@
 name: Joon
 class: Monk
 source: Season1
+family: Classic
 speed: Fast
 power: 752
 attack: 749
@@ -18,6 +19,7 @@ types:
 family: Classic
 image: https://i.imgur.com/d5mevmf.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Fighter
   power: 793
   attack: 782
@@ -32,18 +34,17 @@ costume:
   types:
     - Hit 1
     - Blind
-  family: Classic
   image: https://i.imgur.com/YXbYHIl.jpg
 costume2:
   class: Barbarian
-  power: 792
-  attack: 790
-  defense: 672
-  health: 1452
+  power: 855
+  attack: 865
+  defense: 736
+  health: 1584
   skill: Stellar Beam
   effects:
-    - Deals 360% damage to target and nearby enemies
-    - The target and nearby enemies receive 180 Burn damage over 3 turns
+    - Deals 260% damage to target and nearby enemies
+    - The target and nearby enemies receive 195 Burn damage over 3 turns
     - >-
       The target and nearby enemies get -35% accuracy for 3 turns. Chance to
       miss also applies to offensive Special Skills
@@ -51,5 +52,4 @@ costume2:
     - Hit 3
     - Dot 3
     - Blind
-  family: Classic
   image: https://i.imgur.com/rJxyTcK.jpg

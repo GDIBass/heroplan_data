@@ -1,6 +1,7 @@
 name: Ulmer
 class: Wizard
 source: Season1
+family: Classic
 speed: Slow
 power: 445
 attack: 528
@@ -8,12 +9,14 @@ defense: 359
 health: 677
 skill: Blizzard
 effects:
-  - Deals 116% damage to all enemies and they get -34% defense for 6 turns
+  - Deals 116% damage to all enemies.
+  - All enemies get -34% defense for 6 turns.
 types:
   - Hit All
   - Defense Debuff
 image: https://i.imgur.com/8fr1xWV.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Monk
   power: 468
   attack: 522

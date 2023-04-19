@@ -1,6 +1,7 @@
 name: Kashhrek
 class: Wizard
 source: Season1
+family: Classic
 speed: Average
 power: 643
 attack: 548
@@ -15,6 +16,7 @@ types:
   - Elemental Defense Buff
 image: https://i.imgur.com/f38vwx3.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 680
   attack: 585
@@ -23,9 +25,8 @@ costume:
   skill: Second Skin
   effects:
     - >-
-      Boosts health of the caster and nearby allies by 450. If health exceeds
-      max HP, it is added as temporary HP. Max temporary HP is 100% of max HP.
-      Bosted health counters max HP reduction.
+      Boosts health of the caster and nearby allies by 450. Bosted health can 
+      exceed max HP.
     - The caster and nearby allies get +64% defense against Fire for 3 turns.
   types:
     - Health Boost

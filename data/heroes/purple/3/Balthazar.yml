@@ -1,6 +1,7 @@
 name: Balthazar
 class: Wizard
 source: Season1
+family: Classic
 speed: Fast
 power: 442
 attack: 483
@@ -13,6 +14,7 @@ types:
   - Hit 1
 image: https://i.imgur.com/OSefjqG.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 466
   attack: 522

@@ -1,6 +1,7 @@
 name: Tyrum
 class: Paladin
 source: Season1
+family: Classic
 speed: Fast
 power: 441
 attack: 387
@@ -15,6 +16,7 @@ types:
   - Dispeller
 image: https://i.imgur.com/HKuMtXT.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Rogue
   power: 465
   attack: 415

@@ -1,6 +1,7 @@
 name: Richard
 class: Paladin
 source: Season1
+family: Classic
 speed: Average
 power: 755
 attack: 644
@@ -15,6 +16,7 @@ types:
   - Attack Debuff
 image: https://i.imgur.com/G5NAe4a.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Barbarian
   power: 795
   attack: 682

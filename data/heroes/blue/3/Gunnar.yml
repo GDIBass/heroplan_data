@@ -1,6 +1,7 @@
 name: Gunnar
 class: Paladin
 source: Season1
+family: Classic
 speed: Slow
 power: 441
 attack: 387
@@ -15,6 +16,7 @@ types:
   - Ally Damage Share
 image: https://i.imgur.com/ra4Iv0M.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Druid
   power: 464
   attack: 415
