@@ -16,7 +16,6 @@ types:
   - Healer
   - Attack Buff
   - Defense Buff
-family: Classic
 image: https://i.imgur.com/OnjIJvT.jpg
 costume:
   bonuses: 5/5/10/5
