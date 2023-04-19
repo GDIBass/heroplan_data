@@ -16,7 +16,6 @@ types:
   - Hit 1
   - Mana Reduction
   - Self Heal
-family: Classic
 image: https://i.imgur.com/SPyWzYD.jpg
 costume:
   bonuses: 5/5/10/5
