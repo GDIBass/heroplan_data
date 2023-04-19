@@ -14,7 +14,6 @@ effects:
 types:
   - Hit All
   - Defense Debuff
-family: Classic
 image: https://i.imgur.com/IqOKah3.jpg
 costume:
   bonuses: 5/5/10/5
