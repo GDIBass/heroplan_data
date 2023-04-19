@@ -16,7 +16,6 @@ types:
   - Hit All
   - Mana Generation Buff
   - Defense Buff
-family: Classic
 image: https://i.imgur.com/Qk5TZ17.jpg
 costume:
   bonuses: 5/5/10/5
