@@ -1,6 +1,7 @@
 name: Thorne
 class: Paladin
 source: Season1
+family: Classic
 speed: Average
 power: 757
 attack: 638
@@ -13,6 +14,7 @@ types:
   - Hit 3
 image: https://i.imgur.com/9CT7f6V.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 798
   attack: 726
@@ -22,7 +24,7 @@ costume:
   effects:
     - Deals 540% damage to the target.
     - >-
-      The caster gets +24% mana geenration for 3 turns. This effect can't be
+      The caster gets +24% mana generation for 3 turns. This effect can't be
       dispelled.
   types:
     - Hit 1

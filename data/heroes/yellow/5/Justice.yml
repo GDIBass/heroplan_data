@@ -1,6 +1,7 @@
 name: Justice
 class: Paladin
 source: Season1
+family: Classic
 speed: Slow
 power: 754
 attack: 609
@@ -8,7 +9,7 @@ defense: 776
 health: 1425
 skill: Rite of Judgement
 effects:
-  - Deals 240% damage to all enemies
+  - Deals 285% damage to all enemies
   - All enemies get -40% accuracy for 4 turns
   - Chance to miss also applies to offensive Special Skills
 types:
@@ -16,6 +17,7 @@ types:
   - Blind
 image: https://i.imgur.com/nIFbFrG.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Wizard
   power: 795
   attack: 706
@@ -23,7 +25,7 @@ costume:
   health: 1511
   skill: Day of Judgement
   effects:
-    - Deals 240% damage to all enemies
+    - Deals 250% damage to all enemies
     - The damage is increased by 50% per each dead ally
     - The caster gets +24% mana generation for 3 turns
   types:
@@ -44,5 +46,4 @@ costume2:
       offensive Special Skills
   types:
     - Hit All
-  family: Classic
   image: https://i.imgur.com/feWdynO.jpg

@@ -1,6 +1,7 @@
 name: Friar Tuck
 class: Monk
 source: Season1
+family: Classic
 speed: Average
 power: 446
 attack: 458
@@ -15,6 +16,7 @@ types:
   - Mana Generation Buff
 image: https://i.imgur.com/nprqffe.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Druid
   power: 470
   attack: 473

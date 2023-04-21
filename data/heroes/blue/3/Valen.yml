@@ -1,6 +1,7 @@
 name: Valen
 class: Fighter
 source: Season1
+family: Classic
 speed: Fast
 power: 442
 attack: 479
@@ -15,6 +16,7 @@ types:
   - Defense Debuff
 image: https://i.imgur.com/8iWG7cB.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Rogue
   power: 465
   attack: 488

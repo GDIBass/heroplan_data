@@ -1,6 +1,7 @@
 name: Chao
 class: Ranger
 source: Season1
+family: Classic
 speed: Fast
 power: 642
 attack: 607
@@ -15,6 +16,7 @@ types:
   - Mana Reduction
 image: https://i.imgur.com/akseq6D.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Druid
   power: 677
   attack: 673

@@ -1,6 +1,7 @@
 name: Brienne
 class: Druid
 source: Season1
+family: Classic
 speed: Average
 power: 440
 attack: 446
@@ -15,8 +16,9 @@ types:
   - Attack Buff
 image: https://i.imgur.com/sdXIZmv.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Cleric
-  power: 465
+  power: 464
   attack: 466
   defense: 468
   health: 751

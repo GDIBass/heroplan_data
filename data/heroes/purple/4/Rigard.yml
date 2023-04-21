@@ -1,6 +1,7 @@
 name: Rigard
 class: Cleric
 source: Season1
+family: Classic
 speed: Average
 power: 644
 attack: 595
@@ -15,6 +16,7 @@ types:
   - Cleanser
 image: https://i.imgur.com/epzxGwy.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Ranger
   power: 681
   attack: 633
@@ -30,3 +32,19 @@ costume:
     - Attack Buff
     - Cleanser
   image: https://i.imgur.com/9nzkBMP.jpg
+costume2:
+  class: Monk
+  power: 736
+  attack: 717
+  defense: 808
+  health: 1246
+  skill: Transfigure
+  effects:
+    - Boosts health of all allies by 410. Boosted health can exceed max HP.
+    - All allies get +40% defense for 3 turns.
+    - Cleanses status ailments from all allies.    
+  types:
+    - Healer
+    - Defense Buff
+    - Cleanser
+  image: https://i.imgur.com/0dWPfN4.jpg

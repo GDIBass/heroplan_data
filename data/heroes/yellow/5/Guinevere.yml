@@ -1,6 +1,7 @@
 name: Guinevere
 class: Wizard
 source: Avalon
+family: Avalon
 speed: Average
 power: 765
 attack: 669
@@ -8,11 +9,30 @@ defense: 778
 health: 1347
 skill: Word of the Queen
 effects:
-  - Reduces the mana of all enemies by 20%
-  - The caster and nearby allies regenerate 612 HP over 4 turns
-  - The caster and nearby allies get +54% defense against Dark for 4 turns
+  - Reduces the mana of all enemies by 20%.
+  - The caster and nearby allies regenerate 612 HP over 4 turns.
+  - The caster and nearby allies get +54% defense against Dark for 4 turns.
 types:
   - Mana Reduction
   - Healer
-family: Avalon
 image: https://i.imgur.com/dYjW9Xa.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 806
+  attack: 659
+  defense: 838
+  health: 1542
+  skill: Word of the Skies
+  effects:
+    - Reduces the mana of the target and nearby enemies by 25%.
+    - Recovers 40% health for all allies.
+    - >-
+      All allies reflect all status effects and 115% damage back to the attacker
+      and block other negative effects from enemies Dark Special Skill for 4 turns.
+      Status effects cast by characters Minions and Fiends on the same side cannot 
+      be reflected.
+  types:
+    - Mana Reduction
+    - Healer
+  image: https://i.imgur.com/IeQY7xx.jpg

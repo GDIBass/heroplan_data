@@ -1,6 +1,7 @@
 name: Sonya
 class: Paladin
 source: Season1
+family: Classic
 speed: Fast
 power: 643
 attack: 607
@@ -15,6 +16,7 @@ types:
   - Dispeller
 image: https://i.imgur.com/zE5VVll.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Druid
   power: 678
   attack: 646

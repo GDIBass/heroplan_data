@@ -1,6 +1,7 @@
 name: Kiril
 class: Wizard
 source: Season1
+family: Classic
 speed: Average
 power: 647
 attack: 656
@@ -15,9 +16,9 @@ types:
   - Healer
   - Attack Buff
   - Defense Buff
-family: Classic
 image: https://i.imgur.com/OnjIJvT.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 682
   attack: 702

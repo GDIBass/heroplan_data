@@ -1,6 +1,7 @@
 name: Karil
 class: Barbarian
 source: Season1
+family: Classic
 speed: Average
 power: 442
 attack: 484
@@ -13,6 +14,7 @@ types:
   - Hit 3
 image: https://i.imgur.com/Upbhrq6.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Rogue
   power: 466
   attack: 527
@@ -20,8 +22,8 @@ costume:
   health: 793
   skill: Forge Rush
   effects:
-    - Deals 240% damage to the target and minor damage to nearby enemies
-    - The target and nearby enemies receive 60 Burn damage over 3 turns
+    - Deals 240% damage to the target and minor damage to nearby enemies.
+    - The target and nearby enemies receive 60 Burn damage over 3 turns.
   types:
     - Hit 3
     - Dot 3

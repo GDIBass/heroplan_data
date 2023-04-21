@@ -1,6 +1,7 @@
 name: Boril
 class: Cleric
 source: Season1
+family: Classic
 speed: Average
 power: 643
 attack: 501
@@ -15,6 +16,7 @@ types:
   - Riposte
 image: https://i.imgur.com/jFkMrWZ.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
   power: 679
   attack: 504
@@ -22,7 +24,7 @@ costume:
   health: 1287
   skill: Sturdy Riposte
   effects:
-    - All allies counterattack with 60^ of the damage received for 4 turns
+    - All allies counterattack with 60% of the damage received for 4 turns
   types:
     - Riposte
   image: https://i.imgur.com/p8PKYHQ.jpg

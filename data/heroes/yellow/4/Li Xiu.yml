@@ -1,6 +1,7 @@
 name: Li Xiu
 class: Monk
 source: Season1
+family: Classic
 speed: Average
 power: 640
 attack: 616
@@ -15,6 +16,7 @@ types:
   - Mana Reduction
 image: https://i.imgur.com/flDK18I.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Rogue
   power: 675
   attack: 660

@@ -16,6 +16,7 @@ types:
   - Defense Debuff
 image: https://i.imgur.com/A5zsfun.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Wizard
   power: 680
   attack: 611
@@ -28,4 +29,20 @@ costume:
     - All allies recover 80 HP for each destroyed Minion
   types:
     - Minion Destroyer
+    - Hit all
   image: https://i.imgur.com/OxaIMH8.jpg
+costume2:
+  class: Cleric
+  power: 735
+  attack: 732
+  defense: 630
+  health: 1555
+  skill: Pulverizing Ham
+  effects:
+    - Dispels buffs from all enemies
+    - Deals 225% damage to all enemies
+  types:
+    - Dispeller
+    - Hit all
+  image: https://i.imgur.com/6XbZQ2N.jpg
+  

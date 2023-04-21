@@ -1,6 +1,7 @@
 name: Jahangir
 class: Sorcerer
 source: Season1
+family: Classic
 speed: Slow
 power: 445
 attack: 498
@@ -9,12 +10,13 @@ health: 599
 skill: Fireball
 effects:
   - Deals 145% damage to all enemies
-  - All enemies receive 114 damage over 6 turns
+  - All enemies receive 120 damage over 6 turns
 types:
   - Hit All
   - Dot All
 image: https://i.imgur.com/7oZTOqz.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Wizard
   power: 467
   attack: 514

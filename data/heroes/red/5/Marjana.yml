@@ -1,6 +1,7 @@
 name: Marjana
 class: Rogue
 source: Season1
+family: Classic
 speed: Fast
 power: 755
 attack: 669
@@ -15,6 +16,7 @@ types:
   - Dot 1
 image: https://i.imgur.com/H8u69R9.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Wizard
   power: 795
   attack: 753

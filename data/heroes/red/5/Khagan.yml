@@ -1,6 +1,7 @@
 name: Khagan
 class: Ranger
 source: Season1
+family: Classic
 speed: Slow
 power: 757
 attack: 710
@@ -15,9 +16,9 @@ types:
   - Hit All
   - Mana Generation Buff
   - Defense Buff
-family: Classic
 image: https://i.imgur.com/Qk5TZ17.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Barbarian
   power: 798
   attack: 761
@@ -30,7 +31,6 @@ costume:
     - All allies get +46% defense for 5 turns
   types:
     - Hit 1
-  family: Classic
   image: https://i.imgur.com/Wuav96d.jpg
 costume2:
   class: Druid
@@ -47,5 +47,4 @@ costume2:
     - Hit all
     - Mana Generation
     - Defense Buff
-  family: Classic
   image: https://i.imgur.com/Az13Jne.jpg

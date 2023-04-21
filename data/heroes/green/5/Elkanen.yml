@@ -1,6 +1,7 @@
 name: Elkanen
 class: Cleric
 source: Season1
+family: Classic
 speed: Fast
 power: 758
 attack: 675
@@ -13,9 +14,9 @@ effects:
 types:
   - Hit 3
   - Self Heal
-family: Classic
 image: https://i.imgur.com/gkqoNuc.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Barbarian
   power: 798
   attack: 687

@@ -10,12 +10,13 @@ health: 1094
 skill: Fire Storm
 effects:
   - Deals 180% damage to all enemies
-  - All enemies receive 330 damage over 6 turns
+  - All enemies receive 348 damage over 6 turns
 types:
   - Hit All
   - Dot All
 image: https://i.imgur.com/eqgOQXS.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
   power: 678
   attack: 771
@@ -23,7 +24,7 @@ costume:
   health: 1222
   skill: Flame Assault
   effects:
-    - Deals 250% damage to all enemies
+    - Deals 240% damage to all enemies
     - All enemies receive 204 Burn damage over 3 turns
   types:
     - Hit all

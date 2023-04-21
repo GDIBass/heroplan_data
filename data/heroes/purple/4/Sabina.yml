@@ -1,6 +1,7 @@
 name: Sabina
 class: Sorcerer
 source: Season1
+family: Classic
 speed: Average
 power: 639
 attack: 699
@@ -14,6 +15,7 @@ types:
   - Healer
 image: https://i.imgur.com/G6mmZNN.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Cleric
   power: 674
   attack: 742

@@ -1,6 +1,7 @@
 name: Obakan
 class: Barbarian
 source: Season1
+family: Classic
 speed: Fast
 power: 756
 attack: 762
@@ -13,9 +14,9 @@ effects:
 types:
   - Hit 3
   - Counterattack
-family: Classic
 image: https://i.imgur.com/0JU9Ii1.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Rogue
   power: 796
   attack: 775
@@ -49,5 +50,6 @@ costume2:
       during the same turn
   types:
     - Hit 3
+    - Counterattack
   family: Classic
   image: https://i.imgur.com/jA79vt4.jpg

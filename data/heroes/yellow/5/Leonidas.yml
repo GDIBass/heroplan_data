@@ -1,6 +1,7 @@
 name: Leonidas
 class: Monk
 source: Season1
+family: Classic
 speed: Average
 power: 752
 attack: 731
@@ -8,16 +9,16 @@ defense: 718
 health: 1221
 skill: Spartan Cleave
 effects:
-  - Deals 365% damage to the target
-  - Reduces the mana of the target by 40%
-  - Heals the caster for 75% of damage dealt
+  - Deals 415% damage to the target.
+  - Reduces the mana of the target by 40%.
+  - Heals the caster for 75% of damage dealt.
 types:
   - Hit 1
   - Mana Reduction
   - Self Heal
-family: Classic
 image: https://i.imgur.com/SPyWzYD.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Barbarian
   power: 792
   attack: 749
@@ -30,7 +31,6 @@ costume:
     - All Dark enemies get -34% attack for 4 turns
   types:
     - Hit 3
-  family: Classic
   image: https://i.imgur.com/c7cvRg8.jpg
 costume2:
   class: Ranger
@@ -49,5 +49,4 @@ costume2:
     - Hit All
     - Mana Reduction
     - Defense Debuff
-  family: Classic
   image: https://i.imgur.com/6haP2Yz.jpg

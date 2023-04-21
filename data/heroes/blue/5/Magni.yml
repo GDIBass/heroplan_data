@@ -1,6 +1,7 @@
 name: Magni
 class: Fighter
 source: Season1
+family: Classic
 speed: Fast
 power: 754
 attack: 793
@@ -13,9 +14,9 @@ effects:
 types:
   - Hit 1
   - Defense Buff
-family: Classic
 image: https://i.imgur.com/JpMZ0xh.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Druid
   power: 795
   attack: 743
@@ -32,10 +33,10 @@ costume:
   image: https://i.imgur.com/A0jPrh9.jpg
 costume2:
   class: Rogue
-  power: 795
-  attack: 778
-  defense: 674
-  health: 1494
+  power: 858
+  attack: 852
+  defense: 738
+  health: 1630
   skill: Strike of the Underworld
   effects:
     - Deals 285% damage to target and nearby enemies.

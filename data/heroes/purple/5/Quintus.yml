@@ -1,6 +1,7 @@
 name: Quintus
 class: Sorcerer
 source: Season1
+family: Classic
 speed: Slow
 power: 757
 attack: 747
@@ -11,9 +12,9 @@ effects:
   - Deals 270% damage to all enemies
 types:
   - Hit All
-family: Classic
 image: https://i.imgur.com/250UPh4.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Monk
   power: 798
   attack: 804
@@ -30,16 +31,15 @@ costume:
   image: https://i.imgur.com/TBwlwOC.jpg
 costume2:
   class: Druid
-  power: 798
-  attack: 784
-  defense: 667
-  health: 1518
+  power: 861
+  attack: 865
+  defense: 740
+  health: 1618
   skill: Lightning Ultimatum
   effects:
-    - Deals 225% damage to all enemies
+    - Deals 300% damage to the target and nearby enemies.
     - >-
-      All enemies automatically cast Mindless Attack on a random ally when mana
-      is full at the start of a turn during 3 turns
+      The target and nearby enemies automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.
   types:
     - Hit All
     - Mindless Attack

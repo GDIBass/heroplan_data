@@ -1,6 +1,7 @@
 name: Caedmon
 class: Druid
 source: Season1
+family: Classic
 speed: Fast
 power: 643
 attack: 635
@@ -13,9 +14,9 @@ effects:
 types:
   - Hit 1
   - Dispeller
-family: Classic
 image: https://i.imgur.com/jv6lywZ.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Fighter
   power: 678
   attack: 670

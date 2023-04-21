@@ -1,6 +1,7 @@
 name: Bane
 class: Monk
 source: Season1
+family: Classic
 speed: Fast
 power: 440
 attack: 469
@@ -17,6 +18,7 @@ types:
   - Blind
 image: https://i.imgur.com/9aCbPHu.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Ranger
   power: 464
   attack: 529

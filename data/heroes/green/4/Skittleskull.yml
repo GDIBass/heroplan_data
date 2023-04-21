@@ -1,6 +1,7 @@
 name: Skittleskull
 class: Sorcerer
 source: Season1
+family: Classic
 speed: Slow
 power: 644
 attack: 728
@@ -15,6 +16,7 @@ types:
   - Attack Debuff
 image: https://i.imgur.com/6Oucdm4.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Cleric
   power: 678
   attack: 778
@@ -28,3 +30,17 @@ costume:
     - Hit All
     - Attack Debuff
   image: https://i.imgur.com/9DvgVYg.jpg
+costume2:
+  class: Wizard
+  power: 735
+  attack: 828
+  defense: 710
+  health: 1154
+  skill: Crawling Vines
+  effects:
+    - Deals 195% damage to all enemies.
+    - All enemies get -34% defense for 6 turns.
+  types:
+    - Hit All
+    - Defense Debuff
+  image: https://i.imgur.com/EIvqBU6.jpg
