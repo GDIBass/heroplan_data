@@ -1,6 +1,7 @@
 name: Guardian Gazelle
 class: Druid
 source: Teltoc
+family: Guardian
 speed: Average
 power: 780
 attack: 751
@@ -15,24 +16,26 @@ effects:
   - >-
     For 4 turns all allies except the caster starting dancing the Dance of
     Spirits:
-  - >-
-    +100% attack. Reduces all received damage by 50%. Gives immunity to new
-    status effects. If the caster dies, the dancer receives 100% damage and
-    their mana is reduced by 100%. This effect cannot be dispelled.
+  - +100% attack. 
+  - Reduces all received damage by -50%. 
+  - Gives immunity to new status effects. 
+  - <-
+    If the caster dies, the dancer receives 84 damage and their mana is 
+    reduced by 100%.
+  - This effect cannot be dispelled.
 types:
   - Cleanser
   - Self Heal
   - Titan Attack Buff
-family: Teltoc
 image: https://i.imgur.com/B2LpVrC.jpg
 costume:
   class: Fighter
   bonuses: 5/5/10/5
   power: 822
   attack: 812
-  defense: 783
+  defense: 784
   health: 1381
-  skill: Bandalora Dance
+  skill: Bandalore Dance
   effects:
     - >-
       Removes all status effects from all allies except the caster. Removes even
@@ -41,7 +44,7 @@ costume:
     - >-
       For 4 turns all allies except the caster starting dancing the Dance of
       Spirits:
-    - +150% attack.
+    - +110% attack.
     - Reduces all received damage by -30%.
     - Gives immunity to new status effects.
     - >-

@@ -1,6 +1,7 @@
 name: Gnomer
 class: Rogue
 source: Fables
+family: Grimforest
 speed: Very Fast
 power: 481
 attack: 493
@@ -9,9 +10,8 @@ health: 844
 skill: Sharp Knife
 effects:
   - Deals 250% damage to the target.
-  - The target receives 140 Bleed damage over 2 turns.
+  - The target receives 94 Bleed damage over 2 turns.
 types:
   - Hit 1
   - Dot 1
-family: Grimforest
 image: https://i.imgur.com/VMip5iv.jpg

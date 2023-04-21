@@ -1,6 +1,7 @@
 name: Finley
 class: Ranger
 source: Pirates
+family: Pirate
 speed: Fast
 power: 781
 attack: 753
@@ -18,7 +19,6 @@ types:
   - Hit 1
   - Chain Hit
   - Defense Debuff
-family: Corellia
 image: https://i.imgur.com/RIPu5ha.jpg
 costume:
   class: Fighter
@@ -34,7 +34,7 @@ costume:
       If the target has buffs, targets another enemy with buffs. If none of the
       other enemies have buffs, targets a random enemy. The damage is reduced on
       each consecutive hit. Each enemy can only be hit once.
-    - All hit targets get -34% defense for 3 turns.
+    - All hit targets get -56% defense for 3 turns.
   types:
     - Hit 1
     - Bounce

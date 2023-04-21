@@ -1,6 +1,7 @@
 name: Guardian Panther
 class: Fighter
 source: Teltoc
+family: Guardian
 speed: Fast
 power: 765
 attack: 786
@@ -15,7 +16,6 @@ types:
   - Hit 3
   - Dispeller
   - Elemental Defense Debuff
-family: Teltoc
 image: https://i.imgur.com/DIjmjpT.jpg
 costume:
   class: Paladin
@@ -26,10 +26,10 @@ costume:
   health: 1505
   skill: Roar of the Panther
   effects:
-    - Deals 285% damage to the target and nearby enemies.
+    - Deals 285% damage to all enemies.
     - All enemies get -34% defense against Dark for 3 turns.
-    - All enemies are immune to new buffs for 3 turns.
+    - All enemies are immune to new status effect buffs for 3 turns.
   types:
-    - Hit 3
+    - Hit all
     - Defense Debuff
   image: https://i.imgur.com/ZdPyBw5.jpg

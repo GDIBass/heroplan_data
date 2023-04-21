@@ -1,6 +1,7 @@
 name: Guardian Jackal
 class: Rogue
 source: Teltoc
+family: Guardian
 speed: Very Fast
 power: 645
 attack: 765
@@ -13,7 +14,6 @@ effects:
 types:
   - Hit 1
   - Elemental Defense Debuff
-family: Teltoc
 image: https://i.imgur.com/yQuuDkU.jpg
 costume:
   class: Barbarian

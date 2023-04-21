@@ -1,6 +1,7 @@
 name: Guardian Kong
 class: Barbarian
 source: Teltoc
+family: Guardian
 speed: Average
 power: 765
 attack: 786
@@ -14,7 +15,6 @@ effects:
 types:
   - Hit All
   - Cleanser
-family: Guardian
 image: https://i.imgur.com/4n0L387.jpg
 costume:
   class: Monk
@@ -29,7 +29,8 @@ costume:
     - >-
       All allies reflect all status effects and 115% damage back to the attacker
       and block other negative effects from enemies’ Ice Special Skills for 4
-      turns.
+      turns. Status effects cast by characters, Minions and Fiends on the same 
+      side cannot be reflected.
     - Dispells buffs from all enemies.
   types:
     - Hit All

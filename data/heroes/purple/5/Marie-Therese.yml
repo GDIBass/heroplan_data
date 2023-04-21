@@ -14,7 +14,10 @@ effects:
   - >-
     All allies receive Zombie Blessing. If the blessed hero dies in the next 4
     turns, they will be reborn as a Zombie with:
-  - '00% health. 500 attack. 500 defense. Special Skill: Poison Bite.'
+  - '* 100% inherited health'
+  - '* 500 attack'
+  - '* 500 defense'
+  - '* Special Skill: Poison Bite.'
 types:
   - Hit All
   - Healer
@@ -25,10 +28,10 @@ image: https://i.imgur.com/sKXoFnG.jpg
 costume:
   class: Druid
   bonuses: 5/5/10/5
-  power: 805
-  attack: 775
-  defense: 763
-  health: 1397
+  power: 822
+  attack: 790
+  defense: 778
+  health: 1449
   skill: Zombie Invocation
   effects:
     - Deals 138% damage to all enemies
@@ -40,9 +43,9 @@ costume:
       All allies receive Zombie Blessing. If the blessed Hero dies in the next 4
       turns, they will be reborn as a Zombie with:
     - '* 100% inherited health'
-    - '*  500 attack'
-    - '*  500 defense'
-    - '* Special Attack of Poison Bite.'
+    - '* 500 attack'
+    - '* 500 defense'
+    - '* Special Skill: Poison Bite.'
   types:
     - Hit all
     - Health boost
