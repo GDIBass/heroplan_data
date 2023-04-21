@@ -1,6 +1,7 @@
 name: Marie-Therese
 class: Monk
 source: Pirates
+family: Pirate
 speed: Slow
 power: 780
 attack: 774
@@ -23,7 +24,6 @@ types:
   - Healer
   - Defense Buffer
   - Zombie Buff
-family: Corellia
 image: https://i.imgur.com/sKXoFnG.jpg
 costume:
   class: Druid
