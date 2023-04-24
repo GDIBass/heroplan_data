@@ -2,7 +2,7 @@ name: Anne
 class: Fighter
 speed: Fast
 source: Pirates
-family: Pirates
+family: Pirate
 power: 835
 attack: 819
 defense: 797
@@ -18,7 +18,9 @@ effects:
     hit once.
   - >-
     If hit enemies use their Special Skill in the next 4 turns, they get -34%
-    attack, -34% defense and -24% mana generation for 4 turns.
+    attack, -34% defense and -24% mana generation for 4 turns. Status effects are 
+    added at the end of Special Skill. Status effects will not be added if the 
+    status effect is removed during Special Skill.
 types:
   - Hit 1
 image: https://i.imgur.com/YcbkyW1.jpg

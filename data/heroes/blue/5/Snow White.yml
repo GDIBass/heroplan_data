@@ -1,6 +1,7 @@
 name: Snow White
 class: Cleric
 source: Fables
+family: Grimforest
 speed: Slow
 power: 780
 attack: 756
@@ -16,15 +17,14 @@ types:
   - Dispeller
   - Cleanser
   - Hit All
-family: Grimforest
 image: https://i.imgur.com/EVw3AO1.jpg
 costume:
   class: Ranger
   bonuses: 5/5/10/5
-  power: 805
-  attack: 803
-  defense: 748
-  health: 1355
+  power: 822
+  attack: 819
+  defense: 763
+  health: 1406
   skill: Slaying Stake
   effects:
     - >-
@@ -36,5 +36,6 @@ costume:
       in total.
   types:
     - Dispeller
+    - Cleanser
     - Hit All
   image: https://i.imgur.com/ko9NEXz.jpg

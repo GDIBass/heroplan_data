@@ -1,6 +1,7 @@
 name: Rumpelstiltskin
 class: Sorcerer
 source: Fables
+family: Grimforest
 speed: Average
 power: 767
 attack: 733
@@ -9,18 +10,17 @@ health: 1359
 skill: Legerdemain
 effects:
   - 'Draw a card for a special effect:'
-  - >-
-    Skull: Deals 270% damage to all enemies and all enemies receive 156 damage
-    over 3 turns
-  - >-
-    Cross: Recovers 27% health for all allies and dispels status ailments from
-    all allies
-  - >-
-    Stars: All enemies get -34% defense for 3 turns and all allies get +48%
-    attack for 3 turns
+  - Skull
+  - '* Deals 270% damage to all enemies.'
+  - '* All enemies receive 162 damage over 3 turns.'
+  - Cross
+  - '* Recovers 27% health for all allies.'
+  - '* Cleanses status ailments from all allies.'
+  - Stars
+  - '* All enemies get -34% defense for 3 turns.'
+  - '* All allies get +48% attack for 3 turns.'
 types:
   - Gambler
-family: Grimforest
 image: https://i.imgur.com/v7aCbsm.jpg
 costume:
   class: Monk
@@ -32,18 +32,22 @@ costume:
   skill: Twilight Tricks
   effects:
     - 'Draw a card for a special effect:'
+    - Skull
     - >-
-      Skull: Reduces max health of all enemies by 550. Max health can’t get
-      lower than 30% of the original max health.All enemies receive Corrosive
-      Poison for 4 turns. The Corrosive Poison deals 60 Poison damage and lowers
-      the target’s mana generation by -9% each turn.
+      * Reduces max health of all enemies by 550. Max health can’t get
+      lower than 30% of the original max health.
     - >-
-      Cross: Boosts health of all allies by 620. If health exceeds max HP, it is
-      added as a temporary HP.All allies are immune to new status ailments for 4
-      turns.
+      * All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison 
+      deals 60 Poison damage and lowers the target’s mana generation by -9% each 
+      turn.
+    - Cross
+    - '* Boosts health of all allies by 620. Boosted health can exceed max HP.'
+    - '* All allies are immune to new status ailments for 4 turns.'
+    - Stars
     - >-
-      Stars: All enemies get -54% mana generation for 4 turns. This effect can’t
-      be cleansedAll enemies are immune to new buffs for 4 turns.
+      * All enemies get -54% mana generation for 4 turns. This effect can’t
+      be cleansed.
+    - '* All enemies are immune to new status effect buffs for 4 turns.'
   types:
     - Health reduction
     - Health Boost

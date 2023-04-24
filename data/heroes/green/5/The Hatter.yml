@@ -1,8 +1,9 @@
 name: The Hatter
 class: Cleric
 source: Wonderland
+family: Wonderland
 speed: Average
-power: 766
+power: 768
 attack: 735
 defense: 710
 health: 1341
@@ -15,5 +16,4 @@ effects:
 types:
   - Hit 3
   - Buff Stealer
-family: Wonderland
 image: https://i.imgur.com/Fs3u4wr.jpg

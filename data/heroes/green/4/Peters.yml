@@ -1,6 +1,7 @@
 name: Peters
 class: Rogue
 source: Pirates
+family: Pirate
 speed: Fast
 power: 645
 attack: 643
@@ -13,5 +14,4 @@ effects:
 types:
   - Hit 1
   - Silence
-family: Corellia
 image: https://i.imgur.com/aPVBzpo.jpg
