@@ -1,0 +1,25 @@
+name: Xiong Shanjun
+source: Kingdom
+family: Journey
+class: Paladin
+speed: Average
+power: 842
+attack: 735
+defense: 877
+health: 1532
+skill: Fury of the Mountain Lord
+effects:
+  - >-
+    Reduces max health of the target and nearby enemies by 800 over 4 turns. 
+    Max health can't get lower than 30% of the original max health.
+  - >-
+    The caster and nearby allies regenerate 800 boosted health over 4 turns.
+    Boosted health can exceed max HP.
+  - The target and nearby enemies get -24% mana generation for 4 turns.
+  - The caster and nearby allies get +24% mana generation for 4 turns.
+types:
+  - Health Reduction
+  - Health Boost
+  - Mana Generation Debuff
+  - Mana Generation Buff
+image: https://i.imgur.com/WyjU3s9.jpg
