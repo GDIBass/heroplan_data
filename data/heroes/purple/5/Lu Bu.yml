@@ -9,16 +9,17 @@ defense: 791
 health: 1479
 skill: Disrupting Charge
 effects:
-  - Deals 295% damage to all enemies.
+  - Deals 330% damage to all enemies.
   - >-
     Summons a Mercenary Fiend for all enemies. The Fiend damages its target with
-    48% attack every turn.
+    56% attack every turn.
   - >-
     The Mercenary Fiend absorbs healing. It disappears after absorbing a healing
-    amount equal to 32% of its target’s max health.
+    amount equal to 38% of its target’s max health.
   - >-
-    The Mercenary Fiend’s target is immune to new buffs as long as the target
-    has Mercenary Fiends. This effect can’t be cleansed.
+    When summoned, the Mercenary Fiend  causes its target to be immune to new 
+    buffs. The effect lasts as long as the target has Mercenary Fiend. 
+    This effect can’t be cleansed.
 types:
   - Hit All
   - Fiend

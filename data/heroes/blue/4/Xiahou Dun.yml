@@ -3,7 +3,7 @@ source: Kingdom
 class: Fighter
 speed: Fast
 family: Kingdom
-power: 682
+power: 683
 attack: 641
 defense: 748
 health: 1179
@@ -11,8 +11,8 @@ skill: Qilin Blade
 effects:
   - Deals 355% damage to the target.
   - >-
-    Summons a Wei Soldier Minion for the caster and nearby allies with 14% HP
-    and 20% attack inherited from the caster.
+    Summons a Wei Soldier Minion for the caster and nearby allies with 20% HP
+    and 25% attack inherited from the caster.
   - >-
     Each hit from a Wei Soldier Minion dispells all dispellable buffs from the
     target.

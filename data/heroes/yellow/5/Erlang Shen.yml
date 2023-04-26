@@ -15,6 +15,6 @@ effects:
     removed before the duration ends, the target with the effect suffers 502
     damage.
 types:
-  - Heal 1
+  - Hit 3
   - Attack Debuff
 image: https://i.imgur.com/vft4guR.jpg

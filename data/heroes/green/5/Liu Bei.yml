@@ -9,14 +9,14 @@ defense: 788
 health: 1419
 skill: Call to Arms
 effects:
-  - Deals 340% damage to the target and nearby enemies
+  - Deals 360% damage to the target and nearby enemies.
   - >-
-    Summons a Shu Soldier Minion for each ally with 9% HP and 17% attack
+    Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack
     inherited from the caster.
   - >-
-    Shu Soldier Minion gives its owner the ability to counterattack with 50% of
-    the damage received as long as the owner has a Shu Soldier Minion. This
-    effect can’t be dispelled.
+    When summoned, the Shu Soldier Minion gives its owner the ability to 
+    counterattack with 60% of the damage received for as long as the owner has
+    a Shu Soldier Minion. This effect can’t be dispelled.
 types:
   - Hit 3
   - Summoner

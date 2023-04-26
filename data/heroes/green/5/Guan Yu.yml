@@ -7,7 +7,7 @@ power: 825
 attack: 815
 defense: 764
 health: 1435
-skill: Grren Dragon Crescent Blade
+skill: Green Dragon Crescent Blade
 effects:
   - Deals 390% damage to the target and nearby enemies.
   - Damage bypasses target’s Minions.

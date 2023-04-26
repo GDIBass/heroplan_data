@@ -9,15 +9,16 @@ defense: 803
 health: 1439
 skill: Order to Overwhelm
 effects:
-  - Deals 275% damage to all enemies.
+  - Deals 330% damage to all enemies.
   - >-
     Summons a Wei Soldier Minion for each ally with 20% HP and 25% attack
     inherited from the caster.
   - >-
     Each hit from a Wei Soldier Minion dispels all dispellable buffs from the
     target.
-  - Deals extra damage against Fire.
+  - All allies get +30% defense for 4 turns.
 types:
   - Hit All
   - Summoner
+  - Defense buff
 image: https://i.imgur.com/U1AQZ8U.jpg
