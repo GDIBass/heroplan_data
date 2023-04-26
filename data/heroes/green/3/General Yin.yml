@@ -9,10 +9,12 @@ defense: 507
 health: 700
 skill: Enchanted Axe Swing
 effects:
+  - Dispels buffs from all enemies.
   - Deals 180% damage to all enemies.
   - >-
     Deals additional 8% damage per removed status effect, up to 276% damage in
     total.
 types:
+  - Dispeller
   - Hit All
 image: https://i.imgur.com/hCb3jKN.jpg
