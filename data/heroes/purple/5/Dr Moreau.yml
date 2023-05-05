@@ -1,6 +1,7 @@
 name: Dr Moreau
 class: Paladin
 source: Season4
+family: Underwild
 speed: Fast
 power: 807
 attack: 774
@@ -16,9 +17,26 @@ effects:
 types:
   - Hit 3
   - Accuracy Debuff
-family: Underwild
 passives:
   - >-
     Received damage is reduced by -20% for the first 3 times this Hero receives
     damage from Special Skills.
 image: https://i.imgur.com/fpP6oo2.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 851
+  attack: 798
+  defense: 802
+  health: 1592
+  skill: Blinding Knowledge
+  effects:
+    - Deals 265% damage to the target and nearby enemies.
+    - >-
+      The target and nearby enemies get -40% accuracy for 4 turns. The effect 
+      duration resets if the target is healed. Chance to miss also applies to 
+      offensive Special Skills.
+  types:
+    - Hit 3
+    - Accuracy Debuff
+  image: https://i.imgur.com/hHp5LR8.jpg
