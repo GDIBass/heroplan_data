@@ -1,0 +1,35 @@
+name: Ray
+class: Sorcerer
+source: Magic
+family: Magic
+speed: Magic
+power: 845
+attack: 824
+defense: 865
+health: 1359
+skill: Blazing Slam Dunk
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200% mana:'
+  - '1x Mana Charge:'
+  - ' * All enemies receive 402 Burn damage over 3 turns.'
+  - ' * All enemies get -34% defense against Fire for 3 turns.'
+  - ' * Dispels buffs from all enemies.'
+  - '2x Mana Charge:'
+  - ' * All allies regenerate 1190 HP over 5 turns.'
+  - ' * All allies get +50% attack against Nature for 5 turns.'
+  - ' * Cleanses status ailments from all allies.'
+types:
+  - HoT All
+  - Dispeller
+  - Healer
+  - Cleanser
+passives:
+  - >-
+    When this character casts their Special Skill, all enemies get -5% mana 
+    generation stack. If the Special Skill is fully charged, all enemies get 
+    two stacks. An enemy can have up to 10 stacks.
+  - >-
+    When this character casts their Special Skill, they have a 50% chance to 
+    give 10% mana to all allies. If the Special Skill is fully charged, the 
+    chance is 100%.
+image: https://i.imgur.com/0vSBWSh.jpg
