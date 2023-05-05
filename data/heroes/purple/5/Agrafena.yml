@@ -1,6 +1,7 @@
 name: Agrafena
 class: Druid
 source: Magic
+family: Magic
 speed: Magic
 power: 813
 attack: 756
@@ -10,13 +11,13 @@ skill: Arcane Shock
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
-  - ' * All enemies get -15% attack for 3 turns.'
-  - ' * All enemies get -15% defense for 3 turns.'
+  - ' * All enemies get -20% attack for 3 turns.'
+  - ' * All enemies get -20% defense for 3 turns.'
   - ' * All enemies receive 159 Poison damage over 3 turns.'
   - '2x Mana Charge:'
-  - ' * All allies get +50% attack for 6 turns.'
-  - ' * All allies get +63% defense for 6 turns.'
-  - ' * All allies regenerate 1218 HP over 6 turns.'
+  - ' * All allies get +45% attack, and a further 20% increase every time they are hit during 6 turns.'
+  - ' * All allies get +54% defense, and a further 5% increase every time they are hit during 6 turns.'
+  - ' * All allies regenerate 1428 HP over 6 turns.'
 types:
   - Attack Debuff
   - Defense Debuff
@@ -27,7 +28,7 @@ types:
   - Charge
 passives:
   - >-
-    On a fully charged Special Skill this Hero has a 50% chance to deal 100%
-    damage to all enemies that are not of Dark element.
-family: Magic
+    When this character casts their Special Skill, they have a 50% chance to 
+    deal 100% damage to all enemies. If the Special Skill is fully charged, 
+    the chance is 100%.
 image: https://i.imgur.com/19jbbwr.jpg
