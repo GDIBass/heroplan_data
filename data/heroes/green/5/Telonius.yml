@@ -1,0 +1,32 @@
+name: Telonius
+class: Druid
+source: Magic
+family: Magic
+speed: Magic
+power: 845
+attack: 842
+defense: 821
+health: 1400
+skill: Poem of the Centaurs
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200% mana:'
+  - '1x Mana Charge:'
+  - ' * All enemies take +50% increased damage from status ailments for 3 turns.'
+  - ' * All enemies receive 339 Poison damage over 3 turns.'
+  - '2x Mana Charge:'
+  - ' * Recovers 75% health for the caster and nearby allies.'
+  - ' * The caster and nearby allies are immune to damage from status ailments for 5 turns.'
+types:
+  - DoT all
+  - Healer
+  - Charge
+passives:
+  - >-
+    When this character casts their Special Skill, all enemies get -5% mana 
+    generation stack. If the Special Skill is fully charged, all enemies get 
+    two stacks. An enemy can have up to 10 stacks.
+  - >-
+    When this character casts their Special Skill, they have a 50% chance to 
+    deal 100% damage to all enemies. If the Special Skill is fully charged, 
+    the chance is 100%.
+image: https://i.imgur.com/WMPKV4S.jpg
