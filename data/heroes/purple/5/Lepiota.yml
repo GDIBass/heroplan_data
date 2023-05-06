@@ -1,6 +1,7 @@
 name: Lepiota
 class: Sorcerer
 source: Season4
+family: Underwild
 speed: Fast
 power: 806
 attack: 780
@@ -17,15 +18,37 @@ effects:
   - >-
     While in Abyss Ghost form thtarget can't gain mana and can't be healed by
     special skills, but is immune to normal attacks, Special Skill attacks,
-    status effects, and stacks.
+    status effects and stacks.
   - Abyss Ghost form lasts for 4 turns.
   - Last enemy left in the battle can't be shifted to Abyss Ghost form.
 types:
   - Abyss Ghost
-  - Use Oxford Commas, SGG
-family: Underwild
 passives:
   - >-
     Received damage is reduced by -20% for the first 3 times this Hero
     recveives damage from Special Skills
 image: https://i.imgur.com/eea7u0v.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 849
+  attack: 795
+  defense: 834
+  health: 1522
+  skill: Undying Incantation
+  effects:
+    - >-
+      Removes all status effects and stacks from the target. Removes even status
+      effects and stacks that are otherwise undispellable or uncleansable.
+    - Deals 150% damage to the target.
+    - The target shifts into Abyss Ghost form.
+    - While in Abyss Ghost form the target receives 147 damage each turn.
+    - >-
+      While in Abyss Ghost form thtarget can't gain mana and can't be healed by
+      Special Skills, but is immune to normal attacks, Special Skill attacks,
+      status effects and stacks.
+    - Abyss Ghost form lasts for 4 turns.
+    - Last enemy left in the battle can't be shifted to Abyss Ghost form.
+  types:
+    - Abyss Ghost
+  image: https://i.imgur.com/MgzgOOM.jpg

@@ -1,6 +1,7 @@
 name: Anton
 class: Cleric
 source: Magic
+family: Magic
 speed: Magic
 power: 678
 attack: 650
@@ -10,10 +11,10 @@ skill: High Noon Sun
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
-  - ' * Deals 185% damage to all enemies. Each hit has 50% accuracy.'
-  - ' * All enemies receive 92 Poison damage over 2 turns.'
+  - ' * Deals 250% damage to all enemies. Each hit has 60% accuracy.'
+  - ' * All hit enemies receive 92 Poison damage over 2 turns.'
   - '2x Mana Charge:'
-  - ' * Each fallen ally has a 34% chance to get revived with 30% HP.'
+  - ' * Each fallen ally has a 44% chance to get revived with 40% HP.'
   - ' * All allies regenerate 405 HP over 5 turns'
 types:
   - Hit all
@@ -22,8 +23,5 @@ types:
   - HoT All
   - Charge
 passives:
-  - >-
-    On a fully charged Special Skill this Hero has a 50% chance to deal 100%
-    damage to all enemies that are not of Nature element.
-family: Magic
+  - 'Healt recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'
 image: https://i.imgur.com/P0bT6Vn.jpg

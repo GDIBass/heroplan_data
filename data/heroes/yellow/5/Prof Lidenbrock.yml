@@ -1,6 +1,7 @@
 name: Prof Lidenbrock
 class: Cleric
 source: Season4
+family: Underwild
 speed: Slow
 power: 806
 attack: 745
@@ -15,10 +16,30 @@ effects:
     exceed max HP. The effect duration is reset if the target receives status 
     ailments.
 types:
+  - Cleanse All
   - Health Boost
   - HOT
-  - Cleanse All
-family: Underwild
 passives:
   - This Hero receives 20% mana at the start of the battle.
 image: https://i.imgur.com/1q7ZFV3.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 850
+  attack: 778
+  defense: 843
+  health: 1552
+  skill: Dazzling Gleam
+  effects:
+    - Cleanses status ailments from all allies.
+    - Boosts health of all allies by 500. Boosted health can exceed max HP.
+    - >-
+      All allies regenerate 400 boosted health over 4 turns. Boosted health can 
+      exceed max HP. The effect duration is reset if the target receives status 
+      ailments.
+  types:
+    - Cleanse All
+    - Health Boost
+    - HOT
+  image: https://i.imgur.com/CwQ3ejX.jpg
+  

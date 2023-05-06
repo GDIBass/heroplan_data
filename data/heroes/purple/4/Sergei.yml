@@ -1,6 +1,7 @@
 name: Sergei
 class: Druid
 source: Magic
+family: Magic
 speed: Magic
 power: 678
 attack: 658
@@ -12,14 +13,14 @@ effects:
   - '1x Mana Charge:'
   - ' * All enemies get -54% defense against Dark for 3 turns.'
   - '2x Mana Charge:'
-  - ' * All allies get +100% normal attack for 5 turns. Stacks with similar status effects up to a maximum of +160% normal attack.'
+  - ' * All allies get +100% normal attack for 5 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increase power while this effect is active.'
 types:
   - Elemental Defense Debuff
   - Normal attack buff
   - Charge
 passives:
   - >-
-    On a fully charged Special Skill this Hero has a 50% chance to deal 100%
-    damage to all enemies that are not of Dark element.
-family: Magic
+    When this character casts their Special Skill, they have a 50% chance to 
+    deal 100% damage to all enemies. If the Special Skill is fully charged, 
+    the chance is 100%.
 image: https://i.imgur.com/2gnuaoM.jpg

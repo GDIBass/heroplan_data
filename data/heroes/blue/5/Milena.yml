@@ -1,6 +1,7 @@
 name: Milena
 class: Wizard
 source: Magic
+family: Magic
 speed: Magic
 power: 813
 attack: 784
@@ -10,10 +11,10 @@ skill: Restoration and Annihilation
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
-  - ' * Recovers 20% health for all allies.'
+  - ' * Recovers 25% health for all allies.'
   - ' * Cleanses status ailments from all allies.'
   - '2x Mana Charge:'
-  - ' * Deals 390% damage to all enemies.'
+  - ' * Deals 420% damage to all enemies.'
   - ' * Dispels buffs from all enemies.'
 types:
   - Heal All
@@ -23,7 +24,7 @@ types:
   - Charge
 passives:
   - >-
-    On a fully charged Special Skill this Hero has a 50% chance to deal 100%
-    damage to all enemies that are not of Ice element.
-family: Magic
+    When this character casts their Special Skill, they have a 50% chance to 
+    give 10% mana to all allies. If the Special Skill is fully charged, the 
+    chance is 100%.
 image: https://i.imgur.com/30AXxJs.jpg

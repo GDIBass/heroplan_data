@@ -1,6 +1,7 @@
 name: Elizabeth
 class: Monk
 source: Season4
+family: Underwild
 speed: Average
 power: 807
 attack: 768
@@ -21,9 +22,31 @@ effects:
 types:
   - Fiend
   - Hit All
-family: Underwild
 passives:
   - >-
     Duration of the first 3 buffs this hero receives from Special Skills is
     increased by 1 turn
 image: https://i.imgur.com/5redygr.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 851
+  attack: 821
+  defense: 798
+  health: 1540
+  skill: Bride's Kiss
+  effects:
+    - Deals 165% damage to all enemies.
+    - >-
+      Summons a Spider Fiend for all enemies. The Fiend damages its target with 
+      41% attack every turn.
+    - >-
+      The Spider Fiend absorbs healing. It disappears after absorbing a healing
+      amount equal to 40% ot its target's max health.
+    - >-
+      When summoned, the Spider Fiend gives -28% mana generation for its owner
+      for as long as the owner has Spider Fiends. This effect can't be cleansed.
+  types:
+    - Hit all
+    - Fiends
+  image: https://i.imgur.com/aGoeueo.jpg

@@ -1,29 +1,27 @@
 name: Motega
 class: Cleric
 source: Magic
+family: Magic
 speed: Magic
 power: 813
-attack: 766
-defense: 782
+attack: 756
+defense: 793
 health: 1439
 skill: Butterfly Swarm
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
-  - ' * Summons a Butterfly Minion for each ally with 8% HP and 17% attack inherited from the caster.'
+  - ' * Summons a Butterfly Minion for each ally with 14% HP and 20% attack inherited from the caster.'
   - ' *- Each hit from a Butterfly Minion Gives the target the following status ailment:'
-  - ' *-- All damage the target receives is increased by +20% for 2 turns'
+  - ' *-- +20% increase to all received damage for 3 turns.'
   - '2x Mana Charge:'
   - ' * Summons a Butterfly Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.'
-  - ' * The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 30% of it''s owner''s max health.'
-  - ' * THe Butterfly Fiend gives -50% accuracy for its owner as long as the owner has Butterfly Fiends. Chance to miss also applies to offensive Special Skills. This effect can''t be cleansed.'
+  - ' * The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it''s owner''s max health.'
+  - ' * When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can''t be cleansed. Chance to miss also applies to offensive Special Skills.'
 types:
   - Summoner
   - Fiend
   - Charge
 passives:
-  - >-
-    On a fully charged Special Skill this Hero has a 50% chance to deal 100%
-    damage to all enemies that are not of Holy element.
-family: Magic
+  - 'Health recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'
 image: https://i.imgur.com/87toXMW.jpg
