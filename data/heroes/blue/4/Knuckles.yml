@@ -1,0 +1,33 @@
+name: Knuckles
+class: Paladin
+speed: Average
+source: Kalevala
+family: JungleHunter
+power: 687
+attack: 626
+defense: 669
+health: 1402
+skill: Jungle Riposte
+effects:
+  - >-
+    All allies get +30% defense, and a further 3% increase every time they are 
+    hit during 4 turns.
+  - >-
+    All allies reflect status ailments and negative stacks for 4 turns. Status 
+    effects cast by characters, Minions and Fiends on the same side cannot be 
+    reflected.
+  - 'Stack (Max: 10): The caster gets +20% attack against the weaker element.'
+types:
+  - Defense buff
+  - Stack 
+passives:
+  - >-
+    Damage over time on special. When this character casts their Special Skill, 
+    they give a Hunter's Mark on a random enemy. The target receives 150 damage 
+    over 3 turns. If a target already has this effect, the duration will be
+    refreshed and the damage will be increased by 150, up to 1500 damage in total.
+  - >-
+    Hunter's vigor. When this character casts their Special Skill, they get +20% 
+    attack for 3 turns. This effect can be active in addition to other effects 
+    that alter attack.
+image: https://i.imgur.com/10jSzvE.jpg
