@@ -1,0 +1,35 @@
+name: Sorrow
+class: Sorcerer
+speed: Average
+source: Kalevala
+family: AbyssHunter
+power: 848
+attack: 846
+defense: 819
+health: 1417
+skill: Icebound Ritual
+effects:
+  - >-
+    Summons 2 Icebound Sickle Minions for the caster and nearby allies with 
+    15% HP and 30% attack inherited from the caster.
+  - >-
+    When summoned, the Icebound Sickle Minion gives +45% attack for its owner
+    for as long as the owner has Icebound Sickle Minions. The attack increases
+    by 5% each turn, up to 60%. This effect can't be cleansed.
+  - >-
+    When the Icebound Sickle Minion is destroyed, it deals 135 damage to all 
+    enemies.
+types:
+  - Summoner 
+passives:
+  - >-
+    Damage over time on special. When this character casts their Special Skill, 
+    they give a Hunter's Mark on a random enemy. The target receives 150 damage 
+    over 3 turns. If a target already has this effect, the duration will be
+    refreshed and the damage will be increased by 150, up to 1500 damage in total.
+  - >-
+    Hunter's sense. When this character casts their Special Skill, they transfer
+    the newest cleansable status ailment from themself to the target. If the 
+    Special Skill cannot target an enemy, a random enemy is chosen instead. If
+    this character has no cleansable status ailment, they recover 8% health.
+image: https://i.imgur.com/h1FVbFE.jpg

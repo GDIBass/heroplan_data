@@ -1,0 +1,38 @@
+name: Thunderclap
+class: Fighter
+speed: Slow
+source: Kalevala
+family: JungleHunter
+power: 846
+attack: 813
+defense: 826
+health: 1472
+skill: Warcry of the Jungle
+effects:
+  - >-
+    The caster gets Taunt that prevents enemies from using Special Skill on the 
+    caster's allies for 5 turns.
+  - >-
+    The caster regenerates 1250 boosted health over 5 turns. Boosted health can
+    exceed max HP.
+  - >-
+    Deals 500-1000 damage to all enemies after 5 turns, based on the damage the 
+    caster had taken while this effect was active. Maximum effect is achieved 
+    upon taking 50% of max health in damage.
+  - 'Stack (Max: 10): The caster gets +25% attack against the weaker element.'
+types:
+  - Taunt
+  - HoT 1
+  - Hit all
+  - Stack
+passives:
+  - >-
+    Damage over time on special. When this character casts their Special Skill, 
+    they give a Hunter's Mark on a random enemy. The target receives 150 damage 
+    over 3 turns. If a target already has this effect, the duration will be
+    refreshed and the damage will be increased by 150, up to 1500 damage in total.
+  - >-
+    Hunter's vigor. When this character casts their Special Skill, they get +20% 
+    attack for 3 turns. This effect can be active in addition to other effects 
+    that alter attack.
+image: https://i.imgur.com/8fPiMj3.jpg
