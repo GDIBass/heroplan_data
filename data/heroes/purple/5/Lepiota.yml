@@ -38,17 +38,17 @@ costume:
   skill: Undying Incantation
   effects:
     - >-
-    Removes all status effects and stacks from the target. Removes even status
-    effects and stacks that are otherwise undispellable or uncleansable.
-  - Deals 150% damage to the target.
-  - The target shifts into Abyss Ghost form.
-  - While in Abyss Ghost form the target receives 147 damage each turn.
-  - >-
-    While in Abyss Ghost form thtarget can't gain mana and can't be healed by
-    Special Skills, but is immune to normal attacks, Special Skill attacks,
-    status effects and stacks.
-  - Abyss Ghost form lasts for 4 turns.
-  - Last enemy left in the battle can't be shifted to Abyss Ghost form.
+      Removes all status effects and stacks from the target. Removes even status
+      effects and stacks that are otherwise undispellable or uncleansable.
+    - Deals 150% damage to the target.
+    - The target shifts into Abyss Ghost form.
+    - While in Abyss Ghost form the target receives 147 damage each turn.
+    - >-
+      While in Abyss Ghost form thtarget can't gain mana and can't be healed by
+      Special Skills, but is immune to normal attacks, Special Skill attacks,
+      status effects and stacks.
+    - Abyss Ghost form lasts for 4 turns.
+    - Last enemy left in the battle can't be shifted to Abyss Ghost form.
   types:
     - Abyss Ghost
   image: https://i.imgur.com/MgzgOOM.jpg
