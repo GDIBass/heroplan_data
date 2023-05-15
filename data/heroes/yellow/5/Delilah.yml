@@ -20,3 +20,23 @@ types:
   - Summoner
 family: 2018
 image: https://i.imgur.com/gbHdhVI.jpg
+costume:
+  class: Paladin
+  bonuses: 3/3/6/1
+  power: 793
+  attack: 739
+  defense: 742
+  health: 1442
+  skill: Summon Celestial Guardians
+  effects:
+    - Recovers 30% health for all allies.
+    - >-
+      Summons a Guardian Minion for each ally with 20% HP and 25% attack inherited
+      from the caster.
+    - >-
+      Elemental Link gives +10% mana generation for all Holy allies for 4 turns. 
+      This effect can’t be displelled.
+  types:
+    - Healer
+    - Summoner
+  image: https://i.imgur.com/muqHGtI.jpg

@@ -8,9 +8,13 @@ defense: 679
 health: 1419
 skill: Burning Chains
 effects:
-  - The target receives 752 damage over 4 turns. This effect can’t be cleansed.
-  - The target gets -54% mana generaton for 4 turns. This effect can’t be cleansed.
-  - Deals extra damage against Nature
+  - >-
+    The target receives 752 Burn damage over 4 turns. This effect can’t be 
+    cleansed.
+  - >-
+    The target gets -54% mana generation for 4 turns. This effect can’t be 
+    cleansed.
+  - Deals extra damage against Nature.
   - >-
     Elemental Link gives +10% mana generation to all Fire allies for 4 turns. 
     This effect can’t be displelled.
@@ -19,3 +23,26 @@ types:
   - Mana Generation Debuff
 family: 2018
 image: https://i.imgur.com/vuOEJDC.jpg
+costume:
+  class: Wizard
+  bonuses: 3/3/6/1
+  power: 789
+  attack: 752
+  defense: 695
+  health: 1479
+  skill: Burning Thread
+  effects:
+    - >-
+      The target receives 940 Burn damage over 4 turns. This effect can’t be 
+      cleansed.
+    - >-
+      The target gets -50% mana generation for 4 turns. This effect can’t be 
+      cleansed.
+    - Deals extra damage against Nature.
+    - >-
+      Elemental Link gives +10% mana generation to all Fire allies for 4 turns. 
+      This effect can’t be displelled.
+  types:
+    - Dot 1
+    - Mana Generation Debuff
+  image: https://i.imgur.com/IO9WHYd.jpg
