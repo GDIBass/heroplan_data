@@ -1,0 +1,34 @@
+name: Snowball
+family: Pets
+source: Pets
+class: Ranger
+speed: Fast
+power: 858
+attack: 861
+defense: 813
+health: 1458
+skill: Feral Arrows
+effects:
+  - Deals 250% damage to the target and nearby enemies.
+  - >-
+    Summons a Barbed Arrow Fiend to the target and nearby enemies. The Fiend
+    damages the enemies with 43% attack every turn.
+  - >-
+    The Barbed Arrow Fiend absorbs healing.It disappears after absorbing a 
+    healing amount equal to 28% of its target's max health.
+  - >-
+    When summoned, the Barbed Arrow Fiend increases the damage dealt to its 
+    target from all sources by +40%. The effect lasts as long as the target has
+    Barbed Arrow Fiends. This effect can't be cleansed.
+types:
+  - Hit 3
+  - Fiends
+passives:
+  - >-
+    Friend of the Familiars - When a Minion is summoned to any ally, this 
+    character gains 5% health and 5% mana. This effect can activate only once 
+    per turn.
+  - >-
+    Wrath of Pets - When a Fiend is summoned to any enemy, this character deals 
+    85% damage to all enemies. This effect can activate only once per turn.
+image: https://i.imgur.com/kEMlZAo.jpg
