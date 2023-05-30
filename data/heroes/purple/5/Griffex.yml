@@ -1,0 +1,28 @@
+name: Griffex
+class: Druid
+speed: Slow
+source: SuperElemental
+family: SuperElemental
+power: 848
+attack: 801
+defense: 817
+health: 1532
+skill: Mana Manipulation
+effects:
+  - >-
+    Reduces the mana of all Holy enemies by 100%. Reduces the mana of the other
+    enemies by 50%.
+  - >-
+    Increases the mana of all Dark allies except the caster by 30%. Increases 
+    the mana of all other allies by 15%.
+types:
+  - Mana Reducer
+  - Mana Increase
+passives:
+  - >-
+    This character’s Troops deal 100% more additional damage against weaker
+    element.
+  - >-
+    This character receives 10% less additional damage from Troops of stronger
+    element.
+image: https://i.imgur.com/uvhkpHJ.jpg
