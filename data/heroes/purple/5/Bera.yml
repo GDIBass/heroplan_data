@@ -20,3 +20,23 @@ types:
   - DoT 1
 family: Vanaheim
 image: https://i.imgur.com/NBFcAXz.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 829
+  attack: 780
+  defense: 759
+  health: 1563
+  skill: Disir of Dreams
+  effects:
+    - >-
+      Summons a Moth Minion for each ally. Moth Minion inherits 30% attack and 
+      30% HP from the caster.
+    - 'Each hit from the Moth Minion gives the target the following status ailments:'
+    - ' * The target receives 126 Poison damage over 3 turns.'
+    - ' * The target can’t receive new Minions for 3 turns.'
+  types:
+    - Summoner
+    - Minion Blocking
+    - DoT 1
+  image: https://i.imgur.com/jUs21jO.jpg
