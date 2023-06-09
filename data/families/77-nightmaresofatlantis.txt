@@ -1,0 +1,9 @@
+key: nightmaresofatlantis
+code: 77
+description: Nightmares of Atlantis
+image: https://i.imgur.com/5GKjHoe.png
+bonus:
+  - "Bonus for 1/2 Unique Heroes:"
+  - "50%/75% chance to cast -10% mana generation for 3 turns on an enemy who deals Special Skill damage to this character."
+  - "Related Family Bonus: Hero is related to the Atlantis Family."
+  - "Hero receives the family bonus of a related family when in team with at least 1 related hero. Bonus for 1/2/3/4/5 heroes: +5%/+10%/+15%/+20%/+25% defense."
