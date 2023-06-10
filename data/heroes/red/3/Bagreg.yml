@@ -1,0 +1,28 @@
+name: Bagreg
+class: Ranger
+source: Untold Tales
+family: NightmaresofAtlantis
+speed: Changing Tides
+power: 486
+attack: 571
+defense: 403
+health: 780
+skill: Burning Javelin
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Deals 180% damage to target and nearby enemies.'
+  - ' * The target and nearby enemies get -34% defense against Fire for 3 turns.'
+  - '2nd:'
+  - ' * Deals 200% damage to target and nearby enemies.'
+  - ' * The target and nearby enemies get -54% defense against Fire for 3 turns.'
+types:
+  - Hit 3
+  - Elemental Defense Debuff
+passives:
+  - >-
+    'Effects on Special Skill:
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * The caster gets +19% mana generation for 2 turns.'
+image: https://i.imgur.com/rzvavLk.jpg

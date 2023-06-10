@@ -1,0 +1,30 @@
+name: Mulgog
+class: Rogue
+source: Untold Tales
+family: NightmaresofAtlantis
+speed: Changing Tides
+power: 688
+attack: 718
+defense: 643
+health: 1228
+skill: Noxious Cleave
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Deals 230% damage to target and nearby enemies.'
+  - ' * Reduces the mana of the target and nearby enemies by 10%.'
+  - '2nd:'
+  - ' * Deals 260% damage to target and nearby enemies.'
+  - ' * Reduces the mana of the target and nearby enemies by 15%.'
+  - ' * All enemies receive 570 Poison damage over 5 turns. The caster absorbs 50% of dealt Posion damage as health.'
+types:
+  - Hit 3
+  - Mana Reduction
+  - DoT all
+passives:
+  - >-
+    'Effects on Special Skill:
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * The caster gets +19% mana generation for 2 turns.'
+image: https://i.imgur.com/b7HL0wq.jpg

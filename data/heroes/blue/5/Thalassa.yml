@@ -1,0 +1,30 @@
+name: Thalassa
+class: Cleric
+source: Untold Tales
+family: DefendersofAtlantis
+speed: Changing Tides
+power: 894
+attack: 840
+defense: 945
+health: 1505
+skill: Ocean’s Embrace
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Boosts health of all allies by 330. Boosted health can exceed max HP.'
+  - ' * The duration of status ailments is reset for all enemies.'
+  - '2nd:'
+  - ' * Boosts health of all allies by 370. Boosted health can exceed max HP.'
+  - ' * The duration of status ailments is reset for all enemies.'
+  - ' * All allies are immune to new status ailments for 3 turns.'
+types:
+  - Heal all
+  - Status Ailment Reset
+  - Status Ailment Immunity
+passives:
+  - >-
+    'Effects on Special Skill:
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * All allies get +21% critical chance for 3 turns.'
+image: https://i.imgur.com/aKuc2pB.jpg

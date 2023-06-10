@@ -1,0 +1,28 @@
+name: Shar'Khai
+class: Paladin
+source: Untold Tales
+family: NightmaresofAtlantis
+speed: Changing Tides
+power: 688
+attack: 650
+defense: 705
+health: 1279
+skill: Critical Tactics
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.'
+  - ' * All allies get +20% critical chance for 5 turns.'
+  - '2nd:'
+  - ' * All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.'
+  - ' * All allies get +35% critical chance for 5 turns.'
+types:
+  - Titan Attack Buff
+  - Crit Buff
+passives:
+  - >-
+    'Effects on Special Skill:
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * The caster gets +19% mana generation for 2 turns.'
+image: https://i.imgur.com/pCqXNHO.jpg

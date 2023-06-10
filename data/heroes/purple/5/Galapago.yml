@@ -1,0 +1,32 @@
+name: Galapago
+class: Druid
+source: Untold Tales
+family: DefendersofAtlantis
+speed: Changing Tides
+power: 895
+attack: 766
+defense: 920
+health: 1746
+skill: Testudo Roll
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Destroys all Minions from all enemies.'
+  - ' * Deals 230% damage to all enemies.'
+  - ' * All allies get +30% defense for 3 turns.'
+  - '2nd:'
+  - ' * Destroys all Minions from all enemies.'
+  - ' * Deals 310% damage to all enemies.'
+  - ' * Stack (Max 10): The caster recovers 24 HP each turn for each destroyed Minion.'
+  - ' * All allies get +50% defense for 3 turns.'
+types:
+  - Destroy Minions
+  - Hit all
+  - Defense Buffer
+passives:
+  - >-
+    'Effects on Special Skill:
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * All allies get +21% critical chance for 3 turns.'
+image: https://i.imgur.com/pxAZGoS.jpg
