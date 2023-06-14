@@ -20,6 +20,7 @@ effects:
 types:
   - Hit 3
   - Mana generation debuff
+  - Health Reduction
 passives:
   - >-
     This character has innate resistance against status ailments and negative
