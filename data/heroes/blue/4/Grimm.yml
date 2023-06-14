@@ -29,3 +29,19 @@ costume:
   types:
     - Hit 3
   image: https://i.imgur.com/Z9LP9Ei.jpg
+costume2:
+  bonuses: 15/15/20/5
+  class: Ranger
+  power: 733
+  attack: 840
+  defense: 602
+  health: 1328
+  skill: Postal Pulverizer
+  effects:
+    - Deals 295% damage to the target and minor damage to nearby enemies.
+    - >-
+    The caster and nearby allies’ Special Skill deal an additional +40% damage
+    for 6 turns.
+  types:
+    - Hit 3
+  image: https://i.imgur.com/cDO5QOd.jpg

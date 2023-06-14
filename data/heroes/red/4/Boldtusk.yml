@@ -30,3 +30,22 @@ costume:
     - Healer
     - Attack Buff
   image: https://i.imgur.com/ZFrdT4t.jpg
+costume2:
+  bonuses: 15/15/20/5
+  class: Cleric
+  power: 736
+  attack: 688
+  defense: 830
+  health: 1272
+  skill: War Song
+  effects:
+    - >-
+      All allies regenerate 288 boosted health over 4 turns. Boosted health can
+      exceed max HP.
+    - >-
+      All allies get +45% attack, and a further 20% increase every time they 
+      are hit during 4 turns.
+  types:
+    - Healer
+    - Attack Buff
+  image: https://i.imgur.com/T4p2FAB.jpg
