@@ -29,3 +29,18 @@ costume:
   types:
     - Hit all
   image: https://i.imgur.com/pAWbbb8.jpg
+costume2:
+  class: Ranger
+  power: 733
+  attack: 828
+  defense: 625
+  health: 1315
+  skill: Flame Storm
+  effects:
+    - Deals 285% damage to the target and nearby enemies.
+    - The target and nearby enemies get -54% defense against Fire for 6 turns.
+    - Deals extra damage against Nature.
+  types:
+    - Hit 3
+    - Elemental Defense Debuff
+  image: https://i.imgur.com/2DIxTGe.jpg

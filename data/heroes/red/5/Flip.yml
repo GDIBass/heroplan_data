@@ -1,0 +1,25 @@
+name: Flip
+class: Sorcerer
+source: beachparty
+family: BeachParty
+speed: Average
+power: 873
+attack: 834
+defense: 867
+health: 1528
+skill: To the Rescue!
+effects:
+  - Recovers 45% health for all allies.
+  - >-
+    All allies bypass defensive buffs with their attacks for 4 turns. 
+    Defensive buffs include counterattacks.
+  - All allies get +50% critical chance for 4 turns.
+types:
+  - Healer
+  - Crit Buff
+passives:
+  - Resist Water Damage. This character has innate resistance against Water Damage.
+  - >-
+    Damage over time on Special. When this character casts their Special Skill,
+    all enemies receive 200 Water damage over 2 turns.
+image: https://i.imgur.com/VLECZaD.jpg

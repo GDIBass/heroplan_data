@@ -1,0 +1,25 @@
+name: Mortimer
+class: Rogue
+source: beachparty
+family: BeachParty
+speed: Average
+power: 873
+attack: 846
+defense: 861
+health: 1507
+skill: Tidal Waves
+effects:
+  - Deals 480% damage to target and a minor damage to nearby enemies.
+  - The target and nearby enemies get silenced for 3 turns.
+  - >-
+    The caster and nearby allies resist new effects that block usage of Special 
+    Skills for 3 turns.
+types:
+  - Hit 3
+  - Silencer
+passives:
+  - Resist Water Damage. This character has innate resistance against Water Damage.
+  - >-
+    Damage over time on Special. When this character casts their Special Skill,
+    all enemies receive 202 Water damage over 2 turns.
+image: https://i.imgur.com/J2WmnG0.jpg

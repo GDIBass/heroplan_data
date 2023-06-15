@@ -1,0 +1,30 @@
+name: Ephyra
+class: Cleric
+source: untoldtales
+family: DefendersofAtlantis
+speed: Changing Tides
+power: 896
+attack: 906
+defense: 865
+health: 1514
+skill: Seabed Pirouette
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Summons a Jellyfish Minion for each ally with +32% HP and +24% attack inherited from the caster.'
+  - ' * Stack /Max 10/: All allies get +5% inherited HP for new Minions they summon.'
+  - '2nd:'
+  - ' * Replaces all Fiends on all allies with Jellyfish Minions.'
+  - ' * Summons a Jellyfish Minion for each ally with +32% HP and +24% attack inherited from the caster.'
+  - ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
+types:
+  - Summoner
+  - Stack
+  - Fiend Replacement
+passives:
+  - >-
+    'Effects on Special Skill:
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * All allies get +21% critical chance for 3 turns.'
+image: https://i.imgur.com/nL4nDAx.jpg

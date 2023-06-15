@@ -87,3 +87,18 @@ speeds:
     breakPoints:
       10: [10]
       22: [9]
+  changing_tides:
+    key: changing_tides
+    code: 9
+    shortName: CT
+    description: Changing Tides
+    tiles: 
+      - 8
+      - 18
+    breakPoints:
+      12:
+        - 8
+        - 17
+      15:
+        - 7
+        - 16

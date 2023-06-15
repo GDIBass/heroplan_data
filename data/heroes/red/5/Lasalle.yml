@@ -1,0 +1,32 @@
+name: Lasalle
+class: Fighter
+source: untoldtales
+family: DefendersofAtlantis
+speed: Changing Tides
+power: 898
+attack: 959
+defense: 815
+health: 1495
+skill: Flanking Maneuver
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Deals 400% damage to target.'
+  - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 22% attack every turn.'
+  - ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 12% of its owner’s max health.'
+  - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
+  - '2nd:'
+  - ' * Deals 450% damage to target.'
+  - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 22% attack every turn.'
+  - ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 12% of its owner’s max health.'
+  - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
+types:
+  - Hit 1
+  - Fiend
+passives:
+  - >-
+    'Effects on Special Skill:
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * All allies get +21% critical chance for 3 turns.'
+image: https://i.imgur.com/bpyUqBe.jpg
