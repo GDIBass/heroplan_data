@@ -29,7 +29,6 @@ costume:
     - Hit 1
   image: https://i.imgur.com/gwzMUaT.jpg
 costume2:
-  bonuses: 15/15/20/5
   class: Rogue
   power: 862
   attack: 802

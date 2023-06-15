@@ -33,7 +33,6 @@ costume:
     - Elemental Attack Debuff
   image: https://i.imgur.com/E1sWcp1.jpg
 costume2:
-  bonuses: 15/15/20/5
   class: Ranger
   power: 858
   attack: 825

@@ -30,7 +30,6 @@ costume:
     - Hit all
   image: https://i.imgur.com/pAWbbb8.jpg
 costume2:
-  bonuses: 15/15/20/5
   class: Ranger
   power: 733
   attack: 828

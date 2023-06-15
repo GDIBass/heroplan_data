@@ -31,7 +31,6 @@ costume:
     - Attack Buff
   image: https://i.imgur.com/ZFrdT4t.jpg
 costume2:
-  bonuses: 15/15/20/5
   class: Cleric
   power: 736
   attack: 688
