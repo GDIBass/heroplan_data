@@ -39,7 +39,7 @@ costume2:
   effects:
     - Deals 295% damage to the target and minor damage to nearby enemies.
     - >-
-    The caster and nearby allies’ Special Skill deal an additional +40% damage
+    The caster and nearby allies Special Skill deal an additional +40% damage
     for 6 turns.
   types:
     - Hit 3
