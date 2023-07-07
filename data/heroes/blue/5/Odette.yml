@@ -1,0 +1,29 @@
+name: Odette
+class: Paladin
+source: Solstice
+family: opera
+speed: Average
+power: 940
+attack: 873
+defense: 945
+health: 1753
+skill: Dance of the Swan
+effects:
+  - The caster regenerates 609 HP over 3 turns.
+  - The caster gets +45% chance to dodge Special Skills that deal damage for 3 turns.
+  - Casts Dance of the Swan to all allies but caster for 3 turns. All existing status effects will be removed when this effect is added.
+  - Dance of the Swan
+  - "* +45% chance to dodge attacks and Special Skills.
+  - "* 50% chance to deal 360 % damage to a random enemy after any subsequent allied Special Skill is cast.
+  - "* Gives immunity to new status effects.
+  - "* This effect cannot be dispelled. This effect is removed when the caster dies.
+types:
+  - Self heal
+  - Dodge Buff
+  - Status Ailment Immunity
+passives:
+  - >- 
+    Heal when status ailment expires or cleansed: This character receives 10% 
+    health each time a status ailment expires or is cleansed, removed or 
+    reallocated from them. This effect can activate only once per turn.
+image: https://i.imgur.com/ATDUydH.jpg

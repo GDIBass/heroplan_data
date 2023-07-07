@@ -21,8 +21,6 @@ effects:
     * The ally regenerates 810 HP over 3 turns.
     * The ally gets +50% defense for 3 turns.
     * The ally counterattacks with 130% of the damage received for 3 turns.
-
-
 types:
   - Attack Buff
   - Defense Buff
