@@ -1,0 +1,38 @@
+name: Haulstone
+class: Druid
+source: Covenant
+family: construct
+speed: Average
+power: 926
+attack: 760
+defense: 978
+health: 1866
+skill: Bag of Necessities
+effects:
+  - >-
+    Each ally receives buffs based on their current health:
+    Full HP:
+    * The ally gets +50% attack for 3 turns.
+    * The ally gets +30% defense for 3 turns.
+    Above or equal to 50%:
+    * The ally gets +50% defense for 3 turns.
+    * The ally gets +34% mana generation for 3 turns.
+    Bellow 50% HP:
+    * The ally regenerates 810 HP over 3 turns.
+    * The ally gets +50% defense for 3 turns.
+    * The ally counterattacks with 130% of the damage received for 3 turns.
+
+
+types:
+  - Attack Buff
+  - Defense Buff
+  - Mana Generation Buff
+  - Healer
+  - Counterattack
+passives:
+  - >- 
+    Repair Core: The Construct Core of this character is Repair Core.
+    The Repair Core activates each time this character’s Special Skill is cast:
+    * With fully charged Repair Core, boosts the health of all allies by 25%.
+    * The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated.
+image: https://i.imgur.com/nDQGLk9.jpg
