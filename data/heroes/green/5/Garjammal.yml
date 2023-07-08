@@ -1,6 +1,7 @@
 name: Garjammal
 class: Barbarian
 source: Season4
+family: Underwild
 speed: Fast
 power: 807
 attack: 791
@@ -14,10 +15,26 @@ effects:
     the caster is hit with direct damage from a special skill.
 types:
   - Hit 1
-  - Self DoT
-family: Underwild
+  - Self heal
 passives:
   - >-
     Duration of the first 3 status ailments this hero receives from Special
     Skills is decreased by 1 turn.
 image: https://i.imgur.com/kz19bRj.jpg
+costume:
+  bonuses: 8/8/13/5
+  class: Paladin
+  power: 871
+  attack: 833
+  defense: 844
+  health: 1559
+  skill: Kite of Endurance
+  effects:
+    - Deals 410% damage to the Target.
+    - >-
+      The caster regenerates 800 HP over 4 turns. The duration is reset if the 
+      caster is hit with direct damage from a special skill.
+  types:
+    - Hit 1
+    - Self heal
+  image: https://i.imgur.com/U99nNNm.jpg
