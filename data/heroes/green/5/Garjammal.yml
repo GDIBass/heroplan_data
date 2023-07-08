@@ -22,7 +22,7 @@ passives:
     Skills is decreased by 1 turn.
 image: https://i.imgur.com/kz19bRj.jpg
 costume:
-  bonuses: 8/8/13/5
+  bonuses: 5/5/10/5
   class: Paladin
   power: 871
   attack: 833
