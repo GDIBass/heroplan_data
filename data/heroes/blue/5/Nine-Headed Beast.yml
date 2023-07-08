@@ -1,0 +1,23 @@
+name: Nine-Headed Beast
+class: Druid
+speed: Slow
+source: Kingdom
+family: Journey
+power: 904
+attack: 863
+defense: 916
+health: 1575
+skill: Wrath of the Nine Beaks
+effects:
+  - 150% damage to 9 random enemies.
+  - The duration of buffs is reset for all allies.
+  - The duration of status ailments is reset for all enemies.
+  - All allies get +40% attack for 4 turns.
+  - All enemies get -40% attack for 4 turns.
+types:
+  - Hit 9
+  - Buffs duration reset
+  - Status Ailment Reset
+  - Attack Buff
+  - Attack Debuff
+image: https://i.imgur.com/8Uj8Jmv.jpg
