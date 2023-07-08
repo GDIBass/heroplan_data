@@ -1,6 +1,7 @@
 name: Alfrike
 class: Wizard
 source: Season3
+family: Svartalfheim
 speed: Very Slow
 power: 790
 attack: 659
@@ -20,5 +21,29 @@ types:
   - Hit 5
   - Health Reduction
   - Mindless Attack
-family: Svartalfheim
 image: https://i.imgur.com/O54lA6V.jpg
+
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 849
+  attack: 651
+  defense: 969
+  health: 1607
+  skill: Cavalier Hat of Dark Realm
+  effects:
+    - Deals 240% damage to hit targets.
+    - Casts 5 Dark Cubes to random enemies.
+    - >-
+      Dark Cube reduces max health from the target by 184. This effect is 
+      stronger against targets with boosted health. Max health can’t get lower
+      than 30% of the original max health. Any boosted health is reduced by an 
+      additional 184.
+    - >-
+      The target automatically casts Mindless Attack on a random ally when mana 
+      is full during 3 turns.
+  types:
+    - Hit 5
+    - Health Reduction
+    - Mindless Attack
+  image: https://i.imgur.com/2AJeAry.jpg

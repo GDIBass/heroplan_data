@@ -1,0 +1,25 @@
+name: Becky
+class: Cleric
+source: Magic
+family: Magic
+speed: Magic
+power: 907
+attack: 881
+defense: 894
+health: 1602
+skill: Wand of the Mana Control
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200% mana:'
+  - '1x Mana Charge:'
+  - ' * Deals 350% damage to the target.'
+  - ' * Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.'
+  - '2x Mana Charge:'
+  - ' * Increase the mana of all allies by 10%.'
+  - ' * For the next 5 turns, this character deals 250% damage to all enemies each time any other ally casts their Special Skill. Damage is dealt on the first Special Skill case of each character per turn.'
+types:
+  - Hit 1
+  - Mana Increase
+passives:
+  - 'Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.'
+  - 'Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%.'
+image: https://i.imgur.com/xqlrby4.jpg

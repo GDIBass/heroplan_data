@@ -1,0 +1,28 @@
+name: Jaco
+class: Sorcerer
+source: untoldtales
+family: DefendersofAtlantis
+speed: Changing Tides
+power: 486
+attack: 510
+defense: 472
+health: 792
+skill: Dubious Merchandise
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Steals 33% mana from the target, and distributes it to allies.'
+  - ' * Deals 235% damage to target and minor damage to nearby enemies.'
+  - '2nd:'
+  - ' * Steals 33% mana from the target, and distributes it to allies.'
+  - ' * Deals 310% damage to target and minor damage to nearby enemies.'
+types:
+  - Mana steal
+  - Hit 3
+passives:
+  - >-
+    'Effects on Special Skill:
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * All allies get +21% critical chance for 2 turns.'
+image: https://i.imgur.com/ne5YJve.jpg
