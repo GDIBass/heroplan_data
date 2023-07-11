@@ -4,9 +4,9 @@ speed: Slow
 family: Bard
 source: Festival
 power: 829
-attack: 791
-defense: 793
-health: 1470
+attack: 830
+defense: 832
+health: 1582
 skill: Madrigal of Mayhem
 effects:
   - Deals 550% damage to the target.

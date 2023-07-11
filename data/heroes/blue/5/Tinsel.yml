@@ -3,9 +3,9 @@ class: Wizard
 source: Christmas
 speed: Fast
 power: 836
-attack: 838
-defense: 793
-health: 1400
+attack: 852
+defense: 807
+health: 1444
 skill: Malevolent Toys
 effects:
   - Deals 340% damage to the target and nearby enemies.

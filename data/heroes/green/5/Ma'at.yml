@@ -4,9 +4,9 @@ speed: Fast
 source: Season5
 family: Sun
 power: 840
-attack: 807
-defense: 811
-health: 1474
+attack: 832
+defense: 836
+health: 1540
 skill: Bringer of Order
 effects:
   - Deals 195% damage to all enemies.

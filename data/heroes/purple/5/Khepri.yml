@@ -4,9 +4,9 @@ family: Moon
 source: Season5
 speed: Average
 power: 835
-attack: 776
-defense: 809
-health: 1520
+attack: 801
+defense: 834
+health: 1586
 skill: Scarab Bombardment
 effects:
   - Deals 275% damage to target and nearby enemies.

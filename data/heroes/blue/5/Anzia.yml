@@ -4,9 +4,9 @@ source: SuperElemental
 family: SuperElemental
 speed: Average
 power: 841
-attack: 762
-defense: 780
-health: 1654
+attack: 821
+defense: 840
+health: 1816
 skill: Radiant Comeback
 effects:
   - >-

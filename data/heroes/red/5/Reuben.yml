@@ -13,7 +13,7 @@ effects:
     All allies get -50% reduction to damage received from status effects for 4
     turns.
   - >-
-    Element Link summons a Fire Minion for all Fire allies with 5% HP and 10%
+    Element Link summons a Fire Minion for all Fire allies with 6% HP and 10%
     attack inherited from the caster.
 types:
   - Hit 3

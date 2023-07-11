@@ -4,9 +4,9 @@ speed: Slow
 source: Hotm
 family: 2023
 power: 811
-attack: 743
-defense: 760
-health: 1528
+attack: 753
+defense: 770
+health: 1555
 skill: Reckless Charge
 effects:
   - Deals 300% damage to the target and nearby enemies.

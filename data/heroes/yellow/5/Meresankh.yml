@@ -4,9 +4,9 @@ source: Season5
 family: Sun
 speed: Average
 power: 846
-attack: 747
-defense: 854
-health: 1580
+attack: 772
+defense: 879
+health: 1643
 skill: Impossible Riddle
 effects:
   - Deals 130% damage to all enemies.

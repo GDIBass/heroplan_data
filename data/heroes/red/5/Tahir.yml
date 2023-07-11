@@ -4,9 +4,9 @@ speed: Fast
 family: 2022
 source: Hotm
 power: 805
-attack: 791
-defense: 737
-health: 1411
+attack: 801
+defense: 741
+health: 1425
 skill: Hunter's Mark
 effects:
   - Deals 350% damage to the target.

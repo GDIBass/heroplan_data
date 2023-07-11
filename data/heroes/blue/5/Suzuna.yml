@@ -4,9 +4,9 @@ class: Cleric
 family: 2023
 speed: Fast
 power: 813
-attack: 791
-defense: 753
-health: 1435
+attack: 801
+defense: 764
+health: 1462
 skill: Easy-breezy Aura
 effects:
   - Cleanses status ailments from the caster and nearby allies.

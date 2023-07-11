@@ -4,9 +4,9 @@ speed: Average
 source: Covenant
 family: PlainsHunter
 power: 841
-attack: 803
-defense: 846
-health: 1417
+attack: 850
+defense: 894
+health: 1559
 skill: Liturgy of the Fallen
 effects:
   - Each fallen ally has a 40% chance to get revived with 20% HP.

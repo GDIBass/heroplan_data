@@ -4,12 +4,12 @@ speed: Very Fast
 source: SuperElemental
 family: SuperElemental
 power: 835
-attack: 824
-defense: 718
-health: 1582
+attack: 883
+defense: 778
+health: 1742
 skill: Archaic Sacred Symbol
 effects:
-  - Deals 200% damage to all enemies.
+  - Deals 175% damage to all enemies.
   - >-
     All Dark enemies get -34% accuracy for 3 turns. [Chance to miss also applies
     to offensive Special Skills.]

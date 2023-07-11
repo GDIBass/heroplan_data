@@ -4,9 +4,9 @@ class: Barbarian
 speed: Average
 family: 2022
 power: 801
-attack: 772
-defense: 743
-health: 1413
+attack: 778
+defense: 749
+health: 1425
 skill: Power of Flora
 effects:
   - The target and nearby enemies get -34% defense for 3 turns.

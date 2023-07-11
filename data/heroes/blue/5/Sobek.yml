@@ -4,9 +4,9 @@ class: Wizard
 family: Sun
 speed: Average
 power: 833
-attack: 834
-defense: 723
-health: 1532
+attack: 859
+defense: 747
+health: 1600
 skill: Jaws of the River
 effects:
   - Deals 290% damage to all enemies.

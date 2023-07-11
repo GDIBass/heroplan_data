@@ -4,9 +4,9 @@ source: Covenant
 class: Barbarian
 speed: Average
 power: 837
-attack: 770
-defense: 834
-health: 1487
+attack: 819
+defense: 883
+health: 1629
 skill: Demolishing Crush
 effects:
   - Deals 345% damage to the target and nearby enemies.

@@ -4,9 +4,9 @@ source: Ninja
 family: Ninja
 speed: Charge
 power: 841
-attack: 714
-defense: 867
-health: 1602
+attack: 739
+defense: 891
+health: 1666
 skill: Standing Fortress
 effects:
   - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'

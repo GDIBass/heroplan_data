@@ -4,16 +4,18 @@ family: Pets
 class: Monk
 speed: Average
 power: 837
-attack: 834
-defense: 776
-health: 1452
+attack: 877
+defense: 807
+health: 1559
 skill: Strike of Thousand Howls
 effects:
+  - Deals 270% damage to all enemies.
   - >-
     All allies counterattack with 80% of the damage received for 4 turns. The
-    counterattack damage increases by +20% each turn, up to 140%.
+    counterattack damage increases by +15% each turn, up to 125%.
   - All allies get +50% critical chance for 4 turns.
 types:
+  - Hit all
   - Counterattack
   - Crit Buff
 passives:

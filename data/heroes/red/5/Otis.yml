@@ -4,14 +4,14 @@ speed: Slow
 source: Covenant
 family: AbyssHunter
 power: 838
-attack: 813
-defense: 821
-health: 1421
+attack: 861
+defense: 869
+health: 1561
 skill: Dauntless Bladestorm
 effects:
   - Deals 370% damage to all enemies.
   - >-
-    All enemies receive 543 Bleed damage over 4 turns, starting low, and
+    All enemies receive 575 Bleed damage over 4 turns, starting low, and
     increasing with every turn.
   - >-
     All enemies get -70% decrease for any healing received for 4 turns. The

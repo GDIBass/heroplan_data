@@ -4,16 +4,16 @@ speed: Average
 source: Kingdom
 family: Kingdom
 power: 828
-attack: 780
-defense: 788
-health: 1497
+attack: 791
+defense: 797
+health: 1528
 skill: Command to Advance
 effects:
   - Deals 340% damage to the target and nearby enemies.
   - >-
     Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack
     inherited from the caster.
-  - The target hit by Wu Soldier Minion receives 255 Burn damage over 3 turns.
+  - The target hit by Wu Soldier Minion receives 258 Burn damage over 3 turns.
 types:
   - Hit 3
   - Summoner

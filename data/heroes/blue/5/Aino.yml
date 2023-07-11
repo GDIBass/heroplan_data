@@ -4,9 +4,9 @@ speed: Average
 family: Kalevala
 source: Kalevala
 power: 825
-attack: 778
-defense: 801
-health: 1456
+attack: 788
+defense: 811
+health: 1485
 skill: Summer Carol
 effects:
   - Cleanses status ailments from all allies.

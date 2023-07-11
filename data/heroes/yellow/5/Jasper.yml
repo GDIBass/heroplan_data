@@ -3,9 +3,9 @@ class: Cleric
 source: Springvale
 speed: Slow
 power: 843
-attack: 772
-defense: 844
-health: 1514
+attack: 797
+defense: 869
+health: 1582
 skill: Petals of Nourishment
 effects:
   - All allies regenerate 1428 HP over 6 turns.

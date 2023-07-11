@@ -4,15 +4,15 @@ source: Magic
 family: Magic
 speed: Magic
 power: 845
-attack: 842
-defense: 821
-health: 1400
+attack: 885
+defense: 865
+health: 1528
 skill: Poem of the Centaurs
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
   - ' * All enemies take +50% increased damage from status ailments for 3 turns.'
-  - ' * All enemies receive 339 Poison damage over 3 turns.'
+  - ' * All enemies receive 357 Poison damage over 3 turns.'
   - '2x Mana Charge:'
   - ' * Recovers 75% health for the caster and nearby allies.'
   - ' * The caster and nearby allies are immune to damage from status ailments for 5 turns.'

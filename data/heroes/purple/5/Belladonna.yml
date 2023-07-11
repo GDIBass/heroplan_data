@@ -4,9 +4,9 @@ family: Bard
 source: Festival
 speed: Average
 power: 841
-attack: 821
-defense: 813
-health: 1442
+attack: 859
+defense: 850
+health: 1553
 skill: Mystical Concerto
 effects:
   - Recovers 42% health for all allies.

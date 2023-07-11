@@ -26,7 +26,7 @@ costume:
   health: 1505
   skill: Roar of the Panther
   effects:
-    - Deals 285% damage to all enemies.
+    - Deals 250% damage to all enemies.
     - All enemies get -34% defense against Dark for 3 turns.
     - All enemies are immune to new status effect buffs for 3 turns.
   types:

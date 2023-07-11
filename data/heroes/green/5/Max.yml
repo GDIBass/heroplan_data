@@ -4,9 +4,9 @@ source: Pets
 class: Druid
 speed: Slow
 power: 837
-attack: 803
-defense: 821
-health: 1437
+attack: 836
+defense: 867
+health: 1540
 skill: Puppy Tales
 effects:
   - Recovers 45% health for all allies.

@@ -4,9 +4,9 @@ source: Styx
 class: Cleric
 speed: Charge
 power: 832
-attack: 715
-defense: 832
-health: 1598
+attack: 741
+defense: 856
+health: 1678
 skill: Ferry From the Beyond
 effects:
   - >-

@@ -4,9 +4,9 @@ source: Season5
 class: Wizard
 speed: Slow
 power: 841
-attack: 778
-defense: 836
-health: 1503
+attack: 803
+defense: 861
+health: 1569
 skill: Ancient Mirror
 effects:
   - Deals 400% damage to all enemies.

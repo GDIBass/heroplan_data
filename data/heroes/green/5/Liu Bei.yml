@@ -4,9 +4,9 @@ source: Kingdom
 family: Kingdom
 speed: Average
 power: 826
-attack: 805
-defense: 788
-health: 1419
+attack: 815
+defense: 799
+health: 1450
 skill: Call to Arms
 effects:
   - Deals 360% damage to the target and nearby enemies.

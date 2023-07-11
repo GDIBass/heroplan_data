@@ -4,15 +4,15 @@ speed: Slow
 source: Dynasty
 family: Moon
 power: 839
-attack: 782
-defense: 817
-health: 1514
+attack: 807
+defense: 842
+health: 1582
 skill: Legions of Darkness
 effects:
   - >-
     Summon a Dark Soldier Minion for all allies with 40% HP and 40% attack
     inherited from the caster.
-  - All enemies receive 315 Poison damage over 3 turns.
+  - All enemies receive 324 Poison damage over 3 turns.
   - >-
     If the caster is defeated in the next 3 turns, all enemies mana is reduced
     by -100%. This effect can’t be dispelled.

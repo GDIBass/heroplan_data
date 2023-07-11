@@ -4,9 +4,9 @@ source: Ninja
 family: Ninja
 speed: Charge
 power: 848
-attack: 809
-defense: 852
-health: 1444
+attack: 817
+defense: 894
+health: 1516
 skill: Resolute Spirit
 effects:
   - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'

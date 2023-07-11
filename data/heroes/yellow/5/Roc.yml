@@ -8,7 +8,7 @@ defense: 739
 health: 1361
 skill: Sand Cyclone
 effects:
-  - All enemies receive 306 Sand damage over 3 turns.
+  - All enemies receive 324 Sand damage over 3 turns.
   - >-
     All enemies get -50% decrease for any healing received for 2 turns. This
     effect can't be cleansed.
@@ -27,7 +27,7 @@ costume:
   health: 1427
   skill: Beach Party
   effects:
-    - All enemies receive 660 Sand damage over 4 turns.
+    - All enemies receive 672 Sand damage over 4 turns.
     - All enemies get -44% defense for 3 turns.
     - Dispells buffs from all enemies.
   types:

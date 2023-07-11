@@ -4,9 +4,9 @@ class: Fighter
 speed: Fast
 family: Journey
 power: 840
-attack: 824
-defense: 776
-health: 1501
+attack: 852
+defense: 805
+health: 1582
 skill: Deteriorating Morale
 effects:
   - Deals 475% damage to the target and minor damage to nearby enemies.

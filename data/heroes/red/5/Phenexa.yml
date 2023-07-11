@@ -4,9 +4,9 @@ speed: Average
 family: Bard
 source: Festival
 power: 829
-attack: 782
-defense: 813
-health: 1454
+attack: 819
+defense: 850
+health: 1567
 skill: Ballad of Restoration
 effects:
   - Recovers 42% health for all allies.

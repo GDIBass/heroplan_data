@@ -4,14 +4,14 @@ class: Paladin
 family: Musketeer
 speed: Fast
 power: 843
-attack: 834
-defense: 801
-health: 1446
+attack: 867
+defense: 834
+health: 1545
 skill: Flaming Rapier
 effects:
   - Deals 470% damage to the target.
   - >-
-    The target receives 1023 Burn damage over 3 turns. This effect spreads to
+    The target receives 1065 Burn damage over 3 turns. This effect spreads to
     nearby enemies.
   - Caster regenerates 459 HP over 3 turns
 types:

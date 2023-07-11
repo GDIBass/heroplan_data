@@ -4,9 +4,9 @@ class: Rogue
 family: 2023
 speed: Fast
 power: 808
-attack: 801
-defense: 704
-health: 1470
+attack: 809
+defense: 716
+health: 1503
 skill: Mana Scavenge
 effects:
   - Steals 50% mana from the target and distributes them on allies.

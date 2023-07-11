@@ -4,12 +4,12 @@ speed: Average
 source: Morlovia
 family: Morlovia
 power: 835
-attack: 803
-defense: 809
-health: 1446
+attack: 817
+defense: 824
+health: 1489
 skill: Muffin Poisoning
 effects:
-  - All enemies receive 324 Poison damage over 3 turns.
+  - All enemies receive 330 Poison damage over 3 turns.
   - >-
     Summons a Muffin Fiend for all enemies. The Fiend damages the enemy with 38%
     attack every turn.

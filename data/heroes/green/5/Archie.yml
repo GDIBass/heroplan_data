@@ -3,9 +3,9 @@ class: Wizard
 source: Springvale
 speed: Fast
 power: 845
-attack: 848
-defense: 805
-health: 1417
+attack: 875
+defense: 832
+health: 1474
 skill: Fabled Llama Ballad
 effects:
   - Deal 250% damage to all enemies.

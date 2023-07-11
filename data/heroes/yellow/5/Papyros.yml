@@ -4,16 +4,16 @@ class: Druid
 family: Moon
 speed: Average
 power: 833
-attack: 788
-defense: 795
-health: 1501
+attack: 813
+defense: 819
+health: 1569
 skill: Summon Sand Golems
 effects:
   - >-
     Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each
     time the Sand Golem Minion is attacked by normal attacks or Special Skills,
     the attacker gets the following status ailment:
-  - '* The target receives 285 Sand damage over 3 turns.'
+  - '* The target receives 294 Sand damage over 3 turns.'
   - All allies get +30% defense for 3 turns.
 types:
   - Summoner

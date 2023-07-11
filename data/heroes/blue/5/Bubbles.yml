@@ -4,9 +4,9 @@ source: Pets
 class: Barbarian
 speed: Fast
 power: 836
-attack: 828
-defense: 788
-health: 1437
+attack: 869
+defense: 830
+health: 1538
 skill: Spectral Visions
 effects:
   - Deals 480% damage to the target.

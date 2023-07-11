@@ -4,9 +4,9 @@ speed: Fast
 family: Bard
 source: Festival
 power: 829
-attack: 824
-defense: 768
-health: 1439
+attack: 844
+defense: 788
+health: 1491
 skill: Song of Calamity
 effects:
   - Deals 240% damage to all enemies.

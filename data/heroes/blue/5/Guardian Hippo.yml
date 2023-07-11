@@ -3,9 +3,9 @@ class: Barbarian
 source: Teltoc
 speed: Fast
 power: 841
-attack: 828
-defense: 782
-health: 1483
+attack: 850
+defense: 805
+health: 1559
 skill: Brutal Support
 effects:
   - For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. Damage is dealt on the first Special Skill cast of each character per turn.

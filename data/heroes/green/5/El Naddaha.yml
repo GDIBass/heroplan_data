@@ -4,9 +4,9 @@ class: Wizard
 family: Moon
 speed: Fast
 power: 833
-attack: 828
-defense: 772
-health: 1446
+attack: 852
+defense: 797
+health: 1514
 skill: Luring Song
 effects:
   - Deals 305% damage to the target and minor damage to nearby enemies.

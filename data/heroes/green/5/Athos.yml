@@ -4,9 +4,9 @@ class: Monk
 family: Musketeer
 speed: Very Fast
 power: 844
-attack: 846
-defense: 729
-health: 1565
+attack: 879
+defense: 762
+health: 1666
 skill: Piercing Shot
 effects:
   - Destroys all Minions from the target.

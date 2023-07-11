@@ -4,14 +4,14 @@ class: Fighter
 family: Underwild
 speed: Average
 power: 837
-attack: 819
-defense: 788
-health: 1464
+attack: 834
+defense: 803
+health: 1507
 skill: Underworld Blaze
 effects:
   - Deals 250% damage to all enemies.
   - >-
-    All enemies receive 292 Burn damage over 4 turns. The caster absorbs 15% of
+    All enemies receive 300 Burn damage over 4 turns. The caster absorbs 15% of
     dealt Burn damage as health.
   - >-
     The caster steals generated mana of all enemies over 4 turns starting low

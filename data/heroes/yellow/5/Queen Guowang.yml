@@ -4,9 +4,9 @@ class: Sorcerer
 speed: Average
 family: Journey
 power: 842
-attack: 778
-defense: 813
-health: 1555
+attack: 797
+defense: 832
+health: 1608
 skill: The Queen’s Radiance
 effects:
   - Deals 330% damage to all enemies.

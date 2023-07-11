@@ -4,9 +4,9 @@ speed: Slow
 family: Moon
 source: Season5
 power: 847
-attack: 809
-defense: 791
-health: 1557
+attack: 834
+defense: 815
+health: 1625
 skill: Disheartening Riddle
 effects:
   - Deals 415% damage to the target.

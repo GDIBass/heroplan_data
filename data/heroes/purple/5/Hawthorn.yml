@@ -4,15 +4,15 @@ speed: Average
 source: Covenant
 family: PlainsHunter
 power: 837
-attack: 770
-defense: 821
-health: 1522
+attack: 819
+defense: 873
+health: 1662
 skill: Medicinal Fumes
 effects:
   - >-
-    All allies regenerate 672 boosted health over 4 turns. Boosted health can
+    All allies regenerate 592 boosted health over 4 turns. Boosted health can
     exceed max HP.
-  - All allies receive a moderate amount of mana over 4 turns.
+  - All allies receive a small amount of mana over 4 turns.
   - All allies reflect status ailments for 4 turns.
 types:
   - Health Regen

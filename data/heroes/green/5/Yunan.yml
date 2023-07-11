@@ -9,7 +9,7 @@ health: 1437
 skill: Sand Storm
 effects:
   - Deals 161% damage to all enemies
-  - All enemies receive 339 damage over 3 turns
+  - All enemies receive 354 damage over 3 turns
   - >-
     All enemies get -50% increase for any healing received for 2 turns. This
     effect can't be cleansed
@@ -28,7 +28,7 @@ costume:
   skill: Wipeout
   effects:
     - Deals 176% damage to all enemies.
-    - All enemies receive 600 Sand damage over 5 turns.
+    - All enemies receive 610 Sand damage over 5 turns.
     - All allies get +33% mana generation for 5 turns
     - Cleanses status ailments from all allies
   types:

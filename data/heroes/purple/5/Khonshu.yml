@@ -4,9 +4,9 @@ class: Barbarian
 family: Moon
 speed: Very Fast
 power: 833
-attack: 838
-defense: 751
-health: 1464
+attack: 863
+defense: 776
+health: 1532
 skill: Midnight Strike
 effects:
   - 425% damage to the target

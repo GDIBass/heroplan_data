@@ -15,7 +15,7 @@ effects:
     The caster gets Taunt that prevents enemies from using Special Skills on the
     caster's allies for 3 turns
   - >-
-    The caster gets +44% defense, and a further 10% increase every time they are
+    The caster gets +44% defense, and a further 4% increase every time they are
     hit during 3 turns.  This effect can't be dispelled.
   - All allies get +50% attack for 3 turns
 types:

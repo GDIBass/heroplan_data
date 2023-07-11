@@ -4,13 +4,11 @@ family: Pets
 class: Cleric
 speed: Average
 power: 835
-attack: 782
-defense: 828
-health: 1462
+attack: 821
+defense: 867
+health: 1577
 skill: Bark of Protection
 effects:
-  - Cleanses status ailments from all allies.
-  - All allies share received damage with each other for 4 turns.
   - All allies reflect status ailments and negative stacks for 4 turns.
   - All allies regenerate 732 HP over 4 turns.
 types:

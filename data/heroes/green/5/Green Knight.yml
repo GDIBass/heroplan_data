@@ -4,9 +4,9 @@ source: Avalon
 family: Avalon
 speed: Average
 power: 844
-attack: 867
-defense: 801
-health: 1371
+attack: 889
+defense: 824
+health: 1444
 skill: Omen of Retribution
 effects:
   - All enemies get -24% defense for 3 turns.

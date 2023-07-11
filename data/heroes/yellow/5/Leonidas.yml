@@ -40,7 +40,7 @@ costume2:
   health: 1369
   skill: Spartan Slash
   effects:
-    - Deals 240% damage to all enemies
+    - Deals 190% damage to all enemies
     - Reduces the mana of all enemies by 10%
     - >-
       All enemies get -34% defense for 3 turns. Against Dark characters, this

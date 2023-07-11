@@ -4,9 +4,9 @@ source: Magic
 family: Magic
 speed: Magic
 power: 846
-attack: 788
-defense: 856
-health: 1472
+attack: 832
+defense: 900
+health: 1598
 skill: Levitating Lunchbox Deluxe
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'

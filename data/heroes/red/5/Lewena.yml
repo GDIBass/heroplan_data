@@ -9,7 +9,7 @@ health: 1400
 skill: Impeding Bolts
 effects:
   - Blocks Talent Skill activation for all enemies for 6 turns.
-  - Deals 260% damage to all enemies.
+  - Deals 250% damage to all enemies.
 types:
   - Talent Silence
   - Hit All
