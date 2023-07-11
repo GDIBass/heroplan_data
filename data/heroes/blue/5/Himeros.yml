@@ -4,9 +4,9 @@ source: love
 family: Cupid
 speed: Very Fast
 power: 841
-attack: 846
-defense: 786
-health: 1433
+attack: 865
+defense: 805
+health: 1491
 skill: Grips of Longing
 effects:
   - Dispels buffs from the target.

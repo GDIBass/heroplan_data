@@ -4,14 +4,14 @@ source: Pets
 class: Paladin
 speed: Average
 power: 836
-attack: 809
-defense: 821
-health: 1421
+attack: 850
+defense: 863
+health: 1520
 skill: Slice and Dice
 effects:
   - Deals 330% damage to the target and nearby enemies.
   - Heals each ally with 40% of the total damage dealt.
-  - The target and nearby enemies receive 352 Bleed damage over 4 turns.
+  - The target and nearby enemies receive 368 Bleed damage over 4 turns.
 types:
   - Hit 3
   - Heal

@@ -4,9 +4,9 @@ source: Gargoyle
 family: Gargoyle
 speed: Slow
 power: 826
-attack: 809
-defense: 786
-health: 1417
+attack: 824
+defense: 801
+health: 1458
 skill: Revengeful Smite
 effects:
   - Deals 325% damage to all enemies.

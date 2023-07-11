@@ -4,15 +4,15 @@ speed: Average
 family: Moon
 source: Season5
 power: 845
-attack: 791
-defense: 826
-health: 1520
+attack: 815
+defense: 850
+health: 1586
 skill: Mark of Anubis
 effects:
   - >-
     Inflicts the target with Greed for 3 turns. The enemies with Greed prevent 
     other enemies from receiving friendly effects of their allies Special Skills.
-  - All enemies receive 486 Poison damage over 3 turns.
+  - All enemies receive 501 Poison damage over 3 turns.
   - All enemies get -34% defense for 3 turns.
 types:
   - Hit 1

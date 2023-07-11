@@ -4,9 +4,9 @@ speed: Average
 family: Kalevala
 source: Kalevala
 power: 825
-attack: 805
-defense: 780
-health: 1430
+attack: 815
+defense: 791
+health: 1458
 skill: Heirloom Dagger
 effects:
   - Deal 300% damage to the target.

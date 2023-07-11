@@ -13,7 +13,7 @@ effects:
     Lifts all cleansable status ailments that affect attack or defense from all
     allies and randomly distributes them on enemies.
   - >-
-    Element Link summons a Nature Minion for all Nature allies with 5% HP and
+    Element Link summons a Nature Minion for all Nature allies with 6% HP and
     10% attack inherited from the caster.
 types:
   - Hit All

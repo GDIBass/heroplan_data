@@ -4,9 +4,9 @@ speed: Fast
 source: hotm
 family: 2022
 power: 799
-attack: 784
-defense: 747
-health: 1365
+attack: 788
+defense: 751
+health: 1378
 skill: Erase Strength
 effects:
   - Deals 325% damage to the target and minor damage to the nearby enemies.

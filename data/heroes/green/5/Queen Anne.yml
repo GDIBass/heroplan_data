@@ -4,9 +4,9 @@ class: Cleric
 family: Musketeer
 speed: Slow
 power: 842
-attack: 708
-defense: 889
-health: 1580
+attack: 741
+defense: 922
+health: 1676
 skill: The Queen's Speech
 effects:
   - >-

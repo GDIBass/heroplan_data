@@ -4,14 +4,14 @@ speed: Slow
 source: Covenant
 family: PlainsHunter
 power: 835
-attack: 788
-defense: 828
-health: 1452
+attack: 836
+defense: 875
+health: 1594
 skill: Wild Cleave
 effects:
   - Deals 325% damage to all enemies.
   - >-
-    All enemies receive 448 Bleed damage over 4 turns. Against Dark characters,
+    All enemies receive 364 Bleed damage over 4 turns. Against Dark characters,
     this status effect becomes uncleansable and lasts 2 turns longer.
   - >-
     All enemies get -75% decrease for any healing for 4 turns. Against Dark

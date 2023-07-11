@@ -4,9 +4,9 @@ class: Rogue
 family: Kingdom
 speed: Slow
 power: 827
-attack: 788
-defense: 803
-health: 1439
+attack: 799
+defense: 813
+health: 1468
 skill: Order to Overwhelm
 effects:
   - Deals 330% damage to all enemies.

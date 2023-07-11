@@ -4,9 +4,9 @@ source: Blackfriday
 family: Gargoyle
 speed: Fast
 power: 826
-attack: 842
-defense: 725
-health: 1458
+attack: 856
+defense: 739
+health: 1501
 skill: Educated Exorcism
 effects:
   - Deals 490% damage to the target.

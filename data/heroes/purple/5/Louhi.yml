@@ -4,9 +4,9 @@ speed: Average
 family: Kalevala
 source: Kalevala
 power: 827
-attack: 815
-defense: 774
-health: 1430
+attack: 826
+defense: 784
+health: 1458
 skill: Feather Tempest
 effects:
   - Dispels buffs from all enemies.

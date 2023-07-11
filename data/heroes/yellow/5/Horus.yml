@@ -3,9 +3,9 @@ source: Season5
 class: Barbarian
 family: Sun
 power: 834
-attack: 799
-defense: 770
-health: 1532
+attack: 824
+defense: 795
+health: 1598
 speed: Very Fast
 skill: Unrelenting Hunter
 effects:

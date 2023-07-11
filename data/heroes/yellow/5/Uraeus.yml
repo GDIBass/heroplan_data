@@ -12,7 +12,7 @@ effects:
   - Damage bypasses target's Minions.
   - All enemies who own a Minion or a fiend receive 315 Sand damage over 3 turns
   - >-
-    Element Link summons a Holy Minion for all Holy allies with 5% HP and 10%
+    Element Link summons a Holy Minion for all Holy allies with 6% HP and 10%
     attack inherited from the caster
 types:
   - Hit 1

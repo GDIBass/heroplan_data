@@ -4,9 +4,9 @@ source: Styx
 family: Styx
 speed: Charge
 power: 836
-attack: 791
-defense: 828
-health: 1448
+attack: 815
+defense: 852
+health: 1522
 skill: Delay the Inevitable
 effects:
   - '1x Mana Charge:'

@@ -4,9 +4,9 @@ speed: Fast
 family: Kalevala
 source: Kalevala
 power: 827
-attack: 788
-defense: 797
-health: 1452
+attack: 799
+defense: 807
+health: 1481
 skill: Song of the Morass
 effects:
   - Deals 270% damage to the target and nearby enemies.

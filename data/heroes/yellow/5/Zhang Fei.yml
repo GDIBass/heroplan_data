@@ -4,9 +4,9 @@ class: Fighter
 speed: Fast
 family: Kingdom
 power: 825
-attack: 848
-defense: 749
-health: 1388
+attack: 856
+defense: 758
+health: 1417
 skill: Viper Blade
 effects:
   - Deals 530% damage to the target

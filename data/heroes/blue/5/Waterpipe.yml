@@ -4,9 +4,9 @@ source: Covenant
 class: Fighter
 speed: Average
 power: 837
-attack: 815
-defense: 774
-health: 1503
+attack: 863
+defense: 821
+health: 1645
 skill: Harpoon Sentry
 effects:
   - >-

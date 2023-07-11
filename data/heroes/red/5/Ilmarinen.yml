@@ -4,9 +4,9 @@ speed: Slow
 family: Kalevala
 source: Kalevala
 power: 825
-attack: 756
-defense: 819
-health: 1472
+attack: 766
+defense: 830
+health: 1503
 skill: Forged in Fire
 effects:
   - >-

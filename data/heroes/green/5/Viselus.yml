@@ -4,9 +4,9 @@ speed: Average
 source: Hotm
 family: 2023
 power: 810
-attack: 708
-defense: 817
-health: 1495
+attack: 716
+defense: 826
+health: 1524
 skill: Withering Seasons
 effects:
   - Destroys all Minions from the target and nearby enemies.

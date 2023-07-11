@@ -4,9 +4,9 @@ speed: Average
 source: Kalevala
 family: AbyssHunter
 power: 848
-attack: 846
-defense: 819
-health: 1417
+attack: 894
+defense: 867
+health: 1553
 skill: Icebound Ritual
 effects:
   - >-

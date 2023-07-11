@@ -4,9 +4,9 @@ source: Gargoyle
 family: Gargoyle
 speed: Average
 power: 826
-attack: 762
-defense: 815
-health: 1474
+attack: 776
+defense: 830
+health: 1518
 skill: Possessor of Penance
 effects:
   - Replaces all Fiends on all allies with Gargoyle Minions.

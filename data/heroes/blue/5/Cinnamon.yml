@@ -4,13 +4,13 @@ source: Pets
 class: Paladin
 speed: Average
 power: 838
-attack: 801
-defense: 811
-health: 1472
+attack: 840
+defense: 850
+health: 1580
 skill: Frozen Wind
 effects:
   - Deals 225% damage to all enemies.
-  - All enemies receive 496 Frost damage over 4 turns.
+  - All enemies receive 524 Frost damage over 4 turns.
   - All enemies get -54% defense against Ice for 4 turns.
 types:
   - Hit All

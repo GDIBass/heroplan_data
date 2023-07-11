@@ -4,9 +4,9 @@ source: Gargoyle
 family: Gargoyle
 speed: Average
 power: 835
-attack: 813
-defense: 799
-health: 1444
+attack: 828
+defense: 813
+health: 1487
 skill: Cry for Absolution
 effects:
   - Deals 330% damage to all enemies.

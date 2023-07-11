@@ -4,9 +4,9 @@ class: Barbarian
 speed: Slow
 family: Kingdom
 power: 825
-attack: 778
-defense: 791
-health: 1479
+attack: 788
+defense: 801
+health: 1505
 skill: Disrupting Charge
 effects:
   - Deals 330% damage to all enemies.

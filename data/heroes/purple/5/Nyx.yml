@@ -4,9 +4,9 @@ family: Styx
 speed: Charge
 source: Styx
 power: 829
-attack: 795
-defense: 801
-health: 1444
+attack: 819
+defense: 826
+health: 1514
 skill: Night Falls
 effects:
   - >-

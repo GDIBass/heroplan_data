@@ -4,9 +4,9 @@ speed: Fast
 source: Gargoyle
 family: Gargoyle
 power: 826
-attack: 791
-defense: 786
-health: 1458
+attack: 805
+defense: 801
+health: 1501
 skill: Possessor of Penance
 effects:
   - Deals 450% damage to the target.

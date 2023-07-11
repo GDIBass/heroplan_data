@@ -4,9 +4,9 @@ speed: Fast
 source: Covenant
 family: PlainsHunter
 power: 838
-attack: 831
-defense: 811
-health: 1472
+attack: 852
+defense: 863
+health: 1600
 skill: Bone Ritual
 effects:
   - Deals 100% damage to all enemies.
@@ -16,7 +16,7 @@ effects:
     of 93%.
   - >-
     The Bone Trap Fiend absorbs healing and disappears when it has absorbed
-    health equal to 35% of its owner’s max health.
+    health equal to 19% of its owner’s max health.
   - >-
     All enemies get -32% attack, and a further -5% decrease every time they are
     hit during 4 turns.

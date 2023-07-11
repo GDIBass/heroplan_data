@@ -4,14 +4,14 @@ speed: Fast
 family: Kalevala
 source: Kalevala
 power: 826
-attack: 801
-defense: 780
-health: 1448
+attack: 811
+defense: 791
+health: 1474
 skill: Dreaded Waters
 effects:
   - Deals 280% damage to the target and nearby enemies.
   - >-
-    The target and nearby enemies receive 240 Water damage over 3 turns. Against
+    The target and nearby enemies receive 243 Water damage over 3 turns. Against
     Fire characters, this status effect becomes uncleansable and lasts 2 turns
     longer.
   - >-

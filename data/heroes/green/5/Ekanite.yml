@@ -4,19 +4,19 @@ source: Ninja
 family: Ninja
 speed: Charge
 power: 841
-attack: 828
-defense: 780
-health: 1491
+attack: 850
+defense: 803
+health: 1563
 skill: Order Ambush
 effects:
   - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
   - 'x1 Mana Charge:'
-  - ' - Deals 200% damage to all enemies.'
-  - ' - Summons a Shinobi Minion for each ally with 8% HP and 10% attack inherited from the caster.'
+  - ' - Deals 175% damage to all enemies.'
+  - ' - Summons a Shinobi Minion for each ally with 6% HP and 10% attack inherited from the caster.'
   - ' - Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled.'
   - 'x2 Mana Charge:'
   - ' - Deals 280% damage to all enemies.'
-  - ' - Summons a Shinobi Minion for each ally with 16% HP and 16% attack inherited from the caster.'
+  - ' - Summons a Shinobi Minion for each ally with 11% HP and 16% attack inherited from the caster.'
   - ' - Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled.'
   - 'x3 Mana Charge:'
   - ' - Deals 360% damage to all enemies.'

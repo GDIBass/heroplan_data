@@ -4,9 +4,9 @@ speed: Average
 source: SuperElemental
 family: SuperElemental
 power: 840
-attack: 784
-defense: 795
-health: 1563
+attack: 844
+defense: 854
+health: 1724
 skill: Staff of Mana Control
 effects:
   - Deals 450% damage to target and all Ice enemies.

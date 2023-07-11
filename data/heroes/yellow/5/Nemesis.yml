@@ -4,9 +4,9 @@ speed: Charge
 family: Styx
 source: Styx
 power: 832
-attack: 852
-defense: 758
-health: 1406
+attack: 877
+defense: 782
+health: 1479
 skill: Day of Reckoning
 effects:
   - >-

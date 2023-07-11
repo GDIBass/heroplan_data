@@ -4,9 +4,9 @@ speed: Slow
 source: Hotm
 family: 2022
 power: 807
-attack: 729
-defense: 793
-health: 1470
+attack: 733
+defense: 797
+health: 1483
 skill: Sacrament of Salvation
 effects:
   - >-

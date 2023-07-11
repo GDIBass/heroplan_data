@@ -1,9 +1,9 @@
 name: Ebba
 class: Monk
 power: 837
-attack: 799
-defense: 807
-health: 1479
+attack: 848
+defense: 856
+health: 1617
 family: PlainsHunter
 source: Covenant
 speed: Slow

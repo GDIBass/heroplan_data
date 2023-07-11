@@ -4,9 +4,9 @@ class: Sorcerer
 speed: Slow
 family: Kingdom
 power: 825
-attack: 700
-defense: 869
-health: 1516
+attack: 710
+defense: 879
+health: 1545
 skill: Martial Masterstroke
 effects:
   - >-

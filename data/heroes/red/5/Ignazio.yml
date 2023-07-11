@@ -4,14 +4,14 @@ speed: Fast
 source: SuperElemental
 family: SuperElemental
 power: 843
-attack: 784
-defense: 817
-health: 1540
+attack: 842
+defense: 879
+health: 1715
 skill: Purifying Flame
 effects:
   - Recovers 25% health for all allies.
   - >-
-    Recovers additional 3% health per each Fire shield on the board, up to 55% 
+    Recovers additional 2% health per each Fire shield on the board, up to 45% 
     health in total.
   - All allies get +50% attack for 4 turns.
   - Cleanses status ailments from all allies

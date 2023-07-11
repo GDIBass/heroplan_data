@@ -4,14 +4,14 @@ class: Sorcerer
 family: 2022
 speed: Slow
 power: 804
-attack: 762
-defense: 768
-health: 1411
+attack: 766
+defense: 772
+health: 1427
 skill: Hailstorm
 effects:
   - Deals 240% damage to all enemies
   - >-
-    All enemies receive 205 Water damage over 5 turns. The caster absorbs 25% of
+    All enemies receive 210 Water damage over 5 turns. The caster absorbs 25% of
     dealt Water damage as health.
   - >-
     Element Link gives all ice allies +10% defense for 4 turns. This effect

@@ -4,12 +4,12 @@ source: Season5
 family: Sun
 speed: Slow
 power: 833
-attack: 795
-defense: 776
-health: 1520
+attack: 819
+defense: 801
+health: 1588
 skill: Perplexing Riddle
 effects:
-  - Deals 450% damage to the target.
+  - Deals 415% damage to the target.
   - The attack chains through all the enemies who are adjacent to any hit enemy.
   - >-
     The target gets -41% defense against Fire, and further -4% decrease every

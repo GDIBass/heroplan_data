@@ -4,9 +4,9 @@ class: Druid
 family: Sun
 speed: Average
 power: 836
-attack: 768
-defense: 834
-health: 1497
+attack: 793
+defense: 859
+health: 1563
 skill: Divine Reflection
 effects:
   - >-

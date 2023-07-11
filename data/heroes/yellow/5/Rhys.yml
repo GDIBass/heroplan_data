@@ -4,9 +4,9 @@ speed: Fast
 family: Bard
 source: Festival
 power: 829
-attack: 826
-defense: 786
-health: 1398
+attack: 844
+defense: 805
+health: 1454
 skill: Hymn of Enrichment
 effects:
   - Boost health of all allies by 320. Boosted health can exceed max HP.

@@ -14,7 +14,7 @@ effects:
     for 4 turns
   - Cleanses status ailements from all allies
   - >-
-    Element Link summons an Ice Minion for all Ice allies with 5% HP and 10%
+    Element Link summons an Ice Minion for all Ice allies with 6% HP and 10%
     attack inherited from the caster.
 types:
   - Hit 3

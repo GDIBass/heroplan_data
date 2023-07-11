@@ -4,14 +4,14 @@ source: Magic
 family: Magic
 speed: Magic
 power: 845
-attack: 824
-defense: 865
-health: 1359
+attack: 867
+defense: 908
+health: 1487
 skill: Blazing Slam Dunk
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
-  - ' * All enemies receive 402 Burn damage over 3 turns.'
+  - ' * All enemies receive 423 Burn damage over 3 turns.'
   - ' * All enemies get -34% defense against Fire for 3 turns.'
   - ' * Dispels buffs from all enemies.'
   - '2x Mana Charge:'

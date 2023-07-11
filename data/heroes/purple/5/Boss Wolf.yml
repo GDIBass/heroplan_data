@@ -9,13 +9,9 @@ defense: 826
 health: 1524
 skill: Unstoppable Growl
 effects:
-  - >-
-    The caster and nearby allies get +24% mana generation for 4 turns. This
-    effect can't be dispelled.
+  - All allies get +24% mana generation for 4 turns. This effect can't be dispelled.
   - All enemies get -34% mana generation for 4 turns.
-  - >-
-    The caster and nearby allies counterattack with 115% of the damage received
-    for 4 turns.
+  - All allies counterattack with 115% of the damage received for 4 turns.
 types:
   - Mana Generation Buff
   - Mana Generation Debuff

@@ -4,9 +4,9 @@ class: Paladin
 speed: Average
 family: Kingdom
 power: 825
-attack: 815
-defense: 764
-health: 1435
+attack: 826
+defense: 774
+health: 1464
 skill: Green Dragon Crescent Blade
 effects:
   - Deals 390% damage to the target and nearby enemies.

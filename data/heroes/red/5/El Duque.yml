@@ -4,9 +4,9 @@ source: Gargoyle
 family: Gargoyle
 speed: Very Fast
 power: 826
-attack: 817
-defense: 766
-health: 1437
+attack: 832
+defense: 780
+health: 1481
 skill: Fists of Atonement
 effects:
   - Deals 355% damage to the target and minor damage to nearby enemies.

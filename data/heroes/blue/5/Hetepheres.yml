@@ -4,9 +4,9 @@ source: Season5
 family: Sun
 speed: Average
 power: 844
-attack: 743
-defense: 861
-health: 1563
+attack: 768
+defense: 883
+health: 1629
 skill: Bewildering Riddle
 effects:
   - Recovers 50% health for all allies.

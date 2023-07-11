@@ -4,19 +4,18 @@ source: Blackfriday
 class: Rogue
 speed: Fast
 power: 838
-attack: 784
-defense: 821
-health: 1493
+attack: 819
+defense: 856
+health: 1584
 skill: Bad Fortune
 effects:
-  - Dispels buffs from all enemies.
   - Deals 230% damage to all enemies.
   - >-
     Summons a Corrupted Mask Fiend to all enemies. The Fiend damages the enemies
     with 55% attack every turn.
   - >-
     The Corrupted Mask Fiend absorbs healing. It disappears after absorbing a
-    healing amount equal to 33% of its target’s max health.
+    healing amount equal to 19% of its target’s max health.
   - >-
     The Corrupted Mask Fiend gives -54% attack for its owner for as long as the
     owner has Corrupted Mask Fiends. This effect can’t be cleansed.

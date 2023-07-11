@@ -4,9 +4,9 @@ speed: Very Slow
 source: SuperElemental
 family: SuperElemental
 power: 835
-attack: 756
-defense: 819
-health: 1549
+attack: 815
+defense: 879
+health: 1711
 skill: Unwavering Devotion
 effects:
   - Deals 210% damage to all enemies.

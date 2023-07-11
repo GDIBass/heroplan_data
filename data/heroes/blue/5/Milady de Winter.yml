@@ -4,9 +4,9 @@ class: Wizard
 family: Musketeer
 speed: Slow
 power: 846
-attack: 813
-defense: 807
-health: 1509
+attack: 832
+defense: 826
+health: 1563
 skill: Sword Dance
 effects:
   - Deals 385% damage to all enemies.

@@ -4,9 +4,9 @@ speed: Fast
 source: Covenant
 family: JungleHunter
 power: 843
-attack: 865
-defense: 795
-health: 1380
+attack: 912
+defense: 842
+health: 1522
 skill: Fury of the Silverback
 effects:
   - Deals 540% damage to the target.

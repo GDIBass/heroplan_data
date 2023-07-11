@@ -3,9 +3,9 @@ class: Druid
 source: Christmas
 speed: Slow
 power: 836
-attack: 778
-defense: 832
-health: 1472
+attack: 793
+defense: 846
+health: 1516
 skill: Wisdom of the Gnomes
 effects:
   - Cleanses status ailments from all allies.

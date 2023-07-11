@@ -9,7 +9,7 @@ health: 1367
 skill: Sand Storm
 effects:
   - Deals 185% damage to the target and nearby enemies
-  - The target and nearby enemies receive 402 damage over 3 turns
+  - The target and nearby enemies receive 423 damage over 3 turns
   - >-
     The target and nearby enemies get -75% increase for any healing received for
     2 turns. This effect can't be cleansed
@@ -27,7 +27,7 @@ costume:
   skill: Surf's Up
   effects:
     - Deals 185% damage to the target and nearby enemies.
-    - The target and nearby enemies receive 584 Water damage over 4 turns
+    - The target and nearby enemies receive 596 Water damage over 4 turns
     - >-
       The target and nearby enemies get -75% decrease for any healing received
       for 4 turns. This effect can't be cleansed.

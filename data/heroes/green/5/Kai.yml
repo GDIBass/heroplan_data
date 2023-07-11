@@ -2,9 +2,9 @@ name: Kai
 class: Rogue
 speed: Very Fast
 power: 838
-attack: 840
-defense: 782
-health: 1429
+attack: 889
+defense: 832
+health: 1569
 skill: Mantis Strike
 family: PlainsHunter
 source: Covenant

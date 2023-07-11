@@ -4,9 +4,9 @@ speed: Very Fast
 family: Morlovia
 source: Morlovia
 power: 836
-attack: 838
-defense: 788
-health: 1411
+attack: 852
+defense: 803
+health: 1454
 skill: Vampiric Curse
 effects:
   - Destroys all Minions from the target and nearby enemies.

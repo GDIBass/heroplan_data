@@ -4,9 +4,9 @@ source: lunaryear
 family: lunaryear
 speed: Average
 power: 842
-attack: 834
-defense: 799
-health: 1439
+attack: 854
+defense: 819
+health: 1497
 skill: Reverse Recovery
 effects:
   - Deals 655% damage to the target.

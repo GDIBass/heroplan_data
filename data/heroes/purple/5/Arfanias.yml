@@ -4,9 +4,9 @@ family: 2022
 source: Hotm
 speed: Fast
 power: 803
-attack: 782
-defense: 747
-health: 1396
+attack: 786
+defense: 751
+health: 1413
 skill: Dagger of Shadows
 effects:
   - Deals 360% damage to the target.

@@ -4,9 +4,9 @@ speed: Fast
 family: Moon
 source: Season5
 power: 837
-attack: 784
-defense: 817
-health: 1495
+attack: 809
+defense: 842
+health: 1561
 skill: Quick and Nimble
 effects:
   - Deals 220% damage to all enemies.

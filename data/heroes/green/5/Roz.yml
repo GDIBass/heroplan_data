@@ -4,9 +4,9 @@ speed: Fast
 source: SuperElemental
 family: SuperElemental
 power: 840
-attack: 813
-defense: 782
-health: 1514
+attack: 873
+defense: 842
+health: 1676
 skill: Elemental Infusion Arrow
 effects:
   - Deals 500% damage to the target.

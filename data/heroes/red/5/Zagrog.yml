@@ -4,9 +4,9 @@ family: 2022
 source: Hotm
 speed: Average
 power: 800
-attack: 772
-defense: 751
-health: 1394
+attack: 776
+defense: 756
+health: 1406
 skill: Indifferent Blade
 effects:
   - Deals 430% damage to the target and minor damage to nearby enemies.

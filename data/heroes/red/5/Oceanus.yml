@@ -4,9 +4,9 @@ speed: Average
 family: Atlantis
 source: Season2
 power: 825
-attack: 873
-defense: 725
-health: 1371
+attack: 883
+defense: 735
+health: 1398
 skill: Strength of the Behemoth
 effects:
   - Deals 220% damage to all enemies.

@@ -4,9 +4,9 @@ source: Blackfriday
 family: Gargoyle
 speed: Average
 power: 826
-attack: 817
-defense: 747
-health: 1472
+attack: 832
+defense: 762
+health: 1516
 skill: Radiant Rapid-Fire
 effects:
   - Deals 245% damage to all enemies.

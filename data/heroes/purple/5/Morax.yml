@@ -4,9 +4,9 @@ speed: Average
 family: 2022
 source: Hotm
 power: 807
-attack: 764
-defense: 766
-health: 1431
+attack: 768
+defense: 770
+health: 1448
 skill: Scythe of Sorceries
 effects:
   - Deals 400% damage to the target and minor damage to nearby enemies.

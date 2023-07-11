@@ -4,9 +4,9 @@ speed: Charge
 source: Styx
 family: Styx
 power: 832
-attack: 807
-defense: 793
-health: 1450
+attack: 832
+defense: 817
+health: 1520
 skill: Dark Orb
 effects:
   - >-

@@ -27,7 +27,7 @@ costume:
   health: 1328
   skill: Crush of Malice
   effects:
-    - Deals 300% damage to all enemies.
+    - Deals 250% damage to all enemies.
     - >-
       The caster steals generated mana of all enemies over 4 turns starting low
       and increasing every turn until on the last turn all generated mana is

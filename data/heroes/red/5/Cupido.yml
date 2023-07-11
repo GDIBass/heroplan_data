@@ -4,9 +4,9 @@ source: love
 family: Cupid
 speed: Average
 power: 842
-attack: 826
-defense: 788
-health: 1487
+attack: 844
+defense: 805
+health: 1545
 skill: Love Conquers All
 effects:
   - Deals 295% damage to the target and nearby enemies.

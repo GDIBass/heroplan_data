@@ -4,9 +4,9 @@ class: Sorcerer
 speed: Fast
 family: Kingdom
 power: 825
-attack: 797
-defense: 788
-health: 1437
+attack: 805
+defense: 797
+health: 1466
 skill: Lady's Charm
 effects:
   - Recover 35% health for all allies.

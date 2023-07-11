@@ -4,9 +4,9 @@ source: love
 family: Cupid
 speed: Slow
 power: 841
-attack: 803
-defense: 788
-health: 1534
+attack: 824
+defense: 809
+health: 1580
 skill: Potions of Covetous Desire
 effects:
   - Deals 360% damage to all enemies.
