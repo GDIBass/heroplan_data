@@ -1,0 +1,9 @@
+key: maskedgod
+code: 81
+description: Masked God
+image: https://i.imgur.com/9FcarGw.png
+bonus:
+  - "Masked God characters summon a Mask Minion for themselves at the start of the battle. The more Masked God characters there are in the same team, the better the Mask minion is."
+  - "1 family member: This character summons a Mask Minion with 8% health and 8% attack inherited from the character."
+  - "Additional skill with 2 family members: When summoned, the Mask Minion gives its owner +7% attack while the owner has a Mask Minion. This effect can’t be dispelled."
+  - "Additional skill with 3 family members: When summoned, the Mask Minion gives its ower immunity to all status ailments while the owner has a Mask Minion. This effect can’t be dispelled."
