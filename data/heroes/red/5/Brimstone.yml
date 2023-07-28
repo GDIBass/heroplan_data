@@ -1,0 +1,34 @@
+name: Brimstone
+class: Barbarian
+source: Covenant
+family: construct
+speed: Average
+power: 943
+attack: 929
+defense: 894
+health: 1734
+skill: Infernal Flames
+effects:
+  - Deals 200% damage to all enemies.
+  - >-
+    Summons an Infernal Fiend for all enemies. The Fiend damage its target 
+    with 80% attack every turn.
+  - >-
+    The Infernal Fiend absorbs healing. It disappears after absorbing a healing 
+    amount equal to 35% of its target max health.
+  - >-
+    When summoned. the Infernal Fiend give -54% defense againt Fire for its target 
+    for as long as the target has Infernal Fiends. This effect can’t be cleansed.
+  - All allies get +86% damage against Ice for 3 turns.
+types:
+  - Hit All  
+  - Fiend
+  - Elemental Defense Buff
+passives:
+  - >- 
+    Destructive Core. The Construct Core of this character is Destructive Core.
+    The Destructive Core activates each time this character’s Special Skill is cast
+    * With fully charged Destructive Core, deals 180% damage to all enemies.
+    * The damage is scaled by the amount of charge in the Core, All charge is 
+      exchausted when the Core is activated.
+image: https://i.imgur.com/HWR83YI.jpg
