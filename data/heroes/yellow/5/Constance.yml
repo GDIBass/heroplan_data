@@ -1,0 +1,24 @@
+name: Constance
+source: Musketeer
+family: Musketeer
+class: Rogue
+speed: Fast
+power: 929
+attack: 871
+defense: 906
+health: 1759
+skill: Sword Dance
+effects:
+  - Deals 230% damage to all enemies.
+  - >-
+    All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge
+    damage the attacker for 100 damage.
+types:
+  - Hit All
+passives:
+  - >-
+    Damage on Special Skill and Cover Damage.
+    When this character receives damage from Special Skills or in place of a
+    character in Cover, there’s a 60% chance of deal 20% of the received damage
+    on all enemies.
+image: https://i.imgur.com/MWL4e5h.jpg
