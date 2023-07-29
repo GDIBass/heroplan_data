@@ -5,17 +5,17 @@ family: DefendersofAtlantis
 speed: Changing Tides
 power: 896
 attack: 906
-defense: 865
-health: 1514
+defense: 920
+health: 1674
 skill: Seabed Pirouette
 effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'
-  - ' * Summons a Jellyfish Minion for each ally with +32% HP and +24% attack inherited from the caster.'
+  - ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.'
   - ' * Stack /Max 10/: All allies get +5% inherited HP for new Minions they summon.'
   - '2nd:'
   - ' * Replaces all Fiends on all allies with Jellyfish Minions.'
-  - ' * Summons a Jellyfish Minion for each ally with +32% HP and +24% attack inherited from the caster.'
+  - ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.'
   - ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
 types:
   - Summoner
