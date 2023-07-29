@@ -8,8 +8,8 @@ defense: 793
 health: 1279
 skill: Flaming Grudge
 effects:
-  - Deals 215% damage to all enemies
-  - Heals each ally with 20% of total damage dealt
+  - Deals 250% damage to all enemies
+  - Heals each ally with 30% of total damage dealt
   - >-
     Element Link gives all Fire allies +46% defense against Ice for 4 turns.
     This effect can't be cleansed
