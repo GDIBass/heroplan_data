@@ -1,6 +1,7 @@
 name: Salmon Loki
 class: Druid
 source: Season3
+family: Niflheim
 speed: Average
 power: 788
 attack: 745
@@ -17,5 +18,22 @@ effects:
 types:
   - Hit Some
   - Weird
-family: Niflheim
 image: https://i.imgur.com/fVTl018.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 846
+  attack: 797
+  defense: 846
+  health: 1467
+  skill: Gentleman’s Tranformation
+  effects:
+    - Deals 300% damage to all holy Enemies
+    - >-
+      For 4 turns, the element of all enemies is changed each turn. 
+      On the first 3 turns, the element is random.
+    - On the last turn, enemies revert to their original element.
+    - After each element change, enemies take 679 damage if their element is Holy.
+  types:
+    - Hit Some
+  image: https://i.imgur.com/mbPRCrB.jpg
