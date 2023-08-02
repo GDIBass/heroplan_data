@@ -1,0 +1,31 @@
+name: Ultrox
+class: Cleric
+source: untoldtales
+family: NightmaresofAtlantis
+speed: Changing Tides
+power: 943
+attack: 978
+defense: 879
+health: 1643
+skill: Sinister Enlace
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Deals 27% damage per each Dark shield on the board to all enemies, up to 270% damage in total.'
+  - ' * The caster and nearby allies counterattack with 80% of the damage received for 3 turns.'
+  - ' * The caster and nearby allies reduce all received damage by -35% for 3 turns.'
+  - '2nd:'
+  - ' * Deals 33% damage per each Dark shield on the board to all enemies, up to 330% damage in total.'
+  - ' * The caster and nearby allies counterattack with 120% of the damage received for 4 turns.'
+  - ' * The caster and nearby allies reduce all received damage by -45% for 4 turns.'
+types:
+  - Hit All
+  - Counterattack
+  - Damage reduction
+passives:
+  - >-
+    'Effects on Special Skill:
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * The caster gets +19% mana generation for 2 turns.'
+image: https://i.imgur.com/7xKKQnM.jpg
