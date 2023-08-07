@@ -1,0 +1,30 @@
+name: Ukkonen
+class: Fighter
+speed: Average
+family: Kalevala
+source: Kalevala
+power: 917
+attack: 846
+defense: 935
+health: 1674
+skill: Chords of Distortion
+effects:
+  - Deals 230% damage to all enemies.
+  - >-
+    All enemies get -40% attack for 3 turns. Against Ice characters, this status
+    effect becomes uncleansable and lasts 2 turns longer.
+  - >-
+    The caster and nearby allies recover 618 HP over 3 turns. The effect 
+    duration is reset if the status effect owner is hit with direct damage from 
+    a Special Skill.
+  - The caster and nearby allies are immune to buff dispels for 3 turns.
+types:
+  - Hit all
+  - Attack Buff
+  - HoT 3
+  - Dispel Immunity 3
+passives:
+  - >-
+    Power of Sisu - When this character starts a turn with low health for the 
+    first time during a battle, they recover 15% health and receive 15% mana.
+image: https://i.imgur.com/tAIchka.jpg

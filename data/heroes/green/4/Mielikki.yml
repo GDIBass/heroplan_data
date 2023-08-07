@@ -24,6 +24,29 @@ types:
   - Attack debuff
 passives:
   - >-
-    When this character starts a turn with low health for the first time during
-    a battle, they recover 15% health and receive 15% mana.
+    Power of Sisu - When this character starts a turn with low health for the 
+    first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/tts9FVU.jpg
+costume:
+  bonuses: 3/3/6/1
+  class: Paladin
+  power: 706
+  attack: 609
+  defense: 673
+  health: 1571
+  skill: Sprite Hymn
+  effects:
+    - >-
+      Summons a Sprite of the Forest Minion for all allies with 18% HP 
+      and 8% attack inherited from the caster.
+    - >-
+      When summoned, the Sprite of the Forest Minion gives +24% mana generation
+      for its owner for as long as the owner has Sprite of the Forest Minions. 
+      This effect can’t be dispelled.
+    - >-
+      All enemies get -26% attack for 4 turns. Against Fire characters, 
+      this status effect becomes uncleansable and lasts 2 turns longer.
+  types:
+    - Summoner
+    - Attack debuff
+  image: https://i.imgur.com/vXd3s3q.jpg
