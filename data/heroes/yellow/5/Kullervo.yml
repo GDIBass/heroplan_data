@@ -21,6 +21,26 @@ types:
   - Mindless Attack
 passives:
   - >-
-    When this character starts a turn with low health for the first time during
-    a battle, they recover 15% health and receive 15% mana.
+    Power of Sisu - When this character starts a turn with low health for the 
+    first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/tmvOfKK.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 916
+  attack: 872
+  defense: 919
+  health: 1634
+  skill: Cunning Knife
+  effects:
+    - Deals 450% damage to the target.
+    - Deals 320% damage to a random different enemy.
+    - >-
+      Enemies hit automatically cast Mindless attack on a random ally when mana
+      is full at the start of the turn during 4 turns. Against Dark characters, 
+      this status effect becomes uncleansable and lasts 1 turn longer.
+  types:
+  - Hit 1
+  - Bounce
+  - Mindless Attack
+  image: https://i.imgur.com/llU8XwL.jpg
