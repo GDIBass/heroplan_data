@@ -1,6 +1,7 @@
 name: Hansel
 class: Cleric
 source: Fables
+family: Grimforest
 speed: Fast
 power: 646
 attack: 699
@@ -16,5 +17,22 @@ effects:
 types:
   - Hit 1
   - Mindless Attack
-family: Grimforest
 image: https://i.imgur.com/SkK8Ieu.jpg
+costume:
+  bonuses: 3/3/6/1
+  class: Fighter
+  power: 667
+  attack: 656
+  defense: 693
+  health: 1135
+  skill: Vampire Killer
+  effects:
+    - Deals 209% damage to the target.
+    - >-
+      Automatically does 341 damage to the target and consumes 50% mana from 
+      the target when the target’s mana is full for 3 turns.
+    - The caster gets +84% defense against Special Skills for 3 turns.
+  types:
+    - Hit 1
+    - Mindless Attack
+  image: https://i.imgur.com/ZWQ8poJ.jpg

@@ -1,6 +1,7 @@
 name: Puss in Boots
 class: Rogue
 source: Fables
+family: Grimforest
 speed: Average
 power: 781
 attack: 764
@@ -18,5 +19,24 @@ types:
   - Summoner
   - Hot
   - Attack Buff
-family: Grimforest
 image: https://i.imgur.com/H73nb1h.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 915
+  attack: 982
+  defense: 734
+  health: 1726
+  skill: Three Bandit Mice
+  effects:
+    - All Minion Summoner allies summon a Minion for themselves.
+    - >-
+      Summons 3 Mouse Minions with 20% HP and 20% attack inherited from the 
+      caster. The Minions have -16% accuracy.
+    - All allies regenerate 324 HP over 4 turns.
+    - All allies get +50% attack for 4 turns.
+  types:
+    - Summoner
+    - Hot
+    - Attack Buff
+  image: https://i.imgur.com/emXl6nU.jpg
