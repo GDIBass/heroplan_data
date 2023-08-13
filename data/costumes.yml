@@ -1,6 +1,9 @@
 images:
   costume: https://i.imgur.com/AHPba5W.png
   maxcostume: https://i.imgur.com/nV1XgCg.png
+  costume2: https://i.imgur.com/5IcQ7Pz.png
+  maxcostume1of2: https://i.imgur.com/y7R60x7.png
+  maxcostume2of2: https://i.imgur.com/KuCHC8L.png
 
 bonuses:
   default-5star:
