@@ -5,3 +5,9 @@ image: https://i.imgur.com/dNC6vDL.png
 bonus:
   - "Bonus for 1/2/3 Unique Heroes:"
   - "Receive -10%/-25%/-40% less damage from the Special Skills of the stronger element."
+bonuscostume-5star: 5/5/10/5
+bonuscostume-4star: 3/3/6/1
+bonuscostume-3star: -
+bonuscostume2-5star: -
+bonuscostume2-4star: -
+bonuscostume2-3star: -
