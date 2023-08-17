@@ -8,16 +8,16 @@ defense: 741
 health: 1339
 skill: Grimoire Skim
 effects:
-  - Deals 260% damage to the target and nearby enemies
+  - Deals 290% damage to the target and nearby enemies
   - 'Randomly casts one of the following alternatives:'
   - 'Alternative 1:'
   - ' * The target and nearby enemies get -54% defense for 3 turns'
   - ' * The target and nearby enemies get -54% attack for 3 turns'
-  - ' * The target and nearby enemies get -24% mana generation for 3 turns'
+  - ' * The target and nearby enemies get -34% mana generation for 3 turns'
   - 'Alternative 2:'
-  - ' * The target and nearby enemies get -16% defense for 3 turns'
+  - ' * The target and nearby enemies get -24% defense for 3 turns'
   - 'Alternative 3:'
-  - ' * The target and nearby enemies get -16% attack for 3 turns'
+  - ' * The target and nearby enemies get -24% attack for 3 turns'
   - ''
   - >-
     Element Link gives all Dark allies small amount of mana at the end of the
