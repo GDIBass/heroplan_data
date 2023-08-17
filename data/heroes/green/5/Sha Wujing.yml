@@ -1,0 +1,27 @@
+name: Sha Wujing
+class: Monk
+source: Kingdom
+family: Kingdom
+speed: Average
+power: 933
+attack: 924
+defense: 931
+health: 1606
+skill: Prayer of the Desert
+effects:
+  - Deals 610% damage to the target.
+  - Heals all allies for 40% of damage dealt.
+  - All allies get +45% chance to dodge Special Skills that deal damage for 4 turns.
+types:
+  - Hit 1
+  - Healer
+  - Dodge Buff
+passives:
+  - >-
+    Health Recovery on Buff Received - This characters has a 50% chance to 
+    recover 10% health when they receive a buff or a positive stack.
+  - >-
+    Mana on Buff Received - This characters has a 50% chance to recover 10% mana 
+    when they receive a buff or a positive stack.
+
+image: https://i.imgur.com/zNMCJKX.jpg

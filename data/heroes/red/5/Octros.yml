@@ -22,3 +22,21 @@ passives:
     increased by 1 turn.
 family: Underwild
 image: https://i.imgur.com/zGSnaa1.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 920
+  attack: 920
+  defense: 902
+  health: 1581
+  skill: Bouquet of the Seas
+  effects:
+    - Deals 160% damage to all enemies.
+    - >-
+      Deals additional 35% damage per each Fire shield on the board, 
+      up to 440% damage in total.
+    - All enemies get -24% attack for 3 turns.
+  types:
+    - Hit All
+    - Attack Debuff
+  image: https://i.imgur.com/uAzDRXt.jpg
