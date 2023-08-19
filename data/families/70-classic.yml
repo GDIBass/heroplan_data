@@ -8,3 +8,10 @@ bonus:
   - "+1%/+3%/+5%/+7% attack."
   - "+1%/+3%/+5%/+7% defense."
   - "+1%/+3%/+5%/+7% healing."
+  - "On Class Level 20, all of the Class Talents of this hero are upgraded into a Superior Class Talent."
+bonuscostume-5star: 5/5/10/5
+bonuscostume-4star: 5/5/10/5
+bonuscostume-3star: 3/3/6/1
+bonuscostume2-5star: 15/15/20/5
+bonuscostume2-4star: 15/15/20/5
+bonuscostume2-3star: 

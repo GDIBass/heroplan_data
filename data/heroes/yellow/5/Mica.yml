@@ -1,6 +1,7 @@
 name: Mica
 class: Paladin
 source: Ninja
+family: Ninja
 speed: Charge
 power: 789
 attack: 716
@@ -10,19 +11,18 @@ skill: Connect Ki
 effects:
   - 1x Mana Charge
   - '* All allies share received damage with each other for 2 turns'
-  - '* All allies get +20% defense for 2 turns'
-  - '* All allies get +15% mana generation for 2 turns'
+  - '* All allies get +25% defense for 2 turns'
+  - '* All allies get +24% mana generation for 2 turns'
   - 2x Mana Charge
   - '* All allies share received damage with each other for 4 turns'
-  - '* All allies get +40% defense for 4 turns'
-  - '* All allies get +26% mana generation for 4 turns'
+  - '* All allies get +50% defense for 4 turns'
+  - '* All allies get +33% mana generation for 4 turns'
   - 3x Mana Charge
   - '* All allies share received damage with each other for 5 turns'
   - '* All allies get +73% defense for 5 turns'
-  - '* All allies get +33% mana generation for 5 turns'
+  - '* All allies get +38% mana generation for 5 turns'
 types:
   - Charger
   - Defense Buff
   - Mana Generation Buff
-family: Ninja
 image: https://i.imgur.com/T4WxYxG.jpg
