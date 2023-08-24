@@ -1,0 +1,26 @@
+name: Blossom
+class: Cleric
+source: Covenant
+family: construct
+speed: Average
+power: 951
+attack: 859
+defense: 976
+health: 1806
+skill: 
+effects:
+  - Recovers 42% health for all allies.
+  - Dispels buffs from all enemies.
+  - >-
+    Recovers 50 health per each removed status effect for all allies, 
+    up to 400 health in total.
+types:
+  - Healer
+  - Dispeller
+passives:
+  - >- 
+    Repair Core: The Construct Core of this character is Repair Core.
+    The Repair Core activates each time this character’s Special Skill is cast:
+    * With fully charged Repair Core, boosts the health of all allies by 25%.
+    * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated.
+image: https://i.imgur.com/4805acd.jpg
