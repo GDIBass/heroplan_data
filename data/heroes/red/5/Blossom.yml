@@ -7,7 +7,7 @@ power: 951
 attack: 859
 defense: 976
 health: 1806
-skill: 
+skill: Songs of the Cherry Tree
 effects:
   - Recovers 42% health for all allies.
   - Dispels buffs from all enemies.
