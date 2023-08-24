@@ -4,7 +4,7 @@ description: Niflheim
 image: https://i.imgur.com/9IKlBPF.png
 bonus:
   - "Bonus for 1/2/3 Unique Heroes:"
-  - "All enemies have -5/-10/-15% accuracy for as long as a Niflheim ally has low health. Chance to miss also applies to offensive Special Skills."
+  - "All enemies have -5%/-10%/-15% accuracy for as long as a Niflheim ally has low health. Chance to miss also applies to offensive Special Skills."
 bonuscostume-5star: 16/16/28/5
 bonuscostume-4star: 
 bonuscostume-3star: 

@@ -13,6 +13,7 @@ effects:
   - Dispels buffs from all enemies
 types:
   - Healer
+  - Dispeller
 image: https://i.imgur.com/G6mmZNN.jpg
 costume:
   bonuses: 5/5/10/5
@@ -28,4 +29,6 @@ costume:
     - Dispels buffs from all enemies
   types:
     - HOT All
+    - Buff immunity
+    - Dispeller
   image: https://i.imgur.com/flsZEGB.jpg

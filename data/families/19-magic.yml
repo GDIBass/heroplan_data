@@ -3,6 +3,12 @@ code: 19
 description: Magic
 image: https://i.imgur.com/iEc5AVT.png
 bonus:
-  - "Bonus for 2/3 Unique Heroes:"
-  - "25% / 50% chance to cast +5 mana generation stack on a random ally when this hero casts their special skill."
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "50% / 75% / 100% chance to cast +5 mana generation stack on a random ally when this hero casts their Special Skill."
   - "Maximum stack size: 10"
+bonuscostume-5star: 
+bonuscostume-4star: 
+bonuscostume-3star: 
+bonuscostume2-5star: 
+bonuscostume2-4star: 
+bonuscostume2-3star: 
