@@ -20,6 +20,7 @@ types:
   - Weird
 image: https://i.imgur.com/fVTl018.jpg
 costume:
+  speed: Slow
   bonuses: 5/5/10/5
   class: Paladin
   power: 846

@@ -22,7 +22,6 @@ types:
   - Health Reduction
   - Mindless Attack
 image: https://i.imgur.com/O54lA6V.jpg
-
 costume:
   bonuses: 5/5/10/5
   class: Paladin
