@@ -1,0 +1,33 @@
+name: Gelert
+class: Rogue
+source: untoldtales
+family: DefendersofAtlantis
+speed: Changing Tides
+power: 950
+attack: 997
+defense: 848
+health: 1707
+skill: Whirlpool Dash
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Caster steals 10% mana from the target.'
+  - ' * Deals 430% damage to the target.'
+  - ' * The less mana the enemies have, the more damage they will receive, up to 570%.'
+  - ' * All allies get +25% mana generation for 3 turns.'
+  - '2nd:'
+  - ' * Caster steals 20% mana from the target.'
+  - ' * Deals 500% damage to the target.'
+  - ' * The less mana the enemies have, the more damage they will receive, up to 670%.'
+  - ' * All allies get +30% mana generation for 3 turns.'
+types:
+  - Mana steal
+  - Hit 1
+  - Mana gen Buff
+passives:
+  - >-
+    Effects on Special Skill
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * All allies get +21% critical chance for 3 turns.
+image: https://i.imgur.com/WjoVn5I.jpg
