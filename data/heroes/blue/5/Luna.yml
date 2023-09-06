@@ -1,0 +1,27 @@
+name: Luna
+family: Pets
+source: Pets
+class: Wizard
+speed: Fast
+power: 938
+attack: 914
+defense: 898
+health: 1728
+skill: Lunar Blessing
+effects:
+  - Recovers 20% health for the caster and nearby allies.
+  - >-
+    At the end of each turn caster and nearby allies shoot a Moon Beam at a 
+    random enemy for 3 turns.
+  - Each Moon Beam deals 140% damage.
+  - Each Moon Beam reduces the mana of the hit enemy by 5%.
+types:
+  - Healer 3
+passives:
+  - >-
+    Friend of the Familiars. When a Minion is summoned to any ally, this character 
+    gains 5% health and 5% mana. This effect can activate only once per turn.
+  - >-
+    Wrath of pets. When a Fiend is summoned to any enemy, this character deals 
+    85% damage to all enemies. This effect can activate only once per turn.
+image: https://i.imgur.com/jt6SH4f.jpg
