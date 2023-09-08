@@ -17,3 +17,17 @@ passives:
     First time this hero casts Special Skill that does damage, additional 30% is
     added to its power.
 image: https://i.imgur.com/Ri4pkcS.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Ranger
+  power: 917
+  attack: 984
+  defense: 883
+  health: 1434
+  skill: Scepter Of Bundelkhand
+  effects:
+    - Deals 250% damage to the target.
+    - Deals 1140 extra damage if the target has boosted health.
+  types:
+    - Hit 1
+  image: https://i.imgur.com/8bE9bAk.jpg
