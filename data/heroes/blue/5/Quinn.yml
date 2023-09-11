@@ -1,0 +1,33 @@
+name: Quinn
+class: Cleric
+source: SuperElemental
+family: SuperElemental
+speed: Fast
+power: 954
+attack: 902
+defense: 968
+health: 1732
+skill: Pineapple Barbeque
+effects:
+  - Boosts health of all allies by 400. Boosted health can be exceed max HP.
+  - All enemies are immune to new status effect buffs for 3 turns.
+  - >-
+    All Fire enemies get -38 accuracy for 3 turns. Chance to miss applies to 
+    offensive Special Skills.
+  - All Dark enemies get -38% mana generation for 3 turns.
+  - All Holy enemies get -38% defense for 3 turns.
+  - All Nature enemies get -38% attack for 3 turns.
+types:
+  - Healer
+  - Buff immunity
+passives:
+  - >-
+    TROOP MASTERY
+    Passive Skill as an attacking character: This hero’s Troops deal extra 
+    elemental damage against the weaker element. 
+    Dealt extra elemental damage: +100%
+  - >-
+    Passive Skill as a defending character: This hero receives less elemental 
+    damage from Troops of stronger element.
+    Received elemental damage: -10%
+image: https://i.imgur.com/deN3GU2.jpg
