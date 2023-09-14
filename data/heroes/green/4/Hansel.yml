@@ -19,7 +19,7 @@ types:
   - Mindless Attack
 image: https://i.imgur.com/SkK8Ieu.jpg
 costume:
-  bonuses: 3/3/6/1
+  bonuses: 5/5/10/5
   class: Fighter
   power: 667
   attack: 656

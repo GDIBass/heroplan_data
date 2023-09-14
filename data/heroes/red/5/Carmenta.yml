@@ -1,0 +1,21 @@
+name: Carmenta
+source: carnivalofgods
+family: Masked God
+class: Sorcerer
+speed: Average
+power: 940
+attack: 906
+defense: 881
+health: 1800
+skill: Master of Ailments
+effects:
+  - Spreads all of the target’s cleansable status ailments to nearby enemies.
+  - The duration of the status ailments is reset for target and nearby enemies.
+  - Deaks 495% damage to the target, and minor damage to nearby enemies.
+types:
+  - Hit 3
+passives:
+  - >-
+    This character is cleansed of status ailments when Minion owned by them is
+    destroyed.
+image: https://i.imgur.com/Ud8nASe.jpg

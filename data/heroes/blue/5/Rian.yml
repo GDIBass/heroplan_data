@@ -9,9 +9,9 @@ health: 1439
 skill: Cleansing determination
 effects:
   - Cleanses status ailments from all allies.
-  - Deals 180% damage to all enemies.
+  - Deals 210% damage to all enemies.
   - >-
-    Deals additional 20% damage per removed status effect, up to 340% damage in
+    Deals additional 25% damage per removed status effect, up to 410% damage in
     total.
   - 'Stack (Max: 10): The caster gets +5% mana generation'
   - 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'

@@ -9,11 +9,11 @@ defense: 949
 health: 1567
 skill: Royal Poisoner
 effects:
-  - Deals 180% damage to all enemies.
+  - Deals 230% damage to all enemies.
   - >-
     All enemies receive 1285 Poison damage over 5 turns. The caster receives 
     a small amount of mana each time Poison damage is applied.
-  - All enemies get -24% mana generation for 5 turns.
+  - All enemies get -34% mana generation for 5 turns.
   - >-
     Allies share the damage this character would receive from Special Skill 
     attacks and normal attacks for 5 turns.

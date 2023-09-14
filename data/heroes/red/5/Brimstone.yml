@@ -4,9 +4,9 @@ source: Covenant
 family: construct
 speed: Average
 power: 943
-attack: 929
-defense: 894
-health: 1734
+attack: 939
+defense: 904
+health: 1765
 skill: Infernal Flames
 effects:
   - Deals 200% damage to all enemies.

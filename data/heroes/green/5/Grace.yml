@@ -9,7 +9,7 @@ defense: 770
 health: 1460
 skill: Malison of the Wildlands
 effects:
-  - Deals 285% damage to the target and nearby enemies.
+  - Deals 335% damage to the target and nearby enemies.
   - >-
     The target and nearby enemies cannot cast any new Taunt status effects for 3
     turns.

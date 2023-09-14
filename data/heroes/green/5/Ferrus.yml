@@ -4,13 +4,13 @@ source: Covenant
 family: construct
 speed: Average
 power: 926
-attack: 891
-defense: 883
-health: 1728
+attack: 916
+defense: 909
+health: 1800
 skill: Corroding Cutlass
 effects:
-  - Deals 360% damage to the target and nearby enemies.
-  - The target and nearby enemies receive 480 Bleed damage over 3 turns.
+  - Deals 390% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 576 Bleed damage over 3 turns.
   - The target and nearby enemies get -60% defense against Nature for 3 turns.
 
 types:
