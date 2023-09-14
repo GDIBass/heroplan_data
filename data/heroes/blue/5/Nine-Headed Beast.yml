@@ -4,9 +4,9 @@ speed: Slow
 source: Kingdom
 family: Journey
 power: 904
-attack: 863
-defense: 916
-health: 1575
+attack: 896
+defense: 951
+health: 1674
 skill: Wrath of the Nine Beaks
 effects:
   - 150% damage to 9 random enemies.

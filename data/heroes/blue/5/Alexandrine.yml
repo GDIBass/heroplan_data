@@ -8,9 +8,9 @@ defense: 747
 health: 1423
 skill: SHimmering Shield
 effects:
-  - Recovers 18% health for all allies.
+  - Recovers 23% health for all allies.
   - >-
-    Recovers additional 3% health per each Ice shield on the board, up to 42%
+    Recovers additional 3% health per each Ice shield on the board, up to 47%
     health in total.
   - >-
     Alters the critical chance or accuracy of all Ice shields on the board. When

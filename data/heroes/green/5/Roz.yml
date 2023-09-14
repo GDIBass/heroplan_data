@@ -4,12 +4,12 @@ speed: Fast
 source: SuperElemental
 family: SuperElemental
 power: 840
-attack: 873
-defense: 842
-health: 1676
+attack: 920
+defense: 889
+health: 1818
 skill: Elemental Infusion Arrow
 effects:
-  - Deals 500% damage to the target.
+  - Deals 530% damage to the target.
   - >-
     If there are 6 or more Nature shields on the board damage is dealt to the
     target and nearby enemies.

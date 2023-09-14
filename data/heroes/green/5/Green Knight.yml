@@ -10,10 +10,10 @@ health: 1444
 skill: Omen of Retribution
 effects:
   - All enemies get -24% defense for 3 turns.
-  - Deals 235% damage to all enemies.
+  - Deals 265% damage to all enemies.
   - >-
     If the caster dies during the next 5 turns, they are resurrected in the 
-    beginning of their next turn with 40% health and 665 damage is dealt to all
+    beginning of their next turn with 45% health and 765 damage is dealt to all
     enemies. All status effects and stacks are removed when the caster dies.
 types:
   - Defense debuff

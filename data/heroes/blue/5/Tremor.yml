@@ -4,17 +4,17 @@ speed: Fast
 source: Kalevala
 family: JungleHunter
 power: 933
-attack: 881
-defense: 939
-health: 1697
+attack: 896
+defense: 953
+health: 1738
 skill: Protective Stance
 effects:
   - >-
-    All allies recover 400 health after 3 turns. If this effect is removed 
-    before the duration ends, recovers 700 health instead.
+    All allies recover 500 health after 3 turns. If this effect is removed 
+    before the duration ends, recovers 800 health instead.
   - >-
-    Deals 400 damage to all enemies after 3 turns. If this effect is removed 
-    before the duration ends, deals 700 damage instead.
+    Deals 500 damage to all enemies after 3 turns. If this effect is removed 
+    before the duration ends, deals 800 damage instead.
   - 'Stack (Max: 10): The caster gets +15% attack against the weaker element.'
 types:
   - Heal All

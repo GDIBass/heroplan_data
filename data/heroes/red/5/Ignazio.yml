@@ -4,9 +4,9 @@ speed: Fast
 source: SuperElemental
 family: SuperElemental
 power: 843
-attack: 842
-defense: 879
-health: 1715
+attack: 887
+defense: 924
+health: 1851
 skill: Purifying Flame
 effects:
   - Recovers 25% health for all allies.
