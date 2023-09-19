@@ -1,0 +1,7 @@
+key: goblin
+code: 82
+description: Goblin
+image: https://i.imgur.com/ANG2SgJ.png
+bonus:
+  - "Bonus for 1/2/3 Heroes:"
+  - "Each time this Hero takes damage from the enemy’s Special Skill, removes 30% / 60% / 100% boosted health from all enemies."

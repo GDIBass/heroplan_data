@@ -1,0 +1,28 @@
+name: Darkfeather
+class: Druid
+source: goblinvillage
+family: goblin
+speed: Average
+power: 941
+attack: 906
+defense: 943
+health: 1680
+skill: The Eagle’s Blessing
+effects:
+  - Recovers 25% health of all allies.
+  - "Growth: All allies get 125 attack and 125 defense."
+  - >-
+    All allies have 50% chance to deal 270% damage to a random enemy after any 
+    subsequent allied Special Skill is cast for 3 turns. 
+    (Damage is dealt on the first Special Skill cast of each character per turn.)
+types:
+  - Healer
+  - Attack buff
+  - Defense buff
+passives:
+  - >-
+    Effects on Special Skill - 30% chance to perform the following actions when
+    this character casts their Special Skill.
+  - " * Deals 70% damage to all enemies."
+  - " * All enemies get -25% accuracy for 3 turns."
+image: https://i.imgur.com/9UklXhJ.jpg
