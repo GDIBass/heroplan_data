@@ -18,7 +18,10 @@ effects:
     All allies reflect cleansable status ailments to a random character on the 
     opposing team for 6 turns. Only cleansable ailments are reflected.
 types:
-  - Healer
+  - Hit all
+  - Self Healer
+  - Buffs reflect
+  - Ailments reflect
 passives:
   - >-
     When this character receives damage from Special Skills or in place of a
