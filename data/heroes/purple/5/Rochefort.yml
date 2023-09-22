@@ -1,0 +1,21 @@
+name: Rochefort
+class: Fighter
+speed: Average
+source: Musketeer
+family: Musketeer
+power: 928
+attack: 883
+defense: 850
+health: 1835
+skill: Dishonorable Ploy
+effects:
+  - Deals 565% damage to the target and minor damage to nearby enemies.
+  - If the targets is defeated in 3 turns all enemies receive 626 damage.
+types:
+  - Hit 3
+passives:
+  - >-
+    When this character receives damage from Special Skills or in place of a
+    character in Cover, there’s a 60% chance of deal 20% of the received damage
+    on all enemies.
+image: https://i.imgur.com/cnURK1S.jpg
