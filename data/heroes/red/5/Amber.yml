@@ -1,0 +1,25 @@
+name: Amber
+class: Fighter
+source: Morlovia
+family: Morlovia
+speed: Average
+power: 933
+attack: 927
+defense: 885
+health: 1689
+skill: Spear of Blood Pact
+effects:
+  - Deals 605% damage to the target.
+  - Heals the caster for 100% of the damage dealt.
+  - >-
+    The target resists healing and receives 300 damage per each resisted healing
+    for 4 turns.
+types:
+  - Hit 1
+  - Self heal
+passives:
+  - >-
+    When this character casts their Special Skill, they have a 50% chance to
+    steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 70% damage to all enemies.
+image: https://i.imgur.com/PmKUK6y.jpg

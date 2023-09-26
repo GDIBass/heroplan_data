@@ -1,0 +1,24 @@
+name: Edwin
+class: Paladin
+source: Morlovia
+family: Morlovia
+speed: Fast
+power: 933
+attack: 922
+defense: 889
+health: 1693
+skill: Hemlock Tea
+effects:
+  - Deals 250% damage to all enemies.
+  - The attack bypasses defensive buffs. This includes counterattacks.
+  - >-
+    The enemies can’t get their other status effects cleansed from Special 
+    Skills for 3 turns.
+types:
+  - Hit all 
+passives:
+  - >-
+    When this character casts their Special Skill, they have a 50% chance to
+    steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 70% damage to all enemies.
+image: https://i.imgur.com/NshfXdy.jpg
