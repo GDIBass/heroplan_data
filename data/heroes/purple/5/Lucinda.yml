@@ -1,0 +1,28 @@
+name: Lucinda
+class: Sorcerer
+source: Morlovia
+family: Morlovia
+speed: Slow
+power: 933
+attack: 865
+defense: 931
+health: 1751
+skill: Might of Excalibroom
+effects:
+  - Deals 470% damage to target and nearby enemies.
+  - >-
+    The target and nearby enemies get -40% accuracy for 6 turns. Chance to miss 
+    also applies to offensive Special Skills.
+  - The target and nearby enemies get -34% defense for 6 turns.
+  - The caster regenerates 918 HP over 6 turns.
+types:
+  - Hit 3
+  - Blind
+  - Defense Debuff
+  - Self HoT
+passives:
+  - >-
+    When this character casts their Special Skill, they have a 50% chance to
+    steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 70% damage to all enemies.
+image: https://i.imgur.com/tBoxHA4.jpg

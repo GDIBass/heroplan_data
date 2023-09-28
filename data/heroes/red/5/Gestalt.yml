@@ -1,0 +1,34 @@
+name: Gestalt
+class: Cleric
+source: untoldtales
+family: Nightmares of Atlantis
+speed: Changing Tides
+power: 957
+attack: 898
+defense: 949
+health: 1800
+skill: Underwater Magma Cube
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Deals 300% damage to 3 random enemies.'
+  - ' * Hit enemies became afflicted with Underwater Magma Cube.'
+  - ' * While afflicted with Magma Cube the owner get -34% defense.'
+  - ' * Magma Cube explode in 3 turns doing 300 damage to their owner.'
+  - ' * If Magma Cube is cleansed, the owner get -34% mana generation for 3 turns.'
+  - '2nd:'
+  - ' * Deals 350% damage to 5 random enemies.'
+  - ' * Hit enemies became afflicted with Underwater Magma Cube.'
+  - ' * While afflicted with Magma Cube the owner get -44% defense.'
+  - ' * Magma Cube explode in 3 turns doing 450 damage to their owner.'
+  - ' * If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns.'
+types:
+  - Hit 3
+  - Defense debuff
+passives:
+  - >-
+    Effects on Special Skill
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * The caster get +19% mana generation for 2 turns.
+image: https://i.imgur.com/vMt41XY.jpg
