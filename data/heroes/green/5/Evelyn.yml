@@ -1,6 +1,7 @@
 name: Evelyn
 class: Ranger
 source: Hotm
+family: 2018
 speed: Fast
 power: 768
 attack: 727
@@ -16,7 +17,26 @@ effects:
     effect can't be cleansed
 types:
   - Hit 3
-  - Elemental D efense Debuff
+  - Elemental Defense Debuff
   - Dispeller
-family: 2018
 image: https://i.imgur.com/YnTLDcR.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 935
+  attack: 899
+  defense: 859
+  health: 1821
+  skill: Warcry of the Hunt
+  effects:
+    - Deals 200% damage to the target and nearby enemies.
+    - The target and nearby enemies get -56% defense against Nature for 4 turns.
+    - Dispels buffs from target and nearby enemies.
+    - >-
+      Element Link recovers 4% health for all Nature allies for 6 turns. 
+      This effect can’t be dispelled.
+  types:
+    - Hit 3
+    - Elemental Defense Debuff
+    - Dispeller
+  image: https://i.imgur.com/93B4oB9.jpg
