@@ -1,6 +1,7 @@
 name: Cheshire Cat
 class: Sorcerer
 source: Wonderland
+family: Wonderland
 speed: Fast
 power: 649
 attack: 658
@@ -14,5 +15,20 @@ effects:
 types:
   - Reposition
   - DoT All
-family: Wonderland
 image: https://i.imgur.com/Js5mqAr.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 684
+  attack: 749
+  defense: 644
+  health: 1122
+  skill: Razor Smile
+  effects:
+    - Rearranges the enemy positions randomly.
+    - All Holy enemies get -34% defense for 4 turns.
+    - All enemies receive 364 Bleed damage over 4 turns.
+  types:
+    - Reposition
+    - DoT All
+  image: https://i.imgur.com/ImaCQvI.jpg

@@ -1,0 +1,21 @@
+name: Tweedles
+class: Monk
+source: Wonderland
+family: Wonderland
+speed: Slow
+power: 945
+attack: 962
+defense: 947
+health: 1565
+skill: Dum and Dee
+effects:
+  - Deals 600% damage to a random enemy.
+  - The target gets -50% defense for 5 turns.
+  - Deals 600% damage to a random enemy.
+  - The target gets -50% attack for 5 turns.
+  - The caster gets 30% mana if both attacks hit the same target.
+types:
+  - Hit 2
+  - Attack debuff
+  - Defense debuff
+image: https://i.imgur.com/oaSASQ4.jpg
