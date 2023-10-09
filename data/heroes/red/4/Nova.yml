@@ -1,0 +1,28 @@
+name: Nova
+class: Druid
+speed: Average
+source: SuperElemental
+family: SuperElemental
+power: 691
+attack: 643
+defense: 722
+health: 1281
+skill: Healing Fire Spirits
+effects:
+  - Recovers 25% health for all allies.
+  - >-
+    Recovers additional 2% health per each Fire shield on the board, 
+    up to 45% health in total.
+  - Cleanses status ailments from all allies.
+types:
+  - Heal all
+  - Cleanser
+passives:
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character:'
+  - ' This hero’s Troops deal extra elemental damage against weaker element.'
+  - ' * Dealt extra elemental damage: +100%'
+  - 'Passive Skill as defending character:'
+  - ' This hero receives less elemental damage from Troops of stronger element.'
+  - ' * Received elemental damage: -10%'   
+image: https://i.imgur.com/bsearKJ.jpg
