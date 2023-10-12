@@ -25,3 +25,28 @@ passives:
     increased by 1 turn.
 family: Underwild
 image: https://i.imgur.com/6D1hJ1P.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 921
+  attack: 767
+  defense: 1012
+  health: 1749
+  skill: Creative Hands
+  effects:
+    - Recover 40% health for all allies.
+    - >-
+      All allies regenerate 260 HP over 4 turns and a further increase of 76 HP 
+      per each Nature shield on the board, up to 868 HP total.
+    - >-
+      All allies get +30% defense, and a further 8% increase per each Nature 
+      shield on the board for 4 turns, up to +94% defense.
+  types:
+    - Healer
+    - HoT all
+    - Defense buff
+  passives:
+    - >-
+      Increase Buff Duration - Duration of the first 3 buff this hero receives 
+      from Special Skills is increased by 1 turn.
+  image: https://i.imgur.com/mcEOLvZ.jpg
