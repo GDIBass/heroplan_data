@@ -10,19 +10,20 @@ health: 1380
 skill: Connect Ki
 effects:
   - 1x Mana Charge
-  - '* All allies share received damage with each other for 2 turns'
-  - '* All allies get +25% defense for 2 turns'
-  - '* All allies get +24% mana generation for 2 turns'
+  - ' * All allies become Soul Connected for 2 turns. Soul Connected allies share received damage.'
+  - ' * All allies get +25% defense for 2 turns'
+  - ' * All allies get +24% mana generation for 2 turns'
   - 2x Mana Charge
-  - '* All allies share received damage with each other for 4 turns'
-  - '* All allies get +50% defense for 4 turns'
-  - '* All allies get +33% mana generation for 4 turns'
+  - ' * All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.'
+  - ' * All allies get +50% defense for 4 turns'
+  - ' * All allies get +33% mana generation for 4 turns'
   - 3x Mana Charge
-  - '* All allies share received damage with each other for 5 turns'
-  - '* All allies get +73% defense for 5 turns'
-  - '* All allies get +38% mana generation for 5 turns'
+  - ' * All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.'
+  - ' * All allies get +73% defense for 5 turns'
+  - ' * All allies get +38% mana generation for 5 turns'
 types:
   - Charger
+  - Ally Damage Share
   - Defense Buff
   - Mana Generation Buff
 image: https://i.imgur.com/T4WxYxG.jpg
