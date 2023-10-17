@@ -8,9 +8,9 @@ defense: 690
 health: 1143
 skill: Wonderful Feast
 effects:
-  - All allies share received damage with each other for 4 turns
+  - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
   - All allies get +63% defense for 4 turns
-  - All enemies share received damage with each other for 4 turns
+  - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.
   - All enemies get -44% defense for 4 turns
 types:
   - Ally Damage Share

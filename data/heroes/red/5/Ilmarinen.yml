@@ -13,14 +13,15 @@ effects:
     Reduces the mana of all Ice enemies by 40%. Reduces the mana of all other
     enemies by 20%.
   - >-
-    All enemies share received damage with each other for 4 turns. This status
-    effect is undispellable and lasts 2 turns longer on Ice characters.
+    All enemies become Soul Connected for 4 turns. Soul Connected enemies share 
+    received damage. This status effect is undispellable and lasts 2 turns longer
+    on Ice characters.
   - >-
     All enemies get -56% defense for 4 turns. Against ice characters, this
     status effect becomes uncleansable and lasts 2 turns longer.
 types:
   - Mana reduction
-  - Damage sharing
+  - Enemy Damage Share
   - Defense debuff
 passives:
   - >-

@@ -8,7 +8,7 @@ defense: 805
 health: 1446
 skill: Icy Resilience
 effects:
-  - All allies share received damage with each other for 3 turns
+  - All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.
   - All allies get +35% defense for 3 turns
   - All allies heal 100% of dealt normal damage for 3 turns
   - >-
@@ -29,7 +29,7 @@ costume:
   health: 1560
   skill: Glacial Resilience
   effects:
-    - All allies share received damage with each other for 3 turns.
+    - All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.
     - >-
       All allies get +30% defense, and a further 5% increase every time they are
       hit during 3 turns.

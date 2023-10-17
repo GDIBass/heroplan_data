@@ -9,11 +9,11 @@ defense: 453
 health: 729
 skill: Spirit Link
 effects:
-  - >-
-    All allies get +63% defense and share received damage with all their allies
-    for 5 turns
+  - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.
+  - All allies get +63% defense for 5 turns.
 types:
   - Ally Damage Share
+  - Defense Buff
 image: https://i.imgur.com/h7fAkgX.jpg
 costume:
   bonuses: 5/5/10/5
@@ -24,7 +24,7 @@ costume:
   health: 825
   skill: Spirit Rally
   effects:
-    - All allies share received damage with eachother for 5 turns
+    - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.
     - All allies get +50% attack for 5 turns
   types:
     - Attack Buff

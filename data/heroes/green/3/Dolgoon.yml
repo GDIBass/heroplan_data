@@ -11,10 +11,10 @@ skill: Voluminous Vigor
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
-  - ' * All allies share received damage with each other for 3 turns.'
+  - ' * All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.'
   - ' * All allies get +63% defense for 3 turns.'
   - '2x Mana Charge:'
-  - ' * All enemies share received damage with each other for 5 turns.'
+  - ' * All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.'
   - ' * All enemies get -56% defense for 5 turns.'
 types:
   - Damage share buff

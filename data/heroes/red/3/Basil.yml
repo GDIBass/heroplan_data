@@ -9,7 +9,7 @@ defense: 538
 health: 782
 skill: Squeak of Protection
 effects:
-  - All allies share received damage with each other for 4 turns.
+  - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
   - All allies get +35% defense for 4 turns. The defense increases by 10% each turn up to +65%.
   - All allies counterattack with 70% of the damage received for 4 turns. The counterattack damage increases by +10% each turn, up to +100%.
 types:

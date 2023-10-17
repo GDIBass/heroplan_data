@@ -23,6 +23,6 @@ types:
 passives:
   - This character receives 5% mana each time its health is recovered.
   - >-
-    Every 3 turns, eats all Minions for a random enemy and gains a small amount
+    Every 3 turns eats all Minions from a random enemy and gains a small amount
     of mana for each eaten Minion.
 image: https://i.imgur.com/zCcV9K1.jpg
