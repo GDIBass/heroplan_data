@@ -1,0 +1,32 @@
+name: Madhammer
+class: Barbarian
+source: goblinvillage
+family: goblin
+speed: Average
+power: 949
+attack: 939
+defense: 927
+health: 1691
+skill: Heedless Hammer Flurry
+effects:
+  - Deals 500% damage to the target.
+  - >-
+    Has 50% chance to deal 450% damage to a random different enemy. (This effect 
+    targets the same enemy as the first hit target if there are no other valid targets.)
+  - >-
+    Summons a Black Boar Mega Minion with 52% HP and 145% attack inherited from
+    the caster. 
+  - >-
+    The target hit by Black Boar Mega Minion can’t get their status ailments
+    cleansed or rellocated from Special Skills for 3 turns. This effect also prevents 
+    cleansing and rellocating of itself.
+types:
+  - Hit 1
+  - Summoner
+passives:
+  - >-
+    Effects on Special Skill - 30% chance to perform the following actions when
+    this character casts their Special Skill.
+  - " * Deals 70% damage to all enemies."
+  - " * All enemies get -25% accuracy for 3 turns."
+image: https://i.imgur.com/dPF8ESH.jpg
