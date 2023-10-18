@@ -1,0 +1,8 @@
+key: stag
+code: 83
+description: Stag
+image: https://i.imgur.com/dGtTVaA.png
+bonus:
+  - "Heroes become stronger when teamed with other unique Heroes of the same family."
+  - "Bonus for 1/2/3 Heroes:"
+  - " * All received attack status ailments will be replaced by a +40%/+60%/+70% attack buff for 3 turns."

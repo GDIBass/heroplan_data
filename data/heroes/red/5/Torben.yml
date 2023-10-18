@@ -1,0 +1,23 @@
+name: Torben
+class: Fighter
+source: Knights
+family: Bear
+speed: Fast
+power: 953
+attack: 1009
+defense: 920
+health: 1555
+skill: Mark of the Prey
+effects:
+  - The target receives 80% damage for all the damage their allies receive for 3 turns.
+  - The target get -44% defense for 3 turns.
+  - Deals 200% damage to the target and nearby enemies.
+types:
+  - Chaining damage
+  - Defense debuff
+  - Hit 3
+passives:
+  - >-
+    Health Recovery on Buff Received - This character recovers 5% health when 
+    they receive a buff or a positive stack.
+image: https://i.imgur.com/bzqfe23.jpg
