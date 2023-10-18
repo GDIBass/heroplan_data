@@ -1,19 +1,19 @@
 name: Franz
 class: Paladin
 source: Knights
+family: Raven
 speed: Very Slow
 power: 681
 attack: 552
 defense: 682
 health: 1519
-skill: Ravaging Talons
+skill: Sonorous Spear
 effects:
   - Deals 215% damage to all enemies.
   - All damage all enemies receive is increased by +50% for 6 turns.
-  - All enemies are immune to new buffs for 6 turns.
+  - All enemies are immune to new status effect buffs for 6 turns.
 types:
   - Hit All
   - Damage Debuff
   - Buff Immunity
-family: Raven
 image: https://i.imgur.com/Qe02pzU.jpg

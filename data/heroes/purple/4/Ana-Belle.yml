@@ -1,8 +1,8 @@
 name: Ana-Belle
-speed: Average
 class: Cleric
 family: Morlovia
 source: Morlovia
+speed: Average
 power: 683
 attack: 626
 defense: 697
@@ -10,7 +10,7 @@ health: 1317
 skill: Tidy Up!
 effects:
   - >-
-    Dispels and cleanses all buffs and status ailment from all allies and
+    Dispels and cleanses all buffs and status ailments from all allies and
     enemies.
   - Recovers 45% heath for all allies.
   - >-
@@ -22,7 +22,7 @@ types:
   - Healer
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    chance to steal the newest dispellable buff from a random enemy that has buffs. 
+    If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/FvJxtPO.jpg

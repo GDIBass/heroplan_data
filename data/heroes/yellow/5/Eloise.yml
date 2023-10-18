@@ -1,6 +1,7 @@
 name: Eloise
 class: Wizard
 source: Knights
+family: Raven
 speed: Average
 power: 822
 attack: 803
@@ -10,10 +11,9 @@ skill: Ravaging Talons
 effects:
   - Destroys all Minions from all enemies.
   - Deals 270% damage to all enemies.
-  - If an enemy had Minions they will be immune to new Minions for 4 turns.
+  - If an enemy had Minions they will resist new Minions for 4 turns.
 types:
   - Minion Killer
-  - Minion Immunity
   - Hit All
-family: Raven
+  - Minion Immunity
 image: https://i.imgur.com/x2Zz9OK.jpg

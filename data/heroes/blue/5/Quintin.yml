@@ -1,6 +1,7 @@
 name: Quintin
 class: Rogue
 source: Knights
+family: Raven
 speed: Fast
 power: 822
 attack: 821
@@ -14,6 +15,5 @@ effects:
     4 turns.
 types:
   - Hit 1
-  - Damage Share
-family: Raven
+  - Chaining damage
 image: https://i.imgur.com/8ISALDU.jpg

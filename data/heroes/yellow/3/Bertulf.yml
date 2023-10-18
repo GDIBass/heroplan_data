@@ -1,6 +1,7 @@
 name: Bertulf
 class: Monk
 source: Knights
+family: Raven
 speed: Average
 power: 480
 attack: 491
@@ -14,5 +15,4 @@ effects:
     total maximum of +160% increased power while this effect is active.
 types:
   - Attack Buff
-family: Raven
 image: https://i.imgur.com/0zQumOG.jpg

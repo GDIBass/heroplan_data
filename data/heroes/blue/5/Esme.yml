@@ -1,6 +1,7 @@
 name: Esme
 class: Sorcerer
 source: Knights
+family: Wolf
 speed: Average
 power: 816
 attack: 762
@@ -9,10 +10,10 @@ health: 1477
 skill: Fiendslayer
 effects:
   - Destroys all Fiends from all allies.
-  - Recovers 40% health for all allies.
+  - Boosts health of all allies by 650. Boosted health can exceed max HP.
   - If an ally had fiends they will be immune to new Fiends for 4 turns.
 types:
-  - Heal
   - Fiend Destroyer
-family: Wolf
+  - Hot
+  - Fiend immunity
 image: https://i.imgur.com/nObQye7.jpg

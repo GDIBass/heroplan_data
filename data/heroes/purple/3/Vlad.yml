@@ -1,6 +1,7 @@
 name: Vlad
 class: Rogue
 source: Morlovia
+family: Morlovia
 speed: Very Fast
 power: 449
 attack: 368
@@ -14,13 +15,11 @@ effects:
     115, up to 295 damage in total.
   - The caster steals 61% of any healing applied to the target for 3 turns.
 types:
-  - DOT 1
-  - Stacking
-  - Healing Stealer
+  - DoT 1
+  - Healing Steal
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies.
-family: Morlovia
+    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    chance to steal the newest dispellable buff from a random enemy that has buffs. 
+    If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/BKgxWVA.jpg
