@@ -1,0 +1,8 @@
+key: bear
+code: 84
+description: Bear
+image: https://i.imgur.com/kJXZGfK.png
+bonus:
+  - "Heroes become stronger when teamed with other unique Heroes of the same family."
+  - "Bonus for 1/2/3 Heroes:"
+  - " * All received defense status ailments will be replaced by a +40%/+60%/+70% defense buff for 3 turns."

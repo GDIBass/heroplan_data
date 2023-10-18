@@ -1,0 +1,23 @@
+name: Fawn
+class: Fighter
+source: Knights
+family: Stag
+speed: Fast
+power: 489
+attack: 457
+defense: 460
+health: 971
+skill: Evading Dash
+effects:
+  - >-
+    All allies get +45% chance to Dodge Special Skills for 3 turns. 
+    Each Dodge damages the attacker for 80 damage.
+  - All allies receive a small amount of mana over 3 turns.
+types:
+  - Dodge
+  - MoT
+passives:
+  - >-
+    Health Recovery on Buff Received - This character recovers 5% health when 
+    they receive a buff or a positive stack.
+image: https://i.imgur.com/qV2EnaJ.jpg

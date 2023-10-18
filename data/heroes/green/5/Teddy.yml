@@ -1,0 +1,26 @@
+name: Teddy
+class: Monk
+source: Knights
+family: Bear
+speed: Average
+power: 953
+attack: 968
+defense: 968
+health: 1565
+skill: The Call to Hibernate
+effects:
+  - All enemies fall asleep.
+  - While asleep, the target can’t attack or gain mana.
+  - All damage dealt to the sleeping target is increased by +70%.
+  - >-
+    The sleeping target is woken once it takes damage. 
+    The excudes damage from Minions or Fiends.
+  - All allies regenerate 800 HP over 4 turns.
+types:
+  - Sleep
+  - HoT
+passives:
+  - >-
+    Health Recovery on Buff Received - This character recovers 5% health when 
+    they receive a buff or a positive stack.
+image: https://i.imgur.com/Aaf3CZX.jpg
