@@ -9,7 +9,7 @@ defense: 671
 health: 1347
 skill: Night of Sorrow
 effects:
-  - Deals 250% damage to the target
+  - Deals 250% damage to the target.
   - >-
     The target receives 355 damage over 5 turns. If a target already has this
     effect, the duration will be refreshed and the damage will be increased by
@@ -23,16 +23,17 @@ types:
   - Defense Buff
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    chance to steal the newest dispellable buff from a random enemy that has buffs. 
+    If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/Trss5zi.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Rogue
-  power: 790
-  attack: 785
-  defense: 701
-  health: 1392
+  power: 816
+  attack: 808
+  defense: 722
+  health: 1472
   skill: Legacy of Darkness
   effects:
     - Deals 155% damage to the target and nearby enemies.
@@ -49,5 +50,4 @@ costume:
     - DoT 3
     - Health Steal
     - Defense Debuff
-  bonuses: 2/2/4/1
   image: https://i.imgur.com/bKghYKS.jpg

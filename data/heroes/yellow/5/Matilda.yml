@@ -1,9 +1,9 @@
 name: Matilda
 class: Monk
-speed: Average
 source: Morlovia
 family: Morlovia
-power: 835
+speed: Average
+power: 850
 attack: 817
 defense: 824
 health: 1489
@@ -26,7 +26,7 @@ types:
   - Fiend
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    chance to steal the newest dispellable buff from a random enemy that has buffs. 
+    If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/Lb4Sdwp.jpg

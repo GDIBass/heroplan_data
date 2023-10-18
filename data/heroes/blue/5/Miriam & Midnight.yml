@@ -1,9 +1,9 @@
 name: Miriam & Midnight
 class: Wizard
-speed: Average
 source: Morlovia
 family: Morlovia
-power: 835
+speed: Average
+power: 850
 attack: 793
 defense: 838
 health: 1526
@@ -15,15 +15,14 @@ effects:
     22% health for its owner at the end of each turn.
   - >-
     The Blue Kitten Minion lifts the newest cleansable status ailment from its
-    owner and add its to the hit target.
-  - The caster and nearby allies get +50% attack.
+    owner and adds it to the hit target.
+  - The caster and nearby allies get +50% attack for 3 turns.
 types:
   - Summoner
   - Attack Buff
-  - Health Regen
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies
+    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    chance to steal the newest dispellable buff from a random enemy that has buffs. 
+    If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/eyJkRvq.jpg

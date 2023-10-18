@@ -1,6 +1,7 @@
 name: Valeria
 class: Monk
 source: Morlovia
+family: Morlovia
 speed: Very Fast
 power: 649
 attack: 609
@@ -18,10 +19,9 @@ types:
   - Hit 1
   - Dot 1
   - Steal Healing
-family: Morlovia
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    chance to steal the newest dispellable buff from a random enemy that has buffs. 
+    If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/Zwdjhmt.jpg

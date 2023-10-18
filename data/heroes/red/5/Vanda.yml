@@ -1,6 +1,7 @@
 name: Vanda
 class: Sorcerer
 source: Morlovia
+family: Morlovia
 speed: Very Fast
 power: 795
 attack: 774
@@ -8,34 +9,33 @@ defense: 734
 health: 1384
 skill: Twilight of Sorrow
 effects:
-  - Deals 125% damage to all enemies
-  - The caster steals 61% of any healing applied to all enemies for 2 turns
-  - All allies are immune to new status ailments for 2 turns
+  - Deals 125% damage to all enemies.
+  - The caster steals 61% of any healing applied to all enemies for 2 turns.
+  - All allies are immune to new status ailments for 2 turns.
 types:
   - Hit All
   - Health Steal
   - Status Ailment Immunity
-family: Morlovia
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    chance to steal the newest dispellable buff from a random enemy that has buffs. 
+    If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/FsFObHs.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Wizard
-  power: 812
-  attack: 783
-  defense: 755
-  health: 1441
+  power: 838
+  attack: 806
+  defense: 778
+  health: 1524
   skill: Twilight of Ruin
   effects:
     - Deals 115% damage to all enemies.
-    - THe caster steals 51% of any healing applied to all enemies for 3 turns.
+    - The caster steals 51% of any healing applied to all enemies for 3 turns.
     - All allies are immune to new status ailments for 3 turns.
   types:
     - Hit All
-    - Health Steal
+    - Healing Steal
     - Status Ailment Immunity
-  bonuses: 2/2/4/1
   image: https://i.imgur.com/yADk9kZ.jpg

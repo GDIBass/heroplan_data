@@ -1,6 +1,7 @@
 name: Ludwig
 class: Paladin
 source: Knights
+family: Wolf
 speed: Slow
 power: 816
 attack: 723
@@ -17,5 +18,5 @@ effects:
     each turn until the last turn, when 100% mana is received.
 types:
   - Taunt
-family: Wolf
+  - MoT
 image: https://i.imgur.com/VV20w6e.jpg

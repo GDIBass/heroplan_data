@@ -1,6 +1,7 @@
 name: Frank
 class: Barbarian
 source: Morlovia
+family: Morlovia
 speed: Slow
 power: 667
 attack: 635
@@ -8,20 +9,20 @@ defense: 639
 health: 1292
 skill: Undead Razer
 effects:
-  - Deals 200% damage to all enemies
-  - The damage is increased by 45% per dead enemy
-  - All enemies get -44 defense for 4 turns
+  - Deals 200% damage to all enemies.
+  - The damage is increased by 45% per dead enemy.
+  - All enemies get -44% defense for 4 turns.
 types:
   - Hit All
   - Defense Debuff
-family: Morlovia
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    chance to steal the newest dispellable buff from a random enemy that has buffs. 
+    If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/dQao9jX.jpg
 costume:
+  bonuses: 2/2/4/1
   class: Monk
   power: 681
   attack: 655
@@ -40,5 +41,4 @@ costume:
   types:
     - Hit all
     - Stacker
-  bonuses: 2/2/4/1
   image: https://i.imgur.com/HUrGPkv.jpg

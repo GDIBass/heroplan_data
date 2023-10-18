@@ -1,6 +1,7 @@
 name: Aderyn
 class: Cleric
 source: Knights
+family: Raven
 speed: Average
 power: 480
 attack: 451
@@ -13,5 +14,4 @@ effects:
 types:
   - Heal all
   - Healing Debuff
-family: Raven
 image: https://i.imgur.com/7kv6ZGx.jpg

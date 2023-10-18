@@ -1,9 +1,9 @@
 name: Alucard
 class: Sorcerer
 speed: Very Fast
-family: Morlovia
 source: Morlovia
-power: 836
+family: Morlovia
+power: 851
 attack: 852
 defense: 803
 health: 1454
@@ -19,7 +19,7 @@ types:
   - Hit 3
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    chance to steal the newest dispellable buff from a random enemy that has buffs. 
+    If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/ZDIKUNx.jpg

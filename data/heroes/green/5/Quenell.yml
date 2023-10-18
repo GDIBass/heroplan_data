@@ -1,6 +1,7 @@
 name: Quenell
 class: Ranger
 source: Knights
+family: Wolf
 speed: Fast
 power: 816
 attack: 795
@@ -16,5 +17,4 @@ effects:
 types:
   - Hit 3
   - Power Boost
-family: Wolf
 image: https://i.imgur.com/iWwRJlT.jpg

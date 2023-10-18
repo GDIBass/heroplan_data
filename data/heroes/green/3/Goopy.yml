@@ -1,8 +1,8 @@
 name: Goopy
 class: Barbarian
-speed: Average
 source: Morlovia
 family: Morlovia
+speed: Average
 power: 483
 attack: 500
 defense: 467
@@ -15,12 +15,13 @@ effects:
     damage in total.
   - >-
     All enemies get -24% mana generation, and a further 2% decrease per each
-    Nature shield on the board foe 3 turns, up to -40% mana generation.
+    Nature shield on the board for 3 turns, up to -40% mana generation.
 types:
   - Hit All
+  - Mana gen debuff
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    chance to steal the newest dispellable buff from a random enemy that has buffs. 
+    If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/WJOazL8.jpg

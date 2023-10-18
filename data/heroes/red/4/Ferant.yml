@@ -1,6 +1,7 @@
 name: Ferant
 class: Druid
 source: Knights
+family: Wolf
 speed: Average
 power: 680
 attack: 635
@@ -17,5 +18,4 @@ effects:
     activations during the same turn.
 types:
   - Counterattack
-family: Wolf
 image: https://i.imgur.com/iJhZeCK.jpg
