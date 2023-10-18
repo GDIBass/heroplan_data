@@ -3,5 +3,5 @@ code: 13
 description: Morlovia
 image: https://i.imgur.com/OLdVZhz.png
 bonus:
-  - "Bonus for 2/3 Unique Heroes:"
-  - "+5%/+12% mana generation"
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "+3%/+6%/+9% mana generation"
