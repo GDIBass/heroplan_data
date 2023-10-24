@@ -1,6 +1,7 @@
 name: Lady Loki
 class: Fighter
 source: Season3
+family: Helheim
 speed: Average
 power: 787
 attack: 747
@@ -18,5 +19,24 @@ effects:
 types:
   - Cleanser
   - Hit All
-family: Helheim
 image: https://i.imgur.com/NzRPKjE.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 915
+  attack: 794
+  defense: 990
+  health: 1679
+  skill: Trickter's Lullaby
+  effects:
+    - >-
+      Lifts all cleansable status ailments from all allies and randomly 
+      distributes them on enemies.
+    - Deals 135% damage to all enemies.
+    - >-
+      Deals additional 15% damage per allocated status effect, up to 375% 
+      damage in total.
+  types:
+    - Cleanser
+    - Hit All
+  image: https://i.imgur.com/R89Eh1b.jpg
