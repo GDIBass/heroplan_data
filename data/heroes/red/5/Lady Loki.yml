@@ -27,7 +27,7 @@ costume:
   attack: 794
   defense: 990
   health: 1679
-  skill: Trickter’s Lullaby
+  skill: Trickter's Lullaby
   effects:
     - >-
 	  Lifts all cleansable status ailments from all allies and randomly 
@@ -39,5 +39,4 @@ costume:
   types:
     - Cleanser
     - Hit All
-  passives: 
   image: https://i.imgur.com/R89Eh1b.jpg
