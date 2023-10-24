@@ -30,12 +30,12 @@ costume:
   skill: Trickter's Lullaby
   effects:
     - >-
-	  Lifts all cleansable status ailments from all allies and randomly 
-	  distributes them on enemies.
-	- Deals 135% damage to all enemies.
-	- >-
-	  Deals additional 15% damage per allocated status effect, up to 375% 
-	  damage in total.
+      Lifts all cleansable status ailments from all allies and randomly 
+      distributes them on enemies.
+    - Deals 135% damage to all enemies.
+    - >-
+      Deals additional 15% damage per allocated status effect, up to 375% 
+      damage in total.
   types:
     - Cleanser
     - Hit All
