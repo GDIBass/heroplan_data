@@ -1,0 +1,31 @@
+name: Persa
+class: Wizard
+source: untoldtales
+family: Nightmares of Atlantis
+speed: Changing Tides
+power: 964
+attack: 978
+defense: 1025
+health: 1501
+skill: Ocean's Ruin
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Steals all dispellable buffs from the target and randomly distributes them on allies.'
+  - ' * Deals 455% damage to the target.'
+  - ' * The target receives Spreading Corrosive Poison form 4 turns. The Spreading Corrosive Poison deals 215 Poison damage and lowers the target’s mana generation by -15% each turn. This effect spreads to nearby enemies.'
+  - '2nd:'
+  - ' * Steals all dispellable buffs from the target and randomly distributes them on allies.'
+  - ' * Deals 490% damage to the target.'
+  - ' * The target receives Spreading Corrosive Poison form 4 turns. The Spreading Corrosive Poison deals 250 Poison damage and lowers the target’s mana generation by -20% each turn. This effect spreads to nearby enemies.'
+types:
+  - Buff Stealer
+  - Hit 1
+  - DoT
+passives:
+  - >-
+    Effects on Special Skill
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * The caster get +19% mana generation for 2 turns.
+image: https://i.imgur.com/XWgWbVt.jpg
