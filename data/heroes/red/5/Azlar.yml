@@ -49,3 +49,25 @@ costume2:
     - Hit 3
     - DoT
   image: https://i.imgur.com/6N4jIyy.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 993
+  attack: 990
+  defense: 885
+  health: 1962
+  skill: Toon Explosion
+  effects:
+    - Deals 305% damage to all enemies.
+    - All enemies receive 384 damage over 2 turns.
+    - Deals extra damage against Nature.
+  types:
+    - Hit all
+    - DoT all
+  passives:
+    - 'Toon:'
+    - ' * 25% extra chance to resist status ailments.'
+    - ' * 25% extra chance to resist mana reductions.'
+    - ' * 25% extra chance to resist buff dispels.'
+    - Extra chances are calculated independently of other similar checks.
+  image: https://i.imgur.com/yS5bHHw.jpg
