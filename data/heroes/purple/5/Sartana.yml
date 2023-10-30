@@ -61,8 +61,8 @@ costume3:
     - Dot 1
   passives:
     - 'Toon:'
-    - * 25% extra chance to resist status ailments.
-    - * 25% extra chance to resist mana reductions.
-    - * 25% extra chance to resist buff dispels.
+    - ' * 25% extra chance to resist status ailments.'
+    - ' * 25% extra chance to resist mana reductions.'
+    - ' * 25% extra chance to resist buff dispels.'
     - Extra chances are calculated independently of other similar checks.
   image: https://i.imgur.com/V3r9sPS.jpg
