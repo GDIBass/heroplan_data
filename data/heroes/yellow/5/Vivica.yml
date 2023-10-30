@@ -32,7 +32,6 @@ costume:
     - Healer
     - Defense Debuff
     - Dispeller
-  family: Classic
   image: https://i.imgur.com/pm7wcbP.jpg
 costume2:
   class: Fighter
@@ -49,5 +48,29 @@ costume2:
     - Healer
     - Attack Debuff
     - Dispeller
-  family: Classic
   image: https://i.imgur.com/J8lGs8A.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 990
+  attack: 923
+  defense: 925
+  health: 2024
+  skill: Toon Heal
+  effects:
+    - Recovers 50% health for all allies.
+    - >-
+      All allies get +45% defense for 4 turns. For all Holy characters, this 
+      status effect becomes undispellable and lasts 2 turns longer.
+    - Cleanses status ailments from all allies.
+  types:
+    - Healer
+    - Defense buff
+    - Cleanser
+  passives:
+    - 'Toon:'
+    - * 25% extra chance to resist status ailments.
+    - * 25% extra chance to resist mana reductions.
+    - * 25% extra chance to resist buff dispels.
+    - Extra chances are calculated independently of other similar checks.
+  image: https://i.imgur.com/zJxvLuN.jpg

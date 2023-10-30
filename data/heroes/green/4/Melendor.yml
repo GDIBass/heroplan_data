@@ -32,3 +32,20 @@ costume:
     - Defense Buff
     - Dispeller
   image: https://i.imgur.com/5gxdGVM.jpg
+costume2:
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 729
+  attack: 684
+  defense: 830
+  health: 1231
+  skill: Fog of the Smoke Machine
+  effects:
+    - All allies regenerate 609 HP over 3 turns.
+    - All allies get +50% attack for 3 turns.
+    - Dispels buffs from all enemies.
+  types:
+    - Healer
+    - Attack Buff
+    - Dispeller
+  image: https://i.imgur.com/XVqcInX.jpg

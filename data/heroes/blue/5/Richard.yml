@@ -30,3 +30,42 @@ costume:
     - Hit 3
     - Attack Debuff
   image: https://i.imgur.com/WKQthMP.jpg
+costume2:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 990
+  attack: 847
+  defense: 757
+  health: 1609
+  skill: Dread Hammer
+  effects:
+    - Deals 300% damage to the tha target and nearby enemies.
+    - >-
+      The target and nearby enemies get -30% attack, and a further -2% decrease
+      every time they are hit during 4 turns.
+  types:
+    - Hit 3
+    - Attack Debuff
+  image: https://i.imgur.com/7TMtgd4.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 988
+  attack: 955
+  defense: 854
+  health: 2070
+  skill: Toon Hammer
+  effects:
+    - Deals 515% damage to the target and minor damage to nearby enemies.
+    - The target and nearby enemies get -24% attack for 6 turns.
+    - Deals extra damage against Fire.
+  types:
+    - Hit 3
+    - Attack Debuff
+  passives:
+    - 'Toon:'
+    - * 25% extra chance to resist status ailments.
+    - * 25% extra chance to resist mana reductions.
+    - * 25% extra chance to resist buff dispels.
+    - Extra chances are calculated independently of other similar checks.
+  image: https://i.imgur.com/2rEfoQ7.jpg

@@ -9,7 +9,7 @@ defense: 638
 health: 1328
 skill: Cleave and Counter
 effects:
-  - Deals 260% damage to the target and minor damage to nearby enemies
+  - Deals 310% damage to the target and minor damage to nearby enemies
   - The caster counterattacks with 115% of the damage received for 4 turns
 types:
   - Hit 3
@@ -30,9 +30,9 @@ costume:
       for 4 turns
   types:
     - Hit all
-  family: Classic
   image: https://i.imgur.com/SB2N0Vj.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Fighter
   power: 859
   attack: 829
@@ -51,5 +51,4 @@ costume2:
   types:
     - Hit 3
     - Counterattack
-  family: Classic
   image: https://i.imgur.com/jA79vt4.jpg

@@ -44,3 +44,25 @@ costume2:
     - Hit 1
     - Minion Blocking
   image: https://i.imgur.com/I8cTetD.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 995
+  attack: 912
+  defense: 902
+  health: 2135
+  skill: Toonstrike
+  effects:
+    - Deals 505% damage to the target.
+    - The target receives 357 Poison damage over 3 turns.
+    - Deals extra damage against Holy.
+  types:
+    - Hit 1
+    - Dot 1
+  passives:
+    - 'Toon:'
+    - * 25% extra chance to resist status ailments.
+    - * 25% extra chance to resist mana reductions.
+    - * 25% extra chance to resist buff dispels.
+    - Extra chances are calculated independently of other similar checks.
+  image: https://i.imgur.com/V3r9sPS.jpg

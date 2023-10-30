@@ -34,4 +34,5 @@ costume:
       effect can't be cleansed
   types:
     - Hit all
+    - Blind
   image: https://i.imgur.com/vPJgzTp.jpg

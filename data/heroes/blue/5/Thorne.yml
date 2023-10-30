@@ -9,7 +9,7 @@ defense: 793
 health: 1339
 skill: Icecold Finisher
 effects:
-  - Deals 480% damage to the target and minor damage to nearby enemies
+  - Deals 490% damage to the target and minor damage to nearby enemies
 types:
   - Hit 3
 image: https://i.imgur.com/9CT7f6V.jpg
