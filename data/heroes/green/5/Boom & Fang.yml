@@ -10,7 +10,7 @@ health: 1746
 skill: Boar Call
 effects:
   - >-
-    Summons a White Boar Mega Minion with 55% HP and 200% attack inherited from 
+    Summons a White Boar Mega Minion with 65% HP and 200% attack inherited from 
     the caster. 
   - >-
     When summoned the White Boar Mega Minion gives its owner the ability to 
@@ -20,7 +20,7 @@ types:
   - Summoner
 passives:
   - >-
-    Effects on Special Skill - 30% chance to perform the following actions when
+    Effects on Special Skill - 50% chance to perform the following actions when
     this character casts their Special Skill.
   - " * Deals 70% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."

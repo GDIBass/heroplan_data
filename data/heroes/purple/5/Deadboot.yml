@@ -16,14 +16,14 @@ effects:
   - >-
     Deals additional 50% damage per transferred status effect buff, 
     up to 625% damage in total.
-  - "Wither: The target gets -160 defense."
+  - "Wither: The target gets -300 defense."
 types:
   - Buff Stealer
   - Hit 1
   - Defense Debuff
 passives:
   - >-
-    Effects on Special Skill - 20% chance to perform the following actions when
+    Effects on Special Skill - 30% chance to perform the following actions when
     this character casts their Special Skill.
   - " * Deals 70% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."
