@@ -1,6 +1,7 @@
 name: Xnolphod
 class: Sorcerer
 source: Season4
+family: Underwild
 speed: Average
 power: 809
 attack: 768
@@ -19,9 +20,31 @@ types:
   - Heal All
   - Shield Enhance
   - Mana Increase
-family: Underwild
 passives:
   - >-
     Duration of the first 3 status ailments this hero receives from Special
     Skills is decreased by 1 turn.
 image: https://i.imgur.com/RF7rniv.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 918
+  attack: 867
+  defense: 935
+  health: 1631
+  skill: Entrapping Enchantment
+  effects:
+    - All allies regenerate 1060 HP over 4 turns.
+    - All allies receive a small amount of mana over 4 turns.
+    - >-
+      Alters the power of all Dark Shields on the board. When an attacking Hero
+      casts the special, the enhanced shields give 37% more mana. When a defending
+      Hero casts the special, the shields become weakened and give -30% less mana.
+  types:
+    - HoT
+    - Mana regen
+  passives:
+    - >-
+      Decrease Ailment Duration: Duration of the first 3 status ailments this 
+      character receives from Special Skill is decreased by 1 turn.
+  image: https://i.imgur.com/s1HpuGG.jpg

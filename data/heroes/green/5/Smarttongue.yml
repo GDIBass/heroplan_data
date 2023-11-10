@@ -9,7 +9,7 @@ defense: 949
 health: 1668
 skill: Goblin Serenade
 effects:
-  - "Wither: All enemies get -250 attack."
+  - "Wither: All enemies get -350 attack."
   - >-
     Reduces max health for all enemies by 600. This effect is stronger against 
     targets with boosted health. (Max health can’t be lower than the 30% of the original max health. Any boosted health is reduced by an additional 600.)
@@ -20,7 +20,7 @@ types:
   - Defense Debuff
 passives:
   - >-
-    Effects on Special Skill - 30% chance to perform the following actions when
+    Effects on Special Skill - 50% chance to perform the following actions when
     this character casts their Special Skill.
   - " * Deals 70% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."

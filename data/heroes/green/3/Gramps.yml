@@ -1,6 +1,7 @@
 name: Gramps
 class: Cleric
 source: Season4
+family: Underwild
 speed: Slow
 power: 478
 attack: 448
@@ -13,9 +14,27 @@ effects:
 types:
   - Revive
   - Mana regen
-family: Underwild
 passives:
   - >-
     Received damage is reduced by -20% for the first 3 times this Hero receives
     damage from Special Skills
 image: https://i.imgur.com/QGwMonb.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 488
+  attack: 459
+  defense: 515
+  health: 850
+  skill: Gardener’s Remedy
+  effects:
+    - Each fallen ally has a 33% chance to get revived with 23% HP.
+    - All allies regenerate 324 HP over 4 turns.
+  types:
+    - Reviver
+    - HoT
+  passives:
+    - >-
+      Special Skill Damage Reduction: Received damage is reduced by -20% for 
+      the first 3 times this character receives damage from Special Skills
+  image: https://i.imgur.com/8hGBh7z.jpg
