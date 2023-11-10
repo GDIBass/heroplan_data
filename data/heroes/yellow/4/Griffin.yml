@@ -1,6 +1,7 @@
 name: Griffin
 class: Rogue
 source: Season4
+family: Underwild
 speed: Fast
 power: 677
 attack: 739
@@ -13,9 +14,29 @@ effects:
 types:
   - Hit 1
   - Bypass
-family: Underwild
 passives:
   - >-
     First time this Hero casts Special Skill that does damage, additional 30% is
     added to its power.
 image: https://i.imgur.com/MRV1QX0.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 692
+  attack: 757
+  defense: 669
+  health: 1110
+  skill: Divine Lunge
+  effects:
+    - Deals 320% damage to the target.
+    - >-
+      The caster and nearby allies bypass defense buffs with their attacks for 2 turns. 
+      Defensive buffs include counterattacks.
+  types:
+    - Hit 1
+    - Bypass
+  passives:
+    - >-
+      Increased Special Skill Damage: The first time this character casts a 
+      Special Skill that deals damage, an additional 30% is added to its power
+  image: https://i.imgur.com/bhRfq5i.jpg
