@@ -10,7 +10,7 @@ health: 1680
 skill: The Eagle’s Blessing
 effects:
   - Recovers 25% health of all allies.
-  - "Growth: All allies get 125 attack and 125 defense."
+  - "Growth: All allies get 180 attack and 180 defense."
   - >-
     All allies have 50% chance to deal 270% damage to a random enemy after any 
     subsequent allied Special Skill is cast for 3 turns. 
@@ -21,7 +21,7 @@ types:
   - Defense buff
 passives:
   - >-
-    Effects on Special Skill - 30% chance to perform the following actions when
+    Effects on Special Skill - 50% chance to perform the following actions when
     this character casts their Special Skill.
   - " * Deals 70% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."
