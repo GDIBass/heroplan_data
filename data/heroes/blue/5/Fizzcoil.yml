@@ -1,0 +1,28 @@
+name: Fizzcoil
+class: Rogue
+source: goblinvillage
+family: goblin
+speed: Fast
+power: 954
+attack: 999
+defense: 931
+health: 1563
+skill: Shady Concerto
+effects:
+  - Deals 240% damage to all enemies.
+  - "Wither: All enemies get -160 attack and -160 defense."
+  - >-
+    All enemies get -30% mana generation for 3 turns. If the effect is removed 
+    before the duration ends, the mana of the target with the effect is reduced 
+    by -5% mana.
+types:
+  - Hit all
+  - Wither
+  - Mana generation debuff
+passives:
+  - >-
+    Effects on Special Skill - 40% chance to perform the following actions when
+    this character casts their Special Skill.
+  - " * Deals 90% damage to all enemies."
+  - " * All enemies get -25% accuracy for 3 turns."
+image: https://i.imgur.com/VpPwqgQ.jpg
