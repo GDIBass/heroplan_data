@@ -13,13 +13,13 @@ effects:
   - '1x Mana Charge:'
   - ' * Deals 290% damage to the target.'
   - >-
-     * The target receives 588 Poision damage over 3 turns. The caster absorbs 
-    100% of the dealt Poison damage as heath.
+    ' * The target receives 588 Poision damage over 3 turns. The caster absorbs 
+    100% of the dealt Poison damage as heath.'
   - '2x Mana Charge:'
   - ' * Deals 300% damage to all enemies.'
   - >-
-    * All enemies receives 730 Poision damage over 5 turns. The caster and all
-    their allies absorb 30% of the dealt Poison damage as health.
+    '* All enemies receives 730 Poision damage over 5 turns. The caster and all
+    their allies absorb 30% of the dealt Poison damage as health.'
 types:
   - Hit 1
   - Hit all
