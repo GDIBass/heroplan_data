@@ -1,0 +1,36 @@
+name: Jett
+class: Wizard
+source: Magic
+family: Magic
+speed: Magic
+power: 954
+attack: 959
+defense: 931
+health: 1668
+skill: Vapors of the Underworld
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200% mana:'
+  - '1x Mana Charge:'
+  - ' * Deals 290% damage to the target.'
+  - >-
+    ' * The target receives 588 Poision damage over 3 turns. The caster absorbs 
+    100% of the dealt Poison damage as heath.'
+  - '2x Mana Charge:'
+  - ' * Deals 300% damage to all enemies.'
+  - >-
+    '* All enemies receives 730 Poision damage over 5 turns. The caster and all
+    their allies absorb 30% of the dealt Poison damage as health.'
+types:
+  - Hit 1
+  - Hit all
+  - Dot
+passives:
+  - >-
+    Stack on Special: When this character casts their Special Skill, all enemies 
+    get -5% mana generation stack. If the Special Skill is fully changed, all 
+    enemies get two stacks. An enemy can have up to 10 stacks.
+  - >-
+    Health Recovery on Special: When this character casts their Special Skill, 
+    they have a 50% chance to recover 15% health for all allies. If the Special 
+    Skill is fully changed, the chance is 100%.
+image: https://i.imgur.com/bHuMYnz.jpg
