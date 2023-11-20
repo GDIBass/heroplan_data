@@ -1,6 +1,7 @@
 name: Holly
 class: Cleric
 source: Christmas
+family: Christmas
 speed: Slow
 power: 684
 attack: 622
@@ -13,7 +14,7 @@ effects:
     Recovers additional 3% health per each Holy shield on the board, up to 44%
     health in total.
   - >-
-    Summons an Elf Minion for each ally with 7% HP and 10% attack inherited from
+    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from
     the caster.
   - >-
     All allies get +14% attack, and a further 5% increase per each Holy shield
@@ -22,5 +23,4 @@ types:
   - Healer
   - Summoner
   - Attack Buff
-family: Christmas
 image: https://i.imgur.com/n6rgqje.jpg

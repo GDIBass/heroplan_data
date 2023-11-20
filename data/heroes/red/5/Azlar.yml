@@ -58,8 +58,8 @@ costume3:
   health: 1962
   skill: Toon Explosion
   effects:
-    - Deals 305% damage to all enemies.
-    - All enemies receive 384 damage over 2 turns.
+    - Deals 355% damage to all enemies.
+    - All enemies receive 462 damage over 2 turns.
     - Deals extra damage against Nature.
   types:
     - Hit all

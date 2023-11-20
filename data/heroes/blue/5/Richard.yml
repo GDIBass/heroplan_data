@@ -56,7 +56,7 @@ costume3:
   health: 2070
   skill: Toon Hammer
   effects:
-    - Deals 515% damage to the target and minor damage to nearby enemies.
+    - Deals 565% damage to the target and minor damage to nearby enemies.
     - The target and nearby enemies get -24% attack for 6 turns.
     - Deals extra damage against Fire.
   types:

@@ -1,6 +1,7 @@
 name: Augustus
 class: Druid
 source: Christmas
+family: Christmas
 speed: Slow
 power: 836
 attack: 793
@@ -14,7 +15,7 @@ effects:
     Boosts health by additional 30 per each Nature shield on the board, up to
     930 boosted health.
   - >-
-    Summons an Elf Minion for each ally with 7% HP and 10% attack inherited from
+    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from
     the caster.
   - >-
     All allies get +34% defense and a further 6% increase per each Nature
@@ -24,5 +25,4 @@ types:
   - Health Boost
   - Summoner
   - Defense Buff
-family: Christmas
 image: https://i.imgur.com/AEEIfML.jpg

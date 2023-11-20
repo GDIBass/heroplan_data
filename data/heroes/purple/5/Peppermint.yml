@@ -1,6 +1,7 @@
 name: Peppermint
 class: Sorcerer
 source: Christmas
+family: Christmas
 speed: Average
 power: 836
 attack: 824
@@ -10,7 +11,7 @@ skill: Putrid Perfume
 effects:
   - Deals 250% damage to all enemies.
   - >-
-    Summons an Elf Minion for each ally with 7% HP and 10% attack inherited from
+    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from
     the caster.
   - >-
     All enemies receive 280 Poison damage, and an increase of 16 damage per each
@@ -19,5 +20,4 @@ types:
   - Hit All
   - Summoner
   - Dot All
-family: Christmas
 image: https://i.imgur.com/egM1t1a.jpg
