@@ -58,7 +58,7 @@ costume3:
   health: 2024
   skill: Toon Heal
   effects:
-    - Recovers 50% health for all allies.
+    - Recovers 54% health for all allies.
     - >-
       All allies get +45% defense for 4 turns. For all Holy characters, this 
       status effect becomes undispellable and lasts 2 turns longer.
