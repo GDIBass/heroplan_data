@@ -1,0 +1,27 @@
+name: Starwalker
+class: Druid
+source: BlackFriday
+family: AstralElves
+speed: Fast
+power: 975
+attack: 994
+defense: 964
+health: 1664
+skill: Scepter of Constellations
+effects:
+  - Deals 200% damage to all enemies.
+  - Deals 450 extra damage if the target has boosted health.
+  - >-
+    All enemies get -35% defense for 3 turns. If the effect is removed before 
+    the duration ends, the target with effect suffers 551 damage.
+types:
+  - Hit all
+  - Defense debuff
+passives:
+  - >-
+    Share Received Damage: 20% of damage received by this charater is shared 
+    with other allies.
+  - >-
+    Resist Blind: This character has innate resistance against status ailments 
+    that affect accuracy. Doesn’t apply to status effects from allies.
+image: https://i.imgur.com/GZxuVqX.jpg
