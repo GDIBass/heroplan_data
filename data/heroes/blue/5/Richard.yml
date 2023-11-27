@@ -64,8 +64,8 @@ costume3:
     - Attack Debuff
   passives:
     - 'Toon:'
-    - ' * 25% extra chance to resist status ailments.'
-    - ' * 25% extra chance to resist mana reductions.'
-    - ' * 25% extra chance to resist buff dispels.'
+    - ' * 75% extra chance to resist status ailments.'
+    - ' * 75% extra chance to resist mana reductions.'
+    - ' * 75% extra chance to resist buff dispels.'
     - Extra chances are calculated independently of other similar checks.
   image: https://i.imgur.com/2rEfoQ7.jpg

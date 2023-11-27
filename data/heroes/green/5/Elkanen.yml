@@ -16,6 +16,7 @@ types:
   - Self Heal
 image: https://i.imgur.com/gkqoNuc.jpg
 costume:
+  family: Classic
   bonuses: 5/5/10/5
   class: Barbarian
   power: 798
@@ -31,9 +32,9 @@ costume:
   types:
     - Hit 3
     - Healing Steal
-  family: Classic
   image: https://i.imgur.com/r8h2KIN.jpg
 costume2:
+  family: Classic
   class: Paladin
   power: 862
   attack: 805
@@ -48,5 +49,26 @@ costume2:
   types:
     - Hit All
     - Healing Decrease
-  family: Classic
   image: https://i.imgur.com/45ULmYn.jpg
+costume3:
+  family: Classic
+  class: Cleric
+  power: 1025
+  attack: 1020
+  defense: 942
+  health: 2000
+  skill: Toon Spear
+  effects:
+    - Deals 410% damage to the target and minor damage to nearby enemies.
+    - Heals the caster for 35% of damage dealt.
+    - Deals extra damage against Ice.
+  types:
+    - Hit 3
+    - Self Heal
+  passives:
+    - 'Toon:'
+    - ' * 75% extra chance to resist status ailments.'
+    - ' * 75% extra chance to resist mana reductions.'
+    - ' * 75% extra chance to resist buff dispels.'
+    - Extra chances are calculated independently of other similar checks.
+  image: https://i.imgur.com/6SvyBu6.jpg
