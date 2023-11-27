@@ -32,3 +32,18 @@ costume:
     - Health Boost
     - Elemental Defnese Buff
   image: https://i.imgur.com/5DjkhS8.jpg
+costume2:
+  family: Classic
+  class: Druid
+  power: 736
+  attack: 598
+  defense: 764
+  health: 1632
+  skill: Scaly Skin
+  effects:
+    - The caster and nearby allies regenerate 459 HP over 3 turns.
+    - The caster and nearby allies get +54% defense against Special Skills for 3 turns.
+  types:
+    - Healer 3
+    - Special Skill Defense Buff
+  image: https://i.imgur.com/54DNXMH.jpg

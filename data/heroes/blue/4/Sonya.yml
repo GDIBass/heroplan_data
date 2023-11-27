@@ -30,3 +30,18 @@ costume:
     - Hit 1
     - Cleanser
   image: https://i.imgur.com/R1MhQgF.jpg
+costume2:
+  family: Classic
+  class: Rogue
+  power: 734
+  attack: 817
+  defense: 708
+  health: 1179
+  skill: Wrenching Strike
+  effects:
+    - Deals 345% damage to the target.
+    - All enemies are immune to new status effect buffs for 2 turns.
+  types:
+    - Hit 1
+    - Buff imunity to all
+  image: https://i.imgur.com/9fhb23h.jpg
