@@ -1,29 +1,28 @@
-name: Phantom of the Opera
+name: Raul
 class: Fighter
 source: Solstice
 family: opera
 speed: Average
-power: 955
-attack: 945
-defense: 933
-health: 1707
-skill: Ballad of Obsession
+power: 691
+attack: 750
+defense: 629
+health: 1198
+skill: Ballad of Attraction
 effects:
-  - Deals 405% damage to the target and nearby enemies.
+  - Deals 120% damage to the target and nearby enemies.
   - >-
-    The target and nearby enemies dance to Ballad of Obsession for 4 turns. 
+    The target and nearby enemies dance to Ballad of Attraction for 3 turns. 
     All existing status effects will be removed when this effect is added.
-  - Ballad of Obsession
-  - "* -40% mana generation."
-  - "* -40% decrease for any healing received."
-  - "* Gives immunity to new status effects."
+  - Ballad of Attraction
+  - "* -20% mana generation."
+  - "* -20% decrease for any healing received."
+  - "* Gives immunity to new status effects. New dance status effects will replace this effect."
   - "* This effect cannot be dispelled. The effect is removed when the caster dies."
 types:
   - Hit 3
-  - Cleanser
-  - Mana Generation
-  - Healing Decrease
-  - Buff Immunity Debuff
+  - Mana gen debuff
+  - Healing debuff
+  - Buff immunity
 passives:
   - >- 
     Heal when status ailment expires or is cleared: This character receives 10% 
@@ -32,4 +31,4 @@ passives:
   - >-
     Resist Attack Ailments: This character has innate resistance against status 
     ailments that affect attack.
-image: https://i.imgur.com/7nuGOll.jpg
+image: https://i.imgur.com/QmSXHcR.jpg
