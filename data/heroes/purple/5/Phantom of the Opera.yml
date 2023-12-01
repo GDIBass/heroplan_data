@@ -3,10 +3,10 @@ class: Fighter
 source: Solstice
 family: opera
 speed: Average
-power: 942
-attack: 933
-defense: 920
-health: 1670
+power: 955
+attack: 945
+defense: 933
+health: 1707
 skill: Ballad of Obsession
 effects:
   - Deals 405% damage to the target and nearby enemies.
@@ -29,4 +29,7 @@ passives:
     Heal when status ailment expires or cleansed: This character receives 10% 
     health each time a status ailment expires or is cleansed, removed or 
     reallocated from them. This effect can activate only once per turn.
+  - >-
+    Resist Attack Ailments: This character has innate resistance against status 
+    ailments that affect attack.
 image: https://i.imgur.com/7nuGOll.jpg
