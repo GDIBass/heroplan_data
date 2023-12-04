@@ -3,13 +3,13 @@ class: Monk
 speed: Very Fast
 source: SuperElemental
 family: SuperElemental
-power: 835
+power: 895
 attack: 883
 defense: 778
 health: 1742
 skill: Archaic Sacred Symbol
 effects:
-  - Deals 175% damage to all enemies.
+  - Deals 200% damage to all enemies.
   - >-
     All Dark enemies get -34% accuracy for 3 turns. [Chance to miss also applies
     to offensive Special Skills.]
@@ -21,9 +21,11 @@ types:
   - Elemental
 passives:
   - >-
-    This character’s Troops deal 100% more additional damage against weaker
-    element.
+    Passive Skill as attacking character: This hero’s Troops deal extra 
+    elemental damage against weaker element.
+  - ' - Dealt extra elemental damage: +100%'
   - >-
-    This character receives 10% less additional damage from Troops of stronger
-    element.
+    Passive Skill as defending character: This hero receives less elemental 
+    damage from Troops of stronger element.
+  - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/sJ0rROO.jpg
