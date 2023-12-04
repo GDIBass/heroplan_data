@@ -1,9 +1,9 @@
 name: Queen Guowang
-source: Kingdom
 class: Sorcerer
-speed: Average
+source: Kingdom
 family: Journey
-power: 842
+speed: Average
+power: 862
 attack: 797
 defense: 832
 health: 1608
@@ -16,7 +16,7 @@ effects:
     received if this status effect is removed during a Special Skill
   - >-
     The caster gets Vengeance for 4 turns. If Vengeance is dispelled by an
-    enemy’s Special Skill, all enemies receive 525 damage
+    enemy’s Special Skill, all enemies receive 525 damage.
 types:
   - Hit All
 image: https://i.imgur.com/CNKl3X2.jpg

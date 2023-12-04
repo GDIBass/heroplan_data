@@ -1,9 +1,9 @@
 name: Zhuge Liang
-source: Kingdom
 class: Sorcerer
-speed: Slow
+source: Kingdom
 family: Kingdom
-power: 825
+speed: Slow
+power: 835
 attack: 710
 defense: 879
 health: 1545
@@ -14,7 +14,7 @@ effects:
     inherited from the caster.
   - >-
     Shu Soldier Minion gives it’s owner the ability to counterattack with 60%
-    50% of the damage received as long as the owner has a Shu Soldier Minion.
+    of the damage received as long as the owner has a Shu Soldier Minion.
     This effect can’t be dispelled.
   - >-
     Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages its target
