@@ -3,10 +3,10 @@ class: Paladin
 source: Solstice
 family: opera
 speed: Average
-power: 940
-attack: 873
-defense: 945
-health: 1753
+power: 955
+attack: 887
+defense: 959
+health: 1796
 skill: Dance of the Swan
 effects:
   - The caster regenerates 609 HP over 3 turns.
@@ -15,15 +15,19 @@ effects:
   - Dance of the Swan
   - "* +45% chance to dodge attacks and Special Skills."
   - "* 50% chance to deal 360 % damage to a random enemy after any subsequent allied Special Skill is cast."
-  - "* Gives immunity to new status effects."
-  - "* This effect cannot be dispelled. This effect is removed when the caster dies."
+  - "* Gives immunity to new status effects. New dance status effects will replace this effect."
+  - "* This effect cannot be dispelled. This effect is removed when the caster is defeated."
 types:
   - Self heal
   - Dodge Buff
   - Status Ailment Immunity
 passives:
   - >- 
-    Heal when status ailment expires or cleansed: This character receives 10% 
+    Heal when status ailment expires or is cleared: This character receives 10% 
     health each time a status ailment expires or is cleansed, removed or 
     reallocated from them. This effect can activate only once per turn.
+  - >-
+    Resist Defense Ailments: This character has innate resistance against status
+    ailments that affect defense. Doesn’t apply to status ailments that affect 
+    elemental defense.
 image: https://i.imgur.com/ATDUydH.jpg

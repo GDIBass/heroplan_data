@@ -1,7 +1,7 @@
 name: Sha Wujing
 class: Monk
 source: Kingdom
-family: Kingdom
+family: Journey
 speed: Average
 power: 933
 attack: 924
@@ -23,5 +23,4 @@ passives:
   - >-
     Mana on Buff Received - This characters has a 50% chance to recover 10% mana 
     when they receive a buff or a positive stack.
-
 image: https://i.imgur.com/zNMCJKX.jpg

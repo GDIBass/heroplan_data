@@ -1,9 +1,9 @@
 name: Diaochan
 source: Kingdom
+family: Kingdom
 class: Sorcerer
 speed: Fast
-family: Kingdom
-power: 825
+power: 835
 attack: 805
 defense: 797
 health: 1466

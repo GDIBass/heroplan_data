@@ -1,9 +1,9 @@
 name: Guan Yu
-source: Kingdom
 class: Paladin
-speed: Average
+source: Kingdom
 family: Kingdom
-power: 825
+speed: Average
+power: 835
 attack: 826
 defense: 774
 health: 1464

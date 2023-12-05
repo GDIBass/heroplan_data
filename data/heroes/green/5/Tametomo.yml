@@ -1,0 +1,27 @@
+name: Tametomo
+class: Ranger
+source: Ninja
+family: Ninja
+speed: Charge
+power: 876
+attack: 922
+defense: 762
+health: 1536
+skill: Splintering Shot
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - ' - Deals 250% damage to the target.'
+  - ' - Deals 500% damage if the target has more than 50% health remaining.'
+  - ' - Deals an additional 250% damage to the nearby enemies.'
+  - 'x2 Mana Charge:'
+  - ' - Deals 300% damage to the target.'
+  - ' - Deals 600% damage if the target has more than 50% health remaining.'
+  - ' - Deals an additional 350% damage to the nearby enemies.'
+  - 'x3 Mana Charge:'
+  - ' - Deals 350% damage to the target.'
+  - ' - Deals 700% damage if the target has more than 50% health remaining.'
+  - ' - Deals an additional 450% damage to the nearby enemies.'
+types:
+  - Hit 3
+image: https://i.imgur.com/QuMcU9O.jpg

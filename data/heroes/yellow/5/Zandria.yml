@@ -3,7 +3,7 @@ class: Paladin
 speed: Very Slow
 source: SuperElemental
 family: SuperElemental
-power: 835
+power: 895
 attack: 815
 defense: 879
 health: 1711
@@ -22,12 +22,11 @@ types:
   - Reviver
 passives:
   - >-
-    This character’s Troops deal 100% more additional damage against weaker
-    element.
+    Passive Skill as attacking character: This hero’s Troops deal extra 
+    elemental damage against weaker element.
+  - ' - Dealt extra elemental damage: +100%'
   - >-
-    This character receives 10% less additional damage from Troops of stronger
-    element.
-  - >-
-    This Hero has an innate resistance against incoming negative effects and
-    damage from Minions.
+    Passive Skill as defending character: This hero receives less elemental 
+    damage from Troops of stronger element.
+  - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/h5xLq71.jpg

@@ -1,9 +1,9 @@
 name: Lu Bu
-source: Kingdom
 class: Barbarian
-speed: Slow
+source: Kingdom
 family: Kingdom
-power: 825
+speed: Slow
+power: 835
 attack: 788
 defense: 801
 health: 1505

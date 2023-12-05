@@ -1,9 +1,9 @@
 name: Sun Quan
 class: Ranger
-speed: Average
 source: Kingdom
 family: Kingdom
-power: 828
+speed: Average
+power: 838
 attack: 791
 defense: 797
 health: 1528

@@ -1,0 +1,26 @@
+name: Firmin Richard
+class: Paladin
+source: Solstice
+family: opera
+speed: Very Fast
+power: 957
+attack: 937
+defense: 887
+health: 1827
+skill: Voice of Authority
+effects:
+  - Deals 175% damage to the all enemies.
+  - 'Stack (Max: 10): All allies get +20% attack.'
+  - 'Stack (Max: 10): All alies get +20% defense.'
+types:
+  - Hit all
+  - Stack
+passives:
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 5% 
+    health each time a status ailment expires or is cleansed, removed or 
+    reallocated from them. This effect can activate only once per turn.
+  - >-
+    Resist Attack Ailments: This character has innate resistance against status 
+    ailments that affect attack.
+image: https://i.imgur.com/I63hfD5.jpg

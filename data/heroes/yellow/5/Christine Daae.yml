@@ -1,0 +1,34 @@
+name: Christine Daae
+class: Cleric
+source: Solstice
+family: opera
+speed: Fast
+power: 957
+attack: 994
+defense: 894
+health: 1672
+skill: Ballad of Passion
+effects:
+  - Deals 355% damage to the target and nearby enemies.
+  - >-
+    The target and nearby enemies dance to Ballad of Passion for 3 turns. 
+    All existing status effects will be removed when this effect is added.
+  - Ballad of Passion
+  - "* -40% acuracy."
+  - "* -40% defense."
+  - "* Gives immunity to new status effects. New dance status effects will replace this effect."
+  - "* This effect cannot be dispelled. The effect is removed when the caster dies."
+types:
+  - Hit 3
+  - Blind
+  - Defense debuff
+  - Buff immunity
+passives:
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 5% 
+    health each time a status ailment expires or is cleansed, removed or 
+    reallocated from them. This effect can activate only once per turn.
+  - >-
+    Resist Attack Ailments: This character has innate resistance against status 
+    ailments that affect attack.
+image: https://i.imgur.com/x8CUwhf.jpg

@@ -1,9 +1,9 @@
 name: Zhang Fei
-source: Kingdom
 class: Fighter
-speed: Fast
+source: Kingdom
 family: Kingdom
-power: 825
+speed: Fast
+power: 835
 attack: 856
 defense: 758
 health: 1417
