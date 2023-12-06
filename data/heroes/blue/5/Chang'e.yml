@@ -9,7 +9,7 @@ defense: 990
 health: 1678
 skill: Lunar Locket
 effects:
-  - Deals 3100% damage to all enemies.
+  - Deals 310% damage to all enemies.
   - >-
     All enemies cannot cast any new status effects on enemies or allies for 4 
     turns. This includes stacks. This only includes status effects cast with Special 
