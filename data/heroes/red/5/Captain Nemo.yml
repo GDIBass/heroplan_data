@@ -17,7 +17,7 @@ passives:
   - This character receives 20% mana at the start of the battle.
 image: https://i.imgur.com/lNl4PPg.jpg
 costume:
-  bonuses: 13/13/24/5
+  bonuses: 5/5/10/5
   class: Wizard
   power: 918
   attack: 940
