@@ -1,6 +1,7 @@
 name: Captain Nemo
 class: Fighter
 source: Season4
+family: Underwild
 speed: Fast
 power: 809
 attack: 821
@@ -14,5 +15,22 @@ types:
   - Hit 1
 passives:
   - This character receives 20% mana at the start of the battle.
-family: Underwild
 image: https://i.imgur.com/lNl4PPg.jpg
+costume:
+  bonuses: 13/13/24/5
+  class: Wizard
+  power: 918
+  attack: 940
+  defense: 854
+  health: 1613
+  skill: Machinist’s Cutlass
+  effects:
+    - Deals 370% damage to the target.
+    - Deals 555% damage if the caster has status ailments or negative stacks.
+  types:
+    - Hit 1
+  passives:
+    - >-
+      Start Battle with Mana: This character receives 20% mana at the start
+      of the battle.
+  image: https://i.imgur.com/UjiSmNx.jpg
