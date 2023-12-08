@@ -1,6 +1,7 @@
 name: Helo
 class: Druid
 source: Season4
+family: Underwild
 speed: Average
 power: 478
 attack: 457
@@ -13,9 +14,27 @@ effects:
 types:
   - Heal All
   - Cleanse All
-family: Underwild
 passives:
   - >-
     Duration of the first 3 buffs this hero receives from Special Skills is
     increased by 1 turn
 image: https://i.imgur.com/e1OFOms.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 488
+  attack: 466
+  defense: 524
+  health: 814
+  skill: Fishiest Pastry
+  effects:
+    - All allies regenerate 411 HP over 3 turns.
+    - Cleanses status ailments from all allies.
+  types:
+    - HoT
+    - Cleanser
+  passives:
+    - >-
+      Increase Buff Duration: Duration of the first 3 buffs this character 
+      receives from Special Skill is increased by 1 turn.
+  image: https://i.imgur.com/c9F3Wjn.jpg
