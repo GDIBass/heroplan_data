@@ -1,0 +1,29 @@
+name: Leafwhisk
+class: Paladin
+source: goblinvillage
+family: goblin
+speed: Average
+power: 980
+attack: 994
+defense: 1021
+health: 1584
+skill: Flute of Echantment
+effects:
+  - Growth: All allies get 355 defense.
+  - >-
+    Summons a Spotted Boar Mega Minion with 65% HP and 210% attack inherited 
+    from the caster.
+  - >-
+    When summoned the Spotted Boar Mega Minion gives its owner immunity to buff
+    dispels and reallocation for as long as the owner has a Spotted Boar Mega 
+    Minion. This immunity also includes this effect itself.
+types:
+  - Growth defense
+  - Mega Minion
+passives:
+  - >-
+    Effects on Special Skill - 50% chance to perform the following actions when
+    this character casts their Special Skill.
+  - " * Deals 90% damage to all enemies."
+  - " * All enemies get -25% accuracy for 3 turns."
+image: https://i.imgur.com/Y6zioBg.jpg
