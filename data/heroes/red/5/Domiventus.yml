@@ -1,0 +1,29 @@
+name: Domiventus
+class: Fighter
+source: untoldtales
+family: Nightmares of Atlantis
+speed: Changing Tides
+power: 981
+attack: 968
+defense: 974
+health: 1753
+skill: Supernova
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Deals 350% damage to the target and nearby enemies.'
+  - ' * The target and nearby enemies receive Corrosive Burn over 4 turns. The Corrosive Burn deals 130 Burn damage and lowers the target’s defense by -12% each turn.'
+  - '2nd:'
+  - ' * Deals 390% damage to the target and nearby enemies.'
+  - ' * The target and nearby enemies receive Corrosive Burn over 4 turns. The Corrosive Burn deals 159 Burn damage and lowers the target’s defense by -16% each turn.'
+types:
+  - Hit 3
+  - DoT
+  - Defense debuff
+passives:
+  - >-
+    Effects on Special Skill
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * The caster get +19% mana generation for 2 turns.
+image: https://i.imgur.com/kgTv3pm.jpg
