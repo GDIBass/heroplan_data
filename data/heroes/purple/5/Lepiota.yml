@@ -51,4 +51,6 @@ costume:
     - Last enemy left in the battle can't be shifted to Abyss Ghost form.
   types:
     - Abyss Ghost
+  passives:
+    - 'Boost Health on Special: On Special Skill cast, boosts all allies’ HP by 10%.'
   image: https://i.imgur.com/MgzgOOM.jpg

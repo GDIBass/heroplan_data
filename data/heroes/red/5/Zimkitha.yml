@@ -39,5 +39,7 @@ costume:
   types:
     - Dispeller
     - Hit all
+  passives:
+    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
   image: https://i.imgur.com/M65Mn9a.jpg
   bonuses: 3/3/6/1

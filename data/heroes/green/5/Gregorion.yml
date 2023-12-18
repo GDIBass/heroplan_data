@@ -14,6 +14,7 @@ effects:
     Element Link gives all Nature allies +5% attack and +5% defense for 6 turns.
     This effect can't be cleansed
 types:
+  - Hit 1
   - Critical Hit Buff
 family: 2018
 image: https://i.imgur.com/Vz5Hvbn.jpg

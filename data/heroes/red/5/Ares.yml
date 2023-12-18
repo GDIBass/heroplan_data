@@ -44,5 +44,7 @@ costume:
     - Attack Buff
     - Counterattack
     - Health Boost
+  passives:
+    - 'Cleanse on Special: On Special Skill cast, cleanse the newest status ailment from all allies.'
   image: https://i.imgur.com/Pf1h54r.jpg
   bonuses: 3/3/6/1

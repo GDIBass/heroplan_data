@@ -41,5 +41,7 @@ costume:
     - Share Damage
     - Defense Buff
     - Healer
+  passives:
+    - 'Cleanse on Special: On Special Skill cast, cleanse the newest status ailment from all allies.'
   image: https://i.imgur.com/JN0Ddwo.jpg
   bonuses: 3/3/6/1

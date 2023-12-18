@@ -35,4 +35,6 @@ costume:
   types:
     - Hit 3
     - Self Heal
+  passives:
+    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
   image: https://i.imgur.com/dt3i5jN.jpg

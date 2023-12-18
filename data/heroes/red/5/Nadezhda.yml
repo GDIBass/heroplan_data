@@ -11,10 +11,10 @@ skill: Flame of the Dragon Familiar
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
-  - ' * The target and nearby enemies receive 116 Burn damage over 2 turns.'
+  - ' * The target and nearby enemies receive 156 Burn damage over 2 turns.'
   - ' * If the caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.'
   - '2x Mana Charge:'
-  - ' * Each fallen ally has a 44% chance to get revived with 40% HP.'
+  - ' * Each fallen ally has a 50% chance to get revived with 40% HP.'
   - ' * All allies regenerate 714 HP over 3 turns.'
   - ' * All allies reduce all received damage by -50% for 3 turns.'
 types:

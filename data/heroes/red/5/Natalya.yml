@@ -45,4 +45,6 @@ costume:
   types:
     - Dot 1
     - Mana Generation Debuff
+  passives:
+    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
   image: https://i.imgur.com/IO9WHYd.jpg

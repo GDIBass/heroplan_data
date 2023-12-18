@@ -40,5 +40,7 @@ costume:
   types:
     - Hit 3
     - Defense Debbuff
+  passives:
+    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
   image: https://i.imgur.com/MA6JXX4.jpg
   bonuses: 3/3/6/1

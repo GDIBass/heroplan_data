@@ -8,7 +8,7 @@ defense: 698
 health: 1367
 skill: Everlasting Wound
 effects:
-  - Deal 355% damage to the target.
+  - Deal 405% damage to the target.
   - >- 
     The target gets -100% decrease for any healing received for 4 turns. 
     This effect can’t be cleansed.
@@ -29,7 +29,7 @@ costume:
   health: 1449
   skill: Arctic Wound
   effects:
-    - Deals 305% damage to the target and nearby enemies.
+    - Deals 355% damage to the target and nearby enemies.
     - >-
       The target and nearby enemies get -100% decrease of any healing received
       for 4 turns. This effect can’t be cleansed.
@@ -41,5 +41,7 @@ costume:
     - Hit 3
     - Elemental Defense Debuff
     - Healing Debuff
+  passives:
+    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
   image: https://i.imgur.com/nzVNwio.jpg
   bonuses: 3/3/6/1
