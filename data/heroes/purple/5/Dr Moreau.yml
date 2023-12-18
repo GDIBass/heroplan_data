@@ -41,7 +41,7 @@ costume:
     - Accuracy Debuff
   passives:
     - >-
-    Increased Damage Against Boosted Health- After Special Skill cast, all 
-    allies' normal attacks and Special Skills deal +70% damage against targets 
-    with boosted health for 4 turns.
+      Increased Damage Against Boosted Health: After Special Skill cast, all 
+      allies' normal attacks and Special Skills deal +70% damage against targets 
+      with boosted health for 4 turns.
   image: https://i.imgur.com/WWxEz6I.jpg
