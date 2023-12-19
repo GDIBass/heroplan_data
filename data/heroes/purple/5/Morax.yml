@@ -3,7 +3,7 @@ class: Sorcerer
 speed: Average
 family: 2022
 source: Hotm
-power: 807
+power: 812
 attack: 768
 defense: 770
 health: 1448
@@ -13,7 +13,8 @@ effects:
   - The target gets -24% mana generation for 4 turns.
   - >-
     Reduces max health of the target’s nearby enemies by 400. Max health can’t
-    be lower than 30% of the original max health.
+    be lower than 30% of the original max health. Any boosted health is reduced
+    by an additional 400.
   - >-
     Element Link gives all Dark allies immunity to new Fiends for 4 turns. This
     effect cannot be dispelled

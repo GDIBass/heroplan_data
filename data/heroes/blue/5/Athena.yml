@@ -23,10 +23,10 @@ family: 2017
 image: https://i.imgur.com/uPsJEUS.jpg
 costume:
   class: Barbarian
-  power: 790
-  attack: 750
-  defense: 718
-  health: 1440
+  power: 931
+  attack: 882
+  defense: 844
+  health: 1869
   skill: Athena's Arrow
   effects:
     - Deals 290% damage to the target and minor damage to nearby enemies.
@@ -41,6 +41,8 @@ costume:
     - Hit 3
     - Defense Debbuff
   passives:
-    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
+    - >-
+      Dispel on Special Skill: When this character casts their Special Skill,
+      they dispel the newest status effect buff from all enemies.
   image: https://i.imgur.com/MA6JXX4.jpg
   bonuses: 3/3/6/1

@@ -1,6 +1,7 @@
 name: Alasie
 class: Ranger
 source: Hotm
+family: 2018
 speed: Fast
 power: 768
 attack: 739
@@ -18,17 +19,17 @@ effects:
 types:
   - Hit 1
   - Mana Generation Debuff
-family: 2018
 image: https://i.imgur.com/xx3qiK5.jpg
 costume:
+  bonuses: 2/2/4/1
   class: Rogue
-  power: 793
-  attack: 752
-  defense: 733
-  health: 1427
+  power: 935
+  attack: 884
+  defense: 861
+  health: 1858
   skill: Arrow of Nujalik
   effects:
-    - Deals 386% damage to the target and minor damage to nearby enemies.
+    - Deals 436% damage to the target and minor damage to nearby enemies.
     - Reduces the mana of the target and nearby enemies by 10%.
     - The target and nearby enemies get -24% mana generation for 3 turns. 
     - >-
@@ -38,6 +39,7 @@ costume:
     - Hit 3
     - Mana reduction
   passives:
-    - 'Cleanse on Special: On Special Skill cast, cleanse the newest status ailment from all allies.'
+    - >-
+      Cleanse on Special: When this character casts their Special Skill, they 
+      cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/UQE64tc.jpg
-  bonuses: 2/2/4/1

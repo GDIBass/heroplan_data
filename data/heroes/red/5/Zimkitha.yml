@@ -1,6 +1,7 @@
 name: Zimkitha
 class: Druid
 source: Hotm
+family: 2018
 speed: Fast
 power: 769
 attack: 714
@@ -8,9 +9,9 @@ defense: 681
 health: 1454
 skill: Dawn Strike
 effects:
-  - Deals 155% damage to all enemies
-  - All allies get +25% attack for 4 turns
-  - Cleanses status ailments from all allies
+  - Deals 155% damage to all enemies.
+  - All allies get +25% attack for 4 turns.
+  - Cleanses status ailments from all allies.
   - >-
     Element Link recovers 4% health for all Fire allies for 6 turns. This effect
     can't be cleansed
@@ -18,14 +19,13 @@ types:
   - Hit All
   - Attack Buff
   - Cleanser
-family: 2018
 image: https://i.imgur.com/ZnoCx4D.jpg
 costume:
   class: Paladin
-  power: 794
-  attack: 731
-  defense: 716
-  health: 1523
+  power: 938
+  attack: 859
+  defense: 842
+  health: 1980
   skill: Morning Catch
   effects:
     - Dispels buffs from all enemies.
@@ -40,6 +40,8 @@ costume:
     - Dispeller
     - Hit all
   passives:
-    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
+    - >-
+      Dispel on Special Skill: When this character casts their Special Skill,
+      they dispel the newest status effect buff from all enemies.
   image: https://i.imgur.com/M65Mn9a.jpg
   bonuses: 3/3/6/1

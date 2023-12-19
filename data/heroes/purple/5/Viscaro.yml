@@ -1,8 +1,9 @@
 name: Viscaro
 class: Druid
 source: Hotm
+family: 2022
 speed: Slow
-power: 798
+power: 803
 attack: 731
 defense: 809
 health: 1398
@@ -32,5 +33,4 @@ passives:
   - >-
     Resist negative minion effects: This character has innate resistance against 
     incoming negative effects and damage from Minions. 
-family: 2022
 image: https://i.imgur.com/tgvzp56.jpg

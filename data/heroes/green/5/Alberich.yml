@@ -1,6 +1,7 @@
 name: Alberich
 class: Druid
 source: Hotm
+family: 2017
 speed: Slow
 power: 765
 attack: 725
@@ -8,24 +9,24 @@ defense: 741
 health: 1277
 skill: Midsummer's Dream
 effects:
-  - Each fallen ally has a 33% chance to get revived with 23% HP
-  - All allies regenerate 612 HP over 4 turns
-  - All allies regenerate a moderate amount of mana over 4 turns
+  - Each fallen ally has a 33% chance to get revived with 23% HP.
+  - All allies regenerate 612 HP over 4 turns.
+  - All allies regenerate a moderate amount of mana over 4 turns.
   - >-
     Element Link gives all Nature allies +15% attack and +15 defense for 6
     turns. This effect can't be dispelled.
 types:
   - Reviver
-  - HOT
-  - MOT
+  - HoT
+  - MoT
 image: https://i.imgur.com/0IebpZg.jpg
-family: 2017
 costume:
+  bonuses: 3/3/6/1
   class: Cleric
-  power: 789
-  attack: 733
-  defense: 773
-  health: 1370
+  power: 929
+  attack: 861
+  defense: 908
+  health: 1781
   skill: Midsummer's Reverie
   effects:
     - Each fallen ally has a 38% chance to get revived with 28% HP.
@@ -36,9 +37,10 @@ costume:
       turns. This effect can't be dispelled.
   types:
     - Reviver
-    - HOT
-    - MOT
+    - HoT
+    - MoT
   passives:
-    - 'Cleanse on Special: On Special Skill cast, cleanse the newest status ailment from all allies.'
+    - >-
+      Cleanse on Special: When this character casts their Special Skill, they 
+      cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/qgThGvZ.jpg
-  bonuses: 3/3/6/1

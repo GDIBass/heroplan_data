@@ -1,6 +1,7 @@
 name: Aeron
 class: Monk
 source: Hotm
+family: 2018
 speed: Average
 power: 768
 attack: 733
@@ -20,15 +21,14 @@ types:
   - Healer
   - Status Ailment Immunity
   - Cleanser
-family: 2018
 image: https://i.imgur.com/9AxepJ9.jpg
 costume:
   class: Cleric
   bonuses: 3/3/6/1
-  power: 793
-  attack: 723
-  defense: 761
-  health: 1444
+  power: 935
+  attack: 849
+  defense: 894
+  health: 1880
   skill: Voidshield
   effects:
     - Recovers 43% health for all allies.
@@ -42,5 +42,7 @@ costume:
     - Heal
     - Cleanser
   passives:
-    - 'Cleanse on Special: On Special Skill cast, cleanse the newest status ailment from all allies.'
+    - >-
+      Cleanse on Special: When this character casts their Special Skill, they 
+      cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/WvBRV3O.jpg

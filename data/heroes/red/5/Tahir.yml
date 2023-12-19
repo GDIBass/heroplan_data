@@ -3,8 +3,8 @@ class: Ranger
 speed: Fast
 family: 2022
 source: Hotm
-power: 805
-attack: 801
+power: 810
+attack: 795
 defense: 741
 health: 1425
 skill: Hunter's Mark

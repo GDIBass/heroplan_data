@@ -18,6 +18,7 @@ effects:
 types:
   - Hit All
   - Dot All
+  - Atack debuff
 passives:
   - >-
     This character has an innate resistance against incoming negative effects and

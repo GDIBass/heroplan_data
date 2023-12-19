@@ -3,7 +3,7 @@ class: Wizard
 speed: Fast
 source: hotm
 family: 2022
-power: 799
+power: 804
 attack: 788
 defense: 751
 health: 1378
@@ -23,6 +23,6 @@ types:
 passives:
   - >-
     This character receives 10% mana each time a buff is dispelled from this 
-    character.
+    character. This effect can activate only once per turn.
   - This character has innate resistance against Burn.
 image: https://i.imgur.com/2NdyTvR.jpg
