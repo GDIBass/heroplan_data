@@ -1,5 +1,6 @@
 name: Ares
 class: Paladin
+family: 2017
 source: Hotm
 speed: Average
 power: 765
@@ -18,14 +19,14 @@ types:
   - Attack Buff
   - Crit Buff
   - Hot
-family: 2017
 image: https://i.imgur.com/KvZBThZ.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Druid
-  power: 790
-  attack: 703
-  defense: 731
-  health: 1534
+  power: 933
+  attack: 826
+  defense: 859
+  health: 1992
   skill: Seal of Ares
   effects:
     - >-
@@ -45,6 +46,7 @@ costume:
     - Counterattack
     - Health Boost
   passives:
-    - 'Cleanse on Special: On Special Skill cast, cleanse the newest status ailment from all allies.'
+    - >-
+      Cleanse on Special: When this character casts their Special Skill, they 
+      cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/Pf1h54r.jpg
-  bonuses: 3/3/6/1

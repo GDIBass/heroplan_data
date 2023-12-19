@@ -3,7 +3,7 @@ source: Hotm
 class: Barbarian
 speed: Average
 family: 2022
-power: 801
+power: 806
 attack: 778
 defense: 749
 health: 1425
@@ -12,7 +12,7 @@ effects:
   - The target and nearby enemies get -34% defense for 3 turns.
   - Deals 350% damage to the target.
   - >-
-    Summons a Forest Familiar Minion for all allies with 9% HP and 13% attack
+    Summons a Forest Familiar Minion for all allies with 13% HP and 13% attack
     inherited from the caster.
   - >-
     Element Link gives all Nature allies +10% atack for 4 turns. This effect

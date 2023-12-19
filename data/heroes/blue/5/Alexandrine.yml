@@ -1,12 +1,13 @@
 name: Alexandrine
 class: Cleric
 source: hotm
+family: 2021
 speed: Average
 power: 794
 attack: 745
 defense: 747
 health: 1423
-skill: SHimmering Shield
+skill: Shimmering Shield
 effects:
   - Recovers 23% health for all allies.
   - >-
@@ -31,4 +32,3 @@ passives:
     This character has an innate resistance against status ailments that affect
     Healing.
 image: https://i.imgur.com/aFNgbfI.jpg
-family: 2021

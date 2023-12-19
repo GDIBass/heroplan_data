@@ -1,6 +1,7 @@
 name: Delilah
 class: Fighter
 source: Hotm
+family: 2018
 speed: Average
 power: 768
 attack: 737
@@ -18,15 +19,14 @@ effects:
 types:
   - Healer
   - Summoner
-family: 2018
 image: https://i.imgur.com/gbHdhVI.jpg
 costume:
   class: Paladin
   bonuses: 3/3/6/1
-  power: 793
-  attack: 739
-  defense: 742
-  health: 1442
+  power: 934
+  attack: 866
+  defense: 868
+  health: 1878
   skill: Summon Celestial Guardians
   effects:
     - Recovers 30% health for all allies.
@@ -40,5 +40,7 @@ costume:
     - Healer
     - Summoner
   passives:
-    - 'Cleanse on Special: On Special Skill cast, cleanse the newest status ailment from all allies.'
+    - >-
+      Cleanse on Special: When this character casts their Special Skill, they 
+      cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/muqHGtI.jpg

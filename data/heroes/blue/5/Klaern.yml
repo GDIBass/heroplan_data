@@ -3,13 +3,13 @@ source: Hotm
 class: Sorcerer
 family: 2022
 speed: Slow
-power: 804
+power: 809
 attack: 766
 defense: 772
 health: 1427
 skill: Hailstorm
 effects:
-  - Deals 240% damage to all enemies
+  - Deals 240% damage to all enemies.
   - >-
     All enemies receive 210 Water damage over 5 turns. The caster absorbs 25% of
     dealt Water damage as health.

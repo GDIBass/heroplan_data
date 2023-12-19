@@ -19,6 +19,8 @@ effects:
     turns. This effect can't be cleansed.
 types:
   - Hit 1
+  - Blind
+  - Healing Debuff
 passives:
   - >-
     This character has innate resistance against status ailments that are from

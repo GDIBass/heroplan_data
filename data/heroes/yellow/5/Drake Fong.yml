@@ -1,6 +1,7 @@
 name: Drake Fong
 class: Monk
 source: Hotm
+family: 2018
 speed: Fast
 power: 768
 attack: 727
@@ -18,14 +19,13 @@ effects:
 types:
   - Hit 3
   - Blind
-family: 2018
 image: https://i.imgur.com/DfnVeiC.jpg
 costume:
   class: Fighter
-  power: 792
-  attack: 759
-  defense: 727
-  health: 1416
+  power: 935
+  attack: 891
+  defense: 854
+  health: 1853
   skill: Fabled Fist
   effects:
     - Deals 240% damage to the target and nearby enemies.
@@ -38,5 +38,10 @@ costume:
       turns. This effect can’t be dispelled.
   types:
     - Hit 3
+    - Blind
   image: https://i.imgur.com/31loghP.jpg
+  passives:
+    - >-
+      Dispel on Special Skill: When this character casts their Special Skill,
+      they dispel the newest status effect buff from all enemies.
   bonuses: 3/3/6/1

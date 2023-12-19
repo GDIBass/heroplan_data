@@ -1,6 +1,7 @@
 name: Aegir
 class: Paladin
 source: Hotm
+family: 2018
 speed: Average
 power: 768
 attack: 615
@@ -19,14 +20,14 @@ types:
   - Tank
   - Defense Buff
   - Ally Damage Share
-family: 2018
 image: https://i.imgur.com/BzRTcqJ.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Monk
-  power: 793
-  attack: 653
-  defense: 793
-  health: 1560
+  power: 937
+  attack: 767
+  defense: 931
+  health: 2025
   skill: Glacial Resilience
   effects:
     - All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.
@@ -42,6 +43,7 @@ costume:
     - Defense Buff
     - Healer
   passives:
-    - 'Cleanse on Special: On Special Skill cast, cleanse the newest status ailment from all allies.'
+    - >-
+      Cleanse on Special: When this character casts their Special Skill, they 
+      cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/JN0Ddwo.jpg
-  bonuses: 3/3/6/1

@@ -1,0 +1,36 @@
+name: Satori
+class: Paladin
+source: tavernoflegends
+family: champions
+speed: Average
+power: 982
+attack: 992
+defense: 990
+health: 1666
+skill: Thousand Palm Strikes
+effects:
+  - Deals 275% damage to all enemies.
+  - >-
+    Deals 550% damage against characters that cleanse or dispel using Special 
+    Skills. (Only direct Dispel and Cleanse effects from Special Skills are 
+    considered. This excludes Remove effects, Passives, Minions, Family effects,
+    Talents and Status effects.)
+  - >-
+    The caster and nearby allies have 50% chance to drop any received damage to 1
+    for 4 turns. If this effect is dispelled, it dispels buffs from all enemies.
+types:
+  - Hit all
+passives:
+  - >-
+    Mana Generation Ailment Protection: All status ailmens and negative stack 
+    that affect mana generation will be replaced by +30% mana generation status 
+    effect for 3 turns. Doesn’t apply to status ailments that stop mana 
+    generation or steal mana.
+  - >-
+    Health Boost on Buff Dispel: This character receives 200 boosted health each
+    time a buff is dispelled from this character. This effect can activate only
+    once per turn.
+  - >-
+    Mana on Buff Dispel: This character receives 10% mana each time a buff is 
+    dispelled from them. This effect can activate only once per turn.
+image: https://i.imgur.com/pKtN1Ok.jpg

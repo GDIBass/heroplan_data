@@ -3,7 +3,7 @@ source: Hotm
 family: 2022
 class: Paladin
 speed: Average
-power: 802
+power: 807
 attack: 756
 defense: 766
 health: 1450
@@ -11,8 +11,8 @@ skill: Shieldmaiden's Protection
 effects:
   - >-
     The caster gets Taunt that prevents enemies from using Special Skills on the
-    caster's allies for 3 turns
-  - The caster gets +64% defense against special skills for 4 turns.
+    caster's allies for 4 turns
+  - The caster gets +74% defense against special skills for 4 turns.
   - All allies except the caster get +34% attack fo 4 turns.
   - >-
     Element Link gives all Holy allies +10% defense for 4 turns. This effect

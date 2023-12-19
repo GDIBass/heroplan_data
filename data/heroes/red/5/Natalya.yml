@@ -1,6 +1,7 @@
 name: Natalya
 class: Sorcerer
 source: Hotm
+family: 2018
 speed: Fast
 power: 765
 attack: 718
@@ -9,7 +10,7 @@ health: 1419
 skill: Burning Chains
 effects:
   - >-
-    The target receives 792 Burn damage over 4 turns. This effect can’t be 
+    The target receives 912 Burn damage over 4 turns. This effect can’t be 
     cleansed.
   - >-
     The target gets -54% mana generation for 4 turns. This effect can’t be 
@@ -21,19 +22,18 @@ effects:
 types:
   - Dot 1
   - Mana Generation Debuff
-family: 2018
 image: https://i.imgur.com/vuOEJDC.jpg
 costume:
   class: Wizard
   bonuses: 3/3/6/1
-  power: 789
-  attack: 752
-  defense: 695
-  health: 1479
+  power: 932
+  attack: 884
+  defense: 816
+  health: 1926
   skill: Burning Thread
   effects:
     - >-
-      The target receives 960 Burn damage over 4 turns. This effect can’t be 
+      The target receives 1104 Burn damage over 4 turns. This effect can’t be 
       cleansed.
     - >-
       The target gets -50% mana generation for 4 turns. This effect can’t be 
@@ -46,5 +46,7 @@ costume:
     - Dot 1
     - Mana Generation Debuff
   passives:
-    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
+    - >-
+      Dispel on Special Skill: When this character casts their Special Skill,
+      they dispel the newest status effect buff from all enemies.
   image: https://i.imgur.com/IO9WHYd.jpg

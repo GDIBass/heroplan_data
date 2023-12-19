@@ -40,5 +40,7 @@ costume:
     - Elemental Defense Debuff
     - Dispeller
   passives:
-    - 'Cleanse on Special: On Special Skill cast, cleanse the newest status ailment from all allies.'
+    - >-
+      Cleanse on Special: When this character casts their Special Skill, they 
+      cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/93B4oB9.jpg

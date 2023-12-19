@@ -1,6 +1,7 @@
 name: Hel
 class: Wizard
 source: Hotm
+family: 2017
 speed: Average
 power: 765
 attack: 745
@@ -17,17 +18,17 @@ effects:
 types:
   - Hit 3
   - Mana Gain Freeze
-family: 2017
 image: https://i.imgur.com/5oaRVxv.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Cleric
-  power: 765
-  attack: 745
-  defense: 692
-  health: 1328
+  power: 931
+  attack: 901
+  defense: 837
+  health: 1832
   skill: Crush of Malice
   effects:
-    - Deals 250% damage to all enemies.
+    - Deals 300% damage to all enemies.
     - >-
       The caster steals generated mana of all enemies over 4 turns starting low
       and increasing every turn until on the last turn all generated mana is
@@ -41,6 +42,7 @@ costume:
     - Hit All
     - Mana Steal
   passives:
-    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
+    - >-
+      Dispel on Special Skill: When this character casts their Special Skill,
+      they dispel the newest status effect buff from all enemies.
   image: https://i.imgur.com/8SUbwUY.jpg
-  bonuses: 3/3/6/1

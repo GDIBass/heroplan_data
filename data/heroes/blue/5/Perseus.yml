@@ -1,6 +1,7 @@
 name: Perseus
 class: Paladin
 source: Hotm
+family: 2017
 speed: Fast
 power: 765
 attack: 725
@@ -19,14 +20,15 @@ effects:
 types:
   - Hit 1
   - Healing Debuff
-family: 2017
+  - Elemental Defense Buff
 image: https://i.imgur.com/AMhR92j.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Fighter
-  power: 790
-  attack: 746
-  defense: 718
-  health: 1449
+  power: 932
+  attack: 877
+  defense: 844
+  health: 1886
   skill: Arctic Wound
   effects:
     - Deals 355% damage to the target and nearby enemies.
@@ -39,9 +41,10 @@ costume:
       This effect can’t be displelled.
   types:
     - Hit 3
-    - Elemental Defense Debuff
     - Healing Debuff
+    - Elemental Defense Debuff
   passives:
-    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
+    - >-
+      Dispel on Special Skill: When this character casts their Special Skill,
+      they dispel the newest status effect buff from all enemies.
   image: https://i.imgur.com/nzVNwio.jpg
-  bonuses: 3/3/6/1
