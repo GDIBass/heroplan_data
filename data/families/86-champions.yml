@@ -1,0 +1,7 @@
+key: champions
+code: 86
+description: Champions
+image: https://i.imgur.com/SNurNkI.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "* +30% / +50% / +70% additional Special Skill damage."
