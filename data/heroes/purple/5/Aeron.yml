@@ -41,4 +41,6 @@ costume:
   types:
     - Heal
     - Cleanser
+  passives:
+    - 'Cleanse on Special: On Special Skill cast, cleanse the newest status ailment from all allies.'
   image: https://i.imgur.com/WvBRV3O.jpg

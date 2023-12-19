@@ -4,16 +4,16 @@ source: Covenant
 family: construct
 speed: Average
 power: 951
-attack: 859
-defense: 976
-health: 1806
+attack: 885
+defense: 1003
+health: 1889
 skill: Songs of the Cherry Tree
 effects:
-  - Recovers 42% health for all allies.
+  - Recovers 45% health for all allies.
   - Dispels buffs from all enemies.
   - >-
-    Recovers 50 health per each removed status effect for all allies, 
-    up to 400 health in total.
+    Recovers 70 health per each removed status effect for all allies, 
+    up to 560 health in total.
 types:
   - Healer
   - Dispeller

@@ -30,4 +30,9 @@ costume:
     - Deals 1140 extra damage if the target has boosted health.
   types:
     - Hit 1
+  passives:
+    - >-
+      Increased Damage Against Boosted Health: After Special Skill cast, all 
+      allies' normal attacks and Special Skills deal +70% damage against targets 
+      with boosted health for 4 turns.
   image: https://i.imgur.com/8bE9bAk.jpg

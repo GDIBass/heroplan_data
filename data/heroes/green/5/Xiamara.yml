@@ -4,9 +4,9 @@ source: Knights
 family: Stag
 speed: Average
 power: 953
-attack: 1019
-defense: 910
-health: 1553
+attack: 1044
+defense: 935
+health: 1629
 skill: Power of the Forest
 effects:
   - Deals 300% damage to all enemies.
@@ -15,7 +15,7 @@ effects:
     The additional power increases +25% each turn, up to a maximum of +200% in total.
   - >-
     All enemies receive Mana Corruption for 4 turns. Each time an afflicted enemy 
-    receives mana from an additional source, they receive 250 damage. Additional 
+    receives mana from an additional source, they receive 400 damage. Additional 
     sources include direct mana addition from Special Skills, status effects, 
     level properties, passive skills, family effects, tile effects and Minions. 
     Mana added for defense team at the end of their turn or from matching tiles 

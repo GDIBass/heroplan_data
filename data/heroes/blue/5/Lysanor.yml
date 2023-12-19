@@ -4,17 +4,17 @@ source: Knights
 family: Stag
 speed: Slow
 power: 953
-attack: 883
-defense: 988
-health: 1732
+attack: 910
+defense: 1015
+health: 1808
 skill: Sapphire Eyes
 effects:
-  - Each fallen ally has a 55% chance to get revived with 20% HP.
+  - Each fallen ally has a 60% chance to get revived with 20% HP.
   - >-
     All allies get +50% attack for 5 turns. The attack increases by 5% each 
     turn, up to +70%.
   - >-
-    All allies regenerate 770 boosted health over 5 turns. Boosted health can 
+    All allies regenerate 1270 boosted health over 5 turns. Boosted health can 
     exceed max HP.
 types:
   - Reviver

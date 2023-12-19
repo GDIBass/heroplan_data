@@ -35,5 +35,7 @@ costume:
   types:
     - Hit All
     - DoT All
+  passives:
+    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
   image: https://i.imgur.com/qMb0Vgk.jpg
   bonuses: 3/3/6/1

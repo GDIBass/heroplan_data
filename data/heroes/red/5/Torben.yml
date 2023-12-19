@@ -4,9 +4,9 @@ source: Knights
 family: Bear
 speed: Fast
 power: 953
-attack: 1009
-defense: 920
-health: 1555
+attack: 1034
+defense: 945
+health: 1633
 skill: Mark of the Prey
 effects:
   - The target receives 80% damage for all the damage their allies receive for 3 turns.

@@ -50,4 +50,8 @@ costume:
     - Hit all
     - Health boost
     - Zombie
+  passives:
+    - >-
+      Poison on Special Skill: When this character casts their Special Skill,
+      all enemies receive 369 Poison damage over 4 turns.
   image: https://i.imgur.com/cwv2NUd.jpg

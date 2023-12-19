@@ -47,4 +47,5 @@ costume:
     - >-
       Decrease Ailment Duration: Duration of the first 3 status ailments this 
       character receives from Special Skill is decreased by 1 turn.
+    - 'Boost Health on Special: On Special Skill cast, boosts all allies’ HP by 10%.'
   image: https://i.imgur.com/s1HpuGG.jpg

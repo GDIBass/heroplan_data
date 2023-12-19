@@ -39,4 +39,8 @@ costume:
     - Hit 1
     - Bounce
     - Defense Debuff
+  passives:
+    - >-
+      Poison on Special Skill: When this character casts their Special Skill,
+      all enemies receive 388 Poison damage over 4 turns.
   image: https://i.imgur.com/8HdzNsi.jpg

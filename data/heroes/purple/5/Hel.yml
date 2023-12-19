@@ -40,5 +40,7 @@ costume:
   types:
     - Hit All
     - Mana Steal
+  passives:
+    - 'Dispel on Special: On Special Skill cast, dispel the newest buff from all enemies.'
   image: https://i.imgur.com/8SUbwUY.jpg
   bonuses: 3/3/6/1
