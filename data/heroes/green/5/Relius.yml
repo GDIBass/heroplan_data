@@ -1,0 +1,22 @@
+name: Relius
+class: Druid
+speed: Average
+source: owltower
+family: owl
+power: 984
+attack: 947
+defense: 1038
+health: 1695
+skill: Mixed Green Herbs
+effects:
+  - Each fallen ally has a 40% chance to get revived with 30% HP.
+  - Recovers 30% health for all allies.
+  - >-
+    All allies a get Moonrise Ward for 4 turns, that reduces incoming Special 
+    Skill damage by -800. Reduces by additional 30% when attacker is Holy.
+types:
+  - Reviver
+  - Healer
+  - Damage from SS reducer
+passives:
+image: https://i.imgur.com/6ngbYLA.jpg

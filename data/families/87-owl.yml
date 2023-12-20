@@ -1,0 +1,7 @@
+key: owl
+code: 87
+description: Owl
+image: https://i.imgur.com/tMsEgIJ.png
+bonus:
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "* All received mana status ailments will be replaced by a +11% / +31% / +39% mana generation buff for 3 turns."

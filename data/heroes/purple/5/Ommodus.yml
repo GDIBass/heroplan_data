@@ -1,0 +1,21 @@
+name: Ommodus
+class: Barbarian
+speed: Slow
+source: owltower
+family: owl
+power: 984
+attack: 986
+defense: 1023
+health: 1627
+skill: Poleaxe of the Law
+effects:
+  - Destroys all Fiends from all allies.
+  - >-
+    Attacks all enemies with Moonrise Strike, dealing up to 1700 damage. 
+    Deals 40% more damage if the target is Holy.
+  - All allies get 5% mana for each destroyed Fiend.
+types:
+  - Fiend Destroyer
+  - Hit All
+passives:
+image: https://i.imgur.com/QzvMG5C.jpg

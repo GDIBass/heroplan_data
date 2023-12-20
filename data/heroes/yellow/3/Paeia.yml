@@ -1,0 +1,22 @@
+name: Paeia
+class: Cleric
+speed: Very Slow
+source: owltower
+family: owl
+power: 489
+attack: 432
+defense: 533
+health: 884
+skill: Owl’s Blessing
+effects:
+  - >-
+    All allies get a Moonrise Ward for 6 turns, that reduces the incoming Special
+    Skill damage by -320. Reduces damage by additional 20% when attacker is Holy.
+  - All allies get +24% attack for 6 turns.
+  - All allies get +24% mana generation for 6 turns.
+types:
+  - Damage from SS reducer
+  - Attack Buff
+  - Mana generation Buff
+passives:
+image: https://i.imgur.com/R9551ZQ.jpg

@@ -1,0 +1,22 @@
+name: Timius
+class: Fighter
+speed: Fast
+source: owltower
+family: owl
+power: 985
+attack: 1005
+defense: 994
+health: 1643
+skill: For Queen and Hollow
+effects:
+  - Dispels buffs from the target and nearby enemies.
+  - >-
+    Attacks the target and nearby enemies with Moonrise Strike, dealing up to 
+    1500 damage. Deals 40% more damage if the target is Holy.
+  - The target and nearby enemies are immune to new status effect buffs for 3 turns
+types:
+  - Dispeller
+  - Hit 3
+  - Buff immunity
+passives:
+image: https://i.imgur.com/qe2xgVo.jpg
