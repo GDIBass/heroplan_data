@@ -3,7 +3,7 @@ class: Monk
 speed: Fast
 source: SuperElemental
 family: SuperElemental
-power: 843
+power: 953
 attack: 887
 defense: 924
 health: 1851
@@ -11,7 +11,7 @@ skill: Purifying Flame
 effects:
   - Recovers 25% health for all allies.
   - >-
-    Recovers additional 2% health per each Fire shield on the board, up to 45% 
+    Recovers additional 3% health per each Fire shield on the board, up to 55% 
     health in total.
   - All allies get +50% attack for 4 turns.
   - Cleanses status ailments from all allies
