@@ -68,9 +68,6 @@ costume3:
     - Hit 3
     - Counterattack
   passives:
-    - 'Toon:'
-    - ' * 75% extra chance to resist status ailments.'
-    - ' * 75% extra chance to resist mana reductions.'
-    - ' * 75% extra chance to resist buff dispels.'
-    - Extra chances are calculated independently of other similar checks. 
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions'
+    - and buff dispels.
   image: https://i.imgur.com/YICnCq4.jpg

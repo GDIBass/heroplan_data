@@ -44,3 +44,22 @@ costume2:
   types:
     - Hit 3
   image: https://i.imgur.com/cDO5QOd.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 746
+  attack: 827
+  defense: 638
+  health: 1381
+  skill: Toonpower Pulverizer
+  effects:
+    - Deals 325% damage to the target and minor damage to nearby enemies.
+    - The target and nearby enemies get -28% defense for 6 turns.
+    - Deals extra damage against Fire.
+  types:
+    - Hit 3
+    - Defense Debuff
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions'
+    - and buff dispels.
+  image: https://i.imgur.com/3MLw0k0.jpg
