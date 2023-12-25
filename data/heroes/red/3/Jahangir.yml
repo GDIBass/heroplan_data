@@ -29,3 +29,23 @@ costume:
   types:
     - Hit all
   image: https://i.imgur.com/IPO19rX.jpg
+costume2:
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 506
+  attack: 555
+  defense: 480
+  health: 806
+  skill: Toonball
+  effects:
+    - Deals 175% damage to all enemies.
+    - All enemies receive 114 Burn damage over 3 turns.
+    - Deals extra damage against Nature.
+  types:
+    - Hit All
+    - Dot All
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions'
+    - and buff dispels.
+  image: https://i.imgur.com/nGXpTVa.jpg
+

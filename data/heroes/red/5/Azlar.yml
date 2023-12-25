@@ -65,9 +65,6 @@ costume3:
     - Hit all
     - DoT all
   passives:
-    - 'Toon:'
-    - ' * 75% extra chance to resist status ailments.'
-    - ' * 75% extra chance to resist mana reductions.'
-    - ' * 75% extra chance to resist buff dispels.'
-    - Extra chances are calculated independently of other similar checks.
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions'
+    - and buff dispels.
   image: https://i.imgur.com/yS5bHHw.jpg
