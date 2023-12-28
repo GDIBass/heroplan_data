@@ -28,10 +28,10 @@ image: https://i.imgur.com/sKXoFnG.jpg
 costume:
   class: Druid
   bonuses: 5/5/10/5
-  power: 822
-  attack: 790
-  defense: 778
-  health: 1449
+  power: 915
+  attack: 881
+  defense: 866
+  health: 1713
   skill: Zombie Invocation
   effects:
     - Deals 138% damage to all enemies
@@ -53,5 +53,5 @@ costume:
   passives:
     - >-
       Poison on Special Skill: When this character casts their Special Skill,
-      all enemies receive 369 Poison damage over 4 turns.
+      all enemies receive 492 Poison damage over 4 turns.
   image: https://i.imgur.com/cwv2NUd.jpg
