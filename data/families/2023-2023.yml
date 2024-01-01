@@ -3,4 +3,7 @@ code: 2023
 description: 2023
 image: https://i.imgur.com/QVYmobT.png
 bonus:
-  - "Bonus will activate on January 1st, 2024"
+  - "Bonus for 1/2/3 Heroes:"
+  - "* +10%/+15%/+20% defense."
+  - "Bonus for 2+ Heroes:"
+  - "* Element Link affects all allies."
