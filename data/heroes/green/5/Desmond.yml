@@ -1,0 +1,34 @@
+name: Desmond
+class: Fighter
+speed: Average
+source: SuperElemental
+family: SuperElemental
+power: 988
+attack: 1007
+defense: 974
+health: 1705
+skill: Jade Blades
+effects:
+  - >-
+    Deals 480% damage to the enemies of the edges of the enemy formation. 
+    If there is only one enemy alive, the damage is doubled.
+  - Boosts the caster’s and nearby allies’ health by 20% of the damage dealt.
+  - For each hit Ice enemy, the boosted health is 40% of the damage dealt to them.
+  - >-
+    The enemies on the edges of the enemy formation get silenced for 3 turns. 
+    Against Ice characters, this status effect becomes uncleasable and lasts 
+    2 turns longer.
+types:
+  - Hit 2
+  - Health boost for 3
+  - Silencer
+passives:
+  - >-
+    Passive Skill as attacking character: This hero’s Troops deal extra 
+    elemental damage against weaker element.
+    * Dealt extra elemental damage: +100%
+  - >-
+    Passive Skill as defending character: This hero receives less elemental 
+    damage from Troops of stronger element.
+    * Received elemental damage: -10%
+image: https://i.imgur.com/oyCoXcq.jpg
