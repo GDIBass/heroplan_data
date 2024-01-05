@@ -1,6 +1,7 @@
 name: Russula
 class: Rogue
 source: Season4
+family: Underwild
 speed: Very Fast
 power: 807
 attack: 793
@@ -23,5 +24,33 @@ passives:
   - >-
     Duration for the first 3 status ailments this hero receives from Special
     Skills is decreased by 1 turn.
-family: Underwild
 image: https://i.imgur.com/MqnrIZ3.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Ranger
+  power: 916
+  attack: 916
+  defense: 883
+  health: 1595
+  skill: Artful Backstab
+  effects:
+    - Deals 300% damage to the target.
+    - The caster goes into hiding for 2 turns.
+    - >-
+      While hidden, the caster can’t receive new status effects or stacks,
+      and all received damage is reduced by -30%.
+    - >-
+      When the caster comes out of hiding, it deals 357 damage to all enemies 
+      that used Special Skills while the caster was hiding.
+  types:
+    - Hit 1
+    - Hiding
+  passives:
+    - >-
+      Decrease Ailment Duration: Duration of the first 3 status ailments this
+      character receives from Special Skill is decreased by 1 turn.
+    - >-
+      Increased Damage Against Boosted Health: After this character casts their 
+      Special Skill cast, all allies’ normal attacks and Special Skills deal 
+      +70% damage against targets with boosted health for 3 turns.
+  image: https://i.imgur.com/KzLvPms.jpg
