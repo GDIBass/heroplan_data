@@ -248,9 +248,47 @@ troops:
       16: 14
       23: 17
       27: 20
+  five_star_BarbarianDruid:
+    key: five_star_BarbarianDruid
+    id: 50
+    stars: 5
+    name: Majestic Minotaur
+    description: Legendary for class Barbarian Druid
+    images:
+      full:
+        purple: https://i.imgur.com/G87mTwx.jpg
+        yellow: https://i.imgur.com/Z4nT7Lb.jpg
+        blue: https://i.imgur.com/gaQLIE0.jpg
+        green: https://i.imgur.com/eKdcng5.jpg
+        red: https://i.imgur.com/TNSodMs.jpg
+      half:
+        purple: https://i.imgur.com/oUjP22C.jpg
+        yellow: https://i.imgur.com/qVwoH9X.jpg
+        blue: https://i.imgur.com/V8ZP7qK.jpg
+        green: https://i.imgur.com/U0T4VVT.jpg
+        red: https://i.imgur.com/T7a6s6N.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 24
+      defense: 23
+      health: 25
+      mana: 11
+    max_level_stats_4class:
+      attack: 30
+      defense: 29
+      health: 40
+      mana: 11
+    max_level_passives_4class:
+      name: Increase Status Effect Attack
+      description: Attack buffs are 8% more effective for the character this Troop is equipped on.
 
 max_level_by_stars:
   1: 10
   2: 15
   3: 20
   4: 30
+  5: 30
