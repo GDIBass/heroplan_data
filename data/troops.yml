@@ -253,7 +253,7 @@ troops:
     id: 50
     stars: 5
     name: Majestic Minotaur
-    description: Legendary for class Barbarian & Druid
+    description: Legendary for class Barbarian and Druid
     images:
       full:
         purple: https://i.imgur.com/x0KxmhD.jpg
@@ -290,7 +290,7 @@ troops:
     id: 51
     stars: 5
     name: Unwavering Cleric
-    description: Legendary for class Cleric & Fighter
+    description: Legendary for class Cleric and Fighter
     images:
       full:
         purple: https://i.imgur.com/S8f2CK7.jpg
@@ -327,7 +327,7 @@ troops:
     id: 52
     stars: 5
     name: Enchanted Ent
-    description: Legendary for class Druid & Barbarian
+    description: Legendary for class Druid and Barbarian
     images:
       full:
         purple: https://i.imgur.com/85ycbRa.jpg
@@ -364,7 +364,7 @@ troops:
     id: 53
     stars: 5
     name: Unstoppable Fighter
-    description: Legendary for class Fighter & Cleric
+    description: Legendary for class Fighter and Cleric
     images:
       full:
         purple: https://i.imgur.com/XpnsgM9.jpg
@@ -401,7 +401,7 @@ troops:
     id: 54
     stars: 5
     name: Mighty Monk
-    description: Legendary for class Monk & Sorcerer
+    description: Legendary for class Monk and Sorcerer
     images:
       full:
         purple: https://i.imgur.com/NNVSmEq.jpg
@@ -438,7 +438,7 @@ troops:
     id: 55
     stars: 5
     name: Elite Knight
-    description: Legendary for class Paladin & Rogue
+    description: Legendary for class Paladin and Rogue
     images:
       full:
         purple: https://i.imgur.com/ia5db5v.jpg
@@ -475,7 +475,7 @@ troops:
     id: 56
     stars: 5
     name: Eternal Hunter
-    description: Legendary for class Ranger & Wizard
+    description: Legendary for class Ranger and Wizard
     images:
       full:
         purple: https://i.imgur.com/GPGTzea.jpg
@@ -512,7 +512,7 @@ troops:
     id: 57
     stars: 5
     name: Unseen Assassin
-    description: Legendary for class Rogue & Paladin
+    description: Legendary for class Rogue and Paladin
     images:
       full:
         purple: https://i.imgur.com/OL7pcuQ.jpg
@@ -549,7 +549,7 @@ troops:
     id: 58
     stars: 5
     name: Royal Sorcerer
-    description: Legendary for class Sorcerer & Monk
+    description: Legendary for class Sorcerer and Monk
     images:
       full:
         purple: https://i.imgur.com/iYF74rz.jpg
@@ -586,7 +586,7 @@ troops:
     id: 59
     stars: 5
     name: Eldest Wizard
-    description: Legendary for class Wizard & Ranger
+    description: Legendary for class Wizard and Ranger
     images:
       full:
         purple: https://i.imgur.com/IVatbns.jpg
