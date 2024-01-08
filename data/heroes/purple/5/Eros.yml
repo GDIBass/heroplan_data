@@ -1,0 +1,21 @@
+name: Eros
+class: Ranger
+source: love
+family: Cupid
+speed: Very Fast
+power: 966
+attack: 1009
+defense: 937
+health: 1617
+skill: Arrow of Desire
+effects:
+  - Deals 465% damage to the target.
+  - All damage the target receives is increased by +40% for 2 turns.
+types:
+  - Hit 1
+  - Damage Received Debuff
+passives:
+  - >-
+    Resist Special Skill Blocking - This character has innate resistance against
+    status ailments that block Special Skills.
+image: https://i.imgur.com/5JDsRr2.jpg
