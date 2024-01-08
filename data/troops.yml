@@ -253,20 +253,131 @@ troops:
     id: 50
     stars: 5
     name: Majestic Minotaur
-    description: Legendary for class Barbarian Druid
+    description: Legendary for class Barbarian & Druid
     images:
       full:
-        purple: https://i.imgur.com/G87mTwx.jpg
-        yellow: https://i.imgur.com/Z4nT7Lb.jpg
-        blue: https://i.imgur.com/gaQLIE0.jpg
-        green: https://i.imgur.com/eKdcng5.jpg
-        red: https://i.imgur.com/TNSodMs.jpg
+        purple: https://i.imgur.com/x0KxmhD.jpg
+        yellow: https://i.imgur.com/ymSAshu.jpg
+        blue: https://i.imgur.com/IlEDk13.jpg
+        green: https://i.imgur.com/UTlBYua.jpg
+        red: https://i.imgur.com/g5AQtPH.jpg
       half:
-        purple: https://i.imgur.com/oUjP22C.jpg
-        yellow: https://i.imgur.com/qVwoH9X.jpg
-        blue: https://i.imgur.com/V8ZP7qK.jpg
-        green: https://i.imgur.com/U0T4VVT.jpg
-        red: https://i.imgur.com/T7a6s6N.jpg
+        purple: https://i.imgur.com/CsWb3FW.jpg
+        yellow: https://i.imgur.com/a3aYA5L.jpg
+        blue: https://i.imgur.com/BHkGDJp.jpg
+        green: https://i.imgur.com/BXNRUFN.jpg
+        red: https://i.imgur.com/RFounK7.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 27
+      defense: 20
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 33
+      defense: 26
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Increase Status Effect Attack
+      description: Attack buffs are 8% more effective for the character this Troop is equipped on.
+  five_star_Cleric_Fighter:
+    key: five_star_Cleric_Fighter
+    id: 51
+    stars: 5
+    name: Unwavering Cleric
+    description: Legendary for class Cleric & Fighter
+    images:
+      full:
+        purple: https://i.imgur.com/S8f2CK7.jpg
+        yellow: https://i.imgur.com/98Rwrx3.jpg
+        blue: https://i.imgur.com/omwNhiW.jpg
+        green: https://i.imgur.com/EAfH4pO.jpg
+        red: https://i.imgur.com/REosSSf.jpg
+      half:
+        purple: https://i.imgur.com/T9PA4fm.jpg
+        yellow: https://i.imgur.com/OgxsfTy.jpg
+        blue: https://i.imgur.com/8ecyuuk.jpg
+        green: https://i.imgur.com/A3zuz23.jpg
+        red: https://i.imgur.com/P7gE4jB.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 20
+      defense: 27
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 26
+      defense: 33
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Extra Healing
+      description: The character this troop is equipped on receives extra 5% health once every turn if health is recovered.
+  five_star_Druid_Barbarian:
+    key: five_star_Druid_Barbarian
+    id: 52
+    stars: 5
+    name: Enchanted Ent
+    description: Legendary for class Druid & Barbarian
+    images:
+      full:
+        purple: https://i.imgur.com/85ycbRa.jpg
+        yellow: https://i.imgur.com/Hu54zcP.jpg
+        blue: https://i.imgur.com/8RHhIxO.jpg
+        green: https://i.imgur.com/1V6ZRVY.jpg
+        red: https://i.imgur.com/1X9eAMJ.jpg
+      half:
+        purple: https://i.imgur.com/oeaZV9n.jpg
+        yellow: https://i.imgur.com/jK8DpcX.jpg
+        blue: https://i.imgur.com/NZ1FbfC.jpg
+        green: https://i.imgur.com/T3ENicL.jpg
+        red: https://i.imgur.com/bpX2wtv.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 23
+      defense: 24
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 29
+      defense: 30
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Status Ailment Damage Reduction
+      description: Damage caused by status ailments is reduced by -10% for the character this Troop is equipped on.
+  five_star_Fighter_Cleric:
+    key: five_star_Fighter_Cleric
+    id: 53
+    stars: 5
+    name: Unstoppable Fighter
+    description: Legendary for class Fighter & Cleric
+    images:
+      full:
+        purple: https://i.imgur.com/XpnsgM9.jpg
+        yellow: https://i.imgur.com/xOv2PwH.jpg
+        blue: https://i.imgur.com/bForBuV.jpg
+        green: https://i.imgur.com/kUfM7m9.jpg
+        red: https://i.imgur.com/Yvbq8ke.jpg
+      half:
+        purple: https://i.imgur.com/d1oRUSW.jpg
+        yellow: https://i.imgur.com/oG37hWL.jpg
+        blue: https://i.imgur.com/LUuy6mJ.jpg
+        green: https://i.imgur.com/lW9cgF7.jpg
+        red: https://i.imgur.com/r4MEqNe.jpg
     mana_bonus:
       1: 5
       9: 7
@@ -277,14 +388,236 @@ troops:
       defense: 23
       health: 25
       mana: 11
-    max_level_stats_4class:
+    max_level_stats_for_class:
       attack: 30
       defense: 29
       health: 40
       mana: 11
-    max_level_passives_4class:
-      name: Increase Status Effect Attack
-      description: Attack buffs are 8% more effective for the character this Troop is equipped on.
+    max_level_passives_for_class:
+      name: Defense Ailment Reduction
+      description: Defense status ailments are 8% less effective against the character this Troop is equipped on.
+  five_star_Monk_Sorcerer:
+    key: five_star_Monk_Sorcerer
+    id: 54
+    stars: 5
+    name: Mighty Monk
+    description: Legendary for class Monk & Sorcerer
+    images:
+      full:
+        purple: https://i.imgur.com/NNVSmEq.jpg
+        yellow: https://i.imgur.com/s86W8A3.jpg
+        blue: https://i.imgur.com/xYy2yEQ.jpg
+        green: https://i.imgur.com/gQ4KGB1.jpg
+        red: https://i.imgur.com/vTPS15g.jpg
+      half:
+        purple: https://i.imgur.com/nPRLbCP.jpg
+        yellow: https://i.imgur.com/NEXCsGa.jpg
+        blue: https://i.imgur.com/4syvsUB.jpg
+        green: https://i.imgur.com/DpKD3up.jpg
+        red: https://i.imgur.com/escCoZl.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 25
+      defense: 22
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 31
+      defense: 28
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Resist Status Ailments
+      description: Character this troop is equipped to has 10% chance to resist status ailments.
+  five_star_Paladin_Rogue:
+    key: five_star_Paladin_Rogue
+    id: 55
+    stars: 5
+    name: Elite Knight
+    description: Legendary for class Paladin & Rogue
+    images:
+      full:
+        purple: https://i.imgur.com/ia5db5v.jpg
+        yellow: https://i.imgur.com/ehSxlFR.jpg
+        blue: https://i.imgur.com/LGtMVAn.jpg
+        green: https://i.imgur.com/lObs8xU.jpg
+        red: https://i.imgur.com/zmbz3pc.jpg
+      half:
+        purple: https://i.imgur.com/OF80A5P.jpg
+        yellow: https://i.imgur.com/qjXgIcZ.jpg
+        blue: https://i.imgur.com/zq773al.jpg
+        green: https://i.imgur.com/Bmhhq2K.jpg
+        red: https://i.imgur.com/WXFyuon.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 22
+      defense: 25
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 28
+      defense: 31
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Increase Status Effect Defense
+      description: Defense buffs are 8% more effective for the character this Troop is equipped on.
+  five_star_Ranger_Wizard:
+    key: five_star_Ranger_Wizard
+    id: 56
+    stars: 5
+    name: Eternal Hunter
+    description: Legendary for class Ranger & Wizard
+    images:
+      full:
+        purple: https://i.imgur.com/GPGTzea.jpg
+        yellow: https://i.imgur.com/LA2XbHO.jpg
+        blue: https://i.imgur.com/zoQrP0O.jpg
+        green: https://i.imgur.com/dK9Gwe4.jpg
+        red: https://i.imgur.com/UqZR46M.jpg
+      half:
+        purple: https://i.imgur.com/R55fM5I.jpg
+        yellow: https://i.imgur.com/ElIbwpX.jpg
+        blue: 
+        green: https://i.imgur.com/bWVzyPw.jpg
+        red: https://i.imgur.com/se7RvLU.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 26
+      defense: 22
+      health: 24
+      mana: 11
+    max_level_stats_for_class:
+      attack: 32
+      defense: 28
+      health: 39
+      mana: 11
+    max_level_passives_for_class:
+      name: Attack Ailment Reduction
+      description: Attack status ailments are 8% less effective for the character this Troop is equipped on.
+  five_star_Rogue_Paladin:
+    key: five_star_Rogue_Paladin
+    id: 57
+    stars: 5
+    name: Unseen Assassin
+    description: Legendary for class Rogue & Paladin
+    images:
+      full:
+        purple: https://i.imgur.com/OL7pcuQ.jpg
+        yellow: https://i.imgur.com/fZyNLA2.jpg
+        blue: https://i.imgur.com/Bo8ZdDe.jpg
+        green: https://i.imgur.com/B68PvUu.jpg
+        red: https://i.imgur.com/lHCvW6x.jpg
+      half:
+        purple: https://i.imgur.com/kR3kbu5.jpg
+        yellow: https://i.imgur.com/Sy3vlSC.jpg
+        blue: https://i.imgur.com/RQWjpOi.jpg
+        green: https://i.imgur.com/8V9BZXj.jpg
+        red: https://i.imgur.com/o6USWaR.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 26
+      defense: 21
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 32
+      defense: 27
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Critical Modifier
+      description: Grants +15% critical chance to the character this troop is equipped on.
+  five_star_Sorcerer_Monk:
+    key: five_star_Sorcerer_Monk
+    id: 58
+    stars: 5
+    name: Royal Sorcerer
+    description: Legendary for class Sorcerer & Monk
+    images:
+      full:
+        purple: https://i.imgur.com/iYF74rz.jpg
+        yellow: https://i.imgur.com/zIb5NBA.jpg
+        blue: https://i.imgur.com/EdsMfvk.jpg
+        green: https://i.imgur.com/VjcOSnw.jpg
+        red: https://i.imgur.com/SRvn7nU.jpg
+      half:
+        purple: https://i.imgur.com/XEReu3e.jpg
+        yellow: https://i.imgur.com/1gPkabM.jpg
+        blue: https://i.imgur.com/9FtkrqZ.jpg
+        green: https://i.imgur.com/zCVEWWr.jpg
+        red: https://i.imgur.com/mB3eBkF.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 21
+      defense: 26
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 27
+      defense: 32
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Special Skill Damage Reduction
+      description: Direct Special Damage taken by the character this troop is equipped to is reduced by -8%.
+  five_star_Wizard_Ranger:
+    key: five_star_Wizard_Ranger
+    id: 59
+    stars: 5
+    name: Eldest Wizard
+    description: Legendary for class Wizard & Ranger
+    images:
+      full:
+        purple: https://i.imgur.com/IVatbns.jpg
+        yellow: https://i.imgur.com/76k6WEw.jpg
+        blue: https://i.imgur.com/a5sHrrz.jpg
+        green: https://i.imgur.com/Lj5O2sd.jpg
+        red: https://i.imgur.com/tOotvzJ.jpg
+      half:
+        purple: https://i.imgur.com/7AWkxE5.jpg
+        yellow: https://i.imgur.com/xdNyhxj.jpg
+        blue: https://i.imgur.com/7jdTXl1.jpg
+        green: https://i.imgur.com/3p2o9ou.jpg
+        red: https://i.imgur.com/CxlFcLH.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 22
+      defense: 26
+      health: 24
+      mana: 11
+    max_level_stats_for_class:
+      attack: 28
+      defense: 32
+      health: 39
+      mana: 11
+    max_level_passives_for_class:
+      name: Increased Special Skill Damage
+      description: Direct Special Damage done by character this troop is equipped to is increased by 8%.
 
 max_level_by_stars:
   1: 10
