@@ -1,0 +1,27 @@
+name: Pepperflame
+class: Monk
+source: goblinvillage
+family: goblin
+speed: Fast
+power: 989
+attack: 1050
+defense: 953
+health: 1643
+skill: Chords of Havoc
+effects:
+  - Deals 485% damage to the target and minor damage to nearby enemies.
+  - 'Growth: The caster and nearby allies get 330 attack.'
+  - >-
+    The target and nearby enemies get -35% defense for 3 turns. If the effect is
+    removed before the duration ends, the target with effect suffers 577 damage.
+types:
+  - Hit 3.
+  - Growth
+  - Defense debuff
+passives:
+  - >-
+    Effects on Special Skill - 40% chance to perform the following actions when
+    this character casts their Special Skill.
+  - " * Deals 90% damage to all enemies."
+  - " * All enemies get -25% accuracy for 3 turns."
+image: https://i.imgur.com/O681MYE.jpg
