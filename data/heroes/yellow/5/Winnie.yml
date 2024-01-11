@@ -1,0 +1,26 @@
+name: Winnie
+class: Paladin
+source: Knights
+family: Stag
+speed: Slow
+power: 990
+attack: 927
+defense: 1015
+health: 1837
+skill: Ursine Protection
+effects:
+  - Cleanses status ailments from all allies.
+  - Boosts health of all allies by 900. Boosted health can exceed max HP.
+  - All allies resists max health reduction for 5 turns.
+  - >-
+    All allies get +60% defense as long as the caster has boosted health. 
+    This effect can’t be cleansed.
+types:
+  - Cleanser
+  - Health Boost
+  - Defense Buff
+passives:
+  - >-
+    Health Recovery on Buff Received - This character recovers 5% health when 
+    they receive a buff or a positive stack.
+image: https://i.imgur.com/Dx6MykQ.jpg

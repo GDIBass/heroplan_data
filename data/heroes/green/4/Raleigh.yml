@@ -1,0 +1,25 @@
+name: Raleigh
+class: Druid
+source: Knights
+family: Stag
+speed: Slow
+power: 692
+attack: 656
+defense: 714
+health: 1272
+skill: Tome of the Stag
+effects:
+  - Boosts health of all allies by 500. Boosted health can exceed max HP.
+  - >-
+    All allies get +30% attack for 5 turns. The attack increases by 5% each 
+    turn up to 50%.
+  - All allies get +24% mana generation for 5 turns.
+types:
+  - Health Boost
+  - Attack buff
+  - Mana gen buff
+passives:
+  - >-
+    Health Recovery on Buff Received - This character recovers 5% health when 
+    they receive a buff or a positive stack.
+image: https://i.imgur.com/SZsJBr2.jpg
