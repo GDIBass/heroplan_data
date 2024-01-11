@@ -3,7 +3,7 @@ class: Ranger
 source: love
 family: Cupid
 speed: Average
-power: 842
+power: 862
 attack: 844
 defense: 805
 health: 1545
@@ -11,14 +11,13 @@ skill: Love Conquers All
 effects:
   - Deals 295% damage to the target and nearby enemies.
   - >-
-    The target and nearby enemies automatically cast Healing Gift+ on the
-    character with least health in proportion to their max health on the
-    opposing team when mana is full at the start of the turn during 3 turns.
+    For 3 turns, the target and nearby enemies are forced to cast Mindless Heal
+    when at full mana.
   - >-
-    +Healing Gift - Recovers 20% health for the enemy with the lowest remaining
-    HP in proportion to their max HP.
+    Mindless Heal: Recovers 20% health for the character on the opposing side with the lowest remaining HP.
 types:
   - Hit 3
+  - Mindless Heal
 passives:
   - >-
     Resist Special Skill Blocking - This character has innate resistance against

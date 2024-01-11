@@ -3,7 +3,7 @@ class: Wizard
 source: love
 family: Cupid
 speed: Slow
-power: 841
+power: 861
 attack: 824
 defense: 809
 health: 1580
@@ -18,4 +18,8 @@ types:
   - Hit All
   - Dispeller
   - Healer
+passives:
+  - >-
+    Resist Special Skill Blocking - This character has innate resistance against
+    status ailments that block Special Skills.
 image: https://i.imgur.com/OE7cx2p.jpg
