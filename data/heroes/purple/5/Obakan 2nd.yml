@@ -1,0 +1,43 @@
+name: Obakan 2nd
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Fighter
+power: 859
+attack: 829
+defense: 793
+health: 1591
+skill: Vampiric Cleave
+effects:
+  - Deals 260% damage to the target and nearby enemies
+  - >-
+    The caster and nearby allies counterattack with 95% of the damage received
+    for 3 turns
+  - >-
+    The caster and nearby allies regenerate a moderate amount of mana for each
+    counterattack. The effect gets diminished for consecutive activations
+    during the same turn
+types:
+  - Hit 3
+  - Counterattack
+image: https://i.imgur.com/jA79vt4.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 1024
+  attack: 1003
+  defense: 916
+  health: 2084
+  skill: Toon and Counter
+  effects:
+    - Deals 390% damage to the target and minor damage to nearby enemies.
+    - The caster counterattacks with 110% of the damage received for 4 turns.
+    - Deals extra damage against Holy.
+  types:
+    - Hit 3
+    - Counterattack
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions'
+    - and buff dispels.
+  image: https://i.imgur.com/YICnCq4.jpg

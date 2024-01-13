@@ -1,0 +1,43 @@
+name: Leonidas 2nd
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Ranger
+power: 792
+attack: 753
+defense: 763
+health: 1369
+skill: Spartan Slash
+effects:
+  - Deals 240% damage to all enemies.
+  - Reduces the mana of all enemies by 10%.
+  - >-
+    All enemies get -34% defense for 3 turns. Against Dark characters, this
+    status effect becomes uncleansable lasts 2 turn longer.
+types:
+  - Hit All
+  - Mana Reduction
+  - Defense Debuff
+image: https://i.imgur.com/6haP2Yz.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 1016
+  attack: 992
+  defense: 958
+  health: 1972
+  skill: Toon Cleave
+  effects:
+    - Deals 565% damage to the target.
+    - Reduces the mana of the target by 35%.
+    - Heals the caster for 65% of damage dealt.
+    - Deals extra damage against Dark.
+  types:
+    - Hit 1
+    - Mana reducer
+    - Self heal
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions'
+    - and buff dispels.
+  image: https://i.imgur.com/PKsAK4b.jpg
