@@ -19,11 +19,11 @@ types:
 image: https://i.imgur.com/rSEO0Xi.jpg
 costume:
   bonuses: 5/5/10/5
-  class: 
-  power: 
-  attack: 
-  defense: 
-  health: 
+  class: Fighter
+  power: 896
+  attack: 941
+  defense: 778
+  health: 1600
   skill: Serenade of Sedition
   effects:
     - Deals 120% damage to the target and minor damage to nearby enemies.
