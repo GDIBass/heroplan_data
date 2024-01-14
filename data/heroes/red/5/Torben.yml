@@ -3,7 +3,7 @@ class: Fighter
 source: Knights
 family: Bear
 speed: Fast
-power: 953
+power: 980
 attack: 1034
 defense: 945
 health: 1633

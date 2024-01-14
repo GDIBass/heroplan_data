@@ -1,0 +1,28 @@
+name: Daemon
+class: Fighter
+source: Knights
+family: Stag
+speed: Very Fast
+power: 992
+attack: 1069
+defense: 947
+health: 1631
+skill: Blood Petals
+effects:
+  - Dispels buffs from the target.
+  - Blocks Talent Skill activation for the target.
+  - Deals 485% damage to the target.
+  - >-
+    The target cannot cast any new status effects on enemies or allies for 3 
+    turns. This includes stacks. This only includes status effects cast with 
+    Special Skills.
+types:
+  - Dispeller
+  - Talent Silence
+  - Hit 1
+  - Cast blocker
+passives:
+  - >-
+    Health Recovery on Buff Received - This character recovers 5% health when 
+    they receive a buff or a positive stack.
+image: https://i.imgur.com/uaxeVEQ.jpg

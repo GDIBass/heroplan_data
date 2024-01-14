@@ -1,0 +1,18 @@
+name: Li Xiu 2nd
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Wizard
+power: 731
+attack: 725
+defense: 752
+health: 1299
+skill: Slash of the Seven Stilettos
+effects:
+  - Deals 270% damage to the target and nearby enemies.
+  - The target and nearby enemies get silenced for 3 turns.
+types:
+  - Hit 3
+  - Silencer
+image: https://i.imgur.com/kSRi1Vn.jpg

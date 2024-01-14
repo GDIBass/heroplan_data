@@ -1,0 +1,21 @@
+name: Caedmon 2nd
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Paladin
+power: 734
+attack: 745
+defense: 719
+health: 1340
+skill: Valorant Strike
+effects:
+  - Deals 275% damage to the target and nearby enemies
+  - >-
+    The target and nearby enemies are immune to new status effect buffs for 3
+    turns
+  - Dispels buffs from the target and nearby enemies
+types:
+  - Hit 3
+  - Dispels Buffs
+image: https://i.imgur.com/0FiXuyI.jpg

@@ -1,0 +1,20 @@
+name: Melendor 2nd
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Sorcerer
+power: 729
+attack: 684
+defense: 830
+health: 1231
+skill: Fog of the Smoke Machine
+effects:
+  - All allies regenerate 609 HP over 3 turns.
+  - All allies get +50% attack for 3 turns.
+  - Dispels buffs from all enemies.
+types:
+  - Healer
+  - Attack Buff
+  - Dispeller
+image: https://i.imgur.com/XVqcInX.jpg

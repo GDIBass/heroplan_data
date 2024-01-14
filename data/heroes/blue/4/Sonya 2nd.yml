@@ -1,0 +1,18 @@
+name: Sonya 2nd
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Rogue
+power: 734
+attack: 817
+defense: 708
+health: 1179
+skill: Wrenching Strike
+effects:
+  - Deals 345% damage to the target.
+  - All enemies are immune to new status effect buffs for 2 turns.
+types:
+  - Hit 1
+  - Buff imunity to all
+image: https://i.imgur.com/9fhb23h.jpg

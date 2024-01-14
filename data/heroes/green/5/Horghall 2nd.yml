@@ -1,0 +1,24 @@
+name: Horghall 2nd
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Wizard
+power: 857
+attack: 750
+defense: 787
+health: 1784
+skill: Anger of the Woods
+effects:
+  - Deals 260% damage to all enemies
+  - >-
+    All enemies get -31% attack, and a further 4% decrease any time they are
+    hit during 4 turns
+  - All enemies get -24% defense for 4 turns
+  - All enemies receive 212 Poison damage over 4 turns
+types:
+  - Hit All
+  - Attack Debuff
+  - Defense Debuff
+  - Dot 4
+image: https://i.imgur.com/IfQ1lHo.jpg

@@ -1,0 +1,20 @@
+name: Rigard 2nd
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Monk
+power: 736
+attack: 717
+defense: 808
+health: 1246
+skill: Transfigure
+effects:
+  - Boosts health of all allies by 410. Boosted health can exceed max HP.
+  - All allies get +40% defense for 3 turns.
+  - Cleanses status ailments from all allies.    
+types:
+  - Healer
+  - Defense Buff
+  - Cleanser
+image: https://i.imgur.com/0dWPfN4.jpg
