@@ -15,3 +15,20 @@ types:
   - Hit 1
   - Silence
 image: https://i.imgur.com/aPVBzpo.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 681
+  attack: 675
+  defense: 714
+  health: 1142
+  skill: Shocking News
+  effects:
+    - Deals 320% damage to the target.
+    - The target gets silenced for 3 turns.
+    - The target gets -24% defense for 3 turns.
+  types:
+    - Hit 1
+    - Silence
+    - Defense debuff
+  image: https://i.imgur.com/caAHKaT.jpg
