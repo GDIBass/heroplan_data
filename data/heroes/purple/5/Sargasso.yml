@@ -1,7 +1,8 @@
 name: Sargasso
-class: Fighter
 source: Pirates
+family: Pirate
 speed: Average
+class: Fighter
 power: 765
 attack: 729
 defense: 708
@@ -15,5 +16,27 @@ effects:
 types:
   - Hit 3
   - Healing Debuff
-family: Pirate
 image: https://i.imgur.com/6s6FE8i.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 897
+  attack: 852
+  defense: 927
+  health: 1534
+  skill: Curse of the Sea
+  effects:
+    - Deals 415% damage to the target and minor damage to nearby enemies.
+    - >-
+      The target and nearby enemies get -100% decrease for any healing received
+      for 4 turns.
+    - The target and nearby enemies receive 240 Water damage over 4 turns.
+  types:
+    - Hit 3
+    - Healing Debuff
+    - DoT
+  passives:
+    - >-
+      Poison on Special Skill: When this character casts their Special Skill, 
+      all enemies receive 476 Poison damage over 4 turns.
+  image: https://i.imgur.com/lR0HaHa.jpg
