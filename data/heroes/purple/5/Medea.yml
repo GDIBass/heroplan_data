@@ -1,0 +1,31 @@
+name: Medea
+class: Ranger
+source: untoldtales
+family: Nightmares of Atlantis
+speed: Changing Tides
+power: 995
+attack: 1019
+defense: 976
+health: 1715
+skill: Shatter Psyche
+effects:
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Deals 350% damage to the target and nearby enemies.'
+  - ' * The target and nearby enemies get -50% decrease for any healing received for 3 turns.'
+  - ' * A random hit target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.'
+  - '2nd:'
+  - ' * Deals 400% damage to the target and nearby enemies.'
+  - ' * The target and nearby enemies get -75% decrease for any healing received for 4 turns.'
+  - ' * A random hit target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.'
+types:
+  - Hit 3
+  - Healing debuff
+  - Mindless attack
+passives:
+  - >-
+    'Effects on Special Skill:
+    50% chance to perform the following actions when this character casts their Special Skill
+      * Deals 80% damage to all enemies.
+      * The caster gets +19% mana generation for 2 turns.'
+image: https://i.imgur.com/RtOVjbp.jpg
