@@ -3,10 +3,10 @@ class: Wizard
 source: Covenant
 family: construct
 speed: Average
-power: 958
+power: 980
 attack: 997
 defense: 951
-health: 1751
+health: 1715
 skill: Star Construct
 effects:
   - Deals 385% damage to the target and nearby enemies.
