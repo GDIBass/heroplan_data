@@ -1,0 +1,24 @@
+name: Melendor Toon Costume
+is_costume: true
+class: Druid
+source: Season1
+family: Classic
+speed: Average
+power: 741
+attack: 800
+defense: 727
+health: 1233
+skill: Toontastic Fog
+effects:
+  - Recovers 45% health for all allies.
+  - >-
+    All allies get 34% defense for 3 turns. For all Nature characters, 
+    this status effect becomes undispellable and lasts 2 turns longer.
+  - Dispels buffs from all enemies.
+types:
+  - Healer
+  - Defense Buff
+  - Dispeller
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/3swBEW4.jpg
