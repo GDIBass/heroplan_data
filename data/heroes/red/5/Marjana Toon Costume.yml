@@ -1,0 +1,21 @@
+name: Marjana Toon Costume
+is_costume: true
+class: Rogue
+source: Season1
+family: Classic
+speed: Fast
+power: 1025
+attack: 942
+defense: 947
+health: 2180
+skill: Toontastic Smash
+effects:
+  - Deals 538% damage to the target.
+  - The target receives 465 damage over 3 turns.
+  - Deals extra damage against Nature.
+types:
+  - Hit 1
+  - Dot 1
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/CuDeIo0.jpg
