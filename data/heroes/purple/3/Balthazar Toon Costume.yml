@@ -1,0 +1,18 @@
+name: Balthazar
+class: Wizard
+source: Season1
+family: Classic
+speed: Fast
+power: 505
+attack: 561
+defense: 474
+health: 794
+skill: Toon Jolt
+effects:
+  - Deals 365% damage to the target.
+  - Deals extra damage if the target is Holy.
+types:
+  - Hit 1
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/TVzeF5e.jpg
