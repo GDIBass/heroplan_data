@@ -1,0 +1,18 @@
+name: Chao Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Barbarian
+power: 733
+attack: 776
+defense: 706
+health: 1279
+skill: Cub Leader Cut
+effects:
+  - Deals 275% damage to the target and nearby enemies.
+  - The target and nearby enemies get -24% mana generation for 3 turns.
+types:
+  - Hit 3
+  - Mana generation debuff
+image: https://i.imgur.com/AhEe43s.jpg
