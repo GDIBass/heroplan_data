@@ -69,6 +69,5 @@ costume3:
     - Hit 1
     - Dot 1
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions'
-    - and buff dispels.
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/CuDeIo0.jpg
