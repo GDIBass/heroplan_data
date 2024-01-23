@@ -1,0 +1,22 @@
+name: Leonidas Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Ranger
+power: 792
+attack: 753
+defense: 763
+health: 1369
+skill: Spartan Slash
+effects:
+  - Deals 240% damage to all enemies.
+  - Reduces the mana of all enemies by 10%.
+  - >-
+    All enemies get -34% defense for 3 turns. Against Dark characters, this
+    status effect becomes uncleansable lasts 2 turn longer.
+types:
+  - Hit All
+  - Mana Reduction
+  - Defense Debuff
+image: https://i.imgur.com/6haP2Yz.jpg
