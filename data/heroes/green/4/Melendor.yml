@@ -49,3 +49,24 @@ costume2:
     - Attack Buff
     - Dispeller
   image: https://i.imgur.com/XVqcInX.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 741
+  attack: 800
+  defense: 727
+  health: 1233
+  skill: Toontastic Fog
+  effects:
+    - Recovers 45% health for all allies.
+    - >-
+      All allies get 34% defense for 3 turns. For all Nature characters, 
+      this status effect becomes undispellable and lasts 2 turns longer.
+    - Dispels buffs from all enemies.
+  types:
+    - Healer
+    - Defense Buff
+    - Dispeller
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  image: https://i.imgur.com/3swBEW4.jpg

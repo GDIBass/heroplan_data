@@ -1,0 +1,20 @@
+name: Elkanen Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Paladin
+power: 862
+attack: 805
+defense: 871
+health: 1514
+skill: Lunar Spear
+effects:
+  - Deals 230% damage to all enemies
+  - >-
+    All enemies get -50% decrease for any healing received for 3 turns. This
+    effect can't be cleansed.
+types:
+  - Hit All
+  - Healing Decrease
+image: https://i.imgur.com/45ULmYn.jpg

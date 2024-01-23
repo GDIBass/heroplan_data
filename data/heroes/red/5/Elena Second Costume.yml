@@ -1,0 +1,20 @@
+name: Elena Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Paladin
+power: 857
+attack: 823
+defense: 757
+health: 1660
+skill: Dreaded Swords
+effects:
+  - Deals 242% damage to all enemies.
+  - >-
+    The caster and nearby allies counterattack with 115% of the damage received
+    for 5 turns. The counterattack damage increases +10% each turn, up to 155%.
+types:
+  - Hit All
+  - Counterattack
+image: https://i.imgur.com/mKIsd5g.jpg

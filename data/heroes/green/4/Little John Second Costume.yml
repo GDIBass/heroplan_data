@@ -1,0 +1,18 @@
+name: Little John Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Druid
+power: 732
+attack: 840
+defense: 637
+health: 1251
+skill: Massive Swing
+effects:
+  - Deals 185% damage to all enemies.
+  - All allies get +33% mana generation for 3 turns.
+types:
+  - Hit all
+  - Mana Generation Buff
+image: https://i.imgur.com/pBSZGi6.jpg

@@ -29,7 +29,6 @@ costume:
   types:
     - Hit 1
     - Cleanser
-  family: Classic
   image: https://i.imgur.com/zrZ4p5y.jpg
 costume2:
   class: Paladin
@@ -47,5 +46,22 @@ costume2:
   types:
     - Hit 3
     - Dispels Buffs
-  family: Classic
   image: https://i.imgur.com/0FiXuyI.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 746
+  attack: 760
+  defense: 742
+  health: 1344
+  skill: Toontastic Strike
+  effects:
+    - Deals 350% damage to the target.
+    - Deals extra damage against Ice.
+    - Dispels buffs from all enemies.
+  types:
+    - Hit 1
+    - Dispeller
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  image: https://i.imgur.com/DR6bDUS.jpg

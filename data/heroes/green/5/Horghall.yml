@@ -28,7 +28,6 @@ costume:
   types:
     - Hit All
     - Attack Debuff
-  family: Classic
   image: https://i.imgur.com/AffGFoZ.jpg
 costume2:
   class: Wizard
@@ -49,5 +48,4 @@ costume2:
     - Attack Debuff
     - Defense Debuff
     - Dot 4
-  family: Classic
   image: https://i.imgur.com/IfQ1lHo.jpg

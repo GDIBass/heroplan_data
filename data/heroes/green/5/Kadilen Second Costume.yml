@@ -1,0 +1,21 @@
+name: Kadilen Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Cleric
+power: 860
+attack: 747
+defense: 923
+health: 1539
+skill: Lunar Shield
+effects:
+  - Deals 210% damage to all enemies.
+  - >-
+    All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge
+    summons an Empowered Thorn Minion.
+  - Empowered Thorn Minion has 25% HP and 25% attack inherited from the caster
+types:
+  - Hit All
+  - Minion Dodge Buff  
+image: https://i.imgur.com/hEckaC5.jpg
