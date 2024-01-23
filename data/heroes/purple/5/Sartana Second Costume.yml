@@ -1,0 +1,20 @@
+name: Sartana Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Rogue
+power: 862
+attack: 802
+defense: 771
+health: 1719
+skill: Frightstrike
+effects:
+  - Destroys all Minions from the target.
+  - Deals 500% damage to the target.
+  - The target resists new Minions for 3 turns.
+types:
+  - Destroy Minions
+  - Hit 1
+  - Minion Blocking
+image: https://i.imgur.com/I8cTetD.jpg

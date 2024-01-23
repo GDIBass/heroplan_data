@@ -52,10 +52,10 @@ costume2:
 costume3:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 993
-  attack: 990
-  defense: 885
-  health: 1962
+  power: 1025
+  attack: 1028
+  defense: 919
+  health: 2025
   skill: Toon Explosion
   effects:
     - Deals 355% damage to all enemies.
@@ -65,6 +65,5 @@ costume3:
     - Hit all
     - DoT all
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions'
-    - and buff dispels.
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/yS5bHHw.jpg

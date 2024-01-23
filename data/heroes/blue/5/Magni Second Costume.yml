@@ -1,0 +1,20 @@
+name: Magni Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Rogue
+power: 858
+attack: 852
+defense: 738
+health: 1630
+skill: Strike of the Underworld
+effects:
+  - Deals 285% damage to target and nearby enemies.
+  - >-
+    The target and nearby enemies get -64% defense against Special Skills for
+    4 turns
+types:
+  - Hit 3
+  - Defense Debuff
+image: https://i.imgur.com/npmSFHz.jpg

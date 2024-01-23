@@ -1,0 +1,21 @@
+name: Azlar Toon Costume
+is_costume: true
+class: Barbarian
+source: Season1
+family: Classic
+speed: Slow
+power: 1025
+attack: 1028
+defense: 919
+health: 2025
+skill: Toon Explosion
+effects:
+  - Deals 355% damage to all enemies.
+  - All enemies receive 462 damage over 2 turns.
+  - Deals extra damage against Nature.
+types:
+  - Hit all
+  - DoT all
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/yS5bHHw.jpg

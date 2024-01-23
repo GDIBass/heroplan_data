@@ -1,0 +1,20 @@
+name: Richard Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Fighter
+power: 990
+attack: 847
+defense: 757
+health: 1609
+skill: Dread Hammer
+effects:
+  - Deals 300% damage to the tha target and nearby enemies.
+  - >-
+    The target and nearby enemies get -30% attack, and a further -2% decrease
+    every time they are hit during 4 turns.
+types:
+  - Hit 3
+  - Attack Debuff
+image: https://i.imgur.com/7TMtgd4.jpg

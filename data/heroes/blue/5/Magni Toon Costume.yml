@@ -1,0 +1,21 @@
+name: Magni Toon Costume
+is_costume: true
+class: Fighter
+source: Season1
+family: Classic
+speed: Fast
+power: 1023
+attack: 1026
+defense: 842
+health: 2168
+skill: Strike of the Toons
+effects:
+  - Deals 500% damage to the target.
+  - The caster and nearby allies get 56% defense for 4 turns.
+  - Deals extra damage against Fire.
+types:
+  - Hit 1
+  - Defense Buff
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/bakqHYB.jpg
