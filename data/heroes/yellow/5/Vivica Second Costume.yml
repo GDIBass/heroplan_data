@@ -1,0 +1,20 @@
+name: Vivica Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Fighter
+power: 859
+attack: 800
+defense: 807
+health: 1630
+skill: Omnimend
+effects:
+  - Boosts health of all allies by 670. Boosted health can exceed max HP
+  - All enemies get -39% attack for 4 turns
+  - Dispels buffs from all enemies
+types:
+  - Healer
+  - Attack Debuff
+  - Dispeller
+image: https://i.imgur.com/J8lGs8A.jpg

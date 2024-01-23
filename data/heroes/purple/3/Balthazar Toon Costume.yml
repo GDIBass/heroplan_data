@@ -1,4 +1,5 @@
 name: Balthazar
+is_costume: true
 class: Wizard
 source: Season1
 family: Classic

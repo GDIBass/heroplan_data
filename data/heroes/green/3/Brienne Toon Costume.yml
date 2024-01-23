@@ -1,4 +1,5 @@
 name: Brienne Toon Costume
+is_costume: true
 class: Druid
 source: Season1
 family: Classic
