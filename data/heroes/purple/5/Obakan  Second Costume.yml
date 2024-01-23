@@ -1,0 +1,24 @@
+name: Obakan Second Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Fighter
+power: 859
+attack: 829
+defense: 793
+health: 1591
+skill: Vampiric Cleave
+effects:
+  - Deals 260% damage to the target and nearby enemies
+  - >-
+    The caster and nearby allies counterattack with 95% of the damage received
+    for 3 turns
+  - >-
+    The caster and nearby allies regenerate a moderate amount of mana for each
+    counterattack. The effect gets diminished for consecutive activations
+    during the same turn
+types:
+  - Hit 3
+  - Counterattack
+image: https://i.imgur.com/jA79vt4.jpg
