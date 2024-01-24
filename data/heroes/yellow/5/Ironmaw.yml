@@ -9,9 +9,9 @@ defense: 966
 health: 1660
 skill: Chains of Light
 effects:
-  - Deals 480% damage to the target and all Dark enemies.
+  - Deals 500% damage to the target and all Dark enemies.
   - ->
-    All enemies get -34% mana generation for 4 turns. Against Dark characters, 
+    All enemies get -39% mana generation for 4 turns. Against Dark characters, 
     this status effect becomes uncleansable and lasts 2 turns longer.
   - Deals extra damage agianst Dark.
 types:

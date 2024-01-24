@@ -10,7 +10,7 @@ health: 1419
 skill: Burning Chains
 effects:
   - >-
-    The target receives 912 Burn damage over 4 turns. This effect can’t be 
+    The target receives 1016 Burn damage over 4 turns. This effect can’t be 
     cleansed.
   - >-
     The target gets -54% mana generation for 4 turns. This effect can’t be 
@@ -33,7 +33,7 @@ costume:
   skill: Burning Thread
   effects:
     - >-
-      The target receives 1104 Burn damage over 4 turns. This effect can’t be 
+      The target receives 1212 Burn damage over 4 turns. This effect can’t be 
       cleansed.
     - >-
       The target gets -50% mana generation for 4 turns. This effect can’t be 
