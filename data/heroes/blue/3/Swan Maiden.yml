@@ -1,0 +1,35 @@
+name: Swan Maiden
+class: Paladin
+source: Solstice
+family: opera
+speed: Average
+power: 514
+attack: 521
+defense: 521
+health: 869
+skill: Dance of the Little Swan
+effects:
+  - The caster regenerates 402 HP over 3 turns.
+  - The caster gets +30% chance to dodge Special Skills that deal damage for 3 turns.
+  - Casts Dance of the Little Swan to all allies but caster for 3 turns. All existing status effects will be removed when this effect is added.
+  - Dance of the Little Swan
+  - " * +30% chance to dodge attacks and Special Skills."
+  - " * 35% chance to deal 240% damage to a random enemy after any subsequent allied Special Skill is cast."
+  - " * Gives immunity to new status effects. New dance status effects will replace this effect."
+  - " * This effect cannot be dispelled. The effect is removed when the caster dies."
+types:
+  - Self heal
+  - Dodge Buff
+  - Dance of the Little Swan
+  - Dodge Buff
+  - Status Effect immunity
+passives:
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 10% 
+    health each time a status ailment expires or is cleansed, removed or 
+    reallocated from them. This effect can activate only once per turn.
+  - >-
+    Resist Defense Ailments: This character has innate resistance against status
+    ailments that affect defense. Doesn’t apply to status ailments that affect 
+    elemental defense.
+image: https://i.imgur.com/2eJk70W.jpg

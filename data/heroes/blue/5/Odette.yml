@@ -20,7 +20,9 @@ effects:
 types:
   - Self heal
   - Dodge Buff
-  - Status Ailment Immunity
+  - Dance of the Swan
+  - Dodge Buff
+  - Status Effect immunity
 passives:
   - >- 
     Heal when status ailment expires or is cleared: This character receives 10% 
