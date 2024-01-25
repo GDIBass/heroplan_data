@@ -20,6 +20,7 @@ effects:
   - "* This effect cannot be dispelled. The effect is removed when the caster dies."
 types:
   - Hit 3
+  - Ballad of Passion
   - Blind
   - Defense debuff
   - Buff immunity

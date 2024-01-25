@@ -1,0 +1,34 @@
+name: Prince Siegfried
+class: Druid
+source: Solstice
+family: opera
+speed: Slow
+power: 942
+attack: 933
+defense: 920
+health: 1670
+skill: Dance of the Heron
+effects:
+  - If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 30% health and all allies recover 1100 HP. (All status effects and stacks are removed when the caster is defeated)
+  - Casts Dance of the Heron to all allies but caster for 5 turns. All existing status effects will be removed when this effect is added.
+  - Dance of the Heron
+  - " * Counterattack with 130% of the damage received."
+  - " * Received damage is reduced by -35%."
+  - " * Gives immunity to new status effects. New dance status effects will replace this effect."
+  - " * This effect cannot be dispelled. The effect is removed when the caster is defeated."
+types:
+  - Self Resurrection
+  - Dance of the Heron
+  - Counterattack
+  - Damage reducer
+  - Status Effect immunity
+passives:
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 20% 
+    health each time a status ailment expires or is cleansed, removed or 
+    reallocated from them. This effect can activate only once per turn.
+  - >-
+    Resist Defense Ailments: This character has innate resistance against status
+    ailments that affect defense. Doesn’t apply to status ailments that affect 
+    elemental defense.
+image: https://i.imgur.com/WwCBlh0.jpg

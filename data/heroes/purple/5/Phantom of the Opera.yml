@@ -21,9 +21,10 @@ effects:
 types:
   - Hit 3
   - Cleanser
-  - Mana Generation
+  - Ballad of Obsession
+  - Mana gen debuff
   - Healing Decrease
-  - Buff Immunity Debuff
+  - Status Effect immunity
 passives:
   - >- 
     Heal when status ailment expires or is cleared: This character receives 10% 
