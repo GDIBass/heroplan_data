@@ -4,9 +4,9 @@ source: Solstice
 family: opera
 speed: Slow
 power: 942
-attack: 933
-defense: 920
-health: 1670
+attack: 984
+defense: 972
+health: 1823
 skill: Dance of the Heron
 effects:
   - If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 30% health and all allies recover 1100 HP. (All status effects and stacks are removed when the caster is defeated)

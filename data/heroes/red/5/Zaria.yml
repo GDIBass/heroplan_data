@@ -9,8 +9,8 @@ defense: 945
 health: 1586
 skill: Cataclysmic Divination
 effects:
-  - Deals 250% damage to all enemies.
-  - If there are 6 or more Fire shields on the board, damage is increased to 300%.
+  - Deals 290% damage to all enemies.
+  - If there are 6 or more Fire shields on the board, damage is increased to 340%.
   - If there are 12 or more Fire shields on the board, damage is increased to 500%.
 types:
   - Hit all

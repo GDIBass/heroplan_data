@@ -1,15 +1,16 @@
 name: Vela
-class: Druid
 source: Hotm
+family: 2020
 speed: Fast
+class: Druid
 power: 771
 attack: 743
 defense: 729
 health: 1303
 skill: Aquatic Outbreak
 effects:
-  - Deals 150% damage to all enemies.
-  - All enemies receive 156 Water damage over 3 turns.
+  - Deals 200% damage to all enemies.
+  - All enemies receive 252 Water damage over 4 turns.
   - All enemies get -34% attack for 3 turns.
   - Deals extra damage against Fire.
   - >-
@@ -24,4 +25,3 @@ passives:
     This character has an innate resistance against incoming negative effects and
     damage from Minions.
 image: https://i.imgur.com/mUzztO6.jpg
-family: 2020

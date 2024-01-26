@@ -8,7 +8,7 @@ defense: 774
 health: 1367
 skill: En Garde
 effects:
-  - Deals 290% damage to all enemies.
+  - Deals 340% damage to all enemies.
   - >-
     Lifts all cleansable status ailments that affect attack or defense from all
     allies and randomly distributes them on enemies.

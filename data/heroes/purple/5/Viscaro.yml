@@ -9,14 +9,14 @@ defense: 809
 health: 1398
 skill: Cursed Garden
 effects:
-  - Deals 220% damage to all enemies. 
+  - Deals 250% damage to all enemies. 
   - Damage bypasses target’s minions.
   - >-
     Summons a Cursed Sapling Fiend for all enemies. The Fiend damages its target
-    with 60% attack every turn. 
+    with 70% attack every turn. 
   - >-
     The Cursed Sapling Fiend absorbs healing and it disappears after absorbing a
-    healing amount equal to 50% of its owner’s max health.
+    healing amount equal to 55% of its owner’s max health.
   - >-
     Attacks from Cursed Sapling Fiend deal extra damage if the target has
     minions.

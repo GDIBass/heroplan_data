@@ -1,7 +1,8 @@
 name: Morgan Le Fay
-class: Sorcerer
 source: Avalon
+family: Avalon
 speed: Fast
+class: Sorcerer
 power: 765
 attack: 716
 defense: 721
@@ -9,10 +10,9 @@ health: 1343
 skill: Devourer of Vitality
 effects:
   - >-
-    The caster drains 684 HP from the target over 4 turns. This effect can't be
+    The caster drains 772 HP from the target over 4 turns. This effect can't be
     cleansed, but gets removed if this caster dies
-  - The caster gets +94% defense against Fire for 4 turns.
+  - The caster and nearby allies gets +94% defense against Fire for 4 turns.
 types:
   - Health Drain
-family: Avalon
 image: https://i.imgur.com/JIPoRD4.jpg
