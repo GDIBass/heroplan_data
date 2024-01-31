@@ -23,6 +23,6 @@ passives:
   - >-
     Effects on Special Skill - 50% chance to perform the following actions when
     this character casts their Special Skill.
-  - " * Deals 70% damage to all enemies."
+  - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."
 image: https://i.imgur.com/9UklXhJ.jpg
