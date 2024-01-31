@@ -14,7 +14,7 @@ effects:
   - >-
     The target and nearby enemies get -35% defense for 3 turns. If this effect 
     is removed before the duration ends, the target with the effect suffers 
-    116 damage.
+    124 damage.
 types:
   - Hit 3
   - Attack debuff
@@ -23,6 +23,6 @@ passives:
   - >-
     Effects on Special Skill - 50% chance to perform the following actions when
     this character casts their Special Skill.
-  - " * Deals 70% damage to all enemies."
+  - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."
 image: https://i.imgur.com/JAko0SJ.jpg

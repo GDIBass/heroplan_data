@@ -10,7 +10,7 @@ health: 1621
 skill: Unhallowed Spirits
 effects:
   - >-
-    Lifts all dispellable status effect buffs from the target and random 
+    Steals all dispellable status effect buffs from the target and randomly 
     distributes them on allies.
   - Deals 375% damage to the target.
   - >-
@@ -25,6 +25,6 @@ passives:
   - >-
     Effects on Special Skill - 30% chance to perform the following actions when
     this character casts their Special Skill.
-  - " * Deals 70% damage to all enemies."
+  - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."
 image: https://i.imgur.com/6DFOAwr.jpg
