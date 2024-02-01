@@ -1,6 +1,7 @@
 name: Lughaidh
 class: Paladin
 source: Season4
+family: Underwild
 speed: Slow
 power: 810
 attack: 721
@@ -24,7 +25,6 @@ types:
   - Cleanser
 passives:
   - >-
-    Received damage is reduces by -20% for the furst 3 times this Hero receives
-    damage from Special Skills.
-family: Underwild
+    Special Skill Damage Reduction: Received damage from Special Skills is 
+    reduced by -20% for this character.
 image: https://i.imgur.com/RFjr7Fi.jpg

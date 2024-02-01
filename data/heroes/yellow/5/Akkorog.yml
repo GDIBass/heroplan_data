@@ -1,6 +1,7 @@
 name: Akkorog
 class: Ranger
 source: Season4
+family: Underwild
 speed: Fast
 power: 806
 attack: 782
@@ -12,9 +13,32 @@ effects:
   - Deals 280% damage to the target and nearby enemies.
 types:
   - Hit 3
-family: Underwild
 passives:
   - >-
-    First time this Hero casts Special Skill that does damage, additional 30%
-    damage is added to its power
+    Increased Special Skill Damage: The first time this character casts a Special
+    Skill that deals damage, an additional 30% is added to its power.
 image: https://i.imgur.com/gMyh86R.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 916
+  attack: 856
+  defense: 890
+  health: 1736
+  skill: Colossal Carry
+  effects:
+    - Rearranges the enemy positions randomly.
+    - Deals 260% damage to the target and nearby enemies.
+    - 'The caster gets +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack. (Max: 10).'
+  types:
+    - Hit 3
+    - Dodge
+  passives:
+    - >-
+      Increased Special Skill Damage: This first time this character cast a 
+      Special Skill that deals damage an additional 30% is added to its power.
+    - >-
+      Increased Damage Against Boosted Health: After this character casts their
+      Special Skill cast, all allies’ normal attacks and Special Skills deal 
+      +70% damage against targets with boosted health for 3 turns.
+  image: https://i.imgur.com/VvDq081.jpg

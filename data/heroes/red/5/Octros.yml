@@ -1,6 +1,7 @@
 name: Octros
 class: Fighter
 source: Season4
+family: Underwild
 speed: Average
 power: 810
 attack: 762
@@ -18,9 +19,8 @@ types:
   - Attack Debuff
 passives:
   - >-
-    Duration of the first 3 buffs this hero receives from Special Skills is
-    increased by 1 turn.
-family: Underwild
+    Increase Buff Duration: Duration of the first 3 buff this hero receives 
+    from Special Skills is increased by 1 turn.
 image: https://i.imgur.com/zGSnaa1.jpg
 costume:
   bonuses: 5/5/10/5
@@ -40,6 +40,9 @@ costume:
     - Hit All
     - Attack Debuff
   passives:
+    - >-
+      Increase Buff Duration: Duration of the first 3 buff this hero receives 
+      from Special Skills is increased by 1 turn.
     - >-
       Increased Damage Against Boosted Health: After Special Skill cast, all 
       allies' normal attacks and Special Skills deal +70% damage against targets 

@@ -19,16 +19,16 @@ types:
   - Accuracy Debuff
 passives:
   - >-
-    Received damage is reduced by -20% for the first 3 times this Hero receives
-    damage from Special Skills.
+    Special Skill Damage Reduction: Received damage from Special Skills is 
+    reduced by -20% for this character.
 image: https://i.imgur.com/fpP6oo2.jpg
 costume:
   bonuses: 5/5/10/5
   class: Rogue
-  power: 851
-  attack: 798
-  defense: 802
-  health: 1592
+  power: 917
+  attack: 858
+  defense: 863
+  health: 1793
   skill: Blinding Knowledge
   effects:
     - Deals 265% damage to the target and nearby enemies.
@@ -40,6 +40,9 @@ costume:
     - Hit 3
     - Accuracy Debuff
   passives:
+    - >-
+      Special Skill Damage Reduction: Received damage from Special Skills is 
+      reduced by -20% for this character.
     - >-
       Increased Damage Against Boosted Health: After Special Skill cast, all 
       allies' normal attacks and Special Skills deal +70% damage against targets 

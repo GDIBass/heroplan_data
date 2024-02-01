@@ -1,6 +1,7 @@
 name: Zekena
 class: Barbarian
 source: Season4
+family: Underwild
 speed: Fast
 power: 812
 attack: 801
@@ -19,7 +20,6 @@ types:
   - Defense Debuff
 passives:
   - >-
-    Duration of the first 3 buff this hero receives from Special Skills is
-    increased by 1 turn.
-family: Underwild
+    Increase Buff Duration: Duration of the first 3 buff this hero receives 
+    from Special Skills is increased by 1 turn.
 image: https://i.imgur.com/hsqxizP.jpg

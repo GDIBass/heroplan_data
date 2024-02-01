@@ -18,8 +18,8 @@ types:
   - Dot 1
 passives:
   - >-
-    Received damage is reduced by -20% for the first 3 times this Hero receives
-    damage from Special Skills
+    Special Skill Damage Reduction: Received damage from Special Skills is 
+    reduced by -20% for this character.
 image: https://i.imgur.com/OZiH56V.jpg
 costume:
   bonuses: 5/5/10/5
@@ -39,6 +39,6 @@ costume:
     - DoT 1
   passives:
     - >-
-      Special Skill Damage Redution: Received damage is reduced by -20% for the
-      first 3 times this character receives damage from Special Skills.
+      Special Skill Damage Reduction: Received damage from Special Skills is 
+      reduced by -20% for this character.
   image: https://i.imgur.com/Upmqcxi.jpg

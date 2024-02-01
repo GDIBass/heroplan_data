@@ -16,8 +16,8 @@ types:
   - Cleanse All
 passives:
   - >-
-    Duration of the first 3 buffs this hero receives from Special Skills is
-    increased by 1 turn
+    Increase Buff Duration: Duration of the first 3 buff this hero receives 
+    from Special Skills is increased by 1 turn.
 image: https://i.imgur.com/e1OFOms.jpg
 costume:
   bonuses: 5/5/10/5
@@ -35,6 +35,6 @@ costume:
     - Cleanser
   passives:
     - >-
-      Increase Buff Duration: Duration of the first 3 buffs this character 
-      receives from Special Skill is increased by 1 turn.
+      Increase Buff Duration: Duration of the first 3 buff this hero receives 
+      from Special Skills is increased by 1 turn.
   image: https://i.imgur.com/c9F3Wjn.jpg

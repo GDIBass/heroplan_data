@@ -16,5 +16,7 @@ types:
   - Revive Block
   - Hit 3
 passives:
-  - 'Start Battle with mana: This character receives 20% mana at the start of the battle.'
+  - >-
+    Start Battle with Mana: This character receives 20% mana at the start
+    of the battle.
 image: https://i.imgur.com/xMJYpsy.jpg

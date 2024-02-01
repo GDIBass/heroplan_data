@@ -25,16 +25,16 @@ types:
   - Abyss Ghost
 passives:
   - >-
-    Received damage is reduced by -20% for the first 3 times this Hero
-    recveives damage from Special Skills
+    Special Skill Damage Reduction: Received damage from Special Skills is 
+    reduced by -20% for this character.
 image: https://i.imgur.com/eea7u0v.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 849
-  attack: 795
-  defense: 834
-  health: 1522
+  power: 915
+  attack: 854
+  defense: 896
+  health: 1716
   skill: Undying Incantation
   effects:
     - >-
@@ -52,5 +52,10 @@ costume:
   types:
     - Abyss Ghost
   passives:
-    - 'Boost Health on Special: On Special Skill cast, boosts all allies’ HP by 10%.'
+    - >-
+      Special Skill Damage Reduction: Received damage from Special Skills is 
+      reduced by -20% for this character.
+    - >-
+      Health Boost on Special Skill: On Special Skill cast, boosts all allies’ 
+      HP by 10%.
   image: https://i.imgur.com/MgzgOOM.jpg

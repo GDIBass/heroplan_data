@@ -1,7 +1,7 @@
 name: Congalach
 class: Fighter
-family: Underwild
 source: Season4
+family: Underwild
 power: 815
 attack: 791
 defense: 782
@@ -17,6 +17,6 @@ types:
   - Attack Debuff
 passives:
   - >-
-    Received damage is reduced by -20% for the first 3 times this Hero receives
-    damage from Special Skills
+    Special Skill Damage Reduction: Received damage from Special Skills is 
+    reduced by -20% for this character.
 image: https://i.imgur.com/FKztylV.jpg

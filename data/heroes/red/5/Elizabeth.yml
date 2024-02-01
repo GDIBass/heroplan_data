@@ -30,10 +30,10 @@ image: https://i.imgur.com/5redygr.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 851
-  attack: 821
-  defense: 798
-  health: 1540
+  power: 917
+  attack: 883
+  defense: 858
+  health: 1736
   skill: Bride's Kiss
   effects:
     - Deals 165% damage to all enemies.
@@ -50,6 +50,9 @@ costume:
     - Hit all
     - Fiends
   passives:
+    - >-
+      Increase Buff Duration: Duration of the first 3 buff this hero receives 
+      from Special Skills is increased by 1 turn.
     - >-
       Increased Damage Against Boosted Health: After Special Skill cast, all 
       allies' normal attacks and Special Skills deal +70% damage against targets 
