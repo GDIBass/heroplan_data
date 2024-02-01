@@ -1,6 +1,7 @@
 name: Ursena
 class: Sorcerer
 source: Season2
+family: Atlantis
 speed: Average
 power: 775
 attack: 760
@@ -18,14 +19,14 @@ effects:
 types:
   - Hit All
   - Reflect Specials
-family: Atlantis
 image: https://i.imgur.com/OQ8iQcf.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Druid
-  power: 799
-  attack: 771
-  defense: 761
-  health: 1370
+  power: 831
+  attack: 801
+  defense: 790
+  health: 1461
   skill: Reef Blast
   effects:
     - Deals 130% damage to all enemies.
@@ -38,4 +39,3 @@ costume:
   types:
     - Hit All
   image: https://i.imgur.com/HefSfvM.jpg
-  bonuses: 3/3/6/1
