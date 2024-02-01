@@ -1,6 +1,7 @@
 name: Morris
 class: Fighter
 source: Season4
+family: Underwild
 speed: Average
 power: 478
 attack: 507
@@ -22,9 +23,8 @@ effects:
   - ' * The target can''t gain mana for 2 turns.'
 types:
   - Hole
-family: Underwild
 passives:
   - >-
-    Duration of the first 3 status ailments this hero receives from Special
-    Skills is decreased by 1 turn
+    Decrease Ailment Duration: Duration of the first 3 status ailments this
+    character receives from Special Skill is decreased by 1 turn.
 image: https://i.imgur.com/RXYQ548.jpg

@@ -1,6 +1,7 @@
 name: Passepartout
 class: Fighter
 source: Season4
+family: Underwild
 speed: Average
 power: 811
 attack: 756
@@ -21,9 +22,8 @@ types:
   - Defense buff
 passives:
   - >-
-    Duration of the first 3 buff this hero receives from Special Skills is
-    increased by 1 turn.
-family: Underwild
+    Increase Buff Duration: Duration of the first 3 buff this hero receives 
+    from Special Skills is increased by 1 turn.
 image: https://i.imgur.com/6D1hJ1P.jpg
 costume:
   bonuses: 5/5/10/5
@@ -47,7 +47,9 @@ costume:
     - Defense buff
   passives:
     - >-
-      Increase Buff Duration - Duration of the first 3 buff this hero receives 
+      Increase Buff Duration: Duration of the first 3 buff this hero receives 
       from Special Skills is increased by 1 turn.
-    - 'Boost Health on Special: On Special Skill cast, boosts all allies’ HP by 10%.'
+    - >-
+      Health Boost on Special Skill: On Special Skill cast, boosts all allies’ 
+      HP by 10%.
   image: https://i.imgur.com/mcEOLvZ.jpg

@@ -22,8 +22,8 @@ types:
   - Hiding
 passives:
   - >-
-    Duration for the first 3 status ailments this hero receives from Special
-    Skills is decreased by 1 turn.
+    Decrease Ailment Duration: Duration of the first 3 status ailments this
+    character receives from Special Skill is decreased by 1 turn.
 image: https://i.imgur.com/MqnrIZ3.jpg
 costume:
   bonuses: 5/5/10/5

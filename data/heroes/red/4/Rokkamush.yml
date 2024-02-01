@@ -1,6 +1,7 @@
 name: Rokkamush
 class: Barbarian
 source: Season4
+family: Underwild
 speed: Fast
 power: 677
 attack: 707
@@ -13,7 +14,8 @@ effects:
 types:
   - Hit All
   - DoT All
-family: Underwild
 passives:
-  - 'Decrease ailment duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.'
+  - >-
+    Decrease Ailment Duration: Duration of the first 3 status ailments this
+    character receives from Special Skill is decreased by 1 turn.
 image: https://i.imgur.com/dOWSQgd.jpg

@@ -20,15 +20,17 @@ types:
   - Health Boost
   - HOT
 passives:
-  - This Hero receives 20% mana at the start of the battle.
+  - >-
+    Start Battle with Mana: This character receives 20% mana at the start
+    of the battle.
 image: https://i.imgur.com/1q7ZFV3.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 850
-  attack: 778
-  defense: 843
-  health: 1552
+  power: 916
+  attack: 837
+  defense: 907
+  health: 1749
   skill: Dazzling Gleam
   effects:
     - Cleanses status ailments from all allies.
@@ -42,6 +44,11 @@ costume:
     - Health Boost
     - HOT
   passives:
-    - 'Boost Health on Special: On Special Skill cast, boosts all allies’ HP by 10%.'
+    - >-
+      Start Battle with Mana: This character receives 20% mana at the start
+      of the battle.
+    - >-
+      Health Boost on Special Skill: On Special Skill cast, boosts all allies’ 
+      HP by 10%.
   image: https://i.imgur.com/CwQ3ejX.jpg
   

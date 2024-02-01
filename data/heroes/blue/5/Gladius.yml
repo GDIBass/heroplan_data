@@ -1,0 +1,30 @@
+name: Gladius
+source: Hotm
+class: Ranger
+family: 2024
+speed: Fast
+power: 915
+attack: 929
+defense: 875
+health: 1577
+skill: Hunter’s Instinct
+effects:
+  - This Special Skill never misses its targets.
+  - Deals 500% damage to the target.
+  - >-
+    The target becomes marked for 3 turns. Whenever a marked target dodges, 
+    they gain a stack (Max: 10). Each stack increases all damage the target 
+    receives by +5%.
+  - >-
+    Element Link gives all Ice allies +10% additional Special Skill damage
+    for 4 turns. This effect can't be dispelled.
+types:
+  - Hit 1
+passives:
+  - >-
+    Resist Special Skill Blocking: This character has innate resistance against
+    status ailments that block Special Skills.
+  - >-
+    Mana on Enemy Defensive Buffs: This character gains 10% mana when any enemy
+    receives a defenseive buff.
+image: https://i.imgur.com/oxh0XPo.jpg

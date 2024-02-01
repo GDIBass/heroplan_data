@@ -1,6 +1,7 @@
 name: Exeera
 class: Barbarian
 source: Season4
+family: Underwild
 speed: Average
 power: 813
 attack: 791
@@ -15,7 +16,8 @@ effects:
   - All Ice enemies are immune to this attack
 types:
   - Dot All
-family: Underwild
 passives:
-  - This Hero receives 20% mana at the start of the battle.
+  - >-
+    Start Battle with Mana: This character receives 20% mana at the start
+    of the battle.
 image: https://i.imgur.com/UnO1gz8.jpg

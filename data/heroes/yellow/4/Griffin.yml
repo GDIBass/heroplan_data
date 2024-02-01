@@ -16,8 +16,8 @@ types:
   - Bypass
 passives:
   - >-
-    First time this Hero casts Special Skill that does damage, additional 30% is
-    added to its power.
+    Increased Special Skill Damage: The first time this character casts a 
+    Special Skill that deals damage, an additional 30% is added to its power.
 image: https://i.imgur.com/MRV1QX0.jpg
 costume:
   bonuses: 5/5/10/5
@@ -38,5 +38,5 @@ costume:
   passives:
     - >-
       Increased Special Skill Damage: The first time this character casts a 
-      Special Skill that deals damage, an additional 30% is added to its power
+      Special Skill that deals damage, an additional 30% is added to its power.
   image: https://i.imgur.com/bhRfq5i.jpg

@@ -1,6 +1,7 @@
 name: Aouda
 class: Rogue
 source: Season4
+family: Underwild
 speed: Fast
 power: 808
 attack: 811
@@ -31,6 +32,9 @@ costume:
   types:
     - Hit 1
   passives:
+    - >-
+      Increased Special Skill Damage: This first time this character cast a 
+      Special Skill that deals damage an additional 30% is added to its power.
     - >-
       Increased Damage Against Boosted Health: After Special Skill cast, all 
       allies' normal attacks and Special Skills deal +70% damage against targets 

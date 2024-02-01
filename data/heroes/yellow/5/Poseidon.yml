@@ -1,6 +1,7 @@
 name: Poseidon
 class: Fighter
 source: Season2
+family: Atlantis
 speed: Fast
 power: 775
 attack: 745
@@ -15,14 +16,14 @@ effects:
     turns.
 types:
   - Hit 1
-family: Atlantis
 image: https://i.imgur.com/4yAjxl7.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Ranger
-  power: 800
-  attack: 757
-  defense: 731
-  health: 1473
+  power: 832
+  attack: 786
+  defense: 759
+  health: 1570
   skill: Tidal Slayer
   effects:
     - Deals 480% damage to the target.
@@ -31,4 +32,3 @@ costume:
     - Hit 1
     - Debuff Immunity
   image: https://i.imgur.com/jU6Z8JO.jpg
-  bonuses: 3/3/6/1

@@ -1,6 +1,7 @@
 name: Mack
 class: Fighter
 source: Season4
+family: Underwild
 speed: Average
 power: 677
 attack: 646
@@ -15,9 +16,8 @@ effects:
 types:
   - Counterattack
   - Attack Buff
-family: Underwild
 passives:
   - >-
-    Duration of the first 3 buffs this hero receives from Special Skills is
-    increased by 1 turn
+    Increase Buff Duration: Duration of the first 3 buff this hero receives 
+    from Special Skills is increased by 1 turn.
 image: https://i.imgur.com/nafpwvj.jpg

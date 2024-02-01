@@ -18,16 +18,16 @@ types:
   - Self heal
 passives:
   - >-
-    Duration of the first 3 status ailments this hero receives from Special
-    Skills is decreased by 1 turn.
+    Decrease Ailment Duration: Duration of the first 3 status ailments this
+    character receives from Special Skill is decreased by 1 turn.
 image: https://i.imgur.com/kz19bRj.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 871
-  attack: 833
-  defense: 844
-  health: 1559
+  power: 916
+  attack: 872
+  defense: 883
+  health: 1711
   skill: Kite of Endurance
   effects:
     - Deals 410% damage to the Target.
@@ -38,6 +38,9 @@ costume:
     - Hit 1
     - Self heal
   passives:
+    - >-
+      Decrease Ailment Duration: Duration of the first 3 status ailments this
+      character receives from Special Skill is decreased by 1 turn.
     - >-
       Increased Damage Against Boosted Health: After Special Skill cast, all 
       allies' normal attacks and Special Skills deal +70% damage against targets 

@@ -1,6 +1,7 @@
 name: Vollermork
 class: Paladin
 source: Season4
+family: Underwild
 speed: Slow
 power: 478
 attack: 476
@@ -16,7 +17,8 @@ effects:
     equal to 16% of the targets max health
 types:
   - Fiend
-family: Underwild
 passives:
-  - This Hero receives 20% mana at the start of the battle.
+  - >-
+    Start Battle with Mana: This character receives 20% mana at the start
+    of the battle.
 image: https://i.imgur.com/mAw3KL3.jpg

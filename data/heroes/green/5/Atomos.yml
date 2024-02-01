@@ -20,11 +20,12 @@ types:
 family: Atlantis
 image: https://i.imgur.com/DAUb4SR.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
-  power: 796
-  attack: 754
-  defense: 748
-  health: 1416
+  power: 828
+  attack: 784
+  defense: 777
+  health: 1509
   skill: Immortal Punisher
   effects:
     - Deals 160% damage to all enemies.
@@ -37,4 +38,3 @@ costume:
     - Hit All
     - Self Resurrection
   image: https://i.imgur.com/Mrpkkq0.jpg
-  bonuses: 3/3/6/1

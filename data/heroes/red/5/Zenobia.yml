@@ -1,6 +1,7 @@
 name: Zenobia
 class: Cleric
 source: Season4
+family: Underwild
 speed: Average
 power: 809
 attack: 824
@@ -19,9 +20,8 @@ effects:
 types:
   - Hit 2
   - Shield Enhance
-family: Underwild
 passives:
   - >-
-    Duration of the first 3 buffs this hero receives from Special Skills is
-    increased by 1 turn.
+    Increase Buff Duration: Duration of the first 3 buff this hero receives 
+    from Special Skills is increased by 1 turn.
 image: https://i.imgur.com/H6eN1G6.jpg

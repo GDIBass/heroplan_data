@@ -1,6 +1,7 @@
 name: Hannah
 class: Druid
 source: Season4
+family: Underwild
 speed: Fast
 power: 807
 attack: 780
@@ -21,7 +22,8 @@ effects:
 types:
   - Hit 3
   - Fiend
-family: Underwild
 passives:
-  - This Hero receives 20% mana at the start of the battle.
+  - >-
+    Start Battle with Mana: This character receives 20% mana at the start
+    of the battle.
 image: https://i.imgur.com/adxVUbU.jpg
