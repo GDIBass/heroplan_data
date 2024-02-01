@@ -1,5 +1,5 @@
 name: Spartoi
-class:Barbarian 
+class: Barbarian 
 source: untoldtales
 family: NightmaresofAtlantis
 speed: Changing Tides
@@ -17,7 +17,7 @@ effects:
   - '2nd:'
   - ' * Deals 320% damage to all enemies.'
   - ' * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 110% attack every turn.'
-  - ' * The Naga Warrior Fiend abosrbs healing. It disappears after absorbing a healing amount equal to 50% of its target’s max health.'
+  - ' * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target’s max health.'
 types:
   - Hit all
   - Fiends
