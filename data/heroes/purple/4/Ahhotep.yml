@@ -17,8 +17,8 @@ types:
   - Hit 3
 passives:
   - >-
-    Effects on Special Skill - 60% chance to perform the following actions when
+    Effects on Special Skill: 60% chance to perform the following actions when
     this character casts their Special Skill
-  - '* Deals 70% damage to all enemies.'
-  - '* Dispels the latest dispellable buff from enemies.'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * Dispels the latest dispellable buff from enemies.'
 image: https://i.imgur.com/MLXGUOi.jpg

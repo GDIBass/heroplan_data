@@ -2,17 +2,18 @@ name: Horus
 source: Season5
 class: Barbarian
 family: Sun
-power: 834
+power: 859
 attack: 824
 defense: 795
 health: 1598
 speed: Very Fast
 skill: Unrelenting Hunter
 effects:
-  - Deals 250% damage to target and nearby enemies
+  - Deals 250% damage to target and nearby enemies.
   - >-
     Reduces max health of the target and nearby enemies by 450 over 3
-    turns. Max health can’t get lower than 30% of the original health.
+    turns. The effect is stronger against targets with boosted health. 
+    Max health can’t get lower than 30% of the original health. Any boosted health is reduced by an additional 150 per turn.
 types:
   - Hit 3
   - Health reduction

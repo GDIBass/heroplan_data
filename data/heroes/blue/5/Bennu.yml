@@ -3,7 +3,7 @@ source: Season5
 class: Druid
 family: Sun
 speed: Average
-power: 836
+power: 861
 attack: 793
 defense: 859
 health: 1563
@@ -18,8 +18,8 @@ types:
   - Counterattack
 passives:
   - >-
-    60% chance to perform the following actions when this character casts their
-    Special Skill
+    Effects on Special Skill: 60% chance to perform the following actions when 
+    this character casts their Special Skill
   - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
   - ' * Cleanses the latest cleansable status ailment from all allies.'
 image: https://i.imgur.com/GdX7t3H.jpg

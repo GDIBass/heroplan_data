@@ -19,8 +19,8 @@ types:
   - Regen All
 passives:
   - >-
-    Effects on Special Skill - 60% chance to perform the following actions when
-    this character casts their Special Skill:
-  - '* Boosts health of all allies by 10%. Boosted health can exceed max HP.'
-  - '* Cleanses the latest cleansable status ailments from all allies.'
+    Effects on Special Skill: 60% chance to perform the following actions when
+    this character casts their Special Skill
+  - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+  - ' * Cleanses the latest cleansable status ailments from all allies.'
 image: https://i.imgur.com/nkaWucV.jpg

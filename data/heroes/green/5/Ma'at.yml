@@ -19,6 +19,35 @@ passives:
   - >-
     50% chance to perform the following actions when this character casts their
     Special Skill:
-  - Deals 70% damage to all enemies.
-  - All enemies get -34% attack for 3 turns.
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/Lc6n5Vz.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 979
+  attack: 933
+  defense: 951
+  health: 1869
+  skill: Protector of the Blue River
+  effects:
+    - Deals 220% damage to all enemies.
+    - All enemies get -35% defense for 3 turns.
+    - All Fire enemies get -20% attack for 3 turns.
+  types:
+    - Hit All
+    - Defense Debuff
+  passives:
+    - >-
+      Effects on special skill: 50% chance to perform the following actions when
+      this character casts their Special Skill:
+    - ' * Deals 70% damage to all enemies.'
+    - ' * All enemies get -34% attak for 3 turns.'
+    - >-
+      Extra Chance for Effects on Special Skill: When this character casts their 
+      Special Skill, any of their Passive Skills that grant extra effects on cast 
+      have 3 chances to activate.
+    - >-
+      Mana on Health Boosting Special Skill: This character gains 5% mana each 
+      time an enemy casts a Special Skill that boosts health.
+  image: https://i.imgur.com/mjmiIt0.jpg

@@ -3,7 +3,7 @@ source: Season5
 class: Paladin
 family: Moon
 speed: Fast
-power: 839
+power: 864
 attack: 830
 defense: 807
 health: 1592
@@ -18,7 +18,7 @@ types:
   - Mana boost
 passives:
   - >-
-    Effects on Special Skill - 50% chance to perform the following actions when
+    Effects on Special Skill: 50% chance to perform the following actions when
     this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * Dispells the latest dispellable buff from all enemies.'

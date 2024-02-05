@@ -3,7 +3,7 @@ class: Barbarian
 speed: Slow
 family: Moon
 source: Season5
-power: 847
+power: 872
 attack: 834
 defense: 815
 health: 1625
@@ -21,7 +21,7 @@ types:
 passives:
   - >-
     Effects on special skill: 70% chance to perform the following actions when
-    this character casts their Special Skill:
+    this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * Dispells the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/xRHanch.jpg

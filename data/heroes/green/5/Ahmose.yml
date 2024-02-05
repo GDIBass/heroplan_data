@@ -3,7 +3,7 @@ family: Moon
 source: Season5
 class: Wizard
 speed: Slow
-power: 841
+power: 866
 attack: 803
 defense: 861
 health: 1569
@@ -19,8 +19,8 @@ types:
   - Damage reflect
 passives:
   - >-
-    70% chance to perform the following actions when this character casts their
-    Special Skill
-  - '* Deals 70% damage to all enemies.'
-  - '* All enemies get -24% mana generation for 3 turns.'
+    Effects on Special Skill: 70% chance to perform the following actions when 
+    this character casts their Special Skill
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/4zzp1TD.jpg

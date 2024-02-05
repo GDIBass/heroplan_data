@@ -3,7 +3,7 @@ class: Cleric
 source: Season5
 family: Sun
 speed: Average
-power: 844
+power: 869
 attack: 768
 defense: 883
 health: 1629
@@ -13,15 +13,16 @@ effects:
   - >-
     All allies get +84% defense agains Nature, and a further 2% increase every
     time they are hit during 4 turns.
-  - All enemies get -40% accuracy for 4 turns.
+  - >-
+    All enemies get -40% accuracy for 4 turns. Chance to miss also applies to 
+    offensive Special Skill.
 types:
   - Healer
   - Defense Buff
 passives:
   - >-
-    60% chance to perform the following actions when this character casts their
-    Special Skill:
-  - Boosts health of all allies by 10%.
-  - Boosted health can exceed max HP.
-  - Cleanses the latest cleansable status ailment from all allies.
+    Effects on Special Skill: 60% chance to perform the following actions when 
+    this character casts their Special Skill
+  - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+  - ' * Cleanses the latest cleansable status ailment from all allies.'
 image: https://i.imgur.com/wdaa6Lv.jpg

@@ -3,7 +3,7 @@ class: Druid
 source: Season5
 family: Sun
 speed: Average
-power: 846
+power: 871
 attack: 772
 defense: 879
 health: 1643
@@ -17,4 +17,10 @@ types:
   - Hit all
   - Mana Reduction
   - Mana Generation Debuff
+passives:
+  - >-
+    Effects on Special Skill: 60% chance to perform the following actions when
+    this character casts their Special Skill
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies receive 231 Sand damage over 3 turns.'
 image: https://i.imgur.com/PIgKmeD.jpg

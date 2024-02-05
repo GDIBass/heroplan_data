@@ -3,7 +3,7 @@ class: Ranger
 speed: Fast
 family: Moon
 source: Season5
-power: 837
+power: 862
 attack: 809
 defense: 842
 health: 1561
@@ -18,8 +18,8 @@ types:
   - Dodge Buff
 passives:
   - >-
-    50% chance to perform the following actions when this character casts their
-    Special Skill:
+    Effects on Special Skill: 50% chance to perform the following actions when 
+    this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * Dispells the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/4N9tjf5.jpg

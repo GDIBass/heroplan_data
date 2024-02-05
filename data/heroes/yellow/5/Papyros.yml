@@ -3,7 +3,7 @@ source: Season5
 class: Druid
 family: Moon
 speed: Average
-power: 833
+power: 858
 attack: 813
 defense: 819
 health: 1569
@@ -12,16 +12,15 @@ effects:
   - >-
     Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each
     time the Sand Golem Minion is attacked by normal attacks or Special Skills,
-    the attacker gets the following status ailment:
-  - '* The target receives 294 Sand damage over 3 turns.'
+    the attacker receives 294 Sand damage over 3 turns.
   - All allies get +30% defense for 3 turns.
 types:
   - Summoner
   - Defense Buff
 passives:
   - >-
-    Effects on Special Skill - 60% chance to perform the following actions when
+    Effects on Special Skill: 60% chance to perform the following actions when
     this character casts their Special Skill
-  - '* Boosts health of all allies by 10%. Boosted health can exceed max HP.'
-  - '* All allies gain a small amount of mana.'
+  - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+  - ' * All allies gain a small amount of mana.'
 image: https://i.imgur.com/cV84mq0.jpg

@@ -3,7 +3,7 @@ class: Monk
 speed: Slow
 source: Dynasty
 family: Moon
-power: 839
+power: 864
 attack: 807
 defense: 842
 health: 1582
@@ -21,8 +21,8 @@ types:
   - DoT all
 passives:
   - >-
-    70% chance to perform the following actions when this character casts their
-    Special Skill:
-  - Deals 70% damage to all enemies.
-  - All enemies get -24% mana generation for 3 turns.
+    Effects on Special Skill: 70% chance to perform the following actions when 
+    this character casts their Special Skill
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/8kUB8ir.jpg
