@@ -3,7 +3,7 @@ class: Ranger
 family: Moon
 source: Season5
 speed: Average
-power: 835
+power: 860
 attack: 801
 defense: 834
 health: 1586
@@ -24,8 +24,8 @@ types:
   - Summoner
 passives:
   - >-
-    60% chance to perform the following actions when this character casts their
-    Special Skill:
-  - '* Deals 70% damage to all enemies.'
-  - '* All enemies get -24% mana generation for 3 turns.'
+    Effects on Special Skill: 60% chance to perform the following actions when 
+    this character casts their Special Skill
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/Z6trZDL.jpg

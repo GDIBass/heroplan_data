@@ -3,13 +3,13 @@ family: Sun
 source: Season5
 class: Cleric
 speed: Average
-power: 840
+power: 865
 attack: 768
 defense: 850
 health: 1670
 skill: Channeler of the Gods
 effects:
-  - Recovers 55% health for all allies.
+  - Recovers 65% health for all allies.
   - >-
     All allies are immune to new status ailments for 3 turns, and recover 205
     health for each attempted status ailment.
@@ -18,7 +18,7 @@ types:
   - Status Ailment Immunity
 passives:
   - >-
-    Effects on Special Skill - 60% chance to perform the following actions when
+    Effects on Special Skill: 60% chance to perform the following actions when
     this character casts their Special Skill
   - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
   - ' * Cleanses the latest cleansable status ailment from all allies.'
