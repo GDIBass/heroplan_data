@@ -2,7 +2,7 @@ name: Xie Zi Jing
 class: Fighter
 source: Kingdom
 family: Journey
-speed: FastFast
+speed: Fast
 power: 999
 attack: 1025
 defense: 976
@@ -18,7 +18,7 @@ types:
 passives:
   - >-
     Mana on Buff Received: This character has a 50% chance to gain 10% mana when
-    they receive a buff or possitve stack.
+    they receive a buff or possitive stack.
   - >-
     Health Recovery on Buff Received: This character has a 50% chance to recover 
     10% health when they receive a buff or possitve stack.
