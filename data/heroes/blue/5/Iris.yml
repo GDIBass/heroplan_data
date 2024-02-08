@@ -9,7 +9,7 @@ defense: 751
 health: 1378
 skill: Erase Strength
 effects:
-  - Deals 325% damage to the target and minor damage to the nearby enemies.
+  - Deals 375% damage to the target and minor damage to the nearby enemies.
   - >-
     Dispells buffs from the target and nearby enemies at the end of each turn 
     for 3 turns.

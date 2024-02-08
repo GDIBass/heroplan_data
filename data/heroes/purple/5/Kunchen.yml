@@ -1,6 +1,7 @@
 name: Kunchen
 class: Cleric
 source: Hotm
+family: 2019
 speed: Slow
 power: 770
 attack: 618
@@ -8,7 +9,7 @@ defense: 815
 health: 1437
 skill: Power of Ajna
 effects:
-  - Recovers 42% health for all allies
+  - Recovers 45% health for all allies
   - All enemies get -34% defense for 4 turns
   - Cleanses status ailments from all allies
   - >-
@@ -24,4 +25,3 @@ passives:
     stacks that affect defense. Doesn't apply to status ailments that affect 
     Elemental Defense.
 image: https://i.imgur.com/4sKh1TW.jpg
-family: 2019

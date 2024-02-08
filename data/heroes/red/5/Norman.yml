@@ -13,17 +13,16 @@ effects:
   - >-
     All allies get 100% chance to bypass defensive buffs with their attacks 
     for 4 turns. (Defensive buffs include counterattacks.)
-  - Deals 285% damage to all enemies.
+  - Deals 320% damage to all enemies.
 types:
   - Ignore Dodge
   - Bypass
   - Hit all
 passives:
   - >-
-    Mana Generation Ailment Protection: All status ailmens and negative stack 
-    that affect mana generation will be replaced by +30% mana generation status 
-    effect for 3 turns. Doesn’t apply to status ailments that stop mana 
-    generation or steal mana.
+    Mana Buff on Status Ailment Received: The character with this skill receives 
+    +24% mana generation for 3 turns when they receive any status ailment or a 
+    negative stack.
   - >-
     Mana on Taunt: Each time an enemy receives Taunt status effect this 
     character’s mana is increased by 10%.
