@@ -1,0 +1,23 @@
+name: Qinglong
+class: Wizard
+source: lunaryear
+family: lunaryear
+speed: Very Fast
+power: 983
+attack: 1001
+defense: 953
+health: 1726
+skill: Confident Strategy
+effects:
+  - Deals 160% damage to all enemies.
+  - Steals the latest dispelable buff from all enemies and randomly distributes them on allies.
+  - All allies get +8% attack per transferred status effect buff for 2 turns.
+types:
+  - Hit all
+  - Steal buff
+  - Attack buff
+passives:
+  - >-
+    Disable Minion Abilities: Attacks and abilities of all Minions owned by
+    enemies are disabled.
+image: https://i.imgur.com/PjBP5aw.jpg
