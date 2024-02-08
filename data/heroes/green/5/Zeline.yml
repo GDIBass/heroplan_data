@@ -1,6 +1,7 @@
 name: Zeline
 class: Wizard
 source: hotm
+family: 2018
 speed: Fast
 power: 768
 attack: 764
@@ -8,7 +9,7 @@ defense: 688
 health: 1308
 skill: Emerald Flash
 effects:
-  - Deals 143% damage to all enemies
+  - Deals 195% damage to all enemies
   - All enemies get -34% attack for 4 turns
   - Deals extra damage against Ice
   - Dispels buffs from all enemies
@@ -19,7 +20,6 @@ types:
   - Hit All
   - Attack Debuff
   - Dispeller
-family: 2018
 image: https://i.imgur.com/lrpsqzO.jpg
 costume:
   bonuses: 5/5/10/5
@@ -31,7 +31,7 @@ costume:
   skill: Plume Flash
   effects:
     - Dispels buffs from all enemies.
-    - Deals 130% damage to all enemies.
+    - Deals 180% damage to all enemies.
     - All enemies get -38% attack for 4 turns.
     - Deals extra damage against Ice 
     - >-

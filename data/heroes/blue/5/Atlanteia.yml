@@ -4,17 +4,17 @@ source: untoldtales
 family: Nightmares of Atlantis
 speed: Changing Tides
 power: 971
-attack: 1032
-defense: 1007
-health: 1450
+attack: 1058
+defense: 1034
+health: 1530
 skill: Aphotic Maw
 effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'
-  - ' * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 123 Frost damage and lowers the target’s attack by -7% each turn.'
+  - ' * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 158 Frost damage and lowers the target’s attack by -8% each turn.'
   - ' * The caster steals 28% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated.'
   - '2nd:'
-  - ' * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 185 Frost damage and lowers the target’s attack by -10% each turn.'
+  - ' * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 222 Frost damage and lowers the target’s attack by -13% each turn.'
   - ' * The caster steals 28% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated.'
 types:
   - DoT

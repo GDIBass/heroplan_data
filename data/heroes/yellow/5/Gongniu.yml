@@ -1,0 +1,26 @@
+name: Gongniu
+class: Cleric
+speed: Slow
+family: lunaryear
+source: lunaryear
+power: 983
+attack: 875
+defense: 1042
+health: 1864
+skill: Rejuvenating Elixir
+effects:
+  - All allies get +54% defense, and a further +5% increase every time they are hit during 3 turns.
+  - All allies recover 1000 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1400 health instead.
+  - All allies gain 25% mana after 3 turns.If the effect is removed or replaced before the duration ends, gains 35% mana instead. (This effect cannot replaced with itself.)
+types:
+  - Defense buff
+  - Healer delayed
+  - Mana boost delayed
+passives:
+  - >-
+    Health Recovery on Status Ailment Received: This character recovers 10% 
+    health when they receive a status ailment or a negative stack.
+  - >-
+    Disable Minion Abilities: Attacks and abilities of all Minions owned by
+    enemies are disabled.
+image: https://i.imgur.com/BDNFVzo.jpg

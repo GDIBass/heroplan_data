@@ -1,6 +1,7 @@
 name: Jean-Francois
 class: Wizard
 source: Hotm
+family: 2020
 speed: Fast
 power: 771
 attack: 737
@@ -8,7 +9,7 @@ defense: 723
 health: 1332
 skill: Seal of Fire
 effects:
-  - All enemies receive 453 Burn damage over 3 turns.
+  - All enemies receive 519 Burn damage over 3 turns.
   - All allies get +94% defense against Ice for 4 turns.
   - >-
     All allies get Defense Status Ailment Protection for 5 turns. New status
@@ -21,4 +22,3 @@ types:
 passives:
   - The Hero has an innate resistance against status ailments that Steal Health.
 image: https://i.imgur.com/Fq9orae.jpg
-family: 2020

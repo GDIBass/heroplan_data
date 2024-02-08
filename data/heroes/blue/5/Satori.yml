@@ -9,9 +9,9 @@ defense: 990
 health: 1666
 skill: Thousand Palm Strikes
 effects:
-  - Deals 285% damage to all enemies.
+  - Deals 315% damage to all enemies.
   - >-
-    Deals 570% damage against characters that cleanse or dispel using Special 
+    Deals 630% damage against characters that cleanse or dispel using Special 
     Skills. (Only direct Dispel and Cleanse effects from Special Skills are 
     considered. This excludes Remove effects, Passives, Minions, Family effects,
     Talents and Status effects.)
@@ -22,12 +22,11 @@ types:
   - Hit all
 passives:
   - >-
-    Mana Generation Ailment Protection: All status ailmens and negative stack 
-    that affect mana generation will be replaced by +30% mana generation status 
-    effect for 3 turns. Doesn’t apply to status ailments that stop mana 
-    generation or steal mana.
+    Mana Buff on Status Ailment Received: The character with this skill receives 
+    +24% mana generation for 3 turns when they receive any status ailment or a 
+    negative stack.
   - >-
-    Health Boost on Buff Dispel: This character receives 200 boosted health each
+    Health Boost on Buff Dispel: This character receives 450 boosted health each
     time a buff is dispelled from this character. This effect can activate only
     once per turn.
   - >-
