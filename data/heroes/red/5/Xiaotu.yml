@@ -3,7 +3,7 @@ class: Druid
 source: lunaryear
 family: lunaryear
 speed: Average
-power: 842
+power: 862
 attack: 854
 defense: 819
 health: 1497
@@ -17,6 +17,6 @@ types:
   - Hit 1
 passives:
   - >-
-    Disable Minion Abilities - Attracts and abilities of all Minions owned by
+    Disable Minion Abilities: Attacks and abilities of all Minions owned by
     enemies are disabled.
 image: https://i.imgur.com/BFeoiOp.jpg

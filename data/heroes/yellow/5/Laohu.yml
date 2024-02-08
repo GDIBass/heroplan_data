@@ -1,9 +1,9 @@
 name: Laohu
 class: Monk
-speed: Fast
-family: lunaryear
 source: lunaryear
-power: 841
+family: lunaryear
+speed: Fast
+power: 861
 attack: 844
 defense: 805
 health: 1538
@@ -16,6 +16,6 @@ types:
   - Health Boost
 passives:
   - >-
-    Disable Minion Abilities - Attracts and abilities of all Minions owned by
+    Disable Minion Abilities: Attacks and abilities of all Minions owned by
     enemies are disabled.
 image: https://i.imgur.com/3mERqj0.jpg
