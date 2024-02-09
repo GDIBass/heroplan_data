@@ -3,7 +3,7 @@ class: Druid
 source: Hotm
 family: 2023
 speed: Average
-power: 810
+power: 820
 attack: 716
 defense: 826
 health: 1524
@@ -20,6 +20,7 @@ types:
   - Taunt Silence
   - Defense Debuff
 passives:
+  - 'Resist Poison: This character has innate resistance against Poison.'
   - >-
     Health Boost of Poison: Boosts health of this character and nearby allies
     by 2% for each enemy inflicted with Poison at the end of each turn. Boosted

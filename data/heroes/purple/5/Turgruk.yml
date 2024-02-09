@@ -1,9 +1,9 @@
 name: Turgruk
 class: Ranger
-speed: Very Fast
 source: Hotm
 family: 2023
-power: 812
+speed: Very Fast
+power: 822
 attack: 846
 defense: 733
 health: 1404
@@ -18,9 +18,9 @@ types:
   - Hit 1
 passives:
   - >-
-    Resist blind - This character has innate resistance against status ailments
-    that affect accuracy. Doesn`t apply to status effects from allies.
-  - >-
-    Increased special skill damage - The first time this character casts a 
+    Increased special skill damage: The first time this character casts a 
     Special Skill that deals damage, an additional 50% is added to its power.
+  - >-
+    Resist blind: This character has innate resistance against status ailments
+    that affect accuracy. Doesn`t apply to status effects from allies.
 image: https://i.imgur.com/ktMsNKD.jpg
