@@ -20,5 +20,7 @@ effects:
 types:
   - Dot all
 passives:
-  - The Hero has an innate resistance against status ailments that Steal Health.
+  - >-
+    Resist Health Steal Ailments: The Hero has an innate resistance against 
+    status ailments that Steal Health.
 image: https://i.imgur.com/Fq9orae.jpg

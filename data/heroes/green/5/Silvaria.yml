@@ -23,8 +23,10 @@ types:
   - Summoner
 passives:
   - >-
-    Each time this character receives a Burn status ailment, they summon a Forest
-    Guardian Minion for themseles. Forest Guardian Minion inherits 35% HP and
-    35% atack from this character.
-  - This character has innate resistance against Minion removal.
+    Resist Minion Removal: This character has innate resistance against Minion 
+    removal.
+  - >-
+    Summon on Burn: Each time this character receives a Burn status ailment, 
+    they summon a Forest Guardian Minion for themseles. Forest Guardian Minion 
+    inherits 35% HP and 35% atack from this character.
 image: https://i.imgur.com/bmUsK1J.jpg

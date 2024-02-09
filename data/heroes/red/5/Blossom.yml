@@ -3,7 +3,7 @@ class: Cleric
 source: Covenant
 family: construct
 speed: Average
-power: 951
+power: 980
 attack: 885
 defense: 1003
 health: 1889

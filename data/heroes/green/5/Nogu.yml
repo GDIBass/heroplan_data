@@ -1,0 +1,34 @@
+name: Nogu
+class: Ranger
+source: tavernoflegends
+family: champions
+speed: Fast
+power: 1000
+attack: 1027
+defense: 999
+health: 1689
+skill: The Perfect Throw
+effects:
+  - Deals 460% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies receive 504 Bleed damage over 3 turns.
+  - >-
+    For the next 3 turns, the target and nearby enemies convert all boosted 
+    health received to max health reduction. Max health is reduced more for 
+    targets that already have boosted health. (Max health can’t get lower than
+    30% of the original max health. When boosted healing is converted, the max
+    health reduction is doubled if the target already has boosted health.)
+types:
+  - Hit 3
+  - DoT
+  - Boosted health convert
+passives:
+  - >-
+    Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 
+    turns when this character receives a status ailment or a negative stack.
+  - >-
+    Mana on Health Boosting Special Skill: This character gains 10% mana each 
+    time an enemy casts a Special Skill that directly boosts health.
+  - >-
+    Health Boost on Enemy Health Boost: This character gets 450 boosted health 
+    each time an enemy casts a Special Skill that directly boosts health.
+image: https://i.imgur.com/CtidFGk.jpg

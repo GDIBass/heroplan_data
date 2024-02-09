@@ -1,9 +1,9 @@
 name: Gilligan
 class: Barbarian
-speed: Slow
 source: Hotm
 family: 2023
-power: 811
+speed: Slow
+power: 821
 attack: 753
 defense: 770
 health: 1555
@@ -20,10 +20,10 @@ types:
   - Defense Buff
 passives:
   - >-
-    Mana Per Enemy Buff - Gains a small amount of mana for every active status effect
-    buff that the enemy team has at the start of each turn (maximum of 20
-    buffs).
-  - >-
-    Resist Mana Ailments - This character has innate resistance against ailments
+    Resist Mana Ailments: This character has innate resistance against ailments
     that affect mana.
+  - >-
+    Mana Per Enemy Buff: Gains a small amount of mana for every active status 
+    effect buff that the enemy team has at the start of each turn (maximum of 20
+    buffs).
 image: https://i.imgur.com/gcaSLmN.jpg

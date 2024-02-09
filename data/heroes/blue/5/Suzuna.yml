@@ -3,7 +3,7 @@ source: Hotm
 class: Cleric
 family: 2023
 speed: Fast
-power: 813
+power: 823
 attack: 801
 defense: 764
 health: 1462
@@ -23,8 +23,9 @@ types:
   - Reflect ailments
   - Healer
 passives:
-  - This character can't receive Fiends.
   - >-
-    This character has innate resistance against status ailments that affect 
-    healing.
+    Resist Healing Ailments: This character has innate resistance against status 
+    ailments that affect healing.
+  - >-
+    Resist Fiends: This character can't receive Fiends.
 image: https://i.imgur.com/Mep7TSo.jpg
