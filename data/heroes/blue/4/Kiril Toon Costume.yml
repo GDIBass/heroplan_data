@@ -1,0 +1,21 @@
+name: Kiril Toon Costume
+class: Wizard
+source: Season1
+family: Classic
+speed: Average
+power: 751
+attack: 769
+defense: 782
+health: 1272
+skill: Toon Brew
+effects:
+  - Recovers 31% health for all allies.
+  - All allies get 26% attack for 3 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+  - All allies get 26% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+types:
+  - Healer
+  - Attack Buff
+  - Defense Buff
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/PWTfo2c.jpg

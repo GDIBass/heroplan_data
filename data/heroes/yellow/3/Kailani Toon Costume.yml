@@ -1,0 +1,19 @@
+name: Kailani Toon Costume
+class: Cleric
+source: Season1
+family: Classic
+speed: Slow
+power: 506
+attack: 491
+defense: 525
+health: 877
+skill: Toontastic Link
+effects:
+  - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage. For all Holy characters, this status effect is undispellable and lasts 2 turns longer.
+  - All allies get 56% defense for 5 turns. For all Holy characters, this status effect is undispellable and lasts 2 turns longer.
+types:
+  - Ally Damage Share
+  - Defense Buff
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/6HNw9i7.jpg
