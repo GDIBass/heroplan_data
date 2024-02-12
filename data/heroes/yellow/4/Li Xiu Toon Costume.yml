@@ -1,0 +1,20 @@
+name: Li Xiu Toon Costume
+class: Monk
+source: Season1
+family: Classic
+speed: Average
+power: 743
+attack: 725
+defense: 780
+health: 1332
+skill: Slash of Seven Toons
+effects:
+  - Deals 180% damage to all enemies.
+  - Reduces the mana of all enemies by 16%.
+  - Deals extra damage against Dark.
+types:
+  - Hit All
+  - Mana Reduction
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/9y6lz7h.jpg
