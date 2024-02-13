@@ -1,6 +1,7 @@
 name: Mok-Arr
 class: Barbarian
 source: Season2
+family: Lagoon
 speed: Average
 power: 772
 attack: 741
@@ -14,14 +15,14 @@ effects:
   - All Dark allies and enemies are immune to this attack
 types:
   - Hit All
-family: Lagoon
 image: https://i.imgur.com/f9fc9eh.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Fighter
-  power: 796
-  attack: 773
-  defense: 705
-  health: 1456
+  power: 829
+  attack: 803
+  defense: 732
+  health: 1559
   skill: Emerald Tine
   effects:
     - Deals 280% damage to all enemies.
@@ -34,4 +35,3 @@ costume:
     - Hit All
     - Attack Buff
   image: https://i.imgur.com/EOk0EO8.jpg
-  bonuses: 3/3/6/1

@@ -1,6 +1,7 @@
 name: Inari
 class: Rogue
 source: Season2
+family: Sakura
 speed: Average
 power: 772
 attack: 813
@@ -19,14 +20,14 @@ types:
   - Hit All
   - Dodge Buff
   - Summoner
-family: Sakura
 image: https://i.imgur.com/MjynoiD.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Druid
-  power: 797
-  attack: 795
-  defense: 703
-  health: 1409
+  power: 828
+  attack: 826
+  defense: 730
+  health: 1502
   skill: Blinding Spell
   effects:
     - Deals 210% damage to all enemies.
@@ -42,4 +43,3 @@ costume:
     - Summoner
     - Accuracy Debuff
   image: https://i.imgur.com/Q0YpLSK.jpg
-  bonuses: 3/3/6/1

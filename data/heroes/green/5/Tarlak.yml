@@ -1,6 +1,7 @@
 name: Tarlak
 class: Monk
 source: Season2
+family: Lagoon
 speed: Average
 power: 773
 attack: 824
@@ -15,14 +16,14 @@ effects:
 types:
   - Healer
   - Titan Attack Buff
-family: Lagoon
 image: https://i.imgur.com/VmIENFl.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
-  power: 798
-  attack: 714
-  defense: 848
-  health: 1327
+  power: 829
+  attack: 742
+  defense: 881
+  health: 1414
   skill: Kane Prowess
   effects:
     - Boosts health for all allies by 470. Boosted health can exceed max HP.
@@ -35,4 +36,3 @@ costume:
     - Health Boost
     - Titan Attack Buff
   image: https://i.imgur.com/UPOaKMz.jpg
-  bonuses: 3/3/6/1
