@@ -1,6 +1,7 @@
 name: Misandra
 class: Fighter
 source: Season2
+family: Lagoon
 speed: Fast
 power: 774
 attack: 723
@@ -17,14 +18,14 @@ types:
   - Hit 1
   - Chain Hit
   - Mana Boost
-family: Lagoon
 image: https://i.imgur.com/YC2DFg3.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Rogue
-  power: 800
-  attack: 773
-  defense: 744
-  health: 1401
+  power: 831
+  attack: 803
+  defense: 773
+  health: 1493
   skill: Ipu Drum Chain
   effects:
     - Deals 280% damage to hit targets.
@@ -37,4 +38,3 @@ costume:
     - Chain Hit
     - Mindless Attack
   image: https://i.imgur.com/ZELxM85.jpg
-  bonuses: 3/3/6/1
