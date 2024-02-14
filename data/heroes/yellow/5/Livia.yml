@@ -1,0 +1,21 @@
+name: Livia
+class: Paladin
+speed: Average
+source: owltower
+family: owl
+power: 1002
+attack: 927
+defense: 1038
+health: 1874
+skill: Rites of Inner Knowledge
+effects:
+  - Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.
+  - The caster and nearby allies get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -1320. Reduces damage by additional 30% when attack is Holy.
+  - The caster and nearby allies regenerate 1800 HP over 4 turns.
+  - The caster and nearby allies reflect status ailments and negative stacks for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
+types:
+  - Cleanser
+  - Moonrise Ward
+  - HoT 3
+  - Reflect ailments
+image: https://i.imgur.com/JTBt0dY.jpg

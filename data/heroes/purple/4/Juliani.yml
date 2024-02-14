@@ -1,0 +1,17 @@
+name: Juliani
+class: Wizard
+speed: Slow
+source: owltower
+family: owl
+power: 696
+attack: 677
+defense: 692
+health: 1289
+skill: Scroll of Spite
+effects:
+  - Attacks the target and nearby enemies with Moonrise Strike dealing up to 860 damage. Deals 30% more damage if the target is Holy. 
+  - The target and nearby enemies receive 900 Poison damage over 5 turns. The caster and all allies absorb 35% of the dealt Poison damage as health.
+types:
+  - Hit 3
+  - Dot 3
+image: https://i.imgur.com/UhbZaxw.jpg
