@@ -1,0 +1,18 @@
+name: Lodius
+class: Barbarian
+speed: Very Fast
+source: owltower
+family: owl
+power: 1004
+attack: 1042
+defense: 1038
+health: 1600
+skill: Battle Claw Strike
+effects:
+  - Attacks the target with Moonrise Strike, dealing up to 2200 damage. Deals 40% more damage if the target is Holy.
+  - If the target is defeated by the attack, then nearby enemies are unable to gain any mana for 3 turns.
+  - All allies counterattack with 60% of the damage received for 3 turns.
+types:
+  - Hit 1
+  - Counterattack
+image: https://i.imgur.com/SHNhyqR.jpg
