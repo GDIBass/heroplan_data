@@ -1,6 +1,7 @@
 name: Heimdall
 class: Paladin
 source: Season3
+family: Asgard
 speed: Slow
 power: 784
 attack: 655
@@ -15,14 +16,14 @@ types:
   - Health Boost
   - Reviver
   - Attack Buff
-family: Asgard
 image: https://i.imgur.com/bjKzbra.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Wizard
-  power: 831
-  attack: 682
-  defense: 901
-  health: 1540
+  power: 918
+  attack: 754
+  defense: 996
+  health: 1789
   skill: Blessing of Gjallarhorn
   effects:
     - Each fallen ally has 50% chance to get revived with 20% HP.
@@ -35,4 +36,3 @@ costume:
     - Attack Buff
     - Regeneration
   image: https://i.imgur.com/YoTKnv0.jpg
-  bonuses: 5/5/10/5

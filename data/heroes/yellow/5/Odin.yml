@@ -1,6 +1,7 @@
 name: Odin
 class: Paladin
 source: Season3
+family: Midgard
 speed: Fast
 power: 830
 attack: 800
@@ -18,14 +19,14 @@ effects:
 types:
   - Hit All
   - Mana Generation Buff
-family: Midgard
 image: https://i.imgur.com/WpdZnYI.jpg
 costume:
   class: Fighter
-  power: 830
-  attack: 784
-  defense: 802
-  health: 1475
+  bonuses: 5/5/10/5
+  power: 916
+  attack: 866
+  defense: 886
+  health: 1716
   skill: Rage of Grimnir
   effects:
     - Deals 90% damage to all enemies.
@@ -39,4 +40,3 @@ costume:
     - Hit All
     - Mana Generation Buff
   image: https://i.imgur.com/guLxDJt.jpg
-  bonuses: 5/5/10/5

@@ -1,6 +1,7 @@
 name: Tyr
 class: Fighter
 source: Season3
+family: Helheim
 speed: Fast
 power: 790
 attack: 772
@@ -13,7 +14,7 @@ effects:
     The attack has a 60% chance to bypass defensive buffs. This includes
     counterattacks.
   - >-
-    The target receives 224 Bleed damage over 4 turns.
+    The target receives 244 Bleed damage over 4 turns.
   - The caster regenerates 548 HP over 4 turns.
   - >-
     If the caster dies during the next 4 turns, they are resurrected in the
@@ -24,20 +25,20 @@ types:
   - Dot 1
   - Self Heal
   - Self Resurection
-family: Helheim
 image: https://i.imgur.com/tjoH1nb.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Barbarian
-  power: 832
-  attack: 810
-  defense: 793
-  health: 1443
+  power: 918
+  attack: 895
+  defense: 876
+  health: 1679
   skill: Indestructible Claw
   effects:
     - Deals 260% damage to the target and nearby enemies.
     - The attack bypasses defensive buffs. This includes counterattacks.
     - >-
-      The target and nearby enemies receive 540 Bleed damage over 4 turns. The
+      The target and nearby enemies receive 584 Bleed damage over 4 turns. The
       caster absorbs 40% of the dealt Bleed damage as health.
     - >-
       If the caster dies during the next 4 turns they are resurrected in the
@@ -46,5 +47,4 @@ costume:
   types:
     - Hit 3
     - Dot 3
-  bonuses: 5/5/10/5
   image: https://i.imgur.com/7UO34fo.jpg

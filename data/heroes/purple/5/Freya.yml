@@ -1,6 +1,7 @@
 name: Freya
 class: Druid
 source: Season3
+family: Vanaheim
 speed: Fast
 power: 788
 attack: 776
@@ -16,14 +17,14 @@ effects:
 types:
   - Summoner
   - Defense Buffer
-family: Vanaheim
 image: https://i.imgur.com/4iJaoi6.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Sorcerer
-  power: 834
-  attack: 793
-  defense: 800
-  health: 1488
+  power: 920
+  attack: 876
+  defense: 883
+  health: 1729
   skill: Ravens' Watch
   effects:
     - >-
@@ -37,4 +38,3 @@ costume:
     - Summoner
     - Dodge Buff
   image: https://i.imgur.com/Ye3Esdg.jpg
-  bonuses: 5/5/10/5

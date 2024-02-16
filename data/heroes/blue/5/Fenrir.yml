@@ -1,6 +1,7 @@
 name: Fenrir
 class: Fighter
 source: Season3
+family: Niflheim
 speed: Fast
 power: 785
 attack: 780
@@ -16,14 +17,14 @@ effects:
   - Heals the caster for 50% of damage dealt.
 types:
   - Hit 1
-family: Niflheim
 image: https://i.imgur.com/jTbJkeI.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Barbarian
-  power: 827
-  attack: 832
-  defense: 761
-  health: 1413
+  power: 912
+  attack: 919
+  defense: 841
+  health: 1644
   skill: Colossal Bite
   effects:
   - Deals 350% damage to the target.
@@ -36,5 +37,4 @@ costume:
     - Hit 1
     - Self heal
   image: https://i.imgur.com/ZPobGZa.jpg
-  bonuses: 5/5/10/5
   
