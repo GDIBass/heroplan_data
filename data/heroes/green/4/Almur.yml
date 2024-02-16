@@ -1,6 +1,7 @@
 name: Almur
 class: Sorcerer
 source: Season3
+family: Svartalfheim
 speed: Fast
 power: 684
 attack: 644
@@ -17,9 +18,9 @@ types:
   - Hit 3
   - Health Reduction
   - Elemental Defense Debuff
-family: Svartalfheim
 image: https://i.imgur.com/zT4IQhV.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Barbarian
   power: 684
   attack: 667
@@ -35,4 +36,3 @@ costume:
     - Mana Reduction
     - Elemental Defense Debuff
   image: https://i.imgur.com/G55eXUT.jpg
-  bonuses: 3/3/6/1

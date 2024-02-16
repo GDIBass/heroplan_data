@@ -23,18 +23,19 @@ costume:
   speed: Slow
   bonuses: 5/5/10/5
   class: Paladin
-  power: 846
-  attack: 797
-  defense: 846
-  health: 1467
+  power: 917
+  attack: 864
+  defense: 917
+  health: 1665
   skill: Gentleman’s Tranformation
   effects:
-    - Deals 300% damage to all holy Enemies
+    - Deals 350% damage to all holy Enemies.
     - >-
       For 4 turns, the element of all enemies is changed each turn. 
       On the first 3 turns, the element is random.
     - On the last turn, enemies revert to their original element.
-    - After each element change, enemies take 679 damage if their element is Holy.
+    - After each element change, enemies take 736 damage if their element is Holy.
   types:
     - Hit Some
+    - Weird
   image: https://i.imgur.com/mbPRCrB.jpg

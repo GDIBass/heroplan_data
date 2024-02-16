@@ -1,6 +1,7 @@
 name: Frigg
 class: Rogue
 source: Season3
+family: Alfheim
 speed: Fast
 power: 786
 attack: 753
@@ -18,14 +19,14 @@ effects:
 types:
   - Hit All
   - Defense Debuff
-family: Alfheim
 image: https://i.imgur.com/UMxFVGq.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Wizard
-  power: 828
-  attack: 795
-  defense: 793
-  health: 1449
+  power: 913
+  attack: 879
+  defense: 876
+  health: 1684
   skill: Brittling Burst
   effects:
     - Deals 90% damage to all enemies.
@@ -39,4 +40,3 @@ costume:
     - Hit All
     - Defense Debuff
   image: https://i.imgur.com/G0IAEBg.jpg
-  bonuses: 5/5/10/5

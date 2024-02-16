@@ -25,10 +25,10 @@ image: https://i.imgur.com/O54lA6V.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 849
-  attack: 651
-  defense: 969
-  health: 1607
+  power: 921
+  attack: 706
+  defense: 1050
+  health: 1821
   skill: Cavalier Hat of Dark Realm
   effects:
     - Deals 240% damage to hit targets.

@@ -1,6 +1,7 @@
 name: Gefjon
 class: Ranger
 source: Season3
+family: Muspelheim
 speed: Fast
 power: 785
 attack: 772
@@ -13,14 +14,14 @@ effects:
 types:
   - Hit 1
   - Minion Steal
-family: Muspelheim
 image: https://i.imgur.com/BYGrEEN.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Fighter
-  power: 827
-  attack: 795
-  defense: 810
-  health: 1409
+  power: 912
+  attack: 879
+  defense: 895
+  health: 1639
   skill: Maiden's Orders
   effects:
     - Destroys all Minions from the target and nearby enemies.
@@ -29,4 +30,3 @@ costume:
     - Hit 3
     - Destroys Minions
   image: https://i.imgur.com/ZoOkEJb.jpg
-  bonuses: 5/5/10/5

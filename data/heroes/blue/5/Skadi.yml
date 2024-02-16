@@ -1,6 +1,7 @@
 name: Skadi
 class: Monk
 source: Season3
+family: Jotunheim
 speed: Average
 power: 788
 attack: 696
@@ -11,7 +12,7 @@ effects:
   - Deals 220% damage to all enemies.
   - The damage is increased by 50% per each dead enemy.
   - >-
-    Stack (Max: 10): All enemies receive 32 Frost damage per each killed enemy or enemy
+    Stack (Max: 10): All enemies receive 35 Frost damage per each killed enemy or enemy
     minion at the end of each turn.
   - >-
     Stack (Max: 10): All enemies get -6% mana generation per each killed enemy or enemy
@@ -19,20 +20,20 @@ effects:
 types:
   - Hit All
   - Stack
-family: Jotunheim
 image: https://i.imgur.com/MzjdnYC.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
-  power: 830
-  attack: 769
-  defense: 800
-  health: 1518
+  power: 917
+  attack: 850
+  defense: 883
+  health: 1768
   skill: Iceberg Havoc
   effects:
     - Deals 320% damage to the target and nearby enemies.
     - The damage is increased by 35% per each dead enemy.
     - >-
-      Stack (Max: 10): All enemies receive 44 Frost damage per each killed enemy
+      Stack (Max: 10): All enemies receive 49 Frost damage per each killed enemy
       or enemy Minion at the end of each turn.
     - >-
       Stack (Max: 10): All enemies get -7% mana generation per each killed enemy
@@ -42,4 +43,3 @@ costume:
     - DoT
     - Mana Generation Debuff
   image: https://i.imgur.com/SWH0vbH.jpg
-  bonuses: 5/5/10/5

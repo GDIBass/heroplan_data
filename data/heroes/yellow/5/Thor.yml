@@ -1,6 +1,7 @@
 name: Thor
 class: Fighter
 source: Season3
+family: Midgard
 speed: Very Fast
 power: 788
 attack: 749
@@ -23,14 +24,14 @@ effects:
 types:
   - Hit All
   - Blind
-family: Midgard
 image: https://i.imgur.com/Cls9o26.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
-  power: 830
-  attack: 767
-  defense: 775
-  health: 1574
+  power: 917
+  attack: 847
+  defense: 857
+  health: 1829
   skill: Energy of Mjolnir
   effects:
     - >-
@@ -49,4 +50,3 @@ costume:
     - Hit All
     - Blind
   image: https://i.imgur.com/LYyDsUh.jpg
-  bonuses: 5/5/10/5
