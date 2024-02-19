@@ -3,10 +3,10 @@ class: Paladin
 source: Season3
 family: Midgard
 speed: Fast
-power: 830
-attack: 800
-defense: 788
-health: 1463
+power: 788
+attack: 762
+defense: 751
+health: 1330
 skill: Fury of Grimnir
 effects:
   - Deals 100% damage to all enemies.

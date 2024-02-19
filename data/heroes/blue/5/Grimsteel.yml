@@ -1,0 +1,25 @@
+name: Grimsteel
+class: Paladin
+source: goblinvillage
+family: goblin
+speed: Slow
+power: 1005
+attack: 997
+defense: 1050
+health: 1695
+skill: Spirits of the Mountain
+effects:
+  - Recovers 54% health for all allies.
+  - 'Growth: All allies get 400 attack and 400 defense.'
+  - 'All allies get +30% mana generation for 4 turns. If the effect is removed before the durantion ends, the target with effect gets +10% mana.'
+types:
+  - Healer
+  - Growth
+  - Mana generation buff
+passives:
+  - >-
+    Effects on Special Skill - 60% chance to perform the following actions when
+    this character casts their Special Skill.
+  - " * Deals 90% damage to all enemies."
+  - " * All enemies get -25% accuracy for 3 turns."
+image: https://i.imgur.com/rkoJ3ZR.jpg
