@@ -1,0 +1,23 @@
+name: Cinderella
+class: Cleric
+source: Fables
+family: Grimforest
+speed: Fast
+power: 1007
+attack: 1032
+defense: 1027
+health: 1672
+skill: Fairy Godmother’s Blessing
+effects:
+  - Cleanses status ailments from all allies.
+  - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
+  - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.
+  - All allies get +63% defense for 4 turns.
+  - All enemies get -44% defense for 4 turns.
+types:
+  - Cleanser
+  - Elemental Defense Buff
+  - Elemental Defense Debuff
+  - Defense Buff
+  - Defense Debuff
+image: https://i.imgur.com/8MZHUmV.jpg
