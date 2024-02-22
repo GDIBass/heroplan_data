@@ -3,10 +3,10 @@ class: Fighter
 source: Avalon
 family: Avalon
 speed: Average
-power: 844
-attack: 889
-defense: 824
-health: 1444
+power: 864
+attack: 885
+defense: 819
+health: 1431
 skill: Omen of Retribution
 effects:
   - All enemies get -24% defense for 3 turns.

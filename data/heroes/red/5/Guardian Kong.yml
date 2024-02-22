@@ -17,12 +17,12 @@ types:
   - Cleanser
 image: https://i.imgur.com/4n0L387.jpg
 costume:
-  class: Monk
   bonuses: 5/5/10/5
-  power: 806
-  attack: 832
-  defense: 624
-  health: 1542
+  class: Monk
+  power: 899
+  attack: 927
+  defense: 696
+  health: 1822
   skill: Kong Smash
   effects:
     - Deals 300% damage to all enemies.
@@ -35,4 +35,5 @@ costume:
   types:
     - Hit All
     - Reflect Buff
+    - Dispeller
   image: https://i.imgur.com/cXwWGpL.jpg

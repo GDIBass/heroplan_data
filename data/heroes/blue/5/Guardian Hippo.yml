@@ -1,17 +1,17 @@
 name: Guardian Hippo
 class: Barbarian
 source: Teltoc
+family: Guardian
 speed: Fast
 power: 841
-attack: 850
-defense: 805
-health: 1559
+attack: 828
+defense: 782
+health: 1483
 skill: Brutal Support
 effects:
-  - For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. Damage is dealt on the first Special Skill cast of each character per turn.
+  - For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. Damage is dealt on the first Special Skill cast of each character per turn. Damage is dealt on the first Special Skill cast of each character per turn.
   - All allies get +34% mana generation for 3 turns.
 types:
   - Hit All
   - Mana Generation
-family: Guardian
 image: https://i.imgur.com/VXhh6s9.jpg

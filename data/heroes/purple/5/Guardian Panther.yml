@@ -18,15 +18,15 @@ types:
   - Elemental Defense Debuff
 image: https://i.imgur.com/DIjmjpT.jpg
 costume:
-  class: Paladin
   bonuses: 5/5/10/5
-  power: 806
-  attack: 804
-  defense: 676
-  health: 1505
+  class: Paladin
+  power: 898
+  attack: 896
+  defense: 753
+  health: 1779
   skill: Roar of the Panther
   effects:
-    - Deals 250% damage to all enemies.
+    - Deals 285% damage to all enemies.
     - All enemies get -34% defense against Dark for 3 turns.
     - All enemies are immune to new status effect buffs for 3 turns.
   types:
