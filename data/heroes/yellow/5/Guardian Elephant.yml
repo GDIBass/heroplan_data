@@ -1,0 +1,22 @@
+name: Guardian Elephant 
+class: Ranger
+source: Teltoc
+family: Guardian
+speed: Slow
+power: 1009
+attack: 990
+defense: 1062
+health: 1722
+skill: Rain of Arrows
+effects:
+  - Deals 160% damage to 9 random enemies.
+  - 'Stack (Max: 10): Each hit gives its target -9% attack.'
+  - 'Stack (Max: 10): Each hit gives its target -6% defense.'
+  - All active buffs are undispellable for all allies for the remaining turns of the buff.
+  - All active status ailments are uncleansable for all enemies for the remaining turns of the status ailment.
+types:
+  - Hit 9 random
+  - Stack
+  - Undispellable buffs
+  - Undispellable ailments
+image: https://i.imgur.com/oi9Vymu.jpg

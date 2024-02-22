@@ -19,10 +19,10 @@ image: https://i.imgur.com/dYjW9Xa.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 806
-  attack: 659
-  defense: 838
-  health: 1542
+  power: 898
+  attack: 734
+  defense: 934
+  health: 1822
   skill: Word of the Skies
   effects:
     - Reduces the mana of the target and nearby enemies by 25%.

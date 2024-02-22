@@ -21,10 +21,10 @@ image: https://i.imgur.com/EVw3AO1.jpg
 costume:
   class: Ranger
   bonuses: 5/5/10/5
-  power: 822
-  attack: 819
-  defense: 763
-  health: 1406
+  power: 915
+  attack: 912
+  defense: 850
+  health: 1665
   skill: Slaying Stake
   effects:
     - >-

@@ -20,12 +20,12 @@ types:
   - Dot 3
 image: https://i.imgur.com/ODUCn9s.jpg
 costume:
-  class: Druid
   bonuses: 5/5/10/5
-  power: 822
-  attack: 790
-  defense: 778
-  health: 1449
+  class: Druid
+  power: 915
+  attack: 881
+  defense: 866
+  health: 1713
   skill: Avenger of Mothkind
   effects:
     - >-
