@@ -3,14 +3,14 @@ class: Sorcerer
 source: Season2
 family: Sakura
 speed: Average
-power: 800
-attack: 716
-defense: 748
-health: 1537
+power: 775
+attack: 696
+defense: 727
+health: 1450
 skill: Mirror of Flames
 effects:
-  - Deals 245% damage to the target and nearby enemies
-  - Reduces the mana of the target and nearby enemies by 20%
+  - Deals 245% damage to the target and nearby enemies.
+  - Reduces the mana of the target and nearby enemies by 20%.
   - >-
     All allies reflect all status effects and 115% damage back to the attacker 
     and block other negative effects from enemies' Ice Special Skills for 4 turns.

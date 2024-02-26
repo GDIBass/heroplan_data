@@ -1,8 +1,9 @@
 name: Emilio
 class: Druid
 source: Starfall
+family: Starfall
 speed: Very Fast
-power: 807
+power: 809
 attack: 745
 defense: 803
 health: 1406
@@ -20,5 +21,4 @@ effects:
 types:
   - Gamble
   - DOT All
-family: Starfall
 image: https://i.imgur.com/iAnFGWC.jpg

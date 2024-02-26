@@ -1,6 +1,7 @@
 name: Captain Kestrel
 class: Rogue
 source: Pirates
+family: Pirate
 speed: Fast
 power: 765
 attack: 727
@@ -12,5 +13,4 @@ effects:
   - The more mana enemies have, the more damage they will receive, up to 335%
 types:
   - Hit 3
-family: Pirate
 image: https://i.imgur.com/RcRP80T.jpg

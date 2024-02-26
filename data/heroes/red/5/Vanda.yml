@@ -5,7 +5,7 @@ family: Morlovia
 speed: Very Fast
 power: 795
 attack: 774
-defense: 734
+defense: 735
 health: 1384
 skill: Twilight of Sorrow
 effects:
@@ -18,7 +18,7 @@ types:
   - Status Ailment Immunity
 passives:
   - >-
-    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    Steal Buff: When this character casts their Special Skill, they have a 50% 
     chance to steal the newest dispellable buff from a random enemy that has buffs. 
     If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/FsFObHs.jpg

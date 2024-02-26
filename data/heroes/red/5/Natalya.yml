@@ -10,7 +10,7 @@ health: 1419
 skill: Burning Chains
 effects:
   - >-
-    The target receives 1016 Burn damage over 4 turns. This effect can’t be 
+    The target receives 840 Burn damage over 4 turns. This effect can’t be 
     cleansed.
   - >-
     The target gets -54% mana generation for 4 turns. This effect can’t be 
@@ -24,8 +24,8 @@ types:
   - Mana Generation Debuff
 image: https://i.imgur.com/vuOEJDC.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Wizard
-  bonuses: 3/3/6/1
   power: 932
   attack: 884
   defense: 816

@@ -3,7 +3,7 @@ class: Fighter
 speed: Slow
 family: Kalevala
 source: Kalevala
-power: 825
+power: 835
 attack: 766
 defense: 830
 health: 1503
@@ -17,7 +17,7 @@ effects:
     received damage. This status effect is undispellable and lasts 2 turns longer
     on Ice characters.
   - >-
-    All enemies get -56% defense for 4 turns. Against ice characters, this
+    All enemies get -56% defense for 4 turns. Against Ice characters, this
     status effect becomes uncleansable and lasts 2 turns longer.
 types:
   - Mana reduction

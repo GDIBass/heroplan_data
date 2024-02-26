@@ -21,7 +21,7 @@ types:
   - Hot
 image: https://i.imgur.com/KvZBThZ.jpg
 costume:
-  bonuses: 3/3/6/1
+  bonuses: 5/5/10/5
   class: Druid
   power: 933
   attack: 826

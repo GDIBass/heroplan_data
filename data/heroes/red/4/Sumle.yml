@@ -1,6 +1,7 @@
 name: Sumle
 class: Monk
 source: Season3
+family: Muspelheim
 speed: Slow
 power: 662
 attack: 716
@@ -12,9 +13,9 @@ effects:
   - The damage is increased by 70% per each dead enemy.
 types:
   - Hit All
-family: Muspelheim
 image: https://i.imgur.com/yxQi63p.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Druid
   power: 683
   attack: 722
@@ -27,4 +28,3 @@ costume:
   types:
     - Hit 3
   image: https://i.imgur.com/BBcd7nx.jpg
-  bonuses: 3/3/6/1

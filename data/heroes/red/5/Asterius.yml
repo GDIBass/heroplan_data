@@ -1,6 +1,7 @@
 name: Asterius
 class: Druid
 source: Villains
+family: Villains
 speed: Average
 power: 802
 attack: 784
@@ -17,5 +18,4 @@ effects:
 types:
   - Hit 3
   - Dot 3
-family: Villains
 image: https://i.imgur.com/i9C7vjL.jpg
