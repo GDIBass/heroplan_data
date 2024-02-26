@@ -4,9 +4,9 @@ class: Sorcerer
 family: Moon
 speed: Fast
 power: 843
-attack: 799
-defense: 819
-health: 1678
+attack: 774
+defense: 795
+health: 1610
 skill: Motherly Care
 effects:
   - Boosts health of all allies by 480. Boosted Heath can exceed max HP.

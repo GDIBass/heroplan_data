@@ -3,21 +3,21 @@ class: Sorcerer
 family: Styx
 speed: Charge
 source: Styx
-power: 829
-attack: 850
-defense: 784
-health: 1520
-skill: Night Falls
+power: 849
+attack: 846
+defense: 780
+health: 1503
+skill: Sweet Dreams
 effects:
   - >-
     Special Skill has a different effect when charged with 100% / 200% / 300%
     mana:
   - '1x Mana Charge:'
-  - ' * Deals 175% damage to all enemies.'
+  - ' * Deals 220% damage to all enemies.'
   - ' * All enemies are immune to new status effects buffs for 2 turns.'
   - '2x Mana Charge:'
   - ' * Dispels buffs from all enemies.'
-  - ' * Deals 315% damage to all enemies.'
+  - ' * Deals 320% damage to all enemies.'
   - ' * All enemies are immune to new status effects buffs for 3 turns.'
   - '3x Mana Charge:'
   - ' * Dispels buffs from all enemies.'
@@ -30,5 +30,7 @@ types:
   - Taunt Block
 passives:
   - >-
-    Resist Defense Ailments - This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+    Resist Defense Ailments: This character has innate resistance against status 
+    ailments that affect defense. Applies also to status ailments that affect 
+    elemental defense.
 image: https://i.imgur.com/HPFyboz.jpg

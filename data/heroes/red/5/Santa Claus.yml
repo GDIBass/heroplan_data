@@ -22,7 +22,7 @@ types:
   - Summoner
 image: https://i.imgur.com/gDDhARF.jpg
 costume:
-  bonuses: 2/2/4/1
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 791
   attack: 650

@@ -1,6 +1,7 @@
 name: Reuben
 class: Cleric
 source: Hotm
+family: 2020
 speed: Fast
 power: 782
 attack: 766
@@ -24,4 +25,3 @@ passives:
     stacks that affect Mana Generation. Doesn't apply to status ailments that 
     stop mana generation or steal mana.
 image: https://i.imgur.com/0xyk3F5.jpg
-family: 2020

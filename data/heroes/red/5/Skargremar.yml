@@ -3,7 +3,7 @@ source: Hotm
 class: Fighter
 family: 2023
 speed: Average
-power: 814
+power: 824
 attack: 766
 defense: 791
 health: 1497
@@ -23,10 +23,10 @@ types:
   - Blind
 passives:
   - >-
-    'Resist Special Skill Blocking: This character has innate resistance against
-    ailments that block Special Skills.'
+    Resist Special Skill Blocking: This character has innate resistance against
+    ailments that block Special Skills.
   - >-
-    'Resist Defense Ailments: This character has innate resistance against 
+    Resist Defense Ailments: This character has innate resistance against 
     ailments and negative stacks that affect defense. Doesn’t apply to status 
-    ailments that affect elemental defense.'
+    ailments that affect elemental defense.
 image: https://i.imgur.com/biXpSCt.jpg

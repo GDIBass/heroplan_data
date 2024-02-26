@@ -3,7 +3,7 @@ class: Monk
 source: Gargoyle
 family: Gargoyle
 speed: Very Fast
-power: 826
+power: 841
 attack: 832
 defense: 780
 health: 1481
@@ -16,7 +16,7 @@ types:
   - Stack
 passives:
   - >-
-    Gargoyle’s Stoneskin - Every time this Gargoyle casts a Special Skill, their
-    Stoneskin hardens. The next 2 times they receive damage, it is dropped to 1. This effect
-    can’t be dispelled.
+    Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their
+    Stoneskin hardens. The next 2 times they receive damage, it is dropped to 1. 
+    This effect can’t be dispelled.
 image: https://i.imgur.com/37akyr2.jpg

@@ -1,6 +1,7 @@
 name: Isrod
 class: Paladin
 source: Villains
+family: Villains
 speed: Average
 power: 804
 attack: 758
@@ -19,5 +20,4 @@ effects:
 types:
   - Hit 3
   - Counterattack
-family: Villains
 image: https://i.imgur.com/LVoPJQp.jpg

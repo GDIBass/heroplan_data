@@ -14,7 +14,7 @@ effects:
     The attack has a 60% chance to bypass defensive buffs. This includes
     counterattacks.
   - >-
-    The target receives 244 Bleed damage over 4 turns.
+    The target receives 212 Bleed damage over 4 turns.
   - The caster regenerates 548 HP over 4 turns.
   - >-
     If the caster dies during the next 4 turns, they are resurrected in the
