@@ -19,7 +19,7 @@ effects:
   - >-
     When summoned. the Infernal Fiend give -54% defense againt Fire for its target 
     for as long as the target has Infernal Fiends. This effect can’t be cleansed.
-  - All allies get +86% damage against Ice for 3 turns.
+  - All allies get +86% defense against Ice for 3 turns.
 types:
   - Hit All  
   - Fiend
