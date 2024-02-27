@@ -17,7 +17,7 @@ types:
   - Defense Debuff
 passives:
   - >-
-    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    Steal Buff: When this character casts their Special Skill, they have a 50% 
     chance to steal the newest dispellable buff from a random enemy that has buffs. 
     If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/dQao9jX.jpg
@@ -41,4 +41,9 @@ costume:
   types:
     - Hit all
     - Stacker
+  passives:
+    - >-
+      Steal Buff: When this character casts their Special Skill, they have a 50% 
+      chance to steal the newest dispellable buff from a random enemy that has buffs. 
+      If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/HUrGPkv.jpg

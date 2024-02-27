@@ -1,6 +1,7 @@
 name: Fura
 class: Wizard
 source: Season3
+family: Svartalfheim
 speed: Average
 power: 660
 attack: 707
@@ -10,16 +11,17 @@ skill: Nightglade Pollen
 effects:
   - Deals 150% damage to all enemies.
   - >-
-    Reduces max health from all enemies by 100. Max health can’t get lower than
-    30% of the original max health.
+    Reduces max health of all enemies by 100. The effect is stronger against 
+    targets with boosted health. Max health can’t get lower than 30% of the 
+    original max health. Any boosted health is reduced by an additional 100.
   - All enemies get -50% decrease for any healing received for 4 turns.
 types:
   - Hit All
   - Health Reduction
   - Healing Debuff
-family: Svartalfheim
 image: https://i.imgur.com/RvN7nUK.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Druid
   power: 681
   attack: 749
@@ -34,5 +36,4 @@ costume:
       for 3 turns.
   types:
     - Hit 3
-  bonuses: 3/3/6/1
   image: https://i.imgur.com/ibwrmzt.jpg

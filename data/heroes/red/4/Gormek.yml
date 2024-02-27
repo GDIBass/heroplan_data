@@ -32,6 +32,7 @@ costume:
     - Hit all
   image: https://i.imgur.com/OxaIMH8.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Cleric
   power: 735
   attack: 732

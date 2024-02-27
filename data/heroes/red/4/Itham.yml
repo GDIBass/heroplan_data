@@ -20,8 +20,10 @@ types:
   - Hit 3
   - Buff Immunity
 passives:
-  - Resist Water Damage. This character has innate resistance against Water Damage.
   - >-
-    Damage over time on Special. When this character casts their Special Skill,
+    Resist Water Damage: This character has innate resistance against Water 
+    Damage.
+  - >-
+    Damage over time on Special: When this character casts their Special Skill,
     all enemies receive 160 Water damage over 2 turns.
 image: https://i.imgur.com/7w0kLrp.jpg

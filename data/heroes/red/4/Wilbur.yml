@@ -1,6 +1,7 @@
 name: Wilbur
 class: Monk
 source: Season2
+family: Lagoon
 speed: Average
 power: 649
 attack: 605
@@ -17,9 +18,9 @@ types:
   - Enemy Damage Share
   - Defense Buff
   - Defense Debuff
-family: Lagoon
 image: https://i.imgur.com/EjclF3b.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Cleric
   power: 671
   attack: 656
@@ -34,6 +35,5 @@ costume:
     - All allies regenerate 280 HP over 4 turns.
   types:
     - Attack Buff
-    - HOT 
+    - HoT 
   image: https://i.imgur.com/BehrpwT.jpg
-  bonuses: 3/3/6/1

@@ -33,6 +33,7 @@ types:
   - Charge
 passives:
   - >-
-    Duration of the defense status ailments this character receives from Special
-    Skills is decreased by 2 turns.
+    Resist Defense Ailments: This character has innate resistance against status 
+    ailments that affect defense. Applies also to status ailments that affect 
+    elemental defense.
 image: https://i.imgur.com/JQkhZ6P.jpg
