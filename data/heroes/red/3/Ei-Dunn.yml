@@ -1,6 +1,7 @@
 name: Ei-Dunn
 class: Paladin
 source: Season3
+family: Niflheim
 speed: Average
 power: 466
 attack: 422
@@ -13,9 +14,9 @@ effects:
 types:
   - Hit All
   - Mana Generation Debuff
-family: Niflheim
 image: https://i.imgur.com/RabUqBI.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Barbarian
   power: 481
   attack: 502
@@ -28,5 +29,4 @@ costume:
   types:
     - Hit All
     - Mana Reduction
-  bonuses: 3/3/6/1
   image: https://i.imgur.com/Zi5MdT5.jpg

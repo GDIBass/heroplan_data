@@ -11,8 +11,8 @@ skill: The Duke's Investigation
 effects:
   - Deals 165% damage to the target and nearby enemies.
   - >-
-    Summon a Spy Fiend for the target and nearby enemies. The Fiend damages the enemy with 45%
-    attack every turn.
+    Summon a Spy Fiend for the target and nearby enemies. The Fiend damages 
+    the enemy with 45% attack every turn.
   - >-
     The Spy Fiend absorbs healing and disappears when it has absorbed health
     equal to 30% of its owner’s max health.

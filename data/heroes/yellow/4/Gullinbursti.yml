@@ -1,6 +1,7 @@
 name: Gullinbursti
 class: Druid
 source: Season3
+family: Asgard
 speed: Slow
 power: 662
 attack: 607
@@ -16,9 +17,9 @@ effects:
     duration increases the damage by 13 to a maximum of 332 damage.
 types:
   - Health Boost
-family: Asgard
 image: https://i.imgur.com/sx7Ooj7.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Cleric
   power: 685
   attack: 612
@@ -36,5 +37,4 @@ costume:
       the duration increases the damage by 15 to a maximum of 416 damage.
   types:
     - Health boost
-  bonuses: 3/3/6/1
   image: https://i.imgur.com/0fW6S7f.jpg
