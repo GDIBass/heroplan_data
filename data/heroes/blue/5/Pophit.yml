@@ -1,0 +1,28 @@
+name: Pophit
+class: Wizard
+source: Blackfriday
+family: Gargoyle
+speed: Fast
+power: 1005
+attack: 1038
+defense: 1025
+health: 1645
+skill: One-Hit Wonder
+effects:
+  - >-
+    The target and nearby enemies get -30% defense for 3 turns. If the effect is 
+    removed before the duration ends, the target with the effect suffers 643 damage.
+  - Deals 390% damage to the target and nearby enemies.
+  - >-
+    Nearby allies receive Softskin which resists the next mana reduction. 
+    This effect can’t be dispelled.
+types:
+  - Defense debuff
+  - Hit 3
+  - Softskin 2
+passives:
+  - >-
+    Gargoyle’s Softskin: Every time this Gargoyle casts a Special SKill, their 
+    Softskin activates. Softskin resists 3 mana reductions for this gargoyle. 
+    This effect can’t be dispelled.
+image: https://i.imgur.com/Q0YpIYH.jpg
