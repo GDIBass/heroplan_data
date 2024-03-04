@@ -1,7 +1,7 @@
 name: Ahmose
-family: Moon
-source: Season5
 class: Wizard
+source: Season5
+family: Moon
 speed: Slow
 power: 866
 attack: 803
@@ -13,7 +13,8 @@ effects:
   - >-
     All allies reflect all status effects and 150% damage back to the attacker
     and block other negative effects from enemies’ Fire Special Skill for 4
-    turns. This effect can’t be dispelled.
+    turns. This effect can’t be dispelled. (Status effects cast by characters, 
+    Minions and Fiends on the same side cannot be reflected.)
 types:
   - Hit All
   - Damage reflect
@@ -21,6 +22,36 @@ passives:
   - >-
     Effects on Special Skill: 70% chance to perform the following actions when 
     this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * All enemies get -24% mana generation for 3 turns.'
+    * Deals 70% damage to all enemies.
+    * All enemies get -24% mana generation for 3 turns.
 image: https://i.imgur.com/4zzp1TD.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 980
+  attack: 909
+  defense: 953
+  health: 1933
+  skill: Veridant Minor
+  effects:
+    - Deals 410% damage to all enemies.
+    - >-
+      All allies reflect all status effects and 160% damage back to the attacker 
+      and block other negative effects from enemies’ Fire Special Skill for 3 turns.
+      This effect can’t be dispelled. (Status effects cast by characters, Minions 
+      and Fiends on the same side cannot be reflected.)
+  types:
+    - Hit All
+    - Damage reflect
+  passives:
+    - >-
+      Effects on Special Skill: 70% chance to perform the following actions when 
+      this character casts their Special Skill.
+      * Deals 70% damage to all enemies.
+      * All enemies get -24% mana generation for 3 turns.
+    - ->
+      Extra Chance for Effects on Special Skill: When this character casts their 
+      Special Skill, any of their Passive Skills that grant extra effects on cast
+      have 3 chances to activate.
+    - 'Resist Sand Damage: This character has innate resistance against Sand damage.'
+  image: https://i.imgur.com/hOov8Aa.jpg
