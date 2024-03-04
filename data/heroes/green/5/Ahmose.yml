@@ -49,7 +49,7 @@ costume:
       this character casts their Special Skill.
       * Deals 70% damage to all enemies.
       * All enemies get -24% mana generation for 3 turns.
-    - ->
+    - >-
       Extra Chance for Effects on Special Skill: When this character casts their 
       Special Skill, any of their Passive Skills that grant extra effects on cast
       have 3 chances to activate.
