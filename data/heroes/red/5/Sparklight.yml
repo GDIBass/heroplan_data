@@ -4,9 +4,9 @@ source: BlackFriday
 family: AstralElves
 speed: Average
 power: 977
-attack: 1015
-defense: 953
-health: 1645
+attack: 1060
+defense: 1001
+health: 1687
 skill: Enchanted Elven Sword
 effects:
   - Deal 430% damage to the target and nearby enemies.
