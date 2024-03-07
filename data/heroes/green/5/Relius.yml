@@ -9,8 +9,8 @@ defense: 1038
 health: 1695
 skill: Mixed Green Herbs
 effects:
-  - Each fallen ally has a 40% chance to get revived with 30% HP.
   - Recovers 30% health for all allies.
+  - Each fallen ally has a 40% chance to get revived with 30% HP.
   - >-
     All allies a get Moonrise Ward for 4 turns, that reduces incoming Special 
     Skill damage by -800. Reduces by additional 30% when attacker is Holy.

@@ -3,10 +3,10 @@ class: Druid
 source: BlackFriday
 family: AstralElves
 speed: Fast
-power: 975
-attack: 994
-defense: 964
-health: 1664
+power: 1010
+attack: 1040
+defense: 1007
+health: 1709
 skill: Scepter of Constellations
 effects:
   - Deals 200% damage to all enemies.

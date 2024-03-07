@@ -1,0 +1,24 @@
+name: Starswift
+class: Fighter
+source: BlackFriday
+family: AstralElves
+speed: Average
+power: 493
+attack: 524
+defense: 481
+health: 787
+skill: Starplay
+effects:
+  - Deal 265% damage to the target and nearby enemies.
+  - The caster and nearby allies get +20% mana generation for 3 turns.
+types:
+  - Hit 3
+  - Mana generation buff 3
+passives:
+  - >-
+    Resist Blind: This character has innate resistance against status ailments 
+    that affect accuracy. Doesn’t apply to status effects from allies.
+  - >-
+    Share Received Damage: 20% of damage received by this charater is shared 
+    with other allies.
+image: https://i.imgur.com/M18GizO.jpg
