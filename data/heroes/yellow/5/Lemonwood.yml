@@ -1,0 +1,25 @@
+name: Lemonwood
+class: Ranger
+source: BlackFriday
+family: AstralElves
+speed: Fast
+power: 1013
+attack: 1042
+defense: 1036
+health: 1668
+skill: Wandering Star Shot
+effects:
+  - Deals 350% damage to the target.
+  - Reduces the mana of the target by -20%.
+  - If the target has more than 30% mana after mana reduction, the Special Skill repeats, targeting a random enemy. The damage is reduced on each consecutive hit.
+types:
+  - Hit 1
+  - Mana Reduction
+passives:
+  - >-
+    Resist Blind: This character has innate resistance against status ailments 
+    that affect accuracy. Doesn’t apply to status effects from allies.
+  - >-
+    Share Received Damage: 20% of damage received by this charater is shared 
+    with other allies.
+image: https://i.imgur.com/P0rxyPZ.jpg

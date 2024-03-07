@@ -1,0 +1,26 @@
+name: Dreadstar
+class: Sorcerer
+source: BlackFriday
+family: AstralElves
+speed: Average
+power: 1013
+attack: 1015
+defense: 1060
+health: 1689
+skill: Astral Dominion
+effects:
+  - Deals 340% damage to all enemies.
+  - All enemies get -30% mana generation for 4 turns.
+  - All enemies get -74% decrease of any healing received for 4 turns.
+types:
+  - Hit All
+  - Mana Generation debuff
+  - Healing debuff
+passives:
+  - >-
+    Resist Blind: This character has innate resistance against status ailments 
+    that affect accuracy. Doesn’t apply to status effects from allies.
+  - >-
+    Share Received Damage: 20% of damage received by this charater is shared 
+    with other allies.
+image: https://i.imgur.com/XzGqN00.jpg
