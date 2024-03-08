@@ -3,5 +3,6 @@ code: 12
 description: Sand
 image: https://i.imgur.com/BPk0qGL.png
 bonus:
-  - "Bonus for 2/3 Unique Heroes:"
-  - "+10%/+20% defense"
+  - "Bonus for 1/2/3 Unique Heroes:"
+  - "+5%/+10%/+20% defense"
+  - "The members of this family have additional perks in the Sand Empire event."

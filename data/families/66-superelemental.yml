@@ -8,5 +8,5 @@ bonus:
     The amount is the same as <<Hero element>> heroes in the team. 
     5 Power Gems per element can be on the board at the same time.
   - >-
-    The Power Gem deals 20 damage to a random enemy each turn until it is matched.
+    The Power Gem deals 20/15/ (5*/4*/3*) damage to a random enemy each turn until it is matched.
     When Power Gems are matched, they deal 10 damage to all enemies.

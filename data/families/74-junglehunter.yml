@@ -5,6 +5,11 @@ image: https://i.imgur.com/bp1I06m.png
 bonus:
   - "Bonus for 2/3/4/5 Heroes:"
   - "+5%/+10%/+15%/+20% HP."
+  - >-
+    Event Bonus: Heroes belonging to the Jungle Hunter family receive the following perks on Monster Island:
+    * +20% attack, +20% defense, +20% health
+    * 50% less permanent damage taken.
+    * Stack (Max 10): When this character casts their Special Skill, all enemies get -3% defense.
 bonuscostume-5star: 
 bonuscostume-4star: 
 bonuscostume-3star: 

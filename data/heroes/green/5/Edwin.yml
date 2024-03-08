@@ -16,6 +16,8 @@ effects:
     Skills for 3 turns.
 types:
   - Hit all 
+  - Bypass
+  - Healing Decrease
 passives:
   - >-
     When this character casts their Special Skill, they have a 50% chance to
