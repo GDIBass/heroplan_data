@@ -1,0 +1,28 @@
+name: Lazara
+class: Barbarian
+source: tavernoflegends
+family: champions
+speed: Average
+power: 1015
+attack: 1040
+defense: 1017
+health: 1730
+skill: Home Run
+effects:
+  - Cleanses status ailments from all allies without triggering secondary effects.
+  - Deals 325% damage to all enemies.
+  - All enemies get -50% decrease for any healing received for 4 turns.
+  - All enemies can’t get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself.
+types:
+  - Cleanser
+  - Hit All
+  - Healing Decrease
+  - Cleanse Block
+passives:
+  - >-
+    Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.
+  - >-
+    Health Boost on Attempted Ally Cleanse: When an ally attempts to cleanse by using Special Skill, all allies receive 300 boosted health. This effect can activate only once per turn.
+  - >-
+    Damage on Attempted Enemy Cleanse: When an enemy attempts to cleanse by using Special Skill, all enemies receive 300 damage. This effect can activate only once per turn.
+image: https://i.imgur.com/mxOSRGe.jpg
