@@ -1,7 +1,7 @@
 name: Zagrog
 class: Rogue
-family: 2022
 source: Hotm
+family: 2022
 speed: Average
 power: 805
 attack: 776
@@ -17,6 +17,7 @@ effects:
     can’t be dispelled.
 types:
   - Hit 3
+  - Bypass
 passives:
   - >-
     Resist attack status effects: This character has innate resistance against 

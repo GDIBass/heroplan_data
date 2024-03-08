@@ -3,5 +3,5 @@ code: 7
 description: Starfall
 image: https://i.imgur.com/EWmrEVJ.png
 bonus:
-  - "Bonus for 2/3 Heroes:"
-  - "40%/60% chance to cleanse the Hero's most recent cleansable status ailment at the end of each turn."
+  - "Bonus for 1/2/3 Heroes:"
+  - "50%/75%/100% chance to cleanse the Hero's most recent cleansable status ailment at the end of each turn."

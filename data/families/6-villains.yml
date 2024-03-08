@@ -3,5 +3,5 @@ code: 6
 description: Villains
 image: https://i.imgur.com/HkuRc7f.png
 bonus:
-  - "Bonus for 2/3 Heroes:"
-  - "+20%/+40% chance to heal 30%/60% of dealt damage when attacking an enemy."
+  - "Bonus for 1/2/3 Heroes:"
+  - "+10%/+30%/+50% chance to heal 15%/35%/70% of dealt damage when attacking an enemy."

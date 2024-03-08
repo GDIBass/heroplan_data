@@ -3,8 +3,8 @@ code: 21
 description: Sakura
 image: https://i.imgur.com/Zhij1jV.png
 bonus:
-  - "Bonus for 2/3/4/5 Unique Heroes:"
-  - "+2%/+4%/+7%/+12% mana generation"
+  - "Bonus for 1/2/3/4/5 Unique Heroes:"
+  - "+3%/+6%/+9%/+11/+13% mana generation"
 bonuscostume-5star: 
 bonuscostume-4star: 3/3/6/1
 bonuscostume-3star: 
