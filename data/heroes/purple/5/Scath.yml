@@ -1,0 +1,25 @@
+name: Scath
+class: Paladin
+source: Covenant
+family: construct
+speed: Slow
+power: 1016
+attack: 943
+defense: 990
+health: 2033
+skill: Void Bomb
+effects:
+  - All allies regenerate 1290 HP over 3 turns. This effect can't be dispelled.
+  - The caster counterattacks with 145% of the damage received for 3 turns.
+  - Stores all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealt to all enemies, up to maximum 1050 damage. This effect can’t be dispelled.
+types:
+  - HoT
+  - Counterattack
+  - Stores damage
+passives:
+  - >- 
+    Destructive Core: The Construct Core of this character is Destructive Core.
+    The Destructive Core activates each time this character’s Special Skill is cast:
+    * With fully charged Repair Core, boosts the health of all allies by 25%.
+    * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated.
+image: https://i.imgur.com/pX4j62c.jpg
