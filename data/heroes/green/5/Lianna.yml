@@ -1,8 +1,8 @@
 name: Lianna
-class: Ranger
 source: Season1
 family: Classic
 speed: Fast
+class: Ranger
 power: 755
 attack: 729
 defense: 718
@@ -29,6 +29,7 @@ costume:
     - Mana Generation Debuff
   image: https://i.imgur.com/ieaiSor.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Druid
   power: 858
   attack: 865

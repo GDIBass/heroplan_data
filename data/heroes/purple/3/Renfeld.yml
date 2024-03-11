@@ -1,8 +1,8 @@
 name: Renfeld
-class: Fighter
 source: Season1
 family: Classic
 speed: Average
+class: Fighter
 power: 445
 attack: 488
 defense: 398

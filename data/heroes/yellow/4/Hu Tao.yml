@@ -1,8 +1,8 @@
 name: Hu Tao
-class: Fighter
 source: Season1
 family: Classic
 speed: Slow
+class: Fighter
 power: 638
 attack: 603
 defense: 631
@@ -37,7 +37,7 @@ costume:
     - Blind
   image: https://i.imgur.com/vPJgzTp.jpg
 costume2:
-  family: Classic
+  bonuses: 5/5/10/5
   class: Monk
   power: 729
   attack: 658

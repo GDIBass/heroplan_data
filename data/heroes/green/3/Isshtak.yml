@@ -1,8 +1,8 @@
 name: Isshtak
-class: Ranger
 source: Season1
 family: Classic
 speed: Average
+class: Ranger
 power: 447
 attack: 453
 defense: 417

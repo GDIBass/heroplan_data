@@ -1,8 +1,8 @@
 name: Colen
-class: Fighter
 source: Season1
 family: Classic
 speed: Slow
+class: Fighter
 power: 643
 attack: 728
 defense: 537
@@ -30,6 +30,7 @@ costume:
     - Hit all
   image: https://i.imgur.com/pAWbbb8.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Ranger
   power: 733
   attack: 828

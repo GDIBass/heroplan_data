@@ -1,4 +1,5 @@
 name: Colen Toon Costume
+is_costume: true
 class: Fighter
 source: Season1
 family: Classic

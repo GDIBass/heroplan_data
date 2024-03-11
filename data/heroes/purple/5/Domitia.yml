@@ -1,8 +1,8 @@
 name: Domitia
-class: Rogue
 source: Season1
 family: Classic
 speed: Average
+class: Rogue
 power: 757
 attack: 725
 defense: 677
@@ -34,6 +34,7 @@ costume:
     - Cleanser
   image: https://i.imgur.com/mpRxFeU.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Barbarian
   power: 860
   attack: 838

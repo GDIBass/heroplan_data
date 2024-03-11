@@ -1,8 +1,8 @@
 name: Belith
-class: Druid
 source: Season1
 family: Classic
 speed: Average
+class: Druid
 power: 441
 attack: 425
 defense: 450

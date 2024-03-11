@@ -14,5 +14,5 @@ effects:
     All allies counterattacks with 80% of the damage received for 4 turns. 
     The counterattack damage increases by 20% each turn up to 140%.
 types:
-  - Riposte
+  - Counterattack
 image: https://i.imgur.com/9wlyamA.jpg

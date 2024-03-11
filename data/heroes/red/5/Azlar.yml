@@ -1,8 +1,8 @@
 name: Azlar
-class: Barbarian
 source: Season1
 family: Classic
 speed: Slow
+class: Barbarian
 power: 757
 attack: 793
 defense: 607
@@ -34,6 +34,7 @@ costume:
     - Dot 3
   image: https://i.imgur.com/TDGgAGz.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Fighter
   power: 861
   attack: 923
@@ -52,14 +53,14 @@ costume2:
 costume3:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 1025
-  attack: 1028
-  defense: 919
-  health: 2025
+  power: 1057
+  attack: 1066
+  defense: 953
+  health: 2088
   skill: Toon Explosion
   effects:
     - Deals 355% damage to all enemies.
-    - All enemies receive 462 damage over 2 turns.
+    - All enemies receive 477 damage over 3 turns.
     - Deals extra damage against Nature.
   types:
     - Hit all

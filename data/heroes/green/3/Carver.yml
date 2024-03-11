@@ -1,8 +1,8 @@
 name: Carver
-class: Rogue
 source: Season1
 family: Classic
 speed: Average
+class: Rogue
 power: 444
 attack: 464
 defense: 448

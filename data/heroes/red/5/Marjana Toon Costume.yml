@@ -4,14 +4,14 @@ class: Rogue
 source: Season1
 family: Classic
 speed: Fast
-power: 1025
-attack: 942
-defense: 947
-health: 2180
+power: 1056
+attack: 977
+defense: 982
+health: 2248
 skill: Toontastic Smash
 effects:
   - Deals 538% damage to the target.
-  - The target receives 465 damage over 3 turns.
+  - The target receives 483 damage over 3 turns.
   - Deals extra damage against Nature.
 types:
   - Hit 1

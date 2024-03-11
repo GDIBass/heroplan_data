@@ -4,10 +4,10 @@ class: Paladin
 source: Season1
 family: Classic
 speed: Average
-power: 1023
-attack: 997
-defense: 889
-health: 2145
+power: 1054
+attack: 1034
+defense: 922
+health: 2212
 skill: Toon Hammer
 effects:
   - Deals 565% damage to the target and minor damage to nearby enemies.

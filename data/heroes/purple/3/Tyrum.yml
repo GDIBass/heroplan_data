@@ -1,8 +1,8 @@
 name: Tyrum
-class: Paladin
 source: Season1
 family: Classic
 speed: Fast
+class: Paladin
 power: 441
 attack: 387
 defense: 422

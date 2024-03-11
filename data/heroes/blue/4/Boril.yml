@@ -1,8 +1,8 @@
 name: Boril
-class: Cleric
 source: Season1
 family: Classic
 speed: Average
+class: Cleric
 power: 643
 attack: 501
 defense: 792
@@ -13,7 +13,7 @@ effects:
     The caster and nearby allies counterattack with 125% of the damage received
     for 5 turns
 types:
-  - Riposte
+  - Counterattack
 image: https://i.imgur.com/jFkMrWZ.jpg
 costume:
   bonuses: 5/5/10/5
@@ -26,10 +26,10 @@ costume:
   effects:
     - All allies counterattack with 60% of the damage received for 4 turns
   types:
-    - Riposte
+    - Counterattack
   image: https://i.imgur.com/p8PKYHQ.jpg
 costume2:
-  family: Classic
+  bonuses: 5/5/10/5
   class: Fighter
   power: 735
   attack: 591
@@ -41,5 +41,5 @@ costume2:
       All allies counterattacks with 80% of the damage received for 4 turns. 
       The counterattack damage increases by 20% each turn up to 140%.
   types:
-    - Riposte
+    - Counterattack
   image: https://i.imgur.com/9wlyamA.jpg

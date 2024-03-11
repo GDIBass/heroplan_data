@@ -1,8 +1,8 @@
 name: Oberon
-class: Fighter
 source: Season1
 family: Classic
 speed: Slow
+class: Fighter
 power: 445
 attack: 422
 defense: 411

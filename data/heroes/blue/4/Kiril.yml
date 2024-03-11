@@ -33,9 +33,9 @@ costume:
     - Healer
     - Attack Debuff
     - Defense Debuff
-  family: Classic
   image: https://i.imgur.com/BwPG5qR.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Barbarian
   power: 739
   attack: 732
@@ -50,7 +50,6 @@ costume2:
     - Healer
     - Attack Debuff
     - Defense Buff
-  family: Classic
   image: https://i.imgur.com/s7WIRC3.jpg
 costume3:
   bonuses: 5/5/10/5

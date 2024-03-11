@@ -27,9 +27,9 @@ costume:
   types:
     - Hit All
     - Attack Debuff
-  family: Classic
   image: https://i.imgur.com/TBwlwOC.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Druid
   power: 861
   attack: 865
@@ -43,5 +43,4 @@ costume2:
   types:
     - Hit All
     - Mindless Attack
-  family: Classic
   image: https://i.imgur.com/BmY4xiU.jpg

@@ -1,8 +1,9 @@
 name: Kailani Toon Costume
-class: Cleric
+is_costume: true
 source: Season1
 family: Classic
 speed: Slow
+class: Cleric
 power: 506
 attack: 491
 defense: 525

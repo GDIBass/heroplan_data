@@ -1,8 +1,8 @@
 name: Joon
-class: Monk
 source: Season1
 family: Classic
 speed: Fast
+class: Monk
 power: 752
 attack: 749
 defense: 636
@@ -35,6 +35,7 @@ costume:
     - Blind
   image: https://i.imgur.com/YXbYHIl.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Barbarian
   power: 855
   attack: 865

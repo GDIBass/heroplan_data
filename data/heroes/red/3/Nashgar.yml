@@ -1,8 +1,8 @@
 name: Nashgar
-class: Barbarian
 source: Season1
 family: Classic
 speed: Fast
+class: Barbarian
 power: 443
 attack: 514
 defense: 366

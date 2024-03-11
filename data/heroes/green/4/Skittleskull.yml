@@ -1,8 +1,8 @@
 name: Skittleskull
-class: Sorcerer
 source: Season1
 family: Classic
 speed: Slow
+class: Sorcerer
 power: 644
 attack: 728
 defense: 605

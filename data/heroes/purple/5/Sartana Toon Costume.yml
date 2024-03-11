@@ -1,17 +1,17 @@
 name: Sartana Toon Costume
 is_costume: true
-class: Wizard
 source: Season1
 family: Classic
 speed: Fast
-power: 1029
-attack: 950
-defense: 939
-health: 2208
+class: Wizard
+power: 1061
+attack: 985
+defense: 974
+health: 2277
 skill: Toonstrike
 effects:
   - Deals 530% damage to the target.
-  - The target receives 459 Poison damage over 3 turns.
+  - The target receives 474 Poison damage over 3 turns.
   - Deals extra damage against Holy.
 types:
   - Hit 1

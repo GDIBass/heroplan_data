@@ -1,8 +1,8 @@
 name: Ulmer
-class: Wizard
 source: Season1
 family: Classic
 speed: Slow
+class: Wizard
 power: 445
 attack: 528
 defense: 359

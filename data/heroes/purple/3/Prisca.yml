@@ -1,8 +1,8 @@
 name: Prisca
-class: Paladin
 source: Season1
 family: Classic
 speed: Average
+class: Paladin
 power: 446
 attack: 413
 defense: 464

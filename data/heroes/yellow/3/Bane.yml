@@ -1,8 +1,8 @@
 name: Bane
-class: Monk
 source: Season1
 family: Classic
 speed: Fast
+class: Monk
 power: 440
 attack: 469
 defense: 410

@@ -1,8 +1,8 @@
 name: Brienne
-class: Druid
 source: Season1
 family: Classic
 speed: Average
+class: Druid
 power: 440
 attack: 446
 defense: 448

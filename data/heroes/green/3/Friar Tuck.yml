@@ -1,8 +1,8 @@
 name: Friar Tuck
-class: Monk
 source: Season1
 family: Classic
 speed: Average
+class: Monk
 power: 446
 attack: 458
 defense: 450

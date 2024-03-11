@@ -1,8 +1,8 @@
 name: Gormek
-class: Barbarian
 source: Season1
 family: Classic
 speed: Average
+class: Barbarian
 power: 642
 attack: 569
 defense: 565

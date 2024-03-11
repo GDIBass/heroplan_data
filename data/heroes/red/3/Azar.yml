@@ -1,8 +1,8 @@
 name: Azar
-class: Barbarian
 source: Season1
 family: Classic
 speed: Fast
+class: Barbarian
 power: 444
 attack: 493
 defense: 413

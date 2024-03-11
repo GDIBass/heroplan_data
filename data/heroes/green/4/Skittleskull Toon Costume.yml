@@ -1,8 +1,9 @@
 name: Skittleskull Toon Costume
-class: Sorcerer
+is_costume: true
 source: Season1
 family: Classic
 speed: Slow
+class: Sorcerer
 power: 746
 attack: 844
 defense: 705

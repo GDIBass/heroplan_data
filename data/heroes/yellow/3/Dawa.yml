@@ -1,8 +1,8 @@
 name: Dawa
-class: Rogue
 source: Season1
 family: Classic
 speed: Average
+class: Rogue
 power: 440
 attack: 488
 defense: 391

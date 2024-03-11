@@ -4,10 +4,10 @@ class: Barbarian
 source: Season1
 family: Classic
 speed: Fast
-power: 1024
-attack: 1003
-defense: 916
-health: 2084
+power: 1055
+attack: 1040
+defense: 950
+health: 2149
 skill: Toon and Counter
 effects:
   - Deals 390% damage to the target and minor damage to nearby enemies.

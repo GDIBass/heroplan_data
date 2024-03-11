@@ -1,8 +1,8 @@
 name: Valen
-class: Fighter
 source: Season1
 family: Classic
 speed: Fast
+class: Fighter
 power: 442
 attack: 479
 defense: 411

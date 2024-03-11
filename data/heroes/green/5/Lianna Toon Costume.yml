@@ -1,4 +1,5 @@
 name: Lianna Toon Costume
+is_costume: true
 class: Ranger
 source: Season1
 family: Classic
