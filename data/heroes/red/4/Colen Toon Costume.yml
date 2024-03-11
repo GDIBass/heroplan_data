@@ -1,0 +1,20 @@
+name: Colen Toon Costume
+class: Fighter
+source: Season1
+family: Classic
+speed: Slow
+power: 746
+attack: 842
+defense: 650
+health: 1321
+skill: Toon Storm
+effects:
+  - Deals 210% damage to all enemies.
+  - All enemies receive 174 Burn damage over 3 turns.
+  - Deals extra damage against Nature.
+types:
+  - Hit All
+  - DoT
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/swTTE4N.jpg
