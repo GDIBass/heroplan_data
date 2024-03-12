@@ -4,10 +4,10 @@ class: Monk
 source: Season1
 family: Classic
 speed: Average
-power: 1016
-attack: 992
-defense: 958
-health: 1972
+power: 1048
+attack: 1029
+defense: 994
+health: 2034
 skill: Toon Cleave
 effects:
   - Deals 565% damage to the target.

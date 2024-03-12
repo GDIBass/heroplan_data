@@ -1,8 +1,8 @@
 name: Kashhrek
-class: Wizard
 source: Season1
 family: Classic
 speed: Average
+class: Wizard
 power: 643
 attack: 548
 defense: 648
@@ -33,7 +33,7 @@ costume:
     - Elemental Defnese Buff
   image: https://i.imgur.com/5DjkhS8.jpg
 costume2:
-  family: Classic
+  bonuses: 5/5/10/5
   class: Druid
   power: 736
   attack: 598

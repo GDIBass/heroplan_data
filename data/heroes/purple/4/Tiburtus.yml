@@ -1,8 +1,8 @@
 name: Tiburtus
-class: Ranger
 source: Season1
 family: Classic
 speed: Average
+class: Ranger
 power: 639
 attack: 660
 defense: 633

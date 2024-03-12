@@ -1,8 +1,8 @@
 name: Kailani
-class: Cleric
 source: Season1
 family: Classic
 speed: Slow
+class: Cleric
 power: 444
 attack: 429
 defense: 453
@@ -29,7 +29,7 @@ costume:
   types:
     - Attack Buff
   image: https://i.imgur.com/OOF8ysq.jpg
-costume3:
+costume2:
   bonuses: 5/5/10/5
   class: Cleric
   power: 506

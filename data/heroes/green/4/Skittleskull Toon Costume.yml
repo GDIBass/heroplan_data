@@ -1,0 +1,21 @@
+name: Skittleskull Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Sorcerer
+power: 746
+attack: 844
+defense: 705
+health: 1207
+skill: Toon Vines
+effects:
+  - Deals 215% damage to all enemies.
+  - All enemies get -24% attack for 3 turns.
+  - Deals extra damage against Ice.
+types:
+  - Hit All
+  - Attack Debuff
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/DQzJaMV.jpg

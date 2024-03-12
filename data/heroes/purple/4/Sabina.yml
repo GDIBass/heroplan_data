@@ -1,8 +1,8 @@
 name: Sabina
-class: Sorcerer
 source: Season1
 family: Classic
 speed: Average
+class: Sorcerer
 power: 639
 attack: 699
 defense: 578
@@ -33,7 +33,7 @@ costume:
     - Dispeller
   image: https://i.imgur.com/flsZEGB.jpg
 costume2:
-  family: Classic
+  bonuses: 5/5/10/5
   class: Monk
   power: 730
   attack: 737

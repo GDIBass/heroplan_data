@@ -16,6 +16,7 @@ types:
   - Attack Debuff
 image: https://i.imgur.com/6787feX.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Ranger
   power: 794
   attack: 691
@@ -30,6 +31,7 @@ costume:
     - Attack Debuff
   image: https://i.imgur.com/AffGFoZ.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Wizard
   power: 857
   attack: 750

@@ -4,10 +4,10 @@ class: Cleric
 source: Season1
 family: Classic
 speed: Slow
-power: 1024
-attack: 958
-defense: 966
-health: 2096
+power: 1056
+attack: 994
+defense: 1002
+health: 2161
 skill: Toon Heal
 effects:
   - Recovers 54% health for all allies.

@@ -1,8 +1,8 @@
 name: Jahangir
-class: Sorcerer
 source: Season1
 family: Classic
 speed: Slow
+class: Sorcerer
 power: 445
 attack: 498
 defense: 436

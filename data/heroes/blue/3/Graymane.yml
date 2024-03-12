@@ -1,8 +1,8 @@
 name: Graymane
-class: Sorcerer
 source: Season1
 family: Classic
 speed: Average
+class: Sorcerer
 power: 441
 attack: 467
 defense: 368

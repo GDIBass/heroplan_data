@@ -4,10 +4,10 @@ class: Cleric
 source: Season1
 family: Classic
 speed: Fast
-power: 1025
-attack: 1020
-defense: 942
-health: 2000
+power: 1057
+attack: 1058
+defense: 977
+health: 2062
 skill: Toon Spear
 effects:
   - Deals 410% damage to the target and minor damage to nearby enemies.

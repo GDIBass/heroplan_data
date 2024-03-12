@@ -1,8 +1,8 @@
 name: Boldtusk
-class: Fighter
 source: Season1
 family: Classic
 speed: Average
+class: Fighter
 power: 644
 attack: 588
 defense: 711
@@ -31,6 +31,7 @@ costume:
     - Attack Buff
   image: https://i.imgur.com/ZFrdT4t.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Cleric
   power: 736
   attack: 688

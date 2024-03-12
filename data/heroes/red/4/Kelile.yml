@@ -27,9 +27,9 @@ costume:
     - All enemies receieve 334 Burn damage over 2 turns
   types:
     - Dot All
-  family: Classic
   image: https://i.imgur.com/EFoCGqV.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 734
   attack: 788
@@ -44,5 +44,4 @@ costume2:
   types:
     - Hit 3
     - Dot 3
-  family: Classic
   image: https://i.imgur.com/46HnfAG.jpg

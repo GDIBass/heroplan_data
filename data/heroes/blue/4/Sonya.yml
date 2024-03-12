@@ -1,8 +1,8 @@
 name: Sonya
-class: Paladin
 source: Season1
 family: Classic
 speed: Fast
+class: Paladin
 power: 643
 attack: 607
 defense: 731
@@ -31,7 +31,7 @@ costume:
     - Cleanser
   image: https://i.imgur.com/R1MhQgF.jpg
 costume2:
-  family: Classic
+  bonuses: 5/5/10/5
   class: Rogue
   power: 734
   attack: 817

@@ -1,0 +1,21 @@
+name: Azar Toon Costume
+is_costume: true
+class: Barbarian
+source: Season1
+family: Classic
+speed: Fast
+power: 487
+attack: 561
+defense: 438
+health: 739
+skill: Toon Cut
+effects:
+  - Deals 285% damage to the target.
+  - Reduces the mana of the target by 20%.
+  - Deals extra damage against Nature.
+types:
+  - Hit 1
+  - Mana Reduction
+passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+image: https://i.imgur.com/Mwzt0jr.jpg

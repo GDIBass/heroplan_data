@@ -1,8 +1,8 @@
 name: Rigard
-class: Cleric
 source: Season1
 family: Classic
 speed: Average
+class: Cleric
 power: 644
 attack: 595
 defense: 673
@@ -33,6 +33,7 @@ costume:
     - Cleanser
   image: https://i.imgur.com/9nzkBMP.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Monk
   power: 736
   attack: 717

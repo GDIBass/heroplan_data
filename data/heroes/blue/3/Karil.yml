@@ -1,8 +1,8 @@
 name: Karil
-class: Barbarian
 source: Season1
 family: Classic
 speed: Average
+class: Barbarian
 power: 442
 attack: 484
 defense: 378

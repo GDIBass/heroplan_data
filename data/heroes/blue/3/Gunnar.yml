@@ -1,8 +1,8 @@
 name: Gunnar
-class: Paladin
 source: Season1
 family: Classic
 speed: Slow
+class: Paladin
 power: 441
 attack: 387
 defense: 533
@@ -25,7 +25,7 @@ costume:
   skill: Steel Link
   effects:
     - All enemies become Soul Connected for 5 turns. Soul Connected enemies share received damage.
-    - All enemies get -44% defense for 5 turns
+    - All enemies get -44% defense for 5 turns.
   types:
     - Defense Debuff
     - Enemy Damage Share

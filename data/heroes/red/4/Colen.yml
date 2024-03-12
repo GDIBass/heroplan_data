@@ -1,8 +1,8 @@
 name: Colen
-class: Fighter
 source: Season1
 family: Classic
 speed: Slow
+class: Fighter
 power: 643
 attack: 728
 defense: 537
@@ -30,6 +30,7 @@ costume:
     - Hit all
   image: https://i.imgur.com/pAWbbb8.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Ranger
   power: 733
   attack: 828
@@ -44,3 +45,21 @@ costume2:
     - Hit 3
     - Elemental Defense Debuff
   image: https://i.imgur.com/2DIxTGe.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 746
+  attack: 842
+  defense: 650
+  health: 1321
+  skill: Toon Storm
+  effects:
+    - Deals 210% damage to all enemies.
+    - All enemies receive 174 Burn damage over 3 turns.
+    - Deals extra damage against Nature.
+  types:
+    - Hit All
+    - DoT
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  image: https://i.imgur.com/swTTE4N.jpg

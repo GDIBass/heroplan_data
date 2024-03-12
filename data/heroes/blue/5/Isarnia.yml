@@ -32,6 +32,7 @@ costume:
   family: Classic
   image: https://i.imgur.com/j8POeJ4.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Cleric
   power: 857
   attack: 934

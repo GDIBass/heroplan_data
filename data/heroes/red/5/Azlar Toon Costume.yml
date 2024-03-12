@@ -4,14 +4,14 @@ class: Barbarian
 source: Season1
 family: Classic
 speed: Slow
-power: 1025
-attack: 1028
-defense: 919
-health: 2025
+power: 1057
+attack: 1066
+defense: 953
+health: 2088
 skill: Toon Explosion
 effects:
   - Deals 355% damage to all enemies.
-  - All enemies receive 462 damage over 2 turns.
+  - All enemies receive 477 damage over 3 turns.
   - Deals extra damage against Nature.
 types:
   - Hit all

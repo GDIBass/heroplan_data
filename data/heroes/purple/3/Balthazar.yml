@@ -1,8 +1,8 @@
 name: Balthazar
-class: Wizard
 source: Season1
 family: Classic
 speed: Fast
+class: Wizard
 power: 442
 attack: 483
 defense: 422

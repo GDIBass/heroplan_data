@@ -1,8 +1,8 @@
 name: Vivica
-class: Cleric
 source: Season1
 family: Classic
 speed: Slow
+class: Cleric
 power: 755
 attack: 714
 defense: 694
@@ -18,6 +18,7 @@ types:
   - Cleanser
 image: https://i.imgur.com/aHsNbej.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 796
   attack: 741
@@ -34,6 +35,7 @@ costume:
     - Dispeller
   image: https://i.imgur.com/pm7wcbP.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Fighter
   power: 859
   attack: 800
@@ -52,10 +54,10 @@ costume2:
 costume3:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 1024
-  attack: 958
-  defense: 966
-  health: 2096
+  power: 1056
+  attack: 994
+  defense: 1002
+  health: 2161
   skill: Toon Heal
   effects:
     - Recovers 54% health for all allies.

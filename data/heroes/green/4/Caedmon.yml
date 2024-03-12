@@ -31,6 +31,7 @@ costume:
     - Cleanser
   image: https://i.imgur.com/zrZ4p5y.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Paladin
   power: 734
   attack: 745

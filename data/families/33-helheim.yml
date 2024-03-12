@@ -4,7 +4,7 @@ description: Helheim
 image: https://i.imgur.com/06GGSHD.png
 bonus:
   - "Bonus for 1/2/3 Unique Heroes:"
-  - "Deals 25%/50%/100% damage to all enemies when a Helheim Hero dies."
+  - "Deals 25%/50%/100% damage to all enemies when a Helheim Hero is defeated."
 bonuscostume-5star: 16/16/28/5
 bonuscostume-4star: 
 bonuscostume-3star: 

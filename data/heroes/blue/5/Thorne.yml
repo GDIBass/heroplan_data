@@ -30,6 +30,7 @@ costume:
     - Hit 1
   image: https://i.imgur.com/YX5GVdv.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Barbarian
   power: 861
   attack: 795

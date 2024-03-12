@@ -1,4 +1,5 @@
 name: Li Xiu Toon Costume
+is_costume: true
 class: Monk
 source: Season1
 family: Classic

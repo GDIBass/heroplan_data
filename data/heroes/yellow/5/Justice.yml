@@ -32,6 +32,7 @@ costume:
     - Hit all
   image: https://i.imgur.com/KCL7Y0s.jpg
 costume2:
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 858
   attack: 793
