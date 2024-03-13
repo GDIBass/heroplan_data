@@ -1,0 +1,19 @@
+name: Verus
+source: owltower
+family: owl
+speed: Average
+class: Ranger
+power: 1019
+attack: 1048
+defense: 1019
+health: 1732
+skill: Swooping Talon
+effects:
+  - Attacks all enemies with Moonrise Strike, dealing up to 1000 damage. Deals 40% more damage if the target is Holy.
+  - All enemies receive 900 Bleed damage over 4 turns.
+  - All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
+types:
+  - Hit All
+  - Dot
+  - Blind
+image: https://i.imgur.com/Klnv0Ue.jpg
