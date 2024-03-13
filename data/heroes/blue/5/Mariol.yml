@@ -1,0 +1,19 @@
+name: Mariol
+class: Cleric
+speed: Fast
+source: owltower
+family: owl
+power: 1017
+attack: 1032
+defense: 1048
+health: 1701
+skill: Healing Mirror
+effects:
+  - Boosts health of all allies by 700. Boosted health can exceed max HP.
+  - All allies get Moonrise Ward for 3 turns, that reduces incoming Special Skill damage by -600. Reduces damage by additional 30% when attacker is Holy. 
+  - Cleanses status ailments from all allies.
+types:
+  - Healer
+  - Moonrise Ward
+  - Cleanser
+image: https://i.imgur.com/NhlQa4M.jpg
