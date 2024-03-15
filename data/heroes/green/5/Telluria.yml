@@ -1,18 +1,19 @@
 name: Telluria
-class: Paladin
 source: Hotm
+family: 2020
 speed: Average
+class: Paladin
 power: 772
 attack: 613
 defense: 832
 health: 1425
 skill: Force of Forest
 effects:
-  - Deals 130% damage to all enemies.
+  - Deals 150% damage to all enemies.
   - >-
-    Summons a Forest Familiar Minion for all allies with 13% HP and 13% attack
+    Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack
     inherited from the caster.
-  - All allies regenerate 306 HP over 2 turns.
+  - All allies regenerate 366 HP over 2 turns.
   - All enemies get -24% mana generation for 2 turns.
   - >-
     Element Link gives all Nature allies +10% critical chance for 6 turns. This
@@ -25,4 +26,3 @@ types:
 passives:
   - The Hero has innate resistance against Minion Removal.
 image: https://i.imgur.com/xKwfgME.jpg
-family: 2020

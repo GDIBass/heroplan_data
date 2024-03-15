@@ -9,9 +9,9 @@ defense: 704
 health: 1345
 skill: Summon Temple Guardians
 effects:
-  - Recovers 33% health for all allies
+  - Recovers 35% health for all allies
   - >-
-    Summons a Guardian Minion for each ally with 13% HP and 16% attack inherited
+    Summons a Guardian Minion for each ally with 15% HP and 20% attack inherited
     from the caster
   - >-
     Elemental Link gives +10% mana generation for all Holy allies for 4 turns. 
@@ -29,9 +29,9 @@ costume:
   health: 1878
   skill: Summon Celestial Guardians
   effects:
-    - Recovers 30% health for all allies.
+    - Recovers 32% health for all allies.
     - >-
-      Summons a Guardian Minion for each ally with 20% HP and 25% attack inherited
+      Summons a Guardian Minion for each ally with 22% HP and 30% attack inherited
       from the caster.
     - >-
       Elemental Link gives +10% mana generation for all Holy allies for 4 turns. 
