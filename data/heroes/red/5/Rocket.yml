@@ -1,0 +1,25 @@
+name: Rocket
+class: Ranger
+source: goblinvillage
+family: goblin
+speed: Fast
+power: 1020
+attack: 1073
+defense: 1023
+health: 1668
+skill: Goblin Explosives
+effects:
+  - "Wither: The target gets -330 defense."
+  - Summons a Goblin Explosive Fiend for the target and nearby enemies. The Fiend damages the enemy with 195% attack every turn.
+  - The Goblin Explosive Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner’s max health.
+  - When the Goblin Explosive Fiend disappears after it has absorbed enough healing, the owner receives 1269 Burn damage over 3 turns.
+types:
+  - Wither
+  - Fiends 3
+passives:
+  - >-
+    Effects on Special Skill - 40% chance to perform the following actions when
+    this character casts their Special Skill.
+  - " * Deals 90% damage to all enemies."
+  - " * All enemies get -25% accuracy for 3 turns."
+image: https://i.imgur.com/BGl8jIC.jpg

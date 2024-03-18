@@ -1,7 +1,8 @@
 name: Garnet
-class: Sorcerer
 source: Ninja
+family: Ninja
 speed: Charge
+class: Sorcerer
 power: 798
 attack: 731
 defense: 751
@@ -9,17 +10,16 @@ health: 1481
 skill: Awaken Ki
 effects:
   - 1x Mana Charge
-  - '* Boosts health of all allies by 180. Boosted health can exceed max HP.'
+  - '* Boosts health of all allies by 230. Boosted health can exceed max HP.'
   - '* All allies are immune to new status ailments for 2 turns.'
   - 2x Mana Charge
-  - '* Boosts health of all allies by 400. Boosted health can exceed max HP.'
+  - '* Boosts health of all allies by 450. Boosted health can exceed max HP.'
   - '* All allies are immune to new status ailments for 3 turns.'
   - 3x Mana Charge
-  - '* Boosts health of all allies by 720. Boosted health can exceed max HP.'
+  - '* Boosts health of all allies by 750. Boosted health can exceed max HP.'
   - '* All allies are immune to new status ailments for 4 turns.'
 types:
   - Charger
   - Health Boost
   - Status Ailment Immunity
-family: Ninja
 image: https://i.imgur.com/Vxe7UpD.jpg

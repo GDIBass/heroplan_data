@@ -1,7 +1,8 @@
 name: Master Lepus
-class: Druid
 source: Springvale
+family: Springvale
 speed: Fast
+class: Druid
 power: 763
 attack: 795
 defense: 690
@@ -12,14 +13,14 @@ effects:
   - The caster gets -20% defense for 3 turns. This effect can't be cleansed
 types:
   - Hit 3
-family: Springvale
 image: https://i.imgur.com/Ti2FM1v.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Barbarian
-  power: 787
-  attack: 797
-  defense: 727
-  health: 1283
+  power: 867
+  attack: 890
+  defense: 811
+  health: 1453
   skill: Rift Blade
   effects:
     - Deals 280% damage to all enemies.
@@ -29,4 +30,3 @@ costume:
   types:
     - Hit 1
   image: https://i.imgur.com/aLTsGWG.jpg
-  bonuses: 3/3/6/1

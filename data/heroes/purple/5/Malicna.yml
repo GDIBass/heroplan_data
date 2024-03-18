@@ -1,14 +1,15 @@
 name: Malicna
-class: Cleric
 source: Hotm
+family: 2021
 speed: Average
+class: Cleric
 power: 788
 attack: 766
 defense: 741
 health: 1339
 skill: Grimoire Skim
 effects:
-  - Deals 290% damage to the target and nearby enemies
+  - Deals 320% damage to the target and nearby enemies
   - 'Randomly casts one of the following alternatives:'
   - 'Alternative 1:'
   - ' * The target and nearby enemies get -54% defense for 3 turns'
@@ -29,4 +30,3 @@ passives:
   - This character gets +94% defense against Holy for 3 turns when mana is reduced
   - This character has innate resistance against status ailments that steal health
 image: https://i.imgur.com/ZMAYhxa.jpg
-family: 2021

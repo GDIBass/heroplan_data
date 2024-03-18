@@ -1,14 +1,15 @@
 name: Frida
-class: Paladin
 source: hotm
+family: 2019
 speed: Average
+class: Paladin
 power: 770
 attack: 733
 defense: 723
 health: 1330
 skill: Polar Bash
 effects:
-  - Deals 290% damage to the target and nearby enemies
+  - Deals 320% damage to the target and nearby enemies
   - The target and nearby enemies get -54% defense against Ice for 4 turns
   - Dispels buffs from the target and nearby enemies
   - >-
@@ -21,4 +22,3 @@ types:
 passives:
   - This character has an innate resistance against status ailments that affect Attack.
 image: https://i.imgur.com/vGjHyB4.jpg
-family: 2019

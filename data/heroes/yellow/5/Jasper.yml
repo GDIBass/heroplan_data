@@ -1,7 +1,8 @@
 name: Jasper
-class: Cleric
 source: Springvale
+family: Springvale
 speed: Slow
+class: Cleric
 power: 843
 attack: 797
 defense: 869
@@ -18,5 +19,22 @@ types:
   - Healer
   - Attack buff
   - Critical chance buff
-family: Springvale
 image: https://i.imgur.com/Fqmw2ti.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 991
+  attack: 892
+  defense: 1003
+  health: 1952
+  skill: Dreams of Nourishment
+  effects:
+    - All allies regenerate 1450 HP over 5 turns.
+    - All allies get +60% attack for 5 turns.
+    - All allies get +60% critical chance for 5 turns.
+    - The caster gets -5% mana generation for 5 turns. This effect can’t be cleansed.
+  types:
+    - Healer
+    - Attack buff
+    - Critical chance buff
+  image: https://i.imgur.com/iHZz8KB.jpg

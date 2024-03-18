@@ -1,7 +1,8 @@
 name: Killhare
-class: Fighter
 source: Springvale
+family: Springvale
 speed: Average
+class: Fighter
 power: 789
 attack: 741
 defense: 756
@@ -14,14 +15,14 @@ effects:
     be cleansed.
 types:
   - Hit All
-family: Springvale
 image: https://i.imgur.com/WU18HC0.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Druid
-  power: 814
-  attack: 742
-  defense: 793
-  health: 1486
+  power: 898
+  attack: 829
+  defense: 885
+  health: 1682
   skill: Championship Carrot
   effects:
     - Deals 330% damage to all enemies.
@@ -31,4 +32,3 @@ costume:
   types:
     - Hit all
   image: https://i.imgur.com/vAkZp36.jpg
-  bonuses: 3/3/6/1
