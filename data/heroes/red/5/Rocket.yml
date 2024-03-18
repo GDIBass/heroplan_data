@@ -4,9 +4,9 @@ source: goblinvillage
 family: goblin
 speed: Fast
 power: 1020
-attack: 
-defense: 
-health: 
+attack: 1073
+defense: 1023
+health: 1668
 skill: Goblin Explosives
 effects:
   - "Wither: The target gets -330 defense."
