@@ -1,9 +1,9 @@
 name: Waterpipe
-family: PlainsHunter
 source: Covenant
-class: Fighter
+family: PlainsHunter
 speed: Average
-power: 837
+class: Fighter
+power: 887
 attack: 863
 defense: 821
 health: 1645
@@ -15,17 +15,13 @@ effects:
   - >-
     Each hit from a Harpoon Sentry Minion reduces the mana of the target by -5%
     and gives the target the following status ailments:
-  - '* The target gets -30% defense against Special Skills foe 2 turns.'
-  - '* The target is immune to new status effect buffs for 2 turns'
+  - ' * The target gets -30% defense against Special Skills foe 2 turns.'
+  - ' * The target is immune to new status effect buffs for 2 turns'
 types:
   - Summoner
 passives:
   - >-
-    When this character casts their Special Skill, they give a Hunter’s Mark on
-    a random enemy. The target receives 150 damage over 3 turns. If a target
-    already has this effect, the duration will be refreshed and the damage will
-    be increased by 150, up to 1500 damage in total.
+    Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
   - >-
-    This character has a 10% chance to drop the direct damage received from
-    Special Skills to 1.
+    Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
 image: https://i.imgur.com/pzkFRII.jpg
