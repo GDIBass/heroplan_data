@@ -15,7 +15,7 @@ effects:
 types:
   - Hit 1
   - Spreading DoT
-  - Attack buff stack
+  - Attack Buff stack
 passives:
   - >-
     Resist Attack Ailments: This character has innate resistance against status 

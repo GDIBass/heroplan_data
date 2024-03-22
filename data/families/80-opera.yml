@@ -4,7 +4,8 @@ description: Opera
 image: https://i.imgur.com/X7WvH3g.png
 bonus:
   - "Heroes become stronger when teamed with other unique Heroes of the same family."
-  - "Bonus for 1/2 Heroes:"
-  - "* +5% / +10% attack."
-  - "* +5% / +10% defense."
-  - "* +5% / +10% HP."
+  - "Bonus for 1/2/3 Heroes:"
+  - "* +5% / +10% / +15% attack."
+  - "* +5% / +10% / +15% defense."
+  - "* +5% / +10% / +15% HP."
+  - "The members of this family have additional perks in the Secrets of the Opera event."

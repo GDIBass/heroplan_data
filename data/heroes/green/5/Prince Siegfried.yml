@@ -1,9 +1,9 @@
 name: Prince Siegfried
-class: Druid
 source: Solstice
 family: opera
 speed: Slow
-power: 942
+class: Druid
+power: 996
 attack: 984
 defense: 972
 health: 1823
@@ -23,12 +23,12 @@ types:
   - Damage reducer
   - Status Effect immunity
 passives:
-  - >- 
-    Heal when status ailment expires or is cleared: This character receives 20% 
-    health each time a status ailment expires or is cleansed, removed or 
-    reallocated from them. This effect can activate only once per turn.
   - >-
     Resist Defense Ailments: This character has innate resistance against status
     ailments that affect defense. Doesn’t apply to status ailments that affect 
     elemental defense.
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 20% 
+    health each time a status ailment expires or is cleansed, removed or 
+    reallocated from them. This effect can activate only once per turn.
 image: https://i.imgur.com/WwCBlh0.jpg
