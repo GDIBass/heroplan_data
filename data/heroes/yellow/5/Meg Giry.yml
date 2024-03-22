@@ -1,0 +1,29 @@
+name: Meg Giry
+source: Solstice
+family: opera
+speed: Average
+class: Paladin
+power: 1021
+attack: 933
+defense: 1007
+health: 2055
+skill: Deceptive Smalltalk
+effects:
+  - Recovers 60% health for all allies.
+  - Cleanses the latest status ailments from all allies and gives to a random target in the enemy team.
+  - All active status ailments are uncleansable for all enemies for the remaining turns of the status ailment.
+  - All allies get +60% defense for 4 turns.
+types:
+  - Healer
+  - Cleanser
+  - Force uncleansable ailments
+  - Defense Buff
+passives:
+  - >-
+    Resist Attack Ailments: This character has innate resistance against status 
+    ailments that affect attack.
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 10% 
+    health each time a status ailment expires or is cleansed, removed or 
+    reallocated from them. This effect can activate only once per turn.
+image: https://i.imgur.com/GJH1yAl.jpg

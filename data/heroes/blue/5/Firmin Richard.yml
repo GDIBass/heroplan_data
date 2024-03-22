@@ -1,8 +1,8 @@
 name: Firmin Richard
-class: Paladin
 source: Solstice
 family: opera
 speed: Very Fast
+class: Paladin
 power: 957
 attack: 937
 defense: 887
@@ -14,13 +14,14 @@ effects:
   - 'Stack (Max: 10): All alies get +20% defense.'
 types:
   - Hit all
-  - Stack
+  - Attack Buff Stack
+  - Defense Buff Stack
 passives:
+  - >-
+    Resist Attack Ailments: This character has innate resistance against status 
+    ailments that affect attack.
   - >- 
     Heal when status ailment expires or is cleared: This character receives 5% 
     health each time a status ailment expires or is cleansed, removed or 
     reallocated from them. This effect can activate only once per turn.
-  - >-
-    Resist Attack Ailments: This character has innate resistance against status 
-    ailments that affect attack.
 image: https://i.imgur.com/I63hfD5.jpg

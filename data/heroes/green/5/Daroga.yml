@@ -1,0 +1,27 @@
+name: Daroga
+source: Solstice
+family: opera
+speed: Fast
+class: Monk
+power: 1022
+attack: 1065
+defense: 1062
+health: 1623
+skill: Echoes of the Opera
+effects:
+  - Deals 485% damage to the target.
+  - The targets receives 1245 Bleeding damage over 3 turns. This effect spreads to nearby enemies.
+  - 'Stack (Max 10): All allies get +25% attack.'
+types:
+  - Hit 1
+  - Spreading DoT
+  - Attack Buff stack
+passives:
+  - >-
+    Resist Attack Ailments: This character has innate resistance against status 
+    ailments that affect attack.
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 20% 
+    health each time a status ailment expires or is cleansed, removed or 
+    reallocated from them. This effect can activate only once per turn.
+image: https://i.imgur.com/Kmtj8Eb.jpg
