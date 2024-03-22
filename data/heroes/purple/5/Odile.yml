@@ -1,0 +1,30 @@
+name: Odile
+source: Solstice
+family: opera
+speed: Fast
+class: Rogue
+power: 1023
+attack: 1065
+defense: 953
+health: 1849
+skill: Dance of the Black Swan
+effects:
+  - Boosts health for all allies by 475. Boosted health can exceed max HP.
+  - Casts Dance of the Black Swan to all allies but caster for 4 turns. All existing status effects will be removed when this effect is added.
+  - 'Dance of the Black Swan:'
+  - ' * At the end of each turn each dancer deal 155% damage to a random enemy and boosts health for themselves with 25% of total damage dealt.'
+  - ' * Gives immunity to new status effects. New dance status effects will replace this effect.'
+  - ' * This effect cannot be dispelled. The effect is removed when the caster is defeated.'
+types:
+  - Healer
+  - Dance of the Black Swan
+passives:
+  - >-
+    Resist Defense Ailments: This character has innate resistance against status
+    ailments that affect defense. Doesn’t apply to status ailments that affect 
+    elemental defense.
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 20% 
+    health each time a status ailment expires or is cleansed, removed or 
+    reallocated from them. This effect can activate only once per turn.
+image: https://i.imgur.com/4D2V5En.jpg
