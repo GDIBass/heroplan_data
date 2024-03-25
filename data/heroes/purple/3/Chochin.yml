@@ -1,7 +1,8 @@
 name: Chochin
-class: Sorcerer
 source: Season2
+family: Sakura
 speed: Average
+class: Sorcerer
 power: 448
 attack: 413
 defense: 512
@@ -13,5 +14,4 @@ effects:
 types:
   - Hit 3
   - Mana Generation Debuff
-family: Sakura
 image: https://i.imgur.com/L668UQC.jpg

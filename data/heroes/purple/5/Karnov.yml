@@ -1,7 +1,8 @@
 name: Karnov
-class: Monk
 source: Villains
+family: Villains
 speed: Slow
+class: Monk
 power: 803
 attack: 766
 defense: 745
@@ -17,5 +18,4 @@ effects:
 types:
   - Hit All
   - Shield Enhance
-family: Villains
 image: https://i.imgur.com/uCM3DQT.jpg

@@ -1,8 +1,8 @@
 name: Umbria
 source: carnivalofgods
 family: Masked God
-class: Rogue
 speed: Fast
+class: Rogue
 power: 951
 attack: 918
 defense: 904
@@ -26,6 +26,5 @@ types:
 passives:
   - >-
     Cleanse on Minion Death: This character is cleansed of status ailments 
-    when Minion owned by them is destroyed. This character is cleansed of status
-    ailments when Minion owned by them is destroyed.
+    when Minion owned by them is destroyed.
 image: https://i.imgur.com/3VyJcT7.jpg

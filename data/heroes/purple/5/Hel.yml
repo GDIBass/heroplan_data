@@ -1,8 +1,8 @@
 name: Hel
-class: Wizard
 source: Hotm
 family: 2017
 speed: Average
+class: Wizard
 power: 765
 attack: 745
 defense: 692
@@ -20,7 +20,7 @@ types:
   - Mana Gain Freeze
 image: https://i.imgur.com/5oaRVxv.jpg
 costume:
-  bonuses: 3/3/6/1
+  bonuses: 5/5/10/5
   class: Cleric
   power: 931
   attack: 901

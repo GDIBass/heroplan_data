@@ -1,9 +1,9 @@
 name: Freya
-class: Druid
 source: Season3
 family: Vanaheim
 speed: Fast
-power: 788
+class: Druid
+power: 792
 attack: 776
 defense: 743
 health: 1339

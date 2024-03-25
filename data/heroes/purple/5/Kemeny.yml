@@ -1,9 +1,9 @@
 name: Kemeny
-class: Sorcerer
 source: Gargoyle
 family: Gargoyle
 speed: Average
-power: 835
+class: Sorcerer
+power: 850
 attack: 828
 defense: 813
 health: 1487
@@ -17,6 +17,5 @@ types:
   - Hit All
 passives:
   - >-
-    Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The
-    next damage they receive is dropped to 1. This effect can't be dispelled.
+    Gargoyle's Stoneskin: Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can't be dispelled.
 image: https://i.imgur.com/PmkgBzd.jpg

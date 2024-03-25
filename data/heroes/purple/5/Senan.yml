@@ -1,7 +1,8 @@
 name: Senan
-class: Sorcerer
 source: Slayers
+family: Slayer
 speed: Slow
+class: Sorcerer
 power: 807
 attack: 731
 defense: 813
@@ -22,6 +23,6 @@ types:
   - Fiend
   - Stacks
 passives:
-  - Damage caused by status ailments is reduced by -50%
-family: Slayer
+  - >-
+    Status Ailments Damage Reduction: Damage caused by status ailments is reduced by -50%.
 image: https://i.imgur.com/PYhKsHp.jpg

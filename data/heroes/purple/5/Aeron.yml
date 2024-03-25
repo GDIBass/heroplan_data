@@ -1,30 +1,30 @@
 name: Aeron
-class: Monk
 source: Hotm
 family: 2018
 speed: Average
+class: Monk
 power: 768
 attack: 733
 defense: 712
 health: 1341
 skill: Nethershield
 effects:
-  - All allies regenerate 765 HP over 5 turns
+  - All allies regenerate 765 HP over 5 turns.
   - >-
     The caster and nearby allies are immune to new status ailments for 5 turns.
-    This effect can't be dispelled
-  - Cleanses status ailments from the caster and nearby allies
+    This effect can't be dispelled.
+  - Cleanses status ailments from the caster and nearby allies.
   - >-
     Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns
-    This effect can't be dispelled
+    This effect can't be dispelled.
 types:
   - Healer
   - Status Ailment Immunity
   - Cleanser
 image: https://i.imgur.com/9AxepJ9.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Cleric
-  bonuses: 3/3/6/1
   power: 935
   attack: 849
   defense: 894

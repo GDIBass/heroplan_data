@@ -1,9 +1,9 @@
 name: Nyx
-class: Wizard
+source: Styx
 family: Styx
 speed: Charge
-source: Styx
-power: 829
+class: Wizard
+power: 854
 attack: 819
 defense: 826
 health: 1514
@@ -13,13 +13,13 @@ effects:
     Special Skill has a different effect when charged with 100% / 200% / 300%
     mana:
   - '1x Mana Charge:'
-  - ' * Deals 170% damage to all enemies.'
+  - ' * Deals 220% damage to all enemies.'
   - ' * All allies get +30% attack for 3 turns.'
   - '2x Mana Charge:'
-  - ' * Deals 300% damage to all enemies.'
+  - ' * Deals 360% damage to all enemies.'
   - ' * All enemies get -34% defense for 3 turns.'
   - '3x Mana Charge:'
-  - ' * Deals 335% damage to all enemies.'
+  - ' * Deals 395% damage to all enemies.'
   - ' * All allies get +50% attack for 4 turns.'
   - ' * All enemies get -44% defense for 4 turns.'
 types:

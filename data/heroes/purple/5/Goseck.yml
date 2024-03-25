@@ -1,21 +1,19 @@
 name: Goseck
-class: Barbarian
 source: Gargoyle
 family: Gargoyle
 speed: Slow
-power: 826
+class: Barbarian
+power: 841
 attack: 824
 defense: 801
 health: 1458
 skill: Revengeful Smite
 effects:
-  - Deals 325% damage to all enemies.
-  - The less HP the caster has, the more damage they deal up to 650%.
+  - Deals 350% damage to all enemies.
+  - The less HP the caster has, the more damage they deal up to 700%.
 types:
   - Hit All
 passives:
   - >-
-    Gargoyle’s Stoneskin - Every time this Gargoyle casts a Special Skill, their
-    Stoneskin hardens. The next damage they receive is dropped to 1. This effect
-    can’t be dispelled.
+    Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is dropped to 1. This effect can’t be dispelled.
 image: https://i.imgur.com/OKV9H3h.jpg

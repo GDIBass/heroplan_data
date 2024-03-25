@@ -1,7 +1,8 @@
 name: Chakkoszrot
-class: Druid
 source: Hotm
+family: 2021
 speed: Slow
+class: Druid
 power: 793
 attack: 745
 defense: 780
@@ -22,8 +23,7 @@ types:
   - Buff Immunity Debuff
 passives:
   - >-
-    Receives +24% mana generation for 3 turns when this character receives a status
-    ailment or a negative stack.
-  - This character has an innate resistance against mana Reduction
+    Resist Mana reduction: This character has an innate resistance against mana Reduction.
+  - >-
+    Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.
 image: https://i.imgur.com/tvzGcka.jpg
-family: 2021

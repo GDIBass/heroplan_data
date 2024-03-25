@@ -1,21 +1,22 @@
 name: Proteus
-class: Wizard
 source: Season2
+family: Atlantis
 speed: Average
+class: Wizard
 power: 650
 attack: 707
 defense: 595
 health: 1079
 skill: Scar of the Depths
 effects:
-  - The target and nearby enemies receive 336 Poison damage over 3 turns
+  - The target and nearby enemies receive 327 Poison damage over 3 turns.
   - The target and nearby enemies can't gain mana for 3 turns.
 types:
   - DoT 3
   - Mana Gain Freeze
-family: Atlantis
 image: https://i.imgur.com/m2PmJmo.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Sorcerer
   power: 671
   attack: 774
@@ -29,4 +30,3 @@ costume:
     - DoT All
     - Mana debuff
   image: https://i.imgur.com/5sfSAJC.jpg
-  bonuses: 3/3/6/1

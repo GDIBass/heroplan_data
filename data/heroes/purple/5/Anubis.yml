@@ -1,9 +1,9 @@
 name: Anubis
-class: Sorcerer
-speed: Average
-family: Moon
 source: Season5
-power: 845
+family: Moon
+speed: Average
+class: Sorcerer
+power: 870
 attack: 815
 defense: 850
 health: 1586

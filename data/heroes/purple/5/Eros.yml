@@ -1,8 +1,8 @@
 name: Eros
-class: Ranger
 source: love
 family: Cupid
 speed: Very Fast
+class: Ranger
 power: 966
 attack: 1009
 defense: 937
@@ -16,6 +16,5 @@ types:
   - Damage Received Debuff
 passives:
   - >-
-    Resist Special Skill Blocking - This character has innate resistance against
-    status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
 image: https://i.imgur.com/5JDsRr2.jpg

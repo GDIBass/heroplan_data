@@ -1,12 +1,12 @@
 name: Morganite
-class: Sorcerer
 source: Ninja
 family: Ninja
 speed: Charge
+class: Sorcerer
 power: 486
 attack: 540
-defense: 612
-health: 756
+defense: 481
+health: 702
 skill: Cursed Fumes
 effects:
   - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'

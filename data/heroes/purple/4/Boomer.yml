@@ -1,7 +1,8 @@
 name: Boomer
-class: Barbarian
 source: Pirates
+family: Pirate
 speed: Average
+class: Barbarian
 power: 645
 attack: 541
 defense: 663
@@ -12,5 +13,4 @@ effects:
   - The caster and nearby allies get +94% defense against Holy for 3 turns
 types:
   - Hit All
-family: Pirate
 image: https://i.imgur.com/BLKBB2F.jpg
