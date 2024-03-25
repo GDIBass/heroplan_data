@@ -20,7 +20,7 @@ effects:
     After 2 turns the caster jumps out of the hole and heals 223 damage to a
     random enemy.
   - 'The hit enemy receives the following status ailment:'
-  - ' * The target can''t gain mana for 2 turns.'
+  - ' * The target can`t gain mana for 2 turns.'
 types:
   - Hole
 passives:

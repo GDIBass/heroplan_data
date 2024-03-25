@@ -1,8 +1,8 @@
 name: Ommodus
-class: Barbarian
-speed: Slow
 source: owltower
 family: owl
+speed: Slow
+class: Barbarian
 power: 984
 attack: 986
 defense: 1023
@@ -16,5 +16,5 @@ effects:
   - All allies get 5% mana for each destroyed Fiend.
 types:
   - Fiend Destroyer
-  - Hit All
+  - Moonrise Strike
 image: https://i.imgur.com/QzvMG5C.jpg

@@ -1,8 +1,8 @@
 name: Vlad
-class: Rogue
 source: Morlovia
 family: Morlovia
 speed: Very Fast
+class: Rogue
 power: 449
 attack: 368
 defense: 486
@@ -19,7 +19,7 @@ types:
   - Healing Steal
 passives:
   - >-
-    Steal Buff - When this character casts their Special Skill, they have a 50% 
+    Steal Buff: When this character casts their Special Skill, they have a 50% 
     chance to steal the newest dispellable buff from a random enemy that has buffs. 
     If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/BKgxWVA.jpg

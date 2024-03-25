@@ -1,14 +1,15 @@
 name: Dark Lord
-class: Wizard
 source: Villains
+family: Villains
 speed: Fast
+class: Wizard
 power: 805
 attack: 801
 defense: 749
 health: 1357
 skill: Doomstrike
 effects:
-  - Delas 550% damage to the target.
+  - Deals 550% damage to the target.
   - Reduces the duration of the target and nearby enemies buffs by 1 turn.
   - >-
     The target and nearby enemies receive corrosive poison for 4 turns. The
@@ -17,5 +18,4 @@ effects:
 types:
   - Hit 1
   - Dot 3
-family: Villains
 image: https://i.imgur.com/ja50n6G.jpg

@@ -1,7 +1,8 @@
 name: Clarissa
-class: Paladin
 source: Hotm
+family: 2020
 speed: Very Fast
+class: Paladin
 power: 772
 attack: 733
 defense: 712
@@ -18,6 +19,6 @@ types:
   - Hit 3
   - Dot 3
 passives:
-  - This character has innate resistance against Poison.
+  - >-
+    Resist Poison: This character has innate resistance against Poison.
 image: https://i.imgur.com/YBAuibe.jpg
-family: 2020

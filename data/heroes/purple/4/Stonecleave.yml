@@ -1,7 +1,8 @@
 name: Stonecleave
-class: Barbarian
 source: Season3
+family: Helheim
 speed: Average
+class: Barbarian
 power: 661
 attack: 726
 defense: 622
@@ -23,5 +24,4 @@ effects:
   - Dire Ghost form lasts for 4 turns.
 types:
   - Ghost
-realm: Helheim
 image: https://i.imgur.com/7VLylDF.jpg

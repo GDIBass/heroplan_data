@@ -1,7 +1,8 @@
 name: Maeve
-class: Rogue
 source: Slayers
+family: Slayer
 speed: Slow
+class: Rogue
 power: 478
 attack: 458
 defense: 509
@@ -16,7 +17,6 @@ types:
   - Hit 3
   - Defense debuff
   - Stack
-family: Slayer
 passives:
   - >-
     Status ailment damage reduction: Damage caused by status ailments reduced 

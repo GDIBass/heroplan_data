@@ -1,8 +1,8 @@
 name: Hulda
 source: Season4
-class: Cleric
 family: Underwild
 speed: Average
+class: Cleric
 power: 816
 attack: 758
 defense: 782
@@ -22,6 +22,5 @@ types:
   - Summoner
 passives:
   - >-
-    Start Battle with Mana: This character receives 20% mana at the start
-    of the battle.
+    Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn.
 image: https://i.imgur.com/J9OOPtS.jpg

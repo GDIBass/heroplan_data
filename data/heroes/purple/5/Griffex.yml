@@ -1,12 +1,12 @@
 name: Griffex
-class: Druid
-speed: Slow
 source: SuperElemental
 family: SuperElemental
-power: 848
-attack: 801
-defense: 817
-health: 1532
+speed: Slow
+class: Druid
+power: 908
+attack: 859
+defense: 875
+health: 1697
 skill: Mana Manipulation
 effects:
   - >-

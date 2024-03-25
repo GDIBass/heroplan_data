@@ -1,9 +1,9 @@
 name: Peppermint
-class: Sorcerer
 source: Christmas
 family: Christmas
 speed: Average
-power: 836
+class: Sorcerer
+power: 851
 attack: 824
 defense: 836
 health: 1460

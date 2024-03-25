@@ -1,14 +1,15 @@
 name: Ameonna
-class: Sorcerer
 source: Season2
+family: Sakura
 speed: Fast
+class: Sorcerer
 power: 649
 attack: 771
 defense: 527
 health: 1054
 skill: Ghost
 effects:
-  - The caster shifts into Ghost Form
+  - The caster shifts into Ghost Form.
   - >-
     Ghost Form removes all cleansable and uncleansable buffs and status ailments
     from the caster.
@@ -19,9 +20,9 @@ effects:
   - Ghost form lasts for 4 turns.
 types:
   - Ghost
-family: Sakura
 image: https://i.imgur.com/VkDdipF.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Wizard
   power: 671
   attack: 700
@@ -44,4 +45,3 @@ costume:
   types:
     - Ghost
   image: https://i.imgur.com/VZyVFDJ.jpg
-  bonuses: 3/3/6/1

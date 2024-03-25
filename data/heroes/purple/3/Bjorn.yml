@@ -1,7 +1,8 @@
 name: Bjorn
-class: Monk
 source: Season3
+family: Midgard
 speed: Average
+class: Monk
 power: 463
 attack: 458
 defense: 436
@@ -11,13 +12,13 @@ effects:
   - Deals 200% damage to the target.
   - >-
     Deals 350% damage to a random different enemy. Deals extra damage if the
-    target is Holy.
+    target is Holy. This effect targets the same enemy as the first hit if there are no other valid targets.
 types:
   - Hit 1
   - Hit Bounce
-family: Midgard
 image: https://i.imgur.com/vOaNkHC.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Rogue
   power: 478
   attack: 464
@@ -35,4 +36,3 @@ costume:
     - Bounce
     - Mana Generation Debuff
   image: https://i.imgur.com/KuvURzu.jpg
-  bonuses: 3/3/6/1

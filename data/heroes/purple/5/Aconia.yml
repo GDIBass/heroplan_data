@@ -1,12 +1,12 @@
 name: Aconia
-class: Rogue
-speed: Fast
 source: SuperElemental
 family: SuperElemental
-power: 849
-attack: 813
-defense: 801
-health: 1540
+speed: Fast
+class: Rogue
+power: 909
+attack: 871
+defense: 859
+health: 1705
 skill: Bleed Inducing Daggers
 effects:
   - >-

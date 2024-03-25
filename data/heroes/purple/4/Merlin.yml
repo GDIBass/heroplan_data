@@ -1,7 +1,8 @@
 name: Merlin
-class: Wizard
 source: Avalon
+family: Avalon
 speed: Average
+class: Wizard
 power: 645
 attack: 682
 defense: 660
@@ -16,7 +17,6 @@ effects:
 types:
   - Hit 1
   - Mindless attack
-family: Avalon
 image: https://i.imgur.com/z8mBTci.jpg
 costume:
   bonuses: 5/5/10/5

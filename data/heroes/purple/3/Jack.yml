@@ -1,8 +1,8 @@
 name: Jack
-class: Wizard
 source: Morlovia
 family: Morlovia
 speed: Fast
+class: Wizard
 power: 468
 attack: 491
 defense: 450
@@ -19,7 +19,7 @@ types:
   - Bomb
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to
+    Steal Buff: When this character casts their Special Skill, they have a 50% chance to
     steal the newest dispellable buff from a random enemy that has buffs. If no
     enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/1pbBKiM.jpg

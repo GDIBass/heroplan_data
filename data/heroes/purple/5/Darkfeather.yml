@@ -1,8 +1,8 @@
 name: Darkfeather
-class: Druid
 source: goblinvillage
 family: goblin
 speed: Average
+class: Druid
 power: 941
 attack: 906
 defense: 943
@@ -21,7 +21,7 @@ types:
   - Defense buff
 passives:
   - >-
-    Effects on Special Skill - 50% chance to perform the following actions when
+    Effects on Special Skill: 50% chance to perform the following actions when
     this character casts their Special Skill.
   - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."

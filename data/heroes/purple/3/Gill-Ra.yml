@@ -1,7 +1,8 @@
 name: Gill-Ra
-class: Sorcerer
 source: Season2
+family: Lagoon
 speed: Slow
+class: Sorcerer
 power: 449
 attack: 436
 defense: 453
@@ -15,9 +16,9 @@ types:
   - Defense Debuff
   - Attack Debuff
   - Cleanser
-family: Lagoon
 image: https://i.imgur.com/5yoZu18.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Rogue
   power: 463
   attack: 478
@@ -33,4 +34,3 @@ costume:
     - Attack Buff
     - Dispeller
   image: https://i.imgur.com/bezss9U.jpg
-  bonuses: 3/3/6/1
