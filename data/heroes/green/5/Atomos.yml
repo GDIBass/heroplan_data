@@ -1,6 +1,7 @@
 name: Atomos
-class: Barbarian
 source: Season2
+family: Atlantis
+class: Barbarian
 speed: Average
 power: 772
 attack: 733
@@ -17,7 +18,6 @@ effects:
 types:
   - Hit All
   - Self Resurrection
-family: Atlantis
 image: https://i.imgur.com/DAUb4SR.jpg
 costume:
   bonuses: 5/5/10/5
