@@ -1,9 +1,9 @@
 name: Atlanteia
-class: Sorcerer
 source: untoldtales
 family: Nightmares of Atlantis
 speed: Changing Tides
-power: 971
+class: Sorcerer
+power: 999
 attack: 1058
 defense: 1034
 health: 1530

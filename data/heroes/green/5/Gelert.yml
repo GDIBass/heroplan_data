@@ -1,8 +1,8 @@
 name: Gelert
-class: Rogue
 source: untoldtales
 family: DefendersofAtlantis
 speed: Changing Tides
+class: Rogue
 power: 950
 attack: 997
 defense: 848
@@ -26,8 +26,7 @@ types:
   - Mana gen Buff
 passives:
   - >-
-    Effects on Special Skill
-    50% chance to perform the following actions when this character casts their Special Skill
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
       * Deals 80% damage to all enemies.
       * All allies get +21% critical chance for 3 turns.
 image: https://i.imgur.com/WjoVn5I.jpg
