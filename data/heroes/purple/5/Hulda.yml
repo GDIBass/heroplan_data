@@ -24,3 +24,23 @@ passives:
   - >-
     Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn.
 image: https://i.imgur.com/J9OOPtS.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 928
+  attack: 854
+  defense: 907
+  health: 1793
+  skill: Larva Prescription
+  effects:
+    - Summons a Larva Minion for each ally with 36% HP inherited from the caster. The Minion recovers 15% health for its owner at the end of each turn.
+    - When summoned, the Larva Minion gives +24% mana generation for its owner for as long as the owner has Larva Minions. This effect can’t be dispelled.
+    - When summoned, the Larva Minion gives +50% defense for its owner for as long as the owner has Larva Minions. This effect can’t be dispelled.
+  types:
+    - Summoner
+  passives:
+    - >-
+      Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skills is increased by 1 turn.
+    - >-
+      Health Boost on Special Skill: When this characters casts their Special Skill, they boost the health of all their allies by 10%.
+  image: https://i.imgur.com/sPMKsgr.jpg
