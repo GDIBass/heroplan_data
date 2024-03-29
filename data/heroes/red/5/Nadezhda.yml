@@ -1,8 +1,8 @@
 name: Nadezhda
-class: Cleric
 source: Magic
 family: Magic
 speed: Magic
+class: Cleric
 power: 813
 attack: 772
 defense: 778
@@ -24,5 +24,6 @@ types:
   - Damage Reduction
   - Charge
 passives:
-  - 'Healt recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'
+  - >-
+    Healt recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.
 image: https://i.imgur.com/i5g8Fr0.jpg

@@ -1,8 +1,8 @@
 name: Motega
-class: Cleric
 source: Magic
 family: Magic
 speed: Magic
+class: Cleric
 power: 813
 attack: 756
 defense: 793
@@ -23,5 +23,6 @@ types:
   - Fiend
   - Charge
 passives:
-  - 'Health recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'
+  - >-
+    Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'
 image: https://i.imgur.com/87toXMW.jpg

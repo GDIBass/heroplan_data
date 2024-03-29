@@ -1,8 +1,8 @@
 name: Milena
-class: Wizard
 source: Magic
 family: Magic
 speed: Magic
+class: Wizard
 power: 813
 attack: 784
 defense: 774
@@ -24,7 +24,5 @@ types:
   - Charge
 passives:
   - >-
-    When this character casts their Special Skill, they have a 50% chance to 
-    give 10% mana to all allies. If the Special Skill is fully charged, the 
-    chance is 100%.
+    Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.
 image: https://i.imgur.com/30AXxJs.jpg
