@@ -1,9 +1,9 @@
 name: Willow
-class: Druid
 source: Magic
 family: Magic
 speed: Magic
-power: 846
+class: Druid
+power: 891
 attack: 832
 defense: 900
 health: 1598
@@ -24,11 +24,7 @@ types:
   - Counterattack
 passives:
   - >-
-    When this character casts their Special Skill, all enemies get -5% mana 
-    generation stack. If the Special Skill is fully charged, all enemies get two
-    stacks. An enemy can have up to 10 stacks.
+    Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.
   - >-
-    When this character casts their Special Skill, they have a 50% chance to 
-    recover 15% health for all allies. If the Special Skill is fully charged, 
-    the chance is 100%.
+    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
 image: https://i.imgur.com/Njfyzmw.jpg

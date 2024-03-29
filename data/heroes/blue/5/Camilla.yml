@@ -1,12 +1,12 @@
 name: Camilla
-class: Sorcerer
 source: Magic
 family: Magic
 speed: Magic
-power: 847
-attack: 821
-defense: 840
-health: 1427
+class: Sorcerer
+power: 867
+attack: 840
+defense: 859
+health: 1483
 skill: Mechanical Augmentations
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
@@ -14,18 +14,14 @@ effects:
   - ' * Boosts health of all allies by 400. Boosted health can exceed max HP.'
   - ' * All allies get +40% defense against Special Skill for 3 turns.'
   - '2x Mana Charge:'
-  - ' * Reduce max health of all enemies by 800. Max health can`t get lower than 30% of the original max health.'
+  - ' * Reduce max health of all enemies by 800. Max health can`t get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.'
   - ' * All enemies get -54% defense against Special Skill for 5 turns.'
 types:
   - Healer
   - Health Reduction
 passives:
   - >-
-    Stack on Special - When this character casts their Special Skill, 
-    all enemies get -5% mana generation stack. If the Special Skill is fully 
-    charged, all enemies get two stacks. An enemy can have up to 10 stacks.
+    Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.
   - >-
-    Damage on Special - When this character casts their Special Skill, they have
-    a 50% chance to deal 100% damage to all enemies. If the Special Skill is 
-    fully charged, the chance is 100%.
+    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
 image: https://i.imgur.com/IZ0ZIwf.jpg

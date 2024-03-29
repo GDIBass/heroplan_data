@@ -1,8 +1,8 @@
 name: Ulius
-class: Wizard
 source: Magic
 family: Magic
 speed: Magic
+class: Wizard
 power: 936
 attack: 894
 defense: 916
@@ -22,11 +22,7 @@ types:
   - Fiends
 passives:
   - >-
-    Stack on Special - When this character casts their Special Skill, 
-    all enemies get -5% mana generation stack. If the Special Skill is fully 
-    charged, all enemies get two stacks. An enemy can have up to 10 stacks.
+    Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.
   - >-
-    Damage on Special - When this character casts their Special Skill, they have
-    a 50% chance to deal 100% damage to all enemies. If the Special Skill is 
-    fully charged, the chance is 100%.
+    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
 image: https://i.imgur.com/rdw7YpR.jpg

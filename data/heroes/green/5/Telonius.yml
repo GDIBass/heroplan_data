@@ -1,9 +1,9 @@
 name: Telonius
-class: Druid
 source: Magic
 family: Magic
 speed: Magic
-power: 845
+class: Druid
+power: 890
 attack: 885
 defense: 865
 health: 1528
@@ -22,11 +22,8 @@ types:
   - Charge
 passives:
   - >-
-    When this character casts their Special Skill, all enemies get -5% mana 
-    generation stack. If the Special Skill is fully charged, all enemies get 
-    two stacks. An enemy can have up to 10 stacks.
+    Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.
   - >-
-    When this character casts their Special Skill, they have a 50% chance to 
-    deal 100% damage to all enemies. If the Special Skill is fully charged, 
-    the chance is 100%.
+    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana 
+    generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
 image: https://i.imgur.com/WMPKV4S.jpg
