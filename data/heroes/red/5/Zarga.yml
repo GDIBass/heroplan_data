@@ -1,0 +1,24 @@
+name: Zarga
+source: Hotm
+family: 2024
+class: Rogue
+speed: Fast
+power: 977
+attack: 1050
+defense: 927
+health: 1612
+skill: Thousand Cuts
+effects:
+  - Deals 435% damage to the target.
+  - The target has 50% chance to get 1086 Bleed damage over 5 turns.
+  - >-
+    The target gets a Bleed mark for 6 turns. Whenever a marked target receives Bleed damage, they gain a stack (Max: 10). Each stack increases all damage the target receives by 5%.
+  - Element Link gives all Fire allies +5% dodge chance for 6 turns. This effect cannot be dispelled.
+types:
+  - Hit 1
+passives:
+  - >-
+    Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.
+  - >-
+    Mana on Bleed: This character receives 8% mana each time an enemy receives Bleed damage.
+image: https://i.imgur.com/Xh5bTXR.jpg
