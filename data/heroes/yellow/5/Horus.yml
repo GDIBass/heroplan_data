@@ -1,12 +1,12 @@
 name: Horus
 source: Season5
-class: Barbarian
 family: Sun
+speed: Very Fast
+class: Barbarian
 power: 859
 attack: 824
 defense: 795
 health: 1598
-speed: Very Fast
 skill: Unrelenting Hunter
 effects:
   - Deals 250% damage to target and nearby enemies.
@@ -19,8 +19,32 @@ types:
   - Health reduction
 passives:
   - >-
-    Effects on Special Skill - 40% chance to perform the following actions when
-    this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * All enemies get -34% attack for 3 turns.'
+    Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill
+    ' * Deals 70% damage to all enemies.'
+    ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/0Yedhet.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 972
+  attack: 927
+  defense: 902
+  health: 1931
+  skill: Judgement of Sun
+  effects:
+    - Deals 230% damage to the target and nearby enemies.
+    - >-
+      Reduces max health of the target and nearby enemies by 600 over 3 turns. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original health. Any boosted health is reduced by an additional 200 per turn.
+  types:
+    - Hit 3
+    - Health reduction
+  passives:
+    - >-
+      Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill
+      ' * Deals 70% damage to all enemies.'
+      ' * All enemies get -34% attack for 3 turns.'
+    - >-
+      Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
+    - >-
+      Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that boosts health.
+  image: https://i.imgur.com/fLHpPl2.jpg
