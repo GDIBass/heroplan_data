@@ -1,0 +1,24 @@
+name: Tang Sanzang
+source: Kingdom
+family: Kingdom
+speed: Very Fast
+class: Monk
+power: 1025
+attack: 1011
+defense: 1073
+health: 1757
+skill: Golden Cicada
+effects:
+  - Boosts health of all allies by 500. Boosted health can exceed max HP.
+  - Cleanses the latest cleansable status ailments from all allies.
+  - All allies get 20% defense for 2 turns.
+types:
+  - Healer
+  - Cleanser
+  - Defense Buff
+passives:
+  - >-
+    Mana on Buff Received: This character has a 50% chance to recover 10% mana when they receive a buff or possitve stack.
+  - >-
+    Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitive stack.
+image: https://i.imgur.com/y2EYio1.jpg
