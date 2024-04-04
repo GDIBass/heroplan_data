@@ -1,7 +1,7 @@
 name: Kai
 class: Rogue
 speed: Very Fast
-power: 838
+power: 888
 attack: 889
 defense: 832
 health: 1569
@@ -26,11 +26,7 @@ types:
   - Healing Debuff
 passives:
   - >-
-    When this character casts their Special Skill, they give a Hunter’s Mark on
-    a random enemy. The target receives 150 damage over 3 turns. If a target
-    already has this effect, the duration will be refreshed and the damage will
-    be increased by 150, up to 1500 damage in total.
+    Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
   - >-
-    This character has a 10% chance to drop the direct damage received from
-    Special Skills to 1.
+    Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
 image: https://i.imgur.com/D9rMcBZ.jpg
