@@ -1,0 +1,26 @@
+name: Ramona
+source: tavernoflegends
+family: champions
+speed: Very Fast
+class: Monk
+power: 1026
+attack: 1021
+defense: 1062
+health: 1765
+skill: Three Little Rams
+effects:
+  - Deals 450% damage to the target.
+  - Summons three Ram Fiends for the target. This Fiend damages the enemy with 40% attack every turn.
+  - The Ram Fiend absorbs healing and disappears when it has absorbed health equal to 45% of its owner’s max health.
+  - The healing absorbed is transferred to the summoner and their allies and distributed evenly. (Ignores heal steal, healing modifers and fiends)
+types:
+  - Hit 1
+  - Fiends 1
+passives:
+  - >- 
+    Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.
+  - >-
+    Health Boost on Fiend Summon: When a Fiend is summoned to any enemy, this character gets 300 boosted health. This effect can activate only once per turn.
+  - >-
+    Mana on Fiend Summon: When a Fiend is summoned to any enemy, this character gains 5% mana. This effect can activate only once per turn.
+image: https://i.imgur.com/ZBNdURG.jpg

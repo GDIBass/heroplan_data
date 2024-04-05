@@ -1,8 +1,8 @@
 name: Delilah
-class: Fighter
 source: Hotm
 family: 2018
 speed: Average
+class: Fighter
 power: 768
 attack: 737
 defense: 704
@@ -21,8 +21,8 @@ types:
   - Summoner
 image: https://i.imgur.com/gbHdhVI.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
-  bonuses: 3/3/6/1
   power: 934
   attack: 866
   defense: 868

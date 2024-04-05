@@ -1,8 +1,8 @@
 name: Alberich
-class: Druid
 source: Hotm
 family: 2017
 speed: Slow
+class: Druid
 power: 765
 attack: 725
 defense: 741
@@ -21,7 +21,7 @@ types:
   - MoT
 image: https://i.imgur.com/0IebpZg.jpg
 costume:
-  bonuses: 3/3/6/1
+  bonuses: 5/5/10/5
   class: Cleric
   power: 929
   attack: 861
