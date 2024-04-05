@@ -1,8 +1,8 @@
 name: Zimkitha
-class: Druid
 source: Hotm
 family: 2018
 speed: Fast
+class: Druid
 power: 769
 attack: 714
 defense: 681
@@ -21,6 +21,7 @@ types:
   - Cleanser
 image: https://i.imgur.com/ZnoCx4D.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
   power: 938
   attack: 859
@@ -44,4 +45,3 @@ costume:
       Dispel on Special Skill: When this character casts their Special Skill,
       they dispel the newest status effect buff from all enemies.
   image: https://i.imgur.com/M65Mn9a.jpg
-  bonuses: 3/3/6/1

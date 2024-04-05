@@ -1,7 +1,8 @@
 name: Athena
-class: Ranger
 source: Hotm
+family: 2017
 speed: Average
+class: Ranger
 power: 765
 attack: 737
 defense: 692
@@ -19,9 +20,9 @@ effects:
 types:
   - Hit 3
   - Defense Debuff
-family: 2017
 image: https://i.imgur.com/uPsJEUS.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Barbarian
   power: 931
   attack: 882
@@ -45,4 +46,3 @@ costume:
       Dispel on Special Skill: When this character casts their Special Skill,
       they dispel the newest status effect buff from all enemies.
   image: https://i.imgur.com/MA6JXX4.jpg
-  bonuses: 3/3/6/1

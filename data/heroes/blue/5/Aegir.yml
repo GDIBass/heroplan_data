@@ -1,8 +1,8 @@
 name: Aegir
-class: Paladin
 source: Hotm
 family: 2018
 speed: Average
+class: Paladin
 power: 768
 attack: 615
 defense: 805
@@ -22,7 +22,7 @@ types:
   - Ally Damage Share
 image: https://i.imgur.com/BzRTcqJ.jpg
 costume:
-  bonuses: 3/3/6/1
+  bonuses: 5/5/10/5
   class: Monk
   power: 937
   attack: 767

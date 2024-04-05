@@ -1,8 +1,8 @@
 name: Perseus
-class: Paladin
 source: Hotm
 family: 2017
 speed: Fast
+class: Paladin
 power: 765
 attack: 725
 defense: 698
@@ -23,7 +23,7 @@ types:
   - Elemental Defense Buff
 image: https://i.imgur.com/AMhR92j.jpg
 costume:
-  bonuses: 3/3/6/1
+  bonuses: 5/5/10/5
   class: Fighter
   power: 932
   attack: 877

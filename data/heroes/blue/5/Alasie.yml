@@ -1,8 +1,8 @@
 name: Alasie
-class: Ranger
 source: Hotm
 family: 2018
 speed: Fast
+class: Ranger
 power: 768
 attack: 739
 defense: 706
@@ -21,7 +21,7 @@ types:
   - Mana Generation Debuff
 image: https://i.imgur.com/xx3qiK5.jpg
 costume:
-  bonuses: 2/2/4/1
+  bonuses: 5/5/10/5
   class: Rogue
   power: 935
   attack: 884
