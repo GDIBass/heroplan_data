@@ -1,7 +1,8 @@
 name: Alice
-class: Rogue
 source: Wonderland
+family: Wonderland
 speed: Fast
+class: Rogue
 power: 769
 attack: 741
 defense: 714
@@ -15,5 +16,4 @@ effects:
 types:
   - Hit 1
   - Attack Debuff
-family: Wonderland
 image: https://i.imgur.com/DEMKiBc.jpg

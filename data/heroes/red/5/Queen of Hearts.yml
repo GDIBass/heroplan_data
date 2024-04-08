@@ -1,8 +1,8 @@
 name: Queen of Hearts
-class: Paladin
 source: Wonderland
 family: Wonderland
 speed: Average
+class: Paladin
 power: 768
 attack: 638
 defense: 729
@@ -43,4 +43,7 @@ costume:
     - Hit 3
     - Summoner
     - Taunt
+  passives:
+    - >-
+      Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns.
   image: https://i.imgur.com/q5xoHJ1.jpg

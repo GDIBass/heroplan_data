@@ -9,6 +9,7 @@ defense: 481
 health: 787
 skill: Starplay
 effects:
+  - This Special Skill never misses its targets.
   - Deal 265% damage to the target and nearby enemies.
   - The caster and nearby allies get +20% mana generation for 3 turns.
 types:
@@ -16,8 +17,7 @@ types:
   - Mana generation buff 3
 passives:
   - >-
-    Resist Blind: This character has innate resistance against status ailments 
-    that affect accuracy. Doesn’t apply to status effects from allies.
+    Resist Poison: This character has innate resistance against Poison.
   - >-
     Share Received Damage: 20% of damage received by this charater is shared 
     with other allies.

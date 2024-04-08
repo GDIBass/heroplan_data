@@ -9,17 +9,17 @@ defense: 1060
 health: 1689
 skill: Astral Dominion
 effects:
+  - This Special Skill never misses its targets.
   - Deals 340% damage to all enemies.
-  - All enemies get -30% mana generation for 4 turns.
-  - All enemies get -74% decrease of any healing received for 4 turns.
+  - All enemies get -35% mana generation for 4 turns.
+  - All enemies get -85% decrease of any healing received for 4 turns.
 types:
   - Hit All
   - Mana Generation debuff
   - Healing debuff
 passives:
   - >-
-    Resist Blind: This character has innate resistance against status ailments 
-    that affect accuracy. Doesn’t apply to status effects from allies.
+    Resist Poison: This character has innate resistance against Poison.
   - >-
     Share Received Damage: 20% of damage received by this charater is shared 
     with other allies.

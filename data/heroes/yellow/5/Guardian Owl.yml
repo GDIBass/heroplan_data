@@ -1,19 +1,19 @@
 name: Guardian Owl
-class: Druid
 source: Teltoc
+family: Guardian
 speed: Very Slow
+class: Druid
 power: 765
 attack: 601
 defense: 795
 health: 1483
 skill: Stately Retribution
 effects:
-  - Deals 280% damage to all enemies.
-  - Damage is increased by 50% per each dead ally.
+  - Deals 300% damage to all enemies.
+  - Damage is increased by 60% per each dead ally (max damage 540%).
   - The caster gets +46% defense for 5 turns.
-  - The caster regenerates 765 HP over 5 turns.
+  - The caster regenerates 915 HP over 5 turns.
 types:
   - Hit All
   - Self Heal
-family: Guardian
 image: https://i.imgur.com/XO3HIxy.jpg

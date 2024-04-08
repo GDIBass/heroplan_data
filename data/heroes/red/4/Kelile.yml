@@ -1,8 +1,8 @@
 name: Kelile
-class: Rogue
 source: Season1
 family: Classic
 speed: Fast
+class: Rogue
 power: 644
 attack: 675
 defense: 686
@@ -45,3 +45,21 @@ costume2:
     - Hit 3
     - Dot 3
   image: https://i.imgur.com/46HnfAG.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Rogue 
+  power: 746
+  attack: 815
+  defense: 760
+  health: 1166
+  skill: Dance of Toons
+  effects:
+    - Deals 325% damage to the target.
+    - The target receives 216 Burn damage over 3 turns.
+    - Deals extra damage against Nature.
+  types:
+    - Hit 1
+    - Dot 1
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  image: https://i.imgur.com/nj44opt.jpg

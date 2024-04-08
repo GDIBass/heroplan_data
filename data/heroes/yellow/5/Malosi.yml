@@ -1,14 +1,15 @@
 name: Malosi
-class: Barbarian
 source: Hotm
+family: 2020
 speed: Very Fast
+class: Barbarian
 power: 771
 attack: 743
 defense: 729
 health: 1303
 skill: Power Punch
 effects:
-  - Deals 300% damage to the target.
+  - Deals 350% damage to the target.
   - >-
     The target cannot cast any new status effects on enemies or allies for 3 turns. 
     This includes stacks. This only includes status effects cast with Special Skill.
@@ -23,4 +24,3 @@ passives:
     The hero has an innate resistance against status ailments and negative stacks that
     affect Defense. Doesn't apply to status ailments that affect elemental defense.
 image: https://i.imgur.com/ttNHqjc.jpg
-family: 2020

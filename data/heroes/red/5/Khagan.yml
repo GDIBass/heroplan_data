@@ -49,3 +49,23 @@ costume2:
     - Mana Generation
     - Defense Buff
   image: https://i.imgur.com/Az13Jne.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Ranger
+  power: 1061
+  attack: 1043
+  defense: 870
+  health: 2344
+  skill: The Toon’s Order
+  effects:
+    - Deals 530% damage to the target and nearby enemies.
+    - The caster and nearby allies get +22% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by defence team at the end of turn.)
+    - The caster and nearby allies get +61% defense for 5 turns.
+    - Deals extra damage against Nature.
+  types:
+    - Hit All
+    - Mana Generation Buff
+    - Defense Buff
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  image: https://i.imgur.com/tV5jaYy.jpg

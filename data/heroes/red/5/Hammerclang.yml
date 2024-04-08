@@ -19,8 +19,7 @@ types:
   - Attack debuff
 passives:
   - >-
-    Resist Blind: This character has innate resistance against status ailments 
-    that affect accuracy. Doesn’t apply to status effects from allies.
+    Resist Poison: This character has innate resistance against Poison.
   - >-
     Share Received Damage: 20% of damage received by this charater is shared 
     with other allies.

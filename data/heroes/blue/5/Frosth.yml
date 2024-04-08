@@ -1,7 +1,8 @@
 name: Frosth
-class: Rogue
 source: Hotm
+family: 2021
 speed: Fast
+class: Rogue
 power: 789
 attack: 776
 defense: 731
@@ -9,10 +10,10 @@ health: 1347
 skill: Cold Command
 effects:
   - >-
-    Summons a Frost Sprite Minion for each ally with 13% HP and 15% attack
+    Summons a Frost Sprite Minion for each ally with 15% HP and 20% attack
     inherited from the caster.
   - >-
-    All allies' Minions get +30% HP and +30% attack. This special can increase 
+    All allies' Minions get +40% HP and +40% attack. This special can increase 
     HP and attack up to +200% of the Minion's original HP and attack.
   - >-
     Element Link gives all Ice allies small amounts of mana at the end of the
@@ -27,4 +28,3 @@ passives:
     destroyed.
   - This character has innate resistance against Burn.
 image: https://i.imgur.com/ux7vLKs.jpg
-family: 2021

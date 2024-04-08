@@ -9,6 +9,7 @@ defense: 688
 health: 1292
 skill: Cloth of Constellations
 effects:
+  - This Special Skill never misses its targets.
   - Deal 245% damage to the target and minor damage to nearby enemies.
   - The caster steals 50% of any healing applied to the target and nearby enemies in 2 turns.
   - The caster and nearby allies get +45% chance to dodge Special Skills that deal damage for 2 turns.
@@ -17,8 +18,7 @@ types:
   - Dodge 
 passives:
   - >-
-    Resist Blind: This character has innate resistance against status ailments 
-    that affect accuracy. Doesn’t apply to status effects from allies.
+    Resist Poison: This character has innate resistance against Poison.
   - >-
     Share Received Damage: 20% of damage received by this charater is shared 
     with other allies.
