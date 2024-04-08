@@ -1,12 +1,12 @@
 name: Daemon
-class: Fighter
 source: Knights
 family: Stag
 speed: Very Fast
+class: Fighter
 power: 992
-attack: 1069
-defense: 947
-health: 1631
+attack: 1102
+defense: 980
+health: 1730
 skill: Blood Petals
 effects:
   - Dispels buffs from the target.

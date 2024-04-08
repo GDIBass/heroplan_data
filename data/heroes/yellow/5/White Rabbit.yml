@@ -1,8 +1,8 @@
 name: White Rabbit
-class: Cleric
 source: Wonderland
 family: Wonderland
 speed: Fast
+class: Cleric
 power: 779
 attack: 731
 defense: 749
@@ -33,4 +33,7 @@ costume:
   types:
     - Hit 3
     - Defense Debuff
+  passives:
+    - >-
+      Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns.
   image: https://i.imgur.com/qj3SAsZ.jpg

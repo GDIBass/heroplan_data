@@ -1,8 +1,8 @@
 name: Silvaria
 source: Hotm
-class: Barbarian
-speed: Average
 family: 2022
+speed: Average
+class: Barbarian
 power: 806
 attack: 778
 defense: 749
@@ -10,7 +10,7 @@ health: 1425
 skill: Power of Flora
 effects:
   - The target and nearby enemies get -34% defense for 3 turns.
-  - Deals 350% damage to the target.
+  - Deals 380% damage to the target.
   - >-
     Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack
     inherited from the caster.
@@ -28,5 +28,5 @@ passives:
   - >-
     Summon on Burn: Each time this character receives a Burn status ailment, 
     they summon a Forest Guardian Minion for themseles. Forest Guardian Minion 
-    inherits 35% HP and 35% atack from this character.
+    inherits 40% HP and 40% atack from this character.
 image: https://i.imgur.com/bmUsK1J.jpg

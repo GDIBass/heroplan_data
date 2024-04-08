@@ -9,6 +9,7 @@ defense: 1007
 health: 1709
 skill: Scepter of Constellations
 effects:
+  - This Special Skill never misses its targets.
   - Deals 200% damage to all enemies.
   - Deals 450 extra damage if the target has boosted health.
   - >-
@@ -22,6 +23,5 @@ passives:
     Share Received Damage: 20% of damage received by this charater is shared 
     with other allies.
   - >-
-    Resist Blind: This character has innate resistance against status ailments 
-    that affect accuracy. Doesn’t apply to status effects from allies.
+    Resist Poison: This character has innate resistance against Poison.
 image: https://i.imgur.com/GZxuVqX.jpg

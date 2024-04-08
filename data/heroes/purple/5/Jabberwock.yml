@@ -1,8 +1,8 @@
 name: Jabberwock
-class: Monk
 source: Wonderland
 family: Wonderland
 speed: Fast
+class: Monk
 power: 780
 attack: 743
 defense: 747
@@ -38,4 +38,7 @@ costume:
   types:
     - Hit 2
     - Dot
+  passives:
+    - >-
+      Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns.
   image: https://i.imgur.com/Y9oF73p.jpg
