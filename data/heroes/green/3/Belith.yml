@@ -30,3 +30,22 @@ costume:
     - HOT
     - Dispell Immunity
   image: https://i.imgur.com/MHO518e.jpg
+costume2:
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 804
+  attack: 509
+  defense: 496
+  health: 874
+  skill: Toon Mist
+  effects:
+    - Recovers 35% health for all allies.
+    - All allies get +34% defense for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
+    - Dispels buffs from all enemies.
+  types:
+    - Healer
+    - Defense buff
+    - Dispeller
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  image: https://i.imgur.com/d6OTmVG.jpg
