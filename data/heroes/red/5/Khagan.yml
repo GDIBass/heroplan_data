@@ -49,7 +49,7 @@ costume2:
     - Mana Generation
     - Defense Buff
   image: https://i.imgur.com/Az13Jne.jpg
-costume:
+costume3:
   bonuses: 5/5/10/5
   class: Ranger
   power: 1061
