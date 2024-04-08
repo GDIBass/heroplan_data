@@ -49,3 +49,18 @@ costume2:
     - Counterattack
     - Damage Reduction
   image: https://i.imgur.com/oDvjeQX.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 747
+  attack: 656
+  defense: 703
+  health: 1687
+  skill: Toontastic Riposte
+  effects:
+    - The caster and nearby allies counterattack with 125% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
+  types:
+    - Counterattack
+  passives:
+    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  image: https://i.imgur.com/NlALPlg.jpg
