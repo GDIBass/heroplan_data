@@ -1,0 +1,22 @@
+name: Armel
+source: Knights
+family: Bear
+speed: Fast
+class: Ranger
+power: 1030
+attack: 1062
+defense: 1030
+health: 1751
+skill: Frostbite
+effects:
+  - Dispels buff from all enemies.
+  - Reduces max health of all enemies by 400. This effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 400.)
+  - All enemies receive 459 Frost damage over 3 turns.
+types:
+  - Dispeller
+  - Health Reduction
+  - DoT All
+passives:
+  - >-
+    Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.
+image: https://i.imgur.com/A0IbhDl.jpg
