@@ -1,0 +1,20 @@
+name: Cecilia
+source: Knights
+family: Stag
+speed: Fast
+class: Ranger
+power: 1028
+attack: 1030
+defense: 1054
+health: 1771
+skill: Aura of Twilight
+effects:
+  - Deals 240% damage to all enemies.
+  - All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge boosts health by 250. Boosted health can exceed max HP.
+types:
+  - Hit all
+  - Dodge to All
+passives:
+  - >-
+    Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.
+image: https://i.imgur.com/FjOt9jJ.jpg
