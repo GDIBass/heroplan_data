@@ -3,7 +3,7 @@ source: Knights
 family: Stag
 speed: Very Fast
 class: Fighter
-power: 992
+power: 1027
 attack: 1102
 defense: 980
 health: 1730
@@ -23,6 +23,5 @@ types:
   - Cast blocker
 passives:
   - >-
-    Health Recovery on Buff Received - This character recovers 5% health when 
-    they receive a buff or a positive stack.
+    Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.
 image: https://i.imgur.com/uaxeVEQ.jpg
