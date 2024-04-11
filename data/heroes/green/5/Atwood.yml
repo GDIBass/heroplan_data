@@ -1,0 +1,24 @@
+name: Atwood
+source: secretsummon
+family: investigator
+speed: Average
+class: Monk
+power: 1000
+attack: 1050
+defense: 1040
+health: 1771
+skill: Jewel of the Deep
+effects:
+  - Dispels buffs from the target and nearby enemies.
+  - Deals 350% damage and inflicts 55 Insanity to the target and nearby enemies.
+  - All allies are immune to damage from status ailments for 4 turns.
+  - Inflicts 45 Insanity to the caster.
+types:
+  - Dispeller 3
+  - Hit 3
+  - Insanity
+  - Ailments immunity
+passives:
+  - >-
+    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
+image: https://i.imgur.com/Cwe6431.jpg

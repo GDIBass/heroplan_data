@@ -1,0 +1,8 @@
+key: investigator
+code: 88
+description: Investigator
+image: https://i.imgur.com/f72W3Ty.png
+bonus:
+  - "Bonus for 1 / 2 / 3 Heroes:"
+  - "* +20% / +30% / +40% attack"
+  - "* +20% / +30% / +40% health"
