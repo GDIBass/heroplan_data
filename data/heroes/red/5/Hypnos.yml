@@ -1,8 +1,8 @@
 name: Hypnos
-class: Sorcerer
+source: Styx
 family: Styx
 speed: Charge
-source: Styx
+class: Sorcerer
 power: 849
 attack: 846
 defense: 780
@@ -25,9 +25,8 @@ effects:
   - ' * All enemies are immune to new status effects buffs for 4 turns.'
 types:
   - Hit all
-  - Defense Debuff
+  - Buff Immunity
   - Dispell
-  - Taunt Block
 passives:
   - >-
     Resist Defense Ailments: This character has innate resistance against status 

@@ -1,8 +1,8 @@
 name: Viselus
-class: Druid
 source: Hotm
 family: 2023
 speed: Average
+class: Druid
 power: 820
 attack: 716
 defense: 826
@@ -16,14 +16,12 @@ effects:
     Element Link gives all Nature allies +5% chance to dodge status ailments for
     4 turns. This effect cannot be dispelled.
 types:
+  - Destroy Minions 3
   - Hit 3
-  - Taunt Silence
-  - Defense Debuff
+  - DoT 3
 passives:
-  - 'Resist Poison: This character has innate resistance against Poison.'
   - >-
-    Health Boost of Poison: Boosts health of this character and nearby allies
-    by 2% for each enemy inflicted with Poison at the end of each turn. Boosted
-    health can exceed max HP.
-  - Resist Poison - This character has innate resistance against Poison.
+    Resist Poison: This character has innate resistance against Poison.
+  - >-
+    Health Boost of Poison: Boosts health of this character and nearby allies by 2% for each enemy inflicted with Poison at the end of each turn. Boosted health can exceed max HP.
 image: https://i.imgur.com/SWrRjRX.jpg
