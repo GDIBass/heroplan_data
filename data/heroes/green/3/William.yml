@@ -1,0 +1,22 @@
+name: William
+source: goblinvillage
+family: garrisonguard
+speed: Average
+class: Fighter
+power: 494
+attack: 543
+defense: 500
+health: 712
+skill: Situational Awareness
+effects:
+  - Deals 210% damage to the target and nearby enemies.
+  - The caster and nearby allies get +36% defense for 3 turns.
+  - The caster and nearby allies get +36% critical chance for 3 turns.
+types:
+  - Hit 3
+  - Defense buff
+  - Critical chance buff
+passives:
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://i.imgur.com/A9SHPn4.jpg

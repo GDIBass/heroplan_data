@@ -1,0 +1,7 @@
+key: garrisonguard
+code: 89
+description: Garrison Guard
+image: https://i.imgur.com/nXtu9nW.png
+bonus:
+  - "Bonus for 1 / 2 / 3 Heroes:"
+  - "At the start of the battle, summons a Recruit Guard Mega Minion with 20% / 25% / 30% HP and 100% / 120% / 140% attack inherited from this character."

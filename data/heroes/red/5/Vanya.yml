@@ -1,0 +1,23 @@
+name: Vanya
+source: goblinvillage
+family: garrisonguard
+speed: Slow
+class: Monk
+power: 1034
+attack: 1089
+defense: 1069
+health: 1639
+skill: Sense of Wonder
+effects:
+  - Recovers 54% health of all allies.
+  - Summons a Shield Guard Mega Minion with 60% HP and 160% attack inherited from the caster.
+  - The Shield Guard Mega Minion cleanses the latest cleansable status ailments from all allies each turn. This does not trigger secondary effects.
+types:
+  - Heal All
+  - Shield Guard Mega Minion
+passives:
+  - >-
+    Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://i.imgur.com/1zUxxx9.jpg

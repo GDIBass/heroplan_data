@@ -1,0 +1,25 @@
+name: Scrollbeast
+source: goblinvillage
+family: goblin
+speed: Slow
+class: Paladin
+power: 1032
+attack: 1015
+defense: 1058
+health: 1829
+skill: Boar of Fury
+effects:
+  - Deals 335% damage to all enemies.
+  - 'Wither: All enemies get -350 attack.'
+  - Summons a White Boar Mega Minion with 65% HP and 250% attack inherited from the caster.
+  - When summoned the White Boar Mega Minion gives its owner the ability to counterattack with 100% of the received damage as long as the owner has a White Boar Mega Minion. This effect can’t be dispelled.
+types:
+  - Hit all
+  - White Boar Mega Minion
+passives:
+  - >-
+    Effects on Special Skill: 60% chance to perform the following actions when
+    this character casts their Special Skill.
+  - " * Deals 90% damage to all enemies."
+  - " * All enemies get -25% accuracy for 3 turns."
+image: https://i.imgur.com/oI9QMY8.jpg

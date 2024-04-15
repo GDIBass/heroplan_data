@@ -1,0 +1,21 @@
+name: Greg
+source: goblinvillage
+family: garrisonguard
+speed: Average
+class: Barbarian
+power: 698
+attack: 688
+defense: 705
+health: 1255
+skill: Scale of the Newt
+effects:
+  - Deals 100% damage to all enemies.
+  - Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.
+  - The target hit by the Sword Guard Mega Minion receives 267 Bleed damage over 3 turns. This effect spreads to nearby enemies.
+types:
+  - Hit All
+  - Sword Guard Mega Minion
+passives:
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://i.imgur.com/uUOX3od.jpg
