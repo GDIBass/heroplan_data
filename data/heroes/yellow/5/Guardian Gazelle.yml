@@ -1,8 +1,8 @@
 name: Guardian Gazelle
-class: Druid
 source: Teltoc
 family: Guardian
 speed: Average
+class: Druid
 power: 780
 attack: 751
 defense: 741
@@ -31,10 +31,10 @@ image: https://i.imgur.com/B2LpVrC.jpg
 costume:
   class: Fighter
   bonuses: 5/5/10/5
-  power: 915
-  attack: 905
-  defense: 873
-  health: 1635
+  power: 938
+  attack: 928
+  defense: 896
+  health: 1698
   skill: Bandalore Dance
   effects:
     - >-
@@ -48,8 +48,8 @@ costume:
     - Reduces all received damage by -30%.
     - Gives immunity to new status effects.
     - >-
-      If the caster is defeated, the dancer receives 112 damage and their mana is
-      reduced by 100.
+      If the caster is defeated, the dancer receives 115 damage and their mana is
+      reduced by 100%.
     - This effect can’t be dispelled, but it gets removed if caster is defeated.
   types:
     - Cleanser

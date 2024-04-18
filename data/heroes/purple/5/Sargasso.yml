@@ -20,17 +20,17 @@ image: https://i.imgur.com/6s6FE8i.jpg
 costume:
   bonuses: 5/5/10/5
   class: Druid
-  power: 897
-  attack: 852
-  defense: 927
-  health: 1534
+  power: 920
+  attack: 874
+  defense: 951
+  health: 1593
   skill: Curse of the Sea
   effects:
     - Deals 415% damage to the target and minor damage to nearby enemies.
     - >-
       The target and nearby enemies get -100% decrease for any healing received
       for 4 turns.
-    - The target and nearby enemies receive 240 Water damage over 4 turns.
+    - The target and nearby enemies receive 248 Water damage over 4 turns.
   types:
     - Hit 3
     - Healing Debuff

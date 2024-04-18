@@ -1,8 +1,8 @@
 name: Rumpelstiltskin
-class: Sorcerer
 source: Fables
 family: Grimforest
 speed: Average
+class: Sorcerer
 power: 767
 attack: 733
 defense: 698
@@ -25,10 +25,10 @@ image: https://i.imgur.com/v7aCbsm.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 900
-  attack: 845
-  defense: 826
-  health: 1777
+  power: 923
+  attack: 867
+  defense: 847
+  health: 1845
   skill: Twilight Tricks
   effects:
     - 'Draw a card for a special effect:'
@@ -38,7 +38,7 @@ costume:
       lower than 30% of the original max health.
     - >-
       * All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison 
-      deals 67 Poison damage and lowers the target’s mana generation by -9% each 
+      deals 69 Poison damage and lowers the target’s mana generation by -9% each 
       turn.
     - Cross
     - '* Boosts health of all allies by 620. Boosted health can exceed max HP.'
