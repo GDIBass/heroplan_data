@@ -1,8 +1,8 @@
 name: Anne
-class: Fighter
-speed: Fast
 source: Pirates
 family: Pirate
+class: Fighter
+speed: Fast
 power: 835
 attack: 819
 defense: 797

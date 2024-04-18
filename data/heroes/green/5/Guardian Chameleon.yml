@@ -1,7 +1,8 @@
 name: Guardian Chameleon
-class: Wizard
 source: Teltoc
+family: Guardian
 speed: Average
+class: Wizard
 power: 780
 attack: 714
 defense: 780
@@ -17,5 +18,4 @@ types:
   - Attack Buff
   - Critical Buff
   - Element Change
-family: Guardian
 image: https://i.imgur.com/Q04Vvnt.jpg

@@ -1,8 +1,8 @@
 name: Guinevere
-class: Wizard
 source: Avalon
 family: Avalon
 speed: Average
+class: Wizard
 power: 765
 attack: 669
 defense: 778
@@ -19,10 +19,10 @@ image: https://i.imgur.com/dYjW9Xa.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 898
-  attack: 734
-  defense: 934
-  health: 1822
+  power: 921
+  attack: 753
+  defense: 958
+  health: 1892
   skill: Word of the Skies
   effects:
     - Reduces the mana of the target and nearby enemies by 25%.

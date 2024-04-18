@@ -22,10 +22,10 @@ image: https://i.imgur.com/ODUCn9s.jpg
 costume:
   bonuses: 5/5/10/5
   class: Druid
-  power: 915
-  attack: 881
-  defense: 866
-  health: 1713
+  power: 939
+  attack: 903
+  defense: 889
+  health: 1779
   skill: Avenger of Mothkind
   effects:
     - >-
@@ -33,7 +33,7 @@ costume:
       there is only one enemy alive, the damage is doubled.
     - >-
       The enemies on the edges of the enemy formation receive Corrosive Poison
-      for 3 turns. The Corrosive Poison deals 136 Poison damage and lowers the
+      for 3 turns. The Corrosive Poison deals 153 Poison damage and lowers the
       target's mana generation by -12% each turn. This effect can't be cleansed.
   types:
     - Hit 2

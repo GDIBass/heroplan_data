@@ -25,10 +25,10 @@ image: https://i.imgur.com/12RLqSK.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 905
-  attack: 689
-  defense: 917
-  health: 2021
+  power: 929
+  attack: 706
+  defense: 940
+  health: 2099
   skill: Loving Queen
   effects:
     - Deals 200% damage to the target and nearby enemies.

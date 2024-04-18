@@ -23,10 +23,10 @@ image: https://i.imgur.com/6so0gHz.jpg
 costume:
   class: Wizard
   bonuses: 5/5/10/5
-  power: 917
-  attack: 730
-  defense: 978
-  health: 1882
+  power: 941
+  attack: 748
+  defense: 1003
+  health: 1954
   skill: But a Scratch
   effects:
     - The caster has a 50% chance to drop any received damage to 1 for 4 turns.

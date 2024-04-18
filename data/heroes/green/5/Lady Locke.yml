@@ -1,8 +1,8 @@
 name: Lady Locke
-class: Sorcerer
 source: Pirates
 family: Pirate
 speed: Average
+class: Sorcerer
 power: 765
 attack: 805
 defense: 665
@@ -20,15 +20,15 @@ image: https://i.imgur.com/rSEO0Xi.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 896
-  attack: 941
-  defense: 778
-  health: 1600
+  power: 919
+  attack: 966
+  defense: 798
+  health: 1661
   skill: Serenade of Sedition
   effects:
     - Deals 120% damage to the target and minor damage to nearby enemies.
     - >-
-      The target and nearby enemies receive 1090 damage over 4 turns, starting
+      The target and nearby enemies receive 1118 damage over 4 turns, starting
       low and increasing with every turn.
     - Cleanses status ailments from all allies.
   types:
@@ -38,5 +38,5 @@ costume:
   passives:
     - >-
       Poison on Special Skill: When this character casts their Special Skill, 
-      all enemies receive 524 Poison damage over 4 turns.
+      all enemies receive 540 Poison damage over 4 turns.
   image: https://i.imgur.com/mpM0YIf.jpg

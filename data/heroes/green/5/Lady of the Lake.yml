@@ -1,8 +1,8 @@
 name: Lady of the Lake
-class: Sorcerer
 source: Avalon
 family: Avalon
 speed: Slow
+class: Sorcerer
 power: 780
 attack: 756
 defense: 741
@@ -22,10 +22,10 @@ image: https://i.imgur.com/hlRFlMx.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 915
-  attack: 871
-  defense: 876
-  health: 1718
+  power: 939
+  attack: 894
+  defense: 898
+  health: 1784
   skill: Blessed Blades
   effects:
     - Boosts health of all allies by 550. Boosted health can exceed max HP.

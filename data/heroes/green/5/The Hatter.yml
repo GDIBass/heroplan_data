@@ -1,8 +1,8 @@
 name: The Hatter
-class: Cleric
 source: Wonderland
 family: Wonderland
 speed: Average
+class: Cleric
 power: 768
 attack: 735
 defense: 710
@@ -17,3 +17,23 @@ types:
   - Hit 3
   - Buff Stealer
 image: https://i.imgur.com/Fs3u4wr.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 926
+  attack: 901
+  defense: 840
+  health: 1790
+  skill: Mad Tea Party
+  effects:
+    - Deals 400% damage to the target and minor damage to nearby enemies.
+    - Steals all the dispellable buffs from all enemies and randomly allocates them on the allies.
+    - Summons a Playing Card Minion with 25% HP and 40% attack inherited from the caster.
+  types:
+    - Hit 3
+    - Buff Stealer
+    - Minion
+  passives:
+    - >-
+      Mindless Attack on Special Skill: When this character casts their Special Skill, they have a 50% chance to give Mindless Attack for 3 turns to a random enemy.
+  image: https://i.imgur.com/SDtr1yp.jpg
