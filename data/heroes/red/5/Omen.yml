@@ -1,0 +1,25 @@
+name: Omen
+source: secretsummon
+family: cultist
+speed: Fast
+class: Sorcerer
+power: 1031
+attack: 1089
+defense: 1025
+health: 1751
+skill: Ritual of the Deep
+effects:
+  - Deals 500% damage to the target.
+  - Summons an Ominous Tentacle Fiend for the target.
+  - The Ominous Tentacle Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner’s max health.
+  - The Ominous Tentacle Fiend generates clone of itself to nearby enemies after every turn. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend)
+  - The Ominous Tentacle inflicts 5 Insanity to the owner on every turn.
+  - Inflits 50 Instanity to the caster.
+types:
+  - Hit 1
+  - Fiend
+  - Insanity
+passives:
+  - >-
+    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
+image: https://i.imgur.com/lX6ylxv.jpg

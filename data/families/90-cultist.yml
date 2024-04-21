@@ -1,0 +1,8 @@
+key: cultist
+code: 90
+description: Cultist
+image: https://i.imgur.com/8wyf9uS.png
+bonus:
+  - "Bonus for 1 / 2 / 3 Heroes:"
+  - "* +20% / +30% / +40% defense"
+  - "* +20% / +30% / +40% health"
