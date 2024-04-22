@@ -1,0 +1,29 @@
+name: Grilka
+source: SuperElemental
+family: SuperElemental
+speed: Slow
+class: Cleric
+power: 1039
+attack: 1007
+defense: 1081
+health: 1854
+skill: Holy Hibiscus Ale
+effects:
+  - If there’s 8 or more Holy shields on the board, then all effects cast in this Special Skill are undispellable.
+  - The caster get Taunt that prevents enemies from using Special Skils on the caster’s allies for 5 turns.
+  - All allies regenerate 1300 boosted health over 5 turns. Boosted health can exceed max HP.
+  - All allies get +44% mana generation for 5 turns.
+types:
+  - Taunt
+  - BHoT
+  - Mana generation buff
+passives:
+  - >-
+    Passive Skill as attacking character: This hero’s Troops deal extra 
+    elemental damage against weaker element.
+  - ' - Dealt extra elemental damage: +100%'
+  - >-
+    Passive Skill as defending character: This hero receives less elemental 
+    damage from Troops of stronger element.
+  - ' - Received elemental damage: -10%'
+image: https://i.imgur.com/71dNXYj.jpg
