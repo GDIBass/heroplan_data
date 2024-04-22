@@ -1,0 +1,26 @@
+name: Voidstar
+source: BlackFriday
+family: AstralElves
+speed: Average
+class: Paladin
+power: 1041
+attack: 1003
+defense: 1114
+health: 1814
+skill: Paragon of Constellations
+effects:
+  - This Special Skill never misses its targets.
+  - Deals 620% damage to the target.
+  - Heals all allies for 40% of the damage dealt.
+  - All allies get +74% defense against Special Skills for 4 turns.
+types:
+  - Hit 1
+  - Healer
+  - Special Skill Defense Buff
+passives:
+  - >-
+    Resist Poison: This character has innate resistance against Poison.
+  - >-
+    Share Received Damage: 20% of damage received by this charater is shared 
+    with other allies.
+image: https://i.imgur.com/ry0GZRR.jpg
