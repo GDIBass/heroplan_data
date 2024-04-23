@@ -1,9 +1,9 @@
 name: Max
-family: Pets
 source: Pets
-class: Druid
+family: Pets
 speed: Slow
-power: 837
+class: Druid
+power: 875
 attack: 836
 defense: 867
 health: 1540
@@ -21,9 +21,7 @@ types:
   - Summoner
 passives:
   - >-
-    When a Minion is summoned to any ally, this character gains 5% health and 5%
-    mana. This effect can activate only once per turn.
+    Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   - >-
-    When a Fiend is summoned to any enemy, this character deals 85% damage to
-    all enemies. This effect can activate only once per turn.
+    Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
 image: https://i.imgur.com/V0qUVNH.jpg
