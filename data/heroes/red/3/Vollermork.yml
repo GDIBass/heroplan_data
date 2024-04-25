@@ -1,8 +1,8 @@
 name: Vollermork
-class: Paladin
 source: Season4
 family: Underwild
 speed: Slow
+class: Paladin
 power: 478
 attack: 476
 defense: 514
@@ -16,9 +16,25 @@ effects:
     The Worm Fiend absorbs healing and disappears when it has absorbed health
     equal to 16% of the targets max health
 types:
-  - Fiend
+  - Fiends
 passives:
   - >-
-    Start Battle with Mana: This character receives 20% mana at the start
-    of the battle.
+    Start Battle with Mana: This character receives 20% mana at the start of the battle.
 image: https://i.imgur.com/mAw3KL3.jpg
+costume:
+  bonuses: 2/2/4/1
+  class: Druid
+  power: 488
+  attack: 485
+  defense: 515
+  health: 782
+  skill: Leeching Worms
+  effects:
+    - Summons a Worm Fiend for all enemies. The fiend damages the enemy with 28% attack every turn.
+    - The fiend absorbs healing. It disappears after absorbing a healing equal to 20% of the target’s max health.
+  types:
+    - Fiends
+  passives:
+    - >-
+      Start Battle with Mana: This character receives 20% mana at the start of the battle.
+  image: https://i.imgur.com/RK5dZz5.jpg
