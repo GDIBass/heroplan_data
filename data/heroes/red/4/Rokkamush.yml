@@ -1,8 +1,8 @@
 name: Rokkamush
-class: Barbarian
 source: Season4
 family: Underwild
 speed: Fast
+class: Barbarian
 power: 677
 attack: 707
 defense: 658
@@ -16,6 +16,23 @@ types:
   - DoT All
 passives:
   - >-
-    Decrease Ailment Duration: Duration of the first 3 status ailments this
-    character receives from Special Skill is decreased by 1 turn.
+    Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
 image: https://i.imgur.com/dOWSQgd.jpg
+costume:
+  bonuses: 2/2/4/1
+  class: Fighter
+  power: 692
+  attack: 725
+  defense: 678
+  health: 1168
+  skill: Mason’s Rage
+  effects:
+    - Deals 175% damage to all enemies. Each hit has 80% accuracy.
+    - All hit enemies receive 200 bleed damage over 4 turns. 
+  types:
+    - Hit All
+    - DoT All
+  passives:
+    - >-
+      Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
+  image: https://i.imgur.com/AXlFl5t.jpg

@@ -1,8 +1,8 @@
 name: Hannah
-class: Druid
 source: Season4
 family: Underwild
 speed: Fast
+class: Druid
 power: 807
 attack: 780
 defense: 747
@@ -24,6 +24,27 @@ types:
   - Fiend
 passives:
   - >-
-    Start Battle with Mana: This character receives 20% mana at the start
-    of the battle.
+    Start Battle with Mana: This character receives 20% mana at the start of the battle.
 image: https://i.imgur.com/adxVUbU.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 918
+  attack: 896
+  defense: 835
+  health: 1759
+  skill: Delicious Idol
+  effects:
+    - Deals 225% damage to the target and nearby enemies.
+    - Summons a Golden Idol Fiend for the target and nearby enemies. The Fiend damages the enemy with 36% attack every turn.
+    - The Golden Idol Fiend absorbs healing. It disappears after absorbing a healing amount equal to 28% of its target’s max health.
+    - When summoned, the Golden Idol Fiend gives -20% attack for its owner for as long as the owner has Golden Idol Fiends. This effect can’t be cleansed.
+  types:
+    - Hit 3
+    - Fiends
+  passives:
+    - >-
+      Start Battle With Mana: This Hero receives 20% mana at the start of the battle.
+    - >-
+      Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attacks and Special Skills damage against targets with boosted health for 4 turns.
+  image: https://i.imgur.com/uhuj4Z5.jpg
