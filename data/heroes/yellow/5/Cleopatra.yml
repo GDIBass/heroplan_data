@@ -18,8 +18,31 @@ types:
   - Status Ailment Immunity
 passives:
   - >-
-    Effects on Special Skill: 60% chance to perform the following actions when
-    this character casts their Special Skill
-  - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
-  - ' * Cleanses the latest cleansable status ailment from all allies.'
+    Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+    * Boosts health of all allies by 10%. Boosted health can exceed max HP.
+    * Cleanses the latest cleansable status ailment from all allies.
 image: https://i.imgur.com/pyEHRBi.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 980
+  attack: 846
+  defense: 975
+  health: 2046
+  skill: Channeler of the Cats
+  effects:
+    - Recovers 60% health for all allies.
+    - All allies are immune to new status ailments for 3 turns, and recover 360 health for each attempted status ailment.
+  types:
+    - Healer
+    - Status Ailment Immunity
+  passives:
+    - >-
+      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+      * Boosts health of all allies by 10%. Boosted health can exceed max HP.
+      * Cleanses the latest cleansable status ailment from all allies.
+    - >-
+      Guaranteed Effect on Special Skill: When this character casts their Special Skill that grant extra effect on cast are guaranteed to activate.
+    - >-
+      Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack.
+  image: https://i.imgur.com/BWI4O98.jpg

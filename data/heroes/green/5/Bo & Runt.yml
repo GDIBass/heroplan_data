@@ -1,0 +1,25 @@
+name: Bo & Runt
+source: Hotm
+family: 2024
+speed: Fast
+class: Ranger
+power: 944
+attack: 1021
+defense: 887
+health: 1528
+skill: Command the Pack
+effects:
+  - Deals 400% damage to the target.
+  - Deals additional 25% damage for each Minion owned by the allies, up to 600% damage in total.
+  - Summons a Loyal Hound Minion for the caster with 35% HP and 35% attack inherited from the caster.
+  - When summoned the Loyal Hound Minion give +50% attack for tis owner as long as the owner has Loyal Hound Minions. This effect can’t be dispelled.
+  - Element Link gives all Nature allies +5% dodge chance for 3 turns. This effect cannot be dispelled.
+types:
+  - Hit 1
+  - Minion  
+passives:
+  - >-
+    Resist Minion Removal: This character has innate resistance against Minion removal.
+  - >-
+    Mana on Minion Summon: When a Minion is summoned to an ally, this character gains 5% mana. This effect can activate only once per turn.
+image: https://i.imgur.com/6gRA2M6.jpg
