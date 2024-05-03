@@ -1,7 +1,8 @@
 name: Zocc
-class: Rogue
 source: Hotm
+family: 2020
 speed: Average
+class: Rogue
 power: 775
 attack: 739
 defense: 725
@@ -21,7 +22,5 @@ types:
   - Mindless Attack
 passives:
   - >-
-    Resist Water Damage – This character has an innate resistance against Water
-    damage.
+    Resist Water Damage: This character has an innate resistance against Water damage.
 image: https://i.imgur.com/XA1fhlp.jpg
-family: 2020
