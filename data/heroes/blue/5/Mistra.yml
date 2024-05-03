@@ -1,0 +1,27 @@
+name: Mistra
+class: Druid    
+source: tavernoflegends
+family: champions
+speed: Slow
+power: 1042
+attack: 999
+defense: 1102
+health: 1854
+skill: Cut Down the Competition
+effects:
+  - Deals 350% damage to all enemies.
+  - If the target is Average mana speed, deals an additional 50% damage.
+  - If the target is Fast mana speed, deals an additional 100% damage.
+  - If the target is Very Fast mana speed, deals an additional 150% damage. (In Rush Attack tournaments and wars enemies are considered as Very Fast mana speed. All monsters are considered as Average mana speed.
+  - Heals all allies for 10% of damage dealt.
+types:
+  - Hit All
+  - Healer
+passives:
+  - >-
+    Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.
+  - >-
+    Damage on Enemy Special: If a target is Average mana speed or faster casts a Special Skill, all enemies receive 100 damage. This effect can activate only once per turn.
+  - >-
+    Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
+image: https://i.imgur.com/NaHaaPY.jpg
