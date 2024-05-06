@@ -1,8 +1,8 @@
 name: Isarnia
-class: Wizard
 source: Season1
 family: Classic
 speed: Slow
+class: Wizard
 power: 755
 attack: 797
 defense: 655
@@ -49,3 +49,22 @@ costume2:
     - Hit All
     - Attack Debuff
   image: https://i.imgur.com/wccczud.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 1050
+  attack: 1083
+  defense: 950
+  health: 2004
+  skill: Toon Shatter
+  effects:
+    - Deals 385% damage to all enemies.
+    - All enemies get -34% defense for 6 turns.
+    - Deals extra damage against Fire.
+  types:
+    - Hit All
+    - Defense Debuff
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/mFs5DrO.jpg

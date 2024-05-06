@@ -46,4 +46,22 @@ costume2:
     - Dispeller
     - Hit all
   image: https://i.imgur.com/6XbZQ2N.jpg
-  
+costume3:
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 747
+  attack: 641
+  defense: 742
+  health: 1648
+  skill: Toon Pulverizer
+  effects:
+    - Deals 325% damage to the target and minor damage to nearby enemies.
+    - The target and nearby enemies get -24% attack for 6 turns.
+    - Deals extra damage against Nature.
+  types:
+    - Hit 3
+    - Defense Debuff
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/WFeaXms.jpg

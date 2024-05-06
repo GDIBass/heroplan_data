@@ -1,0 +1,21 @@
+name: Little John Toon Costume
+source: Season1
+family: Classic
+speed: Slow
+class: Barbarian
+power: 744
+attack: 842
+defense: 696
+health: 1212
+skill: Toontastic Chop
+effects:
+  - Deals 215% damage to all enemies.
+  - All enemies get -54% mana generation for 3 turns.
+  - Deals extra damage against Ice.
+types:
+  - Hit All
+  - Mana Generation Debuff
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/8mWGMUp.jpg

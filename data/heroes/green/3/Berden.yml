@@ -1,8 +1,8 @@
 name: Berden
-class: Ranger
 source: Season1
 family: Classic
 speed: Fast
+class: Ranger
 power: 444
 attack: 470
 defense: 425
@@ -12,7 +12,7 @@ effects:
   - Deals 325% damage to the target
   - The target gets -34% attack for 6 turns
 types:
-  - Hot 1
+  - Hit 1
   - Attack Debuff
 image: https://i.imgur.com/VjExjHL.jpg
 costume:
@@ -30,3 +30,22 @@ costume:
     - Hit 1
     - Defense Debuff
   image: https://i.imgur.com/H6Orhln.jpg
+costume2:
+  bonuses: 5/5/10/5
+  class: Ranger
+  power: 506
+  attack: 542
+  defense: 488
+  health: 825
+  skill: Toontastic Shot
+  effects:
+    - Deals 330% damage to the target.
+    - The target gets -24% attack for 6 turns.
+    - Deals extra damage against Ice.
+  types:
+    - Hit 1
+    - Attack Debuff
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/JqQwQQo.jpg
