@@ -28,3 +28,21 @@ costume:
     - HOT
     - Attack Buff
   image: https://i.imgur.com/FY7tylo.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 488
+  attack: 521
+  defense: 496
+  health: 732
+  skill: Toon Prayer
+  effects:
+    - Recovers 35% health for all allies.
+    - All allies get +34% defense for 3 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer.
+  types:
+    - Healer
+    - Defense Buff
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/hDOgs06.jpg

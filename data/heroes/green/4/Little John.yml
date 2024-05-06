@@ -1,8 +1,8 @@
 name: Little John
-class: Barbarian
 source: Season1
 family: Classic
 speed: Slow
+class: Barbarian
 power: 641
 attack: 741
 defense: 569
@@ -49,3 +49,22 @@ costume2:
     - Hit all
     - Mana Generation Buff
   image: https://i.imgur.com/pBSZGi6.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 744
+  attack: 842
+  defense: 696
+  health: 1212
+  skill: Toontastic Chop
+  effects:
+    - Deals 215% damage to all enemies.
+    - All enemies get -54% mana generation for 3 turns.
+    - Deals extra damage against Ice.
+  types:
+    - Hit All
+    - Mana Generation Debuff
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/8mWGMUp.jpg
