@@ -28,7 +28,7 @@ costume:
     - HOT
     - Attack Buff
   image: https://i.imgur.com/FY7tylo.jpg
-costume:
+costume2:
   bonuses: 5/5/10/5
   class: Cleric
   power: 488
