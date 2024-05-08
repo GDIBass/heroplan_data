@@ -1,0 +1,19 @@
+name: Eron
+source: owltower
+family: owl
+speed: Fast
+class: Sorcerer
+power: 1046
+attack: 1106
+defense: 1071
+health: 1678
+skill: Song of Hoot and Holler
+effects:
+  - Attacks the target with Moonrise Strike, dealing up to 2180 damage. Deals 40% more damage if the target is Holy.
+  - The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and duration is refreshed.
+  - All enemies get -35% defense for 4 turns.  
+types:
+  - Hit 1
+  - Mindless Attack
+  - Defense debuff
+image: https://i.imgur.com/THCrCkN.jpg
