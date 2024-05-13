@@ -3,21 +3,20 @@ class: Rogue
 source: Gargoyle
 family: Gargoyle
 speed: Average
-power: 835
+power: 850
 attack: 824
 defense: 805
 health: 1514
 skill: Heretic Slayer
 effects:
   - Deals 650% damage to the target.
-  - If the target dies, the exceed damage is dealt to each nearby enemy.
-  - The target and nearby enemies get -40% attack for 3 turns.
+  - If the target is defeated, the excess damage is dealt to each nearby enemy.
+  - The target and nearby enemies get -40% attack for 4 turns.
 types:
   - Hit 1
   - Chain
-  - Attack Debuff
+  - Attack Debuff 3
 passives:
   - >-
-    Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The
-    next damage they receive is dropped to 1. This effect can't be dispelled.
+    Gargoyle's Stoneskin: Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The next 4 times they receive  damage, it is dropped to 1. This effect can't be dispelled.
 image: https://i.imgur.com/5yPwJb7.jpg
