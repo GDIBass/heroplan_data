@@ -1,30 +1,25 @@
 name: Garten
-class: Sorcerer
 source: Blackfriday
 family: Gargoyle
 speed: Average
-power: 1005
-attack: 1007
-defense: 1042
-health: 1689
+class: Sorcerer
+power: 1000
+attack: 1048
+defense: 1083
+health: 1812
 skill: Bone Club Party
 effects:
-  - >-
-    Reduces max health of all enemies by 700. The effect is stronger against 
+  - Boosts health of all allies by 700. Boosted health can exceed max HP.
+  - Reduces max health of all enemies by 700. The effect is stronger against 
     targets with boosted health. (Max health can’t get lower than 30% of the 
     original max health. Any boosted health is reduced by an additional 700.
-  - >-
-    All allies counterattack with 115% of the damage received, and received 
-    50% of counterattack damage as boosted health for 4 turns.
-  - >-
-    All allies are immune to new status ailments that affect healing for 4 turns.
-    Removes status ailments that affect healing from allies.
+  - All allies except the caster receive Softskin. The next time they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled.
+  - All allies are immune to new status ailments that affect healing for 4 turns. Removes status ailments that affect healing from allies.
 types:
   - Health reduction
   - Counterattack
 passives:
   - >-
     Gargoyle’s Softskin: Every time this Gargoyle casts a Special SKill, their 
-    Softskin activates. Softskin resists 4 mana reductions for this gargoyle. 
-    This effect can’t be dispelled.
+    Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled.
 image: https://i.imgur.com/8K8mMLw.jpg

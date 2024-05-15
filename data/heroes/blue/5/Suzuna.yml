@@ -14,7 +14,7 @@ effects:
     The caster and nearby allies reflect status ailments and negative stacks 
     for 3 turns. Status effects casts by characters, Minions and fiends on the
     same side cannot be reflected.
-  - The caster and nearby allies regenerate 600 HP over 3 turns.
+  - The caster and nearby allies regenerate 750 HP over 3 turns.
   - >-
     Element Link recovers 4% health for all Ice allies for 4 turns. This effect
     can't be dispelled.

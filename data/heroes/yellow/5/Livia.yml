@@ -3,10 +3,10 @@ class: Paladin
 speed: Average
 source: owltower
 family: owl
-power: 1002
-attack: 927
-defense: 1038
-health: 1874
+power: 1000
+attack: 970
+defense: 1081
+health: 2004
 skill: Rites of Inner Knowledge
 effects:
   - Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.

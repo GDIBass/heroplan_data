@@ -3,14 +3,14 @@ class: Cleric
 speed: Fast
 source: owltower
 family: owl
-power: 1017
-attack: 1032
-defense: 1048
-health: 1701
+power: 1000
+attack: 1060
+defense: 1079
+health: 1781
 skill: Healing Mirror
 effects:
   - Boosts health of all allies by 700. Boosted health can exceed max HP.
-  - All allies get Moonrise Ward for 3 turns, that reduces incoming Special Skill damage by -600. Reduces damage by additional 30% when attacker is Holy. 
+  - All allies get Moonrise Ward for 3 turns, that reduces incoming Special Skill damage by -700. Reduces damage by additional 30% when attacker is Holy. 
   - Cleanses status ailments from all allies.
 types:
   - Healer
