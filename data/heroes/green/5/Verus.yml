@@ -3,14 +3,14 @@ source: owltower
 family: owl
 speed: Average
 class: Ranger
-power: 1019
-attack: 1048
-defense: 1019
-health: 1732
+power: 1000
+attack: 1075
+defense: 1046
+health: 1812
 skill: Swooping Talon
 effects:
-  - Attacks all enemies with Moonrise Strike, dealing up to 1000 damage. Deals 40% more damage if the target is Holy.
-  - All enemies receive 900 Bleed damage over 4 turns.
+  - Attacks all enemies with Moonrise Strike, dealing up to 1200 damage. Deals 40% more damage if the target is Holy.
+  - All enemies receive 924 Bleed damage over 4 turns.
   - All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
 types:
   - Hit All
