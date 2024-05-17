@@ -1,0 +1,22 @@
+name: Uwe
+source: Gargoyle
+family: Gargoyle
+speed: Slow
+class: Wizard
+power: 1049
+attack: 1077
+defense: 1060
+health: 1792
+skill: Chain Blast Strike
+effects:
+  - Deals 850% damage to the target.
+  - If the target has less than 50% health before receiving damage, targets another enemy who had less than 50% health before receiving any damage from this Special Skill. If none of the other enemies have 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
+  - If the hit enemies use their Special Skill in the next 3 turns, they get 725 poison damage for 5 turns. This effect is uncleansable. (Status effects are added at the end of a Special Skill. Status effects will not be added if this status effects is removed during a Special Skill.)
+types:
+  - Hit 1
+  - Chain
+passives:
+  - >-
+    Gargoyle’s Softskin: Every time this Gargoyle casts a Special SKill, their 
+    Softskin activates. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled.
+image: https://i.imgur.com/KNSk9mz.jpg
