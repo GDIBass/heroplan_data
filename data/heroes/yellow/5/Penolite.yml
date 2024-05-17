@@ -1,9 +1,9 @@
 name: Penolite
-class: Ranger
 source: Blackfriday
 family: Gargoyle
 speed: Average
-power: 826
+class: Ranger
+power: 841
 attack: 832
 defense: 762
 health: 1516
@@ -17,6 +17,5 @@ types:
   - Healing debuff
 passives:
   - >-
-    Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The
-    next damage they receive is dropped to 1. This effect can't be dispelled.
+    Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can't be dispelled.
 image: https://i.imgur.com/ifFiCU7.jpg

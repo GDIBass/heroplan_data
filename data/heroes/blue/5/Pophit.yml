@@ -3,13 +3,13 @@ source: Blackfriday
 family: Gargoyle
 speed: Fast
 class: Wizard
-power: 1000
+power: 1048
 attack: 1079
 defense: 1067
 health: 1767
 skill: One-Hit Wonder
 effects:
-  - The target and nearby enemies get -30% defense for 3 turns. If the effect is removed before the duration ends, the target with the effect suffers 643 damage.
+  - The target and nearby enemies get -30% defense for 3 turns. If the effect is removed before the duration ends, the target with the effect suffers 668 damage.
   - Deals 390% damage to the target and nearby enemies.
   - Nearby allies receive Softskin. The next time they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled.
 types:

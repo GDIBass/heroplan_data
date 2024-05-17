@@ -3,7 +3,7 @@ source: Blackfriday
 family: Gargoyle
 speed: Average
 class: Sorcerer
-power: 1000
+power: 1048
 attack: 1048
 defense: 1083
 health: 1812
@@ -13,11 +13,13 @@ effects:
   - Reduces max health of all enemies by 700. The effect is stronger against 
     targets with boosted health. (Max health can’t get lower than 30% of the 
     original max health. Any boosted health is reduced by an additional 700.
-  - All allies except the caster receive Softskin. The next time they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled.
+  - All allies except the caster receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled.)
   - All allies are immune to new status ailments that affect healing for 4 turns. Removes status ailments that affect healing from allies.
 types:
+  - Overhealer
   - Health reduction
-  - Counterattack
+  - Softskin 4
+  - Healing debuff imunity
 passives:
   - >-
     Gargoyle’s Softskin: Every time this Gargoyle casts a Special SKill, their 
