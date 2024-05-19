@@ -1,0 +1,28 @@
+name: Scoria
+source: Covenant
+family: construct
+speed: Average
+class: Fighter
+power: 1049
+attack: 1046
+defense: 1005
+health: 1981
+skill: Cauterizing Touch
+effects:
+  - Deals 420% damage to the enemy with the highest HP. Deals 300% damage to all other enemies.
+  - The enemy that had the highest remaining HP gets silenced for 3 turns.
+  - 'Wither: All enemies get -350 attack.'
+types:
+  - Hit All
+  - Silence 1
+  - Wither
+passives:
+  - >- 
+    Corrosive Core: The Construct Core of this character is Corrosive Core.
+    The Corrosive Core activates each time this character’s Special Skill is cast:
+    * All enemies receive Corrosive Poison for 3 turns. With a fully charged 
+      Corrosive Core, the Corrosive Poision deals 146 Poison damage and lowers 
+      the target’s mana generation by -13% each turn.
+    * The poison damage is scaled by the amount of charge in the Core. 
+      All charge is exhausted when the Core is activated.
+image: https://i.imgur.com/wqf6SNR.jpg
