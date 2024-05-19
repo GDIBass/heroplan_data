@@ -14,4 +14,7 @@ effects:
     700 damage. Deals 20% more damage if the target is Holy.
 types:
   - Hit 3
+passives:
+  - >-
+    Mana Increase Reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
 image: https://i.imgur.com/zCCCscJ.jpg
