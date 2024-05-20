@@ -1,0 +1,28 @@
+name: Craum
+source: SuperElemental
+family: SuperElemental
+speed: Average
+class: Druid
+power: 1049
+attack: 1027
+defense: 1079
+health: 1876
+skill: Call of the Elements
+effects:
+  - Recovers 800 boosted health for all allies.
+  - Recovers additional 50 boosted heath for each Nature shield, up to 1400.
+  - All Ice enemies receive 972 Sand damage over 4 turns.
+  - All Fire enemies receive 972 Water damage over 4 turns.
+  - All Dark enemies receive 972 Burn damage over 4 turns.
+  - All Holy enemies receive 972 Poison damage over 4 turns.
+types:
+  - Healer
+  - DoT
+passives:
+  - >-
+    Troop Mastery: This Passive Skill has two different functions based on if this character is in attack or in defense.
+  - >-
+    Passive Skill as attacking character: This character’s Troops deal +100% more additional damage against weaker element.
+  - >-
+    Passive Skill as defending character: This character receives -10% less additional damage from Troops of stronger element.
+image: https://i.imgur.com/GyN20JL.jpg
