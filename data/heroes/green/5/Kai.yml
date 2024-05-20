@@ -1,29 +1,24 @@
 name: Kai
-class: Rogue
+source: Covenant
+family: PlainsHunter
 speed: Very Fast
+class: Rogue
 power: 888
 attack: 889
 defense: 832
 health: 1569
 skill: Mantis Strike
-family: PlainsHunter
-source: Covenant
 effects:
   - Deals 435% damage to the target.
-  - >-
-    Summons a Bone Trap Fiend for the target. The Fiend damages the enemy with
-    45% attack each turn. The damage increases by 8% each turn, up to a maximum
-    of 93%.
-  - >-
-    The Bone Trap Fiend absorbs healing and disappears when it has absorbed
-    health equal to 35% of its owner’s max health.
+  - Summons a Bone Trap Fiend for the target. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.
+  - The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health.
   - The target gets -50% decrease of any healing received for 3 turns.
   - Dispels buffs from the target at the end of each turn for 3 turns
 types:
   - Hit 1
-  - Summoner
-  - Dispeller
+  - Fiend
   - Healing Debuff
+  - Dispeller
 passives:
   - >-
     Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.

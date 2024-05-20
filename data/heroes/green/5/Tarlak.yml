@@ -1,8 +1,8 @@
 name: Tarlak
-class: Monk
 source: Season2
 family: Lagoon
 speed: Average
+class: Monk
 power: 773
 attack: 824
 defense: 667
@@ -14,8 +14,8 @@ effects:
     effects up to a maximum of +160% normal attack
   - All allies regenerate 324 HP over 4 turns
 types:
-  - Healer
   - Titan Attack Buff
+  - Heal over Time
 image: https://i.imgur.com/VmIENFl.jpg
 costume:
   bonuses: 5/5/10/5

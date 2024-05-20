@@ -1,27 +1,24 @@
 name: Roz
-class: Ranger
-speed: Fast
 source: SuperElemental
 family: SuperElemental
-power: 840
+speed: Fast
+class: Ranger
+power: 950
 attack: 920
 defense: 889
 health: 1818
 skill: Elemental Infusion Arrow
 effects:
   - Deals 530% damage to the target.
-  - >-
-    If there are 6 or more Nature shields on the board damage is dealt to the
-    target and nearby enemies.
-  - >-
-    If there are 12 or more Nature shields on the board damage is dealt to all
-    enemies.
+  - If there are 6 or more Nature shields on the board damage is dealt to the target and nearby enemies.
+  - If there are 12 or more Nature shields on the board damage is dealt to all enemies.
 types:
-  - Hit 1
-  - Hit 3
-  - Hit All
+  - Hit 1, 3 or All
 passives:
-  - This Passive Skill has two different functions based on if this character is in attack or in defense.
-  - 'Passive Skill as attacking character: This character’s Troops deal 100% more additional damage against weaker element.'
-  - 'Passive Skill as defending character: This character receives 10% less additional damage from Troops of stronger element.'
+  - >-
+    Troop Mastery: This Passive Skill has two different functions based on if this character is in attack or in defense.
+  - >-
+    Passive Skill as attacking character: This character’s Troops deal +100% more additional damage against weaker element.
+  - >-
+    Passive Skill as defending character: This character receives -10% less additional damage from Troops of stronger element.
 image: https://i.imgur.com/5xvOFq1.jpg

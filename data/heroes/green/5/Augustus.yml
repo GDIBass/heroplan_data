@@ -1,9 +1,9 @@
 name: Augustus
-class: Druid
 source: Christmas
 family: Christmas
 speed: Slow
-power: 836
+class: Druid
+power: 851
 attack: 793
 defense: 846
 health: 1516
@@ -11,15 +11,9 @@ skill: Wisdom of the Gnomes
 effects:
   - Cleanses status ailments from all allies.
   - Boosts health for all allies by 690. Boosted health can exceed max HP.
-  - >-
-    Boosts health by additional 30 per each Nature shield on the board, up to
-    930 boosted health.
-  - >-
-    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from
-    the caster.
-  - >-
-    All allies get +34% defense and a further 6% increase per each Nature
-    shields on the board for 5 turns, up to +82% defense.
+  - Boosts health by additional 30 per each Nature shield on the board, up to 930 boosted health.
+  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+  - All allies get +34% defense and a further 6% increase per each Nature shields on the board for 5 turns, up to +82% defense.
 types:
   - Cleanser
   - Health Boost

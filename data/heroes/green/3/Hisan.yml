@@ -1,7 +1,8 @@
 name: Hisan
-class: Wizard
 source: Sand
+family: Sand
 speed: Fast
+class: Wizard
 power: 448
 attack: 540
 defense: 391
@@ -13,10 +14,9 @@ effects:
   - >-
     The target gets -100% increase for any healing received for 2 turns. This
     effect can't be cleansed
-  - Dispels status ailments from the caster
+  - Cleanses status ailments from the caster
 types:
   - Hit 1
   - Dot 1
   - Healing Debuff
-family: Sand
 image: https://i.imgur.com/YmBbafl.jpg

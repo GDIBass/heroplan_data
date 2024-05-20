@@ -1,8 +1,8 @@
 name: Yunan
-class: Fighter
 source: Sand
 family: Sand
 speed: Slow
+class: Fighter
 power: 770
 attack: 618
 defense: 815
@@ -10,16 +10,16 @@ health: 1437
 skill: Sand Storm
 effects:
   - Deals 200% damage to all enemies
-  - All enemies receive 399 damage over 3 turns
-  - >-
-    All enemies get -50% increase for any healing received for 3 turns. 
-    This effect can't be cleansed.
+  - All enemies receive 381 damage over 3 turns
+  - All enemies get -50% increase for any healing received for 3 turns.  This effect can't be cleansed.
   - Dispels status ailments from all allies.
 types:
   - Hit All
   - DOT All
   - Healing Debuff
+image: https://i.imgur.com/jUayUm6.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Paladin
   power: 795
   attack: 659
@@ -36,5 +36,3 @@ costume:
     - Dot all
     - Cleanser
   image: https://i.imgur.com/vpqf6zq.jpg
-  bonuses: 3/3/6/1
-image: https://i.imgur.com/jUayUm6.jpg

@@ -4,7 +4,7 @@ description: Asgard
 image: https://i.imgur.com/WH4jFxU.png
 bonus:
   - "Bonus for 1/2/3 Unique Heroes:"
-  - "All allies gain 10%/15%/20% mana when an Asgard Hero dies"
+  - "All allies gain 10%/15%/20% mana when an Asgard Hero is defeated"
 bonuscostume-5star: 16/16/28/5
 bonuscostume-4star: 3/3/6/1
 bonuscostume-3star: 

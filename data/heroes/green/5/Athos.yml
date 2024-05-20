@@ -1,12 +1,12 @@
 name: Athos
 source: Musketeer
-class: Monk
 family: Musketeer
 speed: Very Fast
-power: 844
-attack: 879
-defense: 762
-health: 1666
+class: Monk
+power: 864
+attack: 865
+defense: 747
+health: 1623
 skill: Piercing Shot
 effects:
   - Destroys all Minions from the target.
@@ -20,7 +20,5 @@ types:
   - Bypass
 passives:
   - >-
-    When this character receives damage from Special Skills or in place of a
-    character in Cover, there’s a 60% chance of deal 20% of the received damage
-    on all enemies.
+    Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage to all enemies.
 image: https://i.imgur.com/HvsiBgn.jpg

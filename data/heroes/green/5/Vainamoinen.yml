@@ -1,24 +1,20 @@
 name: Vainamoinen
-class: Sorcerer
-speed: Fast
-family: Kalevala
 source: Kalevala
-power: 827
+family: Kalevala
+speed: Fast
+class: Sorcerer
+power: 837
 attack: 799
 defense: 807
 health: 1481
 skill: Song of the Morass
 effects:
   - Deals 270% damage to the target and nearby enemies.
-  - >-
-    All enemies get -30% accuracy for 3 turns. Chance to miss also applies to
-    offensive Special Skills. Against Fire characters, this status effect
-    becomes uncleansable and lasts 2 turns longer.
+  - All enemies get -30% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer. Chance to miss also applies to offensive Special Skills. 
 types:
   - Hit 3
   - Accuracy debuff
 passives:
   - >-
-    When this character starts a turn with low health for the first time during
-    a battle, they recover 15% health and receive 15% mana.
+    Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/gY0vQZu.jpg

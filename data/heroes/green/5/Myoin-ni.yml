@@ -1,9 +1,9 @@
 name: Myoin-ni
-class: Druid
 source: Ninja
 family: Ninja
 speed: Charge
-power: 848
+class: Druid
+power: 873
 attack: 817
 defense: 894
 health: 1516

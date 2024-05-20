@@ -3,26 +3,20 @@ family: PlainsHunter
 source: Covenant
 class: Barbarian
 speed: Average
-power: 837
+power: 886
 attack: 819
 defense: 883
 health: 1629
 skill: Demolishing Crush
 effects:
-  - Deals 345% damage to the target and nearby enemies.
-  - >-
-    All damage the target and nearby enemies receives is increased by +45% for 4
-    turns.
+  - Deals 360% damage to the target and nearby enemies.
+  - All damage the target and nearby enemies receives is increased by +50% for 4 turns.
 types:
   - Hit 3
   - Damage Receive Debuff
 passives:
   - >-
-    When this character casts their Special Skill, they give a Hunter’s Mark on
-    a random enemy. The target receives 150 damage over 3 turns. If a target
-    already has this effect, the duration will be refreshed and the damage will
-    be increased by 150, up to 1500 damage in total.
+    Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
   - >-
-    This character has a 10% chance to drop the direct damage received from
-    Special Skills to 1.
+    Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
 image: https://i.imgur.com/pL7PYXM.jpg

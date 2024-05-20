@@ -3,22 +3,19 @@ source: Springvale
 family: Springvale
 speed: Fast
 class: Wizard
-power: 845
-attack: 875
-defense: 832
-health: 1474
+power: 865
+attack: 871
+defense: 828
+health: 1458
 skill: Fabled Llama Ballad
 effects:
   - Deal 250% damage to all enemies.
-  - >-
-    All enemies are immune to new status effect buffs for 4 turns, 
-    and receive 150 damage for each attempted buff.
-  - >-
-    The caster gets -10% accuracy for 4 turns. This effect can't be cleansed. 
-    Chance to miss also applies to offensive Special Skills.
+  - All enemies are immune to new status effect buffs for 4 turns, and receive 150 damage for each attempted buff.
+  - The caster gets -10% accuracy for 4 turns. This effect can't be cleansed. Chance to miss also applies to offensive Special Skills.
 types:
   - Hit All
   - Buff Immunity Debuff
+  - Self Blind
 image: https://i.imgur.com/LIKBIhe.jpg
 costume:
   bonuses: 5/5/10/5
@@ -35,4 +32,5 @@ costume:
   types:
     - Hit All
     - Buff Immunity Debuff
+    - Self Blind
   image: https://i.imgur.com/NhdULEq.jpg
