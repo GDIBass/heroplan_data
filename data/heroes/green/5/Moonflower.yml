@@ -1,15 +1,15 @@
 name: Moonflower
-class: Druid
 source: BlackFriday
 family: AstralElves
 speed: Fast
+class: Druid
 power: 1014
 attack: 994
 defense: 1073
 health: 1720
 skill: Leafglow Bloom
 effects:
-  - After an enemy casts their Special Skill during the next 3 turns, this character deals 235% damage to all enemies.
+  - For the next 3 turns, this character deals 235% damage to all enemies after an enemy casts their Special Skill.
   - All allies get +35% mana generation for 3 turns.
 types:
   - Hit All
@@ -18,6 +18,5 @@ passives:
   - >-
     Resist Poison: This character has innate resistance against Poison.
   - >-
-    Share Received Damage: 20% of damage received by this charater is shared 
-    with other allies.
+    Share Received Damage: 20% of damage received by this charater is shared with other allies.
 image: https://i.imgur.com/0xgP0mx.jpg

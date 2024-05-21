@@ -1,32 +1,26 @@
 name: Xandrella
-class: Sorcerer
-speed: Average
 source: SuperElemental
 family: SuperElemental
-power: 840
+speed: Average
+class: Sorcerer
+power: 900
 attack: 844
 defense: 854
 health: 1724
 skill: Staff of Mana Control
 effects:
   - Deals 450% damage to target and all Ice enemies.
-  - >-
-    Automatically does 407 damage to the target and all Ice enemies, when their
-    mana is full and reduces their mana by 50% for 4 turns.
-  - >-
-    Alters the power of all Nature shields on the board. When an attacking Hero
-    casts the special, the shields become enhanced and give +37% more mana. When
-    a defending Hero casts the special, the shields become weakened and give
-    -30% less mana.
+  - Automatically does 438 damage to the target and all Ice enemies, when their mana is full and reduces their mana by 50% for 4 turns.
+  - Alters the power of all Nature shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
 types:
   - Hit 1
   - Hit Blue
   - Shield Enhance
 passives:
   - >-
-    This character’s Troops deal 100% more additional damage against weaker
-    element.
+    Troop Mastery: This Passive Skill has two different functions based on if this character is in attack or in defense.
   - >-
-    This character receives 10% less additional damage from Troops of stronger
-    element.
+    Passive Skill as attacking character: This character’s Troops deal +100% more additional damage against weaker element.
+  - >-
+    Passive Skill as defending character: This character receives -10% less additional damage from Troops of stronger element.
 image: https://i.imgur.com/KaW9HIP.jpg

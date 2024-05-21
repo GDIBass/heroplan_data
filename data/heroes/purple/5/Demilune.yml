@@ -1,0 +1,25 @@
+name: Demilune
+source: BlackFriday
+family: AstralElves
+speed: Fast
+class: Wizard
+power: 1051
+attack: 1095
+defense: 1069
+health: 1744
+skill: Moon Crush Beam
+effects:
+  - The Special Skill never misses its targets.
+  - Deals 495% damage to the target and minor damage to nearby enemies.
+  - Steals all dispellable buffs from the targer and nearby enemies and randomly distributes them on allies.
+  - 'Growth: The caster and nearby allies get 340 attack.'
+types:
+  - Hit 3
+  - Buff steal 3
+  - Growth
+passives:
+  - >-
+    Resist Poison: This character has innate resistance against Poison.
+  - >-
+    Share Received Damage: 20% of damage received by this charater is shared  with other allies.
+image: https://i.imgur.com/h0XJ3CG.jpg

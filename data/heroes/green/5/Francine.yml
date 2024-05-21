@@ -1,15 +1,15 @@
 name: Francine
-class: Rogue
 source: Morlovia
 family: Morlovia
 speed: Fast
+class: Rogue
 power: 795
 attack: 780
 defense: 743
 health: 1353
 skill: Electric Cut
 effects:
-  - Deals 225% damage to the target ane nearby enemies.
+  - Deals 225% damage to the target and nearby enemies.
   - Cleanses status ailments from all allies at the end of each turn for 3 turns.
   - Deals extra damage against Ice.
 types:
@@ -17,9 +17,7 @@ types:
   - Cleanser
 passives:
   - >-
-    Steal Buff - When this character casts their Special Skill, they have a 50% 
-    chance to steal the newest dispellable buff from a random enemy that has buffs. 
-    If no enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/jBtXWpz.jpg
 costume:
   bonuses: 5/5/10/5
@@ -31,9 +29,7 @@ costume:
   skill: Electric Stab
   effects:
     - Deals 225% damage to the target and nearby enemies.
-    - >-
-      Cleanses status ailments from all allies at the end of each turn for 3
-      turns. This effect can't be dispelled.
+    - Cleanses status ailments from all allies at the end of each turn for 3 turns. This effect can't be dispelled.
     - All Ice enemies get -54% defense against Nature for 3 turns.
   types:
     - Hit 3

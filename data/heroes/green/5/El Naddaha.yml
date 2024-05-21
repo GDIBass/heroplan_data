@@ -1,25 +1,22 @@
 name: El Naddaha
 source: Season5
-class: Wizard
 family: Moon
 speed: Fast
+class: Wizard
 power: 858
 attack: 852
 defense: 797
 health: 1514
 skill: Luring Song
 effects:
-  - Deals 305% damage to the target and minor damage to nearby enemies.
-  - >-
-    The target and nearby enemies are immune to new status effect buff for 3
-    turns, and receive 200 damage for each attempted buff.
+  - Deals 305% damage to the target and nearby enemies.
+  - The target and nearby enemies are immune to new status effect buff for 3 turns, and receive 200 damage for each attempted buff.
 types:
   - Hit 3
   - Buff Immunity
 passives:
   - >-
-    Effects on Special Skill: 50% chance to perform the following actions when
-    this character casts their Special Skill
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * Dispels the latest dispellable buff from enemies.'
 image: https://i.imgur.com/IdGJmNB.jpg

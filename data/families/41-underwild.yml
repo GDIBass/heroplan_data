@@ -4,7 +4,7 @@ description: Underwild
 image: https://i.imgur.com/XH6RVMi.png
 bonus:
   - "Bonus for 1/2/3/4/5 Unique Heroes:"
-  - "25%/30%/35%/40%/45% chance to spawn an Underwild Gem on the board when this Hero casts their Special Skill."
+  - "20%/24%/28%/32%/36% chance to spawn an Underwild Gem on the board when this Hero casts their Special Skill."
   - "The Underwild Gems deal 50/35/25 (5*/4*/3*) damage to a random enemy each turn until it is matched."
   - "Underwild Gems can only spawn on regular shields that match the element of this Hero."
 bonuscostume-5star: 17/17/26/5

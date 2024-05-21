@@ -1,9 +1,9 @@
 name: Heimdall
-class: Paladin
 source: Season3
 family: Asgard
 speed: Slow
-power: 784
+class: Paladin
+power: 788
 attack: 655
 defense: 844
 health: 1417

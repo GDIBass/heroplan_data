@@ -1,29 +1,22 @@
 name: Iku-Turso
-class: Druid
-speed: Fast
 family: Kalevala
 source: Kalevala
-power: 826
+speed: Fast
+class: Druid
+power: 836
 attack: 811
 defense: 791
 health: 1474
 skill: Dreaded Waters
 effects:
   - Deals 280% damage to the target and nearby enemies.
-  - >-
-    The target and nearby enemies receive 243 Water damage over 3 turns. Against
-    Fire characters, this status effect becomes uncleansable and lasts 2 turns
-    longer.
-  - >-
-    The caster steals 51% of any healing applied to the target and nearby
-    enemies for 3 turns. Against Fire characters, this status effect becomes
-    uncleansable and lasts 2 turns longer.
+  - The target and nearby enemies receive 243 Water damage over 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  - The caster steals 51% of any healing applied to the target and nearby enemies for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer.
 types:
   - Hit 3
   - Dot 3
   - Healing Steal
 passives:
   - >-
-    When this character starts a turn with low health for the first time during
-    a battle, they recover 15% health and receive 15% mana.
+    Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/wOeJMxg.jpg

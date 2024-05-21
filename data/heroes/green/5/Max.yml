@@ -10,12 +10,8 @@ health: 1540
 skill: Puppy Tales
 effects:
   - Recovers 45% health for all allies.
-  - >-
-    Summons a Brown Puppy Minion for each ally with 35% HP and 55% attack
-    inherited from the caster.
-  - >-
-    All allies reduce all received damage from the attacks and special skills of
-    the stronger enemy by -80% for 5 turns.
+  - Summons a Brown Puppy Minion for each ally with 35% HP and 55% attack inherited from the caster.
+  - All allies reduce all received damage from the attacks and special skills of the stronger enemy by -80% for 5 turns.
 types:
   - Heal All
   - Summoner

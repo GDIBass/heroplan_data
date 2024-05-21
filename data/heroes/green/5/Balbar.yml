@@ -1,7 +1,8 @@
 name: Balbar
-class: Druid
 source: Hotm
+family: 2021
 speed: Average
+class: Druid
 power: 796
 attack: 762
 defense: 756
@@ -12,21 +13,14 @@ effects:
   - The target falls asleep.
   - While asleep, the target can't attack or gain mana.
   - All damage dealt to the sleeping target is increased by +60%.
-  - >-
-    The sleeping target is woken once it takes damage. This excludes damage from
-    minions and fiends.
-  - >-
-    Element Link gives +10% increase for any healing received for all Nature
-    allies for 4 turns. This effect can't be dispelled.
+  - The sleeping target is woken once it takes damage. This excludes damage from minions and fiends.
+  - Element Link gives +10% increase for any healing received for all Nature allies for 4 turns. This effect can't be dispelled.
 types:
   - Sleep
   - Hit 1
 passives:
-  - >- 
-    Health recovery on buff received: This character recovers 5% health when they
-    receive a buff or a positive stack.
   - >-
-    Resist buff immunity: This character has innate resistance against status 
-    ailments that give immunity to new buffs.
+    Resist buff immunity: This character has innate resistance against status ailments that give immunity to new buffs.
+  - >- 
+    Health recovery on buff received: This character recovers 5% health when they receive a buff or a positive stack.
 image: https://i.imgur.com/lTYrovf.jpg
-family: 2021
