@@ -1,8 +1,8 @@
 name: Octros
-class: Fighter
 source: Season4
 family: Underwild
 speed: Average
+class: Fighter
 power: 810
 attack: 762
 defense: 797
@@ -10,41 +10,33 @@ health: 1396
 skill: The Hallowed Blade
 effects:
   - Deals 180% damage to all enemies.
-  - >-
-    Deals 20% additional damage per each Fire shield on the board, up to 340%
-    damage in total.
+  - Deals 20% additional damage per each Fire shield on the board, up to 340% damage in total.
   - All enemies get -24% attack for 3 turns.
 types:
   - Hit all
   - Attack Debuff
 passives:
   - >-
-    Increase Buff Duration: Duration of the first 3 buff this hero receives 
-    from Special Skills is increased by 1 turn.
+    Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.
 image: https://i.imgur.com/zGSnaa1.jpg
 costume:
   bonuses: 5/5/10/5
   class: Rogue
-  power: 920
-  attack: 920
-  defense: 902
-  health: 1581
+  power: 944
+  attack: 953
+  defense: 934
+  health: 1606
   skill: Bouquet of the Seas
   effects:
     - Deals 160% damage to all enemies.
-    - >-
-      Deals additional 35% damage per each Fire shield on the board, 
-      up to 440% damage in total.
+    - Deals additional 35% damage per each Fire shield on the board, up to 440% damage in total.
     - All enemies get -24% attack for 3 turns.
   types:
     - Hit All
     - Attack Debuff
   passives:
     - >-
-      Increase Buff Duration: Duration of the first 3 buff this hero receives 
-      from Special Skills is increased by 1 turn.
+      Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.
     - >-
-      Increased Damage Against Boosted Health: After Special Skill cast, all 
-      allies' normal attacks and Special Skills deal +70% damage against targets 
-      with boosted health for 4 turns.
+      Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns.
   image: https://i.imgur.com/uAzDRXt.jpg

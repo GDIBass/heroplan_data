@@ -1,8 +1,8 @@
 name: Prof Lidenbrock
-class: Cleric
 source: Season4
 family: Underwild
 speed: Slow
+class: Cleric
 power: 806
 attack: 745
 defense: 807
@@ -11,44 +11,35 @@ skill: Glorious Grace
 effects:
   - Cleanses status ailments from all allies.
   - Boosts health of all allies by 200. Boosted health can exceed max HP.
-  - >-
-    All allies regenerate 600 boosted health over 4 turns. Boosted health can 
-    exceed max HP. The effect duration is reset if the target receives status 
-    ailments.
+  - All allies regenerate 600 boosted health over 4 turns. Boosted health can exceed max HP. The effect duration is reset if the target receives status ailments.
 types:
   - Cleanse All
   - Health Boost
   - HOT
 passives:
   - >-
-    Start Battle with Mana: This character receives 20% mana at the start
-    of the battle.
+    Start Battle with Mana: This character receives 20% mana at the start of the battle.
 image: https://i.imgur.com/1q7ZFV3.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 916
-  attack: 837
-  defense: 907
-  health: 1749
+  power: 939
+  attack: 866
+  defense: 939
+  health: 1777
   skill: Dazzling Gleam
   effects:
     - Cleanses status ailments from all allies.
     - Boosts health of all allies by 500. Boosted health can exceed max HP.
-    - >-
-      All allies regenerate 400 boosted health over 4 turns. Boosted health can 
-      exceed max HP. The effect duration is reset if the target receives status 
-      ailments.
+    - All allies regenerate 400 boosted health over 4 turns. Boosted health can exceed max HP. The effect duration is reset if the target receives status ailments.
   types:
     - Cleanse All
     - Health Boost
     - HOT
   passives:
     - >-
-      Start Battle with Mana: This character receives 20% mana at the start
-      of the battle.
+      Start Battle with Mana: This character receives 20% mana at the start of the battle.
     - >-
-      Health Boost on Special Skill: On Special Skill cast, boosts all allies’ 
-      HP by 10%.
+      Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%.
   image: https://i.imgur.com/CwQ3ejX.jpg
   

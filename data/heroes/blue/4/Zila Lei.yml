@@ -1,27 +1,22 @@
 name: Zila Lei
-class: Rogue
 source: Season4
 family: Underwild
 speed: Fast
+class: Rogue
 power: 677
 attack: 677
 defense: 652
 health: 1234
 skill: Fishbone Blades
 effects:
-  - >-
-    Deals 185% damage to the enemies on the edges of the enemy formation. If
-    there is only one enemy alive, the damage is doubled.
-  - >-
-    The enemies on the edges of the enemy formation get -34% defense for 3
-    turns.
+  - Deals 185% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.
+  - The enemies on the edges of the enemy formation get -34% defense for 3 turns.
 types:
   - Hit 2
   - Defense Down
 passives:
   - >-
-    Increased Special Skill Damage: The first time this character casts a Special
-    Skill that deals damage, an additional 30% is added to its power.
+    Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power.
 image: https://i.imgur.com/AZ3KQGe.jpg
 costume:
   bonuses: 5/5/10/5
@@ -32,15 +27,12 @@ costume:
   health: 1255
   skill: Aquatic Dance
   effects:
-    - >-
-      Deals 215% damage to the enemies on the edges of the enemy formation. 
-      If there is only one enemy alive, the damage is doubled.
+    - Deals 215% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.
     - The enemies on the edges of the enemy formation get -30% defence for 3 turns.
   types:
     - Hit 2
     - Defense Down
   passives:
     - >-
-      Increased Special Skill Damage: The first time this character casts a Special
-      Skill that deals damage, an additional 30% is added to its power.
+      Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power.
   image: https://i.imgur.com/uA3g8LR.jpg

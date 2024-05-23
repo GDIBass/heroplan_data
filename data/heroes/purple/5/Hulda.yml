@@ -9,15 +9,9 @@ defense: 782
 health: 1479
 skill: Pet Larva
 effects:
-  - >-
-    Summons a Larva Minion for each ally with 31% HP inheried from the caster.
-    The Minion recovers 11% health for its owner at the end of each turn.
-  - >-
-    When summoned, the Larva Minion gives +24% mana generation for its owner 
-    for as long as the owner has Larva Minions. This effect can't be dispelled.
-  - >-
-    When summoned, the Larva Minion gives +54% defense for is owner for as long 
-    as the owner has Larva Minions. This effect can't be dispelled.
+  - Summons a Larva Minion for each ally with 31% HP inheried from the caster. The Minion recovers 11% health for its owner at the end of each turn.
+  - When summoned, the Larva Minion gives +24% mana generation for its owner for as long as the owner has Larva Minions. This effect can't be dispelled.
+  - When summoned, the Larva Minion gives +54% defense for is owner for as long as the owner has Larva Minions. This effect can't be dispelled.
 types:
   - Summoner
 passives:
@@ -27,10 +21,10 @@ image: https://i.imgur.com/J9OOPtS.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 928
-  attack: 854
-  defense: 907
-  health: 1793
+  power: 952
+  attack: 884
+  defense: 939
+  health: 1821
   skill: Larva Prescription
   effects:
     - Summons a Larva Minion for each ally with 36% HP inherited from the caster. The Minion recovers 15% health for its owner at the end of each turn.

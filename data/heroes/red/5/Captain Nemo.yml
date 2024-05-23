@@ -1,8 +1,8 @@
 name: Captain Nemo
-class: Fighter
 source: Season4
 family: Underwild
 speed: Fast
+class: Fighter
 power: 809
 attack: 821
 defense: 751
@@ -19,10 +19,10 @@ image: https://i.imgur.com/lNl4PPg.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 918
-  attack: 940
-  defense: 854
-  health: 1613
+  power: 942
+  attack: 973
+  defense: 884
+  health: 1639
   skill: Machinist’s Cutlass
   effects:
     - Deals 370% damage to the target.
@@ -31,10 +31,7 @@ costume:
     - Hit 1
   passives:
     - >-
-      Start Battle with Mana: This character receives 20% mana at the start
-      of the battle.
+      Start Battle with Mana: This character receives 20% mana at the start of the battle.
     - >-
-      Increased Damage Against Boosted Health: After Special Skill cast, all 
-      allies’ normal attacks and Special Skills deal +70% damage against targets 
-      with boosted health for 4 turns.
+      Increased Damage Against Boosted Health: After Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns.
   image: https://i.imgur.com/UjiSmNx.jpg

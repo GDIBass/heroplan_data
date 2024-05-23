@@ -1,61 +1,48 @@
 name: Lepiota
-class: Sorcerer
 source: Season4
 family: Underwild
 speed: Fast
+class: Sorcerer
 power: 806
 attack: 780
 defense: 778
 health: 1359
 skill: Abyssal Incantation
 effects:
-  - >-
-    Removes all status effects and stacks from the target. Removes even status
-    effects and stacks that are otherwise undispellable or uncleansable.
+  - Removes all status effects and stacks from the target. Removes even status effects and stacks that are otherwise undispellable or uncleansable.
   - Deals 158% damage to the target.
   - The target shifts into Abyss Ghost form.
   - While in Abyss Ghost form the target receives 88 damage each turn.
-  - >-
-    While in Abyss Ghost form thtarget can't gain mana and can't be healed by
-    special skills, but is immune to normal attacks, Special Skill attacks,
-    status effects and stacks.
+  - While in Abyss Ghost form thtarget can't gain mana and can't be healed by special skills, but is immune to normal attacks, Special Skill attacks, status effects and stacks.
   - Abyss Ghost form lasts for 4 turns.
   - Last enemy left in the battle can't be shifted to Abyss Ghost form.
 types:
   - Abyss Ghost
 passives:
   - >-
-    Special Skill Damage Reduction: Received damage from Special Skills is 
-    reduced by -20% for this character.
+    Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
 image: https://i.imgur.com/eea7u0v.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 915
-  attack: 854
-  defense: 896
-  health: 1716
+  power: 937
+  attack: 884
+  defense: 927
+  health: 1743
   skill: Undying Incantation
   effects:
-    - >-
-      Removes all status effects and stacks from the target. Removes even status
-      effects and stacks that are otherwise undispellable or uncleansable.
+    - Removes all status effects and stacks from the target. Removes even status effects and stacks that are otherwise undispellable or uncleansable.
     - Deals 150% damage to the target.
     - The target shifts into Abyss Ghost form.
-    - While in Abyss Ghost form the target receives 147 damage each turn.
-    - >-
-      While in Abyss Ghost form thtarget can't gain mana and can't be healed by
-      Special Skills, but is immune to normal attacks, Special Skill attacks,
-      status effects and stacks.
+    - While in Abyss Ghost form the target receives 164 damage each turn.
+    - While in Abyss Ghost form thtarget can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, status effects and stacks.
     - Abyss Ghost form lasts for 4 turns.
     - Last enemy left in the battle can't be shifted to Abyss Ghost form.
   types:
     - Abyss Ghost
   passives:
     - >-
-      Special Skill Damage Reduction: Received damage from Special Skills is 
-      reduced by -20% for this character.
+      Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
     - >-
-      Health Boost on Special Skill: On Special Skill cast, boosts all allies’ 
-      HP by 10%.
+      Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%.
   image: https://i.imgur.com/MgzgOOM.jpg
