@@ -1,30 +1,51 @@
 name: Morris
-class: Fighter
 source: Season4
 family: Underwild
 speed: Average
+class: Fighter
 power: 478
 attack: 507
 defense: 483
 health: 721
 skill: Dig a Hole
 effects:
-  - >-
-    Removes all status effects and stacks from the caster. Removes even status
-    effects and stacsk that are otherwise undispellable or uncleansable.
-  - Caster digas a hole and hides in it for 2 turns.
-  - >-
-    While in the hole, the caster can't gain mana but is immune to normal
-    attacks, special attacks, and all status effects.
-  - >-
-    After 2 turns the caster jumps out of the hole and heals 223 damage to a
+  - Removes all status effects and stacks from the caster. Removes even status effects and stacsk that are otherwise undispellable or uncleansable.
+  - Caster digs a hole and hides in it for 2 turns.
+  - While in the hole, the caster can't gain mana but is immune to normal attacks, special attacks, and all status effects.
+  - After 2 turns the caster jumps out of the hole and heals 223 damage to a
     random enemy.
   - 'The hit enemy receives the following status ailment:'
   - ' * The target can`t gain mana for 2 turns.'
 types:
-  - Hole
+  - Self clean
+  - Hole digger
+  - Hit 1
+  - Mana Gain Freeze 1
 passives:
   - >-
-    Decrease Ailment Duration: Duration of the first 3 status ailments this
-    character receives from Special Skill is decreased by 1 turn.
+    Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
 image: https://i.imgur.com/RXYQ548.jpg
+costume:
+  bonuses: 2/2/4/1
+  class: Paladin
+  power: 488
+  attack: 492
+  defense: 512
+  health: 771
+  skill: Carve a Hole
+  effects:
+    - Removes all status effects and stacks from the caster. Removes even those status effects and stacks that are otherwise undispellable or uncleansable.
+    - Caster digs a hole and hides in it for 3 turns.
+    - While in the hole, the caster can’t gain mana, and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, status effects and stacks.
+    - After 3 turns, the caster jumps out from the hole and deals 143 damage to a random enemy.
+    - 'The hit enemy receives the following status ailment:'
+    - The target can’t gain mana for 3 turns.
+  types:
+    - Self clean
+    - Hole digger
+    - Hit 1
+    - Mana Gain Freeze
+  passives:
+    - >-
+      Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
+  image: https://i.imgur.com/CrJaSuf.jpg

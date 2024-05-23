@@ -1,7 +1,8 @@
 name: Mnesseus
-class: Cleric
 source: Season2
+family: Atlantis
 speed: Fast
+class: Cleric
 power: 448
 attack: 474
 defense: 431
@@ -13,9 +14,9 @@ effects:
 types:
   - Hit 1
   - Dispeller
-family: Atlantis
 image: https://i.imgur.com/psLsMhk.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Paladin
   power: 462
   attack: 500
@@ -29,4 +30,3 @@ costume:
     - Hit 1
     - Cleanser
   image: https://i.imgur.com/vAbeKFm.jpg
-  bonuses: 3/3/6/1

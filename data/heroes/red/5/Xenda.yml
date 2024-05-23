@@ -1,8 +1,8 @@
 name: Xenda
 source: Season4
-class: Fighter
 family: Underwild
 speed: Average
+class: Fighter
 power: 852
 attack: 834
 defense: 803
@@ -10,19 +10,35 @@ health: 1507
 skill: Underworld Blaze
 effects:
   - Deals 250% damage to all enemies.
-  - >-
-    All enemies receive 300 Burn damage over 4 turns. The caster absorbs 15% of
-    dealt Burn damage as health.
-  - >-
-    The caster steals generated mana of all enemies over 4 turns starting low
-    and increasing every turn until on the last turn all the generated mana is
-    stolen.
+  - All enemies receive 300 Burn damage over 4 turns. The caster absorbs 15% of dealt Burn damage as health.
+  - The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.
 types:
   - Hit All
   - Dot All
   - Mana steal
 passives:
   - >-
-    Special Skill Damage Reduction: Received damage from Special Skills is 
-    reduced by -20% for this character.
+    Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
 image: https://i.imgur.com/pr4mBGS.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 995
+  attack: 966
+  defense: 951
+  health: 1901
+  skill: Underworld Flame
+  effects:
+    - Deals 230% damage to all enemies.
+    - All enemies receive 424 Burn damage over 4 turns. The caster absorbs 20% of dealt Burn damage as health.
+    - The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.
+  types:
+    - Hit All
+    - Dot All
+    - Mana steal
+  passives:
+    - >-
+      Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
+    - >-
+      Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns.
+  image: https://i.imgur.com/QhwvGtU.jpg

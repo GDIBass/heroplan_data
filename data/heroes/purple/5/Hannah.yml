@@ -10,15 +10,9 @@ health: 1433
 skill: Corrupting Idol
 effects:
   - Deals 215% damage to the target and narby enemies.
-  - >-
-    Summons a Golden Idol Field for the target and nearby enemies. The Fiend
-    damages the enemy with 43% attack every turn.
-  - >-
-    The Golden Idol Fiend absorbs healing and disappears when it has absorbed
-    health equal to 20% of its owners max health.
-  - >-
-    The Golden Idol Fiend gives -20% attack for its owner as long as the owner
-    has Golden Idol Fiends. This effect cannot be cleansed.
+  - Summons a Golden Idol Field for the target and nearby enemies. The Fiend damages the enemy with 43% attack every turn.
+  - The Golden Idol Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owners max health.
+  - The Golden Idol Fiend gives -20% attack for its owner as long as the owner has Golden Idol Fiends. This effect cannot be cleansed.
 types:
   - Hit 3
   - Fiend
@@ -29,10 +23,10 @@ image: https://i.imgur.com/adxVUbU.jpg
 costume:
   bonuses: 5/5/10/5
   class: Rogue
-  power: 918
-  attack: 896
-  defense: 835
-  health: 1759
+  power: 941
+  attack: 927
+  defense: 864
+  health: 1787
   skill: Delicious Idol
   effects:
     - Deals 225% damage to the target and nearby enemies.
@@ -41,7 +35,7 @@ costume:
     - When summoned, the Golden Idol Fiend gives -20% attack for its owner for as long as the owner has Golden Idol Fiends. This effect can’t be cleansed.
   types:
     - Hit 3
-    - Fiends
+    - Fiends 3
   passives:
     - >-
       Start Battle With Mana: This Hero receives 20% mana at the start of the battle.

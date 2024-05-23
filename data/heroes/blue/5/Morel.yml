@@ -1,8 +1,8 @@
 name: Morel
-class: Ranger
 source: Season4
 family: Underwild
 speed: Fast
+class: Ranger
 power: 807
 attack: 772
 defense: 745
@@ -16,16 +16,15 @@ types:
   - Defense Debuff
 passives:
   - >-
-    The first time this character casts a Special Skill that does damage, 
-    an additional 30% is added to its power.
+    Increased Special Skill Damage: The first time this character casts a Special Skill that does damage, an additional 30% is added to its power.
 image: https://i.imgur.com/BbpdvD9.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 917
-  attack: 931
-  defense: 769
-  health: 1798
+  power: 941
+  attack: 964
+  defense: 796
+  health: 1827
   skill: Staff of the Seastar
   effects:
     - Deals 145% damage to all enemies.
@@ -37,10 +36,7 @@ costume:
     - Healer 
   passives:
     - >-
-      Increased Special Skill Damage: This first time this character cast a 
-      Special Skill that deals damage an additional 30% is added to its power.
+      Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.
     - >-
-      Increased Damage Against Boosted Health: After Special Skill cast, all 
-      allies' normal attacks and Special Skills deal +70% damage against targets 
-      with boosted health for 4 turns.
+      Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns.
   image: https://i.imgur.com/MAsmJsS.jpg

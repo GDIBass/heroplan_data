@@ -1,8 +1,8 @@
 name: Russula
-class: Rogue
 source: Season4
 family: Underwild
 speed: Very Fast
+class: Rogue
 power: 807
 attack: 793
 defense: 782
@@ -11,46 +11,34 @@ skill: Vengeful Backstab
 effects:
   - Deals 330% damage to the target.
   - The caster goes into hiding for 2 turns.
-  - >-
-    While hidden, the caster can't receive new status effects or stacks and all
-    received damage is reduced by -30%.
-  - >-
-    When the caster comes out of hiding, it deals 277 damage to all enemies that
-    used Special SKills while it was hiding.
+  - While hidden, the caster can't receive new status effects or stacks and all received damage is reduced by -30%.
+  - When the caster comes out of hiding, it deals 277 damage to all enemies that used Special SKills while it was hiding.
 types:
   - Hit 1
   - Hiding
 passives:
   - >-
-    Decrease Ailment Duration: Duration of the first 3 status ailments this
-    character receives from Special Skill is decreased by 1 turn.
+    Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
 image: https://i.imgur.com/MqnrIZ3.jpg
 costume:
   bonuses: 5/5/10/5
   class: Ranger
-  power: 916
-  attack: 916
-  defense: 883
-  health: 1595
+  power: 939
+  attack: 948
+  defense: 914
+  health: 1621
   skill: Artful Backstab
   effects:
     - Deals 300% damage to the target.
     - The caster goes into hiding for 2 turns.
-    - >-
-      While hidden, the caster can’t receive new status effects or stacks,
-      and all received damage is reduced by -30%.
-    - >-
-      When the caster comes out of hiding, it deals 357 damage to all enemies 
-      that used Special Skills while the caster was hiding.
+    - While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -30%.
+    - When the caster comes out of hiding, it deals 369 damage to all enemies that used Special Skills while the caster was hiding.
   types:
     - Hit 1
     - Hiding
   passives:
     - >-
-      Decrease Ailment Duration: Duration of the first 3 status ailments this
-      character receives from Special Skill is decreased by 1 turn.
+      Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
     - >-
-      Increased Damage Against Boosted Health: After this character casts their 
-      Special Skill cast, all allies’ normal attacks and Special Skills deal 
-      +70% damage against targets with boosted health for 3 turns.
+      Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 3 turns.
   image: https://i.imgur.com/KzLvPms.jpg

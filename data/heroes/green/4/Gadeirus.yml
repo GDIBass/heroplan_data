@@ -1,7 +1,8 @@
 name: Gadeirus
-class: Druid
 source: Season2
+family: Atlantis
 speed: Slow
+class: Druid
 power: 647
 attack: 618
 defense: 690
@@ -15,9 +16,9 @@ types:
   - Hit 3
   - Attack Buff
   - HOT
-family: Atlantis
 image: https://i.imgur.com/dGtM0Hw.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Paladin
   power: 668
   attack: 612
@@ -27,12 +28,9 @@ costume:
   effects:
     - Deals 130% damage to all enemies.
     - All allies get +48% attack for 4 turns.
-    - >-
-      All allies regenerate 480 boosted health over 4 turns. Boosted health can
-      exceed max HP.
+    - All allies regenerate 480 boosted health over 4 turns. Boosted health can exceed max HP.
   types:
     - Hit All
     - Attack Buff
     - Regen
   image: https://i.imgur.com/MAOY5JJ.jpg
-  bonuses: 3/3/6/1

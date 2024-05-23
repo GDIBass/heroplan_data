@@ -1,8 +1,8 @@
 name: Phileas Fogg
-class: Fighter
 source: Season4
 family: Underwild
 speed: Fast
+class: Fighter
 power: 807
 attack: 832
 defense: 727
@@ -18,16 +18,15 @@ types:
   - OP
 passives:
   - >-
-    Special Skill Damage Reduction: Received damage from Special Skills is 
-    reduced by -20% for this character.
+    Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
 image: https://i.imgur.com/L3xRyB9.jpg
 costume:
-  class: Barbarian
   bonuses: 5/5/10/5
-  power: 916
-  attack: 923
-  defense: 837
-  health: 1670
+  class: Barbarian
+  power: 939
+  attack: 955
+  defense: 866
+  health: 1697
   skill: Innovative Lunge
   effects:
     - Dispels buffs from target.
@@ -39,10 +38,7 @@ costume:
     - Elemental Debuff
   passives:
     - >-
-      Special Skill Damage Reduction: Received damage from Special Skills is 
-      reduced by -20% for this character.
+      Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
     - >-
-      Increased Damage Against Boosted Health: After Special Skill cast, all 
-      allies' normal attacks and Special Skills deal +70% damage against targets 
-      with boosted health for 4 turns.
+      Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns.
   image: https://i.imgur.com/xWb34BS.jpg
