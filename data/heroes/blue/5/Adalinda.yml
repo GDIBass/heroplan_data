@@ -10,13 +10,8 @@ health: 1695
 skill: Hunting Charge
 effects:
   - Deals 395% damage to the target and nearby enemies.
-  - >-
-    Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend
-    damages the enemy with 45% attack every turn. The damage increases by 8%
-    each turn, up to a maximum of 93%.
-  - >-
-    The Bone Trap Fiend absorbs healing and disappears when it has absorbed
-    health equal to 35% of its owner’s max health.
+  - Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack every turn. The damage increases by 8% each turn, up to a maximum of 93%.
+  - The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health.
   - The target and nearby enemies get -56% defense for 4 turns.
 types:
   - Hit 3

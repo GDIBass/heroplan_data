@@ -1,33 +1,26 @@
 name: Ebba
+source: Covenant
+family: PlainsHunter
+speed: Slow
 class: Monk
 power: 887
 attack: 848
 defense: 856
 health: 1617
-family: PlainsHunter
-source: Covenant
-speed: Slow
 skill: Flail Swing
 effects:
   - Deals 585% damage to the target.
-  - >-
-    Deals an additional 260% damage to as many random enemies as there are
-    Fiends owned by enemies. The damage is reduced on each consecutive hit.
-  - >-
-    All hit targets cannot cast any new status effects or stacks on enemies or
-    allies for 4 turns.
+  - Deals an additional 260% damage to as many random enemies as there are Fiends owned by enemies. The damage is reduced on each consecutive hit.
+  - All hit targets cannot cast any new status effects on enemies or allies for 4 turns. (This includes stack. This only includes status effects cast with Special Skill.)
   - All hit targets get -54% attack for 4 turns.
 types:
   - Hit 1
-  - Jump
+  - Chain
+  - Status Effect Block
   - Attack Debuff
 passives:
   - >-
-    Special Skill Damage Reduction: This character has a 10% chance to drop the 
-    direct damage received from Special Skills to 1.
+    Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
   - >-
-    Damage over Time on Special: When this character casts their Special Skill, 
-    they give a Hunter’s Mark on a random enemy. The target receives 150 damage 
-    over 3 turns. If a target already has this effect, the duration will be refreshed
-    and the damage will be increased by 150, up to 1500 damage in total.
+    Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
 image: https://i.imgur.com/TiOunHw.jpg

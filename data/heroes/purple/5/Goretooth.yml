@@ -10,9 +10,7 @@ health: 1518
 skill: Titantooth Blade
 effects:
   - Deals 430% damage to the target.
-  - >-
-    The target gets -45% defense for 2 turns. The defense decreases by -15% each
-    turn, up to -60%.
+  - The target gets -45% defense for 2 turns. The defense decreases by -15% each turn, up to -60%.
   - The target can’t gain mana for 2 turns.
 types:
   - Hit 1
