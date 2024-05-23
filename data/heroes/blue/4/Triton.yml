@@ -1,7 +1,8 @@
 name: Triton
-class: Ranger
 source: Season2
+family: Atlantis
 speed: Fast
+class: Ranger
 power: 652
 attack: 720
 defense: 601
@@ -13,9 +14,9 @@ effects:
 types:
   - Hit 1
   - Healing Buff
-family: Atlantis
 image: https://i.imgur.com/nJsozVv.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Barbarian
   power: 673
   attack: 689
@@ -29,5 +30,4 @@ costume:
     - Hit 1
     - Attack Buff
   image: https://i.imgur.com/Gjfgtlh.jpg
-  bonuses: 3/3/6/1
   

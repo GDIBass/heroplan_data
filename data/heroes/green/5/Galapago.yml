@@ -1,8 +1,8 @@
 name: Galapago
-class: Druid
 source: untoldtales
 family: DefendersofAtlantis
 speed: Changing Tides
+class: Druid
 power: 933
 attack: 803
 defense: 957
@@ -28,5 +28,5 @@ passives:
     Effects on Special Skill
     50% chance to perform the following actions when this character casts their Special Skill
       * Deals 80% damage to all enemies.
-      * All allies get +21% critical chance for 3 turns.
+      * All allies get +21% critical chance for 2 turns.
 image: https://i.imgur.com/pxAZGoS.jpg
