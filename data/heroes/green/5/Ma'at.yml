@@ -24,10 +24,10 @@ image: https://i.imgur.com/Lc6n5Vz.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 979
-  attack: 933
-  defense: 951
-  health: 1869
+  power: 1003
+  attack: 958
+  defense: 976
+  health: 1931
   skill: Protector of the Blue River
   effects:
     - Deals 220% damage to all enemies.

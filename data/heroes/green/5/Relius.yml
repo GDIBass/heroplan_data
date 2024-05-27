@@ -1,8 +1,8 @@
 name: Relius
-class: Druid
-speed: Average
 source: owltower
 family: owl
+speed: Average
+class: Druid
 power: 984
 attack: 947
 defense: 1038
@@ -18,4 +18,7 @@ types:
   - Reviver
   - Healer
   - Damage from SS reducer
+passives:
+  - >-
+    Mana Increase Reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
 image: https://i.imgur.com/6ngbYLA.jpg

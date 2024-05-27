@@ -1,0 +1,26 @@
+name: Abigail
+source: secretsummon
+family: investigator
+speed: Average
+class: Paladin
+power: 1111
+attack: 1060
+defense: 1085
+health: 1792
+skill: Whispers of Xulu
+effects:
+  - Deals 230% damage to all enemies.
+  - Summons a Xulu Minion for each ally with 10% HP and 30% attack inherited from the caster
+  - 'Each hit from a Xulu Minion gives the target the following status ailments:'
+  - ' * The target receives 252 Bleed damage over 4 turns.'
+  - ' * Inflicts 5 Insanity to the target.'
+  - Inflicts 55 Insanity to the caster.
+types:
+  - Hit All
+  - Summoner
+  - DoT
+  - Insanity
+passives:
+  - >-
+    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
+image: https://i.imgur.com/sAavBEB.jpg
