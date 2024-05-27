@@ -1,8 +1,8 @@
 name: Hetepheres
-class: Cleric
 source: Season5
 family: Sun
 speed: Average
+class: Cleric
 power: 869
 attack: 768
 defense: 883
@@ -30,10 +30,10 @@ image: https://i.imgur.com/wdaa6Lv.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 983
-  attack: 865
-  defense: 1002
-  health: 1966
+  power: 1007
+  attack: 888
+  defense: 1028
+  health: 2031
   skill: Relaxing Riddle
   effects:
     - Recovers 54% health for all allies.
