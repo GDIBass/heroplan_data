@@ -1,12 +1,12 @@
 name: Enigmo
-family: Mystery
 source: Blackfriday
-class: Paladin
+family: Mystery
 speed: Average
-power: 838
-attack: 809
-defense: 805
-health: 1464
+class: Paladin
+power: 850
+attack: 824
+defense: 819
+health: 1507
 skill: Absorbed Underlings
 effects:
   - Recovers 25% health for all allies.
