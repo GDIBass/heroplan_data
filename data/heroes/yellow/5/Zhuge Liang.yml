@@ -1,8 +1,8 @@
 name: Zhuge Liang
-class: Sorcerer
 source: Kingdom
 family: Kingdom
 speed: Slow
+class: Sorcerer
 power: 835
 attack: 710
 defense: 879
@@ -26,3 +26,25 @@ types:
   - Summoner
   - Fiend
 image: https://i.imgur.com/jjSBiGT.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 1105
+  attack: 950
+  defense: 1189
+  health: 2248
+  skill: Triumph of Strategy
+  effects:
+    - Summons a Shu Soldier Minion for each ally with 33% HP and 33% attack inherited from the caster.
+    - When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 55% of the damage received as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.
+    - Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages its target with 70% attack every turn.
+    - The Shu Guerrilla Fiend absorbs healing. It disappears after absorbing a healing amount equal to 55% of its target’s max health.
+  types:
+    - Summoner
+    - Fiend
+  passives:
+    - 'Unstoppable Minions:'
+    - ' * Resistance against Minion removal.'
+    - ' * Can’t be prevented from receiving minions.'
+    - ' * Minion attacks and abilities can’t be disabled.'
+  image: https://i.imgur.com/zdjoPv7.jpg
