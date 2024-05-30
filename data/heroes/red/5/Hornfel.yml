@@ -4,9 +4,9 @@ source: Covenant
 family: construct
 speed: Fast
 power: 994
-attack: 964
-defense: 1052
-health: 1699
+attack: 1021
+defense: 1110
+health: 1872
 skill: Bulwark Charge
 effects:
   - Deals 480% damage to the target and minor damage to nearby enemies.

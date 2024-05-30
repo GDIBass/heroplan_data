@@ -1,8 +1,8 @@
 name: Acidfire
-class: Sorcerer
 source: goblinvillage
 family: goblin
 speed: Fast
+class: Sorcerer
 power: 979
 attack: 1034
 defense: 959
@@ -21,7 +21,7 @@ types:
   - Buffs reflect
 passives:
   - >-
-    Effects on Special Skill - 40% chance to perform the following actions when
+    Effects on Special Skill: 40% chance to perform the following actions when
     this character casts their Special Skill.
   - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."

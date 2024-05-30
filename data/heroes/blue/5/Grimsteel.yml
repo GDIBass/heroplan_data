@@ -1,8 +1,8 @@
 name: Grimsteel
-class: Paladin
 source: goblinvillage
 family: goblin
 speed: Slow
+class: Paladin
 power: 1005
 attack: 997
 defense: 1050
@@ -18,7 +18,7 @@ types:
   - Mana generation buff
 passives:
   - >-
-    Effects on Special Skill - 60% chance to perform the following actions when
+    Effects on Special Skill: 60% chance to perform the following actions when
     this character casts their Special Skill.
   - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."

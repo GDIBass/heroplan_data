@@ -11,9 +11,9 @@ skill: Royal Assault
 effects:
   - >-
     Attacks the target and nearby enemies with Moonrise Strike, dealing up to 
-    1240 damage. Deals 40% more damage if the target is Holy.
+    1440 damage. Deals 40% more damage if the target is Holy.
   - >-
-    For 3 turns, reduces the mana of the target and nearby enemies by -10% at 
+    For 3 turns, reduces the mana of the target and nearby enemies by -15% at 
     the end of turn.
   - >-
     The target and nearby enemies get -50% decrease for any healing received 
