@@ -4,9 +4,9 @@ family: cultist
 speed: Slow
 class: Paladin
 power: 1031
-attack: 1009
-defense: 1071
-health: 1884
+attack: 1023
+defense: 1083
+health: 1921
 skill: Grim Awakening
 effects:
   - Revives all allies with 70% HP and 50 Insanity.

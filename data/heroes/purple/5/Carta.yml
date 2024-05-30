@@ -4,14 +4,14 @@ family: construct
 speed: Average
 class: Wizard	
 power: 1040
-attack: 1011
-defense: 1023
-health: 1969
+attack: 1025
+defense: 1038
+health: 2010
 skill: Unerring Course
 effects:
   - Recovers 45% health for all allies.
   - Lifts the latest status ailments from all allies and distributes them on enemies.
-  - All allies get +24% mana generation for 3 turns.
+  - All allies get +33% mana generation for 3 turns.
 types:
   - Healer
   - Cleanser

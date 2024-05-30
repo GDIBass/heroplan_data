@@ -1,8 +1,8 @@
 name: Boom & Fang
-class: Cleric
 source: goblinvillage
 family: goblin
 speed: Average
+class: Cleric
 power: 949
 attack: 891
 defense: 959
@@ -20,7 +20,7 @@ types:
   - Summoner
 passives:
   - >-
-    Effects on Special Skill - 50% chance to perform the following actions when
+    Effects on Special Skill: 50% chance to perform the following actions when
     this character casts their Special Skill.
   - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."

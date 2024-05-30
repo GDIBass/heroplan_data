@@ -1,15 +1,15 @@
 name: Kettle
-class: Cleric
 source: goblinvillage
 family: goblin
 speed: Slow
+class: Cleric
 power: 940
 attack: 949
 defense: 900
 health: 1652
 skill: Dubious Cuisine
 effects:
-  - "Cooks random for special effect (Activation chance for each effect):"
+  - "Cook random foord for special effect (Activation chance for each effect):"
   - "- Exquiste Food (45%)"
   - "  * Recovers 50% health for all allies."
   - "  * Growth: All allies get 400 defense."
@@ -22,7 +22,7 @@ types:
   - Gambler
 passives:
   - >-
-    Effects on Special Skill - 60% chance to perform the following actions when
+    Effects on Special Skill: 60% chance to perform the following actions when
     this character casts their Special Skill.
   - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."

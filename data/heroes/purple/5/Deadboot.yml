@@ -1,8 +1,8 @@
 name: Deadboot
-class: Rogue
 source: goblinvillage
 family: goblin
 speed: Very Fast
+class: Rogue
 power: 940
 attack: 964
 defense: 898
@@ -23,7 +23,7 @@ types:
   - Defense Debuff
 passives:
   - >-
-    Effects on Special Skill - 30% chance to perform the following actions when
+    Effects on Special Skill: 30% chance to perform the following actions when
     this character casts their Special Skill.
   - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."

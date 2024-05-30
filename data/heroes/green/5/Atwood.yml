@@ -10,9 +10,9 @@ health: 1771
 skill: Jewel of the Deep
 effects:
   - Dispels buffs from the target and nearby enemies.
-  - Deals 350% damage and inflicts 55 Insanity to the target and nearby enemies.
+  - Deals 380% damage and inflicts 45 Insanity to the target and nearby enemies.
   - All allies are immune to damage from status ailments for 4 turns.
-  - Inflicts 45 Insanity to the caster.
+  - Inflicts 55 Insanity to the caster.
 types:
   - Dispeller 3
   - Hit 3
