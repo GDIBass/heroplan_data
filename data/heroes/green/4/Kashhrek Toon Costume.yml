@@ -1,0 +1,21 @@
+name: Kashhrek Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Wizard
+power: 748
+attack: 680
+defense: 690
+health: 1659
+skill: Toon Skin
+effects:
+  - Recovers 48% health for the caster and nearby allies.
+  - The caster and nearby allies get +84% defense against Fire for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
+types:
+  - Healer 3
+  - Elemental Defense Buff
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/B48yiIW.jpg

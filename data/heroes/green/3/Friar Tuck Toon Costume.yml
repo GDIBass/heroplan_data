@@ -1,0 +1,21 @@
+name: Friar Tuck Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Monk
+power: 509
+attack: 526
+defense: 520
+health: 817
+skill: Toon’s Faith
+effects:
+  - Recovers 40% health for the caster and nearby allies.
+  - The caster and nearby allies get +12% mana generation for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
+types:
+  - Healer 3
+  - Mana Generation Buff
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/yE4ht6i.jpg

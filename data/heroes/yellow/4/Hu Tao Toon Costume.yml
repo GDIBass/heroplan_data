@@ -1,0 +1,22 @@
+name: Hu Tao Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Fighter
+power: 741
+attack: 745
+defense: 718
+health: 1394
+skill: Toon Wall
+effects:
+  - Deals 240% damage to all enemies.
+  - All enemies get -34% accuracy for 4 turns.
+  - Deals extra damage against Dark.
+types:
+  - Hit All
+  - Blind
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/J3KLB3K.jpg

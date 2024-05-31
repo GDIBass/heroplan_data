@@ -1,8 +1,8 @@
 name: Elena
-class: Fighter
 source: Season1
 family: Classic
 speed: Slow
+class: Fighter
 power: 753
 attack: 809
 defense: 578
@@ -51,3 +51,22 @@ costume2:
     - Hit All
     - Counterattack
   image: https://i.imgur.com/mKIsd5g.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 1107
+  attack: 988
+  defense: 1087
+  health: 2376
+  skill: Wall of Toons
+  effects:
+    - Deals 352% damage to all enemies.
+    - The caster and nearby allies counterattack with 120% of the damage received for 5 turns.
+    - Deals extra damage against Nature.
+  types:
+    - Hit All
+    - Counterattack
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/6Zu6Ag7.jpg
