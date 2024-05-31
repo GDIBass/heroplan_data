@@ -1,4 +1,5 @@
 name: Nashgar Toon Costume
+is_costume: true
 source: Season1
 family: Classic
 speed: Fast
