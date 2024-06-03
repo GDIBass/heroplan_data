@@ -1,7 +1,8 @@
 name: Roc
-class: Barbarian
 source: Sand
+family: Sand
 speed: Average
+class: Barbarian
 power: 789
 attack: 762
 defense: 739
@@ -17,17 +18,17 @@ types:
   - Dot All
   - Healing Debuff
   - Cleanser
-family: Sand
 image: https://i.imgur.com/jRrOk7n.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Fighter
-  power: 814
-  attack: 782
-  defense: 771
-  health: 1427
+  power: 898
+  attack: 874
+  defense: 861
+  health: 1616
   skill: Beach Party
   effects:
-    - All enemies receive 672 Sand damage over 4 turns.
+    - All enemies receive 736 Sand damage over 4 turns.
     - All enemies get -44% defense for 3 turns.
     - Dispells buffs from all enemies.
   types:
@@ -35,4 +36,3 @@ costume:
     - Defense Debuff
     - Dispeller
   image: https://i.imgur.com/wRsoDQK.jpg
-  bonuses: 2/2/4/1

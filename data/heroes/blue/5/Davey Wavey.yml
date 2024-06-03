@@ -1,0 +1,25 @@
+name: Davey Wavey
+source: beachparty
+family: BeachParty
+speed: Average
+class: Fighter
+power: 1016
+attack: 999
+defense: 978
+health: 1917
+skill: Waters of Nourishment
+effects:
+  - All allies regenerate 500 boosted health over 4 turns. Boosted health can exceed max HP. The effect duration resets if the status effect owner is hit with direct damage from a Special Skill.
+  - All allies get +30% defense for 4 turns.
+  - All allies get +20% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.
+types:
+  - HoT
+  - Defense buff
+  - Mana generation buff
+passives:
+  - >-
+    Resist Water Damage: This character has innate resistance against Water Damage.
+  - >-
+    Damage over time on Special: When this character casts their Special Skill,
+    all enemies receive 238 Water damage over 2 turns.
+image: https://i.imgur.com/CndsCrE.jpg

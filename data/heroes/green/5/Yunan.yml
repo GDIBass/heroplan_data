@@ -21,14 +21,14 @@ image: https://i.imgur.com/jUayUm6.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 795
-  attack: 659
-  defense: 818
-  health: 1506
+  power: 877
+  attack: 736
+  defense: 914
+  health: 1705
   skill: Wipeout
   effects:
     - Deals 215% damage to all enemies.
-    - All enemies receive 700 Sand damage over 5 turns.
+    - All enemies receive 765 Sand damage over 5 turns.
     - All allies get +33% mana generation for 5 turns
     - Cleanses status ailments from all allies
   types:
