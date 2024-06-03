@@ -1,7 +1,8 @@
 name: Jabbar
-class: Monk
 source: Sand
+family: Sand
 speed: Average
+class: Monk
 power: 649
 attack: 531
 defense: 690
@@ -18,5 +19,4 @@ types:
   - Hit 3
   - Dot 3
   - Healing Debuff
-family: Sand
 image: https://i.imgur.com/3RqMEeN.jpg

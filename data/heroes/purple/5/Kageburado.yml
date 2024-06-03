@@ -1,8 +1,8 @@
 name: Kageburado
-class: Barbarian
 source: Season2
 family: Sakura
 speed: Very Fast
+class: Barbarian
 power: 772
 attack: 780
 defense: 714
@@ -19,10 +19,10 @@ image: https://i.imgur.com/OUhEZUJ.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 827
-  attack: 813
-  defense: 780
-  health: 1428
+  power: 845
+  attack: 836
+  defense: 801
+  health: 1453
   skill: Beetle Strike
   effects:
     - Dispels buffs from the target.

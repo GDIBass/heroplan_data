@@ -1,7 +1,8 @@
 name: Gafar
-class: Cleric
 source: Sand
+family: Sand
 speed: Fast
+class: Cleric
 power: 649
 attack: 711
 defense: 633
@@ -18,5 +19,4 @@ types:
   - Hit 1
   - DoT 1
   - Healing Debuff
-family: Sand
 image: https://i.imgur.com/xyMaVfi.jpg

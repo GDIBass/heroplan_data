@@ -1,7 +1,8 @@
 name: Ariel
-class: Cleric
 source: Season2
+family: Atlantis
 speed: Average
+class: Cleric
 power: 772
 attack: 731
 defense: 768
@@ -14,15 +15,14 @@ effects:
 types:
   - Healer
   - Cleanser
-family: Atlantis
 image: https://i.imgur.com/WWzsu8l.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 827
-  attack: 795
-  defense: 811
-  health: 1410
+  power: 845
+  attack: 817
+  defense: 833
+  health: 1435
   skill: Deep Sea Ritual
   effects:
     - Boosts health of all allies by 520. Boosted health can exceed max HP.

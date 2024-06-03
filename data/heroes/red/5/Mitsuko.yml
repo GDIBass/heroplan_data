@@ -24,10 +24,10 @@ image: https://i.imgur.com/xMxFVwW.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 832
-  attack: 766
-  defense: 740
-  health: 1658
+  power: 849
+  attack: 787
+  defense: 761
+  health: 1688
   skill: Glaive of Flames
   effects:
     - Deals 230% damage to all enemies.

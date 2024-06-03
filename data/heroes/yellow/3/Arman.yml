@@ -1,7 +1,8 @@
 name: Arman
-class: Fighter
 source: Sand
+family: Sand
 speed: Slow
+class: Fighter
 power: 448
 attack: 477
 defense: 418
@@ -18,5 +19,4 @@ types:
   - Hit All
   - Dot All
   - Healing Debuff
-family: Sand
 image: https://i.imgur.com/N88uqSK.jpg

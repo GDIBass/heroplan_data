@@ -1,7 +1,8 @@
 name: Rana
-class: Monk
 source: Sand
+family: Sand
 speed: Average
+class: Monk
 power: 772
 attack: 735
 defense: 710
@@ -18,16 +19,18 @@ types:
   - Hit 3
   - Dot 3
   - Healing Debuff
+image: https://i.imgur.com/XCRwmmP.jpg
 costume:
+  bonuses: 5/5/10/5
   class: Cleric
-  power: 797
-  attack: 767
-  defense: 748
-  health: 1392
+  power: 879
+  attack: 856
+  defense: 836
+  health: 1576
   skill: Surf's Up
   effects:
     - Deals 185% damage to the target and nearby enemies.
-    - The target and nearby enemies receive 596 Water damage over 4 turns
+    - The target and nearby enemies receive 652 Water damage over 4 turns
     - >-
       The target and nearby enemies get -75% decrease for any healing received
       for 4 turns. This effect can't be cleansed.
@@ -37,6 +40,3 @@ costume:
     - Dot 3
     - Cleanse
   image: https://i.imgur.com/ETB8w9H.jpg
-  bonuses: 3/3/6/1
-family: Sand
-image: https://i.imgur.com/XCRwmmP.jpg

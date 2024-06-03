@@ -1,8 +1,8 @@
 name: Misandra
-class: Fighter
 source: Season2
 family: Lagoon
 speed: Fast
+class: Fighter
 power: 774
 attack: 723
 defense: 751
@@ -22,10 +22,10 @@ image: https://i.imgur.com/YC2DFg3.jpg
 costume:
   bonuses: 5/5/10/5
   class: Rogue
-  power: 831
-  attack: 803
-  defense: 773
-  health: 1493
+  power: 849
+  attack: 826
+  defense: 795
+  health: 1520
   skill: Ipu Drum Chain
   effects:
     - Deals 280% damage to hit targets.
