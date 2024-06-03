@@ -1,0 +1,24 @@
+name: Mazoga
+source: beachparty
+family: BeachParty
+speed: Fast
+class: Ranger
+power: 1018
+attack: 1065
+defense: 966
+health: 1790
+skill: Super Duper Spray
+effects:
+  - Deals 280% damage to the target and nearby enemies.
+  - The target and nearby enemies get -24% defense for 3 turns. The effect duration resets if the character receives status ailments.
+  - Deals extra damage against Ice.
+types:
+  - Hit 3
+  - Defense debuff
+passives:
+  - >-
+    Resist Water Damage: This character has innate resistance against Water Damage.
+  - >-
+    Damage over time on Special: When this character casts their Special Skill,
+    all enemies receive 254 Water damage over 2 turns.
+image: https://i.imgur.com/1FUEzbL.jpg

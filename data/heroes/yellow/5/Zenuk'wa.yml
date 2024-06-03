@@ -1,0 +1,24 @@
+name: Zenuk'wa
+source: beachparty
+family: BeachParty
+speed: Slow
+class: Wizard
+power: 1016
+attack: 992
+defense: 1001
+health: 1889
+skill: Ice Cream Smash
+effects:
+  - Deals 275% damage to target and nearby enemies.
+  - The target and nearby enemies receive 225 damage for each received status ailments for 4 turns.
+  - The caster and nearby allies are immune to new status ailments for 4 turns, and recover 225 health for each attempted status ailment.
+types:
+  - Hit 3
+  - Status ailments immunity
+passives:
+  - >-
+    Resist Water Damage: This character has innate resistance against Water Damage.
+  - >-
+    Damage over time on Special: When this character casts their Special Skill,
+    all enemies receive 238 Water damage over 2 turns.
+image: https://i.imgur.com/wpHKBfv.jpg
