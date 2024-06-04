@@ -1,9 +1,9 @@
 name: Thanatos
-class: Druid
 source: Styx
 family: Styx
 speed: Charge
-power: 836
+class: Druid
+power: 861
 attack: 815
 defense: 852
 health: 1522
@@ -24,7 +24,5 @@ types:
   - Mana Generation
 passives:
   - >-
-    Resist Defense Ailments. This character has innate resistance against status
-    ailments that affect defense. Applies also to status ailments that affect
-    elemental defense.
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
 image: https://i.imgur.com/WM6GD2A.jpg
