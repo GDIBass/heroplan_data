@@ -1,0 +1,24 @@
+name: Siofra
+source: Knights
+family: Stag
+speed: Very Fast
+class: Barbarian
+power: 1060
+attack: 1091
+defense: 1062
+health: 1831
+skill: Gilded Antlers
+effects:
+  - Deals 290% damage to the target and nearby enemies.
+  - The attack bypasses defensive buffs. This includes counterattacks.
+  - The target and nearby enemies get -40% attack for 3 turns. The attack decreases by -5% each turn, up to -50%.
+  - The target and nearby enemies get -80% decrease for any healing received for 3 turns.
+types:
+  - Hit 3
+  - Bypass
+  - Attack debuff 3
+  - Healing debuff
+passives:
+  - >-
+    Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.
+image: https://i.imgur.com/kkNu861.jpg
