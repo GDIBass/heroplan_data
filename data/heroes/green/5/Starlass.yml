@@ -1,0 +1,23 @@
+name: Starlass
+source: BlackFriday
+family: AstralElves
+speed: Slow
+class: Ranger
+power: 1062
+attack: 1032
+defense: 1165
+health: 1788
+skill: Power Wave
+effects:
+  - This Special Skill never misses its targets.
+  - Deals 550% damage to target and nearby enemies
+  - Automatically does 701 damage to the hit enemy and consumes 75% mana from hit enemy every time when the hit enemy’s mana gets full for 3 tuns.
+types:
+  - Hit 3
+  - Mindless Attack
+passives:
+  - >-
+    Resist Poison: This character has innate resistance against Poison.
+  - >-
+    Share Received Damage: 20% of damage received by this charater is shared with other allies.
+image: https://i.imgur.com/VtRf87E.jpg
