@@ -4,14 +4,14 @@ family: cultist
 speed: Fast
 class: Barbarian
 power: 1111
-attack: 1112
-defense: 1054
-health: 1771
+attack: 1118
+defense: 1060
+health: 1790
 skill: Merciless Execution
 effects:
   - This Special Skill never misses its targets.
   - The target get -25% defense for 3 turns.
-  - Deals 500% damage to the target.
+  - Deals 530% damage to the target.
   - If the target is defeated by the attack, then nearby enemies are inficted with 100 Insanity.
   - Inflicts 50 Insanity to the caster.
 types:

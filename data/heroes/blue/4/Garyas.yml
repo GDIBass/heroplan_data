@@ -20,6 +20,5 @@ types:
   - Shield Enhance
 passives:
   - >-
-    Reduces the effect of status ailments affecting attack by 50%. The effect
-    applies to this character and its allies in the battle.
+    Attack Ailment Reduction: Reduces the effect of status ailments affecting attack by -80%. The effect applies to this character and its allies in the battle.
 image: https://i.imgur.com/mGVyqKx.jpg

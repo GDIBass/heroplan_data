@@ -12,11 +12,11 @@ effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'
   - ' * Destroys all Minions from all enemies.'
-  - ' * Deals 250% damage to all enemies.'
+  - ' * Deals 280% damage to all enemies.'
   - ' * All allies get +30% defense for 3 turns.'
   - '2nd:'
   - ' * Destroys all Minions from all enemies.'
-  - ' * Deals 340% damage to all enemies.'
+  - ' * Deals 370% damage to all enemies.'
   - ' * Stack (Max 10): The caster recovers 24 HP each turn for each destroyed Minion.'
   - ' * All allies get +50% defense for 3 turns.'
 types:

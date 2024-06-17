@@ -9,7 +9,7 @@ defense: 951
 health: 1674
 skill: Wrath of the Nine Beaks
 effects:
-  - 150% damage to 9 random enemies.
+  - 160% damage to 9 random enemies.
   - The duration of buffs is reset for all allies.
   - The duration of status ailments is reset for all enemies.
   - All allies get +40% attack for 4 turns.

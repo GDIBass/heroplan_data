@@ -17,5 +17,7 @@ types:
   - Sword Guard Mega Minion
 passives:
   - >-
+    Resist Mana reduction: This character has an innate resistance against Mana Reduction.
+  - >-
     Guard Rally: Every 4 turns, removes all Wither effects from all allies.
 image: https://i.imgur.com/uUOX3od.jpg

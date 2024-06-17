@@ -20,6 +20,5 @@ types:
   - Attack Buff
 passives:
   - >-
-    The chance of revival is reduced for all enemies in the battle. The chance 
-    is 50% of the original value.
+    Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is -80% of the original value.
 image: https://i.imgur.com/LzmbqjK.jpg

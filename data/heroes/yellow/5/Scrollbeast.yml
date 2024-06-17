@@ -4,13 +4,13 @@ family: goblin
 speed: Slow
 class: Paladin
 power: 1032
-attack: 1015
-defense: 1058
-health: 1829
+attack: 1044
+defense: 1087
+health: 1917
 skill: Boar of Fury
 effects:
-  - Deals 335% damage to all enemies.
-  - 'Wither: All enemies get -350 attack.'
+  - Deals 365% damage to all enemies.
+  - 'Wither: All enemies get -400 attack.'
   - Summons a White Boar Mega Minion with 65% HP and 250% attack inherited from the caster.
   - When summoned the White Boar Mega Minion gives its owner the ability to counterattack with 100% of the received damage as long as the owner has a White Boar Mega Minion. This effect can’t be dispelled.
 types:

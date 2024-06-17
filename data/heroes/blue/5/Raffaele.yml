@@ -1,7 +1,8 @@
 name: Raffaele
-class: Monk
 source: Hotm
+family: 2020
 speed: Slow
+class: Monk
 power: 773
 attack: 650
 defense: 803
@@ -9,11 +10,9 @@ health: 1402
 skill: Ice Treatment
 effects:
   - Heals all allies who have less than 50% HP left to 50% health.
-  - All allies regenerate 812 HP over 4 turns.
+  - All allies regenerate 952 HP over 4 turns.
   - Cleanses status ailments from all allies.
-  - >-
-    Element Link gives all Ice allies +30% defense against Special Skills for 4
-    turns. This effect can't be cleansed.
+  - Element Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed.
 types:
   - Healer
   - Cleanser
@@ -21,4 +20,3 @@ types:
 passives:
   - This character has innate resistance against status ailments that affect Attack.
 image: https://i.imgur.com/O0p11HF.jpg
-family: 2020

@@ -3,13 +3,13 @@ source: goblinvillage
 family: garrisonguard
 speed: Average
 class: Wizard
-power: 1044
-attack: 1128
-defense: 1067
-health: 1617
+power: 1111
+attack: 1145
+defense: 1085
+health: 1672
 skill: Soothing Melody
 effects:
-  - Summons a Shield Guard Mega Minion with 60% HP and 160% attack inherited from the caster.
+  - Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.
   - The Shield Guard Mega Minion cleanses the latest cleansable status ailment from all allies each turn. This does not trigger secondary effects.
   - All enemies fall asleep.
   - While asleep, the target can’t attack or gain mana.
@@ -19,6 +19,8 @@ types:
   - Shield Guard Mega Minion
   - Sleep All
 passives:
+  - >-
+    Resist Mana reduction: This character has an innate resistance against mana Reduction.
   - >-
     Guard Rally: Every 4 turns, removes all Wither effects from all allies.
 image: https://i.imgur.com/HHfGYBP.jpg

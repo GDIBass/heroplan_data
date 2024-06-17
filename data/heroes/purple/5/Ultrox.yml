@@ -11,12 +11,12 @@ skill: Sinister Enlace
 effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'
-  - ' * Deals 27% damage per each Dark shield on the board to all enemies, up to 270% damage in total.'
-  - ' * The caster and nearby allies counterattack with 80% of the damage received for 3 turns.'
+  - ' * Deals 30% damage per each Dark shield on the board to all enemies, up to 300% damage in total.'
+  - ' * The caster and nearby allies counterattack with 90% of the damage received for 3 turns.'
   - ' * The caster and nearby allies reduce all received damage by -35% for 3 turns.'
   - '2nd:'
-  - ' * Deals 33% damage per each Dark shield on the board to all enemies, up to 330% damage in total.'
-  - ' * The caster and nearby allies counterattack with 120% of the damage received for 4 turns.'
+  - ' * Deals 35% damage per each Dark shield on the board to all enemies, up to 350% damage in total.'
+  - ' * The caster and nearby allies counterattack with 130% of the damage received for 4 turns.'
   - ' * The caster and nearby allies reduce all received damage by -45% for 4 turns.'
 types:
   - Hit All

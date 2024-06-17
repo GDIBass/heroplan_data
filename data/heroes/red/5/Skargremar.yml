@@ -1,22 +1,18 @@
 name: Skargremar
 source: Hotm
-class: Fighter
 family: 2023
 speed: Average
+class: Fighter
 power: 824
 attack: 766
 defense: 791
 health: 1497
 skill: Halting Counter Strike
 effects:
-  - Deals 285% damage to the target and nearby enemies.
+  - Deals 315% damage to the target and nearby enemies.
   - Reduces the mana of the target and nearby enemies by 20%.
-  - >-
-    The target and nearby enemies get -30% accuracy for 4 turns. 
-    Chance to miss applies to offensive Special Skills.
-  - >-
-    Element Link gives +10% mana generations for all Fire allies for 4 turns.
-    This effect cannot be dispelled.
+  - The target and nearby enemies get -30% accuracy for 4 turns. Chance to miss applies to offensive Special Skills.
+  - Element Link gives +10% mana generations for all Fire allies for 4 turns. This effect cannot be dispelled.
 types:
   - Hit 3
   - Mana Reduction
