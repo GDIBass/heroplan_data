@@ -1,9 +1,9 @@
 name: Anzia
-class: Cleric
 source: SuperElemental
 family: SuperElemental
 speed: Average
-power: 841
+class: Cleric
+power: 901
 attack: 821
 defense: 840
 health: 1816

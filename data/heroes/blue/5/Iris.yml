@@ -1,8 +1,8 @@
 name: Iris
-class: Wizard
-speed: Fast
 source: hotm
 family: 2022
+speed: Fast
+class: Wizard
 power: 804
 attack: 788
 defense: 751
@@ -22,7 +22,7 @@ types:
   - Dispeller
 passives:
   - >-
-    This character receives 10% mana each time a buff is dispelled from this 
-    character. This effect can activate only once per turn.
-  - This character has innate resistance against Burn.
+    Resist Burn: This character has innate resistance against Burn.
+  - >-
+    Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character. This effect can activate only once per turn.
 image: https://i.imgur.com/2NdyTvR.jpg

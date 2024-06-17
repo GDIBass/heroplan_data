@@ -1,8 +1,8 @@
 name: Areax
-class: Wizard
 source: Hotm
 family: 2023
 speed: Slow
+class: Wizard
 power: 875
 attack: 871
 defense: 747
@@ -18,10 +18,10 @@ effects:
 types:
   - Hit 1
   - Chain
-  - DoT
+  - DoT 1
 passives:
   - >-
-    Resist Special Skill Blocking. This character has innate resistance against 
+    Resist Special Skill Blocking: This character has innate resistance against 
     status ailments that block Special Skills.
   - Resist Water Damage. This character has innate resistance against Water damage.
 image: https://i.imgur.com/KHHGFsT.jpg

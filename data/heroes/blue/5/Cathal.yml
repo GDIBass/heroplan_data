@@ -1,7 +1,8 @@
 name: Cathal
-class: Barbarian
 source: Slayers
+family: Slayer
 speed: Slow
+class: Barbarian
 power: 811
 attack: 747
 defense: 803
@@ -19,6 +20,6 @@ types:
   - Bypass
   - Stacks
 passives:
-  - Damage caused by status ailments is reduced by -50%
-family: Slayer
+  - >-
+    Status Ailment Damage Reduction: Damage caused by status ailments is reduced by -50%.
 image: https://i.imgur.com/T6kV2Hh.jpg

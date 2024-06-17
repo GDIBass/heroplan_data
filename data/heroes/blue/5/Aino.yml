@@ -1,9 +1,9 @@
 name: Aino
-class: Cleric
-speed: Average
-family: Kalevala
 source: Kalevala
-power: 825
+family: Kalevala
+speed: Average
+class: Cleric
+power: 835
 attack: 788
 defense: 811
 health: 1485
@@ -11,17 +11,14 @@ skill: Summer Carol
 effects:
   - Cleanses status ailments from all allies.
   - Recovers 40% health for all allies.
-  - >-
-    All enemies get -24% mana generation for 4 turns. Against Nature characters,
-    this status effect becomes uncleansable and lasts 2 turns longer.
+  - All enemies get -24% mana generation for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.
 types:
   - Cleanser
   - Heal all
   - Mana Generation Debuff
 passives:
   - >-
-    Power of Sisu - When this character starts a turn with low health for the 
-    first time during a battle, they recover 15% health and receive 15% mana.
+    Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/VkKPr4n.jpg
 costume:
   bonuses: 5/5/10/5
@@ -34,9 +31,7 @@ costume:
   effects:
     - Cleanses status ailments from all allies.
     - Recovers 45% health for all allies.
-    - >-
-      All enemies get -20% mana generation for 4 turns. Against Nature characters,
-      this status effect becomes uncleansable and lasts 2 turns longer.
+    - All enemies get -20% mana generation for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.
   types:
     - Cleanser
     - Healer

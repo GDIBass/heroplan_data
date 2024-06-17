@@ -1,9 +1,9 @@
 name: Milady de Winter
 source: Musketeer
-class: Wizard
 family: Musketeer
 speed: Slow
-power: 846
+class: Wizard
+power: 866
 attack: 832
 defense: 826
 health: 1563
@@ -11,12 +11,8 @@ skill: Sword Dance
 effects:
   - Deals 385% damage to all enemies.
   - The caster regenerates 918 HP over 6 turns.
-  - >-
-    All enemies reflect status effect buffs to a random character on the opposing
-    team for 6 turns. Only dispellable buffs are reflected.
-  - >-
-    All allies reflect cleansable status ailments to a random character on the 
-    opposing team for 6 turns. Only cleansable ailments are reflected.
+  - All enemies reflect status effect buffs to a random character on the opposing team for 6 turns. Only dispellable buffs are reflected.
+  - All allies reflect cleansable status ailments to a random character on the opposing team for 6 turns. Only cleansable ailments are reflected.
 types:
   - Hit all
   - Self Healer
@@ -24,7 +20,5 @@ types:
   - Ailments reflect
 passives:
   - >-
-    When this character receives damage from Special Skills or in place of a
-    character in Cover, there’s a 60% chance of deal 20% of the received damage
-    on all enemies.
+    Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
 image: https://i.imgur.com/NEdggUL.jpg
