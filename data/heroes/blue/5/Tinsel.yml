@@ -1,27 +1,21 @@
 name: Tinsel
-class: Wizard
 source: Christmas
 family: Christmas
 speed: Fast
-power: 836
+class: Wizard
+power: 851
 attack: 852
 defense: 807
 health: 1444
 skill: Malevolent Toys
 effects:
   - Deals 340% damage to the target and nearby enemies.
-  - >-
-    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from
-    the caster.
-  - >-
-    The target and nearby enemies get -14% defense, and a further -5% decrease
-    per each Ice shield on the board for 4 turns, up to -54% defense.
-  - >-
-    The target and nearby enemies get -10% accuracy, and a further -5% decrease
-    per each Ice shield on the board for 4 turns, up to -50% accuracy.
+  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+  - The target and nearby enemies get -14% defense, and a further -5% decrease per each Ice shield on the board for 4 turns, up to -54% defense.
+  - The target and nearby enemies get -10% accuracy, and a further -5% decrease per each Ice shield on the board for 4 turns, up to -50% accuracy.
 types:
   - Hit 3
   - Summoner
-  - Defense Debuff
-  - Blind
+  - Defense Debuff 3
+  - Blind 3
 image: https://i.imgur.com/huD8kmB.jpg

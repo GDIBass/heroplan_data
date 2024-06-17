@@ -1,0 +1,28 @@
+name: Nylora
+source: SuperElemental
+family: SuperElemental
+speed: Fast
+class: Monk
+power: 1064
+attack: 1128
+defense: 1030
+health: 1833
+skill: Ice and Slice
+effects:
+  - Targets element is changed to Fire for 3 turns. (Titans and Mythic Titans are not affected by Element Swap)
+  - Deals 550% damage to the target.
+  - The target get -68% defense against Ice for 3 turns.
+types:
+  - Element Swap 1
+  - Hit 1
+  - EDD 1
+passives:
+  - >-
+    Troop Mastery:
+  - >-
+    Passive Skill as an attacking character: This character’s Troops deal 100%
+    more additional damage against weaker element.
+  - >-
+    Passive Skill as a defending character: This character receives 10% less
+    additional damage from Troops of stronger element.
+image: https://i.imgur.com/NBQDloj.jpg

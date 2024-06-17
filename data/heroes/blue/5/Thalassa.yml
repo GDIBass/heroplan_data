@@ -11,10 +11,10 @@ skill: Ocean’s Embrace
 effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'
-  - ' * Boosts health of all allies by 500. Boosted health can exceed max HP.'
+  - ' * Boosts health of all allies by 550. Boosted health can exceed max HP.'
   - ' * All allies are immune to new status ailments for 3 turns.'
   - '2nd:'
-  - ' * Boosts health of all allies by 600. Boosted health can exceed max HP.'
+  - ' * Boosts health of all allies by 650. Boosted health can exceed max HP.'
   - ' * The duration of status ailments is reset for all enemies.'
   - ' * All allies are immune to new status ailments for 3 turns.'
 types:

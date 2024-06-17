@@ -10,7 +10,7 @@ health: 1563
 skill: Shady Concerto
 effects:
   - Deals 240% damage to all enemies.
-  - "Wither: All enemies get -160 attack and -160 defense."
+  - "Wither: All enemies get -200 attack and -200 defense."
   - >-
     All enemies get -30% mana generation for 3 turns. If the effect is removed 
     before the duration ends, the mana of the target with the effect is reduced 

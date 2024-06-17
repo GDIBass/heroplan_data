@@ -1,15 +1,15 @@
 name: Arfanias
-class: Rogue
-family: 2022
 source: Hotm
+family: 2022
 speed: Fast
+class: Rogue
 power: 808
 attack: 786
 defense: 751
 health: 1413
 skill: Dagger of Shadows
 effects:
-  - Deals 360% damage to the target.
+  - Deals 410% damage to the target.
   - The more mana the enemies have, the more damage they will receive up to 550%.
   - >-
     The caster gets +75% chance to dodge Special Skills that deal damage for 3

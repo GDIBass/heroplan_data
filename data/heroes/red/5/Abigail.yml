@@ -4,15 +4,15 @@ family: investigator
 speed: Average
 class: Paladin
 power: 1111
-attack: 1060
-defense: 1085
-health: 1792
+attack: 1073
+defense: 1097
+health: 1829
 skill: Whispers of Xulu
 effects:
-  - Deals 230% damage to all enemies.
-  - Summons a Xulu Minion for each ally with 10% HP and 30% attack inherited from the caster
+  - Deals 260% damage to all enemies.
+  - Summons a Xulu Minion for each ally with 15% HP and 30% attack inherited from the caster
   - 'Each hit from a Xulu Minion gives the target the following status ailments:'
-  - ' * The target receives 252 Bleed damage over 4 turns.'
+  - ' * The target receives 324 Bleed damage over 4 turns.'
   - ' * Inflicts 5 Insanity to the target.'
   - Inflicts 55 Insanity to the caster.
 types:

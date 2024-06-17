@@ -20,6 +20,5 @@ types:
   - Cleanse Block
 passives:
   - >-
-    Reduces the effect of defense ailments by 50%. The effect applies to this
-    character and its allies in the battle.
+    Defense ailment reduction: Reduces the effect of defense ailments by -80%. The effect applies to this character and all its allies in the battle.
 image: https://i.imgur.com/UoxW1c2.jpg

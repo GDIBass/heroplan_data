@@ -1,9 +1,9 @@
 name: Oniwakamaru
-class: Monk
 source: Ninja
 family: Ninja
 speed: Charge
-power: 841
+class: Monk
+power: 866
 attack: 739
 defense: 891
 health: 1666
