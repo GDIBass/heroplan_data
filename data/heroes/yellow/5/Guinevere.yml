@@ -19,19 +19,15 @@ image: https://i.imgur.com/dYjW9Xa.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 921
-  attack: 753
-  defense: 958
-  health: 1892
+  power: 958
+  attack: 797
+  defense: 998
+  health: 1962
   skill: Word of the Skies
   effects:
     - Reduces the mana of the target and nearby enemies by 25%.
     - Recovers 40% health for all allies.
-    - >-
-      All allies reflect all status effects and 115% damage back to the attacker
-      and block other negative effects from enemies Dark Special Skill for 4 turns.
-      Status effects cast by characters Minions and Fiends on the same side cannot 
-      be reflected.
+    - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies Dark Special Skill for 4 turns. Status effects cast by characters Minions and Fiends on the same side cannot be reflected.
   types:
     - Mana Reduction
     - Healer

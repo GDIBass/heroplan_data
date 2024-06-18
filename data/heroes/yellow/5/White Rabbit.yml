@@ -10,26 +10,22 @@ health: 1353
 skill: Rabbit's Watch
 effects:
   - Deals 280% Damage to the target and nearby enemies
-  - >-
-    Target gets -34% defense for 4 turns. The effect duration is reset if the
-    target is healed. This effect can't be cleansed.
+  - Target gets -34% defense for 4 turns. The effect duration is reset if the target is healed. This effect can't be cleansed.
 types:
   - Hit 3
   - Defense Debuff
 image: https://i.imgur.com/00qNGOk.jpg
 costume:
-  class: Wizard
   bonuses: 5/5/10/5
-  power: 939
-  attack: 889
-  defense: 889
-  health: 1815
+  class: Wizard
+  power: 977
+  attack: 941
+  defense: 926
+  health: 1883
   skill: Cosmic Clock
   effects:
     - Deals 260% damage to the target and nearby enemies.
-    - >-
-      The target and nearby enemies get -34% defense for 3 turns. The effect
-      duration resets if the target is healed. This effect can't be cleansed.
+    - The target and nearby enemies get -34% defense for 3 turns. The effect duration resets if the target is healed. This effect can't be cleansed.
   types:
     - Hit 3
     - Defense Debuff

@@ -23,10 +23,10 @@ image: https://i.imgur.com/L3xRyB9.jpg
 costume:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 939
-  attack: 955
-  defense: 866
-  health: 1697
+  power: 977
+  attack: 1013
+  defense: 904
+  health: 1751
   skill: Innovative Lunge
   effects:
     - Dispels buffs from target.

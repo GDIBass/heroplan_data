@@ -19,18 +19,14 @@ image: https://i.imgur.com/4n0L387.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 922
-  attack: 951
-  defense: 714
-  health: 1892
+  power: 960
+  attack: 1007
+  defense: 743
+  health: 1962
   skill: Kong Smash
   effects:
     - Deals 300% damage to all enemies.
-    - >-
-      All allies reflect all status effects and 115% damage back to the attacker
-      and block other negative effects from enemies’ Ice Special Skills for 4
-      turns. Status effects cast by characters, Minions and Fiends on the same 
-      side cannot be reflected.
+    - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies’ Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
     - Dispells buffs from all enemies.
   types:
     - Hit All

@@ -12,9 +12,7 @@ effects:
   - All allies regenerate 1428 HP over 6 turns.
   - All allies get +50% attack for 6 turns.
   - All allies get +50% critical chance for 6 turns.
-  - >-
-    The caster gets -5% mana generation for 4 turns. This effect can't be 
-    cleansed. 
+  - The caster gets -5% mana generation for 4 turns. This effect can't be  cleansed. 
 types:
   - Healer
   - Attack buff
@@ -23,10 +21,10 @@ image: https://i.imgur.com/Fqmw2ti.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 991
-  attack: 892
-  defense: 1003
-  health: 1952
+  power: 1033
+  attack: 946
+  defense: 1047
+  health: 2033
   skill: Dreams of Nourishment
   effects:
     - All allies regenerate 1450 HP over 5 turns.

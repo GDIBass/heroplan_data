@@ -1,20 +1,18 @@
 name: Santa Claus
-class: Monk
 source: Christmas
 family: Christmas
 speed: Slow
+class: Monk
 power: 774
 attack: 618
 defense: 830
 health: 1437
 skill: Ultimate Gift Sack
 effects:
-  - Deals 200% damage to all enemies
-  - >-
-    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited
-    from the caster
-  - All enemies get -34% attack for 3 turns
-  - All enemies get -44% defense for 3 turns
+  - Deals 200% damage to all enemies.
+  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+  - All enemies get -34% attack for 3 turns.
+  - All enemies get -44% defense for 3 turns.
 types:
   - Hit All
   - Attack Debuff
@@ -24,16 +22,14 @@ image: https://i.imgur.com/gDDhARF.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 791
-  attack: 650
-  defense: 835
-  health: 1467
+  power: 919
+  attack: 778
+  defense: 982
+  health: 1763
   skill: Gift of Rock
   effects:
     - Deals 150% damage to all enemies.
-    - >-
-      Summons an Elf Minion for each ally with 10% HP and 10% attack inherited
-      from the caster.
+    - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
     - All enemies get -24% attack for 4 turns.
     - All enemies get -54% defense for 4 turns.
   types:

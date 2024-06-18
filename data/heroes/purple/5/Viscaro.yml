@@ -1,8 +1,8 @@
 name: Viscaro
-class: Druid
 source: Hotm
 family: 2022
 speed: Slow
+class: Druid
 power: 803
 attack: 731
 defense: 809
@@ -11,26 +11,16 @@ skill: Cursed Garden
 effects:
   - Deals 250% damage to all enemies. 
   - Damage bypasses target’s minions.
-  - >-
-    Summons a Cursed Sapling Fiend for all enemies. The Fiend damages its target
-    with 70% attack every turn. 
-  - >-
-    The Cursed Sapling Fiend absorbs healing and it disappears after absorbing a
-    healing amount equal to 55% of its owner’s max health.
-  - >-
-    Attacks from Cursed Sapling Fiend deal extra damage if the target has
-    minions.
-  - >-
-    Element Link gives all Dark allies +10% attack for 4 turns. This effect
-    can’t be dispelled.
+  - Summons a Cursed Sapling Fiend for all enemies. The Fiend damages its target with 70% attack every turn. 
+  - The Cursed Sapling Fiend absorbs healing and it disappears after absorbing a healing amount equal to 55% of its owner’s max health.
+  - Attacks from Cursed Sapling Fiend deal extra damage if the target has minions.
+  - Element Link gives all Dark allies +10% attack for 4 turns. This effect can’t be dispelled.
 types:
   - Hit All
   - Fiend
 passives:
   - >-
-    Cursed sapling summoner: When an enemy summons any minions by special skill, 
-    this character summons a Cursed Sapling Fiend for that enemy.
+    Cursed sapling summoner: When an enemy summons any minions by special skill, this character summons a Cursed Sapling Fiend for that enemy.
   - >-
-    Resist negative minion effects: This character has innate resistance against 
-    incoming negative effects and damage from Minions. 
+    Resist negative minion effects: This character has innate resistance against incoming negative effects and damage from Minions. 
 image: https://i.imgur.com/tgvzp56.jpg

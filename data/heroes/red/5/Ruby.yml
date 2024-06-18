@@ -1,7 +1,8 @@
 name: Ruby
-class: Barbarian
 source: Ninja
+family: Ninja
 speed: Charge
+class: Barbarian
 power: 818
 attack: 819
 defense: 731
@@ -26,5 +27,4 @@ types:
   - Hit All
   - Mana reduction
   - Mana generation debuff
-family: Ninja
 image: https://i.imgur.com/LIQiSIc.jpg

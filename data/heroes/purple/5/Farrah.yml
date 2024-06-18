@@ -1,8 +1,8 @@
 name: Farrah
-class: Ranger
-speed: Fast
 source: SuperElemental
 family: SuperElemental
+speed: Fast
+class: Ranger
 power: 971
 attack: 1007
 defense: 962
@@ -10,13 +10,8 @@ health: 1606
 skill: Piercing Falcon
 effects:
   - Deals 500% damage to the target.
-  - >-
-    Deals additional 200% damage to as many random enemies as there are Dark 
-    tiles on the board, up to a maximum 12 hits. The damage is reduced on each 
-    consecutive hit.
-  - >-
-    All hit targets get -35% defense against Dark, and a further -5% decrease 
-    every time they are hit for 4 turns.
+  - Deals additional 200% damage to as many random enemies as there are Dark tiles on the board, up to a maximum 12 hits. The damage is reduced on each consecutive hit.
+  - All hit targets get -35% defense against Dark, and a further -5% decrease every time they are hit for 4 turns.
 types:
   - Hit 1
   - Hit random

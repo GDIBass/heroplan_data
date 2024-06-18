@@ -10,11 +10,9 @@ health: 1446
 skill: Icy Resilience
 effects:
   - All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.
-  - All allies get +35% defense for 3 turns
-  - All allies heal 100% of dealt normal damage for 3 turns
-  - >-
-    Element Link recovers 4% health for all Ice allies for 6 turns. This effect
-    can't be cleansed
+  - All allies get +35% defense for 3 turns.
+  - All allies heal 100% of dealt normal damage for 3 turns.
+  - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't be cleansed.
 types:
   - Healer
   - Tank
@@ -24,20 +22,16 @@ image: https://i.imgur.com/BzRTcqJ.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 937
-  attack: 767
-  defense: 931
-  health: 2025
+  power: 978
+  attack: 811
+  defense: 970
+  health: 2128
   skill: Glacial Resilience
   effects:
     - All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.
-    - >-
-      All allies get +30% defense, and a further 5% increase every time they are
-      hit during 3 turns.
+    - All allies get +30% defense, and a further 5% increase every time they are hit during 3 turns.
     - All allies regenerate 549 HP over 3 turns.
-    - >-
-      Element Link recovers 4% health for all Ice allies for 6 turns. This
-      effect can’t be dispelled.
+    - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can’t be dispelled.
   types:
     - Share Damage
     - Defense Buff

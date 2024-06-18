@@ -24,10 +24,10 @@ image: https://i.imgur.com/kz19bRj.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 940
-  attack: 903
-  defense: 914
-  health: 1738
+  power: 978
+  attack: 957
+  defense: 954
+  health: 1794
   skill: Kite of Endurance
   effects:
     - Deals 410% damage to the Target.

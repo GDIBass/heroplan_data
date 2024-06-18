@@ -1,8 +1,8 @@
 name: Norns
-class: Sorcerer
 source: Season3
 family: Vanaheim
 speed: Average
+class: Sorcerer
 power: 787
 attack: 770
 defense: 718
@@ -10,27 +10,21 @@ health: 1369
 skill: Twist of Fate
 effects:
   - Deals 280% damage to the target and nearby enemies.
-  - >-
-    The target and nearby enemies become weak against the element they are
-    strong against for 5 turns. They stay weak against the element they are
-    normally weak against.
+  - The target and nearby enemies become weak against the element they are strong against for 5 turns. They stay weak against the element they are normally weak against.
 types:
   - Hit 3
 image: https://i.imgur.com/evikfGP.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 915
-  attack: 962
-  defense: 832
-  health: 1575
+  power: 957
+  attack: 1020
+  defense: 868
+  health: 1661
   skill: Wrath of Fate
   effects:
     - Deals 300% damage to the target and nearby enemies.
-    - >-
-      The target and nearby enemies become weak against the element they are 
-      strong against for 6 turns. They stay weak against the element they are 
-      normally weak against.
+    - The target and nearby enemies become weak against the element they are strong against for 6 turns. They stay weak against the element they are normally weak against.
   types:
     - Hit 3
   image: https://i.imgur.com/aH5vllh.jpg

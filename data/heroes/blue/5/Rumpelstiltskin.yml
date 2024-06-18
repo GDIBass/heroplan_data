@@ -25,10 +25,10 @@ image: https://i.imgur.com/v7aCbsm.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 923
-  attack: 867
-  defense: 847
-  health: 1845
+  power: 961
+  attack: 918
+  defense: 882
+  health: 1913
   skill: Twilight Tricks
   effects:
     - 'Draw a card for a special effect:'

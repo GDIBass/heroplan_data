@@ -1,7 +1,8 @@
 name: Toxicandra
-class: Cleric
 source: Villains
+family: Villains
 speed: Fast
+class: Cleric
 power: 800
 attack: 774
 defense: 760
@@ -15,5 +16,4 @@ types:
   - Healer
   - MOT
   - Cleanser
-family: Villains
 image: https://i.imgur.com/m5DCDHL.jpg

@@ -12,9 +12,7 @@ effects:
   - Each fallen ally has a 33% chance to get revived with 23% HP.
   - All allies regenerate 612 HP over 4 turns.
   - All allies regenerate a moderate amount of mana over 4 turns.
-  - >-
-    Element Link gives all Nature allies +15% attack and +15 defense for 6
-    turns. This effect can't be dispelled.
+  - Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled.
 types:
   - Reviver
   - HoT
@@ -23,24 +21,21 @@ image: https://i.imgur.com/0IebpZg.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 929
-  attack: 861
-  defense: 908
-  health: 1781
+  power: 970
+  attack: 911
+  defense: 946
+  health: 1871
   skill: Midsummer's Reverie
   effects:
     - Each fallen ally has a 38% chance to get revived with 28% HP.
     - All allies regenerate 548 HP over 4 turns.
     - All allies ge +38% mana generation for 4 turns.
-    - >-
-      Element Link gives all Nature allies +15% attack and +15 defense for 6
-      turns. This effect can't be dispelled.
+    - Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled.
   types:
     - Reviver
     - HoT
     - MoT
   passives:
     - >-
-      Cleanse on Special: When this character casts their Special Skill, they 
-      cleanse the newest status ailment from all allies.
+      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/qgThGvZ.jpg

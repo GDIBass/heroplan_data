@@ -1,7 +1,8 @@
 name: Devana
-class: Ranger
 source: Hotm
+family: 2021
 speed: Average
+class: Ranger
 power: 792
 attack: 741
 defense: 756
@@ -12,17 +13,14 @@ effects:
   - Summons a Lynx Minion with 35% HP and 35% attack inherited from the caster.
   - Before Lynx Minion hits target, it destroys all Minions from the target.
   - Dispells buffs from the target and nearby enemies.
-  - >-
-    Element Link givs all Holy allies small amount of mana at the end of the
-    turn for 4 turns. This effect can't be dispelled.
+  - Element Link givs all Holy allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled.
 types:
   - Hit 3
   - Summoner
   - Dispeller
 passives:
   - >-
-    This character has an innate resistance against incoming negative effects and
-    damage from Minions.
-  - This character has an innate resistance against Dispels of buffs.
+    Resist Dispels: This character has an innate resistance against Dispels of buffs.
+  - >-
+    Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions.
 image: https://i.imgur.com/kOGhPnC.jpg
-family: 2021

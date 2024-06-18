@@ -9,9 +9,7 @@ defense: 850
 health: 1586
 skill: Mark of Anubis
 effects:
-  - >-
-    Inflicts the target with Greed for 3 turns. The enemies with Greed prevent 
-    other enemies from receiving friendly effects of their allies Special Skills.
+  - Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies Special Skills.
   - All enemies receive 501 Poison damage over 3 turns.
   - All enemies get -34% defense for 3 turns.
 types:
@@ -28,15 +26,13 @@ image: https://i.imgur.com/QQQGz6W.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 1009
-  attack: 950
-  defense: 976
-  health: 1992
+  power: 1017
+  attack: 958
+  defense: 985
+  health: 2008
   skill: Mark of the Jackal
   effects:
-    - >-
-      Inflicts the target with Greed for 3 turns. The enemies with Greed prevent 
-      other enemies from receiving friendly effects of their allies’ Special Skills.
+    - Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies’ Special Skills.
     - All enemies receive 693 Poison damage over 3 turns.
     - All enemies get -28% defense for 3 turns.
   types:

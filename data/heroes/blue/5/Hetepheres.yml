@@ -10,54 +10,41 @@ health: 1629
 skill: Bewildering Riddle
 effects:
   - Recovers 50% health for all allies.
-  - >-
-    All allies get +84% defense agains Nature, and a further 2% increase every
-    time they are hit during 4 turns.
-  - >-
-    All enemies get -40% accuracy for 4 turns. Chance to miss also applies to 
-    offensive Special Skill.
+  - All allies get +84% defense agains Nature, and a further 2% increase every time they are hit during 4 turns.
+  - All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skill.
 types:
   - Healer
   - Defense Buff
   - Blind
 passives:
   - >-
-    Effects on Special Skill: 60% chance to perform the following actions when 
-    this character casts their Special Skill
+    Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
     * Boosts health of all allies by 10%. Boosted health can exceed max HP.
     * Cleanses the latest cleansable status ailment from all allies.
 image: https://i.imgur.com/wdaa6Lv.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 1007
-  attack: 888
-  defense: 1028
-  health: 2031
+  power: 1015
+  attack: 896
+  defense: 1037
+  health: 2047
   skill: Relaxing Riddle
   effects:
     - Recovers 54% health for all allies.
-    - >-
-      All allies get +64% defense against Nature, and a further 3% increase 
-      every time they are hit during 4 turns.
-    - >-
-      All enemies get -45% accuracy for 4 turns. Chance to miss also applies to 
-      offensive Special Skills.
+    - All allies get +64% defense against Nature, and a further 3% increase every time they are hit during 4 turns.
+    - All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
   types:
     - Healer
     - Defense Buff
     - Blind
   passives:
     - >-
-      Effects on Special Skill: 60% chance to perform the following actions when 
-      this character casts their Special Skill
+      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
       * Boosts health of all allies by 10%. Boosted health can exceed max HP.
       * Cleanses the latest cleansable status ailment from all allies.
     - >-
-      Guaranteed Effect on Special Skill: When this character casts their Special 
-      Skill, any of their Passive Skill that grant extra effects on cast are 
-      guaranteed to activate.
+      Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skill that grant extra effects on cast are guaranteed to activate.
     - >-
-      Health Recover on Buff Received: This character recovers 5% HP when they 
-      receive a buff or positive stack.
+      Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack.
   image: https://i.imgur.com/zPZlLVD.jpg

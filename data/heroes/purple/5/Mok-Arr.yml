@@ -19,17 +19,15 @@ image: https://i.imgur.com/f9fc9eh.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 847
-  attack: 826
-  defense: 753
-  health: 1587
+  power: 917
+  attack: 916
+  defense: 822
+  health: 1725
   skill: Emerald Tine
   effects:
     - Deals 280% damage to all enemies.
     - All Dark allies and enemies get +54% attack for 4 turns.
-    - >-
-      All allies and enemies that are not Dark element get -44% attack for 4
-      turns. This effect is uncleansable for all Holy enemies.
+    - All allies and enemies that are not Dark element get -44% attack for 4 turns. This effect is uncleansable for all Holy enemies.
     - Deals extra damage against Holy.
   types:
     - Hit All

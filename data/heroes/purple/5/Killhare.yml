@@ -10,25 +10,21 @@ health: 1382
 skill: Reckless Swing
 effects:
   - Deals 300% damage to all enemies.
-  - >-
-    All allies except the caster get -20% defense for 3 turns. This effect can't
-    be cleansed.
+  - All allies except the caster get -20% defense for 3 turns. This effect can't be cleansed.
 types:
   - Hit All
 image: https://i.imgur.com/WU18HC0.jpg
 costume:
   bonuses: 5/5/10/5
   class: Druid
-  power: 898
-  attack: 829
-  defense: 885
-  health: 1682
+  power: 936
+  attack: 879
+  defense: 924
+  health: 1752
   skill: Championship Carrot
   effects:
     - Deals 330% damage to all enemies.
-    - >-
-      All allies except the caser get -20% attack for 3 turns. This effect can't
-      be cleansed.
+    - All allies except the caser get -20% attack for 3 turns. This effect can't be cleansed.
   types:
     - Hit all
   image: https://i.imgur.com/vAkZp36.jpg

@@ -1,8 +1,8 @@
 name: Marie-Therese
-class: Monk
 source: Pirates
 family: Pirate
 speed: Slow
+class: Monk
 power: 780
 attack: 774
 defense: 723
@@ -13,8 +13,7 @@ effects:
   - All allies regenerate 612 HP over 4 turns
   - All allies get +30% defense for 4 turns
   - >-
-    All allies receive Zombie Blessing. If the blessed hero dies in the next 4
-    turns, they will be reborn as a Zombie with:
+    All allies receive Zombie Blessing. If the blessed hero dies in the next 4 turns, they will be reborn as a Zombie with:
   - '* 100% inherited health'
   - '* 500 attack'
   - '* 500 defense'
@@ -26,32 +25,28 @@ types:
   - Zombie Buff
 image: https://i.imgur.com/sKXoFnG.jpg
 costume:
-  class: Druid
   bonuses: 5/5/10/5
-  power: 939
-  attack: 903
-  defense: 889
-  health: 1779
+  class: Druid
+  power: 977
+  attack: 956
+  defense: 926
+  health: 1845
   skill: Zombie Invocation
   effects:
-    - Deals 138% damage to all enemies
-    - >-
-      All allies regenerae 600 boosted health over 4 turns. Boosted health can
-      exceed max HP. This effect can't be dispelled.
+    - Deals 138% damage to all enemies.
+    - All allies regenerae 600 boosted health over 4 turns. Boosted health can exceed max HP. This effect can't be dispelled.
     - All allies get +30% defense for 4 turns. This effect can't be dispelled.
     - >-
-      All allies receive Zombie Blessing. If the blessed Hero dies in the next 4
-      turns, they will be reborn as a Zombie with:
-    - '* 100% inherited health'
-    - '* 500 attack'
-    - '* 500 defense'
-    - '* Special Skill: Poison Bite.'
+      All allies receive Zombie Blessing. If the blessed Hero dies in the next 4 turns, they will be reborn as a Zombie with:
+       * 100% inherited health
+       * 500 attack
+       * 500 defense
+       * Special Skill: Poison Bite.
   types:
     - Hit all
     - Health boost
     - Zombie
   passives:
     - >-
-      Poison on Special Skill: When this character casts their Special Skill,
-      all enemies receive 504 Poison damage over 4 turns.
+      Poison on Special Skill: When this character casts their Special Skill, all enemies receive 504 Poison damage over 4 turns.
   image: https://i.imgur.com/cwv2NUd.jpg

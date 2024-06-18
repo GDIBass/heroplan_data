@@ -1,8 +1,8 @@
 name: Guardian Panther
-class: Fighter
 source: Teltoc
 family: Guardian
 speed: Fast
+class: Fighter
 power: 765
 attack: 786
 defense: 630
@@ -20,10 +20,10 @@ image: https://i.imgur.com/DIjmjpT.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 921
-  attack: 919
-  defense: 772
-  health: 1848
+  power: 958
+  attack: 972
+  defense: 805
+  health: 1916
   skill: Roar of the Panther
   effects:
     - Deals 285% damage to all enemies.

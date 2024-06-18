@@ -9,12 +9,8 @@ defense: 747
 health: 1328
 skill: Sideswipe
 effects:
-  - >-
-    Deals 300% damage to the enemies on the edges of the enemy formation, If
-    there is only one enemy alive, the damage is doubled.
-  - >-
-    The enemies on the edges of the enemy formation receive 249 poison damage
-    over 3 turns. This effect can't be cleansed.
+  - Deals 300% damage to the enemies on the edges of the enemy formation, If there is only one enemy alive, the damage is doubled.
+  - The enemies on the edges of the enemy formation receive 249 poison damage over 3 turns. This effect can't be cleansed.
 types:
   - Hit 3
   - Dot 3
@@ -22,19 +18,14 @@ image: https://i.imgur.com/ODUCn9s.jpg
 costume:
   bonuses: 5/5/10/5
   class: Druid
-  power: 939
-  attack: 903
-  defense: 889
-  health: 1779
+  power: 977
+  attack: 956
+  defense: 926
+  health: 1845
   skill: Avenger of Mothkind
   effects:
-    - >-
-      Deals 300% damage to the enemies on the edges of the enemy formation. If
-      there is only one enemy alive, the damage is doubled.
-    - >-
-      The enemies on the edges of the enemy formation receive Corrosive Poison
-      for 3 turns. The Corrosive Poison deals 153 Poison damage and lowers the
-      target's mana generation by -12% each turn. This effect can't be cleansed.
+    - Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.
+    - The enemies on the edges of the enemy formation receive Corrosive Poison for 3 turns. The Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -12% each turn. This effect can't be cleansed.
   types:
     - Hit 2
     - Dot

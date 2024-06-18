@@ -9,9 +9,7 @@ defense: 716
 health: 1339
 skill: Gold Weaver
 effects:
-  - >-
-    The caster and nearby allies counterattack with 100% of the damage received
-    for 4 turns.
+  - The caster and nearby allies counterattack with 100% of the damage received for 4 turns.
   - The caster and nearby allies reduce all received damage by -50% for 4 turns.
   - The caster and nearby allies get +24% mana generation for 4 turns.
 types:
@@ -21,19 +19,15 @@ image: https://i.imgur.com/IEuL57g.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 917
-  attack: 871
-  defense: 866
-  health: 1749
+  power: 959
+  attack: 923
+  defense: 903
+  health: 1845
   skill: Golden Strings
   effects:
     - Increases the mana of the caster and nearby allies by 15%.
-    - >-
-      The caster and nearby allies counterattack with 125% of the damage
-      received for 4 turns.
-    - >-
-      The caster and nearby allies reduce all received damage by 40% for 4
-      turns.
+    - The caster and nearby allies counterattack with 125% of the damage received for 4 turns.
+    - The caster and nearby allies reduce all received damage by 40% for 4 turns.
   types:
     - Mana boost
     - Counterattack

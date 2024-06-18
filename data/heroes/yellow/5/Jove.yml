@@ -1,8 +1,8 @@
 name: Jove
 source: carnivalofgods
 family: maskedgod
-class: Ranger
 speed: Fast
+class: Ranger
 power: 838
 attack: 842
 defense: 793
@@ -18,6 +18,5 @@ types:
   - Mana Debuff
 passives:
   - >-
-    This character is cleansed of status ailments when Minion owned by them is
-    destroyed.
+    Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed.
 image: https://i.imgur.com/YFCeTvj.jpg

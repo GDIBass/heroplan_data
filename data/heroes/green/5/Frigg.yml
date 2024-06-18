@@ -1,8 +1,8 @@
 name: Frigg
-class: Rogue
 source: Season3
 family: Alfheim
 speed: Fast
+class: Rogue
 power: 786
 attack: 753
 defense: 760
@@ -10,12 +10,8 @@ health: 1320
 skill: Brittling Force
 effects:
   - Deals 100% damage to all enemies.
-  - >-
-    Deals additional 18% damage per each Nature shield on the board, up to 244% damage in
-    total.
-  - >-
-    All enemies get -8% defense, and a further -3% decrease per each Nature
-    shield on the board for 3 turns, up to -44% defense.
+  - Deals additional 18% damage per each Nature shield on the board, up to 244% damage in total.
+  - All enemies get -8% defense, and a further -3% decrease per each Nature shield on the board for 3 turns, up to -44% defense.
 types:
   - Hit All
   - Defense Debuff
@@ -23,19 +19,15 @@ image: https://i.imgur.com/UMxFVGq.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 913
-  attack: 879
-  defense: 876
-  health: 1684
+  power: 955
+  attack: 932
+  defense: 914
+  health: 1776
   skill: Brittling Burst
   effects:
     - Deals 90% damage to all enemies.
-    - >-
-      Deals additional 18% damage per each Nature shield on the board, up to
-      234% damage in total.
-    - >-
-      All enemies get -12% defense, and a further -3% decrease per each Nature
-      shield on the board for 3 turns, up to -48% defense.
+    - Deals additional 18% damage per each Nature shield on the board, up to 234% damage in total.
+    - All enemies get -12% defense, and a further -3% decrease per each Nature shield on the board for 3 turns, up to -48% defense.
   types:
     - Hit All
     - Defense Debuff
