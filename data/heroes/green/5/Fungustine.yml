@@ -1,0 +1,27 @@
+name: Fungustine
+source: solstice
+family: Slime
+speed: Average
+class: Paladin
+power: 1068
+attack: 1030
+defense: 1161
+health: 1843
+skill: Revitalizing Sludge
+effects:
+  - Boosts health of all allies by 1000. Boosted health can exceed max HP.
+  - All allies get Sticky surface for 4 turns.
+  - 'Sticky surface: Steals 1 random dispellable buff or Growth effect from the the character that deals damage through normal attacks and Special Skill. (Each hero with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)'
+  - All allies get +25% defense for 4 turns.
+  - All allies are immune to buff dispels and relocations for 4 turns. (This immunity also includes this effect itself.)
+types:
+  - Healt Boost all
+  - Sticky surface
+  - Defense buff
+  - Buff dispell immunity
+passives:
+  - >-
+    Slime Minion Upon Defeat: When the hero is defeated it summons Slime Mega Minions to nearby allies with 51% HP and 40% attack inherited from the defeated hero.
+  - >-
+    Slime Minion Split: If hero loses more than 25% of max health at once-> Summon a Slime Mega Minion on itself with 51% HP and 40% attack.
+image: https://i.imgur.com/RTB91u9.jpg
