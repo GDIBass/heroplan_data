@@ -1,8 +1,8 @@
 name: Uthragan
-class: Barbarian
 source: Hotm
 family: 2023
 speed: Very Fast
+class: Barbarian
 power: 883
 attack: 929
 defense: 741
@@ -10,19 +10,15 @@ health: 1610
 skill: Venomous Claws
 effects:
   - Deals 150% damage to the target.
-  - >-
-    The target and nearby enemies receive 573 Poison damage over 3 turns. 
-    The caster absorbs 100% of dealt Poison damage as health.
-  - >-
-    Element Link gives +10% mana generation for all Dark allies for 4 turns. 
-    This effect cannot be dispelled.
+  - The target and nearby enemies receive 573 Poison damage over 3 turns.  The caster absorbs 100% of dealt Poison damage as health.
+  - Element Link gives +10% mana generation for all Dark allies for 4 turns.  This effect cannot be dispelled.
 types:
   - Hit 1
   - DoT 3
   - Heal self
 passives:
   - >-
-    Mana Generation Stopping. This character has innate resistance against 
-    status ailments that stop mana generation.
-  - Resist Poison. This character has innate resistance against Poison.
+    Mana Generation Stopping: This character has innate resistance against status ailments that stop mana generation.
+  - >-
+    Resist Poison: This character has innate resistance against Poison.
 image: https://i.imgur.com/Pb3fJn3.jpg

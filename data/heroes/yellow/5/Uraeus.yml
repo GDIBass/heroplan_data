@@ -11,14 +11,14 @@ skill: Strike of the Cobra
 effects:
   - Deals 535% damage to the target
   - Damage bypasses target's Minions.
-  - All enemies who own a Minion or a fiend receive 408 Sand damage over 3 turns
-  - >-
-    Element Link summons a Holy Minion for all Holy allies with 6% HP and 10%
-    attack inherited from the caster
+  - All enemies who own a Minion or a fiend receive 408 Sand damage over 3 turns.
+  - Element Link summons a Holy Minion for all Holy allies with 6% HP and 10% attack inherited from the caster
 types:
   - Hit 1
   - Minion Bypass
 passives:
-  - This character recovers 50 health when a Minion owned by them is destroyed.
-  - This character has an innate resistance against Sand damage
+  - >-
+    Resist Sand Damage: This character has an innate resistance against Sand damage.
+  - >-
+    Health from Dead Minion: This character recovers 50 health when a Minion owned by them is destroyed.
 image: https://i.imgur.com/1T6P7Be.jpg

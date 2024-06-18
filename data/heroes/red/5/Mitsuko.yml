@@ -1,8 +1,8 @@
 name: Mitsuko
-class: Sorcerer
 source: Season2
 family: Sakura
 speed: Average
+class: Sorcerer
 power: 775
 attack: 696
 defense: 727
@@ -11,11 +11,7 @@ skill: Mirror of Flames
 effects:
   - Deals 245% damage to the target and nearby enemies.
   - Reduces the mana of the target and nearby enemies by 20%.
-  - >-
-    All allies reflect all status effects and 115% damage back to the attacker 
-    and block other negative effects from enemies' Ice Special Skills for 4 turns.
-    Status effects cast by characters, Minions and Fiends on the same side cannot
-    be reflected.
+  - All allies reflect all status effects and 115% damage back to the attacker  and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
 types:
   - Hit 3
   - Mana Reduction
@@ -24,19 +20,15 @@ image: https://i.imgur.com/xMxFVwW.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 849
-  attack: 787
-  defense: 761
-  health: 1688
+  power: 919
+  attack: 873
+  defense: 830
+  health: 1835
   skill: Glaive of Flames
   effects:
     - Deals 230% damage to all enemies.
     - All enemies get -34% mana generation.
-    - >-
-      All allies reflect all status effects and 115% damage back to the attacker 
-      and block other negative effects from enemies' Ice Special Skills for 4 turns.
-      Status effects cast by characters, Minions and Fiends on the same side cannot
-      be reflected.
+    - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
   types:
     - Hit All
     - Mana Generation Debuff

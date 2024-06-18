@@ -10,9 +10,7 @@ health: 1322
 skill: Three Blind Mice
 effects:
   - All Minion Summoner allies summon a Minion for themselves
-  - >-
-    Summons 3 Mouse Minions with 10% HP and 30% attack inherited from the
-    caster. The Minions have -32% accuracy
+  - Summons 3 Mouse Minions with 10% HP and 30% attack inherited from the caster. The Minions have -32% accuracy
   - All allies regenerate 548 HP over 4 turns.
   - All allies get +30% attack for 4 turns.
 types:
@@ -23,16 +21,14 @@ image: https://i.imgur.com/H73nb1h.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 939
-  attack: 1008
-  defense: 753
-  health: 1792
+  power: 978
+  attack: 1066
+  defense: 785
+  health: 1859
   skill: Three Bandit Mice
   effects:
     - All Minion Summoner allies summon a Minion for themselves.
-    - >-
-      Summons 3 Mouse Minions with 20% HP and 20% attack inherited from the 
-      caster. The Minions have -16% accuracy.
+    - Summons 3 Mouse Minions with 20% HP and 20% attack inherited from the caster. The Minions have -16% accuracy.
     - All allies regenerate 324 HP over 4 turns.
     - All allies get +50% attack for 4 turns.
   types:

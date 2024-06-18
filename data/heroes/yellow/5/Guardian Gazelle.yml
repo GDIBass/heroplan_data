@@ -9,19 +9,14 @@ defense: 741
 health: 1324
 skill: Dance of Spirits
 effects:
+  - Removes all cleansable and uncleansable status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.
+  - The caster regenerates 612 HP over 4 turns.
   - >-
-    Removes all cleansable and uncleansable status effects from all allies
-    except the caster.
-  - >-
-    For 4 turns all allies except the caster starting dancing the Dance of
-    Spirits:
-  - +100% attack. 
-  - Reduces all received damage by -50%. 
-  - Gives immunity to new status effects. 
-  - >-
-    If the caster dies, the dancer receives 84 damage and their mana is 
-    reduced by 100%.
-  - This effect can’t be dispelled, but it gets removed if caster is defeated.
+    All allies except the caster dance the Dance of Spirits for 4 turns:
+    * +100% attack. 
+    * Reduces all received damage by -50%.  
+    * If the caster is defeated, the dancer receives 84 damage and their mana is  reduced by 100%.
+    * This effect can’t be dispelled, but it gets removed if caster is defeated.
 types:
   - Cleanser
   - Self Heal
@@ -31,26 +26,20 @@ image: https://i.imgur.com/B2LpVrC.jpg
 costume:
   class: Fighter
   bonuses: 5/5/10/5
-  power: 938
-  attack: 928
-  defense: 896
-  health: 1698
+  power: 976
+  attack: 982
+  defense: 933
+  health: 1761
   skill: Bandalore Dance
   effects:
-    - >-
-      Removes all status effects from all allies except the caster. Removes even
-      status effects that are otherwise undispellable or uncleansable.
+    - Removes all status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.
     - Recovers 48% health for all allies.
     - >-
-      For 4 turns all allies except the caster starting dancing the Dance of
-      Spirits:
-    - +110% attack.
-    - Reduces all received damage by -30%.
-    - Gives immunity to new status effects.
-    - >-
-      If the caster is defeated, the dancer receives 115 damage and their mana is
-      reduced by 100%.
-    - This effect can’t be dispelled, but it gets removed if caster is defeated.
+      All allies except the caster dance the Dance of Spirits for 4 turns:
+      * +110% attack.
+      * Reduces all received damage by -30%.
+      * If the caster is defeated, the dancer receives 115 damage and their mana is reduced by 100%.
+      * This effect can’t be dispelled, but it gets removed if caster is defeated.
   types:
     - Cleanser
     - Healer

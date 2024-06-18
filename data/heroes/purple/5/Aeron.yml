@@ -10,13 +10,9 @@ health: 1341
 skill: Nethershield
 effects:
   - All allies regenerate 1015 HP over 5 turns.
-  - >-
-    The caster and nearby allies are immune to new status ailments for 5 turns.
-    This effect can't be dispelled.
+  - The caster and nearby allies are immune to new status ailments for 5 turns. This effect can't be dispelled.
   - Cleanses status ailments from the caster and nearby allies.
-  - >-
-    Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns
-    This effect can't be dispelled.
+  - Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns. This effect can't be dispelled.
 types:
   - Healer
   - Status Ailment Immunity
@@ -25,24 +21,19 @@ image: https://i.imgur.com/9AxepJ9.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 935
-  attack: 849
-  defense: 894
-  health: 1880
+  power: 976
+  attack: 898
+  defense: 931
+  health: 1976
   skill: Voidshield
   effects:
     - Recovers 45% health for all allies.
-    - >-
-      Lifts all cleansable status ailments from the caster and nearby allies and
-      randomly distributes them on enemies.
-    - >-
-      Element Link gives all Dark allies +5% attack and +5% defense for 6 turns.
-      Can't be dispelled.
+    - Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.
+    - Element Link gives all Dark allies +5% attack and +5% defense for 6 turns. Can't be dispelled.
   types:
     - Heal
     - Cleanser
   passives:
     - >-
-      Cleanse on Special: When this character casts their Special Skill, they 
-      cleanse the newest status ailment from all allies.
+      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/WvBRV3O.jpg

@@ -15,7 +15,7 @@ effects:
   - Element Link gives all Dark allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed.
 types:
   - Hit 3
-  - Dot 3
+  - DoT 3
 passives:
   - >-
     Resist Poison: This character has innate resistance against Poison.

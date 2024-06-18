@@ -9,9 +9,7 @@ defense: 743
 health: 1339
 skill: Raven's Vigil
 effects:
-  - >-
-    Summons a Raven Minion for each ally with 20% HP and 20% attack inherited
-    from the caster.
+  - Summons a Raven Minion for each ally with 20% HP and 20% attack inherited from the caster.
   - Raven Minion gives +120% attack to all its owner's other Minions.
   - All allies get +30% defense for 4 turns.
 types:
@@ -21,19 +19,15 @@ image: https://i.imgur.com/4iJaoi6.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 920
-  attack: 876
-  defense: 883
-  health: 1729
+  power: 963
+  attack: 929
+  defense: 922
+  health: 1823
   skill: Ravens' Watch
   effects:
-    - >-
-      Summons a Raven Minion for each ally with 25% HP and 15% attack inherited
-      from the caster.
+    - Summons a Raven Minion for each ally with 25% HP and 15% attack inherited from the caster.
     - Raven Minion gives +180% attack to all its owner's other Minions.
-    - >-
-      All allies get +36% chance to dodge Special Skills that deal damage for 4
-      turns.
+    - All allies get +36% chance to dodge Special Skills that deal damage for 4 turns.
   types:
     - Summoner
     - Dodge Buff

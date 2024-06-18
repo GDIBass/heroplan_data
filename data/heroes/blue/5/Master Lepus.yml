@@ -17,16 +17,14 @@ image: https://i.imgur.com/Ti2FM1v.jpg
 costume:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 867
-  attack: 890
-  defense: 811
-  health: 1453
+  power: 904
+  attack: 944
+  defense: 847
+  health: 1513
   skill: Rift Blade
   effects:
     - Deals 280% damage to all enemies.
-    - >-
-      Teh caster gets -24% mana generation for 4 turns. This effect can't be
-      cleansed.
+    - The caster gets -24% mana generation for 4 turns. This effect can't be cleansed.
   types:
     - Hit 1
   image: https://i.imgur.com/aLTsGWG.jpg

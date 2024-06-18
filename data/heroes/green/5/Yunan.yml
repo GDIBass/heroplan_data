@@ -21,10 +21,10 @@ image: https://i.imgur.com/jUayUm6.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 877
-  attack: 736
-  defense: 914
-  health: 1705
+  power: 913
+  attack: 780
+  defense: 954
+  health: 1776
   skill: Wipeout
   effects:
     - Deals 215% damage to all enemies.

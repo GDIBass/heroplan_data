@@ -18,10 +18,10 @@ image: https://i.imgur.com/BYGrEEN.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 912
-  attack: 879
-  defense: 895
-  health: 1639
+  power: 954
+  attack: 932
+  defense: 934
+  health: 1729
   skill: Maiden's Orders
   effects:
     - Destroys all Minions from the target and nearby enemies.

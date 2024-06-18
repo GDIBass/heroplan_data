@@ -21,10 +21,10 @@ image: https://i.imgur.com/H6eN1G6.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 942
-  attack: 978
-  defense: 866
-  health: 1663
+  power: 980
+  attack: 1036
+  defense: 904
+  health: 1716
   skill: Floral Sting
   effects:
     - Deals 340% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.

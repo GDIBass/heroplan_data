@@ -1,7 +1,8 @@
 name: Grazul
-class: Cleric
 source: Hotm
+family: 2019
 speed: Very Fast
+class: Cleric
 power: 770
 attack: 628
 defense: 817
@@ -10,13 +11,11 @@ skill: Mending Mantra
 effects:
   - Recovers 22% health for all allies
   - All allies are immune to new status ailments for 2 turns.
-  - >-
-    Element Link gives +4% mana regeneration for all Fire allies for 4 turns.
-    This effect can't be dispelled.
+  - Element Link gives +4% mana regeneration for all Fire allies for 4 turns. This effect can't be dispelled.
 types:
   - Healer
   - Status Ailment Immunity
 passives:
-  - This character has an innate ability to resist status aliments that affect Healing
+  - >-
+    Resist Healing Ailments: This character has an innate ability to resist status aliments that affect Healing
 image: https://i.imgur.com/URTQAvF.jpg
-family: 2019

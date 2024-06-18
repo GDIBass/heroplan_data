@@ -12,9 +12,7 @@ effects:
   - Deals 155% damage to all enemies.
   - All allies get +25% attack for 4 turns.
   - Cleanses status ailments from all allies.
-  - >-
-    Element Link recovers 4% health for all Fire allies for 6 turns. This effect
-    can't be cleansed
+  - Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't be cleansed.
 types:
   - Hit All
   - Attack Buff
@@ -23,25 +21,20 @@ image: https://i.imgur.com/ZnoCx4D.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 938
-  attack: 859
-  defense: 842
-  health: 1980
+  power: 979
+  attack: 908
+  defense: 876
+  health: 2080
   skill: Morning Catch
   effects:
     - Dispels buffs from all enemies.
     - Deals 180% damage to all enemies.
-    - >-
-      Deals additional 15% damage per removed status effect, up to 360% damage
-      in total.
-    - >-
-      Element Link recovers 4% health for all Fire allies for 6 turns. This 
-      effect can't be dispelled.
+    - Deals additional 15% damage per removed status effect, up to 360% damage in total.
+    - Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't be dispelled.
   types:
     - Dispeller
     - Hit all
   passives:
     - >-
-      Dispel on Special Skill: When this character casts their Special Skill,
-      they dispel the newest status effect buff from all enemies.
+      Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies.
   image: https://i.imgur.com/M65Mn9a.jpg

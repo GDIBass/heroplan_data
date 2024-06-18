@@ -1,9 +1,9 @@
 name: Hornfel
-class: Barbarian
 source: Covenant
 family: construct
 speed: Fast
-power: 994
+class: Barbarian
+power: 1055
 attack: 1021
 defense: 1110
 health: 1872

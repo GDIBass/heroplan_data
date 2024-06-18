@@ -1,8 +1,8 @@
 name: Zeline
-class: Wizard
 source: hotm
 family: 2018
 speed: Fast
+class: Wizard
 power: 768
 attack: 764
 defense: 688
@@ -13,9 +13,7 @@ effects:
   - All enemies get -34% attack for 4 turns
   - Deals extra damage against Ice
   - Dispels buffs from all enemies
-  - >-
-    Elemental Link gives +10% mana generation for all Nature allies for 4 turns.
-    This effect can't be dispelled.
+  - Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled.
 types:
   - Hit All
   - Attack Debuff
@@ -24,25 +22,22 @@ image: https://i.imgur.com/lrpsqzO.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 934
-  attack: 908
-  defense: 847
-  health: 1816
+  power: 975
+  attack: 961
+  defense: 882
+  health: 1908
   skill: Plume Flash
   effects:
     - Dispels buffs from all enemies.
     - Deals 180% damage to all enemies.
     - All enemies get -38% attack for 4 turns.
     - Deals extra damage against Ice 
-    - >-
-      Elemental Link gives +10% mana generation for all Nature allies for 4 turns.
-      This effect can’t be dispelled.
+    - Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can’t be dispelled.
   types:
     - Dispeller
     - Hit All
     - Attack Debuff
   passives:
     - >-
-      Cleanse on Special Skill: When this character casts their Special Skill,
-      they cleanse the newest status ailment from all allies.
+      Cleanse on Special Skill: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/QJNIkdZ.jpg

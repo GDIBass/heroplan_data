@@ -9,9 +9,7 @@ defense: 667
 health: 1240
 skill: Martial Prowess
 effects:
-  - >-
-    All allies get +100% normal attack for 4 turns. Stacks with similar status
-    effects up to a maximum of +160% normal attack
+  - All allies get +100% normal attack for 4 turns. Stacks with similar status effects up to a maximum of +160% normal attack
   - All allies regenerate 324 HP over 4 turns
 types:
   - Titan Attack Buff
@@ -20,18 +18,14 @@ image: https://i.imgur.com/VmIENFl.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 847
-  attack: 763
-  defense: 906
-  health: 1439
+  power: 916
+  attack: 846
+  defense: 988
+  health: 1565
   skill: Kane Prowess
   effects:
     - Boosts health for all allies by 470. Boosted health can exceed max HP.
-    - >-
-      All allies get +80% normal attack for 5 turns. The normal attack is
-      increased by +20% each turn. This effect can be active with addition to
-      effect that alter attack in general. Normal attacks can have a total
-      maximum of +160% increased power while this effect is active.
+    - All allies get +80% normal attack for 5 turns. The normal attack is increased by +20% each turn. This effect can be active with addition to effect that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.
   types:
     - Health Boost
     - Titan Attack Buff

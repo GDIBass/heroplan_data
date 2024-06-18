@@ -1,18 +1,16 @@
 name: Hachiko
 source: Pets
 family: Pets
-class: Monk
 speed: Average
-power: 837
+class: Monk
+power: 876
 attack: 877
 defense: 807
 health: 1559
 skill: Strike of Thousand Howls
 effects:
   - Deals 270% damage to all enemies.
-  - >-
-    All allies counterattack with 80% of the damage received for 4 turns. The
-    counterattack damage increases by +15% each turn, up to 125%.
+  - All allies counterattack with 80% of the damage received for 4 turns. The counterattack damage increases by +15% each turn, up to 125%.
   - All allies get +50% critical chance for 4 turns.
 types:
   - Hit all
@@ -20,9 +18,7 @@ types:
   - Crit Buff
 passives:
   - >-
-    When a Minion is summoned to any ally, this character gains 5% health and 5%
-    mana. This effect can activate only once per turn.
+    Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
   - >-
-    When a Fiend is summoned to any enemy, this character deals 85% damage to
-    all enemies. This effect can activate only once per turn.
+    Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
 image: https://i.imgur.com/SMSyQXB.jpg

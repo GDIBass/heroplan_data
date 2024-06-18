@@ -1,9 +1,9 @@
 name: Mica
-class: Paladin
 source: Ninja
 family: Ninja
 speed: Charge
-power: 789
+class: Paladin
+power: 798
 attack: 716
 defense: 821
 health: 1380

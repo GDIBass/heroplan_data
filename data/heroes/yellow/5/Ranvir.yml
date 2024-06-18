@@ -1,7 +1,8 @@
 name: Ranvir
-class: Druid
 source: Hotm
+family: 2019
 speed: Fast
+class: Druid
 power: 770
 attack: 768
 defense: 782
@@ -9,16 +10,12 @@ health: 1126
 skill: Mystic's Virtue
 effects:
   - Deals 265% damage to the target.
-  - >-
-    All allies get +195% attack and -35% accuracy that only applies when the
-    enemy has more health than the attacker. The effect lasts for 5 turns.
-  - >-
-    Element Link gives all Holy allies +46% defense against Dark for 4 turns.
-    This effect can't be dispelled.
+  - All allies get +195% attack and -35% accuracy that only applies when the enemy has more health than the attacker. The effect lasts for 5 turns.
+  - Element Link gives all Holy allies +46% defense against Dark for 4 turns. This effect can't be dispelled.
 types:
   - Hit 1
   - Titan Attack Buff
 passives:
-  - This character has an innate resistance against Poison.
+  - >-
+    Resist Poison: This character has an innate resistance against Poison.
 image: https://i.imgur.com/pCzfhdF.jpg
-family: 2019

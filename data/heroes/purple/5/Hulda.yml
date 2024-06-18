@@ -21,10 +21,10 @@ image: https://i.imgur.com/J9OOPtS.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 952
-  attack: 884
-  defense: 939
-  health: 1821
+  power: 990
+  attack: 937
+  defense: 979
+  health: 1879
   skill: Larva Prescription
   effects:
     - Summons a Larva Minion for each ally with 36% HP inherited from the caster. The Minion recovers 15% health for its owner at the end of each turn.

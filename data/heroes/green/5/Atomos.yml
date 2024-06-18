@@ -11,10 +11,7 @@ skill: Immortal Annihilator
 effects:
   - Deals 170% damage to all enemies
   - The more mana the enemies have, the more damage they will receive, up to 290%
-  - >-
-    If the caster dies during the next 5 turns they are resurrected in the
-    beginning of their next turn with 32% health. All status effects are removed
-    when the caster dies
+  - If the caster dies during the next 5 turns they are resurrected in the beginning of their next turn with 32% health. All status effects are removed when the caster dies
 types:
   - Hit All
   - Self Resurrection
@@ -22,18 +19,15 @@ image: https://i.imgur.com/DAUb4SR.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 845
-  attack: 806
-  defense: 799
-  health: 1536
+  power: 915
+  attack: 894
+  defense: 872
+  health: 1670
   skill: Immortal Punisher
   effects:
     - Deals 160% damage to all enemies.
     - The less mana the enemies have, the more damage they will receive, up to 310%
-    - >-
-      If the caster dies during the next 5 turns, they are resurrected in the 
-      beginning of their next turn with 40% health. All status effects and stacks 
-      are removed when the caster dies.
+    - If the caster dies during the next 5 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stacks are removed when the caster dies.
   types:
     - Hit All
     - Self Resurrection

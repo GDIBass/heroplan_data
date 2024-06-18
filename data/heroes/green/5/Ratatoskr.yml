@@ -1,7 +1,8 @@
 name: Ratatoskr
-class: Monk
 source: Season3
+family: Alfheim
 speed: Average
+class: Monk
 power: 785
 attack: 753
 defense: 741
@@ -9,31 +10,22 @@ health: 1353
 skill: Nuts of Yggdrasil
 effects:
   - Recovers 44% health for all allies.
-  - >-
-    Alters the power of All Nature shields on the board. When an attacking 
-    Hero casts the special, the shields become enhanced with +64% attack.
-    When a defending Hero casts the special, the shields become weakened
-    with -57% attack.
+  - Alters the power of All Nature shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.
 types:
   - Healer
   - Shield Enhance
-family: Alfheim
 image: https://i.imgur.com/IwBPUx4.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 911
-  attack: 979
-  defense: 787
-  health: 1597
+  power: 953
+  attack: 1038
+  defense: 821
+  health: 1684
   skill: Roots of Yggdrasil
   effects:
     - All allies regenerate 795 HP over 3 turns.
-    - >-
-      Alters the power of all Nature shields on the board. When an attacking 
-      Hero casts the special, the shields become enhance with +64% attack. 
-      When a defending Hero casts the special, the shields become weakened 
-      with -57% attack.
+    - Alters the power of all Nature shields on the board. When an attacking Hero casts the special, the shields become enhance with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.
   types:
     - Healer
     - Shield Enhance

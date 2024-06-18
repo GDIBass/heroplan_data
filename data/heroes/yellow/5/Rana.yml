@@ -9,12 +9,10 @@ defense: 710
 health: 1367
 skill: Sand Storm
 effects:
-  - Deals 185% damage to the target and nearby enemies
-  - The target and nearby enemies receive 423 damage over 3 turns
-  - >-
-    The target and nearby enemies get -75% increase for any healing received for
-    2 turns. This effect can't be cleansed
-  - Dispels status ailments from the caster
+  - Deals 185% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 423 damage over 3 turns.
+  - The target and nearby enemies get -75% increase for any healing received for 2 turns. This effect can't be cleansed.
+  - Dispels status ailments from the caster.
 types:
   - Hit 3
   - Dot 3
@@ -23,17 +21,15 @@ image: https://i.imgur.com/XCRwmmP.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 879
-  attack: 856
-  defense: 836
-  health: 1576
+  power: 916
+  attack: 908
+  defense: 872
+  health: 1642
   skill: Surf's Up
   effects:
     - Deals 185% damage to the target and nearby enemies.
     - The target and nearby enemies receive 652 Water damage over 4 turns
-    - >-
-      The target and nearby enemies get -75% decrease for any healing received
-      for 4 turns. This effect can't be cleansed.
+    - The target and nearby enemies get -75% decrease for any healing received for 4 turns. This effect can't be cleansed.
     - Cleanses status ailments from the caster and nearby allies.
   types:
     - Hit 3

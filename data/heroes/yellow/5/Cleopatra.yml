@@ -10,9 +10,7 @@ health: 1670
 skill: Channeler of the Gods
 effects:
   - Recovers 65% health for all allies.
-  - >-
-    All allies are immune to new status ailments for 3 turns, and recover 205
-    health for each attempted status ailment.
+  - All allies are immune to new status ailments for 3 turns, and recover 205 health for each attempted status ailment.
 types:
   - Healer
   - Status Ailment Immunity
@@ -25,10 +23,10 @@ image: https://i.imgur.com/pyEHRBi.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1004
-  attack: 868
-  defense: 1001
-  health: 2113
+  power: 1012
+  attack: 876
+  defense: 1009
+  health: 2130
   skill: Channeler of the Cats
   effects:
     - Recovers 60% health for all allies.

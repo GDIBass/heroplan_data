@@ -9,13 +9,9 @@ defense: 776
 health: 1312
 skill: Trickster's Malice
 effects:
-  - >-
-    Lifts all cleansable status ailments  from all allies and randomly distributes
-    them on enemies.
+  - Lifts all cleansable status ailments  from all allies and randomly distributes them on enemies.
   - Deals 170% damage to all enemies
-  - >-
-    Deals additional 8% damage per transferred status ailment, up to 298% damage
-    in total
+  - Deals additional 8% damage per transferred status ailment, up to 298% damage in total.
 types:
   - Cleanser
   - Hit All
@@ -23,19 +19,15 @@ image: https://i.imgur.com/NzRPKjE.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 915
-  attack: 794
-  defense: 990
-  health: 1679
+  power: 956
+  attack: 842
+  defense: 1033
+  health: 1771
   skill: Trickter's Lullaby
   effects:
-    - >-
-      Lifts all cleansable status ailments from all allies and randomly 
-      distributes them on enemies.
+    - Lifts all cleansable status ailments from all allies and randomly distributes them on enemies.
     - Deals 135% damage to all enemies.
-    - >-
-      Deals additional 15% damage per allocated status effect, up to 375% 
-      damage in total.
+    - Deals additional 15% damage per allocated status effect, up to 375% damage in total.
   types:
     - Cleanser
     - Hit All

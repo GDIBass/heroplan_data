@@ -1,8 +1,8 @@
 name: Cupido
-class: Ranger
 source: love
 family: Cupid
 speed: Average
+class: Ranger
 power: 862
 attack: 844
 defense: 805
@@ -10,9 +10,7 @@ health: 1545
 skill: Love Conquers All
 effects:
   - Deals 295% damage to the target and nearby enemies.
-  - >-
-    For 3 turns, the target and nearby enemies are forced to cast Mindless Heal
-    when at full mana.
+  - For 3 turns, the target and nearby enemies are forced to cast Mindless Heal when at full mana.
   - >-
     Mindless Heal: Recovers 20% health for the character on the opposing side with the lowest remaining HP.
 types:
@@ -20,6 +18,5 @@ types:
   - Mindless Heal
 passives:
   - >-
-    Resist Special Skill Blocking - This character has innate resistance against
-    status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
 image: https://i.imgur.com/4hhCXCA.jpg

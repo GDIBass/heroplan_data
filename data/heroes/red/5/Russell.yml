@@ -1,8 +1,8 @@
 name: Russell
-class: Wizard
 source: Hotm
 family: 2021
 speed: Average
+class: Wizard
 power: 795
 attack: 795
 defense: 739
@@ -12,17 +12,13 @@ effects:
   - This Special Skill never misses its targets.
   - Deals 350% damage to the target.
   - The target and nearby enemies receive 264 Burn damage over 3 turns.
-  - >-
-    Element Link gives +10% increase for any healing received for all Fire
-    allies for 4 turns. This effect can't be dispelled.
+  - Element Link gives +10% increase for any healing received for all Fire allies for 4 turns. This effect can't be dispelled.
 types:
   - Hit 1
   - Dot 3
 passives:
   - >-
-    Resist Attack Ailments: This character has innate resistance against status
-    ailments that affect Attack.
+    Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack.
   - >-
-    Mana on Burn: This character gains 5% mana each time an enemy receives Burn 
-    damage.
+    Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage.
 image: https://i.imgur.com/EoY0Pni.jpg

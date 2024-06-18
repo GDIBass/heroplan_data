@@ -13,9 +13,9 @@ effects:
   - 'Growth: The caster and nearby allies get 250 attack.'
   - The target and nearby enemies get -30% defense for 3 turns. If the effect is removed before the duration ends, the target with effect suffers 577 damage.
 types:
-  - Hit 3.
+  - Hit 3
   - Growth
-  - Defense debuff
+  - Defense debuff 3
 passives:
   - >-
     Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.

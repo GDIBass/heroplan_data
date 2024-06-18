@@ -32,10 +32,10 @@ image: https://i.imgur.com/6o3KSeL.jpg
 costume:
   bonuses: 3/3/6/1
   class: Paladin
-  power: 995
-  attack: 1032
-  defense: 903
-  health: 1830
+  power: 1018
+  attack: 1061
+  defense: 927
+  health: 1878
   skill: Order from the Depths
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'

@@ -23,10 +23,10 @@ image: https://i.imgur.com/VkKPr4n.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 916
-  attack: 844
-  defense: 921
-  health: 1703
+  power: 941
+  attack: 875
+  defense: 955
+  health: 1732
   skill: Anthem of the Lake
   effects:
     - Cleanses status ailments from all allies.
@@ -36,4 +36,7 @@ costume:
     - Cleanser
     - Healer
     - Mana Generation Debuff
+  passives:
+    - >-
+      Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
   image: https://i.imgur.com/GoxPKHf.jpg

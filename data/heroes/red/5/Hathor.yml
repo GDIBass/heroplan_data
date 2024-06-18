@@ -1,8 +1,8 @@
 name: Hathor
 source: Season5
-class: Sorcerer
 family: Moon
 speed: Fast
+class: Sorcerer
 power: 843
 attack: 774
 defense: 795
@@ -24,10 +24,10 @@ image: https://i.imgur.com/sV7BVbk.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 979
-  attack: 893
-  defense: 931
-  health: 2007
+  power: 986
+  attack: 900
+  defense: 939
+  health: 2023
   skill: Motherly Love
   effects:
     - All allies renerate 640 Boosted health over 4 turns. Boosted Heath can exceed max HP.

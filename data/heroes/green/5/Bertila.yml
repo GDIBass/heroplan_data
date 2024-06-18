@@ -1,7 +1,8 @@
 name: Bertila
-class: Fighter
 source: Hotm
+family: 2021
 speed: Slow
+class: Fighter
 power: 784
 attack: 718
 defense: 774
@@ -9,20 +10,13 @@ health: 1367
 skill: En Garde
 effects:
   - Deals 340% damage to all enemies.
-  - >-
-    Lifts all cleansable status ailments that affect attack or defense from all
-    allies and randomly distributes them on enemies.
-  - >-
-    Element Link summons a Nature Minion for all Nature allies with 6% HP and
-    10% attack inherited from the caster.
+  - Lifts all cleansable status ailments that affect attack or defense from all allies and randomly distributes them on enemies.
+  - Element Link summons a Nature Minion for all Nature allies with 6% HP and 10% attack inherited from the caster.
 types:
   - Hit All
 Passives:
   - >-
-    The character gains a small amount of mana when a Minion owned by them is
-    destroyed.
+    Resist Blind: This character has innate resistance against status ailments that affect Accuracy. Doesn't apply to status effects from allies.
   - >-
-    This character has innate resistance against status ailments that affect
-    Accuracy.  Doesn't apply to status effects from allies.
+    Mana on Minion Death: The character gains a small amount of mana when a Minion owned by them is destroyed.
 image: https://i.imgur.com/VlS3IND.jpg
-family: 2021

@@ -1,8 +1,8 @@
 name: Ignazio
-class: Monk
-speed: Fast
 source: SuperElemental
 family: SuperElemental
+speed: Fast
+class: Monk
 power: 953
 attack: 887
 defense: 924
@@ -10,9 +10,7 @@ health: 1851
 skill: Purifying Flame
 effects:
   - Recovers 25% health for all allies.
-  - >-
-    Recovers additional 3% health per each Fire shield on the board, up to 55% 
-    health in total.
+  - Recovers additional 3% health per each Fire shield on the board, up to 55% health in total.
   - All allies get +50% attack for 4 turns.
   - Cleanses status ailments from all allies
 types:
@@ -21,11 +19,5 @@ types:
   - Attack Buff
 passives:
   - >-
-    Troop strong damage modifier: This Passive Skill has two different 
-    function based on if this character is in attack or in defense.
-    Passive Skill as attacking character. This character's Troops deal 100%
-    more additional damage against the weaker element.
-    Passive Skill as defending character. This character receives 10% less 
-    additional damage from troops of stronger element.
-    
+    Troop strong damage modifier: This Passive Skill has two different function based on if this character is in attack or in defense. Passive Skill as attacking character. This character's Troops deal 100% more additional damage against the weaker element. Passive Skill as defending character. This character receives 10% less additional damage from troops of stronger element.    
 image: https://i.imgur.com/y6oi4Yq.jpg

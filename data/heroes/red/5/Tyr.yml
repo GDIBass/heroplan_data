@@ -1,8 +1,8 @@
 name: Tyr
-class: Fighter
 source: Season3
 family: Helheim
 speed: Fast
+class: Fighter
 power: 790
 attack: 772
 defense: 756
@@ -10,16 +10,10 @@ health: 1312
 skill: Adamantite Claw
 effects:
   - Deals 285% damage to the target.
-  - >-
-    The attack has a 60% chance to bypass defensive buffs. This includes
-    counterattacks.
-  - >-
-    The target receives 212 Bleed damage over 4 turns.
+  - The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
+  - The target receives 212 Bleed damage over 4 turns.
   - The caster regenerates 548 HP over 4 turns.
-  - >-
-    If the caster dies during the next 4 turns, they are resurrected in the
-    beginning of their next turn with 32% health. All status effects and stacks
-    are removed when the caster dies.
+  - If the caster dies during the next 4 turns, they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.
 types:
   - Hit 1
   - Dot 1
@@ -29,21 +23,16 @@ image: https://i.imgur.com/tjoH1nb.jpg
 costume:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 918
-  attack: 895
-  defense: 876
-  health: 1679
+  power: 961
+  attack: 949
+  defense: 914
+  health: 1771
   skill: Indestructible Claw
   effects:
     - Deals 260% damage to the target and nearby enemies.
     - The attack bypasses defensive buffs. This includes counterattacks.
-    - >-
-      The target and nearby enemies receive 584 Bleed damage over 4 turns. The
-      caster absorbs 40% of the dealt Bleed damage as health.
-    - >-
-      If the caster dies during the next 4 turns they are resurrected in the
-      beginning of their turn with 40% health. All status effects and stacks are
-      removed when the caster dies.
+    - The target and nearby enemies receive 584 Bleed damage over 4 turns. The caster absorbs 40% of the dealt Bleed damage as health.
+    - If the caster dies during the next 4 turns they are resurrected in the beginning of their turn with 40% health. All status effects and stacks are removed when the caster dies.
   types:
     - Hit 3
     - Dot 3

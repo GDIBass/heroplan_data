@@ -10,10 +10,7 @@ health: 1598
 skill: Unrelenting Hunter
 effects:
   - Deals 250% damage to target and nearby enemies.
-  - >-
-    Reduces max health of the target and nearby enemies by 450 over 3
-    turns. The effect is stronger against targets with boosted health. 
-    Max health can’t get lower than 30% of the original health. Any boosted health is reduced by an additional 150 per turn.
+  - Reduces max health of the target and nearby enemies by 450 over 3 turns. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original health. Any boosted health is reduced by an additional 150 per turn.
 types:
   - Hit 3
   - Health reduction
@@ -26,15 +23,14 @@ image: https://i.imgur.com/0Yedhet.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 996
-  attack: 952
-  defense: 926
-  health: 1995
+  power: 1003
+  attack: 960
+  defense: 934
+  health: 2010
   skill: Judgement of Sun
   effects:
     - Deals 230% damage to the target and nearby enemies.
-    - >-
-      Reduces max health of the target and nearby enemies by 600 over 3 turns. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original health. Any boosted health is reduced by an additional 200 per turn.
+    - Reduces max health of the target and nearby enemies by 600 over 3 turns. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original health. Any boosted health is reduced by an additional 200 per turn.
   types:
     - Hit 3
     - Health reduction

@@ -9,9 +9,7 @@ defense: 665
 health: 1231
 skill: Moonlight Serenade
 effects:
-  - >-
-    The target and nearby enemies receive 932 damage over 4 turns, starting low and
-    increasing with every turn
+  - The target and nearby enemies receive 932 damage over 4 turns, starting low and increasing with every turn
   - Cleanses status ailments from all allies
 types:
   - DoT 3
@@ -20,16 +18,14 @@ image: https://i.imgur.com/rSEO0Xi.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 919
-  attack: 966
-  defense: 798
-  health: 1661
+  power: 956
+  attack: 1022
+  defense: 831
+  health: 1723
   skill: Serenade of Sedition
   effects:
     - Deals 120% damage to the target and minor damage to nearby enemies.
-    - >-
-      The target and nearby enemies receive 1118 damage over 4 turns, starting
-      low and increasing with every turn.
+    - The target and nearby enemies receive 1118 damage over 4 turns, starting low and increasing with every turn.
     - Cleanses status ailments from all allies.
   types:
     - Hit 3
@@ -37,6 +33,5 @@ costume:
     - Cleanser
   passives:
     - >-
-      Poison on Special Skill: When this character casts their Special Skill, 
-      all enemies receive 540 Poison damage over 4 turns.
+      Poison on Special Skill: When this character casts their Special Skill, all enemies receive 540 Poison damage over 4 turns.
   image: https://i.imgur.com/mpM0YIf.jpg

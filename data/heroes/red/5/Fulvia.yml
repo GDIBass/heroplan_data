@@ -1,23 +1,17 @@
 name: Fulvia
-class: Cleric
-speed: Average
 source: owltower
 family: owl
+speed: Average
+class: Cleric
 power: 985
 attack: 1032
 defense: 1011
 health: 1542
 skill: Royal Assault
 effects:
-  - >-
-    Attacks the target and nearby enemies with Moonrise Strike, dealing up to 
-    1440 damage. Deals 40% more damage if the target is Holy.
-  - >-
-    For 3 turns, reduces the mana of the target and nearby enemies by -15% at 
-    the end of turn.
-  - >-
-    The target and nearby enemies get -50% decrease for any healing received 
-    for 3 turns.
+  - Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage. Deals 40% more damage if the target is Holy.
+  - For 3 turns, reduces the mana of the target and nearby enemies by -15% at the end of turn.
+  - The target and nearby enemies get -50% decrease for any healing received for 3 turns.
 types:
   - Hit 3
   - Mana reducer

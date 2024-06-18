@@ -1,8 +1,8 @@
 name: Victor
-class: Wizard
 source: Morlovia
 family: Morlovia
 speed: Very Fast
+class: Wizard
 power: 773
 attack: 778
 defense: 671
@@ -10,12 +10,9 @@ health: 1347
 skill: Night of Sorrow
 effects:
   - Deals 250% damage to the target.
-  - >-
-    The target receives 355 damage over 5 turns. If a target already has this
-    effect, the duration will be refreshed and the damage will be increased by
-    315, up to 985 damage in total
+  - The target receives 355 damage over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 315, up to 985 damage in total.
   - The caster steals 75% of any healing applied to the target for 5 turns.
-  - All allies get +30% defense for 5 turns
+  - All allies get +30% defense for 5 turns.
 types:
   - Hit 1
   - DoT 1
@@ -23,27 +20,20 @@ types:
   - Defense Buff
 passives:
   - >-
-    Steal Buff - When this character casts their Special Skill, they have a 50% 
-    chance to steal the newest dispellable buff from a random enemy that has buffs. 
-    If no enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/Trss5zi.jpg
 costume:
   bonuses: 5/5/10/5
   class: Rogue
-  power: 816
-  attack: 808
-  defense: 722
-  health: 1472
+  power: 918
+  attack: 939
+  defense: 825
+  health: 1673
   skill: Legacy of Darkness
   effects:
     - Deals 155% damage to the target and nearby enemies.
-    - >-
-      The target and nearby enemies receive 230 damage over 5 turns. If a target
-      already has this effect, the duration will be refreshed and the damage
-      will be increased by 315, up to 855 damage in total.
-    - >-
-      The caster steals 61% of any healing applied to the target and nearby
-      enemies for 5 turns.
+    - The target and nearby enemies receive 230 damage over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 315, up to 855 damage in total.
+    - The caster steals 61% of any healing applied to the target and nearby enemies for 5 turns.
     - The target and nearby enemies get -24% defense for 5 turns.
   types:
     - Hit 3

@@ -20,17 +20,15 @@ image: https://i.imgur.com/bjKzbra.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 918
-  attack: 754
-  defense: 996
-  health: 1789
+  power: 959
+  attack: 799
+  defense: 1039
+  health: 1887
   skill: Blessing of Gjallarhorn
   effects:
     - Each fallen ally has 50% chance to get revived with 20% HP.
     - All allies get +50% attack for 4 turns.
-    - >-
-      All allies regenerate 672 boosted health over 4 turns. Boosted health can
-      exceed max HP.
+    - All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.
   types:
     - Revive
     - Attack Buff

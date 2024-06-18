@@ -23,10 +23,10 @@ image: https://i.imgur.com/pr4mBGS.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 995
-  attack: 966
-  defense: 951
-  health: 1901
+  power: 1035
+  attack: 1024
+  defense: 991
+  health: 1961
   skill: Underworld Flame
   effects:
     - Deals 230% damage to all enemies.

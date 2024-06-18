@@ -1,7 +1,8 @@
 name: Crystalis
-class: Wizard
 source: Villains
+family: Villains
 speed: Fast
+class: Wizard
 power: 801
 attack: 778
 defense: 756
@@ -10,12 +11,9 @@ skill: Freezing Crystal
 effects:
   - Deals 190% damage to all enemies.
   - Reduces the duration of all enemies’ active buffs by 1 turn.
-  - >-
-    All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals
-    70 damage and lowers the target’s attack by -11% each turn.
+  - All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 70 Frosth damage and lowers the target’s attack by -11% each turn.
 types:
   - Hit All
   - Buff Reduction
-  - DoT all
-family: Villains
+  - DoT All
 image: https://i.imgur.com/fA7IHzy.jpg
