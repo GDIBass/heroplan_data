@@ -32,3 +32,35 @@ passives:
       * Deals 80% damage to all enemies.
       * The caster get +19% mana generation for 2 turns.
 image: https://i.imgur.com/vMt41XY.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 1077
+  attack: 1072
+  defense: 1026
+  health: 2075
+  skill: Sunken Magma Cube
+  effects:
+    - 'Special Skill need consecutive uses to reach full power, the following order:'
+    - '1st:'
+    - ' * Deals 275% damage to 3 random enemies.'
+    - ' * Hit enemies became afflicted with Underwater Magma Cube.'
+    - ' * While afflicted with Magma Cube the owner get -34% defense'
+    - ' * Magma Cube explode in 3 turns doing 300 damage to their owner.'
+    - ' * If Magma Cube is dispelled, the owner get -34% mana generation for 3 turns. (If the Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to 2 times per cast.)'
+    - '2nd:'
+    - ' * Deals 375% damage to 5 random enemies.'
+    - ' * Hit enemies became afflicted with Underwater Magma Cube.'
+    - ' * While afflicted with Magma Cube the owner get -44% defense.'
+    - ' * Magma Cube explode in 4 turns doing 450 damage to their owner.'
+    - ' * If Magma Cube is dispelled, the owner get -54% mana generation for 4 turns. (If the Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to 2 times per cast.)'
+  types:
+    - Hit 3
+    - Defense debuff
+  passives:
+    - >-
+      Effects on Special Skill: 50% chance to perform the following actions when this 
+      character casts their Special Skill:
+        * Deals 80% damage to all enemies.
+        * The caster get +19% mana generation for 2 turns.
+  image: https://i.imgur.com/WnfoNeZ.jpg
