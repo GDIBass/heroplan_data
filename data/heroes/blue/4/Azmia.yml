@@ -24,3 +24,27 @@ passives:
   - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
   - ' * Cleanses the latest cleansable status ailments from all allies.'
 image: https://i.imgur.com/VnnI4Om.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 699
+  attack: 634
+  defense: 717
+  health: 1369
+  skill: Dance Stance
+  effects:
+    - Recovers 10% health for all allies.
+    - The caster and nearby allies counterattack with 110% of the damage received for 4 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 135%.
+  types:
+    - Heal All
+    - Counterattack
+  passives:
+    - >-
+      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+    - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+    - ' * Cleanses the latest cleansable status ailments from all allies.'
+    - >-
+      Guaranteed Effect on Special Skill: When this character casts their Special Skill that grant extra effect on cast are guaranteed to activate.
+    - >-
+      Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack.
+  image: https://i.imgur.com/CmCVc5Z.jpg
