@@ -9,10 +9,8 @@ defense: 578
 health: 1312
 skill: Wall of Swords
 effects:
-  - Deals 202% damage to all enemies
-  - >-
-    The caster and nearby allies counterattack with 125% of the damage received
-    for 5 turns
+  - Deals 202% damage to all enemies.
+  - The caster and nearby allies counterattack with 125% of the damage received for 5 turns.
 types:
   - Hit All
   - Counterattack
@@ -26,10 +24,8 @@ costume:
   health: 1494
   skill: Sword Barricade
   effects:
-    - Deals 172% damage to all enemies
-    - >-
-      The caster and nearby allies counterattack with 155% of the damage
-      received for 5 turns
+    - Deals 172% damage to all enemies.
+    - The caster and nearby allies counterattack with 155% of the damage received for 5 turns.
   types:
     - Hit All
     - Counterattack
@@ -44,9 +40,7 @@ costume2:
   skill: Dreaded Swords
   effects:
     - Deals 242% damage to all enemies.
-    - >-
-      The caster and nearby allies counterattack with 115% of the damage received
-      for 5 turns. The counterattack damage increases +10% each turn, up to 155%.
+    - The caster and nearby allies counterattack with 115% of the damage received for 5 turns. The counterattack damage increases +10% each turn, up to 155%.
   types:
     - Hit All
     - Counterattack

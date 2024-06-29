@@ -10,9 +10,7 @@ health: 1339
 skill: Solar Beam
 effects:
   - Deals 468% damage to the target
-  - >-
-    The target gets -40% accuracy for 6 turns. Chance to miss also applies to
-    offensive special skills
+  - The target gets -40% accuracy for 6 turns. Chance to miss also applies to offensive special skills.
 types:
   - Hit 1
   - Blind
@@ -27,9 +25,7 @@ costume:
   skill: Solar Strike
   effects:
     - Deals 488% damage to the target
-    - >-
-      The target gets -35% accuracy for 4 turns. Chance to miss also applies to
-      offensive special skills
+    - The target gets -35% accuracy for 4 turns. Chance to miss also applies to offensive special skills.
   types:
     - Hit 1
     - Blind
@@ -45,9 +41,7 @@ costume2:
   effects:
     - Deals 260% damage to target and nearby enemies
     - The target and nearby enemies receive 195 Burn damage over 3 turns
-    - >-
-      The target and nearby enemies get -35% accuracy for 3 turns. Chance to
-      miss also applies to offensive Special Skills
+    - The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.
   types:
     - Hit 3
     - Dot 3
@@ -56,10 +50,10 @@ costume2:
 costume3:
   bonuses: 5/5/10/5
   class: Monk
-  power: 1051
-  attack: 1051
-  defense: 896
-  health: 2201
+  power: 1105
+  attack: 1126
+  defense: 960
+  health: 2267
   skill: Toon Beam
   effects:
     - Deals 548% damage to the target.
@@ -69,5 +63,6 @@ costume3:
     - Hit 1
     - Blind
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/6UDBHvu.jpg

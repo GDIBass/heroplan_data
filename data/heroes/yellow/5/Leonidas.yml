@@ -54,10 +54,10 @@ costume2:
 costume3:
   bonuses: 5/5/10/5
   class: Monk
-  power: 1048
-  attack: 1029
-  defense: 994
-  health: 2034
+  power: 1102
+  attack: 1102
+  defense: 1065
+  health: 2096
   skill: Toon Cleave
   effects:
     - Deals 565% damage to the target.
@@ -69,5 +69,6 @@ costume3:
     - Mana reducer
     - Self heal
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/PKsAK4b.jpg

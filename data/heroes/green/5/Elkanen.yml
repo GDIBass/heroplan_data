@@ -25,9 +25,7 @@ costume:
   skill: Eclipse Spear
   effects:
     - Deals 280% damage to the target and nearby enemies
-    - >-
-      The caster steals 61% of any healing applied to the target and nearby
-      enemies for 3 turns
+    - The caster steals 61% of any healing applied to the target and nearby enemies for 3 turns
   types:
     - Hit 3
     - Healing Steal
@@ -42,9 +40,7 @@ costume2:
   skill: Lunar Spear
   effects:
     - Deals 230% damage to all enemies
-    - >-
-      All enemies get -50% decrease for any healing received for 3 turns. This
-      effect can't be cleansed.
+    - All enemies get -50% decrease for any healing received for 3 turns. This effect can't be cleansed.
   types:
     - Hit All
     - Healing Decrease
@@ -52,10 +48,10 @@ costume2:
 costume3:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 1057
-  attack: 1058
-  defense: 977
-  health: 2062
+  power: 1112
+  attack: 1134
+  defense: 1047
+  health: 2125
   skill: Toon Spear
   effects:
     - Deals 410% damage to the target and minor damage to nearby enemies.
@@ -65,5 +61,6 @@ costume3:
     - Hit 3
     - Self Heal
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/6SvyBu6.jpg

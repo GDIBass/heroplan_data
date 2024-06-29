@@ -4,15 +4,14 @@ source: Season1
 family: Classic
 speed: Slow
 class: Druid
-power: 861
-attack: 865
-defense: 740
-health: 1618
+power: 915
+attack: 941
+defense: 805
+health: 1686
 skill: Lightning Ultimatum
 effects:
   - Deals 300% damage to the target and nearby enemies.
-  - >-
-    The target and nearby enemies automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.
+  - The target and nearby enemies automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.
 types:
   - Hit All
   - Mindless Attack

@@ -4,10 +4,10 @@ source: Season1
 family: Classic
 speed: Average
 class: Barbarian
-power: 861
-attack: 795
-defense: 861
-health: 1554
+power: 916
+attack: 865
+defense: 936
+health: 1618
 skill: Glacial Crusher
 effects:
   - Deals 360% damage to the target and nearby enemies.
