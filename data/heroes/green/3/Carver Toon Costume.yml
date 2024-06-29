@@ -1,0 +1,22 @@
+name: Carver Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Rogue
+power: 506
+attack: 537
+defense: 515
+health: 783
+skill: Slash of Four Toons
+effects:
+  - Deals 155% damage to all enemies.
+  - Reduces the mana of all enemies by 10%.
+  - Deals extra damage against Ice.
+types:
+  - Hit All
+  - Mana Reduction
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/rbDQHbY.jpg

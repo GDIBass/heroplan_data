@@ -25,10 +25,27 @@ costume:
   skill: Stab of Four Blades
   effects:
     - Deals 125% damage to all enemies
-    - >-
-      All enemes get -24% mana generation for 3 turns. This effect can't be
-      cleansed
+    - All enemes get -24% mana generation for 3 turns. This effect can't be cleansed.
   types:
     - Hit All
     - Mana Generation Debuff
   image: https://i.imgur.com/xs9Nn7b.jpg
+costume2:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 506
+  attack: 537
+  defense: 515
+  health: 783
+  skill: Slash of Four Toons
+  effects:
+    - Deals 155% damage to all enemies.
+    - Reduces the mana of all enemies by 10%.
+    - Deals extra damage against Ice.
+  types:
+    - Hit All
+    - Mana Reduction
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/rbDQHbY.jpg
