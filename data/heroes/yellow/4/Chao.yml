@@ -45,7 +45,7 @@ costume2:
     - Hit 3
     - Mana generation debuff
   image: https://i.imgur.com/AhEe43s.jpg
-costume:
+costume3:
   bonuses: 5/5/10/5
   class: Ranger
   power: 745
