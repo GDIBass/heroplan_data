@@ -1,8 +1,8 @@
 name: Kadilen
-class: Druid
 source: Season1
 family: Classic
 speed: Fast
+class: Druid
 power: 757
 attack: 696
 defense: 766
@@ -25,9 +25,7 @@ costume:
   skill: Crescent Shield
   effects:
     - Deals 170% damage to all enemies.
-    - >-
-      All allies get +45% chance to dodge special skills for 3 turns. Each dodge
-      summons a thorn minion.
+    - All allies get +45% chance to dodge special skills for 3 turns. Each dodge summons a thorn minion.
     - Thorn minion has 15% HP and 15% attack inherited from the caster
   types:
     - Hit All
@@ -36,16 +34,14 @@ costume:
 costume2:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 860
-  attack: 747
-  defense: 923
-  health: 1539
+  power: 914
+  attack: 812
+  defense: 1003
+  health: 1603
   skill: Lunar Shield
   effects:
     - Deals 210% damage to all enemies.
-    - >-
-      All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge
-      summons an Empowered Thorn Minion.
+    - All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge summons an Empowered Thorn Minion.
     - Empowered Thorn Minion has 25% HP and 25% attack inherited from the caster
   types:
     - Hit All

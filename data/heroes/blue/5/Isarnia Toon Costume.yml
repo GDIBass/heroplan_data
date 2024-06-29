@@ -1,12 +1,13 @@
 name: Isarnia Toon Costume
+is_costume: true
 source: Season1
 family: Classic
 speed: Slow
 class: Wizard
-power: 1050
-attack: 1083
-defense: 950
-health: 2004
+power: 1105
+attack: 1161
+defense: 1018
+health: 2065
 skill: Toon Shatter
 effects:
   - Deals 385% damage to all enemies.

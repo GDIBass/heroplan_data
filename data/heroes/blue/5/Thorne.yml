@@ -23,19 +23,17 @@ costume:
   skill: Freezing Finale
   effects:
     - Deals 540% damage to the target.
-    - >-
-      The caster gets +24% mana generation for 3 turns. This effect can't be
-      dispelled.
+    - The caster gets +24% mana generation for 3 turns. This effect can't be dispelled.
   types:
     - Hit 1
   image: https://i.imgur.com/YX5GVdv.jpg
 costume2:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 861
-  attack: 795
-  defense: 861
-  health: 1554
+  power: 916
+  attack: 865
+  defense: 936
+  health: 1618
   skill: Glacial Crusher
   effects:
     - Deals 360% damage to the target and nearby enemies.

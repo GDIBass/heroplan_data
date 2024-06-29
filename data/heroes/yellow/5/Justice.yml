@@ -1,8 +1,8 @@
 name: Justice
-class: Paladin
 source: Season1
 family: Classic
 speed: Slow
+class: Paladin
 power: 754
 attack: 609
 defense: 776
@@ -30,6 +30,7 @@ costume:
     - The caster gets +24% mana generation for 3 turns
   types:
     - Hit all
+    - Self Mana generation buff 
   image: https://i.imgur.com/KCL7Y0s.jpg
 costume2:
   bonuses: 5/5/10/5
@@ -47,4 +48,24 @@ costume2:
       offensive Special Skills
   types:
     - Hit All
+    - Blind
   image: https://i.imgur.com/feWdynO.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 1110
+  attack: 1140
+  defense: 904
+  health: 2380
+  skill: Toon of Judgment
+  effects:
+    - Deals 435% damage to all enemies.
+    - All enemies get -30% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)
+    - Deals extra damage against Dark.
+  types:
+    - Hit All
+    - Blind
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/ChEEEeb.jpg

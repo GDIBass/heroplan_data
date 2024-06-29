@@ -4,10 +4,10 @@ class: Ranger
 source: Season1
 family: Classic
 speed: Fast
-power: 1053
-attack: 1029
-defense: 1002
-health: 2055
+power: 1107
+attack: 1102
+defense: 1074
+health: 2118
 skill: Toon Shot
 effects:
   - Deals 592% damage to the target.
@@ -15,5 +15,6 @@ effects:
 types:
   - Hit 1
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
 image: https://i.imgur.com/yEECSzl.jpg

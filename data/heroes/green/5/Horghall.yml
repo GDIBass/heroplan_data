@@ -1,8 +1,8 @@
 name: Horghall
-class: Druid
 source: Season1
 family: Classic
 speed: Slow
+class: Druid
 power: 753
 attack: 657
 defense: 650
@@ -33,18 +33,16 @@ costume:
 costume2:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 857
-  attack: 750
-  defense: 787
-  health: 1784
+  power: 910
+  attack: 816
+  defense: 856
+  health: 1858
   skill: Anger of the Woods
   effects:
-    - Deals 260% damage to all enemies
-    - >-
-      All enemies get -31% attack, and a further 4% decrease any time they are
-      hit during 4 turns
-    - All enemies get -24% defense for 4 turns
-    - All enemies receive 212 Poison damage over 4 turns
+    - Deals 260% damage to all enemies.
+    - All enemies get -31% attack, and a further 4% decrease any time they are hit during 4 turns.
+    - All enemies get -24% defense for 4 turns.
+    - All enemies receive 228 Poison damage over 4 turns.
   types:
     - Hit All
     - Attack Debuff

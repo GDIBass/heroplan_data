@@ -12,7 +12,7 @@ effects:
   - Recover 42% health for all allies
   - Cleanses status ailments from all allies
 types:
-  - Healer
+  - Heal All
   - Cleanser
 image: https://i.imgur.com/epzxGwy.jpg
 costume:
@@ -28,7 +28,7 @@ costume:
     - All allies get +48% attack for 3 turns
     - Cleanses status ailments from all allies
   types:
-    - HOT
+    - HoT
     - Attack Buff
     - Cleanser
   image: https://i.imgur.com/9nzkBMP.jpg
@@ -45,7 +45,27 @@ costume2:
     - All allies get +40% defense for 3 turns.
     - Cleanses status ailments from all allies.    
   types:
-    - Healer
+    - Boost Health All
     - Defense Buff
     - Cleanser
   image: https://i.imgur.com/0dWPfN4.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 749
+  attack: 804
+  defense: 730
+  health: 1274
+  skill: Toonification
+  effects:
+    - Recovers 45% health for all allies.
+    - All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
+    - Cleanses status ailments from all allies.
+  types:
+    - Heal All
+    - Defense Buff
+    - Cleanser
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/rCKWMnx.jpg

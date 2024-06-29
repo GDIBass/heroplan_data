@@ -1,0 +1,23 @@
+name: Rigard Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Cleric
+power: 749
+attack: 804
+defense: 730
+health: 1274
+skill: Toonification
+effects:
+  - Recovers 45% health for all allies.
+  - All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
+  - Cleanses status ailments from all allies.
+types:
+  - Heal All
+  - Defense Buff
+  - Cleanser
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/rCKWMnx.jpg

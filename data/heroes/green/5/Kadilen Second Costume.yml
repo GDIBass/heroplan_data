@@ -4,16 +4,14 @@ source: Season1
 family: Classic
 speed: Fast
 class: Cleric
-power: 860
-attack: 747
-defense: 923
-health: 1539
+power: 914
+attack: 812
+defense: 1003
+health: 1603
 skill: Lunar Shield
 effects:
   - Deals 210% damage to all enemies.
-  - >-
-    All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge
-    summons an Empowered Thorn Minion.
+  - All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge summons an Empowered Thorn Minion.
   - Empowered Thorn Minion has 25% HP and 25% attack inherited from the caster
 types:
   - Hit All

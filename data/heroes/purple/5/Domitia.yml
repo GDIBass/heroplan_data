@@ -43,10 +43,7 @@ costume2:
   skill: Dark Bolt
   effects:
     - Deals 335% damage to target and nearby enemies
-    - >-
-      The target and nearby enemies get -64% defense against Dark for 4 turns.
-      Against Holy characters, this status effect becomes uncleansable and lasts
-      2 turns longer.
+    - The target and nearby enemies get -64% defense against Dark for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.
     - Deals extra damage against Holy.
   types:
     - Hit 3
@@ -55,10 +52,10 @@ costume2:
 costume3:
   bonuses: 5/5/10/5
   class: Rogue
-  power: 1057
-  attack: 1054
-  defense: 939
-  health: 2149
+  power: 1111
+  attack: 1129
+  defense: 1006
+  health: 2215
   skill: Toon Bolt
   effects:
     - Deals 590% damage to the target.
@@ -69,5 +66,6 @@ costume3:
     - Hit 1
     - Dispeller
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/q7quKlm.jpg

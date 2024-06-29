@@ -4,10 +4,10 @@ class: Paladin
 source: Season1
 family: Classic
 speed: Average
-power: 1054
-attack: 1034
-defense: 922
-health: 2212
+power: 1108
+attack: 1108
+defense: 988
+health: 2279
 skill: Toon Hammer
 effects:
   - Deals 565% damage to the target and minor damage to nearby enemies.
@@ -17,5 +17,6 @@ types:
   - Hit 3
   - Attack Debuff
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
 image: https://i.imgur.com/2rEfoQ7.jpg

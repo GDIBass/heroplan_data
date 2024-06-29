@@ -54,21 +54,20 @@ costume2:
 costume3:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 1056
-  attack: 994
-  defense: 1002
-  health: 2161
+  power: 1110
+  attack: 1065
+  defense: 1074
+  health: 2227
   skill: Toon Heal
   effects:
     - Recovers 54% health for all allies.
-    - >-
-      All allies get +45% defense for 4 turns. For all Holy characters, this 
-      status effect becomes undispellable and lasts 2 turns longer.
+    - All allies get +45% defense for 4 turns. For all Holy characters, this status effect becomes undispellable and lasts 2 turns longer.
     - Cleanses status ailments from all allies.
   types:
     - Healer
     - Defense buff
     - Cleanser
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/zJxvLuN.jpg

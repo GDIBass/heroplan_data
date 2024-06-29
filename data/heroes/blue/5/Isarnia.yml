@@ -41,9 +41,7 @@ costume2:
   skill: Glacial Vortex
   effects:
     - Deals 270% damage to all enemies
-    - >-
-      All enemies get -34% attack for 4 turns. Against Nature characters, this
-      status effect becomes uncleansable and lasts 2 turns longer
+    - All enemies get -34% attack for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer
     - Deals extra damage against Fire
   types:
     - Hit All
@@ -52,10 +50,10 @@ costume2:
 costume3:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 1050
-  attack: 1083
-  defense: 950
-  health: 2004
+  power: 1105
+  attack: 1161
+  defense: 1018
+  health: 2065
   skill: Toon Shatter
   effects:
     - Deals 385% damage to all enemies.
