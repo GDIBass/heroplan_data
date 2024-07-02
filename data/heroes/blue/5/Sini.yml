@@ -1,0 +1,25 @@
+name: Sini
+source: Hotm
+family: 2024
+speed: Average
+class: Wizard
+power: 970
+attack: 1040
+defense: 947
+health: 1547
+skill: Conjure the Azure Spirit
+effects:
+  - Deals 250% damage to all enemies.
+  - Alters the power of all Ice shields on the board. When an attacking hero casts the special, the shields become enhanced with +54% attack. When a defending Hero casts the special, the shields becme weakened with -47% attack.
+  - Deals extra damage against Fire.
+  - Element Link gives all Ice allies +5% dodge chance for 6 turns. This effect cannot be dispelled.
+types:
+  - Hit All
+  - Board Alterer
+passives:
+  - >-
+    Resist Special Skill Blocking: This character has innate resistance against
+    status ailments that block Special Skills.
+  - >-
+    Status Effect on Mana Reduction: This character get +30% attack for 3 turns when their mana is reduced.
+image: https://i.imgur.com/IV4i4UQ.jpg
