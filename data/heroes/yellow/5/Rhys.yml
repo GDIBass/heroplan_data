@@ -1,8 +1,8 @@
 name: Rhys
-class: Cleric
-speed: Fast
-family: Bard
 source: Festival
+family: Bard
+speed: Fast
+class: Cleric
 power: 849
 attack: 844
 defense: 805
@@ -10,17 +10,12 @@ health: 1454
 skill: Hymn of Enrichment
 effects:
   - Boost health of all allies by 320. Boosted health can exceed max HP.
-  - >-
-    Alters the power of all Holy shields on the board. When an attacking Hero
-    casts the special, the shields become enhanced and give +37% more mana. When
-    a defending Hero casts the special, the shields become weakened and give
-    -30% less mana.
-  - >-
-    All allies get +34% attack and a further 3% increase per each Holy shield on
-    the board for 3 turns, up to +70% attack.
+  - Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
+  - All allies get +34% attack and a further 3% increase per each Holy shield on the board for 3 turns, up to +70% attack.
   - Cleanses status ailments from all allies.
 types:
   - Health Boost
+  - Board Alterer
   - Attack Buff
   - Cleanse
 passives:

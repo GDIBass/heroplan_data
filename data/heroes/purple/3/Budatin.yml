@@ -11,7 +11,7 @@ skill: Abiding Dogma
 effects:
   - Alters the power of all Dark shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
 types:
-  - Shield Modification
+  - Board Alterer
 passives:
   - >-
     Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled.

@@ -13,7 +13,7 @@ effects:
   - Alters the power of All Nature shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.
 types:
   - Healer
-  - Shield Enhance
+  - Board Alterer
 image: https://i.imgur.com/IwBPUx4.jpg
 costume:
   bonuses: 5/5/10/5
@@ -28,5 +28,5 @@ costume:
     - Alters the power of all Nature shields on the board. When an attacking Hero casts the special, the shields become enhance with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.
   types:
     - Healer
-    - Shield Enhance
+    - Board Alterer
   image: https://i.imgur.com/AZRDhg4.jpg

@@ -1,24 +1,18 @@
 name: Zione
-class: Cleric
 source: SuperElemental
 family: SuperElemental
 speed: Average
+class: Cleric
 power: 688
 attack: 680
 defense: 690
 health: 1234
 skill: Express Delivery
 effects:
-  - >-
-    Alters the power of all Holy shields on the board. When an attacking Hero 
-    casts the special, the shields become enhanced and give +30% more mana. 
-    When a defending casts the special, the shields become weakened and give 
-    -23% less mana.
-  - >-
-    All allies get +35% attack for 4 turns. For all Holy characters, the status
-    effect becomes undispellable and last 2 turns longer.
+  - Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +30% more mana. When a defending casts the special, the shields become weakened and give -23% less mana.
+  - All allies get +35% attack for 4 turns. For all Holy characters, the status effect becomes undispellable and last 2 turns longer.
 types:
-  - Tile Enhancer
+  - Board Alterer
   - Attack buff
 passives:
   - >-
