@@ -15,7 +15,7 @@ effects:
 types:
   - Hit 1
   - Hit Blue
-  - Shield Enhance
+  - Board Alterer
 passives:
   - >-
     Troop Mastery: This Passive Skill has two different functions based on if this character is in attack or in defense.
