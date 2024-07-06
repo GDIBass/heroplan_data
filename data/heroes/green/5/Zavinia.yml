@@ -1,0 +1,23 @@
+name: Zavinia
+source: secretsummon
+family: investigator
+speed: Fast
+class: Rogue
+power: 1111
+attack: 1143
+defense: 1050
+health: 1798
+skill: Darts of the Deep
+effects:
+  - Deals 450% damage to the target.
+  - Deals additional 180% damage to as many random enemies as there are Nature tiles on the board, up to a maximum of 12 hits. The damage is reduced on each consecutive hit.
+  - All hit target get 10 Insanity every time they are hit.
+  - Inflicts 50 Insanity to the caster.
+types:
+  - Hit 1
+  - Random Hits
+  - Insanity
+passives:
+  - >-
+    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
+image: https://i.imgur.com/F1mKhpD.jpg
