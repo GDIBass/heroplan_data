@@ -1,8 +1,8 @@
 name: Ahhotep
 source: Season5
-class: Rogue
 family: Moon
 speed: Average
+class: Rogue
 power: 683
 attack: 692
 defense: 658
@@ -10,15 +10,35 @@ health: 1232
 skill: Mummy Slash
 effects:
   - Deals 340% damage to the target and minor damage to nearby enemies.
-  - >-
-    If the target is defeated in the next 3 turns, all caster’s allies get +20
-    mana.
+  - If the target is defeated in the next 3 turns, all caster’s allies get +20 mana.
 types:
   - Hit 3
 passives:
   - >-
-    Effects on Special Skill: 60% chance to perform the following actions when
-    this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * Dispels the latest dispellable buff from enemies.'
+    Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+     * Deals 70% damage to all enemies.
+     * Dispels the latest dispellable buff from enemies.
 image: https://i.imgur.com/MLXGUOi.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 699
+  attack: 660
+  defense: 705
+  health: 1326
+  skill: Mummy Strike
+  effects:
+    - Deals 370% damage to the target and minor damage to nearby enemies.
+    - If the target is defeated in the next 3 turns, all caster’s allies get +15% mana.
+  types:
+    - Hit 3
+  passives:
+    - >-
+      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+       * Deals 70% damage to all enemies.
+       * Dispels the latest dispellable buff from enemies.
+    - >-
+      Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
+    - >-
+      Mana on Status Ailment Received: This character gains 5% mana each time they receive a status ailment or negative stack.
+  image: https://i.imgur.com/ph6Gczr.jpg
