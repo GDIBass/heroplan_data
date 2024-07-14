@@ -1,0 +1,21 @@
+name: Ash
+source: SuperElemental
+family: SuperElemental
+speed: Average
+class: Rogue
+power: 1077
+attack: 1133
+defense: 1069
+health: 1835
+skill: Ruby Rush
+effects:
+  - Deals 150% damage to 9 random enemies.
+  - Damage is increased by 5% per each Fire shield on the board, up to +200% damage per hit.
+  - All hit targets get -35% defense against Fire and a further -5% decrease every time they are hit during 4 turns.
+types:
+  - Hit 9
+  - Elemental Defense Debuff
+passives:
+  - >-
+    Troop strong damage modifier: This Passive Skill has two different function based on if this character is in attack or in defense. Passive Skill as attacking character. This character's Troops deal 100% more additional damage against the weaker element. Passive Skill as defending character. This character receives 10% less additional damage from troops of stronger element.    
+image: https://i.imgur.com/Vb0jBsm.jpg
