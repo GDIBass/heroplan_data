@@ -21,3 +21,29 @@ passives:
   - ' * Deals 70% damage to all enemies.'
   - ' * All enemies receive 255 Sand damage over 3 turns.'
 image: https://i.imgur.com/3Y3v4bs.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 1004
+  attack: 978
+  defense: 896
+  health: 2047
+  skill: Teeth of the River
+  effects:
+    - Deals 280% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - All enemies receive 424 Bleed damage over 4 turns.
+  types:
+    - Hit All
+    - Bypass
+    - DoT
+  passives:
+    - >-
+      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+       * Deals 70% damage to all enemies.
+       * All enemies receive 291 Sand damage over 3 turns.
+    - >-
+      Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
+    - >-
+      Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage an additional 50% is added to its power.
+  image: https://i.imgur.com/E4kLEt9.jpg
