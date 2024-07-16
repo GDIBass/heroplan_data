@@ -1,0 +1,18 @@
+name: Wu Kong Toon Costume
+source: Season1
+family: Classic
+speed: Average
+class: Monk
+power: 748
+attack: 745
+defense: 795
+health: 1290
+skill: Toon Stance
+effects:
+  - All allies get +175% attack with -32% accuracy for 5 turns. For all Holy characters, this status effect becomes undispellable and lasts 2 turns longer.
+types:
+  - Titan Attack Buff
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/3dV4crJ.jpg
