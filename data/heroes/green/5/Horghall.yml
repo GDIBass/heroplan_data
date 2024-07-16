@@ -49,3 +49,22 @@ costume2:
     - Defense Debuff
     - Dot 4
   image: https://i.imgur.com/IfQ1lHo.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 1111
+  attack: 910
+  defense: 1056
+  health: 2660
+  skill: Anger of the Toons
+  effects:
+    - Deals 430% damage to all enemies.
+    - All enemies get -24% attack for 6 turns.
+    - Deals extra damage against Ice.
+  types:
+    - Hit All
+    - Attack Debuff
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/VkOyyRt.jpg
