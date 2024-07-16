@@ -1,0 +1,22 @@
+name: Ulmer Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Wizard
+power: 507
+attack: 533
+defense: 504
+health: 820
+skill: Toon Blizzard
+effects:
+  - Deals 146% damage to all enemies.
+  - All enemies get -24% defense for 6 turns.
+  - Deals extra damage against Fire.
+types:
+  - Hit All
+  - Defense Debuff
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/7Gi7zzw.jpg

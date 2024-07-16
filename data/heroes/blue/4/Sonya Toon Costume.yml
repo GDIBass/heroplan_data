@@ -1,0 +1,22 @@
+name: Sonya Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Paladin
+power: 746
+attack: 807
+defense: 758
+health: 1194
+skill: Toonpower Strike
+effects:
+  - Deals 355% damage to the target.
+  - Deals extra damage against Fire.
+  - Dispels buffs from the target.
+types:
+  - Hit 1
+  - Dispeller
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/k4GWNzl.jpg
