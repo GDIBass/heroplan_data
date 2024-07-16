@@ -45,7 +45,7 @@ costume2:
     - Hit 1
     - Buff imunity to all
   image: https://i.imgur.com/9fhb23h.jpg
-costume:
+costume3:
   bonuses: 5/5/10/5
   class: Paladin
   power: 746
