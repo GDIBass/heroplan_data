@@ -1,0 +1,26 @@
+name: Sune
+source: Covenant
+family: PlainsHunter
+speed: Fast
+class: Paladin
+power: 1079
+attack: 1093
+defense: 1027
+health: 2031
+skill: Primeval Glaive
+effects:
+  - Deals 550% damage to the target.
+  - If the target is of Ice element, deals 300% damage to nearby enemies.
+  - Dispels buffs from the target and nearby enemies.
+  - Reduces the mana of the target and nearby enemies by -5% per each removed status effect, up to -20% in total.
+  - Deals extra damage against Ice.
+types:
+  - Hit 1
+  - Dispeller 3
+  - Mana Reduction 3
+passives:
+  - >-
+    Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  - >-
+    Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+image: https://i.imgur.com/Uw6kgXB.jpg
