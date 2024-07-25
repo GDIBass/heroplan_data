@@ -1,0 +1,24 @@
+name: Guffa
+source: Gargoyle
+family: Gargoyle
+speed: Slow
+class: Paladin
+power: 1080
+attack: 984
+defense: 1112
+health: 2142
+skill: Reflecting Stance
+effects:
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.
+  - The caster gets +40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+  - All allies except the caster receive a Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.)
+  - All allies recover 1400 health after 4 turns or instantly if the skill is cast again before the duration ends. This effect cannot be dispelled.
+types:
+  - Taunt
+  - Mana generation buff 1
+  - Softskin except self
+  - Delayed Healer
+passives:
+  - >-
+    Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.
+image: https://i.imgur.com/i3PGL4o.jpg
