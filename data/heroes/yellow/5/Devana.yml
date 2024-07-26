@@ -9,7 +9,7 @@ defense: 756
 health: 1404
 skill: Arrows and Claws
 effects:
-  - Deals 255% damage to the target and nearby enemies.
+  - Deals 285% damage to the target and nearby enemies.
   - Summons a Lynx Minion with 35% HP and 35% attack inherited from the caster.
   - Before Lynx Minion hits target, it destroys all Minions from the target.
   - Dispells buffs from the target and nearby enemies.

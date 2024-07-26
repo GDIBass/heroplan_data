@@ -3,13 +3,13 @@ source: owltower
 family: owl
 speed: Average
 class: Rogue
-power: 1070
-attack: 1122
-defense: 1091
-health: 1769
+power: 1111
+attack: 1130
+defense: 1100
+health: 1794
 skill: Blade Wings
 effects:
-  - Attacks the target with Moonrise Strike, dealing up to 1000 damage. Deals 40% more damage if the target is Holy.
+  - Attacks the target with Moonrise Strike, dealing up to 1100 damage. Deals 40% more damage if the target is Holy.
   - After a successful cast, has 100% chance to recast Blade Wings again on a random target.
   - Can recast up to 3 times and chance to recast is reduced by -35% after every successful cast.
 types:

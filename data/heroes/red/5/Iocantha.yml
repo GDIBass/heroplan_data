@@ -3,14 +3,14 @@ source: goblinvillage
 family: garrisonguard
 speed: Very Fast
 class: Ranger
-power: 1074
-attack: 1145
-defense: 1052
-health: 1818
+power: 1077
+attack: 1149
+defense: 1056
+health: 1831
 skill: Aces High
 effects:
   - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - Deals 300% damage to the target and 2 random enemies.
+  - Deals 320% damage to the target and 2 random enemies.
   - Each hit reduces the duration of all status effect buffs on the hit enemy by one turn. (The duration reduction affects both dispellable and undispellabe status effect buffs. If the duration on any buff is reduced to zero, the effect is considered as having expired naturally.)
 types:
   - Cleanser
