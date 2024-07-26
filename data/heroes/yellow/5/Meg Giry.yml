@@ -3,10 +3,10 @@ source: Solstice
 family: opera
 speed: Average
 class: Paladin
-power: 1021
-attack: 933
-defense: 1007
-health: 2055
+power: 1111
+attack: 988
+defense: 1062
+health: 2222
 skill: Deceptive Smalltalk
 effects:
   - Recovers 60% health for all allies.
@@ -20,10 +20,7 @@ types:
   - Defense Buff
 passives:
   - >-
-    Resist Attack Ailments: This character has innate resistance against status 
-    ailments that affect attack.
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense.
   - >- 
-    Heal when status ailment expires or is cleared: This character receives 10% 
-    health each time a status ailment expires or is cleansed, removed or 
-    reallocated from them. This effect can activate only once per turn.
+    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
 image: https://i.imgur.com/GJH1yAl.jpg

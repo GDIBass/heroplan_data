@@ -1,27 +1,21 @@
 name: Klaern
 source: Hotm
-class: Sorcerer
 family: 2022
 speed: Slow
+class: Sorcerer
 power: 809
 attack: 766
 defense: 772
 health: 1427
 skill: Hailstorm
 effects:
-  - Deals 240% damage to all enemies.
-  - >-
-    All enemies receive 210 Water damage over 5 turns. The caster absorbs 25% of
-    dealt Water damage as health.
-  - >-
-    Element Link gives all ice allies +10% defense for 4 turns. This effect
-    can't be dispelled.
+  - Deals 270% damage to all enemies.
+  - All enemies receive 325 Water damage over 5 turns. The caster absorbs 30% of dealt Water damage as health.
+  - Element Link gives all ice allies +10% defense for 4 turns. This effect can't be dispelled.
 types:
   - Hit all
   - Health steal
 passives:
   - This character has innate resistance against mana reduction.
-  - >-
-    This character has innate resistance against status ailments that block
-    Special Skills.
+  - This character has innate resistance against status ailments that block Special Skills.
 image: https://i.imgur.com/zoE3F2A.jpg

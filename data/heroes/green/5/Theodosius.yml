@@ -3,17 +3,17 @@ source: goblinvillage
 family: garrisonguard
 speed: Slow
 class: Monk
-power: 1072
-attack: 1062
-defense: 1130
-health: 1856
+power: 1111
+attack: 1069
+defense: 1137
+health: 1874
 skill: Reporting for Duty
 effects:
   - Deals 450% damage to all enemies.
   - Reduces the duration of all allies’ active status ailments by 3 turn. (The duration reduction affects both cleansable and uncleansable status ailments. If the duration on any ailment is reduced to zero, the effect is considered as having expired naturally.)
   - Reduces the duration of all enemies’ active buffs by 3 turns.(The duration reduction affects both dispellable and undispellable status effect buffs. If the duration on any buff is reduced to zero, the effect is considered as having expired naturally.)
-  - All allies get +30% defense for 5 turns.
-  - All enemies get -30% defense for 5 turns.
+  - All allies get +35% defense for 5 turns.
+  - All enemies get -35% defense for 5 turns.
 types:
   - Hit All
   - Reduce Ailments duration 3

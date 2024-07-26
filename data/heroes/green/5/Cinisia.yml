@@ -1,33 +1,25 @@
 name: Cinisia
-class: Wizard
 source: Hotm
 family: 2023
 speed: Average
+class: Wizard
 power: 825
 attack: 883
 defense: 729
 health: 1341
 skill: Fury of Ash
 effects:
-  - Deals 240% damage to all enemies.
+  - Deals 270% damage to all enemies.
   - All enemies get -60% decrease of any healing received for 3 turns.
-  - >-
-    All enemies receive 300 Bleed damage over 2 turns. Against Ice characters, 
-    this status effect becomes uncleansable and lasts 2 turns longer.
-  - >-
-    Element Link gives +10% mana generation for all Nature allies for 4 turns. 
-    This effect cannot be dispelled.
+  - All enemies receive 414 Bleed damage over 2 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  - Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect cannot be dispelled.
 types:
   - Hit All
   - Healing Decrease
   - DoT
 passives:
   - >- 
-    Increased Attack Per Non-Nature Enemy: At the start of the battle, this 
-    character’s attack is increased by 5% for enemy that is not of Nature element. 
-    In battles with multiple waves, this effect is refreshed at the beginning of 
-    each wave.
+    Increased Attack Per Non-Nature Enemy: At the start of the battle, this character’s attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave.
   - >-
-    Resist Attack Ailments: This character has innate resistance against status 
-    ailments that affect attack.
+    Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
 image: https://i.imgur.com/L1RhKDe.jpg

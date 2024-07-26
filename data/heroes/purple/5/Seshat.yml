@@ -9,8 +9,8 @@ defense: 683
 health: 1345
 skill: Conjuration Arrow
 effects:
-  - Deals 400% damage to the target.
-  - Summon a Replicator Minion with 18% HP and 15% attack inherited from the caster. The minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.
+  - Deals 450% damage to the target.
+  - Summon a Replicator Minion with 20% HP and 17% attack inherited from the caster. The minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.
   - Dispels buffs from the target and nearby enemies.
   - Elemental Link gives +4% mana generation for all Dark allies  for 4 turns. This effect can't be cleansed
 types:
@@ -31,8 +31,8 @@ costume:
   skill: Excorcizing Arrow
   effects:
     - Dispels buffs from the target and nearby enemies.
-    - Deals 370% damage to the target.
-    - Summons a Replicator Minion with 18% HP and 15% attack inheried from the caster. The Replicator Minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.
+    - Deals 420% damage to the target.
+    - Summons a Replicator Minion with 20% HP and 17% attack inheried from the caster. The Replicator Minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.
     - Element Link gives +4% mana generation for all Dark allies for 4 turns. This effect can't be dispelled.
   types:
     - Dispeller
