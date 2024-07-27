@@ -16,7 +16,7 @@ types:
   - Healing Buff
 image: https://i.imgur.com/nJsozVv.jpg
 costume:
-  bonuses: 3/3/6/1
+  bonuses: 3/3/6/5
   class: Barbarian
   power: 673
   attack: 689
