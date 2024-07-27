@@ -30,7 +30,7 @@ passives:
       * All allies get +21% critical chance for 2 turns.
 image: https://i.imgur.com/6o3KSeL.jpg
 costume:
-  bonuses: 3/3/6/1
+  bonuses: 5/5/10/5
   class: Paladin
   power: 1018
   attack: 1061
