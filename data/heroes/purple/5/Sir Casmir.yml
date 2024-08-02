@@ -1,0 +1,24 @@
+name: Sir Casmir
+source: Hotm
+family: 2024
+speed: Slow
+class: Paladin
+power: 983
+attack: 964
+defense: 1025
+health: 1672
+skill: Guardian’s Retaliation
+effects:
+  - Cleanses status ailments from the caster and nearby allies.
+  - For the next 5 turns, this character has a 50% chance to deal 600% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)
+  - The caster and nearby allies reflect status ailments and negative stacks for 5 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - Element Link gives all Dark allies +5% dodge chance for 6 turns. This effect cannot be dispelled.
+types:
+  - Cleanser 3
+  - Reflect ailments 3
+passives:
+  - >-
+    Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.
+  - >-
+    Mana on Health Recovery: This character receives 5% mana each time its health is recovered.
+image: https://i.imgur.com/7f9DRkN.jpg
