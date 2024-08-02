@@ -12,9 +12,29 @@ effects:
   - Deals 310% damage to 5 random enemies.
   - 'Stack (Max: 10): Each hit gives its target -9% attack.'
 types:
-  - Hit 5
+  - Hit 5 random
   - Attack Debuff stack
 passives:
   - >-
     Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character.
 image: https://i.imgur.com/FKztylV.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 987
+  attack: 977
+  defense: 941
+  health: 1839
+  skill: Seaweed Flail
+  effects:
+    - Deals 325% damage to 5 random enemies.
+    - 'Stack (Max: 10): Each hit gives its target -8% attack.'
+  types:
+    - Hit 5 random
+    - Attack Debuff stack
+  passives:
+    - >-
+      Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
+    - >-
+      Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns.
+  image: https://i.imgur.com/llQVrNB.jpg
