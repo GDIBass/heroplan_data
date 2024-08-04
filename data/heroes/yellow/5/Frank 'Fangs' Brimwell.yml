@@ -1,0 +1,24 @@
+name: Frank 'Fangs' Brimwell
+source: goblinvillage
+family: garrisonguard
+speed: Average
+class: Fighter
+power: 1081
+attack: 1143
+defense: 1079
+health: 1818
+skill: Esprit de Corps
+effects:
+  - Deals 350% damage to the target and nearby enemies.
+  - If any ally has a Mega Minion before this Special Skill is cast, deals 365% damage to all enemies instead.
+  - Summnos a Recruit Guard Mega Minion with 20% HP and 100% attack inherited from the caster.
+  - The Recruit Guard Mega Minion gains more HP and attack when there are more unique Garrison Guard heroes on the team, up to 30% HP and 140% attack.
+types:
+  - Hit 3
+  - Guard Mega Minion
+passives:
+  - >-
+    Resist Mana reduction: This character has an innate resistance against mana Reduction.
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://i.imgur.com/N2blWos.jpg
