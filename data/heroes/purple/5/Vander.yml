@@ -1,0 +1,27 @@
+name: Vander
+source: SuperElemental
+family: SuperElemental
+speed: Fast
+class: Wizard
+power: 1082
+attack: 1114
+defense: 1100
+health: 1854
+skill: Gloom Grenades
+effects:
+  - Deals 450% damage to the target.
+  - The target gets silenced for 3 turns.
+  - If there are 6 or more Dark shields on the board, the damage and status ailments are dealt to the target and nearby enemies instead.
+  - If there are 12 or more Dark shields on the board, the damage and status ailments are dealt to the all enemies instead.
+types:
+  - Hit 1
+  - Silence
+passives:
+  - 'Troop Mastery:'
+  - ' Passive Skill as attacking character:'
+  - ' - This hero’s Troops deal extra elemental damage against weaker element.'
+  - '   * Dealt extra elemental damage: +100%'
+  - ' Passive Skill as defending character:'
+  - ' - This hero receives less elemental damage from Troops of stronger element.'
+  - '   * Received elemental damage: -10%'
+image: https://i.imgur.com/4cx1DT9.jpg
