@@ -1,0 +1,25 @@
+name: Skarn
+source: Covenant
+family: construct
+speed: Very Fast
+class: Rogue
+power: 1083
+attack: 1097
+defense: 1030
+health: 2043
+skill: Searing Frost
+effects:
+  - Deals 185% damage to all enemies.
+  - All enemies get -30% defense against Ice for 3 turns.
+  - All enemies receive 378 Frost damage over 3 turns.
+types:
+  - Hit All
+  - Defense debuff
+  - DoT
+passives:
+  - >- 
+    Corrosive Core: The Construct Core of this character is Corrosive Core.
+    The Corrosive Core activates each time this character’s Special Skill is cast:
+    * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target’s mana generation by -13% each turn.
+    * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.
+image: https://i.imgur.com/jl8sclm.jpg
