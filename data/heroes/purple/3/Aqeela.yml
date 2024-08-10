@@ -32,7 +32,7 @@ costume:
   effects:
     - Deals 145% damage to the target and nearby enemies.
     - >-
-    The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +10% defense stack (Max: 10).
+      The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +10% defense stack (Max: 10).
   types:
     - Hit 3
     - Dodge Buff 3
