@@ -1,8 +1,8 @@
 name: Aqeela
 source: Season5
-class: Rogue
 family: Moon
 speed: Fast
+class: Rogue
 power: 483
 attack: 450
 defense: 498
@@ -11,15 +11,38 @@ skill: One Jump Ahead
 effects:
   - Deals 155% damage to the target and nearby enemies.
   - >-
-    The caster and nearby allies get +45% chance to dodge Special Skills for 3
-    turns. Each dodge gives +5% defense stack (Max: 10).
+    The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack (Max: 10).
 types:
   - Hit 3
-  - Dodge Buff
+  - Dodge Buff 3
 passives:
   - >-
-    Effects on Special Skill: 50% chance to perform the following actions when
-    this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * Dispels the latest dispellable buff from enemies.'
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+    * Deals 70% damage to all enemies.
+    * Dispels the latest dispellable buff from enemies.
 image: https://i.imgur.com/N5k1s9j.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 494
+  attack: 476
+  defense: 488
+  health: 904
+  skill: One Spell Ahead
+  effects:
+    - Deals 145% damage to the target and nearby enemies.
+    - >-
+      The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +10% defense stack (Max: 10).
+  types:
+    - Hit 3
+    - Dodge Buff 3
+  passives:
+    - >-
+      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:
+      * Deals 70% damage to all enemies.
+      * Dispells the latest dispellable buff from all enemies.
+    - >-
+      Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
+    - >-
+      Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
+  image: https://i.imgur.com/kbKyRq1.jpg
