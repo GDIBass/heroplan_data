@@ -1,0 +1,22 @@
+name: Tiburtus Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Ranger
+power: 742
+attack: 755
+defense: 792
+health: 1223
+skill: Toontastic Pulverizer
+effects:
+  - Deals 325% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -24% defense for 6 turns.
+  - Deals extra damage against Holy.
+types:
+  - Hit 3
+  - Defense Debuff
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/XlVXDYe.jpg
