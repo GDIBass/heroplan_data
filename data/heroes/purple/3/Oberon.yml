@@ -9,8 +9,8 @@ defense: 411
 health: 839
 skill: Toxic Traps
 effects:
-  - Deals 121% damage to all enemies
-  - All enemies receive 102 damage over 6 turns
+  - Deals 121% damage to all enemies.
+  - All enemies receive 102 damage over 6 turns.
 types:
   - Hit All
   - DoT All
@@ -24,9 +24,26 @@ costume:
   health: 933
   skill: Toxic Tricks
   effects:
-    - >-
-      All enemies receive 324 Poison damage over 3 turns.  This effect can't be
-      cleased.
+    - All enemies receive 324 Poison damage over 3 turns.  This effect can't be cleased.
   types:
     - Dot all
   image: https://i.imgur.com/4wjqw3M.jpg
+costume2:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 508
+  attack: 512
+  defense: 466
+  health: 956
+  skill: Toon Traps
+  effects:
+    - Deals 151% damage to all enemies.
+    - All enemies receive 76 damage over 6 turns.
+    - Deals extra damage against Holy.
+  types:
+    - Hit All
+    - DoT All
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/z96lxl3.jpg

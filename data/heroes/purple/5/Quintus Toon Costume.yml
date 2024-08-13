@@ -1,0 +1,20 @@
+name: Quintus Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Sorcerer
+power: 1113
+attack: 1035
+defense: 1059
+health: 2356
+skill: Toon Ultimatum
+effects:
+  - Deals 420% damage to all enemies.
+  - Deals extra damage against Holy.
+types:
+  - Hit All
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/ff1uvHj.jpg
