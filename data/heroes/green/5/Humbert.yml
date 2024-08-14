@@ -3,7 +3,7 @@ source: Knights
 family: Bear
 speed: Average
 class: Barbarian
-power: 1111
+power: 1079
 attack: 1050
 defense: 1110
 health: 1975
@@ -14,6 +14,8 @@ effects:
   - All allies get +30% defense for 4 turns. The defense increases by 10% each turn up to 60%.
 types:
   - Hit All
+  - Health Boost All
+  - Defense Buff
 passives:
   - >-
     Health Recovery on Buff Received: This character recovers 5% health when  they receive a buff or a positive stack.

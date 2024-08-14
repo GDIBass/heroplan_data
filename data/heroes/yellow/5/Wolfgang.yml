@@ -1,8 +1,8 @@
 name: Wolfgang
-class: Fighter
 source: Knights
 family: Wolf
 speed: Average
+class: Fighter
 power: 816
 attack: 768
 defense: 784
@@ -11,11 +11,9 @@ skill: Commander's Gauntlet
 effects:
   - Deals 250% damage to all enemies.
   - The caster reduces all received damage by -50% for 4 turns.
-  - >-
-    After 4 turns, the caster boosts health of all allies by 600. 
-    Boosted health can exceed max HP.
+  - After 4 turns, the caster boosts health of all allies by 600. Boosted health can exceed max HP.
 types:
   - Hit all
-  - Damage reduction
+  - Damage reduction 1
   - Health boost
 image: https://i.imgur.com/8Qu4qUF.jpg

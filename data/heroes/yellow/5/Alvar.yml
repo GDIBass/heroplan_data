@@ -1,0 +1,23 @@
+name: Alvar
+source: Knights
+family: Stag
+speed: Average
+class: Sorcerer
+power: 1084
+attack: 1165
+defense: 1106
+health: 1730
+skill: Scroll of New Beginnings
+effects:
+  - Lifts all cleansable status ailments from all allies and randomly distributes them on enemies.
+  - The duration of status ailments is reset for all enemies.
+  - Deals 350% damage to all enemies.
+  - All enemies reflect status effect buffs to a random character on the opposing team for 4 turns. (Only dispellable buffs are reflected.)
+types:
+  - Cleanser
+  - Hit All
+  - Buffs reflect
+passives:
+  - >-
+    Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.
+image: https://i.imgur.com/dIFfVvr.jpg
