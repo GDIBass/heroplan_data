@@ -12,9 +12,7 @@ effects:
   - Cleanses status ailments from all allies.
   - Boosts health of all allies by 1200. Boosted health can exceed max HP.
   - All allies resists max health reduction for 5 turns.
-  - >-
-    All allies get +60% defense as long as the caster has boosted health. 
-    This effect can’t be cleansed.
+  - All allies get +60% defense as long as the caster has boosted health. This effect can’t be cleansed.
 types:
   - Cleanser
   - Health Boost
