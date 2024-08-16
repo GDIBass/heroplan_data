@@ -9,14 +9,10 @@ defense: 780
 health: 1355
 skill: Stalling Spell
 effects:
-  - Deals 235% damage to all enemies
-  - >-
-    All enemies with a dispellable mana generation buff get -54% mana generation
-    for 4 turns. This effect can't be cleansed.
-  - All enemies are immune to new status effect buffs for 4 turns.
-  - >-
-    Element Link gives +10% increase for any healing received for all Dark
-    allies for 4 turns. This effect can't be dispelled.
+  - Deals 265% damage to all enemies
+  - All enemies with a dispellable mana generation buff get -54% mana generation for 5 turns. This effect can't be cleansed.
+  - All enemies are immune to new status effect buffs for 5 turns.
+  - Element Link gives +10% increase for any healing received for all Dark allies for 4 turns. This effect can't be dispelled.
 types:
   - Hit All
   - Mana Generation Debuff

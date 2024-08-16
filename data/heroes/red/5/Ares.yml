@@ -11,7 +11,7 @@ skill: Might of Ares
 effects:
   - The caster and nearby allies get +54% attack for 4 turns
   - The caster and nearby allies get +36% critical chance for 4 turns
-  - The caster and nearby allies regenerate 720 HP over 4 turns
+  - The caster and nearby allies regenerate 860 HP over 4 turns
   - Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled.
 types:
   - Attack Buff
@@ -28,8 +28,8 @@ costume:
   skill: Seal of Ares
   effects:
     - The caster and nearby allies get +45% attack for 4 turns. The attack increases by 5% each turn, up to +60%.
-    - The caster and nearby allies counterattack with 90% of the damage received for 4 turns. The counterattack damage increases by 10% each turn, up to 120%.
-    - The caster and nearby allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.
+    - The caster and nearby allies counterattack with 100% of the damage received for 4 turns. The counterattack damage increases by 10% each turn, up to 130%.
+    - The caster and nearby allies regenerate 772 boosted health over 4 turns. Boosted health can exceed max HP.
     - Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled.
   types:
     - Attack Buff
