@@ -3,14 +3,14 @@ source: BlackFriday
 family: AstralElves
 speed: Average
 class: Sorcerer
-power: 1075
+power: 1085
 attack: 1032
 defense: 1205
 health: 1868
 skill: Astral Summon
 effects:
   - Summons an Astral Sphere Minion for each ally with 35% HP and 39% attack inherited from the caster.
-  - When summoned, the Astral Sphere Minion gives +33% mana generation for its owner for as long as the owner has Astral Sphere Minions. This effect can’t be dispelled. (Affetcts only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+  - When summoned, the Astral Sphere Minion gives +33% mana generation for its owner for as long as the owner has Astral Sphere Minions. This effect can’t be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
   - All allies reduce all received damage by -43% for 4 turns.
   - All allies’ normal attacks and Special Skills deal +100% damage against targets with boosted health for 4 turns.
 types:

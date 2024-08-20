@@ -1,0 +1,22 @@
+name: Whitefang
+source: harvest
+family: Fox
+speed: Fast
+class: Ranger
+power: 1089
+attack: 1046
+defense: 1133
+health: 2010
+skill: Never Ending Winter
+effects:
+  - Dispels buffs from the target.
+  - Deals 550% damage to the target.
+  - The target receives lasting 300 Frost damage per turn. This effect spreads to nearby enemies. (This effect lasts until it is cleansed or removed.
+types:
+  - Dispel 1
+  - Hit 1
+  - Lasting DoT 1
+passives:
+  - >-
+    Decreased Healing: All enemies get -50% healing.
+image: https://i.imgur.com/r0k8YaN.jpg

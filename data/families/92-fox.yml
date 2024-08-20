@@ -1,0 +1,8 @@
+key: fox
+code: 92
+description: Fox
+image: https://i.imgur.com/m38dh6K.png
+bonus:
+  - "Fox heroes summon a Sly Fox Minion for themselves at the start of the battle."
+  - "* Sly Fox Minion has 2% health and 100% attack inherited from the hero. Sly Fox Minion has 80% chance to dodge incomming attacks."
+  - "* When Sly Fox Minion dodges, it steals latest dispellable buff from the attacker and gives it to its owner."
