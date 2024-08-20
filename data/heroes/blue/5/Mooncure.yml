@@ -1,0 +1,26 @@
+name: Mooncure
+source: BlackFriday
+family: AstralElves
+speed: Slow
+class: Cleric
+power: 1086
+attack: 1065
+defense: 1170
+health: 1868
+skill: Astral Myrrh
+effects:
+  - Recovers 55% health for all allies.
+  - All allies get +10% mana every time an enemy uses their Special skill during 5 turns.
+  - The caster steals 50% of any healing applied to all enemies for 5 turns.
+  - All enemies get -40% attack for 5 turns.
+types:
+  - Heal All
+  - Mana on enemy SS
+  - Heal steal
+  - Attack Debuff
+passives:
+  - >-
+    Resist Poison: This character has innate resistance against Poison.
+  - >-
+    Share Received Damage: 20% of damage received by this charater is shared with other allies.
+image: https://i.imgur.com/K8e9yy9.jpg
