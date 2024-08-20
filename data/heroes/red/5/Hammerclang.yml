@@ -1,8 +1,8 @@
 name: Hammerclang
-class: Rogue
 source: BlackFriday
 family: AstralElves
 speed: Fast
+class: Rogue
 power: 1013
 attack: 1027
 defense: 1052
@@ -21,6 +21,5 @@ passives:
   - >-
     Resist Poison: This character has innate resistance against Poison.
   - >-
-    Share Received Damage: 20% of damage received by this charater is shared 
-    with other allies.
+    Share Received Damage: 20% of damage received by this charater is shared with other allies.
 image: https://i.imgur.com/ujdL1Bx.jpg

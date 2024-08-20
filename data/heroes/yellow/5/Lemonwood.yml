@@ -1,8 +1,8 @@
 name: Lemonwood
-class: Ranger
 source: BlackFriday
 family: AstralElves
 speed: Fast
+class: Ranger
 power: 1013
 attack: 1042
 defense: 1036
@@ -20,6 +20,5 @@ passives:
   - >-
     Resist Poison: This character has innate resistance against Poison.
   - >-
-    Share Received Damage: 20% of damage received by this charater is shared 
-    with other allies.
+    Share Received Damage: 20% of damage received by this charater is shared with other allies.
 image: https://i.imgur.com/P0rxyPZ.jpg
