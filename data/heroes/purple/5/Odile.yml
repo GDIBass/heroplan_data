@@ -22,11 +22,7 @@ types:
   - Self Health boost
 passives:
   - >-
-    Resist Defense Ailments: This character has innate resistance against status
-    ailments that affect defense. Doesn’t apply to status ailments that affect 
-    elemental defense.
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense.
   - >- 
-    Heal when status ailment expires or is cleared: This character receives 20% 
-    health each time a status ailment expires or is cleansed, removed or 
-    reallocated from them. This effect can activate only once per turn.
+    Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
 image: https://i.imgur.com/4D2V5En.jpg

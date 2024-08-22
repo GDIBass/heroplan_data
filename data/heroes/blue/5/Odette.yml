@@ -1,8 +1,8 @@
 name: Odette
-class: Paladin
 source: Solstice
 family: opera
 speed: Average
+class: Paladin
 power: 955
 attack: 887
 defense: 959
@@ -25,11 +25,7 @@ types:
   - Status Effect immunity
 passives:
   - >- 
-    Heal when status ailment expires or is cleared: This character receives 10% 
-    health each time a status ailment expires or is cleansed, removed or 
-    reallocated from them. This effect can activate only once per turn.
+    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
   - >-
-    Resist Defense Ailments: This character has innate resistance against status
-    ailments that affect defense. Doesn’t apply to status ailments that affect 
-    elemental defense.
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense.
 image: https://i.imgur.com/ATDUydH.jpg
