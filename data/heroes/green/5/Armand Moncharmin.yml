@@ -1,0 +1,23 @@
+name: Armand Moncharmin
+source: Solstice
+family: opera
+speed: Average
+class: Ranger
+power: 1090
+attack: 1081
+defense: 1182
+health: 1833
+skill: Make them Harmless
+effects:
+  - Deals 300% damage to all enemies.
+  - Summons a Bodyguard Mega Minion with 50% HP and 250% attack inherited from the caster.
+  - The target hit by the Bodyguard Mega Minion falls asleep and receives +60% increased damage when sleeping. (A sleeping target cannot gain mana. The sleeping target is woken once it takes damage. This excludes dmaage from Minions and Fiends. The effect is uncleansable.)
+types:
+  - Hit All
+  - Bodyguard Mega Minion
+passives:
+  - >-
+    Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+image: https://i.imgur.com/PHXp8yu.jpg
