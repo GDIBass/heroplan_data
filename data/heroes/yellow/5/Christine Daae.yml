@@ -10,9 +10,7 @@ health: 1672
 skill: Ballad of Passion
 effects:
   - Deals 355% damage to the target and nearby enemies.
-  - >-
-    The target and nearby enemies dance to Ballad of Passion for 3 turns. 
-    All existing status effects will be removed when this effect is added.
+  - The target and nearby enemies dance to Ballad of Passion for 3 turns. All existing status effects will be removed when this effect is added.
   - Ballad of Passion
   - "* -40% acuracy."
   - "* -40% defense."
@@ -25,11 +23,8 @@ types:
   - Defense debuff
   - Buff immunity
 passives:
-  - >- 
-    Heal when status ailment expires or is cleared: This character receives 5% 
-    health each time a status ailment expires or is cleansed, removed or 
-    reallocated from them. This effect can activate only once per turn.
   - >-
-    Resist Attack Ailments: This character has innate resistance against status 
-    ailments that affect attack.
+    Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
 image: https://i.imgur.com/x8CUwhf.jpg

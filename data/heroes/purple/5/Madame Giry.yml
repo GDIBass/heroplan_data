@@ -10,16 +10,9 @@ health: 1691
 skill: Summoning the Ballerinas
 effects:
   - Deals 340% damage to all enemies.
-  - >-
-    Summons a Ballerina Fiend for all enemies. The Fiend damage the enemy 
-    with 110% attack every turn.
-  - >-
-    The Ballerina Fiend aborbs healing and disappers when it has absorbed 
-    health equal to 45% of its target’s max health.
-  - >-
-    When summoned, the Ballerina Fiend causes its target to be immune to new 
-    buffs. This effect lasts as long as the target has Ballerina Fiends. 
-    This effect can’t be cleansed.
+  - Summons a Ballerina Fiend for all enemies. The Fiend damage the enemy with 110% attack every turn.
+  - The Ballerina Fiend aborbs healing and disappers when it has absorbed health equal to 45% of its target’s max health.
+  - When summoned, the Ballerina Fiend causes its target to be immune to new buffs. This effect lasts as long as the target has Ballerina Fiends. This effect can’t be cleansed.
   - All enemies get -44% defense against Dark for 4 turns.
 types:
   - Hit all
@@ -27,10 +20,7 @@ types:
   - Elemental Defense Debuff
 passives:
   - >- 
-    Heal when status ailment expires or is cleared: This character receives 20% 
-    health each time a status ailment expires or is cleansed, removed or 
-    reallocated from them. This effect can activate only once per turn.
+    Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
   - >-
-    Resist Attack Ailments: This character has innate resistance against status 
-    ailments that affect attack.
+    Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
 image: https://i.imgur.com/jLIIusc.jpg

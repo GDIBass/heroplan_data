@@ -18,10 +18,7 @@ types:
   - Attack Buff stack
 passives:
   - >-
-    Resist Attack Ailments: This character has innate resistance against status 
-    ailments that affect attack.
+    Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
   - >- 
-    Heal when status ailment expires or is cleared: This character receives 5% 
-    health each time a status ailment expires or is cleansed, removed or 
-    reallocated from them. This effect can activate only once per turn.
+    Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
 image: https://i.imgur.com/Kmtj8Eb.jpg
