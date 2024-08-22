@@ -7,7 +7,7 @@ power: 1092
 attack: 1174
 defense: 1052
 health: 1874
-skill: Cascading Darkness
+skill: Ballad of Pain
 effects:
   - Deals 550% damage to the target.
   - The target dances to Ballad of Pain for 4 turns. The dance spreads to nearby enemies.
