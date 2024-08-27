@@ -1,0 +1,29 @@
+name: Nomad
+source: Ninja
+family: Ninja
+speed: Charge
+class: Fighter
+power: 1093
+attack: 1248
+defense: 1067
+health: 1664
+skill: Silent Takedown
+effects:
+  - 1x Mana Charge
+  - ' * Deals 400% damage to the target.'
+  - ' * Deals 600% damage if the target has less than 50% health remaining.'
+  - ' * If the target is defeated by the attack, all allies get +20% mana generation for 2 turns.'
+  - 2x Mana Charge
+  - ' * Deals 425% damage to the target and nearby enemies.'
+  - ' * Deals 638% damage to enemies with less than 50% health remaining.'
+  - ' * If the target is defeated by the attack, all allies get +30% mana generation for 3 turns.'
+  - 3x Mana Charge
+  - ' * Deals 450% damage to all enemies.'
+  - ' * Deals 675% damage to enemies with less than 50% health remaining.'
+  - ' * If the target is defeated by the attack, all allies get +40% mana generation for 4 turns.'
+types:
+  - Charge Hit
+passives:
+  - >-
+    Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.
+image: https://i.imgur.com/k0TDdBr.jpg
