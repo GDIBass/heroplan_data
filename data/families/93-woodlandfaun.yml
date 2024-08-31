@@ -1,0 +1,7 @@
+key: woodlandfaun
+code: 93
+description: Woodland Faun
+image: https://i.imgur.com/uzGTZfp.png
+bonus:
+  - "Bonus for 1 / 2 Heroes:"
+  - "* 75% / 100% chance to resist mana reductions and mana status ailments."
