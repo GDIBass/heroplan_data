@@ -1,0 +1,24 @@
+name: Verity
+source: wilderness
+family: woodlandfaun
+speed: Very Fast
+class: Wizard
+power: 1096
+attack: 1135
+defense: 1034
+health: 2037
+skill: Red Shoes
+effects:
+  - Deals 320% damage to the target and nearby enemies.
+  - >-
+    Enhanced Defense Ailment: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from Special Skill 3 times.
+  - After the Enhanced Defense Ailment ends or is removed, the enemy gets -40% mana generation for 3 turns.
+types:
+  - Hit 3
+  - Enhanced Defense Debuff
+passives:
+  - >-
+    Resist Insanity: This character has innate resistance against Insanity.
+  - >-
+    Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack.
+image: https://i.imgur.com/bRVjhkX.jpg

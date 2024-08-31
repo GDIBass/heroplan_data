@@ -1,0 +1,24 @@
+name: Peregrine
+source: wilderness
+family: woodlandfaun
+speed: Average
+class: Ranger
+power: 1096
+attack: 1095
+defense: 1071
+health: 2062
+skill: Feyfire Slash
+effects:
+  - Deals 440% damage to the target and nearby enemies.
+  - >-
+    Enhanced Dodge: The caster and nearby allies get +55% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfull dodges 5 times.
+  - After the Enhanced Dodge ends or is removed or replaced, the ally gets +70% attack for 5 turns.
+types:
+  - Hit 3
+  - Enhanced Dodge
+passives:
+  - >-
+    Resist Insanity: This character has innate resistance against Insanity.
+  - >-
+    Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack.
+image: https://i.imgur.com/1bOrH83.jpg
