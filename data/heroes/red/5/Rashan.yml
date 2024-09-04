@@ -3,15 +3,15 @@ source: secretsummon
 family: cultist
 speed: Very Fast
 class: Rogue
-power: 1111
+power: 1078
 attack: 1145
 defense: 1067
 health: 1816
 skill: Cuts of Hulu
 effects:
-  - Deals 330% damage and inflicts 25 Insanity to the enemies on the edges of the enemy formation. If there is only one enemy allive, the damage and Insanity is doubled.
+  - Deals 330% damage to the enemies on the edges of the enemy formation and inflicts 25 Insanity on them. If only one enemy alive, the damage and Insanity is doubled.
   - The enemies on the edges of the enemy formation resist healing and receive 250 damage per each resisted healing for 3 turns.
-  - Inflicts 45 Insanity to the caster.
+  - Inflicts 45 Insanity on the caster.
 types:
   - Hit 2
   - Insanity
