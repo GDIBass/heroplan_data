@@ -18,8 +18,31 @@ types:
   - Defense Buff
 passives:
   - >-
-    Effects on Special Skill: 70% chance to perform the following actions when
-    this character casts their Special Skill
+    Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill
   - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
   - ' * Cleanses the latest cleansable status ailments from all allies.'
 image: https://i.imgur.com/vZiyZG9.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 495
+  attack: 456
+  defense: 517
+  health: 899
+  skill: Plentiful Minerals
+  effects:
+    - Boost health of all allies by 300. Boosted health can exceed max HP.
+    - All allies are immune to new status ailments for 4 turns.
+    - All allies get +40% defense for 4 turns.
+  types:
+    - 
+  passives:
+    - >-
+      Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill
+    - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+    - ' * Cleanses the latest cleansable status ailments from all allies.'
+    - >- 
+      Guaranteed Effect On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effect on cast are guaranteed to activate.
+    - >-
+      Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.
+  image: https://i.imgur.com/TFnsKJy.jpg
