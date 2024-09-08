@@ -12,8 +12,8 @@ effects:
   - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.
   - All allies get +63% defense for 5 turns
 types:
-  - Defense Buff
   - Ally Damage Share
+  - Defense Buff
 image: https://i.imgur.com/ra4Iv0M.jpg
 costume:
   bonuses: 5/5/10/5
@@ -27,6 +27,24 @@ costume:
     - All enemies become Soul Connected for 5 turns. Soul Connected enemies share received damage.
     - All enemies get -44% defense for 5 turns.
   types:
-    - Defense Debuff
     - Enemy Damage Share
+    - Defense Debuff
   image: https://i.imgur.com/MxDScRN.jpg
+costume2:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 503
+  attack: 499
+  defense: 533
+  health: 817
+  skill: Toon Link
+  effects:
+    - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+    - All allies get +51% defense for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+  types:
+    - Ally Damage Share
+    - Defense Buff
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/F5oS2LZ.jpg
