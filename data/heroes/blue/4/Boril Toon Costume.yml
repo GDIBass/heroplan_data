@@ -1,0 +1,19 @@
+name: Boril Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Cleric
+power: 747
+attack: 648
+defense: 855
+health: 1401
+skill: Toon Riposte
+effects:
+  - The caster and nearby allies counterattack with 120% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+types:
+  - Counterattack
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/FCxtmOB.jpg

@@ -9,9 +9,7 @@ defense: 792
 health: 1151
 skill: Perfect Riposte
 effects:
-  - >-
-    The caster and nearby allies counterattack with 125% of the damage received
-    for 5 turns
+  - The caster and nearby allies counterattack with 125% of the damage received for 5 turns
 types:
   - Counterattack
 image: https://i.imgur.com/jFkMrWZ.jpg
@@ -24,7 +22,7 @@ costume:
   health: 1287
   skill: Sturdy Riposte
   effects:
-    - All allies counterattack with 60% of the damage received for 4 turns
+    - All allies counterattack with 60% of the damage received for 4 turns.
   types:
     - Counterattack
   image: https://i.imgur.com/p8PKYHQ.jpg
@@ -37,9 +35,23 @@ costume2:
   health: 1404
   skill: Unrelenting Riposte
   effects:
-    - >-
-      All allies counterattacks with 80% of the damage received for 4 turns. 
-      The counterattack damage increases by 20% each turn up to 140%.
+    - All allies counterattacks with 80% of the damage received for 4 turns. The counterattack damage increases by 20% each turn up to 140%.
   types:
     - Counterattack
   image: https://i.imgur.com/9wlyamA.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 747
+  attack: 648
+  defense: 855
+  health: 1401
+  skill: Toon Riposte
+  effects:
+    - The caster and nearby allies counterattack with 120% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+  types:
+    - Counterattack
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/FCxtmOB.jpg
