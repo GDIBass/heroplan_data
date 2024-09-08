@@ -1,0 +1,21 @@
+name: Gunnar Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Paladin
+power: 503
+attack: 499
+defense: 533
+health: 817
+skill: Toon Link
+effects:
+  - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+  - All allies get +51% defense for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+types:
+  - Ally Damage Share
+  - Defense Buff
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/F5oS2LZ.jpg
