@@ -1,0 +1,22 @@
+name: Melodymuse
+source: Astral
+family: AstralElves
+speed: Fast
+class: Cleric
+power: 1099
+attack: 1052
+defense: 1155
+health: 2024
+skill: Moonlight Crescendo
+effects:
+  - Boosts health of all allies by 710. Boosted health can exceed max HP.
+  - All allies are immune to new status ailments for 4 turns.
+types:
+  - Boosts health
+  - Ailmens imunity
+passives:
+  - >-
+    Resist Poison: This character has innate resistance against Poison.
+  - >-
+    Share Received Damage: 20% of damage received by this charater is shared with other allies.
+image: https://i.imgur.com/PSc9HJP.jpg
