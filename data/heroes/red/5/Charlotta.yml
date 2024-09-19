@@ -1,0 +1,26 @@
+name: Charlotta
+source: Solstice
+family: opera
+speed: Slow
+class: Sorcerer
+power: 1100
+attack: 1153
+defense: 1009
+health: 2064
+skill: Ballad of Condemnation
+effects:
+  - Deals 450% damage to target and nearby enemies.
+  - The target and nearby enemies dance to Ballad of Condemnation for 3 turns.
+  - '"Ballad of Condemnation"'
+  - -50% mana generation.
+  - -50% decrease of any healing healing received.
+  - When the dance ends, the target suffers 1500 damage. (All existing status effects will be removed a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. This effect is removed when the caster is defeated.)
+types:
+  - Hit 3
+  - Dance Ballad of Condemnation
+passives:
+  - >-
+    Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
+  - >- 
+    Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+image: https://i.imgur.com/SZzrHhg.jpg
