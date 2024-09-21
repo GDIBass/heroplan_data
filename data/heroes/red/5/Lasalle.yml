@@ -22,11 +22,41 @@ effects:
   - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
 types:
   - Hit 1
-  - Fiend
+  - Replicating Fiend
 passives:
   - >-
-    'Effects on Special Skill:
+    Effects on Special Skill:
     50% chance to perform the following actions when this character casts their Special Skill
       * Deals 80% damage to all enemies.
-      * All allies get +21% critical chance for 2 turns.'
+      * All allies get +21% critical chance for 2 turns.
 image: https://i.imgur.com/bpyUqBe.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 1052
+  attack: 1100
+  defense: 1017
+  health: 1841
+  skill: Champion Maneuver
+  effects:
+    - 'Special Skill need consecutive uses to reach full power, the following order:'
+    - '1st:'
+    - ' * Deals 375% damage to target.'
+    - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 27% attack every turn.'
+    - ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner’s max health.'
+    - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
+    - '2nd:'
+    - ' * Deals 475% damage to target.'
+    - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 42% attack every turn.'
+    - ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.'
+    - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
+  types:
+    - Hit 1
+    - Replicating Fiend
+  passives:
+    - >-
+      Effects on Special Skill:
+      50% chance to perform the following actions when this character casts their Special Skill
+        * Deals 80% damage to all enemies.
+        * All allies get +21% critical chance for 2 turns.
+  image: https://imgur.com/SU2agg6.jpg
