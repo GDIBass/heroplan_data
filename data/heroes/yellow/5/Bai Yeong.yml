@@ -1,28 +1,23 @@
 name: Bai Yeong
-class: Ranger
 source: Hotm
 family: 2020
 speed: Fast
+class: Ranger
 power: 776
 attack: 749
 defense: 735
 health: 1314
 skill: Stunning Steel
 effects:
-  - Deals 370% damage to the target.
-  - >-
-    The target gets -75% accuracy for 2 turns.  Chance to miss also applies to
-    offensive Special Skills.
+  - Deals 390% damage to the target.
+  - The target gets -75% accuracy for 2 turns.  Chance to miss also applies to offensive Special Skills.
   - The target gets -75% decrease for any healing received for 2 turns.
-  - >-
-    Element Link gives all Holy allies +30% defense against Special Skills for 4
-    turns. This effect can't be cleansed.
+  - Element Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed.
 types:
   - Hit 1
   - Blind
   - Healing Debuff
 passives:
   - >-
-    This character has innate resistance against status ailments that are from
-    minions
+    Resist Status Ailments from Minions: This character has innate resistance against status ailments that are from minions.
 image: https://i.imgur.com/4FIVAWy.jpg

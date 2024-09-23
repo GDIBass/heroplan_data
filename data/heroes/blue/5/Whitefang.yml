@@ -4,9 +4,9 @@ family: Fox
 speed: Fast
 class: Ranger
 power: 1089
-attack: 1046
-defense: 1133
-health: 2010
+attack: 1058
+defense: 1143
+health: 2041
 skill: Never Ending Winter
 effects:
   - Dispels buffs from the target.
