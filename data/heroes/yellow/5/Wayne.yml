@@ -1,0 +1,20 @@
+name: Wayne
+source: Morlovia
+family: Morlovia
+speed: Very Fast
+class: Wizard
+power: 1054
+attack: 1184
+defense: 1120
+health: 1442
+skill: Blood Illusion
+effects:
+  - All enemies receive 284 Bleed damage over 2 turns. The caster absorbs 30% of the dealt Bleed damage as health.
+  - The caster steals 60% of any healing applies to all enemies for 2 turns.
+types:
+  - DoT All
+  - Healing Steal All
+passives:
+  - >-
+    Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
+image: https://i.imgur.com/ogAtunM.jpeg

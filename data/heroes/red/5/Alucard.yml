@@ -1,8 +1,8 @@
 name: Alucard
-class: Sorcerer
-speed: Very Fast
 source: Morlovia
 family: Morlovia
+speed: Very Fast
+class: Sorcerer
 power: 851
 attack: 852
 defense: 803
@@ -15,11 +15,32 @@ effects:
   - All allies get 3% mana for each destroyed Minion.
   - The attack bypasses defensive buffs. This includes counterattacks.
 types:
-  - Minion Destruction
+  - Minion Destroyer
   - Hit 3
+  - Bypass
 passives:
   - >-
-    Steal Buff - When this character casts their Special Skill, they have a 50% 
-    chance to steal the newest dispellable buff from a random enemy that has buffs. 
-    If no enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/ZDIKUNx.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 1013
+  attack: 1127
+  defense: 865
+  health: 1798
+  skill: Vampire Heist
+  effects:
+    - Destroys all Minions from the target and nearby enemies.
+    - Deals 245% damage to the target and nearby enemies.
+    - All allies recover 12% health for each destroyed Minion.
+    - All allies get 3% mana for each destroyed Minion.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+  types:
+    - Minion Destroyer
+    - Hit 3
+    - Bypass
+  passives:
+    - >-
+      Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
+  image: https://i.imgur.com/ed8i62p.jpg
