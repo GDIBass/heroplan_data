@@ -1,0 +1,24 @@
+name: Mucktus
+source: superelemental
+family: Slime
+speed: Average
+class: Sorcerer
+power: 1104
+attack: 1133
+defense: 1108
+health: 1946
+skill: Insidious Goo
+effects:
+  - Deals 260% damage to all enemies.
+  - Summons a Slime Fiend for all enemies. The Fiend damage the enemy with 28% attack every turn.
+  - The Slime Fiend absorbs healing. It disappears after absorbing health equal to 10% of its target’s max health.
+  - At the end of each turn the Slime Fiend steals one of the dispellable buffs or Growth effect and gives it to a random character on the opposite team.
+types:
+  - Hit All
+  - Slime Fiends
+passives:
+  - >-
+    Slime Minion Upon Defeat: When the hero is defeated it summons Slime Mega Minions to nearby allies with 51% HP and 40% attack inherited from the defeated hero.
+  - >-
+    Slime Minion Split: If hero loses more than 25% of max health at once-> Summon a Slime Mega Minion on itself with 51% HP and 40% attack.
+image: https://i.imgur.com/eKwzh2k.jpg
