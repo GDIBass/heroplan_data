@@ -1,26 +1,47 @@
 name: Papyros
 source: Season5
-class: Druid
 family: Moon
 speed: Average
+class: Druid
 power: 858
 attack: 813
 defense: 819
 health: 1569
 skill: Summon Sand Golems
 effects:
-  - >-
-    Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each
-    time the Sand Golem Minion is attacked by normal attacks or Special Skills,
-    the attacker receives 294 Sand damage over 3 turns.
+  - Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 294 Sand damage over 3 turns.
   - All allies get +30% defense for 3 turns.
 types:
   - Summoner
   - Defense Buff
 passives:
   - >-
-    Effects on Special Skill: 60% chance to perform the following actions when
-    this character casts their Special Skill
+    Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
   - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
   - ' * All allies gain a small amount of mana.'
 image: https://i.imgur.com/cV84mq0.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 1003
+  attack: 914
+  defense: 994
+  health: 2003
+  skill: Command Sand Golems
+  effects:
+    - Summons a Sand Golem Minion for each ally with 20% HP and 25% attack inherited from the caster.
+    - Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 330 Sand damage over 3 turns.
+    - All allies get +40% defense for 3 turns.
+  types:
+    - Summoner
+    - Defense Buff
+  passives:
+    - >-
+      Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.
+    - >-
+      Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation.
+    - >-
+      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+    - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+    - ' * All allies gain a small amount of mana.'
+  image: https://i.imgur.com/jWPUwhw.jpg
