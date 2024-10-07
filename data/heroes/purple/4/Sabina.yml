@@ -49,3 +49,23 @@ costume2:
     - Status Ailment Immunity
     - Cleanser
   image: https://i.imgur.com/EBmu86N.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 742
+  attack: 802
+  defense: 778
+  health: 1134
+  skill: Fog of the Toons
+  effects:
+    - Recovers 45% health for all allies.
+    - All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
+    - Dispels buffs from all enemies.
+  types:
+    - Heal All
+    - Defense Buff
+    - Dispeller
+  passives:
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  image: https://i.imgur.com/8kaUg4T.jpg

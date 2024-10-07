@@ -1,0 +1,23 @@
+name: Sabina Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Sorcerer
+power: 742
+attack: 802
+defense: 778
+health: 1134
+skill: Fog of the Toons
+effects:
+  - Recovers 45% health for all allies.
+  - All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
+  - Dispels buffs from all enemies.
+types:
+  - Heal All
+  - Defense Buff
+  - Dispeller
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/8kaUg4T.jpg
