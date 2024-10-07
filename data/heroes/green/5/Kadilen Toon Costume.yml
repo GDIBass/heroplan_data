@@ -1,0 +1,23 @@
+name: Kadilen Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Druid
+power: 1110
+attack: 1137
+defense: 1041
+health: 2118
+skill: Toon Shield
+effects:
+  - Deals 270% damage to all enemies.
+  - All allies get +64% defense against Special Skills for 3 turns.
+  - Deals extra damage against Ice.
+types:
+  - Hit All
+  - Special Skill Defense Buff
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/I1ETLXX.jpg
+
