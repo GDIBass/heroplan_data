@@ -1,0 +1,22 @@
+name: Tyrum Toon Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Paladin
+power: 505
+attack: 483
+defense: 464
+health: 1012
+skill: Toon Hit
+effects:
+  - Deals 315% damage to the target.
+  - Deals extra damage against Holy.
+  - Dispels buffs from all enemies.
+types:
+  - Hit 1
+  - Dispeller
+passives:
+  - >-
+    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+image: https://i.imgur.com/MBq6uJ0.jpg
