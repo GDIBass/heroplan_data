@@ -1,0 +1,22 @@
+name: Swiftpaw
+source: covenant
+family: Fox
+speed: Average
+class: Rogue
+power: 1086
+attack: 1133
+defense: 1071
+health: 1895
+skill: Swift Little Friends
+effects:
+  - Deals 480% damage to the target.
+  - The target gets silenced for 3 turns.
+  - Summons a Sly Fox Minion to the caster and nearby allies with 5% HP and 100% attack inherited from the caster.
+  - Sky Fox Minion has 80% chance to dodge incoming attacks.
+  - When a Sky Fox Minion dodges, it steals latest buff from the attacker and gives it to its owner.
+types:
+  - Hit 1
+passives:
+  - >-
+    Decreased Healing: All enemies get -50% healing.
+image: https://i.imgur.com/s7agDwW.jpg
