@@ -16,6 +16,8 @@ effects:
   - When a Sky Fox Minion dodges, it steals latest buff from the attacker and gives it to its owner.
 types:
   - Hit 1
+  - Silencer 1
+  - Summoner 3
 passives:
   - >-
     Decreased Healing: All enemies get -50% healing.
