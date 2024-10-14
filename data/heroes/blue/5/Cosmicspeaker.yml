@@ -1,0 +1,25 @@
+name: Cosmicspeaker
+source: astral
+family: AstralElves
+speed: Average
+class: Wizard
+power: 1106
+attack: 1170
+defense: 1130
+health: 1829
+skill: Constellation Crush
+effects:
+  - This Special Skill never misses its targets.
+  - Deals 350% damage to all enemies.
+  - Dispels buffs from all enemies at the end of each turn for 4 turns.
+  - Cleanses status ailments from all allies at the end of each turn for 4 turns.
+types:
+  - Hit All
+  - Dispeller
+  - Cleanser
+passives:
+  - >-
+    Resist Poison: This character has innate resistance against Poison.
+  - >-
+    Share Received Damage: 20% of damage received by this charater is shared with other allies.
+image: https://i.imgur.com/X5hiGNw.jpg
