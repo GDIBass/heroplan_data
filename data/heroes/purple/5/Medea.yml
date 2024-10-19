@@ -1,8 +1,8 @@
 name: Medea
-class: Ranger
 source: untoldtales
 family: Nightmares of Atlantis
 speed: Changing Tides
+class: Ranger
 power: 999
 attack: 999
 defense: 1009
@@ -20,12 +20,39 @@ effects:
   - ' * The target and nearby enemies get -75% decrease for any healing received for 4 turns.'
 types:
   - Hit 3
-  - Healing debuff
   - Mindless attack
+  - Healing debuff
 passives:
   - >-
-    'Effects on Special Skill:
-    50% chance to perform the following actions when this character casts their Special Skill
-      * Deals 80% damage to all enemies.
-      * The caster gets +19% mana generation for 2 turns.'
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+  - ' * Deals 80% damage to all enemies.'
+  - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/RtOVjbp.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 1125
+  attack: 1158
+  defense: 1116
+  health: 2016
+  skill: Shatter Soul
+  effects:
+    - 'Special Skill need consecutive uses to reach full power, the following order:'
+    - '1st:'
+    - ' * Deals 355% damage to the target and nearby enemies.'
+    - ' * The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.'
+    - ' * The target and nearby enemies get -45% decrease for any healing received for 3 turns.'
+    - '2nd:'
+    - ' * Deals 450% damage to the target and nearby enemies.'
+    - ' * The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.'
+    - ' * The target and nearby enemies get -85% decrease for any healing received for 4 turns.'
+  types:
+    - Hit 3
+    - Mindless attack
+    - Healing debuff
+  passives:
+    - >-
+      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 80% damage to all enemies.'
+    - ' * The caster gets +19% mana generation for 2 turns.'
+  image: https://i.imgur.com/CadXjHa.jpg
