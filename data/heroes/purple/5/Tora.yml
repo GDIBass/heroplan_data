@@ -2,11 +2,11 @@ name: Tora
 source: Ninja
 family: Ninja
 speed: Charge
-class: Ranger
-power: 1095
+class: Barbarian
+power: 1107
 attack: 1233
 defense: 1102
-health: 1648
+health: 1728
 skill: Hunt For Prey
 effects:
   - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'

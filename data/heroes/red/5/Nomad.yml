@@ -3,10 +3,10 @@ source: Ninja
 family: Ninja
 speed: Charge
 class: Fighter
-power: 1093
+power: 1107
 attack: 1248
 defense: 1067
-health: 1664
+health: 1763
 skill: Silent Takedown
 effects:
   - 1x Mana Charge

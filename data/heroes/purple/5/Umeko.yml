@@ -1,0 +1,32 @@
+name: Umeko
+source: Ninja
+family: Ninja
+speed: Charge
+class: Sorcerer
+power: 1108
+attack: 1219
+defense: 1143
+health: 1689
+skill: Noxious Blossom
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - ' - Dispels buffs from the target.'
+  - ' - The target receives 780 Poison damage over 2 turns.'
+  - ' - The target gets -80% decrease of any healing received for 2 turns.'
+  - 'x2 Mana Charge:'
+  - ' - Dispels buffs from the target and nearby enemies.'
+  - ' - The target and nearby enemies receive 1608 Poison damage over 4 turns.'
+  - ' - The target and nearby enemies get -85% decrease of any healing received for 4 turns.'
+  - 'x3 Mana Charge:'
+  - ' - Dispels buffs from all enemies.'
+  - ' - All enemies receive 2412 Poison damage over 6 turns.'
+  - ' - The target gets -90% decrease of any healing received for 6 turns.'
+types:
+  - Dispeller
+  - DoT 1/3/5
+  - Healing Debuff
+passives:
+  - >-
+    Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.
+image: https://i.imgur.com/2sWnlMn.jpg

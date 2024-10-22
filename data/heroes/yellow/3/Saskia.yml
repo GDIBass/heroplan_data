@@ -12,7 +12,7 @@ effects:
   - Recovering 26% health for all allies.
   - >-
     Enhanced Dodge: All allies get +45% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 1 time.
-  - After the Enhanced Effect ends or is removed, the ally regenerates 640 HP over 4 turns.
+  - After the Enhanced Effect ends or is removed or replaced, the ally regenerates 640 HP over 4 turns.
 types:
   - Heal All
   - Enhanced Dodge
@@ -20,5 +20,5 @@ passives:
   - >-
     Resist Insanity: This character has innate resistance against Insanity.
   - >-
-    Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack.
+    Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.
 image: https://i.imgur.com/GNLbvP6.jpg
