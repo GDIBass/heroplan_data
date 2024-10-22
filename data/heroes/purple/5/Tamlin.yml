@@ -12,7 +12,7 @@ effects:
   - Deals 450% damage to all enemies.
   - >-
     Enhanced Defense Ailment: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 6 times.
-  - After the Enhanced Defense Ailment ends or is removed, the enemy gets silenced for 6 turns.
+  - After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets silenced for 6 turns.
 types:
   - Hit All
   - Enhanced Defense All

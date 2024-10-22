@@ -9,9 +9,9 @@ defense: 805
 health: 1446
 skill: Icy Resilience
 effects:
-  - All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.
-  - All allies get +35% defense for 3 turns.
-  - All allies heal 100% of dealt normal damage for 3 turns.
+  - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
+  - All allies get +35% defense for 4 turns.
+  - All allies heal 100% of dealt normal damage for 4 turns.
   - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't be cleansed.
 types:
   - Healer
@@ -28,9 +28,9 @@ costume:
   health: 2128
   skill: Glacial Resilience
   effects:
-    - All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.
-    - All allies get +30% defense, and a further 5% increase every time they are hit during 3 turns.
-    - All allies regenerate 549 HP over 3 turns.
+    - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
+    - All allies get +30% defense, and a further 5% increase every time they are hit during 4 turns.
+    - All allies regenerate 732 HP over 4 turns.
     - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can’t be dispelled.
   types:
     - Share Damage

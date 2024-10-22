@@ -10,7 +10,7 @@ health: 1277
 skill: Midsummer's Dream
 effects:
   - Each fallen ally has a 33% chance to get revived with 23% HP.
-  - All allies regenerate 612 HP over 4 turns.
+  - All allies regenerate 712 HP over 4 turns.
   - All allies regenerate a moderate amount of mana over 4 turns.
   - Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled.
 types:
@@ -28,7 +28,7 @@ costume:
   skill: Midsummer's Reverie
   effects:
     - Each fallen ally has a 38% chance to get revived with 28% HP.
-    - All allies regenerate 548 HP over 4 turns.
+    - All allies regenerate 648 HP over 4 turns.
     - All allies ge +38% mana generation for 4 turns.
     - Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled.
   types:

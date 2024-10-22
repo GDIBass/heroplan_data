@@ -6,7 +6,7 @@ class: Cleric
 power: 1095
 attack: 1275
 defense: 1054
-health: 1639
+health: 1720
 skill: Kunai Assault
 effects:
   - 1x Mana Charge
