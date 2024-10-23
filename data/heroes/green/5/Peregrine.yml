@@ -1,17 +1,17 @@
 name: Peregrine
 source: wilderness
-family: woodlandfaun
+family: Woodland Faun
 speed: Average
 class: Ranger
-power: 1096
-attack: 1095
-defense: 1071
-health: 2062
+power: 1107
+attack: 1106
+defense: 1081
+health: 2092
 skill: Feyfire Slash
 effects:
   - Deals 440% damage to the target and nearby enemies.
   - >-
-    Enhanced Dodge: The caster and nearby allies get +55% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfull dodges 5 times.
+    Enhanced Dodge: The caster and nearby allies get +55% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 5 times.
   - After the Enhanced Dodge ends or is removed or replaced, the ally gets +70% attack for 5 turns.
 types:
   - Hit 3
