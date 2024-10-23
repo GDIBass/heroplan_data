@@ -3,9 +3,9 @@ source: wilderness
 family: woodlandfaun
 speed: Slow
 class: Sorcerer
-power: 1101
+power: 1107
 attack: 1095
-defense: 1081
+defense: 1100
 health: 2078
 skill: Disquieting Tune
 effects:
