@@ -1,0 +1,26 @@
+name: Rosalind
+source: goblinvillage
+family: garrisonguard
+speed: Fast
+class: Cleric
+power: 1110
+attack: 1083
+defense: 1161
+health: 2012
+skill: A Moment of Joy
+effects:
+  - Recovers 30% health for all allies.
+  - >-
+    Stack (Max 10): All damage all allies receive is reduced by -5%.
+  - Summnos a Shiled Guard Mega Minion with 65% HP and 180% attack inherited from the caster.
+  - The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on remova, from the remove status ailment. External effects such as passive skills and family effects can still activate.
+types:
+  - Healer
+  - Stack
+  - Guard Mega Minion
+passives:
+  - >-
+    Resist Mana reduction: This character has an innate resistance against mana Reduction.
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://i.imgur.com/founMKj.jpg
