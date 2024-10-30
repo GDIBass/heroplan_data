@@ -3,10 +3,10 @@ source: wilderness
 family: Woodland Faun
 speed: Very Fast
 class: Wizard
-power: 1096
-attack: 1135
-defense: 1034
-health: 2037
+power: 1107
+attack: 1145
+defense: 1044
+health: 2068
 skill: Red Shoes
 effects:
   - Deals 320% damage to the target and nearby enemies.
