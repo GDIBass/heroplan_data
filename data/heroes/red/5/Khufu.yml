@@ -1,8 +1,8 @@
 name: Khufu
-class: Monk
 source: Season5
 family: Sun
 speed: Slow
+class: Monk
 power: 858
 attack: 819
 defense: 801
@@ -11,17 +11,40 @@ skill: Perplexing Riddle
 effects:
   - Deals 450% damage to the target.
   - The attack chains through all the enemies who are adjacent to any hit enemy.
-  - >-
-    The target gets -41% defense against Fire, and further -4% decrease every
-    time they are hit during 4 turns.
+  - The target gets -41% defense against Fire, and further -4% decrease every time they are hit during 4 turns.
 types:
   - Hit 1
   - Chain
   - Elemental Defense Debuff
 passives:
   - >-
-    Effects on Special Skill: 70% chance to perform the following actions when
-    this character casts their Special Skill
+    Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * All enemies receive 243 Sand damage over 3 turns.'
 image: https://i.imgur.com/waF0HXl.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 1003
+  attack: 992
+  defense: 912
+  health: 1974
+  skill: Underwater Riddle
+  effects:
+    - Deals 500% damage to the target.
+    - The attack chains through all the enemies who are adjacent to any hit enemy.
+    - The target gets -34% defense against Fire, and a further -5% decrease every time they are hit during 5 turns.
+  types:
+    - Hit 1
+    - Chain
+    - Elemental Defense Debuff
+  passives:
+    - >-
+      Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 70% damage to all enemies.'
+    - ' * All enemies receive 297 Sand damage over 3 turns.'
+    - >-
+      Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
+    - >-
+      Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power.
+  image: https://i.imgur.com/5tsbayA.jpg

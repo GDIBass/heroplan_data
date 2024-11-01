@@ -1,8 +1,8 @@
 name: Junaid
 source: Season5
-class: Fighter
 family: Moon
 speed: Fast
+class: Fighter
 power: 683
 attack: 748
 defense: 573
@@ -16,8 +16,31 @@ types:
   - Damage Heal
 passives:
   - >-
-    Effects on Special Skill: 50% chance to perform the following actions when
-    this character casts their Special Skill
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/9XxU54s.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 700
+  attack: 719
+  defense: 632
+  health: 1332
+  skill: Strike and Support
+  effects:
+    - Deals 370% damage to the target.
+    - Heals all allies for 40% of damage dealt.
+  types:
+    - Hit 1
+    - Damage Heal
+  passives:
+    - >-
+      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 70% damage to all enemies.'
+    - ' * All enemies get -24% mana generation for 3 turns.'
+    - >-
+      Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
+    - >-
+      Resist Sand Damage: This character has innate resistance against sand damage.
+  image: https://i.imgur.com/4PhQKkZ.jpg
