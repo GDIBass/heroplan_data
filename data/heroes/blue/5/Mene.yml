@@ -1,0 +1,25 @@
+name: Mene
+source: Hotm
+family: 2024
+speed: Average
+class: Druid
+power: 1022
+attack: 1079
+defense: 1019
+health: 1678
+skill: Freezing Fairy Mist
+effects:
+  - Deals 280% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 820 Frost damage over 4 turns.
+  - The target and nearby enemies are immune to new status effect buffs for 4 turns, and receive 300 damage for each attempted buff.
+  - Element Link gives all Ice allies +20% critical chance for 6 turns. This effect cannot be dispelled.
+types:
+  - Hit 3
+  - DoT 3
+  - Buff immunity 3
+passives:
+  - >-
+    Resist Burn: This character has innate resistance against Burn.
+  - >-
+    Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage.
+image: https://i.imgur.com/yERCkFp.jpg
