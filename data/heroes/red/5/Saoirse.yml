@@ -20,3 +20,26 @@ types:
 passives:
   - Damage caused by status ailments is reduced by -50%
 image: https://i.imgur.com/pHj3rld.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 1085
+  attack: 917
+  defense: 1227
+  health: 2116
+  skill: Fracturing Cut
+  effects:
+    - Deals 335% damage to the target and nearby enemies.
+    - The target and nearby enemies get -44% defense for 3 turns.
+    - 'Stack +3 (Max: 10): The caster gets +18% mana generation.'
+    - 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
+  types:
+    - Hit 3
+    - Defense Debuff
+    - Stacks
+  passives:
+    - >-
+      Status ailment damage reduction: Damage caused by status ailments reduced by -50%.
+    - >-
+      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 400 Bleed damage over 4 turns.
+  image: https://i.imgur.com/yHVhyhO.jpg

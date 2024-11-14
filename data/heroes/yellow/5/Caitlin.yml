@@ -15,10 +15,34 @@ effects:
   - 'Stack (Max: 10): The caster gets +5% mana generation'
   - 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
 types:
-  - Hit All
   - Dispeller
+  - Hit All
   - Stacks
 passives:
   - >-
     Status ailment damage reduction: Damage caused by status ailments reduced by -50%.
 image: https://i.imgur.com/ERb7z96.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 1084
+  attack: 1075
+  defense: 1064
+  health: 2038
+  skill: Dispelling Judgement
+  effects:
+    - Dispels buffs from all enemies.
+    - Deals 170% damage to all enemies.
+    - Deals additional 25% damage per removed status effect, up to 370% damage in total.
+    - 'Stack +2 (Max: 10): The caster gets +12% mana generation.'
+    - 'Stack +3 (Max: 10): The caster recovers 45 HP each turn.'
+  types:
+    - Dispeller
+    - Hit All
+    - Stacks
+  passives:
+    - >-
+      Status ailment damage reduction: Damage caused by status ailments reduced by -50%.
+    - >-
+      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 472 Bleed damage over 4 turns.
+  image: https://i.imgur.com/JgYBU3i.jpg
