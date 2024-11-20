@@ -9,20 +9,24 @@ defense: 852
 health: 1522
 skill: Delay the Inevitable
 effects:
+  - >-
+    Special Skill has a different effect when charged with 100% / 200% / 300% mana:
   - '1x Mana Charge:'
-  - Recovers 20% health for all allies.
-  - All allies get +24% mana generation for 2 turns.
+  - '* Recovers 20% health for all allies.'
+  - '* All allies get +24% mana generation for 2 turns.'
   - '2x Mana Charge:'
-  - Recovers 30% health for all allies.
-  - Increases the mana of all allies by 10%.
+  - '* Recovers 30% health for all allies.'
+  - '* Increases the mana of all allies by 10%.'
   - '3x Mana Charge:'
-  - Recovers 50% health for all allies.
-  - Increases the mana of all allies by 20%.
-  - All allies get +40% mana generation for 4 turns.
+  - '* Recovers 50% health for all allies.'
+  - '* Increases the mana of all allies by 20%.'
+  - '* All allies get +40% mana generation for 4 turns.'
 types:
   - Healer
   - Mana Generation
 passives:
   - >-
     Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+  - >-
+    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
 image: https://i.imgur.com/WM6GD2A.jpg

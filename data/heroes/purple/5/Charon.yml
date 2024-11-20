@@ -10,8 +10,7 @@ health: 1678
 skill: Ferry From the Beyond
 effects:
   - >-
-    Special Skill has a different effect when charged with 100% / 200% / 300%
-    mana:
+    Special Skill has a different effect when charged with 100% / 200% / 300% mana:
   - '1x Mana Charge:'
   - '* Boosts health of all allies by 450. Boosted health can exceed max HP.'
   - '2x Mana Charge:'
@@ -23,7 +22,12 @@ effects:
   - '* All allies regenerate 952 HP over 4 turns.'
 types:
   - Charge
+  - Boost health All
+  - Reviver
+  - HoT
 passives:
   - >-
     Resist Defense Ailments: This Hero has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+  - >-
+    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
 image: https://i.imgur.com/eSyywNh.jpg

@@ -10,8 +10,7 @@ health: 709
 skill: Dante’s Inferno
 effects:
   - >-
-    Special Skill has a different effect when charged with 100% / 200% / 300%
-    mana:
+    Special Skill has a different effect when charged with 100% / 200% / 300% mana:
   - '1x Mana Charge:'
   - '* Deals 105% damage to all enemies.'
   - '* The attack bypasses defensive buffs. This includes counterattacks.'
@@ -26,5 +25,8 @@ effects:
 types:
   - Charge
 passives:
-  - 'Resist defense ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.'
+  - >-
+    Resist defense ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+  - >-
+    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
 image: https://i.imgur.com/FNkLC6z.jpg

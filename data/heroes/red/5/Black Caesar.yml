@@ -1,8 +1,8 @@
 name: Black Caesar
-class: Cleric
 source: Pirates
 family: Pirate
 speed: Average
+class: Cleric
 power: 987
 attack: 945
 defense: 1007
@@ -10,16 +10,13 @@ health: 1781
 skill: Pirate’s Vengeance
 effects:
   - Deals 335% damage to all enemies.
-  - >-
-    Summons a Pirate Skeleton Fiend for all enemies. The Fiend damage the enemy 
-    with 100% attack every turn.
-  - >-
-    The Pirate Skeleton Fiend absorbs healing. It disappears after absorbing a
-    healing amount equal to 45% of its target’s max health.
-  - >-
-    When summoned, the Pirate Skeleton Fiend gives -45% attack for its owner for
-    as long as the owner has Priate Skeleton Fiends. This effect can’t be cleansed.
+  - Summons a Pirate Skeleton Fiend for all enemies. The Fiend damage the enemy with 100% attack every turn.
+  - The Pirate Skeleton Fiend absorbs healing. It disappears after absorbing a healing amount equal to 45% of its target’s max health.
+  - When summoned, the Pirate Skeleton Fiend gives -45% attack for its owner for as long as the owner has Priate Skeleton Fiends. This effect can’t be cleansed.
 types:
   - Hit All
   - Fiends
+passives:
+  - >-
+    Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
 image: https://i.imgur.com/5f8UOBL.jpg

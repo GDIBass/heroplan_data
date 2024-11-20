@@ -9,6 +9,7 @@ defense: 692
 health: 1289
 skill: Scroll of Spite
 effects:
+  - This Special Skill never misses its targets.
   - Attacks the target and nearby enemies with Moonrise Strike dealing up to 860 damage. Deals 30% more damage if the target is Holy. 
   - The target and nearby enemies receive 900 Poison damage over 5 turns. The caster and all allies absorb 35% of the dealt Poison damage as health.
 types:

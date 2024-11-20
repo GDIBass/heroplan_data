@@ -1,8 +1,8 @@
 name: Blossom
-class: Cleric
 source: Covenant
 family: construct
 speed: Average
+class: Cleric
 power: 980
 attack: 885
 defense: 1003
@@ -11,13 +11,13 @@ skill: Songs of the Cherry Tree
 effects:
   - Recovers 45% health for all allies.
   - Dispels buffs from all enemies.
-  - >-
-    Recovers 70 health per each removed status effect for all allies, 
-    up to 560 health in total.
+  - Recovers 70 health per each removed status effect for all allies, up to 560 health in total.
 types:
   - Healer
   - Dispeller
 passives:
+  - >-
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
   - >- 
     Repair Core: The Construct Core of this character is Repair Core.
     The Repair Core activates each time this character’s Special Skill is cast:

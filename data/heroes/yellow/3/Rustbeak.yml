@@ -18,6 +18,8 @@ types:
   - Critical chance buff 3
 passives:
   - >-
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
+  - >-
     Repair Core: The Construct Core of this character is Repair Core.
     The Repair Core activates each time this character’s Special Skill is cast:
     * With fully charged Repair Core, boosts the health of all allies by 25%.

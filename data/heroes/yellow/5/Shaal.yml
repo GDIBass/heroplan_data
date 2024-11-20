@@ -1,8 +1,8 @@
 name: Shaal
-class: Cleric
 source: Covenant
 family: construct
 speed: Average
+class: Cleric
 power: 979
 attack: 906
 defense: 1027
@@ -18,6 +18,8 @@ types:
   - Healer
   - Cleanser
 passives:
+  - >-
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
   - >-
     Repair Core: The Construct Core of this character is Repair Core.
     The Repair Core activates each time this character’s Special Skill is cast:

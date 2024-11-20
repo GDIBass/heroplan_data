@@ -1,8 +1,8 @@
 name: Shacklebolt
-class: Monk
 source: Covenant
 family: construct
 speed: Average
+class: Monk
 power: 986
 attack: 994
 defense: 910
@@ -10,17 +10,15 @@ health: 1847
 skill: Ironbound Fury
 effects:
   - Deals 370% damage to the target and nearby enemies.
-  - >-
-    Steals 25% mana from the target and nearby enemies and distributes it to 
-    the caster and nearby allies.
-  - >-
-    Copies all dispellable buffs from the target and nearby enemies, and 
-    randomly distributes them on allies.
+  - Steals 25% mana from the target and nearby enemies and distributes it to the caster and nearby allies.
+  - Copies all dispellable buffs from the target and nearby enemies, and randomly distributes them on allies.
 types:
   - Hit 3
   - Mana Steal
   - Buff copy
 passives:
+  - >-
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
   - >- 
     Destructive Core: The Construct Core of this character is Destructive Core.
     The Destructive Core activates each time this character’s Special Skill is cast:

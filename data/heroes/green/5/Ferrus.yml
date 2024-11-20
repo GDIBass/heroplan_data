@@ -17,6 +17,8 @@ types:
   - DoT
   - Elemental Defense Debuff
 passives:
+  - >-
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
   - >- 
     Corrosive Core: The Construct Core of this character is Corrosive Core.
     The Corrosive Core activates each time this character’s Special Skill is cast:

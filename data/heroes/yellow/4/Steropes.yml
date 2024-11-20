@@ -1,39 +1,30 @@
 name: Steropes
-class: Cleric
-speed: Charge
-family: Styx
 source: Styx
-skill: Midnight Moon
+family: Styx
+speed: Charge
+class: Cleric
 power: 685
 attack: 616
 defense: 737
 health: 1272
+skill: Midnight Moon
 effects:
   - >-
-    Special Skill has a different effect when charged with 100% / 200% / 300%
-    mana:
+    Special Skill has a different effect when charged with 100% / 200% / 300% mana:
   - '1x Mana Charge:'
-  - >-
-    * All allies regenerate 324 boosted health over 3 turns. Boosted health can
-    exceed max HP.
+  - '* All allies regenerate 324 boosted health over 3 turns. Boosted health can exceed max HP.'
   - '2x Mana Charge:'
-  - >-
-    * If any ally dies during the next 3 turns they are resurrected in the
-    beginning of their next turn with 20% health. All status effects and stacks
-    are removed when the ally dies.
+  - '* If any ally dies during the next 3 turns they are resurrected in the beginning of their next turn with 20% health. All status effects and stacks are removed when the ally dies.'
   - '* 3x Mana Charge:'
-  - >-
-    * All allies regenerate 584 boosted health over 4 turns. Boosted health can
-    exceed max HP.
-  - >-
-    * If any ally dies during the next 4 turns they are resurrected in the
-    beginning of their next turn with 40% health. All status effects and stacks
-    are removed when the ally dies.
+  - '* All allies regenerate 584 boosted health over 4 turns. Boosted health can exceed max HP.'
+  - '* If any ally dies during the next 4 turns they are resurrected in the beginning of their next turn with 40% health. All status effects and stacks are removed when the ally dies.'
 types:
   - Charge
+  - Boosted HoT
+  - Resurrect
 passives:
   - >-
-    Resist Defense Ailments: This character has innate resistance against status 
-    ailments that affect defense. Applies also to status ailments that affect 
-    elemental defense.
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+  - >-
+    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
 image: https://i.imgur.com/JQkhZ6P.jpg

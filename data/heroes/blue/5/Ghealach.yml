@@ -1,8 +1,8 @@
 name: Ghealach
-class: Wizard
 source: Covenant
 family: construct
 speed: Average
+class: Wizard
 power: 980
 attack: 997
 defense: 951
@@ -11,17 +11,15 @@ skill: Star Construct
 effects:
   - Deals 385% damage to the target and nearby enemies.
   - Summons a Fallen Star Fiend to the target and nearby enemies.
-  - >-
-    The Fallen Star Fiend absorbs healing. It disappears after absorbing a 
+  - The Fallen Star Fiend absorbs healing. It disappears after absorbing a 
     healing amount equal to 45% of its target max health.
-  - >-
-    The caster steals 45% of the generated mana from the target and nearby enemies.
-    The effect lasts as long as the target has Fallen Star Fiends. This effect 
-    can’t be cleansed, but it gets removed if the caster dies.
+  - The caster steals 45% of the generated mana from the target and nearby enemies. The effect lasts as long as the target has Fallen Star Fiends. This effect can’t be cleansed, but it gets removed if the caster dies.
 types:
   - Hit 3
   - Fiends
 passives:
+  - >-
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
   - >- 
     Destructive Core: The Construct Core of this character is Destructive Core.
     The Destructive Core activates each time this character’s Special Skill is cast:
