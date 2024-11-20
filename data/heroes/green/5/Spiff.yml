@@ -1,0 +1,22 @@
+name: Spiff
+source: covenant
+family: Fox
+speed: Fast
+class: Paladin
+power: 1116
+attack: 1194
+defense: 1194
+health: 1709
+skill: Fierce Pierce
+effects:
+  - The caster gets lasting bypass for defensive buffs. (Defensive buffs include counterattacks. This effect lasts until it is cleansed, replaced or removed.)
+  - Deals 585% damage to the target.
+  - The caster gets lasting +50% chance to dodge Special Skills. (This effect lasts until it is cleansed, replaced or removed.)
+types:
+  - Lasting Bypass
+  - Hit 1
+  - Lasting Dodge
+passives:
+  - >-
+    Decreased Healing: All enemies get -50% healing.
+image: https://i.imgur.com/XnfQKGA.jpg
