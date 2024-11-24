@@ -1,7 +1,8 @@
 name: Noril
-class: Barbarian
 source: Slayers
+family: Slayer
 speed: Slow
+class: Barbarian
 power: 478
 attack: 455
 defense: 510
@@ -9,15 +10,13 @@ health: 799
 skill: Dual Axes
 effects:
   - Deals 240% damage to the target.
-  - >-
-    Deals 390% damage to a random different enemy. Deals extra damage if the
-    target is ice.
+  - Deals 390% damage to a random different enemy. Deals extra damage if the target is ice.
   - 'Stack (Max: 10): The caster gets +5% mana generation'
   - 'Stack (Max: 10): The caster recovers 5 HP each turn'
 types:
   - Hit 1
   - Stack
-family: Slayer
 passives:
-  - Damage caused by status ailments reduced by -50%
+  - >-
+    Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
 image: https://i.imgur.com/sPxC3Un.jpg

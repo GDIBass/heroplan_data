@@ -9,7 +9,7 @@ defense: 723
 health: 1361
 skill: Midnight Magic
 effects:
-  - Deals 270% damage to the target and nearby enemies.
+  - Deals 300% damage to the target and nearby enemies.
   - The caster and nearby allies' Special Skills deal an additional +40% damage for 4 turns.
   - Cleanses status ailements from all allies.
   - Element Link summons an Ice Minion for all Ice allies with 6% HP and 10% attack inherited from the caster.

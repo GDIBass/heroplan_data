@@ -25,5 +25,5 @@ types:
   - Charge Hit
 passives:
   - >-
-    Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.
+    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
 image: https://i.imgur.com/k0TDdBr.jpg

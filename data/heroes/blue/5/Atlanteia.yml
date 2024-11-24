@@ -26,3 +26,32 @@ passives:
       * Deals 80% damage to all enemies.
       * The caster get +19% mana generation for 2 turns.
 image: https://i.imgur.com/Ns22n5S.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 1123
+  attack: 1172
+  defense: 1212
+  health: 1780
+  skill: Aphotic Whisper
+  effects:
+    - 'Special Skill need consecutive uses to reach full power, the following order:'
+    - '1st:'
+    - ' * All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 228 Frost damage and lowers the target’s attack by -7% each turn.'
+    - ' * The caster steals 27% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated.'
+    - '2nd:'
+    - ' * All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 328 Frost damage and lowers the target’s attack by -15% each turn.'
+    - ' * The caster steals 30% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated.'
+  types:
+    - DoT
+    - Mana Steal
+  passives:
+    - >-
+      Effects on Special Skill:
+      50% chance to perform the following actions when this character casts their Special Skill.
+        * Deals 80% damage to all enemies.
+        * The caster get +19% mana generation for 2 turns.
+    - >-
+      Resist Insanity: This character has an innate resistance against Insanity.
+  image: https://i.imgur.com/lUbp0Tz.jpg
+

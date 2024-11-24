@@ -1,8 +1,8 @@
 name: Tweedles
-class: Monk
 source: Wonderland
 family: Wonderland
 speed: Slow
+class: Monk
 power: 945
 attack: 962
 defense: 947
@@ -18,4 +18,7 @@ types:
   - Hit 2
   - Attack debuff
   - Defense debuff
+passives:
+  - >-
+    Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
 image: https://i.imgur.com/oaSASQ4.jpg

@@ -1,7 +1,8 @@
 name: Orla
-class: Ranger
 source: Slayers
+family: Slayer
 speed: Slow
+class: Ranger
 power: 677
 attack: 635
 defense: 680
@@ -17,9 +18,7 @@ types:
   - Hit 1
   - Mana generation debuff
   - Stack
-family: Slayer
 passives:
   - >-
-    Status ailment damage reduction: Damage caused by status ailments reduced 
-    by -50%.
+    Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
 image: https://i.imgur.com/YWXxtDj.jpg

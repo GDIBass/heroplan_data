@@ -27,6 +27,8 @@ passives:
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 80% damage to all enemies.'
   - ' * The caster gets +19% mana generation for 2 turns.'
+  - >-
+    Resist Insanity: This character has innate resistance against Insanity.
 image: https://i.imgur.com/RtOVjbp.jpg
 costume:
   bonuses: 5/5/10/5
@@ -55,4 +57,6 @@ costume:
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
     - ' * Deals 80% damage to all enemies.'
     - ' * The caster gets +19% mana generation for 2 turns.'
+    - >-
+      Resist Insanity: This character has innate resistance against Insanity.
   image: https://i.imgur.com/CadXjHa.jpg

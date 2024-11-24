@@ -10,6 +10,7 @@ health: 1627
 skill: Poleaxe of the Law
 effects:
   - Destroys all Fiends from all allies.
+  - This Special Skill never misses its targets.
   - Attacks all enemies with Moonrise Strike, dealing up to 2000 damage. Deals 40% more damage if the target is Holy.
   - All allies get 5% mana for each destroyed Fiend.
 types:

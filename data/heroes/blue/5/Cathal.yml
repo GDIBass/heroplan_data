@@ -21,5 +21,5 @@ types:
   - Stacks
 passives:
   - >-
-    Status Ailment Damage Reduction: Damage caused by status ailments is reduced by -50%.
+    Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
 image: https://i.imgur.com/T6kV2Hh.jpg

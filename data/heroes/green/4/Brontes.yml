@@ -1,7 +1,7 @@
 name: Brontes
-speed: Charge
 source: Styx
 family: Styx
+speed: Charge
 class: Monk
 power: 685
 attack: 690
@@ -10,8 +10,7 @@ health: 1130
 skill: Good Dose of Garlic
 effects:
   - >-
-    Special Skill has a different effect when charged with 100% / 200% / 300%
-    mana:
+    Special Skill has a different effect when charged with 100% / 200% / 300% mana:
   - '1x Mana Charge:'
   - '* Recovers 25% health for the caster and nearby allies.'
   - '* The caster and nearby allies get +24% mana generation for 2 turns.'
@@ -26,6 +25,7 @@ types:
   - Charge
 passives:
   - >-
-    Duration of the defense status ailments this character receives from Special
-    Skills is decreased by 2 turns.
+    Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.
+  - >-
+    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
 image: https://i.imgur.com/73sHBAH.jpg

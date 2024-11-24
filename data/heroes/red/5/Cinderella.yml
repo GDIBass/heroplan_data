@@ -1,8 +1,8 @@
 name: Cinderella
-class: Cleric
 source: Fables
 family: Grimforest
 speed: Fast
+class: Cleric
 power: 1007
 attack: 1032
 defense: 1027
@@ -20,4 +20,7 @@ types:
   - Elemental Defense Debuff
   - Defense Buff
   - Defense Debuff
+passives:
+  - >-
+    Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
 image: https://i.imgur.com/8MZHUmV.jpg

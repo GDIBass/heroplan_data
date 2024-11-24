@@ -9,9 +9,9 @@ defense: 770
 health: 1448
 skill: Scythe of Sorceries
 effects:
-  - Deals 400% damage to the target and minor damage to nearby enemies.
+  - Deals 430% damage to the target and minor damage to nearby enemies.
   - The target gets -24% mana generation for 4 turns.
-  - Reduces max health of the target’s nearby enemies by 400. Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 400.
+  - Reduces max health of the target’s nearby enemies by 600. Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 600.
   - Element Link gives all Dark allies immunity to new Fiends for 4 turns. This effect cannot be dispelled
 types:
   - Hit 3

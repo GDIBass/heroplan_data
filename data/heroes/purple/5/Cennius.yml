@@ -9,6 +9,7 @@ defense: 1100
 health: 1794
 skill: Blade Wings
 effects:
+  - This Special Skill never misses its targets.
   - Attacks the target with Moonrise Strike, dealing up to 1100 damage. Deals 40% more damage if the target is Holy.
   - After a successful cast, has 100% chance to recast Blade Wings again on a random target.
   - Can recast up to 3 times and chance to recast is reduced by -35% after every successful cast.

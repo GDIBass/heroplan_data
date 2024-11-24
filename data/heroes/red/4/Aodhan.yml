@@ -1,7 +1,8 @@
 name: Aodhan
-class: Wizard
 source: Slayers
+family: Slayer
 speed: Slow
+class: Wizard
 power: 677
 attack: 626
 defense: 684
@@ -9,21 +10,15 @@ health: 1298
 skill: Wily Wisps
 effects:
   - Deals 210% damage to all enemies.
-  - >-
-    Summons a Wisp Fiend for all enemies. The Fiend damages its target with 35%
-    attack every turn.
-  - >-
-    The Wisp Fiend absorbs healing. It disappears after absorbing a healing 
-    amount equal to 18% of its target's max health.
+  - Summons a Wisp Fiend for all enemies. The Fiend damages its target with 35% attack every turn.
+  - The Wisp Fiend absorbs healing. It disappears after absorbing a healing amount equal to 18% of its target's max health.
   - 'Stack +2 (Max: 10): The caster gets +10% mana generation.'
-  - 'Sack (Max: 10): The caster recovers 10 HP each turn.'
+  - 'Stack (Max: 10): The caster recovers 10 HP each turn.'
 types:
   - Hit All
   - Summoner
   - Stack
-family: Slayer
 passives:
   - >-
-    Status ailment damage reduction: Damage caused by status ailments reduced 
-    by -50%.
+    Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
 image: https://i.imgur.com/81JNp9d.jpg

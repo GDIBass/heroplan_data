@@ -10,8 +10,7 @@ health: 1503
 skill: Sweet Dreams
 effects:
   - >-
-    Special Skill has a different effect when charged with 100% / 200% / 300%
-    mana:
+    Special Skill has a different effect when charged with 100% / 200% / 300% mana:
   - '1x Mana Charge:'
   - ' * Deals 220% damage to all enemies.'
   - ' * All enemies are immune to new status effects buffs for 2 turns.'
@@ -29,7 +28,7 @@ types:
   - Dispell
 passives:
   - >-
-    Resist Defense Ailments: This character has innate resistance against status 
-    ailments that affect defense. Applies also to status ailments that affect 
-    elemental defense.
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+  - >-
+    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
 image: https://i.imgur.com/HPFyboz.jpg
