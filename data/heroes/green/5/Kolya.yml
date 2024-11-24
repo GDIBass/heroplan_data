@@ -1,0 +1,26 @@
+name: Kolya
+source: goblinvillage
+family: garrisonguard
+speed: Average
+class: Paladin
+power: 1118
+attack: 1128
+defense: 1116
+health: 2047
+skill: Laundry Day
+effects:
+  - Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)
+  - Deals 300% damage to all enemies.
+  - Deals additional 6% damage per removed status effect, up to 330% damage in total.
+  - Summnos a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.
+  - The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)
+types:
+  - Dispel latest buff
+  - Hit All
+  - Shield Guard Mega Minion
+passives:
+  - >-
+    Resist Mana reduction: This character has an innate resistance against mana Reduction.
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://i.imgur.com/joEtnuS.jpg
