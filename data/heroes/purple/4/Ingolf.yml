@@ -1,7 +1,8 @@
 name: Ingolf
-class: Fighter
 source: Villains
+family: Villains
 speed: Slow
+class: Fighter
 power: 675
 attack: 633
 defense: 684
@@ -16,5 +17,4 @@ effects:
 types:
   - Hit 3
   - Dot 3
-family: Villains
 image: https://i.imgur.com/EjtbILF.jpg

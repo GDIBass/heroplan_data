@@ -24,7 +24,7 @@ types:
   - Resurrect
 passives:
   - >-
-    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
-  - >-
     Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
+  - >-
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
 image: https://i.imgur.com/JQkhZ6P.jpg

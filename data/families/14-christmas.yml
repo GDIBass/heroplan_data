@@ -4,8 +4,8 @@ description: Christmas
 image: https://i.imgur.com/icjpHCr.png
 bonus:
   - "Bonus for 2/3 Unique Heroes:"
-  - "+2%/ +3% health for Minions"
-  - "+5%/+10% attack for Minions"
+  - "+2%/ +3% health for Minions inherited from their summoner."
+  - "+5%/+10% attack for Minions inherited from their summoner."
   - "The members of this family have additional perks in the Santa's Challenge event."
 bonuscostume-5star: 35/35/35/5
 bonuscostume-4star: 

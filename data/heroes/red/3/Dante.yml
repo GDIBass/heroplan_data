@@ -1,8 +1,8 @@
 name: Dante
-speed: Charge
-class: Rogue
 source: Styx
 family: Styx
+speed: Charge
+class: Rogue
 power: 484
 attack: 537
 defense: 472
@@ -26,7 +26,7 @@ types:
   - Charge
 passives:
   - >-
-    Resist defense ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
-  - >-
     Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
+  - >-
+    Resist defense ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
 image: https://i.imgur.com/FNkLC6z.jpg
