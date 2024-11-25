@@ -1,17 +1,15 @@
 name: Featherino
-class: Rogue
-speed: Average
 source: owltower
 family: owl
+speed: Average
+class: Rogue
 power: 489
 attack: 571
 defense: 425
 health: 757
 skill: Jack of Owl Trades
 effects:
-  - >-
-    Attacks the target and nearby enemies with Moonrise Strike, dealing up to 
-    700 damage. Deals 20% more damage if the target is Holy.
+  - Attacks the target and nearby enemies with Moonrise Strike, dealing up to 700 damage. Deals 20% more damage if the target is of the Holy element.
 types:
   - Hit 3
 passives:

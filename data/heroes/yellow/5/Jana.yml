@@ -1,8 +1,8 @@
 name: Jana
 source: carnivalofgods
 family: maskedgod
-class: Wizard
 speed: Average
+class: Wizard
 power: 931
 attack: 920
 defense: 873
@@ -21,6 +21,5 @@ types:
   - Mana generation debuff
 passives:
   - >-
-    This character is cleansed of status ailments when Minion owned by them is
-    destroyed.
+    Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed.
 image: https://i.imgur.com/4FOeHzK.jpg

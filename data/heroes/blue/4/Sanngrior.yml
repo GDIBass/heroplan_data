@@ -1,18 +1,16 @@
 name: Sanngrior
-class: Cleric
 source: Villains
+family: Villains
 speed: Average
+class: Cleric
 power: 675
 attack: 565
 defense: 680
 health: 1447
 skill: Valkyrie’s Fortitude
 effects:
-  - >-
-    Boosts health of the caster and nearby allies by 650. Boosted health can 
-    exceed max HP.
+  - Boosts health of the caster and nearby allies by 650. Boosted health can exceed max HP.
   - The caster and nearby allies get +94% defence against Nature for 3 turns.
 types:
   - Healer
-family: Villains
 image: https://i.imgur.com/IunsdpJ.jpg

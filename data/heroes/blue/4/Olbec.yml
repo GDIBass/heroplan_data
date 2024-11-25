@@ -1,22 +1,21 @@
 name: Olbec
-class: Wizard
-speed: Fast
 source: owltower
 family: owl
+speed: Fast
+class: Wizard
 power: 693
 attack: 724
 defense: 641
 health: 1253
 skill:  Ill-Fated Experiment
 effects:
-  - >-
-    Attacks the target with Moonrise Strike, dealing up to 1020 damage. 
-    Deals 30% more damage if the target is Holy.
+  - This Special Skill never misses its targets.
+  - Attacks the target with Moonrise Strike, dealing up to 1020 damage. Deals 30% more damage if the target is Holy.
   - Reduces the mana of the target by 10%.
 types:
   - Hit 1
   - Mana reducer
 passives:
   - >-
-    Mana Increase Reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
+    Reduce Mana Gain from Special Skill: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
 image: https://i.imgur.com/ZzxqlQV.jpg

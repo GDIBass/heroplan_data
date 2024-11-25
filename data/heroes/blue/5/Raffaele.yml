@@ -15,8 +15,9 @@ effects:
   - Element Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed.
 types:
   - Healer
+  - HoT
   - Cleanser
-  - HOT
 passives:
-  - This character has innate resistance against status ailments that affect Attack.
+  - >-
+    Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack.
 image: https://i.imgur.com/O0p11HF.jpg

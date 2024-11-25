@@ -1,8 +1,8 @@
 name: Juliani
-class: Wizard
-speed: Slow
 source: owltower
 family: owl
+speed: Slow
+class: Wizard
 power: 696
 attack: 677
 defense: 692
@@ -17,5 +17,5 @@ types:
   - Dot 3
 passives:
   - >-
-    Mana Increase Reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
+    Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
 image: https://i.imgur.com/UhbZaxw.jpg

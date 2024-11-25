@@ -29,7 +29,7 @@ types:
   - Fiend
 passives:
   - >-
-    Resist Defense Ailments: The character has innate resistance against status ailments that effect defense. Applies also to status ailment that affect elemental defense.
-  - >-
     Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
+  - >-
+    Resist Defense Ailments: The character has innate resistance against status ailments that effect defense. Applies also to status ailment that affect elemental defense.
 image: https://i.imgur.com/aKSj5xr.jpg
