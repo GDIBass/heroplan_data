@@ -1,0 +1,27 @@
+name: Wealhtheow
+source: blackfriday
+family: beowulf
+speed: Fast
+class: Cleric
+power: 1121
+attack: 1050
+defense: 1172
+health: 2152
+skill: Cup of Mead
+effects:
+  - Heals all allies who have less than 50% HP left to 50% health.
+  - All allies regenerate 1050 boosted health over 3 turns. Boosted health can exceed max HP.
+  - >-
+    Status Effect Generator: At the start of the next 3 turns, this character gives a random ally an additional +100% Special Skill damage and +33% mana generation for 4 turns. This effect cannot be dispelled.
+types:
+  - Healer
+  - Boosted HoT
+  - Status Effect Generator
+passives:
+  - >-
+    Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.
+  - >-
+    Heal when Status Ailment Exires or Is Cleared: This character’s receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+  - >-
+    Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs.
+image: https://i.imgur.com/yG43ChX.jpg

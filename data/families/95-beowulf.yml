@@ -1,0 +1,7 @@
+key: beowulf
+code: 95
+description: Beowulf
+image: https://i.imgur.com/GTdWkEp.png
+bonus:
+  - "Bonus for 1 / 2 Heroes:"
+  - "* 75% / 100% chance to cleanse a random cleansable status ailment from all allies when this character receives damage from an enemy's Special Skill. This effect can activate only once per turn."
