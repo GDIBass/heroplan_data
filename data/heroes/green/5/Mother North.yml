@@ -20,17 +20,17 @@ image: https://i.imgur.com/463IXXp.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 914
-  attack: 713
-  defense: 996
-  health: 1866
+  power: 996
+  attack: 789
+  defense: 1120
+  health: 2015
   skill: Hyper Porridge
   effects:
     - Each fallen ally has a 55% chance to get revived with 15% HP.
     - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
     - All allies regenerate 612 HP over 4 turns.
   types:
-    - Revive
+    - Reviver
     - Summoner
     - HoT All
   image: https://i.imgur.com/0QsTiw8.jpg

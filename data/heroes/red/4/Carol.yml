@@ -1,8 +1,8 @@
 name: Carol
-class: Sorcerer
 source: Christmas
 family: Christmas
 speed: Fast
+class: Sorcerer
 power: 674
 attack: 624
 defense: 646
@@ -11,11 +11,9 @@ skill: Perilous Present
 effects:
   - Reduces mana of the target by 25%.
   - Summons an elf Minion with 10% HP and 10% attack inherited from the caster.
-  - >-
-    The target receives a Gift Bomb. After 3 turns the Gift Bomb explodes and
-    deals 374 damage to the target and nearby enemies.  The gift Bomb also
-    explodes when the target is defeated.
+  - The target receives a Gift Bomb. After 3 turns the Gift Bomb explodes and deals 374 damage to the target and nearby enemies.  The gift Bomb also explodes when the target is defeated.
 types:
   - Mana Reduction
+  - Summoner 1
   - Bomb
 image: https://i.imgur.com/rj2dz3k.jpg

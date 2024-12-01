@@ -1,8 +1,8 @@
 name: Buster
-class: Barbarian
 source: Christmas
 family: Christmas
 speed: Slow
+class: Barbarian
 power: 484
 attack: 509
 defense: 451
@@ -10,13 +10,8 @@ health: 825
 skill: Frosty Punches
 effects:
   - Deals 275% damage to the target and nearby enemies.
-  - >-
-    Summons an Elf Minion for the caster with 10% HP and 10% attack inherited
-    from the caster.
-  - >-
-    All damage the target and nearby enemies receive is increased by +24% and a
-    further +2% increase per each Fire shield on the board for 4 turns, up to
-    +40% increased damage.
+  - Summons an Elf Minion for the caster with 10% HP and 10% attack inherited from the caster.
+  - All damage the target and nearby enemies receive is increased by +24% and a further +2% increase per each Fire shield on the board for 4 turns, up to +40% increased damage.
 types:
   - Hit 3
   - Summoner

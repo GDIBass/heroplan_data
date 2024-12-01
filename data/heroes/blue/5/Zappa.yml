@@ -1,8 +1,8 @@
 name: Zappa
-class: Wizard
 source: Christmas
 family: Christmas
 speed: Very Fast
+class: Wizard
 power: 949
 attack: 988
 defense: 918
@@ -11,12 +11,9 @@ skill: Blue Shroom Wand
 effects:
   - Deals 350% damage to the target.
   - Summons an Elf Minion with 10% HP and 10% attack inherited from the caster.
-  - >-
-    The target receives 531 Frost damage over 3 turns. This effect spreads to 
-    nearby enemies.
+  - The target receives 531 Frost damage over 3 turns. This effect spreads to nearby enemies.
 types:
   - Hit 1
-  - Summoner
-  - DoT
-  - Spread
+  - Summoner 1
+  - Spreading DoT
 image: https://i.imgur.com/kOZsEFw.jpg

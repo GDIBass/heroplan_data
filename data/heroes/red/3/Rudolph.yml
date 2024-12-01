@@ -1,7 +1,8 @@
 name: Rudolph
-class: Fighter
 source: Christmas
+family: Winter
 speed: Fast
+class: Fighter
 power: 448
 attack: 540
 defense: 391
@@ -15,5 +16,4 @@ types:
   - Hit 1
   - Mana Reduction
   - Summoner
-family: Winter
 image: https://i.imgur.com/mEYb8Ac.jpg
