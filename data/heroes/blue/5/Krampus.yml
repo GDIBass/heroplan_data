@@ -1,52 +1,40 @@
 name: Krampus
-class: Sorcerer
 source: Christmas
-speed: Average
 family: Christmas
+speed: Average
+class: Sorcerer
 power: 802
 attack: 667
 defense: 852
 health: 1468
 skill: Scourge of Joy
 effects:
-  - >-
-    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited
-    from the caster.
-  - >-
-    The caster gets Taunt that prevents enemies from using Special Skills on the
-    caster's allies for 3 turns.
-  - >-
-    The caster gets +44% defense, and a further 10% increase every time they are
-    hit during 3 turns.  This effect can't be dispelled.
+  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.
+  - The caster gets +44% defense, and a further 10% increase every time they are hit during 3 turns.  This effect can't be dispelled.
   - All allies get +50% attack for 3 turns
 types:
   - Summoner
   - Taunt
-  - Defense Buff
+  - Self Defense Buff
   - Attack Buff
 image: https://i.imgur.com/9L71cZ8.jpg
 costume:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 846
-  attack: 788
-  defense: 823
-  health: 1535
+  power: 1039
+  attack: 1013
+  defense: 1058
+  health: 1884
   skill: Merriest Misery
   effects:
-    - >-
-      Summons an Elf Minion for each ally with 10% HP and 10% attack inherited
-      from the caster.
-    - >-
-      The caster gets Taunt that prevents enemies from using Special Skills on
-      the caster's allies for 3 turns.
+    - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+    - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.
     - The caster gets +30% defense for 3 turns.
-    - >-
-      All allies get +45% attack, and a further 20% increase every time they are
-      hit during 3 turns.
+    - All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.
   types:
     - Summoner
     - Taunt
-    - Defense Buff
+    - Self Defense Buff
     - Attack Buff
   image: https://i.imgur.com/fkiwdOj.jpg

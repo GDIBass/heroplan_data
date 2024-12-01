@@ -10,15 +10,9 @@ health: 1298
 skill: Hearty Stew
 effects:
   - Recovers 20% heath for all allies.
-  - >-
-    Recovers additional 3% health per each Holy shield on the board, up to 44%
-    health in total.
-  - >-
-    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from
-    the caster.
-  - >-
-    All allies get +14% attack, and a further 5% increase per each Holy shield
-    on the board for 4 turns, up to +54% attack.
+  - Recovers additional 3% health per each Holy shield on the board, up to 44% health in total.
+  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+  - All allies get +14% attack, and a further 5% increase per each Holy shield on the board for 4 turns, up to +54% attack.
 types:
   - Healer
   - Summoner

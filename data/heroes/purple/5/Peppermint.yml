@@ -10,12 +10,8 @@ health: 1460
 skill: Putrid Perfume
 effects:
   - Deals 250% damage to all enemies.
-  - >-
-    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from
-    the caster.
-  - >-
-    All enemies receive 280 Poison damage, and an increase of 16 damage per each
-    Dark shield on the board over 4 turns up to 408 damage.
+  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+  - All enemies receive 280 Poison damage, and an increase of 16 damage per each Dark shield on the board over 4 turns up to 408 damage.
 types:
   - Hit All
   - Summoner

@@ -1,24 +1,19 @@
 name: Ginger
-class: Ranger
 source: Christmas
 family: Christmas
 speed: Fast
+class: Ranger
 power: 949
 attack: 957
 defense: 935
 health: 1627
 skill: Hasty Trigger Finger
 effects:
-  - >-
-    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited 
-    from the caster.
-  - >-
-    For the next 3 turns, this character deals 500% damage to a random enemy 
-    each time any other ally casts their Special Skill. (Damage is dealt on the
-    first Special Skill cast of each character per turn.)
-  - >-
-    All allies’ except the caster’s Special Skill deal an additional +20% damage
-    for 3 turns.
+  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+  - For the next 3 turns, this character deals 500% damage to a random enemy each time any other ally casts their Special Skill. (Damage is dealt on the first Special Skill cast of each character per turn.)
+  - All allies’ except the caster’s Special Skill deal an additional +20% damage for 3 turns.
 types:
   - Summoner 
+  - Assist Hit 1
+  - SS Damage Buff All
 image: https://i.imgur.com/U9fsiDu.jpg

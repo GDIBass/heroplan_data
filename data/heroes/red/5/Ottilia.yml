@@ -1,0 +1,21 @@
+name: Ottilia
+source: Christmas
+family: Christmas
+speed: Very Fast
+class: Ranger
+power: 1124
+attack: 1165
+defense: 1100
+health: 2027
+skill: Mistletoe Medley
+effects:
+  - Deals 440% damage to the target.
+  - Copies all dispellable buffs from the target to the caster.
+  - The caster recovers 10% health per copied buffs, up to 50% health in total.
+  - Summons an Elf Minion with 10% HP and 10% attack inherited from the caster.
+types:
+  - Hit 1
+  - Copy buff
+  - Self Heal on buff copied
+  - Summoner 1
+image: https://i.imgur.com/Y8kn5Mx.jpg

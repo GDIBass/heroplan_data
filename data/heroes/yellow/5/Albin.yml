@@ -1,0 +1,19 @@
+name: Albin
+source: Christmas
+family: Christmas
+speed: Slow
+class: Paladin
+power: 1122
+attack: 1108
+defense: 1143
+health: 2070
+skill: A Cozy Break
+effects:
+  - Deals 440% damage to all enemies.
+  - The duration of buffs is reset for all allies.
+  - Summons 2 Elf Minions for each ally with 10% HP and 10% attack inherited from the caster.
+types:
+  - Hit All
+  - Buff duration reset
+  - Summoner
+image: https://i.imgur.com/x9XJFnx.jpg

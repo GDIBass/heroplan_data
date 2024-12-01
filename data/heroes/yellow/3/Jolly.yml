@@ -1,8 +1,8 @@
 name: Jolly
-class: Paladin
 source: Christmas
 family: Christmas
 speed: Very Slow
+class: Paladin
 power: 487
 attack: 451
 defense: 464
@@ -10,9 +10,7 @@ health: 961
 skill: Birch Blessing
 effects:
   - Boosts health of all allies by 475. Boosted health can exceed max HP.
-  - >-
-    Summons an Elf Minion for each ally with 10% HP and 10% attack inherited 
-    from the caster.
+  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
   - All allies reduce all received damage by -45% for 6 turns.
   - All allies get +35% mana generation for 6 turns.
 types:
