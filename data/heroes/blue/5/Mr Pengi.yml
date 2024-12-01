@@ -1,7 +1,8 @@
 name: Mr Pengi
-class: Druid
 source: Christmas
+family: Christmas
 speed: Fast
+class: Druid
 power: 821
 attack: 803
 defense: 780
@@ -9,16 +10,31 @@ health: 1404
 skill: Herring Blaster
 effects:
   - Deals 450% damage to the target.
-  - >-
-    Deals an additional 130% damage to as many random enemies as there are
-    Minions owned by allies. The damage is reduced on each consecutive hit.
+  - Deals an additional 130% damage to as many random enemies as there are Minions owned by allies. The damage is reduced on each consecutive hit.
   - All hit targets receive 132 Frost damage.
-  - >-
-    Summons an Elf Minion for the caster and nearby allies with 10% HP and 10%
-    attack inheried from the caster.
+  - Summons an Elf Minion for the caster and nearby allies with 10% HP and 10% attack inheried from the caster.
 types:
   - Hit 1
-  - Hit All
-  - Summoner
-family: Christmas
+  - Hit Random
+  - DoT
+  - Summoner 3
 image: https://i.imgur.com/BbxUIy4.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 1064
+  attack: 1084
+  defense: 1053
+  health: 1895
+  skill: Herring Surprise
+  effects:
+    - Deals 400% damage to the target.
+    - Deals an additional 160% damage to as many random enemies as there are Minions owned by allies. The damage is reduced on each consecutive hit.
+    - All hit targets receive 225 Frost damage over 3 turns.
+    - Summons an Elf minion for the caster and nearby allies with 10% HP and 10% attack inherited from the caster.
+  types:
+    - Hit 1
+    - Hit random
+    - DoT
+    - Summoner 3
+  image: https://i.imgur.com/kNrkptI.jpg
