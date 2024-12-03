@@ -1,0 +1,27 @@
+name: Ott
+source: untoldtales
+family: Nidavellir
+speed: Fast
+class: Monk
+power: 1127
+attack: 1095
+defense: 1149
+health: 2125
+skill: Saga of Protection
+effects:
+  - Boosts health of all allies by 600. Boosted health can exceed max HP.
+  - All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1000. Reduces damage by additional 30% when the attacker is of the Nature element.
+  - All allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself.)
+types:
+  - Boost Health All
+  - Firestorm Ward
+  - Buff Dispel Immunity
+passives:
+  - >-
+    Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.
+  - Molten Core. This character has a Molten Core.
+  - >-
+    The Molten Core activates each time this character’s Special Skill is cast:
+  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 273 Burn damage, and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+image: https://i.imgur.com/XIyQFXu.jpg

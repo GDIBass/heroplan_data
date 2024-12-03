@@ -1,0 +1,28 @@
+name: Regin
+source: untoldtales
+family: Nidavellir
+speed: Fast
+class: Rogue
+power: 1129
+attack: 1149
+defense: 1108
+health: 2088
+skill: Master Plan
+effects:
+  - Dispels buffs from the target and nearby enemies.
+  - The Special Skill never misses its targets.
+  - Attacks the target and nearby enemies with Firestorm Strike, dealing up to 1900 damage. Deals 40% more damage if the target is of the Nature element.
+  - The target and nearby enemies are immune to new status effect buffs for 3 turns.
+types:
+  - Dispeler 3
+  - Hit 3
+  - Buff immunity 3
+passives:
+  - >-
+    Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.
+  - Molten Core. This character has a Molten Core.
+  - >-
+    The Molten Core activates each time this character’s Special Skill is cast:
+  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 287 Burn damage, and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+image: https://i.imgur.com/IX7uDP5.jpg
