@@ -1,0 +1,25 @@
+name: Helgi
+source: untoldtales
+family: Nidavellir
+speed: Slow
+class: Paladin
+power: 499
+attack: 545
+defense: 535
+health: 670
+skill: Dwarven Flourish
+effects:
+  - Deals 130% damage to 8 random enemies.
+  - The duration of buffs is reset for all allies.
+types:
+  - Hit random 8
+  - Buffs Duration Reset All
+passives:
+  - >-
+    Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.
+  - Molten Core. This character has a Molten Core.
+  - >-
+    The Molten Core activates each time this character’s Special Skill is cast:
+  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 136 Burn damage, and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+image: https://i.imgur.com/URDTarn.jpg

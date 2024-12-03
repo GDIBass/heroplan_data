@@ -1,0 +1,28 @@
+name: Gandr
+source: untoldtales
+family: Nidavellir
+speed: Slow
+class: Ranger
+power: 1127
+attack: 1133
+defense: 1126
+health: 2078
+skill: Spearwand Gale
+effects:
+  - This Special Skill never misses its targets.
+  - Attacks all enemies with Firestorm Strike, dealing up to 2000 damage. Deals 40% more if the target is of the Nature element.
+  - Heals all allies for 25% of damage dealt.
+  - All allies counterattack with 60% of the damage received for 5 turns.
+types:
+  - Hit All
+  - Healer
+  - Counterattack
+passives:
+  - >-
+    Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.
+  - Molten Core. This character has a Molten Core.
+  - >-
+    The Molten Core activates each time this character’s Special Skill is cast:
+  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 283 Burn damage, and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+image: https://i.imgur.com/hNiWYCE.jpg
