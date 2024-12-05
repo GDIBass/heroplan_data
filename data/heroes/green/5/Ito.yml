@@ -1,0 +1,32 @@
+name: Ito
+source: Ninja
+family: Ninja
+speed: Charge
+class: Ranger
+power: 1130
+attack: 1184
+defense: 1184
+health: 1854
+skill: Suppressing Ki
+effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - ' - Deals 400% damage to the target.'
+  - ' - Boosts all allies’ health by 25% of damage dealt.'
+  - ' - The target gets -35% mana generation for 2 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)'
+  - 'x2 Mana Charge:'
+  - ' - Deals 425% damage to the target and nearby enemies.'
+  - ' - Boosts all allies’ health by 25% of damage dealt.'
+  - ' - The target and nearby enemies get -40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)'
+  - 'x3 Mana Charge:'
+  - ' - Deals 450% damage to all enemies.'
+  - ' - Boosts all allies’ health by 25% of damage dealt.'
+  - ' - All enemies get -45% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)'
+types:
+  - Hit 1/3/5
+  - Boosts Healt All
+  - Mana generation Debuff
+passives:
+  - >-
+    Decreased Minion Health: Enemy Minions inherit -50% less health when summoned.
+image: https://i.imgur.com/TBhE7C4.jpg
