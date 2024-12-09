@@ -11,7 +11,9 @@ skill: Revitalizing Orb
 effects:
   - Recovers 45% health for all allies.
   - All allies get +30% increase for any healing received for 5 turns.
-  - Stack +3 (Max 10): The caster gets +15% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+  - >-
+    Stack +3 (Max 10): The caster gets +15% mana generation. (Affects only mana generated from 
+    matching tiles or mana gained by the defense team at the end of their turn.)
   - Element Link gives all Holy allies +20% critical chance for 6 turns. This effect cannot be dispelled.
 types:
   - Healer
