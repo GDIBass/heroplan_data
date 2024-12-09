@@ -12,7 +12,9 @@ effects:
   - Deals 310% damage to all enemies.
   - Reduces the mana of all enemies by 20%.
   - All enemies get -24% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
-  - Status Effect Generator: At the start of the next 4 turns, this character gives a random ally +70% attack and +50% defense for 5 turns. This effect cannot be dispelled.
+  - >-
+    Status Effect Generator: At the start of the next 4 turns, this character 
+    gives a random ally +70% attack and +50% defense for 5 turns. This effect cannot be dispelled.
 types:
   - Hit All
   - Mana Reduction
