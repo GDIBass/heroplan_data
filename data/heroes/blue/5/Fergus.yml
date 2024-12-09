@@ -1,0 +1,27 @@
+name: Fergus
+source: goblinvillage
+family: garrisonguard
+speed: Slow
+class: Monk
+power: 1132
+attack: 1062
+defense: 1178
+health: 2187
+skill: Keep the Peace
+effects:
+  - Reduces the mana of the enemy with the most mana by 70%. Reduces the mana of all other enemies by 40%.
+  - All enemies get -30% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+  - Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.
+  - The target hit by the Sword Guard Mega Minion recieves 414 Bleed damage over 3 turns. This effect spreads to nearby enemies.
+types:
+  - Mana reducer
+  - Mana Generation Debuff
+  - Sword Guard Mega Minion
+passives:
+  - >-
+    Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
+  - >-
+    Resist Mana reduction: This character has an innate resistance against mana Reduction.
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://i.imgur.com/kA2zCy1.jpg
