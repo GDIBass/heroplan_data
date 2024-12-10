@@ -1,25 +1,44 @@
 name: Bennu
 source: Season5
-class: Druid
 family: Sun
 speed: Average
+class: Druid
 power: 861
 attack: 793
 defense: 859
 health: 1563
 skill: Divine Reflection
 effects:
-  - >-
-    The caster and nearby allies counterattack with 100% of the damage received
-    for 5 turns. The damage of the counterattack increases by +5% with each
-    counterattack, maxing out at 130%.
+  - The caster and nearby allies counterattack with 100% of the damage received for 5 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 130%.
   - The caster and nearby allies reduce all received damage by -50% for 5 turns.
 types:
-  - Counterattack
+  - Counterattack 3
 passives:
   - >-
-    Effects on Special Skill: 60% chance to perform the following actions when 
-    this character casts their Special Skill
+    Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
   - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
   - ' * Cleanses the latest cleansable status ailment from all allies.'
 image: https://i.imgur.com/GdX7t3H.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 1006
+  attack: 927
+  defense: 1005
+  health: 1969
+  skill: Sacred Reflection
+  effects:
+    - The caster and nearby allies counterattack with 100% of the damage received for 5 turns. The damage of the counterattack increases by +10% with each counterattack, maxing out at 160%. 
+    - The caster and nearby allies reduce all received damage by -30% for 5 turns.
+  types:
+    - Counterattack 3
+  passives:
+    - >-
+      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+    - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+    - ' * Cleanses the latest cleansable status ailment from all allies.'
+    - >-
+      Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.
+    - >-
+      Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack.
+  image: https://i.imgur.com/2RfW9P4.jpg

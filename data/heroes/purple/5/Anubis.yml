@@ -18,8 +18,7 @@ types:
   - Defense Debuff
 passives:
   - >-
-    Effects on special skill: 60% chance to perform the following actions when
-    this character casts their Special Skill:
+    Effects on special skill: 60% chance to perform the following actions when this character casts their Special Skill:
   - ' * Deals 70% damage to all enemies.'
   - ' * Dispells the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/QQQGz6W.jpg
@@ -41,15 +40,11 @@ costume:
     - Defense Debuff
   passives:
     - >-
-      Effects on special skill: 60% chance to perform the following actions when
-      this character casts their Special Skill
+      Effects on special skill: 60% chance to perform the following actions when this character casts their Special Skill:
     - ' * Deals 70% damage to all enemies.'
     - ' * Dispells the latest dispellable buff from all enemies.'
     - >-
-      Guaranteed Effect on Special Skill: When this character casts their Special
-      Skill, any of their Passive Skills that grant extra effects on cast are 
-      guaranteed to activate.
+      Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.
     - >-
-      Mana on Status Ailment Received: This character gains 5% mana when they 
-      receive a status ailment or negative stack.
+      Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
   image: https://i.imgur.com/8BGU68M.jpg
