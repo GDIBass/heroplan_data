@@ -1,7 +1,8 @@
 name: Faline
-class: Wizard
 source: Starfall
+family: Starfall
 speed: Fast
+class: Wizard
 power: 804
 attack: 784
 defense: 751
@@ -9,10 +10,8 @@ health: 1394
 skill: Chakram Kick
 effects:
   - Deals 330% daamage to the target and nearby enemies.
-  - >-
-    The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns.'
+  - The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns.
 types:
   - Hit 3
-  - Mana generation debuff
-family: Starfall
+  - Mana generation debuff 1
 image: https://i.imgur.com/8rLI8nK.jpg

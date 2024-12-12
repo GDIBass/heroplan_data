@@ -19,6 +19,5 @@ types:
   - Dispel Immunity
 passives:
   - >-
-    Mana increase reduction: Reduces the amount of mana increased by Special 
-    Skill by -80%. The effect applies to all enemies in the battle.
+    Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
 image: https://i.imgur.com/sGuDCiH.jpg

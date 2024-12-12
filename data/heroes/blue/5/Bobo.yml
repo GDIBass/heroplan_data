@@ -1,7 +1,8 @@
 name: Bobo
-class: Barbarian
 source: Starfall
+family: Starfall
 speed: Slow
+class: Barbarian
 power: 805
 attack: 751
 defense: 801
@@ -9,15 +10,10 @@ health: 1380
 skill: Bobo Blitz
 effects:
   - Deals 320% damage to all enemies.
-  - >-
-    The enemy with the highest base defense gets -60% defense for 4 turns. 
-    This effect can't be cleansed.
-  - >-
-    The enemy with the highest base attack gets -60% attack for 4 turns. 
-    This effect can't be cleansed.
+  - The enemy with the highest base defense gets -60% defense for 4 turns. This effect can't be cleansed.
+  - The enemy with the highest base attack gets -60% attack for 4 turns. This effect can't be cleansed.
 types:
   - Hit All
   - Defense Debuff
   - Attack Debuff
-family: Starfall
 image: https://i.imgur.com/9wspOnr.jpg

@@ -1,7 +1,8 @@
 name: Eichbelborg
-class: Monk
 source: Starfall
+family: Starfall
 speed: Fast
+class: Monk
 power: 676
 attack: 637
 defense: 656
@@ -13,5 +14,4 @@ effects:
 types:
   - Hit 1
   - Defense Debuff
-family: Starfall
 image: https://i.imgur.com/B0oW04d.jpg

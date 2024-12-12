@@ -1,8 +1,8 @@
 name: Zhabog
-class: Druid
-speed: Fast
-family: Bard
 source: Festival
+family: Bard
+speed: Fast
+class: Druid
 power: 682
 attack: 658
 defense: 603
@@ -16,6 +16,5 @@ types:
   - Status Ailment Reset
 passives:
   - >-
-    Revival chance reduction: The chance of revival is reduced for all enemies 
-    in the battle. The chance is -80% of the original value.
+    Revival chance reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value.
 image: https://i.imgur.com/GX1p5W9.jpg

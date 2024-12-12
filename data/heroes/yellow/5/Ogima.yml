@@ -1,8 +1,8 @@
 name: Ogima
-class: Barbarian
-speed: Fast
-family: Bard
 source: Festival
+family: Bard
+speed: Fast
+class: Barbarian
 power: 837
 attack: 834
 defense: 799
@@ -13,14 +13,12 @@ effects:
   - Deals 275% damage to all enemies.
   - Deals additional 30% damage to all enemies for each Minion destroyed.
   - >-
-    Stack (Max: 10): All enemies get -7% mana generation for each destroyed
-    Minion.
+    Stack (Max: 10): All enemies get -7% mana generation for each destroyed Minion.
 types:
   - Minion Destruction
   - Hit All
   - Stack
 passives:
   - >-
-    Mana increase reduction: Reduces the amount of mana increased by Special 
-    Skill by -80%. The effect applies to all enemies in the battle.
+    Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
 image: https://i.imgur.com/8WZ5oVt.jpg
