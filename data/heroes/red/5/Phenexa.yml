@@ -1,8 +1,8 @@
 name: Phenexa
-class: Monk
-speed: Average
-family: Bard
 source: Festival
+family: Bard
+speed: Average
+class: Monk
 power: 869
 attack: 819
 defense: 850

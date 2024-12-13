@@ -10,11 +10,9 @@ health: 1427
 skill: Breaker Blade
 effects:
   - Deals 570% damage to the target.
-  - >-
-    The attack has a 60% chance to bypass defensive buffs. This incldues
-    counterattacks.
-  - 'Stack +2 (Max: 10): The caster gets +10% mana generation'
-  - 'Stack (Max: 10): The caster recovers 10 HP each turn.'
+  - The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
+  - 'Stack +2 (Max: 10): The caster gets +12% mana generation'
+  - 'Stack (Max: 10): The caster recovers 15 HP each turn.'
 types:
   - Hit 1
   - Bypass

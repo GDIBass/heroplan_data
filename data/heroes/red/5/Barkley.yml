@@ -1,8 +1,8 @@
 name: Barkley
-family: Pets
 source: Pets
-class: Fighter
+family: Pets
 speed: Average
+class: Fighter
 power: 879
 attack: 894
 defense: 815
@@ -10,24 +10,15 @@ health: 1526
 skill: Missile Mania
 effects:
   - Deals 300% damage to the target and 2 random enemies.
-  - >-
-    Summons a Missile Fiend to hit enemies. The Fiend damages the enemy with
-    55% attack every turn.
-  - >-
-    The Missile Fiend absorbs healing and disappears when it has absorbed 
-    health equal to 28% of its owner's max health.
-  - >-
-    If an enemy is defeated while it has a Missile Fiend, nearby enemies 
-    receive 500 damage.
+  - Summons a Missile Fiend to hit enemies. The Fiend damages the enemy with 55% attack every turn.
+  - The Missile Fiend absorbs healing and disappears when it has absorbed health equal to 28% of its owner's max health.
+  - If an enemy is defeated while it has a Missile Fiend, nearby enemies receive 500 damage.
 types:
   - Hit 3
   - Fiends
 passives:
   - >-
-    Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 
-    85% damage to all enemies. This effect can activate only once per turn.
+    Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
   - >-
-    Friend of the Familiars: When a Minion is summoned to any ally, this 
-    character gains 5% health and 5% mana. This effect can activate only once 
-    per turn.
+    Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
 image: https://i.imgur.com/X0UJRC3.jpg
