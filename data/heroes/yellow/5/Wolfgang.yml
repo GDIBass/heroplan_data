@@ -11,9 +11,32 @@ skill: Commander's Gauntlet
 effects:
   - Deals 250% damage to all enemies.
   - The caster reduces all received damage by -50% for 4 turns.
-  - After 4 turns, the caster boosts health of all allies by 600. Boosted health can exceed max HP.
+  - All allies regenerate 720 boosted health over 4 turns. Boosted health can exceed max HP.
 types:
   - Hit all
-  - Damage reduction 1
-  - Health boost
+  - Damage Reduction 1
+  - Boosted HoT All
 image: https://i.imgur.com/8Qu4qUF.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 1148
+  attack: 1133
+  defense: 1166
+  health: 2143
+  skill: Gold Gauntlet
+  effects:
+    - Deals 300% damage to all enemies.
+    - The caster reduces all received damage by -45% for 4 turns.
+    - All allies regenerate 720 boosted health over 4 turns. Boosted health can exceed max HP.
+  types:
+    - Hit all
+    - Damage reduction 1
+    - Boosted HoT All
+  passives:
+    - >-
+      Ability: Increased Status Effect Duration
+      Chance to increase the duration of cast status effects.
+      * +1 turn: 75%
+      * +2 turns: 25%
+  image: https://i.imgur.com/2DLIDng.jpg

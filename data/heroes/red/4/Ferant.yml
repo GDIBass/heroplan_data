@@ -1,21 +1,36 @@
 name: Ferant
-class: Druid
 source: Knights
 family: Wolf
 speed: Average
+class: Druid
 power: 680
 attack: 635
 defense: 595
 health: 1474
 skill: Feral Revenge
 effects:
-  - >-
-    The caster and nearby allies counterattack with 115% of the damage received
-    for 5 turns.
-  - >-
-    The caster and nearby allies decrease -10% mana from the attacker on each
-    counterattack for 5 turns. The effect gets diminished for consecutive
-    activations during the same turn.
+  - The caster and nearby allies counterattack with 115% of the damage received for 5 turns.
+  - The caster and nearby allies decrease -10% mana from the attacker on each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn.
 types:
   - Counterattack
 image: https://i.imgur.com/iJhZeCK.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 719
+  attack: 664
+  defense: 628
+  health: 1619
+  skill: Fiery Revenge
+  effects:
+    - The caster and nearby allies counterattack with 120% of the received damage for 5 turns.
+    - The caster and nearby allies decrease -5% mana from the attacker on each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn.
+  types:
+    - Counterattack
+  passives:
+    - >-
+      Ability: Increased Status Effect Duration
+      Chance to increase the duration of cast status effects.
+      * +1 turn: 75%
+      * +2 turns: 25%
+  image: https://i.imgur.com/f9WxEPE.jpg
