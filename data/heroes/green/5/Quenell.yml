@@ -11,7 +11,32 @@ skill: Howling Sword
 effects:
   - Deals 320% damage to the target and nearby enemies.
   - The caster gets additional +40% power for the next Special Skill they cast. The additional power increases +40% each turn, up to a maximum of 200% in total.
+  - The caster regenerates 600 HP over 3 turns.
 types:
   - Hit 3
-  - Power Boost
+  - Power Boost 1
+  - Self HoT
 image: https://i.imgur.com/iWwRJlT.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 1148
+  attack: 1182
+  defense: 1121
+  health: 2114
+  skill: Rusty Blade
+  effects:
+    - Deals 360% damage to the target and nearby enemies.
+    - The caster regenerates 600 HP over 3 turns.
+    - The caster gets additional +30% power for the next Special Skill they cast. The additional power increases +30% each turn, up to +150% in total.
+  types:
+    - Hit 3
+    - Self HoT
+    - Power Boost 1
+  passives:
+    - >-
+      Ability: Increased Status Effect Duration
+      Chance to increase the duration of cast status effects.
+      * +1 turn: 75%
+      * +2 turns: 25%
+  image: https://i.imgur.com/vtZxZ4o.jpg
