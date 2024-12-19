@@ -3,6 +3,9 @@ code: 9
 description: Wolf
 image: https://i.imgur.com/X6O3SJI.png
 bonus:
-  - "Bonus for 2/3 Heroes:"
-  - "35%/50% chance to make a cast buff undispellable."
+  - "Bonus for 1/2/3 Heroes:"
+  - "20%/35%/50% chance to make a cast buff undispellable."
   - "The members of this family have additional perks in the Clash of Knights event."
+bonuscostume-5star: 48/48/48/5
+bonuscostume-4star: 5/5/10/5
+bonuscostume-3star: 

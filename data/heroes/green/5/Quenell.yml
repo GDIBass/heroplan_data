@@ -14,7 +14,7 @@ effects:
   - The caster regenerates 600 HP over 3 turns.
 types:
   - Hit 3
-  - Power Boost 1
+  - Self Power Boost
   - Self HoT
 image: https://i.imgur.com/iWwRJlT.jpg
 costume:
@@ -27,12 +27,12 @@ costume:
   skill: Rusty Blade
   effects:
     - Deals 360% damage to the target and nearby enemies.
-    - The caster regenerates 600 HP over 3 turns.
     - The caster gets additional +30% power for the next Special Skill they cast. The additional power increases +30% each turn, up to +150% in total.
+    - The caster regenerates 600 HP over 3 turns.
   types:
     - Hit 3
+    - Self Power Boost
     - Self HoT
-    - Power Boost 1
   passives:
     - >-
       Ability: Increased Status Effect Duration
