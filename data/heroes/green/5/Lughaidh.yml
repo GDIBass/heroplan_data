@@ -9,14 +9,17 @@ defense: 832
 health: 1433
 skill: Transcendental Frame
 effects:
-  - Removes all status effects and stacks from the caster. Removes even status effects and stacks that are otherwise undispellable or uncleansable.
+  - Cast Full Removal on the caster. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)
   - The caster shifts into Ghost form for 4 turns.
+  - While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, Special Skill attacks, status effects and stacks. Immune to new Growth and Wither effects.
   - While in Ghost form the caster can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, Special Skill attacks, status effects and stacks.
   - While in Ghost form, all allies except the caster get +64% defense
   - While in Ghost form, all allies' except the caster's HP is boosted by 180 HP every turn.
 types:
-  - Cleans self
+  - Self Full Removal
   - Ghost
+  - Defense Buff 4
+  - Boosted HoT 4
 passives:
   - >-
     Special Skill Damage Reduction: Received damage from Special Skills is 
@@ -31,15 +34,16 @@ costume:
   health: 1852
   skill: Transcendental Charge
   effects:
-    - Removes all status ailments and stacks from the caster. Removes even status effects and stacks that are otherwise undispellable or uncleasable.
-    - Removes Growth and Wither effects from the caster.
+    - Cast Full Removal on the caster. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)
     - The caster shifts into Ghost form for 4 turns.
-    - While in Ghost form the caster can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, Special Skill attacks, status effects and stacks.
+    - While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, Special Skill attacks, status effects and stacks. Immune to new Growth and Wither effects.
     - While in Ghost form, all allies except the caster have +56% defense.
     - While in Ghost form, all allies except the caster regenerate 300 boosted health every turn. Boosted health can exceed max HP.
   types:
-    - Cleans self
+    - Self Full Removal
     - Ghost
+    - Defense Buff 4
+    - Boosted HoT 4
   passives:
     - >-
       Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
