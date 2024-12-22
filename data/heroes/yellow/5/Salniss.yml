@@ -1,0 +1,27 @@
+name: Salniss
+source: astral
+family: AstralDwarfs
+speed: Fast
+class: Ranger
+power: 1136
+attack: 1215
+defense: 1161
+health: 1864
+skill: Double-barreled Starstick
+effects:
+  - Deals 425% damage to the target.
+  - The target gets silenced for 3 turns.
+  - Deals 425% damage to a random enemy. (This effect target the same enemy as the first hit enemy if there are no valid targets.)
+  - The target of the second hit receives +50% increased damage for 3 turns. The effect is increased by +10% for each Minion or Mega Minion owned by all enemies, up to +100% in total.
+types:
+  - Hit 1
+  - Silence
+  - Hit Random 1
+passives:
+  - >-
+    Bypass Minions: All damage done by this character's Special Skill bypasses Minions.
+  - >-
+    Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.
+  - >-
+    Perfect Accuracy: This character’s Special Skill never misses its targets.
+image: https://i.imgur.com/iWjHJHA.jpg
