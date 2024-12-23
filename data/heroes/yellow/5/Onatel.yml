@@ -10,19 +10,12 @@ health: 1437
 skill: Eye of the Prophet
 effects:
   - Deals 300% damage to the target and nearby enemies
-  - >-
-    The caster steals generated mana of the target and the nearby enemies over 4
-    turns starting low and increasing every turn until on the last turn all the
-    generated mana is stolen. This effect can't be cleansed, but gets removed if
-    the caster dies
-  - >-
-    Element Link recovers 4% health for all Holy allies for 6 turns. This effect
-    can't be cleansed
+  - The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but gets removed if the caster dies.
+  - Element Link recovers 4% health for all Holy allies for 6 turns. This effect can't be cleansed
 types:
   - Hit 3
   - Mana Steal
 passives:
   - >-
-    This character has an innate ability to resist status ailments that affect
-    Accuracy. Doesn't apply to status effects from allies.
+    Resist Blind: This character has an innate ability to resist status ailments that affect Accuracy. Doesn't apply to status effects from allies.
 image: https://i.imgur.com/wCLflfr.jpg

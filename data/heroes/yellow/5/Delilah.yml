@@ -33,6 +33,5 @@ costume:
     - Summoner
   passives:
     - >-
-      Cleanse on Special: When this character casts their Special Skill, they 
-      cleanse the newest status ailment from all allies.
+      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/muqHGtI.jpg

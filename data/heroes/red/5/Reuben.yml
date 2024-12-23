@@ -1,8 +1,8 @@
 name: Reuben
-class: Cleric
 source: Hotm
 family: 2020
 speed: Fast
+class: Cleric
 power: 782
 attack: 766
 defense: 737
@@ -10,18 +10,12 @@ health: 1310
 skill: Occult Redemption
 effects:
   - Deals 310% damage to the target and nearby enemies.
-  - >-
-    All allies get -75% reduction to damage received from status effects for 4
-    turns.
-  - >-
-    Element Link summons a Fire Minion for all Fire allies with 6% HP and 10%
-    attack inherited from the caster.
+  - All allies get -75% reduction to damage received from status effects for 4 turns.
+  - Element Link summons a Fire Minion for all Fire allies with 6% HP and 10% attack inherited from the caster.
 types:
   - Hit 3
   - Damage reduction buff
 passives:
   - >-
-    This character has innate resistance against status ailments and negative 
-    stacks that affect Mana Generation. Doesn't apply to status ailments that 
-    stop mana generation or steal mana.
+    Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect Mana Generation. Doesn't apply to status ailments that stop mana generation or steal mana.
 image: https://i.imgur.com/0xyk3F5.jpg

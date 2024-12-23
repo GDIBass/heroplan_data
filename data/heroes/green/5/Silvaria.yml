@@ -11,22 +11,15 @@ skill: Power of Flora
 effects:
   - The target and nearby enemies get -34% defense for 3 turns.
   - Deals 380% damage to the target.
-  - >-
-    Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack
-    inherited from the caster.
-  - >-
-    Element Link gives all Nature allies +10% atack for 4 turns. This effect
-    can't be dispelled.
+  - Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited from the caster.
+  - Element Link gives all Nature allies +10% atack for 4 turns. This effect can't be dispelled.
 types:
   - Defense Debuff
   - Hit 1
   - Summoner
 passives:
   - >-
-    Resist Minion Removal: This character has innate resistance against Minion 
-    removal.
+    Resist Minion Removal: This character has innate resistance against Minion removal.
   - >-
-    Summon on Burn: Each time this character receives a Burn status ailment, 
-    they summon a Forest Guardian Minion for themseles. Forest Guardian Minion 
-    inherits 40% HP and 40% atack from this character.
+    Summon on Burn: Each time this character receives a Burn status ailment, they summon a Forest Guardian Minion for themseles. Forest Guardian Minion inherits 40% HP and 40% atack from this character.
 image: https://i.imgur.com/bmUsK1J.jpg

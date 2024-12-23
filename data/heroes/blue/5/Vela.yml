@@ -13,15 +13,12 @@ effects:
   - All enemies receive 252 Water damage over 4 turns.
   - All enemies get -34% attack for 3 turns.
   - Deals extra damage against Fire.
-  - >-
-    Element link gives all Ice allies +10% critical chance for 6 turns. This
-    effect can't be dispelled.
+  - Element link gives all Ice allies +10% critical chance for 6 turns. This effect can't be dispelled.
 types:
   - Hit All
   - Dot All
   - Atack debuff
 passives:
   - >-
-    This character has an innate resistance against incoming negative effects and
-    damage from Minions.
+    Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions.
 image: https://i.imgur.com/mUzztO6.jpg

@@ -10,19 +10,16 @@ health: 1425
 skill: Force of Forest
 effects:
   - Deals 150% damage to all enemies.
-  - >-
-    Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack
-    inherited from the caster.
+  - Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited from the caster.
   - All allies regenerate 366 HP over 2 turns.
   - All enemies get -24% mana generation for 2 turns.
-  - >-
-    Element Link gives all Nature allies +10% critical chance for 6 turns. This
-    effect can't be cleansed.
+  - Element Link gives all Nature allies +10% critical chance for 6 turns. This effect can't be cleansed.
 types:
   - Hit All
   - Summoner
   - HOT
   - Mana Generation Debuff
 passives:
-  - The Hero has innate resistance against Minion Removal.
+  - >-
+    Resist Minion Removal: The Hero has innate resistance against Minion Removal.
 image: https://i.imgur.com/xKwfgME.jpg

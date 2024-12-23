@@ -9,7 +9,7 @@ defense: 797
 health: 1409
 skill: Dancing Dodge
 effects:
-  - All allies get +45% chance to dodge Special SKills for 3 turns. Each dodge boosts max health by 375. If health exceeds max HP, it is added as temporary HP.
+  - All allies get +45% chance to dodge Special SKills for 3 turns. Each dodge boosts max health by 425. Boosted health cand exceed max HP.
   - All allies resist max health reduction for 3 turns.
   - Element Link gives +10% increase for any healing received for all Holy allies for 4 turns. This effect can't be dispelled.
 types:

@@ -1,27 +1,23 @@
 name: Kunchen
-class: Cleric
 source: Hotm
 family: 2019
 speed: Slow
+class: Cleric
 power: 770
 attack: 618
 defense: 815
 health: 1437
 skill: Power of Ajna
 effects:
-  - Recovers 45% health for all allies
-  - All enemies get -34% defense for 4 turns
-  - Cleanses status ailments from all allies
-  - >-
-    Element Link gives all Dark allies +46% defense against Holy for 4 turns.
-    This effect can't be cleansed
+  - Recovers 45% health for all allies.
+  - All enemies get -34% defense for 4 turns.
+  - Cleanses status ailments from all allies.
+  - Element Link gives all Dark allies +46% defense against Holy for 4 turns. This effect can't be cleansed.
 types:
   - Healer
   - Defense Debuffer
   - Cleanser
 passives:
   - >-
-    This character has an innate resistance against status ailments and negative
-    stacks that affect defense. Doesn't apply to status ailments that affect 
-    Elemental Defense.
+    Resist Defense Ailments: This character has an innate resistance against status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect Elemental Defense.
 image: https://i.imgur.com/4sKh1TW.jpg
