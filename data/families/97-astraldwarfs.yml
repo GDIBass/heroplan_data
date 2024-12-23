@@ -1,0 +1,7 @@
+key: astraldwarfs
+code: 97
+description: Astral Dwarfs
+image: https://i.imgur.com/wOzKrMH.png
+bonus:
+  - "Bonus for 1/2 Unique Heroes:"
+  - "20% / 25% chance to dispel a random dispellable effect buff from all enemies at the end of each turn."
