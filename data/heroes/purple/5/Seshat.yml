@@ -40,9 +40,7 @@ costume:
     - Summoner
   passives:
     - >-
-      Resist mana reduction: This character has innate resistance against 
-      mana reduction.
+      Resist mana reduction: This character has innate resistance against mana reduction.
     - >-
-      Cleanse on Special: When this character casts their Special Skill, they 
-      cleanse the newest status ailment from all allies.
+      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/qNMuMVA.jpg

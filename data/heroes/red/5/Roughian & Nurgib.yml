@@ -1,8 +1,8 @@
 name: Roughian & Nurgib
 source: Hotm
-class: Rogue
 family: 2023
 speed: Fast
+class: Rogue
 power: 819
 attack: 809
 defense: 716
@@ -11,20 +11,14 @@ skill: Mana Scavenge
 effects:
   - Steals 50% mana from the target and distributes them on allies.
   - Deals 420% damage to the target.
-  - >-
-    The more health the enemy has, the more damage they will receive, up to
-    570%.
-  - >-
-    Element Link gives all Fire allies get +5% chance to dodge status ailments
-    for 4 turns. This effect can't be dispelled.
+  - The more health the enemy has, the more damage they will receive, up to 570%.
+  - Element Link gives all Fire allies get +5% chance to dodge status ailments for 4 turns. This effect can't be dispelled.
 types:
   - Hit 1
   - Mana steal
 passives:
   - >-
-    Eat Minions and Gain Mana Over Time: Every 3 turns eats all Minions from a 
-    random enemy and gains a small amount of mana for each eaten Minion.
+    Eat Minions and Gain Mana Over Time: Every 3 turns eats all Minions from a random enemy and gains a small amount of mana for each eaten Minion.
   - >-
-    Mana on Health Recovery: This character receives 5% mana each time its 
-    health is recovered.
+    Mana on Health Recovery: This character receives 5% mana each time its health is recovered.
 image: https://i.imgur.com/zCcV9K1.jpg

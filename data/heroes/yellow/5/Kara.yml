@@ -1,30 +1,24 @@
 name: Kara
 source: Hotm
 family: 2022
-class: Paladin
 speed: Average
+class: Paladin
 power: 807
 attack: 756
 defense: 766
 health: 1450
 skill: Shieldmaiden's Protection
 effects:
-  - >-
-    The caster gets Taunt that prevents enemies from using Special Skills on the
-    caster's allies for 4 turns
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.
   - The caster gets +74% defense against special skills for 4 turns.
   - All allies except the caster get +34% attack fo 4 turns.
-  - >-
-    Element Link gives all Holy allies +10% defense for 4 turns. This effect
-    can't be dispelled.
+  - Element Link gives all Holy allies +10% defense for 4 turns. This effect can't be dispelled.
 types:
   - Taunt
   - Attack Buff
 passives:
   - >-
-    This character has innate resistance against status ailments that affect
-    defense. Applies also to status ailments that affect elemental defense.
+    Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character.
   - >-
-    This character receives 10% mana each time a buff is dispelled from this
-    character.
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
 image: https://i.imgur.com/ltyTaFe.jpg

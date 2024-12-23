@@ -1,8 +1,8 @@
 name: Gilligan
 source: Hotm
 family: 2023
-class: Barbarian
 speed: Slow
+class: Barbarian
 power: 821
 attack: 753
 defense: 770
@@ -12,18 +12,13 @@ effects:
   - Deals 350% damage to the target and nearby enemies.
   - The attack has a 75% chance to bypass defensive buffs. This includes counterattacks.
   - All allies get +40% defense for 4 turns.
-  - >-
-    Element Link gives all Holy allies a +5% chance to dodge status ailments for
-    4 turns. This effect cannot be dispelled.
+  - Element Link gives all Holy allies a +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled.
 types:
   - Hit 3
   - Defense Buff
 passives:
   - >-
-    Resist Mana Ailments: This character has innate resistance against ailments
-    that affect mana.
+    Resist Mana Ailments: This character has innate resistance against ailments that affect mana.
   - >-
-    Mana Per Enemy Buff: Gains a small amount of mana for every active status 
-    effect buff that the enemy team has at the start of each turn (maximum of 20
-    buffs).
+    Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).
 image: https://i.imgur.com/gcaSLmN.jpg

@@ -1,28 +1,21 @@
 name: Miki
-class: Barbarian
 source: Hotm
+family: 2019
 speed: Slow
+class: Barbarian
 power: 770
 attack: 712
 defense: 778
 health: 1275
 skill: Wrath of Tundra
 effects:
-  - >-
-    All allies get +130% normal attack that only applies when the enemy has more
-    HP than the attacker. This effect can be active in addition to effects that 
-    alter attack in general. Normal attacks can have a total maximum of +170% 
-    increased power while this efect is active. The effect lasts for 5 turns.
+  - All allies get +130% normal attack that only applies when the enemy has more HP than the attacker. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +170% increased power while this efect is active. The effect lasts for 5 turns.
   - The target and nearby enemies get silenced for 5 turns
-  - >-
-    Element Link gives +4% mana regeneration for all Ice allies for 4 turns.
-    This effect can't be dispelled.
+  - Element Link gives +4% mana regeneration for all Ice allies for 4 turns. This effect can't be dispelled.
 types:
   - Titan Attack Buff
   - Silencer
 passives:
   - >-
-    This character has an innate resistance against status aliments that Block 
-    Special Skills.
+    Resist Special Skill Blocking: This character has an innate resistance against status aliments that Block Special Skills.
 image: https://i.imgur.com/FM0GgVz.jpg
-family: 2019

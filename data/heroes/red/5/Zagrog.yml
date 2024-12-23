@@ -1,8 +1,8 @@
 name: Zagrog
-class: Rogue
 source: Hotm
 family: 2022
 speed: Average
+class: Rogue
 power: 805
 attack: 776
 defense: 756
@@ -12,18 +12,13 @@ effects:
   - Deals 460% damage to the target and minor damage to nearby enemies.
   - The attack bypasses defensive buffs. This includes counterattacks.
   - The caster gains 25% mana if any defensive buffs were bypassed.
-  - >-
-    Element Link gives all Fire allies +10% defense for 4 turns. This effect
-    can’t be dispelled.
+  - Element Link gives all Fire allies +10% defense for 4 turns. This effect can’t be dispelled.
 types:
   - Hit 3
   - Bypass
 passives:
   - >-
-    Resist attack status effects: This character has innate resistance against 
-    all status effects and stacks that effect attack. This includes buffs.
+    Resist attack status effects: This character has innate resistance against all status effects and stacks that effect attack. This includes buffs.
   - >-
-    Resist mana ailments: This character has innate resistance against status 
-    ailments and negative stacks that affect mana generation. Applies also to 
-    status ailments that block mana or steal mana.
+    Resist mana ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.
 image: https://i.imgur.com/jTxW191.jpg

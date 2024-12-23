@@ -11,16 +11,12 @@ skill: Marked Aim
 effects:
   - Deals 450% damage to the target.
   - 'Stack (Max:10): All damage the target receives is increased by +5%.'
-  - >-
-    Element Link gives all Dark allies +5% chance to dodge status ailments for
-    4 turns. This effect cannot be dispelled.
+  - Element Link gives all Dark allies +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled.
 types:
   - Hit 1
 passives:
   - >-
-    Increased special skill damage: The first time this character casts a 
-    Special Skill that deals damage, an additional 50% is added to its power.
+    Increased special skill damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power.
   - >-
-    Resist blind: This character has innate resistance against status ailments
-    that affect accuracy. Doesn`t apply to status effects from allies.
+    Resist blind: This character has innate resistance against status ailments that affect accuracy. Doesn`t apply to status effects from allies.
 image: https://i.imgur.com/ktMsNKD.jpg

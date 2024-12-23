@@ -10,7 +10,7 @@ health: 1425
 skill: Gnomish Carnage
 effects:
   - Destroys all minions from all enemies.
-  - Deals 285% damage to all enemies.
+  - Deals 315% damage to all enemies.
   - All allies get a small amount of mana for each destroyed minion
   - Element Link gives all Dark allies +10% critical chance for 6 turns. This effect can’t be dispelled.
 types:
