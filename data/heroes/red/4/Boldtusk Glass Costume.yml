@@ -1,0 +1,21 @@
+name: Boldtusk Glass Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Fighter
+power: 761
+attack: 708
+defense: 854
+health: 1351
+skill: Glass Warcry
+effects:
+  - Recovers 34% health for all allies.
+  - All allies get +45% attack for 4 turns.
+types:
+  - Healer
+  - Attack Buff
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/lVwUo5n.jpg

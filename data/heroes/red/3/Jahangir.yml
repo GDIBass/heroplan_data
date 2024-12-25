@@ -9,8 +9,8 @@ defense: 436
 health: 599
 skill: Fireball
 effects:
-  - Deals 145% damage to all enemies
-  - All enemies receive 120 damage over 6 turns
+  - Deals 145% damage to all enemies.
+  - All enemies receive 120 damage over 6 turns.
 types:
   - Hit All
   - Dot All
@@ -24,10 +24,11 @@ costume:
   health: 705
   skill: Scorching Ray
   effects:
-    - Deals 115% damage to all enemies
-    - All enemies receive 156 Burn damage over 4 turns
+    - Deals 115% damage to all enemies.
+    - All enemies receive 156 Burn damage over 4 turns.
   types:
     - Hit all
+    - Dot All
   image: https://i.imgur.com/IPO19rX.jpg
 costume2:
   bonuses: 5/5/10/5
@@ -45,5 +46,24 @@ costume2:
     - Hit All
     - Dot All
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/nGXpTVa.jpg
+costume3:
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 514
+  attack: 566
+  defense: 487
+  health: 825
+  skill: Glass Fireball
+  effects:
+    - Deals 185% damage to all enemies.
+    - All enemies receive 135 Burn damage over 3 turns.
+  types:
+    - Hit All
+    - Dot All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/r8eT1gi.jpg

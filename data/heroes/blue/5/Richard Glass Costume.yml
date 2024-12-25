@@ -1,0 +1,21 @@
+name: Richard Glass Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Paladin
+power: 1176
+attack: 1222
+defense: 1084
+health: 2286
+skill: Glass Hammer
+effects:
+  - Deals 575% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -30% attack for 6 turns.
+types:
+  - Hit 3
+  - Attack Debuff 3
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/zd4avma.jpg
