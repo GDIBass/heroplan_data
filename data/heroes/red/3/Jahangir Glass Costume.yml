@@ -1,0 +1,21 @@
+name: Jahangir Glass Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Sorcerer
+power: 514
+attack: 566
+defense: 487
+health: 825
+skill: Glass Fireball
+effects:
+  - Deals 185% damage to all enemies.
+  - All enemies receive 135 Burn damage over 3 turns.
+types:
+  - Hit All
+  - Dot All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/r8eT1gi.jpg

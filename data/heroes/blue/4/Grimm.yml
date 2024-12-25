@@ -1,19 +1,19 @@
 name: Grimm
-class: Barbarian
 source: Season1
 family: Classic
 speed: Average
+class: Barbarian
 power: 642
 attack: 716
 defense: 531
 health: 1132
 skill: Ramming Pulverizer
 effects:
-  - Deals 295% damage to the target and minor damage to nearby enemies
-  - The target and nearby enemies get -34% defense for 6 turns
+  - Deals 295% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -34% defense for 6 turns.
 types:
   - Hit 3
-  - Defense Debuff
+  - Defense Debuff 3
 image: https://i.imgur.com/Mx4BDfE.jpg
 costume:
   bonuses: 5/5/10/5
@@ -24,10 +24,11 @@ costume:
   health: 1278
   skill: Merciless Pulverizer
   effects:
-    - Deals 295% damage to the target and minor damage to nearby enemies
-    - The caster and nearby allies get +50% attack for 6 turns
+    - Deals 295% damage to the target and minor damage to nearby enemies.
+    - The caster and nearby allies get +50% attack for 6 turns.
   types:
     - Hit 3
+    - Attack Buff 3
   image: https://i.imgur.com/Z9LP9Ei.jpg
 costume2:
   bonuses: 5/5/10/5
@@ -39,9 +40,7 @@ costume2:
   skill: Postal Pulverizer
   effects:
     - Deals 295% damage to the target and minor damage to nearby enemies.
-    - >-
-      The caster and nearby allies Special Skill deal an additional +40% damage
-      for 6 turns.
+    - The caster and nearby allies Special Skill deal an additional +40% damage for 6 turns.
   types:
     - Hit 3
   image: https://i.imgur.com/cDO5QOd.jpg
@@ -59,8 +58,26 @@ costume3:
     - Deals extra damage against Fire.
   types:
     - Hit 3
-    - Defense Debuff
+    - Defense Debuff 3
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions'
-    - and buff dispels.
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/3MLw0k0.jpg
+costume4:
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 758
+  attack: 843
+  defense: 647
+  health: 1412
+  skill: Glass Pulverizer
+  effects:
+    - Deals 335% damage to the target and minor damage to nearby enemies.
+    - The target and nearby enemies get -30% defense for 6 turns.
+  types:
+    - Hit 3
+    - Defense Debuff 3
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/STrSTFP.jpg

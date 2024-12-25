@@ -1,0 +1,23 @@
+name: Vivica Glass Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Slow
+class: Cleric
+power: 1178
+attack: 1168
+defense: 1184
+health: 2237
+skill: Glass Heal
+effects:
+  - Recovers 55% health for all allies.
+  - All allies get +60% defense for 4 turns.
+  - Cleanses status ailments from all allies.
+types:
+  - Healer
+  - Defense buff
+  - Cleanser
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/Vcxpsu2.jpg

@@ -65,3 +65,21 @@ costume3:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/yS5bHHw.jpg
+costume4:
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 1182
+  attack: 1260
+  defense: 1120
+  health: 2160
+  skill: Glass Volcano
+  effects:
+    - Deals 365% damage to all enemies.
+    - All enemies receive 384 Burn damage over 2 turns.
+  types:
+    - Hit all
+    - DoT all
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/S5acyh9.jpg
