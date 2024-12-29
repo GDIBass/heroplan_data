@@ -1,8 +1,8 @@
 name: Liu Bei
-class: Druid
 source: Kingdom
 family: Kingdom
 speed: Average
+class: Druid
 power: 836
 attack: 815
 defense: 799
@@ -10,13 +10,8 @@ health: 1450
 skill: Call to Arms
 effects:
   - Deals 360% damage to the target and nearby enemies.
-  - >-
-    Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack
-    inherited from the caster.
-  - >-
-    When summoned, the Shu Soldier Minion gives its owner the ability to 
-    counterattack with 60% of the damage received for as long as the owner has
-    a Shu Soldier Minion. This effect can’t be dispelled.
+  - Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack inherited from the caster.
+  - When summoned, the Shu Soldier Minion gives its owner the ability to  counterattack with 60% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.
 types:
   - Hit 3
   - Summoner

@@ -10,12 +10,8 @@ health: 1466
 skill: Lady's Charm
 effects:
   - Recover 35% health for all allies.
-  - >-
-    Summons a Lackey Minion for the caster and nearby allies with 16% HP and 25%
-    attack inherited from the caster.
-  - >-
-    Each time a Lackey Minion hits an enemy, it steals a random dispellable buff
-    from the enemy and gives it to its owner.
+  - Summons a Lackey Minion for the caster and nearby allies with 16% HP and 25% attack inherited from the caster.
+  - Each time a Lackey Minion hits an enemy, it steals a random dispellable buff from the enemy and gives it to its owner.
 types:
   - Heal all
   - Summoner

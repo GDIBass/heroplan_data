@@ -1,18 +1,16 @@
 name: Li
 source: Kingdom
-class: Paladin
 family: Kingdom
+speed: Slow
+class: Paladin
 power: 483
 attack: 481
 defense: 486
 health: 813
 skill: Sickle of Wu
-speed: Slow
 effects:
   - Deals 160% damage to all enemies.
-  - >-
-    Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack
-    inherited from the caster.
+  - Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from the caster.
   - The target hit by Wu Soldier Minion receives 156 Burn damage over 3 turns.
 types:
   - Hit All

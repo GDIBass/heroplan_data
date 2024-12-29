@@ -1,22 +1,17 @@
 name: Jing
 source: Kingdom
-class: Fighter
 family: Kingdom
+speed: Fast
+class: Fighter
 power: 482
 attack: 500
 defense: 484
 health: 766
 skill: Spear of Shu
-speed: Fast
 effects:
   - Deals 340% damage to the target.
-  - >-
-    Summons a Shu Soldier Minion with 16% HP and 17% attack inherited from the
-    caster.
-  - >-
-    When summoned, the Shu Soldier Minion gives its owner the ability to 
-    counterattack with 60% of the damage received for as long as the owner has 
-    a Shu Soldier Minion. This effect can’t be dispelled.
+  - Summons a Shu Soldier Minion with 16% HP and 17% attack inherited from the caster.
+  - When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.
 types:
   - Hit 1
   - Summoner

@@ -1,21 +1,17 @@
 name: Yao
 source: Kingdom
-class: Ranger
 family: Kingdom
+speed: Average
+class: Ranger
 power: 483
 attack: 486
 defense: 497
 health: 778
 skill: Sword of Wei
-speed: Average
 effects:
   - Deals 215% damage to the target and nearby enemies.
-  - >-
-    Summons a Wei Soldier Minion with 20% HP and 25% attack inherited from the
-    caster.
-  - >-
-    Each hit from a Wei Soldier Minion dispells all dispellable buffs from the
-    target.
+  - Summons a Wei Soldier Minion with 20% HP and 25% attack inherited from the caster.
+  - Each hit from a Wei Soldier Minion dispells all dispellable buffs from the target.
 types:
   - Hit 3
   - Summoner
