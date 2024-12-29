@@ -1,8 +1,8 @@
 name: General Yin
 source: Kingdom
-class: Barbarian
-speed: Slow
 family: Journey
+speed: Slow
+class: Barbarian
 power: 486
 attack: 519
 defense: 507
@@ -11,9 +11,7 @@ skill: Enchanted Axe Swing
 effects:
   - Dispels buffs from all enemies.
   - Deals 180% damage to all enemies.
-  - >-
-    Deals additional 8% damage per removed status effect, up to 276% damage in
-    total.
+  - Deals additional 8% damage per removed status effect, up to 276% damage in total.
 types:
   - Dispeller
   - Hit All

@@ -3,14 +3,13 @@ source: untoldtales
 family: Nidavellir
 speed: Slow
 class: Ranger
-power: 1127
-attack: 1133
-defense: 1126
-health: 2078
+power: 1138
+attack: 1143
+defense: 1137
+health: 2109
 skill: Spearwand Gale
 effects:
-  - This Special Skill never misses its targets.
-  - Attacks all enemies with Firestorm Strike, dealing up to 2000 damage. Deals 40% more if the target is of the Nature element.
+  - Attacks all enemies with Firestorm Strike, dealing up to 2000 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.
   - Heals all allies for 25% of damage dealt.
   - All allies counterattack with 60% of the damage received for 5 turns.
 types:

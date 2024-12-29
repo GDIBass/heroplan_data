@@ -9,9 +9,8 @@ defense: 694
 health: 1260
 skill: Poetic Justice
 effects:
-  - This Special Skill never misses its targets.
   - Damage bypasses target’s Minions.
-  - Attack the target with Firestorm Strike, dealing up to 1080 damage. Deals 30% more damage if the target is ok the Nature element.
+  - Attack the target with Firestorm Strike, dealing up to 1080 damage. Deals 30% more damage if the target is ok the Nature element. This Special Skill never misses its targets.
   - The target resists new Minions for 4 turns.
 types:
   - Bypass Minions

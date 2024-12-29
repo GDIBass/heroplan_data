@@ -75,7 +75,7 @@ costume4:
   skill: Glass Volcano
   effects:
     - Deals 365% damage to all enemies.
-    - All enemies receive 384 Burn damage over 2 turns.
+    - All enemies receive 603 Burn damage over 2 turns.
   types:
     - Hit all
     - DoT all

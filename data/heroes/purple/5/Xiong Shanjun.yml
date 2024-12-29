@@ -9,14 +9,8 @@ defense: 908
 health: 1621
 skill: Fury of the Mountain Lord
 effects:
-  - >-
-    Reduces max health of all enemies by 800 over 4 turns. 
-    The effect is stronger against targets with boosted health. 
-    Max health can't get lower than 30% of the original max health. 
-    Any boosted health is reduced by an additional 200 per turn.
-  - >-
-    All allies regenerate 800 boosted health over 4 turns.
-    Boosted health can exceed max HP.
+  - Reduces max health of all enemies by 800 over 4 turns. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 200 per turn.
+  - All allies regenerate 800 boosted health over 4 turns. Boosted health can exceed max HP.
   - All enemies get -24% mana generation for 4 turns.
   - All allies get +24% mana generation for 4 turns.
 types:

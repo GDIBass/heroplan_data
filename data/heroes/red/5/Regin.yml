@@ -3,15 +3,14 @@ source: untoldtales
 family: Nidavellir
 speed: Fast
 class: Rogue
-power: 1129
-attack: 1149
-defense: 1108
-health: 2088
+power: 1138
+attack: 1157
+defense: 1116
+health: 2113
 skill: Master Plan
 effects:
   - Dispels buffs from the target and nearby enemies.
-  - The Special Skill never misses its targets.
-  - Attacks the target and nearby enemies with Firestorm Strike, dealing up to 1900 damage. Deals 40% more damage if the target is of the Nature element.
+  - Attacks the target and nearby enemies with Firestorm Strike, dealing up to 1900 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.
   - The target and nearby enemies are immune to new status effect buffs for 3 turns.
 types:
   - Dispeler 3

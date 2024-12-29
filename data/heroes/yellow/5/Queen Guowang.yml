@@ -1,8 +1,8 @@
 name: Queen Guowang
-class: Sorcerer
 source: Kingdom
 family: Journey
 speed: Average
+class: Sorcerer
 power: 862
 attack: 797
 defense: 832
@@ -10,13 +10,8 @@ health: 1608
 skill: The Queen’s Radiance
 effects:
   - Deals 330% damage to all enemies.
-  - >-
-    All allies get +10% mana every time an enemy uses their Special Skill during
-    4 turns. Mana is received at the end of a Special Skill. Mana will not be
-    received if this status effect is removed during a Special Skill
-  - >-
-    The caster gets Vengeance for 4 turns. If Vengeance is dispelled by an
-    enemy’s Special Skill, all enemies receive 525 damage.
+  - All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill
+  - The caster gets Vengeance for 4 turns. If Vengeance is dispelled by an enemy’s Special Skill, all enemies receive 525 damage.
 types:
   - Hit All
 image: https://i.imgur.com/CNKl3X2.jpg
