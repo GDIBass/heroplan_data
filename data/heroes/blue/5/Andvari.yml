@@ -1,0 +1,29 @@
+name: Andvari
+source: untoldtales
+family: Nidavellir
+speed: Average
+class: Sorcerer
+power: 1112
+attack: 1091
+defense: 1122
+health: 2084
+skill: Saga of Deliverance
+effects:
+  - Destroys all Minions from all enemies and damages all Mega Minions.
+  - Destroys all Fiends from all allies. This effect damages Mega Fiends.
+  - All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1200. Reduces damage by additional 30% when the attacker is of the Nature element.
+  - All allies get +40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+types:
+  - Minions Destroyer
+  - Fiends Destroyer
+  - Firestorm Ward
+  - Mana Generation Buff
+passives:
+  - >-
+    Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.
+  - Molten Core. This character has a Molten Core.
+  - >-
+    The Molten Core activates each time this character’s Special Skill is cast:
+  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 272 Burn damage, and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+image: https://i.imgur.com/MVPiXPz.jpg
