@@ -1,8 +1,8 @@
 name: Lu Bu
-class: Barbarian
 source: Kingdom
 family: Kingdom
 speed: Slow
+class: Barbarian
 power: 835
 attack: 788
 defense: 801
@@ -10,17 +10,32 @@ health: 1505
 skill: Disrupting Charge
 effects:
   - Deals 330% damage to all enemies.
-  - >-
-    Summons a Mercenary Fiend for all enemies. The Fiend damages its target with
-    56% attack every turn.
-  - >-
-    The Mercenary Fiend absorbs healing. It disappears after absorbing a healing
-    amount equal to 38% of its target’s max health.
-  - >-
-    When summoned, the Mercenary Fiend  causes its target to be immune to new 
-    buffs. The effect lasts as long as the target has Mercenary Fiend. 
-    This effect can’t be cleansed.
+  - Summons a Mercenary Fiend for all enemies. The Fiend damages its target with 56% attack every turn.
+  - The Mercenary Fiend absorbs healing. It disappears after absorbing a healing amount equal to 38% of its target’s max health.
+  - When summoned, the Mercenary Fiend  causes its target to be immune to new buffs. The effect lasts as long as the target has Mercenary Fiend. This effect can’t be cleansed.
 types:
   - Hit All
   - Fiend
 image: https://i.imgur.com/pOnV8Et.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 1106
+  attack: 1063
+  defense: 1097
+  health: 2156
+  skill: Ravaging Charge
+  effects:
+    - Deals 320% damage to all enemies.
+    - Summons a Mercenary Fiend for all enemies. The Fiend damages the enemy with 65% attack every turn.
+    - The Mercenary Fiend absorbs healing and disappears when it has absorbed health equal to 45% of its target’s max health.
+    - When summoned, the Mercenary Fiend causes its target to be immune to new buffs. The effect lasts as long as the target has Mercenary Fiends. This effect can’t be cleansed.
+  types:
+    - Hit All
+    - Fiend
+  passives:
+    - 'Unstoppable Minions:'
+    - ' * Resistance against Minion removal.'
+    - ' * Can’t be prevented from receiving Minions.'
+    - ' * Minion attack and abilities can’t be disabled.'
+  image: https://i.imgur.com/9cuTL09.jpg
