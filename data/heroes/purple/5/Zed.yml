@@ -1,0 +1,25 @@
+name: Zed
+source: Hotm
+family: 2025
+speed: Fast
+class: Fighter
+power: 1049
+attack: 1153
+defense: 1032
+health: 1656
+skill: Lance Thrust
+effects:
+  - Deals 440% damage to the target.
+  - The target gets -34% defense for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.
+  - The target gets -34% decrease for any healing received for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.
+  - Element Link gives all Dark allies +20% critical chance for 6 turns. This effect cannot be dispelled.
+types:
+  - Hit 1
+  - Defense Debuff 1
+  - Healing Debuff 1
+passives:
+  - >-
+    Resist Blind: This character has innate resistance against status ailments that affect accuracy. Doesn’t apply to original status effects from allies.
+  - >-
+    Increased Special Skill Damage: This first 2 times this character casts a Special Skill that deals damage, an additional 50% is added to its power.
+image: https://i.imgur.com/G0RFHTr.jpg
