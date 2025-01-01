@@ -1,0 +1,24 @@
+name: Charmione
+source: superelemental
+family: Slime
+speed: Slow
+class: Cleric
+power: 1140
+attack: 1071
+defense: 1095
+health: 2389
+skill: Perfume Cloud
+effects:
+  - The target and nearby enemies receive Devouring Goo status ailment for 4 turns.
+  - >-
+    Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 100 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can’t exceed 700.
+  - After 1 turn the target and nearby enemies get Paralyzed for 4 turns. (Paralyzed enemies can’t attack or gain mana and receive +50% increased damage.
+types:
+  - Devouring Goo
+  - Paralyze 3
+passives:
+  - >-
+    Slime Minion Upon Defeat: When the hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the defeated hero.
+  - >-
+    Slime Minion Split: If hero loses more than 25% of max health at once-> Summon a Slime Mega Minion on itself with 50% HP and 40% attack.
+image: https://i.imgur.com/4w6oCQ7.jpg
