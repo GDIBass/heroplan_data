@@ -19,7 +19,7 @@ types:
   - Dance of the Slimy
 passives:
   - >-
-    Slime Minion Upon Defeat: When the slime hero is defeated it summons Slime Mega Minions to nearby allies with 51% HP and 40% attack inherited from the defeated hero.
+    Slime Minion Upon Defeat: When the slime hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the defeated hero.
   - >-
-    Slime Minion Split: Every time a single source deals damage more than 25% of max health to Slime Hero it spawns a Mega Minion on itself with 51% HP and 40% attack .
+    Slime Minion Split: Every time a single source deals damage more than 25% of max health to Slime Hero it spawns a Mega Minion on itself with 50% HP and 40% attack .
 image: https://i.imgur.com/IpdLyXH.jpg
