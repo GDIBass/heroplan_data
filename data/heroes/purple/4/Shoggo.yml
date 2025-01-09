@@ -1,0 +1,20 @@
+name: Shoggo
+source: shadow
+family: cultist
+speed: Average
+class: Druid
+power: 712
+attack: 711
+defense: 701
+health: 1300
+skill: Lantern of Insanity
+effects:
+  - Deals 250% damage to all and inflicts 10 Insanity on them.
+  - All enemies are immune to new status effect buffs for 4 turns.
+  - Inflicts 55 Insanity on the caster.
+types:
+  - Hit All
+  - Insanity
+  - Buff Immunity
+  - Self Insanity
+image: https://i.imgur.com/tl6HZEf.jpg
