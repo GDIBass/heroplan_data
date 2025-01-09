@@ -11,7 +11,7 @@ skill: Freezing Crystal
 effects:
   - Deals 190% damage to all enemies.
   - Reduces the duration of all enemies’ active buffs by 1 turn.
-  - All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 70 Frosth damage and lowers the target’s attack by -11% each turn.
+  - All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 70 Frosth damage and lowers the target’s attack by -11% each turn. Deals extra damage against heroes with Minions or Mega Minions.
 types:
   - Hit All
   - Buff Reduction

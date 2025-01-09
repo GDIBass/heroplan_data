@@ -14,7 +14,10 @@ effects:
   - All allies resist mana reduction for as long as the caster has boosted health. This effect can't be dispelled.
   - Deals 165% damage to a random enemy each turn for as long as the caster has boosted health. This effect can't be dispelled.
 types:
-  - Health Boost
+  - Hit 1
+  - Self Health Boost
+  - Mana reduction immunity All
+  - Hit 1 random
 image: https://i.imgur.com/bmdaK3F.jpg
 costume:
   bonuses: 5/5/10/5
@@ -31,5 +34,7 @@ costume:
     - Deals 185% damage to a random enemy each turn for as long as the caster has boosted health. This effect can't be dispelled.
   types:
     - Hit 1
-    - Health Boost
+    - Self Health Boost
+    - Mana reduction immunity All
+    - Hit 1 random
   image: https://i.imgur.com/oTqqeuM.jpg

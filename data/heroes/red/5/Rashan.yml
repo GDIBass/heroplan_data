@@ -14,7 +14,8 @@ effects:
   - Inflicts 45 Insanity on the caster.
 types:
   - Hit 2
-  - Insanity
+  - Insanity 2
+  - Self Insanity 
 passives:
   - >-
     Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
