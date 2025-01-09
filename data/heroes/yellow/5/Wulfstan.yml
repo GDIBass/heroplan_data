@@ -1,0 +1,20 @@
+name: Wulfstan
+source: shadow
+family: cultist
+speed: Average
+class: Ranger
+power: 1143
+attack: 1192
+defense: 1143
+health: 2008
+skill: Eldritch Sign Bolts
+effects:
+  - Steals all dispellable buff from all enemies to the caster.
+  - Deals 350% damage to all and inflicts 10 Insanity on them.
+  - Inflicts 55 Insanity on the caster.
+types:
+  - Buff Steal All
+  - Hit All
+  - Insanity All
+  - Self Insanity
+image: https://i.imgur.com/EHlubEr.jpg

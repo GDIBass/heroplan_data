@@ -18,8 +18,7 @@ effects:
 types:
   - Healer
   - Dance of the Black Swan
-  - Hit 1
-  - Self Health boost
+  - Hit 1 random
 passives:
   - >-
     Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense.

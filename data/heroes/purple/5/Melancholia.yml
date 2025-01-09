@@ -12,7 +12,7 @@ effects:
   - Revives all allies with 70% HP and 50 Insanity.
   - All allies get +74% defense against Special Skills for 5 turns.
   - If any ally except the caster is defeated in 5 turns, all enemies receive 400 damage.
-  - Inflicts 55 Insanity to the caster.
+  - Inflicts 55 Insanity on the caster.
 types:
   - Reviver
   - Defense buff

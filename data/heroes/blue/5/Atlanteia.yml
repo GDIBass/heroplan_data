@@ -14,7 +14,7 @@ effects:
   - ' * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 211 Frost damage and lowers the target’s attack by -8% each turn.'
   - ' * The caster steals 28% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated.'
   - '2nd:'
-  - ' * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 275 Frost damage and lowers the target’s attack by -13% each turn.'
+  - ' * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 275 Frost damage and lowers the target’s attack by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
   - ' * The caster steals 28% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated.'
 types:
   - DoT
@@ -37,10 +37,10 @@ costume:
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'
     - '1st:'
-    - ' * All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 228 Frost damage and lowers the target’s attack by -7% each turn.'
+    - ' * All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 228 Frost damage and lowers the target’s attack by -7% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
     - ' * The caster steals 27% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated.'
     - '2nd:'
-    - ' * All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 328 Frost damage and lowers the target’s attack by -15% each turn.'
+    - ' * All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 328 Frost damage and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
     - ' * The caster steals 30% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated.'
   types:
     - DoT

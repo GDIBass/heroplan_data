@@ -3,21 +3,22 @@ source: secretsummon
 family: investigator
 speed: Average
 class: Monk
-power: 1111
+power: 1063
 attack: 1081
 defense: 1071
 health: 1862
 skill: Jewel of the Deep
 effects:
   - Dispels buffs from the target and nearby enemies.
-  - Deals 380% damage and inflicts 45 Insanity to the target and nearby enemies.
+  - Deals 380% damage to the target and nearby enemies and inflicts 45 Insanity on them.
   - All allies are immune to damage from status ailments for 4 turns.
   - Inflicts 55 Insanity to the caster.
 types:
   - Dispeller 3
   - Hit 3
-  - Insanity
-  - Ailments immunity
+  - Insanity 3
+  - Ailments Damage immunity
+  - Self Insanity
 passives:
   - >-
     Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.

@@ -3,7 +3,7 @@ source: secretsummon
 family: cultist
 speed: Fast
 class: Sorcerer
-power: 1031
+power: 1055
 attack: 1106
 defense: 1042
 health: 1800
@@ -13,8 +13,8 @@ effects:
   - Summons an Ominous Tentacle Fiend for the target.
   - The Ominous Tentacle Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner’s max health.
   - The Ominous Tentacle Fiend generates clone of itself to nearby enemies after every turn. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend)
-  - The Ominous Tentacle inflicts 5 Insanity to the owner on every turn.
-  - Inflits 50 Instanity to the caster.
+  - The Ominous Tentacle inflicts 5 Insanity on the owner on every turn.
+  - Inflits 50 Instanity on the caster.
 types:
   - Hit 1
   - Fiend
