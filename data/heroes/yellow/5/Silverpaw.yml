@@ -1,0 +1,22 @@
+name: Silverpaw
+source: covenant
+family: Fox
+speed: Average
+class: Monk
+power: 1144
+attack: 1227
+defense: 1205
+health: 1802
+skill: Greed and Bribery
+effects:
+  - Steals Minions and Mega Minions from target.
+  - Inflicts the target wit lasting Greed. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)
+  - All enemies receive 968 Curse damage over 4 turns, starting low and increasing every turn.
+types:
+  - Steals Minions
+  - Lasting Greed 1
+  - DoT All
+passives:
+  - >-
+    Decreased Healing: All enemies get -50% healing.
+image: https://i.imgur.com/Cj9sBht.jpg
