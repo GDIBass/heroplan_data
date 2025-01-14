@@ -40,9 +40,7 @@ costume2:
   skill: Valorant Strike
   effects:
     - Deals 275% damage to the target and nearby enemies
-    - >-
-      The target and nearby enemies are immune to new status effect buffs for 3
-      turns
+    - The target and nearby enemies are immune to new status effect buffs for 3 turns.
     - Dispels buffs from the target and nearby enemies
   types:
     - Hit 3
@@ -66,3 +64,23 @@ costume3:
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/DR6bDUS.jpg
+costume4:
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 759
+  attack: 775
+  defense: 753
+  health: 1372
+  skill: Glass Strike
+  effects:
+    - Deals 360% damage to the target.
+    - All enemies get -34% attack for 3 turns.
+    - Dispels buffs from all enemies.
+  types:
+    - Hit 1
+    - Attack Debuff All
+    - Dispeller All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/evExc3q.jpg
