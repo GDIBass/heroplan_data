@@ -1,0 +1,28 @@
+name: Bhaltair
+source: Festival
+family: Bard
+speed: Slow
+class: Fighter
+power: 1153
+attack: 1112
+defense: 1318
+health: 1928
+skill: Joyful Noise
+effects:
+  - Deals 350% damage to all enemies.
+  - Heals all allies for 30% of the damage dealt.
+  - All enemies receive Minion Wound for 5 turns.
+  - >-
+    Minion Wound: Target’s minions health is reduced by 50% and mega minions health is reduced by 25% each turn. (Reduction is applied to owned minions and to any received minions while the effect is active. Reduction only affects minions’ current health.)
+  - All allies get +40% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+types:
+  - Hit All
+  - Healer
+  - Minion Wound
+  - Mana Generation Buff
+passives:
+  - >-
+    Quick Tempo - Ballad: All Ballads cast by enemies only last for 1 turn.
+  - >-
+    Quick Tempo - Dance: All Dances cast by enemies only last for 1 turn.
+image: https://i.imgur.com/SRmxHwo.jpg
