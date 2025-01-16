@@ -11,7 +11,7 @@ skill: Doomstrike
 effects:
   - Deals 550% damage to the target.
   - Reduces the duration of the target and nearby enemies buffs by 1 turn.
-  - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 144 Poison damage and lowers the target’s mana generation by -13% each turn.
+  - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 144 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.
 types:
   - Hit 1
   - Dot 3
@@ -27,7 +27,7 @@ costume:
   effects:
     - Deals 560% damage to the target.
     - Reduces the duration of the target and nearby enemies’ buffs by 2 turns. (The duration reduction affects both dispellable and undispellable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)
-    - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 285 Poison damage and lowers the target’s mana generation by -15% each turn. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+    - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 285 Poison damage and lowers the target’s mana generation by -15% each turn. Deals extra damage against heroes with Minions or Mega Minions. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
   types:
     - Hit 1
     - Reduces buffs duration 3
