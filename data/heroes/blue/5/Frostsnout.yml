@@ -1,0 +1,24 @@
+name: Frostsnout
+source: goblinvillage
+family: garrisonguard
+speed: Fast
+class: Paladin
+power: 1148
+attack: 1157
+defense: 1153
+health: 2115
+skill: Raising Morale
+effects:
+  - Deals 380% damage to the target and nearby enemies.
+  - Reduces the duration for the caster and nearby alllies’ active status ailments by 2 turns. (The duration reductionaffects both cleansable and uncleansable effects. If the durarion of any effect is reduced to zero, the effect is considered as having expired naturally.
+  - The caster and nearby allies get +40% critical chance for 3 turns.
+types:
+  - Hit 3
+  - Reduces Ailments Duration 3
+  - Critical Chance Buff 3
+passives:
+  - >-
+    Resist Mana Reduction: This character has an innate resistance against mana reduction.
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://i.imgur.com/T8J02Mj.jpg
