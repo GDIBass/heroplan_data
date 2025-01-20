@@ -4,9 +4,9 @@ family: Nidavellir
 speed: Average
 class: Sorcerer
 power: 1112
-attack: 1091
-defense: 1122
-health: 2084
+attack: 1124
+defense: 1157
+health: 2189
 skill: Saga of Deliverance
 effects:
   - Destroys all Minions from all enemies and damages all Mega Minions.

@@ -1,8 +1,8 @@
 name: Sun Quan
-class: Ranger
 source: Kingdom
 family: Kingdom
 speed: Average
+class: Ranger
 power: 838
 attack: 791
 defense: 797
@@ -10,9 +10,7 @@ health: 1528
 skill: Command to Advance
 effects:
   - Deals 340% damage to the target and nearby enemies.
-  - >-
-    Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack
-    inherited from the caster.
+  - Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from the caster.
   - The target hit by Wu Soldier Minion receives 258 Burn damage over 3 turns.
 types:
   - Hit 3
@@ -28,8 +26,8 @@ costume:
   skill: Order to Advance
   effects:
     - Deals 330% damage to the target and nearby enemies.
-    - Summons a Wu Soldier Minion for each ally with 15% HP and 30% attack inherited from the caster.
-    - The target hit by Wu Soldier Minion receives 441 Burn damage over 3 turns.
+    - Summons a Wu Soldier Minion for each ally with 22% HP and 30% attack inherited from the caster.
+    - The target hit by Wu Soldier Minion receives 543 Burn damage over 3 turns.
   types:
     - Hit 3
     - Summoner

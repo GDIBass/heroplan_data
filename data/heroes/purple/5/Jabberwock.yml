@@ -25,7 +25,7 @@ costume:
   skill: Avenger of Mothkind
   effects:
     - Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.
-    - The enemies on the edges of the enemy formation receive Corrosive Poison for 3 turns. The Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -12% each turn. This effect can't be cleansed.
+    - The enemies on the edges of the enemy formation receive Corrosive Poison for 3 turns. The Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -12% each turn. This effect can't be cleansed. Deals extra damage against heroes with Minions or Mega Minions.
   types:
     - Hit 2
     - Dot

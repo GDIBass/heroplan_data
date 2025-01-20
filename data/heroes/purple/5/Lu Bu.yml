@@ -27,8 +27,8 @@ costume:
   skill: Ravaging Charge
   effects:
     - Deals 320% damage to all enemies.
-    - Summons a Mercenary Fiend for all enemies. The Fiend damages the enemy with 65% attack every turn.
-    - The Mercenary Fiend absorbs healing and disappears when it has absorbed health equal to 45% of its target’s max health.
+    - Summons a Mercenary Fiend for all enemies. The Fiend damages the enemy with 70% attack every turn.
+    - The Mercenary Fiend absorbs healing and disappears when it has absorbed health equal to 50% of its target’s max health.
     - When summoned, the Mercenary Fiend causes its target to be immune to new buffs. The effect lasts as long as the target has Mercenary Fiends. This effect can’t be cleansed.
   types:
     - Hit All

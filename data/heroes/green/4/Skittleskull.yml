@@ -55,7 +55,7 @@ costume3:
   skill: Toon Vines
   effects:
     - Deals 215% damage to all enemies.
-    - All enemies get -24% attack for 3 turns.
+    - All enemies get -24% attack for 6 turns.
     - Deals extra damage against Ice.
   types:
     - Hit All

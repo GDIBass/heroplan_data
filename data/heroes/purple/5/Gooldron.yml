@@ -11,7 +11,7 @@ skill: Slime Serving
 effects:
   - Deals 355% damage to the target and nearby enemies.
   - Summons a Slime Fiend for the target and nearby enemies. The Fiend damage the enemy with 38% attack every turn.
-  - The Slime Fiend absorbs healing. It disappears after absorbing a healing amount equal to 15% of its target’s max health.
+  - The Slime Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target’s max health.
   - At the end of each turn, the Slime Fiend steals one of its target's dispellable buffs or Growth effect and gives it to a random character on the opposite team.
 types:
   - Hit 3
