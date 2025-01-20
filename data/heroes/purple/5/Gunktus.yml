@@ -4,9 +4,9 @@ family: Slime
 speed: Fast
 class: Barbarian
 power: 1066
-attack: 1126
-defense: 1069
-health: 1771
+attack: 1190
+defense: 1133
+health: 1963
 skill: Blob of Fury
 effects:
   - Deals 520% damage to the target and minor damage to nearby enemies.
@@ -25,7 +25,7 @@ types:
   - Slime Revive 1
 passives:
   - >-
-    Slime Minion Sacrifice: When the hero is defeated it summons Slime Mega Minions to nearby allies with 51% HP and 40% attack inherited from the defeated hero.
+    Slime Minion Sacrifice: When the hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the defeated hero.
   - >-
-    Slime Minion Split: If hero loses more than 25% of max health at once-> Summon a Slime Mega Minion on itself with 51% HP and 40% attack.
+    Slime Minion Split: If hero loses more than 25% of max health at once-> Summon a Slime Mega Minion on itself with 50% HP and 40% attack.
 image: https://i.imgur.com/gYtmXoK.jpg
