@@ -9,7 +9,7 @@ defense: 957
 health: 1602
 skill: Dawnlight Rally
 effects:
-  - Deals 300% damage to all enemies.
+  - Deals 330% damage to all enemies.
   - Cleanses status ailments from all allies.
   - >-
     All allies get +20% attack, and a further +5% increase per each removed 

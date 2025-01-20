@@ -9,8 +9,8 @@ defense: 729
 health: 1303
 skill: Aquatic Outbreak
 effects:
-  - Deals 200% damage to all enemies.
-  - All enemies receive 252 Water damage over 4 turns.
+  - Deals 230% damage to all enemies.
+  - All enemies receive 318 Water damage over 3 turns.
   - All enemies get -34% attack for 3 turns.
   - Deals extra damage against Fire.
   - Element link gives all Ice allies +10% critical chance for 6 turns. This effect can't be dispelled.
