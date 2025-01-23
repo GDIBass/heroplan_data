@@ -47,22 +47,22 @@ speeds:
     shortName: C
     description: Charge
     tiles:
-      - 5
-      - 10
-      - 15
+      - 6
+      - 9
+      - 12
     breakPoints:
-      7:
+      10:
+        - 6
+        - 9
+        - 11
+      13:
+        - 6
+        - 8
+        - 11
+      20:
         - 5
+        - 9
         - 10
-        - 14
-      9:
-        - 5
-        - 9
-        - 14
-      15:
-        - 5
-        - 9
-        - 13
   magic:
     key: magic
     code: 7
