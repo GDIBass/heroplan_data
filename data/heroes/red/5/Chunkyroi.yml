@@ -1,0 +1,24 @@
+name: Chunkyroi
+source: moth
+family: moth
+speed: Average
+class: Paladin
+power: 1153
+attack: 1133
+defense: 1277
+health: 1957
+skill: Prosperity for Domain
+effects:
+  - Recovers 40% health for all allies.
+  - For the next 4 turns, this character recovers 350 boosted health to all allies each time any other ally casts their Special Skill. (Each character an trigger this effect once per turn.)
+  - All allies get +24% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+  - Cleanses status ailments from all allies.
+types:
+  - Healer
+  - Boost Health All on Allies SS
+  - Mana Generation Buff
+  - Cleanser
+passives:
+  - >- 
+    Dodge Special Damage: This character has a 10% chance to dodge Special Skills that deal damage.
+image: https://i.imgur.com/APgO5NR.jpg

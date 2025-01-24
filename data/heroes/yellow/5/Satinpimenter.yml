@@ -1,0 +1,24 @@
+name: Satinpimenter
+source: moth
+family: moth
+speed: Average
+class: Cleric
+power: 1153
+attack: 1219
+defense: 1196
+health: 1905
+skill: Toxic Incense
+effects:
+  - Dispels buffs from the target and nearby enemies.
+  - Deals 420% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 540 Toxin damage over 4 turns. If Toxin is cast on a target with boosted health, Minions or Mega Minion, the Toxin damage received is increased. (The Toxin damage is increased by +100% against targets with boosted health. Each Minion or Mega Minion owned by the target increases the damage by additional +33%, up to total +199%.)
+  - The caster regenerate 1400 HP over 4 turns.
+types:
+  - Dispeller 3
+  - Hit 3
+  - DoT 3
+  - Self HoT
+passives:
+  - >- 
+    Dodge Special Damage: This character has a 10% chance to dodge Special Skills that deal damage.
+image: https://i.imgur.com/S7h6aSM.jpg

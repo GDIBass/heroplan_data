@@ -1,0 +1,9 @@
+key: moth
+code: 98
+description: Moth
+image: https://i.imgur.com/QEWmL1x.png
+bonus:
+  - "Bonus for 1 / 2 / 3 Unique Heroes:"
+  - "At the start of each turn, cast Moth Dust to a random enemy for 2 / 3 / 4 turns."
+  - "Moth Dust: -10% mana generation. If Moth Dust is cleansed or removed, the target falls asleep and receives +60% increased damage when sleeping."
+  - "The members of this family have additional perks in the Night of the Moth event."
