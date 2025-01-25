@@ -1,0 +1,21 @@
+name: Grovevert
+source: moth
+family: moth
+speed: Fast
+class: Druid
+power: 1157
+attack: 1205
+defense: 1233
+health: 1895
+skill: Adorable Pest
+effects:
+  - After the Special Skill has been cast increases the mana of the caster by 20%.
+  - Summons a Moss Mothling Mega Fiend for the target. The Fiend damages the enemy with 260% attack every turn.
+  - The Moss Mothling Mega Fiend absorbs healing and disappears when it has absorbed health equal to 70% of its owner’s max health.
+  - When summoned, the Moss Mothling Mega Fiend gives -50% mana generation for its owner for as long as the owner has Moss Mothling Mega Fiend. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+types:
+  - Moss Mothling Mega Fiend
+passives:
+  - >- 
+    Dodge Special Damage: This character has a 10% chance to dodge Special Skills that deal damage.
+image: https://i.imgur.com/0Q3pYS0.jpg
