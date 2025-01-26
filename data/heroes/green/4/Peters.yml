@@ -1,8 +1,8 @@
 name: Peters
-class: Rogue
 source: Pirates
-family: Pirate
+family: Pirates of Corellia
 speed: Fast
+class: Rogue
 power: 645
 attack: 643
 defense: 641
