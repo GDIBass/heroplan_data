@@ -10,7 +10,7 @@ health: 2134
 skill: Night’s Whisper
 effects:
   - Recovers 30% health for all allies.
-  - All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -820. Reduces damage by additional 30% when the attacker is of the Nature element.
+  - All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1200. Reduces damage by additional 30% when the attacker is of the Nature element.
   - All allies are immune to new status ailments for 4 turns.
 types:
   - Healer
