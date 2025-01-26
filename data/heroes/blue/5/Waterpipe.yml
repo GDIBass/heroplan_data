@@ -1,6 +1,6 @@
 name: Waterpipe
 source: Covenant
-family: PlainsHunter
+family: Plains Hunter
 speed: Average
 class: Fighter
 power: 887
@@ -10,9 +10,7 @@ health: 1645
 skill: Harpoon Sentry
 effects:
   - Summons a Harpoon Sentry Minion for each ally with 12% HP and 20% attack inherited from the caster.
-  - >-
-    Each hit from a Harpoon Sentry Minion reduces the mana of the target by -5%
-    and gives the target the following status ailments:
+  - 'Each hit from a Harpoon Sentry Minion reduces the mana of the target by -5% and gives the target the following status ailments:'
   - ' * The target gets -30% defense against Special Skills for 2 turns.'
   - ' * The target is immune to new status effect buffs for 2 turns.'
 types:

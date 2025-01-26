@@ -1,8 +1,8 @@
 name: Bogart
-class: Paladin
-speed: Average
 source: Covenant
-family: AbyssHunter
+family: Abyss Hunter
+speed: Average
+class: Paladin
 power: 686
 attack: 652
 defense: 673
@@ -10,22 +10,13 @@ health: 1319
 skill: Bone Club Clonk
 effects:
   - Deals 305% damage to the target and minor damage to nearby enemies.
-  - >-
-    The target and nearby enemies get -35% defense for 3 turns. The defense
-    descrese by -10% each turn, up to -55%.
+  - The target and nearby enemies get -35% defense for 3 turns. The defense descrese by -10% each turn, up to -55%.
 types:
   - Hit 3
   - Defense Debuff
 passives:
   - >-
-    When this character casts their Special Skill, they give a Hunter’s Mark on
-    a random enemy. The target receives 150 damage over 3 turns.
+    When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
   - >-
-    If a target already has this effect, the duration will be refreshed and the
-    damage will be increased by 150, up to 1500 damage in total.
-  - >-
-    When this character casts their Special Skill, they transfer the newest 
-    cleansable status ailment from themself to the target. If the Special Skill
-    cannot target an enemy, a random enemy is chosen instead. If this character 
-    has no status ailments, they recover 8% health.
+    When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 8% health.
 image: https://i.imgur.com/Z4N4G0e.jpg
