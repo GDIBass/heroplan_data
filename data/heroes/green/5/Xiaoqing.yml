@@ -1,0 +1,22 @@
+name: Xiaoqing
+source: lunaryear
+family: lunaryear
+speed: Average
+class: Cleric
+power: 1154
+attack: 1120
+defense: 1182
+health: 2193
+skill: Warding Off Evil
+effects:
+  - Recovers 40% health for all allies.
+  - Lifts the latest cleansable status ailment from all allies and randomly distributes them on enemies.
+  - All allies have a 60% chance to reflect any status ailment to a random character on the opposing team for 3 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
+types:
+  - Heal All
+  - Lifts 1 Ailment All
+passives:
+  - >-
+    Disable Minion Abilities: Attacks and abilities of all Minions owned by
+    enemies are disabled.
+image: https://i.imgur.com/XmTf3zL.jpg

@@ -5,6 +5,11 @@ image: https://i.imgur.com/cyiEjaX.png
 bonus:
   - "Heroes become stronger when teamed with other unique Heroes of the same family."
   - "The Lunar Year family features different Lunar Year Animal Heroes. Each Lunar Year Animal grants different bonus to the members of the Lunar Year family when paired with at least 1 other Lunar Year Hero."
-  - "This Hero gives the following Lunar Year [ Rabbit / Ox / Tiger / Dragon ] bonus to the members of the Lunar Year Family:"
-  - "[ +5% mana generation / +10% defense / +10% attack / +15% critical chance ]."
+  - "This Hero gives the following Lunar Year (**) bonus to the members of the Lunar Year Family: "
+  - " ** Rabbit: +5% mana generation"
+  - " ** Ox: +10% defense"
+  - " ** Tiger: +10% attack"
+  - " ** Dragon: +15% critical chance"
+  - " ** Snake: +5% healing"
+  - " ** Rat: +15% Special Skill power"
   - "The members of this family have additional perks in the Lunar New Year event."
