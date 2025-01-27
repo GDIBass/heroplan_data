@@ -1,8 +1,8 @@
 name: Hammertusk
-family: PlainsHunter
 source: Covenant
-class: Barbarian
+family: Plains Hunter
 speed: Average
+class: Barbarian
 power: 886
 attack: 819
 defense: 883

@@ -1,8 +1,8 @@
 name: Xiaotu
-class: Druid
 source: lunaryear
 family: lunaryear
 speed: Average
+class: Druid
 power: 862
 attack: 854
 defense: 819
@@ -10,11 +10,10 @@ health: 1497
 skill: Reverse Recovery
 effects:
   - Deals 655% damage to the target.
-  - >-
-    The target and nearby enemies resist healing and receive 250 damage per each
-    resisted healing for 4 turns.
+  - The target and nearby enemies resist healing and receive 250 damage per each resisted healing for 4 turns.
 types:
   - Hit 1
+  - Resist Healing 3
 passives:
   - >-
     Disable Minion Abilities: Attacks and abilities of all Minions owned by

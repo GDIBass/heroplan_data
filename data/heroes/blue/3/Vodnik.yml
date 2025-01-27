@@ -1,7 +1,8 @@
 name: Vodnik
-class: Paladin
 source: Pirates
+family: Pirates of Corellia
 speed: Fast
+class: Paladin
 power: 455
 attack: 439
 defense: 429
@@ -12,5 +13,4 @@ effects:
   - The more mana the enemies have, the more damage they will receive, up to 400%.
 types:
   - Hit 1
-family: Pirate
 image: https://i.imgur.com/aLr0hqV.jpg

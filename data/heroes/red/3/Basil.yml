@@ -1,8 +1,8 @@
 name: Basil
-class: Druid
-speed: Slow
 source: Covenant
-family: AbyssHunter
+family: Abyss Hunter
+speed: Slow
+class: Druid
 power: 486
 attack: 460
 defense: 538

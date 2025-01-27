@@ -1,8 +1,8 @@
 name: Numbskull
-class: Fighter
-speed: Slow
 source: Kalevala
-family: AbyssHunter
+family: Abyss Hunter
+speed: Slow
+class: Fighter
 power: 687
 attack: 671
 defense: 667
@@ -10,22 +10,14 @@ health: 1289
 skill: Cracked Skull Strike
 effects:
   - Deals 150% damage to all enemies.
-  - >-
-    Summons a Bone Skull Minion for each ally with 12% HP and 20% attack 
-    inherited from the caster.
+  - Summons a Bone Skull Minion for each ally with 12% HP and 20% attack  inherited from the caster.
   - When the Bone Skull Minion is destroyed, it deals 85 damage to all enemies.
 types:
   - Hit all
   - Summoner 
 passives:
   - >-
-    Damage over time on special: When this character casts their Special Skill, 
-    they give a Hunter's Mark on a random enemy. The target receives 150 damage 
-    over 3 turns. If a target already has this effect, the duration will be
-    refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
   - >-
-    Hunter`s sense: When this character casts their Special Skill, they transfer
-    the newest cleansable status ailment from themself to the target. If the 
-    Special Skill cannot target an enemy, a random enemy is chosen instead. If
-    this character has no cleansable status ailment, they recover 8% health.
+    Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailment, they recover 8% health.
 image: https://i.imgur.com/Y43vWHy.jpg

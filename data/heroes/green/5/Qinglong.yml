@@ -1,8 +1,8 @@
 name: Qinglong
-class: Wizard
 source: lunaryear
 family: lunaryear
 speed: Very Fast
+class: Wizard
 power: 983
 attack: 1001
 defense: 953
@@ -10,11 +10,11 @@ health: 1726
 skill: Confident Strategy
 effects:
   - Deals 160% damage to all enemies.
-  - Steals the latest dispelable buff from all enemies and randomly distributes them on allies.
+  - Steals the latest dispellable buff from all enemies and randomly distributes them on allies.
   - All allies get +8% attack per transferred status effect buff for 2 turns.
 types:
   - Hit all
-  - Steal buff
+  - Steal 1 buff
   - Attack buff
 passives:
   - >-
