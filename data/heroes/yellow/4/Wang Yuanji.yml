@@ -1,8 +1,8 @@
 name: Wang Yuanji
 source: Kingdom
 family: Kingdom
-class: Sorcerer
 speed: Slow
+class: Sorcerer
 power: 683
 attack: 675
 defense: 709
@@ -15,3 +15,25 @@ types:
   - Fiend Destroyer
   - Health Boost
 image: https://i.imgur.com/SwBxlgF.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 720
+  attack: 693
+  defense: 774
+  health: 1256
+  skill: Calligrapher’s Empathy
+  effects:
+    - Destroys all Fiends from all allies. This effect damages Mega Fiends.
+    - Boosts health of all allies by 520. Boosted health can exceed max HP.
+    - All allies get +30% defense for 5 turns.
+  types:
+    - Fiend Destroyer
+    - Health Boost All
+    - Defense Buff All
+  passives:
+    - 'Unstoppable Minions:'
+    - ' * Resistance against Minion removal.'
+    - ' * Can’t be prevented from receiving Minions.'
+    - ' * Minion attack and abilities can’t be disabled.'
+  image: https://i.imgur.com/EPCCR66.jpg
