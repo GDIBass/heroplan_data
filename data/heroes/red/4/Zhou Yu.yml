@@ -15,4 +15,27 @@ effects:
 types:
   - Hit 1
   - Summoner
+  - Minion DoT
 image: https://i.imgur.com/KiDn1jL.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 719
+  attack: 704
+  defense: 689
+  health: 1393
+  skill: Scion Blade
+  effects:
+    - Deals 345% damage to the target.
+    - Summons a Wu Soldier Minion for each ally with 22% HP and 30% attack inherited from the caster.
+    - The target hit by Wu Soldier Minion receives 339 Burn damage over 3 turns.
+  types:
+    - Hit 1
+    - Summoner 1
+    - Minion DoT
+  passives:
+    - 'Unstoppable Minions:'
+    - ' * Resistance against Minion removal.'
+    - ' * Can’t be prevented from receiving Minions.'
+    - ' * Minion attack and abilities can’t be disabled.'
+  image: https://i.imgur.com/Uiw1osb.jpg
