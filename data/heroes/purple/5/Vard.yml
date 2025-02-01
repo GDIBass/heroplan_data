@@ -1,0 +1,26 @@
+name: Vard
+source: astral
+family: Astral Dwarfs
+speed: Slow
+class: Sorcerer
+power: 1155
+attack: 1194
+defense: 1225
+health: 1926
+skill: Power of the Void
+effects:
+  - Deals 450% damage to all enemies.
+  - 'Wither: All enemies get -350 attack and -350 defense.'
+  - All enemies get -30% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.
+types:
+  - Hit All
+  - Wither
+  - Mana Generation Debuff
+passives:
+  - >-
+    Bypass Minions: All damage done by this character bypasses Minions.
+  - >-
+    Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.
+  - >-
+    Perfect Accuracy: This character’s Special Skill never misses its targets.
+image: https://i.imgur.com/pddigSQ.jpg
