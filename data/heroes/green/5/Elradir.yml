@@ -16,7 +16,8 @@ types:
   - Hit 3
   - Reflect
 passives:
-  - This character gains 5% mana when they receive a status ailment or a negative stack.
   - >-
-    This character has innate resistance against status ailments that Block Special Skills.
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that Block Special Skills.
+  - >-
+    Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack.
 image: https://i.imgur.com/WDClMpO.jpg
