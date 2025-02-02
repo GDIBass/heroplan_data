@@ -9,7 +9,7 @@ defense: 826
 health: 1524
 skill: Withering Seasons
 effects:
-  - Destroys all Minions from the target and nearby enemies.
+  - Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.
   - Deals 310% damage to the target and nearby enemies.
   - The target and nearby enemies receive 572 Poison damage over 4 turns.
   - Element Link gives all Nature allies +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled.

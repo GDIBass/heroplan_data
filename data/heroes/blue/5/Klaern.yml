@@ -16,6 +16,8 @@ types:
   - Hit all
   - Health steal
 passives:
-  - This character has innate resistance against mana reduction.
-  - This character has innate resistance against status ailments that block Special Skills.
+  - >-
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
+  - >-
+    Resist Mana Reduction: This character has innate resistance against mana reduction.
 image: https://i.imgur.com/zoE3F2A.jpg
