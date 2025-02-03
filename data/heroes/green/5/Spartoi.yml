@@ -1,8 +1,8 @@
 name: Spartoi
-class: Barbarian 
 source: untoldtales
 family: NightmaresofAtlantis
 speed: Changing Tides
+class: Barbarian 
 power: 998
 attack: 974
 defense: 1065
@@ -24,7 +24,37 @@ types:
 passives:
   - >-
     Effects on Special Skill:
-    50% chance to perform the following actions when this character casts their Special Skill
-      * Deals 80% damage to all enemies.
-      * The caster gets +19% mana generation for 2 turns.
+  -  50% chance to perform the following actions when this character casts their Special Skill
+  - ' * Deals 80% damage to all enemies.'
+  - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/OJh8GR8.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 1127
+  attack: 1058
+  defense: 1252
+  health: 2009
+  skill: Opposing Raid
+  effects:
+    - 'Special Skill need consecutive uses to reach full power, the following order:'
+    - '1st:'
+    - ' * Deals 230% damage to all enemies.'
+    - ' * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 70% attack every turn.'
+    - ' * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target’s max health.'
+    - '2nd:'
+    - ' * Deals 350% damage to all enemies.'
+    - ' * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 125% attack every turn.'
+    - ' * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 60% of its target’s max health.'
+  types:
+    - Hit all
+    - Fiends
+  passives:
+    - >-
+      Effects on Special Skill:
+    -  50% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 80% damage to all enemies.'
+    - ' * The caster gets +19% mana generation for 2 turns.'
+    - >-
+      Resist Insanity: This character has an innate resistance against Insanity.
+  image: https://i.imgur.com/uRq8uoY.jpg
