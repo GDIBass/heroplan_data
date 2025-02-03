@@ -20,8 +20,8 @@ effects:
   - ' * The target and nearby enemies get -75% decrease for any healing received for 4 turns.'
 types:
   - Hit 3
-  - Mindless attack
-  - Healing debuff
+  - Mindless attack 1
+  - Healing debuff 3
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
@@ -50,8 +50,8 @@ costume:
     - ' * The target and nearby enemies get -85% decrease for any healing received for 4 turns.'
   types:
     - Hit 3
-    - Mindless attack
-    - Healing debuff
+    - Mindless attack 1
+    - Healing debuff 3
   passives:
     - >-
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill

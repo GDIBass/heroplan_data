@@ -1,8 +1,8 @@
 name: Oceanus
-class: Paladin
-speed: Average
-family: Atlantis
 source: Season2
+family: Atlantis
+speed: Average
+class: Paladin
 power: 835
 attack: 883
 defense: 735
@@ -10,10 +10,7 @@ health: 1398
 skill: Strength of the Behemoth
 effects:
   - Deals 220% damage to all enemies.
-  - >-
-    All allies get +120% normal attack for 4 turns. This effect can be active in
-    addition to effects that alter attack in general. Normal attacks can have a
-    total maximum of +170% increased power while this effect is active.
+  - All allies get +120% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +170% increased power while this effect is active.
   - All allies get +46% defense for 4 turns.
 types:
   - Hit All

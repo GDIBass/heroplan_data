@@ -1,8 +1,8 @@
 name: Jaco
-class: Sorcerer
 source: untoldtales
 family: DefendersofAtlantis
 speed: Changing Tides
+class: Sorcerer
 power: 486
 attack: 510
 defense: 472
@@ -17,7 +17,7 @@ effects:
   - ' * Steals 33% mana from the target, and distributes it to allies.'
   - ' * Deals 310% damage to target and minor damage to nearby enemies.'
 types:
-  - Mana steal
+  - Mana steal 1
   - Hit 3
 passives:
   - >-
@@ -26,3 +26,31 @@ passives:
       * Deals 80% damage to all enemies.
       * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/ne5YJve.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 497
+  attack: 449
+  defense: 563
+  health: 841
+  skill: Dubious Mixture
+  effects:
+    - 'Special Skill need consecutive uses to reach full power, the following order:'
+    - '1st:'
+    - ' * Steals 25% mana from the target, and distributes it to allies.'
+    - ' * Deals 225% damage to target and minor damage to nearby enemies.'
+    - '2nd:'
+    - ' * Steals 35% mana from the target, and distributes it to allies.'
+    - ' * Deals 330% damage to target and minor damage to nearby enemies.'
+  types:
+    - Mana steal 1
+    - Hit 3
+  passives:
+    - >-
+      Effects on Special Skill:
+    -  50% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 80% damage to all enemies.'
+    - ' * All allies get +21% critical chance for 3 turns.'
+    - >-
+      Resist Insanity: This character has an innate resistance against Insanity.
+  image: https://i.imgur.com/frMuxcb.jpg
