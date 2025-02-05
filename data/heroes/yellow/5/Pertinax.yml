@@ -1,0 +1,23 @@
+name: Pertinax
+source: owltower
+family: owl
+speed: Average
+class: Paladin
+power: 1159
+attack: 1161
+defense: 1186
+health: 2117
+skill: Vengeance of Owlhalla
+effects:
+  - Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1620 damage. Deals 40% more damage if the target of the Holy element. This Special Skill Never misses its targets
+  - Summon Owlkyrie Minion for the caster and nearby allies. The minion inherits 25% HP and 45% attack from the caster.
+  - If the Owlkyrie Minion is defeated, Full Removal is cast on the attacker (Full Removal removes all status effects, stack, Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable.).
+  - After the Full Removal is cast, the attacker shifts into Owlhalla Ghost form for 3 turns.
+  - While in Owlhalla the target receives 360 damage each turn. (While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but is immune to normal attack, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects. Can’t be cast if there is only one enemy left in the battle.)
+types:
+  - Hit 3
+  - Summoner 3
+passives:
+  - >-
+    Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
+image: https://i.imgur.com/LyzgS9S.jpg
