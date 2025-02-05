@@ -9,8 +9,7 @@ defense: 641
 health: 1253
 skill:  Ill-Fated Experiment
 effects:
-  - This Special Skill never misses its targets.
-  - Attacks the target with Moonrise Strike, dealing up to 1020 damage. Deals 30% more damage if the target is Holy.
+  - Attacks the target with Moonrise Strike, dealing up to 1020 damage. Deals 30% more damage if the target is Holy. This Special Skill never misses its targets.
   - Reduces the mana of the target by 10%.
 types:
   - Hit 1
