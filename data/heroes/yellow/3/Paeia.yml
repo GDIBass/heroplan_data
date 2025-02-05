@@ -1,8 +1,8 @@
 name: Paeia
-class: Cleric
-speed: Very Slow
 source: owltower
 family: owl
+speed: Very Slow
+class: Cleric
 power: 489
 attack: 432
 defense: 533
@@ -18,5 +18,5 @@ types:
   - Mana generation Buff
 passives:
   - >-
-    Mana Increase Reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
+    Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
 image: https://i.imgur.com/R9551ZQ.jpg
