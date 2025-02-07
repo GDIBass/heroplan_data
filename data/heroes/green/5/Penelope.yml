@@ -1,0 +1,24 @@
+name: Penelope
+source: shadow
+family: investigator
+speed: Slow
+class: Fighter
+power: 1160
+attack: 1165
+defense: 1159
+health: 2163
+skill: Cut, Cure and Craze
+effects:
+  - Deals 440% damage to all enemies.
+  - Heals all allies for 35% of the damage dealth.
+  - All allies get +45% chance to dodge Special Skills for 5 turns. Each dodge inflicts 10 Insanity on the attacker.
+  - Inflicts 55 Insanity to the caster.
+types:
+  - Hit All
+  - Healer
+  - Dodge Buff
+  - Insanity
+passives:
+  - >-
+    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
+image: https://i.imgur.com/mxewGNK.jpg
