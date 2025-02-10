@@ -1,6 +1,6 @@
 name: Mnesseus
-source: Season2
-family: Atlantis
+source: season2
+family: atlantis
 speed: Fast
 class: Cleric
 power: 448
@@ -9,8 +9,8 @@ defense: 431
 health: 691
 skill: Atlantean Spear
 effects:
-  - Deals 320% damage to the target
-  - Dispels buffs from all enemies
+  - Deals 320% damage to the target.
+  - Dispels buffs from all enemies.
 types:
   - Hit 1
   - Dispeller
@@ -28,5 +28,5 @@ costume:
     - Cleanses status ailments from all allies.
   types:
     - Hit 1
-    - Cleanser
+    - Cleanser All
   image: https://i.imgur.com/vAbeKFm.jpg

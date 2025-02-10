@@ -1,6 +1,6 @@
 name: Kageburado
-source: Season2
-family: Sakura
+source: season2
+family: sakura
 speed: Very Fast
 class: Barbarian
 power: 772
@@ -9,11 +9,11 @@ defense: 714
 health: 1248
 skill: Break Strike
 effects:
-  - Dispels buffs from the target
-  - Deals 225% damage to the target
-  - Deals 450% damage if the target has more than 50% health remaining
+  - Dispels buffs from the target.
+  - Deals 225% damage to the target.
+  - Deals 450% damage if the target has more than 50% health remaining.
 types:
-  - Dispeller
+  - Dispeller 1
   - Hit 1
 image: https://i.imgur.com/OUhEZUJ.jpg
 costume:
@@ -27,10 +27,11 @@ costume:
   effects:
     - Dispels buffs from the target.
     - Deals 320% damage to the target.
-    - The target is immune to new buffs for 2 turns.
+    - The target is immune to new status effect buffs for 2 turns.
     - The target gets -34% defense for 2 turns.
   types:
-    - Dispeller
-    - Buff immunity
-    - Defense Debuff
+    - Dispeller 1
+    - Hit 1
+    - Buff immunity 1
+    - Defense Debuff 1
   image: https://i.imgur.com/3Xk7Vld.jpg

@@ -1,6 +1,6 @@
 name: Ariel
-source: Season2
-family: Atlantis
+source: season2
+family: atlantis
 speed: Average
 class: Cleric
 power: 772
@@ -9,11 +9,12 @@ defense: 768
 health: 1260
 skill: Divine Protection
 effects:
-  - Recovers 40% health for all allies
-  - All allies get +24% mana generation for 4 turns
-  - Cleanses status ailments from all allies
+  - Recovers 40% health for all allies.
+  - All allies get +24% mana generation for 4 turns.
+  - Cleanses status ailments from all allies.
 types:
   - Healer
+  - Mana Gen Buff
   - Cleanser
 image: https://i.imgur.com/WWzsu8l.jpg
 costume:
@@ -30,6 +31,6 @@ costume:
     - Cleanses status ailments from all allies.
   types:
     - Health Boost
-    - Mana regeneration
+    - MoT
     - Cleanser
   image: https://i.imgur.com/gRSAJUL.jpg

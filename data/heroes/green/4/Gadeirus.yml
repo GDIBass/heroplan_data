@@ -1,6 +1,6 @@
 name: Gadeirus
-source: Season2
-family: Atlantis
+source: season2
+family: atlantis
 speed: Slow
 class: Druid
 power: 647
@@ -14,8 +14,8 @@ effects:
   - The caster and nearby allies regenerate 617 HP over 4 turns.
 types:
   - Hit 3
-  - Attack Buff
-  - HOT
+  - Attack Buff 3
+  - HoT 3
 image: https://i.imgur.com/dGtM0Hw.jpg
 costume:
   bonuses: 3/3/6/1
@@ -32,5 +32,5 @@ costume:
   types:
     - Hit All
     - Attack Buff
-    - Regen
+    - Boosted HoT
   image: https://i.imgur.com/MAOY5JJ.jpg

@@ -1,6 +1,6 @@
 name: Misandra
-source: Season2
-family: Lagoon
+source: season2
+family: lagoon
 speed: Fast
 class: Fighter
 power: 774
@@ -14,7 +14,7 @@ effects:
   - All allies gain a small amount of mana for each hit
 types:
   - Hit 1
-  - Chain Hit
+  - Possible Extra Hits
   - Mana Boost
 image: https://i.imgur.com/YC2DFg3.jpg
 costume:
@@ -26,11 +26,11 @@ costume:
   health: 1652
   skill: Ipu Drum Chain
   effects:
-    - Deals 280% damage to hit targets.
+    - Deals 280% damage to the target.
     - Has a 42% chance for additional hits on random enemies up to 3 times.
     - Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.
   types:
     - Hit 1
-    - Chain Hit
+    - Possible Extra Hits
     - Mindless Attack
   image: https://i.imgur.com/ZELxM85.jpg

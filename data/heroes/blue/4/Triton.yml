@@ -1,6 +1,6 @@
 name: Triton
-source: Season2
-family: Atlantis
+source: season2
+family: atlantis
 speed: Fast
 class: Ranger
 power: 652
@@ -27,7 +27,7 @@ costume:
     - Deals 295% damage to the target and minor damage to nearby enemies.
     - All allies get +30% attack for 4 turns.
   types:
-    - Hit 1
+    - Hit 3
     - Attack Buff
   image: https://i.imgur.com/Gjfgtlh.jpg
   
