@@ -4,14 +4,15 @@ source: Season1
 family: Classic
 speed: Fast
 class: Wizard
-power: 1182
-attack: 1164
-defense: 1145
-health: 2356
+power: 1214
+attack: 1200
+defense: 1179
+health: 2425
 skill: Glass Strike
 effects:
   - Deals 540% damage to the target.
-  - The target receives 597 Poison damage over 3 turns.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target receives 615 Poison damage over 3 turns.
 types:
   - Hit 1
   - Dot 1

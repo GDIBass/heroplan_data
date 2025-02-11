@@ -1,6 +1,6 @@
 name: Inari
-source: Season2
-family: Sakura
+source: season2
+family: sakura
 speed: Average
 class: Rogue
 power: 772
@@ -15,7 +15,7 @@ effects:
 types:
   - Hit All
   - Dodge Buff
-  - Summoner
+  - Summon on Dodge
 image: https://i.imgur.com/MjynoiD.jpg
 costume:
   bonuses: 5/5/10/5

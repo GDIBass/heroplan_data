@@ -59,6 +59,7 @@ costume3:
   skill: Glass Fireball
   effects:
     - Deals 185% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
     - All enemies receive 135 Burn damage over 3 turns.
   types:
     - Hit All

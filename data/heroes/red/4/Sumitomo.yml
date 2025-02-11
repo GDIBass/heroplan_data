@@ -1,7 +1,8 @@
 name: Sumitomo
-class: Fighter
-source: Season2
+source: season2
+family: sakura
 speed: Average
+class: Fighter
 power: 650
 attack: 665
 defense: 633
@@ -10,16 +11,13 @@ skill: Oji-Waza
 effects:
   - Deals 300% damage to the target.
   - The caster counterattacks with 135% of the damage received for 5 turns.
-  - >-
-    The caster regenerates a moderate amount of mana for each counterattack 
-    for 5 turns. This effect gets diminished for consecutive activations 
-    during the same turn.
+  - The caster regenerates a moderate amount of mana for each counterattack for 5 turns. This effect gets diminished for consecutive activations during the same turn.
 types:
   - Hit 1
-  - Counterattack
-family: Sakura
+  - Counterattack 1
 image: https://i.imgur.com/qnIyV2j.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Barbarian
   power: 671
   attack: 649
@@ -29,13 +27,9 @@ costume:
   effects:
     - Deals 280% damage to the target.
     - The caster counterattacks with 155% of the damage received for 5 turns.
-    - >-
-      The caster regenerates a moderate amount of mana for each counterattack 
-      for 5 turns. The effect gets diminished for consecutive activations 
-      during the same turn.
+    - The caster regenerates a moderate amount of mana for each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn.
   types:
     - Hit 1
-    - Counterattack
+    - Counterattack 1
   image: https://i.imgur.com/kQW2sKb.jpg
-  bonuses: 3/3/6/1
   

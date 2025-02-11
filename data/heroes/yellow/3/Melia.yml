@@ -1,6 +1,6 @@
 name: Melia
-source: Season2
-family: Atlantis
+source: season2
+family: atlantis
 speed: Fast
 class: Druid
 power: 450
@@ -9,11 +9,11 @@ defense: 404
 health: 684
 skill: Atlantean Sword
 effects:
-  - Deals 120% damage to all enemies
-  - All allies get +36% critical chance for 4 turns
+  - Deals 120% damage to all enemies.
+  - All allies get +36% critical chance for 4 turns.
 types:
   - Hit All
-  - Crit Buff
+  - Crit Buff All
 image: https://i.imgur.com/4LFidrS.jpg
 costume:
   bonuses: 3/3/6/1

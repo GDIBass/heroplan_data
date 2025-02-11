@@ -1,6 +1,6 @@
 name: Ameonna
-source: Season2
-family: Sakura
+source: season2
+family: sakura
 speed: Fast
 class: Sorcerer
 power: 649
@@ -9,16 +9,11 @@ defense: 527
 health: 1054
 skill: Ghost
 effects:
-  - The caster shifts into Ghost Form.
-  - >-
-    Ghost Form removes all cleansable and uncleansable buffs and status ailments
-    from the caster.
-  - While in Ghost form the caster gains +82% attack.
-  - >-
-    While in Ghost form the caster can't gain mana, but is immune to normal
-    attacks, special attacks, and all status effects.
-  - Ghost form lasts for 4 turns.
+  - Casts Full Removal on the caster.
+  - The caster shifts into Ghost Form for 4 turns.
+  - While in Ghost form the caster gains +82% attack. While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.
 types:
+  - Self Full Removal
   - Ghost
 image: https://i.imgur.com/VkDdipF.jpg
 costume:
@@ -30,18 +25,11 @@ costume:
   health: 1139
   skill: Yurei
   effects:
-    - >-
-      Removes all status ailments and stacks from the caster. Removes even
-      status effects that are otherwise undispellable or uncleansable.
-    - The caster shifts to Ghost form for 4 turns.
-    - >-
-      While in Ghost form the caster can’t gain mana and can’t be healed by
-      Special Skills, but is immune to normal attacks, Special Skill attacks,
-      status effects and stacks.
+    - Casts Full Removal on the caster.
+    - The caster shifts into Ghost Form for 4 turns. While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.
     - While in Ghost form, all allies except the caster have +44% defense.
-    - >-
-      While in Ghost form, all allies except the caster regenerate 140 HP every
-      turn.
+    - While in Ghost form, all allies except the caster regenerate 140 HP every turn.
   types:
+    - Self Full Removal
     - Ghost
   image: https://i.imgur.com/VZyVFDJ.jpg

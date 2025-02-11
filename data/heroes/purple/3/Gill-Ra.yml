@@ -1,6 +1,6 @@
 name: Gill-Ra
-source: Season2
-family: Lagoon
+source: season2
+family: lagoon
 speed: Slow
 class: Sorcerer
 power: 449
@@ -9,9 +9,9 @@ defense: 453
 health: 747
 skill: Lament of Regression
 effects:
-  - All enemies get -34% defense for 4 turns
-  - All enemies get -34% attack for 4 turns
-  - Cleanses status ailments from all allies
+  - All enemies get -34% defense for 4 turns.
+  - All enemies get -34% attack for 4 turns.
+  - Cleanses status ailments from all allies.
 types:
   - Defense Debuff
   - Attack Debuff

@@ -12,6 +12,7 @@ skill: Glass Warcry
 effects:
   - Recovers 34% health for all allies.
   - All allies get +45% attack for 4 turns.
+  - All Fire allies reflect status ailments and negative stacks for 2 turns. (Status effects cast by characters, Minions, and Fiends on the same side cannot be reflected.)
 types:
   - Healer
   - Attack Buff

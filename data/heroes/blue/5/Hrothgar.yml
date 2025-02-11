@@ -4,9 +4,9 @@ family: beowulf
 speed: Average
 class: Paladin
 power: 1123
-attack: 1233
-defense: 1032
-health: 1989
+attack: 1271
+defense: 1069
+health: 2097
 skill: The King’s Feast
 effects:
   - Deals 310% damage to all enemies.

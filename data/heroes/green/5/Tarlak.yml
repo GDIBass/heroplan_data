@@ -1,6 +1,6 @@
 name: Tarlak
-source: Season2
-family: Lagoon
+source: season2
+family: lagoon
 speed: Average
 class: Monk
 power: 773
@@ -9,11 +9,11 @@ defense: 667
 health: 1240
 skill: Martial Prowess
 effects:
-  - All allies get +100% normal attack for 4 turns. Stacks with similar status effects up to a maximum of +160% normal attack
-  - All allies regenerate 324 HP over 4 turns
+  - All allies get +100% normal attack for 4 turns. Stacks with similar status effects up to a maximum of +160% normal attack.
+  - All allies regenerate 324 HP over 4 turns.
 types:
   - Titan Attack Buff
-  - Heal over Time
+  - HoT
 image: https://i.imgur.com/VmIENFl.jpg
 costume:
   bonuses: 5/5/10/5

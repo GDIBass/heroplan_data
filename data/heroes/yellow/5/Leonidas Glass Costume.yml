@@ -1,0 +1,25 @@
+name: Leonidas Glass Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Average
+class: Monk
+power: 1204
+attack: 1298
+defense: 1173
+health: 2119
+skill: Glass Cleave
+effects:
+  - Deals 575% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Reduces the mana of the target by -38%.
+  - Heals the caster for 70% of damage dealt.
+types:
+  - Hit 1
+  - Bypass
+  - Mana reducer 1
+  - Self Heal
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/7lvHaTO.jpg

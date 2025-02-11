@@ -1,8 +1,8 @@
 name: Tethys
-source: Season2
-class: Ranger
-family: Atlantis
+source: season2
+family: atlantis
 speed: Fast
+class: Ranger
 power: 835
 attack: 828
 defense: 770
@@ -16,4 +16,5 @@ effects:
 types:
   - Hit 3
   - Dot 3
+  - Attack Buff
 image: https://i.imgur.com/LPmQIgT.jpg

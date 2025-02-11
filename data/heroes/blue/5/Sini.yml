@@ -1,5 +1,5 @@
 name: Sini
-source: Hotm
+source: hotm
 family: 2024
 speed: Average
 class: Wizard
@@ -18,8 +18,7 @@ types:
   - Board Alterer
 passives:
   - >-
-    Resist Special Skill Blocking: This character has innate resistance against
-    status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
   - >-
     Status Effect on Mana Reduction: This character get +30% attack for 3 turns when their mana is reduced.
 image: https://i.imgur.com/IV4i4UQ.jpg

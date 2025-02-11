@@ -67,13 +67,14 @@ costume3:
 costume4:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 1182
-  attack: 1250
-  defense: 1148
-  health: 2131
+  power: 1214
+  attack: 1280
+  defense: 1183
+  health: 2194
   skill: Glass Spear
   effects:
     - Deals 420% damage to the target and minor damage to nearby enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
     - Heals the caster for 37% of damage dealt.
   types:
     - Hit 3

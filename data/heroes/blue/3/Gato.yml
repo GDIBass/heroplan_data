@@ -1,17 +1,17 @@
 name: Gato
-class: Fighter
-source: Season2
+source: season2
+family: lagoon
 speed: Fast
+class: Fighter
 power: 447
 attack: 516
 defense: 401
 health: 639
 skill: Swamp Slash
 effects:
-  - Deals 300% damage to the target
-  - The caster and nearby allies are immune to new status ailments for 3 turns
+  - Deals 300% damage to the target.
+  - The caster and nearby allies are immune to new status ailments for 3 turns.
 types:
   - Hit 1
-  - Debuff Immunity
-family: Lagoon
+  - Debuff Immunity 3
 image: https://i.imgur.com/4RQUIxe.jpg

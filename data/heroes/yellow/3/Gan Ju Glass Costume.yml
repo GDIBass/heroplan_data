@@ -11,6 +11,7 @@ health: 995
 skill: Glass Chop
 effects:
   - Deals 310% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
   - Reduces the mana of the target by 23%.
 types:
   - Hit 1

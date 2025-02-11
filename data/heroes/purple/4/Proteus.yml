@@ -1,6 +1,6 @@
 name: Proteus
-source: Season2
-family: Atlantis
+source: season2
+family: atlantis
 speed: Average
 class: Wizard
 power: 650
@@ -28,5 +28,5 @@ costume:
     - All enemies get -50% mana generation for 4 turns.
   types:
     - DoT All
-    - Mana debuff
+    - Mana Debuff All
   image: https://i.imgur.com/5sfSAJC.jpg

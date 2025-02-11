@@ -4,14 +4,15 @@ source: Season1
 family: Classic
 speed: Slow
 class: Barbarian
-power: 1182
-attack: 1260
-defense: 1120
-health: 2160
+power: 1213
+attack: 1298
+defense: 1154
+health: 2224
 skill: Glass Volcano
 effects:
   - Deals 365% damage to all enemies.
-  - All enemies receive 603 Burn damage over 2 turns.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies receive 621 Burn damage over 2 turns.
 types:
   - Hit all
   - DoT all

@@ -73,6 +73,7 @@ costume4:
   skill: Glass Pulverizer
   effects:
     - Deals 335% damage to the target and minor damage to nearby enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
     - The target and nearby enemies get -30% defense for 6 turns.
   types:
     - Hit 3
