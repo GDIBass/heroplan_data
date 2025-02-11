@@ -4,9 +4,9 @@ family: beowulf
 speed: Fast
 class: Cleric
 power: 1121
-attack: 1050
-defense: 1172
-health: 2152
+attack: 1091
+defense: 1215
+health: 2251
 skill: Cup of Mead
 effects:
   - Heals all allies who have less than 50% HP left to 50% health.

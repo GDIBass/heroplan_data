@@ -74,14 +74,15 @@ costume3:
 costume4:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 1178
-  attack: 1168
-  defense: 1184
-  health: 2237
+  power: 1210
+  attack: 1203
+  defense: 1220
+  health: 2303
   skill: Glass Heal
   effects:
     - Recovers 55% health for all allies.
     - All allies get +60% defense for 4 turns.
+    - All Holy allies reflect status ailments and negative stacks for 2 turns. (Status effects cast by characters, Minions, and Fiends on the same side cannot be reflected.)
     - Cleanses status ailments from all allies.
   types:
     - Healer
