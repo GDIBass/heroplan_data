@@ -1,0 +1,23 @@
+name: Marjana Glass Costume
+is_costume: true
+source: Season1
+family: Classic
+speed: Fast
+class: Rogue
+power: 1209
+attack: 1273
+defense: 1123
+health: 2317
+skill: Glass Flame Smash
+effects:
+  - Deals 548% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target receives 648 Burn damage over 3 turns.
+types:
+  - Hit 1
+  - Bypass
+  - DoT 1
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/wWSeZW9.jpg
