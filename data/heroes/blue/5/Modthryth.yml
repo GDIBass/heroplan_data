@@ -1,0 +1,27 @@
+name: Modthryth
+source: beowulf
+family: beowulf
+speed: Average
+class: Paladin
+power: 1163
+attack: 1151
+defense: 1219
+health: 2099
+skill: Chilling Counterattack
+effects:
+  - The caster and nearby allies counterattack with 130% of the damage received for 3 turns.
+  - The caster and nearby allies decrease -10% mana from the attacker on each counterattack for 3 turns. The effect get diminished for consecutive activations during the same turn.
+  - 'Stack (Max: 10): All allies get +15% attack.'
+  - 'Status Effect Generator: At the start of the next 4 turns, this character gives a random ally an additional +100% Special Skill damage and +33% mana generation for 4 turns. This effect cannot be dispelled.'
+types:
+  - Counterattack 3
+  - Attack Stack All
+  - Status Effect Generator 1
+passives:
+  - >-
+    Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.
+  - >-
+    Resist Mana Reduction: This character has innate resistance against mana reduction.
+  - >-
+    Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs.
+image: https://i.imgur.com/oiGz5nc.jpg
