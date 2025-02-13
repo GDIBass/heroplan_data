@@ -1,0 +1,28 @@
+name: Beowulf
+source: beowulf
+family: beowulf
+speed: Average
+class: Fighter
+power: 1164
+attack: 1273
+defense: 1087
+health: 2068
+skill: Battle Boast
+effects:
+  - Deals 615% damage to the target.
+  - Recovers 15% health for all allies.
+  - Increases the mana of all allies by 10%.
+  - 'Stack (Max 10): All allies get +25% attack.'
+types:
+  - Hit 1
+  - Healer All
+  - Mana Boost All
+  - Attack Stack All
+passives:
+  - >-
+    Perfect Accuracy: This character’s Special Skill never mises its target.
+  - >-
+    Resist Mana Reduction: This character has innate resistance against mana reduction.
+  - >-
+    Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +25% attack Stack (Max: 10). One Stack can be gained per turn.
+image: https://i.imgur.com/KcWPSJ3.jpg

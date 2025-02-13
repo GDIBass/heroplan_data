@@ -1,0 +1,24 @@
+name: Unferth
+source: beowulf
+family: beowulf
+speed: Very Fast
+class: Rogue
+power: 505
+attack: 537
+defense: 521
+health: 759
+skill: Tempered Blade
+effects:
+  - Deals 250% damage to the target.
+  - Deals 275% damage if the target has more than 70% health remaining.
+  - >-
+    Status Effect Generator: At the start of the next 3 turns, this character gives a random enemy -50% defense against Special Skills for 3 turns. This effect cannot be dispelled.
+types:
+  - Hit 1
+  - Status Effect Generator 1
+passives:
+  - >-
+    Resist Mana Reduction: This character has innate resistance against mana reduction.
+  - >-
+    Perfect Accuracy: This character’s Special Skill never mises its target.
+image: https://i.imgur.com/EwK86qB.jpg
