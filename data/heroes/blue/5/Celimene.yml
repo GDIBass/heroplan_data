@@ -1,8 +1,8 @@
 name: Celimene
-class: Ranger
+source: festival
+family: bard
 speed: Average
-family: Bard
-source: Festival
+class: Ranger
 power: 902
 attack: 891
 defense: 859
@@ -14,6 +14,7 @@ effects:
   - The target and nearby enemies get -44% defense for 3 turns.
 types:
   - Hit 3
+  - Cleanse Immunity 3
   - Defense Debuff
 passives:
   - >-

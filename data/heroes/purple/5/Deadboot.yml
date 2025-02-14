@@ -9,13 +9,9 @@ defense: 898
 health: 1621
 skill: Unhallowed Spirits
 effects:
-  - >-
-    Steals all dispellable status effect buffs from the target and randomly 
-    distributes them on allies.
+  - Steals all dispellable status effect buffs from the target and randomly distributes them on allies.
   - Deals 375% damage to the target.
-  - >-
-    Deals additional 50% damage per transferred status effect buff, 
-    up to 625% damage in total.
+  - Deals additional 50% damage per transferred status effect buff, up to 625% damage in total.
   - "Wither: The target gets -300 defense."
 types:
   - Buff Stealer
@@ -23,8 +19,7 @@ types:
   - Defense Debuff
 passives:
   - >-
-    Effects on Special Skill: 30% chance to perform the following actions when
-    this character casts their Special Skill.
+    Effects on Special Skill: 30% chance to perform the following actions when this character casts their Special Skill.
   - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."
 image: https://i.imgur.com/6DFOAwr.jpg

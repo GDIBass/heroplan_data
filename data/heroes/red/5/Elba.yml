@@ -1,6 +1,6 @@
 name: Elba
 source: love
-family: Cupid
+family: cupid
 speed: Average
 class: Paladin
 power: 966
@@ -14,8 +14,8 @@ effects:
   - The caster and nearby allies counterattack with 125% of the damage received for 4 turns.
 types:
   - Hit 3
-  - HoT
-  - Counterattack
+  - HoT 3
+  - Counterattack 3
 passives:
   - >-
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.

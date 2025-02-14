@@ -1,7 +1,8 @@
 name: Sir Lancelot
-class: Fighter
-source: Avalon
+source: avalon
+family: avalon
 speed: Average
+class: Fighter
 power: 645
 attack: 756
 defense: 533
@@ -15,5 +16,4 @@ types:
   - Hit 1
   - Attack Buff
   - Mana Generation Buff
-family: Avalon
 image: https://i.imgur.com/zyZ5m0r.jpg

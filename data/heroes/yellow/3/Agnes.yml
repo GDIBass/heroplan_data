@@ -1,7 +1,8 @@
 name: Agnes
-class: Rogue
-source: Season3
+source: season3
+family: asgard
 speed: Fast
+class: Rogue
 power: 464
 attack: 556
 defense: 486
@@ -9,10 +10,7 @@ health: 491
 skill: Precise Chop
 effects:
   - Deals 320% damage to the target.
-  - >-
-    The attack has a 60% chance to bypass defensive buffs. This includes
-    counterattacks.
+  - The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
 types:
   - Hit 1
-family: Asgard
 image: https://i.imgur.com/epjHmoJ.jpg

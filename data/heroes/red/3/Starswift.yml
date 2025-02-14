@@ -1,8 +1,8 @@
 name: Starswift
-class: Fighter
-source: BlackFriday
-family: AstralElves
+source: astral
+family: astralelves
 speed: Average
+class: Fighter
 power: 493
 attack: 524
 defense: 481

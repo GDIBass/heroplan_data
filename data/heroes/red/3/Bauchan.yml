@@ -1,7 +1,8 @@
 name: Bauchan
-class: Monk
-source: Avalon
+source: avalon
+family: avalon
 speed: Average
+class: Monk
 power: 455
 attack: 420
 defense: 453
@@ -15,5 +16,4 @@ types:
   - Hit All
   - Mana Reduction
   - Mana Generation Buff
-family: Avalon
 image: https://i.imgur.com/EA1ItRL.jpg

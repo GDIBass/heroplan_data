@@ -1,8 +1,8 @@
 name: Zarel
-class: Paladin
+source: festival
+family: bard
 speed: Slow
-family: Bard
-source: Festival
+class: Paladin
 power: 485
 attack: 493
 defense: 498
@@ -11,9 +11,7 @@ skill: Tambourine Solo
 effects:
   - Deals 260% damage to all enemies.
   - All enemies get -34% attack for 5 turns.
-  - >-
-    All enemies can’t get their status ailments cleansed from Special Skill for
-    5 turns.
+  - All enemies can’t get their status ailments cleansed from Special Skill for 5 turns.
 types:
   - Hit All
   - Attack Debuff

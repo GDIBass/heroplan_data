@@ -1,8 +1,8 @@
 name: Phthonus
-class: Wizard
 source: love
-family: Cupid
+family: cupid
 speed: Slow
+class: Wizard
 power: 861
 attack: 824
 defense: 809
@@ -11,15 +11,12 @@ skill: Potions of Covetous Desire
 effects:
   - Deals 360% damage to all enemies.
   - Dispels buffs from all enemies.
-  - >-
-    Recovers 8% health per removed status effect for all allies, up to 64%
-    health in total.
+  - Recovers 8% health per removed status effect for all allies, up to 64% health in total.
 types:
   - Hit All
   - Dispeller
   - Healer
 passives:
   - >-
-    Resist Special Skill Blocking - This character has innate resistance against
-    status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
 image: https://i.imgur.com/OE7cx2p.jpg

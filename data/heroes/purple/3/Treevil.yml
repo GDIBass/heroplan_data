@@ -1,8 +1,8 @@
 name: Treevil
-class: Wizard
-source: Avalon
-family: Avalon
+source: avalon
+family: avalon
 speed: Very Slow
+class: Wizard
 power: 481
 attack: 434
 defense: 509
@@ -14,6 +14,7 @@ effects:
   - All enemies get -34% defense for 6 turns.
   - All enemies get -34% mana generation for 6 turns.
 types:
+  - Hit All
   - Attack Debuff
   - Defense Debuff
   - Mana Generation Debuff

@@ -1,8 +1,8 @@
 name: Lionstring
-class: Wizard
-source: BlackFriday
-family: AstralElves
+source: astral
+family: astralelves
 speed: Very Fast
+class: Wizard
 power: 697
 attack: 684
 defense: 688
