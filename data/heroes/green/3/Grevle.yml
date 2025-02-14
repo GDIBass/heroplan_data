@@ -1,7 +1,8 @@
 name: Grevle
-class: Wizard
-source: Season3
+source: season3
+family: alfheim
 speed: Average
+class: Wizard
 power: 464
 attack: 403
 defense: 613
@@ -13,5 +14,4 @@ effects:
 types:
   - Health Boost
   - Attack Buff
-family: Alfheim
 image: https://i.imgur.com/7vQQwXx.jpg
