@@ -1,7 +1,8 @@
 name: Voluptas
-class: Druid
 source: love
+family: cupid
 speed: Average
+class: Druid
 power: 686
 attack: 650
 defense: 643
@@ -13,9 +14,7 @@ effects:
 types:
   - Fiend Destroyer
   - Healer
-family: Cupid
 passives:
   - >-
-    Resist Special Skill Blocking - This character has innate resistance against
-    status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
 image: https://i.imgur.com/FUJWm4U.jpg

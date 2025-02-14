@@ -1,8 +1,8 @@
 name: King Arthur
-class: Paladin
-source: Avalon
-family: Avalon
+source: avalon
+family: avalon
 speed: Average
+class: Paladin
 power: 765
 attack: 708
 defense: 733

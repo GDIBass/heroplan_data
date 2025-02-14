@@ -1,6 +1,6 @@
 name: Mazoga
 source: beachparty
-family: BeachParty
+family: beachparty
 speed: Fast
 class: Ranger
 power: 1018
@@ -19,6 +19,5 @@ passives:
   - >-
     Resist Water Damage: This character has innate resistance against Water Damage.
   - >-
-    Damage over time on Special: When this character casts their Special Skill,
-    all enemies receive 254 Water damage over 2 turns.
+    Damage over time on Special: When this character casts their Special Skill, all enemies receive 254 Water damage over 2 turns.
 image: https://i.imgur.com/1FUEzbL.jpg

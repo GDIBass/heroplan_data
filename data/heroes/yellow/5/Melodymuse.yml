@@ -1,6 +1,6 @@
 name: Melodymuse
-source: Astral
-family: AstralElves
+source: astral
+family: astralelves
 speed: Fast
 class: Cleric
 power: 1099

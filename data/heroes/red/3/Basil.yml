@@ -1,6 +1,6 @@
 name: Basil
-source: Covenant
-family: Abyss Hunter
+source: covenant
+family: abysshunter
 speed: Slow
 class: Druid
 power: 486
@@ -17,6 +17,8 @@ types:
   - Ally Damage Share
   - Counterattack
 passives:
-  - When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
-  - When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health.
+  - >-
+    Damage over time on special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+  - >-
+    Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health.
 image: https://i.imgur.com/WxAALcm.jpg
