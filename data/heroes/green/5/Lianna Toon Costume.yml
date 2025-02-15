@@ -1,8 +1,8 @@
 name: Lianna Toon Costume
 is_costume: true
 class: Ranger
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 power: 1107
 attack: 1102

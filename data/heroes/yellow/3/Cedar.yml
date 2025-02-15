@@ -1,8 +1,8 @@
 name: Cedar
 class: Ranger
 speed: Average
-source: Kalevala
-family: JungleHunter
+source: kalevala
+family: junglehunter
 power: 487
 attack: 535
 defense: 477

@@ -1,6 +1,6 @@
 name: D'Andre
 class: Paladin
-source: Starfall
+source: starfall
 speed: Average
 power: 676
 attack: 629
@@ -16,5 +16,5 @@ effects:
 types:
   - Healer
   - Mana generation buff
-family: Starfall
+family: starfall
 image: https://i.imgur.com/XnqMU7V.jpg

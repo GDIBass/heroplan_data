@@ -1,7 +1,7 @@
 name: Franz
 class: Paladin
-source: Knights
-family: Raven
+source: knights
+family: raven
 speed: Very Slow
 power: 681
 attack: 552

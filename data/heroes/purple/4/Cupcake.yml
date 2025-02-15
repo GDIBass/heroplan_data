@@ -1,6 +1,6 @@
 name: Cupcake
-family: Pets
-source: Pets
+family: pets
+source: pets
 class: Rogue
 speed: Average
 power: 684

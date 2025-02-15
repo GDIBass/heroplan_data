@@ -1,6 +1,6 @@
 name: Gaillard
-source: Blackfriday
-family: Gargoyle
+source: gargoyle
+family: gargoyle
 speed: Fast
 class: Sorcerer
 power: 841
@@ -17,5 +17,5 @@ types:
   - Fiend Immunity
 passives:
   - >-
-    Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The next 3 times they receive damage, it is dropped to 1. This effect can't be dispelled.
+    Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 3 times they receive damage, it is dropped to 1. This effect can’t be dispelled.
 image: https://i.imgur.com/ts2Grgv.jpg

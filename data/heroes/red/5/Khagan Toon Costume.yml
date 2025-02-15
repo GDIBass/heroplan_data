@@ -1,7 +1,7 @@
 name: Khagan Toon Costume
 is_costume: true
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Slow
 class: Ranger
 power: 1115

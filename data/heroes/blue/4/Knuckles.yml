@@ -1,8 +1,8 @@
 name: Knuckles
 class: Paladin
 speed: Average
-source: Kalevala
-family: JungleHunter
+source: kalevala
+family: junglehunter
 power: 687
 attack: 626
 defense: 669

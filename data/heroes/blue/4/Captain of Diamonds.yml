@@ -1,7 +1,7 @@
 name: Captain of Diamonds
 class: Paladin
-source: Wonderland
-family: Wonderland
+source: wonderland
+family: wonderland
 speed: Fast
 power: 650
 attack: 620

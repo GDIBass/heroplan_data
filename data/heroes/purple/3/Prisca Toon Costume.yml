@@ -1,8 +1,8 @@
 name: Prisca Toon Costume
 is_costume: true
 class: Paladin
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Average
 power: 510
 attack: 477

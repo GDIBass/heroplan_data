@@ -1,6 +1,6 @@
 name: Shadereave
 class: Fighter
-source: Season3
+source: season3
 speed: Slow
 power: 661
 attack: 595
@@ -20,5 +20,5 @@ effects:
 types:
   - Attack BuffCritical Buff
   - Zombie Buff
-family: Helheim
+family: helheim
 image: https://i.imgur.com/t4qsaZf.jpg

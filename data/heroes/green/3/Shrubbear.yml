@@ -1,6 +1,6 @@
 name: Shrubbear
 class: Monk
-source: Wonderland
+source: wonderland
 speed: Slow
 power: 455
 attack: 351
@@ -15,5 +15,5 @@ effects:
   - the caster gets +74% defense against Special Skills for 4 turns
 types:
   - Taunt
-family: Wonderland
+family: wonderland
 image: https://i.imgur.com/KcnE5Ah.jpg

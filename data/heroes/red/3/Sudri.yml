@@ -1,6 +1,6 @@
 name: Sudri
 class: Ranger
-source: Season3
+source: season3
 speed: Slow
 power: 462
 attack: 439
@@ -14,5 +14,5 @@ effects:
     damage in total.
 types:
   - Hit All
-family: Muspelheim
+family: muspelheim
 image: https://i.imgur.com/kbwg0o2.jpg

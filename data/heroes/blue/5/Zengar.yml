@@ -1,7 +1,7 @@
 name: Zengar
 class: Barbarian
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 speed: Fast
 power: 901
 attack: 879

@@ -1,8 +1,8 @@
 name: Horghall Second Costume
 is_costume: true
 class: Wizard
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Slow
 power: 910
 attack: 816

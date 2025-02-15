@@ -1,7 +1,7 @@
 name: Lewena
 class: Ranger
-source: Knights
-family: Raven
+source: knights
+family: raven
 speed: Fast
 power: 822
 attack: 795

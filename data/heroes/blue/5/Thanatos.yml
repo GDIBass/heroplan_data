@@ -1,6 +1,6 @@
 name: Thanatos
-source: Styx
-family: Styx
+source: styx
+family: styx
 speed: Charge
 class: Druid
 power: 861

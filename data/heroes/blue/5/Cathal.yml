@@ -1,6 +1,6 @@
 name: Cathal
-source: Slayers
-family: Slayer
+source: slayers
+family: slayer
 speed: Slow
 class: Barbarian
 power: 811

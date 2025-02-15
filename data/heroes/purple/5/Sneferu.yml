@@ -1,8 +1,8 @@
 name: Sneferu
 class: Barbarian
 speed: Slow
-family: Moon
-source: Season5
+family: moon
+source: season5
 power: 872
 attack: 834
 defense: 815

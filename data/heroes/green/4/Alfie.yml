@@ -1,8 +1,8 @@
 name: Alfie
 class: Ranger
 speed: Average
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 power: 688
 attack: 705
 defense: 648

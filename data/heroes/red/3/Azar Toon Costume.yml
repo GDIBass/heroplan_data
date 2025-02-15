@@ -1,8 +1,8 @@
 name: Azar Toon Costume
 is_costume: true
 class: Barbarian
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 power: 487
 attack: 561

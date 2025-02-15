@@ -1,7 +1,7 @@
 name: Quinn
 class: Cleric
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 speed: Fast
 power: 954
 attack: 902

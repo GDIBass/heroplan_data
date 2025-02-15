@@ -1,8 +1,8 @@
 name: Chang'e
 class: Wizard
 speed: Average
-source: Kingdom
-family: Journey
+source: kingdom
+family: journey
 power: 978
 attack: 974
 defense: 990

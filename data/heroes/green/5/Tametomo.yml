@@ -1,7 +1,7 @@
 name: Tametomo
 class: Ranger
-source: Ninja
-family: Ninja
+source: ninja
+family: ninja
 speed: Charge
 power: 1006
 attack: 1046

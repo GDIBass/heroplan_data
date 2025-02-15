@@ -1,6 +1,6 @@
 name: Ribbit
-family: Pets
-source: Pets
+family: pets
+source: pets
 class: Monk
 speed: Average
 power: 484

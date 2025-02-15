@@ -1,7 +1,7 @@
 name: Jolt
 class: Fighter
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 speed: Very Fast
 power: 997
 attack: 1071

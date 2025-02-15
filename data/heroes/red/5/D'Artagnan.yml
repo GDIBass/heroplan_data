@@ -1,7 +1,7 @@
 name: D'Artagnan
-source: Musketeer
+source: musketeer
 class: Paladin
-family: Musketeer
+family: musketeer
 speed: Fast
 power: 878
 attack: 867

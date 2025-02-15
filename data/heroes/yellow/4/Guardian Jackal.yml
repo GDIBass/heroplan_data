@@ -1,7 +1,7 @@
 name: Guardian Jackal
 class: Rogue
-source: Teltoc
-family: Guardian
+source: teltoc
+family: guardiansteltoc 
 speed: Very Fast
 power: 645
 attack: 765

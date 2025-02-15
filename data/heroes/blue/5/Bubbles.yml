@@ -1,6 +1,6 @@
 name: Bubbles
-source: Pets
-family: Pets
+source: pets
+family: pets
 speed: Fast
 class: Barbarian
 power: 876

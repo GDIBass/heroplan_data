@@ -1,6 +1,6 @@
 name: Daemon
-source: Knights
-family: Stag
+source: knights
+family: stag
 speed: Very Fast
 class: Fighter
 power: 1027

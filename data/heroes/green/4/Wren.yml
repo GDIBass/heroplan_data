@@ -1,7 +1,7 @@
 name: Wren
 class: Rogue
-source: Knights
-family: Raven
+source: knights
+family: raven
 speed: Fast
 power: 680
 attack: 675

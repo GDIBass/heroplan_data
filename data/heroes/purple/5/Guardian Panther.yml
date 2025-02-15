@@ -1,6 +1,6 @@
 name: Guardian Panther
-source: Teltoc
-family: Guardian
+source: teltoc
+family: guardiansteltoc 
 speed: Fast
 class: Fighter
 power: 765

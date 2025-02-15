@@ -1,6 +1,6 @@
 name: By-Ulf
 class: Paladin
-source: Season3
+source: season3
 speed: Average
 power: 463
 attack: 436
@@ -24,5 +24,5 @@ types:
   - Attack Buff
   - Defense Buff
   - HOT
-family: Niflheim
+family: niflheim
 image: https://i.imgur.com/TVINRSf.jpg

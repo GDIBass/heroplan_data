@@ -1,6 +1,6 @@
 name: Chomper
-source: Pets
-family: Pets
+source: pets
+family: pets
 speed: Average
 class: Paladin
 power: 876

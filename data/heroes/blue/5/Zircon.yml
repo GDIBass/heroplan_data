@@ -1,6 +1,6 @@
 name: Zircon
 class: Fighter
-source: Ninja
+source: ninja
 speed: Charge
 power: 818
 attack: 735
@@ -26,5 +26,5 @@ types:
   - Health boost
   - Defense Buff
   - Dispell Immunity
-family: Ninja
+family: ninja
 image: https://i.imgur.com/3XPQv8U.jpg

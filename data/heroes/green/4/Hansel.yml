@@ -1,7 +1,7 @@
 name: Hansel
 class: Cleric
-source: Fables
-family: Grimforest
+source: fables
+family: grimforest
 speed: Fast
 power: 646
 attack: 699

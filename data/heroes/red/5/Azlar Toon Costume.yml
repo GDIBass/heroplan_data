@@ -1,8 +1,8 @@
 name: Azlar Toon Costume
 is_costume: true
 class: Barbarian
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Slow
 power: 1112
 attack: 1143

@@ -1,8 +1,8 @@
 name: Marjana Toon Costume
 is_costume: true
 class: Rogue
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 power: 1110
 attack: 1047

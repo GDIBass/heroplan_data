@@ -1,6 +1,6 @@
 name: Hilda
-source: Blackfriday
-family: Gargoyle
+source: returntosanctuary
+family: gargoyle
 speed: Average
 class: Fighter
 power: 1065
@@ -18,5 +18,5 @@ types:
   - Buff immunity 3
 passives:
   - >-
-    Gargoule`s Softskin: Every time this Gargoyle casts a Special Skil, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.
+    Gargoile’s Softskin: Every time this Gargoyle casts a Special Skil, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.
 image: https://i.imgur.com/Urzke5i.jpg

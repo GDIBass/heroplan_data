@@ -1,8 +1,8 @@
 name: Doxan
 class: Fighter
 speed: Fast
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 power: 905
 attack: 887
 defense: 828

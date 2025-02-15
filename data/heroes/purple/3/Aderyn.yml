@@ -1,7 +1,7 @@
 name: Aderyn
 class: Cleric
-source: Knights
-family: Raven
+source: knights
+family: raven
 speed: Average
 power: 480
 attack: 451

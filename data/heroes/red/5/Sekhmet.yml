@@ -1,8 +1,8 @@
 name: Sekhmet
-class: Monk
+source: sun
+family: sun
 speed: Fast
-source: Dynasty
-family: Sun
+class: Monk
 power: 863
 attack: 889
 defense: 782
@@ -16,8 +16,7 @@ types:
   - Damage Heal
 passives:
   - >-
-    Effects on Special Skill: 50% chance to perform the following actions when 
-    this character casts their Special Skill
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/8oISZes.jpg

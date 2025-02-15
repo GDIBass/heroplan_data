@@ -1,8 +1,8 @@
 name: Guardian Hippo
-class: Barbarian
-source: Teltoc
-family: Guardian
+source: teltoc
+family: guardiansteltoc 
 speed: Fast
+class: Barbarian
 power: 841
 attack: 828
 defense: 782

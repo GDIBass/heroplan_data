@@ -1,6 +1,6 @@
 name: Shale
 class: Wizard
-source: Ninja
+source: ninja
 speed: Charge
 power: 670
 attack: 603
@@ -21,5 +21,5 @@ types:
   - Charger
   - Hot
   - Cleanser
-family: Ninja
+family: ninja
 image: https://i.imgur.com/MtPyEOT.jpg

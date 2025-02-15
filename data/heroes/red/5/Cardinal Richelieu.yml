@@ -1,8 +1,8 @@
 name: Cardinal Richelieu
 class: Sorcerer
 speed: Average
-source: Musketeer
-family: Musketeer
+source: musketeer
+family: musketeer
 power: 928
 attack: 881
 defense: 869
@@ -25,6 +25,6 @@ types:
 passives:
   - >-
     When this character receives damage from Special Skills or in place of a
-    character in Cover, there’s a 60% chance of deal 20% of the received damage
+    character in Cover, there’s a 60% chance to deal 20% of the received damage
     on all enemies.
 image: https://i.imgur.com/fhxShwu.jpg

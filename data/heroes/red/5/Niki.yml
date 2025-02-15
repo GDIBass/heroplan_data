@@ -1,8 +1,8 @@
 name: Niki
 class: Wizard
 speed: Slow
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 power: 1010
 attack: 968
 defense: 1036

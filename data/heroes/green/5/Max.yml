@@ -1,6 +1,6 @@
 name: Max
-source: Pets
-family: Pets
+source: pets
+family: pets
 speed: Slow
 class: Druid
 power: 875

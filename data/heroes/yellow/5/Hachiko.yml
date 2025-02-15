@@ -1,6 +1,6 @@
 name: Hachiko
-source: Pets
-family: Pets
+source: pets
+family: pets
 speed: Average
 class: Monk
 power: 876

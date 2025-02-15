@@ -1,7 +1,7 @@
 name: Sartana Toon Costume
 is_costume: true
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 class: Wizard
 power: 1115

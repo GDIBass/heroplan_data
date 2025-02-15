@@ -1,6 +1,6 @@
 name: Lady Woolerton
 class: Cleric
-source: Springvale
+source: springvale
 speed: Fast
 power: 661
 attack: 626
@@ -12,5 +12,5 @@ effects:
   - The caster can't gain mana for 2 turns. This effect can't be cleansed.
 types:
   - Healer
-family: Springvale
+family: springvale
 image: https://i.imgur.com/qf9ikj1.jpg

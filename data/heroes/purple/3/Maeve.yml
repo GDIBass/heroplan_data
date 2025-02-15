@@ -1,6 +1,6 @@
 name: Maeve
-source: Slayers
-family: Slayer
+source: slayers
+family: slayer
 speed: Slow
 class: Rogue
 power: 478

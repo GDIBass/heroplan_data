@@ -1,6 +1,6 @@
 name: Cillian
-source: Slayers
-family: Slayer
+source: slayers
+family: slayer
 speed: Slow
 class: Fighter
 power: 677

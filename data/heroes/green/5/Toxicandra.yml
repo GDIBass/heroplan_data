@@ -1,6 +1,6 @@
 name: Toxicandra
-source: Villains
-family: Villains
+source: villains
+family: villains
 speed: Fast
 class: Cleric
 power: 800

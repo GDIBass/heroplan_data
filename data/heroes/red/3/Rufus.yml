@@ -1,6 +1,6 @@
 name: Rufus
-source: Pets
-family: Pets
+source: pets
+family: pets
 class: Barbarian
 speed: Slow
 power: 484

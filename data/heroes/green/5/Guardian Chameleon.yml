@@ -1,6 +1,6 @@
 name: Guardian Chameleon
-source: Teltoc
-family: Guardian
+source: teltoc
+family: guardiansteltoc 
 speed: Average
 class: Wizard
 power: 780

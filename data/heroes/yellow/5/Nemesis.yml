@@ -1,6 +1,6 @@
 name: Nemesis
-source: Styx
-family: Styx
+source: styx
+family: styx
 speed: Charge
 class: Paladin
 power: 857

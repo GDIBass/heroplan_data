@@ -1,7 +1,7 @@
 name: Amber
 class: Fighter
-source: Morlovia
-family: Morlovia
+source: morlovia
+family: morlovia
 speed: Average
 power: 933
 attack: 927

@@ -1,6 +1,6 @@
 name: An-Windr
 class: Ranger
-source: Season3
+source: season3
 speed: Slow
 power: 465
 attack: 424
@@ -15,5 +15,5 @@ effects:
     increases the damage by 8 to a maximum of 215 damage.
 types:
   - Attack Buff
-family: Niflheim
+family: niflheim
 image: https://i.imgur.com/MSmQZNX.jpg

@@ -1,7 +1,7 @@
 name: Eloise
 class: Wizard
-source: Knights
-family: Raven
+source: knights
+family: raven
 speed: Average
 power: 822
 attack: 803

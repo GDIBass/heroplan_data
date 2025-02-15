@@ -1,7 +1,7 @@
 name: Richard Glass Costume
 is_costume: true
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Average
 class: Paladin
 power: 1207

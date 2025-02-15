@@ -1,6 +1,6 @@
 name: Athos
-source: Musketeer
-family: Musketeer
+source: musketeer
+family: musketeer
 speed: Very Fast
 class: Monk
 power: 864
@@ -20,5 +20,5 @@ types:
   - Bypass
 passives:
   - >-
-    Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage to all enemies.
+    Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies.
 image: https://i.imgur.com/HvsiBgn.jpg

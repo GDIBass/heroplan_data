@@ -1,6 +1,6 @@
 name: Skrekok
 class: Rogue
-source: Villains
+source: villains
 speed: Average
 power: 476
 attack: 493
@@ -15,5 +15,5 @@ effects:
 types:
   - Hit 3
   - Attack Buff
-family: Villains
+family: villains
 image: https://i.imgur.com/e258l3c.jpg

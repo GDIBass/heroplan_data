@@ -1,7 +1,7 @@
 name: Kinsaishi
 class: Monk
-source: Ninja
-family: Ninja
+source: ninja
+family: ninja
 speed: Charge
 power: 486
 attack: 543

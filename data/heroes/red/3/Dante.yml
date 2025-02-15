@@ -1,6 +1,6 @@
 name: Dante
-source: Styx
-family: Styx
+source: styx
+family: styx
 speed: Charge
 class: Rogue
 power: 484

@@ -1,6 +1,6 @@
 name: Mireweave
 class: Ranger
-source: Season3
+source: season3
 speed: Very Fast
 power: 660
 attack: 697
@@ -13,5 +13,5 @@ effects:
 types:
   - Hit 3
   - Stacking
-family: Vanaheim
+family: vanaheim
 image: https://i.imgur.com/mjsblyy.jpg

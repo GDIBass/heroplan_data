@@ -1,6 +1,6 @@
 name: Guardian Gazelle
-source: Teltoc
-family: Guardian
+source: teltoc
+family: guardiansteltoc 
 speed: Average
 class: Druid
 power: 780

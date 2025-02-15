@@ -1,6 +1,6 @@
 name: Vincent
-source: Gargoyle
-family: Gargoyle
+source: returntosanctuary
+family: gargoyle
 speed: Fast
 class: Wizard
 power: 1107
@@ -9,14 +9,12 @@ defense: 1079
 health: 1915
 skill: Cold Fire
 effects:
-  - >-
-    If the enemy has the Frost status ailment:
-  - '* All enemies get -30% defense against Ice for 5 turns.'
-  - '* Deals 270% damage to all enemies.'
-  - >-
-    Otherwise:
-  - '* Deals 200% damage to all enemies.'
-  - '* All enemies receive 705 Frost damage over 5 turns.'
+  - 'If the enemy has the Frost status ailment:'
+  - ' * All enemies get -30% defense against Ice for 5 turns.'
+  - ' * Deals 270% damage to all enemies.'
+  - 'Otherwise:'
+  - ' * Deals 200% damage to all enemies.'
+  - ' * All enemies receive 705 Frost damage over 5 turns.'
 types:
   - Elemental Defense Debuff
   - Hit All

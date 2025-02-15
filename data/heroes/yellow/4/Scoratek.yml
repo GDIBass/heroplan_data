@@ -1,7 +1,7 @@
 name: Scoratek
-source: Season5
+source: season5
 class: Fighter
-family: Moon
+family: moon
 speed: Fast
 power: 683
 attack: 633

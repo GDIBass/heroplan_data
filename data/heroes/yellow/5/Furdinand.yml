@@ -1,6 +1,6 @@
 name: Furdinand
-source: Pets
-family: Pets
+source: pets
+family: pets
 class: Cleric
 speed: Average
 power: 835

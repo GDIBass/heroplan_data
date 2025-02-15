@@ -1,6 +1,6 @@
 name: Candy
 class: Cleric
-source: Starfall
+source: starfall
 speed: Average
 power: 477
 attack: 465
@@ -13,5 +13,5 @@ effects:
 types:
   - Heal all
   - HOT all
-family: Starfall
+family: starfall
 image: https://i.imgur.com/JMKpOq5.jpg

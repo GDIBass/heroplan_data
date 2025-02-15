@@ -1,7 +1,7 @@
 name: Goopy
 class: Barbarian
-source: Morlovia
-family: Morlovia
+source: morlovia
+family: morlovia
 speed: Average
 power: 483
 attack: 500

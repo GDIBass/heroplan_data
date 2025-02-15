@@ -1,7 +1,7 @@
 name: Guardian Lemur
 class: Fighter
-source: Teltoc
-family: Guardian
+source: teltoc
+family: guardiansteltoc 
 speed: Average
 power: 481
 attack: 455

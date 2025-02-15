@@ -1,7 +1,7 @@
 name: Xavier
 class: Rogue
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 speed: Average
 power: 940
 attack: 951

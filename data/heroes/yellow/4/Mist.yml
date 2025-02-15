@@ -1,6 +1,6 @@
 name: Mist
 class: Cleric
-source: Season3
+source: season3
 speed: Fast
 power: 661
 attack: 686
@@ -18,5 +18,5 @@ types:
   - Hit 3
   - Buff Immunity
   - Mana Generation Debuff
-family: Midgard
+family: midgard
 image: https://i.imgur.com/1FjRHHb.jpg

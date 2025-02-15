@@ -1,7 +1,7 @@
 name: Sally
 class: Barbarian
-source: Pirates
-family: Pirates of Corellia
+source: pirates
+family: corellia
 speed: Slow
 power: 481
 attack: 484

@@ -1,8 +1,8 @@
 name: Zandria
 class: Paladin
 speed: Very Slow
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 power: 895
 attack: 815
 defense: 879

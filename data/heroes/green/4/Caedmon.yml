@@ -1,7 +1,7 @@
 name: Caedmon
 class: Druid
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 power: 643
 attack: 635

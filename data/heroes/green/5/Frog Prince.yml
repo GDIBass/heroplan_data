@@ -1,7 +1,7 @@
 name: Frog Prince
 class: Fighter
-source: Fables
-family: Grimforest
+source: fables
+family: grimforest
 speed: Slow
 power: 931
 attack: 918

@@ -1,7 +1,7 @@
 name: Vanda
 class: Sorcerer
-source: Morlovia
-family: Morlovia
+source: morlovia
+family: morlovia
 speed: Very Fast
 power: 795
 attack: 774
