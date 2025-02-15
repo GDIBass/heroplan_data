@@ -1,7 +1,7 @@
 name: Fawn
 class: Fighter
-source: Knights
-family: Stag
+source: knights
+family: stag
 speed: Fast
 power: 489
 attack: 457

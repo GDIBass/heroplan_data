@@ -1,8 +1,8 @@
 name: Valen Toon Costume
 is_costume: true
 class: Fighter
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 power: 503
 attack: 542

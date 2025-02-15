@@ -1,6 +1,6 @@
 name: Phoenicus
 class: Monk
-source: Wonderland
+source: wonderland
 speed: Fast
 power: 481
 attack: 446
@@ -13,5 +13,5 @@ effects:
 types:
   - Attack Buff
   - Mana Generation Buff
-family: Wonderland
+family: wonderland
 image: https://i.imgur.com/zBoeoLf.jpg

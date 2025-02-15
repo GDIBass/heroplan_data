@@ -1,8 +1,8 @@
 name: Ceto
-class: Barbarian
 source: untoldtales
-family: DefendersofAtlantis
+family: defendersofatlantis
 speed: Changing Tides
+class: Barbarian
 power: 936
 attack: 994
 defense: 840
@@ -22,8 +22,7 @@ types:
   - DoT
 passives:
   - >-
-    'Effects on Special Skill:
-    50% chance to perform the following actions when this character casts their Special Skill
-      * Deals 80% damage to all enemies.
-      * All allies get +21% critical chance for 2 turns.'
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+  - ' * Deals 80% damage to all enemies.'
+  - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/eqqisr9.jpg

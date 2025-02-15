@@ -1,7 +1,7 @@
 name: Marjana Glass Costume
 is_costume: true
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 class: Rogue
 power: 1209

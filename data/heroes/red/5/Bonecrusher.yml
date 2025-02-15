@@ -1,8 +1,8 @@
 name: Bonecrusher
 class: Barbarian
 speed: Fast
-source: Covenant
-family: JungleHunter
+source: covenant
+family: junglehunter
 power: 893
 attack: 912
 defense: 842

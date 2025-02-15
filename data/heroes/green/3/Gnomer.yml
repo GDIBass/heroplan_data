@@ -1,7 +1,7 @@
 name: Gnomer
 class: Rogue
-source: Fables
-family: Grimforest
+source: fables
+family: grimforest
 speed: Very Fast
 power: 481
 attack: 493

@@ -1,8 +1,8 @@
 name: Elkanen Toon Costume
 is_costume: true
 class: Cleric
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 power: 1112
 attack: 1134

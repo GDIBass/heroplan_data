@@ -1,8 +1,8 @@
 name: Zuni
 class: Wizard
 speed: Fast
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 power: 947
 attack: 943
 defense: 922

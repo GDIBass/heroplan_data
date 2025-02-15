@@ -1,6 +1,6 @@
 name: Mena
-source: Blackfriday
-family: Gargoyle
+source: returntosanctuary
+family: gargoyle
 speed: Fast
 class: Ranger
 power: 1049
@@ -18,6 +18,5 @@ types:
   - Fluff Volley
 passives:
   - >-
-    Gargoyle’s Softskin: Every time this Gargoyle casts a Special SKill, their 
-    Softskin activates. The next 3 times they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled.
+    Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.
 image: https://i.imgur.com/y4ORfSh.jpg

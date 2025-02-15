@@ -1,6 +1,6 @@
 name: Kemeny
-source: Gargoyle
-family: Gargoyle
+source: gargoyle
+family: gargoyle
 speed: Average
 class: Sorcerer
 power: 850
@@ -10,12 +10,10 @@ health: 1487
 skill: Cry for Absolution
 effects:
   - Deals 330% damage to all enemies.
-  - >-
-    Deals additional 65% damage per status ailment the caster has up to 655%
-    damage in total.
+  - Deals additional 65% damage per status ailment the caster has up to 655% damage in total.
 types:
   - Hit All
 passives:
   - >-
-    Gargoyle's Stoneskin: Every time this Gargoyle casts a Special SKill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can't be dispelled.
+    Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled.
 image: https://i.imgur.com/PmkgBzd.jpg

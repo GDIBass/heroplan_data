@@ -1,7 +1,8 @@
 name: Jarvur
-class: Druid
-source: Season3
+source: season3
+family: svartalfheim
 speed: Fast
+class: Druid
 power: 466
 attack: 500
 defense: 422
@@ -13,5 +14,4 @@ effects:
 types:
   - Hit 1
   - Stacking
-family: Svartalfheim
 image: https://i.imgur.com/eZV4meS.jpg

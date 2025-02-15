@@ -1,6 +1,6 @@
 name: Aqualith
 source: untoldtales
-family: DefendersofAtlantis
+family: defendersofatlantis
 speed: Changing Tides
 class: Paladin
 power: 688
@@ -21,8 +21,7 @@ types:
   - Hit all
 passives:
   - >-
-    Effects on Special Skill
-    50% chance to perform the following actions when this character casts their Special Skill
-      * Deals 80% damage to all enemies.
-      * All allies get +21% critical chance for 2 turns.
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+  - ' * Deals 80% damage to all enemies.'
+  - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/3R1f8Vh.jpg

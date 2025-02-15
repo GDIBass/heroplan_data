@@ -1,8 +1,8 @@
 name: Boldtusk Toon Costume
 is_costume: true
 class: Fighter
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Average
 power: 748
 attack: 698

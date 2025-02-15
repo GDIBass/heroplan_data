@@ -1,6 +1,6 @@
 name: Guardian Kong
-source: Teltoc
-family: Guardian
+source: teltoc
+family: guardiansteltoc 
 speed: Average
 class: Barbarian
 power: 765

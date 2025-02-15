@@ -1,6 +1,6 @@
 name: Whacker
 class: Barbarian
-source: Starfall
+source: starfall
 speed: Fast
 power: 477
 attack: 554
@@ -13,5 +13,5 @@ effects:
 types:
   - Hit 1
   - Attack debuff
-family: Starfall
+family: starfall
 image: https://i.imgur.com/JVkZWPm.jpg

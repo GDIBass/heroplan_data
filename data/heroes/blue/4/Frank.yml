@@ -1,8 +1,8 @@
 name: Frank
-class: Barbarian
-source: Morlovia
-family: Morlovia
+source: morlovia
+family: morlovia
 speed: Slow
+class: Barbarian
 power: 667
 attack: 635
 defense: 639
@@ -17,9 +17,7 @@ types:
   - Defense Debuff
 passives:
   - >-
-    Steal Buff: When this character casts their Special Skill, they have a 50% 
-    chance to steal the newest dispellable buff from a random enemy that has buffs. 
-    If no enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/dQao9jX.jpg
 costume:
   bonuses: 2/2/4/1
@@ -33,17 +31,13 @@ costume:
     - Deals 170% damage to all enemies
     - The damage is increased by 45% for each dead enemy.
     - >-
-      Stack (Max:10): All enemies receive 20 Frost damage per each killed enemy
-      or enemy Minion at the end of each turn.
+      Stack (Max:10): All enemies receive 20 Frost damage per each killed enemy or enemy Minion at the end of each turn.
     - >-
-      Stack (Max: 10): All enemies get -4% mana generation per each killed enemy
-      or enemy Minion.
+      Stack (Max: 10): All enemies get -4% mana generation per each killed enemy or enemy Minion.
   types:
     - Hit all
     - Stacker
   passives:
     - >-
-      Steal Buff: When this character casts their Special Skill, they have a 50% 
-      chance to steal the newest dispellable buff from a random enemy that has buffs. 
-      If no enemy has buffs, deals 70% damage to all enemies.
+      Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/HUrGPkv.jpg

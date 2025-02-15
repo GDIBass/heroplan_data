@@ -1,8 +1,8 @@
 name: Nova
 class: Druid
 speed: Average
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 power: 691
 attack: 643
 defense: 722

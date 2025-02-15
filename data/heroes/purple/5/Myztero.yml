@@ -1,8 +1,8 @@
 name: Myztero
-family: Mystery
-class: Rogue
-source: Secret
+source: secretsummon
+family: mystery
 speed: Very Fast
+class: Rogue
 power: 784
 attack: 778
 defense: 743
@@ -15,7 +15,5 @@ types:
   - Hit All
 passives:
   - >-
-    This hero has an innate ability to memorize status ailments. The latest 5
-    status ailments that are cast on the Hero will stay memorized until the
-    Special Skill is cast.
+    Memorize Status Ailments: This hero has an innate ability to memorize status ailments. The latest 5 status ailments that are cast on the Hero will stay memorized until the Special Skill is cast.
 image: https://i.imgur.com/J37iEs6.jpg

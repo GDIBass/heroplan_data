@@ -1,8 +1,8 @@
 name: Ironmaw
 class: Barbarian
 speed: Average
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 power: 978
 attack: 1001
 defense: 966

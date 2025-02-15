@@ -1,7 +1,7 @@
 name: Melendor
 class: Druid
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Average
 power: 638
 attack: 714

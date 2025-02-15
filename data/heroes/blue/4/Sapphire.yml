@@ -1,6 +1,6 @@
 name: Sapphire
 class: Rogue
-source: Ninja
+source: ninja
 speed: Charge
 power: 670
 attack: 726
@@ -27,5 +27,5 @@ types:
   - Charger
   - Hit All
   - Bypass
-family: Ninja
+family: ninja
 image: https://i.imgur.com/XCynMAV.jpg

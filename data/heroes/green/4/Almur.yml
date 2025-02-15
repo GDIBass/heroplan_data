@@ -1,8 +1,8 @@
 name: Almur
-class: Sorcerer
-source: Season3
-family: Svartalfheim
+source: season3
+family: svartalfheim
 speed: Fast
+class: Sorcerer
 power: 662
 attack: 626
 defense: 648
@@ -10,10 +10,7 @@ health: 1262
 skill: Shadow Sweep
 effects:
   - Deals 150% damage to the target and nearby enemies.
-  - >-
-    Reduces max health from the target and nearby enemies by 75. The effect is 
-    stronger against targets with boosted health. Max health can't get lower than 30%
-    of the original max health. Any boosted health is reduced by an additional 75.
+  - Reduces max health from the target and nearby enemies by 75. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 75.
   - The target and nearby enemies get -54% defense against Nature for 4 turns.
 types:
   - Hit 3

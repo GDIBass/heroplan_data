@@ -1,7 +1,7 @@
 name: Vaishali
 class: Cleric
-source: Magic
-family: Magic
+source: magic
+family: magic
 speed: Magic
 power: 956
 attack: 939

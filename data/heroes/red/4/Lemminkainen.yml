@@ -1,8 +1,8 @@
 name: Lemminkainen
 class: Barbarian
 speed: Average
-family: Kalevala
-source: Kalevala
+family: kalevala
+source: kalevala
 power: 682
 attack: 646
 defense: 616

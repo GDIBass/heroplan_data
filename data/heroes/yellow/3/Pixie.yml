@@ -1,6 +1,6 @@
 name: Pixie
 class: Cleric
-source: Fables
+source: fables
 speed: Average
 power: 455
 attack: 427
@@ -13,5 +13,5 @@ effects:
 types:
   - Hit 1
   - Mindless Self Attack
-family: Grimforest
+family: grimforest
 image: https://i.imgur.com/jFlvi1a.jpg

@@ -1,8 +1,8 @@
 name: Desmond
 class: Fighter
 speed: Average
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 power: 988
 attack: 1007
 defense: 974

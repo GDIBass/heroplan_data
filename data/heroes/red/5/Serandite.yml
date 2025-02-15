@@ -1,7 +1,7 @@
 name: Serandite
 class: Barbarian
-source: Ninja
-family: Ninja
+source: ninja
+family: ninja
 speed: Charge
 power: 867
 attack: 916

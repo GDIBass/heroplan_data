@@ -1,7 +1,7 @@
 name: Matilda
 class: Monk
-source: Morlovia
-family: Morlovia
+source: morlovia
+family: morlovia
 speed: Average
 power: 850
 attack: 817

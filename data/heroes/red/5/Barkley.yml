@@ -1,6 +1,6 @@
 name: Barkley
-source: Pets
-family: Pets
+source: pets
+family: pets
 speed: Average
 class: Fighter
 power: 879

@@ -1,6 +1,6 @@
 name: Jack O'Hare
 class: Ranger
-source: Springvale
+source: springvale
 speed: Fast
 power: 648
 attack: 743
@@ -12,7 +12,7 @@ effects:
   - The caster gets -20% defense for 3 turns. This effect can't be cleansed
 types:
   - Hit All
-family: Springvale
+family: springvale
 image: https://i.imgur.com/KJoqPtw.jpg
 costume:
   class: Paladin

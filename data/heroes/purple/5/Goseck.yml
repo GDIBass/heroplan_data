@@ -1,6 +1,6 @@
 name: Goseck
-source: Gargoyle
-family: Gargoyle
+source: gargoyle
+family: gargoyle
 speed: Slow
 class: Barbarian
 power: 841

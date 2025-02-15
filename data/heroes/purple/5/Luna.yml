@@ -1,6 +1,6 @@
 name: Luna
-source: Pets
-family: Pets
+source: pets
+family: pets
 speed: Fast
 class: Wizard
 power: 938

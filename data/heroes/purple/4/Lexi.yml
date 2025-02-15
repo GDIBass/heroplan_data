@@ -1,8 +1,8 @@
 name: Lexi
 class: Monk
 speed: Average
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 power: 692
 attack: 677
 defense: 714

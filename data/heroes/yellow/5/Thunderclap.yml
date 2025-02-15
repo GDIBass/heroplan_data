@@ -1,6 +1,6 @@
 name: Thunderclap
-source: Kalevala
-family: JungleHunter
+source: kalevala
+family: junglehunter
 speed: Slow
 class: Fighter
 power: 896

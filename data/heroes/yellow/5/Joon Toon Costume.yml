@@ -1,8 +1,8 @@
 name: Joon Toon Costume
 is_costume: true
 class: Monk
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 power: 1105
 attack: 1126

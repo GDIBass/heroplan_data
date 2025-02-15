@@ -1,6 +1,6 @@
 name: Brynhild
 class: Rogue
-source: Season3
+source: season3
 speed: Fast
 power: 660
 attack: 684
@@ -18,5 +18,5 @@ types:
   - Healer
   - Dispel Immunity
   - Mana Generation Buff
-family: Midgard
+family: midgard
 image: https://i.imgur.com/igNkAbf.jpg

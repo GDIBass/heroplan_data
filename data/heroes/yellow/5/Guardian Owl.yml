@@ -1,6 +1,6 @@
 name: Guardian Owl
-source: Teltoc
-family: Guardian
+source: teltoc
+family: guardiansteltoc 
 speed: Very Slow
 class: Druid
 power: 765

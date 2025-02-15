@@ -1,7 +1,7 @@
 name: Xiwangmu
 class: Cleric
-source: Kingdom
-family: Journey
+source: kingdom
+family: journey
 speed: Average
 power: 947
 attack: 982

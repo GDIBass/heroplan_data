@@ -1,8 +1,8 @@
 name: Domitia Toon Costume
 is_costume: true
 class: Rogue
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Average
 power: 1111
 attack: 1129

@@ -1,6 +1,6 @@
 name: Brontes
-source: Styx
-family: Styx
+source: styx
+family: styx
 speed: Charge
 class: Monk
 power: 685

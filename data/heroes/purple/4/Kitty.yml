@@ -1,7 +1,7 @@
 name: Kitty
-source: Musketeer
+source: musketeer
 class: Druid
-family: Musketeer
+family: musketeer
 speed: Average
 power: 686
 attack: 643

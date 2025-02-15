@@ -1,8 +1,8 @@
 name: Caedmon Toon Costume
 is_costume: true
 class: Druid
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 power: 746
 attack: 760

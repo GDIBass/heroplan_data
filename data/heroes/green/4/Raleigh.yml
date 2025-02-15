@@ -1,7 +1,7 @@
 name: Raleigh
 class: Druid
-source: Knights
-family: Stag
+source: knights
+family: stag
 speed: Slow
 power: 692
 attack: 656

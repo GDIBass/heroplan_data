@@ -1,7 +1,8 @@
 name: Chick Jr
-class: Paladin
-source: Springvale
+source: springvale
+family: springvale
 speed: Average
+class: Paladin
 power: 462
 attack: 523
 defense: 413
@@ -12,5 +13,4 @@ effects:
   - The caster gets -20% attack for 3 turns. This effect can't be cleansed.
 types:
   - Hit All
-family: Springvale
 image: https://i.imgur.com/3LZJ0cl.jpg

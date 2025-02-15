@@ -1,6 +1,6 @@
 name: Waddles
-family: Pets
-source: Pets
+family: pets
+source: pets
 class: Fighter
 speed: Fast
 power: 684

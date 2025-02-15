@@ -1,6 +1,6 @@
 name: Orla
-source: Slayers
-family: Slayer
+source: slayers
+family: slayer
 speed: Slow
 class: Ranger
 power: 677

@@ -1,8 +1,8 @@
 name: Snow White
-class: Cleric
-source: Fables
-family: Grimforest
+source: fables
+family: grimforest
 speed: Slow
+class: Cleric
 power: 780
 attack: 756
 defense: 747
@@ -10,9 +10,7 @@ health: 1299
 skill: Enchanted Edge
 effects:
   - Cleanses all buffs and status ailments from all allies and enemies.
-  - >-
-    Deals 180% damage to all enemies, and additional 15% damage per removed
-    status effect, up to 420% damage in total.
+  - Deals 180% damage to all enemies, and additional 15% damage per removed status effect, up to 420% damage in total.
 types:
   - Dispeller
   - Cleanser
@@ -27,13 +25,9 @@ costume:
   health: 1793
   skill: Slaying Stake
   effects:
-    - >-
-      Dispels and cleanses all buffs and status ailments from all allies and
-      enemies.
+    - Dispels and cleanses all buffs and status ailments from all allies and enemies.
     - Deals 140% damage to all enemies.
-    - >-
-      Deals additional 30% damage per removed status effect, up to 500% damage
-      in total.
+    - Deals additional 30% damage per removed status effect, up to 500% damage in total.
   types:
     - Dispeller
     - Cleanser

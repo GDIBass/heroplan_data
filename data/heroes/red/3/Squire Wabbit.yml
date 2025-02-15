@@ -1,6 +1,6 @@
 name: Squire Wabbit
 class: Ranger
-source: Springvale
+source: springvale
 speed: Fast
 power: 445
 attack: 538
@@ -12,5 +12,5 @@ effects:
   - The caster gets -20% defense for 3 turns. This effect can't be cleansed
 types:
   - Hit 1
-family: Springvale
+family: springvale
 image: https://i.imgur.com/545SVXP.jpg

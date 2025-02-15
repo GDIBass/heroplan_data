@@ -1,8 +1,8 @@
 name: Brienne Toon Costume
 is_costume: true
 class: Druid
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Average
 power: 502
 attack: 507

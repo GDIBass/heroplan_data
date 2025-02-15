@@ -1,7 +1,7 @@
 name: Cheshire Cat
 class: Sorcerer
-source: Wonderland
-family: Wonderland
+source: wonderland
+family: wonderland
 speed: Fast
 power: 649
 attack: 658

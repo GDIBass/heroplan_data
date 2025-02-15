@@ -1,7 +1,7 @@
 name: Yona
 class: Rogue
-source: Knights
-family: Stag
+source: knights
+family: stag
 speed: Fast
 power: 490
 attack: 451

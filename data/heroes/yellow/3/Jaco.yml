@@ -1,6 +1,6 @@
 name: Jaco
 source: untoldtales
-family: DefendersofAtlantis
+family: defendersofatlantis
 speed: Changing Tides
 class: Sorcerer
 power: 486
@@ -21,10 +21,9 @@ types:
   - Hit 3
 passives:
   - >-
-    'Effects on Special Skill:
-    50% chance to perform the following actions when this character casts their Special Skill
-      * Deals 80% damage to all enemies.
-      * All allies get +21% critical chance for 2 turns.'
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+  - ' * Deals 80% damage to all enemies.'
+  - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/ne5YJve.jpg
 costume:
   bonuses: 5/5/10/5
@@ -47,8 +46,7 @@ costume:
     - Hit 3
   passives:
     - >-
-      Effects on Special Skill:
-    -  50% chance to perform the following actions when this character casts their Special Skill
+      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
     - ' * Deals 80% damage to all enemies.'
     - ' * All allies get +21% critical chance for 3 turns.'
     - >-

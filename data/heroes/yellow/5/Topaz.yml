@@ -1,7 +1,7 @@
 name: Topaz
 class: Sorcerer
-source: Ninja
-family: Ninja
+source: ninja
+family: ninja
 power: 818
 attack: 821
 defense: 704

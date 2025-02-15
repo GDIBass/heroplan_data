@@ -1,6 +1,6 @@
 name: Guardian Falcon
 class: Paladin
-source: Teltoc
+source: teltoc
 speed: Average
 power: 646
 attack: 552
@@ -13,5 +13,5 @@ effects:
 types:
   - Hit 3
   - Elemental Defense Debuff
-family: Guardian
+family: guardiansteltoc 
 image: https://i.imgur.com/osWU4RP.jpg

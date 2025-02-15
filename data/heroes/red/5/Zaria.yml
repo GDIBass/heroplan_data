@@ -1,8 +1,8 @@
 name: Zaria
 class: Sorcerer
 speed: Average
-source: SuperElemental
-family: SuperElemental
+source: superelemental
+family: superelemental
 power: 961
 attack: 999
 defense: 945

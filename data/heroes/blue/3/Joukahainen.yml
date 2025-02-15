@@ -1,8 +1,8 @@
 name: Joukahainen
 class: Monk
 speed: Average
-family: Kalevala
-source: Kalevala
+family: kalevala
+source: kalevala
 power: 482
 attack: 465
 defense: 472

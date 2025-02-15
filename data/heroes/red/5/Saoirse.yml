@@ -1,7 +1,7 @@
 name: Saoirse
 class: Fighter
-source: Slayers
-family: Slayer
+source: slayers
+family: slayer
 speed: Slow
 power: 810
 attack: 737

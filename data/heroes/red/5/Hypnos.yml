@@ -1,6 +1,6 @@
 name: Hypnos
-source: Styx
-family: Styx
+source: styx
+family: styx
 speed: Charge
 class: Sorcerer
 power: 849

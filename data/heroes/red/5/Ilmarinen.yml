@@ -1,8 +1,8 @@
 name: Ilmarinen
 class: Fighter
 speed: Slow
-family: Kalevala
-source: Kalevala
+family: kalevala
+source: kalevala
 power: 835
 attack: 766
 defense: 830

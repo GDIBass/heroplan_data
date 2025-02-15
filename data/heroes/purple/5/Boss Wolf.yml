@@ -1,7 +1,7 @@
 name: Boss Wolf
 class: Druid
-source: Fables
-family: Grimforest
+source: fables
+family: grimforest
 speed: Very Slow
 power: 767
 attack: 566

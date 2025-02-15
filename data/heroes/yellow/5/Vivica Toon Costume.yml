@@ -1,8 +1,8 @@
 name: Vivica Toon Costume
 is_costume: true
 class: Cleric
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Slow
 power: 1110
 attack: 1065

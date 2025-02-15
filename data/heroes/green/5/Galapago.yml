@@ -1,6 +1,6 @@
 name: Galapago
 source: untoldtales
-family: DefendersofAtlantis
+family: defendersofatlantis
 speed: Changing Tides
 class: Druid
 power: 933
@@ -26,8 +26,8 @@ types:
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-      * Deals 80% damage to all enemies.
-      * All allies get +21% critical chance for 2 turns.
+  - ' * Deals 80% damage to all enemies.'
+  - ' * All allies get +21% critical chance for 2 turns.'
   - >-
     Resist Insanity: This character has innate resistance against Insanity.
 image: https://i.imgur.com/pxAZGoS.jpg
@@ -57,8 +57,8 @@ costume:
   passives:
     - >-
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-        * Deals 80% damage to all enemies.
-        * All allies get +21% critical chance for 2 turns.
+    - ' * Deals 80% damage to all enemies.'
+    - ' * All allies get +21% critical chance for 2 turns.'
     - >-
       Resist Insanity: This character has innate resistance against Insanity.
   image: https://i.imgur.com/hvltSu6.jpg

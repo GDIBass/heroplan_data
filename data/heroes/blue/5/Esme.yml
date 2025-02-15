@@ -1,7 +1,7 @@
 name: Esme
 class: Sorcerer
-source: Knights
-family: Wolf
+source: knights
+family: wolf
 speed: Average
 power: 816
 attack: 762

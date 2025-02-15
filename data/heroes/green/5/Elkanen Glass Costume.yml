@@ -1,7 +1,7 @@
 name: Elkanen Glass Costume
 is_costume: true
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Fast
 class: Cleric
 power: 1214

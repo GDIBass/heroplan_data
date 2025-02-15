@@ -1,7 +1,7 @@
 name: Miriam & Midnight
 class: Wizard
-source: Morlovia
-family: Morlovia
+source: morlovia
+family: morlovia
 speed: Average
 power: 850
 attack: 793

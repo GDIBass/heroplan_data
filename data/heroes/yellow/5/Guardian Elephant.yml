@@ -1,7 +1,7 @@
 name: Guardian Elephant 
 class: Ranger
-source: Teltoc
-family: Guardian
+source: teltoc
+family: guardiansteltoc 
 speed: Slow
 power: 1009
 attack: 990

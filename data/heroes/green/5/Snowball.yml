@@ -1,6 +1,6 @@
 name: Snowball
-source: Pets
-family: Pets
+source: pets
+family: pets
 speed: Fast
 class: Ranger
 power: 878

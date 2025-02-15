@@ -1,8 +1,8 @@
 name: Grimm Toon Costume
 is_costume: true
 class: Barbarian
-source: Season1
-family: Classic
+source: season1
+family: classic
 speed: Average
 power: 746
 attack: 827

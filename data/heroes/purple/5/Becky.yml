@@ -1,7 +1,7 @@
 name: Becky
 class: Cleric
-source: Magic
-family: Magic
+source: magic
+family: magic
 speed: Magic
 power: 907
 attack: 881

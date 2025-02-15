@@ -1,6 +1,6 @@
 name: Arges
-source: Styx
-family: Styx
+source: styx
+family: styx
 speed: Charge
 class: Wizard
 power: 685
