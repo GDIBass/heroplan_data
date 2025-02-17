@@ -1,26 +1,44 @@
 name: Rekhetre
 source: season5
-class: Wizard
 family: sun
 speed: Average
+class: Wizard
 power: 483
 attack: 470
 defense: 493
 health: 825
 skill: Puzzling Riddle
 effects:
-  - >-
-    All allies regenerate 450 boosted health over 3 turns. Boosted health can
-    exceed max HP.
-  - >-
-    The caster gets +84% defense against Dark, and a further 2% increase every
-    time they are hit during 3 turns.
+  - All allies regenerate 450 boosted health over 3 turns. Boosted health can exceed max HP.
+  - The caster gets +84% defense against Dark, and a further 2% increase every time they are hit during 3 turns.
 types:
-  - Regen All
+  - Boosted HoT
 passives:
   - >-
-    Effects on Special Skill: 60% chance to perform the following actions when
-    this character casts their Special Skill
+    Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
   - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
   - ' * Cleanses the latest cleansable status ailments from all allies.'
 image: https://i.imgur.com/nkaWucV.jpg
+costume:
+  bonuses: 2/2/4/1
+  class: Cleric
+  power: 494
+  attack: 492
+  defense: 495
+  health: 848
+  skill: Puzzling Paint
+  effects:
+    - All allies regenerate 540 boosted health over 3 turns. Boosted health can exceed max HP.
+    - The caster gets +74% defense against Dark, and a further 2% increase every time they are hit during 3 turns.
+  types:
+    - Boosted HoT
+  passives:
+    - >-
+      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+    - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+    - ' * Cleanses the latest cleansable status ailments from all allies.'
+    - >-
+      Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.
+    - >-
+      Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack.
+  image: https://i.imgur.com/K31ZD8P.jpg

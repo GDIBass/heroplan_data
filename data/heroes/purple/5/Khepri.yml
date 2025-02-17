@@ -1,8 +1,8 @@
 name: Khepri
-class: Ranger
-family: moon
 source: season5
+family: moon
 speed: Average
+class: Ranger
 power: 860
 attack: 801
 defense: 834
@@ -10,22 +10,41 @@ health: 1586
 skill: Scarab Bombardment
 effects:
   - Deals 275% damage to target and nearby enemies.
-  - >-
-    Summons a Scarab Bomb Fiend for the target and nearby enemies. The Fiend
-    damages the enemy with 38% attack every turn.
-  - >-
-    The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed a
-    health equal to 30% of its owner’s max health.
-  - >-
-    The Scarab Bomb Fiend explodes after 3 turns, dealing 600 damage to its
-    target and minor damage to nearby enemies.
+  - Summons a Scarab Bomb Fiend for the target and nearby enemies. The Fiend damages the enemy with 38% attack every turn.
+  - The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed a health equal to 30% of its owner’s max health.
+  - The Scarab Bomb Fiend explodes after 3 turns, dealing 600 damage to its target and minor damage to nearby enemies.
 types:
   - Hit 3
-  - Summoner
+  - Exploding Fiend 3
 passives:
   - >-
-    Effects on Special Skill: 60% chance to perform the following actions when 
-    this character casts their Special Skill
+    Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/Z6trZDL.jpg
+costume:
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 1007
+  attack: 982
+  defense: 951
+  health: 1946
+  skill: Scarab Blitz
+  effects:
+    - Deals 265% damage to the target and nearby enemies.
+    - Summons a Scarab Bomb Fiend for the target and nearby enemies. The Fiend damages the enemy with 38% attack every turn.
+    - The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.
+    - The Scarab Bomb Fiend explodes after 3 turns, dealing 900 damage to its target and minor damage to nearby enemies.
+  types:
+    - Hit 3
+    - Exploding Fiend 3
+  passives:
+    - >-
+      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 70% damage to all enemies.'
+    - ' * All enemies get -24% mana generation for 3 turns.'
+    - >-
+      Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
+    - >-
+      Resist Sand Damage: This character has innate resistance against sand damage.
+  image: https://i.imgur.com/j3u49nY.jpg
