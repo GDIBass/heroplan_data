@@ -1,0 +1,25 @@
+name: Knightus
+source: superelemental
+family: slime
+speed: Fast
+class: Fighter
+power: 1165
+attack: 1227
+defense: 1196
+health: 1973
+skill: Slime Croated Sword
+effects:
+  - Deals 540% damage to the target.
+  - The target enemy receives Devouring Goo status ailment for 3 turns.
+  - >-
+    Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 100 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can’t exceed 700.
+  - After 1 turn the target gets Paralyzed for 4 turns. (Paralyzed enemies can’t attack or gain mana and receive +50% increased damage. )
+types:
+  - Hit 1
+  - Devouring Goo
+passives:
+  - >-
+    Slime Minion Upon Defeat: When the slime hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://i.imgur.com/b5SLdod.jpg
