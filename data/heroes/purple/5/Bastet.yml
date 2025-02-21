@@ -10,16 +10,15 @@ health: 1561
 skill: Quick and Nimble
 effects:
   - Deals 220% damage to all enemies.
-  - >-
-    All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack (Max: 10).
+  - 'All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack (Max: 10).'
 types:
   - Hit All
   - Dodge Buff
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    * Deals 70% damage to all enemies.
-    * Dispells the latest dispellable buff from all enemies.
+  - ' * Deals 70% damage to all enemies.'
+  - ' * Dispells the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/4N9tjf5.jpg
 costume:
   bonuses: 5/5/10/5
@@ -31,16 +30,15 @@ costume:
   skill: Orchids and Roses
   effects:
     - Deals 210% damage to all enemies.
-    - >-
-      All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +10% defense stack (Max: 10).
+    - 'All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +10% defense stack (Max: 10).'
   types:
     - Hit All
     - Dodge buff
   passives:
     - >-
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:
-      * Deals 70% damage to all enemies.
-      * Dispells the latest dispellable buff from all enemies.
+    - ' * Deals 70% damage to all enemies.'
+    - ' * Dispells the latest dispellable buff from all enemies.'
     - >-
       Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
     - >-

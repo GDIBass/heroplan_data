@@ -15,6 +15,7 @@ effects:
   - Deals 300% damage to the target and 9 random enemies. The damage is reduced on each consecutive hit.
 types:
   - Enhanced Defense Ailment
+  - Delayed Healing Debuff 1
   - Hit 1
   - Hit 9 random
 passives:
