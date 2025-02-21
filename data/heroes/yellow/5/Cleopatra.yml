@@ -17,8 +17,8 @@ types:
 passives:
   - >-
     Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
-    * Boosts health of all allies by 10%. Boosted health can exceed max HP.
-    * Cleanses the latest cleansable status ailment from all allies.
+  - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+  - ' * Cleanses the latest cleansable status ailment from all allies.'
 image: https://i.imgur.com/pyEHRBi.jpg
 costume:
   bonuses: 5/5/10/5
@@ -37,8 +37,8 @@ costume:
   passives:
     - >-
       Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
-      * Boosts health of all allies by 10%. Boosted health can exceed max HP.
-      * Cleanses the latest cleansable status ailment from all allies.
+    - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
+    - ' * Cleanses the latest cleansable status ailment from all allies.'
     - >-
       Guaranteed Effect on Special Skill: When this character casts their Special Skill that grant extra effect on cast are guaranteed to activate.
     - >-

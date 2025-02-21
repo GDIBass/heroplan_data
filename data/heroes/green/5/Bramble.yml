@@ -11,13 +11,13 @@ skill: Sylvan Blessings
 effects:
   - Recovers 50% health for all allies.
   - All allies gain 20% mana after 3 turns or immediately if the effect is removed before the duration ends.
-  - Safely cleanses status ailmentsfrom all allies.
+  - Safely cleanses status ailmentsfrom all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.)
 types:
   - Heal All
   - Safely Cleanses
 passives:
   - >-
-    Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.)
+    Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.
   - >-
     Resist Insanity: This character has innate resistance against Insanity.
 image: https://i.imgur.com/BA1yyNs.jpg

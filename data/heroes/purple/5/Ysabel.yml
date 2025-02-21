@@ -16,6 +16,7 @@ effects:
 types:
   - Hit 3
   - Enhanced Defense Ailment
+  - Delayed Dispeller
 passives:
   - >-
     Resist Insanity: This character has innate resistance against Insanity.
