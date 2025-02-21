@@ -15,6 +15,7 @@ effects:
 types:
   - Safely Cleanses All
   - Enhanced Dodge
+  - Delayed Heal
 passives:
   - >-
     Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.

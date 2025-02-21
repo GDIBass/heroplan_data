@@ -15,7 +15,8 @@ effects:
   - After the Enhanced Dodge ends or is removed or replaced, the ally gets +70% attack for 5 turns.
 types:
   - Hit 3
-  - Enhanced Dodge
+  - Enhanced Dodge 3
+  - Delayed Attack Buff 3
 passives:
   - >-
     Resist Insanity: This character has innate resistance against Insanity.

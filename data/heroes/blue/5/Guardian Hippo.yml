@@ -12,6 +12,6 @@ effects:
   - For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. Damage is dealt on the first Special Skill cast of each character per turn. Damage is dealt on the first Special Skill cast of each character per turn.
   - All allies get +34% mana generation for 3 turns.
 types:
-  - Hit All
+  - Hit All on Ally SS
   - Mana Generation
 image: https://i.imgur.com/VXhh6s9.jpg

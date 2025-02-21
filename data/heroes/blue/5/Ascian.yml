@@ -1,0 +1,27 @@
+name: Ascian
+source: wilderness
+family: woodlandfaun
+speed: Fast
+class: Sorcerer
+power: 1165
+attack: 1196
+defense: 1114
+health: 2216
+skill: Portents of Future
+effects:
+  - Deals 240% damage to all enemies.
+  - >-
+    Enhanced Defense Ailment: All enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.
+  - After the Enhanced Defense Ailment ends or is removed or replaced, reduces the enemy’s mana by -10%.
+  - All allies gain 10% mana after 2 turns or immediately if the effect is removed before the duration ends.
+types:
+  - Hit All
+  - Enhanced Defense Ailment
+  - Mana Reduction All
+  - Delayed Mana Boost
+passives:
+  - >-
+    Resist Insanity: This character has innate resistance against Insanity.
+  - >-
+    Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack.
+image: https://i.imgur.com/t1rtMC8.jpg

@@ -16,7 +16,7 @@ effects:
 types:
   - Hit All
   - Enhanced Defense All
-  - Silence All
+  - Delayed Silence All
 passives:
   - >-
     Resist Insanity: This character has innate resistance against Insanity.
