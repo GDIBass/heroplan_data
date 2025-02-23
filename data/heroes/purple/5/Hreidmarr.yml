@@ -1,0 +1,25 @@
+name: Hreidmarr
+source: untoldtales
+family: nidavellir
+speed: Slow
+class: Wizard
+power: 1165
+attack: 1141
+defense: 1170
+health: 2237
+skill: Dwarven King’s Levy
+effects:
+  - Attacks all enemies with Firestorm Strike, dealing up to 2100 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.
+  - The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster is defeated.
+  - At the end of each turn, steals the latest dispellable buff from all enemies and distributes them randomly among allies for 4 turn.
+types:
+  - 
+passives:
+  - >-
+    Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.
+  - Molten Core. This character has a Molten Core.
+  - >-
+    The Molten Core activates each time this character’s Special Skill is cast:
+  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 285 Burn damage, and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+image: https://i.imgur.com/UInCnGF.jpg
