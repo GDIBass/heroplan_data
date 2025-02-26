@@ -11,10 +11,10 @@ skill: Divine Light
 effects:
   - 'If the caster is recovering health:'
   - ' * Deals 300% damage to all enemies.'
-  - ' * All enemies get lasting -40% attack.'
+  - ' * All enemies get lasting -40% attack. (This effect lasts until it is cleansed, replaced or removed.)'
   - 'Otherwise:'
-  - ' * All allies get lasting 200 health regeneration per turn.'
-  - ' * All allies get lasting +40% attack.'
+  - ' * All allies get lasting 200 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)'
+  - ' * All allies get lasting +40% attack. (This effect lasts until it is cleansed, replaced or removed.)'
 types:
   - Lasting Health regeneration All
   - Lasting Attack Buff All
