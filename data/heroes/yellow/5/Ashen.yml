@@ -1,0 +1,26 @@
+name: Ashen
+source: covenant
+family: fox
+speed: Fast
+class: Cleric
+power: 1166
+attack: 1211
+defense: 1180
+health: 2055
+skill: Divine Light
+effects:
+  - 'If the caster is recovering health:'
+  - ' * Deals 300% damage to all enemies.'
+  - ' * All enemies get lasting -40% attack. (This effect lasts until it is cleansed, replaced or removed.)'
+  - 'Otherwise:'
+  - ' * All allies get lasting 200 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)'
+  - ' * All allies get lasting +40% attack. (This effect lasts until it is cleansed, replaced or removed.)'
+types:
+  - Lasting Health regeneration All
+  - Lasting Attack Buff All
+  - Hit All
+  - Lasting Attack Debuff All
+passives:
+  - >-
+    Decreased Healing: All enemies get -50% healing.
+image: https://i.imgur.com/JxS30IU.jpg
