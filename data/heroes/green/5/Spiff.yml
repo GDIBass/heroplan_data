@@ -4,9 +4,9 @@ family: fox
 speed: Fast
 class: Paladin
 power: 1116
-attack: 1194
-defense: 1194
-health: 1709
+attack: 1225
+defense: 1225
+health: 1800
 skill: Fierce Pierce
 effects:
   - The caster gets lasting bypass for defensive buffs. (Defensive buffs include counterattacks. This effect lasts until it is cleansed, replaced or removed.)

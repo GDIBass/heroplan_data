@@ -4,14 +4,14 @@ family: garrisonguard
 speed: Fast
 class: Rogue
 power: 1097
-attack: 1153
-defense: 1077
-health: 1913
+attack: 1172
+defense: 1095
+health: 1969
 skill: Reckless Sword Swings
 effects:
   - Deals 350% damage to the target.
   - Deals additional 350% damage to 2 random enemies.
-  - All hit targets receive 447 Bleed damage over 3 turns.
+  - All hit targets receive 456 Bleed damage over 3 turns.
   - All hit targets take +50% increased damage from Bleed status ailments for 3 turns.
 types:
   - Hit 1

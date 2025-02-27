@@ -4,9 +4,9 @@ family: slime
 speed: Average
 class: Cleric
 power: 1148
-attack: 1223
-defense: 1137
-health: 1977
+attack: 1231
+defense: 1145
+health: 2004
 skill: Reviving Touch
 effects:
   - All allies get +60% attack for 4 turns.

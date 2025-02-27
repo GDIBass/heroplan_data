@@ -4,9 +4,9 @@ family: nidavellir
 speed: Fast
 class: Cleric
 power: 1138
-attack: 1118
-defense: 1155
-health: 2134
+attack: 1128
+defense: 1168
+health: 2171
 skill: Night’s Whisper
 effects:
   - Recovers 30% health for all allies.
@@ -22,6 +22,6 @@ passives:
   - Molten Core. This character has a Molten Core.
   - >-
     The Molten Core activates each time this character’s Special Skill is cast:
-  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 279 Burn damage, and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions'
+  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 282 Burn damage, and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions'
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
 image: https://i.imgur.com/mO16Dj6.jpg

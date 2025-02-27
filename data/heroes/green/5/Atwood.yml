@@ -4,9 +4,9 @@ family: investigator
 speed: Average
 class: Monk
 power: 1063
-attack: 1081
-defense: 1071
-health: 1862
+attack: 1112
+defense: 1100
+health: 1950
 skill: Jewel of the Deep
 effects:
   - Dispels buffs from the target and nearby enemies.

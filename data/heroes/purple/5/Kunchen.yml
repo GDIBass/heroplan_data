@@ -10,7 +10,7 @@ health: 1437
 skill: Power of Ajna
 effects:
   - Recovers 45% health for all allies.
-  - All enemies get -34% defense for 4 turns.
+  - All enemies get -34% defense for 5 turns.
   - Cleanses status ailments from all allies.
   - Element Link gives all Dark allies +46% defense against Holy for 4 turns. This effect can't be cleansed.
 types:

@@ -4,9 +4,9 @@ family: moth
 speed: Average
 class: Cleric
 power: 1153
-attack: 1219
-defense: 1196
-health: 1905
+attack: 1225
+defense: 1200
+health: 1917
 skill: Toxic Incense
 effects:
   - Dispels buffs from the target and nearby enemies.

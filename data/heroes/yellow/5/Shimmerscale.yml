@@ -4,14 +4,14 @@ family: garrisonguard
 speed: Fast
 class: Fighter
 power: 1032
-attack: 1034
-defense: 1128
-health: 1639
+attack: 1054
+defense: 1149
+health: 1703
 skill: Rude Awakening
 effects:
   - Deals 300% damage to the target and nearby enemies.
   - Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.
-  - The target hit by the Sword Guard Mega Minion receives 402 Bleed damage over 3 turns. This effect spreads to nearby enemies.
+  - The target hit by the Sword Guard Mega Minion receives 411 Bleed damage over 3 turns. This effect spreads to nearby enemies.
 types:
   - Hit 3
   - Sword Guard Mega Minion

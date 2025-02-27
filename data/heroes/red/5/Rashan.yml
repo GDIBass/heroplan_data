@@ -4,9 +4,9 @@ family: cultist
 speed: Very Fast
 class: Rogue
 power: 1078
-attack: 1145
-defense: 1067
-health: 1816
+attack: 1194
+defense: 1116
+health: 1965
 skill: Cuts of Hulu
 effects:
   - Deals 330% damage to the enemies on the edges of the enemy formation and inflicts 25 Insanity on them. If only one enemy alive, the damage and Insanity is doubled.

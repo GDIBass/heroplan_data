@@ -9,7 +9,7 @@ defense: 688
 health: 1308
 skill: Emerald Flash
 effects:
-  - Deals 195% damage to all enemies
+  - Deals 225% damage to all enemies
   - All enemies get -34% attack for 4 turns
   - Deals extra damage against Ice
   - Dispels buffs from all enemies
@@ -29,7 +29,7 @@ costume:
   skill: Plume Flash
   effects:
     - Dispels buffs from all enemies.
-    - Deals 180% damage to all enemies.
+    - Deals 210% damage to all enemies.
     - All enemies get -38% attack for 4 turns.
     - Deals extra damage against Ice 
     - Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can’t be dispelled.

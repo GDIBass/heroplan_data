@@ -4,9 +4,9 @@ family: slime
 speed: Average
 class: Paladin
 power: 1068
-attack: 1062
-defense: 1192
-health: 1936
+attack: 1081
+defense: 1209
+health: 1987
 skill: Revitalizing Sludge
 effects:
   - Boosts health of all allies by 1000. Boosted health can exceed max HP.

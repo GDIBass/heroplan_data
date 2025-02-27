@@ -13,7 +13,7 @@ effects:
   - Recovers 35% health for all allies.
   - All allies reflect status ailments, negative stacks, and Wither effects to a random character on the opposing team for 4 turns.
 types:
-  - Cleanse 1 ailment
+  - Safely Cleanses 1 ailment
   - Heal All
   - Reflect Debuffs
 passives:

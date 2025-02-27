@@ -4,9 +4,9 @@ family: woodlandfaun
 speed: Fast
 class: Fighter
 power: 1112
-attack: 1145
-defense: 1073
-health: 2047
+attack: 1176
+defense: 1106
+health: 2142
 skill: Lash of the Whip
 effects:
   - Deals 525% damage to the target and minor damage to nearby enemies.

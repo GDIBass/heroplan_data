@@ -4,9 +4,9 @@ family: garrisonguard
 speed: Slow
 class: Monk
 power: 1079
-attack: 1069
-defense: 1137
-health: 1874
+attack: 1089
+defense: 1157
+health: 1936
 skill: Reporting for Duty
 effects:
   - Deals 450% damage to all enemies.

@@ -4,9 +4,9 @@ family: slime
 speed: Slow
 class: Cleric
 power: 1140
-attack: 1071
-defense: 1095
-health: 2389
+attack: 1091
+defense: 1116
+health: 2391
 skill: Perfume Cloud
 effects:
   - The target and nearby enemies receive Devouring Goo status ailment for 5 turns.
