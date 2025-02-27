@@ -4,9 +4,9 @@ family: woodlandfaun
 speed: Average
 class: Druid
 power: 1150
-attack: 1112
-defense: 1176
-health: 2195
+attack: 1118
+defense: 1182
+health: 2214
 skill: Sylvan Blessings
 effects:
   - Recovers 50% health for all allies.

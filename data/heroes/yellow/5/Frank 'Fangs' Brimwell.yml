@@ -4,9 +4,9 @@ family: garrisonguard
 speed: Average
 class: Fighter
 power: 1081
-attack: 1143
-defense: 1079
-health: 1818
+attack: 1168
+defense: 1104
+health: 1893
 skill: Esprit de Corps
 effects:
   - Deals 350% damage to the target and nearby enemies.

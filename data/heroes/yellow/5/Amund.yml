@@ -1,0 +1,24 @@
+name: Amund
+source: monsterisland
+family: plainshunter
+speed: Average
+class: Fighter
+power: 1166
+attack: 1194
+defense: 1149
+health: 2156
+skill: Carve the Bones
+effects:
+  - Deals 350% damage to all enemies.
+  - Summons a Bone Trap Fiend for all enemies. The Fiend damages the enemy with 45% attack every turn. The damage increases by 8% each turn, up to a maximum 93%.
+  - The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 45% of its owner’s max health.
+  - All enemies can’t get their status ailments cleansed or reallocated by Special Skill for as long as they have Bone Trap Fiends. (This effect also prevents cleansing and reallocating of itself.)
+types:
+  - Hit All
+  - Fiends All
+passives:
+  - >-
+    Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  - >-
+    Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+image: https://i.imgur.com/Cr6rYpC.jpg

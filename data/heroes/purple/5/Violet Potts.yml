@@ -4,15 +4,15 @@ family: garrisonguard
 speed: Average
 class: Fighter
 power: 1061
-attack: 1116
-defense: 1065
-health: 1771
+attack: 1147
+defense: 1095
+health: 1862
 skill: Lucky Coin
 effects:
   - Safely dispels status effect buffs from all enemies.
   - All enemies are immune to new status effect buffs for 4 turns.
   - Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.
-  - The target hit by the Sword Guard Mega Minion receives 435 Bleed damage over 3 turns. This effect spreads to nearby enemies.
+  - The target hit by the Sword Guard Mega Minion receives 447 Bleed damage over 3 turns. This effect spreads to nearby enemies.
 types:
   - Safe cleaner
   - Buff immunity

@@ -4,9 +4,9 @@ family: cultist
 speed: Average
 class: Ranger
 power: 1143
-attack: 1192
-defense: 1143
-health: 2008
+attack: 1203
+defense: 1155
+health: 2045
 skill: Eldritch Sign Bolts
 effects:
   - Steals all dispellable buff from all enemies to the caster.

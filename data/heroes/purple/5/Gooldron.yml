@@ -4,9 +4,9 @@ family: slime
 speed: Fast
 class: Cleric
 power: 1124
-attack: 1172
-defense: 1102
-health: 2002
+attack: 1196
+defense: 1126
+health: 2076
 skill: Slime Serving
 effects:
   - Deals 355% damage to the target and nearby enemies.

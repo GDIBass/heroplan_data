@@ -10,7 +10,7 @@ health: 1577
 skill: Hunter’s Instinct
 effects:
   - This Special Skill never misses its targets.
-  - Deals 500% damage to the target.
+  - Deals 550% damage to the target.
   - >-
     The target becomes marked for 3 turns. Whenever a marked target dodges, 
     they gain a stack (Max: 10). Each stack increases all damage the target 

@@ -4,9 +4,9 @@ family: investigator
 speed: Fast
 class: Cleric
 power: 1055
-attack: 1093
-defense: 1062
-health: 1790
+attack: 1126
+defense: 1093
+health: 1882
 skill: Yellow Signs
 effects:
   - For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity to a random target and nearby enemies each time any other ally casts their Special Skill.

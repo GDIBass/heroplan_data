@@ -4,9 +4,9 @@ family: garrisonguard
 speed: Average
 class: Wizard
 power: 1063
-attack: 1145
-defense: 1085
-health: 1672
+attack: 1172
+defense: 1112
+health: 1755
 skill: Soothing Melody
 effects:
   - Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.

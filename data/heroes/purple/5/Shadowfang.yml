@@ -4,9 +4,9 @@ family: fox
 speed: Slow
 class: Wizard
 power: 1148
-attack: 1139
-defense: 1135
-health: 2193
+attack: 1143
+defense: 1139
+health: 2208
 skill: Flying Bones
 effects:
   - Deals 390% damage to all enemies.

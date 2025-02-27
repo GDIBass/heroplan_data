@@ -4,15 +4,15 @@ family: garrisonguard
 speed: Average
 class: Barbarian
 power: 1107
-attack: 1161
-defense: 1097
-health: 1924
+attack: 1174
+defense: 1112
+health: 1963
 skill: Spotting Trouble
 effects:
   - Deals 400% damage to the target and nearby enemies.
   - The target and nearby enemies get -25% defense for 4 turns. The effect duration resets if the enemy is healed.
   - Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.
-  - The target hit by the Sword Guard Mega Minion recieves 450 Bleed damage over 3 turns. This effect spreads on nearby enemies.
+  - The target hit by the Sword Guard Mega Minion recieves 456 Bleed damage over 3 turns. This effect spreads on nearby enemies.
 types:
   - Hit 3
   - Defense Debug

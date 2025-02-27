@@ -4,9 +4,9 @@ family: garrisonguard
 speed: Very Fast
 class: Ranger
 power: 1079
-attack: 1149
-defense: 1056
-health: 1831
+attack: 1170
+defense: 1079
+health: 1899
 skill: Aces High
 effects:
   - The attack bypasses defensive buffs. (This includes counterattacks.)

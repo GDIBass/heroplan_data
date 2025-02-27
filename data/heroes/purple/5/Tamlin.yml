@@ -4,9 +4,9 @@ family: woodlandfaun
 speed: Slow
 class: Sorcerer
 power: 1107
-attack: 1095
-defense: 1100
-health: 2078
+attack: 1126
+defense: 1130
+health: 2171
 skill: Disquieting Tune
 effects:
   - Deals 450% damage to all enemies.

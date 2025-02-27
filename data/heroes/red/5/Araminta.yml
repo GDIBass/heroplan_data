@@ -4,9 +4,9 @@ family: woodlandfaun
 speed: Fast
 class: Barbarian
 power: 1109
-attack: 1126
-defense: 1071
-health: 2078
+attack: 1159
+defense: 1104
+health: 2177
 skill: Forceful Advance
 effects:
   - Deals 260% damage to all enemies.

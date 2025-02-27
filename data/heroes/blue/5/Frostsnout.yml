@@ -4,9 +4,9 @@ family: garrisonguard
 speed: Fast
 class: Paladin
 power: 1148
-attack: 1157
-defense: 1153
-health: 2115
+attack: 1165
+defense: 1161
+health: 2134
 skill: Raising Morale
 effects:
   - Deals 380% damage to the target and nearby enemies.

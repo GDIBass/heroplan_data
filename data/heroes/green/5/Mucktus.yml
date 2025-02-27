@@ -4,9 +4,9 @@ family: slime
 speed: Average
 class: Sorcerer
 power: 1104
-attack: 1133
-defense: 1108
-health: 1946
+attack: 1168
+defense: 1143
+health: 2053
 skill: Insidious Goo
 effects:
   - Deals 260% damage to all enemies.

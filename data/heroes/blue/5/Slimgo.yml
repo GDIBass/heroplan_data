@@ -4,13 +4,13 @@ family: slime
 speed: Fast
 class: Rogue
 power: 1111
-attack: 1174
-defense: 1130
-health: 1854
+attack: 1205
+defense: 1163
+health: 1948
 skill: Throwing Daggers
 effects:
   - Deals 260% damage to all enemies.
-  - All enemies receive 471 Water damage over 3 turns.
+  - All enemies receive 483 Water damage over 3 turns.
   - All enemies get -30% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
 types:
   - Hit All

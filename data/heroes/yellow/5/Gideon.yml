@@ -4,9 +4,9 @@ family: woodlandfaun
 speed: Slow
 class: Paladin
 power: 1131
-attack: 1104
-defense: 1147
-health: 2138
+attack: 1122
+defense: 1165
+health: 2193
 skill: Purifying Light
 effects:
   - Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.
