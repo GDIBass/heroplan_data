@@ -29,10 +29,10 @@ image: https://i.imgur.com/kgTv3pm.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 1126
-  attack: 1087
-  defense: 1142
-  health: 2153
+  power: 1176
+  attack: 1144
+  defense: 1203
+  health: 2244
   skill: Sunken Abyss
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'
@@ -52,5 +52,5 @@ costume:
         * Deals 80% damage to all enemies.
         * The caster get +19% mana generation for 2 turns.
     - >-
-      Resist Insanity: This character has an innate resistance against Insanity.
+      Resist Insanity: This character has innate resistance against Insanity.
   image: https://i.imgur.com/Bwbja0V.jpg

@@ -32,10 +32,10 @@ image: https://i.imgur.com/aKuc2pB.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 1072
-  attack: 1061
-  defense: 1081
-  health: 1951
+  power: 1119
+  attack: 1117
+  defense: 1138
+  health: 2034
   skill: Crystal Embrace
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'

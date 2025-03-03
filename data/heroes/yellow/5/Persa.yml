@@ -31,10 +31,10 @@ image: https://i.imgur.com/XWgWbVt.jpg
 costume:
   bonuses: 5/5/10/5
   class: Druid
-  power: 1084
-  attack: 1116
-  defense: 1146
-  health: 1771
+  power: 1132
+  attack: 1175
+  defense: 1207
+  health: 1846
   skill: Ocean’s Decay
   effects:
     - - 'Special Skill need consecutive uses to reach full power, the following order:'
@@ -56,5 +56,5 @@ costume:
     - ' * Deals 80% damage to all enemies.'
     - ' * The caster get +19% mana generation for 2 turns.'
     - >-
-      Resist Insanity: This character has an innate resistance against Insanity.
+      Resist Insanity: This character has innate resistance against Insanity.
   image: https://i.imgur.com/nKfadia.jpg

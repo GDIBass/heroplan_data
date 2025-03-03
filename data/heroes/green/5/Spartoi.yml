@@ -31,10 +31,10 @@ image: https://i.imgur.com/OJh8GR8.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1127
-  attack: 1058
-  defense: 1252
-  health: 2009
+  power: 1177
+  attack: 1115
+  defense: 1318
+  health: 2094
   skill: Opposing Raid
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'
@@ -56,5 +56,5 @@ costume:
     - ' * Deals 80% damage to all enemies.'
     - ' * The caster gets +19% mana generation for 2 turns.'
     - >-
-      Resist Insanity: This character has an innate resistance against Insanity.
+      Resist Insanity: This character has innate resistance against Insanity.
   image: https://i.imgur.com/uRq8uoY.jpg
