@@ -1,8 +1,8 @@
 name: Goldie
-class: Paladin
 source: goblinvillage
 family: goblin
 speed: Average
+class: Paladin
 power: 688
 attack: 643
 defense: 716
@@ -11,17 +11,14 @@ skill: Magic Mirror of Power
 effects:
   - Recover 38% health for all allies.
   - "Growth: All allies get 100 attack."
-  - >-
-    All allies reflect ailments to a random character on the opposing team for
-    3 turns. (Only cleansable status ailments are reflected)
+  - All allies reflect ailments to a random character on the opposing team for 3 turns. (Only cleansable status ailments are reflected)
 types:
   - Healer
   - Attack buff
   - Ailments reflect
 passives:
   - >-
-    Effects on Special Skill - 50% chance to perform the following actions when
-    this character casts their Special Skill.
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.
   - " * Deals 90% damage to all enemies."
   - " * All enemies get -25% accuracy for 3 turns."
 image: https://i.imgur.com/9Zjrelm.jpg

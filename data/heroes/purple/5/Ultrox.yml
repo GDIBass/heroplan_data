@@ -1,8 +1,8 @@
 name: Ultrox
-class: Cleric
 source: untoldtales
 family: nightmaresofatlantis
 speed: Changing Tides
+class: Cleric
 power: 943
 attack: 978
 defense: 879
@@ -24,8 +24,7 @@ types:
   - Damage reduction
 passives:
   - >-
-    'Effects on Special Skill:
-    50% chance to perform the following actions when this character casts their Special Skill
-      * Deals 80% damage to all enemies.
-      * The caster gets +19% mana generation for 2 turns.'
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+  - ' * Deals 80% damage to all enemies.'
+  - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/7xKKQnM.jpg
