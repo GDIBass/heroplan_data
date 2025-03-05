@@ -1,0 +1,31 @@
+name: Aurum
+source: ninja
+family: ninja
+speed: Charge
+class: Barbarian
+power: 1167
+attack: 1324
+defense: 1141
+health: 1856
+skill: 
+effects:
+  - 1x Mana Charge
+  - ' * Deals 385% damage to the target.'
+  - ' * The target gets a Bleed mark for 2 turns. Whenever a marked target receives a Bleed damage, they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.'
+  - ' * The target receives 316 Bleed damage over 2 turns.'
+  - 2x Mana Charge
+  - ' * Deals 395% damage to the target and nearby enemies.'
+  - ' * The target and nearby enemies get a Bleed mark for 4 turns. Whenever a marked target receives a Bleed damage, they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.'
+  - ' * The target and nearby enemies receive 792 Bleed damage over 4 turns.'
+  - 3x Mana Charge
+  - ' * Deals 405% damage to all enemies.'
+  - ' * All enemies get a Bleed mark for 6 turns. Whenever a marked target receives a Bleed damage, they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.'
+  - ' * All enemies receive 1506 Bleed damage over 6 turns.'
+types:
+  - Charge Hit 1/3/5
+  - Bleed Mark
+  - DoT
+passives:
+  - >-
+    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
+image: https://i.imgur.com/ti2OFXj.jpg
