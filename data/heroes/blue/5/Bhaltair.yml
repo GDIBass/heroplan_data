@@ -4,9 +4,9 @@ family: bard
 speed: Slow
 class: Fighter
 power: 1153
-attack: 1112
-defense: 1318
-health: 1928
+attack: 1114
+defense: 1320
+health: 1940
 skill: Joyful Noise
 effects:
   - Deals 350% damage to all enemies.

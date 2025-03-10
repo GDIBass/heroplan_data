@@ -4,9 +4,9 @@ family: 2024
 class: Ranger
 speed: Very Fast
 power: 1009
-attack: 1120
-defense: 955
-health: 1606
+attack: 1135
+defense: 972
+health: 1650
 skill: Tricks of the Trade
 effects:
   - Deals 355% damage to the target.

@@ -4,9 +4,9 @@ family: plainshunter
 speed: Average
 class: Sorcerer
 power: 1084
-attack: 1112
-defense: 1032
-health: 2012
+attack: 1159
+defense: 1079
+health: 2154
 skill: Chitin Cage
 effects:
   - Deals 500% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.

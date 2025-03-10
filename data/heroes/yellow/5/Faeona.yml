@@ -4,9 +4,9 @@ class: Sorcerer
 family: 2024
 speed: Slow
 power: 1035
-attack: 1036
-defense: 1102
-health: 1709
+attack: 1042
+defense: 1108
+health: 1734
 skill: Revitalizing Orb
 effects:
   - Recovers 45% health for all allies.

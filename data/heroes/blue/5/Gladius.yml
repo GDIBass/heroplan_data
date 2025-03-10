@@ -4,9 +4,9 @@ class: Ranger
 family: 2024
 speed: Fast
 power: 915
-attack: 929
-defense: 875
-health: 1577
+attack: 972
+defense: 918
+health: 1705
 skill: Hunter’s Instinct
 effects:
   - This Special Skill never misses its targets.

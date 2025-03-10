@@ -4,9 +4,9 @@ family: 2024
 speed: Slow
 class: Paladin
 power: 907
-attack: 830
-defense: 957
-health: 1602
+attack: 871
+defense: 999
+health: 1744
 skill: Dawnlight Rally
 effects:
   - Deals 330% damage to all enemies.

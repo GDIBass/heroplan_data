@@ -4,9 +4,9 @@ family: bard
 speed: Fast
 class: Wizard
 power: 1113
-attack: 1262
-defense: 1036
-health: 1833
+attack: 1293
+defense: 1069
+health: 1932
 skill: Odd Drum Roll
 effects:
   - Rearranges the enemy positions randomly.

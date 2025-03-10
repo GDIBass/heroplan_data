@@ -4,9 +4,9 @@ family: 2024
 speed: Fast
 class: Ranger
 power: 944
-attack: 1021
-defense: 887
-health: 1528
+attack: 1042
+defense: 929
+health: 1652
 skill: Command the Pack
 effects:
   - Deals 400% damage to the target.

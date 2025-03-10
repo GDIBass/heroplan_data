@@ -4,9 +4,9 @@ family: bard
 speed: Fast
 class: Cleric
 power: 1133
-attack: 1236
-defense: 1124
-health: 1864
+attack: 1252
+defense: 1143
+health: 1919
 skill: Magical Balan
 effects:
   - Dispels buffs from the target and nearby enemies.

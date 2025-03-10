@@ -4,9 +4,9 @@ family: 2025
 speed: Fast
 class: Fighter
 power: 1049
-attack: 1153
-defense: 1032
-health: 1656
+attack: 1155
+defense: 1036
+health: 1662
 skill: Lance Thrust
 effects:
   - Deals 440% damage to the target.
