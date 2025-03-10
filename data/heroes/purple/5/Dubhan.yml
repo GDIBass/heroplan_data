@@ -4,9 +4,9 @@ family: plainshunter
 speed: Average
 class: Paladin	
 power: 1052
-attack: 1030
-defense: 1015
-health: 2022
+attack: 1095
+defense: 1081
+health: 2222
 skill: Thundering Strike
 effects:
   - Deals 300% damage to the target.

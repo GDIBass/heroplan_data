@@ -4,9 +4,9 @@ family: plainshunter
 speed: Fast
 class: Paladin
 power: 1079
-attack: 1093
-defense: 1027
-health: 2031
+attack: 1143
+defense: 1077
+health: 2179
 skill: Primeval Glaive
 effects:
   - Deals 550% damage to the target.

@@ -4,9 +4,9 @@ family: plainshunter
 speed: Fast
 class: Cleric
 power: 1107
-attack: 1089
-defense: 1091
-health: 2115
+attack: 1124
+defense: 1126
+health: 2214
 skill: Cloak of Feathers
 effects:
   - Safely cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)

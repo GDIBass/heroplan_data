@@ -3,10 +3,10 @@ source: hotm
 family: 2024
 speed: Slow
 class: Paladin
-power: 983
-attack: 964
-defense: 1025
-health: 1672
+power: 1008
+attack: 988
+defense: 1048
+health: 1746
 skill: Guardian’s Retaliation
 effects:
   - Cleanses status ailments from the caster and nearby allies.
