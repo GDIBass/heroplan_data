@@ -4,9 +4,9 @@ family: 2024
 speed: Average
 class: Wizard
 power: 970
-attack: 1040
-defense: 947
-health: 1547
+attack: 1067
+defense: 974
+health: 1629
 skill: Conjure the Azure Spirit
 effects:
   - Deals 250% damage to all enemies.

@@ -4,9 +4,9 @@ family: 2024
 speed: Average
 class: Fighter
 power: 957
-attack: 1001
-defense: 931
-health: 1582
+attack: 1030
+defense: 962
+health: 1680
 skill: Falcon Screech
 effects:
   - Deals 300% damage to the target and nearby enemies.

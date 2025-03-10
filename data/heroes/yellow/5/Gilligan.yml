@@ -9,9 +9,9 @@ defense: 770
 health: 1555
 skill: Reckless Charge
 effects:
-  - Deals 350% damage to the target and nearby enemies.
-  - The attack has a 75% chance to bypass defensive buffs. This includes counterattacks.
-  - All allies get +40% defense for 4 turns.
+  - Deals 380% damage to the target and nearby enemies.
+  - The attack has a 80% chance to bypass defensive buffs. This includes counterattacks.
+  - All allies get +45% defense for 4 turns.
   - Element Link gives all Holy allies a +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled.
 types:
   - Hit 3

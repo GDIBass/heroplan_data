@@ -9,7 +9,7 @@ defense: 756
 health: 1406
 skill: Indifferent Blade
 effects:
-  - Deals 460% damage to the target and minor damage to nearby enemies.
+  - Deals 490% damage to the target and minor damage to nearby enemies.
   - The attack bypasses defensive buffs. This includes counterattacks.
   - The caster gains 25% mana if any defensive buffs were bypassed.
   - Element Link gives all Fire allies +10% defense for 4 turns. This effect can’t be dispelled.

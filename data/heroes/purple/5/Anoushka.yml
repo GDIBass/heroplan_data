@@ -4,16 +4,16 @@ source: hotm
 family: 2024
 speed: Average
 power: 923
-attack: 861
-defense: 943
-health: 1664
+attack: 902
+defense: 984
+health: 1788
 skill: Strange Incense
 effects:
-  - Recover 25% health for all allies.
+  - Recover 30% health for all allies.
   - Steals all dispellable buffs from the target and randomly distributes them on allies.
   - The target falls asleep.
   - While asleep, the target can’t attack or gain mana.
-  - All damage dealt to the sleeping target is increased by +40%.
+  - All damage dealt to the sleeping target is increased by +50%.
   - The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends.
   - Elemental Link gives all Dark allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled.
 types:
