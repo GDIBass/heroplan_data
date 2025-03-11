@@ -1,5 +1,6 @@
 name: Kashhrek Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Average
@@ -14,7 +15,7 @@ effects:
   - The caster and nearby allies get +84% defense against Fire for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
 types:
   - Healer 3
-  - Elemental Defense Buff
+  - Elemental Defense Buff 3
 passives:
   - >-
     Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

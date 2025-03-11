@@ -9,14 +9,15 @@ defense: 631
 health: 1183
 skill: Sonic Wall
 effects:
-  - Deals 210% damage to all enemies
-  - All enemies get -40% accuracy for 4 turns
-  - Chance to miss also applies to offensive special skills
+  - Deals 210% damage to all enemies.
+  - All enemies get -40% accuracy for 4 turns.
+  - Chance to miss also applies to offensive special skills.
 types:
   - Hit All
-  - Blind
+  - Blind All
 image: https://i.imgur.com/uyASMQ6.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 674
@@ -25,18 +26,16 @@ costume:
   health: 1268
   skill: Aura Wave
   effects:
-    - Deals 160% damage to all enemies
-    - >-
-      All enemies get -30% accuracy for 4 turns. Chance to miss also applies to
-      offensive Special SKills
-    - >-
-      All enemies get -50% decrease for any healing received for 4 turns. This
-      effect can't be cleansed
+    - Deals 160% damage to all enemies.
+    - All enemies get -30% accuracy for 4 turns. Chance to miss also applies to offensive Special SKills.
+    - All enemies get -50% decrease for any healing received for 4 turns. This effect can't be cleansed.
   types:
-    - Hit all
-    - Blind
+    - Hit All
+    - Blind All
+    - Healing Debuff All
   image: https://i.imgur.com/vPJgzTp.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Monk
   power: 729
@@ -46,16 +45,15 @@ costume2:
   skill: Acoustic Surge
   effects:
     - Deals 200% damage to all enemies.
-    - >-
-      All enemies get -30% accuracy for 4 turns. Chance to miss also applies to 
-      offensive Special Skills.
+    - All enemies get -30% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
     - All enemies get -24% mana generation for 4 turns.
   types:
     - Hit all
-    - Blind
-    - Mana gen debuff
+    - Blind All
+    - Mana gen debuff All
   image: https://i.imgur.com/3xo1OZT.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Fighter
   power: 741
@@ -69,7 +67,7 @@ costume3:
     - Deals extra damage against Dark.
   types:
     - Hit All
-    - Blind
+    - Blind All
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

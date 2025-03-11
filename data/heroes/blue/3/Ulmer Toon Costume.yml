@@ -1,5 +1,6 @@
 name: Ulmer Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Slow
@@ -15,7 +16,7 @@ effects:
   - Deals extra damage against Fire.
 types:
   - Hit All
-  - Defense Debuff
+  - Defense Debuff All
 passives:
   - >-
     Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

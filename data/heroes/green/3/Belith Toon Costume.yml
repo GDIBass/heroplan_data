@@ -1,5 +1,6 @@
 name: Belith Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Average
@@ -15,8 +16,8 @@ effects:
   - Dispels buffs from all enemies.
 types:
   - Healer
-  - Defense buff
-  - Dispeller
+  - Defense buff All
+  - Dispeller All
 passives:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
 image: https://i.imgur.com/d6OTmVG.jpg

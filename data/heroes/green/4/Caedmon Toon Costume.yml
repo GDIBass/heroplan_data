@@ -1,5 +1,6 @@
 name: Caedmon Toon Costume
 is_costume: true
+design: toon
 class: Druid
 source: season1
 family: classic

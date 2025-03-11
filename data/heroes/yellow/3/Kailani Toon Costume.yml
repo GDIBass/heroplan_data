@@ -1,5 +1,6 @@
 name: Kailani Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Slow
@@ -14,7 +15,7 @@ effects:
   - All allies get 56% defense for 5 turns. For all Holy characters, this status effect is undispellable and lasts 2 turns longer.
 types:
   - Ally Damage Share
-  - Defense Buff
+  - Defense Buff All
 passives:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
 image: https://i.imgur.com/6HNw9i7.jpg

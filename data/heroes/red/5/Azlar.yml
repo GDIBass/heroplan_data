@@ -16,6 +16,7 @@ types:
   - Dot All
 image: https://i.imgur.com/wAibSFk.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 798
@@ -32,6 +33,7 @@ costume:
     - Dot 3
   image: https://i.imgur.com/TDGgAGz.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Fighter
   power: 861
@@ -47,6 +49,7 @@ costume2:
     - DoT
   image: https://i.imgur.com/6N4jIyy.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Barbarian
   power: 1112
@@ -66,6 +69,7 @@ costume3:
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/yS5bHHw.jpg
 costume4:
+  design: glass
   bonuses: 5/5/10/5
   class: Barbarian
   power: 1213

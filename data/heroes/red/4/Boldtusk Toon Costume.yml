@@ -1,5 +1,6 @@
 name: Boldtusk Toon Costume
 is_costume: true
+design: toon
 class: Fighter
 source: season1
 family: classic
@@ -11,13 +12,10 @@ health: 1323
 skill: Tooncry
 effects:
   - Recovers 33% health for all allies.
-  - >-
-    All allies get +40% attack for 4 turns. For all Fire characters, this 
-    status effect becomes undispellable and lasts 2 turns longer.
+  - All allies get +40% attack for 4 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer.
 types:
-  - Healer
-  - Attack Buff
+  - Healer All
+  - Attack Buff All
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions'
-  - and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
 image: https://i.imgur.com/ufJrKaD.jpg

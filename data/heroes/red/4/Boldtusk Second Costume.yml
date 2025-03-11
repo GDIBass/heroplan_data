@@ -1,5 +1,6 @@
 name: Boldtusk Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Average
@@ -10,13 +11,9 @@ defense: 830
 health: 1272
 skill: War Song
 effects:
-  - >-
-    All allies regenerate 288 boosted health over 4 turns. Boosted health can
-    exceed max HP.
-  - >-
-    All allies get +45% attack, and a further 20% increase every time they 
-    are hit during 4 turns.
+  - All allies regenerate 288 boosted health over 4 turns. Boosted health can exceed max HP.
+  - All allies get +45% attack, and a further 20% increase every time they are hit during 4 turns.
 types:
-  - Healer
-  - Attack Buff
+  - Healer All
+  - Attack Buff All
 image: https://i.imgur.com/T4p2FAB.jpg

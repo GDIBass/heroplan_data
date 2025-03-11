@@ -13,9 +13,10 @@ effects:
   - All enemies get -34% defense for 6 turns.
 types:
   - Hit All
-  - Defense Debuff
+  - Defense Debuff All
 image: https://i.imgur.com/8fr1xWV.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Monk
   power: 468
@@ -24,12 +25,14 @@ costume:
   health: 772
   skill: Whiteout
   effects:
-    - Deals 145% damage to all enemies
-    - All allies get +48% attack for 6 turns
+    - Deals 145% damage to all enemies.
+    - All allies get +48% attack for 6 turns.
   types:
     - Hit all
+    - Attack Buff All
   image: https://i.imgur.com/0GakWdj.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Wizard
   power: 507
@@ -43,7 +46,7 @@ costume2:
     - Deals extra damage against Fire.
   types:
     - Hit All
-    - Defense Debuff
+    - Defense Debuff All
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

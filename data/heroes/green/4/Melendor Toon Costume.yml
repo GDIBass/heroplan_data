@@ -1,5 +1,6 @@
 name: Melendor Toon Costume
 is_costume: true
+design: toon
 class: Druid
 source: season1
 family: classic
@@ -11,9 +12,7 @@ health: 1233
 skill: Toontastic Fog
 effects:
   - Recovers 45% health for all allies.
-  - >-
-    All allies get 34% defense for 3 turns. For all Nature characters, 
-    this status effect becomes undispellable and lasts 2 turns longer.
+  - All allies get 34% defense for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
   - Dispels buffs from all enemies.
 types:
   - Healer

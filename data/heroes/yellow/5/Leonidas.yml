@@ -18,6 +18,7 @@ types:
   - Self Heal
 image: https://i.imgur.com/SPyWzYD.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
   power: 792
@@ -33,6 +34,7 @@ costume:
     - Hit 3
   image: https://i.imgur.com/c7cvRg8.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Ranger
   power: 792
@@ -43,15 +45,14 @@ costume2:
   effects:
     - Deals 240% damage to all enemies.
     - Reduces the mana of all enemies by 10%.
-    - >-
-      All enemies get -34% defense for 3 turns. Against Dark characters, this
-      status effect becomes uncleansable lasts 2 turn longer.
+    - All enemies get -34% defense for 3 turns. Against Dark characters, this status effect becomes uncleansable lasts 2 turn longer.
   types:
     - Hit All
     - Mana Reduction
     - Defense Debuff
   image: https://i.imgur.com/6haP2Yz.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Monk
   power: 1102
@@ -73,6 +74,7 @@ costume3:
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/PKsAK4b.jpg
 costume4:
+  design: glass
   bonuses: 5/5/10/5
   class: Monk
   power: 1204

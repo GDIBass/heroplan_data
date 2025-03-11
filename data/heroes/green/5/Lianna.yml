@@ -14,6 +14,7 @@ types:
   - Hit 1
 image: https://i.imgur.com/uJj6MQb.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 795
@@ -29,6 +30,7 @@ costume:
     - Mana Generation Debuff
   image: https://i.imgur.com/ieaiSor.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Druid
   power: 858
@@ -44,6 +46,7 @@ costume2:
     - Silencer
   image: https://i.imgur.com/UwDUNi0.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Ranger
   power: 1107

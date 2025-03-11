@@ -1,5 +1,6 @@
 name: Azlar Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Slow

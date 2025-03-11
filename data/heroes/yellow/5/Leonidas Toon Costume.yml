@@ -1,5 +1,6 @@
 name: Leonidas Toon Costume
 is_costume: true
+design: toon
 class: Monk
 source: season1
 family: classic

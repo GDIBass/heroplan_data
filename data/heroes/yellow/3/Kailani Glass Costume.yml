@@ -1,5 +1,6 @@
 name: Kailani Glass Costume
 is_costume: true
+design: glass
 source: season1
 family: classic
 speed: Slow
@@ -15,7 +16,7 @@ effects:
   - All Holy allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
 types:
   - Ally Damage Share
-  - Defense Buff
+  - Defense Buff All
   - Holy allies Reflect
 passives:
   - >-

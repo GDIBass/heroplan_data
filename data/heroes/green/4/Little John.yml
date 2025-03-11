@@ -9,13 +9,14 @@ defense: 569
 health: 988
 skill: Massive Chop
 effects:
-  - Deals 185% damage to all enemies
-  - All enemies get -64% mana generation for 3 turns
+  - Deals 185% damage to all enemies.
+  - All enemies get -64% mana generation for 3 turns.
 types:
   - Hit All
-  - Mana Generation Debuff
+  - Mana Generation Debuff All
 image: https://i.imgur.com/nRRdXVw.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Ranger
   power: 676
@@ -25,16 +26,13 @@ costume:
   skill: Massive Cleave
   effects:
     - Deals 185% damage to all enemies
-    - >-
-      The caster and nearby allies have from +30% to +70% chance of dodging
-      special attacks that do damage.  The higher the damage from the special
-      is, the higher the chance to dodge it. Each dodge gives +24% mana to the 
-      target. The effect lasts for 4 turns.
+    - The caster and nearby allies have from +30% to +70% chance of dodging special attacks that do damage.  The higher the damage from the special is, the higher the chance to dodge it. Each dodge gives +24% mana to the target. The effect lasts for 4 turns.
   types:
     - Hit All
-    - Dodge Buff
+    - Dodge Buff 3
   image: https://i.imgur.com/OZPuj5P.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Druid
   power: 732
@@ -47,9 +45,10 @@ costume2:
     - All allies get +33% mana generation for 3 turns.
   types:
     - Hit all
-    - Mana Generation Buff
+    - Mana Generation Buff All
   image: https://i.imgur.com/pBSZGi6.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Barbarian
   power: 744

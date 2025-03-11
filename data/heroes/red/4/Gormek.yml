@@ -9,13 +9,14 @@ defense: 565
 health: 1430
 skill: Ramming Pulverizer
 effects:
-  - Deals 295% damage to the target and minor damage on nearby enemies
+  - Deals 295% damage to the target and minor damage on nearby enemies.
   - The target an nearby enemies get -34% defense for 6 turns.
 types:
   - Hit 3
-  - Defense Debuff
+  - Defense Debuff 3
 image: https://i.imgur.com/A5zsfun.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 680
@@ -24,14 +25,15 @@ costume:
   health: 1511
   skill: Pulverizing Abacus
   effects:
-    - Destroys all Minions from all enemies
-    - Deals 180% damage to all enemies
-    - All allies recover 80 HP for each destroyed Minion
+    - Destroys all Minions from all enemies.
+    - Deals 180% damage to all enemies.
+    - All allies recover 80 HP for each destroyed Minion.
   types:
-    - Minion Destroyer
+    - Minion Destroyer All
     - Hit all
   image: https://i.imgur.com/OxaIMH8.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Cleric
   power: 735
@@ -43,10 +45,11 @@ costume2:
     - Dispels buffs from all enemies
     - Deals 225% damage to all enemies
   types:
-    - Dispeller
-    - Hit all
+    - Dispeller All
+    - Hit All
   image: https://i.imgur.com/6XbZQ2N.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Barbarian
   power: 747
@@ -60,7 +63,7 @@ costume3:
     - Deals extra damage against Nature.
   types:
     - Hit 3
-    - Defense Debuff
+    - Defense Debuff 3
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

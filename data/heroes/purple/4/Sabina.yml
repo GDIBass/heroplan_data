@@ -16,6 +16,7 @@ types:
   - Dispeller
 image: https://i.imgur.com/G6mmZNN.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 674
@@ -29,10 +30,11 @@ costume:
     - Dispels buffs from all enemies
   types:
     - HOT All
-    - Buff immunity
-    - Dispeller
+    - Buff immunity All
+    - Dispeller All
   image: https://i.imgur.com/flsZEGB.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Monk
   power: 730
@@ -45,11 +47,12 @@ costume2:
     - All allies are immune to new status ailments for 3 turns.
     - Cleanses ailment from all allies.
   types:
-    - HoT
-    - Status Ailment Immunity
+    - HoT All
+    - Status Ailment Immunity All
     - Cleanser
   image: https://i.imgur.com/EBmu86N.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 742
@@ -63,7 +66,7 @@ costume3:
     - Dispels buffs from all enemies.
   types:
     - Heal All
-    - Defense Buff
+    - Defense Buff All
     - Dispeller
   passives:
     - >-

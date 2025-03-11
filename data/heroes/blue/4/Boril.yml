@@ -9,11 +9,12 @@ defense: 792
 health: 1151
 skill: Perfect Riposte
 effects:
-  - The caster and nearby allies counterattack with 125% of the damage received for 5 turns
+  - The caster and nearby allies counterattack with 125% of the damage received for 5 turns.
 types:
-  - Counterattack
+  - Counterattack 3
 image: https://i.imgur.com/jFkMrWZ.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 679
@@ -24,9 +25,10 @@ costume:
   effects:
     - All allies counterattack with 60% of the damage received for 4 turns.
   types:
-    - Counterattack
+    - Counterattack All
   image: https://i.imgur.com/p8PKYHQ.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Fighter
   power: 735
@@ -37,9 +39,10 @@ costume2:
   effects:
     - All allies counterattacks with 80% of the damage received for 4 turns. The counterattack damage increases by 20% each turn up to 140%.
   types:
-    - Counterattack
+    - Counterattack All
   image: https://i.imgur.com/9wlyamA.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Cleric
   power: 747
@@ -50,7 +53,7 @@ costume3:
   effects:
     - The caster and nearby allies counterattack with 120% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
   types:
-    - Counterattack
+    - Counterattack 3
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

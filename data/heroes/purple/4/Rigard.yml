@@ -16,6 +16,7 @@ types:
   - Cleanser
 image: https://i.imgur.com/epzxGwy.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Ranger
   power: 681
@@ -28,11 +29,12 @@ costume:
     - All allies get +48% attack for 3 turns
     - Cleanses status ailments from all allies
   types:
-    - HoT
-    - Attack Buff
+    - HoT All
+    - Attack Buff All
     - Cleanser
   image: https://i.imgur.com/9nzkBMP.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Monk
   power: 736
@@ -46,10 +48,11 @@ costume2:
     - Cleanses status ailments from all allies.    
   types:
     - Boost Health All
-    - Defense Buff
+    - Defense Buff All
     - Cleanser
   image: https://i.imgur.com/0dWPfN4.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Cleric
   power: 749
@@ -63,7 +66,7 @@ costume3:
     - Cleanses status ailments from all allies.
   types:
     - Heal All
-    - Defense Buff
+    - Defense Buff All
     - Cleanser
   passives:
     - >-

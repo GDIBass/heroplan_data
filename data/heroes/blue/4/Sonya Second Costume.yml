@@ -1,5 +1,6 @@
 name: Sonya Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Fast
@@ -14,5 +15,5 @@ effects:
   - All enemies are immune to new status effect buffs for 2 turns.
 types:
   - Hit 1
-  - Buff imunity to all
+  - Buff Imunity All
 image: https://i.imgur.com/9fhb23h.jpg

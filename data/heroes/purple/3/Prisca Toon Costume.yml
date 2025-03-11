@@ -1,5 +1,6 @@
 name: Prisca Toon Costume
 is_costume: true
+design: toon
 class: Paladin
 source: season1
 family: classic

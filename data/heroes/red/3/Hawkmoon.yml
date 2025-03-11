@@ -9,11 +9,12 @@ defense: 446
 health: 637
 skill: Wind Prayer
 effects:
-  - Recover 32% health for all allies
+  - Recover 32% health for all allies.
 types:
-  - Healer
+  - Healer All
 image: https://i.imgur.com/6ZyfSsX.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 468
@@ -22,13 +23,14 @@ costume:
   health: 707
   skill: Wind Gospel
   effects:
-    - All allies regenerate 459 HP over 3 turns
-    - All allies get +30% attack for 3 turns
+    - All allies regenerate 459 HP over 3 turns.
+    - All allies get +30% attack for 3 turns.
   types:
-    - HOT
-    - Attack Buff
+    - HoT All
+    - Attack Buff All
   image: https://i.imgur.com/FY7tylo.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Cleric
   power: 488
@@ -40,8 +42,8 @@ costume2:
     - Recovers 35% health for all allies.
     - All allies get +34% defense for 3 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer.
   types:
-    - Healer
-    - Defense Buff
+    - Healer All
+    - Defense Buff All
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

@@ -13,9 +13,10 @@ effects:
   - All enemies get -34% attack for 6 turns
 types:
   - Hit All
-  - Attack Debuff
+  - Attack Debuff All
 image: https://i.imgur.com/6787feX.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Ranger
   power: 794
@@ -28,9 +29,10 @@ costume:
     - All enemies get -54% attack for 6 turns
   types:
     - Hit All
-    - Attack Debuff
+    - Attack Debuff All
   image: https://i.imgur.com/AffGFoZ.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Wizard
   power: 910
@@ -45,11 +47,12 @@ costume2:
     - All enemies receive 228 Poison damage over 4 turns.
   types:
     - Hit All
-    - Attack Debuff
-    - Defense Debuff
-    - Dot 4
+    - Attack Debuff All
+    - Defense Debuff All
+    - Dot All
   image: https://i.imgur.com/IfQ1lHo.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Druid
   power: 1111

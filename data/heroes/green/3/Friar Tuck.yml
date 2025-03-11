@@ -9,13 +9,14 @@ defense: 450
 health: 681
 skill: Have Faith
 effects:
-  - Recovers 37% health for the caster and nearby allies
-  - The caster and nearby allies get +24% mana generation for 3 turns
+  - Recovers 37% health for the caster and nearby allies.
+  - The caster and nearby allies get +24% mana generation for 3 turns.
 types:
   - Healer 3
-  - Mana Generation Buff
+  - Mana Generation Buff 3
 image: https://i.imgur.com/nprqffe.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
   power: 470
@@ -24,13 +25,14 @@ costume:
   health: 779
   skill: Gain Hope
   effects:
-    - Recovers 22% health for all allies
-    - All allies get +24% mana generation for 3 turns
+    - Recovers 22% health for all allies.
+    - All allies get +24% mana generation for 3 turns.
   types:
     - Healer
-    - Mana Generation Buff
+    - Mana Generation Buff 3
   image: https://i.imgur.com/ia9GSNJ.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Monk
   power: 509
@@ -43,7 +45,7 @@ costume2:
     - The caster and nearby allies get +12% mana generation for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
   types:
     - Healer 3
-    - Mana Generation Buff
+    - Mana Generation Buff 3
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

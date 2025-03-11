@@ -1,5 +1,6 @@
 name: Sabina Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Average
@@ -14,7 +15,7 @@ effects:
   - All allies are immune to new status ailments for 3 turns.
   - Cleanses ailment from all allies.
 types:
-  - HoT
-  - Status Ailment Immunity
+  - HoT All
+  - Status Ailment Immunity All
   - Cleanser
 image: https://i.imgur.com/EBmu86N.jpg

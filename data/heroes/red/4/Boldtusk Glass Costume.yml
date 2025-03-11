@@ -1,5 +1,6 @@
 name: Boldtusk Glass Costume
 is_costume: true
+design: glass
 source: season1
 family: classic
 speed: Average
@@ -14,8 +15,9 @@ effects:
   - All allies get +45% attack for 4 turns.
   - All Fire allies reflect status ailments and negative stacks for 2 turns. (Status effects cast by characters, Minions, and Fiends on the same side cannot be reflected.)
 types:
-  - Healer
+  - Healer All
   - Attack Buff
+  - Fire allies Reflect All
 passives:
   - >-
     Glass: 60% extra chance to reflect status ailments back to the attacker.

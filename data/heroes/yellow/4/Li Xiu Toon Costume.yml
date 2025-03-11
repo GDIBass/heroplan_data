@@ -1,5 +1,7 @@
 name: Li Xiu Toon Costume
 is_costume: true
+design: toon
+design: toon
 class: Monk
 source: season1
 family: classic
@@ -15,7 +17,7 @@ effects:
   - Deals extra damage against Dark.
 types:
   - Hit All
-  - Mana Reduction
+  - Mana Reduction All
 passives:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
 image: https://i.imgur.com/9y6lz7h.jpg

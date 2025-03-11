@@ -1,5 +1,6 @@
 name: Skittleskull Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Slow
@@ -14,5 +15,5 @@ effects:
   - All enemies get -34% defense for 6 turns.
 types:
   - Hit All
-  - Defense Debuff
+  - Defense Debuff All
 image: https://i.imgur.com/EIvqBU6.jpg

@@ -9,13 +9,14 @@ defense: 398
 health: 700
 skill: Leeching Stars
 effects:
-  - Deals 215% damage to the target
-  - Heals the caster for 50% of damage dealt
+  - Deals 215% damage to the target.
+  - Heals the caster for 50% of damage dealt.
 types:
   - Hit 1
   - Heal Self
 image: https://i.imgur.com/6HwABCg.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 468
@@ -24,13 +25,14 @@ costume:
   health: 904
   skill: Leeching Saw
   effects:
-    - Deals 195% damage to the target
+    - Deals 195% damage to the target.
     - The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.  This effect can't be cleansed, but it gets removed if the caster dies.
   types:
     - Hit 1
-    - Mana Steal
+    - Mana Steal 3
   image: https://i.imgur.com/7QkxYAf.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Fighter
   power: 507

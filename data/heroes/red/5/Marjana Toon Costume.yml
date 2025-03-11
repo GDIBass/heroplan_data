@@ -1,5 +1,6 @@
 name: Marjana Toon Costume
 is_costume: true
+design: toon
 class: Rogue
 source: season1
 family: classic

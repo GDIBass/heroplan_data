@@ -29,7 +29,7 @@ costume:
     - Reduces the mana of all enemies by 10%
   types:
     - Hit All
-    - Mana Reduction
+    - Mana Reduction All
   image: https://i.imgur.com/6LRP9pF.jpg
 costume2:
   design: costume2
@@ -45,7 +45,7 @@ costume2:
     - The target and nearby enemies get silenced for 3 turns.
   types:
     - Hit 3
-    - Silencer
+    - Silencer 3
   image: https://i.imgur.com/kSRi1Vn.jpg
 costume3:
   design: toon
@@ -62,7 +62,7 @@ costume3:
     - Deals extra damage against Dark.
   types:
     - Hit All
-    - Mana Reduction
+    - Mana Reduction All
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/9y6lz7h.jpg
@@ -82,7 +82,7 @@ costume4:
   types:
     - Hit All
     - Bypass
-    - Mana Reduction
+    - Mana Reduction All
   passives:
     - >-
       Glass: 60% extra chance to reflect status ailments back to the attacker.

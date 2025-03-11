@@ -1,5 +1,6 @@
 name: Jahangir Toon Costume
 is_costume: true
+design: toon
 class: Sorcerer
 source: season1
 family: classic

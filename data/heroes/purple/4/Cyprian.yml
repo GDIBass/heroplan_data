@@ -9,13 +9,12 @@ defense: 605
 health: 1362
 skill: Perfect Riposte
 effects:
-  - >-
-    The caster and nearby allies counterattack with 125% of the damage received
-    for 5 turns
+  - The caster and nearby allies counterattack with 125% of the damage received for 5 turns
 types:
-  - Counterattack
+  - Counterattack 3
 image: https://i.imgur.com/wpGUug5.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 679
@@ -24,11 +23,12 @@ costume:
   health: 1460
   skill: Deadly Riposte
   effects:
-    - All allies counterattack with 60% of the damage received for 4 turns
+    - All allies counterattack with 60% of the damage received for 4 turns.
   types:
-    - Counterattack
+    - Counterattack All
   image: https://i.imgur.com/sJK7XXq.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Druid
   power: 735
@@ -37,19 +37,15 @@ costume2:
   health: 1534
   skill: Precise Riposte
   effects:
-    - >-
-      The caster and nearby allies counterattack with 80% of the damage received
-      for 4 turns.
-    - >-
-      The caster and nearby allies regenerate a moderate amount of mana for each
-      counterattack for 4 turns. The effect gets diminished for consecutive 
-      activations during the same turn.
-    - The caster and nearby allies reduce all received damage by -35% for 4 turns
+    - The caster and nearby allies counterattack with 80% of the damage received for 4 turns.
+    - The caster and nearby allies regenerate a moderate amount of mana for each counterattack for 4 turns. The effect gets diminished for consecutive activations during the same turn.
+    - The caster and nearby allies reduce all received damage by -35% for 4 turns.
   types:
-    - Counterattack
-    - Damage Reduction
+    - Counterattack 3
+    - Damage Reduction 3
   image: https://i.imgur.com/oDvjeQX.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Paladin
   power: 747
@@ -60,7 +56,7 @@ costume3:
   effects:
     - The caster and nearby allies counterattack with 125% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
   types:
-    - Counterattack
+    - Counterattack 3
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/NlALPlg.jpg

@@ -16,6 +16,7 @@ types:
   - Counterattack
 image: https://i.imgur.com/DJkMDg0.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 794
@@ -31,6 +32,7 @@ costume:
     - Counterattack
   image: https://i.imgur.com/rs8S0na.jpg 
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Paladin
   power: 857
@@ -46,6 +48,7 @@ costume2:
     - Counterattack
   image: https://i.imgur.com/mKIsd5g.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Fighter
   power: 1107

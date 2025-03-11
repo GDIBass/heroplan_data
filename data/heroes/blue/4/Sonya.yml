@@ -9,13 +9,14 @@ defense: 731
 health: 1011
 skill: Piercing Strike
 effects:
-  - Deals 345% damage to the target
-  - Dispels buffs from all enemies
+  - Deals 345% damage to the target.
+  - Dispels buffs from all enemies.
 types:
   - Hit 1
-  - Dispeller
+  - Dispeller All
 image: https://i.imgur.com/zE5VVll.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
   power: 678
@@ -24,13 +25,14 @@ costume:
   health: 1103
   skill: Purifying Strike
   effects:
-    - Deals 345% damage to the target
-    - Cleanses status ailments from all allies
+    - Deals 345% damage to the target.
+    - Cleanses status ailments from all allies.
   types:
     - Hit 1
-    - Cleanser
+    - Cleanser All
   image: https://i.imgur.com/R1MhQgF.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Rogue
   power: 734
@@ -43,9 +45,10 @@ costume2:
     - All enemies are immune to new status effect buffs for 2 turns.
   types:
     - Hit 1
-    - Buff imunity to all
+    - Buff Imunity All
   image: https://i.imgur.com/9fhb23h.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Paladin
   power: 746
@@ -59,7 +62,7 @@ costume3:
     - Dispels buffs from the target.
   types:
     - Hit 1
-    - Dispeller
+    - Dispeller 1
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

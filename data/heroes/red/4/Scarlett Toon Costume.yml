@@ -1,5 +1,6 @@
 name: Scarlett Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Fast
@@ -15,7 +16,7 @@ effects:
   - Deals extra damage against Nature.
 types:
   - Hit 3
-  - Attack Debuff
+  - Attack Debuff 3
 passives:
   - >-
     Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

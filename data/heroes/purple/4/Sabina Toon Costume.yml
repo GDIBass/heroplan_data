@@ -1,5 +1,6 @@
 name: Sabina Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Average
@@ -15,7 +16,7 @@ effects:
   - Dispels buffs from all enemies.
 types:
   - Heal All
-  - Defense Buff
+  - Defense Buff All
   - Dispeller
 passives:
   - >-

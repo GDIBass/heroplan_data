@@ -16,6 +16,7 @@ types:
   - Attack Debuff 3
 image: https://i.imgur.com/G5NAe4a.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
   power: 795
@@ -31,6 +32,7 @@ costume:
     - Attack Debuff 3
   image: https://i.imgur.com/WKQthMP.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Fighter
   power: 990
@@ -46,6 +48,7 @@ costume2:
     - Attack Debuff 3
   image: https://i.imgur.com/7TMtgd4.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Paladin
   power: 1108
@@ -65,6 +68,7 @@ costume3:
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/2rEfoQ7.jpg
 costume4:
+  design: glass
   bonuses: 5/5/10/5
   class: Paladin
   power: 1207

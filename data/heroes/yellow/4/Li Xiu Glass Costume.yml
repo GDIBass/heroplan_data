@@ -1,5 +1,7 @@
 name: Li Xiu Glass Costume
 is_costume: true
+design: glass
+design: glass
 source: season1
 family: classic
 speed: Average
@@ -16,7 +18,7 @@ effects:
 types:
   - Hit All
   - Bypass
-  - Mana Reduction
+  - Mana Reduction All
 passives:
   - >-
     Glass: 60% extra chance to reflect status ailments back to the attacker.

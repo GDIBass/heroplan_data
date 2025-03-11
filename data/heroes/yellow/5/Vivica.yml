@@ -18,6 +18,7 @@ types:
   - Cleanser
 image: https://i.imgur.com/aHsNbej.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 796
@@ -35,6 +36,7 @@ costume:
     - Dispeller
   image: https://i.imgur.com/pm7wcbP.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Fighter
   power: 859
@@ -52,6 +54,7 @@ costume2:
     - Dispeller
   image: https://i.imgur.com/J8lGs8A.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Cleric
   power: 1110
@@ -72,6 +75,7 @@ costume3:
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/zJxvLuN.jpg
 costume4:
+  design: glass
   bonuses: 5/5/10/5
   class: Cleric
   power: 1210

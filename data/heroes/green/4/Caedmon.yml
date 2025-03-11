@@ -9,13 +9,14 @@ defense: 637
 health: 1128
 skill: Piercing Strike
 effects:
-  - Deals 345% damage to the target
-  - Dispels buffs from all enemies
+  - Deals 345% damage to the target.
+  - Dispels buffs from all enemies.
 types:
   - Hit 1
   - Dispeller
 image: https://i.imgur.com/jv6lywZ.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 678
@@ -24,13 +25,14 @@ costume:
   health: 1236
   skill: Cleansing Strike
   effects:
-    - Deals 345% damage to the target
-    - Cleanses status ailments from all allies
+    - Deals 345% damage to the target.
+    - Cleanses status ailments from all allies.
   types:
     - Hit 1
-    - Cleanser
+    - Cleanser All
   image: https://i.imgur.com/zrZ4p5y.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Paladin
   power: 734
@@ -39,14 +41,15 @@ costume2:
   health: 1340
   skill: Valorant Strike
   effects:
-    - Deals 275% damage to the target and nearby enemies
+    - Deals 275% damage to the target and nearby enemies.
     - The target and nearby enemies are immune to new status effect buffs for 3 turns.
-    - Dispels buffs from the target and nearby enemies
+    - Dispels buffs from the target and nearby enemies.
   types:
     - Hit 3
-    - Dispels Buffs
+    - Dispels Buffs 3
   image: https://i.imgur.com/0FiXuyI.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Druid
   power: 746
@@ -65,6 +68,7 @@ costume3:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/DR6bDUS.jpg
 costume4:
+  design: glass
   bonuses: 5/5/10/5
   class: Druid
   power: 759

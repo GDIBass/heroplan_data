@@ -1,5 +1,6 @@
 name: Justice Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Slow
@@ -12,9 +13,7 @@ skill: Ritual of Judgement
 effects:
   - Deals 300% damage to all enemies.
   - The damage is increased by 45% per each dead enemy.
-  - >-
-    All enemies get -40% accuracy for 3 turns. Chance to miss also applies to
-    offensive Special Skills
+  - All enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills
 types:
   - Hit All
 image: https://i.imgur.com/feWdynO.jpg

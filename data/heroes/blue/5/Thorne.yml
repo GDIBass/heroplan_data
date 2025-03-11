@@ -14,6 +14,7 @@ types:
   - Hit 3
 image: https://i.imgur.com/9CT7f6V.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 798
@@ -26,8 +27,10 @@ costume:
     - The caster gets +24% mana generation for 3 turns. This effect can't be dispelled.
   types:
     - Hit 1
+    - Self Mana Gen Buff
   image: https://i.imgur.com/YX5GVdv.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Barbarian
   power: 916
@@ -42,8 +45,10 @@ costume2:
   types:
     - Hit 3
     - Mana reducer
+    - Self MoT
   image: https://i.imgur.com/IEUFL8t.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Paladin
   power: 1112

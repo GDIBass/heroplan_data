@@ -1,5 +1,6 @@
 name: Kiril Toon Costume
 is_costume: true
+design: toon
 class: Wizard
 source: season1
 family: classic

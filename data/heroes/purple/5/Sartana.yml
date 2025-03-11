@@ -16,6 +16,7 @@ types:
   - Dot 1
 image: https://i.imgur.com/YBEHGb0.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 798
@@ -29,6 +30,7 @@ costume:
     - Hit 1
   image: https://i.imgur.com/gwzMUaT.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Rogue
   power: 862
@@ -46,6 +48,7 @@ costume2:
     - Minion Blocking
   image: https://i.imgur.com/I8cTetD.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Wizard
   power: 1115
@@ -65,6 +68,7 @@ costume3:
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/V3r9sPS.jpg
 costume4:
+  design: glass
   bonuses: 5/5/10/5
   class: Wizard
   power: 1214

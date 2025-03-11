@@ -9,13 +9,14 @@ defense: 411
 health: 679
 skill: Chilling Slash
 effects:
-  - Deals 300% damage to the target
-  - The target gets -34% defense for 6 turns
+  - Deals 300% damage to the target.
+  - The target gets -34% defense for 6 turns.
 types:
   - Hit 1
-  - Defense Debuff
+  - Defense Debuff 1
 image: https://i.imgur.com/8iWG7cB.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 465
@@ -28,8 +29,10 @@ costume:
     - The caster getts +54% attack for 6 turns.
   types:
     - Hit 1
+    - Attack Buff Self
   image: https://i.imgur.com/V2ztXVp.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Fighter
   power: 503
@@ -43,7 +46,7 @@ costume2:
     - Deals extra damage against Fire.
   types:
     - Hit 1
-    - Defense Debuff
+    - Defense Debuff 1
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/ARB96xu.jpg
