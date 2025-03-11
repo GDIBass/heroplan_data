@@ -17,6 +17,7 @@ types:
   - Dispeller
 image: https://i.imgur.com/t244Fcr.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Ranger
   power: 797
@@ -34,6 +35,7 @@ costume:
     - Cleanser
   image: https://i.imgur.com/mpRxFeU.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Barbarian
   power: 860
@@ -50,6 +52,7 @@ costume2:
     - Defense Down
   image: https://i.imgur.com/36NtLB6.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Rogue
   power: 1111

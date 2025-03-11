@@ -16,6 +16,7 @@ types:
   - Blind
 image: https://i.imgur.com/d5mevmf.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 793
@@ -31,6 +32,7 @@ costume:
     - Blind
   image: https://i.imgur.com/YXbYHIl.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Barbarian
   power: 855
@@ -48,6 +50,7 @@ costume2:
     - Blind
   image: https://i.imgur.com/rJxyTcK.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Monk
   power: 1105

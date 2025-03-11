@@ -1,8 +1,8 @@
 name: Kiril
-class: Wizard
 source: season1
 family: classic
 speed: Average
+class: Wizard
 power: 647
 attack: 656
 defense: 673
@@ -18,6 +18,7 @@ types:
   - Defense Buff
 image: https://i.imgur.com/OnjIJvT.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 682
@@ -35,6 +36,7 @@ costume:
     - Defense Debuff
   image: https://i.imgur.com/BwPG5qR.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Barbarian
   power: 739
@@ -52,6 +54,7 @@ costume2:
     - Defense Buff
   image: https://i.imgur.com/s7WIRC3.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Wizard
   power: 751
@@ -70,3 +73,26 @@ costume3:
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/PWTfo2c.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 763
+  attack: 758
+  defense: 813
+  health: 1328
+  skill: Glass Brew
+  effects:
+    - Recovers 32% health for all allies.
+    - All allies get +28% attack for 3 turns.
+    - All allies get +28% defense for 3 turns.
+    - All Ice allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  types:
+    - Healer All
+    - Attack Buff All
+    - Defense Buff All
+    - Ice allies Reflect
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/gArugbH.jpg

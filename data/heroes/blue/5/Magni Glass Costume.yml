@@ -1,0 +1,24 @@
+name: Magni Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Fast
+class: Fighter
+power: 1208
+attack: 1312
+defense: 1050
+health: 2357
+skill: Glass Strike
+effects:
+  - Deals 510% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The caster and nearby allies get +60% defense for 4 turns.
+types:
+  - Hit 1
+  - Bypass
+  - Defense Buff 3
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/EJome7K.jpg

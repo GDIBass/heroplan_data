@@ -16,6 +16,7 @@ types:
   - Special Skill Defense Buff
 image: https://i.imgur.com/Gjh3PRB.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 797
@@ -32,6 +33,7 @@ costume:
     - Minion Dodge Buff
   image: https://i.imgur.com/N7LZ2EP.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Cleric
   power: 914
@@ -48,6 +50,7 @@ costume2:
     - Minion Dodge Buff  
   image: https://i.imgur.com/hEckaC5.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Druid
   power: 1110

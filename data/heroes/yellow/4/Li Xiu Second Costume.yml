@@ -1,5 +1,6 @@
 name: Li Xiu Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Average
@@ -14,5 +15,5 @@ effects:
   - The target and nearby enemies get silenced for 3 turns.
 types:
   - Hit 3
-  - Silencer
+  - Silencer 3
 image: https://i.imgur.com/kSRi1Vn.jpg

@@ -16,6 +16,7 @@ types:
   - Defense Debuff 3
 image: https://i.imgur.com/Mx4BDfE.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 678
@@ -31,6 +32,7 @@ costume:
     - Attack Buff 3
   image: https://i.imgur.com/Z9LP9Ei.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Ranger
   power: 733
@@ -45,6 +47,7 @@ costume2:
     - Hit 3
   image: https://i.imgur.com/cDO5QOd.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Barbarian
   power: 746
@@ -64,6 +67,7 @@ costume3:
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/3MLw0k0.jpg
 costume4:
+  design: glass
   bonuses: 5/5/10/5
   class: Barbarian
   power: 758

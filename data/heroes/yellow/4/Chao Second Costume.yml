@@ -1,5 +1,6 @@
 name: Chao Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Fast
@@ -14,5 +15,5 @@ effects:
   - The target and nearby enemies get -24% mana generation for 3 turns.
 types:
   - Hit 3
-  - Mana generation debuff
+  - Mana generation debuff 3
 image: https://i.imgur.com/AhEe43s.jpg

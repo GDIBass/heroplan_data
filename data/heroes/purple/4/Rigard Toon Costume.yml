@@ -1,5 +1,6 @@
 name: Rigard Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Average
@@ -15,7 +16,7 @@ effects:
   - Cleanses status ailments from all allies.
 types:
   - Heal All
-  - Defense Buff
+  - Defense Buff All
   - Cleanser
 passives:
   - >-

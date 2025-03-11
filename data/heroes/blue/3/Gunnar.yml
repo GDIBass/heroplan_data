@@ -13,9 +13,10 @@ effects:
   - All allies get +63% defense for 5 turns
 types:
   - Ally Damage Share
-  - Defense Buff
+  - Defense Buff All
 image: https://i.imgur.com/ra4Iv0M.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
   power: 464
@@ -28,9 +29,10 @@ costume:
     - All enemies get -44% defense for 5 turns.
   types:
     - Enemy Damage Share
-    - Defense Debuff
+    - Defense Debuff All
   image: https://i.imgur.com/MxDScRN.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Paladin
   power: 503
@@ -43,7 +45,7 @@ costume2:
     - All allies get +51% defense for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
   types:
     - Ally Damage Share
-    - Defense Buff
+    - Defense Buff All
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

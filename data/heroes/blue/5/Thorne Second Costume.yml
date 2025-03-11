@@ -1,5 +1,6 @@
 name: Thorne Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Average
@@ -16,4 +17,5 @@ effects:
 types:
   - Hit 3
   - Mana reducer
+  - Self MoT
 image: https://i.imgur.com/IEUFL8t.jpg

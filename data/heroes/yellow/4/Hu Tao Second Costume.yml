@@ -1,5 +1,6 @@
 name: Hu Tao Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Slow
@@ -11,12 +12,10 @@ health: 1360
 skill: Acoustic Surge
 effects:
   - Deals 200% damage to all enemies.
-  - >-
-    All enemies get -30% accuracy for 4 turns. Chance to miss also applies to 
-    offensive Special Skills.
+  - All enemies get -30% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
   - All enemies get -24% mana generation for 4 turns.
 types:
   - Hit all
-  - Blind
-  - Mana gen debuff
+  - Blind All
+  - Mana gen debuff All
 image: https://i.imgur.com/3xo1OZT.jpg

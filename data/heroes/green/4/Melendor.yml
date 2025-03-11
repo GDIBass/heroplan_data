@@ -1,8 +1,8 @@
 name: Melendor
-class: Druid
 source: season1
 family: classic
 speed: Average
+class: Druid
 power: 638
 attack: 714
 defense: 586
@@ -16,6 +16,7 @@ types:
   - Dispeller
 image: https://i.imgur.com/3rwM4W7.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 673
@@ -33,6 +34,7 @@ costume:
     - Dispeller
   image: https://i.imgur.com/5gxdGVM.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 729
@@ -50,6 +52,7 @@ costume2:
     - Dispeller
   image: https://i.imgur.com/XVqcInX.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Druid
   power: 741
@@ -59,9 +62,7 @@ costume3:
   skill: Toontastic Fog
   effects:
     - Recovers 45% health for all allies.
-    - >-
-      All allies get 34% defense for 3 turns. For all Nature characters, 
-      this status effect becomes undispellable and lasts 2 turns longer.
+    - All allies get 34% defense for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
     - Dispels buffs from all enemies.
   types:
     - Healer
@@ -70,3 +71,24 @@ costume3:
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/3swBEW4.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 753
+  attack: 811
+  defense: 742
+  health: 1264
+  skill: Fog of the Vitrails
+  effects:
+    - Recovers 46% health for all allies.
+    - All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+    - Dispels buffs from all enemies.
+  types:
+    - Healer
+    - Nature allies Reflect
+    - Dispeller
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/5Bt1nJk.jpg

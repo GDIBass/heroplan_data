@@ -9,13 +9,14 @@ defense: 655
 health: 1200
 skill: Glacial Shatter
 effects:
-  - Deals 235% damage to all enemies
-  - All enemies get -44% defense for 6 turns
+  - Deals 235% damage to all enemies.
+  - All enemies get -44% defense for 6 turns.
 types:
   - Hit All
-  - Defense Debuff
+  - Defense Debuff All
 image: https://i.imgur.com/IqOKah3.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 794
@@ -24,14 +25,15 @@ costume:
   health: 1293
   skill: Glacial Explosion
   effects:
-    - Deals 255% damage to all enemies
-    - All enemies get -34% defense for 6 turns
+    - Deals 255% damage to all enemies.
+    - All enemies get -34% defense for 6 turns.
   types:
     - Hit All
-    - Defense Debuff
+    - Defense Debuff All
   family: classic
   image: https://i.imgur.com/j8POeJ4.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Cleric
   power: 857
@@ -40,14 +42,15 @@ costume2:
   health: 1432
   skill: Glacial Vortex
   effects:
-    - Deals 270% damage to all enemies
-    - All enemies get -34% attack for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer
-    - Deals extra damage against Fire
+    - Deals 270% damage to all enemies.
+    - All enemies get -34% attack for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.
+    - Deals extra damage against Fire.
   types:
     - Hit All
-    - Attack Debuff
+    - Attack Debuff All
   image: https://i.imgur.com/wccczud.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Wizard
   power: 1105

@@ -1,5 +1,6 @@
 name: Grimm Glass Costume
 is_costume: true
+design: glass
 source: season1
 family: classic
 speed: Average

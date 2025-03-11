@@ -16,6 +16,7 @@ types:
   - Dot 1
 image: https://i.imgur.com/DrsAnEe.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 466
@@ -25,12 +26,13 @@ costume:
   skill: Searing Strike
   effects:
     - Deals 260% damage to the target.
-    - The target receives 129 Burn damage over 3 turns
+    - The target receives 129 Burn damage over 3 turns.
   types:
     - Hit 1
     - DoT 1
   image: https://i.imgur.com/DZd6oKm.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Barbarian
   power: 505

@@ -10,7 +10,7 @@ health: 1987
 skill: Revitalizing Sludge
 effects:
   - Boosts health of all allies by 1000. Boosted health can exceed max HP.
-  - All allies get Sticky surface for 4 turns.
+  - All allies get Sticky surface for 4 turns. This effect can`t be dispelled.
   - 'Sticky surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Each hero with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)'
   - All allies get +25% defense for 4 turns.
   - All allies are immune to buff dispels and relocations for 4 turns. (This immunity also includes this effect itself.)
@@ -21,7 +21,7 @@ types:
   - Buff dispell immunity
 passives:
   - >-
-    Slime Minion Upon Defeat: When the hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the defeated hero.
+    Slime Minion upon Defeat: When the character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
   - >-
-    Slime Minion Split: If hero loses more than 25% of max health at once-> Summon a Slime Mega Minion on itself with 50% HP and 40% attack.
+    Slime Minion Split: If character loses more than 25% of max health at once they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
 image: https://i.imgur.com/RTB91u9.jpg

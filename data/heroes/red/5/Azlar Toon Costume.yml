@@ -1,5 +1,6 @@
 name: Azlar Toon Costume
 is_costume: true
+design: toon
 class: Barbarian
 source: season1
 family: classic

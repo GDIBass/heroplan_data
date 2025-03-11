@@ -1,5 +1,6 @@
 name: Elkanen Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Fast
@@ -11,9 +12,7 @@ health: 1514
 skill: Lunar Spear
 effects:
   - Deals 230% damage to all enemies
-  - >-
-    All enemies get -50% decrease for any healing received for 3 turns. This
-    effect can't be cleansed.
+  - All enemies get -50% decrease for any healing received for 3 turns. This effect can't be cleansed.
 types:
   - Hit All
   - Healing Decrease

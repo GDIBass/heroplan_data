@@ -16,6 +16,7 @@ types:
   - Mana Reduction
 image: https://i.imgur.com/akseq6D.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
   power: 677
@@ -28,9 +29,10 @@ costume:
     - The caster steals generated mana of the target over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but it gets remoed if the caster dies.
   types:
     - Hit 1
-    - Mana steal
+    - Mana steal 1
   image: https://i.imgur.com/iiLBfC1.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Barbarian
   power: 733
@@ -43,9 +45,10 @@ costume2:
     - The target and nearby enemies get -24% mana generation for 3 turns.
   types:
     - Hit 3
-    - Mana generation debuff
+    - Mana generation debuff 3
   image: https://i.imgur.com/AhEe43s.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Ranger
   power: 745
@@ -59,7 +62,7 @@ costume3:
     - Deals extra damage against Dark.
   types:
     - Hit 1
-    - Mana Reduction
+    - Mana Reduction 1
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

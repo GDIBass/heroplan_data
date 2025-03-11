@@ -13,9 +13,10 @@ effects:
   - Reduces the mana of the target by 25%.
 types:
   - Hit 1
-  - Mana Reduction
+  - Mana Reduction 1
 image: https://i.imgur.com/Eor4cBc.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
   power: 468
@@ -28,9 +29,10 @@ costume:
     - Reduces the mana of the target by 40%.
   types:
     - Hit 1
-    - Mana Reduction
+    - Mana Reduction 1
   image: https://i.imgur.com/UfGiJQd.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Monk
   power: 507
@@ -44,12 +46,13 @@ costume2:
     - Deals extra damage against Dark.
   types:
     - Hit 1
-    - Mana Reduction
+    - Mana Reduction 1
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/IOY3xaA.jpg
 costume3:
+  design: glass
   bonuses: 5/5/10/5
   class: Monk
   power: 516
@@ -63,7 +66,8 @@ costume3:
     - Reduces the mana of the target by 23%.
   types:
     - Hit 1
-    - Mana Reduction
+    - Bypass
+    - Mana Reduction 1
   passives:
     - >-
       Glass: 60% extra chance to reflect status ailments back to the attacker.

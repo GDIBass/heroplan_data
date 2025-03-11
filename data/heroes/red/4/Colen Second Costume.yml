@@ -1,5 +1,6 @@
 name: Colen Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Slow
@@ -15,5 +16,5 @@ effects:
   - Deals extra damage against Nature.
 types:
   - Hit 3
-  - Elemental Defense Debuff
+  - Elemental Defense Debuff 3
 image: https://i.imgur.com/2DIxTGe.jpg

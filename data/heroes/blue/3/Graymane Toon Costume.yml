@@ -1,5 +1,6 @@
 name: Graymane Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Average

@@ -1,5 +1,6 @@
 name: Hawkmoon Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Average
@@ -13,8 +14,8 @@ effects:
   - Recovers 35% health for all allies.
   - All allies get +34% defense for 3 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer.
 types:
-  - Healer
-  - Defense Buff
+  - Healer All
+  - Defense Buff All
 passives:
   - >-
     Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

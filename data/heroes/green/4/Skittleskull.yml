@@ -13,9 +13,10 @@ effects:
   - All enemies get -34% attack for 6 turns
 types:
   - Hit All
-  - Attack Debuff
+  - Attack Debuff All
 image: https://i.imgur.com/6Oucdm4.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 678
@@ -28,9 +29,10 @@ costume:
     - All enemies get -39% attack for 6 turns
   types:
     - Hit All
-    - Attack Debuff
+    - Attack Debuff All
   image: https://i.imgur.com/9DvgVYg.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Wizard
   power: 735
@@ -43,9 +45,10 @@ costume2:
     - All enemies get -34% defense for 6 turns.
   types:
     - Hit All
-    - Defense Debuff
+    - Defense Debuff All
   image: https://i.imgur.com/EIvqBU6.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 746
@@ -59,7 +62,7 @@ costume3:
     - Deals extra damage against Ice.
   types:
     - Hit All
-    - Attack Debuff
+    - Attack Debuff All
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/DQzJaMV.jpg

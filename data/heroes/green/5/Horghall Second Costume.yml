@@ -1,5 +1,6 @@
 name: Horghall Second Costume
 is_costume: true
+design: costume2
 class: Wizard
 source: season1
 family: classic
@@ -16,7 +17,7 @@ effects:
   - All enemies receive 228 Poison damage over 4 turns.
 types:
   - Hit All
-  - Attack Debuff
-  - Defense Debuff
-  - Dot 4
+  - Attack Debuff All
+  - Defense Debuff All
+  - Dot All
 image: https://i.imgur.com/IfQ1lHo.jpg

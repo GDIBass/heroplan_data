@@ -14,6 +14,7 @@ types:
   - Hit All
 image: https://i.imgur.com/250UPh4.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Monk
   power: 798
@@ -29,6 +30,7 @@ costume:
     - Attack Debuff
   image: https://i.imgur.com/TBwlwOC.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Druid
   power: 915
@@ -44,6 +46,7 @@ costume2:
     - Mindless Attack
   image: https://i.imgur.com/BmY4xiU.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 1113

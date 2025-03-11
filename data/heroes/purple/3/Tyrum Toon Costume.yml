@@ -1,5 +1,6 @@
 name: Tyrum Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Fast
@@ -15,7 +16,7 @@ effects:
   - Dispels buffs from all enemies.
 types:
   - Hit 1
-  - Dispeller
+  - Dispeller All
 passives:
   - >-
     Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

@@ -1,5 +1,6 @@
 name: Little John Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Slow
@@ -14,5 +15,5 @@ effects:
   - All allies get +33% mana generation for 3 turns.
 types:
   - Hit all
-  - Mana Generation Buff
+  - Mana Generation Buff All
 image: https://i.imgur.com/pBSZGi6.jpg

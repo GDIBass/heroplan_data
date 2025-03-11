@@ -1,5 +1,6 @@
 name: Marjana Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Fast
@@ -11,13 +12,8 @@ health: 1635
 skill: Volcanic Blast
 effects:
   - Deals 300% damage to target and nearby enemies.
-  - >-
-    The target and nearby enemies get -34% defense for 3 turns. Against Ice 
-    characters, this status effect becomes uncleansable, and lasts 2 turns longer.
-  - >-
-    The target and nearby enemies receive 321 Burn damage over 3 turns. 
-    Against Ice characters, this status effect becomes uncleansable, and 
-    lasts 2 turns longer.
+  - The target and nearby enemies get -34% defense for 3 turns. Against Ice characters, this status effect becomes uncleansable, and lasts 2 turns longer.
+  - The target and nearby enemies receive 321 Burn damage over 3 turns. Against Ice characters, this status effect becomes uncleansable, and lasts 2 turns longer.
 types:
   - Hit 3
   - Defense Debuff

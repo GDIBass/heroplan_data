@@ -1,5 +1,6 @@
 name: Chao Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Fast
@@ -15,7 +16,7 @@ effects:
   - Deals extra damage against Dark.
 types:
   - Hit 1
-  - Mana Reduction
+  - Mana Reduction 1
 passives:
   - >-
     Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

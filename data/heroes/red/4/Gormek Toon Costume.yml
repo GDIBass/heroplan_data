@@ -1,5 +1,6 @@
 name: Gormek Toon Costume
 is_costume: true
+design: toon
 source: season1
 family: classic
 speed: Average
@@ -15,7 +16,7 @@ effects:
   - Deals extra damage against Nature.
 types:
   - Hit 3
-  - Defense Debuff
+  - Defense Debuff 3
 passives:
   - >-
     Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.

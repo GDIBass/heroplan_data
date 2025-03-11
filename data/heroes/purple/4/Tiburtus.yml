@@ -13,9 +13,10 @@ effects:
   - The target and nearby enemies get -34% defense for 6 turns.
 types:
   - Hit 3
-  - Defense Debuff
+  - Defense Debuff 3
 image: https://i.imgur.com/XQUgnc6.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 674
@@ -28,9 +29,10 @@ costume:
     - All enemies get -34% defense for 4 turns.
   types:
     - Hit all
-    - Defense Debuff
+    - Defense Debuff All
   image: https://i.imgur.com/IyFUCM0.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Cleric
   power: 729
@@ -43,9 +45,10 @@ costume2:
     - Reduces the max health of the target and nearby enemies by 600 over 4 turns. The effect is stronger against targets with boosted health. Max heath can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 150 per turn.
   types:
     - Hit 3
-    - Health Reduction
+    - Health Reduction 3
   image: https://i.imgur.com/Yc1tBJ1.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Ranger
   power: 742

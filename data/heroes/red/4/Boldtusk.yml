@@ -12,10 +12,11 @@ effects:
   - Recovers 27% health for all allies.
   - All allies get +48% attack for 4 turns.
 types:
-  - Healer
-  - Attack Buff
+  - Healer All
+  - Attack Buff All
 image: https://i.imgur.com/K7cfOtS.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Monk
   power: 680
@@ -27,10 +28,11 @@ costume:
     - Recovers 37% health for all allies.
     - All allies get +30% attack for 4 turns.
   types:
-    - Healer
-    - Attack Buff
+    - Healer All
+    - Attack Buff All
   image: https://i.imgur.com/ZFrdT4t.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Cleric
   power: 736
@@ -43,9 +45,10 @@ costume2:
     - All allies get +45% attack, and a further 20% increase every time they are hit during 4 turns.
   types:
     - Boosted HoT All
-    - Attack Buff
+    - Attack Buff All
   image: https://i.imgur.com/T4p2FAB.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Fighter
   power: 748
@@ -57,13 +60,14 @@ costume3:
     - Recovers 33% health for all allies.
     - All allies get +40% attack for 4 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer.
   types:
-    - Healer
-    - Attack Buff
+    - Healer All
+    - Attack Buff All
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/ufJrKaD.jpg
 costume4:
+  design: glass
   bonuses: 5/5/10/5
   class: Fighter
   power: 761
@@ -76,8 +80,9 @@ costume4:
     - All allies get +45% attack for 4 turns.
     - All Fire allies reflect status ailments and negative stacks for 2 turns. (Status effects cast by characters, Minions, and Fiends on the same side cannot be reflected.)
   types:
-    - Healer
-    - Attack Buff
+    - Healer All
+    - Attack Buff All
+    - Fire allies Reflect All
   passives:
     - >-
       Glass: 60% extra chance to reflect status ailments back to the attacker.

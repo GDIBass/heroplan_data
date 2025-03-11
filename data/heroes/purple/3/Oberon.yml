@@ -16,6 +16,7 @@ types:
   - DoT All
 image: https://i.imgur.com/FkvOQpS.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 469
@@ -29,6 +30,7 @@ costume:
     - Dot all
   image: https://i.imgur.com/4wjqw3M.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Fighter
   power: 508

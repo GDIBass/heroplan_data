@@ -1,5 +1,6 @@
 name: Kashhrek Second Costume
 is_costume: true
+design: costume2
 source: season1
 family: classic
 speed: Average
@@ -14,5 +15,5 @@ effects:
   - The caster and nearby allies get +54% defense against Special Skills for 3 turns.
 types:
   - Healer 3
-  - Special Skill Defense Buff
+  - Special Skill Defense Buff 3
 image: https://i.imgur.com/54DNXMH.jpg

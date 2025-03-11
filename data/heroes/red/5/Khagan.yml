@@ -18,6 +18,7 @@ types:
   - Defense Buff
 image: https://i.imgur.com/Qk5TZ17.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
   power: 798
@@ -33,6 +34,7 @@ costume:
     - Hit 1
   image: https://i.imgur.com/Wuav96d.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Druid
   power: 862
@@ -50,6 +52,7 @@ costume2:
     - Defense Buff
   image: https://i.imgur.com/Az13Jne.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Ranger
   power: 1115

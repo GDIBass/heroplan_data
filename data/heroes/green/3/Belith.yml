@@ -9,13 +9,14 @@ defense: 450
 health: 729
 skill: Calming Mist
 effects:
-  - Recovers 32% health for all allies
-  - Dispels buffs from all enemies
+  - Recovers 32% health for all allies.
+  - Dispels buffs from all enemies.
 types:
-  - Healer
-  - Dispeller
+  - Healer All
+  - Dispeller All
 image: https://i.imgur.com/aLWFiS9.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 465
@@ -24,13 +25,14 @@ costume:
   health: 848
   skill: Tranquil Mist
   effects:
-    - All allies regenerate 459 HP over 3 turns
-    - All allies are immune to buff dispells for 3 turns
+    - All allies regenerate 459 HP over 3 turns.
+    - All allies are immune to buff dispells for 3 turns.
   types:
-    - HOT
-    - Dispell Immunity
+    - HoT All
+    - Dispell Immunity All
   image: https://i.imgur.com/MHO518e.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Druid
   power: 804
@@ -43,9 +45,9 @@ costume2:
     - All allies get +34% defense for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
     - Dispels buffs from all enemies.
   types:
-    - Healer
-    - Defense buff
-    - Dispeller
+    - Healer All
+    - Defense buff All
+    - Dispeller All
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/d6OTmVG.jpg

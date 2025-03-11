@@ -13,9 +13,10 @@ effects:
   - All allies get +63% defense for 5 turns.
 types:
   - Ally Damage Share
-  - Defense Buff
+  - Defense Buff All
 image: https://i.imgur.com/h7fAkgX.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 467
@@ -27,9 +28,11 @@ costume:
     - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.
     - All allies get +50% attack for 5 turns
   types:
-    - Attack Buff
+    - Ally Damage Share
+    - Attack Buff All
   image: https://i.imgur.com/OOF8ysq.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Cleric
   power: 506
@@ -42,7 +45,28 @@ costume2:
     - All allies get 56% defense for 5 turns. For all Holy characters, this status effect is undispellable and lasts 2 turns longer.
   types:
     - Ally Damage Share
-    - Defense Buff
+    - Defense Buff All
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/6HNw9i7.jpg
+costume3:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 514
+  attack: 485
+  defense: 548
+  health: 902
+  skill: Glass Link
+  effects:
+    - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.
+    - All allies get +59% defense for 5 turns.
+    - All Holy allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  types:
+    - Ally Damage Share
+    - Defense Buff All
+    - Holy allies Reflect
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/jRBcqpn.jpg

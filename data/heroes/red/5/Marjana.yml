@@ -16,6 +16,7 @@ types:
   - Dot 1
 image: https://i.imgur.com/H8u69R9.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 795
@@ -33,6 +34,7 @@ costume:
     - Elemental Attack Debuff
   image: https://i.imgur.com/E1sWcp1.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Ranger
   power: 858
@@ -42,19 +44,15 @@ costume2:
   skill: Volcanic Blast
   effects:
     - Deals 300% damage to target and nearby enemies.
-    - >-
-      The target and nearby enemies get -34% defense for 3 turns. Against Ice 
-      characters, this status effect becomes uncleansable, and lasts 2 turns longer.
-    - >-
-      The target and nearby enemies receive 321 Burn damage over 3 turns. 
-      Against Ice characters, this status effect becomes uncleansable, and 
-      lasts 2 turns longer.
+    - The target and nearby enemies get -34% defense for 3 turns. Against Ice characters, this status effect becomes uncleansable, and lasts 2 turns longer.
+    - The target and nearby enemies receive 321 Burn damage over 3 turns. Against Ice characters, this status effect becomes uncleansable, and lasts 2 turns longer.
   types:
     - Hit 3
     - Defense Debuff
     - DoT
   image: https://i.imgur.com/onSikNW.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Rogue
   power: 1110
@@ -74,6 +72,7 @@ costume3:
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/CuDeIo0.jpg
 costume4:
+  design: glass
   bonuses: 5/5/10/5
   class: Rogue
   power: 1209

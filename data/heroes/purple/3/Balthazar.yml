@@ -14,6 +14,7 @@ types:
   - Hit 1
 image: https://i.imgur.com/OSefjqG.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 466
@@ -29,6 +30,7 @@ costume:
     - DoT 1
   image: https://i.imgur.com/PBzwskK.jpg
 costume2:
+  design: toon
   bonuses: 5/5/10/5
   class: Wizard
   power: 505
@@ -44,3 +46,22 @@ costume2:
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/TVzeF5e.jpg
+costume3:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 513
+  attack: 587
+  defense: 475
+  health: 785
+  skill: Glass Jolt
+  effects:
+    - Deals 375% damage to the target.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+  types:
+    - Hit 1
+    - Bypass
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/GyPOLEn.jpg
