@@ -17,5 +17,5 @@ types:
   - Healer All
   - Attack Buff All
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
 image: https://i.imgur.com/ufJrKaD.jpg
