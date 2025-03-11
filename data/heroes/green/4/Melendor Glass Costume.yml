@@ -1,0 +1,23 @@
+name: Melendor Glass Costume
+is_costume: true
+source: season1
+family: classic
+speed: Average
+class: Druid
+power: 753
+attack: 811
+defense: 742
+health: 1264
+skill: Fog of the Vitrails
+effects:
+  - Recovers 46% health for all allies.
+  - All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - Dispels buffs from all enemies.
+types:
+  - Healer
+  - Nature allies Reflect
+  - Dispeller
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/5Bt1nJk.jpg

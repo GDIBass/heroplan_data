@@ -1,0 +1,21 @@
+name: Brienne Glass Costume
+is_costume: true
+source: season1
+family: classic
+speed: Average
+class: Druid
+power: 510
+attack: 472
+defense: 532
+health: 940
+skill: Glass Fury
+effects:
+  - All allies get +50% attack, and a further 20% increase every time they are hit during 5 turns.
+  - All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+types:
+  - Attack Buff
+  - Nature allies Reflect
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/Z7YMKIU.jpg

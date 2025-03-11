@@ -1,0 +1,21 @@
+name: Balthazar Glass Costume
+is_costume: true
+source: season1
+family: classic
+speed: Fast
+class: Wizard
+power: 513
+attack: 587
+defense: 475
+health: 785
+skill: Glass Jolt
+effects:
+  - Deals 375% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+types:
+  - Hit 1
+  - Bypass
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/GyPOLEn.jpg

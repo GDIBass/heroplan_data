@@ -1,0 +1,25 @@
+name: Kiril Glass Costume
+is_costume: true
+source: season1
+family: classic
+speed: Average
+class: Wizard
+power: 763
+attack: 758
+defense: 813
+health: 1328
+skill: Glass Brew
+effects:
+  - Recovers 32% health for all allies.
+  - All allies get +28% attack for 3 turns.
+  - All allies get +28% defense for 3 turns.
+  - All Ice allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+types:
+  - Healer All
+  - Attack Buff All
+  - Defense Buff All
+  - Ice allies Reflect
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/gArugbH.jpg

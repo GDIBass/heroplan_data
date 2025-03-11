@@ -16,6 +16,7 @@ types:
   - Mana Reduction
 image: https://i.imgur.com/flDK18I.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 675
@@ -31,6 +32,7 @@ costume:
     - Mana Reduction
   image: https://i.imgur.com/6LRP9pF.jpg
 costume2:
+  design: costume2
   bonuses: 5/5/10/5
   class: Wizard
   power: 731
@@ -46,6 +48,7 @@ costume2:
     - Silencer
   image: https://i.imgur.com/kSRi1Vn.jpg
 costume3:
+  design: toon
   bonuses: 5/5/10/5
   class: Monk
   power: 743
@@ -63,3 +66,24 @@ costume3:
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/9y6lz7h.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 755
+  attack: 803
+  defense: 742
+  health: 1300
+  skill: Slash of Glass Blades
+  effects:
+    - Deals 190% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - Reduces the mana of all enemies by 18%.
+  types:
+    - Hit All
+    - Bypass
+    - Mana Reduction
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/uvZCfR2.jpg
