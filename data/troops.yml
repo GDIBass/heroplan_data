@@ -248,12 +248,15 @@ troops:
       16: 14
       23: 17
       27: 20
-  five_star_BarbarianDruid:
-    key: five_star_BarbarianDruid
+  five_star_Barbarian_Druid:
+    key: five_star_Barbarian_Druid
     id: 50
     stars: 5
     name: Majestic Minotaur
     description: Legendary for class Barbarian and Druid
+    classLink:
+      - Barbarian
+      - Druid
     images:
       full:
         purple: https://i.imgur.com/x0KxmhD.jpg
@@ -291,6 +294,9 @@ troops:
     stars: 5
     name: Unwavering Cleric
     description: Legendary for class Cleric and Fighter
+    classLink:
+      - Cleric
+      - Fighter
     images:
       full:
         purple: https://i.imgur.com/S8f2CK7.jpg
@@ -328,6 +334,9 @@ troops:
     stars: 5
     name: Enchanted Ent
     description: Legendary for class Druid and Barbarian
+    classLink:
+      - Druid
+      - Barbarian
     images:
       full:
         purple: https://i.imgur.com/85ycbRa.jpg
@@ -365,6 +374,9 @@ troops:
     stars: 5
     name: Unstoppable Fighter
     description: Legendary for class Fighter and Cleric
+    classLink:
+      - Fighter
+      - Cleric
     images:
       full:
         purple: https://i.imgur.com/XpnsgM9.jpg
@@ -402,6 +414,9 @@ troops:
     stars: 5
     name: Mighty Monk
     description: Legendary for class Monk and Sorcerer
+    classLink:
+      - Monk
+      - Sorcerer
     images:
       full:
         purple: https://i.imgur.com/NNVSmEq.jpg
@@ -439,6 +454,9 @@ troops:
     stars: 5
     name: Elite Knight
     description: Legendary for class Paladin and Rogue
+    classLink:
+      - Paladin
+      - Rogue
     images:
       full:
         purple: https://i.imgur.com/ia5db5v.jpg
@@ -476,6 +494,9 @@ troops:
     stars: 5
     name: Eternal Hunter
     description: Legendary for class Ranger and Wizard
+    classLink:
+      - Ranger
+      - Wizard
     images:
       full:
         purple: https://i.imgur.com/GPGTzea.jpg
@@ -513,6 +534,9 @@ troops:
     stars: 5
     name: Unseen Assassin
     description: Legendary for class Rogue and Paladin
+    classLink:
+      - Rogue
+      - Paladin
     images:
       full:
         purple: https://i.imgur.com/OL7pcuQ.jpg
@@ -550,6 +574,9 @@ troops:
     stars: 5
     name: Royal Sorcerer
     description: Legendary for class Sorcerer and Monk
+    classLink:
+      - Sorcerer
+      - Monk
     images:
       full:
         purple: https://i.imgur.com/iYF74rz.jpg
@@ -587,6 +614,9 @@ troops:
     stars: 5
     name: Eldest Wizard
     description: Legendary for class Wizard and Ranger
+    classLink:
+      - Wizard
+      - Ranger
     images:
       full:
         purple: https://i.imgur.com/IVatbns.jpg
@@ -618,6 +648,46 @@ troops:
     max_level_passives_for_class:
       name: Increased Special Skill Damage
       description: Direct Special Damage done by character this troop is equipped to is increased by 8%.
+  five_star_Sorcerer_Ranger:
+    key: five_star_Sorcerer_Ranger
+    id: 60
+    stars: 5
+    name: Hunter Mage
+    description: Legendary for class Sorcerer and Ranger
+    classLink:
+      - Sorcerer
+      - Ranger
+    images:
+      full:
+        purple: https://i.imgur.com/dqA5Byh.jpg
+        yellow: https://i.imgur.com/Cxxf4Rd.jpg
+        blue: https://i.imgur.com/fRc1qaB.jpg
+        green: https://i.imgur.com/YYPXn2R.jpg
+        red: https://i.imgur.com/5iGT9JK.jpg
+      half:
+        purple: https://i.imgur.com/UtJ3pSO.jpg
+        yellow: https://i.imgur.com/xK7x08D.jpg
+        blue: https://i.imgur.com/AowZJQC.jpg
+        green: https://i.imgur.com/Fn5ljzd.jpg
+        red: https://i.imgur.com/leAQdU3.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 23
+      defense: 24
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 29
+      defense: 30
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Defense Ailment Reduction
+      description: Defense status ailments are 8% less effective against the character this Troop is equipped on.
 
 max_level_by_stars:
   1: 10
