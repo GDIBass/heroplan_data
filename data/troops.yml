@@ -648,7 +648,7 @@ troops:
     max_level_passives_for_class:
       name: Increased Special Skill Damage
       description: Direct Special Damage done by character this troop is equipped to is increased by 8%.
-  five_star_Wizard_Ranger:
+  five_star_Sorcerer_Ranger:
     key: five_star_Sorcerer_Ranger
     id: 60
     stars: 5
