@@ -248,7 +248,7 @@ troops:
       16: 14
       23: 17
       27: 20
-  five_star_BarbarianDruid:
+  five_star_Barbarian_Druid:
     key: five_star_Barbarian_Druid
     id: 50
     stars: 5
