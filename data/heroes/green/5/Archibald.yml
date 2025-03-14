@@ -1,0 +1,27 @@
+name: Archibald
+source: goblinvillage
+family: garrisonguard
+speed: Average
+class: Barbarian
+power: 1168
+attack: 1135
+defense: 1213
+health: 2193
+skill: Suspicious Stew
+effects:
+  - Deals 300% damage to all enemies.
+  - Damage bypasses target’s Minions.
+  - All enemies get -40% defense against Nature for 4 turns.
+  - Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.
+  - The target hit by the Sword Guard Mega Minion receives 441 Bleed damage over 3 turns. This effect spreads to nearby enemies.
+types:
+  - Hit All
+  - Bypass Minions
+  - EDD
+  - Sword Guard Mega Minion
+passives:
+  - >-
+    Resist Mana reduction: This character has an innate resistance against mana Reduction.
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://i.imgur.com/zBBsCSR.jpg
