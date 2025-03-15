@@ -344,6 +344,7 @@ troops:
     max_level_passives_for_class:
       name: Increase Status Effect Attack
       description: Attack buffs are 8% more effective for the character this Troop is equipped on.
+      image: https://i.imgur.com/0o8PtGh.jpg
   five_star_Cleric_Fighter:
     key: five_star_Cleric_Fighter
     id: 51
@@ -384,6 +385,7 @@ troops:
     max_level_passives_for_class:
       name: Extra Healing
       description: The character this troop is equipped on receives extra 5% health once every turn if health is recovered.
+      image: https://i.imgur.com/BghBCU3.jpg
   five_star_Druid_Barbarian:
     key: five_star_Druid_Barbarian
     id: 52
@@ -424,6 +426,7 @@ troops:
     max_level_passives_for_class:
       name: Status Ailment Damage Reduction
       description: Damage caused by status ailments is reduced by -10% for the character this Troop is equipped on.
+      image: https://i.imgur.com/sujxLHC.jpg
   five_star_Fighter_Cleric:
     key: five_star_Fighter_Cleric
     id: 53
@@ -464,6 +467,7 @@ troops:
     max_level_passives_for_class:
       name: Defense Ailment Reduction
       description: Defense status ailments are 8% less effective against the character this Troop is equipped on.
+      image: https://i.imgur.com/CA3BCtR.jpg
   five_star_Monk_Sorcerer:
     key: five_star_Monk_Sorcerer
     id: 54
@@ -504,6 +508,7 @@ troops:
     max_level_passives_for_class:
       name: Resist Status Ailments
       description: Character this troop is equipped to has 10% chance to resist status ailments.
+      image: https://i.imgur.com/jqcxe86.jpg
   five_star_Paladin_Rogue:
     key: five_star_Paladin_Rogue
     id: 55
@@ -544,6 +549,7 @@ troops:
     max_level_passives_for_class:
       name: Increase Status Effect Defense
       description: Defense buffs are 8% more effective for the character this Troop is equipped on.
+      image: https://i.imgur.com/qMBMqK7.jpg
   five_star_Ranger_Wizard:
     key: five_star_Ranger_Wizard
     id: 56
@@ -584,6 +590,7 @@ troops:
     max_level_passives_for_class:
       name: Attack Ailment Reduction
       description: Attack status ailments are 8% less effective for the character this Troop is equipped on.
+      image: https://i.imgur.com/QCeBJHU.jpg
   five_star_Rogue_Paladin:
     key: five_star_Rogue_Paladin
     id: 57
@@ -624,6 +631,7 @@ troops:
     max_level_passives_for_class:
       name: Critical Modifier
       description: Grants +15% critical chance to the character this troop is equipped on.
+      image: https://i.imgur.com/OGrGPG6.jpg
   five_star_Sorcerer_Monk:
     key: five_star_Sorcerer_Monk
     id: 58
@@ -664,6 +672,7 @@ troops:
     max_level_passives_for_class:
       name: Special Skill Damage Reduction
       description: Direct Special Damage taken by the character this troop is equipped to is reduced by -8%.
+      image: https://i.imgur.com/BuULhKC.jpg
   five_star_Wizard_Ranger:
     key: five_star_Wizard_Ranger
     id: 59
@@ -704,6 +713,7 @@ troops:
     max_level_passives_for_class:
       name: Increased Special Skill Damage
       description: Direct Special Damage done by character this troop is equipped to is increased by 8%.
+      image: https://i.imgur.com/13S67Px.jpg
   five_star_Sorcerer_Ranger:
     key: five_star_Sorcerer_Ranger
     id: 60
@@ -744,6 +754,7 @@ troops:
     max_level_passives_for_class:
       name: Defense Ailment Reduction
       description: Defense status ailments are 8% less effective against the character this Troop is equipped on.
+      image: https://i.imgur.com/CA3BCtR.jpg
 
 max_level_by_stars:
   1: 10
