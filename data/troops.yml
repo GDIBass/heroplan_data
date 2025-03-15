@@ -5,6 +5,10 @@ troops:
     stars: 1
     name: Defense
     description: One Star Defense
+    max_level_stats:
+      attack: 6
+      defense: 11
+      health: 7
     images:
       full:
         purple: https://i.imgur.com/Xvxhc3e.jpg
@@ -24,6 +28,10 @@ troops:
     stars: 1
     name: Attack
     description: One Star Attack
+    max_level_stats:
+      attack: 12
+      defense: 7
+      health: 5
     images:
       full:
         purple: https://i.imgur.com/sdEGTeQ.jpg
@@ -43,6 +51,10 @@ troops:
     stars: 2
     name: Defense
     description: Two Star Defense
+    max_level_stats:
+      attack: 8
+      defense: 16
+      health: 10
     images:
       full:
         purple: https://i.imgur.com/y7KdXz6.jpg
@@ -62,6 +74,10 @@ troops:
     stars: 2
     name: Attack
     description: Two Star Attack
+    max_level_stats:
+      attack: 17
+      defense: 10
+      health: 7
     images:
       full:
         purple: https://i.imgur.com/3YV5POL.jpg
@@ -81,6 +97,11 @@ troops:
     stars: 3
     name: Healing/Crit
     description: Three Star Healing / Crit
+    max_level_stats:
+      attack: 16
+      defense: 16
+      healing: 12
+      critical: 8
     images:
       full:
         purple: https://i.imgur.com/5gVbDi1.jpg
@@ -100,6 +121,11 @@ troops:
     stars: 3
     name: Health/Crit
     description: Three Star Health / Crit
+    max_level_stats:
+      attack: 20
+      defense: 12
+      health: 10
+      critical: 7
     images:
       full:
         purple: https://i.imgur.com/GAj0kMn.jpg
@@ -119,6 +145,11 @@ troops:
     stars: 3
     name: Health/Healing
     description: Three Star Health / Healing
+    max_level_stats:
+      attack: 12
+      defense: 20
+      health: 5
+      healing: 15
     images:
       full:
         purple: https://i.imgur.com/pVH74Ny.jpg
@@ -138,6 +169,11 @@ troops:
     stars: 4
     description: Four Star Crit
     name: Crit
+    max_level_stats:
+      attack: 20
+      defense: 25
+      healing: 9
+      critical: 15
     images:
       full:
         purple: https://i.imgur.com/DmUi3HQ.jpg
@@ -157,6 +193,11 @@ troops:
     stars: 4
     name: Mana
     description: Four Star Mana
+    max_level_stats:
+      attack: 26
+      defense: 18
+      healing: 20
+      mana: 15
     images:
       full:
         purple: https://i.imgur.com/zD4YmlQ.jpg
@@ -183,6 +224,11 @@ troops:
     stars: 4
     name: Ninja
     description: Four Star Ninja
+    max_level_stats:
+      attack: 32
+      defense: 17
+      healing: 20
+      bypass: 15
     images:
       full:
         purple: https://i.imgur.com/id9uUvu.jpg
@@ -202,6 +248,11 @@ troops:
     stars: 4
     name: Magic
     description: Four Star Magic
+    max_level_stats:
+      attack: 22
+      defense: 16
+      healing: 22
+      mana: 20
     images:
       full:
         purple: https://i.imgur.com/G87mTwx.jpg
@@ -228,6 +279,11 @@ troops:
     stars: 4
     name: Styx
     description: Four Star Styx
+    max_level_stats:
+      attack: 20
+      defense: 15
+      mana: 20
+      bypass: 25
     images:
       full:
         purple: https://i.imgur.com/Sgs2PFj.jpg
