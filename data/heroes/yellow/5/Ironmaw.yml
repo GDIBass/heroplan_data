@@ -1,8 +1,8 @@
 name: Ironmaw
-class: Barbarian
-speed: Average
 source: superelemental
 family: superelemental
+speed: Average
+class: Barbarian
 power: 978
 attack: 1001
 defense: 966
@@ -10,15 +10,14 @@ health: 1660
 skill: Chains of Light
 effects:
   - Deals 500% damage to the target and all Dark enemies.
-  - ->
-    All enemies get -39% mana generation for 4 turns. Against Dark characters, 
-    this status effect becomes uncleansable and lasts 2 turns longer.
+  - All enemies get -39% mana generation for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.
   - Deals extra damage agianst Dark.
 types:
   - Hit 1
   - Hit Dark
   - Mana gen debuff
 passives:
+  - 'Troop Mastery:'
   - >-
     Passive Skill as attacking character: This hero’s Troops deal extra 
     elemental damage against weaker element.

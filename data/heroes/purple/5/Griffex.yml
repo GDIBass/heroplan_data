@@ -9,20 +9,19 @@ defense: 875
 health: 1697
 skill: Mana Manipulation
 effects:
-  - >-
-    Reduces the mana of all Holy enemies by 100%. Reduces the mana of the other
-    enemies by 50%.
-  - >-
-    Increases the mana of all Dark allies except the caster by 30%. Increases 
-    the mana of all other allies by 15%.
+  - Reduces the mana of all Holy enemies by 100%. Reduces the mana of the other enemies by 50%.
+  - Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%.
 types:
   - Mana Reducer
   - Mana Increase
 passives:
+  - 'Troop Mastery:'
   - >-
-    This character’s Troops deal 100% more additional damage against weaker
-    element.
+    Passive Skill as attacking character: This hero’s Troops deal extra 
+    elemental damage against weaker element.
+  - ' - Dealt extra elemental damage: +100%'
   - >-
-    This character receives 10% less additional damage from Troops of stronger
-    element.
+    Passive Skill as defending character: This hero receives less elemental 
+    damage from Troops of stronger element.
+  - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/uvhkpHJ.jpg

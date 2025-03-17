@@ -20,10 +20,13 @@ types:
   - Hit All
   - Elemental 
 passives:
+  - 'Troop Mastery:'
   - >-
-    Troop Mastery: This Passive Skill has two different functions based on if this character is in attack or in defense.
+    Passive Skill as attacking character: This hero’s Troops deal extra 
+    elemental damage against weaker element.
+  - ' - Dealt extra elemental damage: +100%'
   - >-
-    Passive Skill as attacking character: This character’s Troops deal +100% more additional damage against weaker element.
-  - >-
-    Passive Skill as defending character: This character receives -10% less additional damage from Troops of stronger element.
+    Passive Skill as defending character: This hero receives less elemental 
+    damage from Troops of stronger element.
+  - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/JaXIe0C.jpg

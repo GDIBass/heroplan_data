@@ -1,8 +1,8 @@
 name: Carmenta
 source: carnivalofgods
 family: maskedgod
-class: Sorcerer
 speed: Average
+class: Sorcerer
 power: 940
 attack: 906
 defense: 881
@@ -16,6 +16,5 @@ types:
   - Hit 3
 passives:
   - >-
-    This character is cleansed of status ailments when Minion owned by them is
-    destroyed.
+    Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. 
 image: https://i.imgur.com/Ud8nASe.jpg

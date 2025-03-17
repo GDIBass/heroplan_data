@@ -17,10 +17,12 @@ types:
   - DoT
 passives:
   - 'Troop Mastery:'
-  - 'Passive Skill as attacking character:'
-  - ' This hero’s Troops deal extra elemental damage against weaker element.'
-  - ' * Dealt extra elemental damage: +100%'
-  - 'Passive Skill as defending character:'
-  - ' This hero receives less elemental damage from Troops of stronger element.'
-  - ' * Received elemental damage: -10%'   
+  - >-
+    Passive Skill as attacking character: This hero’s Troops deal extra 
+    elemental damage against weaker element.
+  - ' - Dealt extra elemental damage: +100%'
+  - >-
+    Passive Skill as defending character: This hero receives less elemental 
+    damage from Troops of stronger element.
+  - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/aM5vSU2.jpg
