@@ -18,9 +18,7 @@ types:
   - Healer
 passives:
   - >-
-    This character is cleansed of status ailments when Minion owned by them is
-    destroyed.
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
   - >-
-    This character has innate resistance against status ailments that affect defense.
-    Applies also to status ailments that affect elemental defense.
+    Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. 
 image: https://i.imgur.com/WV9k1vH.jpg

@@ -1,8 +1,8 @@
 name: Jarif
 source: season5
-class: Wizard
 family: moon
 speed: Average
+class: Wizard
 power: 483
 attack: 507
 defense: 408
@@ -10,15 +10,38 @@ health: 908
 skill: Disabling Decree
 effects:
   - Deals 335% damage to the target.
-  - >-
-    The target is immune to new status effect buffs for 3 turns, and receives 70
-    damage for each attempted buff.
+  - The target is immune to new status effect buffs for 3 turns, and receives 70 damage for each attempted buff.
 types:
   - Hit 1
+  - Buff Immunity
 passives:
   - >-
-    Effects on Special Skill: 60% chance to perform the following actions when
-    this character casts their Special Skill
+    Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/ntCu0sS.jpg
+costume:
+  design: costume1
+  bonuses: 2/2/4/1
+  class: Cleric
+  power: 495
+  attack: 550
+  defense: 398
+  health: 901
+  skill: Disabling Study
+  effects:
+    - Deals 300% damage to the target.
+    - The target is immune to new status effect buffs for 3 turns, and receives 150 damage for each attempted buff.
+  types:
+    - Hit 1
+    - Buff Immunity
+  passives:
+    - >-
+      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 70% damage to all enemies.'
+    - ' * All enemies get -24% mana generation for 3 turns.'
+    - >-
+      Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
+    - >-
+      Resist Sand Damage: This character has innate resistance against sand damage.
+  image: https://i.imgur.com/o4H256x.jpg

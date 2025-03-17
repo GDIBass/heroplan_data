@@ -18,6 +18,7 @@ types:
   - BHoT
   - Mana generation buff
 passives:
+  - 'Troop Mastery:'
   - >-
     Passive Skill as attacking character: This hero’s Troops deal extra 
     elemental damage against weaker element.

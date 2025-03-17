@@ -1,8 +1,8 @@
 name: Xavier
-class: Rogue
 source: superelemental
 family: superelemental
 speed: Average
+class: Rogue
 power: 940
 attack: 951
 defense: 887
@@ -10,17 +10,14 @@ health: 1672
 skill: Cascading Whirlwind
 effects:
   - Deals 280% damage to the target.
-  - >-
-    If an ally is of Holy element, the damage will increase to 290%, and it will 
-    affect nearby enemies. Allied heroes must be alive for the effect to activate.
-  - >-
-    If two alllies are of Holy element, the damage will increase to 300% and it 
-    will affect all enemies. Allied heroes must be alive for the effect to activate.
+  - If an ally is of Holy element, the damage will increase to 290%, and it will affect nearby enemies. Allied heroes must be alive for the effect to activate.
+  - If two alllies are of Holy element, the damage will increase to 300% and it will affect all enemies. Allied heroes must be alive for the effect to activate.
   - Reduces the mana of all hit enemies by -20%.
 types:
   - Hit 1
   - Mana reducer
 passives:
+  - 'Troop Mastery:'
   - >-
     Passive Skill as attacking character: This hero’s Troops deal extra 
     elemental damage against weaker element.

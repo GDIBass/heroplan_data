@@ -16,18 +16,17 @@ types:
   - Status Ailment Immunity
 passives:
   - >-
-    Effects on Special Skill: 50% chance to perform the following actions when
-    this character casts their Special Skill.
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.
   - ' * Boosts health of all allies by 10%. Boosted Heath can exceed max HP.'
   - ' * All allies gain a small amount of mana.'
 image: https://i.imgur.com/sV7BVbk.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 986
-  attack: 900
-  defense: 939
-  health: 2023
+  power: 1080
+  attack: 1016
+  defense: 1059
+  health: 2168
   skill: Motherly Love
   effects:
     - All allies renerate 640 Boosted health over 4 turns. Boosted Heath can exceed max HP.
@@ -37,15 +36,11 @@ costume:
     - Status Ailment Immunity
   passives:
     - >-
-      Effects on Special Skill: 50% chance to perform the following actions when
-      this character casts their Special Skill.
+      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.
     - ' * Boosts health of all allies by 10%. Boosted Heath can exceed max HP.'
     - ' * All allies gain a small amount of mana.'
     - >-
-      Guaranteed Effect on Special Skill: When this character casts their Special
-      Skill, any of their Passive Skills that grant extra effects on cast are 
-      guaranteed to activate.
+      Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.
     - >-
-      Resist Mana Generation Stopping: This character has an innate resistance 
-      against status ailments that affect stop mana generation.
+      Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation.
   image: https://i.imgur.com/blidD7L.jpg

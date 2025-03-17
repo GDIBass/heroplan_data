@@ -23,10 +23,10 @@ image: https://i.imgur.com/0Yedhet.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 1003
-  attack: 960
-  defense: 934
-  health: 2010
+  power: 1100
+  attack: 1083
+  defense: 1054
+  health: 2154
   skill: Judgement of Sun
   effects:
     - Deals 230% damage to the target and nearby enemies.

@@ -1,8 +1,8 @@
 name: Februus
 source: carnivalofgods
 family: maskedgod
-class: Cleric
 speed: Slow
+class: Cleric
 power: 952
 attack: 885
 defense: 912
@@ -20,11 +20,7 @@ types:
   - Dot
 passives:
   - >-
-    Cleanse on Minion Death: This character is cleansed of status ailments 
-    when Minion owned by them is destroyed. This character is cleansed of status
-    ailments when Minion owned by them is destroyed.
+    Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. 
   - >-
-    Resist Defense Ailments: This character has innate resistance against status 
-    ailments that affect defense. Applies also to status ailments that affect 
-    elemental defense.
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
 image: https://i.imgur.com/uBNXICu.jpg

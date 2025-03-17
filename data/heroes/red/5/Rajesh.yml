@@ -1,0 +1,33 @@
+name: Rajesh
+source: birthday
+family: wildcat
+speed: Average
+class: Druid
+power: 1170
+attack: 1279
+defense: 1137
+health: 1998
+skill: Royal Meatball Buffet
+effects:
+  - Cleanses all status ailments from all allies, and increases all allies’ mana by 5% for each cleansed ailment.
+  - All allies bypass defensive buffs with their attacks for 4 turns. If any defensive buffs are bypassed, the attacking ally’s mana is increased by 10%. (Defensive buffs include counterattacks.)
+  - All allies resist new negative mana effects for 4 turns, and their mana is increaed by 15% for each resisted effect.
+  - 'Stack (Max: 10): All allies get +30% attack.'
+types:
+  - Cleaser
+  - Bypass All
+  - Debuff Resist All
+  - Attack Stack
+passives:
+  - >-
+    Nine Lives:
+  - ' * When defeated this character has 75% chance to revive at the begining of their next turn with 50% health and 75% mana.'
+  - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.'
+  - >-
+    Trait: Lithe Frame
+  - This character is not affect by effects that increase or reduce defense.
+  - 'This includes:'
+  - ' * - Status effect buffs and ailments.'
+  - ' * - Positive and negative stacks.'
+  - ' * - Growth and Wither effects.'
+image: https://i.imgur.com/8rK2qLv.jpg

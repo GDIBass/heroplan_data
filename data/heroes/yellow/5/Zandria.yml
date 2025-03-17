@@ -1,8 +1,8 @@
 name: Zandria
-class: Paladin
-speed: Very Slow
 source: superelemental
 family: superelemental
+speed: Very Slow
+class: Paladin
 power: 895
 attack: 815
 defense: 879
@@ -10,17 +10,14 @@ health: 1711
 skill: Unwavering Devotion
 effects:
   - Deals 210% damage to all enemies.
-  - >-
-    Deals additional 20% damage per each Holy shield on the board up to 450%
-    damage in total.
+  - Deals additional 20% damage per each Holy shield on the board up to 450% damage in total.
   - Each fallen ally has a 20% chance to be revived at 40% HP.
-  - >-
-    Each Holy shield on the board increases the chance of to be revived by 5% up
-    to 80% chance in total.
+  - Each Holy shield on the board increases the chance of to be revived by 5% up to 80% chance in total.
 types:
   - Hit All
   - Reviver
 passives:
+  - 'Troop Mastery:'
   - >-
     Passive Skill as attacking character: This hero’s Troops deal extra 
     elemental damage against weaker element.

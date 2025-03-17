@@ -9,23 +9,20 @@ defense: 859
 health: 1705
 skill: Bleed Inducing Daggers
 effects:
-  - >-
-    Summons a Dagger Fiend for the target and Holy enemies. The Fiend damages 
-    its target with 250% attack every turn.
-  - >-
-    The Dagger Fiend absorbs healing. It disappears after absorbing healing 
-    amount equal to 20% of its target’s max health.
-  - >-
-    When the Dagger Fiend disappears after it has absorbed enough healing, the 
-    owner receives 810 Bleed damage over 3 turns.
+  - Summons a Dagger Fiend for the target and Holy enemies. The Fiend damages its target with 250% attack every turn.
+  - The Dagger Fiend absorbs healing. It disappears after absorbing healing amount equal to 20% of its target’s max health.
+  - When the Dagger Fiend disappears after it has absorbed enough healing, the owner receives 810 Bleed damage over 3 turns.
 types:
   - Fiends
   - Elemental
 passives:
+  - 'Troop Mastery:'
   - >-
-    This character’s Troops deal 100% more additional damage against weaker
-    element.
+    Passive Skill as attacking character: This hero’s Troops deal extra 
+    elemental damage against weaker element.
+  - ' - Dealt extra elemental damage: +100%'
   - >-
-    This character receives 10% less additional damage from Troops of stronger
-    element.
+    Passive Skill as defending character: This hero receives less elemental 
+    damage from Troops of stronger element.
+  - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/VT78aoB.jpg

@@ -1,0 +1,29 @@
+name: Leonie
+source: birthday
+family: wildcat
+speed: Fast
+class: Rogue
+power: 1170
+attack: 1308
+defense: 1100
+health: 1996
+skill: Claws of the Lioness
+effects:
+  - Deals 250% Clawing damage to the target and nearby enemies. (Deals 375% damage against enemies with Minions or Mega Minions. Enemies with Minions or Mega Minions receive -30% defense for 6 turns.)
+  - The target and nearby enemies receive lasting 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage 3000.)
+types:
+  - Hit 3
+  - DoT 3
+passives:
+  - >-
+    Nine Lives:
+  - ' * When defeated this character has 75% chance to revive at the begining of their next turn with 50% health and 75% mana.'
+  - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.'
+  - >-
+    Trait: Lithe Frame
+  - This character is not affect by effects that increase or reduce defense.
+  - 'This includes:'
+  - ' * - Status effect buffs and ailments.'
+  - ' * - Positive and negative stacks.'
+  - ' * - Growth and Wither effects.'
+image: https://i.imgur.com/nW3onBB.jpg

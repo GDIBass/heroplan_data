@@ -1,0 +1,7 @@
+key: wildcat
+code: 99
+description: Wild Cat
+image: https://i.imgur.com/fYkH46z.png
+bonus:
+  - "Bonus for 1 / 2 / 3 Unique Heroes:"
+  - "5% / 10% / 15% chance to dodge Special Skills."
