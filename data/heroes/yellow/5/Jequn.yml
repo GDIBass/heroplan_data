@@ -10,9 +10,7 @@ health: 1742
 skill: Archaic Sacred Symbol
 effects:
   - Deals 200% damage to all enemies.
-  - >-
-    All Dark enemies get -34% accuracy for 3 turns. [Chance to miss also applies
-    to offensive Special Skills.]
+  - All Dark enemies get -34% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)
   - All Ice enemies get -34% defense for 3 turns.
   - All Nature enemies get -34% mana generation for 3 turns.
   - All Fire enemies get -34% attack for 3 turns.
@@ -20,6 +18,7 @@ types:
   - Hit All
   - Elemental
 passives:
+  - 'Troop Mastery:'
   - >-
     Passive Skill as attacking character: This hero’s Troops deal extra 
     elemental damage against weaker element.
