@@ -24,10 +24,10 @@ image: https://i.imgur.com/3Y3v4bs.jpg
 costume:
   bonuses: 5/5/10/5
   class: Rogue
-  power: 1004
-  attack: 978
-  defense: 896
-  health: 2047
+  power: 1101
+  attack: 1103
+  defense: 1011
+  health: 2193
   skill: Teeth of the River
   effects:
     - Deals 280% damage to all enemies.

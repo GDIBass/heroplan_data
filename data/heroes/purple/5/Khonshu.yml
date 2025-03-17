@@ -22,10 +22,10 @@ image: https://i.imgur.com/qiCq8Jo.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1002
-  attack: 1026
-  defense: 891
-  health: 1920
+  power: 1099
+  attack: 1157
+  defense: 1005
+  health: 2057
   skill: Midnight Smite
   effects:
     - 450% damage to the target.

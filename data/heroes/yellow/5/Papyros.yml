@@ -23,10 +23,10 @@ image: https://i.imgur.com/cV84mq0.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1003
-  attack: 914
-  defense: 994
-  health: 2003
+  power: 1100
+  attack: 1032
+  defense: 1122
+  health: 2146
   skill: Command Sand Golems
   effects:
     - Summons a Sand Golem Minion for each ally with 20% HP and 25% attack inherited from the caster.
