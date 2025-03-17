@@ -21,7 +21,7 @@ types:
 passives:
   - >-
     Nine Lives:
-  - ' * When defeated this character has 75% chance to revive at the begining of their next turn with 50% health and 75% mana."
+  - ' * When defeated this character has 75% chance to revive at the begining of their next turn with 50% health and 75% mana.'
   - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.'
   - >-
     Trait: Lithe Frame
