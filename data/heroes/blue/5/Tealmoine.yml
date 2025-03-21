@@ -1,0 +1,22 @@
+name: Tealmoine
+source: moth
+family: moth
+speed: Fast
+class: Monk
+power: 1169
+attack: 1153
+defense: 1275
+health: 2031
+skill: Bizarre Mist
+effects:
+  - Steals all dispellable buffs from the target and randomly distributes them on allies.
+  - The target falls into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This effect is uncleasable.)
+  - Recovers 30% health for all allies.
+types:
+  - Steals Buff 1
+  - Deep Sleep 1
+  - Healer All
+passives:
+  - >- 
+    Dodge Special Damage: This character has a 10% chance to dodge Special Skills that deal damage.
+image: https://i.imgur.com/OpdhCZP.jpg
