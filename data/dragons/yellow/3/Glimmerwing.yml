@@ -1,0 +1,36 @@
+name: Glimmerwing
+source: season1
+speed: Slow
+attack:  9306
+defense: 9289
+health:  8530
+power:   7622
+skill: Shards of Sun
+effects:
+  - Deals 200% damage to all enemies.
+  - All enemies get -25% accuracy for 5 turns.　
+  - The caster regenerates 2500 HP over 5 turns.
+types:
+  - Hit All
+  - Blind All
+  - Self HoT
+spiritBonus:
+  spiritClass: Paladin
+  all:
+    attack: 100
+    defense: 80
+    health: 30
+  elementalBond:
+    attack: 15
+    defense: 10
+    health: 12
+  classLink:
+    attack: 15
+    defense: 10
+    health: 12 
+assist:
+  name: Charring Blaze
+  effects:
+    - Deals 250 damage to all enemies.
+    - All enemies receive 100 Burn damage over 5 turns.
+image: https://imgur.com/xTaiDOm.jpg

@@ -1,0 +1,33 @@
+name: Rusty
+source: season1
+speed: Fast
+attack:  9289
+defense: 9275
+health:  8610
+power:   7623
+skill: Devastating Slash
+effects:
+  - Deals 200% damage to the target and 150% damage to nearby enemies.
+  - The target receives +50% increased damage from normal attacks and nearby enemies receive +25% damage from normal attacks for 3 turns.
+types:
+  - Hit 3
+spiritBonus:
+  spiritClass: Fighter
+  all:
+    attack: 100
+    defense: 80
+    health: 30
+  elementalBond:
+    attack: 15
+    defense: 10
+    health: 12
+  classLink:
+    attack: 15
+    defense: 10
+    health: 12 
+assist:
+  name: Charring Blaze
+  effects:
+    - Deals 250 damage to all enemies.
+    - All enemies receive 100 Burn damage over 5 turns.
+image: https://imgur.com/6R05EyB.jpg

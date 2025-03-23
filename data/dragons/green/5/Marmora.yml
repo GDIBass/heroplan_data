@@ -1,0 +1,36 @@
+name: Marmora
+source: season1
+speed: Average
+attack:  13867
+defense: 14016
+health:  12123
+power:   11105
+skill: Emerald Wind
+effects:
+  - Recovers 6500 health for all allies.
+  - Cleanses 2 status ailments from all allies.　
+  - All allies get +3400 defense against Special Skills for 4 turns.
+types:
+  - Healer
+  - Cleanser
+  - SS Defense Buff
+spiritBonus:
+  spiritClass: Monk
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Cleansing Flame
+  effects:
+    - All allies regenerate 500 HP over 5 turns.
+    - Cleanses status ailments from all allies.
+image: https://imgur.com/t30UdIc.jpg

@@ -1,0 +1,36 @@
+name: Aranth
+source: season1
+speed: Average
+attack:  13756
+defense: 13497
+health:  12125
+power:   10921
+skill: Frozen Orb
+effects:
+  - Deals 150% damage to all enemies.
+  - All enemies get -2200 attack until they are healed by a Special Skill.
+  - All enemies receive 1000 Frost damage each turn until they are healed by a Special Skill.
+types:
+  - Hit All
+  - Attack Debuff All
+  - DoT All
+spiritBonus:
+  spiritClass: Fighter
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Protective Breath
+  effects:
+    - Recovers 500 health for all allies.
+    - All enemies get +20% defense for 5 turns. 
+image: https://imgur.com/BURocSy.jpg

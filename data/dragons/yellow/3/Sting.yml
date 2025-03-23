@@ -1,0 +1,34 @@
+name: Sting
+source: season1
+speed: Fast
+attack:  9626
+defense: 9552
+health:  8625
+power:   7821
+skill: Blinding Stinger
+effects:
+  - Deals 300% damage to the target.
+  - The target gets -35% accuracy for 3 turns.
+types:
+  - Hit 1
+  - Blind 1
+spiritBonus:
+  spiritClass: Ranger
+  all:
+    attack: 100
+    defense: 80
+    health: 30
+  elementalBond:
+    attack: 15
+    defense: 10
+    health: 12
+  classLink:
+    attack: 15
+    defense: 10
+    health: 12 
+assist:
+  name: Charring Blaze
+  effects:
+    - Deals 250 damage to all enemies.
+    - All enemies receive 100 Burn damage over 5 turns.
+image: https://imgur.com/752PVZB.jpg

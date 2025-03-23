@@ -1,0 +1,36 @@
+name: Kranio
+source: season1
+speed: Slow
+attack:  9625
+defense: 9532
+health:  8681
+power:   7823
+skill: Toxic Headbutt
+effects:
+  - All enemies receive 4000 Poison damage over 5 turns.
+  - All enemies get -30% mana generation for 5 turns.　
+  - All enemies get -1500 defense against Special Skills for 5 turns.
+types:
+  - DoT All
+  - Mana Generation Debuff All
+  - SS Defense Debuff All
+spiritBonus:
+  spiritClass: Barbarian
+  all:
+    attack: 100
+    defense: 80
+    health: 30
+  elementalBond:
+    attack: 15
+    defense: 10
+    health: 12
+  classLink:
+    attack: 15
+    defense: 10
+    health: 12 
+assist:
+  name: Charring Blaze
+  effects:
+    - Deals 250 damage to all enemies.
+    - All enemies receive 100 Burn damage over 5 turns.
+image: https://imgur.com/TEivHXA.jpg

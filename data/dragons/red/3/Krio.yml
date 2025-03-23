@@ -1,0 +1,36 @@
+name: Krio
+source: season1
+speed: Slow
+attack:  9439
+defense: 9489
+health:  8530
+power:   7724
+skill: Volcanic Shell
+effects:
+  - Recovers 3500 health for all allies.
+  - All allies get +2000 attack for 5 turns.
+  - 'All allies get Morten Shield for 5 turns. (Morten Shield: Each time the owner of this status effect is hit by an enemy Special Skill, the attacker receives 2000 Burn damage over 5 turns.)'
+types:
+  - Healer All
+  - Attack Buff All
+  - Molten Shield All
+spiritBonus:
+  spiritClass: Fighter
+  all:
+    attack: 100
+    defense: 80
+    health: 30
+  elementalBond:
+    attack: 15
+    defense: 10
+    health: 12
+  classLink:
+    attack: 15
+    defense: 10
+    health: 12 
+assist:
+  name: Charring Blaze
+  effects:
+    - Deals 250 damage to all enemies.
+    - All enemies receive 100 Burn damage over 5 turns.
+image: https://imgur.com/8PePggg.jpg

@@ -1,0 +1,34 @@
+name: Skydancer
+source: season1
+speed: Fast
+attack:  11880
+defense: 11897
+health:  10301
+power:   9521
+skill: Fatal Finisher
+effects:
+  - Deals 300% damage to the target.
+  - Deals 450% damage if the target has less than 50% health remaining.
+  - If the target is defeated by the attack, the caster recovers 4000 health.
+types:
+  - Hit 1
+spiritBonus:
+  spiritClass: Rogue
+  all:
+    attack: 160
+    defense: 120
+    health: 45
+  elementalBond:
+    attack: 20
+    defense: 15
+    health: 15
+  classLink:
+    attack: 20
+    defense: 15
+    health: 15 
+assist:
+  name: Fiery Blaze
+  effects:
+    - Deals 350 damage to all enemies.
+    - All enemies receive 150 Burn damage over 5 turns.
+image: https://imgur.com/VLAzxKm.jpg

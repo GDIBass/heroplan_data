@@ -1,0 +1,31 @@
+name: 
+source: season1
+speed: 
+attack: 
+defense: 
+health: 
+power: 
+skill: 
+effects:
+  - 
+types:
+  - 
+spiritBonus:
+  spiritClass: 
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: 
+  effects:
+    - 
+image: .jpg
