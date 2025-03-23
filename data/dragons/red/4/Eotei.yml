@@ -1,0 +1,36 @@
+name: Eotei
+source: season1
+speed: Slow
+attack:  11833
+defense: 12040
+health:  10165
+power:   9525
+skill: Corals of Nourishment
+effects:
+  - Recovers 6500 health for all allies.
+  - All allies get +30% mana generation for 5 turns.　
+  - All allies get Molten Shield for 5 turns.
+types:
+  - Healer All
+  - Mana Generation Buff All
+  - Molten Shield All
+spiritBonus:
+  spiritClass: Sorcerer
+  all:
+    attack: 160
+    defense: 120
+    health: 45
+  elementalBond:
+    attack: 20
+    defense: 15
+    health: 15
+  classLink:
+    attack: 20
+    defense: 15
+    health: 15 
+assist:
+  name: Revitalizing Breath
+  effects:
+    - Recovers 400 health for all allies.
+    - All allies regenerate 150 HP over 5 turns.
+image: https://imgur.com/pWtFJLw.jpg

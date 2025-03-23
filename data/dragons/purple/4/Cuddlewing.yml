@@ -1,0 +1,36 @@
+name: Cuddlewing
+source: season1
+speed: Average
+attack:  11624
+defense: 11508
+health:  10299
+power:   9322
+skill: Rattle of Confusion
+effects:
+  - Deals 150% damage to all enemies.
+  - Dispels 2 buffs from all enemies.　
+  - All enemies get -25% mana generation for 4 turns.
+types:
+  - Hit All
+  - Dispeller All
+  - Mana Generation Debuff All
+spiritBonus:
+  spiritClass: Ranger
+  all:
+    attack: 160
+    defense: 120
+    health: 45
+  elementalBond:
+    attack: 20
+    defense: 15
+    health: 15
+  classLink:
+    attack: 20
+    defense: 15
+    health: 15 
+assist:
+  name: Fiery Blaze
+  effects:
+    - Deals 350 damage to all enemies.
+    - All enemies receive 150 Burn damage over 5 turns.
+image: https://imgur.com/f5LcgFW.jpg
