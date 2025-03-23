@@ -1,0 +1,37 @@
+name: Silva
+source: season1
+speed: Average
+attack:  9564
+defense: 9619
+health:  8677
+power:   7825
+skill: Gust of Restoration
+effects:
+  - Recovers 2000 health for all allies.
+  - Cleanses 2 status ailments from all allies.　
+  - All allies heal for 30% of the damage dealt by their Special Skills for 4 turns.
+  - All allies get +1300 defense against Special Skills for 4 turns.
+types:
+  - Healer All
+  - Cleanser All
+  - SS Defense Buff All
+spiritBonus:
+  spiritClass: Druid
+  all:
+    attack: 100
+    defense: 80
+    health: 30
+  elementalBond:
+    attack: 15
+    defense: 10
+    health: 12
+  classLink:
+    attack: 15
+    defense: 10
+    health: 12 
+assist:
+  name: Resuscitating Breath
+  effects:
+    - Recovers 250 health for all allies.
+    - All allies regenerate 100 HP over 5 turns.
+image: https://imgur.com/rueNHXu.jpg

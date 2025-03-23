@@ -1,0 +1,36 @@
+name: Leafwind
+source: season1
+speed: Fast
+attack:  9280
+defense: 9279
+health:  8608
+power:   7621
+skill: Leaf Blast
+effects:
+  - Deals 225% damage to the target.
+  - The target gets -1200 defense for 3 turns.
+  - The caster and nearby allies get +30% chance to dodge attacks and Special Skills for 3 turns.
+types:
+  - Hit 1
+  - Defense Debuff 1
+  - Dodge Buff 3
+spiritBonus:
+  spiritClass: Druid
+  all:
+    attack: 100
+    defense: 80
+    health: 30
+  elementalBond:
+    attack: 15
+    defense: 10
+    health: 12
+  classLink:
+    attack: 15
+    defense: 10
+    health: 12 
+assist:
+  name: Resuscitating Breath
+  effects:
+    - Recovers 250 health for all allies.
+    - All allies regenerate 100 HP over 5 turns.
+image: https://imgur.com/jtSfi8k.jpg
