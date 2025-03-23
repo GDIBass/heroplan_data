@@ -1,0 +1,34 @@
+name: Terrorclaw
+source: season1
+speed: Fast
+attack:  13907
+defense: 13987
+health:  12154
+power:   11115
+skill: Claws of the Night
+effects:
+  - Deals 245% damage to the target and nearby enemies.
+  - The target and nearby enemies get -4000 defense for 3 turns.
+types:
+  - Hit 3
+  - Defense Debuff 3
+spiritBonus:
+  spiritClass: Rogue
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Blaze of Tournament
+  effects:
+    - Deals 400 damage to all enemies.
+    - Reduces the mana of all enemies by 20%.
+image: https://imgur.com/vaD4qIs.jpg

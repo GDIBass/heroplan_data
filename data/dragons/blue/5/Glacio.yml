@@ -1,0 +1,36 @@
+name: Glacio
+source: season1
+speed: Average
+attack:  13841
+defense: 14071
+health:  12067
+power:   11103
+skill: Arctic Breeze
+effects:
+  - Recovers 6000 health for all allies.
+  - Dispels 2 buffs from all enemies.　
+  - All allies get +3400 defense for 4 turns.
+types:
+  - Healer All
+  - Dispeller
+  - Defense Buff All
+spiritBonus:
+  spiritClass: Cleric
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Fortifying Flame
+  effects:
+    - Recovers 500 health for all allies.
+    - All allies get +30% defense against Special Skills for 5 turns.
+image: https://imgur.com/qmMHBC1.jpg

@@ -1,0 +1,34 @@
+name: Stormcaller
+source: ancientUnderroot
+speed: Fast
+attack:  13946
+defense: 14005
+health:  12127
+power:   11130
+skill: Eye of the Storm
+effects:
+  - Deals 280% damage to the target.
+  - The target receives 750-2250 Lightning damage each turn for 3 turns. If the target is defeated by Lightning damage, all enemies receive 3500 damage.　(The amount of damage dealt is randomized each turn.)
+types:
+  - Hit 1
+  - Random Damage 1
+spiritBonus:
+  spiritClass: Ranger
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Blazing Storm
+  effects:
+    - All enemies receive 1250 Burn damage over 5 turns.
+    - Dispels buffs from all enemies.
+image: https://imgur.com/fQ0UGp8.jpg

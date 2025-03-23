@@ -1,0 +1,36 @@
+name: Bonefang
+source: season1
+speed: Fast
+attack:  13837
+defense: 13744
+health:  12145
+power:   11021
+skill: Unchained Jaws
+effects:
+  - Deals 300% damage to the target.
+  - Cleanses 1 status ailment from the caster.　
+  - The target gets -60% decrease for any healing received for 3 turns. This effect can't be cleansed.
+types:
+  - Hit 1
+  - Self Clean
+  - Healing Debuff 1
+spiritBonus:
+  spiritClass: Barbarian
+  all:
+    attack:      200
+    defense:     160
+    health:      60
+  elementalBond: 
+    attack:      25
+    defense:     20
+    health:      20
+  classLink:     
+    attack:      25
+    defense:     20
+    health:      20
+assist:
+  name: Wounding Blaze
+  effects:
+    - Deals 500 damage to all enemies.
+    - All enemies get -30% decrease for any healing received for 5 turns.
+image: https://imgur.com/Hn8ooBI.jpg

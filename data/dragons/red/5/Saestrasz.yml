@@ -1,0 +1,38 @@
+name: Saestrasz
+source: season1
+speed: Slow
+attack:  13876
+defense: 14038
+health:  12055
+power:   11104
+skill: Blessing of the Evergrove
+effects:
+  - Recovers 4250 health for all allies.
+  - All allies regenerate 4250 HP over 5 turns.
+  - All allies get +2900 attack for 5 turns.
+  - All allies get +40% mana generation for 5 turns.
+types:
+  - Healer All
+  - HoT All
+  - Attack Buff All
+  - Mana Generation Buff All
+spiritBonus:
+  spiritClass: Druid
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Empowering Breath
+  effects:
+    - Recovers 550 health for all allies.
+    - All allies get +20% attack for 5 turns.
+image: https://imgur.com/7hcDVbl.jpg

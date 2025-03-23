@@ -1,0 +1,36 @@
+name: Veneno
+source: season1
+speed: Slow
+attack:  13812
+defense: 13847
+health:  12022
+power:   11024
+skill: Venomous Spores
+effects:
+  - All enemies receive 8000 Poison damage over 5 turns.
+  - All enemies get -3000 defense against Special Skills for 5 turns.
+  - All enemies get -45% mana generation for 5 turns.
+types:
+  - DoT All
+  - SS Defense Debuff All
+  - Mana Generation Debuff All
+spiritBonus:
+  spiritClass: Paladin
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Dampening Blaze 
+  effects:
+    - Deals 450 damage to all enemies.
+    - All enemies get -10% mana generation for 5 turns.
+image: https://imgur.com/jbbrZjP.jpg

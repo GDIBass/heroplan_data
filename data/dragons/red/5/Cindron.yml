@@ -1,0 +1,36 @@
+name: Cindron
+source: season1
+speed: Fast
+attack:  13822
+defense: 13847
+health:  11989
+power:   11023
+skill: Fiery Charge
+effects:
+  - Deals 300% damage to the target.
+  - Reduces the mana of the target by 20%.
+  - The target receives 4800 Burn damage over 3 turns.
+types:
+  - Hit 1
+  - Mana Reducer 1
+  - DoT 1
+spiritBonus:
+  spiritClass: Ranger
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Corrosive Blaze
+  effects:
+    - Deals 400 damage to all enemies.
+    - All enemies get -20% defense for 5 turns. 
+image: https://imgur.com/6YwfGxq.jpg

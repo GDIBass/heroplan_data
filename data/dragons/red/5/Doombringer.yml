@@ -1,0 +1,36 @@
+name: Doombringer
+source: season1
+speed: Average
+attack:  13709
+defense: 13637
+health:  11989
+power:   10924
+skill: Rain of Fire
+effects:
+  - Deals 150% damage to all enemies.
+  - All enemies receive 4000 Burn damage over 4 turns.
+  - All enemies get -2200 defense for 4 turns.
+types:
+  - Hit All
+  - DoT All
+  - Defense Debuff All
+spiritBonus:
+  spiritClass: Sorcerer
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Corrosive Blaze
+  effects:
+    - Deals 400 damage to all enemies.
+    - All enemies get -20% defense for 5 turns.
+image: https://imgur.com/5nW8kRq.jpg

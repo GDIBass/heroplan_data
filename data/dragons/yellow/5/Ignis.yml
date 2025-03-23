@@ -1,0 +1,36 @@
+name: Ignis
+source: season1
+speed: Fast
+attack:  13919
+defense: 14010
+health:  11978
+power:   11101
+skill: Blinding Orb
+effects:
+  - Deals 300% damage to the target.
+  - Dispels 1 buff from the target.　
+  - The target gets -40% accuracy for 3 turns.
+types:
+  - Hit 1
+  - Dispeller 1
+  - Blind 1
+spiritBonus:
+  spiritClass: Rogue
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Blinding Blaze
+  effects:
+    - Deals 400 damage to all enemies.
+    - All enemies get -20% accuracy for 5 turns.
+image: https://imgur.com/4bUmcjn.jpg
