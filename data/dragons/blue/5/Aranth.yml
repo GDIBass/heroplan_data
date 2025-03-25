@@ -27,10 +27,10 @@ spiritBonus:
   classLink:
     attack: 25
     defense: 20
-    health: 20 
+    health: 20
 assist:
   name: Protective Breath
   effects:
     - Recovers 500 health for all allies.
-    - All enemies get +20% defense for 5 turns. 
+    - All enemies get +20% defense for 5 turns.
 image: https://imgur.com/BURocSy.jpg
