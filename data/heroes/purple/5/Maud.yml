@@ -1,0 +1,23 @@
+name: Maud
+source: wilderness
+family: woodlandfaun
+speed: Average
+class: Wizard
+power: 1171
+attack: 1223
+defense: 1118
+health: 2179
+skill: Here! Catch!
+effects:
+  - Deals 500% damage to the enemy with the lowest remaining HP. Deals 260% damage to all other enemies.
+  - 'Enhanced Dodge: The caster gets +60% chance to dodge Special Skills that deal damage. This effect lasts until the caster sucessfully dodges 3 times.'
+  - After the Enhanced Dodge ends or is removed or replaced, the caster gains 10% mana.
+types:
+  - Hit All
+  - Enhanced Dodge
+passives:
+  - >-
+    Resist Insanity: This character has innate resistance against Insanity.
+  - >-
+    Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack.
+image: https://imgur.com/eOKRXit.jpg
