@@ -11,7 +11,9 @@ effects:
   - Cleanses 3 status ailments from all allies.　
   - All allies get +50% critical chance for 5 turns.
 types:
-  - 
+  - Healer All
+  - Cleanser
+  - Critical Chance Buff All
 spiritBonus:
   spiritClass: Cleric
   all:
