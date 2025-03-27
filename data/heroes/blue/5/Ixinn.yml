@@ -1,0 +1,28 @@
+name: Ixinn
+source: astral
+family: astraldwarfs
+speed: Slow
+class: Wizard
+power: 1171
+attack: 1163
+defense: 1260
+health: 2045
+skill: Planetary Charge
+effects:
+  - Deals 510% damage to the target.
+  - The attack chains through all the enemies who are adjacent to any hit enemy.
+  - All hit targets receive +50% increased damage for 5 turns. The effect is increased by +10% for each Minion or Mega Minion owned by all enemies, up to +100% in total.
+  - 'Wither: All enemies get -400 attack.'
+types:
+  - Hit 1
+  - Chain Attack
+  - Increased Damage Debuff
+  - Wither
+passives:
+  - >-
+    Bypass Minions: All damage done by this character bypasses Minions.
+  - >-
+    Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.
+  - >-
+    Perfect Accuracy: This character’s Special Skill never misses its targets.
+image: https://imgur.com/KNQdOYr.jpg
