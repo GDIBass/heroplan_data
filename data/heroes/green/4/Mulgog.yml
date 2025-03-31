@@ -1,8 +1,8 @@
 name: Mulgog
-class: Rogue
 source: untoldtales
 family: nightmaresofatlantis
 speed: Changing Tides
+class: Rogue
 power: 688
 attack: 718
 defense: 643
@@ -23,8 +23,37 @@ types:
   - DoT all
 passives:
   - >-
-    'Effects on Special Skill:
-    50% chance to perform the following actions when this character casts their Special Skill
-      * Deals 80% damage to all enemies.
-      * The caster gets +19% mana generation for 2 turns.'
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+  - ' * Deals 80% damage to all enemies.'
+  - ' * All allies get +19% mana generation for 2 turns.'
 image: https://i.imgur.com/b7HL0wq.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 704
+  attack: 667
+  defense: 730
+  health: 1298
+  skill: Noxious Chord
+  effects:
+    - 'Special Skill need consecutive uses to reach full power, the following order:'
+    - '1st:'
+    - ' * Deals 220% damage to target and nearby enemies.'
+    - ' * Reduces the mana of the target and nearby enemies by 8%.'
+    - '2nd:'
+    - ' * Deals 280% damage to target and nearby enemies.'
+    - ' * Reduces the mana of the target and nearby enemies by 18%.'
+    - ' * All enemies receive 665 Poison damage over 5 turns. The caster absorbs 55% of dealt Posion damage as health.'
+  types:
+    - Hit 3
+    - Mana Reduction
+    - DoT all
+  passives:  
+    - >-
+      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 80% damage to all enemies.'
+    - ' * All allies get +19% mana generation for 2 turns.'
+    - >-
+      Resist Insanity: This character has innate resistance against Insanity.
+  image: .jpg

@@ -1,0 +1,20 @@
+name: Viscount Cluckwood
+source: springvale
+family: springvale
+speed: Average
+class: Wizard
+power: 1172
+attack: 1203
+defense: 1151
+health: 2171
+skill: Insurmountable Flux
+effects:
+  - Rearranges the enemy positions randomly.
+  - Deals 340% damage to all enemies.
+  - For 3 turns, the element of all allies except the caster is changed each turn. On the first 2 turns, the element is random.
+  - On the last turn, allies revert to their original element.
+types:
+  - Reposition
+  - Hit All
+  - Allies Element Exchange 4
+image: https://imgur.com/ifuZ96L.jpg

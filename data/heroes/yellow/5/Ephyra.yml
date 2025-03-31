@@ -12,7 +12,7 @@ effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'
   - ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.'
-  - ' * Stack /Max 10/: All allies get +5% inherited HP for new Minions they summon.'
+  - ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
   - '2nd:'
   - ' * Replaces all Fiends on all allies with Jellyfish Minions.'
   - ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.'
@@ -27,3 +27,33 @@ passives:
   - ' * Deals 80% damage to all enemies.'
   - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/nL4nDAx.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 1097
+  attack: 1057
+  defense: 1112
+  health: 2082
+  skill: Seabed Sissonne
+  effects:
+    - 'Special Skill need consecutive uses to reach full power, the following order:'
+    - '1st:'
+    - ' * Summons a Jellyfish Minion for each ally with +35% HP and +40% attack inherited from the caster.'
+    - ' * Stack (Max 10): All allies get +4% inherited HP for new Minions they summon.'
+    - '2nd:'
+    - ' * Replaces all Fiends on all allies with Jellyfish Minions.'
+    - ' * Summons a Jellyfish Minion for each ally with 40% HP and 50% attack inherited from the caster.'
+    - ' * Stack (Max 10): All allies get +7% inherited HP for new Minions they summon.'
+  types:
+    - Summoner
+    - Stack
+    - Fiend Replacement
+  passives:
+    - >-
+      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 80% damage to all enemies.'
+    - ' * All allies get +21% critical chance for 2 turns.'
+    - >-
+      Resist Insanity: This character has innate resistance against Insanity.
+  image: https://imgur.com/CAlgEAJ.jpg

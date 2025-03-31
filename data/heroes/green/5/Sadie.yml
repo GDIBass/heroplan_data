@@ -1,0 +1,23 @@
+name: Sadie
+source: springvale
+family: springvale
+speed: Fast
+class: Rogue
+power: 1172
+attack: 1242
+defense: 1120
+health: 2134
+skill: Silencing Stick-up
+effects:
+  - Deals 550% damage to the target.
+  - The target gets silenced for 3 turns.
+  - The target gets -64% defense against Special Skills for 3 turns.
+  - The target can’t get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect is also prevents cleansing and reallocating of itself.)
+  - Reduces max health of the caster by 400. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 400.)
+types:
+  - Hit 1
+  - Silencer 1
+  - SS Defense Debuff 1
+  - Cleanse Block 1
+  - Max Health Reducer 1
+image: https://imgur.com/p0UA9id.jpg
