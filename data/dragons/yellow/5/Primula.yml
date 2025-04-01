@@ -1,0 +1,36 @@
+name: Primula
+source: ancientUnderroot
+speed: Slow
+attack: 13884
+defense: 14012
+health: 12343
+power: 11140
+skill: Pie of Protection
+effects:
+  - Recovers 8800 health for all allies.
+  - All allies get +3600 defense for 5 turns.
+  - All allies are immune to buff dispels and reallocations for 5 turns. (The immunity also includes this effect itself.)
+types:
+  - Healer All
+  - Defense Buff All
+  - Dispell Immunity All
+spiritBonus:
+  spiritClass: Cleric
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Spring Breath
+  effects:
+    - Recovers 650 health for all allies.
+    - All allies get +10% mana generation for 5 turns.
+image: https://imgur.com/fNgNi9V.jpg
