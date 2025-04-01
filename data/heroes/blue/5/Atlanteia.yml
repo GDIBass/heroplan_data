@@ -23,8 +23,8 @@ passives:
   - >-
     Effects on Special Skill:
     50% chance to perform the following actions when this character casts their Special Skill.
-      * Deals 80% damage to all enemies.
-      * The caster get +19% mana generation for 2 turns.
+  - ' * Deals 80% damage to all enemies.'
+  - ' * The caster get +19% mana generation for 2 turns.'
 image: https://i.imgur.com/Ns22n5S.jpg
 costume:
   bonuses: 5/5/10/5
