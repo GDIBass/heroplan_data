@@ -1,0 +1,23 @@
+name: Claeg
+source: hotm
+family: 2025
+speed: Fast
+class: Sorcerer
+power: 1072
+attack: 1067
+defense: 1081
+health: 1940
+skill: Strength of the Accursed
+effects:
+  - Recovers 20% health for all allies. Recovers extra 5% for each status ailment the ally has, up to 35% health in total.
+  - Cleanses 3 status ailments from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)
+  - Elemental Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled.
+types:
+  - Healer All
+  - Cleanser All
+passives:
+  - >-  
+    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
+  - >-
+    Resist Burn: This character has innate resistance against Burn.
+image: https://imgur.com/O5qyXg7.jpg
