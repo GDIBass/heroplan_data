@@ -1,0 +1,24 @@
+name: Joon Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Fast
+class: Monk
+power: 1204
+attack: 1302
+defense: 1071
+health: 2317
+skill: Glass Beam
+effects:
+  - Deals 558% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target gets -38% accuracy for 6 turns. (Chance to miss also applies to offensive Special Skills.)
+types:
+  - Hit 1
+  - Bypass
+  - Blind
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/7d9tXzA.jpg

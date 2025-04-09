@@ -66,3 +66,24 @@ costume3:
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/DQzJaMV.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 759
+  attack: 879
+  defense: 710
+  health: 1201
+  skill: Glass Vines
+  effects:
+    - Deals 225% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - All enemies get -30% attack for 6 turns.
+  types:
+    - Hit All
+    - Bypass
+    - Attack Debuff All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/qCkUNrw.jpg

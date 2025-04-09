@@ -1,0 +1,24 @@
+name: Skittleskull Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Slow
+class: Sorcerer
+power: 759
+attack: 879
+defense: 710
+health: 1201
+skill: Glass Vines
+effects:
+  - Deals 225% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies get -30% attack for 6 turns.
+types:
+  - Hit All
+  - Bypass
+  - Attack Debuff All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/qCkUNrw.jpg
