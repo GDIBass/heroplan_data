@@ -1,0 +1,24 @@
+name: Darkbeat
+source: festival
+family: bard
+speed: Average
+class: Monk
+power: 1173
+attack: 1178
+defense: 1205
+health: 2134
+skill: Struck By Thunder
+effects:
+  - Deals 355% damage to all enemies.
+  - Reduces the duration of all allies’ active status ailments by 2 turns. (The duration modification affects both cleansable and uncleasable effects. If the duration of any effect is reduced to zero the effect is considered as having expired naturally.)
+  - Reduces the duration of all enemies’ active buffs by 2 turns.(The duration modification affects both cleansable and uncleasable effects. If the duration of any effect is reduced to zero the effect is considered as having expired naturally.)
+  - All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself.)
+types:
+  - Hit All
+  - Reduce Ailments Duration by 2
+  - Reduce Buffs Duration by 2
+  - Buff Dispel immunity All
+passives:
+  - >-
+    Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value.
+image: https://imgur.com/ypDGkpC.jpg
