@@ -1,0 +1,24 @@
+name: Colen Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Slow
+class: Fighter
+power: 758
+attack: 879
+defense: 647
+health: 1319
+skill: Vitrail Flames
+effects:
+  - Deals 220% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies receive 198 Burn damage over 3 turns.
+types:
+  - Hit All
+  - Bypass
+  - DoT All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/7dLF49j.jpg
