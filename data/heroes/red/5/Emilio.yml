@@ -20,5 +20,32 @@ effects:
   - ' * All allies are immune to new status ailments for 3 turns.'
 types:
   - Gamble
-  - DOT All
+  - DoT All
+  - Status Ailments Immunity All
 image: https://i.imgur.com/iAnFGWC.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 1083
+  attack: 1103
+  defense: 1037
+  health: 2018
+  skill: Frogs and Hoop
+  effects:
+    - 'Casts one of the following Special Skills:'
+    - 'If any enemy has the Burn status ailment:'
+    - ' * All enemies receive 635 Burn damage over 5 turns.'
+    - ' * All allies regenerate 450 HP over 3 turns.'
+    - ' * All allies are immune to new status ailments for 3 turns.'
+    - 'Otherwise:'
+    - ' * All enemies receive 555 Burn damage over 5 turns.'
+    - ' * All allies are immune to new status ailments for 3 turns.'
+  types:
+    - Gamble
+    - DoT All
+    - Status Ailments Immunity All
+  passives:
+    - >-
+      Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy.
+  image: https://imgur.com/Jiz6BXT.jpg
