@@ -755,6 +755,47 @@ troops:
       name: Defense Ailment Reduction
       description: Defense status ailments are 8% less effective against the character this Troop is equipped on.
       image: https://i.imgur.com/CA3BCtR.jpg
+  five_star_Fighter_Rogue:
+    key: five_star_Fighter_Rogue
+    id: 61
+    stars: 5
+    name: Swashbuckler Fighter
+    description: Legendary for class Fighter and Rogue
+    classLink:
+      - Fighter
+      - Rogue
+    images:
+      full:
+        purple: https://imgur.com/DYtnR14.jpg
+        yellow: https://imgur.com/EgwQvM5.jpg
+        blue: https://imgur.com/FRcGlow.jpg
+        green: https://imgur.com/CKzANqH.jpg
+        red: https://imgur.com/JHefJqI.jpg
+      half:
+        purple: https://imgur.com/jGKigvu.jpg
+        yellow: https://imgur.com/Nfediko.jpg
+        blue: https://imgur.com/2CrJg2D.jpg
+        green: https://imgur.com/aiA76BM.jpg
+        red: https://imgur.com/COqUYtr.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 26
+      defense: 22
+      health: 24
+      mana: 11
+    max_level_stats_for_class:
+      attack: 32
+      defense: 28
+      health: 39
+      mana: 11
+    max_level_passives_for_class:
+      name: Attack Ailment Reduction
+      description: Attack status ailments are 8% less effective for the character this Troop is equipped on.
+      image: https://i.imgur.com/QCeBJHU.jpg.jpg
 
 max_level_by_stars:
   1: 10
