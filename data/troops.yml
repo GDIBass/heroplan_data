@@ -766,17 +766,17 @@ troops:
       - Rogue
     images:
       full:
-        purple: https://imgur.com/DYtnR14.jpg
-        yellow: https://imgur.com/EgwQvM5.jpg
-        blue: https://imgur.com/FRcGlow.jpg
-        green: https://imgur.com/CKzANqH.jpg
-        red: https://imgur.com/JHefJqI.jpg
+        purple: https://i.imgur.com/DYtnR14.jpg
+        yellow: https://i.imgur.com/EgwQvM5.jpg
+        blue: https://i.imgur.com/FRcGlow.jpg
+        green: https://i.imgur.com/CKzANqH.jpg
+        red: https://i.imgur.com/JHefJqI.jpg
       half:
-        purple: https://imgur.com/jGKigvu.jpg
-        yellow: https://imgur.com/Nfediko.jpg
-        blue: https://imgur.com/2CrJg2D.jpg
-        green: https://imgur.com/aiA76BM.jpg
-        red: https://imgur.com/COqUYtr.jpg
+        purple: https://i.imgur.com/jGKigvu.jpg
+        yellow: https://i.imgur.com/Nfediko.jpg
+        blue: https://i.imgur.com/2CrJg2D.jpg
+        green: https://i.imgur.com/aiA76BM.jpg
+        red: https://i.imgur.com/COqUYtr.jpg
     mana_bonus:
       1: 5
       9: 7
