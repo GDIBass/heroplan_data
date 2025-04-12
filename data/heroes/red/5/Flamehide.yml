@@ -1,0 +1,24 @@
+name: Flamehide
+source: goblinvillage
+family: garrisonguard
+speed: Very Fast
+class: Wizard
+power: 1173
+attack: 1200
+defense: 1161
+health: 2165
+skill: Calling the Bluff
+effects:
+  - Deals 375% damage to the target.
+  - Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.
+  - The target hit by the Sword Guard Mega Minion receives 468 Bleed damage over 3 turns. This effect spreads to nearby enemies.
+types:
+  - Hit 1
+  - Sword Guard Mega Minion
+  - Spreading DoT
+passives:
+  - >-
+    Resist Mana reduction: This character has an innate resistance against mana reduction.
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://imgur.com/6fcJPYy.jpg
