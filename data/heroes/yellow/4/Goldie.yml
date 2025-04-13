@@ -14,8 +14,8 @@ effects:
   - All allies reflect ailments to a random character on the opposing team for 3 turns. (Only cleansable status ailments are reflected)
 types:
   - Healer
-  - Attack buff
-  - Ailments reflect
+  - Growth All
+  - Reflect Ailments All
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.

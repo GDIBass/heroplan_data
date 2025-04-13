@@ -13,7 +13,7 @@ effects:
   - Cleanses status ailments from all allies
 types:
   - DoT 3
-  - Cleanser
+  - Cleanser All
 image: https://i.imgur.com/rSEO0Xi.jpg
 costume:
   bonuses: 5/5/10/5
@@ -30,7 +30,7 @@ costume:
   types:
     - Hit 3
     - DoT 3
-    - Cleanser
+    - Cleanser All
   passives:
     - >-
       Poison on Special Skill: When this character casts their Special Skill, all enemies receive 540 Poison damage over 4 turns.

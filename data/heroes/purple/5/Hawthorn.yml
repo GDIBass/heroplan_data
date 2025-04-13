@@ -15,7 +15,8 @@ effects:
 types:
   - Boosted HoT All
   - Mana Regen All
-  - Ailment Reflection All
+  - Reflect Ailments All
+  - Reflect Stacks All
 passives:
   - >-
     Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.

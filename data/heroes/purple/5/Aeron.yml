@@ -14,9 +14,9 @@ effects:
   - Cleanses status ailments from the caster and nearby allies.
   - Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns. This effect can't be dispelled.
 types:
-  - Healer
-  - Status Ailment Immunity
-  - Cleanser
+  - HoT All
+  - Status Ailment Immunity 3
+  - Cleanser 3
 image: https://i.imgur.com/9AxepJ9.jpg
 costume:
   bonuses: 5/5/10/5
@@ -31,8 +31,8 @@ costume:
     - Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.
     - Element Link gives all Dark allies +5% attack and +5% defense for 6 turns. Can't be dispelled.
   types:
-    - Heal
-    - Cleanser
+    - Healer All
+    - Lifts Ailments 3
   passives:
     - >-
       Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.

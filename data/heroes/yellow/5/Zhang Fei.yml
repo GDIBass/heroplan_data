@@ -13,7 +13,7 @@ effects:
   - All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can't be bypassed. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
 types:
   - Hit 1
-  - Defense Debuff Reflect
+  - Defense Debuff Reflect All
 image: https://i.imgur.com/stJf0Qg.jpg
 costume:
   bonuses: 5/5/10/5
@@ -30,7 +30,7 @@ costume:
   types:
     - Hit 1
     - DoT 1
-    - Defense Debuff Reflect
+    - Defense Debuff Reflect All
   passives:
     - 'Unstoppable Minions:'
     - ' * Resistance against Minion removal.'

@@ -14,10 +14,9 @@ effects:
   - Lifts the latest status ailment from all allies and randomly distributes them on enemies.
   - If no ailments were succesfully distributed, deals 200% damage to all enemies.
 types:
-  - Steals 1 Buff All
-  - Lifts 1 Ailment All
+  - Steals 1 Buff All or Hit All
+  - Lifts 1 Ailment All or Hit All
 passives:
   - >-
-    Disable Minion Abilities: Attacks and abilities of all Minions owned by
-    enemies are disabled.
+    Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled.
 image: https://i.imgur.com/hMx4yq8.jpg

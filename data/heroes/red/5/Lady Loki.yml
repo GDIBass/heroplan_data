@@ -13,7 +13,7 @@ effects:
   - Deals 170% damage to all enemies
   - Deals additional 8% damage per transferred status ailment, up to 298% damage in total.
 types:
-  - Cleanser
+  - Lifts Ailments
   - Hit All
 image: https://i.imgur.com/NzRPKjE.jpg
 costume:
@@ -29,6 +29,6 @@ costume:
     - Deals 135% damage to all enemies.
     - Deals additional 15% damage per allocated status effect, up to 375% damage in total.
   types:
-    - Cleanser
+    - Lifts Ailments
     - Hit All
   image: https://i.imgur.com/R89Eh1b.jpg

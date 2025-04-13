@@ -18,7 +18,8 @@ types:
   - Cleanser All
   - Defense Buff All
   - Ally Damage Share
-  - Status Ailment Reflection All
+  - Reflect Ailments All
+  - Reflect Stacks All
   - HoT All
 passives:
   - >-

@@ -14,7 +14,7 @@ effects:
   - Element Link gives all Nature allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled.
 types:
   - Hit 3
-  - Reflect
+  - Reflect Ailments Self
 passives:
   - >-
     Resist Special Skill Blocking: This character has innate resistance against status ailments that Block Special Skills.
