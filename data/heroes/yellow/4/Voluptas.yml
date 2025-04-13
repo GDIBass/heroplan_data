@@ -12,8 +12,8 @@ effects:
   - Destroys all Fiends from the caster and nearby allies.
   - Recovers 40% health for the caster and nearby allies.
 types:
-  - Fiend Destroyer
-  - Healer
+  - Fiend Destroyer 3
+  - Healer 3
 passives:
   - >-
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.

@@ -18,7 +18,7 @@ effects:
 types:
   - Hit All
   - Sleep
-  - HoT
+  - HoT All
 passives:
   - >-
     Health Recovery on Buff Received: This character recovers 5% health when  they receive a buff or a positive stack.

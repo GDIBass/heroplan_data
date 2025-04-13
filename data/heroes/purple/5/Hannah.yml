@@ -15,7 +15,8 @@ effects:
   - The Golden Idol Fiend gives -20% attack for its owner as long as the owner has Golden Idol Fiends. This effect cannot be cleansed.
 types:
   - Hit 3
-  - Fiend
+  - Fiend Summoner 3
+  - Attack Debuff Fiend
 passives:
   - >-
     Start Battle with Mana: This character receives 20% mana at the start of the battle.

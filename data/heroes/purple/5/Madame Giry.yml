@@ -16,8 +16,9 @@ effects:
   - All enemies get -44% defense against Dark for 4 turns.
 types:
   - Hit all
-  - Fiends
-  - Elemental Defense Debuff
+  - Fiend Summoner All
+  - Buff Immunity Fiend
+  - Elemental Defense Debuff All
 passives:
   - >- 
     Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.

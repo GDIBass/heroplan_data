@@ -15,6 +15,7 @@ effects:
 types:
   - Heal All
   - Lifts 1 Ailment All
+  - Debuff Reflecting Chance All
 passives:
   - >-
     Disable Minion Abilities: Attacks and abilities of all Minions owned by

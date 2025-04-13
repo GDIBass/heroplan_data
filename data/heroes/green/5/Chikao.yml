@@ -22,6 +22,7 @@ effects:
   - ' * Deals 900% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.'
   - ' * The enemy on the edges of the formation fall asleep and receive +100% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)'
 types:
+  - Charge
   - Dispeller 2
   - Hit 2
   - Sleep 2

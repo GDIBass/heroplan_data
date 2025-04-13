@@ -12,16 +12,18 @@ effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
   - ' * Summons a Butterfly Minion for each ally with 14% HP and 20% attack inherited from the caster.'
-  - ' *- Each hit from a Butterfly Minion Gives the target the following status ailment:'
-  - ' *-- +20% increase to all received damage for 3 turns.'
+  - ' * Each hit from a Butterfly Minion Gives the target the following status ailment:'
+  - ' *** +20% increase to all received damage for 3 turns.'
   - '2x Mana Charge:'
   - ' * Summons a Butterfly Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.'
   - ' * The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it''s owner''s max health.'
   - ' * When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can''t be cleansed. Chance to miss also applies to offensive Special Skills.'
 types:
-  - Summoner
-  - Fiend
   - Charge
+  - Minion Summoner All
+  - Damage Increasing Minion Hit
+  - Fiend Summoner All
+  - Accuracy Debuff Fiend
 passives:
   - >-
     Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'

@@ -14,10 +14,10 @@ effects:
   - All allies regenerate 1190 HP over 5 turns. This effect can’t be dispelled.
   - All enemies receive 815 Poison damage over 5 turns. This effect can’t be cleansed.
 types:
-  - Fiend Destroyer
-  - Cleanser
-  - HoT
-  - Dot
+  - Fiend Destroyer All
+  - Cleanser All
+  - HoT All
+  - Dot All
 passives:
   - >-
     Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. 

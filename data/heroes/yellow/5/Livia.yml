@@ -14,10 +14,11 @@ effects:
   - The caster and nearby allies regenerate 1800 HP over 4 turns.
   - The caster and nearby allies reflect status ailments and negative stacks for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
 types:
-  - Cleanser All
-  - Moonrise Ward 3
+  - Lifts Debuffs 3
+  - SS Damage Reduction Moonrise Ward 3
   - HoT 3
-  - Reflect ailments 3
+  - Reflect Ailments 3
+  - Reflect Stacks 3
 passives:
   - >-
     Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.

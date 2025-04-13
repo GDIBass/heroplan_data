@@ -14,8 +14,9 @@ effects:
   - The Spider Fiend absorbs healing and disappears when it has absorbed health equal to 28% of the target's max health.
   - The Spider Fiend gives -24% mana generation for its owner as long as the owner has Spider Fiends. This effect cannot be cleansed.
 types:
-  - Fiend
   - Hit All
+  - Fiend Summoner All
+  - Mana Generation Debuff Fiend
 passives:
   - >-
     Increase Buff Duration: Duration of the first 3 buffs this hero receives from Special Skills is increased by 1 turn
@@ -35,7 +36,8 @@ costume:
     - When summoned, the Spider Fiend gives -28% mana generation for its owner for as long as the owner has Spider Fiends. This effect can't be cleansed.
   types:
     - Hit all
-    - Fiends
+    - Fiend Summoner All
+    - Mana Generation Debuff Fiend
   passives:
     - >-
       Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.

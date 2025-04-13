@@ -15,7 +15,8 @@ effects:
   - The healing absorbed is transferred to the summoner and their allies and distributed evenly. (Ignores heal steal, healing modifers and fiends)
 types:
   - Hit 1
-  - Fiends 1
+  - 3 Fiend Summoner 1
+  - Stealing Heal Fiend
 passives:
   - >- 
     Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.

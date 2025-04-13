@@ -15,7 +15,7 @@ effects:
   - The Scarab Bomb Fiend explodes after 3 turns, dealing 600 damage to its target and minor damage to nearby enemies.
 types:
   - Hit 3
-  - Exploding Fiend 3
+  - Exploding Fiend Summoner 3
 passives:
   - >-
     Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
@@ -37,7 +37,7 @@ costume:
     - The Scarab Bomb Fiend explodes after 3 turns, dealing 900 damage to its target and minor damage to nearby enemies.
   types:
     - Hit 3
-    - Exploding Fiend 3
+    - Exploding Fiend Summoner 3
   passives:
     - >-
       Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill

@@ -15,7 +15,7 @@ effects:
   - Element Link recovers 4% health for all Ice allies for 4 turns. This effect can't be dispelled.
 types:
   - Cleanser 3
-  - Reflect ailments
+  - Reflect ailments 3
   - HoT 3
 passives:
   - >-

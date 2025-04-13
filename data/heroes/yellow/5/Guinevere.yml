@@ -13,8 +13,9 @@ effects:
   - The caster and nearby allies regenerate 612 HP over 4 turns.
   - The caster and nearby allies get +54% defense against Dark for 4 turns.
 types:
-  - Mana Reduction
-  - Healer
+  - Mana Reduction All
+  - HoT All
+  - Elemental Defense Buff All
 image: https://i.imgur.com/dYjW9Xa.jpg
 costume:
   bonuses: 5/5/10/5
@@ -29,6 +30,8 @@ costume:
     - Recovers 40% health for all allies.
     - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies Dark Special Skill for 4 turns. Status effects cast by characters Minions and Fiends on the same side cannot be reflected.
   types:
-    - Mana Reduction
-    - Healer
+    - Mana Reduction 3
+    - Healer All    
+    - Elemental Reflect All
+    - Elemental Counterattack All
   image: https://i.imgur.com/IeQY7xx.jpg

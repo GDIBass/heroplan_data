@@ -15,7 +15,7 @@ effects:
   - When summoned, the Dusk Mothling Mega Fiend causes its target to be immune to new buffs. The effect lasts as long as the target has Dusk Mothling Mega Fiend.
 types:
   - Safely Dispel 1
-  - Dusk Mothling Mega Fiend 1
+  - Dusk Mothling Mega Fiend Summoner 1
 passives:
   - >- 
     Dodge Special Damage: This character has a 10% chance to dodge Special Skills that deal damage.

@@ -15,6 +15,7 @@ effects:
 types:
   - Hit All
   - Reflect
-  - Counterattack
+  - Elemental Reflect 
+  - Elemental Counterattack
   - Attack Buff
 image: https://i.imgur.com/z0VwSFd.jpg

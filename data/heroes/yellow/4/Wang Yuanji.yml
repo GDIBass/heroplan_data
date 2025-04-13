@@ -12,7 +12,7 @@ effects:
   - Destroys all Fiends from all allies.
   - Boosts health of all allies by 625. Boosted health can exceed max HP.
 types:
-  - Fiend Destroyer
+  - Fiend Destroyer All
   - Health Boost
 image: https://i.imgur.com/SwBxlgF.jpg
 costume:
@@ -28,7 +28,7 @@ costume:
     - Boosts health of all allies by 520. Boosted health can exceed max HP.
     - All allies get +30% defense for 5 turns.
   types:
-    - Fiend Destroyer
+    - Fiend Destroyer All
     - Health Boost All
     - Defense Buff All
   passives:

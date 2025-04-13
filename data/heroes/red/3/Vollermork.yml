@@ -9,14 +9,10 @@ defense: 514
 health: 738
 skill: Thresher Worms
 effects:
-  - >-
-    Summons a Worm Fiend for all enemies. The Fiend damages the enemy with 32%
-    attack every turn.
-  - >-
-    The Worm Fiend absorbs healing and disappears when it has absorbed health
-    equal to 16% of the targets max health
+  - Summons a Worm Fiend for all enemies. The Fiend damages the enemy with 32% attack every turn.
+  - The Worm Fiend absorbs healing and disappears when it has absorbed health equal to 16% of the targets max health
 types:
-  - Fiends
+  - Fiend Summoner All
 passives:
   - >-
     Start Battle with Mana: This character receives 20% mana at the start of the battle.
@@ -33,7 +29,7 @@ costume:
     - Summons a Worm Fiend for all enemies. The fiend damages the enemy with 28% attack every turn.
     - The fiend absorbs healing. It disappears after absorbing a healing equal to 20% of the target’s max health.
   types:
-    - Fiends
+    - Fiend Summoner All
   passives:
     - >-
       Start Battle with Mana: This character receives 20% mana at the start of the battle.

@@ -19,7 +19,8 @@ types:
   - Hit 1
   - Bypass
   - Healer
-  - Grave Mothling Mega Fiend
+  - Grave Mothling Mega Fiend Summoner 1
+  - Damage Increasing Mega Fiend
 passives:
   - >- 
     Dodge Special Damage: This character has a 10% chance to dodge Special Skills that deal damage.

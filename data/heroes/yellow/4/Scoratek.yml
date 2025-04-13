@@ -1,8 +1,8 @@
 name: Scoratek
 source: season5
-class: Fighter
 family: moon
 speed: Fast
+class: Fighter
 power: 683
 attack: 633
 defense: 654
@@ -10,22 +10,15 @@ health: 1387
 skill: Scarab Throw
 effects:
   - Deals 190% damage to the target.
-  - >-
-    Summons a Bomb Scarab Fiend for the target. The Fiend damages its target
-    with 38% attack every turn.
-  - >-
-    The Bomb Scarab Fiend absorbs healing and disappears when it has absorbed
-    health equal to 30% of its owner’s max health.
-  - >-
-    The Bomb Scarab Fiend explodes after 3 turns, dealing 600 damage to its
-    target and minor damage to nearby enemies.
+  - Summons a Bomb Scarab Fiend for the target. The Fiend damages its target with 38% attack every turn.
+  - The Bomb Scarab Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.
+  - The Bomb Scarab Fiend explodes after 3 turns, dealing 600 damage to its target and minor damage to nearby enemies.
 types:
   - Hit 1
-  - Fiend
+  - Exploding Fiend Summoner 1
 passives:
   - >-
-    Effects on Special Skill: 50% chance to perform the following actions when
-    this character casts their Special Skill
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/cEv4g9a.jpg
@@ -44,7 +37,7 @@ costume:
     - The Scarab Bomb Fiend explodes after 3 turns, dealing 900 damage to its target and minor damage to nearby enemies.
   types:
     - Hit 1
-    - Fiend
+    - Exploding Fiend Summoner 1
   passives:
     - >-
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill

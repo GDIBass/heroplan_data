@@ -15,9 +15,9 @@ effects:
   - All hit targets get -54% attack for 4 turns.
 types:
   - Hit 1
-  - Chain
-  - Status Effect Block
-  - Attack Debuff
+  - Chain Hit
+  - Status Effect Block on Hit
+  - Attack Debuff on Hit
 passives:
   - >-
     Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.

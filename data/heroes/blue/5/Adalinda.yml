@@ -15,7 +15,8 @@ effects:
   - The target and nearby enemies get -56% defense for 4 turns.
 types:
   - Hit 3
-  - Fiend
+  - Fiend Summoner 3
+  - Defense debuff 3
 passives:
   - >-
     Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.

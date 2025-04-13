@@ -15,7 +15,7 @@ effects:
   - All enemies get -32% attack, and a further -5% decrease every time they are hit during 4 turns.
 types:
   - Hit All
-  - Fiend
+  - Fiend Summoner All
   - Attack debuff
 passives:
   - >-

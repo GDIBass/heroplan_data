@@ -15,9 +15,9 @@ effects:
   - Element Link gives all Nature allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled.
 types:
   - Enemy Damage Share
-  - Defense Debuff
-  - Counterattack Fire SS
-  - Reflect Fire Status Efects
+  - Defense Debuff All
+  - Elemental Reflect All
+  - Elemental Counterattack All
 passives:
   - >-
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.

@@ -22,7 +22,7 @@ effects:
   - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
 types:
   - Hit 1
-  - Replicating Fiend
+  - Replicating Fiend Summoner 1
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
@@ -53,7 +53,7 @@ costume:
     - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
   types:
     - Hit 1
-    - Replicating Fiend
+    - Replicating Fiend Summoner 1
   passives:
     - >-
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill

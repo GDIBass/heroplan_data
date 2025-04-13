@@ -16,8 +16,8 @@ effects:
   - The sleeping target is woken once it takes damage. This excludes damage from minions and fiends.
   - Element Link gives +10% increase for any healing received for all Nature allies for 4 turns. This effect can't be dispelled.
 types:
-  - Sleep
   - Hit 1
+  - Sleep
 passives:
   - >-
     Resist buff immunity: This character has innate resistance against status ailments that give immunity to new buffs.

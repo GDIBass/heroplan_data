@@ -16,7 +16,8 @@ effects:
   - The Skeleton Fox Fiend absorbs healing. It disappears after receiving a healing amount equal to 30% of its target’s max health.
 types:
   - Hit All
-  - Bone Toss
+  - Bone Toss Hit 1
+  - Bone Toss Fiend Summoner 1
 passives:
   - >-
     Decreased Healing: All enemies get -50% healing.

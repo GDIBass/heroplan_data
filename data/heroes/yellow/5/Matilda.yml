@@ -10,23 +10,15 @@ health: 1489
 skill: Muffin Poisoning
 effects:
   - All enemies receive 330 Poison damage over 3 turns.
-  - >-
-    Summons a Muffin Fiend for all enemies. The Fiend damages the enemy with 38%
-    attack every turn.
-  - >-
-    The Muffin Fiend absorbs healing and disappears when it has absorbed health
-    equal to 35% of its target’s max health.
+  - Summons a Muffin Fiend for all enemies. The Fiend damages the enemy with 38% attack every turn.
+  - The Muffin Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its target’s max health.
   - 'Each hit from the Muffin Fiend has the following effects:'
-  - '* The target takes +50% increased damage from status ailments for 3 turns.'
-  - >-
-    * There is a 25% chance to refesh the duration of the status ailment with
-    the least turns remaining.
+  - ' * The target takes +50% increased damage from status ailments for 3 turns.'
+  - ' * There is a 25% chance to refesh the duration of the status ailment with the least turns remaining.'
 types:
   - Dot All
-  - Fiend
+  - Fiend Summoner All
 passives:
   - >-
-    Steal Buff - When this character casts their Special Skill, they have a 50% 
-    chance to steal the newest dispellable buff from a random enemy that has buffs. 
-    If no enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/Lb4Sdwp.jpg

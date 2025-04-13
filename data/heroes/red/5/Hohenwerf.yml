@@ -15,7 +15,8 @@ effects:
   - The Gargyle Fiend explodes after 4 turns, dealing 150 damage to its target.
 types:
   - Hit 1
-  - Fiend
+  - Fiend Summoner 1
+  - Exploding Mindless Attack Fiend
 passives:
   - >-
     Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 3 times they receive damage, it is dropped to 1. This effect can’t be dispelled.

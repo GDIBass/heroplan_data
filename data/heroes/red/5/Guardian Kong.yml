@@ -9,12 +9,13 @@ defense: 587
 health: 1433
 skill: Lord of the Jungle
 effects:
-  - Deals 250% damage to all enemies
-  - All allies get +94% defense against Ice for 4 turns
-  - Cleanses status ailments from all allies
+  - Deals 250% damage to all enemies.
+  - All allies get +94% defense against Ice for 4 turns.
+  - Cleanses status ailments from all allies.
 types:
   - Hit All
-  - Cleanser
+  - Elemental Defense Buff All
+  - Cleanser All
 image: https://i.imgur.com/4n0L387.jpg
 costume:
   bonuses: 5/5/10/5
@@ -30,6 +31,7 @@ costume:
     - Dispells buffs from all enemies.
   types:
     - Hit All
-    - Reflect Buff
-    - Dispeller
+    - Elemental Reflect All
+    - Elemental Counterattack All
+    - Dispeller All
   image: https://i.imgur.com/cXwWGpL.jpg
