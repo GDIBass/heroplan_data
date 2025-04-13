@@ -14,7 +14,7 @@ effects:
   - All allies get a small amount of mana for each destroyed minion
   - Element Link gives all Dark allies +10% critical chance for 6 turns. This effect can’t be dispelled.
 types:
-  - Destroy Minions
+  - Minion Destroyer All
   - Hit All
 passives:
   - >-

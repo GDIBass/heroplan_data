@@ -20,9 +20,9 @@ effects:
   - ' * Stack (Max 10): The caster recovers 24 HP each turn for each destroyed Minion.'
   - ' * All allies get +50% defense for 3 turns.'
 types:
-  - Destroy Minions
+  - Minion Destroyer All
   - Hit all
-  - Defense Buffer
+  - Defense Buff All
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill

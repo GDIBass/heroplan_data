@@ -13,8 +13,8 @@ effects:
   - Dispels buffs from all enemies.
   - All allies regenerate 540 HP over 3 turns.
 types:
-  - Destroy Minions
-  - Dispeller
+  - Minion Destroyer All
+  - Dispeller All
   - Healer
 passives:
   - >-

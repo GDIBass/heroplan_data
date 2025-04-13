@@ -23,7 +23,7 @@ effects:
   - ' * Deals 390% damage to all enemies.'
   - ' * All allies get a small amount of mana for each destroyed Minion.'
 types:
-  - Minion Destroyer
-  - Hit
-  - Mana
+  - Minion Destroyer 1/3/All
+  - Hit 1/3/All
+  - Mana Boost
 image: https://i.imgur.com/yKvm70P.jpg

@@ -11,12 +11,9 @@ skill: Pest Control
 effects:
   - Destroys all minions from the target.
   - Deals 275% damage to hit targets.
-  - >-
-    If the target had Minions, attacks another enemy who has Minions. If none 
-    of the enemies have Minions, attacks a random enemy. Each enemy can only be
-    attacked once.
+  - If the target had Minions, attacks another enemy who has Minions. If none of the enemies have Minions, attacks a random enemy. Each enemy can only be attacked once.
 types:
+  - Minion Destroyer 1
   - Hit 1
-  - Destroy Minions
   - Chain Hit
 image: https://i.imgur.com/BgqqlFR.jpg

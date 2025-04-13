@@ -16,7 +16,7 @@ effects:
   - Element Link gives all Nature allies +5% dodge chance for 6 turns. This effect cannot be dispelled.
 types:
   - Hit 1
-  - Minion  
+  - Summoner 1
 passives:
   - >-
     Resist Minion Removal: This character has innate resistance against Minion removal.

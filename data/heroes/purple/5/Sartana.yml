@@ -43,7 +43,7 @@ costume2:
     - Deals 500% damage to the target.
     - The target resists new Minions for 3 turns.
   types:
-    - Destroy Minions
+    - Minion Destroyer 1
     - Hit 1
     - Minion Blocking
   image: https://i.imgur.com/I8cTetD.jpg

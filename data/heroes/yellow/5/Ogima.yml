@@ -15,7 +15,7 @@ effects:
   - >-
     Stack (Max: 10): All enemies get -7% mana generation for each destroyed Minion.
 types:
-  - Minion Destruction
+  - Minion Destroyer All
   - Hit All
   - Mana Generation Stack
 passives:

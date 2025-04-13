@@ -16,7 +16,7 @@ effects:
   - Caster regenerates 306 HP over 2 turns.
 types:
   - Hit 1
-  - Minion Destruction
+  - Minion Destroyer 1
   - Bypass
 passives:
   - >-

@@ -13,7 +13,7 @@ effects:
   - Deals 270% damage to all enemies.
   - If an enemy had Minions they will resist new Minions for 4 turns.
 types:
-  - Minion Killer
+  - Minion Destroyer All
   - Hit All
   - Minion Immunity
 image: https://i.imgur.com/x2Zz9OK.jpg

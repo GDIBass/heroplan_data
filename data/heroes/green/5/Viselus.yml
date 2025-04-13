@@ -14,7 +14,7 @@ effects:
   - The target and nearby enemies receive 572 Poison damage over 4 turns.
   - Element Link gives all Nature allies +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled.
 types:
-  - Destroy Minions 3
+  - Minion Destroyer 3
   - Hit 3
   - DoT 3
 passives:

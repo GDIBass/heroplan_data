@@ -15,7 +15,7 @@ effects:
   - All allies get 3% mana for each destroyed Minion.
   - The attack bypasses defensive buffs. This includes counterattacks.
 types:
-  - Minion Destroyer
+  - Minion Destroyer 3
   - Hit 3
   - Bypass
 passives:
@@ -37,7 +37,7 @@ costume:
     - All allies get 3% mana for each destroyed Minion.
     - The attack bypasses defensive buffs. (This includes counterattacks.)
   types:
-    - Minion Destroyer
+    - Minion Destroyer 3
     - Hit 3
     - Bypass
   passives:

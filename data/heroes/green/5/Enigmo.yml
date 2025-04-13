@@ -16,7 +16,7 @@ effects:
 types:
   - Healer
   - Hit All
-  - Minion Summoner
+  - Summoner
   - Fiend Summoner
 passives:
   - >-

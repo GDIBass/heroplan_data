@@ -16,7 +16,7 @@ effects:
 types:
   - Healer
   - Summoner
-  - Destroy Minions
+  - Minion Destroyer
 passives:
   - >-
     Sparrow Summoner: Summons a Sparrow Minion for self when an enemy summons any Minions by Special Skill.
