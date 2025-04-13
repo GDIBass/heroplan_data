@@ -91,7 +91,7 @@ costume4:
   types:
     - Healer All
     - Defense Buff All
-    - Debuff Reflect on Holy Allies
+    - Debuff Reflect for Holy Allies
     - Cleanser All
   passives:
     - >-
