@@ -15,7 +15,8 @@ effects:
   - All enemies can’t get their status ailments cleansed or reallocated by Special Skill for as long as they have Bone Trap Fiends. (This effect also prevents cleansing and reallocating of itself.)
 types:
   - Hit All
-  - Fiends All
+  - Fiend Summoner All
+  - Debuff Clean Blocking Fiend
 passives:
   - >-
     Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.

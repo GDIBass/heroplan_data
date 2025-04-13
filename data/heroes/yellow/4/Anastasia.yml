@@ -1,8 +1,8 @@
 name: Anastasia
-class: Sorcerer
 source: magic
 family: magic
 speed: Magic
+class: Sorcerer
 power: 678
 attack: 667
 defense: 626
@@ -17,9 +17,10 @@ effects:
   - ' * Summons a Grimoire Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.'
   - ' * The Grimoire Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of its target''s max health.'
 types:
-  - Summoner
-  - Fiend
   - Charge
+  - Minion Summoner All
+  - Fiend Summoner All
 passives:
-  - 'Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%.'
+  - >-
+    Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%.
 image: https://i.imgur.com/ADu9siF.jpg

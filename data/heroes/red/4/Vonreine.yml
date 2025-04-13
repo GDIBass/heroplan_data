@@ -15,7 +15,7 @@ effects:
   - The caster steals 30% of the generated mana from the target and nearby enemies. This effect lasts as long as the target has Fire Wish Fiends. This effect can’t be cleansed, but gets removed if the caster is defeated.
 types:
   - Hit 3
-  - Fiends
+  - Fiend Summoner 3
   - Generated mana steal 3
 passives:
   - >-

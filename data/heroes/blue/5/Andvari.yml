@@ -14,8 +14,8 @@ effects:
   - All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1200. Reduces damage by additional 30% when the attacker is of the Nature element.
   - All allies get +40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
 types:
-  - Minions Destroyer
-  - Fiends Destroyer
+  - Minion Destroyer All
+  - Fiend Destroyer All
   - Firestorm Ward
   - Mana Generation Buff
 passives:

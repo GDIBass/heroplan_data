@@ -9,11 +9,11 @@ defense: 758
 health: 1417
 skill: Viper Blade
 effects:
-  - Deals 530% damage to the target
+  - Deals 530% damage to the target.
   - All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can't be bypassed. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
 types:
   - Hit 1
-  - Reflect
+  - Defense Debuff Reflect All
 image: https://i.imgur.com/stJf0Qg.jpg
 costume:
   bonuses: 5/5/10/5
@@ -30,7 +30,7 @@ costume:
   types:
     - Hit 1
     - DoT 1
-    - Reflect
+    - Defense Debuff Reflect All
   passives:
     - 'Unstoppable Minions:'
     - ' * Resistance against Minion removal.'

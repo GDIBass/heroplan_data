@@ -15,7 +15,8 @@ effects:
   - Deals extra damage against Holy.
 types:
   - Hit All
-  - Elemental Reflect
+  - Elemental Reflect All
+  - Elemental Counterattack All
 image: https://i.imgur.com/OQ8iQcf.jpg
 costume:
   bonuses: 5/5/10/5
@@ -32,5 +33,6 @@ costume:
     - All Holy enemies get -54% defense against Dark for 4 turns.
   types:
     - Hit All
-    - Elemental Reflect
+    - Elemental Reflect All
+    - Elemental Counterattack All
   image: https://i.imgur.com/HefSfvM.jpg

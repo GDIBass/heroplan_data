@@ -18,8 +18,10 @@ effects:
   - ' * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 60% of its target’s max health.'
   - ' * When summoned, the Cursed Sigil Fiend give -38% mana generation for its owner for as long as the owner has Cursed Sigil Fiends. This effect can’t be cleansed.'
 types:
-  - Summoner
-  - Fiends
+  - Charge
+  - Minion Summoner All
+  - Fiend Summoner All
+  - Mana Generation Debuff Fiend
 passives:
   - >-
     Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.

@@ -14,8 +14,9 @@ effects:
   - All allies reflect all status effects and 115% damage back to the attacker  and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
 types:
   - Hit 3
-  - Mana Reduction
-  - Reflect Specials
+  - Mana Reduction 3
+  - Elemental Reflect All
+  - Elemental Counterattack All
 image: https://i.imgur.com/xMxFVwW.jpg
 costume:
   bonuses: 5/5/10/5
@@ -31,6 +32,7 @@ costume:
     - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
   types:
     - Hit All
-    - Mana Generation Debuff
-    - Reflect Specials
+    - Mana Generation Debuff 3
+    - Elemental Reflect All
+    - Elemental Counterattack All
   image: https://i.imgur.com/8AHvvyw.jpg

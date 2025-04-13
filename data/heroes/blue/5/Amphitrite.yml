@@ -24,9 +24,10 @@ effects:
   - '* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.'
   - '* All enemies get -75% decrease of any healing received for 4 turns.'
 types:
+  - Charge
   - Hit All
-  - Healing debuff
-  - Fiend
+  - Healing debuff All
+  - Fiend Summoner All
 passives:
   - >-
     Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.

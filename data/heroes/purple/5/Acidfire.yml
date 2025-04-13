@@ -10,13 +10,13 @@ health: 1604
 skill: Poisonous Mist
 effects:
   - Deals 355% damage to the target and nearby enemies.
-  - 'Wither: The target and nearby enemies get -225 attack and -225 defense.'
+  - "Wither: The target and nearby enemies get -225 attack and -225 defense."
   - The target and nearby enemies reflect status effect buffs to a random character on the opposing team for 3 turns. (Only dispellable buffs are reflected.)
 types:
   - Hit 3
   - Wither attack
   - Wither defense
-  - Buffs reflect
+  - Reflect Buffs 3
 passives:
   - >-
     Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.

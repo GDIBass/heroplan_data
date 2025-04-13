@@ -15,7 +15,7 @@ effects:
   - If an enemy is defeated while it has a Missile Fiend, nearby enemies receive 500 damage.
 types:
   - Hit 3
-  - Fiends
+  - Fiend Summoner 3
 passives:
   - >-
     Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.

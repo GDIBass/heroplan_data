@@ -20,7 +20,7 @@ effects:
   - ' * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target’s max health.'
 types:
   - Hit all
-  - Fiends
+  - Fiend Summoner All
 passives:
   - >-
     Effects on Special Skill:
@@ -48,7 +48,7 @@ costume:
     - ' * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 60% of its target’s max health.'
   types:
     - Hit all
-    - Fiends
+    - Fiend Summoner All
   passives:
     - >-
       Effects on Special Skill:

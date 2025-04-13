@@ -16,7 +16,8 @@ effects:
   - Elemental Link gives all Fire allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled.
 types:
   - Hit all
-  - Fiends
+  - Fiend Summoner All
+  - Taunt Block Fiend
 passives:
   - >-
     Ignore Taunt: This character’s Special Skill is not affected by Taunt.

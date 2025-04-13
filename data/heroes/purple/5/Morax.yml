@@ -15,8 +15,8 @@ effects:
   - Element Link gives all Dark allies immunity to new Fiends for 4 turns. This effect cannot be dispelled
 types:
   - Hit 3
-  - Mana generation debuff
-  - Health Reduction
+  - Mana generation debuff 1
+  - Max Health Reduction 2
 passives:
   - >-
     Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.

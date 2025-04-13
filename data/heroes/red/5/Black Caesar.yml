@@ -15,7 +15,8 @@ effects:
   - When summoned, the Pirate Skeleton Fiend gives -45% attack for its owner for as long as the owner has Priate Skeleton Fiends. This effect can’t be cleansed.
 types:
   - Hit All
-  - Fiends
+  - Fiend Summoner All
+  - Attack Debuff Fiend
 passives:
   - >-
     Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.

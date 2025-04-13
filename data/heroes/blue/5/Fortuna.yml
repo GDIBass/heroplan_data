@@ -15,9 +15,10 @@ effects:
   - The Corrupted Mask Fiend absorbs healing. It disappears after absorbing a healing amount equal to 22% of its target’s max health.
   - When summoned, the Corrupted Mask Fiend gives -36% attack for its owner for as long as the owner has Corrupted Mask Fiends. This effect can’t be cleansed.
 types:
-  - Dispeller
+  - Dispeller All
   - Hit All
-  - Fiend
+  - Fiend Summoner All
+  - Attack Debuff Fiend
 passives:
   - >-
     Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. 

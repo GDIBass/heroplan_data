@@ -82,7 +82,8 @@ costume4:
   types:
     - Healer All
     - Attack Buff All
-    - Fire allies Reflect All
+    - Reflect Ailments for Fire Allies
+    - Reflect Stacks for Fire Allies
   passives:
     - >-
       Glass: 60% extra chance to reflect status ailments back to the attacker.

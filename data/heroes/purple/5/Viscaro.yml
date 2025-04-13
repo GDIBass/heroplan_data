@@ -17,7 +17,8 @@ effects:
   - Element Link gives all Dark allies +10% attack for 4 turns. This effect can’t be dispelled.
 types:
   - Hit All
-  - Fiend
+  - Minion Bypass
+  - Fiend Summoner All
 passives:
   - >-
     Cursed sapling summoner: When an enemy summons any minions by special skill, this character summons a Cursed Sapling Fiend for that enemy.

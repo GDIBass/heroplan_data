@@ -13,8 +13,8 @@ effects:
   - The Dagger Fiend absorbs healing. It disappears after absorbing healing amount equal to 20% of its target’s max health.
   - When the Dagger Fiend disappears after it has absorbed enough healing, the owner receives 810 Bleed damage over 3 turns.
 types:
-  - Fiends
-  - Elemental
+  - Fiend Summoner 1
+  - Elemental Fiend Summoner
 passives:
   - 'Troop Mastery:'
   - >-

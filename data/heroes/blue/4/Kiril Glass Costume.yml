@@ -19,7 +19,8 @@ types:
   - Healer All
   - Attack Buff All
   - Defense Buff All
-  - Ice allies Reflect
+  - Reflect Ailments for Ice Allies
+  - Reflect Stacks for Ice Allies
 passives:
   - >-
     Glass: 60% extra chance to reflect status ailments back to the attacker.

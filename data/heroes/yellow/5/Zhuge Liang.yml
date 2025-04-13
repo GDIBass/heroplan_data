@@ -14,8 +14,8 @@ effects:
   - Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages its target with 75% attack every turn.
   - The Shu Guerrilla Fiend absorbs healing and disappears when it has absorbed 50% of its targets health.
 types:
-  - Summoner
-  - Fiend
+  - Counterattack Minion Summoner All
+  - Fiend Summoner All
 image: https://i.imgur.com/jjSBiGT.jpg
 costume:
   bonuses: 5/5/10/5
@@ -31,8 +31,8 @@ costume:
     - Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages its target with 70% attack every turn.
     - The Shu Guerrilla Fiend absorbs healing. It disappears after absorbing a healing amount equal to 55% of its target’s max health.
   types:
-    - Summoner
-    - Fiend
+    - Counterattack Minion Summoner All
+    - Fiend Summoner All
   passives:
     - 'Unstoppable Minions:'
     - ' * Resistance against Minion removal.'

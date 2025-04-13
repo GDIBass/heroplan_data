@@ -65,7 +65,8 @@ costume3:
   types:
     - Ally Damage Share
     - Defense Buff All
-    - Holy allies Reflect
+    - Reflect Ailments for Holy Allies
+    - Reflect Stacks for Holy Allies
   passives:
     - >-
       Glass: 60% extra chance to reflect status ailments back to the attacker.

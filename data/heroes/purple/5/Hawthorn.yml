@@ -13,9 +13,10 @@ effects:
   - All allies receive a small amount of mana over 4 turns.
   - All allies reflect status ailments for 4 turns and negative stacks for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
 types:
-  - Health Regen
-  - Mana Regen
-  - Ailment Reflection
+  - Boosted HoT All
+  - Mana Regen All
+  - Reflect Ailments All
+  - Reflect Stacks All
 passives:
   - >-
     Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.

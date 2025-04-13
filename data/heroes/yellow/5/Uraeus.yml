@@ -16,6 +16,8 @@ effects:
 types:
   - Hit 1
   - Minion Bypass
+  - DoT on Minion
+  - DoT on Fiend
 passives:
   - >-
     Resist Sand Damage: This character has an innate resistance against Sand damage.

@@ -89,9 +89,10 @@ costume4:
     - All Holy allies reflect status ailments and negative stacks for 2 turns. (Status effects cast by characters, Minions, and Fiends on the same side cannot be reflected.)
     - Cleanses status ailments from all allies.
   types:
-    - Healer
-    - Defense buff
-    - Cleanser
+    - Healer All
+    - Defense Buff All
+    - Debuff Reflect for Holy Allies
+    - Cleanser All
   passives:
     - >-
       Glass: 60% extra chance to reflect status ailments back to the attacker.

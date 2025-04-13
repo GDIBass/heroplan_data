@@ -85,8 +85,9 @@ costume4:
     - All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
     - Dispels buffs from all enemies.
   types:
-    - Healer
-    - Nature allies Reflect
+    - Healer All
+    - Reflect Ailments for Nature Allies
+    - Reflect Stacks for Nature Allies
     - Dispeller
   passives:
     - >-

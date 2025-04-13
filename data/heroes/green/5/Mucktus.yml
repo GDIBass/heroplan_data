@@ -15,7 +15,8 @@ effects:
   - At the end of each turn the Slime Fiend steals one of the dispellable buffs or Growth effect and gives it to a random character on the opposite team.
 types:
   - Hit All
-  - Slime Fiends
+  - Slime Fiend Summoner All
+  - Buff Stealing Fiend
 passives:
   - >-
     Slime Minion Upon Defeat: When the hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the defeated hero.

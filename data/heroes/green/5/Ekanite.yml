@@ -24,6 +24,6 @@ effects:
   - ' - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled.'
 types:
   - Damage All
-  - Minion Summoner
+  - Summoner
   - Counterattack
 image: https://i.imgur.com/YQskc4O.jpg

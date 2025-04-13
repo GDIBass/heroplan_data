@@ -15,7 +15,7 @@ effects:
   - When the Goblin Explosive Fiend disappears after it has absorbed enough healing, the owner receives 1269 Burn damage over 3 turns.
 types:
   - Wither
-  - Fiends 3
+  - Exploding Fiend Summoner 3
 passives:
   - >-
     Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.

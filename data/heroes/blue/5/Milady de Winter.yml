@@ -14,10 +14,10 @@ effects:
   - All enemies reflect status effect buffs to a random character on the opposing team for 6 turns. Only dispellable buffs are reflected.
   - All allies reflect cleansable status ailments to a random character on the opposing team for 6 turns. Only cleansable ailments are reflected.
 types:
-  - Hit all
-  - Self Healer
-  - Buffs reflect
-  - Ailments reflect
+  - Hit All
+  - Self HoT
+  - Reflect Buffs All
+  - Reflect Ailments All
 passives:
   - >-
     Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies.

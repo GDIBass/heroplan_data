@@ -22,8 +22,8 @@ effects:
   - ' * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 55% of it’s owner’s max health.'
   - ' * The Kunai Fiend explodes after 3 turns, dealing 2250 damage to its target.'
 types:
-  - Charge Hit
-  - Exploding Fiends
+  - Charge
+  - Exploding Fiend Summoner 1/3/All
 passives:  
   - >-
     Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.

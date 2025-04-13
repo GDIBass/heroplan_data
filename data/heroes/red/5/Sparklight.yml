@@ -15,8 +15,8 @@ effects:
   - The target and nearby enemies reflect status effect buffs to a random character on the opposing team for 4 turns. (Only dispellable buffs are reflected)
 types:
   - Hit 3
-  - DoT
-  - Buffs reflect
+  - DoT 3
+  - Reflect Buffs All
 passives:
   - >-
     Resist Poison: This character has innate resistance against Poison.

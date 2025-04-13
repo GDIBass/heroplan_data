@@ -15,7 +15,7 @@ effects:
   - The Spreading Shadow Fiend generates a clone of itself to nearby enemies every 2 turns. Cloned fiends absorb the same amount of healing and deal the same amount of damage as the original Fiend.
 types:
   - Hit 1
-  - Fiend  
+  - Cloning Fiend Summoner 1
 passives:
   - >-
     Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. 

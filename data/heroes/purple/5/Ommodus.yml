@@ -14,8 +14,9 @@ effects:
   - Attacks all enemies with Moonrise Strike, dealing up to 2000 damage. Deals 40% more damage if the target is Holy.
   - All allies get 5% mana for each destroyed Fiend.
 types:
-  - Fiend Destroyer
-  - Moonrise Strike
+  - Fiend Destroyer All
+  - Hit All Moonrise Strike
+  - Mana on Fiend Destroyed All
 passives:
   - >-
     Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.

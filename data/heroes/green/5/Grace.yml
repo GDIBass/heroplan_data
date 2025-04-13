@@ -15,8 +15,8 @@ effects:
   - Element Link gives all Nature allies immunity to new Fiends for 4 turns.
 types:
   - Hit 3
-  - Taunt Silence
-  - Defense Debuff
+  - Taunt Blocker 3
+  - SS Defense Debuff 3
 passives:
   - >-
     Resist Burn: This character has innate resistance against Burn.

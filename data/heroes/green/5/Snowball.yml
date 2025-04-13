@@ -15,7 +15,8 @@ effects:
   - When summoned, the Barbed Arrow Fiend increases the damage dealt to its target from all sources by +40%. The effect lasts as long as the target has Barbed Arrow Fiends. This effect can't be cleansed.
 types:
   - Hit 3
-  - Fiends
+  - Fiend Summoner 3
+  - Damage Increasing Fiend
 passives:
   - >-
     Wrath of Pets: When a Fiend is summoned to any enemy, this character deals  85% damage to all enemies. This effect can activate only once per turn.

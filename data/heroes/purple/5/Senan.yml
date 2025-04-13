@@ -16,7 +16,7 @@ effects:
   - 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
 types:
   - Hit All
-  - Fiends
+  - Fiend Summoner All
   - Stacks
 passives:
   - >-
@@ -39,7 +39,7 @@ costume:
     - 'Stack +3 (Max 10): The caster recovers 45 HP each turn.'
   types:
     - Hit All
-    - Fiends
+    - Fiend Summoner All
     - Stacks
   passives:
     - >-

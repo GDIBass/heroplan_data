@@ -14,6 +14,8 @@ effects:
   - Element Link summons a Nature Minion for all Nature allies with 6% HP and 10% attack inherited from the caster.
 types:
   - Hit All
+  - Lifts Attack Debuffs All
+  - Lifts Defense Debuffs All
 Passives:
   - >-
     Resist Blind: This character has innate resistance against status ailments that affect Accuracy. Doesn't apply to status effects from allies.

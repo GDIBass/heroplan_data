@@ -15,7 +15,9 @@ effects:
   - Element Link gives all Dark allies +5% dodge chance for 6 turns. This effect cannot be dispelled.
 types:
   - Cleanser 3
-  - Reflect ailments 3
+  - Hit Chance 1
+  - Reflect Ailments 3
+  - Reflect Stacks 3
 passives:
   - >-
     Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.

@@ -16,7 +16,7 @@ effects:
   - 'Stack (Max: 10): The caster recovers 10 HP each turn.'
 types:
   - Hit All
-  - Summoner
+  - Fiend Summoner All
   - Stack
 passives:
   - >-

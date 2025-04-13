@@ -14,9 +14,10 @@ effects:
   - Deals 350% damage to all enemies.
   - All enemies reflect status effect buffs to a random character on the opposing team for 4 turns. (Only dispellable buffs are reflected.)
 types:
-  - Cleanser
+  - Lifts Ailments All
+  - Reset Ailments All
   - Hit All
-  - Buffs reflect
+  - Reflect Buffs All
 passives:
   - >-
     Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.

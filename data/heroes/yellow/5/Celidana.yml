@@ -14,8 +14,9 @@ effects:
   - The caster and nearby allies resist max health reduction for 5 turns.
   - Element Link gives all Holy allies immunity to new Fiends for 4 turns. This effect can't be dispelled.
 types:
-  - Health Boost
-  - Defense Buff
+  - Health Boost 3
+  - Defense Buff 3
+  - Max Health Reduction Immunity 3
 passives:
   - >-
     Resist Max Health Reduction: This character has innate resistance against max health reduction.

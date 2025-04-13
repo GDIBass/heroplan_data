@@ -14,7 +14,7 @@ effects:
   - All allies get +45% attack, and a further increase of +20% every time they are hit, for 4 turns.
 types:
   - Hit All
-  - Reflect
-  - Counterattack
-  - Attack Buff
+  - Elemental Reflect All
+  - Elemental Counterattack All
+  - Attack Buff All
 image: https://i.imgur.com/z0VwSFd.jpg

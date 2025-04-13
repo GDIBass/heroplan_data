@@ -16,7 +16,7 @@ effects:
 types:
   - Hit 2
   - Mana reducer 2
-  - Fiends 2
+  - Fiend Summoner 2
 passives:
   - >-
     Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.

@@ -18,9 +18,9 @@ effects:
   - ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.'
   - ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
 types:
-  - Summoner
+  - Minion Summoner All
   - Stack
-  - Fiend Replacement
+  - Fiend Replacement All
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
@@ -46,9 +46,9 @@ costume:
     - ' * Summons a Jellyfish Minion for each ally with 40% HP and 50% attack inherited from the caster.'
     - ' * Stack (Max 10): All allies get +7% inherited HP for new Minions they summon.'
   types:
-    - Summoner
+    - Minion Summoner All
     - Stack
-    - Fiend Replacement
+    - Fiend Replacement All
   passives:
     - >-
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill

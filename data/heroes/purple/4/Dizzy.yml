@@ -14,6 +14,7 @@ effects:
   - The caster and nearby allies reflect all status effects and 100% damage back to the attacker and block all other negative effect from enemies’ Holy Special Skills for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
 types:
   - Hit 3
-  - Summoner 3
-  - Reflect elemental skills 3
+  - Minion Summoner 3
+  - Elemental Reflect 3
+  - Elemental Counterattack 3
 image: https://i.imgur.com/84anXmA.jpg

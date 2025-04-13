@@ -13,9 +13,11 @@ effects:
   - Recovers 35% health for all allies.
   - All allies reflect status ailments, negative stacks, and Wither effects to a random character on the opposing team for 4 turns.
 types:
-  - Safely Cleanses 1 ailment
-  - Heal All
-  - Reflect Debuffs
+  - Safely Cleanses 1 Ailment
+  - Healer All
+  - Reflect Ailments All
+  - Reflect Stacks All
+  - Reflect Wither All
 passives:
   - >-
     Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.

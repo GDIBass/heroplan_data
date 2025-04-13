@@ -1,8 +1,8 @@
 name: Esme
-class: Sorcerer
 source: knights
 family: wolf
 speed: Average
+class: Sorcerer
 power: 816
 attack: 762
 defense: 780
@@ -13,7 +13,7 @@ effects:
   - Boosts health of all allies by 650. Boosted health can exceed max HP.
   - If an ally had fiends they will be immune to new Fiends for 4 turns.
 types:
-  - Fiend Destroyer
-  - Hot
+  - Fiend Destroyer All
+  - Boosted Heal
   - Fiend immunity
 image: https://i.imgur.com/nObQye7.jpg
