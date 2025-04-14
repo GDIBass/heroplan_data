@@ -1,0 +1,22 @@
+name: Foxley
+source: covenant
+family: fox
+speed: Fast
+class: Ranger
+power: 1174
+attack: 1256
+defense: 1233
+health: 1889
+skill: Barbed Arrows
+effects:
+  - Deals 375% damage to the target and nearby enemies.
+  - The target and nearby enemies receive lasting 250 Bleed damage per turn. (This effect lasts until it is cleaned, replaced or removed.)
+  - After 2 turn the target and nearby enemies get Paralyzed for 1 turn. (Paralyzed enemies can’t attack, or gain mana and receive +50% increased damage. Bosses, Titans and Mythic Titans are not affeced by this status effect.)
+types:
+  - Hit 3
+  - Lasting DoT 3
+  - Delayed Paralysis 3
+passives:
+  - >-
+    Decreased Healing: All enemies get -50% healing.
+image: https://imgur.com/WizK6Nb.jpg
