@@ -1,0 +1,26 @@
+name: Hogne
+source: untoldtales
+family: myrkheim
+speed: Average
+class: Paladin
+power: 1174
+attack: 1149
+defense: 1182
+health: 2259
+skill: Glacial Fissure Cleave
+effects:
+  - Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2000 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.
+  - Reduces the max health of the target and nearby enemies with 600. This effec is strong against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 600.)
+  - The target and nearby enemies get -60% decrease of any healing received for 4 turns.
+types:
+  - Frostfall Strike 3
+  - Max Health Reduction 3
+  - Healing Debuff 3
+passives:
+  - >-
+    Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.
+  - >-
+    Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast
+  - " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 264 Frost damage, and lowers the target’s attack by -10% each turn."
+  - " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+image: https://imgur.com/adOyVFt.jpg
