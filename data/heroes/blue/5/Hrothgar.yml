@@ -16,8 +16,8 @@ effects:
     Status Effect Generator: At the start of the next 4 turns, this character gives a random ally +70% attack and +50% defense for 5 turns. This effect cannot be dispelled.
 types:
   - Hit All
-  - Mana Reduction
-  - Mana generation debuff
+  - Mana Reduction All
+  - Mana Generation Debuff All
   - Status Effect Generator 1
 passives:
   - >-
