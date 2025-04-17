@@ -1,0 +1,27 @@
+name: Bertha
+source: magic
+family: magiccarpet
+speed: Slow
+class: Wizard
+power: 505
+attack: 543
+defense: 510
+health: 771
+skill: Sewing Back Together
+effects:
+  - All allies regenerate 425 HP over 5 turns.
+  - Each defeated ally has a 35% chance to get revived with 25% HP.
+  - "All ailments affecting attack, defense and mana generation on the caster are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +35% attack buff for 4 turns. Defense ailments are replaced with +35% defense buff for 4 turns. Mana generation ailments are replaced with +35% mana generation buff for 4 turns.)"
+types:
+  - HoT All
+  - Reviver
+  - Replace Ailments Self
+passives:
+  - >-
+    Flight Momentum: If this character has any amount of Flight Momentum, they receive:
+  - " * Up to +30% mana generation."
+  - " * Up to +20% chance to dodge."
+  - " * The effects diminish the less Flight Momentum character has."
+  - >-
+    Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+image: https://imgur.com/qorWERP.jpg

@@ -1,0 +1,13 @@
+key: magiccarpet
+code: 101
+description: Magic Carpet
+image: https://i.imgur.com/wGfcQqE.png
+bonus:
+  - Heroes of this family have Flight Momentum.
+  - " * Hero start with full Flight Momentum."
+  - " * At the end of each turn and when taking damage the hero loses a small amount of Flight Momentum."
+  - " * When casting their Special Skill, hero gains Flight Momentum."
+  - " * Slower heroes gain increased amount of Flight Momentum."
+bonuscostume-5star: 
+bonuscostume-4star: 
+bonuscostume-3star:  
