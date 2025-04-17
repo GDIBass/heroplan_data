@@ -1,0 +1,27 @@
+name: Manpip
+source: magic
+family: magiccarpet
+speed: Average
+class: Rogue
+power: 727
+attack: 745
+defense: 718
+health: 1289
+skill: Kindled Carpet
+effects:
+  - Deals 250% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 296 Burn damage over 4 turns.
+  - "All buffs affecting attack, defense and mana generation on target and nearby enemies are replaced by matching uncleansable ailments. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack buffs are replaced with -35% attack ailment for 4 turns. Defense buffs are replaced with -35% defense ailment for 4 turns. Mana generation buffs are replaced with -35% mana generation ailment for 4 turns.)"
+types:
+  - Hit 3
+  - DoT 3
+  - Replace Buffs 3
+passives:
+  - >-
+    Flight Momentum: If this character has any amount of Flight Momentum, they receive:
+  - " * Up to +30% mana generation."
+  - " * Up to +20% chance to dodge."
+  - " * The effects diminish the less Flight Momentum character has."
+  - >-
+    Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+image: https://imgur.com/xf2xQFV.jpg
