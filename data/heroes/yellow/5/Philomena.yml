@@ -1,0 +1,24 @@
+name: Philomena
+source: wilderness
+family: woodlandfaun
+speed: Fast
+class: Fighter
+power: 1174
+attack: 1254
+defense: 1114
+health: 2136
+skill: Enchanting Melody
+effects:
+  - Deals 500% damage to the target and minor damage to nearby enemies.
+  - "Enhanced Defense Ailment: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once."
+  - After the Enhanced Defense Ailments ends or is removed or replaced, the enemy falls asleep and receives +70% increased damage while sleeping. (A sleeping character cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable.)
+types:
+  - Hit 3
+  - Enhanced Defense Ailment 3
+  - Sleep 3
+passives:
+  - >-
+    Resist Insanity: This character has innate resistance against Insanity.
+  - >-
+    Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack.
+image: https://imgur.com/zZJxSMo.jpg
