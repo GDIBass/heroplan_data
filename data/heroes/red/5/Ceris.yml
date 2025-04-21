@@ -1,0 +1,28 @@
+name: Ceris
+source: astral
+family: astraldwarfs
+speed: Average
+class: Sorcerer
+power: 1174
+attack: 1207
+defense: 1203
+health: 2074
+skill: Spell-lock
+effects:
+  - Deals 600% damage to the target.
+  - If the target had more than 50% mana before receiving damage, targets another enemy who had over 50% mana before receiving any damage from this Special Skill. If none of the other enemies had 50% mana, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
+  - All hit enemies get silenced for 6 turns.
+  - "Wither: All enemies get -350 attack and -350 defense."
+types:
+  - Hit 1
+  - Random Hit
+  - Silence Hit Enemies
+  - Wither All
+passives:
+  - >-
+    Bypass Minions: All damage done by this character bypasses Minions.
+  - >-
+    Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.
+  - >-
+    Perfect Accuracy: This character’s Special Skill never misses its targets.
+image: https://imgur.com/RSa7LWa.jpg
