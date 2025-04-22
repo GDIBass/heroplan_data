@@ -1,0 +1,13 @@
+key: mimic
+code: 102
+description: 
+image: https://i.imgur.com/IOwfFoq.png
+bonus:
+  - Members of this family have a Mimic Loot passive.
+  - " * Mimic Loot gives a chance for extra loot rewards when completing a map or quest level."
+  - " * Chances for extra loot increase with energy cost of the level."
+  - " * Mimics need to be at max level and fully ascended for Mimic Loot to be active."
+  - " * Mimics have reduced leveling and ascension cost."
+bonuscostume-5star: 
+bonuscostume-4star: 
+bonuscostume-3star:  
