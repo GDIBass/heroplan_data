@@ -9,11 +9,11 @@ defense: 638
 health: 1328
 skill: Cleave and Counter
 effects:
-  - Deals 310% damage to the target and minor damage to nearby enemies
-  - The caster counterattacks with 115% of the damage received for 4 turns
+  - Deals 310% damage to the target and minor damage to nearby enemies.
+  - The caster counterattacks with 115% of the damage received for 4 turns.
 types:
   - Hit 3
-  - Counterattack
+  - Counterattack 1
 image: https://i.imgur.com/0JU9Ii1.jpg
 costume:
   design: costume1
@@ -25,10 +25,11 @@ costume:
   health: 1436
   skill: Oppose and Overthrow
   effects:
-    - Deals 182% damage to all enemies
-    - The casetr and nearby allies counterattack with 85% of the damage receied for 4 turns.
+    - Deals 182% damage to all enemies.
+    - The caster and nearby allies counterattack with 85% of the damage receied for 4 turns.
   types:
     - Hit all
+    - Counterattack 33
   image: https://i.imgur.com/SB2N0Vj.jpg
 costume2:
   design: costume2
@@ -40,12 +41,13 @@ costume2:
   health: 1591
   skill: Vampiric Cleave
   effects:
-    - Deals 260% damage to the target and nearby enemies
+    - Deals 260% damage to the target and nearby enemies.
     - The caster and nearby allies counterattack with 95% of the damage received for 3 turns.
     - The caster and nearby allies regenerate a moderate amount of mana for each counterattack. The effect gets diminished for consecutive activations during the same turn.
   types:
     - Hit 3
-    - Counterattack
+    - Counterattack 3
+    - Mana on Counterattack
   image: https://i.imgur.com/jA79vt4.jpg
 costume3:
   design: toon
@@ -62,7 +64,7 @@ costume3:
     - Deals extra damage against Holy.
   types:
     - Hit 3
-    - Counterattack
+    - Counterattack 1
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
@@ -82,7 +84,8 @@ costume4:
     - The caster counterattacks with 120% of the damage received for 4 turns.
   types:
     - Hit 3
-    - Counterattack
+    - Bypass
+    - Counterattack 1
   passives:
     - >-
       Glass: 60% extra chance to reflect status ailments back to the attacker.

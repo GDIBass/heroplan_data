@@ -25,11 +25,11 @@ costume:
   health: 1467
   skill: Strike of the Monolith
   effects:
-    - Deals 420% damage to the target
-    - The target and nearby enemies get -34% defense for 4 turns
+    - Deals 420% damage to the target.
+    - The target and nearby enemies get -34% defense for 4 turns.
   types:
     - Hit 1
-    - Defense Debuff
+    - Defense Debuff 3
   image: https://i.imgur.com/A0jPrh9.jpg
 costume2:
   design: costume2

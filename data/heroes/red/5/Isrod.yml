@@ -14,5 +14,6 @@ effects:
   - The caster and nearby allies regenerate a moderate amount of mana for each counterattack for 3 turns. The effect gets diminished for consecutive activations during the same turn.
 types:
   - Hit 3
-  - Counterattack
+  - Counterattack 3
+  - Mana on Counterattack
 image: https://i.imgur.com/LVoPJQp.jpg

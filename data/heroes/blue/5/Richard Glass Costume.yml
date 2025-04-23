@@ -16,6 +16,7 @@ effects:
   - The target and nearby enemies get -30% attack for 6 turns.
 types:
   - Hit 3
+  - Bypass
   - Attack Debuff 3
 passives:
   - >-
