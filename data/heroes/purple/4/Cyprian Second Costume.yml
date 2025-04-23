@@ -16,5 +16,6 @@ effects:
   - The caster and nearby allies reduce all received damage by -35% for 4 turns
 types:
   - Counterattack 3
+  - Mana on Counterattack
   - Damage Reduction 3
 image: https://i.imgur.com/oDvjeQX.jpg

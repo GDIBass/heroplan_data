@@ -1,0 +1,22 @@
+name: Cyprian Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Average
+class: Paladin
+power: 759
+attack: 664
+defense: 719
+health: 1719
+skill: Glass Riposte
+effects:
+  - The caster and nearby allies counterattack with 125% of the damage received for 5 turns.
+  - All Dark allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+types:
+  - Counterattack 3
+  - Elemental Reflect Ailments All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/NcRhwAX.jpg

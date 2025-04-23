@@ -29,7 +29,7 @@ costume:
     - All allies are immune to buff dispells for 3 turns.
   types:
     - HoT All
-    - Dispell Immunity All
+    - Dispell Immunity Buff All
   image: https://i.imgur.com/MHO518e.jpg
 costume2:
   design: toon
@@ -46,8 +46,29 @@ costume2:
     - Dispels buffs from all enemies.
   types:
     - Healer All
-    - Defense buff All
+    - Defense Buff All
     - Dispeller All
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/d6OTmVG.jpg
+costume3:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 513
+  attack: 521
+  defense: 504
+  health: 894
+  skill: Glass Mist
+  effects:
+    - Recovers 36% health for all allies.
+    - All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+    - Dispels buffs from all enemies.
+  types:
+    - Healer All
+    - Elemental Reflect All
+    - Dispeller
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/Y4Gu3iU.jpg

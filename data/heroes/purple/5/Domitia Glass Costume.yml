@@ -1,0 +1,24 @@
+name: Domitia Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Average
+class: Rogue
+power: 1212
+attack: 1298
+defense: 1120
+health: 2285
+skill: Glass Bolt
+effects:
+  - Deals 600% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The caster and nearby allies get +74% defense against Holy for 4 turns.
+types:
+  - Hit 1
+  - Bypass
+  - Elemental Defense Buff 3
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/gwMXUDN.jpg

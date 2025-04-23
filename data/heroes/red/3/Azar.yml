@@ -50,3 +50,24 @@ costume2:
   passives:
     - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
   image: https://i.imgur.com/Mwzt0jr.jpg
+costume3:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 514
+  attack: 601
+  defense: 463
+  health: 785
+  skill: Glass Cut
+  effects:
+    - Deals 295% damage to the target.
+    - Reduces the mana of the target by 25%.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+  types:
+    - Hit 1
+    - Mana Reducer 1
+    - Bypass
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/rj0CDGr.jpg
