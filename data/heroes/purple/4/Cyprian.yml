@@ -42,6 +42,7 @@ costume2:
     - The caster and nearby allies reduce all received damage by -35% for 4 turns.
   types:
     - Counterattack 3
+    - Mana on Counterattack
     - Damage Reduction 3
   image: https://i.imgur.com/oDvjeQX.jpg
 costume3:
@@ -58,5 +59,25 @@ costume3:
   types:
     - Counterattack 3
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+    - >-
+      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/NlALPlg.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 759
+  attack: 664
+  defense: 719
+  health: 1719
+  skill: Glass Riposte
+  effects:
+    - The caster and nearby allies counterattack with 125% of the damage received for 5 turns.
+    - All Dark allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  types:
+    - Counterattack 3
+    - Elemental Reflect Ailments All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/NcRhwAX.jpg

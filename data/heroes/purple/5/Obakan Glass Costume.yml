@@ -16,7 +16,8 @@ effects:
   - The caster counterattacks with 120% of the damage received for 4 turns.
 types:
   - Hit 3
-  - Counterattack
+  - Bypass
+  - Counterattack 1
 passives:
   - >-
     Glass: 60% extra chance to reflect status ailments back to the attacker.

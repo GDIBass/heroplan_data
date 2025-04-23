@@ -9,8 +9,8 @@ defense: 817
 health: 1260
 skill: Cloud Hammer
 effects:
-  - Deals 415% damage to the target and minor damage to nearby enemies
-  - The target and nearby enemies get -34% attack for 6 turns
+  - Deals 415% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -34% attack for 6 turns.
 types:
   - Hit 3
   - Attack Debuff 3
@@ -25,8 +25,8 @@ costume:
   health: 1361
   skill: Cloud Axe
   effects:
-    - Deals 435% damage to the target and minor damage to nearby enemies
-    - The target and nearby enemies get -34% attack for 4 turns
+    - Deals 435% damage to the target and minor damage to nearby enemies.
+    - The target and nearby enemies get -34% attack for 4 turns.
   types:
     - Hit 3
     - Attack Debuff 3
@@ -82,6 +82,7 @@ costume4:
     - The target and nearby enemies get -30% attack for 6 turns.
   types:
     - Hit 3
+    - Bypass
     - Attack Debuff 3
   passives:
     - >-
