@@ -14,12 +14,12 @@ effects:
     Status Effect Generator: At the start of the next 4 turns, this character gives a random ally an additional +25% mana generation and +60% increase of all healing received for 3 turns. This effect cannot be dispelled.
   - All allies regenerate 480 HP over 4 turns.
 types:
-  - Safe Dispell 1 Buff
+  - Safe Dispell 1 Buff All
   - Status Effect Generator 1
-  - HoT
+  - HoT All
 passives:
   - >-
-    Resist Mana Reduction: This character has innate resistance against mana reduction.
+    Empowered Resist Mana Reduction: This character has innate resistance against mana reduction. They also gain 450 boosted health and 5% mana each time they resist.
   - >-
     Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack.
 image: https://i.imgur.com/b8raA4w.jpg

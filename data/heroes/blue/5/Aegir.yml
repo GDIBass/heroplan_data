@@ -14,10 +14,9 @@ effects:
   - All allies heal 100% of dealt normal damage for 4 turns.
   - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't be cleansed.
 types:
-  - Healer
-  - Tank
-  - Defense Buff
   - Ally Damage Share
+  - Defense Buff All
+  - Heal on damage All
 image: https://i.imgur.com/BzRTcqJ.jpg
 costume:
   bonuses: 5/5/10/5
@@ -33,11 +32,10 @@ costume:
     - All allies regenerate 732 HP over 4 turns.
     - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can’t be dispelled.
   types:
-    - Share Damage
-    - Defense Buff
-    - Healer
+    - Share Damage All
+    - Defense Buff All
+    - HoT All
   passives:
     - >-
-      Cleanse on Special: When this character casts their Special Skill, they 
-      cleanse the newest status ailment from all allies.
+      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
   image: https://i.imgur.com/JN0Ddwo.jpg

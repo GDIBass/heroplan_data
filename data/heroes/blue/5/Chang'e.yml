@@ -14,7 +14,7 @@ effects:
   - All allies get +45% defense against Special Skills for 4 turns.
 types:
   - Hit all
-  - Status effect blocker 
+  - Status Effect Blocker All
 passives:
   - >-
     Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.

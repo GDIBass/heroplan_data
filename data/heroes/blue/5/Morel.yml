@@ -13,7 +13,7 @@ effects:
   - All enemis get -34% defense for 3 turns.
 types:
   - Hit All
-  - Defense Debuff
+  - Defense Debuff All
 passives:
   - >-
     Increased Special Skill Damage: The first time this character casts a Special Skill that does damage, an additional 30% is added to its power.
@@ -32,8 +32,8 @@ costume:
     - All allies regenerate 411 HP over 3 turns.
   types:
     - Hit all
-    - Defense Debuff
-    - Healer 
+    - Defense Debuff All
+    - HoT All
   passives:
     - >-
       Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.

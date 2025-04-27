@@ -15,6 +15,8 @@ effects:
   - Heals the caster for 50% of damage dealt.
 types:
   - Hit 1
+  - Mana boost on kill
+  - Self Heal
 image: https://i.imgur.com/jTbJkeI.jpg
 costume:
   bonuses: 5/5/10/5
@@ -32,5 +34,6 @@ costume:
   types:
     - Hit 1
     - Self heal
+    - Self Mana Boost
   image: https://i.imgur.com/ZPobGZa.jpg
   

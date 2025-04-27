@@ -14,8 +14,8 @@ effects:
   - The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of the turn during 4 turns. When this effect is triggered, it shifts to the hit ally, and the duration is refreshed.
 types:
   - Hit 1
-  - Defense Debuff
-  - Shifting Mindless Attack
+  - Defense Debuff 1
+  - Shifting Mindless Attack 1
 passives:
   - >-
     Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.

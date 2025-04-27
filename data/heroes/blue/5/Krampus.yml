@@ -14,10 +14,10 @@ effects:
   - The caster gets +44% defense, and a further 10% increase every time they are hit during 3 turns.  This effect can't be dispelled.
   - All allies get +50% attack for 3 turns
 types:
-  - Summoner
+  - Summoner All
   - Taunt
   - Self Defense Buff
-  - Attack Buff
+  - Attack Buff All
 image: https://i.imgur.com/9L71cZ8.jpg
 costume:
   bonuses: 5/5/10/5
@@ -33,8 +33,8 @@ costume:
     - The caster gets +30% defense for 3 turns.
     - All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.
   types:
-    - Summoner
+    - Summoner All
     - Taunt
     - Self Defense Buff
-    - Attack Buff
+    - Attack Buff All
   image: https://i.imgur.com/fkiwdOj.jpg

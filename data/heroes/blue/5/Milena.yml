@@ -19,9 +19,9 @@ effects:
 types:
   - Charge
   - Heal All
-  - Cleanser
+  - Cleanser All
   - Hit All
-  - Dispeller
+  - Dispeller All
 passives:
   - >-
     Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.
@@ -46,9 +46,9 @@ costume:
   types:
     - Charge
     - Heal All
-    - Cleanser
+    - Cleanser All
     - Hit All
-    - Dispeller
+    - Dispeller All
   passives:
     - >-
       Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.

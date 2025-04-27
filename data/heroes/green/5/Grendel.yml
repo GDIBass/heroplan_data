@@ -22,7 +22,7 @@ passives:
   - >-
     Perfect Accuracy: This character’s Special Skill never mises its target.
   - >-
-    Resist Mana Reduction: This character has innate resistance against mana reduction.
+    Empowered Resist Mana Reduction: This character has innate resistance against mana reduction. They also gain 450 boosted health and 5% mana each time they resist.
   - >-
     Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +25% attack Stack (Max: 10). One Stack can be gained per turn.
 image: https://i.imgur.com/ijEHGWi.jpg

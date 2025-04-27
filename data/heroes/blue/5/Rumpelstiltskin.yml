@@ -11,14 +11,14 @@ skill: Legerdemain
 effects:
   - 'Draw a card for a special effect:'
   - Skull
-  - '* Deals 270% damage to all enemies.'
-  - '* All enemies receive 156 damage over 3 turns.'
+  - ' * Deals 270% damage to all enemies.'
+  - ' * All enemies receive 156 damage over 3 turns.'
   - Cross
-  - '* Recovers 27% health for all allies.'
-  - '* Cleanses status ailments from all allies.'
+  - ' * Recovers 27% health for all allies.'
+  - ' * Cleanses status ailments from all allies.'
   - Stars
-  - '* All enemies get -34% defense for 3 turns.'
-  - '* All allies get +48% attack for 3 turns.'
+  - ' * All enemies get -34% defense for 3 turns.'
+  - ' * All allies get +48% attack for 3 turns.'
 types:
   - Gambler
 image: https://i.imgur.com/v7aCbsm.jpg
@@ -34,17 +34,18 @@ costume:
     - 'Draw a card for a special effect:'
     - Skull
     - ' * Reduces max health of all enemies by 550. Max health can’t get lower than 30% of the original max health.'
-    - ' * All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 69 Poison damage and lowers the target’s mana generation by -9% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
+    - ' * All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 69 Poison damage and lowers the target’s mana generation by -9% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
     - Cross
     - ' * Boosts health of all allies by 620. Boosted health can exceed max HP.'
     - ' * All allies are immune to new status ailments for 4 turns.'
     - Stars
-    - '* All enemies get -54% mana generation for 4 turns. This effect can’t
+    - ' * All enemies get -54% mana generation for 4 turns. This effect can’t
       be cleansed.'
-    - '* All enemies are immune to new status effect buffs for 4 turns.'
+    - ' * All enemies are immune to new status effect buffs for 4 turns.'
   types:
-    - Health reduction
-    - Health Boost
-    - Random
-    - Mana generation Debuff
+    - Gambler
+    - Health reduction All
+    - Health Boost All
+    - Mana generation Debuff All
+    - Buff Immunity All
   image: https://i.imgur.com/G2za8YY.jpg

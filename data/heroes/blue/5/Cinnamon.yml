@@ -14,8 +14,8 @@ effects:
   - All enemies get -54% defense against Ice for 4 turns.
 types:
   - Hit All
-  - DoT
-  - Defense Down
+  - DoT All
+  - EDD All
 passives:
   - >-
     Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.

@@ -14,7 +14,7 @@ effects:
   - Element Link gives +4% mana regeneration for all Ice allies for 4 turns. This effect can't be dispelled.
 types:
   - Titan Attack Buff
-  - Silencer
+  - Silencer 3
 passives:
   - >-
     Resist Special Skill Blocking: This character has an innate resistance against status aliments that Block Special Skills.

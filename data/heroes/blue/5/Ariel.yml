@@ -13,9 +13,9 @@ effects:
   - All allies get +24% mana generation for 4 turns.
   - Cleanses status ailments from all allies.
 types:
-  - Healer
-  - Mana Gen Buff
-  - Cleanser
+  - Healer All
+  - Mana Generation Buff All
+  - Cleanser All
 image: https://i.imgur.com/WWzsu8l.jpg
 costume:
   bonuses: 5/5/10/5
@@ -30,7 +30,7 @@ costume:
     - All allies regenerate a moderate amount of mana over 4 turns.
     - Cleanses status ailments from all allies.
   types:
-    - Health Boost
-    - MoT
-    - Cleanser
+    - Boosted Health All
+    - MoT All
+    - Cleanser All
   image: https://i.imgur.com/gRSAJUL.jpg

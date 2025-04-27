@@ -14,6 +14,6 @@ effects:
   - The enemy with the highest base attack gets -60% attack for 4 turns. This effect can't be cleansed.
 types:
   - Hit All
-  - Defense Debuff
-  - Attack Debuff
+  - Defense Debuff 1
+  - Attack Debuff 1
 image: https://i.imgur.com/9wspOnr.jpg

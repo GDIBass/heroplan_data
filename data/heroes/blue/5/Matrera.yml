@@ -14,7 +14,6 @@ effects:
   - The target and nearby enemies get -40% attack for 4 turns.
 types:
   - Hit 1
-  - Chain
   - Attack Debuff 3
 passives:
   - >-

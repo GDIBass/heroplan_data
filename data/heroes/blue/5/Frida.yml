@@ -15,8 +15,8 @@ effects:
   - Element Link gives all Ice allies +46% defense against Nature for 4 turns. This effect can't be cleansed.
 types:
   - Hit 3
-  - Elemental Defense Debuff
-  - Dispeller
+  - EDD 3
+  - Dispeller 3
 passives:
   - >-
     Resist Attack Ailments: This character has an innate resistance against status ailments that affect Attack.

@@ -15,7 +15,7 @@ effects:
 types:
   - Heal All
   - Hit All
-  - Stack 
+  - Stack 1
 passives:
   - >-
     Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.

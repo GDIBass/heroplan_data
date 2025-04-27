@@ -22,8 +22,9 @@ effects:
   - '* Increases the mana of all allies by 20%.'
   - '* All allies get +40% mana generation for 4 turns.'
 types:
-  - Healer
-  - Mana Generation
+  - Charge
+  - Healer All
+  - Mana Generation Buff All
 passives:
   - >-
     Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.

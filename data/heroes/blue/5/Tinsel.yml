@@ -15,7 +15,7 @@ effects:
   - The target and nearby enemies get -10% accuracy, and a further -5% decrease per each Ice shield on the board for 4 turns, up to -50% accuracy.
 types:
   - Hit 3
-  - Summoner
+  - Summoner All
   - Defense Debuff 3
   - Blind 3
 image: https://i.imgur.com/huD8kmB.jpg

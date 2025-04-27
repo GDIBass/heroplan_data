@@ -14,8 +14,8 @@ effects:
   - 'Stack (Max: 10): All alies get +20% defense.'
 types:
   - Hit all
-  - Attack Buff Stack
-  - Defense Buff Stack
+  - Attack Buff Stack All
+  - Defense Buff Stack All
 passives:
   - >-
     Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.

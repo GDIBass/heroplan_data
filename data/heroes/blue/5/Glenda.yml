@@ -15,7 +15,7 @@ effects:
   - Element Link summons an Ice Minion for all Ice allies with 6% HP and 10% attack inherited from the caster.
 types:
   - Hit 3
-  - Cleanser
+  - Cleanser All
 passives:
   - >-
     Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs.

@@ -16,10 +16,10 @@ effects:
   - All enemies get -40% attack for 4 turns.
 types:
   - Hit 9
-  - Buffs duration reset
-  - Status Ailment Reset
-  - Attack Buff
-  - Attack Debuff
+  - Buffs Duration Reset All
+  - Status Ailment Reset All
+  - Attack Buff All
+  - Attack Debuff All
 passives:
   - >-
     Health Recovery on Buff Received: This characters has a 50% chance to  recover 10% health when they receive a buff or a positive stack.

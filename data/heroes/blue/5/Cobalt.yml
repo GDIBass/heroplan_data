@@ -19,7 +19,7 @@ effects:
   - '* Deals 390% damage to all enemies'
   - '* The attack has a 100% chance to bypass defensive buffs. This includes counterattacks.'
 types:
-  - Charger
-  - Hit All
-  - Bypass
+  - Charge
+  - Hit 1/3/All
+  - Bypass Chance
 image: https://i.imgur.com/23jWlvs.jpg

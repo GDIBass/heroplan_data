@@ -16,8 +16,12 @@ effects:
   - All Holy enemies get -38% defense for 3 turns.
   - All Nature enemies get -38% attack for 3 turns.
 types:
-  - Boosted Heal
-  - Buff immunity
+  - Boosted Heal All
+  - Buff Immunity All
+  - Elemental Fire Blind
+  - Elemental Dark Mana Gen Debuff
+  - Elemental Holy Defense Debuff
+  - Elemental Nature Attack Debuff
 passives:
   - 'Troop Mastery:'
   - >-

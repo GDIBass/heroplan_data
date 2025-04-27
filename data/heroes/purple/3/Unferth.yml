@@ -18,7 +18,7 @@ types:
   - Status Effect Generator 1
 passives:
   - >-
-    Resist Mana Reduction: This character has innate resistance against mana reduction.
+    Empowered Resist Mana Reduction: This character has innate resistance against mana reduction. They also gain 450 boosted health and 5% mana each time they resist.
   - >-
     Perfect Accuracy: This character’s Special Skill never mises its target.
 image: https://i.imgur.com/EwK86qB.jpg

@@ -17,7 +17,7 @@ effects:
 types:
   - Hit All
   - Dot All
-  - Atack debuff
+  - Atack debuff All
 passives:
   - >-
     Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions.
