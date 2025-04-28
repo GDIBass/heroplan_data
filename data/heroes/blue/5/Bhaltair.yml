@@ -3,7 +3,7 @@ source: festival
 family: bard
 speed: Slow
 class: Fighter
-power: 1153
+power: 1156
 attack: 1114
 defense: 1320
 health: 1940
@@ -17,9 +17,9 @@ effects:
   - All allies get +40% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
 types:
   - Hit All
-  - Healer
+  - Healer All
   - Minion Wound
-  - Mana Generation Buff
+  - Mana Generation Buff All
 passives:
   - >-
     Quick Tempo - Ballad: All Ballads cast by enemies only last for 1 turn.

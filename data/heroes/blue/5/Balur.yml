@@ -9,13 +9,13 @@ defense: 768
 health: 1439
 skill: Double Flail Mayhem
 effects:
-  - Deals 530% damage to the target
-  - The target receives 519 bleed damage over 3 turns
+  - Deals 530% damage to the target.
+  - The target receives 519 bleed damage over 3 turns.
   - Element Link gives all ice allies immunity to new Fiends for 4 turns. This effect can't be dispelled.
 types:
   - Hit 1
   - Dot 1
-  - Fiend Immunity
+  - Fiend Immunity All
 passives:
   - >-
     Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.

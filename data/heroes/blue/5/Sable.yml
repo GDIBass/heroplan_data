@@ -19,8 +19,8 @@ types:
   - Self Full Removal
   - Ghost
   - Revive 1
-  - HoT
-  - Cleanser
+  - HoT All
+  - Cleanser All
 passives:
   - >-
     Decreased Healing: All enemies get -50% healing.

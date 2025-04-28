@@ -21,7 +21,7 @@ passives:
   - >-
     Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.
   - >-
-    Resist Mana Reduction: This character has innate resistance against mana reduction.
+    Empowered Resist Mana Reduction: This character has innate resistance against mana reduction. They also gain 450 boosted health and 5% mana each time they resist.
   - >-
     Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs.
 image: https://i.imgur.com/oiGz5nc.jpg

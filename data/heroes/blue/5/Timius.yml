@@ -13,9 +13,9 @@ effects:
   - Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1500 damage. Deals 40% more damage if the target is Holy.
   - The target and nearby enemies are immune to new status effect buffs for 3 turns.
 types:
-  - Dispeller
+  - Dispeller 3
   - Hit 3
-  - Buff immunity
+  - Buff Immunity 3
 passives:
   - >-
     Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.

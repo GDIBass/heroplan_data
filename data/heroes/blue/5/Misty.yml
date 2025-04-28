@@ -13,8 +13,8 @@ effects:
   - Reduces the max health of all enemies by 180. This effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 180.
   - Deals 180% damage to all enemies.
 types:
-  - Healer
-  - Health Reduction
+  - Booste Healer All
+  - Max Health Reduction All
   - Hit All
 passives:
   - >-

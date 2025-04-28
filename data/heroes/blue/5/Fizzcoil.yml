@@ -14,8 +14,8 @@ effects:
   - All enemies get -30% mana generation for 3 turns. If the effect is removed before the duration ends, the mana of the target with the effect is reduced by -5% mana.
 types:
   - Hit all
-  - Wither
-  - Mana generation debuff
+  - Wither All
+  - Mana Generation Debuff All
 passives:
   - >-
     Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.

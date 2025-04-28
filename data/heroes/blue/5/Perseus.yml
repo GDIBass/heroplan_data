@@ -15,8 +15,8 @@ effects:
   - Elemental Link gives 10% mana generation for all Ice allies for 4 turns. This effect can’t be displelled.
 types:
   - Hit 1
-  - Healing Debuff
-  - Elemental Defense Buff
+  - Healing Debuff 1
+  - Elemental Defense Buff 3
 image: https://i.imgur.com/AMhR92j.jpg
 costume:
   bonuses: 5/5/10/5
@@ -33,8 +33,8 @@ costume:
     - Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This effect can’t be displelled.
   types:
     - Hit 3
-    - Healing Debuff
-    - Elemental Defense Debuff
+    - Healing Debuff 3
+    - EDD 3
   passives:
     - >-
       Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies.

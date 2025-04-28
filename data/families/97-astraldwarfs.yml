@@ -4,4 +4,5 @@ description: Astral Dwarfs
 image: https://i.imgur.com/wOzKrMH.png
 bonus:
   - "Bonus for 1/2 Unique Heroes:"
-  - "20% / 25% chance to dispel a random dispellable status effect buff from all enemies at the end of each turn."
+  - " * 20% / 25% chance to dispel a random dispellable status effect buff from all enemies at the end of each turn."
+  - " * 75% / 100% chance to resist mana reduction and mana status ailments. Each successful resist by this family gives this character 5% mana."

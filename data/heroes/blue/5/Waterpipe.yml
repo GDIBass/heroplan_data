@@ -14,7 +14,10 @@ effects:
   - ' * The target gets -30% defense against Special Skills for 2 turns.'
   - ' * The target is immune to new status effect buffs for 2 turns.'
 types:
-  - Summoner
+  - Summoner All
+  - Mana reducer Minion
+  - SS Defense Down Minion hit
+  - Buff Immunity Minion hit
 passives:
   - >-
     Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.

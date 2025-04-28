@@ -13,36 +13,36 @@ effects:
   - All allies get +84% defense agains Nature, and a further 2% increase every time they are hit during 4 turns.
   - All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skill.
 types:
-  - Healer
-  - Defense Buff
-  - Blind
+  - Healer All
+  - Elemental Defense Buff All
+  - Blind All
 passives:
   - >-
     Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
-    * Boosts health of all allies by 10%. Boosted health can exceed max HP.
-    * Cleanses the latest cleansable status ailment from all allies.
+  - " * Boosts health of all allies by 10%. Boosted health can exceed max HP."
+  - " * Cleanses the latest cleansable status ailment from all allies."
 image: https://i.imgur.com/wdaa6Lv.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 1113
-  attack: 1011
-  defense: 1170
-  health: 2193
+  power: 1175
+  attack: 1080
+  defense: 1250
+  health: 2307
   skill: Relaxing Riddle
   effects:
     - Recovers 54% health for all allies.
     - All allies get +64% defense against Nature, and a further 3% increase every time they are hit during 4 turns.
     - All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
   types:
-    - Healer
-    - Defense Buff
-    - Blind
+    - Healer All
+    - Elemental Defense Buff All
+    - Blind All
   passives:
     - >-
       Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
-      * Boosts health of all allies by 10%. Boosted health can exceed max HP.
-      * Cleanses the latest cleansable status ailment from all allies.
+    - " * Boosts health of all allies by 10%. Boosted health can exceed max HP."
+    - " * Cleanses the latest cleansable status ailment from all allies."
     - >-
       Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skill that grant extra effects on cast are guaranteed to activate.
     - >-

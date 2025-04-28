@@ -9,13 +9,13 @@ defense: 997
 health: 1730
 skill: Pathfinder’s Compass
 effects:
-  - Recovers 45% health for all allies
+  - Recovers 45% health for all allies.
   - Increases the mana of nearby allies by 33%.
   - Nearby allies get +40% mana generation for 4 turns.
   - The caster and nearby allies get +50% critical chance for 4 turns.
 types:
-  - Healer
-  - Mana boost
+  - Healer All
+  - Mana boost 3
   - Mana gen buff 2
   - Critical Buff 3
 passives:
@@ -24,6 +24,6 @@ passives:
   - >-
     Repair Core: The Construct Core of this character is Repair Core.
     The Repair Core activates each time this character’s Special Skill is cast:
-    * With fully charged Repair Core, boosts the health of all allies by 25%.
-    * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated.
+  - " * With fully charged Repair Core, boosts the health of all allies by 25%."
+  - " * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
 image: https://i.imgur.com/iuMlpaP.jpg

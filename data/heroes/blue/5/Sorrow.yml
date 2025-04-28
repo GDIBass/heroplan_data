@@ -13,7 +13,8 @@ effects:
   - When summoned, the Icebound Sickle Minion gives +45% attack for its owner for as long as the owner has Icebound Sickle Minions. The attack increases by 5% each turn, up to 60%. This effect can't be cleansed.
   - When the Icebound Sickle Minion is destroyed, it deals 135 damage to all enemies.
 types:
-  - Summoner 
+  - Summoner 3
+  - Attack Buff Minion
 passives:
   - >-
     Hunter’s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailment, they recover 8% health.

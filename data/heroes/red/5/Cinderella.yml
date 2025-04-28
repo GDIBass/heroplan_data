@@ -15,11 +15,11 @@ effects:
   - All allies get +63% defense for 4 turns.
   - All enemies get -44% defense for 4 turns.
 types:
-  - Cleanser
-  - Elemental Defense Buff
-  - Elemental Defense Debuff
-  - Defense Buff
-  - Defense Debuff
+  - Cleanser All
+  - Allies Damage Share
+  - Enemies Damage Share
+  - Defense Buff All
+  - Defense Debuff All
 passives:
   - >-
     Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.

@@ -15,7 +15,7 @@ effects:
   - The target hit by the Sword Guard Mega Minion recieves 414 Bleed damage over 3 turns. This effect spreads to nearby enemies.
 types:
   - Mana reducer
-  - Mana Generation Debuff
+  - Mana Generation Debuff All
   - Sword Guard Mega Minion
 passives:
   - >-

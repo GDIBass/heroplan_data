@@ -9,7 +9,7 @@ defense: 733
 health: 1404
 skill: Marked Aim
 effects:
-  - Deals 450% damage to the target.
+  - Deals 480% damage to the target.
   - 'Stack (Max:10): All damage the target receives is increased by +5%.'
   - Element Link gives all Dark allies +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled.
 types:

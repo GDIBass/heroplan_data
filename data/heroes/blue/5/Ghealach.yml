@@ -16,6 +16,7 @@ effects:
 types:
   - Hit 3
   - Fiend Summoner 3
+  - Mana Steal 3
 passives:
   - >-
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.

@@ -3,14 +3,14 @@ source: hotm
 family: 2024
 speed: Average
 class: Druid
-power: 1022
+power: 1034
 attack: 1089
 defense: 1032
 health: 1709
 skill: Freezing Fairy Mist
 effects:
   - Deals 280% damage to the target and nearby enemies.
-  - The target and nearby enemies receive 820 Frost damage over 4 turns.
+  - The target and nearby enemies receive 824 Frost damage over 4 turns.
   - The target and nearby enemies are immune to new status effect buffs for 4 turns, and receive 300 damage for each attempted buff.
   - Element Link gives all Ice allies +20% critical chance for 6 turns. This effect cannot be dispelled.
 types:

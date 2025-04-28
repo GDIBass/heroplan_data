@@ -14,6 +14,6 @@ effects:
   - If an ally had fiends they will be immune to new Fiends for 4 turns.
 types:
   - Fiend Destroyer All
-  - Boosted Heal
+  - Boosted Heal All
   - Fiend immunity
 image: https://i.imgur.com/nObQye7.jpg

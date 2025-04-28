@@ -1,7 +1,8 @@
 name: Zircon
-class: Fighter
 source: ninja
+family: ninja
 speed: Charge
+class: Fighter
 power: 818
 attack: 735
 defense: 840
@@ -23,8 +24,7 @@ effects:
   - ' - All allies are immune to buff dispels for 4 turns.'
 types:
   - Charge
-  - Health boost
-  - Defense Buff
-  - Dispell Immunity
-family: ninja
+  - Boosted Health All
+  - Defense Buff All
+  - Dispell Immunity All
 image: https://i.imgur.com/3XPQv8U.jpg

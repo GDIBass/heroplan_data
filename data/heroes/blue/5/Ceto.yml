@@ -19,7 +19,7 @@ effects:
   - ' * All enemies receive 436 Water damage over 4 turns. The caster absorbs 50% of the dealt Water damage as health.'
 types:
   - Hit All
-  - DoT
+  - DoT All
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
@@ -45,7 +45,7 @@ costume:
     - ' * All enemies receive 680 Water damage over 5 turns. The caster absorbs 50% of the dealt Water damage as health.'
   types:
     - Hit All
-    - DoT
+    - DoT All
   passives:
     - >-
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill

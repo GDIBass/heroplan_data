@@ -31,7 +31,8 @@ costume:
     - Element Link gives all Ice  allies +5% attack and +5% defense for 6 turns. This effect can’t be dispelled.
   types:
     - Hit 3
-    - Mana reduction
+    - Mana reduction 3
+    - Mana Generation Debuff 3
   passives:
     - >-
       Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.

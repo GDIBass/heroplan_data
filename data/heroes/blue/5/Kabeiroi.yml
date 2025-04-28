@@ -17,8 +17,9 @@ effects:
     Mindless Heal: Recovers 20% health for the character on the opposing side with the lowest remaining HP.
 types:
   - Hit 1
+  - Mindless heal 1
   - Hit 3 extra
-  - Mindless heal
+  - Mindless Heal on Hit
 passives:
   - >-
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.

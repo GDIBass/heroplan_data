@@ -29,7 +29,7 @@ costume:
     - Deals 140% damage to all enemies.
     - Deals additional 30% damage per removed status effect, up to 500% damage in total.
   types:
-    - Dispeller
-    - Cleanser
+    - Dispeller All
+    - Cleanser All
     - Hit All
   image: https://i.imgur.com/ko9NEXz.jpg

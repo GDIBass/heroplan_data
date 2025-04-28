@@ -14,7 +14,7 @@ effects:
   - Element Link gives all ice allies +10% defense for 4 turns. This effect can't be dispelled.
 types:
   - Hit all
-  - Health steal
+  - Dot All
 passives:
   - >-
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.

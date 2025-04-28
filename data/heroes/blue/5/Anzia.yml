@@ -12,8 +12,8 @@ effects:
   - All allies counterattack with 75% of the damage received, and a further 7% increase per each Ice shield on the board for 5 turns, up to 159% damage in total.
   - All Ice allies regenerate a moderate amount of mana for each counterattack for 5 turns. This effect gets diminished for consecutive activations during the same turn.
 types:
-  - Counterattack
-  - Mana on Counterattack
+  - Counterattack All
+  - Elemental Ice Mana on Counterattack
 passives:
   - 'Troop Mastery:'
   - >-

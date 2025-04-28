@@ -15,8 +15,8 @@ effects:
   - Cleanses status ailments from all allies at the end of each turn for 4 turns.
 types:
   - Hit All
-  - Dispeller
-  - Cleanser
+  - Dispeller All
+  - Cleanser All
 passives:
   - >-
     Resist Poison: This character has innate resistance against Poison.

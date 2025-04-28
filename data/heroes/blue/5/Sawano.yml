@@ -22,7 +22,7 @@ effects:
   - '* For the next 6 turns this character recovers 400 health to all allies after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)'
   - '* Cleanses status ailments from all allies.'
 types:
-  - Healer 
+  - Healer All
   - Heal All on Enemy Special
   - Cleanser 1/3/5
 passives:

@@ -3,7 +3,7 @@ source: harvest
 family: fox
 speed: Fast
 class: Ranger
-power: 1101
+power: 1136
 attack: 1093
 defense: 1176
 health: 2140
@@ -15,7 +15,7 @@ effects:
 types:
   - Dispel 1
   - Hit 1
-  - Lasting DoT 1
+  - Lasting Spreading DoT 1
 passives:
   - >-
     Decreased Healing: All enemies get -50% healing.

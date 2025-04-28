@@ -15,9 +15,9 @@ effects:
   - All enemies get -40% attack for 5 turns.
 types:
   - Heal All
-  - Mana on enemy SS
-  - Heal steal
-  - Attack Debuff
+  - Mana on enemy SS All
+  - Heal steal All
+  - Attack Debuff All
 passives:
   - >-
     Resist Poison: This character has innate resistance against Poison.

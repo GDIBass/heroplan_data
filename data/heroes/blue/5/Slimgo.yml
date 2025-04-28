@@ -15,7 +15,7 @@ effects:
 types:
   - Hit All
   - DoT All
-  - Mana generation debuff
+  - Mana Generation Debuff All
 passives:
   - >-
     Slime Minion Upon Defeat: When the hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the defeated hero.

@@ -9,7 +9,7 @@ defense: 712
 health: 1341
 skill: Nethershield
 effects:
-  - All allies regenerate 1015 HP over 5 turns.
+  - All allies regenerate 1150 HP over 5 turns.
   - The caster and nearby allies are immune to new status ailments for 5 turns. This effect can't be dispelled.
   - Cleanses status ailments from the caster and nearby allies.
   - Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns. This effect can't be dispelled.
@@ -27,7 +27,7 @@ costume:
   health: 1976
   skill: Voidshield
   effects:
-    - Recovers 45% health for all allies.
+    - Recovers 47% health for all allies.
     - Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.
     - Element Link gives all Dark allies +5% attack and +5% defense for 6 turns. Can't be dispelled.
   types:

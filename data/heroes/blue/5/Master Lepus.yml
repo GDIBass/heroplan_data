@@ -9,10 +9,11 @@ defense: 690
 health: 1194
 skill: Reckless Finisher
 effects:
-  - Deals 410% damage to the target and minor damage to nearby enemies
-  - The caster gets -20% defense for 3 turns. This effect can't be cleansed
+  - Deals 410% damage to the target and minor damage to nearby enemies.
+  - The caster gets -20% defense for 3 turns. This effect can't be cleansed.
 types:
   - Hit 3
+  - Self Defense Debuff
 image: https://i.imgur.com/Ti2FM1v.jpg
 costume:
   bonuses: 5/5/10/5
@@ -26,5 +27,6 @@ costume:
     - Deals 280% damage to all enemies.
     - The caster gets -24% mana generation for 4 turns. This effect can't be cleansed.
   types:
-    - Hit 1
+    - Hit All
+    - Self Mana Generation Debuff
   image: https://i.imgur.com/aLTsGWG.jpg

@@ -9,13 +9,13 @@ defense: 1015
 health: 1808
 skill: Sapphire Eyes
 effects:
-  - Each fallen ally has a 60% chance to get revived with 20% HP.
+  - Each defeated ally has a 60% chance to get revived with 20% HP.
   - All allies get +50% attack for 5 turns. The attack increases by 5% each turn, up to +70%.
   - All allies regenerate 1270 boosted health over 5 turns. Boosted health can exceed max HP.
 types:
   - Reviver
-  - Attack buff
-  - HoT
+  - Attack buff All
+  - HoT All
 passives:
   - >-
     Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack.

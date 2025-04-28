@@ -23,7 +23,7 @@ effects:
   - '* The target and nearby enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.'
   - '* The target and nearby enemies deal 470 damage to a random ally if they miss Special Skill during 4 turns.'
 types:
-  - Charger
+  - Charge
   - Hit 3
-  - Blind
+  - Blind 3
 image: https://i.imgur.com/bzEzdnP.jpg

@@ -15,9 +15,9 @@ effects:
   - All Ice allies get +60% attack for 3 turns.
 types:
   - Hit 1
-  - Chain
-  - Blind
-  - Attack buff
+  - Chain Hit
+  - Blind All
+  - Elemental Attack Buff
 passives:
   - 'Troop Mastery:'
   - >-
