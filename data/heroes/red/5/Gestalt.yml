@@ -34,10 +34,10 @@ image: https://i.imgur.com/vMt41XY.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 1125
-  attack: 1129
-  defense: 1080
-  health: 2163
+  power: 1190
+  attack: 1214
+  defense: 1162
+  health: 2251
   skill: Sunken Magma Cube
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'

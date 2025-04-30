@@ -31,10 +31,10 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 1097
-  attack: 1057
-  defense: 1112
-  health: 2082
+  power: 1161
+  attack: 1137
+  defense: 1196
+  health: 2167
   skill: Seabed Sissonne
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'

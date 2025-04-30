@@ -1,0 +1,38 @@
+name: Spiculum
+source: ancientUnderroot
+speed: Slow
+attack: 13855
+defense: 14049
+health: 12378
+power: 11145
+skill: Aggravating Gaze
+effects:
+  - Recovers 5000 health for the caster.
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 5 turns.
+  - The caster counterattacks with 170% of the damage received for 5 turns.
+  - The caster regenerates 4500 HP over 5 turns.
+types:
+  - Self heal
+  - Taunt
+  - Counterattack
+  - Self HoT
+spiritBonus:
+  spiritClass: Fighter
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Breath of Retribution
+  effects:
+    - Recovers 600 health for all allies.
+    - All allies counterattack with 30% of the damage received for 5 turns.
+image: https://imgur.com/uOtcl71.jpg

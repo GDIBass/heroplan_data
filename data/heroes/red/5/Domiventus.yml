@@ -23,25 +23,25 @@ types:
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:
-      * Deals 80% damage to all enemies.
-      * The caster get +19% mana generation for 2 turns.
+  - " * Deals 80% damage to all enemies."
+  - " * The caster get +19% mana generation for 2 turns."
 image: https://i.imgur.com/kgTv3pm.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 1176
-  attack: 1144
-  defense: 1203
-  health: 2244
+  power: 1245
+  attack: 1231
+  defense: 1294
+  health: 2336
   skill: Sunken Abyss
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'
     - '1st:'
     - ' * Deals 360% damage to the target and nearby enemies.'
-    - ' * The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 211 Burn damage and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
+    - ' * The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 240 Burn damage and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
     - '2nd:'
     - ' * Deals 485% damage to the target and nearby enemies.'
-    - ' * The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 331 Burn damage and lowers the target’s defense by -18% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
+    - ' * The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 375 Burn damage and lowers the target’s defense by -18% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
   types:
     - Hit 3
     - DoT
@@ -49,8 +49,8 @@ costume:
   passives:
     - >-
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:
-        * Deals 80% damage to all enemies.
-        * The caster get +19% mana generation for 2 turns.
+    - " * Deals 80% damage to all enemies."
+    - " * The caster get +19% mana generation for 2 turns."
     - >-
       Resist Insanity: This character has innate resistance against Insanity.
   image: https://i.imgur.com/Bwbja0V.jpg

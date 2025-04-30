@@ -34,10 +34,10 @@ image: https://i.imgur.com/bpyUqBe.jpg
 costume:
   bonuses: 5/5/10/5
   class: Rogue
-  power: 1099
-  attack: 1159
-  defense: 1071
-  health: 1920
+  power: 1163
+  attack: 1246
+  defense: 1152
+  health: 1998
   skill: Champion Maneuver
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'
