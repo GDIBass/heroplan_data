@@ -31,10 +31,10 @@ image: https://i.imgur.com/OJh8GR8.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1177
-  attack: 1115
-  defense: 1318
-  health: 2094
+  power: 1246
+  attack: 1199
+  defense: 1418
+  health: 2179
   skill: Opposing Raid
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'

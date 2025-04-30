@@ -33,10 +33,10 @@ image: https://i.imgur.com/RtOVjbp.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 1174
-  attack: 1219
-  defense: 1175
-  health: 2102
+  power: 1244
+  attack: 1312
+  defense: 1264
+  health: 2187
   skill: Shatter Soul
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'

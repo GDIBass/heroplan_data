@@ -34,10 +34,10 @@ image: https://i.imgur.com/pxAZGoS.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1098
-  attack: 985
-  defense: 1126
-  health: 2239
+  power: 1161
+  attack: 1059
+  defense: 1212
+  health: 2330
   skill: Testudo Rock
   effects:
     - 'Special Skill need consecutive uses to reach full power, the following order:'
