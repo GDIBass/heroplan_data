@@ -1,0 +1,23 @@
+name: Iarlaith
+source: goblinvillage
+family: garrisonguard
+speed: Fast
+class: Rogue
+power: 1177
+attack: 1200
+defense: 1172
+health: 2173
+skill: Ring Around the Rosie
+effects:
+  - Deals 600% damage to the target.
+  - The target receives 100% damage for all the damage their allies receive for 3 turns.
+  - "Stack (Max: 10): All damage all enemies is increased by +8%."
+types:
+  - Hit 1
+  - Damage Increase Stack
+passives:
+  - >-
+    Resist Mana reduction: This character has an innate resistance against mana Reduction.
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://imgur.com/ruIGzTu.jpg
