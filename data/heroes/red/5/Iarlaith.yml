@@ -14,7 +14,7 @@ effects:
   - "Stack (Max: 10): All damage all enemies is increased by +8%."
 types:
   - Hit 1
-  - Damage Increase Stack
+  - Damage Increase Stack All
 passives:
   - >-
     Resist Mana reduction: This character has an innate resistance against mana Reduction.

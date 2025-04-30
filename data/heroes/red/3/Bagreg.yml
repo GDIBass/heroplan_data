@@ -33,7 +33,7 @@ costume:
   attack: 512
   defense: 497
   health: 821
-  skill: Scout’s Spyglass
+  skill: Scout's Spyglass
   effects:
     - "Special Skill needs consecutive uses to reach full power, in the following order:"
     - "1st:"
