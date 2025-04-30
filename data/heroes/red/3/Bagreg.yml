@@ -21,8 +21,35 @@ types:
   - Elemental Defense Debuff
 passives:
   - >-
-    'Effects on Special Skill:
-    50% chance to perform the following actions when this character casts their Special Skill
-      * Deals 80% damage to all enemies.
-      * The caster gets +19% mana generation for 2 turns.'
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+  - " * Deals 80% damage to all enemies."
+  - " * The caster gets +19% mana generation for 2 turns."
 image: https://i.imgur.com/rzvavLk.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 498
+  attack: 512
+  defense: 497
+  health: 821
+  skill: Scout’s Spyglass
+  effects:
+    - "Special Skill needs consecutive uses to reach full power, in the following order:"
+    - "1st:"
+    - " * Deals 170% damage to the target and nearby enemies."
+    - " * The target and nearby enemies get -33% defense against Fire for 3 turns."
+    - "2nd:"
+    - " * Deals 220% damage to the target and nearby enemies."
+    - " * The target and nearby enemies get -55% defense against Fire for 3 turns."
+  types:
+    - Hit 3
+    - Elemental Defense Debuff
+  passives:
+    - >-
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+    - " * Deals 80% damage to all enemies."
+    - " * The caster gets +19% mana generation for 2 turns."
+    - >-
+      Resist Insanity: This character has an innate resistance against Insanity.
+  image: https://imgur.com/ZuRts32.jpg
