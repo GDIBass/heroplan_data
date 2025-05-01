@@ -1,0 +1,24 @@
+name: Auricarc
+source: moth
+family: moth
+speed: Fast
+class: Ranger
+power: 1177
+attack: 1312
+defense: 1095
+health: 2051
+skill: Riches to Poor
+effects:
+  - Steals all Minions or a Mega Minion from the target.
+  - Steals 40% mana from the target and distributes it to allies.
+  - Deals 530% damage to the target.
+  - The target falls into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This effect is uncleansable.)
+types:
+  - Steals Mega/Minions
+  - Mana Steal 1
+  - Hit 1
+  - Deep Sleep 1
+passives:
+  - >-
+    Dodge Special Damage: This character has a 10% chance to dodge Special Skills that deal damage.
+image: https://imgur.com/U5vFSXy.jpg
