@@ -29,7 +29,7 @@ costume:
     - Deals 310% damage to the target.
     - The target receives 213 Sand damage over 3 turns. This effect spreads to nearby enemies.
   types:
-    - Minion Steal 1
+    - Steals Minions 1
     - Hit 1
     - Spreading DoT 1
   image: https://i.imgur.com/ZFJ0073.jpg

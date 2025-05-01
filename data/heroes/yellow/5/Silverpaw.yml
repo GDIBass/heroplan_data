@@ -13,7 +13,7 @@ effects:
   - Inflicts the target wit lasting Greed. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)
   - All enemies receive 975 Curse damage over 4 turns, starting low and increasing every turn.
 types:
-  - Steals Minions
+  - Steals Mega/Minions
   - Lasting Greed 1
   - DoT All
 passives:
