@@ -1,0 +1,25 @@
+name: May
+source: hotm
+family: 2025
+speed: Average
+class: Monk
+power: 1077
+attack: 1071
+defense: 1081
+health: 1961
+skill: Bounty of the Spring
+effects:
+  - "Growth: All allies get 150 attack and 150 defense."
+  - Summon a Carrot Minion for each ally with 25% HP inherited from the caster.
+  - When summoned, the Carrot Minion gives +20% mana generation for its owner for as long as the owner has Carrot Minions. This effect can’t be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+  - Elemental Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled.
+types:
+  - Growth All
+  - Summoner All
+  - Mana Generation Buff Minion
+passives:
+  - >-
+    Resist Minion Removal: This character has innate resistance against Minion removal.
+  - >-
+    Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack.
+image: https://imgur.com/KK6zHLN.jpg
