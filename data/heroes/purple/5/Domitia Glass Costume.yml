@@ -14,10 +14,12 @@ effects:
   - Deals 600% damage to the target.
   - The attack bypasses defensive buffs. (This includes counterattacks.)
   - The caster and nearby allies get +74% defense against Holy for 4 turns.
+  - Dispels buffs from the target and nearby enemies.
 types:
   - Hit 1
   - Bypass
   - Elemental Defense Buff 3
+  - Dispeller 3
 passives:
   - >-
     Glass: 60% extra chance to reflect status ailments back to the attacker.
