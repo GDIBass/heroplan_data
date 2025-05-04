@@ -1,0 +1,25 @@
+name: Gooze
+source: superelemental
+family: slime
+speed: Average
+class: Sorcerer
+power: 1178
+attack: 1122
+defense: 1184
+health: 2350
+skill: Alchemy Experiment
+effects:
+  - All enemies become Provoked for 4 turns. The Provoked character deals 1% damage to a random opponent at the end of the turn. This effect can’t be dispelled.
+  - All allies get Sticky Surface for 4 turns. This effect can’t be dispelled.
+  - "Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)"
+  - All allies get +55% defense for 4 turns.
+types:
+  - Provoked All Enemies
+  - Sticky Surface All Allies
+  - Defense Buff All
+passives:
+  - >-
+    Slime Minion Upon Defeat: When the hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the defeated hero.
+  - >-
+    Slime Minion Split: If hero loses more than 25% of max health at once-> Summon a Slime Mega Minion on itself with 50% HP and 40% attack.
+image: https://imgur.com/GSjZbQW.jpg
