@@ -14,7 +14,7 @@ effects:
   - Deals 200% damage to the target and nearby enemies.
 types:
   - Chaining damage
-  - Defense debuff
+  - Defense debuff 1
   - Hit 3
 passives:
   - >-

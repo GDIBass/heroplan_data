@@ -23,7 +23,8 @@ effects:
   - ' - All enemies receive 840 Burn damage over 4 turns.'
   - ' - All enemies get -84% decrease of any healing received for 4 turns.'
 types:
+  - Charge
   - Hit All
   - Dot All
-  - Healing Debuff
+  - Healing Debuff All
 image: https://i.imgur.com/3lmxyeL.jpg

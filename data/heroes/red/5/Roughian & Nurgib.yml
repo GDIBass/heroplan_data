@@ -14,8 +14,8 @@ effects:
   - The more health the enemy has, the more damage they will receive, up to 600%.
   - Element Link gives all Fire allies get +5% chance to dodge status ailments for 4 turns. This effect can't be dispelled.
 types:
-  - Hit 1
   - Mana steal
+  - Hit 1
 passives:
   - >-
     Eat Minions and Gain Mana Over Time: Every 3 turns eats all Minions from a random enemy and gains a small amount of mana for each eaten Minion.

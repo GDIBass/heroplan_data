@@ -14,7 +14,7 @@ effects:
   - After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets -80% decrease of any healing received for 6 turns.
   - Deals 300% damage to the target and 9 random enemies. The damage is reduced on each consecutive hit.
 types:
-  - Enhanced Defense Ailment
+  - Enhanced Defense Ailment All
   - Delayed Healing Debuff 1
   - Hit 1
   - Hit 9 random

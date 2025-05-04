@@ -35,7 +35,7 @@ costume:
   types:
     - Hit All
     - Dot All
-    - Mana steal
+    - Mana steal All
   passives:
     - >-
       Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.

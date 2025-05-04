@@ -1,8 +1,8 @@
 name: Vanda
-class: Sorcerer
 source: morlovia
 family: morlovia
 speed: Very Fast
+class: Sorcerer
 power: 795
 attack: 774
 defense: 735
@@ -18,9 +18,7 @@ types:
   - Status Ailment Immunity
 passives:
   - >-
-    Steal Buff: When this character casts their Special Skill, they have a 50% 
-    chance to steal the newest dispellable buff from a random enemy that has buffs. 
-    If no enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/FsFObHs.jpg
 costume:
   bonuses: 5/5/10/5
@@ -37,5 +35,8 @@ costume:
   types:
     - Hit All
     - Healing Steal
-    - Status Ailment Immunity
+    - Status Ailment Immunity All
+  passives:
+    - >-
+      Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
   image: https://i.imgur.com/yADk9kZ.jpg

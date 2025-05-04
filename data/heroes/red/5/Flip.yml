@@ -14,7 +14,8 @@ effects:
   - All allies get +50% critical chance for 4 turns.
 types:
   - Healer
-  - Crit Buff
+  - Bypass All
+  - Crit Buff All
 passives:
   - >-
     Resist Water Damage: This character has innate resistance against Water Damage.

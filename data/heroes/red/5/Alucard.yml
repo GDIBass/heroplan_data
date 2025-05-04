@@ -9,7 +9,7 @@ defense: 803
 health: 1454
 skill: Vampiric Curse
 effects:
-  - Destroys all Minions from the target and nearby enemies.
+  - Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.
   - Deals 250% damage to the target and nearby enemies.
   - All allies recover 10% health for each destroyed Minion.
   - All allies get 3% mana for each destroyed Minion.
@@ -31,7 +31,7 @@ costume:
   health: 1798
   skill: Vampire Heist
   effects:
-    - Destroys all Minions from the target and nearby enemies.
+    - Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.
     - Deals 245% damage to the target and nearby enemies.
     - All allies recover 12% health for each destroyed Minion.
     - All allies get 3% mana for each destroyed Minion.

@@ -24,6 +24,8 @@ effects:
   - '* The target can’t summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 4 turns.'
 types:
   - Charge
+  - Destroys Minions 1
+  - Hit 1
 passives:
   - >-
     Resist defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.

@@ -24,9 +24,9 @@ costume:
   health: 1729
   skill: Maiden's Orders
   effects:
-    - Destroys all Minions from the target and nearby enemies.
+    - Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.
     - Deals 335% damage to the target and nearby enemies.
   types:
-    - Hit 3
     - Destroys Minions
+    - Hit 3
   image: https://i.imgur.com/ZoOkEJb.jpg

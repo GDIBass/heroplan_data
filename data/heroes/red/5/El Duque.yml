@@ -13,7 +13,7 @@ effects:
   - 'Stack: (Max: 10): The target and nearby enemies get -9% defense.'
 types:
   - Hit 3
-  - Stack
+  - Defense Debuff Stack 3
 passives:
   - >-
     Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 2 times they receive damage, it is dropped to 1. This effect can’t be dispelled.

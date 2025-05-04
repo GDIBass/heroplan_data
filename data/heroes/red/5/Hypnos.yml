@@ -23,8 +23,9 @@ effects:
   - ' * Deals 385% damage to all enemies.'
   - ' * All enemies are immune to new status effects buffs for 4 turns.'
 types:
+  - Charge
   - Hit all
-  - Buff Immunity
+  - Buff Immunity All
   - Dispell
 passives:
   - >-

@@ -1,8 +1,8 @@
 name: Ray
-class: Sorcerer
 source: magic
 family: magic
 speed: Magic
+class: Sorcerer
 power: 890
 attack: 867
 defense: 908
@@ -19,17 +19,16 @@ effects:
   - ' * All allies get +50% attack against Nature for 5 turns.'
   - ' * Cleanses status ailments from all allies.'
 types:
-  - HoT All
+  - Charge
+  - DoT All
+  - Elemental Defense Debuff All
   - Dispeller
-  - Healer
+  - HoT All
+  - Elemental Attack Buff All
   - Cleanser
 passives:
   - >-
-    When this character casts their Special Skill, all enemies get -5% mana 
-    generation stack. If the Special Skill is fully charged, all enemies get 
-    two stacks. An enemy can have up to 10 stacks.
+    Mana on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
   - >-
-    When this character casts their Special Skill, they have a 50% chance to 
-    give 10% mana to all allies. If the Special Skill is fully charged, the 
-    chance is 100%.
+    Stack on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.
 image: https://i.imgur.com/0vSBWSh.jpg

@@ -13,8 +13,8 @@ effects:
   - All enemies receive 744 Burn damage over 4 turns.
   - All enemies get -75% decrease of any boosted health received for 4 turns.
 types:
-  - Health Reduction
-  - DoT
+  - Max Health Reduction
+  - DoT All
 passives:
   - >-
     Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. 

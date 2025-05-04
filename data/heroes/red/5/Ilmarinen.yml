@@ -1,30 +1,22 @@
 name: Ilmarinen
-class: Fighter
-speed: Slow
 family: kalevala
 source: kalevala
+speed: Slow
+class: Fighter
 power: 835
 attack: 766
 defense: 830
 health: 1503
 skill: Forged in Fire
 effects:
-  - >-
-    Reduces the mana of all Ice enemies by 40%. Reduces the mana of all other
-    enemies by 20%.
-  - >-
-    All enemies become Soul Connected for 4 turns. Soul Connected enemies share 
-    received damage. This status effect is undispellable and lasts 2 turns longer
-    on Ice characters.
-  - >-
-    All enemies get -56% defense for 4 turns. Against Ice characters, this
-    status effect becomes uncleansable and lasts 2 turns longer.
+  - Reduces the mana of all Ice enemies by 40%. Reduces the mana of all other enemies by 20%.
+  - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+  - All enemies get -56% defense for 4 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.
 types:
-  - Mana reduction
+  - Mana reduction All
   - Enemy Damage Share
   - Defense debuff
 passives:
   - >-
-    When this character starts a turn with low health for the first time during
-    a battle, they recover 15% health and receive 15% mana.
+    Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/WriV7pU.jpg

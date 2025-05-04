@@ -13,7 +13,9 @@ effects:
   - Deals 190% damage to all enemies.
   - Increases the duration of all enemies’ active status ailments by 1 turn.
 types:
+  - Reposition
   - Hit All
+  - Increase Debuff Duration All
 passives:
   - >-
     Bypass Minions: All damage done by this character bypasses Minions.

@@ -12,6 +12,6 @@ effects:
   - Blocks Talent Skill activation for all enemies for 6 turns.
   - Deals 260% damage to all enemies.
 types:
-  - Talent Silence
+  - Talent Silence All
   - Hit All
 image: https://i.imgur.com/gUcWHX0.jpg

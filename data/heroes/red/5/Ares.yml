@@ -9,14 +9,14 @@ defense: 741
 health: 1442
 skill: Might of Ares
 effects:
-  - The caster and nearby allies get +54% attack for 4 turns
-  - The caster and nearby allies get +36% critical chance for 4 turns
-  - The caster and nearby allies regenerate 860 HP over 4 turns
+  - The caster and nearby allies get +54% attack for 4 turns.
+  - The caster and nearby allies get +36% critical chance for 4 turns.
+  - The caster and nearby allies regenerate 860 HP over 4 turns.
   - Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled.
 types:
-  - Attack Buff
-  - Crit Buff
-  - Hot
+  - Attack Buff 3
+  - Crit Buff 3
+  - Hot 3
 image: https://i.imgur.com/KvZBThZ.jpg
 costume:
   bonuses: 5/5/10/5
@@ -32,9 +32,9 @@ costume:
     - The caster and nearby allies regenerate 772 boosted health over 4 turns. Boosted health can exceed max HP.
     - Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled.
   types:
-    - Attack Buff
-    - Counterattack
-    - Health Boost
+    - Attack Buff 3
+    - Counterattack 3
+    - Health Boost 3
   passives:
     - >-
       Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.

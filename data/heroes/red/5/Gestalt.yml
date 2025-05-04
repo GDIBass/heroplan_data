@@ -23,7 +23,7 @@ effects:
   - ' * Magma Cube explode in 3 turns doing 450 damage to their owner.'
   - ' * If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns.'
 types:
-  - Hit 3
+  - Hit 3/5
   - Defense debuff
 passives:
   - >-
@@ -54,7 +54,7 @@ costume:
     - ' * Magma Cube explode in 4 turns doing 450 damage to their owner.'
     - ' * If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns. (If the Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to 2 times per cast.)'
   types:
-    - Hit 3
+    - Hit 3/5
     - Defense debuff
   passives:
     - >-

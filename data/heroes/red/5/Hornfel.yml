@@ -20,7 +20,7 @@ effects:
 types:
   - Hit 3
   - Knocks down
-  - Attack buff
+  - Attack buff 3
 passives:
   - >-
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.

@@ -16,7 +16,7 @@ effects:
   - Element Link gives all Fire allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled.
 types:
   - Hit 1
-  - Stack
+  - Self Attack Buff Stack
 passives:
   - >-
     Status effect on mana reduction: The caster gets +30% attack for 3 turns when their mana is reduced.

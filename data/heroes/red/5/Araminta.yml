@@ -14,8 +14,8 @@ effects:
   - All allies gain 10% mana after 2 turns, or immediatelly if the effect is removed before the duration ends.
 types:
   - Hit All
-  - Damage Increase Stack
-  - Delayed Mana boost
+  - Damage Increase Stack All
+  - Delayed Mana boost All
 passives:
   - >-
     Resist Insanity: This character has innate resistance against Insanity.

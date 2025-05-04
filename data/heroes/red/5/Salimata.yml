@@ -3,7 +3,7 @@ source: festival
 family: bard
 speed: Fast
 class: Cleric
-power: 1133
+power: 1151
 attack: 1252
 defense: 1143
 health: 1919
@@ -18,8 +18,8 @@ effects:
 types:
   - Dispeller 3
   - Hit 3
-  - Minion Wound
-  - Healing Debuff  
+  - Minion Wound 3
+  - Healing Debuff 3
 passives:
   - >-
     Quick Tempo Ballad: All Ballads cast by enemies only last for 1 turn.

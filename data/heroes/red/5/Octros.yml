@@ -33,7 +33,7 @@ costume:
     - All enemies get -24% attack for 3 turns.
   types:
     - Hit All
-    - Attack Debuff
+    - Attack Debuff All
   passives:
     - >-
       Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.

@@ -24,17 +24,17 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard
-  power: 1106
-  attack: 1209
-  defense: 1005
-  health: 1979
+  power: 1168
+  attack: 1291
+  defense: 1074
+  health: 2081
   skill: Flame of the Lioness
   effects:
     - Deals 500% damage to the target.
     - Heals all allies for 35% of damage dealt.
   types:
     - Hit 1
-    - Damage Heal
+    - Damage Heal All
   passives:
     - >-
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill

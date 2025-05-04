@@ -1,8 +1,8 @@
 name: D'Artagnan
 source: musketeer
-class: Paladin
 family: musketeer
 speed: Fast
+class: Paladin
 power: 878
 attack: 867
 defense: 834
@@ -10,16 +10,13 @@ health: 1545
 skill: Flaming Rapier
 effects:
   - Deals 470% damage to the target.
-  - >-
-    The target receives 1065 Burn damage over 3 turns. This effect spreads to
-    nearby enemies.
+  - The target receives 1065 Burn damage over 3 turns. This effect spreads to nearby enemies.
   - Caster regenerates 459 HP over 3 turns.
 types:
   - Hit 1
   - Dot 1
+  - Self HoT
 passives:
   - >-
-    Damage on Special Skill and Cover Damage: When this character receives damage 
-    from Special Skills or in place of a character in Cover, there’s a 60% chance 
-    of deal 20% of the received damage on all enemies.
+    Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies.
 image: https://i.imgur.com/cwvEsxY.jpg
