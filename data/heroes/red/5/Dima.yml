@@ -15,7 +15,7 @@ effects:
   - The target hit by the Sword Guard Mega Minion recieves 456 Bleed damage over 3 turns. This effect spreads on nearby enemies.
 types:
   - Hit 3
-  - Defense Debug
+  - Defense Debuff 3
   - Sword Guard Mega Minion
   - Spreading DoT
 passives:

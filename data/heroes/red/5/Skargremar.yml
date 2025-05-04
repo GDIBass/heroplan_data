@@ -15,8 +15,8 @@ effects:
   - Element Link gives +10% mana generations for all Fire allies for 4 turns. This effect cannot be dispelled.
 types:
   - Hit 3
-  - Mana Reduction
-  - Blind
+  - Mana Reduction 3
+  - Blind 3
 passives:
   - >-
     Resist Special Skill Blocking: This character has innate resistance against ailments that block Special Skills.

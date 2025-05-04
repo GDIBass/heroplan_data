@@ -14,7 +14,7 @@ effects:
   - All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns
 types:
   - Taunt
-  - Attack Buff
+  - Attack Buff All
 image: https://i.imgur.com/6so0gHz.jpg
 costume:
   class: Wizard
@@ -31,4 +31,5 @@ costume:
   types:
     - Damage Drop
     - Taunt
+    - Attack Buff All
   image: https://i.imgur.com/BH9J6dC.jpg

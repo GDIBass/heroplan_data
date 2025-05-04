@@ -1,24 +1,21 @@
 name: Xiwangmu
-class: Cleric
 source: kingdom
 family: journey
 speed: Average
+class: Cleric
 power: 947
 attack: 982
 defense: 957
 health: 1507
 skill: Peach of Immortality
 effects:
-  - >-
-    If the caster dies during the next 5 turns, they are resurrected in the 
-    beginning of their next turn with 35% health and 815 damage is dealt to all 
-    enemies. All status effects and stacks are removed when the caster dies.
+  - If the caster dies during the next 5 turns, they are resurrected in the beginning of their next turn with 35% health and 815 damage is dealt to all enemies. All status effects and stacks are removed when the caster dies.
   - All allies gets +50% critical chance for 4 turns.
   - 'Stack (Max: 10): All allies get +15% attack.'
 types:
   - Self Resurection
-  - Crit Buff
-  - Stack
+  - Crit Buff All
+  - Buff Attack Stack All
 passives:
   - >-
     Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.

@@ -23,6 +23,7 @@ effects:
   - ' - The attack bypasses defensive buffs. (This includes counterattack.)'
   - ' - The target and nearby enemies resist healing and receive 450 damage per each resisted healing for 6 turns.'
 types:
+  - Charge
   - Max Health Reducer 3
   - Hit 3
   - Bypass

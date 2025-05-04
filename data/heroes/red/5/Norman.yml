@@ -1,8 +1,8 @@
 name: Norman
-class: Fighter
 source: tavernoflegends
 family: champions
 speed: Average
+class: Fighter
 power: 993
 attack: 1013
 defense: 992
@@ -10,9 +10,7 @@ health: 1685
 skill: Unstoppable Charge
 effects:
   - This Special Skill ignores Dodge effects.
-  - >-
-    All allies get 100% chance to bypass defensive buffs with their attacks 
-    for 4 turns. (Defensive buffs include counterattacks.)
+  - All allies get 100% chance to bypass defensive buffs with their attacks for 4 turns. (Defensive buffs include counterattacks.)
   - Deals 320% damage to all enemies.
 types:
   - Ignore Dodge
@@ -20,11 +18,9 @@ types:
   - Hit all
 passives:
   - >-
-    Mana Buff on Status Ailment Received: The character with this skill receives 
-    +24% mana generation for 3 turns when they receive any status ailment or a 
-    negative stack.
+    Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.
   - >-
-    Mana on Taunt: Each time an enemy receives Taunt status effect this 
-    character’s mana is increased by 10%.
-  - 'Ignore Taunt: The character’s Special Skill is not affected by Taunt.'
+    Mana on Taunt: Each time an enemy receives Taunt status effect this character’s mana is increased by 10%.
+  - >-
+    Ignore Taunt: The character’s Special Skill is not affected by Taunt.
 image: https://i.imgur.com/xFLIwuu.jpg

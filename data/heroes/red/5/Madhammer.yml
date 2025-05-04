@@ -15,7 +15,8 @@ effects:
   - The target hit by Black Boar Mega Minion can’t get their status ailments cleansed or rellocated from Special Skills for 4 turns. This effect also prevents cleansing and rellocating of itself.
 types:
   - Hit 1
-  - Summoner
+  - Chance Extra Hit 1
+  - Black Boar Mega Minion
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.

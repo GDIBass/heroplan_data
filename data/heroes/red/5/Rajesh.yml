@@ -17,7 +17,7 @@ types:
   - Cleaser
   - Bypass All
   - Debuff Resist All
-  - Attack Stack
+  - Attack Stack All
 passives:
   - >-
     Nine Lives:

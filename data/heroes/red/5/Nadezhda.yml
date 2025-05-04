@@ -18,11 +18,12 @@ effects:
   - ' * All allies regenerate 714 HP over 3 turns.'
   - ' * All allies reduce all received damage by -50% for 3 turns.'
 types:
-  - HoT All
-  - Self resurrection
-  - Revive
-  - Damage Reduction
   - Charge
+  - DoT 2
+  - Self resurrection
+  - Reviver
+  - HoT All
+  - Damage Reduction
 passives:
   - >-
     Healt recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.

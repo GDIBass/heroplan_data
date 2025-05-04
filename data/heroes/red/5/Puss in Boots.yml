@@ -33,6 +33,6 @@ costume:
     - All allies get +50% attack for 4 turns.
   types:
     - Summoner
-    - Hot
-    - Attack Buff
+    - Hot All
+    - Attack Buff All
   image: https://i.imgur.com/emXl6nU.jpg

@@ -17,7 +17,7 @@ effects:
   - When the dance ends, the target suffers 1500 damage. (All existing status effects will be removed a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. This effect is removed when the caster is defeated.)
 types:
   - Hit 3
-  - Dance Ballad of Condemnation
+  - Dance Ballad of Condemnation 3
 passives:
   - >-
     Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.

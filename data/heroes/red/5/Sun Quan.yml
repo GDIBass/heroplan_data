@@ -15,6 +15,7 @@ effects:
 types:
   - Hit 3
   - Summoner
+  - Minions with DoT
 image: https://i.imgur.com/EShG44Z.jpg
 costume:
   bonuses: 5/5/10/5
@@ -31,6 +32,7 @@ costume:
   types:
     - Hit 3
     - Summoner
+    - Minions with DoT
   passives:
     - 'Unstoppable Minions:'
     - ' * Resistance against Minion removal.'

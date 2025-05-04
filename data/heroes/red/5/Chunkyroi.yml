@@ -3,7 +3,7 @@ source: moth
 family: moth
 speed: Average
 class: Paladin
-power: 1153
+power: 1158
 attack: 1137
 defense: 1283
 health: 1975
@@ -16,7 +16,7 @@ effects:
 types:
   - Healer
   - Boost Health All on Allies SS
-  - Mana Generation Buff
+  - Mana Generation Buff All
   - Cleanser
 passives:
   - >- 

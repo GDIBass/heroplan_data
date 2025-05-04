@@ -12,15 +12,12 @@ effects:
   - Dispels buffs from the target.
   - Blocks Talent Skill activation for the target.
   - Deals 485% damage to the target.
-  - >-
-    The target cannot cast any new status effects on enemies or allies for 3 
-    turns. This includes stacks. This only includes status effects cast with 
-    Special Skills.
+  - The target cannot cast any new status effects on enemies or allies for 3 turns. This includes stacks. This only includes status effects cast with Special Skills.
 types:
-  - Dispeller
-  - Talent Silence
+  - Dispeller 1
+  - Talent Silence 1
   - Hit 1
-  - Cast blocker
+  - Cast blocker 1
 passives:
   - >-
     Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.

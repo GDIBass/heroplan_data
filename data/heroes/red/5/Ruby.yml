@@ -24,7 +24,7 @@ effects:
   - ' - All enemies gets -34% mana generation for 4 turns.'
 types:
   - Charge
-  - Hit All
-  - Mana reduction
-  - Mana generation debuff
+  - Hit 1/3/All
+  - Mana reduction 1/3/All
+  - Mana generation debuff 1/3/All
 image: https://i.imgur.com/LIQiSIc.jpg

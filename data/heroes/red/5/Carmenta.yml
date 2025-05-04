@@ -11,8 +11,10 @@ skill: Master of Ailments
 effects:
   - Spreads all of the target’s cleansable status ailments to nearby enemies.
   - The duration of the status ailments is reset for target and nearby enemies.
-  - Deaks 495% damage to the target, and minor damage to nearby enemies.
+  - Deaks 495% damage to the target and minor damage to nearby enemies.
 types:
+  - Spread Debuffs
+  - Debuff Duration Reset
   - Hit 3
 passives:
   - >-

@@ -44,8 +44,8 @@ costume:
     - ' * The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 375 Burn damage and lowers the target’s defense by -18% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
   types:
     - Hit 3
-    - DoT
-    - Defense debuff
+    - DoT 3
+    - Defense debuff 3
   passives:
     - >-
       Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:

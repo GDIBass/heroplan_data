@@ -23,6 +23,7 @@ effects:
   - ' * If the target is defeated by the attack, all allies get +40% mana generation for 4 turns.'
 types:
   - Charge Hit
+  - Hit 1/3/All
 passives:
   - >-
     Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.

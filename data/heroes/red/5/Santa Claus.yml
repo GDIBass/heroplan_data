@@ -34,7 +34,7 @@ costume:
     - All enemies get -54% defense for 4 turns.
   types:
     - Hit All
-    - Summoner
-    - Attack Debuff
-    - Defense Debuff
+    - Summoner All
+    - Attack Debuff All
+    - Defense Debuff All
   image: https://i.imgur.com/3zbVEXc.jpg
