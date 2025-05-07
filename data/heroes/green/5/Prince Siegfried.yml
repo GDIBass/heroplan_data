@@ -18,7 +18,7 @@ effects:
   - " * This effect cannot be dispelled. The effect is removed when the caster is defeated."
 types:
   - Self Resurrection
-  - Dance of the Heron
+  - Dance of the Heron 4
   - Counterattack
   - Damage reducer
   - Status Effect immunity
