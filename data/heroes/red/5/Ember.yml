@@ -1,0 +1,21 @@
+name: Ember
+source: covenant
+family: fox
+speed: Average
+class: Wizard
+power: 1179
+attack: 1260
+defense: 1238
+health: 1903
+skill: Firewall
+effects:
+  - Deals 300% damage to all enemies.
+  - Summons a Firewall Minion for all allies with 35% HP inherited from the caster.
+  - Each time a Firewall Minion is attacked by normal attacks or Special Skills, the attacker receives Corrosive Burn for 3 turns. The Corrosive Burn deals 200 Burn damage and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or a Mega Minion.
+types:
+  - Hit All
+  - Summoner
+passives:
+  - >-
+    Decreased Healing: All enemies get -50% healing.
+image: https://imgur.com/dTQNPFE.jpg
