@@ -67,3 +67,24 @@ costume3:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/8mWGMUp.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 756
+  attack: 861
+  defense: 704
+  health: 1237
+  skill: Glass Chop
+  effects:
+    - Deals 225% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - All enemies get -59% mana generation for 3 turns.
+  types:
+    - Hit All
+    - Bypass
+    - Mana Generation Debuff All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/8scCOJR.jpg
