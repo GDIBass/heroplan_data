@@ -14,7 +14,7 @@ effects:
   - All damage received by the caster is also dealt to all Soul Bound Enemies. Damage is shared between all Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks.
 types:
   - Hit 1
-  - Soul Bond
+  - Soul Bond 1
 passives:
   - >-
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.

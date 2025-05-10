@@ -1,0 +1,24 @@
+name: Bane Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Fast
+class: Monk
+power: 511
+attack: 562
+defense: 457
+health: 868
+skill: Glass Slam
+effects:
+  - Deals 315% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target gets -32% accuracy for 4 turns.
+types:
+  - Hit 1
+  - Bypass
+  - Blind 1
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/GXkDkIq.jpg
