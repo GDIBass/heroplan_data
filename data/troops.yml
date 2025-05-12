@@ -796,6 +796,47 @@ troops:
       name: Attack Ailment Reduction
       description: Attack status ailments are 8% less effective for the character this Troop is equipped on.
       image: https://i.imgur.com/QCeBJHU.jpg.jpg
+  five_star_Ranger_Sorcerer:
+    key: five_star_Ranger_Sorcerer
+    id: 62
+    stars: 5
+    name: Hunter Mage
+    description: Legendary for class Ranger and Sorcerer
+    classLink:
+      - Ranger
+      - Sorcerer
+    images:
+      full:
+        purple: https://i.imgur.com/dUx1yMX.jpg
+        yellow: https://i.imgur.com/qqWhk4s.jpg
+        blue: https://i.imgur.com/BDCsAbX.jpg
+        green: https://i.imgur.com/WDfpJeP.jpg
+        red: https://i.imgur.com/PrFDoI7.jpg
+      half:
+        purple: https://i.imgur.com/WukU9Sa.jpg
+        yellow: https://i.imgur.com/540zr1J.jpg
+        blue: https://i.imgur.com/c8CaoxJ.jpg
+        green: https://i.imgur.com/b5b0a3N.jpg
+        red: https://i.imgur.com/Ms3tDmv.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 22
+      defense: 25
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 28
+      defense: 31
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Critical Modifier
+      description: Grants +15% critical chance to the character this troop is equipped on.
+      image: https://i.imgur.com/OGrGPG6.jpg.jpg
 
 max_level_by_stars:
   1: 10
