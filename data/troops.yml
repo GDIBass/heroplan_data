@@ -800,7 +800,7 @@ troops:
     key: five_star_Ranger_Sorcerer
     id: 62
     stars: 5
-    name: Hunter Mage
+    name: Arcane Hunter
     description: Legendary for class Ranger and Sorcerer
     classLink:
       - Ranger
