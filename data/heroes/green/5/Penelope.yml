@@ -18,7 +18,4 @@ types:
   - Healer
   - Dodge Buff
   - Insanity
-passives:
-  - >-
-    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
 image: https://i.imgur.com/mxewGNK.jpg
