@@ -1,0 +1,19 @@
+name: Asketel
+source: shadow
+family: cultist
+speed: Average
+class: Wizard
+power: 1180
+attack: 1209
+defense: 1190
+health: 2134
+skill: Necronomicon Page 13
+effects:
+  - Deals 410% damage to the target and nearby enemies and inflicts 40 Insanity on them.
+  - All active status ailments are uncleansable for the target and nearby enemies for the remaining turns of the status ailment.
+  - Inflicts 55 Insanity to the caster.
+types:
+  - Hit 3
+  - Insanity 3
+  - Insanity Self
+image: https://imgur.com/l1cl4kl.jpg
