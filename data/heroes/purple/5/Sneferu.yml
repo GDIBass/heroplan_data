@@ -11,17 +11,14 @@ skill: Disheartening Riddle
 effects:
   - Deals 415% damage to the target.
   - The attack chains through all the enemies who are adjacent to any hit enemy.
-  - >-
-    All hit targets are immune to new status effect buffs for 5 turns, and
-    receive 250 damage for each attempted buff.
+  - All hit targets are immune to new status effect buffs for 5 turns, and receive 250 damage for each attempted buff.
 types:
   - Hit 1
   - Chain
   - Buff Immunity
 passives:
   - >-
-    Effects on special skill: 70% chance to perform the following actions when
-    this character casts their Special Skill
+    Effects on special skill: 70% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
   - ' * Dispells the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/xRHanch.jpg

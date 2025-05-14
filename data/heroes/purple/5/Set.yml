@@ -21,3 +21,29 @@ passives:
   - ' * Deals 70% damage to all enemies.'
   - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/8kUB8ir.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 1171
+  attack: 1178
+  defense: 1157
+  health: 2216
+  skill: Legions of Tyrant
+  effects:
+    - Summons a Dark Soldier Minion for all allies with 45% HP and 35% attack inherited from the caster.
+    - All enemies receive 1104 Poison damage over 4 turns.
+    - If the caster is defeated in the next 4 turns, all enemies’ mana is reduced by -100%. This effect can’t be dispelled.
+  types:
+    - Summoner
+    - DoT All
+  passives:
+    - >-
+      Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill
+    - " * Deals 70% damage to all enemies."
+    - " * All enemies get -24% mana generation for 3 turns."
+    - >-
+      Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
+    - >-
+      Resist Sand Damage: This character has innate resistance against Sand damage.
+  image: https://imgur.com/olt8i8H.jpg
