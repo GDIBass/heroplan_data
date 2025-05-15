@@ -11,7 +11,7 @@ skill: Captivating Illusions
 effects:
   - Deals 450% damage to the target and nearby enemies.
   - 'Enhanced Dodge: The caster and nearby allies get +55% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 3 times.'
-  - After the Enhanced Dodge ends or is removed or replaced, one random enemy gets -55% accuracy for 3 turns, and one random enemy takes 483 Bleed damage over 3 turns. (Chance to miss applies to offensive Special Skills.)
+  - After the Enhanced Dodge ends or is removed or replaced, one random enemy gets -55% accuracy for 3 turns, and one random enemy takes 765 Bleed damage over 3 turns. (Chance to miss applies to offensive Special Skills.)
 types:
   - Hit 3
   - Enhanced Dodge

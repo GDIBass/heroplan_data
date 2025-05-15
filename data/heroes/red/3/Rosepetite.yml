@@ -16,5 +16,5 @@ types:
   - DoT 3
 passives:
   - >- 
-    Dodge Special Damage: This character has a 10% chance to dodge Special Skills that deal damage.
+    Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
 image: https://i.imgur.com/1hAn4iO.jpg

@@ -20,5 +20,5 @@ passives:
   - >-
     Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.
   - >-
-    Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +25% attack Stack (Max: 10). One Stack can be gained per turn.
+    Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.
 image: https://i.imgur.com/P9xj0rz.jpg

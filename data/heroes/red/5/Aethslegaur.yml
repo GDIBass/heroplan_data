@@ -9,9 +9,9 @@ defense: 1172
 health: 2253
 skill: Mana Immolation
 effects:
-  - Attacks the target with Firestorm Strike, dealing up to 3000 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.
-  - All allies get +45% chance to dodge attacks and Special Skills for 4 turns.
-  - 'This character gets a Mark of Immolation for 3 turns. Whenever an enemy or an ally receives Burn damage, the caster gains a stack. (Max: 10). Each stacks increases mana generation of the caster by +6%.'
+  - Attacks the target with Firestorm Strike, dealing up to 4000 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.
+  - All allies get +45% chance to dodge attacks and Special Skills for 5 turns.
+  - 'This character gets a Mark of Immolation for 5 turns. Whenever an enemy or an ally receives Burn damage, the caster gains a stack. (Max: 10). Each stacks increases mana generation of the caster by +6%.'
 types:
   - Hit 1
   - Dodge All
@@ -22,6 +22,6 @@ passives:
   - Molten Core. This character has a Molten Core.
   - >-
     The Molten Core activates each time this character’s Special Skill is cast:
-  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 286 Burn damage, and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions'
+  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 286 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions'
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
 image: https://i.imgur.com/rCRyftg.jpg

@@ -9,9 +9,9 @@ defense: 1163
 health: 1948
 skill: Throwing Daggers
 effects:
-  - Deals 260% damage to all enemies.
-  - All enemies receive 483 Water damage over 3 turns.
-  - All enemies get -30% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+  - Deals 270% damage to all enemies.
+  - All enemies receive 627 Water damage over 3 turns.
+  - All enemies get -35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
 types:
   - Hit All
   - DoT All

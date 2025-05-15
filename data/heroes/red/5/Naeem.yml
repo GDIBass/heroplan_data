@@ -9,10 +9,10 @@ defense: 1198
 health: 2125
 skill: Countering Hammock
 effects:
-  - "All buffs affecting attack, defense and mana generation on target and nearby enemies are replaced by matching uncleansable ailments. (Replacing cannot be blocked by status effects, family effects or passives. Only buffs that are dispellable can be replaced. Replacement effects: Attack buffs are replaced with -35% attack ailment for 4 turns. Defense buffs are replaced with -35% defense ailment for 4 turns. Mana generation buffs are replaced with -35% mana generation ailment for 4 turns.)"
-  - Deals 300% damage to the target and nearby enemies.
-  - The caster and nearby allies counterattack with 135% of the damage received for 4 turns.
-  - "Caster and nearby allies get Sand Touch for 4 turns. (Sand Touch: Each time the owner of this status effect counterattacks an enemy the attacker receives 356 Sand damage over 4 turns.)"
+  - "All buffs affecting attack, defense and mana generation on target and nearby enemies are replaced by matching uncleansable ailments. (Replacing cannot be blocked by status effects, family effects or passives. Only buffs that are dispellable can be replaced. Replacement effects: Attack buffs are replaced with -40% attack ailment for 4 turns. Defense buffs are replaced with -40% defense ailment for 4 turns. Mana generation buffs are replaced with -40% mana generation ailment for 4 turns.)"
+  - Deals 330% damage to the target and nearby enemies.
+  - The caster and nearby allies counterattack with 145% of the damage received for 4 turns.
+  - "Caster and nearby allies get Sand Touch for 4 turns. (Sand Touch: Each time the owner of this status effect counterattacks an enemy the attacker receives 452 Sand damage over 4 turns.)"
 types:
   - Replace Buffs 3
   - Hit 3
@@ -21,8 +21,8 @@ types:
 passives:
   - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:
-  - " * Up to +30% mana generation."
-  - " * Up to +20% chance to dodge."
+  - " * Up to +35% mana generation."
+  - " * Up to +25% chance to dodge."
   - " * The effects diminish the less Flight Momentum character has."
   - >-
     Weaker Mega Minions: Enemy Mega Minions have -75% HP.

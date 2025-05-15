@@ -9,7 +9,7 @@ defense: 1110
 health: 2177
 skill: Feyfire Slash
 effects:
-  - Deals 440% damage to the target and nearby enemies.
+  - Deals 450% damage to the target and nearby enemies.
   - >-
     Enhanced Dodge: The caster and nearby allies get +55% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 5 times.
   - After the Enhanced Dodge ends or is removed or replaced, the ally gets +70% attack for 5 turns.

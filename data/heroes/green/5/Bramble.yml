@@ -10,7 +10,7 @@ health: 2214
 skill: Sylvan Blessings
 effects:
   - Recovers 50% health for all allies.
-  - All allies gain 20% mana after 3 turns or immediately if the effect is removed before the duration ends.
+  - All allies gain 25% mana after 3 turns or immediately if the effect is removed before the duration ends.
   - Safely cleanses status ailmentsfrom all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.)
 types:
   - Heal All

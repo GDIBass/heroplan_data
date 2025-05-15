@@ -9,8 +9,8 @@ defense: 1273
 health: 2107
 skill: Picnic in the Sky
 effects:
-  - Recovers 42% health for all allies.
-  - "All ailments affecting attack, defense and mana generation on the caster and nearby allies are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +35% attack buff for 4 turns. Defense ailments are replaced with +35% defense buff for 4 turns. Mana generation ailments are replaced with +35% mana generation buff for 4 turns.)"
+  - Recovers 50% health for all allies.
+  - "All ailments affecting attack, defense and mana generation on the caster and nearby allies are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)"
   - Caster and nearby allies resist new negative mana effects for 4 turns, and their mana is increased by 10% for each resisted effect.
 types:
   - Healer All
@@ -19,8 +19,8 @@ types:
 passives:
   - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:
-  - " * Up to +30% mana generation."
-  - " * Up to +20% chance to dodge."
+  - " * Up to +35% mana generation."
+  - " * Up to +25% chance to dodge."
   - " * The effects diminish the less Flight Momentum character has."
   - >-
     Weaker Mega Minions: Enemy Mega Minions have -75% HP.

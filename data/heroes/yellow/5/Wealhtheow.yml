@@ -10,13 +10,13 @@ health: 2251
 skill: Cup of Mead
 effects:
   - Heals all allies who have less than 50% HP left to 50% health.
-  - All allies regenerate 1050 boosted health over 3 turns. Boosted health can exceed max HP.
+  - All allies regenerate 1320 boosted health over 3 turns. Boosted health can exceed max HP.
   - >-
-    Status Effect Generator: At the start of the next 3 turns, this character gives a random ally an additional +100% Special Skill damage and +33% mana generation for 4 turns. This effect cannot be dispelled.
+    Source of Buffs: At the start of the next 3 turns, this character gives a random ally an additional +100% Special Skill damage and +33% mana generation for 4 turns. This effect cannot be dispelled.
 types:
   - Healer
   - Boosted HoT
-  - Status Effect Generator
+  - Source of Buffs 1
 passives:
   - >-
     Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.

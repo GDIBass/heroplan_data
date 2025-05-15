@@ -4,9 +4,9 @@ family: nightmaresofatlantis
 speed: Changing Tides
 class: Cleric
 power: 943
-attack: 978
-defense: 879
-health: 1643
+attack: 986
+defense: 887
+health: 1668
 skill: Sinister Enlace
 effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
