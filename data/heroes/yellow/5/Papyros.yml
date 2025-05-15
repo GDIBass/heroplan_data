@@ -23,25 +23,25 @@ image: https://i.imgur.com/cV84mq0.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1100
-  attack: 1032
-  defense: 1122
-  health: 2146
+  power: 1162
+  attack: 1102
+  defense: 1198
+  health: 2257
   skill: Command Sand Golems
   effects:
     - Summons a Sand Golem Minion for each ally with 20% HP and 25% attack inherited from the caster.
-    - Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 330 Sand damage over 3 turns.
+    - Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 399 Sand damage over 3 turns.
     - All allies get +40% defense for 3 turns.
   types:
     - Summoner
     - Defense Buff
   passives:
     - >-
-      Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.
-    - >-
-      Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation.
-    - >-
       Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
     - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
     - ' * All allies gain a small amount of mana.'
+    - >-
+      Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.
+    - >-
+      Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation.
   image: https://i.imgur.com/jWPUwhw.jpg

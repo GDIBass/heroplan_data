@@ -1,0 +1,34 @@
+name: Regium
+source: ancientUnderroot
+speed: Slow
+attack: 13905
+defense: 14028
+health: 13216
+power: 11148
+skill: Bites of Disorientation
+effects:
+  - Deals 180% damage 6 random enemies.
+  - All enemies get -35% accuracy for 5 turns. (Chance to miss also applies to offensive Special Skills.)
+types:
+  - Hit Random 6
+  - Blind All
+spiritBonus:
+  spiritClass: Paladin
+  all:
+    attack:  +200
+    defense: +160
+    health:  +60
+  elementalBond:
+    attack:  +25
+    defense: +20
+    health:  +20
+  classLink:
+    attack:  +25
+    defense: +20
+    health:  +20
+assist:
+  name: Breath of Bulwark
+  effects:
+    - Recovers 650 health for all allies.
+    - All allies are immune to buff dispels and reallocations for 5 turns.
+image: https://imgur.com/iYFdj4k.jpg
