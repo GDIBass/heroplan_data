@@ -4,9 +4,9 @@ family: defendersofatlantis
 speed: Changing Tides
 class: Rogue
 power: 950
-attack: 997
-defense: 848
-health: 1707
+attack: 1001
+defense: 852
+health: 1720
 skill: Whirlpool Dash
 effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'

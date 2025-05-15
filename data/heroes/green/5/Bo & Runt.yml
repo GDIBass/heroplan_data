@@ -9,8 +9,8 @@ defense: 929
 health: 1652
 skill: Command the Pack
 effects:
-  - Deals 400% damage to the target.
-  - Deals additional 25% damage for each Minion owned by the allies, up to 600% damage in total.
+  - Deals 450% damage to the target.
+  - Deals additional 25% damage for each Minion owned by the allies, up to 650% damage in total.
   - Summons a Loyal Hound Minion for the caster with 35% HP and 35% attack inherited from the caster.
   - When summoned the Loyal Hound Minion give +50% attack for tis owner as long as the owner has Loyal Hound Minions. This effect can’t be dispelled.
   - Element Link gives all Nature allies +5% dodge chance for 6 turns. This effect cannot be dispelled.

@@ -9,7 +9,7 @@ defense: 1073
 health: 2148
 skill: Red Shoes
 effects:
-  - Deals 320% damage to the target and nearby enemies.
+  - Deals 350% damage to the target and nearby enemies.
   - >-
     Enhanced Defense Ailment: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from Special Skill 3 times.
   - After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets -40% mana generation for 3 turns.

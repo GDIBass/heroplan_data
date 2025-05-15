@@ -11,8 +11,8 @@ skill: Hungering Grave
 effects:
   - Deals 800% damage to the target.
   - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - Heals all allies for 30% of damage dealt.
-  - Summons a Grave Mothling Mega Fiend for the target. The Fiend damages the enemy with 250% attack every turn.
+  - Heals all allies for 40% of damage dealt.
+  - Summons a Grave Mothling Mega Fiend for the target. The Fiend damages the enemy with 270% attack every turn.
   - The Grave Mothling Mega Fiend absorbs healing and disappears when it has absorbed health equal to 80% of its owner’s max health.
   - When summoned, the Grave Mothling Mega Fiend increases the damage dealt to its target from all sources by +50%. The effect lasts as long as the owner has Grave Mothling Mega Fiend.
 types:
@@ -23,5 +23,5 @@ types:
   - Damage Increasing Mega Fiend
 passives:
   - >- 
-    Dodge Special Damage: This character has a 10% chance to dodge Special Skills that deal damage.
+    Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
 image: https://i.imgur.com/jvJDkdc.jpg

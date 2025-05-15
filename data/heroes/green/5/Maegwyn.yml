@@ -10,8 +10,8 @@ health: 1942
 skill: Astral Brew
 effects:
   - Recovers 50% health for all allies.
-  - All allies regenerate 600 boosted health over 4 turns. Boosted health can exceed max HP.
-  - All allies reduce all received damage by -30% for 4 turns.
+  - All allies regenerate 800 boosted health over 4 turns. Boosted health can exceed max HP.
+  - All allies reduce all received damage by -40% for 4 turns.
 types:
   - Healer All
   - Boosted HoT

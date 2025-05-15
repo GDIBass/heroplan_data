@@ -9,21 +9,21 @@ defense: 1069
 health: 2097
 skill: The King’s Feast
 effects:
-  - Deals 310% damage to all enemies.
+  - Deals 340% damage to all enemies.
   - Reduces the mana of all enemies by 20%.
   - All enemies get -24% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
   - >-
-    Status Effect Generator: At the start of the next 4 turns, this character gives a random ally +70% attack and +50% defense for 5 turns. This effect cannot be dispelled.
+    Source of Buffs: At the start of the next 4 turns, this character gives a random ally +70% attack and +50% defense for 5 turns. This effect cannot be dispelled.
 types:
   - Hit All
   - Mana Reduction All
   - Mana Generation Debuff All
-  - Status Effect Generator 1
+  - Source of Buffs 1
 passives:
   - >-
     Perfect Accuracy: This character’s Special Skill never misses its targets.
   - >-
     Heal when Status Ailment Exires or Is Cleared: This character’s receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
   - >-
-    Stacking Attack on Damage Received: When this character receives direct Special Skill damage, gain 25% attack Stack (max: 10). One Stack can be gained per turn.
+    Stacking Attack on Damage Received: When this character receives direct Special Skill damage, gain 30% attack Stack (max: 10). One Stack can be gained per turn.
 image: https://i.imgur.com/RbbKSQ5.jpg

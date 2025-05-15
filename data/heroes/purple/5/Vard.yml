@@ -9,9 +9,9 @@ defense: 1227
 health: 1932
 skill: Power of the Void
 effects:
-  - Deals 450% damage to all enemies.
+  - Deals 470% damage to all enemies.
   - 'Wither: All enemies get -350 attack and -350 defense.'
-  - All enemies get -30% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.
+  - All enemies get -35% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.
 types:
   - Hit All
   - Wither

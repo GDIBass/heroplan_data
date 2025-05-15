@@ -9,7 +9,7 @@ defense: 1170
 health: 1954
 skill: Fluvial Path
 effects:
-  - Deals 435% damage to the target and nearby enemies.
+  - Deals 450% damage to the target and nearby enemies.
   - The target and nearby enemies receive 788 Water damage over 4 turns. All allies absorb 50% of dealt Water damage as boosted health.
   - 'Growth: All allies get 200 attack and 200 defense.'
 types:

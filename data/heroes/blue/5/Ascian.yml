@@ -9,11 +9,11 @@ defense: 1114
 health: 2216
 skill: Portents of Future
 effects:
-  - Deals 240% damage to all enemies.
+  - Deals 270% damage to all enemies.
   - >-
     Enhanced Defense Ailment: All enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.
-  - After the Enhanced Defense Ailment ends or is removed or replaced, reduces the enemy’s mana by -10%.
-  - All allies gain 10% mana after 2 turns or immediately if the effect is removed before the duration ends.
+  - After the Enhanced Defense Ailment ends or is removed or replaced, reduces the enemy’s mana by -15%.
+  - All allies gain 15% mana after 2 turns or immediately if the effect is removed before the duration ends.
 types:
   - Hit All
   - Enhanced Defense Ailment

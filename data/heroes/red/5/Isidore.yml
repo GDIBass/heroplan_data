@@ -12,7 +12,7 @@ effects:
   - >-
     Enhanced Defense Ailment: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 3 times.
   - After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets -80% decrease of any healing received for 6 turns.
-  - Deals 300% damage to the target and 9 random enemies. The damage is reduced on each consecutive hit.
+  - Deals 350% damage to the target and 9 random enemies. The damage is reduced on each consecutive hit.
 types:
   - Enhanced Defense Ailment All
   - Delayed Healing Debuff 1

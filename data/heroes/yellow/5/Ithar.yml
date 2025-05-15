@@ -19,7 +19,7 @@ types:
   - Attack Buff
 passives:
   - >-
-    Dodge Special Damage: This character has a 10% chance to dodge Special Skills that deal damage.
+    Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
   - >-
     Resist Status Ailments From Minions: This character has innate resistance against status ailments that are from Minions.
 image: https://i.imgur.com/DDTIPj2.jpg
