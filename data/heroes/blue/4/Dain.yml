@@ -1,0 +1,24 @@
+name: Dain
+source: untoldtales
+family: myrkheim
+speed: Fast
+class: Paladin
+power: 732
+attack: 716
+defense: 743
+health: 1347
+skill: Iceberg Aura
+effects:
+  - The caster and nearby allies get a Frostfall Ward for 3 turns, that reduces incoming Special Skill damage up to -500. Reduces damage by additional 25% when the attacker is of Fire element.
+  - The caster and nearby allies get +120% normal attack for 3 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maxiumum of +200% increased attack while this effect is active.
+types:
+  - Frostfall Ward 3
+  - Attack Buff 3
+passives:
+  - >-
+    Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.
+  - >-
+    Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast
+  - " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+  - " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+image: https://imgur.com/r2wMpaa.jpg

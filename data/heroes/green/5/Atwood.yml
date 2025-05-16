@@ -17,7 +17,7 @@ types:
   - Dispeller 3
   - Hit 3
   - Insanity 3
-  - Ailments Damage immunity
+  - Damage from Ailments Immunity All
   - Self Insanity
 passives:
   - >-
