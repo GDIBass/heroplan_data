@@ -17,9 +17,11 @@ effects:
   - ' * Recovers 75% health for the caster and nearby allies.'
   - ' * The caster and nearby allies are immune to damage from status ailments for 5 turns.'
 types:
-  - DoT all
-  - Healer
   - Charge
+  - Increased Damage from Ailments All
+  - DoT all
+  - Healer 3
+  - Damage from Ailments Immunity 3
 passives:
   - >-
     Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.
