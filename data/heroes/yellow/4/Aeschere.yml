@@ -11,7 +11,10 @@ skill: Wise Man’s Counsel
 effects:
   - Safely dispels 1 buff from all enemies. (The latest buffs are dispelled first.)
   - >-
-    Source of Buffs: At the start of the next 4 turns, this character gives a random ally an additional +25% mana generation and +60% increase of all healing received for 3 turns. This effect cannot be dispelled.
+    Source of Buffs: The following effects are cast on a random ally at the start of each turn
+  - " * +25% mana generation for 3 turns."
+  - " * +50% increase for all healing received for 3 turns."
+  - " * The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation."
   - All allies regenerate 600 HP over 4 turns.
 types:
   - Safe Dispell 1 Buff All

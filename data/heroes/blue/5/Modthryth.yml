@@ -12,7 +12,11 @@ effects:
   - The caster and nearby allies counterattack with 135% of the damage received for 3 turns.
   - The caster and nearby allies decrease -10% mana from the attacker on each counterattack for 3 turns. The effect get diminished for consecutive activations during the same turn.
   - 'Stack (Max: 10): All allies get +15% attack.'
-  - 'Source of Buffs: At the start of the next 4 turns, this character gives a random ally an additional +100% Special Skill damage and +33% mana generation for 4 turns. This effect cannot be dispelled.'
+  - >-
+    Source of Buffs: The following effects are cast on a random ally at the start of each turn
+  - " * +100% Special Skill damage for 4 turns."
+  - " * +33% mana generation for 4 turns."
+  - " * The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation."
 types:
   - Counterattack 3
   - Attack Stack All

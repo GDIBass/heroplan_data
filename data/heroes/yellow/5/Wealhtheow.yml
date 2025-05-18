@@ -12,16 +12,19 @@ effects:
   - Heals all allies who have less than 50% HP left to 50% health.
   - All allies regenerate 1320 boosted health over 3 turns. Boosted health can exceed max HP.
   - >-
-    Source of Buffs: At the start of the next 3 turns, this character gives a random ally an additional +100% Special Skill damage and +33% mana generation for 4 turns. This effect cannot be dispelled.
+    Source of Buffs: The following effects are cast on a random ally at the start of each turn
+  - " * +100% Special Skill damage for 4 turns."
+  - " * +33% mana generation for 4 turns."
+  - " * The Source of Buffs will activate 3 times. Each attempt to dispel it removes one activation."
 types:
   - Healer
-  - Boosted HoT
+  - Boosted HoT All
   - Source of Buffs 1
 passives:
   - >-
     Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.
   - >-
-    Heal when Status Ailment Exires or Is Cleared: This character’s receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+    Heal when Status Ailment Exires or Is Cleared: This character’s receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
   - >-
     Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs.
 image: https://i.imgur.com/yG43ChX.jpg
