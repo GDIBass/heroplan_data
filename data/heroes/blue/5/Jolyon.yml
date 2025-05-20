@@ -1,0 +1,25 @@
+name: Jolyon
+source: wilderness
+family: woodlandfaun
+speed: Average
+class: Cleric
+power: 1182
+attack: 1137
+defense: 1223
+health: 2263
+skill: Charm of Protection
+effects:
+  - Enhanced Dodge: All allies get +75% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges once.
+  - After the Enhanced Dodge ends or is removed or replaced, the ally gets a Wooden Doll Minion.
+  - The Wooden Doll Minion has 30% HP and 30% attack inherited from the caster.
+  - When summoned the Wooden Doll Minion gives its owner immunity to new status ailments for as long as the owner has Wooden Doll Minion.
+types:
+  - Enhanced Dodge All
+  - Summoner
+  - Status Ailments Immunity Minion
+passives:
+  - >-
+    Resist Insanity: This character has innate resistance against Insanity.
+  - >-
+    Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense. 
+image: https://imgur.com/61PB1e9.jpg
