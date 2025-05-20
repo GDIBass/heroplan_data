@@ -12,7 +12,9 @@ effects:
   - Deals 250% damage to the target.
   - Deals 300% damage if the target has more than 70% health remaining.
   - >-
-    Source of Ailments: At the start of the next 3 turns, this character gives a random enemy -50% defense against Special Skills for 3 turns. This effect cannot be dispelled.
+    Source of Ailments: The following effects are cast on a random enemy at the start of each turn
+  - " * -50% defense against Special Skill for 3 turns."
+  - " * The Source of Ailments will activate 3 times. Each attempt to dispel it removes one activation."
 types:
   - Hit 1
   - Source of Ailments 1
