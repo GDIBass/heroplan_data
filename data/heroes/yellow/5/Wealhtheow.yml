@@ -24,7 +24,7 @@ passives:
   - >-
     Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.
   - >-
-    Heal when Status Ailment Exires or Is Cleared: This character’s receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+    Heal when Status Ailment Expires or Is Cleared: This character’s receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
   - >-
     Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs.
 image: https://i.imgur.com/yG43ChX.jpg

@@ -1,0 +1,31 @@
+name: Gu Dasao
+source: kingdom
+family: outlaws
+speed: Average
+class: Druid
+power: 737
+attack: 750
+defense: 722
+health: 1345
+skill: Intimidating Stance
+effects:
+  - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)
+  - Deals 185% damage to the target and minor damage to all other enemies.
+  - The caster counterattacks with 70% of the damage received for 4 turns.
+  - The caster decreases -5% mana from the attacker on each counterattack for 4 turns. The effect gets diminished for consecutive activations during the same turn.
+types:
+  - Chance of Critical hits
+  - Hit All
+  - Counterattack 1
+  - Mana Reducer on Counterattack
+passives:
+  - >-
+    Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.
+  - >-
+    Righteous Rebellion: 
+  - " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health."
+  - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
+  - " * Each of these effects can activate once per turn."
+  - >-
+    Resist Bleed Damage: This character has innate resistance against Bleed.    
+image: https://imgur.com/rTKzhQE.jpg

@@ -1,0 +1,33 @@
+name: Song Jiang
+source: kingdom
+family: outlaws
+speed: Average
+class: Paladin
+power: 1183
+attack: 1217
+defense: 1186
+health: 2144
+skill: Righteous Strike
+effects:
+  - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)
+  - Deals 450% damage to the target and nearby enemies.
+  - Heals the caster and nearby allies for 20% of damage dealt.
+  - The target and nearby enemies get silenced for 4 turns.
+  - The target and nearby enemies get -30% defense for 4 turns.
+types:
+  - Chance of Critical hits
+  - Hit 3
+  - Damage Heal 3
+  - Silence 3
+  - Defense Debuff 3
+passives:
+  - >-
+    Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.
+  - >-
+    Righteous Rebellion: 
+  - " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health."
+  - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
+  - " * Each of these effects can activate once per turn."
+  - >-
+    Resist Bleed Damage: This character has innate resistance against Bleed.    
+image: https://imgur.com/ASg7ZAz.jpg
