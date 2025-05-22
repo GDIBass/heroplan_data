@@ -1,0 +1,13 @@
+key: outlaws
+code: 103
+description: Outlaws of Liangshan
+image: https://i.imgur.com/zJ5Tcny.png
+bonus:
+  - "Bonus for 1/2/3/ Heroes:"
+  - " * +50%/+60%/+70% Critical Chance."
+  - "Morale Boost:"
+  - Heroes belonging to this family as well as Heroes fighting alongside them receive the following perks in War of the Three Kingdoms
+  - " * +10% attack, +3% defense, +7% health."
+bonuscostume-5star: 
+bonuscostume-4star: 
+bonuscostume-3star:  
