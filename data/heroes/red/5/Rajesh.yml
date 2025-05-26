@@ -11,7 +11,7 @@ skill: Royal Meatball Buffet
 effects:
   - Cleanses all status ailments from all allies, and increases all allies’ mana by 5% for each cleansed ailment.
   - All allies bypass defensive buffs with their attacks for 4 turns. If any defensive buffs are bypassed, the attacking ally’s mana is increased by 10%. (Defensive buffs include counterattacks.)
-  - All allies resist new negative mana effects for 4 turns, and their mana is increaed by 15% for each resisted effect.
+  - All allies resist new negative mana effects for 4 turns, and their mana is increased by 15% for each resisted effect.
   - 'Stack (Max: 10): All allies get +30% attack.'
 types:
   - Cleaser

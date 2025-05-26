@@ -27,3 +27,31 @@ passives:
     Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
   - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/y6oi4Yq.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 1180
+  attack: 1113
+  defense: 1189
+  health: 2378
+  skill: Cauterizing Flame
+  effects:
+    - Recovers 28% health for all allies.
+    - Recovers additional 4% health per each Fire shield on the board, up to 60%.
+    - All allies get +55% attack for 4 turns.
+    - Cleanses status ailments from all allies.
+  types:
+    - Heal All
+    - Elemental Heal Red
+    - Attack Buff All
+    - Cleanser All
+  passives:
+    - 'Troop Mastery:'
+    - >-
+      Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.
+    - ' - Dealt extra elemental damage: +150%'
+    - >-
+      Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
+    - ' - Received elemental damage: -25%'
+  image: https://imgur.com/jf9JtOu.jpg
