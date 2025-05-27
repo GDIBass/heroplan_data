@@ -1,0 +1,34 @@
+name: Doomweaver
+source: ancientUnderroot
+speed: Average
+attack: 14008
+defense: 13909
+health: 12308
+power: 11150
+skill: Loom of Destruction
+effects:
+  - Deals 200% damage to all enemies.
+  - All damage all enemies receive is increased by +35% for 4 turns.
+types:
+  - Hit All
+  - Damage Increased Debuff All
+spiritBonus:
+  spiritClass: Sorcerer
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Crippling Blaze
+  effects:
+    - All enemies receive 1100 Burn damage over 5 turns.
+    - All enemies get -10% mana generation for 5 turns.
+image: https://i.imgur.com/fHBvBrq.jpg
