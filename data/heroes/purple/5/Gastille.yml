@@ -13,7 +13,7 @@ effects:
   - All damage all enemies receive is increased by +55% for 4 turns.
 types:
   - Attack buff
-  - Damage received debuff
+  - Damage Increased Debuff All
 passives:
   - 'Troop Mastery:'
   - >-

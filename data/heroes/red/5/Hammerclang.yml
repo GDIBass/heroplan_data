@@ -15,8 +15,8 @@ effects:
   - All enemies get -30% attack for 3 turns.
 types:
   - Hit All
-  - Damage increased All
-  - Attack debuff All
+  - Damage Increased Debuff All
+  - Attack Debuff All
 passives:
   - >-
     Resist Poison: This character has innate resistance against Poison.

@@ -14,6 +14,6 @@ effects:
   - All enemies are immune to new status effect buffs for 6 turns.
 types:
   - Hit All
-  - Damage Debuff
-  - Buff Immunity
+  - Damage Increased Debuff All
+  - Buff Immunity Debuff All
 image: https://i.imgur.com/Qe02pzU.jpg
