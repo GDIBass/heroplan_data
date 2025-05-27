@@ -1,7 +1,8 @@
 name: Sudri
-class: Ranger
 source: season3
+family: muspelheim
 speed: Slow
+class: Ranger
 power: 462
 attack: 439
 defense: 484
@@ -9,10 +10,7 @@ health: 775
 skill: Burning Shields
 effects:
   - Deals 120% damage to all enemies.
-  - >-
-    Deals additional 24% damage per each Fire shield on the board, up to 360%
-    damage in total.
+  - Deals additional 24% damage per each Fire shield on the board, up to 360% damage in total.
 types:
   - Hit All
-family: muspelheim
 image: https://i.imgur.com/kbwg0o2.jpg
