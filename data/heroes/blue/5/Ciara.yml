@@ -1,0 +1,23 @@
+name: Ciara
+source: goblinvillage
+family: garrisonguard
+speed: Fast
+class: Paladin
+power: 1184
+attack: 1248
+defense: 1180
+health: 2090
+skill: Strict Standards
+effects:
+  - Deals 200% damage to all enemies.
+  - Summons a Spear Guard Mega Minion with 35% HP and 300% attack inherited from the caster.
+  - Each hit from the Spear Guard Mega Minion dispels all dispellable buffs from the target.
+types:
+  - Hit All
+  - Spear Guard Mega Minion
+passives:
+  - >-
+    Resist Mana reduction: This character has an innate resistance against mana Reduction.
+  - >-
+    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+image: https://imgur.com/TSKPS9R.jpg
