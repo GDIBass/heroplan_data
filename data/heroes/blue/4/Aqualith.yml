@@ -25,3 +25,31 @@ passives:
   - ' * Deals 80% damage to all enemies.'
   - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/3R1f8Vh.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 704
+  attack: 676
+  defense: 715
+  health: 1308
+  skill: Impervious Formation
+  effects:
+    - 'Special Skill need consecutive uses to reach full power, the following order:'
+    - '1st:'
+    - ' * The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 2 turns.'
+    - ' * Deals 56 - 214 damage on all enemies after 2 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.'
+    - '2nd:'
+    - ' * The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 3 turns.'
+    - ' * Deals 165 - 392 damage on all enemies after 3 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.'
+  types:
+    - Taunt
+    - Hit all
+  passives:
+    - >-
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 80% damage to all enemies.'
+    - ' * All allies get +21% critical chance for 2 turns.'
+    - >-
+      Resist Insanity: This character has innate resistance against Insanity.
+  image: .jpg
