@@ -20,11 +20,42 @@ effects:
   - ' * The caster and nearby allies reduce all received damage by -45% for 4 turns.'
 types:
   - Hit All
-  - Counterattack
-  - Damage reduction
+  - Counterattack 3
+  - Damage reduction 3
 passives:
   - >-
     Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 80% damage to all enemies.'
   - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/7xKKQnM.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 1184
+  attack: 1286
+  defense: 1114
+  health: 2124
+  skill: Sinister Siphon
+  effects:
+    - 'Special Skill need consecutive uses to reach full power, the following order:'
+    - '1st:'
+    - ' * Deals 28% damage per each Dark shield on the board to all enemies, up to 280% damage in total.'
+    - ' * The caster and nearby allies counterattack with 100% of the damage received for 3 turns.'
+    - ' * The caster and nearby allies reduce all received damage by -35% for 3 turns.'
+    - '2nd:'
+    - ' * Deals 38% damage per each Dark shield on the board to all enemies, up to 380% damage in total.'
+    - ' * The caster and nearby allies counterattack with 140% of the damage received for 4 turns.'
+    - ' * The caster and nearby allies reduce all received damage by -50% for 4 turns.'
+  types:
+    - Hit All
+    - Counterattack 3
+    - Damage reduction 3
+  passives:
+    - >-
+      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 80% damage to all enemies.'
+    - ' * The caster gets +19% mana generation for 2 turns.'
+    - >-
+      Resist Insanity: This character has innate resistance against Insanity.
+  image: https://imgur.com/p30NrpJ.jpg
