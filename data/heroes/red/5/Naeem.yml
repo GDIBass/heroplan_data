@@ -17,7 +17,7 @@ types:
   - Replace Buffs 3
   - Hit 3
   - Counterattack 3
-  - Sand Touch 3
+  - Sand Touch DoT 3
 passives:
   - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:
