@@ -16,6 +16,7 @@ types:
   - Healer All
   - Replace Ailments 3
   - Debuff Resist 3
+  - Mana Increase on Resist 3
 passives:
   - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:

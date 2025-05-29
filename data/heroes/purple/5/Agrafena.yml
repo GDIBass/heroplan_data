@@ -19,14 +19,47 @@ effects:
   - ' * All allies get +54% defense, and a further 5% increase every time they are hit during 6 turns.'
   - ' * All allies regenerate 1428 HP over 6 turns.'
 types:
-  - Attack Debuff
-  - Defense Debuff
-  - Poison
-  - Attack Buff
-  - Defense Buff
-  - HoT All
   - Charge
+  - Attack Debuff All
+  - Defense Debuff All
+  - DoT All
+  - Attack Buff All
+  - Defense Buff All
+  - HoT All
 passives:
   - >-
     Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.
 image: https://i.imgur.com/19jbbwr.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 1173
+  attack: 1152
+  defense: 1202
+  health: 2207
+  skill: Dark Shock
+  effects:
+    - 'Special Skill has a different effect when charged with 100%/200% mana:'
+    - '1x Mana Charge:'
+    - ' * All enemies get -27% attack for 3 turns.'
+    - ' * All enemies get -27% defense for 3 turns.'
+    - ' * All enemies receive 330 Poison damage over 3 turns.'
+    - '2x Mana Charge:'
+    - ' * All allies get +50% attack, and a further 20% increase every time they are hit during 6 turns, up to +150% attack.'
+    - ' * All allies get +59% defense, and a further 5% increase every time they are hit during 6 turns, up to +84% defense.'
+    - ' * All allies regenerate 1500 boosted health over 6 turns. Boosted health can exceed max HP.'
+  types:
+    - Charge
+    - Attack Debuff All
+    - Defense Debuff All
+    - DoT All
+    - Attack Buff All
+    - Defense Buff All
+    - Boosted HoT All
+  passives:
+    - >-
+      Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.
+    - >-
+      Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+  image: https://imgur.com/QIlXtnC.jpg
