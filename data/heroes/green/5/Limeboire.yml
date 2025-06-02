@@ -1,0 +1,24 @@
+name: Limeboire
+source: moth
+family: moth
+speed: Very Slow
+class: Paladin
+power: 1186
+attack: 1211
+defense: 1219
+health: 2115
+skill: Dozy Mead
+effects:
+  - Deals 260% damage to all enemies.
+  - All enemies fall into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This effect is uncleansable.)
+  - Steals all dispellable buffs from the target and randomly distributes them on allies.
+  - Caster gains 3% mana for each stolen buff, up to a maximum of 30% mana.
+types:
+  - Hit All
+  - Deep Sleep All
+  - Steals Buffs 1
+  - Self Mana Boost
+passives:
+  - >- 
+    Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
+image: https://imgur.com/OeIVrwK.jpg

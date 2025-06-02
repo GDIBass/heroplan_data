@@ -13,7 +13,7 @@ effects:
   - The target falls into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This effect is uncleasable.)
   - Recovers 30% health for all allies.
 types:
-  - Steals Buff 1
+  - Steals Buffs 1
   - Deep Sleep 1
   - Healer All
 passives:
