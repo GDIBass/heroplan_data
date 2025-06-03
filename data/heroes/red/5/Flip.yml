@@ -22,3 +22,26 @@ passives:
   - >-
     Damage over time on Special: When this character casts their Special Skill, all enemies receive 200 Water damage over 2 turns.
 image: https://i.imgur.com/VLECZaD.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 1184
+  attack: 1141
+  defense: 1241
+  health: 2235
+  skill: Donut to the Rescue!
+  effects:
+    - Recovers 50% health for all allies.
+    - All allies bypass defensive buffs with their attacks for 4 turns. (Defensive buffs include counterattacks.)
+    - All allies get +55% critical chance for 4 turns.
+  types:
+    - Healer
+    - Bypass All
+    - Crit Buff All
+  passives:
+    - >-
+      Damage over time on Special: When this character casts their Special Skill, all enemies receive 272 Water damage over 2 turns.
+    - >-
+      Resist Water Damage: This character has innate resistance against Water Damage.
+  image: https://imgur.com/r5YqJOC.jpg
