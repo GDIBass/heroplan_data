@@ -3,7 +3,11 @@ code: 78
 description: Beach Party
 image: https://i.imgur.com/8hbyLJ8.png
 bonus:
-  - "Bonus for 1/2/3 Heroes:"
+  - "Bonus for 1+ Heroes:"
   - "-20%/-40%/-60% damage received from damage over time status effects."
   - "The members of this family have additional perks in the Beach Party event."
+bonuscostume-5star: 40/40/45/5
+bonuscostume-4star: 
+bonuscostume-3star: 
+
   

@@ -12,11 +12,12 @@ effects:
   - Deals 185% damage to the target and nearby enemies.
   - The target and nearby enemies receive 423 damage over 3 turns.
   - The target and nearby enemies get -75% increase for any healing received for 2 turns. This effect can't be cleansed.
-  - Dispels status ailments from the caster.
+  - Cleanses status ailments from the caster.
 types:
   - Hit 3
-  - Dot 3
-  - Healing Debuff
+  - DoT 3
+  - Healing Debuff 3
+  - Self Clean
 image: https://i.imgur.com/XCRwmmP.jpg
 costume:
   bonuses: 5/5/10/5
@@ -28,11 +29,12 @@ costume:
   skill: Surf's Up
   effects:
     - Deals 185% damage to the target and nearby enemies.
-    - The target and nearby enemies receive 652 Water damage over 4 turns
+    - The target and nearby enemies receive 692 Water damage over 4 turns
     - The target and nearby enemies get -75% decrease for any healing received for 4 turns. This effect can't be cleansed.
     - Cleanses status ailments from the caster and nearby allies.
   types:
     - Hit 3
-    - Dot 3
-    - Cleanse
+    - DoT 3
+    - Healing Debuff 3
+    - Cleanser 3
   image: https://i.imgur.com/ETB8w9H.jpg
