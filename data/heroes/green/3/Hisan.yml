@@ -9,14 +9,13 @@ defense: 391
 health: 608
 skill: Sand Breeze
 effects:
-  - Deals 280% damage to the target
-  - The target receives 104 damage over 4 turns
-  - >-
-    The target gets -100% increase for any healing received for 2 turns. This
-    effect can't be cleansed
-  - Cleanses status ailments from the caster
+  - Deals 280% damage to the target.
+  - The target receives 104 damage over 4 turns.
+  - The target gets -100% increase for any healing received for 2 turns. This effect can't be cleansed.
+  - Cleanses status ailments from the caster.
 types:
   - Hit 1
   - Dot 1
   - Healing Debuff
+  - Self Clean
 image: https://i.imgur.com/YmBbafl.jpg

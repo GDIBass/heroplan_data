@@ -18,7 +18,7 @@ types:
   - Healing debuff
 passives:
   - >-
-    Resist Water Damage: This character has innate resistance against Water Damage.
-  - >-
     Damage over time on Special: When this character casts their Special Skill, all enemies receive 124 Water damage over 2 turns.
+  - >-
+    Resist Water Damage: This character has innate resistance against Water Damage.
 image: https://i.imgur.com/0vQaoVS.jpg
