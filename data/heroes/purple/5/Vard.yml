@@ -14,13 +14,13 @@ effects:
   - All enemies get -35% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.
 types:
   - Hit All
-  - Wither
+  - Wither All
   - Mana Generation Debuff
 passives:
   - >-
-    Bypass Minions: All damage done by this character bypasses Minions.
+    Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.
   - >-
-    Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.
+    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
   - >-
     Perfect Accuracy: This character’s Special Skill never misses its targets.
 image: https://i.imgur.com/pddigSQ.jpg

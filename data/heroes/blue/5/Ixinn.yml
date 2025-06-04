@@ -20,9 +20,9 @@ types:
   - Wither
 passives:
   - >-
-    Bypass Minions: All damage done by this character bypasses Minions.
+    Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.
   - >-
-    Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.
+    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
   - >-
     Perfect Accuracy: This character’s Special Skill never misses its targets.
 image: https://imgur.com/KNQdOYr.jpg

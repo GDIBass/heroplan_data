@@ -15,13 +15,14 @@ effects:
   - The target of the second hit receives +50% increased damage for 3 turns. The effect is increased by +10% for each Minion or Mega Minion owned by all enemies, up to +100% in total.
 types:
   - Hit 1
-  - Silence
+  - Silence 1
   - Hit Random 1
+  - Increased Received Damage 1
 passives:
   - >-
-    Bypass Minions: All damage done by this character bypasses Minions.
+    Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.
   - >-
-    Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.
+    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
   - >-
     Perfect Accuracy: This character’s Special Skill never misses its targets.
 image: https://i.imgur.com/iWjHJHA.jpg
