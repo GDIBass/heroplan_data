@@ -1,0 +1,24 @@
+name: Chires
+source: astral
+family: astraldwarfs
+speed: Average
+class: Rogue
+power: 509
+attack: 505
+defense: 540
+health: 830
+skill: Astral Pastries
+effects:
+  - Boosts health for the caster and nearby allies by 350. Boosted health can exceed max HP.
+  - "Growth: the caster and nearby allies get 50 attack and 50 defense."
+types:
+  - Boosted Healer 3
+  - Growth 3
+passives:
+  - >-
+    Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.
+  - >-
+    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
+  - >-
+    Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.
+image: https://imgur.com/AIJJV87.jpg
