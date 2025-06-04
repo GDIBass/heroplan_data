@@ -1,0 +1,24 @@
+name: Errin
+source: astral
+family: astraldwarfs
+speed: Fast
+class: Cleric
+power: 742
+attack: 722
+defense: 784
+health: 1321
+skill: Mischievous Tie-in
+effects:
+  - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.
+  - All enemies receive +25% increased damage for 4 turns. This effect is increased by +5% for each Minion or Mega minion owned by all enemies, up to +50% in total.
+types:
+  - Enemy Damage Share
+  - Increased Received Damage All
+passives:
+  - >-
+    Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.
+  - >-
+    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
+  - >-
+    Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.
+image: https://imgur.com/iOji58B.jpg
