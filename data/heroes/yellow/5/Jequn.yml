@@ -1,8 +1,8 @@
 name: Jequn
-class: Monk
-speed: Very Fast
 source: superelemental
 family: superelemental
+speed: Very Fast
+class: Monk
 power: 895
 attack: 883
 defense: 778

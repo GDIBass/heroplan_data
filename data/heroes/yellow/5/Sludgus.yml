@@ -13,13 +13,13 @@ effects:
   - All allies except the caster dance the Dance of the Slimy for 4 turns.
   - '==Dance of the Slimy=='
   - +45% chance to dodge Special Skills. Each dodge damages the attacker for 1600 damage.
-  - When the dance ends, the dancer recovers 500 HP. (All existing status effects will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. This effect is removed when the caster is defeated.
+  - When the dance ends, the dancer recovers 700 HP. (All existing status effects will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. This effect is removed when the caster is defeated.
 types:
   - Healer
   - Dance of the Slimy
 passives:
   - >-
-    Slime Minion Upon Defeat: When the slime hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the defeated hero.
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
   - >-
-    Slime Minion Split: Every time a single source deals damage more than 25% of max health to Slime Hero it spawns a Mega Minion on itself with 50% HP and 40% attack .
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
 image: https://i.imgur.com/IpdLyXH.jpg
