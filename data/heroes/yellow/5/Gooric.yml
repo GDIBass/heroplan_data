@@ -17,14 +17,14 @@ effects:
   - ' * 50% defense'
   - ' * Special Skill: Slime Slap (Deals 350% damage to the target).'
   - ' * This effect can’t be dispelled'
-  - If the Slime is not defeated in 3 turns, it will be reborn as the character’s original form inheriting the Slime’s health and mana.
+  - If the Slime is not defeated in 2 turns, it will be reborn as the character’s original form inheriting the Slime’s health and mana.
 types:
   - Attack Buff All
   - Mana Generation Buff All
   - Slime Revive
 passives:
   - >-
-    Slime Minion Upon Defeat: When the slime hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the defeated hero.
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
   - >-
-    Slime Minion Split: Every time a single source deals damage more than 25% of max health to Slime Hero it spawns a Mega Minion on itself with 50% HP and 40% attack .
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
 image: https://i.imgur.com/QoTjDm5.jpg

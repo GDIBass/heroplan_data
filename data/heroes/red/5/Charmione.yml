@@ -20,7 +20,7 @@ types:
   - Paralyze 3
 passives:
   - >-
-    Slime Minion Upon Defeat: When the hero is defeated it summons Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from the defeated hero.
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
   - >-
-    Slime Minion Split: If hero loses more than 25% of max health at once-> Summon a Slime Mega Minion on itself with 50% HP and 40% attack.
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
 image: https://i.imgur.com/4w6oCQ7.jpg
