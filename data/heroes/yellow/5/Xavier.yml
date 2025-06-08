@@ -10,8 +10,8 @@ health: 1672
 skill: Cascading Whirlwind
 effects:
   - Deals 280% damage to the target.
-  - If an ally is of Holy element, the damage will increase to 290%, and it will affect nearby enemies. Allied heroes must be alive for the effect to activate.
-  - If two alllies are of Holy element, the damage will increase to 300% and it will affect all enemies. Allied heroes must be alive for the effect to activate.
+  - If 1 ally is of Holy element, the damage will increase to 290%, and it will affect nearby enemies. 
+  - If 2 alllies are of Holy element, the damage will increase to 300% and it will affect all enemies. Allied heroes must be alive for the effect to activate.
   - Reduces the mana of all hit enemies by -20%.
 types:
   - Hit 1

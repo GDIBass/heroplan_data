@@ -1,0 +1,24 @@
+name: Goldrip
+source: superelemental
+family: slime
+speed: Average
+class: Sorcerer
+power: 1187
+attack: 1345
+defense: 1075
+health: 2078
+skill: Coins of Pain
+effects:
+  - Inflicts the target with Greed for 4 turns. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes in the same team from gaining friendly effects. This includes all buffs, healing and growth effects.)
+  - All enemies receive 976 Bleed damage over 4 turns.
+  - Deals 310% damage to all enemies.
+types:
+  - Greed 1
+  - DoT All
+  - Hit All
+passives:
+  - >-
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://imgur.com/iqx1d2N.jpg
