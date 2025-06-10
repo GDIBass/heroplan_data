@@ -1,0 +1,36 @@
+name: Goldbeak
+source: ancientUnderroot
+speed: Average
+attack: 13960
+defense: 13991
+health: 12283
+power: 11153
+skill: Gold Rush
+effects:
+  - Deals 400% damage to the target.
+  - Dispels 2 buffs from the target. (The latest buffs are dispelled first.)
+  - The target gets silenced for 4 turns.
+types:
+  - Hit 1
+  - Dispeller 1
+  - Silence 1
+spiritBonus:
+  spiritClass: Barbarian
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Disarming Blaze
+  effects:
+    - All enemies receive 1100 Burn damage over 5 turns.
+    - All enemies get -20% attack for 5 turns.
+image: https://imgur.com/TwZ07Or.jpg

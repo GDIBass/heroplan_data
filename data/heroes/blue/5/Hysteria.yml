@@ -1,0 +1,19 @@
+name: Hysteria
+source: shadow
+family: cultist
+speed: Average
+class: Druid
+power: 1188
+attack: 1159
+defense: 1219
+health: 2259
+skill: Eye of Yog-Sir
+effects:
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.
+  - For the next 4 turns, the caster inflicts 10 Insanity to all enemies each time the caster is hit. The effect is triggered when the enemy deals damage through Special Skills. Tiles and normal attacks are limited to once per turn.
+  - Inflicts 55 Insanity on the caster.
+types:
+  - Taunt
+  - Insanity All
+  - Self Insanity
+image: https://imgur.com/GBS05PK.jpg
