@@ -837,6 +837,47 @@ troops:
       name: Critical Modifier
       description: Grants +15% critical chance to the character this troop is equipped on.
       image: https://i.imgur.com/OGrGPG6.jpg.jpg
+  five_star_Barbarian_Monk:
+    key: five_star_Barbarian_Monk
+    id: 63
+    stars: 5
+    name: Serene Brute
+    description: Legendary for class Barbarian and Monk
+    classLink:
+      - Barbarian
+      - Monk
+    images:
+      full:
+        purple: https://i.imgur.com/haR0z3r.jpg
+        yellow: https://i.imgur.com/W1yHkMF.jpg
+        blue: https://i.imgur.com/azBAovt.jpg
+        green: https://i.imgur.com/uZ18qeg.jpg
+        red: https://i.imgur.com/lSgRUhg.jpg
+      half:
+        purple: https://i.imgur.com/abB2QaO.jpg
+        yellow: https://i.imgur.com/H4EzaJ8.jpg
+        blue: https://i.imgur.com/Jp7RrsQ.jpg
+        green: https://i.imgur.com/oZeJrsG.jpg
+        red: https://i.imgur.com/pcZiLXF.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 20
+      defense: 27
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 26
+      defense: 33
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Increased Special Skill Damage
+      description: Direct Special Damage done by character this troop is equipped to is increased by 8%.
+      image: https://i.imgur.com/13S67Px.jpg
 
 max_level_by_stars:
   1: 10
