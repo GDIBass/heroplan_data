@@ -848,17 +848,17 @@ troops:
       - Monk
     images:
       full:
-        purple: https://imgur.com/haR0z3r.jpg
-        yellow: https://imgur.com/W1yHkMF.jpg
-        blue: https://imgur.com/azBAovt.jpg
-        green: https://imgur.com/uZ18qeg.jpg
-        red: https://imgur.com/lSgRUhg.jpg
+        purple: https://i.imgur.com/haR0z3r.jpg
+        yellow: https://i.imgur.com/W1yHkMF.jpg
+        blue: https://i.imgur.com/azBAovt.jpg
+        green: https://i.imgur.com/uZ18qeg.jpg
+        red: https://i.imgur.com/lSgRUhg.jpg
       half:
-        purple: https://imgur.com/abB2QaO.jpg
-        yellow: https://imgur.com/H4EzaJ8.jpg
-        blue: https://imgur.com/Jp7RrsQ.jpg
-        green: https://imgur.com/oZeJrsG.jpg
-        red: https://imgur.com/pcZiLXF.jpg
+        purple: https://i.imgur.com/abB2QaO.jpg
+        yellow: https://i.imgur.com/H4EzaJ8.jpg
+        blue: https://i.imgur.com/Jp7RrsQ.jpg
+        green: https://i.imgur.com/oZeJrsG.jpg
+        red: https://i.imgur.com/pcZiLXF.jpg
     mana_bonus:
       1: 5
       9: 7
