@@ -23,10 +23,10 @@ image: https://i.imgur.com/4N9tjf5.jpg
 costume:
   bonuses: 5/5/10/5
   class: Druid
-  power: 1168
-  attack: 1115
-  defense: 1233
-  health: 2199
+  power: 1206
+  attack: 1146
+  defense: 1268
+  health: 2323
   skill: Orchids and Roses
   effects:
     - Deals 210% damage to all enemies.

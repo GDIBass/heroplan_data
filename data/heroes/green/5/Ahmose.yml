@@ -24,10 +24,10 @@ image: https://i.imgur.com/4zzp1TD.jpg
 costume:
   bonuses: 5/5/10/5
   class: Druid
-  power: 1173
-  attack: 1135
-  defense: 1190
-  health: 2269
+  power: 1211
+  attack: 1167
+  defense: 1223
+  health: 2397
   skill: Veridant Minor
   effects:
     - Deals 410% damage to all enemies.

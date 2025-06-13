@@ -23,10 +23,10 @@ image: https://i.imgur.com/sV7BVbk.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 1140
-  attack: 1085
-  defense: 1132
-  health: 2280
+  power: 1178
+  attack: 1116
+  defense: 1164
+  health: 2409
   skill: Motherly Love
   effects:
     - All allies renerate 640 Boosted health over 4 turns. Boosted Heath can exceed max HP.
