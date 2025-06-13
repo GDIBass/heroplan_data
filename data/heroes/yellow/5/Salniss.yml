@@ -3,10 +3,10 @@ source: astral
 family: astraldwarfs
 speed: Fast
 class: Ranger
-power: 1152
-attack: 1231
-defense: 1178
-health: 1907
+power: 1157
+attack: 1233
+defense: 1184
+health: 1926
 skill: Double-barreled Starstick
 effects:
   - Deals 500% damage to the target.

@@ -9,8 +9,8 @@ defense: 692
 health: 1328
 skill: Crush of Hel
 effects:
-  - Deals 345% damage to the target and minor damage to nearby enemies
-  - The target and nearby enemies can't gain mana for 3 turns
+  - Deals 375% damage to the target and minor damage to nearby enemies
+  - The target and nearby enemies can't gain mana for 4 turns
   - Deals extra damage against Holy
   - Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can’t be displelled.
 types:
@@ -26,7 +26,7 @@ costume:
   health: 1925
   skill: Crush of Malice
   effects:
-    - Deals 320% damage to all enemies.
+    - Deals 350% damage to all enemies.
     - The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can’t be cleansed, but it gets removed if the caster dies.
     - Deals extra damage to Holy.
     - Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can’t be displelled.

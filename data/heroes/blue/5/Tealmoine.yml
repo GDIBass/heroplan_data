@@ -3,10 +3,10 @@ source: moth
 family: moth
 speed: Fast
 class: Monk
-power: 1169
-attack: 1153
-defense: 1275
-health: 2031
+power: 1189
+attack: 1174
+defense: 1293
+health: 2084
 skill: Bizarre Mist
 effects:
   - Steals all dispellable buffs from the target and randomly distributes them on allies.

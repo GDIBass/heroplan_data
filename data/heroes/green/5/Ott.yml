@@ -3,10 +3,10 @@ source: untoldtales
 family: nidavellir
 speed: Fast
 class: Monk
-power: 1150
-attack: 1116
-defense: 1172
-health: 2193
+power: 1165
+attack: 1130
+defense: 1186
+health: 2235
 skill: Saga of Protection
 effects:
   - Boosts health of all allies by 600. Boosted health can exceed max HP.

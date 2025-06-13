@@ -3,10 +3,10 @@ source: secretsummon
 family: investigator
 speed: Fast
 class: Cleric
-power: 1088
-attack: 1126
-defense: 1093
-health: 1882
+power: 1098
+attack: 1135
+defense: 1104
+health: 1911
 skill: Yellow Signs
 effects:
   - For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity to a random target and nearby enemies each time any other ally casts their Special Skill.

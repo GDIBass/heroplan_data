@@ -3,10 +3,10 @@ source: festival
 family: bard
 speed: Slow
 class: Fighter
-power: 1156
-attack: 1114
-defense: 1320
-health: 1940
+power: 1171
+attack: 1128
+defense: 1332
+health: 1994
 skill: Joyful Noise
 effects:
   - Deals 350% damage to all enemies.

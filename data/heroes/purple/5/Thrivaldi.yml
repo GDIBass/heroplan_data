@@ -3,10 +3,10 @@ source: untoldtales
 family: myrkheim
 speed: Average
 class: Cleric
-power: 1181
-attack: 1209
-defense: 1130
-health: 2261
+power: 1201
+attack: 1227
+defense: 1151
+health: 2323
 skill: Glacial Atmosphere
 effects:
   - Attacks all enemies with Frostfall Strike, dealing up to 1600 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.

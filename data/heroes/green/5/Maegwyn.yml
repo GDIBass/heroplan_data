@@ -3,10 +3,10 @@ source: astral
 family: astraldwarfs
 speed: Average
 class: Cleric
-power: 1155
-attack: 1165
-defense: 1252
-health: 1942
+power: 1160
+attack: 1172
+defense: 1256
+health: 1957
 skill: Astral Brew
 effects:
   - Recovers 50% health for all allies.

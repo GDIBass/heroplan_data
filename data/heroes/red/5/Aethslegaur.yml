@@ -3,10 +3,10 @@ source: untoldtales
 family: nidavellir
 speed: Slow
 class: Fighter
-power: 1169
-attack: 1145
-defense: 1172
-health: 2253
+power: 1184
+attack: 1159
+defense: 1186
+health: 2301
 skill: Mana Immolation
 effects:
   - Attacks the target with Firestorm Strike, dealing up to 4000 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.

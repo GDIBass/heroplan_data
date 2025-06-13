@@ -3,10 +3,10 @@ source: superelemental
 family: slime
 speed: Average
 class: Cleric
-power: 1157
-attack: 1231
-defense: 1145
-health: 2004
+power: 1172
+attack: 1246
+defense: 1159
+health: 2051
 skill: Reviving Touch
 effects:
   - All allies get +60% attack for 5 turns.

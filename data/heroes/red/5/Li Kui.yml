@@ -3,10 +3,10 @@ source: kingdom
 family: outlaws
 speed: Average
 class: Barbarian
-power: 1183
-attack: 1135
-defense: 1271
-health: 2179
+power: 1203
+attack: 1155
+defense: 1289
+health: 2237
 skill: Whirlwind Blows
 effects:
   - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)

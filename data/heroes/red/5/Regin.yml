@@ -3,10 +3,10 @@ source: untoldtales
 family: nidavellir
 speed: Fast
 class: Rogue
-power: 1150
-attack: 1170
-defense: 1126
-health: 2146
+power: 1165
+attack: 1184
+defense: 1141
+health: 2193
 skill: Master Plan
 effects:
   - Dispels buffs from the target and nearby enemies.

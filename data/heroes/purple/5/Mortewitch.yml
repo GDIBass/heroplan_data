@@ -3,10 +3,10 @@ source: moth
 family: moth
 speed: Slow
 class: Sorcerer
-power: 1158
-attack: 1178
-defense: 1240
-health: 1954
+power: 1178
+attack: 1198
+defense: 1260
+health: 2012
 skill: Hungering Grave
 effects:
   - Deals 800% damage to the target.

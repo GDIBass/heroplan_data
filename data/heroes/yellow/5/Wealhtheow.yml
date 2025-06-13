@@ -3,10 +3,10 @@ source: blackfriday
 family: beowulf
 speed: Fast
 class: Cleric
-power: 1162
-attack: 1091
-defense: 1215
-health: 2251
+power: 1182
+attack: 1112
+defense: 1236
+health: 2305
 skill: Cup of Mead
 effects:
   - Heals all allies who have less than 50% HP left to 50% health.

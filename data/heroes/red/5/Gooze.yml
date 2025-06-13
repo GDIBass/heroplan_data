@@ -3,10 +3,10 @@ source: superelemental
 family: slime
 speed: Average
 class: Sorcerer
-power: 1178
-attack: 1122
-defense: 1184
-health: 2350
+power: 1193
+attack: 1139
+defense: 1198
+health: 2391
 skill: Alchemy Experiment
 effects:
   - All enemies become Provoked for 4 turns. The Provoked character deals 1% damage to a random opponent at the end of the turn. This effect can’t be dispelled.

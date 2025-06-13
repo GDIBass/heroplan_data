@@ -3,10 +3,10 @@ source: untoldtales
 family: nidavellir
 speed: Average
 class: Cleric
-power: 1158
-attack: 1211
-defense: 1141
-health: 2076
+power: 1173
+attack: 1223
+defense: 1155
+health: 2125
 skill: Blazing Venom
 effects:
   - Attacks all enemies with Firestorm Strike, dealing up to 1500 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.

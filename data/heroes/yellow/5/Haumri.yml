@@ -3,10 +3,10 @@ source: astral
 family: astraldwarfs
 speed: Average
 class: Sorcerer
-power: 1186
-attack: 1264
-defense: 1174
-health: 2076
+power: 1191
+attack: 1268
+defense: 1180
+health: 2090
 skill: Star Trail
 effects:
   - Deals 600% damage to the target.

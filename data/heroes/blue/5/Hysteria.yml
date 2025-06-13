@@ -3,9 +3,9 @@ source: shadow
 family: cultist
 speed: Average
 class: Druid
-power: 1188
-attack: 1159
-defense: 1219
+power: 1198
+attack: 1180
+defense: 1240
 health: 2259
 skill: Eye of Yog-Sir
 effects:

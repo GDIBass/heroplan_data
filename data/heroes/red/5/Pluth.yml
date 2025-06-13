@@ -3,10 +3,10 @@ source: astral
 family: astraldwarfs
 speed: Very Fast
 class: Wizard
-power: 1166
-attack: 1244
-defense: 1231
-health: 1868
+power: 1171
+attack: 1246
+defense: 1238
+health: 1886
 skill: Planar-time-widget
 effects:
   - Rearranges the enemy positions randomly.

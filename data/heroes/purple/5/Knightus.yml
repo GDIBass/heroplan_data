@@ -3,10 +3,10 @@ source: superelemental
 family: slime
 speed: Fast
 class: Fighter
-power: 1165
-attack: 1227
-defense: 1196
-health: 1973
+power: 1180
+attack: 1242
+defense: 1211
+health: 2014
 skill: Slime Croated Sword
 effects:
   - Deals 540% damage to the target.

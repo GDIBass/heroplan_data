@@ -3,10 +3,10 @@ source: untoldtales
 family: myrkheim
 speed: Average
 class: Paladin
-power: 1174
-attack: 1149
-defense: 1182
-health: 2259
+power: 1194
+attack: 1170
+defense: 1200
+health: 2313
 skill: Glacial Fissure Cleave
 effects:
   - Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2300 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.

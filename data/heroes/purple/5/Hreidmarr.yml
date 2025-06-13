@@ -3,10 +3,10 @@ source: untoldtales
 family: nidavellir
 speed: Slow
 class: Wizard
-power: 1165
-attack: 1141
-defense: 1170
-health: 2237
+power: 1180
+attack: 1157
+defense: 1182
+health: 2286
 skill: Dwarven King’s Levy
 effects:
   - Attacks all enemies with Firestorm Strike, dealing up to 2200 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.

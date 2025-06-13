@@ -3,10 +3,10 @@ source: beachparty
 family: beachparty
 speed: Average
 class: Monk
-power: 1186
-attack: 1163
-defense: 1205
-health: 2263
+power: 1196
+attack: 1174
+defense: 1215
+health: 2292
 skill: Spreading Gossip
 effects:
   - Deals 400% damage to the target.

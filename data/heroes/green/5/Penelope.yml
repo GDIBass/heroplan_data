@@ -3,10 +3,10 @@ source: shadow
 family: investigator
 speed: Slow
 class: Fighter
-power: 1160
-attack: 1165
-defense: 1159
-health: 2163
+power: 1170
+attack: 1176
+defense: 1170
+health: 2191
 skill: Cut, Cure and Craze
 effects:
   - Deals 440% damage to all enemies.

@@ -3,10 +3,10 @@ source: astral
 family: astraldwarfs
 speed: Slow
 class: Wizard
-power: 1171
-attack: 1163
-defense: 1260
-health: 2045
+power: 1176
+attack: 1170
+defense: 1262
+health: 2064
 skill: Planetary Charge
 effects:
   - Deals 530% damage to the target.

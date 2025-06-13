@@ -3,10 +3,10 @@ source: astral
 family: astraldwarfs
 speed: Average
 class: Sorcerer
-power: 1174
-attack: 1207
-defense: 1203
-health: 2074
+power: 1179
+attack: 1213
+defense: 1207
+health: 2086
 skill: Spell-lock
 effects:
   - Deals 600% damage to the target.

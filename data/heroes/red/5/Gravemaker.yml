@@ -9,8 +9,8 @@ defense: 708
 health: 1363
 skill: Ashes to Ashes
 effects:
-  - Deals 170% damage to the target and nearby enemies.
-  - The target and nearby enemies receive 298 burn damage over 2 turns.
+  - Deals 200% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 492 burn damage over 2 turns.
   - Deals extra damage against Nature.
   - Element Link gives all Fire allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed.
 types:
@@ -26,8 +26,8 @@ costume:
   health: 2015
   skill: Dust to Dust
   effects:
-    - Deals 145% damage to all enemies.
-    - All enemies receive 432 Burn damage over 2 turns.
+    - Deals 175% damage to all enemies.
+    - All enemies receive 542 Burn damage over 2 turns.
     - Element Link give all Fire allies +5% attack and +5% defense for 6 turns. This effect can't be dispelled.
   types:
     - Hit All

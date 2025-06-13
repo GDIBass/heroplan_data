@@ -4,9 +4,9 @@ family: magiccarpet
 speed: Average
 class: Cleric
 power: 1175
-attack: 1139
-defense: 1273
-health: 2107
+attack: 1163
+defense: 1297
+health: 2181
 skill: Picnic in the Sky
 effects:
   - Recovers 50% health for all allies.

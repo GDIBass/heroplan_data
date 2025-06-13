@@ -4,9 +4,9 @@ family: superelemental
 speed: Very Fast
 class: Monk
 power: 895
-attack: 883
-defense: 778
-health: 1742
+attack: 951
+defense: 846
+health: 1946
 skill: Archaic Sacred Symbol
 effects:
   - Deals 200% damage to all enemies.

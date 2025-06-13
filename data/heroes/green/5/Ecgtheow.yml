@@ -3,10 +3,10 @@ source: beowulf
 family: beowulf
 speed: Slow
 class: Barbarian
-power: 1168
-attack: 1246
-defense: 1118
-health: 2099
+power: 1188
+attack: 1266
+defense: 1139
+health: 2156
 skill: Challenge the Strongest
 effects:
   - Deals 500% damage to the enemy with the highest remaining HP. Deals 300% damage to all other enemies.

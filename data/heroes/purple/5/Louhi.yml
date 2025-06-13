@@ -4,9 +4,9 @@ speed: Average
 family: kalevala
 source: kalevala
 power: 837
-attack: 826
-defense: 784
-health: 1458
+attack: 927
+defense: 865
+health: 1759
 skill: Feather Tempest
 effects:
   - Dispels buffs from all enemies.

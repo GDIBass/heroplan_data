@@ -3,10 +3,10 @@ source: untoldtales
 family: nidavellir
 speed: Fast
 class: Cleric
-power: 1150
-attack: 1128
-defense: 1168
-health: 2171
+power: 1165
+attack: 1143
+defense: 1182
+health: 2212
 skill: Night’s Whisper
 effects:
   - Recovers 30% health for all allies.

@@ -3,10 +3,10 @@ source: shadow
 family: cultist
 speed: Average
 class: Wizard
-power: 1180
-attack: 1209
-defense: 1190
-health: 2134
+power: 1190
+attack: 1219
+defense: 1200
+health: 2163
 skill: Necronomicon Page 13
 effects:
   - Deals 410% damage to the target and nearby enemies and inflicts 40 Insanity on them.
