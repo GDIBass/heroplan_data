@@ -26,10 +26,10 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter
-  power: 1176
-  attack: 1204
-  defense: 1115
-  health: 2269
+  power: 1214
+  attack: 1238
+  defense: 1146
+  health: 2397
   skill: Golden Aura
   effects:
     - Deals 260% damage to the target. Deals extra damage if the target is Dark.

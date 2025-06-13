@@ -4,9 +4,9 @@ family: magic
 speed: Magic
 class: Cleric
 power: 813
-attack: 772
-defense: 778
-health: 1433
+attack: 776
+defense: 782
+health: 1446
 skill: Flame of the Dragon Familiar
 effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'

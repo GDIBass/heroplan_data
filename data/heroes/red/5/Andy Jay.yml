@@ -3,10 +3,10 @@ source: beachparty
 family: beachparty
 speed: Slow
 class: Sorcerer
-power: 1186
-attack: 1219
-defense: 1184
-health: 2165
+power: 1196
+attack: 1229
+defense: 1194
+health: 2193
 skill: Blazing Rave Dance
 effects:
   - Deals 450% damage to all enemies.

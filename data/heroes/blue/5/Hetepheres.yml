@@ -25,10 +25,10 @@ image: https://i.imgur.com/wdaa6Lv.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 1175
-  attack: 1080
-  defense: 1250
-  health: 2307
+  power: 1214
+  attack: 1110
+  defense: 1286
+  health: 2437
   skill: Relaxing Riddle
   effects:
     - Recovers 54% health for all allies.

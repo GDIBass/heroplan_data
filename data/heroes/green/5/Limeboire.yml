@@ -3,10 +3,10 @@ source: moth
 family: moth
 speed: Very Slow
 class: Paladin
-power: 1186
-attack: 1211
-defense: 1219
-health: 2115
+power: 1206
+attack: 1231
+defense: 1238
+health: 2175
 skill: Dozy Mead
 effects:
   - Deals 260% damage to all enemies.

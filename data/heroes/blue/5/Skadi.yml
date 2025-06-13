@@ -23,9 +23,9 @@ image: https://i.imgur.com/MzjdnYC.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 959
-  attack: 901
-  defense: 922
+  power: 987
+  attack: 938
+  defense: 975
   health: 1865
   skill: Iceberg Havoc
   effects:

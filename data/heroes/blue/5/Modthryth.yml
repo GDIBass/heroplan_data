@@ -3,10 +3,10 @@ source: beowulf
 family: beowulf
 speed: Average
 class: Paladin
-power: 1163
-attack: 1151
-defense: 1219
-health: 2099
+power: 1183
+attack: 1172
+defense: 1238
+health: 2154
 skill: Chilling Counterattack
 effects:
   - The caster and nearby allies counterattack with 135% of the damage received for 3 turns.

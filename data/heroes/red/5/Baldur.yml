@@ -22,9 +22,9 @@ image: https://i.imgur.com/bmdaK3F.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 958
-  attack: 949
-  defense: 877
+  power: 986
+  attack: 988
+  defense: 928
   health: 1826
   skill: Relentless Brawler
   effects:

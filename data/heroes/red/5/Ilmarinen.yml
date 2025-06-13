@@ -4,9 +4,9 @@ source: kalevala
 speed: Slow
 class: Fighter
 power: 835
-attack: 766
-defense: 830
-health: 1503
+attack: 863
+defense: 927
+health: 1794
 skill: Forged in Fire
 effects:
   - Reduces the mana of all Ice enemies by 40%. Reduces the mana of all other enemies by 20%.

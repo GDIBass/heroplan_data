@@ -3,10 +3,10 @@ source: astral
 family: astraldwarfs
 speed: Slow
 class: Sorcerer
-power: 1158
-attack: 1198
-defense: 1227
-health: 1932
+power: 1163
+attack: 1205
+defense: 1231
+health: 1946
 skill: Power of the Void
 effects:
   - Deals 470% damage to all enemies.

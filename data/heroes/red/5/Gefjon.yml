@@ -18,9 +18,9 @@ image: https://i.imgur.com/BYGrEEN.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 954
-  attack: 932
-  defense: 934
+  power: 983
+  attack: 970
+  defense: 988
   health: 1729
   skill: Maiden's Orders
   effects:

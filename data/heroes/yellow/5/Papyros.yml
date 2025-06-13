@@ -23,14 +23,14 @@ image: https://i.imgur.com/cV84mq0.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1162
-  attack: 1102
-  defense: 1198
-  health: 2257
+  power: 1200
+  attack: 1133
+  defense: 1232
+  health: 2385
   skill: Command Sand Golems
   effects:
     - Summons a Sand Golem Minion for each ally with 20% HP and 25% attack inherited from the caster.
-    - Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 399 Sand damage over 3 turns.
+    - Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 411 Sand damage over 3 turns.
     - All allies get +40% defense for 3 turns.
   types:
     - Summoner

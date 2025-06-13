@@ -25,14 +25,14 @@ image: https://i.imgur.com/QQQGz6W.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 1178
-  attack: 1154
-  defense: 1187
-  health: 2263
+  power: 1216
+  attack: 1187
+  defense: 1220
+  health: 2391
   skill: Mark of the Jackal
   effects:
     - Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies’ Special Skills.
-    - All enemies receive 864 Poison damage over 3 turns.
+    - All enemies receive 888 Poison damage over 3 turns.
     - All enemies get -28% defense for 3 turns.
   types:
     - Greed

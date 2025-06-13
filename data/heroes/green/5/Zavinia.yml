@@ -3,10 +3,10 @@ source: secretsummon
 family: investigator
 speed: Fast
 class: Rogue
-power: 1099
-attack: 1170
-defense: 1077
-health: 1880
+power: 1109
+attack: 1180
+defense: 1087
+health: 1909
 skill: Darts of the Deep
 effects:
   - Deals 450% damage to the target.

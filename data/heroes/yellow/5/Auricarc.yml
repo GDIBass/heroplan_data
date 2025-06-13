@@ -3,10 +3,10 @@ source: moth
 family: moth
 speed: Fast
 class: Ranger
-power: 1177
-attack: 1312
-defense: 1095
-health: 2051
+power: 1197
+attack: 1330
+defense: 1116
+health: 2105
 skill: Riches to Poor
 effects:
   - Steals all Minions or a Mega Minion from the target.

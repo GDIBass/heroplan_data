@@ -24,15 +24,15 @@ image: https://i.imgur.com/3Y3v4bs.jpg
 costume:
   bonuses: 5/5/10/5
   class: Rogue
-  power: 1162
-  attack: 1178
-  defense: 1080
-  health: 2307
+  power: 1201
+  attack: 1212
+  defense: 1110
+  health: 2437
   skill: Teeth of the River
   effects:
     - Deals 280% damage to all enemies.
     - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies receive 512 Bleed damage over 4 turns.
+    - All enemies receive 528 Bleed damage over 4 turns.
   types:
     - Hit All
     - Bypass
@@ -41,7 +41,7 @@ costume:
     - >-
       Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
     - " * Deals 70% damage to all enemies."
-    - " * All enemies receive 291 Sand damage over 3 turns."
+    - " * All enemies receive 363 Sand damage over 3 turns."
     - >-
       Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
     - >-

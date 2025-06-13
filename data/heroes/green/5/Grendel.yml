@@ -3,10 +3,10 @@ source: beowulf
 family: beowulf
 speed: Fast
 class: Monk
-power: 1163
-attack: 1196
-defense: 1174
-health: 2082
+power: 1183
+attack: 1213
+defense: 1194
+health: 2142
 skill: Gruesome Charge
 effects:
   - The target and nearby enemies get -40% defense against Nature for 3 turns.

@@ -3,10 +3,10 @@ source: astral
 family: astraldwarfs
 speed: Fast
 class: Barbarian
-power: 1179
-attack: 1225
-defense: 1196
-health: 2076
+power: 1184
+attack: 1229
+defense: 1203
+health: 2092
 skill: Twilight Star Strike
 effects:
   - Deals 400% damage to the target and nearby enemies.

@@ -25,14 +25,14 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric
-  power: 1171
-  attack: 1178
-  defense: 1157
-  health: 2216
+  power: 1210
+  attack: 1212
+  defense: 1190
+  health: 2341
   skill: Legions of Tyrant
   effects:
     - Summons a Dark Soldier Minion for all allies with 45% HP and 35% attack inherited from the caster.
-    - All enemies receive 1104 Poison damage over 4 turns.
+    - All enemies receive 1136 Poison damage over 4 turns.
     - If the caster is defeated in the next 4 turns, all enemies’ mana is reduced by -100%. This effect can’t be dispelled.
   types:
     - Summoner

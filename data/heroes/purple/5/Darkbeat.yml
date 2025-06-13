@@ -3,10 +3,10 @@ source: festival
 family: bard
 speed: Average
 class: Monk
-power: 1173
-attack: 1178
-defense: 1205
-health: 2134
+power: 1188
+attack: 1192
+defense: 1219
+health: 2181
 skill: Struck By Thunder
 effects:
   - Deals 355% damage to all enemies.

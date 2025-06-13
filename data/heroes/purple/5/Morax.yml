@@ -21,5 +21,5 @@ passives:
   - >-
     Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.
   - >-
-    Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that boosts health.
+    Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health.
 image: https://i.imgur.com/9tJznmy.jpg

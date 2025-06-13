@@ -4,9 +4,9 @@ family: magiccarpet
 speed: Average
 class: Wizard
 power: 1175
-attack: 1194
-defense: 1198
-health: 2125
+attack: 1221
+defense: 1223
+health: 2187
 skill: Countering Hammock
 effects:
   - "All buffs affecting attack, defense and mana generation on target and nearby enemies are replaced by matching uncleansable ailments. (Replacing cannot be blocked by status effects, family effects or passives. Only buffs that are dispellable can be replaced. Replacement effects: Attack buffs are replaced with -40% attack ailment for 4 turns. Defense buffs are replaced with -40% defense ailment for 4 turns. Mana generation buffs are replaced with -40% mana generation ailment for 4 turns.)"

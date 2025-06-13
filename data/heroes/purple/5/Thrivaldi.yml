@@ -3,10 +3,10 @@ source: untoldtales
 family: myrkheim
 speed: Average
 class: Cleric
-power: 1181
-attack: 1209
-defense: 1130
-health: 2261
+power: 1201
+attack: 1227
+defense: 1151
+health: 2323
 skill: Glacial Atmosphere
 effects:
   - Attacks all enemies with Frostfall Strike, dealing up to 1600 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.
@@ -21,6 +21,6 @@ passives:
     Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.
   - >-
     Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast
-  - " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 326 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+  - " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
   - " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
 image: https://imgur.com/GPSIC9I.jpg

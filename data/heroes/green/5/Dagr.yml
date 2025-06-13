@@ -3,15 +3,15 @@ source: untoldtales
 family: nidavellir
 speed: Average
 class: Cleric
-power: 1158
-attack: 1211
-defense: 1141
-health: 2076
+power: 1173
+attack: 1223
+defense: 1155
+health: 2125
 skill: Blazing Venom
 effects:
   - Attacks all enemies with Firestorm Strike, dealing up to 1500 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.
   - Damage bypasses target’s Minions.
-  - All enemies receive 384 Poison damage over 4 turns.
+  - All enemies receive 388 Poison damage over 4 turns.
   - All enemies take +50% increased damage from Burn and Poison status ailments for 4 turns.
 types:
   - Hit All
@@ -23,6 +23,6 @@ passives:
   - Molten Core. This character has a Molten Core.
   - >-
     The Molten Core activates each time this character’s Special Skill is cast:
-  - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 326 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
 image: https://i.imgur.com/BDzoVb0.jpg

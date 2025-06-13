@@ -3,10 +3,10 @@ source: secretsummon
 family: cultist
 speed: Fast
 class: Barbarian
-power: 1124
-attack: 1176
-defense: 1118
-health: 1963
+power: 1134
+attack: 1184
+defense: 1128
+health: 1998
 skill: Merciless Execution
 effects:
   - This Special Skill never misses its targets.

@@ -20,16 +20,15 @@ image: https://i.imgur.com/eGy2uqe.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 957
-  attack: 949
-  defense: 926
+  power: 986
+  attack: 988
+  defense: 980
   health: 1721
   skill: Shapeshifter's Deception
   effects:
     - Copies all dispellable buffs from the target.
     - Copies target's Special Skill and uses it in addition to the caster's own Special Skill.
-    - >-
-      If the target does not have a Special Skill, or it can't be copied, the following Special Skill will be cast:
+    - "If the target does not have a Special Skill, or it can't be copied, the following Special Skill will be cast:"
     - 'Scoundrel Swing:'
     - ' * Deals 265% damage to the target.'
   types:

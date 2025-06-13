@@ -3,10 +3,10 @@ source: superelemental
 family: slime
 speed: Average
 class: Sorcerer
-power: 1187
-attack: 1345
-defense: 1075
-health: 2078
+power: 1207
+attack: 1359
+defense: 1091
+health: 2119
 skill: Coins of Pain
 effects:
   - Inflicts the target with Greed for 4 turns. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes in the same team from gaining friendly effects. This includes all buffs, healing and growth effects.)

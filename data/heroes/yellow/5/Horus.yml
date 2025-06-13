@@ -23,10 +23,10 @@ image: https://i.imgur.com/0Yedhet.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 1162
-  attack: 1157
-  defense: 1126
-  health: 2266
+  power: 1200
+  attack: 1190
+  defense: 1158
+  health: 2394
   skill: Judgement of Sun
   effects:
     - Deals 230% damage to the target and nearby enemies.
@@ -42,5 +42,5 @@ costume:
     - >-
       Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
     - >-
-      Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that boosts health.
+      Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health.
   image: https://i.imgur.com/fLHpPl2.jpg

@@ -24,10 +24,10 @@ image: https://i.imgur.com/Lc6n5Vz.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1171
-  attack: 1164
-  defense: 1187
-  health: 2193
+  power: 1209
+  attack: 1197
+  defense: 1220
+  health: 2317
   skill: Protector of the Blue River
   effects:
     - Deals 220% damage to all enemies.
@@ -44,5 +44,5 @@ costume:
     - >-
       Extra Chance for Effects on Special Skill: When this character casts their  Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
     - >-
-      Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that boosts health.
+      Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health.
   image: https://i.imgur.com/mjmiIt0.jpg

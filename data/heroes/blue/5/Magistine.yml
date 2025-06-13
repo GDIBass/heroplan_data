@@ -3,10 +3,10 @@ source: superelemental
 family: slime
 speed: Average
 class: Wizard
-power: 1176
-attack: 1240
-defense: 1211
-health: 1992
+power: 1191
+attack: 1252
+defense: 1225
+health: 2041
 skill: Slimy Balls
 effects:
   - Deals 325% damage to all enemies.

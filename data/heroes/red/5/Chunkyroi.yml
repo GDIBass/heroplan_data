@@ -3,10 +3,10 @@ source: moth
 family: moth
 speed: Average
 class: Paladin
-power: 1158
-attack: 1137
-defense: 1283
-health: 1975
+power: 1178
+attack: 1157
+defense: 1299
+health: 2037
 skill: Prosperity for Domain
 effects:
   - Recovers 45% health for all allies.

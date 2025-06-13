@@ -10,7 +10,7 @@ health: 1402
 skill: Ice Treatment
 effects:
   - Heals all allies who have less than 50% HP left to 50% health.
-  - All allies regenerate 952 HP over 4 turns.
+  - All allies regenerate 1080 HP over 4 turns.
   - Cleanses status ailments from all allies.
   - Element Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed.
 types:

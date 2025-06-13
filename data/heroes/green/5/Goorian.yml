@@ -3,10 +3,10 @@ source: superelemental
 family: slime
 speed: Slow
 class: Barbarian
-power: 1169
-attack: 1252
-defense: 1229
-health: 1876
+power: 1184
+attack: 1266
+defense: 1244
+health: 1917
 skill: Bone Slam
 effects:
   - Deals 480% damage to all enemies.

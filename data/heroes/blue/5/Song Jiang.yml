@@ -3,10 +3,10 @@ source: kingdom
 family: outlaws
 speed: Average
 class: Paladin
-power: 1183
-attack: 1217
-defense: 1186
-health: 2144
+power: 1223
+attack: 1236
+defense: 1207
+health: 2202
 skill: Righteous Strike
 effects:
   - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)

@@ -3,10 +3,10 @@ source: beowulf
 family: beowulf
 speed: Average
 class: Fighter
-power: 1181
-attack: 1277
-defense: 1106
-health: 2142
+power: 1201
+attack: 1295
+defense: 1126
+health: 2200
 skill: Rush of Flame
 effects:
   - Deals 310% damage to the target and nearby enemies.

@@ -3,10 +3,10 @@ source: secretsummon
 family: investigator
 speed: Average
 class: Paladin
-power: 1123
-attack: 1128
-defense: 1155
-health: 2002
+power: 1133
+attack: 1139
+defense: 1163
+health: 2033
 skill: Whispers of Xulu
 effects:
   - Deals 260% damage to all enemies.
