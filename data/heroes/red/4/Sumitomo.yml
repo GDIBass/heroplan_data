@@ -15,6 +15,7 @@ effects:
 types:
   - Hit 1
   - Counterattack 1
+  - Mana on counterattack
 image: https://i.imgur.com/qnIyV2j.jpg
 costume:
   bonuses: 3/3/6/1
@@ -31,5 +32,6 @@ costume:
   types:
     - Hit 1
     - Counterattack 1
+    - Mana on counterattack
   image: https://i.imgur.com/kQW2sKb.jpg
   

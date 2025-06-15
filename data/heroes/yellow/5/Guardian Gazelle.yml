@@ -11,17 +11,17 @@ skill: Dance of Spirits
 effects:
   - Removes all cleansable and uncleansable status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.
   - The caster regenerates 612 HP over 4 turns.
-  - >-
-    All allies except the caster dance the Dance of Spirits for 4 turns:
-    * +100% attack. 
-    * Reduces all received damage by -50%.  
-    * If the caster is defeated, the dancer receives 84 damage and their mana is  reduced by 100%.
-    * This effect can’t be dispelled, but it gets removed if caster is defeated.
+  - "All allies except the caster dance the Dance of Spirits for 4 turns:"
+  - " * +100% attack."
+  - " * Reduces all received damage by -50%."
+  - " * If the caster is defeated, the dancer receives 84 damage and their mana is  reduced by 100%."
+  - " * This effect can’t be dispelled, but it gets removed if caster is defeated."
 types:
-  - Cleanser
-  - Self Heal
-  - Dance of Spirits
-  - Titan Attack Buff
+  - Full Cleanser 4
+  - Self HoT
+  - Dance of Spirits 4
+  - Attack Buff 4 while Dancing
+  - Damage Reduction 4 while Dancing
 image: https://i.imgur.com/B2LpVrC.jpg
 costume:
   class: Fighter
@@ -34,14 +34,15 @@ costume:
   effects:
     - Removes all status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.
     - Recovers 48% health for all allies.
-    - >-
-      All allies except the caster dance the Dance of Spirits for 4 turns:
-      * +110% attack.
-      * Reduces all received damage by -30%.
-      * If the caster is defeated, the dancer receives 115 damage and their mana is reduced by 100%.
-      * This effect can’t be dispelled, but it gets removed if caster is defeated.
+    - "All allies except the caster dance the Dance of Spirits for 4 turns:"
+    - " * +110% attack."
+    - " * Reduces all received damage by -30%."
+    - " * If the caster is defeated, the dancer receives 115 damage and their mana is reduced by 100%."
+    - " * This effect can’t be dispelled, but it gets removed if caster is defeated."
   types:
-    - Cleanser
-    - Healer
-    - Dance of Spirits
+    - Full Cleanser 4
+    - Healer All
+    - Dance of Spirits 4
+    - Attack Buff 4 while Dancing
+    - Damage Reduction 4 while Dancing
   image: https://i.imgur.com/E5qL0sl.jpg

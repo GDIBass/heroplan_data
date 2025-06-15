@@ -16,11 +16,11 @@ effects:
   - All alllies get +40% defense and a further +2% increase per each removed status effect up to +60% defense in total, for 6 turns.
   - The caster regenerates 1500 boosted health over 6 turns. Boosted health can exceed max HP.
 types:
-  - Dispeller
+  - Dispeller All
   - Hit All
-  - Attack Buff
-  - Defense Buff
-  - Self healer
+  - Attack Buff All
+  - Defense Buff All
+  - Self Boosted HoT
 passives:
   - >-
     Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.

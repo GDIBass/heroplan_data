@@ -16,7 +16,7 @@ effects:
 types:
   - Hit 3
   - Lasting DoT 1
-  - Cover
+  - Cover 1
   - Self HoT
 passives:
   - >-
