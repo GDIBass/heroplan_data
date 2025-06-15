@@ -15,8 +15,9 @@ effects:
   - 'Stack (Max: 10): The caster recovers 10 HP each turn.'
 types:
   - Hit 3
-  - Defense Debuff
-  - Stacks
+  - Defense Debuff 3
+  - Self Mana Generation Stacks
+  - Self HoT Stacks
 passives:
   - >-
     Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
@@ -24,10 +25,10 @@ image: https://i.imgur.com/pHj3rld.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1085
-  attack: 917
-  defense: 1227
-  health: 2116
+  power: 1212
+  attack: 1028
+  defense: 1376
+  health: 2449
   skill: Fracturing Cut
   effects:
     - Deals 335% damage to the target and nearby enemies.
@@ -37,10 +38,11 @@ costume:
   types:
     - Hit 3
     - Defense Debuff 3
-    - Self Stacks
+    - Self Mana Generation Stacks
+    - Self HoT Stacks
   passives:
     - >-
       Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
     - >-
-      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 400 Bleed damage over 4 turns.
+      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 452 Bleed damage over 4 turns.
   image: https://i.imgur.com/yHVhyhO.jpg

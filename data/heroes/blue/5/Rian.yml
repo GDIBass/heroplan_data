@@ -15,11 +15,10 @@ effects:
   - 'Stack (Max: 10): The caster gets +5% mana generation'
   - 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
 types:
-  - Cleanser
+  - Cleanser All
   - Hit All
-  - Bypass
-  - Self Mana Generation Stack
-  - Self Heal Stack
+  - Self Mana Generation Buff Stack
+  - Self HoT Stack
 passives:
   - >-
     Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.

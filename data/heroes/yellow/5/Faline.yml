@@ -13,5 +13,5 @@ effects:
   - The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns.
 types:
   - Hit 3
-  - Mana generation debuff 1
+  - Mana Generation Debuff 1
 image: https://i.imgur.com/8rLI8nK.jpg

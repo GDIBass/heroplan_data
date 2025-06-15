@@ -16,8 +16,8 @@ effects:
   - If the caster dies during the next 4 turns, they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.
 types:
   - Hit 1
-  - Bypass chance
-  - Dot 1
+  - Bypass Chance
+  - DoT 1
   - Self HoT
   - Self Resurection
 image: https://i.imgur.com/tjoH1nb.jpg
@@ -38,4 +38,5 @@ costume:
     - Hit 3
     - Bypass
     - Dot 3
+    - Self Resurection
   image: https://i.imgur.com/7UO34fo.jpg

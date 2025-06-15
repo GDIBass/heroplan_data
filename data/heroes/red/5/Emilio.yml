@@ -10,7 +10,7 @@ health: 1406
 skill: Flames and Rejuvenation
 effects:
   - 'Casts one of the following special skills:'
-  - ''
+  - ' '
   - 'If any enemy has the Burn Status Ailment:'
   - ' * All enemies receive 415 Burn damage over 5 turns.'
   - ' * All allies regenerate 549 HP over 3 turns.'
@@ -21,29 +21,32 @@ effects:
 types:
   - Gamble
   - DoT All
+  - HoT All
   - Status Ailments Immunity All
 image: https://i.imgur.com/iAnFGWC.jpg
 costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard
-  power: 1083
-  attack: 1103
-  defense: 1037
-  health: 2018
+  power: 1210
+  attack: 1237
+  defense: 1163
+  health: 2336
   skill: Frogs and Hoop
   effects:
     - 'Casts one of the following Special Skills:'
+    - " "
     - 'If any enemy has the Burn status ailment:'
-    - ' * All enemies receive 635 Burn damage over 5 turns.'
+    - ' * All enemies receive 715 Burn damage over 5 turns.'
     - ' * All allies regenerate 450 HP over 3 turns.'
     - ' * All allies are immune to new status ailments for 3 turns.'
     - 'Otherwise:'
-    - ' * All enemies receive 555 Burn damage over 5 turns.'
+    - ' * All enemies receive 620 Burn damage over 5 turns.'
     - ' * All allies are immune to new status ailments for 3 turns.'
   types:
     - Gamble
     - DoT All
+    - HoT All
     - Status Ailments Immunity All
   passives:
     - >-

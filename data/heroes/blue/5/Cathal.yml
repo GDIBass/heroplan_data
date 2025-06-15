@@ -15,9 +15,9 @@ effects:
   - 'Stack (Max: 10): The caster recovers 15 HP each turn.'
 types:
   - Hit 1
-  - Bypass
-  - Self Mana Generation Stack
-  - Self Heal Stack
+  - Bypass Chance
+  - Self Mana Generation Buff Stack
+  - Self HoT Stack
 passives:
   - >-
     Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.

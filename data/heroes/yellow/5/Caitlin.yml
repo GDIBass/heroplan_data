@@ -15,9 +15,10 @@ effects:
   - 'Stack (Max: 10): The caster gets +5% mana generation'
   - 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
 types:
-  - Dispeller
+  - Dispeller All
   - Hit All
-  - Stacks
+  - Self Mana Generation Stacks
+  - Self HoT Stacks
 passives:
   - >-
     Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
@@ -25,10 +26,10 @@ image: https://i.imgur.com/ERb7z96.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 1084
-  attack: 1075
-  defense: 1064
-  health: 2038
+  power: 1210
+  attack: 1205
+  defense: 1193
+  health: 2358
   skill: Dispelling Judgement
   effects:
     - Dispels buffs from all enemies.
@@ -37,12 +38,13 @@ costume:
     - 'Stack +2 (Max: 10): The caster gets +12% mana generation.'
     - 'Stack +3 (Max: 10): The caster recovers 45 HP each turn.'
   types:
-    - Dispeller
+    - Dispeller All
     - Hit All
-    - Stacks
+    - Self Mana Generation Stacks
+    - Self HoT Stacks
   passives:
     - >-
       Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.
     - >-
-      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 472 Bleed damage over 4 turns.
+      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 528 Bleed damage over 4 turns.
   image: https://i.imgur.com/JgYBU3i.jpg

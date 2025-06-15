@@ -9,13 +9,11 @@ defense: 774
 health: 1349
 skill: Flail of Destruction
 effects:
-  - Deals 430% damage to the target
-  - >-
-    The caster regenerates 675 HP over 3 turns. The effect duration is reset if
-    the caster is hit with direct damage from a special skill.
+  - Deals 430% damage to the target.
+  - The caster regenerates 675 HP over 3 turns. The effect duration is reset if the caster is hit with direct damage from a special skill.
 types:
   - Hit 1
-  - Self heal
+  - Self HoT
 passives:
   - >-
     Decrease Ailment Duration: Duration of the first 3 status ailments this
@@ -30,11 +28,11 @@ costume:
   health: 1794
   skill: Kite of Endurance
   effects:
-    - Deals 410% damage to the Target.
+    - Deals 410% damage to the target.
     - The caster regenerates 800 HP over 4 turns. The duration is reset if the caster is hit with direct damage from a special skill.
   types:
     - Hit 1
-    - Self heal
+    - Self HoT
   passives:
     - >-
       Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.

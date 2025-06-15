@@ -15,5 +15,6 @@ effects:
   - The caster regenerates 915 HP over 5 turns.
 types:
   - Hit All
-  - Self Heal
+  - Self Defense Buff
+  - Self HoT
 image: https://i.imgur.com/XO3HIxy.jpg

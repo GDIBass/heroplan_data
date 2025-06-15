@@ -9,11 +9,11 @@ defense: 751
 health: 1400
 skill: Perfect Teamwork
 effects:
-  - Destroys all minions from the target.
+  - Destroys all minions from the target. This effect damages Mega Minions.
   - Deals 600% damage to the target.
   - Reduces max health from all enemies who own Minions by 404. Max health can't get lower than 30% of the original max health.
 types:
   - Minion Destroyer 1
   - Hit 1
-  - Health reduction
+  - Health reduction on Minion owner
 image: https://i.imgur.com/ISxaSzG.jpg

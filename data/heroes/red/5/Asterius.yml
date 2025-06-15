@@ -14,5 +14,7 @@ effects:
   - The target and nearby enemies receive Corrosive Burn for 3 turns. The Corrosive Burn deals 101 burn damage and lowers the targets defence by -16% each turn. Deals extra damage against heroes with Minions or Mega Minions.
 types:
   - Hit 3
-  - Dot 3
+  - Buff Duration Reducer 3
+  - DoT 3
+  - Defense Debuff 3
 image: https://i.imgur.com/i9C7vjL.jpg

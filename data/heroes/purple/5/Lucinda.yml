@@ -10,19 +10,15 @@ health: 1751
 skill: Might of Excalibroom
 effects:
   - Deals 470% damage to target and nearby enemies.
-  - >-
-    The target and nearby enemies get -40% accuracy for 6 turns. Chance to miss 
-    also applies to offensive Special Skills.
+  - The target and nearby enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills.
   - The target and nearby enemies get -34% defense for 6 turns.
   - The caster regenerates 918 HP over 6 turns.
 types:
   - Hit 3
-  - Blind
-  - Defense Debuff
+  - Blind 3
+  - Defense Debuff 3
   - Self HoT
 passives:
   - >-
-    Steal Buff: When this character casts their Special Skill, they have a 50% chance to
-    steal the newest dispellable buff from a random enemy that has buffs. If no
-    enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
 image: https://i.imgur.com/tBoxHA4.jpg

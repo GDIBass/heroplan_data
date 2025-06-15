@@ -11,11 +11,11 @@ skill: Song of Calamity
 effects:
   - Deals 240% damage to all enemies.
   - The duration of status ailments is reset for all enemies.
-  - All enemies get -34% attack for 3 turns
+  - All enemies get -34% attack for 3 turns.
 types:
   - Hit All
-  - Status Ailments Duration Reset
-  - Attack Debuff
+  - Status Ailments Duration Reset All
+  - Attack Debuff All
 passives:
   - >-
     Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.

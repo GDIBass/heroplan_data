@@ -16,9 +16,9 @@ effects:
 types:
   - Hit 1
   - Chain
-  - Attack Debuff
-  - Buff Immunity
+  - Attack Debuff on hit
+  - Buff Immunity on hit
 passives:
   - >-
-    Defense ailment reduction: Reduces the effect of defense ailments by -80%. The effect applies to this character and all its allies in the battle.
+    Defense ailment reduction: Reduces the effect of defense ailments by 80%. The effect applies to this character and all its allies in the battle.
 image: https://i.imgur.com/keg45a3.jpg
