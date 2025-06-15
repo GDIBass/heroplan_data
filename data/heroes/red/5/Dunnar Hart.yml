@@ -1,0 +1,25 @@
+name: Dunnar Hart
+source: festival
+family: bard
+speed: Slow
+class: Barbarian
+power: 1211
+attack: 1217
+defense: 1240
+health: 2239
+skill: Infernal Drumstorm
+effects:
+  - Deals 500% damage to all enemies.
+  - All enemies receive Corrosive Burn for 5 turns. The Corrosive Burn deals 322 Burn damage and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions and Mega Minion.
+  - The caster regenerate 1480 boosted health over 4 turns. Boosted health can exceed max HP.
+  - The caster gets +50% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+types:
+  - Hit All
+  - DoT All
+  - Defense Debuff All
+  - Self Boosted HoT
+  - Self Mana Generation Buff
+passives:
+  - >-
+    Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value.
+image: https://imgur.com/Yf46q7H.jpg
