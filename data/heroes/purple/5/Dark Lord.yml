@@ -14,24 +14,27 @@ effects:
   - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 144 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.
 types:
   - Hit 1
+  - Reduces buffs duration 3
   - Dot 3
+  - Mana Generation Debuff 3
 image: https://i.imgur.com/ja50n6G.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 1079
-  attack: 1190
-  defense: 988
-  health: 1870
+  power: 1205
+  attack: 1334
+  defense: 1108
+  health: 2164
   skill: Pulsarstrike
   effects:
     - Deals 560% damage to the target.
     - Reduces the duration of the target and nearby enemies’ buffs by 2 turns. (The duration reduction affects both dispellable and undispellable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)
-    - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 285 Poison damage and lowers the target’s mana generation by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+    - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 320 Poison damage and lowers the target’s mana generation by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
   types:
     - Hit 1
     - Reduces buffs duration 3
     - DoT 3
+    - Mana Generation Debuff 3
   passives:
     - >-
       Curse on Special Skill: When this character casts their Special Skill, all enemies receive 473 Curse damage over 4 turns, starting low and increasing every turn.
