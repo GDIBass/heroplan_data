@@ -23,7 +23,7 @@ effects:
   - ' - The caster gets Taunt that prevents enemies from using Special Skill on the caster’s allies for 4 turns. This effect can’t be dispelled.'
   - ' - The caster counterattacks with 133% of the damage received for 3 turns.'
 types:
-  - elf Boosted Heal
+  - Self Boosted Heal
   - Taunt
   - Counterattack 1
 image: https://i.imgur.com/TgO9p2o.jpg

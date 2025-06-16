@@ -26,10 +26,10 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard
-  power: 1081
-  attack: 1110
-  defense: 1023
-  health: 2009
+  power: 1207
+  attack: 1245
+  defense: 1147
+  health: 2324
   skill: Curse of the Cephaloid
   effects:
     - Deals 265% damage to all enemies.
@@ -45,5 +45,5 @@ costume:
     - >-
       Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
     - >-
-      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 488 Bleed damage over 4 turns.
+      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 544 Bleed damage over 4 turns.
   image: https://imgur.com/CNY72vk.jpg

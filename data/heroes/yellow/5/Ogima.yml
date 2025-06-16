@@ -9,7 +9,7 @@ defense: 799
 health: 1404
 skill: Rhythm of Havoc
 effects:
-  - Destroys all Minions for all enemies.
+  - Destroys all Minions for all enemies and damages all Mega Minions.
   - Deals 275% damage to all enemies.
   - Deals additional 30% damage to all enemies for each Minion destroyed.
   - >-
@@ -17,7 +17,7 @@ effects:
 types:
   - Minion Destroyer All
   - Hit All
-  - Mana Generation Stack
+  - Mana Generation Debuff Stack All
 passives:
   - >-
     Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.

@@ -18,11 +18,12 @@ effects:
   - " * Gives immunity to new status effects. New dance status effects will replace this effect."
   - " * This effect cannot be dispelled. This effect is removed when the caster is defeated."
 types:
-  - Self heal
+  - Self HoT
   - Self Dodge Buff
   - Dance of the Swan 4
-  - Dodge Buff
-  - Status Effect immunity
+  - Dodge Buff while Dancing
+  - Chance Hit 1 while Dancing
+  - Status Effect Immunity while Dancing
 passives:
   - >- 
     Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.

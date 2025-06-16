@@ -14,10 +14,10 @@ effects:
   - All allies get +34% attack and a further 3% increase per each Holy shield on the board for 3 turns, up to +70% attack.
   - Cleanses status ailments from all allies.
 types:
-  - Health Boost
+  - Health Boost All
   - Board Alterer
-  - Attack Buff
-  - Cleanse
+  - Attack Buff All
+  - Cleanse All
 passives:
   - >-
     Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.

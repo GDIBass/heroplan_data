@@ -18,8 +18,8 @@ effects:
 types:
   - Self Full Removal
   - Ghost
-  - Defense Buff 4
-  - Boosted HoT 4
+  - Defense Buff 4 while Ghost
+  - Boosted HoT 4 while Ghost
 passives:
   - >-
     Special Skill Damage Reduction: Received damage from Special Skills is 
@@ -42,8 +42,8 @@ costume:
   types:
     - Self Full Removal
     - Ghost
-    - Defense Buff 4
-    - Boosted HoT 4
+    - Defense Buff 4 while Ghost
+    - Boosted HoT 4 while Ghost
   passives:
     - >-
       Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.

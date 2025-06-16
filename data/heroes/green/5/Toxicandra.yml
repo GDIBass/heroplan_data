@@ -13,7 +13,28 @@ effects:
   - All allies regenerate a moderate amount of mana over 3 turns.
   - Cleanses status ailments from all allies.
 types:
-  - Healer
-  - MOT
-  - Cleanser
+  - Healer All
+  - MoT All
+  - Cleanser All
 image: https://i.imgur.com/m5DCDHL.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 1196
+  attack: 1157
+  defense: 1312
+  health: 2138
+  skill: Blooming Growth
+  effects:
+    - Boosts health of all allies by 750. Boosted health can exceed max HP.
+    - All allies regenerate a moderate amount of mana over 3 turns.
+    - Cleanses status ailments from all allies.
+  types:
+    - Boosted Heal All
+    - MoT All
+    - Cleanser All
+  passives:
+    - >-
+      Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn.
+  image: https://imgur.com/6ZuZX5t.jpg

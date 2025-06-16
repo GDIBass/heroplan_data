@@ -1,8 +1,8 @@
 name: Swan Maiden
-class: Paladin
 source: solstice
 family: opera
 speed: Average
+class: Paladin
 power: 514
 attack: 521
 defense: 521
@@ -18,18 +18,14 @@ effects:
   - " * Gives immunity to new status effects. New dance status effects will replace this effect."
   - " * This effect cannot be dispelled. The effect is removed when the caster dies."
 types:
-  - Self heal
-  - Dodge Buff
-  - Dance of the Little Swan
-  - Dodge Buff
-  - Status Effect immunity
+  - Self HoT
+  - Self Dodge Buff
+  - Dance of the Little Swan 4
+  - Dodge Buff 4
+  - Status Effect Immunity 4
 passives:
   - >- 
-    Heal when status ailment expires or is cleared: This character receives 10% 
-    health each time a status ailment expires or is cleansed, removed or 
-    reallocated from them. This effect can activate only once per turn.
+    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
   - >-
-    Resist Defense Ailments: This character has innate resistance against status
-    ailments that affect defense. Doesn’t apply to status ailments that affect 
-    elemental defense.
+    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense.
 image: https://i.imgur.com/2eJk70W.jpg

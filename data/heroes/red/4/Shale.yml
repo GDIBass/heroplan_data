@@ -1,7 +1,8 @@
 name: Shale
-class: Wizard
 source: ninja
+family: ninja
 speed: Charge
+class: Wizard
 power: 670
 attack: 603
 defense: 626
@@ -18,8 +19,7 @@ effects:
   - '* All allies regenerate 714 HP over 3 turns'
   - '* Cleanses status ailments from all allies'
 types:
-  - Charger
-  - Hot
-  - Cleanser
-family: ninja
+  - Charge
+  - Hot Self/3/All
+  - Cleanser Self/3/All
 image: https://i.imgur.com/MtPyEOT.jpg

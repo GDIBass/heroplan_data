@@ -15,8 +15,9 @@ effects:
   - All allies get +44% mana generation for 6 turns.
 types:
   - Taunt
-  - Defense Buff
-  - Mana Generation Buff
+  - Self HoT
+  - Defense Buff All
+  - Mana Generation Buff All
 passives:
   - >-
     Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies.
