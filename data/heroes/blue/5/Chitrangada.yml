@@ -1,0 +1,27 @@
+name: Chitrangada
+source: solstice
+family: mahayoddha
+speed: Fast
+class: Fighter
+power: 1213
+attack: 1186
+defense: 1289
+health: 2230
+skill: Gift of Rejuvenation
+effects:
+  - Recover 20% health for all allies.
+  - "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 800 additional  healing. Status effects affecting healing received do affect the healing scaling.)"
+  - Each defeated ally has a 35% chance to get revived with 35% HP.
+  - Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)
+types:
+  - Healer All
+  - Healing Boon
+  - Reviver
+  - Cleanse 1 Ailment All
+passives:
+  - "Mana on Damage Received:"
+  - " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana."
+  - " * Maximum of 10% mana gained per turn."
+  - >-
+    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
+image: https://imgur.com/4vCPlzL.jpg
