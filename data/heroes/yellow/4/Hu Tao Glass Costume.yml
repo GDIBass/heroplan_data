@@ -1,0 +1,24 @@
+name: Hu Tao Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Slow
+class: Fighter
+power: 753
+attack: 813
+defense: 681
+health: 1382
+skill: Glass Wall
+effects:
+  - Deals 245% damage to all enemies
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies get -38% accuracy for 4 turns.
+types:
+  - Hit All
+  - Bypass
+  - Blind All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/V32B1dq.jpg

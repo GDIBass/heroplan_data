@@ -1,0 +1,24 @@
+name: Isarnia Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Slow
+class: Wizard
+power: 1236
+attack: 1463
+defense: 1088
+health: 2103
+skill: Glass Shatter
+effects:
+  - Deals 395% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies get -40% defense for 6 turns.
+types:
+  - Hit All
+  - Bypass
+  - Defense Debuff All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/mpefymk.jpg

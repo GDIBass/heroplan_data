@@ -1,0 +1,24 @@
+name: Friar Tuck Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Average
+class: Monk
+power: 517
+attack: 548
+defense: 524
+health: 816
+skill: Clear Faith
+effects:
+  - Recovers 42% health for the caster and nearby allies.
+  - The caster and nearby allies get +15% mana generation for 3 turns.
+  - All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+types:
+  - Healer 3
+  - Mana Generation Buff 3
+  - Reflect Buff for Nature Allies
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/lcz3509.jpg

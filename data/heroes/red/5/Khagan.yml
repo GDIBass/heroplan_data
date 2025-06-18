@@ -9,13 +9,13 @@ defense: 642
 health: 1458
 skill: Khan's Order
 effects:
-  - Deals 380% damage to the target and nearby enemies
-  - The caster and nearby allies get +24% mana generation for 5 turns
-  - The caster and nearby allies get +63% defense for 5 turns
+  - Deals 380% damage to the target and nearby enemies.
+  - The caster and nearby allies get +24% mana generation for 5 turns.
+  - The caster and nearby allies get +63% defense for 5 turns.
 types:
-  - Hit All
-  - Mana Generation Buff
-  - Defense Buff
+  - Hit 3
+  - Mana Generation Buff 3
+  - Defense Buff 3
 image: https://i.imgur.com/Qk5TZ17.jpg
 costume:
   design: costume1
@@ -27,11 +27,13 @@ costume:
   health: 1529
   skill: Conqueror's Command
   effects:
-    - Deals 514% damage to the target
-    - All allies get +12% mana generation for 5 turns
-    - All allies get +46% defense for 5 turns
+    - Deals 514% damage to the target.
+    - All allies get +12% mana generation for 5 turns.
+    - All allies get +46% defense for 5 turns.
   types:
     - Hit 1
+    - Mana Generation Buff All
+    - Defense Buff All
   image: https://i.imgur.com/Wuav96d.jpg
 costume2:
   design: costume2
@@ -47,9 +49,9 @@ costume2:
     - All allies receive a moderate amount of mana over 5 turns.
     - All allies get +40% defense for 5 turns.
   types:
-    - Hit all
-    - Mana Generation
-    - Defense Buff
+    - Hit All
+    - MoT All
+    - Defense Buff All
   image: https://i.imgur.com/Az13Jne.jpg
 costume3:
   design: toon
@@ -66,10 +68,33 @@ costume3:
     - The caster and nearby allies get +61% defense for 5 turns.
     - Deals extra damage against Nature.
   types:
-    - Hit All
-    - Mana Generation Buff
-    - Defense Buff
+    - Hit 3
+    - Mana Generation Buff 3
+    - Defense Buff 3
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/tV5jaYy.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Ranger
+  power: 1241
+  attack: 1310
+  defense: 1081
+  health: 2536
+  skill: Vitrail’s Order
+  effects:
+    - Deals 540% damage to the target and nearby enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - The caster and nearby allies get +23% mana generation for 5 turns.
+    - The caster and nearby allies get +62% defense for 5 turns.
+  types:
+    - Hit All
+    - Bypass
+    - Mana Generation Buff 3
+    - Defense Buff 3
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/gv5Agq9.jpg
