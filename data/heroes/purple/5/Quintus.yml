@@ -49,9 +49,9 @@ costume3:
   design: toon
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 1113
-  attack: 1035
-  defense: 1059
+  power: 1135
+  attack: 1069
+  defense: 1094
   health: 2356
   skill: Toon Ultimatum
   effects:

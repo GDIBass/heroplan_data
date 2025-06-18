@@ -5,10 +5,10 @@ source: season1
 family: classic
 speed: Fast
 class: Fighter
-power: 1208
-attack: 1312
-defense: 1050
-health: 2357
+power: 1236
+attack: 1351
+defense: 1081
+health: 2397
 skill: Glass Strike
 effects:
   - Deals 510% damage to the target.

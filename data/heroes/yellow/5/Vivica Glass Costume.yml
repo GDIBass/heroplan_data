@@ -5,10 +5,10 @@ source: season1
 family: classic
 speed: Slow
 class: Cleric
-power: 1210
-attack: 1203
-defense: 1220
-health: 2303
+power: 1238
+attack: 1239
+defense: 1256
+health: 2342
 skill: Glass Heal
 effects:
   - Recovers 55% health for all allies.

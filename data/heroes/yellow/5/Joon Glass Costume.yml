@@ -5,10 +5,10 @@ source: season1
 family: classic
 speed: Fast
 class: Monk
-power: 1204
-attack: 1302
-defense: 1071
-health: 2317
+power: 1232
+attack: 1340
+defense: 1102
+health: 2356
 skill: Glass Beam
 effects:
   - Deals 558% damage to the target.

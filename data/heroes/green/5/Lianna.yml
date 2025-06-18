@@ -67,10 +67,10 @@ costume4:
   design: glass
   bonuses: 5/5/10/5
   class: Ranger
-  power: 1209
-  attack: 1285
-  defense: 1190
-  health: 2154
+  power: 1237
+  attack: 1323
+  defense: 1225
+  health: 2191
   skill: Glass Arrow
   effects:
     - Deals 602% damage to the target.

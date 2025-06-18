@@ -51,9 +51,9 @@ costume3:
   design: toon
   bonuses: 5/5/10/5
   class: Fighter
-  power: 1107
-  attack: 988
-  defense: 1087
+  power: 1129
+  attack: 1021
+  defense: 1123
   health: 2376
   skill: Wall of Toons
   effects:

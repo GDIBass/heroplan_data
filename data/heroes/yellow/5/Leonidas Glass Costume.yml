@@ -5,10 +5,10 @@ source: season1
 family: classic
 speed: Average
 class: Monk
-power: 1204
-attack: 1298
-defense: 1173
-health: 2119
+power: 1232
+attack: 1337
+defense: 1207
+health: 2155
 skill: Glass Cleave
 effects:
   - Deals 575% damage to the target.

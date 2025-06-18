@@ -5,10 +5,10 @@ source: season1
 family: classic
 speed: Fast
 class: Cleric
-power: 1214
-attack: 1288
-defense: 1183
-health: 2194
+power: 1242
+attack: 1326
+defense: 1218
+health: 2232
 skill: Glass Spear
 effects:
   - Deals 420% damage to the target and minor damage to nearby enemies.
