@@ -50,7 +50,7 @@ costume2:
   types:
     - Hit all
     - Blind All
-    - Mana gen debuff All
+    - Mana Gen Debuff All
   image: https://i.imgur.com/3xo1OZT.jpg
 costume3:
   design: toon
@@ -72,3 +72,24 @@ costume3:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/J3KLB3K.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 753
+  attack: 813
+  defense: 681
+  health: 1382
+  skill: Glass Wall
+  effects:
+    - Deals 245% damage to all enemies
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - All enemies get -38% accuracy for 4 turns.
+  types:
+    - Hit All
+    - Bypass
+    - Blind All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/V32B1dq.jpg

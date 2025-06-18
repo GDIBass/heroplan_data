@@ -71,10 +71,10 @@ costume4:
   design: glass
   bonuses: 5/5/10/5
   class: Cleric
-  power: 1214
-  attack: 1280
-  defense: 1183
-  health: 2194
+  power: 1242
+  attack: 1326
+  defense: 1218
+  health: 2232
   skill: Glass Spear
   effects:
     - Deals 420% damage to the target and minor damage to nearby enemies.

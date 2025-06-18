@@ -5,9 +5,9 @@ source: season1
 family: classic
 speed: Fast
 class: Druid
-power: 1110
-attack: 1137
-defense: 1041
+power: 1133
+attack: 1174
+defense: 1075
 health: 2118
 skill: Toon Shield
 effects:

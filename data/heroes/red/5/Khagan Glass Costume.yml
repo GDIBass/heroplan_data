@@ -1,0 +1,26 @@
+name: Khagan Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Slow
+class: Ranger
+power: 1241
+attack: 1310
+defense: 1081
+health: 2536
+skill: Vitrail’s Order
+effects:
+  - Deals 540% damage to the target and nearby enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The caster and nearby allies get +23% mana generation for 5 turns.
+  - The caster and nearby allies get +62% defense for 5 turns.
+types:
+  - Hit All
+  - Bypass
+  - Mana Generation Buff 3
+  - Defense Buff 3
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/gv5Agq9.jpg

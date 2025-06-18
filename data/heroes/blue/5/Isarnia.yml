@@ -30,7 +30,6 @@ costume:
   types:
     - Hit All
     - Defense Debuff All
-  family: classic
   image: https://i.imgur.com/j8POeJ4.jpg
 costume2:
   design: costume2
@@ -64,8 +63,29 @@ costume3:
     - Deals extra damage against Fire.
   types:
     - Hit All
-    - Defense Debuff
+    - Defense Debuff All
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/mFs5DrO.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 1236
+  attack: 1463
+  defense: 1088
+  health: 2103
+  skill: Glass Shatter
+  effects:
+    - Deals 395% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - All enemies get -40% defense for 6 turns.
+  types:
+    - Hit All
+    - Bypass
+    - Defense Debuff All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/mpefymk.jpg

@@ -71,10 +71,10 @@ costume4:
   design: glass
   bonuses: 5/5/10/5
   class: Wizard
-  power: 1214
-  attack: 1200
-  defense: 1179
-  health: 2425
+  power: 1242
+  attack: 1235
+  defense: 1214
+  health: 2467
   skill: Glass Strike
   effects:
     - Deals 540% damage to the target.

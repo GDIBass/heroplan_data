@@ -54,9 +54,9 @@ costume3:
   design: toon
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1110
-  attack: 1140
-  defense: 904
+  power: 1132
+  attack: 1178
+  defense: 934
   health: 2380
   skill: Toon of Judgment
   effects:

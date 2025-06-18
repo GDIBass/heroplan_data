@@ -71,10 +71,10 @@ costume4:
   design: glass
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1207
-  attack: 1259
-  defense: 1116
-  health: 2353
+  power: 1235
+  attack: 1296
+  defense: 1149
+  health: 2394
   skill: Glass Hammer
   effects:
     - Deals 575% damage to the target and minor damage to nearby enemies.
