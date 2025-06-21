@@ -28,3 +28,33 @@ passives:
     damage from Troops of stronger element.
   - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/sJ0rROO.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 1213
+  attack: 1213
+  defense: 1104
+  health: 2535
+  skill: Golden Sacred Symbol
+  effects:
+    - Deals 210% damage to all enemies.
+    - All Dark enemies get -39% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)
+    - All Ice enemies get -39% defense for 3 turns.
+    - All Nature enemies get -39% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+    - All Fire enemies get -39% attack for 3 turns.
+  types:
+    - Hit All
+    - Elemental
+  passives:
+    - >-
+      'Troop Mastery:'
+    - >-
+      Passive Skill as attacking character: This hero’s Troops deal extra 
+      elemental damage against weaker element.
+    - ' - Dealt extra elemental damage: +150%'
+    - >-
+      Passive Skill as defending character: This hero receives less elemental 
+      damage from Troops of stronger element.
+    - ' - Received elemental damage: -25%'
+  image: https://imgur.com/bIp33Sf.jpg
