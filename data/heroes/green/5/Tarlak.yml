@@ -18,10 +18,10 @@ image: https://i.imgur.com/VmIENFl.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 916
-  attack: 846
-  defense: 988
-  health: 1565
+  power: 944
+  attack: 867
+  defense: 1030
+  health: 1627
   skill: Kane Prowess
   effects:
     - Boosts health for all allies by 470. Boosted health can exceed max HP.
