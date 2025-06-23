@@ -19,10 +19,10 @@ image: https://i.imgur.com/4yAjxl7.jpg
 costume:
   bonuses: 5/5/10/5
   class: Ranger
-  power: 920
-  attack: 896
-  defense: 852
-  health: 1737
+  power: 947
+  attack: 918
+  defense: 887
+  health: 1807
   skill: Tidal Slayer
   effects:
     - Deals 480% damage to the target.

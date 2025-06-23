@@ -21,10 +21,10 @@ image: https://i.imgur.com/OQ8iQcf.jpg
 costume:
   bonuses: 5/5/10/5
   class: Druid
-  power: 918
-  attack: 913
-  defense: 886
-  health: 1616
+  power: 946
+  attack: 936
+  defense: 923
+  health: 1680
   skill: Reef Blast
   effects:
     - Deals 130% damage to all enemies.

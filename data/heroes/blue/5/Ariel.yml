@@ -20,10 +20,10 @@ image: https://i.imgur.com/WWzsu8l.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 915
-  attack: 906
-  defense: 909
-  health: 1560
+  power: 942
+  attack: 928
+  defense: 947
+  health: 1622
   skill: Deep Sea Ritual
   effects:
     - Boosts health of all allies by 520. Boosted health can exceed max HP.

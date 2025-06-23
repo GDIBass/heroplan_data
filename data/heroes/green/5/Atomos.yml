@@ -19,10 +19,10 @@ image: https://i.imgur.com/DAUb4SR.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 915
-  attack: 894
-  defense: 872
-  health: 1670
+  power: 942
+  attack: 916
+  defense: 908
+  health: 1736
   skill: Immortal Punisher
   effects:
     - Deals 160% damage to all enemies.

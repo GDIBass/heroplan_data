@@ -20,10 +20,10 @@ image: https://i.imgur.com/MjynoiD.jpg
 costume:
   bonuses: 5/5/10/5
   class: Druid
-  power: 916
-  attack: 941
-  defense: 819
-  health: 1662
+  power: 943
+  attack: 965
+  defense: 853
+  health: 1729
   skill: Blinding Spell
   effects:
     - Deals 210% damage to all enemies.

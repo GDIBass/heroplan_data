@@ -19,10 +19,10 @@ image: https://i.imgur.com/OUhEZUJ.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 915
-  attack: 927
-  defense: 874
-  health: 1580
+  power: 942
+  attack: 950
+  defense: 911
+  health: 1643
   skill: Beetle Strike
   effects:
     - Dispels buffs from the target.
