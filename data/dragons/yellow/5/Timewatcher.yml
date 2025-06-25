@@ -1,0 +1,34 @@
+name: Timewatcher
+source: ancientUnderroot
+speed: Slow
+attack: 13900
+defense: 14049
+health: 12335
+power: 11155
+skill: Time Rewind
+effects:
+  - Recovers 8000 health for all allies.
+  - Each defeated ally has a 35% chance to get revived with 4000 HP.
+types:
+  - Healer All
+  - Reviver
+spiritBonus:
+  spiritClass: Druid
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Breath of Revival
+  effects:
+    - Recovers 650 health for all allies.
+    - Each defeated ally has a 15% chance to get revived with 15% HP.
+image: https://i.imgur.com/vS5tZC9.jpg
