@@ -1,0 +1,26 @@
+name: Chimister
+source: moth
+family: moth
+speed: Very Fast
+class: Wizard
+power: 1214
+attack: 1306
+defense: 1184
+health: 2148
+skill: Mutating Mixture
+effects:
+  - "If any enemy has the Toxin status ailment:"
+  - " * All enemies receive 985 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)"
+  - " * Dispels buffs from all enemies."
+  - " * All allies regenerate 1300 bosted health over 5 turns. Boosted health can exceed max HP."
+  - "Otherwise:"
+  - " * All enemies receive 790 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)"
+  - " * Dispels buffs from all enemies."
+types:
+  - DoT
+  - Dispeller
+  - HoT
+passives:
+  - >- 
+    Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
+image: https://imgur.com/9sIQqfU.jpg
