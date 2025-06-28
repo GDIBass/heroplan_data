@@ -27,6 +27,7 @@ types:
   - Max Health Reducer 3
   - Hit 3
   - Bypass
+  - Damage on each Resisted Healing 3
 passives:
   - >-
     Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.

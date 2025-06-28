@@ -13,7 +13,7 @@ effects:
   - The target and nearby enemies resist healing and receive 250 damage per each resisted healing for 4 turns.
 types:
   - Hit 1
-  - Resist Healing 3
+  - Damage on each Resisted Healing 3
 passives:
   - >-
     Disable Minion Abilities: Attacks and abilities of all Minions owned by
