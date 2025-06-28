@@ -14,7 +14,7 @@ effects:
   - Inflicts 45 Insanity on the caster.
 types:
   - Hit 2
-  - Insanity 2
+  - Damage on each Resisted Healing 2
   - Self Insanity 
 passives:
   - >-
