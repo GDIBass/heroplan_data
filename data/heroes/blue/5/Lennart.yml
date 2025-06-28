@@ -1,0 +1,33 @@
+name: Lennart
+source: wilderness
+family: wildcat
+speed: Fast
+class: Ranger
+power: 1215
+attack: 1326
+defense: 1176
+health: 2121
+skill: Pursuing Shot
+effects:
+  - Deals 500% damage to the target.
+  - "The target receives 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 2400.)"
+  - The target takes +40% increased damage from status ailments for 6 turns.
+  - The target resists healing and receives 300 damage per each resisted healing for 6 turns.
+types:
+  - Hit 1
+  - DoT 1
+  - Increased damage from Ailments 1
+  - Damage on each Resisted Healing 1
+passives:
+  - >-
+    Nine Lives:
+  - ' * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.'
+  - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.'
+  - >-
+    Trait: Lithe Frame
+  - This character is not affect by effects that increase or reduce defense.
+  - 'This includes:'
+  - ' * - Status effect buffs and ailments.'
+  - ' * - Positive and negative stacks.'
+  - ' * - Growth and Wither effects.'
+image: https://imgur.com/yQl1QjJ.jpg
