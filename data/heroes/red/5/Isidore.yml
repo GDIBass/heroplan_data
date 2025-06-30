@@ -20,6 +20,8 @@ types:
   - Hit 9 random
 passives:
   - >-
+    Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.
+  - >-
     Resist Insanity: This character has innate resistance against Insanity.
   - >-
     Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.

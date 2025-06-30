@@ -1,8 +1,8 @@
 name: Roxia
-class: Druid
 source: magic
 family: magic
 speed: Magic
+class: Druid
 power: 486
 attack: 516
 defense: 530
@@ -21,11 +21,7 @@ types:
   - Mana Generation
 passives:
   - >-
-    When this character casts their Special Skill, all enemies get -5% mana 
-    generation stack. If the Special Skill is fully charged, all enemies get 
-    two stacks. An enemy can have up to 10 stacks.
+    Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.
   - >-
-    When this character casts their Special Skill, they have a 50% chance to 
-    give 10% mana to all allies. If the Special Skill is fully charged, the 
-    chance is 100%.
+    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
 image: https://i.imgur.com/M3v3YrZ.jpg

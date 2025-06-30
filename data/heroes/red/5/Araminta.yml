@@ -18,6 +18,8 @@ types:
   - Delayed Mana boost All
 passives:
   - >-
+    Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.
+  - >-
     Resist Insanity: This character has innate resistance against Insanity.
   - >-
     Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack.

@@ -1,25 +1,26 @@
-name: Song Jiang
+name: Chao Gai
 source: kingdom
 family: outlaws
-speed: Average
-class: Paladin
-power: 1203
-attack: 1236
-defense: 1207
-health: 2202
-skill: Righteous Strike
+speed: Very Fast
+class: Cleric
+power: 1216
+attack: 1242
+defense: 1242
+health: 2204
+skill: Advice from Beyond
 effects:
   - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)
-  - Deals 450% damage to the target and nearby enemies.
-  - Heals the caster and nearby allies for 20% of damage dealt.
-  - The target and nearby enemies get silenced for 4 turns.
-  - The target and nearby enemies get -30% defense for 4 turns.
+  - Deals 420% damage to the target.
+  - Casts Full Removal on the caster. (Full Removal removes all status effects, stack, Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable.).
+  - The caster shifts into Ghost form for 2 turns.
+  - "When Ghost form expires:"
+  - All allies get +40% critical chance for 2 turns. This effect is undispellable. (While in Ghost form. Character can’t gain mana and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)
 types:
-  - Chance of Critical hits
-  - Hit 3
-  - Damage Heal 3
-  - Silence 3
-  - Defense Debuff 3
+  - Chance for Critical Hits
+  - Hit 1
+  - Self Full Removal
+  - Self Ghost
+  - Critical Chance Buff All
 passives:
   - >-
     Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.
@@ -30,4 +31,4 @@ passives:
   - " * Each of these effects can activate once per turn."
   - >-
     Resist Bleed Damage: This character has innate resistance against Bleed.    
-image: https://imgur.com/ASg7ZAz.jpg
+image: https://imgur.com/6s8pdik.jpg
