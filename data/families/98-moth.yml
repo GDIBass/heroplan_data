@@ -3,6 +3,10 @@ code: 98
 description: Moth
 image: https://i.imgur.com/QEWmL1x.png
 bonus:
-  - "Bonus for 1 / 2 / 3 Heroes:"
-  - "Moth Dust: -30% mana generation. If Moth Dust is cleansed or removed, the target falls asleep and receives +80% increased damage while sleeping."
-  - "The members of this family have additional perks in the Night of the Moth event."
+  - "Bonus for 1/2/3 Heroes:"
+  - At the start of each turn, cast Moth Dust to a random enemy for 2/3/4 turns.
+  - "Moth Dust has the following effets:" 
+  - " * -30% mana generation."
+  - " * Mega Minion's current health is reduced by 50% each turn."
+  - If Moth Dust is cleansed or removed, the target falls asleep and receives +80% increased damage while sleeping.
+  - The members of this family have additional perks in the Night of the Moth event.
