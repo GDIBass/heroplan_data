@@ -10,8 +10,8 @@ health: 1884
 skill: Heavy Fragrance
 effects:
   - Deals 435% damage to the target.
-  - The target can’t get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevents cleansing and reallocating itself.)
-  - The target receives 888 Poison damage over 3 turn. This effect spreads to nearby enemies.
+  - The target can’t get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevents cleansing and reallocating of itself.)
+  - The target receives 912 Poison damage over 3 turn. This effect spreads to nearby enemies.
   - Elemental Link gives all Nature allies +20% attack for 4 turns. This effect can’t be dispelled.
 types:
   - Hit 1
