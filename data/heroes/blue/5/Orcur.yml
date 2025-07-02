@@ -1,0 +1,26 @@
+name: Orcur
+source: astral
+family: astraldwarfs
+speed: Fast
+class: Druid
+power: 1216
+attack: 1180
+defense: 1289
+health: 2268
+skill: Lunar Bloom
+effects:
+  - Recovers 30% health for all allies.
+  - "Growth: All allies get 250 attack."
+  - Boosts health of all allies by 300 health after 3 turns, or immediatelly if the effect is removed before the duration ends. Boosted health can exceed max HP.
+types:
+  - Healer All
+  - Growth All
+  - Delayed Boosted Health All
+passives:
+  - >-
+    Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.
+  - >-
+    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
+  - >-
+    Resist Healing Ailments: This character has innate resistance against status ailments that affect healing.
+image: https://imgur.com/dgeBnW2.jpg
