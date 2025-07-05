@@ -1,0 +1,29 @@
+name: Lando
+source: magic
+family: magiccarpet
+speed: Slow
+class: Ranger
+power: 1217
+attack: 1190
+defense: 1260
+health: 2311
+skill: Two-Step Swing
+effects:
+  - "All ailments affecting attack, defense and mana generation on all allies are replaced by matching uncleansable buffs. (Replacing cannot be blocked by status effects and passive. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)"
+  - Cleanses status ailments for all allies.
+  - Deals 400% damage to all enemies.
+  - All allies deal 300-700 damage to a random enemy after 3 turns, based on the damage allies had taken while this effect was active. This effect is undispellable. (Maximum effect is achieved upon taking 50% of max health in damage.)
+types:
+  - Transform Ailments All
+  - Cleanser All
+  - Hit All
+  - Delayed Damage All
+passives:
+  - >-
+    Flight Momentum: If this character has any amount of Flight Momentum, they receive:
+  - " * Up to +35% mana generation."
+  - " * Up to +25% chance to dodge."
+  - " * The effects diminish the less Flight Momentum character has."
+  - >-
+    Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+image: https://imgur.com/vcJysVw.jpg
