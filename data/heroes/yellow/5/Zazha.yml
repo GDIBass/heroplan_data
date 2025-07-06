@@ -13,9 +13,9 @@ effects:
   - Deals 620% damage to the target.
   - Boosts all allies’ health by 26% of damage dealt.
 types:
-  - Replace Buffs Self
+  - Transform Ailments Self
   - Hit 1
-  - Boosted Heal
+  - Boosted Heal All
 passives:
   - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:

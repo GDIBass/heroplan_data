@@ -1,0 +1,23 @@
+name: Verdigoo
+source: superelemental
+family: slime
+speed: Fast
+class: Paladin
+power: 1217
+attack: 1248
+defense: 1126
+health: 2434
+skill: Judgement of Goo
+effects:
+  - Deals 380% damage to the target and nearby enemies.
+  - All allies get Sticky Surface for 3 turns. This effect can’t be dispelled.
+  - "Sticky Surface: Steals 1 random dispellable buff from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)"
+types:
+  - Hit 3
+  - Sticky Surface All
+passives:
+  - >-
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://imgur.com/cFHh06y.jpg

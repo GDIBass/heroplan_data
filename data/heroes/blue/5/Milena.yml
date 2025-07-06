@@ -30,10 +30,10 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric
-  power: 1172
-  attack: 1202
-  defense: 1173
-  health: 2128
+  power: 1206
+  attack: 1241
+  defense: 1212
+  health: 2198
   skill: Preserve and Freeze
   effects:
     - "Special Skill has a different effect when charged with 100% / 200% mana:"

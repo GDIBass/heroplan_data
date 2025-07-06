@@ -34,10 +34,10 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 1173
-  attack: 1152
-  defense: 1202
-  health: 2207
+  power: 1208
+  attack: 1190
+  defense: 1241
+  health: 2279
   skill: Dark Shock
   effects:
     - 'Special Skill has a different effect when charged with 100%/200% mana:'
