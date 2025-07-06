@@ -1,0 +1,22 @@
+name: Foxglove
+source: covenant
+family: fox
+speed: Average
+class: Wizard
+power: 748
+attack: 786
+defense: 701
+health: 1370
+skill: Venomfang Concoction
+effects:
+  - Deals 255% damage to the target and nearby enemies.
+  - The target and nearby enemies receive lasting 97 Poison damage per turn. (This effect lasts until it is cleansed, replaced or removed.)
+  - The target and nearby enemies get -30% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+types:
+  - Hit 3
+  - Lasting DoT 3
+  - Mana Generation Debuff 3
+passives:
+  - >-
+    Decreased Healing: All enemies get -50% healing.
+image: https://imgur.com/pr50hyU.jpg

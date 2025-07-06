@@ -1,0 +1,24 @@
+name: Halcyon
+source: covenant
+family: fox
+speed: Fast
+class: Fighter
+power: 1217
+attack: 1264
+defense: 1213
+health: 2218
+skill: Unbroken Assault
+effects:
+  - Destroys all Minions from the target. This effect damage Mega Minions. (This effect applies to Mega Minions as well but instead of destroying, damage equal to 50% of the Mega Minion’s max health is dealt to the Mega Minion.)
+  - Deals 325% damage to hit targets.
+  - If the target had Minions, attacks another enemy who has Minions. If none of the enemies have Minions, attacks a random enemy. Each enemy can only be attacked once. (This effect applies to Mega Minions as well but instead of destroying, damage equal to 50% of the Mega Minion’s max health is dealt to the Mega Minion.)
+  - The caster gets lasting counterattack with 115% of the damage received. (This effect lasts until it is cleansed, replaced or removed.)
+types:
+  - Hit 1
+  - Hit Random
+  - Distroy Minions on Hit
+  - Lasting Counterattack Self
+passives:
+  - >-
+    Decreased Healing: All enemies get -50% healing.
+image: https://imgur.com/spHpfyL.jpg
