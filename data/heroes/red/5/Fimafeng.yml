@@ -1,0 +1,28 @@
+name: Fimafeng
+source: untoldtales
+family: myrkheim
+speed: Average
+class: Barbarian
+power: 1220
+attack: 1254
+defense: 1209
+health: 2274
+skill: Self-preservation
+effects:
+  - Cleanses status ailments from the caster.
+  - Attacks the target with Frostfall Strike, dealing up to 3000 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.
+  - "Stack (Max: 10): The caster get +5% mana generation.(Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+  - "Stack (Max: 10): All allies get +20% defense."
+types:
+  - Self Clean
+  - Frostfall Strike 1
+  - Self Mana Generation Stack
+  - Defense Buff Stack All
+passives:
+  - >-
+    Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.
+  - >-
+    Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast
+  - " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+  - " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+image: https://imgur.com/TXnhxAk.jpg

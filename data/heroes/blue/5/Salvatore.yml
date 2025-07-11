@@ -1,0 +1,23 @@
+name: Salvatore
+source: shadow
+family: investigator
+speed: Slow
+class: Fighter
+power: 1218
+attack: 1184
+defense: 1246
+health: 2360
+skill: Deranged Existence
+effects:
+  - Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Gowth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable. )
+  - The caster shifts into Deranged Dire Ghost form for 5 turns.
+  - While in Deranged Dire Ghost form the caster automatically deal 300% damage and inflict 30 Insanity on a random enemy each turn.
+  - While in Deranged Dire Ghost form the caster and nearby allies can take damage from enemies whose element is stronger against them. (While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)
+  - Inflicts 30 Insanity on all allies except the caster.
+types:
+  - Self Full Removal
+  - Self Deranged Dire Ghost
+  - Hit 1
+  - Insanity 1
+  - Insanity to allies
+image: https://imgur.com/kk1oySX.jpg
