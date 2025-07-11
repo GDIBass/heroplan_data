@@ -20,5 +20,32 @@ passives:
   - >-
     Effects on special skill: 70% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 70% damage to all enemies.'
-  - ' * Dispells the latest dispellable buff from all enemies.'
+  - ' * Dispels the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/xRHanch.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 1220
+  attack: 1209
+  defense: 1181
+  health: 2437
+  skill: Dreadful Riddle
+  effects:
+    - Deals 385% damage to the target.
+    - The attack chains through all the enemies who are adjacent to any hit enemy.
+    - All hit targets are immune to new status effect buffs for 5 turns, and receive 350 damage for each attempted buff.
+  types:
+    - Hit 1
+    - Chain
+    - Buff Immunity on Hit target
+  passives:
+    - >-
+      Effects on special skill: 70% chance to perform the following actions when this character casts their Special Skill
+    - ' * Deals 70% damage to all enemies.'
+    - ' * Dispels the latest dispellable buff from all enemies.'
+    - >-
+      Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
+    - >-
+      Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
+  image: https://imgur.com/3FfUfwE.jpg
