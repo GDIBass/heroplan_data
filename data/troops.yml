@@ -878,6 +878,47 @@ troops:
       name: Increased Special Skill Damage
       description: Direct Special Damage done by character this troop is equipped to is increased by 8%.
       image: https://i.imgur.com/13S67Px.jpg
+  five_star_Cleric_Paladin:
+    key: five_star_Cleric_Paladin
+    id: 64
+    stars: 5
+    name: Devine Cleric
+    description: Legendary for class Cleric and Paladin
+    classLink:
+      - Cleric
+      - Paladin
+    images:
+      full:
+        purple: https://i.imgur.com/xeRtJoY.jpg
+        yellow: https://i.imgur.com/JToY8ZC.jpg
+        blue: https://i.imgur.com/qcHGDjA.jpg
+        green: https://i.imgur.com/hMXdLJ5.jpg
+        red: https://i.imgur.com/IsgCQvO.jpg
+      half:
+        purple: https://i.imgur.com/zI2nFRr.jpg
+        yellow: https://i.imgur.com/2OHVPns.jpg
+        blue: https://i.imgur.com/clcRGI0.jpg
+        green: https://i.imgur.com/W0mbCUi.jpg
+        red: https://i.imgur.com/VFXJKh8.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 27
+      defense: 20
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 33
+      defense: 26
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Resist Status Ailments
+      description: Character this troop is equipped to has 10% chance to resist status ailments.
+      image: https://i.imgur.com/jqcxe86.jpg
 
 max_level_by_stars:
   1: 10
