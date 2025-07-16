@@ -11,12 +11,12 @@ skill: Self-preservation
 effects:
   - Cleanses status ailments from the caster.
   - Attacks the target with Frostfall Strike, dealing up to 3000 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.
-  - "Stack (Max: 10): The caster get +5% mana generation.(Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+  - "Stack (Max: 10): All allies get +5% mana generation.(Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
   - "Stack (Max: 10): All allies get +20% defense."
 types:
   - Self Clean
   - Frostfall Strike 1
-  - Self Mana Generation Stack
+  - Mana Generation Stack All
   - Defense Buff Stack All
 passives:
   - >-
