@@ -1,0 +1,29 @@
+name: Grendel's Mother
+source: beowulf
+family: beowulf
+speed: Slow
+class: Sorcerer
+power: 1220
+attack: 1233
+defense: 1266
+health: 2212
+skill: Harrow the Heart
+effects:
+  - Deals 410% damage to all enemies.
+  - All enemies receive 1230 Curse damage over 6 turns, starting low and increasing every turn.
+  - "Source of Ailments: The following effects are cast on a random enemy at the start of each turn"
+  - " * +60% damage from status ailments for 5 turns."
+  - " * -60% for all healing received for 5 turns."
+  - The Source of Ailments will activate 6 times. Each attempt to dispel it removes one activation.
+types:
+  - Hit All
+  - DoT All
+  - Source of Ailments
+passives:
+  - >-
+    Mana of Buff Received: This character gains 5% mana when they receive a buff or possive stack.
+  - >-
+    Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.
+  - >-
+    Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.
+image: https://imgur.com/gAwcLIi.jpg
