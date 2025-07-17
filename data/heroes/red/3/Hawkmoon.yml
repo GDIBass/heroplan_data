@@ -48,3 +48,22 @@ costume2:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/hDOgs06.jpg
+costume3:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 517
+  attack: 585
+  defense: 518
+  health: 733
+  skill: Glass Prayer
+  effects:
+    - Recovers 37% health for all allies.
+    - All Fire allies reflect status ailments and negative stacks for 2 turns.(Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  types:
+    - Healer All
+    - Debuff Reflect All Fire Allies
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/4UQcx05.jpg

@@ -1,0 +1,24 @@
+name: Elena Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Slow
+class: Fighter
+power: 1234
+attack: 1422
+defense: 936
+health: 2499
+skill: Wall of Glass
+effects:
+  - Deals 362% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The caster and nearby allies counterattack with 120% of the damage received for 5 turns.
+types:
+  - Hit All
+  - Bypass
+  - Counterattack 3
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/ttrlvih.jpg

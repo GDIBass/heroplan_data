@@ -1,0 +1,24 @@
+name: Rigard Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Average
+class: Cleric
+power: 761
+attack: 927
+defense: 643
+health: 1227
+skill: Glassification
+effects:
+  - Recovers 47% health for all allies.
+  - All Dark allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - Cleanses status ailments from all allies.
+types:
+  - Heal All
+  - Debuff Reflect for Dark Allies
+  - Cleanser
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/3o76oi9.jpg

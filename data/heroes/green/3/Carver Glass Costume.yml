@@ -1,0 +1,24 @@
+name: Carver Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Average
+class: Rogue
+power: 515
+attack: 620
+defense: 425
+health: 816
+skill: Slash of Glass Blades
+effects:
+  - Deals 165% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Reduces the mana of all enemies by -15%.
+types:
+  - Hit All
+  - Bypass
+  - Mana Reduction All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/1k45GDi.jpg
