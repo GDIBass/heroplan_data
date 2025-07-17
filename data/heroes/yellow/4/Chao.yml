@@ -67,3 +67,24 @@ costume3:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/SdLEIc0.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Ranger
+  power: 757
+  attack: 841
+  defense: 694
+  health: 1311
+  skill: Vitrail Cut
+  effects:
+    - Deals 325% damage to the target.
+    - Reduces the mana of the target by -23%.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+  types:
+    - Hit 1
+    - Mana Reduction 1
+    - Bypass
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/s68xCDI.jpg
