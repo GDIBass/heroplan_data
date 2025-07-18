@@ -1,0 +1,34 @@
+name: Imagus
+source: wilderness
+family: wildcat
+speed: Average
+class: Sorcerer
+power: 1221
+attack: 1227
+defense: 1312
+health: 2142
+skill: Feline Constellation
+effects:
+  - >-
+    Wither: All enemies get -400 attack.
+  - All enemies get -80% decrease for any healing received for 4 turns. This effect can’t be cleansed.
+  - Lifts the latest cleansable status ailment from all allies and randomly distributes them on enemies.
+  - Cleanses status ailments from all allies at the end of each turn for 4 turns.
+types:
+  - Wither All
+  - Healing Debuff All
+  - Lifts 1 Status Ailments All
+  - Cleanser
+passives:
+  - >-
+    Nine Lives:
+  - ' * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.'
+  - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.'
+  - >-
+    Trait: Lithe Frame
+  - This character is not affect by effects that increase or reduce defense.
+  - 'This includes:'
+  - ' * - Status effect buffs and ailments.'
+  - ' * - Positive and negative stacks.'
+  - ' * - Growth and Wither effects.'
+image: https://imgur.com/JT91nLv.jpg
