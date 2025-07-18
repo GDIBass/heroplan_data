@@ -25,3 +25,29 @@ passives:
     damage from Troops of stronger element.
   - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/5xvOFq1.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 1221
+  attack: 1216
+  defense: 1198
+  health: 2393
+  skill: Sonic Infusion Arrow
+  effects:
+    - Deals 540% damage to the target.
+    - If there are 5 or more Nature shields on the board damage is dealt to the target and nearby enemies.
+    - If there are 10 or more Nature shields on the board damage is dealt to all enemies.
+  types:
+    - Hit 1, 3 or All
+  passives:
+    - 'Troop Mastery:'
+    - >-
+      Passive Skill as attacking character: This hero’s Troops deal extra 
+      elemental damage against weaker element.
+    - ' - Dealt extra elemental damage: +150%'
+    - >-
+      Passive Skill as defending character: This hero receives less elemental 
+      damage from Troops of stronger element.
+    - ' - Received elemental damage: -25%'
+  image: https://imgur.com/iob8I3P.jpg
