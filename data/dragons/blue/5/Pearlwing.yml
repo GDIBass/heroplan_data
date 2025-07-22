@@ -1,0 +1,34 @@
+name: Pearlwing
+source: ancientUnderroot
+speed: Fast
+power:   11160
+attack:  13997
+defense: 14008
+health:  12211
+skill: Pearls of Rejuvenation
+effects:
+  - Recovers 3500 health for all allies.
+  - All allies get +25% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+types:
+  - Healer All
+  - Mana Generation Buff All
+spiritBonus:
+  spiritClass: Monk
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Shielding Breath
+  effects:
+    - Recovers 650 health for all allies.
+    - All allies get +15% defense, and a further 1% increase every time they are hit during 5 turns, up to +25% defense.
+image: https://imgur.com/ieo5rph.jpg
