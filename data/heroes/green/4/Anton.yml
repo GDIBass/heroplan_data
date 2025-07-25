@@ -19,7 +19,7 @@ effects:
 types:
   - Hit all
   - Poison
-  - Revive
+  - Reviver
   - HoT All
   - Charge
 passives:

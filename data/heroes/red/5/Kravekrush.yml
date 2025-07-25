@@ -13,7 +13,7 @@ effects:
   - All enemies can’t receive new status effects that would resurrect them for 5 turns.
   - Deals 430% damage to the target and minor damage to the nearby enemies.
 types:
-  - Revive Block
+  - Revive Block All
   - Hit 3
 passives:
   - >-
@@ -32,7 +32,7 @@ costume:
     - All enemies can’t receive new status effects that would resurrect them for 4 turns.
     - Deals 460% damage to the target and minor damage to nearby enemies.
   types:
-    - Revive Block
+    - Revive Block All
     - Hit 3
   passives:
     - >-
