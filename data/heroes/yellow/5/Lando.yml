@@ -14,7 +14,7 @@ effects:
   - Deals 400% damage to all enemies.
   - All allies deal 300-700 damage to a random enemy after 3 turns, based on the damage allies had taken while this effect was active. This effect is undispellable. (Maximum effect is achieved upon taking 50% of max health in damage.)
 types:
-  - Transform Ailments All
+  - Replace Ailments All
   - Cleanser All
   - Hit All
   - Delayed Damage All

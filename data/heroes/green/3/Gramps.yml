@@ -12,7 +12,7 @@ effects:
   - Each fallen ally has a 33% chance to get revived with 23% HP.
   - All allies receive a small ammount of mana over 4 turns.
 types:
-  - Revive
+  - Reviver
   - Mana regen
 passives:
   - >-
