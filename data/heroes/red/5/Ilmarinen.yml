@@ -13,10 +13,31 @@ effects:
   - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.
   - All enemies get -56% defense for 4 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.
 types:
-  - Mana reduction All
+  - Mana Reduction All
   - Enemy Damage Share
   - Defense debuff
 passives:
   - >-
     Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/WriV7pU.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 1220
+  attack: 1151
+  defense: 1250
+  health: 2451
+  skill: Forged fom Gold
+  effects:
+    - Reduces the mana of all Ice enemies by 50%. Reduces the mana of all other enemies by 30%.
+    - All enemies become Soul Connected for 4 turns. Soul Connected enemis share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+    - All enemies get -60% defense for 4 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  types:
+    - Mana Reduction All
+    - Enemy Damage Share
+    - Defense debuff
+  passives:
+    - >-
+      Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+  image: https://imgur.com/G8Zln8R.jpg

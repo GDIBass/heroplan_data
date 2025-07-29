@@ -1,0 +1,22 @@
+name: Mother Lemminkainen
+source: kalevala
+family: kalevala
+speed: Slow
+class: Sorcerer
+power: 1224
+attack: 1277
+defense: 1231
+health: 2202
+skill: Mending Stiches
+effects:
+  - Each defeated ally has a 60% chance to get revived with 20% HP.
+  - All allies regenerate 1080 boosted health over 4 turn. Boosted health can exceed max HP.
+  - All enemies get -50% defense against Special Skills for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.
+types:
+  - Reviver All
+  - Boosted HoT All
+  - Special Skill Defense Debuff All
+passives:
+  - >-
+    Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+image: https://imgur.com/Bez27Eg.jpg

@@ -1,0 +1,22 @@
+name: Suomuhauki
+source: kalevala
+family: kalevala
+speed: Fast
+class: Barbarian
+power: 1224
+attack: 1306
+defense: 1165
+health: 2261
+skill: Snapping Jaws
+effects:
+  - Deals 400% damage to the target.
+  - Summons a Pike Mega Fiend for the target. The Fiend damages the enemy with 270% attack every turn. Deals strong damage against Fire characters.
+  - The Pike Mega Fiend absorbs healing and disappears when it has absorbed max health equal to 70% of its target’s max health.
+  - When summoned, the Pike Mega Fiend gives -45% attack for its target. Against Fire characters, the Pike Mega Fiend gives -55% attack. The effect lasts as long as the target has Pike Mega Fiend.
+types:
+  - Hit 1
+  - Pike Mega Fiend 1
+passives:
+  - >-
+    Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+image: https://imgur.com/g7hgWLw.jpg
