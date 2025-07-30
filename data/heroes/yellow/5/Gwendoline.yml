@@ -15,8 +15,8 @@ effects:
   - Inflicts 40 Insanity to nearby allies.
   - "The caster turns into Yag-Mago for 6 turns. This effect can’t be dispelled. The Yag-Mago has 200% attack, 150% defense and the following Special Skill:"
   - " - Ethernal Bond (Very Fast)"
-  - "   * Deals 300% damage to all enemies and inflicts 20 Insanity on them.
-  - "   * Revives a random defeated ally with 10% HP.
+  - "   * Deals 300% damage to all enemies and inflicts 20 Insanity on them."
+  - "   * Revives a random defeated ally with 10% HP."
 types:
   - Cleanser 3
   - Healer 3
