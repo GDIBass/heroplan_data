@@ -11,16 +11,33 @@ skill: Arrows of Fury
 effects:
   - Dispels buffs from all enemies.
   - Deals 165% damage to all enemies.
-  - >-
-    All enemies are immune to new status effect buffs for 4 turns. Against
-    Nature characters, this status effect becomes uncleansable and lasts 2 turns
-    longer.
+  - All enemies are immune to new status effect buffs for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.
 types:
-  - Dispeller
+  - Dispeller All
   - Hit All
-  - Buff Immunity
+  - Buff Immunity All
 passives:
   - >-
-    When this character starts a turn with low health for the first time during
-    a battle, they recover 15% health and receive 15% mana.
+    Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/MfQu0Jd.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 499
+  attack: 484
+  defense: 483
+  health: 927
+  skill: Arrows of Frost
+  effects:
+    - Dispels buffs from all enemies.
+    - Deals 180% damage to all enemies.
+    - All enemies are immune to new status effect buffs for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  types:
+    - Dispeller All
+    - Hit All
+    - Buff Immunity All
+  passives:
+    - >-
+      Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+  image: https://imgur.com/xrbGPND.jpg
