@@ -1,0 +1,27 @@
+name: Gloozmer
+source: superelemental
+family: slime
+speed: Fast
+class: Wizard
+power: 1225
+attack: 1236
+defense: 1297
+health: 2177
+skill: Gooey Rose
+effects:
+  - Steals all Minions or a Mega Minion from the target.
+  - Deals 600% damage to the target.
+  - The target cannot cast any new status effects on enemies or allies for 3 turns. (This includes stacks. This only includes status effects cast with Special Skills.)
+  - The target receive Devouring Goo status ailment for 3 turns.
+  - "Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 100 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can’t exceed 700.)"
+types:
+  - Steals Mega/Minions 1
+  - Hit 1
+  - Status Effect Blocker 1
+  - Devouring Goo 1
+passives:
+  - >-
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://imgur.com/ffj5gHh.jpg
