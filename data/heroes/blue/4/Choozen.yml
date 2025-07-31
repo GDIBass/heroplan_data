@@ -1,0 +1,23 @@
+name: Choozen
+source: superelemental
+family: slime
+speed: Fast
+class: Paladin
+power: 752
+attack: 707
+defense: 813
+health: 1374
+skill: Surprise Goo!
+effects:
+  - Boosts health of the caster and nearby allies by 450. Boosted health can exceed max HP.
+  - The caster and nearby allies get Sticky Surface for 3 turns. This effect can’t be dispelled.
+  - "Sticky Surface: Steals 1 random dispellable buff or Growth from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)"
+types:
+  - Health Boost 3
+  - Sticky Surface 3
+passives:
+  - >-
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://imgur.com/sft0xqv.jpg
