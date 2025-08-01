@@ -1,0 +1,24 @@
+name: Maple
+source: hotm
+family: 2025
+speed: Average
+class: Cleric
+power: 1125
+attack: 1106
+defense: 1161
+health: 2057
+skill: Autumnal Wind
+effects:
+  - This Special Skill never misses its targets.
+  - Deals 300% damage to 3 random enemies.
+  - All allies get +40% chance to dodge Special Skills that deal damage for 3 turns.
+  - Elemental Link gives all Fire allies +20% attack for 5 turns. This effect can’t be dispelled.
+types:
+  - Hit Random 3
+  - Dodge Buff All
+passives:
+  - >-
+    Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs.
+  - >-  
+    Health Recovery on Buff Received: This character recover 5% health when they receive a buff or positive stack.
+image: https://imgur.com/R97TCxU.jpg
