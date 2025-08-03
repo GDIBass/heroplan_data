@@ -20,10 +20,10 @@ image: https://i.imgur.com/gMyh86R.jpg
 costume:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 977
-  attack: 939
-  defense: 961
-  health: 1820
+  power: 1021
+  attack: 985
+  defense: 1024
+  health: 1890
   skill: Colossal Carry
   effects:
     - Rearranges the enemy positions randomly.

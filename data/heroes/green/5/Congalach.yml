@@ -21,10 +21,10 @@ image: https://i.imgur.com/FKztylV.jpg
 costume:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 987
-  attack: 977
-  defense: 941
-  health: 1839
+  power: 1031
+  attack: 1024
+  defense: 1003
+  health: 1910
   skill: Seaweed Flail
   effects:
     - Deals 325% damage to 5 random enemies.

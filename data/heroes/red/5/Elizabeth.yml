@@ -24,10 +24,10 @@ image: https://i.imgur.com/5redygr.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 978
-  attack: 969
-  defense: 927
-  health: 1820
+  power: 1021
+  attack: 1016
+  defense: 988
+  health: 1890
   skill: Bride's Kiss
   effects:
     - Deals 165% damage to all enemies.

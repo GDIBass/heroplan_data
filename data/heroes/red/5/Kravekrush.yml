@@ -22,10 +22,10 @@ image: https://i.imgur.com/xMJYpsy.jpg
 costume:
   bonuses: 5/5/10/5
   class: Druid
-  power: 987
-  attack: 972
-  defense: 932
-  health: 1870
+  power: 1031
+  attack: 1019
+  defense: 993
+  health: 1942
   skill: Delicious Demise
   effects:
     - All enemies can’t revive their allies or themselves for 4 turns.

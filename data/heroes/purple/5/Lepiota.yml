@@ -26,16 +26,16 @@ image: https://i.imgur.com/eea7u0v.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 975
-  attack: 937
-  defense: 967
-  health: 1799
+  power: 1018
+  attack: 982
+  defense: 1030
+  health: 1868
   skill: Undying Incantation
   effects:
     - Deals 150% damage to the target.
     - Cast Full Removal on the target. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)
     - The target shifts into Abyss Ghost form for 4 turns.
-    - While in Abyss Ghost form the target receives 174 damage each turn.
+    - While in Abyss Ghost form the target receives 182 damage each turn.
     - While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.
     - Can't be cast if there's only one enemy left in battle.
   types:

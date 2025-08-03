@@ -23,14 +23,14 @@ image: https://i.imgur.com/pr4mBGS.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 1035
-  attack: 1024
-  defense: 991
-  health: 1961
+  power: 1081
+  attack: 1073
+  defense: 1056
+  health: 2037
   skill: Underworld Flame
   effects:
     - Deals 230% damage to all enemies.
-    - All enemies receive 424 Burn damage over 4 turns. The caster absorbs 20% of dealt Burn damage as health.
+    - All enemies receive 472 Burn damage over 4 turns. The caster absorbs 20% of dealt Burn damage as health.
     - The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.
   types:
     - Hit All
