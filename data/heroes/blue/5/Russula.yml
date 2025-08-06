@@ -23,16 +23,16 @@ image: https://i.imgur.com/MqnrIZ3.jpg
 costume:
   bonuses: 5/5/10/5
   class: Ranger
-  power: 978
-  attack: 1005
-  defense: 954
-  health: 1673
+  power: 1021
+  attack: 1054
+  defense: 1016
+  health: 1737
   skill: Artful Backstab
   effects:
     - Deals 300% damage to the target.
     - The caster goes into hiding for 2 turns.
     - While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -30%.
-    - When the caster comes out of hiding, it deals 391 damage to all enemies that used Special Skills while the caster was hiding.
+    - When the caster comes out of hiding, it deals 411 damage to all enemies that used Special Skills while the caster was hiding.
   types:
     - Hit 1
     - Hiding

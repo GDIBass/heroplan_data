@@ -1,0 +1,28 @@
+name: Motsognir
+source: untoldtales
+family: myrkheim
+speed: Average
+class: Fighter
+power: 1226
+attack: 1174
+defense: 1221
+health: 2494
+skill: Stalwart Rally
+effects:
+  - All allies get a Frostfall Ward for 4 turns, that reduces incoming Special Skill damage up to -1400. Reduces damage by additional 30% when the attacker is of Fire element.
+  - All allies bypass defensive buffs with their attacks for 4 turns. (Defensive buffs include counterattacks.)
+  - All allies get +45% attack, and a further 20% increase every time they are hit during 4 turns, up to +145% attack.
+  - All allies get +55% critical chance for 4 turns.
+types:
+  - Frostfall Ward Buff All
+  - Bypass All
+  - Attack Buff All
+  - Critical Chance All
+passives:
+  - >-
+    Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.
+  - >-
+    Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast
+  - " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 316 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+  - " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+image: https://imgur.com/393CAV1.jpg

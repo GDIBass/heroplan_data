@@ -28,10 +28,10 @@ image: https://i.imgur.com/RFjr7Fi.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 982
-  attack: 885
-  defense: 1032
-  health: 1852
+  power: 1026
+  attack: 928
+  defense: 1099
+  health: 1923
   skill: Transcendental Charge
   effects:
     - Cast Full Removal on the caster. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)

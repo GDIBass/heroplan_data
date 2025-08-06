@@ -1,0 +1,25 @@
+name: Snorri
+source: untoldtales
+family: myrkheim
+speed: Average
+class: Monk
+power: 757
+attack: 775
+defense: 750
+health: 1364
+skill: Bound by Tales
+effects:
+  - Attacks the target with Frostfall Strike, dealing up to 1020 damage. Deals 30% more if the target is of the Fire element. This Special Skill never misses its targets.
+  - The target get Soul Bound for 3 turns. This effect can’t be cleansed. (This effect will always bypass reflection.)
+  - All damage received by the caster is also dealt to all Soul Bound enemies. (Damage is shared between all Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks.)
+types:
+  - Hit 1
+  - Soul Bond 1
+passives:
+  - >-
+    Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.
+  - >-
+    Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast
+  - " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 209 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+  - " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+image: https://imgur.com/Mit6blW.jpg

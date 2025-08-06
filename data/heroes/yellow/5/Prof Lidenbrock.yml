@@ -23,10 +23,10 @@ image: https://i.imgur.com/1q7ZFV3.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 977
-  attack: 918
-  defense: 979
-  health: 1834
+  power: 1020
+  attack: 963
+  defense: 1043
+  health: 1904
   skill: Dazzling Gleam
   effects:
     - Cleanses status ailments from all allies.

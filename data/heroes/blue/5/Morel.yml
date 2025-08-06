@@ -21,10 +21,10 @@ image: https://i.imgur.com/BbpdvD9.jpg
 costume:
   bonuses: 5/5/10/5
   class: Fighter
-  power: 978
-  attack: 1021
-  defense: 830
-  health: 1885
+  power: 1021
+  attack: 1071
+  defense: 885
+  health: 1957
   skill: Staff of the Seastar
   effects:
     - Deals 145% damage to all enemies.

@@ -20,13 +20,13 @@ image: https://i.imgur.com/UnO1gz8.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 986
-  attack: 1000
-  defense: 932
-  health: 1791
+  power: 1030
+  attack: 1049
+  defense: 993
+  health: 1860
   skill: Oceanic Suffering
   effects:
-    - All enemies receive 258 Water damage, and an increase of 54 damage per each Ice shield on the board over 3 turns, up to 906 damage. This effect is uncleansable for all Fire enemies.
+    - All enemies receive 270 Water damage, and an increase of 54 damage per each Ice shield on the board over 3 turns, up to 918 damage. This effect is uncleansable for all Fire enemies.
     - All Ice enemies are immune to this attack.
   types:
     - DoT All

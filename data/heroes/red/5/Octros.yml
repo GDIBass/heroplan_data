@@ -22,10 +22,10 @@ image: https://i.imgur.com/zGSnaa1.jpg
 costume:
   bonuses: 5/5/10/5
   class: Rogue
-  power: 983
-  attack: 1010
-  defense: 974
-  health: 1657
+  power: 1027
+  attack: 1059
+  defense: 1038
+  health: 1721
   skill: Bouquet of the Seas
   effects:
     - Deals 160% damage to all enemies.
