@@ -1,0 +1,34 @@
+name: Ascension Mimic Green
+source: secretsummon
+family: mimic
+speed: Average
+class: Rogue
+power: 1225
+attack: 1268
+defense: 1268
+health: 2152
+skill: Gorging Chew
+effects:
+  - Deals 380% damage to the target and nearby enemies.
+  - If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.
+  - The target and nearby enemies receive 668 Bleed damage over 4 turns.
+  - The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)
+types:
+  - Hit 3
+  - DoT 3
+  - Mimic Chest
+passives:
+  - >-
+    Perfect Accuracy: This character’s Special Skill never misses its targets.
+  - >-
+    Mimic Loot: This Mimic gives a chance for extra loot when completing stages
+  - " * Tall Boots"
+  - " * Fine Gloves"
+  - " * Compass"
+  - " * Damascus Blade"
+  - " * Tome Of Tactics"
+  - " * Arcane Scipt"
+  - " * Chainmail Shirt"
+  - " * Hidden Blade"
+  - " * Mystic Rings"
+image: https://imgur.com/EoVWZyy.jpg
