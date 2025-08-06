@@ -1,0 +1,36 @@
+name: Ethir
+source: ancientUnderroot
+speed: Slow
+power: 11163
+attack: 13946
+defense: 14026
+health: 12322
+skill: Toxic Gas Clound
+effects:
+  - Deals 200% damage to all enemies.
+  - All enemies get -3000 defense until they are healed by a Special Skill.
+  - All enemies receive 1500 Poison damage each turn until they are healed by a Special Skill.
+types:
+  - Hit All
+  - Lasting Defense Debuff All
+  - Lasting DoT All
+spiritBonus:
+  spiritClass: Wizard
+  all:
+    attack:  +200
+    defense: +160
+    health:  +60
+  elementalBond:
+    attack:  +25
+    defense: +20
+    health:  +20
+  classLink:
+    attack:  +25
+    defense: +20
+    health:  +20
+assist:
+  name: Cracking Blaze
+  effects:
+    - All enemies receive 1100 Burn damage over 5 turns.
+    - All enemies get -20% defense for 5 turns.
+image: https://imgur.com/QQRIXGj.jpg
