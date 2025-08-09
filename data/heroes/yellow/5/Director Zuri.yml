@@ -17,3 +17,24 @@ types:
   - Summoner All
   - Cleanser All
 image: https://i.imgur.com/NrSrxkV.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 1223
+  attack: 1126
+  defense: 1384
+  health: 2261
+  skill: Clown’s Blessing
+  effects:
+    - Recovers 65% health for the ally with the lowest remaining HP. All other allies recover 45% health.
+    - Summons a Clown Minion for each ally with 20% HP and 30% attack, inherited from the caster.
+    - Cleanses status ailments from all allies.
+  types:
+    - Heal All
+    - Summoner All
+    - Cleanser All
+  passives:
+    - >-
+      Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy.
+  image: https://imgur.com/9J7qQSS.jpg

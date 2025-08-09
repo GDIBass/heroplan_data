@@ -1,0 +1,22 @@
+name: Merith
+source: festival
+family: bard
+speed: Fast
+class: Wizard
+power: 1226
+attack: 1238
+defense: 1264
+health: 2245
+skill: Petrifying Performance
+effects:
+  - Reduces max health of the target and nearby enemies by 1000. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 1000.)
+  - After 1 turn the target and nearby enemies get Paralyzed for 2 turn. (Paralized enemies can’t attack or gain man and receive +50% increased damage. Once Paralyzed, the effect can’t be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
+  - Dispels buffs from the target and nearby enemies.
+types:
+  - Max Health Reduction 3
+  - Delayed Paralyze 3
+  - Dispeller 3
+passives:
+  - >-
+    Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value.
+image: https://imgur.com/1eerip7.jpg
