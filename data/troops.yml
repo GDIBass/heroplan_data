@@ -919,6 +919,47 @@ troops:
       name: Resist Status Ailments
       description: Character this troop is equipped to has 10% chance to resist status ailments.
       image: https://i.imgur.com/jqcxe86.jpg
+  five_star_Rogue_Fighter:
+    key: five_star_Rogue_Fighter
+    id: 65
+    stars: 5
+    name: Battle Master Assassin
+    description: Legendary for class Rogue and Fighter
+    classLink:
+      - Rogue
+      - Fighter
+    images:
+      full:
+        purple: https://i.imgur.com/52kA1vN.jpg
+        yellow: https://i.imgur.com/QnkqFHC.jpg
+        blue: https://i.imgur.com/uFu3czh.jpg
+        green: https://i.imgur.com/KVAKq55.jpg
+        red: https://i.imgur.com/7LILzYM.jpg
+      half:
+        purple: https://i.imgur.com/x1sU8Xv.jpg
+        yellow: https://i.imgur.com/fmuhVnx.jpg
+        blue: https://i.imgur.com/EMs1CNN.jpg
+        green: https://i.imgur.com/1DODi0Z.jpg
+        red: https://i.imgur.com/HvOX2zO.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 22
+      defense: 26
+      health: 24
+      mana: 11
+    max_level_stats_for_class:
+      attack: 28
+      defense: 32
+      health: 39
+      mana: 11
+    max_level_passives_for_class:
+      name: Increase Status Effect Attack
+      description: Attack buffs are 8% more effective for the character this Troop is equipped on.
+      image: https://i.imgur.com/0o8PtGh.jpg
 
 max_level_by_stars:
   1: 10
