@@ -1,0 +1,24 @@
+name: Nashgar Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Fast
+class: Barbarian
+power: 514
+attack: 642
+defense: 408
+health: 788
+skill: Glass Strike
+effects:
+  - Deals 305% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target receives 164 Burn damage over 4 turns.
+types:
+  - Hit 1
+  - Bypass
+  - DoT 1
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/EL6besJ.jpg

@@ -1,0 +1,22 @@
+name: Karil Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Average
+class: Barbarian
+power: 513
+attack: 599
+defense: 418
+health: 873
+skill: Glass Rush
+effects:
+  - Deals 300% damage to the target and minor damage to nearby enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+types:
+  - Hit 3
+  - Bypass
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/RwxxvuX.jpg

@@ -1,0 +1,24 @@
+name: Justice Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Slow
+class: Paladin
+power: 1235
+attack: 1347
+defense: 1044
+health: 2477
+skill: Glass Judgement
+effects:
+  - Deals 445% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies get -34% accuracy for 4 turns. (Chance to miss applies to offensive Special Skills.)
+types:
+  - Hit All
+  - Bypass
+  - Blind All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/ilgx8jA.jpg
