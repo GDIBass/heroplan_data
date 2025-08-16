@@ -9,9 +9,9 @@ defense: 729
 health: 1341
 skill: Fury of Ash
 effects:
-  - Deals 270% damage to all enemies.
-  - All enemies get -60% decrease of any healing received for 3 turns.
-  - All enemies receive 414 Bleed damage over 2 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  - Deals 300% damage to all enemies.
+  - All enemies get -70% decrease of any healing received for 3 turns.
+  - All enemies receive 450 Bleed damage over 2 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.
   - Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect cannot be dispelled.
 types:
   - Hit All

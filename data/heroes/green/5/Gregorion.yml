@@ -9,8 +9,8 @@ defense: 710
 health: 1351
 skill: Unwavering Focus
 effects:
-  - Deals 500% damage to the target.
-  - All allies get +30% critical chance for 3 turns.
+  - Deals 550% damage to the target.
+  - All allies get +35% critical chance for 3 turns.
   - Element Link gives all Nature allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed.
 types:
   - Hit 1
@@ -25,8 +25,8 @@ costume:
   health: 1922
   skill: Exquisite Alchemy
   effects:
-    - Deals 485% damage to the target.
-    - All allies get +40% critical chance for 4 turns.
+    - Deals 535% damage to the target.
+    - All allies get +45% critical chance for 4 turns.
     - Element Link gives all Nature allies +5% attack and +5% defense for 6 turns. This effect can’t be dispelled.
   types:
     - Hit 1

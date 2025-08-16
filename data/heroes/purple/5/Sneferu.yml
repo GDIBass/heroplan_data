@@ -32,7 +32,7 @@ costume:
   health: 2437
   skill: Dreadful Riddle
   effects:
-    - Deals 385% damage to the target.
+    - Deals 530% damage to the target.
     - The attack chains through all the enemies who are adjacent to any hit enemy.
     - All hit targets are immune to new status effect buffs for 5 turns, and receive 350 damage for each attempted buff.
   types:

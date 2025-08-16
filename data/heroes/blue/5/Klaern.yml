@@ -9,8 +9,8 @@ defense: 772
 health: 1427
 skill: Hailstorm
 effects:
-  - Deals 270% damage to all enemies.
-  - All enemies receive 325 Water damage over 5 turns. The caster absorbs 30% of dealt Water damage as health.
+  - Deals 300% damage to all enemies.
+  - All enemies receive 400 Water damage over 5 turns. The caster absorbs 35% of dealt Water damage as health.
   - Element Link gives all ice allies +10% defense for 4 turns. This effect can't be dispelled.
 types:
   - Hit all

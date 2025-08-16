@@ -9,8 +9,8 @@ defense: 1238
 health: 2175
 skill: Dozy Mead
 effects:
-  - Deals 260% damage to all enemies.
-  - All enemies fall into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This effect is uncleansable.)
+  - Deals 300% damage to all enemies.
+  - All enemies fall into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleansable.)
   - Steals all dispellable buffs from the target and randomly distributes them on allies.
   - Caster gains 3% mana for each stolen buff, up to a maximum of 30% mana.
 types:

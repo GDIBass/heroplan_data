@@ -9,11 +9,13 @@ defense: 1198
 health: 2391
 skill: Alchemy Experiment
 effects:
+  - Deals 350% damage to all enemies.
   - All enemies become Provoked for 4 turns. The Provoked character deals 1% damage to a random opponent at the end of the turn. This effect can’t be dispelled.
   - All allies get Sticky Surface for 4 turns. This effect can’t be dispelled.
   - "Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)"
   - All allies get +55% defense for 4 turns.
 types:
+  - Hit All
   - Provoked All Enemies
   - Sticky Surface All Allies
   - Defense Buff All
