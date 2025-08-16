@@ -9,11 +9,11 @@ defense: 1168
 health: 2177
 skill: Soaring Blast
 effects:
-  - "All ailments affecting attack, defense and mana generation on the caster are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects and passive. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)."
+  - "All ailments affecting attack, defense and mana generation on all allies are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects and passive. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)."
   - Deals 620% damage to the target.
   - Boosts all allies’ health by 26% of damage dealt.
 types:
-  - Replace Ailments Self
+  - Replace Ailments All
   - Hit 1
   - Boosted Heal All
 passives:

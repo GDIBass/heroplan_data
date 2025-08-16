@@ -9,8 +9,8 @@ defense: 741
 health: 1425
 skill: Hunter's Mark
 effects:
-  - Deals 380% damage to the target.
-  - Deals 570% damage if the target has status ailments or negative stacks.
+  - Deals 400% damage to the target.
+  - Deals 600% damage if the target has status ailments or negative stacks.
   - If the target still alive, the nearby enemies get 258 Bleed damage for 3 turns.
   - Element Link gives all Fire allies immunity to new Fiends for 4 turns. This effect cannot be dispelled.
 types:

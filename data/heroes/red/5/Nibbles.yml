@@ -9,9 +9,9 @@ defense: 1176
 health: 2160
 skill: Paw in Every Pie
 effects:
-  - Recovers 15% health for all allies.
+  - Recovers 20% health for all allies.
   - Steals the latest dispellable buffs for all enemies and randomly distributes them on allies.
-  - All allies get lasting 210 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)
+  - All allies get lasting 310 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)
 types:
   - Healer All
   - Steals 1 Buff All
