@@ -1,0 +1,20 @@
+name: Joyvert
+source: moth
+family: moth
+speed: Fast
+class: Wizard
+power: 762
+attack: 839
+defense: 735
+health: 1275
+skill: Goodnight Lullaby
+effects:
+  - Deals 350% damage to the target.
+  - The target falls into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleasable.)
+types:
+  - Hit 1
+  - Deep Sleep 1
+passives:
+  - >- 
+    Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
+image: https://imgur.com/VTY1cat.jpg
