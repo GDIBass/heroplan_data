@@ -11,7 +11,7 @@ skill: Lunar Bloom
 effects:
   - Recovers 30% health for all allies.
   - "Growth: All allies get 250 attack."
-  - Boosts health of all allies by 300 health after 3 turns, or immediatelly if the effect is removed before the duration ends. Boosted health can exceed max HP.
+  - Boosts health of all allies by 450 health after 3 turns, or immediatelly if the effect is removed before the duration ends. Boosted health can exceed max HP.
 types:
   - Healer All
   - Growth All

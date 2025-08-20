@@ -1,0 +1,24 @@
+name: Lilareine
+source: moth
+family: moth
+speed: Slow
+class: Druid
+power: 1228
+attack: 1221
+defense: 1283
+health: 2263
+skill: Revitalizing Melody
+effects:
+  - Boosts health fo all allies by 1300. Boosted health can exceed max HP.
+  - Cleanses status ailments from all allies.
+  - "Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+  - "This character gets a Mark of Special Skill for 5 turns. Whenever an ally casts their Special Skill, the caster gains a stack (Max: 10). Each stack increases mana generation the caster receives by +5%."
+types:
+  - Boosted Heal All
+  - Cleanser All
+  - Mana Generation Stack All
+  - Self Mark for SS cast
+passives:
+  - >- 
+    Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
+image: https://imgur.com/AXu9Fya.jpg

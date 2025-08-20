@@ -1,22 +1,20 @@
-name: Tealmoine
+name: Joyvert
 source: moth
 family: moth
 speed: Fast
-class: Monk
-power: 1189
-attack: 1174
-defense: 1293
-health: 2084
-skill: Bizarre Mist
+class: Wizard
+power: 762
+attack: 839
+defense: 735
+health: 1275
+skill: Goodnight Lullaby
 effects:
-  - Steals all dispellable buffs from the target and randomly distributes them on allies.
+  - Deals 350% damage to the target.
   - The target falls into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleasable.)
-  - Recovers 30% health for all allies.
 types:
-  - Steals Buffs 1
+  - Hit 1
   - Deep Sleep 1
-  - Healer All
 passives:
   - >- 
     Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
-image: https://i.imgur.com/OpdhCZP.jpg
+image: https://imgur.com/VTY1cat.jpg

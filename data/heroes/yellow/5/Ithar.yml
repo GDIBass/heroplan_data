@@ -11,7 +11,7 @@ skill: Stupendous Break In
 effects:
   - Steals all dispellable buffs from the target and randomly distributes them on allies.
   - Steals 35% mana from the target and distributes it to allies.
-  - All allies get +35% attack for 2 turns.
+  - All allies get +40% attack for 2 turns.
   - Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled.
 types:
   - Buff Stealer

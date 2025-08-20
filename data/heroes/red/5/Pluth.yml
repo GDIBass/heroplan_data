@@ -10,12 +10,14 @@ health: 1886
 skill: Planar-time-widget
 effects:
   - Rearranges the enemy positions randomly.
-  - Deals 190% damage to all enemies.
+  - Deals 215% damage to all enemies.
   - Increases the duration of all enemies’ active status ailments by 1 turn.
+  - All enemies get -20% mana generation for 2 turns.
 types:
   - Reposition
   - Hit All
   - Increase Debuff Duration All
+  - Mana Generation Debuff All
 passives:
   - >-
     Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.
