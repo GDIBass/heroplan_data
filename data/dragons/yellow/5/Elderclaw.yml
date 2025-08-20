@@ -1,0 +1,37 @@
+name: Elderclaw
+source: ancientUnderroot
+speed: Average
+power: 11165
+attack: 14018
+defense: 13966
+health: 12277
+skill: Kitten Stampede
+effects:
+  - Deals 230% damage to the target and nearby enemies.
+  - Summons an Angry Kitten Fiend to the target and nearby enemies. The Fiend damage the enemies with 45% attack every turn.
+  - The Angry Kitten Fiend absorbs healing. It disappers after absorbing a healing amount equal to 40% of its target’s max health.
+  - When summoned, the Angry Kitten Fiend gives -35% accuracy for its owner as long as the target has Angry Kitten Fiends. This effect can’t be cleansed. (Chance to miss also applies to offensive Special Skills.)
+types:
+  - Hit 3
+  - Fiend Summoner 3
+  - Accuracy Debuff Fiend
+spiritBonus:
+  spiritClass: Monk
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Wrecking Blaze
+  effects:
+    - Deals 450 damage to all enemies.
+    - All enemies resist new Minions for 5 turns.
+image: https://imgur.com/90uJLRA.jpg
