@@ -9,7 +9,7 @@ defense: 1223
 health: 2263
 skill: Charm of Protection
 effects:
-  - Enhanced Dodge: All allies get +75% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges once.
+  - "Enhanced Dodge: All allies get +75% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges once."
   - After the Enhanced Dodge ends or is removed or replaced, the ally gets a Wooden Doll Minion.
   - The Wooden Doll Minion has 30% HP and 30% attack inherited from the caster.
   - When summoned the Wooden Doll Minion gives its owner immunity to new status ailments for as long as the owner has Wooden Doll Minion.
