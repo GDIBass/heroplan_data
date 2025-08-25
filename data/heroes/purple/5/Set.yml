@@ -15,6 +15,7 @@ effects:
 types:
   - Summoner
   - DoT all
+  - Mana Reduction All on Defeat
 passives:
   - >-
     Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill
@@ -37,6 +38,7 @@ costume:
   types:
     - Summoner
     - DoT All
+    - Mana Reduction All on Defeat
   passives:
     - >-
       Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill

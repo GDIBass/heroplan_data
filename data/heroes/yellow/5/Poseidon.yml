@@ -14,7 +14,8 @@ effects:
   - All allies resist new effects that block usage of Special Skills for 3 turns.
 types:
   - Hit 1
-  - Mana Debuff Immunity
+  - Mana Debuff Immunity All
+  - Resist SS blocking All
 image: https://i.imgur.com/4yAjxl7.jpg
 costume:
   bonuses: 5/5/10/5
@@ -29,5 +30,5 @@ costume:
     - All allies are immune to new status ailments for 3 turns.
   types:
     - Hit 1
-    - Status Ailments Immunity
+    - Status Ailments Immunity All
   image: https://i.imgur.com/jU6Z8JO.jpg

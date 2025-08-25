@@ -13,7 +13,9 @@ effects:
   - The caster steals generated mana of all enemies over 5 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster is defeated.
   - At the end of each turn, steals the latest dispellable buff from all enemies and distributes them randomly among allies for 5 turn.
 types:
-  - 
+  - Hit All
+  - Mana Steal All
+  - Buff Steal each turn All
 passives:
   - >-
     Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.
