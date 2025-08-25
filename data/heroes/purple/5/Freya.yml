@@ -19,9 +19,9 @@ image: https://i.imgur.com/4iJaoi6.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 963
-  attack: 929
-  defense: 922
+  power: 991
+  attack: 967
+  defense: 975
   health: 1823
   skill: Ravens' Watch
   effects:

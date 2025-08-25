@@ -21,9 +21,9 @@ costume:
   speed: Slow
   bonuses: 5/5/10/5
   class: Paladin
-  power: 959
-  attack: 916
-  defense: 957
+  power: 987
+  attack: 953
+  defense: 1012
   health: 1756
   skill: Gentleman’s Tranformation
   effects:

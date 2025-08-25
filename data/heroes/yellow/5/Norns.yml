@@ -17,9 +17,9 @@ image: https://i.imgur.com/evikfGP.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 957
-  attack: 1020
-  defense: 868
+  power: 986
+  attack: 1062
+  defense: 919
   health: 1661
   skill: Wrath of Fate
   effects:

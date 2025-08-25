@@ -9,9 +9,7 @@ defense: 735
 health: 1394
 skill: Power of Mjolnir
 effects:
-  - >-
-    Special Skill has a different effect on consecutive uses, in the following
-    order:
+  - "Special Skill has a different effect on consecutive uses, in the following order:"
   - '1st:'
   - ' * Deals 280% damage to the target.'
   - ' * The target get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
@@ -28,15 +26,13 @@ image: https://i.imgur.com/Cls9o26.jpg
 costume:
   bonuses: 5/5/10/5
   class: Paladin
-  power: 960
-  attack: 899
-  defense: 894
+  power: 986
+  attack: 935
+  defense: 945
   health: 1929
   skill: Energy of Mjolnir
   effects:
-    - >-
-      Special Skill has a different effect on consecutive uses, in the following
-      order:
+    - "Special Skill has a different effect on consecutive uses, in the following order:"
     - '1st:'
     - ' * Deals 185% damage to all enemies.'
     - ' * All enemies get -25% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'

@@ -20,9 +20,9 @@ image: https://i.imgur.com/bjKzbra.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 959
-  attack: 799
-  defense: 1039
+  power: 988
+  attack: 832
+  defense: 1099
   health: 1887
   skill: Blessing of Gjallarhorn
   effects:

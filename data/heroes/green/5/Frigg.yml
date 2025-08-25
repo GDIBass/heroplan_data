@@ -19,9 +19,9 @@ image: https://i.imgur.com/UMxFVGq.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 955
-  attack: 932
-  defense: 914
+  power: 983
+  attack: 970
+  defense: 967
   health: 1776
   skill: Brittling Burst
   effects:

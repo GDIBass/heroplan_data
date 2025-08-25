@@ -19,9 +19,9 @@ image: https://i.imgur.com/IEuL57g.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 959
-  attack: 923
-  defense: 903
+  power: 987
+  attack: 961
+  defense: 956
   health: 1845
   skill: Golden Strings
   effects:

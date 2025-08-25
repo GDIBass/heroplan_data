@@ -21,9 +21,9 @@ image: https://i.imgur.com/jTbJkeI.jpg
 costume:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 954
-  attack: 975
-  defense: 877
+  power: 982
+  attack: 1015
+  defense: 928
   health: 1734
   skill: Colossal Bite
   effects:

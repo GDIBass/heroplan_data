@@ -18,9 +18,9 @@ image: https://i.imgur.com/IwBPUx4.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 953
-  attack: 1038
-  defense: 821
+  power: 982
+  attack: 1080
+  defense: 869
   health: 1684
   skill: Roots of Yggdrasil
   effects:
