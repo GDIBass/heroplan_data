@@ -21,9 +21,9 @@ image: https://i.imgur.com/NBFcAXz.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 956
-  attack: 913
-  defense: 874
+  power: 984
+  attack: 951
+  defense: 925
   health: 1912
   skill: Disir of Dreams
   effects:

@@ -13,7 +13,7 @@ effects:
   - "Growth: the caster and nearby allies get 50 attack and 50 defense."
 types:
   - Boosted Healer 3
-  - Growth 3
+  - Attack Growth 3
 passives:
   - >-
     Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.

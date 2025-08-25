@@ -14,7 +14,7 @@ effects:
   - The target and nearby enemies get -30% defense for 3 turns. If the effect is removed before the duration ends, the target with effect suffers 577 damage.
 types:
   - Hit 3
-  - Growth
+  - Attack Growth 3
   - Defense debuff 3
 passives:
   - >-

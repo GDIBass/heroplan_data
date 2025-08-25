@@ -13,9 +13,10 @@ effects:
   - 'Growth: All allies get 450 attack and 450 defense.'
   - 'All allies get +30% mana generation for 4 turns. If the effect is removed before the durantion ends, the target with effect gets +10% mana.'
 types:
-  - Healer
-  - Growth
-  - Mana generation buff
+  - Healer All
+  - Attack Growth All
+  - Defense Growth All
+  - Mana Generation Buff All
 passives:
   - >-
     Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.

@@ -19,9 +19,9 @@ image: https://i.imgur.com/NzRPKjE.jpg
 costume:
   bonuses: 5/5/10/5
   class: Cleric
-  power: 956
-  attack: 842
-  defense: 1033
+  power: 985
+  attack: 876
+  defense: 1093
   health: 1771
   skill: Trickter's Lullaby
   effects:

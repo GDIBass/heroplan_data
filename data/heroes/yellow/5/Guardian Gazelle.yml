@@ -22,6 +22,8 @@ types:
   - Dance of Spirits 4
   - Attack Buff 4 while Dancing
   - Damage Reduction 4 while Dancing
+  - Damage if caster Defeat 4 
+  - Mana Reduction if caster Defeat 4 
 image: https://i.imgur.com/B2LpVrC.jpg
 costume:
   class: Fighter

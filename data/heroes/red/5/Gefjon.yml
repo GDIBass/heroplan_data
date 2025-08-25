@@ -27,6 +27,6 @@ costume:
     - Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.
     - Deals 335% damage to the target and nearby enemies.
   types:
-    - Destroys Minions
+    - Destroys Mega/Minions
     - Hit 3
   image: https://i.imgur.com/ZoOkEJb.jpg

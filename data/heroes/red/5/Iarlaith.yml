@@ -14,6 +14,7 @@ effects:
   - "Stack (Max: 10): All damage all enemies is increased by +8%."
 types:
   - Hit 1
+  - Damage Link 1
   - Damage Increase Stack All
 passives:
   - >-

@@ -32,7 +32,7 @@ costume:
     - Deals 320% damage to the target and nearby enemies.
     - The damage is increased by 35% per each dead enemy.
     - >-
-      Stack (Max: 10): All enemies receive 49 Frost damage per each killed enemy or enemy Minion at the end of each turn.
+      Stack (Max: 10): All enemies receive 54 Frost damage per each killed enemy or enemy Minion at the end of each turn.
     - >-
       Stack (Max: 10): All enemies get -7% mana generation per each killed enemy or enemy Minion.
   types:

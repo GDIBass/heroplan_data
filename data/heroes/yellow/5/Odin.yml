@@ -19,9 +19,9 @@ image: https://i.imgur.com/WpdZnYI.jpg
 costume:
   class: Fighter
   bonuses: 5/5/10/5
-  power: 958
-  attack: 918
-  defense: 924
+  power: 986
+  attack: 956
+  defense: 977
   health: 1810
   skill: Rage of Grimnir
   effects:
