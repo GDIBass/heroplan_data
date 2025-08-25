@@ -13,4 +13,5 @@ effects:
   - The target receives 100% damage for all the damage their allies receive for 4 turns.
 types:
   - Hit 1
+  - Damage Link 1
 image: https://i.imgur.com/8ISALDU.jpg

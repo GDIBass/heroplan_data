@@ -18,7 +18,9 @@ effects:
   - ' * All allies get +30% critical chance for 5 turns.'
 types:
   - Hit 1
-  - Mana Generation
+  - Damage Link 1
+  - Bypass Chance All
+  - Critical Chance All
 passives:
   - >-
     Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.
