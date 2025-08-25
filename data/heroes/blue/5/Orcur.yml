@@ -14,7 +14,7 @@ effects:
   - Boosts health of all allies by 450 health after 3 turns, or immediatelly if the effect is removed before the duration ends. Boosted health can exceed max HP.
 types:
   - Healer All
-  - Growth All
+  - Attack Growth All
   - Delayed Boosted Health All
 passives:
   - >-

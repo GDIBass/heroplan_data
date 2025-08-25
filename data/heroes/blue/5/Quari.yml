@@ -15,7 +15,8 @@ effects:
 types:
   - Hit 3
   - DoT 3
-  - Growth All
+  - Attack Growth All
+  - Defense Growth All
 passives:
   - >-
     Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.

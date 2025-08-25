@@ -14,7 +14,8 @@ effects:
   - When summoned, the Carrot Minion gives +20% mana generation for its owner for as long as the owner has Carrot Minions. This effect can’t be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
   - Elemental Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled.
 types:
-  - Growth All
+  - Attack Growth All
+  - Defense Growth All
   - Summoner All
   - Mana Generation Buff Minion
 passives:
