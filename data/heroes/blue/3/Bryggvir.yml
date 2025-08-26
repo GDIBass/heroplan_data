@@ -1,0 +1,24 @@
+name: Bryggvir
+source: untoldtales
+family: myrkheim
+speed: Average
+class: Barbarian
+power: 515
+attack: 570
+defense: 552
+health: 689
+skill: Goat Rush
+effects:
+  - Attacks the target and nearby enemies with Frostfall Strike, dealing up to 840 damage. Deals 20% more if the target is of the Fire element. This Special Skill never misses its targets.
+  - Increases the mana of the caster and nearby allies by 10%.
+types:
+  - Hit 3
+  - Mana Increase 3
+passives:
+  - >-
+    Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.
+  - >-
+    Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast
+  - " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 153 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+  - " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+image: https://imgur.com/vdreiVK.jpg

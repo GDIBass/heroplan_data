@@ -1,0 +1,26 @@
+name: Svafa
+source: untoldtales
+family: myrkheim
+speed: Very Fast
+class: Ranger
+power: 1231
+attack: 1283
+defense: 1217
+health: 2259
+skill: Hunter’s Trueshot
+effects:
+  - Attacks the target and nearby enemies with Frostfall Strike, dealing up to 1500 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.
+  - The target and nearby enemies receive 705 Bleed damage over 3 turns.
+  - "The target and nearby enemies get a Mark of Bleed for 3 turns. Whenever a marked target receives Bleed damage, they gain a stack (Max: 10). Each stack increases all damage the target receives by 5%."
+types:
+  - Hit 3
+  - DoT 3
+  - Mark of Bleed 3
+passives:
+  - >-
+    Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.
+  - >-
+    Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast
+  - " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 346 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+  - " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+image: https://imgur.com/vZbek8s.jpg
