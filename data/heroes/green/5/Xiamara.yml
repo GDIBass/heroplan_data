@@ -13,9 +13,9 @@ effects:
   - The caster gets additional +100% power for the next Special Skill they cast. The additional power increases +25% each turn, up to a maximum of +200% in total.
   - All enemies receive Mana Corruption for 4 turns. Each time an afflicted enemy receives mana from an additional source, they receive 400 damage. Additional sources include direct mana addition from Special Skills, status effects, level properties, passive skills, family effects, tile effects and Minions. Mana added for defense team at the end of their turn or from matching tiles is included only if the target has a mana generation bufff or a posive mana generation stack.
 types:
-  - Hit all
-  - Power Boost
-  - Mana Corruption
+  - Hit All
+  - Self Power Boost
+  - Mana Corruption All
 passives:
   - >-
     Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.
