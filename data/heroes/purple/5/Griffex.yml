@@ -9,19 +9,41 @@ defense: 875
 health: 1697
 skill: Mana Manipulation
 effects:
-  - Reduces the mana of all Holy enemies by 100%. Reduces the mana of the other enemies by 50%.
+  - Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies by 50%.
   - Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%.
 types:
-  - Mana Reducer
-  - Mana Increase
+  - Mana Reducer All
+  - Mana Increase All
 passives:
   - 'Troop Mastery:'
   - >-
-    Passive Skill as attacking character: This hero’s Troops deal extra 
-    elemental damage against weaker element.
+    Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.
   - ' - Dealt extra elemental damage: +100%'
   - >-
-    Passive Skill as defending character: This hero receives less elemental 
-    damage from Troops of stronger element.
+    Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
   - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/uvhkpHJ.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 1230
+  attack: 1190
+  defense: 1241
+  health: 2441
+  skill: Memory Manipulation
+  effects:
+    - Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies by 55%.
+    - Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%. (This has no effect on other Griffex characters.)
+  types:
+    - Mana Reducer All
+    - Mana Increase All
+  passives:
+    - 'Troop Mastery:'
+    - >-
+      Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.
+    - ' - Dealt extra elemental damage: +150%'
+    - >-
+      Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
+    - ' - Received elemental damage: -25%'
+  image: https://imgur.com/QbtVKOI.jpg
