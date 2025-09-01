@@ -15,7 +15,7 @@ effects:
 types:
   - Hit 1
   - Chain
-  - Buff Immunity
+  - Buff Immunity on Hit target
 passives:
   - >-
     Effects on special skill: 70% chance to perform the following actions when this character casts their Special Skill
