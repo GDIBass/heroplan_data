@@ -1,0 +1,11 @@
+key: vegetable
+code: 105
+description: Valiant Vegetable
+image: https://i.imgur.com/tcDGA9G.png
+bonus:
+  - "Bonus for 2 / 3 Heroes:"
+  - Fiends and Mega Fiends summoned by this character get +5% / +10% attack.
+  - Fiends and Mega Fiends summoned by this character get +2% / +3% health.
+bonuscostume-5star: 
+bonuscostume-4star: 
+bonuscostume-3star: 
