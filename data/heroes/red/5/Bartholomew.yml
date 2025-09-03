@@ -1,0 +1,30 @@
+name: Bartholomew
+source: harvest
+family: vegetable
+speed: Average
+class: Barbarian
+power: 1234
+attack: 1293
+defense: 1258
+health: 2173
+skill: Capsicum Charge
+effects:
+  - Deals 300% damage to the target and nearby enemies.
+  - Deals additional 15% damage for each Fiend or Mega Fiend owned by the enemies, up to 450% damage in total.
+  - Harvests buffs fom target and nearby enemies. (Harvest safely removes 2 buffs, positive Stacks or Growth effect from each target. This includes undispellable buffs and dance effects. The caster receives 7% boosted health for each effect removed. Boosted health can exceed max HP. Safe removal bypasses secondary effects, such as damage on removal, fom the emove status effect buffs. External effect such as passive skil and family effects can still active. Growth effects are removed first. Other effects, the latest is removed first.)
+  - The caster and nearby allies counterattack with 110% of the received damage for 4 turns.
+types:
+  - Hit 3
+  - Harvest Buffs 3
+  - Counterattack 3
+passives:
+  - >-
+    Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.
+  - >-
+    Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy
+  - " * The Seeding Fiend evolves into a Sprout Fiend after 2 turns."
+  - " * The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns."
+  - " 1) Seedling Fiend: 50% attack, 15% health"
+  - " 2) Sprout Fiend: 75% attack, 25% health"
+  - " 3) Blossom Mega Fiend: 250% attack, 60% health"
+image: https://i.imgur.com/dHcPPcr.jpg

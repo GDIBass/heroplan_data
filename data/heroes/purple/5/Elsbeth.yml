@@ -1,0 +1,31 @@
+name: Elsbeth
+source: harvest
+family: vegetable
+speed: Fast
+class: Paladin
+power: 1234
+attack: 1277
+defense: 1248
+health: 2235
+skill: Guard the Garden!
+effects:
+  - Deals 600% damage to the target.
+  - If the target has Fiends or Mega Fiends, deals 500% damage to a random enemy.
+  - "Summon a Seedling Fiend to each hit enemy. (The Seeding Fiend evolves into a Sprout Fiend after 2 turns. The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns. Seedling Fiend: 50% attack, 15% health, Sprout Fiend: 75% attack, 25% health, Blossom Mega Fiend: 250% attack, 60% health. A Fiend damages their target every turn. A Fiend disappears after absorbing healing. Amount of healing required depends on the target’s max health.)"
+  - The caster and neaby allies get +44% defense, and a further 10% increase every time they are hit during 3 turns, up to +94% defense.
+types:
+  - Hit 1
+  - Hit Random
+  - Seedling Fiend Summoner on Hit
+  - Defense Buff 3
+passives:
+  - >-
+    Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.
+  - >-
+    Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy
+  - " * The Seeding Fiend evolves into a Sprout Fiend after 2 turns."
+  - " * The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns."
+  - " 1) Seedling Fiend: 50% attack, 15% health"
+  - " 2) Sprout Fiend: 75% attack, 25% health"
+  - " 3) Blossom Mega Fiend: 250% attack, 60% health"
+image: https://i.imgur.com/dHcPPcr.jpg
