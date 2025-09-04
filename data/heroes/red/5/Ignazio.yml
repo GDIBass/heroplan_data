@@ -31,10 +31,10 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin
-  power: 1180
-  attack: 1113
-  defense: 1189
-  health: 2378
+  power: 1197
+  attack: 1131
+  defense: 1208
+  health: 2415
   skill: Cauterizing Flame
   effects:
     - Recovers 28% health for all allies.

@@ -11,7 +11,7 @@ skill: Charmer's Blades
 effects:
   - Deals 375% damage to the target and nearby enemies.
   - Boosts all allies’ health by 30% of damage dealt.
-  - All allies are immune to new status ailments for 3 turns. 
+  - All allies are immune to new status ailments for 3 turns. This effect can't be dispelled.
   - Caster gets +30% defense for 3 turns
 types:
   - Hit 3
@@ -20,7 +20,5 @@ types:
   - Defense Buff
 passives:
   - >-
-    When this character receives damage from Special Skills or in place of a
-    character in Cover, there’s a 60% chance to deal 20% of the received damage
-    on all enemies.
+    Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies.
 image: https://i.imgur.com/7DRTWTb.jpg
