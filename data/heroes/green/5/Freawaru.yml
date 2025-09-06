@@ -1,0 +1,29 @@
+name: Freawaru
+source: beowulf
+family: beowulf
+speed: Average
+class: Paladin
+power: 1233
+attack: 1209
+defense: 1318
+health: 2261
+skill: Scroll of Fellowship
+effects:
+  - Safely dispels status effect buffs from all enemies. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)
+  - Boosts health for all allies by 1300. Boosted health can exceed max HP.
+  - "Source of Ailments: The following effects are cast on a random enemy at the start of each turn:"
+  - " -80% mana generation for 3 turns."
+  - " -60% defense against Special Skills for 3 turns."
+  - The Source of Ailments will activate 4 times. Each attempt to dispel it removes one activation.
+types:
+  - Safely Dispels All
+  - Boosted Heal All
+  - Source of Ailments
+passives:
+  - >-
+    Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).
+  - >-
+    Empowered Resist Mana Reduction: This character has innate resistance against mana reductions. They also gain 600 boosted health and 10% mana each time they resist.
+  - >-
+    Resist Buff Blocking: This character is immune to effect that would block them from receiving new status effect buffs.
+image: https://imgur.com/J5HpBKi.jpg
