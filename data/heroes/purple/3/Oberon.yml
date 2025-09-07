@@ -49,3 +49,24 @@ costume2:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/z96lxl3.jpg
+costume3:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 517
+  attack: 532
+  defense: 471
+  health: 963
+  skill: Glass Traps
+  effects:
+    - Deals 161% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - All enemies receive 148 Poison damage over 4 turns.
+  types:
+    - Hit All
+    - Bypass
+    - DoT All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/BaV6ZoB.jpg

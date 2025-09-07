@@ -1,0 +1,24 @@
+name: Tiburtus Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Average
+class: Ranger
+power: 754
+attack: 778
+defense: 800
+health: 1237
+skill: Glass Pulverizer
+effects:
+  - Deals 335% damage to the target and minor damage to nearby enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target and nearby enemies get -29% defense for 6 turns.
+types:
+  - Hit 3
+  - Bypass
+  - Defense Debuff 3
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/F6l6LRd.jpg

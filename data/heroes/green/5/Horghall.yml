@@ -66,8 +66,29 @@ costume3:
     - Deals extra damage against Ice.
   types:
     - Hit All
-    - Attack Debuff
+    - Attack Debuff All
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/VkOyyRt.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 1235
+  attack: 1085
+  defense: 1218
+  health: 2782
+  skill: Anger of Shards
+  effects:
+    - Deals 440% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - All enemies get -29% attack for 6 turns.
+  types:
+    - Hit All
+    - Bypass
+    - Attack Debuff All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/VFeCPg6.jpg

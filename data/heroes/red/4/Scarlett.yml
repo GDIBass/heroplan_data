@@ -64,8 +64,29 @@ costume3:
     - Deals extra damage against Nature.
   types:
     - Hit 3
-    - Attack Debuff
+    - Attack Debuff 3
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/uv68SUQ.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Rogue
+  power: 755
+  attack: 869
+  defense: 654
+  health: 1309
+  skill: Glass Barrage
+  effects:
+    - Deals 230% damage to the target and minor damage to nearby enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - The target and nearby enemies get -29% attack for 6 turns.
+  types:
+    - Hit 3
+    - Bypass
+    - Attack Debuff 3
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://i.imgur.com/hfB6wCM.jpg
