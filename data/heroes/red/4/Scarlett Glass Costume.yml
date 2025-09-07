@@ -1,0 +1,24 @@
+name: Scarlett Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Fast
+class: Rogue
+power: 755
+attack: 869
+defense: 654
+health: 1309
+skill: Glass Barrage
+effects:
+  - Deals 230% damage to the target and minor damage to nearby enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target and nearby enemies get -29% attack for 6 turns.
+types:
+  - Hit 3
+  - Bypass
+  - Attack Debuff 3
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/hfB6wCM.jpg

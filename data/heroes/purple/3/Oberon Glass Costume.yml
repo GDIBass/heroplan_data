@@ -1,0 +1,24 @@
+name: Oberon Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Slow
+class: Fighter
+power: 517
+attack: 532
+defense: 471
+health: 963
+skill: Glass Traps
+effects:
+  - Deals 161% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies receive 148 Poison damage over 4 turns.
+types:
+  - Hit All
+  - Bypass
+  - DoT All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://i.imgur.com/BaV6ZoB.jpg
