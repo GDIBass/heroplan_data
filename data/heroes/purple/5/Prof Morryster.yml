@@ -1,0 +1,25 @@
+name: Prof Morryster
+source: shadow
+family: theinstitute
+speed: Average
+class: Fighter
+power: 1235
+attack: 1229
+defense: 1308
+health: 2243
+skill: Seeking Shots
+effects:
+  - Deals 460% damage to the target and nearby enemies and inflicts 45 Insanity on them.
+  - Inflicts the target and nearby enemies with Minion Corruption for 4 turns, that adds a chance of Minions transforming into Fiends. This effect is uncleansable.
+  - The target and nearby enemies get -34% defense against Special Skills for 4 turns.
+  - Inflicts 50 Insanity to the caster.
+types:
+  - Hit 3
+  - Insanity 3
+  - Minion Corruption 3
+  - SS Defense Debuff 3
+  - Self Insanity
+passives:
+  - >-
+    Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 5% per 10 Insanity on this character, up to 50%.
+image: https://imgur.com/s7DzSc0.jpg

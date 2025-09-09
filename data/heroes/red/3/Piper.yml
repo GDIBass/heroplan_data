@@ -1,0 +1,20 @@
+name: Piper
+source: shadow
+family: theinstitute
+speed: Fast
+class: Ranger
+power: 518
+attack: 542
+defense: 490
+health: 902
+skill: Vantage Point
+effects:
+  - Deals 220% damage to the target and nearby enemies and inflicts 25 Insanity on them.
+  - "Stack (Max: 10): The caster gets +17% attack."
+  - Inflicts 40 Instanity to the caster.
+types:
+  - Hit 3
+  - Insanity 3
+  - Self Attack Stack
+  - Self Insanity
+image: https://imgur.com/ivoEqS8.jpg

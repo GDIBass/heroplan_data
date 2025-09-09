@@ -1,0 +1,29 @@
+name: Khatrox
+source: shadow
+family: forsaken
+speed: Slow
+class: Barbarian
+power: 1235
+attack: 1312
+defense: 1194
+health: 2263
+skill: Obliterating Surge
+effects:
+  - Boosts health of the caster by 1000. Boosted health can exceed max HP.
+  - Deals 470% damage to all enemies and inflicts 20 Insanity on them.
+  - Store all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealt to all enemies, up to a maximum of 1000 damage. This effect can’t be dispelled.
+  - Inflicts 50 Insanity to the caster.
+types:
+  - Boosted Heal All
+  - Hit All
+  - Insanity All Enemies
+  - Stores damage
+  - Self Insanity
+passives:
+  - "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 5% per 10 Insanity on this character, up to maximum chance of 50%."
+  - "The Eldritch Host has:"
+  - " - 100% inherited health."
+  - " - 1000 attack."
+  - " - 1000 defense."
+  - " - Special Skill: Eldrich Bright."
+image: https://imgur.com/QRgxMUA.jpg
