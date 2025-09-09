@@ -1,0 +1,23 @@
+name: Lamentia
+source: shadow
+family: forsaken
+speed: Average
+class: Rogue
+power: 767
+attack: 786
+defense: 748
+health: 1413
+skill: Frenzied Rend
+effects:
+  - Deals 280% damage to the target and nearby enemies and inflicts 15 Insanity on them.
+  - The target and nearby enemies receive 388 Curse damage over 4 turns, starting low and increasing every turn.
+  - Inflicts 55 Insanity to the caster.
+types:
+  - Hit 3
+  - Insanity 3
+  - DoT 3
+  - Self Insanity
+passives:
+  - >-
+    Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 5% per 10 Insanity on this character, up to 50%.
+image: https://imgur.com/g1VRcWf.jpg
