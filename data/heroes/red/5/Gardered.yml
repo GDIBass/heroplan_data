@@ -1,0 +1,24 @@
+name: Gardered
+source: moth
+family: moth
+speed: Average
+class: Fighter
+power: 1235
+attack: 1303
+defense: 1207
+health: 2261
+skill: Triple Stab
+effects:
+  - Deals 435% damage to the target.
+  - The target receives 628 Toxin damage over 4 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)
+  - Deals 435% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.
+  - The enemies on the edges of the enemy formation fall into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This effect is uncleasable.)
+types:
+  - Hit 1
+  - DoT 1
+  - Hit 2
+  - Deep Sleep 2
+passives:
+  - >- 
+    Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
+image: https://imgur.com/MrSTdbc.jpg
