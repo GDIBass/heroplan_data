@@ -77,8 +77,8 @@ costume4:
   bonuses: 5/5/10/5
   class: Cleric
   power: 761
-  attack: 927
-  defense: 643
+  attack: 834
+  defense: 762
   health: 1227
   skill: Glassification
   effects:

@@ -1,8 +1,8 @@
 name: Goopy
-class: Barbarian
 source: morlovia
 family: morlovia
 speed: Average
+class: Barbarian
 power: 483
 attack: 500
 defense: 467
@@ -10,18 +10,12 @@ health: 808
 skill: Sugar Rush
 effects:
   - Deals 125% damage to all enemies.
-  - >-
-    Deals additional 12% damage per each Nature shield on the board, up to 221%
-    damage in total.
-  - >-
-    All enemies get -24% mana generation, and a further 2% decrease per each
-    Nature shield on the board for 3 turns, up to -40% mana generation.
+  - Deals additional 12% damage per each Nature shield on the board, up to 221% damage in total.
+  - All enemies get -24% mana generation, and a further 2% decrease per each Nature shield on the board for 3 turns, up to -40% mana generation.
 types:
   - Hit All
   - Mana gen debuff
 passives:
   - >-
-    Steal Buff - When this character casts their Special Skill, they have a 50% 
-    chance to steal the newest dispellable buff from a random enemy that has buffs. 
-    If no enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
 image: https://i.imgur.com/WJOazL8.jpg
