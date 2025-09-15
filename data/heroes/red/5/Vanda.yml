@@ -18,7 +18,7 @@ types:
   - Status Ailment Immunity
 passives:
   - >-
-    Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
+    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
 image: https://i.imgur.com/FsFObHs.jpg
 costume:
   bonuses: 5/5/10/5
@@ -38,5 +38,5 @@ costume:
     - Status Ailment Immunity All
   passives:
     - >-
-      Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies.
+      Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
   image: https://i.imgur.com/yADk9kZ.jpg

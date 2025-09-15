@@ -72,8 +72,8 @@ costume4:
   bonuses: 5/5/10/5
   class: Fighter
   power: 1234
-  attack: 1422
-  defense: 936
+  attack: 1211
+  defense: 1204
   health: 2499
   skill: Wall of Glass
   effects:

@@ -9,7 +9,7 @@ defense: 817
 health: 1406
 skill: Mending Mantra
 effects:
-  - Recovers 22% health for all allies
+  - Recovers 23% health for all allies
   - All allies are immune to new status ailments for 2 turns.
   - Element Link gives +4% mana regeneration for all Fire allies for 4 turns. This effect can't be dispelled.
 types:
