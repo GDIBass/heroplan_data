@@ -11,7 +11,7 @@ skill: Sewing Back Together
 effects:
   - All allies regenerate 425 HP over 5 turns.
   - Each defeated ally has a 35% chance to get revived with 25% HP.
-  - "All ailments affecting attack, defense and mana generation on all allies are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)"
+  - "All ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. (Transform cannot be blocked by status effects, family effects or passives. Only status ailments that are dispellable can be transformed. Transformed effects: Attack status ailments are transformed into +40% attack buff for 4 turns. Defense status ailments are transformed into +40% defense buff for 4 turns. Mana generation status ailments are transformed into +40% mana generation buff for 4 turns.)"
 types:
   - HoT All
   - Reviver

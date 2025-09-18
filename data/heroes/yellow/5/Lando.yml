@@ -9,12 +9,12 @@ defense: 1260
 health: 2311
 skill: Two-Step Swing
 effects:
-  - "All ailments affecting attack, defense and mana generation on all allies are replaced by matching uncleansable buffs. (Replacing cannot be blocked by status effects and passive. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)"
+  - "All ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. (Transform cannot be blocked by status effects, family effects or passives. Only status ailments that are dispellable can be transformed. Transformed effects: Attack status ailments are transformed into +40% attack buff for 4 turns. Defense status ailments are transformed into +40% defense buff for 4 turns. Mana generation status ailments are transformed into +40% mana generation buff for 4 turns.)"
   - Cleanses status ailments for all allies.
   - Deals 450% damage to all enemies.
   - All allies deal 300-700 damage to a random enemy after 3 turns, based on the damage allies had taken while this effect was active. This effect is undispellable. (Maximum effect is achieved upon taking 50% of max health in damage.)
 types:
-  - Replace Ailments All
+  - Transform Ailments All
   - Cleanser All
   - Hit All
   - Delayed Damage All
