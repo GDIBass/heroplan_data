@@ -1,0 +1,36 @@
+name: Viletusk
+source: ancientUnderroot
+speed: Slow
+power: 7825
+attack: 9505
+defense: 9645
+health: 8776
+skill: Fearless Charge
+effects:
+  - Deals 285% damage to the target and 200% damage to nearby enemies.
+  - Heals all allies for 25% of damage dealt.
+  - The caster gets 3000 defense for 5 turns.
+types:
+  - Hit 3
+  - Healer All
+  - Self Defense Buff
+spiritBonus:
+  spiritClass: Paladin
+  all:
+    attack: 100
+    defense: 80
+    health: 30
+  elementalBond:
+    attack: 15
+    defense: 10
+    health: 12
+  classLink:
+    attack: 15
+    defense: 10
+    health: 12 
+assist:
+  name: Searing Blaze
+  effects:
+    - Deals 250 damage to all enemies.
+    - All enemies get -10% attack for 5 turns.
+image: https://i.imgur.com/WOuFz4h.jpg
