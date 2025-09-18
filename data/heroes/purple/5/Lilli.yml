@@ -12,14 +12,14 @@ effects:
   - Steals all Minions or a Mega Minion from the target.
   - Deals 850% damage to the target.
   - All enemies receive +50% increased damage as long as the caster has Minion or Mega Minion. This effect can’t be dispelled.
-  - "All buffs affecting attack, defense and mana generation on all enemies are transformed into matching uncleansable ailments. (Transform cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable can be transformed. Transformed effects: Attack buffs are transformed into -40% attack status ailment for 4 turns. Defense buffs are transformed into -40% defense status ailment for 4 turns. Mana generation buffs are transformed into -40% mana generation status ailment for 4 turns.)"
+  - "All buffs affecting attack, defense and mana generation on all enemies are transformed into matching uncleansable ailments. (Transform cannot be blocked by status effects, family effects or passives. Only buffs that are dispellable can be transformed. Transformed effects: Attack buffs are transformed into -40% attack status ailment for 4 turns. Defense buffs are transformed into -40% defense status ailment for 4 turns. Mana generation buffs are transformed into -40% mana generation status ailment for 4 turns.)"
 types:
   - Steals Mega/Minions
   - Hit 1
   - Damage Increased Debuff All
-  - Replace Attack Buffs All
-  - Replace Defense Buffs All
-  - Replace Mana Gen Buffs All
+  - Transform Attack Buffs All
+  - Transform Defense Buffs All
+  - Transform Mana Gen Buffs All
 passives:
   - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:

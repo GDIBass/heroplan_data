@@ -12,6 +12,7 @@ effects:
   - The caster regenerates 5000 HP over 5 turns.
 types:
   - Hit All
+  - Damage All on hit from enemy SS
   - Self HoT
 spiritBonus:
   spiritClass: Barbarian

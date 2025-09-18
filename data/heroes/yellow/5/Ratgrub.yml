@@ -1,0 +1,21 @@
+name: Ratgrub
+source: goblinvillage
+family: goblin
+speed: Average
+class: Cleric
+power: 1237
+attack: 1242
+defense: 1285
+health: 2270
+skill: Princess Unleashed
+effects:
+  - Summons a Rat Princess Mega Minion with 35% HP and 160% attack inherited from the caster.
+  - When summoned, the Rat Princess Mega Minion gives its owner the ability to deal 240% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)
+types:
+  - Rat Princess Mega Minion
+passives:
+  - >-
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.
+  - " * Deals 90% damage to all enemies."
+  - " * All enemies get -25% accuracy for 3 turns."
+image: https://imgur.com/BwwWWBg.jpg

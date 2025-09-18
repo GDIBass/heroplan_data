@@ -12,12 +12,12 @@ effects:
   - Deals 565% damage to the target and minor damage to nearby enemies.
   - The target and nearby enemies receives Corrosive Poison for 3 turns. The Corrosive Poison deals 134 Poison damage and lowers the target’s mana generation by 10% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at then end of their turn.)
   - The target and nearby enemies can’t revive their allies or themself for 3 turns.
-  - "All buffs affecting attack, defense and mana generation on target and nearby enemies are replaced by matching uncleansable ailments. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack buffs are replaced with -40% attack ailment for 4 turns. Defense buffs are replaced with -40% defense ailment for 4 turns. Mana generation buffs are replaced with -40% mana generation ailment for 4 turns.)"
+  - "All buffs affecting attack, defense and mana generation on target and nearby enemies are transformed into matching uncleansable ailments. (Transform cannot be blocked by status effects, family effects or passives. Only buffs that are dispellable can be transformed. Transformed effects: Attack buffs are transformed into -40% attack ailment for 4 turns. Defense buffs are transformed into -40% defense ailment for 4 turns. Mana generation buffs are transformed into -40% mana generation ailment for 4 turns.)"
 types:
-  - Hit 1
-  - DoT 1
-  - Revive Ability Block 1
-  - Replace Buffs 1
+  - Hit 3
+  - DoT 3
+  - Revive Ability Block 3
+  - Transform Buffs 3
 passives:
   - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:

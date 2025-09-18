@@ -1,23 +1,21 @@
-name: Naeem
+name: Bart
 source: magic
 family: magiccarpet
-speed: Average
+speed: Very Fast
 class: Wizard
-power: 1200
-attack: 1221
-defense: 1223
-health: 2187
-skill: Countering Hammock
+power: 1237
+attack: 1279
+defense: 1271
+health: 2206
+skill: Zooming Lunge
 effects:
+  - Deals 360% damage to the target and minor damage to nearby enemies.
   - "All buffs affecting attack, defense and mana generation on target and nearby enemies are transformed into matching uncleansable ailments. (Transform cannot be blocked by status effects, family effects or passives. Only buffs that are dispellable can be transformed. Transformed effects: Attack buffs are transformed into -40% attack ailment for 4 turns. Defense buffs are transformed into -40% defense ailment for 4 turns. Mana generation buffs are transformed into -40% mana generation ailment for 4 turns.)"
-  - Deals 330% damage to the target and nearby enemies.
-  - The caster and nearby allies counterattack with 145% of the damage received for 4 turns.
-  - "Caster and nearby allies get Sand Touch for 4 turns. (Sand Touch: Each time the owner of this status effect counterattacks an enemy the attacker receives 452 Sand damage over 4 turns.)"
+  - The target and nearby enemies get -45% accuracy for 2 turns. (Chance to miss also applies to offensive Special Skills.)
 types:
-  - Replace Buffs 3
   - Hit 3
-  - Counterattack 3
-  - Sand Touch DoT on counterattack 3
+  - Transform Buffs 3
+  - Blind 3
 passives:
   - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:
@@ -26,4 +24,4 @@ passives:
   - " * The effects diminish the less Flight Momentum character has."
   - >-
     Weaker Mega Minions: Enemy Mega Minions have -75% HP.
-image: https://imgur.com/F7qBR0P.jpg
+image: https://imgur.com/QSCcgIg.jpg

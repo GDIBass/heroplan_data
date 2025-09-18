@@ -1,0 +1,34 @@
+name: Tropicus
+source: ancientUnderroot
+speed: Fast
+power: 7826
+attack: 9604
+defense: 9545
+health: 8731
+skill: Tropical Ambush
+effects:
+  - Deals 130% damage to all enemies.
+  - All enemies get -1000 attack for 3 turns.
+types:
+  - Hit All
+  - Attack Debuff All
+spiritBonus:
+  spiritClass: Rogue
+  all:
+    attack: 100
+    defense: 80
+    health: 30
+  elementalBond:
+    attack: 15
+    defense: 10
+    health: 12
+  classLink:
+    attack: 15
+    defense: 10
+    health: 12 
+assist:
+  name: Blaze of Suppression
+  effects:
+    - All enemies receive 250 Burn damage over 5 turns.
+    - Dispels buffs from all enemies.
+image: https://i.imgur.com/iLpWHXW.jpg

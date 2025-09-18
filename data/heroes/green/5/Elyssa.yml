@@ -10,12 +10,12 @@ health: 2181
 skill: Picnic in the Sky
 effects:
   - Recovers 50% health for all allies.
-  - "All ailments affecting attack, defense and mana generation on all allies are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)"
-  - All allies resist new negative mana effects for 4 turns, and their mana is increased by 10% for each resisted effect.
+  - "All ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. (Transform cannot be blocked by status effects, family effects or passives. Only status ailments that are dispellable can be transformed. Transformed effects: Attack status ailments are transformed into +40% attack buff for 4 turns. Defense status ailments are transformed into +40% defense buff for 4 turns. Mana generation status ailments are transformed into +40% mana generation buff for 4 turns.)"
+  - All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 10% for each resisted effect.
 types:
   - Healer All
-  - Replace Ailments All
-  - Debuff Resist All
+  - Transform Ailments All
+  - Debuff Immunity All
   - Mana Increase on Resist All
 passives:
   - >-
