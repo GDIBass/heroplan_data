@@ -1,0 +1,26 @@
+name: Lemniss
+source: astral
+family: astraldwarfs
+speed: Average
+class: Fighter
+power: 1238
+attack: 1225
+defense: 1316
+health: 2261
+skill: Astral Gemstones
+effects:
+  - Recovers 45% health from all allies.
+  - Increases the duration of all allies active buffs by 2 turns. (The duration modification affects both cleansable and uncleasable effects.)
+  - All allies are immune to new status ailments for 4 turns.
+types:
+  - Healer All
+  - Increase Active Buffs Duration
+  - Ailments Immunity All
+passives:
+  - >-
+    Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.
+  - >-
+    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
+  - >-
+    Resist Healing Ailments: This character is immune to status ailments that affect healing.
+image: https://imgur.com/gnD2Rl7.jpg
