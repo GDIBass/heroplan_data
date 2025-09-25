@@ -1,0 +1,22 @@
+name: Sliposi
+source: superelemental
+family: slime
+speed: Average
+class: Ranger
+power: 1239
+attack: 1221
+defense: 1322
+health: 2263
+skill: Sticky Express
+effects:
+  - Increases the mana of allies on the edges of the formation by 30%.
+  - Summon a Slime Mega Minion for the allies on the edges of the enemy formation with 50% HP and 40% attack inherited from the caster.
+types:
+  - Mana Increase 2
+  - Slime Mega Minion 2
+passives:
+  - >-
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://imgur.com/WpdVrn1.jpg
