@@ -1,0 +1,34 @@
+name: Procyon
+source: ancientUnderroot
+speed: Average
+power: 11173
+attack: 13997
+defense: 14030
+health: 12259
+skill: Garbage Shock Wave
+effects:
+  - Reduces max health of all enemies by 3800. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 3800.)
+  - All enemies cannot cast any new status effects on enemies or allies for 4 turns. (This includes stacks. This only includes status effects cast with Special Skills.)
+types:
+  - Max Healt reduction All
+  - Status Effect Blocker All
+spiritBonus:
+  spiritClass: Paladin
+  all:
+    attack:  +200
+    defense: +160
+    health:  +60
+  elementalBond:
+    attack:  +25
+    defense: +20
+    health:  +20
+  classLink:
+    attack:  +25
+    defense: +20
+    health:  +20
+assist:
+  name: Shocking Blaze
+  effects:
+    - Reduces max health of all enemies by 450. This effect is stronger against targets with boosted health.
+    - All enemies get -20% defense for 5 turns.
+image: https://imgur.com/g79hPaU.jpg
