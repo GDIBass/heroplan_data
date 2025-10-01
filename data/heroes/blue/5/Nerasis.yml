@@ -1,0 +1,24 @@
+name: Nerasis
+source: hotm
+family: 2025
+speed: Fast
+class: Fighter
+power: 1140
+attack: 1256
+defense: 1200
+health: 1711
+skill: Endless Daggers
+effects:
+  - Deals 460% damage to the target.
+  - If the target is defeated by the attack, the caster gains +50% mana. (After a character has received 5 direct mana addition from Special Skill during a single turn, all subsequent direct mana addition done by Special Skills will have reduced power on that character.)
+  - "Stack (Max: 10): The caster gets +10% attack."
+  - Elemental Link gives all Ice allies +20% attack for 4 turns. This effect can’t be dispelled.
+types:
+  - Hit 1
+  - Self Mana Increase on Kill
+passives:
+  - >-  
+    Perfect Accuracy: This character’s Special Skill never misses its target.
+  - >-
+    Resist Burn: This character has innate resistance against Burn.
+image: https://imgur.com/Uu4IHao.jpg
