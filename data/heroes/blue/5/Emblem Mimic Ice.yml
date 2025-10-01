@@ -1,4 +1,4 @@
-name: Emblem Mimic Fire
+name: Emblem Mimic Ice
 source: secretsummon
 family: mimic
 speed: Fast
@@ -22,8 +22,8 @@ passives:
     Perfect Accuracy: This character’s Special Skill never misses its targets.
   - >-
     Mimic Loot: This Mimic gives a chance for extra loot when completing stages
-  - " * Master Fighter Emblems"
-  - " * Master Barbarian Emblems"
-  - " * Fighter Emblems"
-  - " * Barbarian Emblems"
-image: https://imgur.com/FWnI3zF.jpg
+  - " * Master Sorcerer Emblems"
+  - " * Master Wizard Emblems"
+  - " * Sorcerer Emblems"
+  - " * Wizard Emblems"
+image: https://imgur.com/NJliyqt.jpg
