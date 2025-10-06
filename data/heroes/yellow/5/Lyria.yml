@@ -1,0 +1,24 @@
+name: Lyria
+source: festival
+family: bard
+speed: Very Fast
+class: Barbarian
+power: 1628
+attack: 1855
+defense: 1687
+health: 3046
+skill: Rushed Melody
+effects:
+  - Deals 475% damage to the target.
+  - The attack bypasses defensive bufs. (This includes counterattacks.)
+  - The caster gets additional +40% power for the next Special Skill they cast. The additional power increases +40% each turn, up to a maximum of +160% in total.
+  - The caster gets +45% chance to dodge Special Skills that deal damage for 2 turns.
+types:
+  - Hit 1
+  - Bypass
+  - Self Power Boost
+  - Self Dodge
+passives:
+  - >-
+    Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value.
+image: https://imgur.com/sV0UlAe.jpg
