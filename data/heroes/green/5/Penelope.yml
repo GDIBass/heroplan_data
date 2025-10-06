@@ -11,8 +11,8 @@ skill: Cut, Cure and Craze
 effects:
   - Deals 440% damage to all enemies.
   - Heals all allies for 35% of the damage dealth.
-  - All allies get +45% chance to dodge Special Skills for 5 turns. Each dodge inflicts 10 Insanity on the attacker.
-  - Inflicts 55 Insanity to the caster.
+  - All allies get +45% chance to dodge Special Skills for 5 turns. Each dodge inflicts 15 Insanity on the attacker.
+  - Inflicts 50 Insanity to the caster.
 types:
   - Hit All
   - Healer
