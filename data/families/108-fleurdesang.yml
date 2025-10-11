@@ -1,0 +1,11 @@
+key: fleurdesang
+code: 108
+description: Fleur de sang
+image: https://i.imgur.com/dCmBfIS.png
+bonus:
+  - At the start of each turn, each Fleur de Sang character marks the enemy with highest remaining HP with Blood Lily.
+  - "Blood Lily, Stack (Max: 10): The target receive 4/6/10 damage per turn. The Fleur de Sang characters on the opposing team gain the amount of damage dealt as health, divided equally between them."
+  - The members of this family have additional perks in the Halloween event.
+bonuscostume-5star: 
+bonuscostume-4star: 
+bonuscostume-3star: 

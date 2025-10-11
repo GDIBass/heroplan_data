@@ -1,0 +1,22 @@
+name: Guillemette
+source: sanguine
+family: fleurdesang
+speed: Average
+class: Paladin
+power: 1244
+attack: 1328
+defense: 1215
+health: 2249
+skill: Unholy Power
+effects:
+  - Deals 270% damage to all enemies.
+  - All allies are immune to new negative mana effects for 4 turns.
+  - For the next 4 turns, deals 135% damage to all enemies marked with Blood Lily at the end of each turn. (Each character can trigger this effect once per turn.)
+types:
+  - Hit All
+  - Mana Debuffs Immunity All
+  - Hit All Blood Lily mark
+passives:
+  - >-
+    Sanguine Mark: All damage from normal attacks and Special Skill dealt by this character is increased by 5% per Blood Lily stack on target.
+image: https://imgur.com/OHpr6c8.jpg
