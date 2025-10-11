@@ -1001,6 +1001,47 @@ troops:
       name: Increase Status Effect Defense
       description: Defense buffs are 8% more effective for the character this Troop is equipped on.
       image: https://i.imgur.com/qMBMqK7.jpg
+five_star_Monk_Barbarian:
+    key: five_star_Monk_Barbarian
+    id: 67
+    stars: 5
+    name: Furious Monk
+    description: Legendary for class Monk and Barbarian
+    classLink:
+      - Monk
+      - Barbarian
+    images:
+      full:
+        purple: https://imgur.com/bo2ipqM.jpg
+        yellow: https://imgur.com/Bp12pai.jpg
+        blue: https://imgur.com/uZ9JQ0f.jpg
+        green: https://imgur.com/otltjvQ.jpg
+        red: https://imgur.com/zQpSQHk.jpg
+      half:
+        purple: https://imgur.com/51MXC95.jpg
+        yellow: https://imgur.com/jAObhhB.jpg
+        blue: https://imgur.com/FaPLpMz.jpg
+        green: https://imgur.com/QLNW5Nm.jpg
+        red: https://imgur.com/MDzokjW.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 26
+      defense: 21
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 32
+      defense: 27
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Extra Healing
+      description: The character this troop is equipped on receives extra 5% health once every turn if health is recovered.
+      image: https://i.imgur.com/BghBCU3.jpg
 
 max_level_by_stars:
   1: 10
