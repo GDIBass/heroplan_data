@@ -14,10 +14,10 @@ effects:
   - All enemies get -50% decrease for any healing received for 4 turns.
   - All enemies can’t get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself.
 types:
-  - Cleanser
+  - Cleanser All
   - Hit All
-  - Healing Decrease
-  - Cleanse Block
+  - Healing Decrease All
+  - Cleanse Immunity All
 passives:
   - >-
     Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.

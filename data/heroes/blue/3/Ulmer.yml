@@ -51,3 +51,24 @@ costume2:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/7Gi7zzw.jpg
+costume3:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 516
+  attack: 552
+  defense: 507
+  health: 830
+  skill: Glass Blizzard
+  effects:
+    - Deals 156% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - All enemies get -30% defense for 6 turns.
+  types:
+    - Hit All
+    - Bypass
+    - Defense Debuff All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/mdOC2xf.jpg

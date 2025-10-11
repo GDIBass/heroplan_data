@@ -9,9 +9,10 @@ defense: 1248
 health: 2097
 skill: Iron Rocket Fist
 effects:
-  - Deals 500% damage to 2 random enemies.
-  - If an enemy is defeated by the attack, the caster recovers +30% health and gains +30% mana.
-  - All allies counterattack with +100% of the damage received for 4 turns.
+  - Deals 520% damage to the target.
+  - Deals 520% damage to a random different enemy.
+  - If an enemy is defeated by the attack, the caster recovers +35% health and gains +35% mana.
+  - All allies counterattack with +110% of the damage received for 4 turns.
 types:
   - Hit Random 2
   - Self Heal on Kill

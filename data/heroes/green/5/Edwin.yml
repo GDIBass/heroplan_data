@@ -15,8 +15,31 @@ effects:
 types:
   - Hit all 
   - Bypass
-  - Healing Decrease
+  - Cleanse Immunity All
 passives:
   - >-
     Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
 image: https://i.imgur.com/NshfXdy.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 1242
+  attack: 1293
+  defense: 1207
+  health: 2336
+  skill: Garlic Platter
+  effects:
+    - Deals 265% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - All enemies can’t get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevent cleansing and reallocating of itself.)
+    - All enemies receive 716 Bleed damage over 4 turns.
+  types:
+    - Hit All
+    - Bypass
+    - Cleanse Immunity All
+    - DoT All
+  passives:
+    - >-
+      Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+  image: https://imgur.com/RyJ3YBO.jpg

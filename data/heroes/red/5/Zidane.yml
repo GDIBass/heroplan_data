@@ -9,7 +9,7 @@ defense: 972
 health: 1650
 skill: Tricks of the Trade
 effects:
-  - Deals 355% damage to the target.
+  - Deals 405% damage to the target.
   - Steals the latest dispellable buff from target and grants it to the caster.
   - 'Randomly casts one of the following alternatives:'
   - 'Barbed Bolt:'

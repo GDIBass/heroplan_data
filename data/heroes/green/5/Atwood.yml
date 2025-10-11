@@ -12,7 +12,7 @@ effects:
   - Dispels buffs from the target and nearby enemies.
   - Deals 380% damage to the target and nearby enemies and inflicts 45 Insanity on them.
   - All allies are immune to damage from status ailments for 4 turns.
-  - Inflicts 55 Insanity to the caster.
+  - Inflicts 50 Insanity to the caster.
 types:
   - Dispeller 3
   - Hit 3

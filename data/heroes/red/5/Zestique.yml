@@ -1,0 +1,24 @@
+name: Zestique
+source: superelemental
+family: slime
+speed: Average
+class: Cleric
+power: 1243
+attack: 1289
+defense: 1254
+health: 2261
+skill: Cherry Pudding Served!
+effects:
+  - Increases the mana of nearby allies by 30%.
+  - "Growth: Nearby allies gets 300 attack and 300 defense."
+  - Summon a Slime Mega Minion with 50% HP and 40% attack inherited from the caster.
+types:
+  - Mana Increase 2
+  - Growth 2
+  - Slime Mega Minion Self
+passives:
+  - >-
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://imgur.com/FGAb5D6.jpg

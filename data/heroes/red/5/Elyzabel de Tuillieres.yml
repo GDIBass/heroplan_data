@@ -1,0 +1,24 @@
+name: Elyzabel de Tuillieres
+source: sanguine
+family: fleurdesang
+speed: Average
+class: Druid
+power: 1244
+attack: 1289
+defense: 1256
+health: 2261
+skill: Precious Pets
+effects:
+  - Deals 465% damage to the target and nearby enemies.
+  - All allies are immune to new effects that prevent the use of Special Skills for 4 turns.
+  - Summons a Sanguine Bat Minion for caster and nearby allies with 25% HP and 30% attack inherited from the caster.
+  - >-
+    The target hit by the Sanguine Bat Minion is marked with Blood Lily. (A memento from the Fleur de Sang family. This effect can stack (max: 10). Each stack of the Blood Lily effect deals 10 damage to the target per turn. The Fleur de Sang characters on the opposing team gain the amount of damage dealt as health, divided equally between them. Each stack of the Blood Lily effect also increases the damage that members of the Fleur de Sang family deal to the target. The Blood Lily stacks can be avoided or removed with various effect that affect stacks. )
+types:
+  - Hit 3
+  - Immunity SS usage All
+  - Summons Sanguine Bat Minion 3
+passives:
+  - >-
+    Sanguine Mark: All damage from normal attacks and Special Skill dealt by this character is increased by 5% per Blood Lily stack on target.
+image: https://imgur.com/sdFlBeC.jpg

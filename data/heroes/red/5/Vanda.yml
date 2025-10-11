@@ -23,10 +23,10 @@ image: https://i.imgur.com/FsFObHs.jpg
 costume:
   bonuses: 5/5/10/5
   class: Wizard
-  power: 944
-  attack: 936
-  defense: 889
-  health: 1732
+  power: 1140
+  attack: 1152
+  defense: 1111
+  health: 2148
   skill: Twilight of Ruin
   effects:
     - Deals 115% damage to all enemies.
