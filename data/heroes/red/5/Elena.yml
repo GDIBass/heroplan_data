@@ -51,7 +51,7 @@ costume3:
   design: toon
   bonuses: 5/5/10/5
   class: Fighter
-  power: 1129
+  power: 1131
   attack: 1021
   defense: 1123
   health: 2376
@@ -71,7 +71,7 @@ costume4:
   design: glass
   bonuses: 5/5/10/5
   class: Fighter
-  power: 1234
+  power: 1235
   attack: 1211
   defense: 1204
   health: 2499
