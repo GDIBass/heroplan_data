@@ -13,10 +13,31 @@ effects:
   - Recovers 45% heath for all allies.
   - Recovers additional 2% health per removed status effect, up to 65% health in total.
 types:
-  - Dispeller
-  - Cleanser
-  - Healer
+  - Dispeller All
+  - Cleanser All
+  - Healer All
 passives:
   - >-
     Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
 image: https://i.imgur.com/FvJxtPO.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 774
+  attack: 732
+  defense: 791
+  health: 1516
+  skill: Dress Up!
+  effects:
+    - Dispels and cleanses all buffs and status ailment from all allies and enemies.
+    - Recovers 43% heath for all allies.
+    - Recovers additional 3% health per removed status effect, up to 73% health in total.
+  types:
+    - Dispeller All
+    - Cleanser All
+    - Healer All
+  passives:
+    - >-
+      Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+  image: https://imgur.com/CXL7UK8.jpg
