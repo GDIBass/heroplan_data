@@ -58,3 +58,22 @@ costume3:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/FCxtmOB.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 759
+  attack: 672
+  defense: 859
+  health: 1419
+  skill: Glass Riposte
+  effects:
+    - The caster and nearby allies counterattack with 122% of the damage received for 5 turns.
+    - All Ice allies reflect status ailments and negative stacks for 2 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  types:
+    - Counterattack 3
+    - Debuff Reflect for Ice Allies
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/x1sFOfC.jpg
