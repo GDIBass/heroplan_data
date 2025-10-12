@@ -22,10 +22,10 @@ image: https://i.imgur.com/jBtXWpz.jpg
 costume:
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 944
-  attack: 958
-  defense: 898
-  health: 1660
+  power: 1140
+  attack: 1179
+  defense: 1123
+  health: 2058
   skill: Electric Stab
   effects:
     - Deals 225% damage to the target and nearby enemies.
@@ -34,6 +34,7 @@ costume:
   types:
     - Hit 3
     - Cleanser
+    - Elemental Defense Debuff All Ice
   passives:
     - >-
       Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.

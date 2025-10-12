@@ -1,0 +1,22 @@
+name: Talesie
+source: sanguine
+family: fleurdesang
+speed: Fast
+class: Rogue
+power: 777
+attack: 792
+defense: 765
+health: 1434
+skill: Ravening Blade
+effects:
+  - Deals 220% damage to the target.
+  - Deals 180% damage to all enemies marked with Blood Lily.
+  - All enemies marked with a Blood Lily receive 189 Bleed damage over 3 turns.
+types:
+  - Hit 1
+  - Hit All Blood Lily marked
+  - DoT All Blood Lily marked
+passives:
+  - >-
+    Sanguine Mark: All damage from normal attacks and Special Skill dealt by this character is increased by 5% per Blood Lily stack on target.
+image: https://imgur.com/gGke518.jpg

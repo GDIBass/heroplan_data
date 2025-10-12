@@ -15,7 +15,7 @@ effects:
 types:
   - Healer All
   - Transform Ailments All
-  - Debuff Immunity All
+  - Mana Debuffs Immunity All
   - Mana Increase on Resist All
 passives:
   - >-
