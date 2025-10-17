@@ -16,10 +16,35 @@ types:
   - Buffs Duration Reset All
 passives:
   - >-
-    Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.
+    Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.
   - Molten Core. This character has a Molten Core.
   - >-
     The Molten Core activates each time this character’s Special Skill is cast:
   - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 147 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions'
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
 image: https://i.imgur.com/URDTarn.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 521
+  attack: 579
+  defense: 564
+  health: 688
+  skill: Dwarven Recharge
+  effects:
+    - Deals 150% damage to 8 random enemies.
+    - The duration of buffs is reset for all allies.
+  types:
+    - Hit random 8
+    - Buffs Duration Reset All
+  passives:
+    - >-
+      Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.
+    - >-
+      Molten Core. This character has a Molten Core.
+    - >-
+      The Molten Core activates each time this character’s Special Skill is cast:
+    - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 170 Burn damage, and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+    - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+  image: https://imgur.com/vPctOAj.jpg

@@ -1,8 +1,8 @@
-name: Emblem Mimic Ice
+name: Emblem Mimic Holy
 source: secretsummon
 family: mimic
 speed: Fast
-class: Wizard
+class: Cleric
 power: 1250
 attack: 1293
 defense: 1293
@@ -22,8 +22,8 @@ passives:
     Perfect Accuracy: This character’s Special Skill never misses its targets.
   - >-
     Mimic Loot: This Mimic gives a chance for extra loot when completing stages
-  - " * Master Sorcerer Emblems"
-  - " * Master Wizard Emblems"
-  - " * Sorcerer Emblems"
-  - " * Wizard Emblems"
-image: https://imgur.com/NJliyqt.jpg
+  - " * Master Cleric Emblems"
+  - " * Master Monk Emblems"
+  - " * Cleric Emblems"
+  - " * Monk Emblems"
+image: https://imgur.com/oPnI9AL.jpg

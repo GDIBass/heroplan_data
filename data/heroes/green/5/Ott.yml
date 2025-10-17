@@ -14,14 +14,41 @@ effects:
   - All allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself.)
 types:
   - Boost Health All
-  - Firestorm Ward
-  - Buff Dispel Immunity
+  - Firestorm Ward All
+  - Buff Dispel Immunity All
 passives:
   - >-
-    Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.
+    Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.
   - Molten Core. This character has a Molten Core.
   - >-
     The Molten Core activates each time this character’s Special Skill is cast:
   - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 305 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
 image: https://i.imgur.com/XIyQFXu.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 1245
+  attack: 1202
+  defense: 1279
+  health: 2438
+  skill: Gaurding Tunes
+  effects:
+    - Boosts health of all allies by 800. Boosted health can exceed max HP.
+    - All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1280. Reduces damage by additional 30% when the attacker is of the Nature element.
+    - All allies are immune to buff dispel and reallocations for 3 turns. (The immunity also includes this effect itself.)
+  types:
+    - Boost Health All
+    - Firestorm Ward All
+    - Buff Dispel Immunity All
+  passives:
+    - >-
+      Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.
+    - >-
+      Molten Core. This character has a Molten Core.
+    - >-
+      The Molten Core activates each time this character’s Special Skill is cast:
+    - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 354 Burn damage, and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+    - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+  image: https://imgur.com/xREyScg.jpg
