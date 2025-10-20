@@ -1,0 +1,29 @@
+name: Ferni
+source: wilderness
+family: wildcat
+speed: Fast
+class: Rogue
+power: 524
+attack: 575
+defense: 512
+health: 823
+skill: Lacerating Whip
+effects:
+  - Deals 300% Clawing damage to the target. (Deals 450% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)
+  - The target receives 600 Surge Bleed damage over 6 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage 1200)
+types:
+  - Hit 1
+  - DoT 1
+passives:
+  - >-
+    Nine Lives:
+  - ' * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.'
+  - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.'
+  - >-
+    Trait: Lithe Frame
+  - This character is not affect by effects that increase or reduce defense.
+  - 'This includes:'
+  - ' * - Status effect buffs and ailments.'
+  - ' * - Positive and negative stacks.'
+  - ' * - Growth and Wither effects.'
+image: https://imgur.com/V2ZgFUZ.jpg
