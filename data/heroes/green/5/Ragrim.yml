@@ -1,0 +1,30 @@
+name: Ragrim
+source: magic
+family: magiccarpet
+speed: Average
+class: Druid
+power: 1246
+attack: 1266
+defense: 1295
+health: 2255
+skill: Herbal Remedies
+effects:
+  - Destroys all Fiends from all allies. This effect damages Mega Fiends.
+  - Recovers 65% health for the ally with the lowest remaing HP. All other allies recover 45% health.
+  - "Growth: All allies get 250 attack and 250 defense."
+  - "All ailments affecting attack, defense and mana generation on the caster and nearby allies are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects and passive. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)"
+types:
+  - Fiend Destroyer All
+  - Healer All
+  - Attack Growth All
+  - Defense Growth All
+  - Transform Buffs 3
+passives:
+  - >-
+    Flight Momentum: If this character has any amount of Flight Momentum, they receive:
+  - " * Up to +35% mana generation."
+  - " * Up to +25% chance to dodge."
+  - " * The effects diminish the less Flight Momentum character has."
+  - >-
+    Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+image: https://imgur.com/0ZWHhJd.jpg
