@@ -1,0 +1,25 @@
+name: Paimon
+source: astral
+family: astraldemons
+speed: Average
+class: Sorcerer
+power: 1248
+attack: 1291
+defense: 1266
+health: 2263
+skill: Blinding Injustice
+effects:
+  - Dispels buffs from the target and nearby enemies. 
+  - Deals 440% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -50% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)
+  - The target and nearby enemies deal 450 damage to a random ally if they miss Special Skill during 4 turns.
+types:
+  - Dispeller 3
+  - Hit 3
+  - Blind 3
+passives:
+  - >-
+    Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.
+  - >-
+    Perfect Accuracy: This character’s Special Skill never misses its targets.
+image: https://imgur.com/dDtvyQ2.jpg

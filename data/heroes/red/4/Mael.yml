@@ -1,0 +1,24 @@
+name: Mael
+source: astral
+family: astraldemons
+speed: Fast
+class: Rogue
+power: 782
+attack: 811
+defense: 765
+health: 1423
+skill: Sparking Star Slash
+effects:
+  - Deals 285% damage to the target.
+  - Has 60% chance for additional hits on random enemies up to 3 times. Additional hits deals minor damage.
+  - Hit enemies receive Resonance for 3 turns. Resonance deals 125 damage each turn. Resonance deals additional damage that reverberates to 3 random enemies. (Damage can't reverberate on the same target twice in a row. Reverberating damage is reduced after each hit.)
+types:
+  - Hit 1
+  - Possible Extra Hits
+  - Resonance DoT 1
+passives:
+  - >-
+    Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.
+  - >-
+    Perfect Accuracy: This character’s Special Skill never misses its targets.
+image: https://imgur.com/cNNCvts.jpg
