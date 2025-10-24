@@ -1,0 +1,26 @@
+name: Soursting
+source: goblinvillage
+family: goblin
+speed: Fast
+class: Fighter
+power: 1246
+attack: 1322
+defense: 1271
+health: 2165
+skill: Ruthless Gambit
+effects:
+  - The target and nearby enemies can't revive their allies or themselves for 5 turns.
+  - The target and nearby enemies can't receive new status effects that would resurrect them for 5 turns.
+  - Deals 530% damage to the target and minor damage to nearby enemies.
+  - "Wither: The target and nearby allies get -380 defense."
+types:
+  - Revive Ability Block 3
+  - Revive Buff Block 3
+  - Hit 3
+  - Wither 3
+passives:
+  - >-
+    Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.
+  - " * Deals 90% damage to all enemies."
+  - " * All enemies get -25% accuracy for 3 turns."
+image: https://imgur.com/laAJZLq.jpg

@@ -1,0 +1,34 @@
+name: Emilie
+source: shadow
+family: theinstitute
+speed: Slow
+class: Cleric
+power: 1247
+attack: 1250
+defense: 1316
+health: 2261
+skill: Endless Maze
+effects:
+  - Casts Full Removal on the target. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even effects and stacks that are otherwise undispellable or uncleansable.)
+  - The target shifts into Abyss Ghost form for 5 turns.
+  - While in Abyss Ghost form the target receives 226 damage each turn.
+  - >-
+    When the Abyss Ghost form expires:
+    * Deals 1200 damage to all allies and inflicts 15 Insanity on them.
+  - Inflicts 50 Insanity to the caster.
+types:
+  - Full Removal 1
+  - Abyss Ghost 1
+  - DoT 1 while ghost
+  - Hit & Insanity All after ghost
+  - Self Insanity
+passives:
+  - >-
+    Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 5% per 10 Insanity on this character, up to a maximum of 50%.
+  - >-
+    The Eldritch Host has:  
+    * 100% inherited health.
+    * 1000 attack.
+    * 1000 defense.
+    * Special Skill: Eldritch Blight.
+image: https://imgur.com/o4gFbVk.jpg
