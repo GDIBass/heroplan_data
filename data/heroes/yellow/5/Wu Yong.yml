@@ -1,0 +1,32 @@
+name: Wu Yong
+source: kingdom
+family: outlaws
+speed: Slow
+class: Wizard
+power: 1637
+attack: 1835
+defense: 1695
+health: 3046
+skill: Clever Stratagem
+effects:
+  - This Special Skill has a chance to deal critical hits.
+  - Deals 450% damage to the target.
+  - Steals 20% mana from the target and distributes it on allies.
+  - If the target has more than 30% mana after mana stealing, the Special Skill repeats targeting a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
+  - All allies get +55% critical chance for 5 turns.
+types:
+  - Chance for Critical hit
+  - Hit 1
+  - Steal Mana 1
+  - Critical Chance Buff All
+passives:
+  - >-
+    Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.
+  - >-
+    Righteous Rebellion: 
+  - " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health."
+  - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
+  - " * Each of these effects can activate once per turn."
+  - >-
+    Resist Bleed Damage: This character has innate resistance against Bleed.    
+image: https://imgur.com/t88vH1u.jpg
