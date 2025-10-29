@@ -14,6 +14,24 @@ effects:
   - All allies get +46% defense for 4 turns.
 types:
   - Hit All
-  - Attack Buff
-  - Defense Buff
+  - Attack Buff All
+  - Defense Buff All
 image: https://i.imgur.com/BZVWKzM.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 1024
+  attack: 1117
+  defense: 911
+  health: 1809
+  skill: Strength of the Volcano
+  effects:
+    - Deals 270% damage to all enemies.
+    - All allies get +125% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +180% increased power while this effect is active.
+    - All allies get +50% defense for 4 turns.
+  types:
+    - Hit All
+    - Attack Buff All
+    - Defense Buff All
+  image: https://imgur.com/0rCfFEu.jpg

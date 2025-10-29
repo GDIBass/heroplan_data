@@ -1,0 +1,27 @@
+name: Labblub
+source: superelemental
+family: slime
+speed: Average
+class: Cleric
+power: 1636
+attack: 1772
+defense: 1695
+health: 3154
+skill: Minion Scrutiny
+effects:
+  - Destroys all Minions from all enemies and damages Mega Minions.
+  - Deals 350% damage to all enemies.
+  - All allies get 5% mana for each destroyed Minion.
+  - All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.
+types:
+  - Minion Destroyer All
+  - Hit All
+  - Mana Boost All
+  - Mana Debuffs Immunity All
+  - Mana Increase if Resist All
+passives:
+  - >-
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://imgur.com/izJsbny.jpg

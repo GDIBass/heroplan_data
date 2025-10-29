@@ -1,0 +1,34 @@
+name: Fantomo
+source: ancientUnderroot
+speed: Average
+power: 11178
+attack: 13966
+defense: 14049
+health: 12335
+skill: Orchestra of Candles 
+effects:
+  - Deals 300% damage to the target and 110% damage to all other enemies.
+  - The target gets -3500 defense against Dark and all other enemies get -1050 defense against Dark for 4 turns.
+types:
+  - Hit All
+  - Elemental Defense Debuff All
+spiritBonus:
+  spiritClass: Sorcerer
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Autumn Blaze
+  effects:
+    - All enemies receive 1100 Burn damage over 5 turns.
+    - All enemies get -15% defense, and a further -1% decrease every time they are hit during 5 turns, up to -25% defense.
+image: https://imgur.com/0Ls4pkK.jpg

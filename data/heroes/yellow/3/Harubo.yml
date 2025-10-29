@@ -1,0 +1,22 @@
+name: Harubo
+source: superelemental
+family: slime
+speed: Average
+class: Fighter
+power: 841
+attack: 1006
+defense: 824
+health: 1525
+skill: Sticky Spear
+effects:
+  - Deals 350% damage to the target.
+  - The target enemy receives Devouring Goo status ailment for 3 turns.
+  - "Devouring Goo: Removes all dispellable buffs or Growth effects, deals 150 damage per turn and 50 damage per each removed effect. (If the target has this effect, the duration will be refreshed and the extra damage from the removed effects will be added to the new effect. Damage per turn can't exceed 700.)"
+types:
+  - 
+passives:
+  - >-
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://imgur.com/tq46Oi9.jpg

@@ -1,8 +1,8 @@
-name: Emblem Mimic Holy
+name: Emblem Mimic Nature
 source: secretsummon
 family: mimic
 speed: Fast
-class: Cleric
+class: Paladin
 power: 1250
 attack: 1293
 defense: 1293
@@ -22,8 +22,8 @@ passives:
     Perfect Accuracy: This character’s Special Skill never misses its targets.
   - >-
     Mimic Loot: This Mimic gives a chance for extra loot when completing stages
-  - " * Master Cleric Emblems"
-  - " * Master Monk Emblems"
-  - " * Cleric Emblems"
-  - " * Monk Emblems"
-image: https://imgur.com/oPnI9AL.jpg
+  - " * Master Paladin Emblems"
+  - " * Master Druid Emblems"
+  - " * Paladin Emblems"
+  - " * Druid Emblems"
+image: https://imgur.com/8d6HNtm.jpg
