@@ -1001,7 +1001,7 @@ troops:
       name: Increase Status Effect Defense
       description: Defense buffs are 8% more effective for the character this Troop is equipped on.
       image: https://i.imgur.com/qMBMqK7.jpg
-five_star_Monk_Barbarian:
+  five_star_Monk_Barbarian:
     key: five_star_Monk_Barbarian
     id: 67
     stars: 5
