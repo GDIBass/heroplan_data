@@ -10,10 +10,10 @@ health: 2086
 skill: Flock of Folly
 effects:
   - Deals 400% damage to the target.
-  - Summons a Wren Fiend for the target. The Fiend damages the enemies with 55% attack every turn.
-  - The Wren Fiend absorbs healing. it disapperars after absorbing a healing amount equal to 55% of its target’s health.
+  - Summons a Wren Fiend to the target. The Fiend damages the enemies with 55% attack every turn.
+  - The Wren Fiend absorbs healing. it disapperars after absorbing a healing amount equal to 55% of its target’s max health.
   - The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. This effect can’t be cleansed.
-  - Elemental Link gives all Dark allies +20% attack for 4 turns. This effect can’t be dispelled.
+  - Element Link gives all Dark allies +20% attack for 4 turns. This effect can’t be dispelled.
 types:
   - Hit 1
   - Fiend 1
