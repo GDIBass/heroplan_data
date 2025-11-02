@@ -22,13 +22,17 @@ passives:
     Perfect Accuracy: This character’s Special Skill never misses its targets.
   - >-
     Mimic Loot: This Mimic gives a chance for extra loot when completing stages
-  - " * Tall Boots"
-  - " * Fine Gloves"
-  - " * Compass"
+  - " ****"
   - " * Damascus Blade"
   - " * Tome Of Tactics"
-  - " * Arcane Scipt"
+  - " * Farsight Telescope"
+  - " ***"
+  - " * Fine Gloves"
+  - " * Compass"
+  - " * Warm Cape"
+  - " * Battle Manual"
+  - " * Tall Boots"
   - " * Chainmail Shirt"
-  - " * Hidden Blade"
-  - " * Mystic Rings"
+  - " **"
+  - " * Strong Rope"
 image: https://imgur.com/Spg5FLa.jpg
