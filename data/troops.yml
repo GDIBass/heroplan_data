@@ -1012,17 +1012,17 @@ troops:
       - Barbarian
     images:
       full:
-        purple: https://imgur.com/bo2ipqM.jpg
-        yellow: https://imgur.com/Bp12pai.jpg
-        blue: https://imgur.com/uZ9JQ0f.jpg
-        green: https://imgur.com/otltjvQ.jpg
-        red: https://imgur.com/zQpSQHk.jpg
+        purple: https://i.imgur.com/bo2ipqM.jpg
+        yellow: https://i.imgur.com/Bp12pai.jpg
+        blue: https://i.imgur.com/uZ9JQ0f.jpg
+        green: https://i.imgur.com/otltjvQ.jpg
+        red: https://i.imgur.com/zQpSQHk.jpg
       half:
-        purple: https://imgur.com/51MXC95.jpg
-        yellow: https://imgur.com/jAObhhB.jpg
-        blue: https://imgur.com/FaPLpMz.jpg
-        green: https://imgur.com/QLNW5Nm.jpg
-        red: https://imgur.com/MDzokjW.jpg
+        purple: https://i.imgur.com/51MXC95.jpg
+        yellow: https://i.imgur.com/jAObhhB.jpg
+        blue: https://i.imgur.com/FaPLpMz.jpg
+        green: https://i.imgur.com/QLNW5Nm.jpg
+        red: https://i.imgur.com/MDzokjW.jpg
     mana_bonus:
       1: 5
       9: 7
