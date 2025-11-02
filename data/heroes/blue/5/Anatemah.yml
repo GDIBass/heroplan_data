@@ -1,0 +1,25 @@
+name: Anatemah
+source: astral
+family: astraldemons
+speed: Slow
+class: Cleric
+power: 1250
+attack: 1221
+defense: 1361
+health: 2263
+skill: Astral Orb
+effects:
+  - Deals 400% damage to 5 random enemies.
+  - Hit enemies become afflicted with Astral Orb.
+  - While afflicted with the Astral Orb the Owner can't gain new Buffs.
+  - Astral Orbs explode in 3 turns dealing 450 damage to their owner.
+  - If the Astral Orb is cleansed, the owner receives Resonance for 3 turns. Resonance deals 500 damage that reverberates to 5 random enemies each turn. (If an Astal Orb is replaced by a new Astral Orb, it explodes. This effect can happen up to 2 times per turn. Damage can't reverberate on the same target twice in a row. Reverberating damage is reduced after each hit.)
+types:
+  - Hit random 5
+  - Astral Orb to hit enemies
+passives:
+  - >-
+    Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.
+  - >-
+    Perfect Accuracy: This character’s Special Skill never misses its targets.
+image: https://imgur.com/VFI2yDa.jpg
