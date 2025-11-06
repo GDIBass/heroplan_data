@@ -1,0 +1,24 @@
+name: Kadath
+source: shadow
+family: forsaken
+speed: Fast
+class: Wizard
+power: 1251
+attack: 1303
+defense: 1268
+health: 2251
+skill: Cult of Arachnid
+effects:
+  - The target succumbs to Fear for 3 turns. (The target gets -35% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 130% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)
+  - Deals 570% damage to the target and inflicts 45 Insanity on them.
+  - If the target is defeated by the attack, then nearby enemies succumb to Fear for 3 turns. (The target gets -35% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 130% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)
+  - Inflicts 45 Insanity to the caster.
+types:
+  - Fear Debuff 1
+  - Hit 1
+  - Insanity 1
+  - Self Insanity
+passives:
+  - >-
+    Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 5% per 10 Insanity on this character, up to 50%.
+image: https://imgur.com/yyiYX5p.jpg
