@@ -1,0 +1,31 @@
+name: Marnes
+source: wilderness
+family: wildcat
+speed: Very Fast
+class: Rogue
+power: 1252
+attack: 1324
+defense: 1254
+health: 2233
+skill: Blade of Horrid Affliction
+effects:
+  - Deals 300% Clawing damage to the enemies on the edges of the formation. If there is only one enemy, the damage is doubled. (Deals 400% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 5 turns.)
+  - 'The enemies on the edges of the enemy formation receive 1500 Surge Bleed damage over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 250. Max total damage: 3000.)'
+  - The enemies on the edges of the enemy formation receive 625 Poison damage over 5 turns.
+types:
+  - Hit 2
+  - Surge Bleed DoT 2
+  - Poison DoT 2
+passives:
+  - >-
+    Nine Lives:
+  - ' * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.'
+  - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.'
+  - >-
+    Trait: Lithe Frame
+  - This character is not affected by effects that increase or reduce defense.
+  - 'This includes:'
+  - ' * Status effect buffs and ailments.'
+  - ' * Positive and negative stacks.'
+  - ' * Growth and Wither effects.'
+image: https://imgur.com/erU6rbP.jpg
