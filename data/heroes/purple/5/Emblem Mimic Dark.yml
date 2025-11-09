@@ -1,0 +1,29 @@
+name: Emblem Mimic Dark
+source: secretsummon
+family: mimic
+speed: Fast
+class: Ranger
+power: 1250
+attack: 1293
+defense: 1293
+health: 2224
+skill: Savage Gobble
+effects:
+  - Deals 480% damage to the target.
+  - If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.
+  - The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.
+  - The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)
+types:
+  - Hit 1
+  - Spreading Dot 1
+  - Mimic Chest
+passives:
+  - >-
+    Perfect Accuracy: This character’s Special Skill never misses its targets.
+  - >-
+    Mimic Loot: This Mimic gives a chance for extra loot when completing stages
+  - " * Master Rogue Emblems"
+  - " * Master Ranger Emblems"
+  - " * Rogue Emblems"
+  - " * Ranger Emblems"
+image: https://imgur.com/T6zgQ9K.jpg
