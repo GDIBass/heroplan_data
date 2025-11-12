@@ -1,0 +1,27 @@
+name: Chandel
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Average
+class: Cleric
+power: 787
+attack: 837
+defense: 775
+health: 1374
+skill: Engulfing Candlelight
+effects:
+  - "If the caster has 35 or more Humility:"
+  - " * Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled."
+  - " * Reduces max health of the enemies on the edges of the enemy formation by 500. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 500.)"
+  - "Otherwise:"
+  - " * Deals 260% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled."
+types:
+  - Hit 2
+  - Max Health Reduction 2
+passives:
+  - >-
+    Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.
+  - >-
+    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+  - >-
+    Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead.
+image: https://imgur.com/PNJlXav.jpg

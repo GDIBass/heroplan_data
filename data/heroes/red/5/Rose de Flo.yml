@@ -1,0 +1,33 @@
+name: Rose de Flo
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Very Fast
+class: Druid
+power: 1254
+attack: 1289
+defense: 1293
+health: 2257
+skill: Beautiful Petals
+effects:
+  - "If the caster has 60 or more Humility:"
+  - " * Recovers 30% health for all allies."
+  - " * Cleanses status ailments from all allies."
+  - " * All allies regenerate 1440 HP over 3 turns."
+  - " * The caster gets +74% defense against Special Skills for 3 turns."
+  - "Otherwise:"
+  - " * Recovers 20% health for all allies."
+  - " * Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)"
+  - " * All allies regenerate 900 HP over 3 turns."
+types:
+  - Healer All
+  - Cleanser All
+  - HoT All
+  - Self Special Skill Defense Buff
+passives:
+  - >-
+    Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.
+  - >-
+    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+  - >-
+    Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead.
+image: https://imgur.com/XgPwLFu.jpg
