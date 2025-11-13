@@ -1,0 +1,29 @@
+name: Halwinter
+source: covenant
+family: construct
+speed: Average
+class: Paladin
+power: 1253
+attack: 1301
+defense: 1271
+health: 2263
+skill: Soul Guardian
+effects:
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.
+  - The caster counterattacks a random enemy with 120% of the damage received for 4 turns.
+  - The caster reduces all received damage by -50% for 4 turns.
+  - The caster is immune to new status ailments for 4 turns.
+types:
+  - Taunt
+  - Random Counterattack to self
+  - Self Damage Reduction Buff
+  - Self Status Ailment Immunity
+passives:
+  - >-
+    Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.
+  - 'Minion Core: The Construct Core of this character is Minion Core.'
+  - 'The Minion Core activates each time this character’s Special Skill is cast:'
+  - " * With fully charged Minion Core, summon a Killer Bot Minion with 22% HP and 55% attack inherited from the caster on all allies."
+  - " * The HP and attack inherited from the caster is scaled by the amount of charge in Core. All charge is exhausted when the Core is activated."
+  - " * Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."
+image: https://imgur.com/aBjumTS.jpg
