@@ -35,9 +35,11 @@ costume:
   effects:
     - Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies by 55%.
     - Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%. (This has no effect on other Griffex characters.)
+    - All allies are immune to new negative mana effects for 5 turns.
   types:
     - Mana Reducer All
     - Mana Increase All
+    - Debuff Immunity All
   passives:
     - 'Troop Mastery:'
     - >-

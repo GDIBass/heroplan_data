@@ -43,11 +43,13 @@ costume:
     - If the target is of Fire element, deals 400% damage to nearby enemies.
     - The target receives 1020 Frost damage over 3 turns.
     - If the target is of Fire element, nearby enemies receive 693 Frost damage over 3 turns.
+    - Heals the caster by 30% of damage dealt.
   types:
     - Damage 1
     - Damage 2 if Fire
     - Dot 1
     - Dot 2 if Fire
+    - Self Heal
   passives:
     - >-
       'Troop Mastery:'

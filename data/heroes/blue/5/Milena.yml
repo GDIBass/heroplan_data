@@ -43,12 +43,14 @@ costume:
     - "2x Mana Charge:"
     - " * Deals 440% damage to all enemies."
     - " * Dispels buffs from all enemies."
+    - " * All enemies receive 340 Frost damage over 5 turns."
   types:
     - Charge
     - Heal All
     - Cleanser All
     - Hit All
     - Dispeller All
+    - DoT All
   passives:
     - >-
       Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.

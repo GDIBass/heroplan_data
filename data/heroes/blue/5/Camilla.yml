@@ -43,10 +43,12 @@ costume:
     - '2x Mana Charge:'
     - ' * Reduce max health of all enemies by 900. The effect is stronger against targets with boosted health. (Max health can`t get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)'
     - ' * All enemies get -58% defense against Special Skill for 5 turns.' 
+    - ' * All enemies get -45% decrease for any healing for 5 turns.'
   types:
     - Boosted Heal All
     - Max Health Reduction All
     - SS Defense Debuff All
+    - Healing Debuff All
   passives:
     - >-
       Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.

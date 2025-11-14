@@ -44,11 +44,11 @@ costume:
   effects:
     - 'Special Skill has a different effect when charged with 100%/200% mana:'
     - '1x Mana Charge:'
-    - ' * All enemies receive 645 Burn damage over 3 turns.'
+    - ' * All enemies received 645 Burn damage over 3 turns. The caster absorbs 10% of dealt Burn damage as health.'
     - ' * All enemies get -36% defense against Fire for 3 turns.'
     - ' * Dispels buffs from all enemies.'
     - '2x Mana Charge:'
-    - ' * All allies regenerate 1300 HP over 5 turns.'
+    - ' * All allies regenerate 1300 boosted health over 5 turns. Boosted health can exceed max HP.'
     - ' * All allies get +60% attack against Nature for 5 turns.'
     - ' * Cleanses status ailments from all allies.'
   types:
@@ -56,7 +56,7 @@ costume:
     - DoT All
     - Elemental Defense Debuff All
     - Dispeller
-    - HoT All
+    - Boosted HoT All
     - Elemental Attack Buff All
     - Cleanser
   passives:

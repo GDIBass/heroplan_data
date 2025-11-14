@@ -42,11 +42,13 @@ costume:
     - ' * Deals 430% damage to the target.'
     - ' * Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.'
     - '2x Mana Charge:'
+    - ' * The caster and nearby allies get +45% defense against Holy for 5 turns.'
     - ' * Increase the mana of all allies by 10%.'
     - ' * For the next 5 turns, this character deals 265% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)'
   types:
     - Hit 1
     - Mana Reduce 4 on Enemy SS
+    - Elemental Defense Buff 3
     - Mana Increase
     - Hit All on Ally SS
   passives:

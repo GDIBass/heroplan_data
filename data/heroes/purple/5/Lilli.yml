@@ -11,20 +11,23 @@ skill: Catnip Fury
 effects:
   - Steals all Minions or a Mega Minion from the target.
   - Deals 850% damage to the target.
-  - All enemies receive +50% increased damage as long as the caster has Minion or Mega Minion. This effect can’t be dispelled.
-  - "All buffs affecting attack, defense and mana generation on all enemies are transformed into matching uncleansable ailments. (Transform cannot be blocked by status effects, family effects or passives. Only buffs that are dispellable can be transformed. Transformed effects: Attack buffs are transformed into -40% attack status ailment for 4 turns. Defense buffs are transformed into -40% defense status ailment for 4 turns. Mana generation buffs are transformed into -40% mana generation status ailment for 4 turns.)"
+  - If the caster has a Minion or Mega Minion, all enemies receive +50% increased damage. This effect remains active as long as the caster has a Minion or Mega Minion, and can't be dispelled.
+  - The caster regenerates 1190 HP over 5 turns.
 types:
-  - Steals Mega/Minions
+  - Steals Mega/Minions 1
   - Hit 1
   - Damage Increased Debuff All
-  - Transform Attack Buffs All
-  - Transform Defense Buffs All
-  - Transform Mana Gen Buffs All
+  - Self HoT
 passives:
+  - >-
+     Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:
+  - " * Attack buffs are transformed into -40% attack status ailments for 3 turns."
+  - " * Defense buffs are transformed into -40% defense status ailments for 3 turns."
+  - " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns."
   - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:
   - " * Up to +35% mana generation."
-  - " * Up to +25% chance to dodge."
+  - " * Up to +25% extra chance to dodge."
   - " * The effects diminish the less Flight Momentum character has."
   - >-
     Weaker Mega Minions: Enemy Mega Minions have -75% HP.

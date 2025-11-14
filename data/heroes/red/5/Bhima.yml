@@ -4,9 +4,9 @@ family: mahayoddha
 speed: Average
 class: Barbarian
 power: 1213
-attack: 1289
-defense: 1196
-health: 2158
+attack: 1328
+defense: 1236
+health: 2261
 skill: Righteous Pulverizer
 effects:
   - This Special Skill never misses its targets.

@@ -39,7 +39,7 @@ costume:
   effects:
     - Recovers 28% health for all allies.
     - Recovers additional 4% health per each Fire shield on the board, up to 60%.
-    - All allies get +55% attack for 4 turns.
+    - All allies get 55% attack for 4 turns. This status effect is undispellable and lasts 2 turns longer on Fire allies.
     - Cleanses status ailments from all allies.
   types:
     - Heal All

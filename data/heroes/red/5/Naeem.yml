@@ -9,20 +9,23 @@ defense: 1223
 health: 2187
 skill: Countering Hammock
 effects:
-  - "All buffs affecting attack, defense and mana generation on target and nearby enemies are transformed into matching uncleansable ailments. (Transform cannot be blocked by status effects, family effects or passives. Only buffs that are dispellable can be transformed. Transformed effects: Attack buffs are transformed into -40% attack ailment for 4 turns. Defense buffs are transformed into -40% defense ailment for 4 turns. Mana generation buffs are transformed into -40% mana generation ailment for 4 turns.)"
   - Deals 330% damage to the target and nearby enemies.
   - The caster and nearby allies counterattack with 145% of the damage received for 4 turns.
   - "Caster and nearby allies get Sand Touch for 4 turns. (Sand Touch: Each time the owner of this status effect counterattacks an enemy the attacker receives 452 Sand damage over 4 turns.)"
 types:
-  - Replace Buffs 3
   - Hit 3
   - Counterattack 3
   - Sand Touch DoT on counterattack 3
 passives:
   - >-
+     Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:
+  - " * Attack buffs are transformed into -40% attack status ailments for 3 turns."
+  - " * Defense buffs are transformed into -40% defense status ailments for 3 turns."
+  - " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns."
+  - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:
   - " * Up to +35% mana generation."
-  - " * Up to +25% chance to dodge."
+  - " * Up to +25% extra chance to dodge."
   - " * The effects diminish the less Flight Momentum character has."
   - >-
     Weaker Mega Minions: Enemy Mega Minions have -75% HP.

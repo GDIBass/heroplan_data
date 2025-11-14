@@ -40,18 +40,18 @@ costume:
   effects:
     - "Special Skill has a different effect when charged with 100% / 200% mana:"
     - "1x Mana Charge:"
-    - " * The target and nearby enemies receive 350 Burn damage over 2 turns."
+    - " * All enemies receive 350 Burn damage over 2 turns. The caster absorbs 10% of dealt Burn damage as health."
     - " * If the caster is defeated during the next 2 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stack are removed when the caster is defeated."
     - "2x Mana Charge:"
     - " * Each defeated ally has a 55% chance to get revived with 44% HP."
-    - " * All allies regenerate 795 HP over 3 turns."
+    - " * All allies regenerate 795 boosted health over 3 turns. Boosted health can exceed max HP."
     - " * All allies reduce all received damage by -60% for 3 turns."
   types:
     - Charge
-    - DoT 3
+    - DoT All
     - Self resurrection
     - Reviver
-    - HoT All
+    - Boosted HoT All
     - Damage Reduction All
   passives:
     - >-

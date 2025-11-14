@@ -3,9 +3,10 @@ code: 66
 description: Super Elemental
 image: https://i.imgur.com/glk3bQk.png
 bonus:
-  - One or more shields are enhanced to Power Gems each turn.
-  - The amount is the same as <<Hero element>> heroes in the team. 5 Power Gems per element can be on the board at the same time.
+  - Super Elemental family makes teams of a specific element stronger. This hero enhances <<Hero element>> element.
+  - " * One or more shields are enhanced to Power Gems each turn."
+  - " * The amount is the same as <<Hero element>> heroes in the team. 5 Power Gems per element can be on the board at the same time."
   - The Power Gem deals 20/15/10 (5*/4*/3*) damage to a random enemy each turn until it is matched. When Power Gems are matched, they deal 10 damage to all enemies.
-bonuscostume-5star: 29/29/30/5
+bonuscostume-5star: 46/46/47/5
 bonuscostume-4star: 
 bonuscostume-3star: 
