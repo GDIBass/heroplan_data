@@ -1,0 +1,33 @@
+name: The Beast
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Slow
+class: Monk
+power: 1254
+attack: 1297
+defense: 1281
+health: 2263
+skill: Dinner with the Beast
+effects:
+  - "If the caster has 35 or more Humility:"
+  - " * Deals 430% damage to 6 random enemies."
+  - " * All hit targets get -54% defense against Dark for 4 turns."
+  - " * Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns."
+  - " * The caster regenerates 1200 boosted health over 4 turns. Boosted health can exceed max HP."
+  - "Otherwise:"
+  - " * Deals 430% damage to 5 random enemies."
+  - " * All hit targets get -40% defense against Dark for 4 turns."
+  - " * The caster regenerates 1000 boosted health over 4 turns. Boosted health can exceed max HP."
+types:
+  - Hit random 6
+  - Elemental Defense Debuff on hit
+  - Mindless Attack on hit
+  - Self Boosted HoT
+passives:
+  - >-
+    Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.
+  - >-
+    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+  - >-
+    Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead.
+image: https://imgur.com/ILZDSqW.jpg

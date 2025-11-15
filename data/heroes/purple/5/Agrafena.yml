@@ -44,7 +44,7 @@ costume:
     - '1x Mana Charge:'
     - ' * All enemies get -27% attack for 3 turns.'
     - ' * All enemies get -27% defense for 3 turns.'
-    - ' * All enemies receive 330 Poison damage over 3 turns.'
+    - ' * All enemies receive 342 Poison damage over 3 turns. The caster absorbs 10% of dealt Poison damage as health.'
     - '2x Mana Charge:'
     - ' * All allies get +50% attack, and a further 20% increase every time they are hit during 6 turns, up to +150% attack.'
     - ' * All allies get +59% defense, and a further 5% increase every time they are hit during 6 turns, up to +84% defense.'

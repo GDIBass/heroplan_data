@@ -9,7 +9,7 @@ defense: 681
 health: 1454
 skill: Dawn Strike
 effects:
-  - Deals 185% damage to all enemies.
+  - Deals 215% damage to all enemies.
   - All allies get +30% attack for 4 turns.
   - Cleanses status ailments from all allies.
   - Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't be cleansed.
@@ -28,8 +28,8 @@ costume:
   skill: Morning Catch
   effects:
     - Dispels buffs from all enemies.
-    - Deals 210% damage to all enemies.
-    - Deals additional 15% damage per removed status effect, up to 390% damage in total.
+    - Deals 240% damage to all enemies.
+    - Deals additional 15% damage per removed status effect, up to 420% damage in total.
     - Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't be dispelled.
   types:
     - Dispeller

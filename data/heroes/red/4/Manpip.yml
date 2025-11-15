@@ -10,17 +10,20 @@ health: 1289
 skill: Kindled Carpet
 effects:
   - Deals 250% damage to the target and nearby enemies.
-  - The target and nearby enemies receive 296 Burn damage over 4 turns.
-  - "All buffs affecting attack, defense and mana generation on target and nearby enemies are transformed into matching uncleansable ailments. (Transform cannot be blocked by status effects, family effects or passives. Only buffs that are dispellable can be transformed. Transformed effects: Attack buffs are transformed into -40% attack ailment for 4 turns. Defense buffs are transformed into -40% defense ailment for 4 turns. Mana generation buffs are transformed into -40% mana generation ailment for 4 turns.)"
+  - The target and nearby enemies receive 296 Burn damage over 4 turns. The caster absorbs 20% of dealt Burn damage as health.
 types:
   - Hit 3
   - DoT 3
-  - Transform Buffs 3
 passives:
+  - >-
+     Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:
+  - " * Attack buffs are transformed into -40% attack status ailments for 3 turns."
+  - " * Defense buffs are transformed into -40% defense status ailments for 3 turns."
+  - " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns."
   - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:
   - " * Up to +35% mana generation."
-  - " * Up to +25% chance to dodge."
+  - " * Up to +25% extra chance to dodge."
   - " * The effects diminish the less Flight Momentum character has."
   - >-
     Weaker Mega Minions: Enemy Mega Minions have -75% HP.

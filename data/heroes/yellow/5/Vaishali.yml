@@ -50,6 +50,7 @@ costume:
     - ' * Dispels buffs from all enemies.'
     - ' * All enemies receive 1855 Sand damage over 5 turns.'
     - ' * All enemies get -50% attack for 5 turns.'
+    - ' * All enemies get -45% decrease for any healing for 5 turns.'
   types:
     - HoT All
     - Attack Buff All
@@ -57,6 +58,7 @@ costume:
     - Dispeller All
     - DoT All
     - Attack Debuff All
+    - Healing Debuff All
   passives:
     - >-
       Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%.

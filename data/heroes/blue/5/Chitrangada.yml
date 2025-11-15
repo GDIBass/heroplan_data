@@ -4,9 +4,9 @@ family: mahayoddha
 speed: Fast
 class: Fighter
 power: 1213
-attack: 1186
-defense: 1289
-health: 2230
+attack: 1250
+defense: 1332
+health: 2263
 skill: Gift of Rejuvenation
 effects:
   - Recover 20% health for all allies.

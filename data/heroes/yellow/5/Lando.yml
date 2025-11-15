@@ -9,20 +9,23 @@ defense: 1260
 health: 2311
 skill: Two-Step Swing
 effects:
-  - "All ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. (Transform cannot be blocked by status effects, family effects or passives. Only status ailments that are dispellable can be transformed. Transformed effects: Attack status ailments are transformed into +40% attack buff for 4 turns. Defense status ailments are transformed into +40% defense buff for 4 turns. Mana generation status ailments are transformed into +40% mana generation buff for 4 turns.)"
-  - Cleanses status ailments for all allies.
+  - Safely cleanses status ailments for all allies.
   - Deals 450% damage to all enemies.
   - All allies deal 300-700 damage to a random enemy after 3 turns, based on the damage allies had taken while this effect was active. This effect is undispellable. (Maximum effect is achieved upon taking 50% of max health in damage.)
 types:
-  - Transform Ailments All
-  - Cleanser All
+  - Safely Cleanser All
   - Hit All
   - Delayed Damage All
 passives:
   - >-
+     Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:
+  - " * Attack status ailments are transformed into +40% attack buffs for 3 turns."
+  - " * Defense status ailments are transformed into +40% defense buffs for 3 turns."
+  - " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns."
+  - >-
     Flight Momentum: If this character has any amount of Flight Momentum, they receive:
   - " * Up to +35% mana generation."
-  - " * Up to +25% chance to dodge."
+  - " * Up to +25% extra chance to dodge."
   - " * The effects diminish the less Flight Momentum character has."
   - >-
     Weaker Mega Minions: Enemy Mega Minions have -75% HP.

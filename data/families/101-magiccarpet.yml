@@ -4,7 +4,7 @@ description: Magic Carpet
 image: https://i.imgur.com/wGfcQqE.png
 bonus:
   - Heroes of this family have Flight Momentum.
-  - " * Hero start with full Flight Momentum."
+  - " * Hero starts with full Flight Momentum."
   - " * At the end of each turn and when taking damage the hero loses a small amount of Flight Momentum."
   - " * When casting their Special Skill, hero gains Flight Momentum."
   - " * Slower heroes gain increased amount of Flight Momentum."

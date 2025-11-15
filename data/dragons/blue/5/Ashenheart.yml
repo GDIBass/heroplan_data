@@ -1,0 +1,36 @@
+name: Ashenheart
+source: ancientUnderroot
+speed: Average
+power: 11180
+attack:  13970
+defense: 14047
+health: 12341
+skill: Ancient Dragon Sword
+effects:
+  - Deals 300% damage to the target.
+  - The attack chains through all the enemies who are adjacent to any hit enemy and deals minor damage.
+  - All hit targets get -3000 defense against Ice for 5 turns.
+types:
+  - Hit 1
+  - Chain Hit
+  - Elemental Defense Debuff on hit enemy
+spiritBonus:
+  spiritClass: Barbarian
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Weakening Blaze
+  effects:
+    - Deals 420 damage to all enemies.
+    - All enemies get -20% attack for 5 turns.
+image: https://imgur.com/Fop1AxI.jpg

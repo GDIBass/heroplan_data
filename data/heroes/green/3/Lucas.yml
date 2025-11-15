@@ -1,0 +1,27 @@
+name: Lucas
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Fast
+class: Fighter
+power: 553
+attack: 556
+defense: 561
+health: 975
+skill: Gentleman's Cane
+effects:
+  - "If the caster has 35 or more Humility:"
+  - " * Deals 270% damage to the target and minor damage to nearby enemies."
+  - " * The caster counterattacks with 90% of the damage received for 4 turns."
+  - "Otherwise:"
+  - " * Deals 250% damage to the target and minor damage to nearby enemies."
+types:
+  - Hit 3
+  - Self Counterattack
+passives:
+  - >-
+    Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.
+  - >-
+    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+  - >-
+    Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead.
+image: https://imgur.com/7J167VG.jpg

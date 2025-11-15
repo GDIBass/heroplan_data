@@ -9,7 +9,7 @@ defense: 1268
 health: 2257
 skill: Freezing Power Hooks 
 effects:
-  - Attacks the target with Frostfall Strike, dealing up to 2200 damage. Deals 40% more if the target is of the Fire element.  This Special Skill never misses its targets.
+  - Attacks the target with Frostfall Strike, dealing up to 2500 damage. Deals 40% more if the target is of the Fire element.  This Special Skill never misses its targets.
   - Steals a random dispellable buff from the target to the caster.
   - If the target has been inflicted with Frost, Freezing Power Hooks will be recast once on a random target. (If the target is defeated, the Special Skill will not be recast.)
 types:

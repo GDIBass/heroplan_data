@@ -9,7 +9,7 @@ defense: 756
 health: 1378
 skill: Slumber Spores
 effects:
-  - Deals 320% damage to the target.
+  - Deals 350% damage to the target.
   - The target falls asleep.
   - While asleep, the target can't attack or gain mana.
   - All damage dealt to the sleeping target is increased by +60%.

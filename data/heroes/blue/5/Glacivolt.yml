@@ -10,7 +10,7 @@ health: 2245
 skill: Wrath of Frozen Soul 
 effects:
   - Deals 270% damage to all enemies.
-  - All enemies get -20% defense, and a further -5% decrease per each Ice shield on the board for 3 turns, up to -50% defense.
+  - All enemies get -25% defense, and a further -5% decrease per each Ice shield on the board for 3 turns, up to -50% defense.
   - All enemies receive 456 Frost damage over 3 turns. 
 types:
   - Hit All

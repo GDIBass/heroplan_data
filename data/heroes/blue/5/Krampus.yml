@@ -37,4 +37,7 @@ costume:
     - Taunt
     - Self Defense Buff
     - Attack Buff All
+  passives:
+    - >-
+      Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 Frost damage over 4 turns.
   image: https://i.imgur.com/fkiwdOj.jpg

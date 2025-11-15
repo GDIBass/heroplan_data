@@ -38,6 +38,7 @@ costume:
     - Deals 540% damage to the target.
     - If there are 5 or more Nature shields on the board damage is dealt to the target and nearby enemies.
     - If there are 10 or more Nature shields on the board damage is dealt to all enemies.
+    - Deals extra damage against Ice.
   types:
     - Hit 1, 3 or All
   passives:

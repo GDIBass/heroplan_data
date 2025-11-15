@@ -7,10 +7,10 @@ bonus:
   - "50%/75%/100% chance to give Cover to a random ally for 3 turns when this character casts their Special Skill."
   - "While in Cover, the ally takes no damage from Special Skill attacks or normal attacks. This character takes 60% / 50% / 40% of the damage that would by received by the character in Cover."
   - "This effect can’t be dispelled, but ends when this character is defeated. Characters can only give cover to one ally at a time."
-  - "The members of this family have additional perks in the Brave Musketeers event."
-bonuscostume-5star: 
-bonuscostume-4star: 
-bonuscostume-3star: 
+  - "The members of this family have additional perks in The Brave & The Beautiful event."
+bonuscostume-5star: 55/55/60/5
+bonuscostume-4star: 15/15/20/5
+bonuscostume-3star: 15/15/15/5
 bonuscostume2-5star: 
 bonuscostume2-4star: 
 bonuscostume2-3star: 
