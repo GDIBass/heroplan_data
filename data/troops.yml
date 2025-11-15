@@ -1042,6 +1042,47 @@ troops:
       name: Extra Healing
       description: The character this troop is equipped on receives extra 5% health once every turn if health is recovered.
       image: https://i.imgur.com/BghBCU3.jpg
+  five_star_Paladin_Cleric:
+    key: five_star_Paladin_Cleric
+    id: 68
+    stars: 5
+    name: Devoted Knight
+    description: Legendary for class Paladin and Cleric
+    classLink:
+      - Paladin
+      - Cleric
+    images:
+      full:
+        purple: https://i.imgur.com/JY38p6W.jpg
+        yellow: https://i.imgur.com/BaxGD0M.jpg
+        blue: https://i.imgur.com/6erb8sg.jpg
+        green: https://i.imgur.com/wmbwh1z.jpg
+        red: https://i.imgur.com/frppgeq.jpg
+      half:
+        purple: https://i.imgur.com/Xtwp8rL.jpg
+        yellow: https://i.imgur.com/IHkf99F.jpg
+        blue: https://i.imgur.com/Bysn14z.jpg
+        green: https://i.imgur.com/Vj6GCgU.jpg
+        red: https://i.imgur.com/MDONJmN.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 21
+      defense: 26
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 27
+      defense: 32
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Status Ailment Damage Reduction
+      description: Damage caused by status ailments is reduced by -10% for the character this Troop is equipped on.
+      image: https://i.imgur.com/sujxLHC.jpg
 
 max_level_by_stars:
   1: 10
