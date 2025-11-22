@@ -1,0 +1,36 @@
+name: Trezoro
+source: ancientUnderroot
+speed: Average
+power: 11183
+attack: 13917
+defense: 14102
+health: 12384
+skill: Gleaming Gemstones
+effects:
+  - Boosts health for the caster and nearby allies by 5000. Boosted health can exceed max HP.
+  - The caster and nearby allies counterattack with 100% of the damage received for 4 turns.
+  - The caster and nearby allies reflect status ailments and negative stacks for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be refreshed.)
+types:
+  - Boosted Heal 3
+  - Counterattack 3
+  - Ailments Reflect 3
+spiritBonus:
+  spiritClass: Fighter
+  all:
+    attack:  +200
+    defense: +160
+    health:  +60
+  elementalBond:
+    attack:  +25
+    defense: +20
+    health:  +20
+  classLink:
+    attack:  +25
+    defense: +20
+    health:  +20
+assist:
+  name: Rallying Breath
+  effects:
+    - Boosts health of all allies by 455. Boosted health can exceed max HP.
+    - All allies get +15% attack and a further 1% increase every time they are hit during 5 turns, up to +25% attack.
+image: https://imgur.com/xRpNKYZ.jpg
