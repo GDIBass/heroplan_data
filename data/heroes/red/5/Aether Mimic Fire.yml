@@ -1,0 +1,27 @@
+name: Aether Mimic Fire
+source: secretsummon
+family: mimic
+speed: Slow
+class: Sorcerer
+power: 1280
+attack: 1332
+defense: 1332
+health: 2259
+skill: Craving Nip
+effects:
+  - Deals 600% damage to the target.
+  - If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.
+  - Boosts all allies' health by 30% of damage dealt.
+  - The Mimic chest closes for 2 turns.
+types:
+  - Hit 1
+  - Damage Boosted Heal All
+  - Mimic Chest
+passives:
+  - "Perfect Accuracy: This character’s Special Skill never misses its targets."
+  - "Mimic Loot: This Mimic gives a chance for extra loot when completing stages"
+  - " * Alpha Aether"
+  - " * Fire Aether III"
+  - " * Fire Aether II"
+  - " * Fire Aether I"
+image: https://imgur.com/pU88jAN
