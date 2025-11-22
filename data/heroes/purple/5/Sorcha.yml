@@ -1,0 +1,23 @@
+name: Sorcha
+source: monsterisland
+family: plainshunter
+speed: Fast
+class: Rogue	
+power: 1255
+attack: 1314
+defense: 1262
+health: 2263
+skill: Weakening Strike
+effects:
+  - Deals 410% damage to the target and nearby enemies.
+  - Reduces max health of the target and nearby enemies by 1200 over 3 turns. This effect is stronger against targets with boosted health. The effect duration resets if the target is healed. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 400 per turn.)
+  - Deals extra damage against Holy.
+types:
+  - Hit 3
+  - Max Health Reducer 3
+passives:
+  - >-
+    Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  - >-
+    Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+image: https://imgur.com/EbNjXYR.jpg
