@@ -1,0 +1,25 @@
+name: Ali
+source: temple
+family: mahayoddha
+speed: Fast
+class: Ranger
+power: 536
+attack: 542
+defense: 549
+health: 914
+skill: Marble Frenzy
+effects:
+  - Deals 235% damage to the target.
+  - 'Growth Boon: Deals 1x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 300 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stats does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)'
+  - The target gets -44% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+types:
+  - Hit 1
+  - Growth Boon
+  - Mana Generation Debuff 1
+passives:
+  - "Mana on Damage Received:"
+  - " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana."
+  - " * Maximum of 10% mana gained per turn."
+  - >-
+    Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions.
+image: https://imgur.com/LydfuSl.jpg

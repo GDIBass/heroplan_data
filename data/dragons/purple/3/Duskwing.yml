@@ -1,0 +1,36 @@
+name: Duskwing
+source: ancientUnderroot
+speed: Average
+power: 7828
+attack: 9593
+defense: 9559
+health: 8745
+skill: Sonic Roar 
+effects:
+  - Deals 300% damage to the target.
+  - The target gets -2300 defense against Dark for 4 turns.
+  - The target gets -40% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)
+types:
+  - Hit 1
+  - Elemental Defense Debuff 1
+  - Blind 1
+spiritBonus:
+  spiritClass: Barbarian
+  all:
+    attack:  +100
+    defense: +80
+    health:  +30
+  elementalBond:
+    attack:  +15
+    defense: +10
+    health:  +12
+  classLink:
+    attack:  +15
+    defense: +10
+    health:  +12
+assist:
+  name: Blinding Blaze
+  effects:
+    - Deals 250 damage to all enemies.
+    - All enemies get -10% accuracy for 5 turns.
+image: https://imgur.com/RSpWZA7.jpg
