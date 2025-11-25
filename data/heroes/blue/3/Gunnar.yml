@@ -50,3 +50,24 @@ costume2:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/F5oS2LZ.jpg
+costume3:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 511
+  attack: 518
+  defense: 534
+  health: 825
+  skill: Glass Link
+  effects:
+    - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.
+    - All allies get +59% defense for 5 turns.
+    - All Ice allies reflect status ailments and negative stacks for 2 turns.
+  types:
+    - Ally Damage Share
+    - Defense Buff All
+    - Debuffs Reflect All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/le2bIzh.jpg

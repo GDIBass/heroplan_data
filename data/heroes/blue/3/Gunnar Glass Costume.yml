@@ -1,0 +1,24 @@
+name: Gunnar Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Slow
+class: Paladin
+power: 511
+attack: 518
+defense: 534
+health: 825
+skill: Glass Link
+effects:
+  - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.
+  - All allies get +59% defense for 5 turns.
+  - All Ice allies reflect status ailments and negative stacks for 2 turns.
+types:
+  - Ally Damage Share
+  - Defense Buff All
+  - Debuffs Reflect All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/le2bIzh.jpg

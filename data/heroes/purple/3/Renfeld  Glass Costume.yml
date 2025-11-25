@@ -1,0 +1,24 @@
+name: Renfeld Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Average
+class: Fighter
+power: 516
+attack: 499
+defense: 487
+health: 1000
+skill: Glass Stars
+effects:
+  - Deals 255% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Heals the caster for 45% of damage dealt.
+types:
+  - Hit 1
+  - Bypass
+  - Self Heal
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/LQv6YPQ.jpg
