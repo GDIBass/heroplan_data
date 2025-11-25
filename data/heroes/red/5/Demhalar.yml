@@ -26,4 +26,5 @@ passives:
   - " - 1000 attack."
   - " - 1000 defense."
   - " - Special Skill: Eldrich Bright."
+  - If this character defeats themself when activating Insanity, the chance to be reborn is always 50%.
 image: https://imgur.com/QqjpQPk.jpg
