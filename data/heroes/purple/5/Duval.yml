@@ -1,0 +1,28 @@
+name: Duval
+source: blackfriday
+family: shadyscoundrel
+speed: Fast
+class: Ranger
+power: 1258
+attack: 1295
+defense: 1293
+health: 2270
+skill: Thieving Shot
+effects:
+  - Ransacks the target, stealing health and buffs. (Steals 400 health. Safely steals one random Growth effect, positive stack, or status effect buff from the target. This includes undispellable buffs and Dance effects. Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.)
+  - Deals 560% damage to the target.
+  - The target receives 1413 Poison damage over 3 turns. This effect spreads to nearby enemies.
+types:
+  - Ransack 1
+  - Hit 1
+  - Spreading DoT 1
+passives:
+  - >- 
+    Thief's Opportunity: At the start of each turn this character has a 50% chance to Ransack a random enemy
+  - 'Ransack:'
+  - ' * Steals 200 health.'
+  - ' * Safely steals one random Growth effect, positive stack, or status effect buff from the enemy. This includes undispellable buffs and Dance effects.'
+  - ' * Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.'
+  - >-
+    Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the begining of each wave.
+image: https://imgur.com/EoQT7A5.jpg

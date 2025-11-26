@@ -15,7 +15,7 @@ effects:
   - >-
     When the Abyss Ghost form expires:
     * Deals 1200 damage to all allies and inflicts 15 Insanity on them.
-  - Inflicts 50 Insanity to the caster.
+  - Inflicts 50 Insanity on the caster.
 types:
   - Full Removal 1
   - Abyss Ghost 1
@@ -31,4 +31,5 @@ passives:
     * 1000 attack.
     * 1000 defense.
     * Special Skill: Eldritch Blight.
+  - If this character defeats themself when activating Insanity, the chance to be reborn is always 50%.
 image: https://imgur.com/o4gFbVk.jpg

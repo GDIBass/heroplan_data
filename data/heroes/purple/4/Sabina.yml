@@ -72,3 +72,24 @@ costume3:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/8kaUg4T.jpg
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 754
+  attack: 829
+  defense: 780
+  health: 1148
+  skill: Fog of the Vitrails
+  effects:
+    - Recovers 46% health for all allies.
+    - All Dark allies reflect status ailments and negative stacks for 2 turns.
+    - Dispels buffs from all enemies.
+  types:
+    - Heal All
+    - Debuff Reflect for Dark Allies
+    - Dispeller
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/4SC7QDU.jpg

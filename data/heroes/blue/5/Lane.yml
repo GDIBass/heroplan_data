@@ -1,0 +1,27 @@
+name: Lane
+source: blackfriday
+family: shadyscoundrel
+speed: Average
+class: Rogue
+power: 1258
+attack: 1273
+defense: 1316
+health: 2284
+skill: Roadside Surprise
+effects:
+  - Deals 585% damage to the target and minor damage to all other enemies.
+  - The caster goes into Ambush. Damage dealt by the caster is increased by +50%, and damage received by them is decreased by -40%. (When the character goes into Ambush, all existing cleansable ailments and Wither effects are removed. The character can't gain new ailments or Wither effects while in Ambush. This effect is uncleansable. Ambush ends once the character has received 1500 damage.)
+  - Deals extra damage against Fire.
+types:
+  - Hit All
+  - Self Ambush
+passives:
+  - >- 
+    Thief's Opportunity: At the start of each turn this character has a 50% chance to Ransack a random enemy
+  - 'Ransack:'
+  - ' * Steals 200 health.'
+  - ' * Safely steals one random Growth effect, positive stack, or status effect buff from the enemy. This includes undispellable buffs and Dance effects.'
+  - ' * Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.'
+  - >-
+    Cheat Death: The first time this character would receive fatal damage, they instead redirect that damage to a random enemy. In battles with multiple waves, the effect is refreshed at the begining of each wave.
+image: https://imgur.com/Nm1tuWv.jpg

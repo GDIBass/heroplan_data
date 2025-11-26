@@ -1,0 +1,26 @@
+name: Bulklug
+source: superelemental
+family: slime
+speed: Average
+class: Barbarian
+power: 1257
+attack: 1293
+defense: 1297
+health: 2261
+skill: Building Blocks
+effects:
+  - Deals 405% damage to target and nearby enemies.
+  - The caster and the nearby allies reflects all status ailments and 160% damage back to the attacker and block other negative effects from enemies' Fire Special Skills for 4 turns. This effect can't be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - The caster receive Slime Revive status effect for 4 turns. This effect can't be dispelled.
+  - If defeated while Slime Revive is active, the caster will be reborn as a Slime.
+types:
+  - Hit 3
+  - Elemental Reflect 3
+  - Elemental Counterattack 3
+  - Self Slime Revive
+passives:
+  - >-
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://imgur.com/xGYesJO.jpg

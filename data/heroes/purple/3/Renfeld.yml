@@ -13,7 +13,7 @@ effects:
   - Heals the caster for 50% of damage dealt.
 types:
   - Hit 1
-  - Heal Self
+  - Self Heal
 image: https://i.imgur.com/6HwABCg.jpg
 costume:
   design: costume1
@@ -46,8 +46,29 @@ costume2:
     - Deals extra damage against Holy.
   types:
     - Hit 1
-    - Heal Self
+    - Self Heal
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/D4cVPMi.jpg
+costume3:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 516
+  attack: 499
+  defense: 487
+  health: 1000
+  skill: Glass Stars
+  effects:
+    - Deals 255% damage to the target.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - Heals the caster for 45% of damage dealt.
+  types:
+    - Hit 1
+    - Bypass
+    - Self Heal
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/LQv6YPQ.jpg
