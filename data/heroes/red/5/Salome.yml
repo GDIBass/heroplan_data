@@ -1,0 +1,24 @@
+name: Salome
+source: astral
+family: astraldemons
+speed: Average
+class: Cleric
+power: 1257
+attack: 1273
+defense: 1322
+health: 2263
+skill: Astral Assistance
+effects:
+  - Destroys all Fiends from all allies. The effect damages Mega Fiends.
+  - Boosts health of all allies by 1300. Boosted health can exceed max HP.
+  - At the end of each turn, all allies shot an Astral Beam at a random enemy for 4 turns.
+  - Each Astral Beam deals 200% damage. 
+  - Each Astral Beam reduces the Max Health of the hit enemy by 200.
+types:
+  - 
+passives:
+  - >-
+    Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.
+  - >-
+    Resist Healing Ailments: This character is immune to status ailments that affect healing.
+image: https://imgur.com/KuucEcX.jpg
