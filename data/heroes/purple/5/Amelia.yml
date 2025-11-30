@@ -1,0 +1,32 @@
+name: Amelia
+source: magic
+family: magiccarpet
+speed: Very Fast
+class: Fighter
+power: 1257
+attack: 1301
+defense: 1308
+health: 2222
+skill: Swift Maneuvers
+effects:
+  - Recovers 26% health for all allies.
+  - Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)
+  - 'All allies except the caster get +34% chance to dodge Special Skills for 3 turns. Each dodge gives +27% attack stack(Max: 10).'
+types:
+  - Healer All
+  - Dispeller 1 Buff All
+  - Dodge Buff
+passives:
+  - >-
+     Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:
+  - " * Attack status ailments are transformed into +40% attack buffs for 3 turns."
+  - " * Defense status ailments are transformed into +40% defense buffs for 3 turns."
+  - " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns."
+  - >-
+    Flight Momentum: If this character has any amount of Flight Momentum, they receive:
+  - " * Up to +35% mana generation."
+  - " * Up to +25% extra chance to dodge."
+  - " * The effects diminish the less Flight Momentum character has."
+  - >-
+    Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+image: https://imgur.com/XsBc2Vs.jpg
