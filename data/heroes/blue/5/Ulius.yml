@@ -45,7 +45,7 @@ costume:
     - '2x Mana Charge:'
     - ' * Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 120% attack every turn.'
     - ' * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 70% of its target’s max health.'
-    - ' * The caster steals 45% of generated mana from all enemies. The effect lasts as long as the target has Cursed Sigil Fiends. This effect can't be cleansed, but it gets removed if the caster is defeated.'
+    - " * The caster steals 45% of generated mana from all enemies. The effect lasts as long as the target has Cursed Sigil Fiends. This effect can't be cleansed, but it gets removed if the caster is defeated."
   types:
     - Charge
     - Minion Summoner All
