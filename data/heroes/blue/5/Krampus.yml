@@ -22,10 +22,10 @@ image: https://i.imgur.com/9L71cZ8.jpg
 costume:
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 1039
-  attack: 1013
-  defense: 1058
-  health: 1884
+  power: 1055
+  attack: 1028
+  defense: 1074
+  health: 1926
   skill: Merriest Misery
   effects:
     - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
@@ -39,5 +39,5 @@ costume:
     - Attack Buff All
   passives:
     - >-
-      Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 Frost damage over 4 turns.
+      Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 388 Frost damage over 4 turns.
   image: https://i.imgur.com/fkiwdOj.jpg

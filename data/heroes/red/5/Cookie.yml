@@ -14,6 +14,6 @@ effects:
   - All enemies receive a Mystery Potion. After 3 turns the Mystery Potion explodes and deals 450 damage to the target. After the explosion the target can’t gain mana for 3 turns.
 types:
   - Mana reduction All
-  - Summoner
-  - Bomb All
+  - Summoner All
+  - Bomb Debuff All
 image: https://i.imgur.com/n61JoD1.jpg

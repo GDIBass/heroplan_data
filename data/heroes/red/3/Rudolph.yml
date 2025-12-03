@@ -17,3 +17,26 @@ types:
   - Mana Reduction
   - Summoner
 image: https://i.imgur.com/mEYb8Ac.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 531
+  attack: 648
+  defense: 477
+  health: 755
+  skill: Titanium Antler Attack
+  effects:
+    - Deals 295% damage to the target.
+    - Reduces the mana of the target by 23%.
+    - Summons an Elf Minion with 10% HP and 10% attack inherited from the caster.
+    - The caster gets +24% defense for 3 turns.
+  types:
+    - Hit 1
+    - Mana Reduction 1
+    - Summoner
+    - Self Defense Buff
+  passives:
+    - >-
+      Frost on Minion Hit: Each hit from the Minions owned by this character inflict 244 Frost damage over 4 turns.
+  image: https://imgur.com/1zUQ99W.jpg

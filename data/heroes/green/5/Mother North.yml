@@ -20,10 +20,10 @@ image: https://i.imgur.com/463IXXp.jpg
 costume:
   bonuses: 5/5/10/5
   class: Monk
-  power: 996
-  attack: 789
-  defense: 1120
-  health: 2015
+  power: 1012
+  attack: 801
+  defense: 1137
+  health: 2060
   skill: Hyper Porridge
   effects:
     - Each fallen ally has a 55% chance to get revived with 15% HP.
@@ -35,5 +35,5 @@ costume:
     - HoT All
   passives:
     - >-
-      Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 Frost damage over 4 turns.
+      Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 304 Frost damage over 4 turns.
   image: https://i.imgur.com/0QsTiw8.jpg
