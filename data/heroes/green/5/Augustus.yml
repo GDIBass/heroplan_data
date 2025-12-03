@@ -15,8 +15,8 @@ effects:
   - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
   - All allies get +34% defense and a further 6% increase per each Nature shields on the board for 5 turns, up to +82% defense.
 types:
-  - Cleanser
-  - Health Boost
-  - Summoner
-  - Defense Buff
+  - Cleanser All
+  - Boosted Health All
+  - Summoner All
+  - Defense Buff All
 image: https://i.imgur.com/AEEIfML.jpg

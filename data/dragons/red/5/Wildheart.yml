@@ -1,0 +1,34 @@
+name: Wildheart
+source: ancientUnderroot
+speed: Average
+power: 11185
+attack: 13993
+defense: 14053
+health: 12306
+skill: Doomrend
+effects:
+  - Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.
+  - The enemies on the edges of the enemy formation receive 5600 Bleed damage over 4 turns. This effect spreads to nearby enemies.
+types:
+  - Hit 2
+  - Spreading DoT 2
+spiritBonus:
+  spiritClass: Paladin
+  all:
+    attack: 200
+    defense: 160
+    health: 60
+  elementalBond:
+    attack: 25
+    defense: 20
+    health: 20
+  classLink:
+    attack: 25
+    defense: 20
+    health: 20 
+assist:
+  name: Blinding Blaze
+  effects:
+    - Deals 420 damage to all enemies.
+    - All enemies get -20% accuracy for  5 turns.
+image: https://imgur.com/DES0Py0.jpg

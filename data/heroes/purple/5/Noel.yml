@@ -1,0 +1,23 @@
+name: Noel
+source: christmas
+family: christmas
+speed: Fast
+class: Monk
+power: 1259
+attack: 1279
+defense: 1326
+health: 2253
+skill: Sledge Bash
+effects:
+  - Boosts health for all allies by 760. Boosted health can exceed max HP.
+  - 'Enhanced Dodge: All allies get +50% chance to dodge Special Skills that deal damage. This effect lasts until the ally successfully dodge once.'
+  - After the Enhance Dodge ends or is removed or replaced, the ally gets a Snowsprite Minion.
+  - The Snowsprite Minion has 20% HP and 20% attack inherited from the caster.
+types:
+  - Boosted Heal All
+  - Enhanced Dodge All
+  - Summoner All
+passives:
+  - >-
+    Frost on Minion Hit: Each hit from the Minions owned by this character inflict 484 Frost damage over 4 turns.
+image: https://imgur.com/vYCIB57.jpg

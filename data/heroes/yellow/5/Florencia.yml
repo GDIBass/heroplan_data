@@ -1,0 +1,23 @@
+name: Florencia
+source: christmas
+family: christmas
+speed: Average
+class: Cleric
+power: 1259
+attack: 1322
+defense: 1266
+health: 2263
+skill: Watchful Duty
+effects:
+  - This Special Skill never misses its targets.
+  - Deals 345% damage to all enemies.
+  - The enemy that had the highest remaining HP gets silence for 4 turns.
+  - Summons an Snowsprite Minion for each ally with 20% HP and 20% attack inherited from the caster.
+types:
+  - Hit All
+  - Silence 1
+  - Summoner All
+passives:
+  - >-
+    Frost on Minion Hit: Each hit from the Minions owned by this character inflict 500 Frost damage over 4 turns.
+image: https://imgur.com/d4FSEfL.jpg

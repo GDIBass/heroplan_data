@@ -28,3 +28,33 @@ passives:
   - >-
     Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
 image: https://i.imgur.com/rdw7YpR.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 1256
+  attack: 1236
+  defense: 1266
+  health: 2459
+  skill: Scroll of Navigation
+  effects:
+    - 'Special Skill has a different effect when charged with 100%/200% mana:'
+    - '1x Mana Charge:'
+    - ' * Summons an Enchanted Sigil Minion for each ally with 16% HP and 25% attack inherited from the caster.'
+    - ' * When summoned, the Enchanted Sigil Minion gives small amount of mana for its owner for as long as the owner has Enchanted Sigil Minions. This effect can’t be dispelled.'
+    - '2x Mana Charge:'
+    - ' * Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 120% attack every turn.'
+    - ' * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 70% of its target’s max health.'
+    - " * The caster steals 45% of generated mana from all enemies. The effect lasts as long as the target has Cursed Sigil Fiends. This effect can't be cleansed, but it gets removed if the caster is defeated."
+  types:
+    - Charge
+    - Minion Summoner All
+    - Fiend Summoner All
+  passives:
+    - >-
+      Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.
+    - >-
+      Stack on Special: When this character casts their Special Skill, all enemies get -7% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
+    - >-
+      Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+  image: https://imgur.com/4u9xwFi.jpg

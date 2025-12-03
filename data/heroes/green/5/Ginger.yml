@@ -14,6 +14,29 @@ effects:
   - All allies’ except the caster’s Special Skill deal an additional +20% damage for 3 turns.
 types:
   - Summoner 
-  - Assist Hit 1
+  - Hit 1 on Ally SS
   - SS Damage Buff All
 image: https://i.imgur.com/U9fsiDu.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 1257
+  attack: 1317
+  defense: 1278
+  health: 2242
+  skill: Hasty Gift Wrapper
+  effects:
+    - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
+    - For the next 3 turns, this character deals 520% damage to a random enemy each time any other ally casts their Special Skill. (Damage is dealt on the first Special Skill cast of each character per turn.)
+    - All allies except the caster get +15% mana generation for 3 turns.
+    - All allies’ except the caster’s Special Skill deal an additional +24% damage for 3 turns.
+  types:
+    - Summoner All
+    - Hit 1 on Ally SS
+    - Mana generation Buff 4
+    - SS Damage Buff All
+  passives:
+    - >-
+      Frost on Minion Hit: Each hit from the Minions owned by this character inflict 500 Frost damage over 4 turns.
+  image: https://imgur.com/8ijqdEk.jpg
