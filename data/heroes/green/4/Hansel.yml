@@ -1,22 +1,22 @@
 name: Hansel
-class: Cleric
 source: fables
 family: grimforest
 speed: Fast
+class: Cleric
 power: 646
 attack: 699
 defense: 601
 health: 1064
 skill: Witch Killer
 effects:
-  - Deals 255% damage to the target
-  - >-
-    Automatically does 146 damage to the target and consumes 50% mana from the 
-    target when the target’s mana is full for 3 turns.
-  - The caster gets +74% defense against Special Skills for 3 turns
+  - Deals 255% damage to the target.
+  - Automatically does 146 damage to the target and consumes 50% mana from the target when the target’s mana is full for 3 turns.
+  - The caster gets +74% defense against Special Skills for 3 turns.
 types:
   - Hit 1
-  - Mindless Attack
+  - Damage when Full Mana 1
+  - Mana Reducer when Full Mana 1
+  - Self SS Defense Buff
 image: https://i.imgur.com/SkK8Ieu.jpg
 costume:
   bonuses: 5/5/10/5
@@ -28,11 +28,11 @@ costume:
   skill: Vampire Killer
   effects:
     - Deals 209% damage to the target.
-    - >-
-      Automatically does 341 damage to the target and consumes 50% mana from 
-      the target when the target’s mana is full for 3 turns.
+    - Automatically does 341 damage to the target and consumes 50% mana from the target when the target’s mana is full for 3 turns.
     - The caster gets +84% defense against Special Skills for 3 turns.
   types:
     - Hit 1
-    - Mindless Attack
+    - Damage when Full Mana 1
+    - Mana Reducer when Full Mana 1
+    - Self SS Defense Buff
   image: https://i.imgur.com/ZWQ8poJ.jpg

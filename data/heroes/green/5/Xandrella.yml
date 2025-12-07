@@ -14,7 +14,9 @@ effects:
   - Alters the power of all Nature shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
 types:
   - Hit 1
-  - Hit Blue
+  - Hit All Ice
+  - Damage when Full Mana on Hit
+  - Mana Reducer when Full Mana on Hit
   - Board Alterer
 passives:
   - 'Troop Mastery:'

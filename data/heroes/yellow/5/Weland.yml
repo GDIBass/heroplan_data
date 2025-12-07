@@ -18,7 +18,7 @@ effects:
 types:
   - Hit All
   - Drop to 1 Damage All
-  - Source of Buffs 1
+  - Source of Buffs Random 1
 passives:
   - >-
     Perfect Accuracy: This character’s Special Skill never mises its target.
