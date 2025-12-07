@@ -7,8 +7,8 @@ power: 1259
 attack: 1310
 defense: 1283
 health: 2259
-effects: Mutated Specimen
-skill: 
+skill: Mutated Specimen
+effects:
   - "Growth: The caster and nearby allies get 400 attack."
   - Summon an Aberration Mega Minion with 40% HP and 170% attack inherited from the caster.
   - "Each hit from an Aberration Mega Minion gives the target the following status ailment:"
