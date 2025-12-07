@@ -1,0 +1,32 @@
+name: Ellery
+source: shadow
+family: theinstitute
+speed: Average
+class: Sorcerer
+power: 1259
+attack: 1310
+defense: 1283
+health: 2259
+effects: Mutated Specimen
+skill: 
+  - "Growth: The caster and nearby allies get 400 attack."
+  - Summon an Aberration Mega Minion with 40% HP and 170% attack inherited from the caster.
+  - "Each hit from an Aberration Mega Minion gives the target the following status ailment:"
+  - " * The target receives 489 Toxin damage over 3 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion.  (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)"
+  - " * Inflicts 10 Insanity on the target."
+  - Inflicts 50 Insanity to the caster.
+types:
+  - Growth 3
+  - Aberration Mega Minion
+  - MM DoT 1
+  - MM Insanity 1
+  - Self Insanity
+passives:
+  - "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 5% per 10 Insanity on this character, up to maximum chance of 50%."
+  - "The Eldritch Host has:"
+  - " - 100% inherited health."
+  - " - 1000 attack."
+  - " - 1000 defense."
+  - " - Special Skill: Eldrich Bright."
+  - If this character defeats themself when activating Insanity, the chance to be reborn is always 50%.
+image: https://imgur.com/tlI5XWl.jpg
