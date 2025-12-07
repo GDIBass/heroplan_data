@@ -14,6 +14,7 @@ effects:
   - The caster and nearby allies have 55% chance to drop any received damage to 1 for 4 turns. If this effect is dispelled, it dispels buffs from all enemies.
 types:
   - Hit all
+  - Drop to 1 Damage 3
 passives:
   - >-
     Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.

@@ -1,0 +1,18 @@
+name: Jax
+source: shadow
+family: forsaken
+speed: Very Fast
+class: Rogue
+power: 537
+attack: 533
+defense: 568
+health: 908
+skill: Ravenous Pounce
+effects:
+  - Deals 175% damage to the enemies on the edges of the enemy formation and inflicts 15 Insanity on them. If there is only one enemy the damage and Insanity is doubled.
+  - Inflicts 35 Instanity to the caster.
+types:
+  - Hit 2
+  - Insanity 2
+  - Self Insanity
+image: https://imgur.com/Yf9tnXF.jpg

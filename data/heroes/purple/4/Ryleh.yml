@@ -1,0 +1,24 @@
+name: Ryleh
+source: shadow
+family: theinstitute
+speed: Average
+class: Wizard
+power: 793
+attack: 792
+defense: 820
+health: 1442
+skill: Binding Contract
+effects:
+  - Deals 400% damage to the target and inflicts 30 Insanity on them.
+  - The target gets Soul Bound for 3 turns. This effect can’t be cleansed. (This effect always bypass reflection.)
+  - All damage received by the caster is also dealt to all Soul Bound enemies. (Damage is shared between all Soul Bound enemies. This effect wil not share damage incoming from other shared damage sources or counterattacks.)
+  - Inflicts 55 Insanity to the caster.
+types:
+  - Hit 1
+  - Insanity 1
+  - Soul Bound 1
+  - Self Insanity
+passives:
+  - >-
+    Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 5% per 10 Insanity on this character, up to 50%.
+image: https://imgur.com/1pjsGzn.jpg
