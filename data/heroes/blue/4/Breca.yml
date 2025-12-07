@@ -1,0 +1,25 @@
+name: Breca
+source: beowulf
+family: beowulf
+speed: Slow
+class: Sorcerer
+power: 794
+attack: 794
+defense: 792
+health: 1502
+skill: Trial of the Waters
+effects:
+  - Deals 220% damage to all enemies.
+  - All allies get +35% defense for 5 turns. This effect duration is reset if the status effect owner is hit with direct damage from Special Skill.
+  - All allies recover 500 HP over 5 turns. This effect duration is reset if the status effect owner is hit with direct damage from Special Skill.
+  - Deals extra damage against Fire.
+types:
+  - Hit All
+  - Defense Buff All
+  - HoT
+passives:
+  - >-
+    Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.
+  - >-
+    Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.
+image: https://imgur.com/JMxr5yp.jpg

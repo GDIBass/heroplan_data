@@ -1,0 +1,29 @@
+name: Weland
+source: beowulf
+family: beowulf
+speed: Slow
+class: Monk
+power: 1260
+attack: 1291
+defense: 1312
+health: 2261
+skill: Gleaming Sword and Iron Mail
+effects:
+  - Deals 475% damage to all enemies.
+  - All allies have a 45% chance to drop any received damage to 1 for 5 turns.
+  - "Source of Buffs: The following effects are cast on a random ally at the start of each turn:"
+  - " * +100% Special Skill damage for 5 turns."
+  - " * +44% mana generation for 5 turns."
+  - The Source of Buffs will activate 6 times. Each attempt to dispel it removes one activation.
+types:
+  - Hit All
+  - Drop to 1 Damage All
+  - Source of Buffs 1
+passives:
+  - >-
+    Perfect Accuracy: This character’s Special Skill never mises its target.
+  - >-
+    Empowered Resist Mana Reduction: This character is immune to mana reduction. They also gain 600 boosted health and 10% mana each time they resist.
+  - >-
+    Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.
+image: https://imgur.com/MXIFsEd.jpg
