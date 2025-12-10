@@ -17,17 +17,17 @@ types:
 spiritBonus:
   spiritClass: Sorcerer
   all:
-    attack: 200
-    defense: 160
-    health: 60
+    attack: +250
+    defense: 200
+    health: +100
   elementalBond:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +35
+    defense: +30
+    health: +30
   classLink:
-    attack: 25
-    defense: 20
-    health: 20 
+    attack: +35
+    defense: +30
+    health: +30 
 assist:
   name: Corrosive Blaze
   effects:
