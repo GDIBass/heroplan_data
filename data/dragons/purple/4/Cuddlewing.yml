@@ -17,17 +17,17 @@ types:
 spiritBonus:
   spiritClass: Ranger
   all:
-    attack: 160
-    defense: 120
-    health: 45
+    attack: +160
+    defense: +120
+    health: +45
   elementalBond:
-    attack: 20
-    defense: 15
-    health: 15
+    attack: +20
+    defense: +15
+    health: +15
   classLink:
-    attack: 20
-    defense: 15
-    health: 15 
+    attack: +20
+    defense: +15
+    health: +15 
 assist:
   name: Fiery Blaze
   effects:
