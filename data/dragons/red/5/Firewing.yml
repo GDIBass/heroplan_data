@@ -15,20 +15,22 @@ types:
 spiritBonus:
   spiritClass: Ranger
   all:
-    attack: 200
-    defense: 160
-    health: 60
+    attack: +250
+    defense: +200
+    health: +100
   elementalBond:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +35
+    defense: +30
+    health: +30
   classLink:
-    attack: 25
-    defense: 20
-    health: 20 
+    attack: +35
+    defense: +30
+    health: +30 
 assist:
   name: Rallying Breath
   effects:
+    - Deals 400 damage to all enemies.
+    - Recovers 200 health for all allies.
     - Boosts health of all allies by 450. Boosted health can exceed max HP.
     - All allies get +15% attack and a further 1% increase every time they are hit during 5 turns, up to +25% attack.
 image: https://imgur.com/6zA5BV6.jpg

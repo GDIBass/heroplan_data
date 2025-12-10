@@ -1,10 +1,10 @@
 name: Ardere
 source: season1
 speed: Average
-attack:  9614
+attack: 9614
 defense: 9628
-health:  8526
-power:   7824
+health: 8526
+power: 7824
 skill: Volcanic Rush
 effects:
   - Deals 300% damage to the target.
@@ -17,20 +17,21 @@ types:
 spiritBonus:
   spiritClass: Rogue
   all:
-    attack: 100
-    defense: 80
-    health: 30
+    attack: +100
+    defense: +80
+    health: +30
   elementalBond:
-    attack: 15
-    defense: 10
-    health: 12
+    attack: +15
+    defense: +10
+    health: +12
   classLink:
-    attack: 15
-    defense: 10
-    health: 12 
+    attack: +15
+    defense: +10
+    health: +12 
 assist:
   name: Charring Blaze
   effects:
-    - Deals 250 damage to all enemies.
+    - Deals 350 damage to all enemies.
+    - Recovers 50 health for all allies.
     - All enemies receive 100 Burn damage over 5 turns.
 image: https://imgur.com/qX4ej5X.jpg

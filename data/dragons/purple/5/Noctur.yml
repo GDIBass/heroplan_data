@@ -1,10 +1,10 @@
 name: Noctur
 source: season1
 speed: Fast
-attack:  13705
+attack: 13705
 defense: 13637
-health:  11985
-power:   10923
+health: 11985
+power: 10923
 skill: Wings of Laceration
 effects:
   - Deals 250% damage to the target and 150% damage to all other enemies.
@@ -15,20 +15,21 @@ types:
 spiritBonus:
   spiritClass: Barbarian
   all:
-    attack: 200
-    defense: 160
-    health: 60
+    attack: +225
+    defense: +180
+    health: +80
   elementalBond:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +30
+    defense: +25
+    health: +25
   classLink:
-    attack: 25
-    defense: 20
-    health: 20 
+    attack: +30
+    defense: +25
+    health: +25
 assist:
   name: Dampening Blaze
   effects:
-    - Deals 450 damage to all enemies.
+    - Deals 1000 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies get -10% mana generation for 5 turns.
 image: https://imgur.com/3oqDF0B.jpg

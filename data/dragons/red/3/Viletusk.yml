@@ -17,20 +17,21 @@ types:
 spiritBonus:
   spiritClass: Paladin
   all:
-    attack: 100
-    defense: 80
-    health: 30
+    attack: +100
+    defense: +80
+    health: +30
   elementalBond:
-    attack: 15
-    defense: 10
-    health: 12
+    attack: +15
+    defense: +10
+    health: +12
   classLink:
-    attack: 15
-    defense: 10
-    health: 12 
+    attack: +15
+    defense: +10
+    health: +12 
 assist:
   name: Searing Blaze
   effects:
-    - Deals 250 damage to all enemies.
+    - Deals 350 damage to all enemies.
+    - Recovers 50 health for all allies.
     - All enemies get -10% attack for 5 turns.
 image: https://i.imgur.com/WOuFz4h.jpg

@@ -15,20 +15,22 @@ types:
 spiritBonus:
   spiritClass: Sorcerer
   all:
-    attack: 200
-    defense: 160
-    health: 60
+    attack: +250
+    defense: +200
+    health: +100
   elementalBond:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +35
+    defense: +30
+    health: +30
   classLink:
-    attack: 25
-    defense: 20
-    health: 20 
+    attack: +35
+    defense: +30
+    health: +30 
 assist:
   name: Autumn Blaze
   effects:
+    - Deals 400 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies receive 1100 Burn damage over 5 turns.
     - All enemies get -15% defense, and a further -1% decrease every time they are hit during 5 turns, up to -25% defense.
 image: https://imgur.com/0Ls4pkK.jpg

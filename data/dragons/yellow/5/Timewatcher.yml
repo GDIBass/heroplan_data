@@ -15,20 +15,21 @@ types:
 spiritBonus:
   spiritClass: Druid
   all:
-    attack: 200
-    defense: 160
-    health: 60
+    attack: +250
+    defense: +200
+    health: +100
   elementalBond:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +35
+    defense: +30
+    health: +30
   classLink:
-    attack: 25
-    defense: 20
-    health: 20 
+    attack: +35
+    defense: +30
+    health: +30 
 assist:
   name: Breath of Revival
   effects:
-    - Recovers 650 health for all allies.
+    - Recovers 850 health for all allies.
+    - Deals 400 damage to all enemies.
     - Each defeated ally has a 15% chance to get revived with 15% HP.
 image: https://i.imgur.com/vS5tZC9.jpg

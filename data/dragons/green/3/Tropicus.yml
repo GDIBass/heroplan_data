@@ -15,20 +15,22 @@ types:
 spiritBonus:
   spiritClass: Rogue
   all:
-    attack: 100
-    defense: 80
-    health: 30
+    attack: +100
+    defense: +80
+    health: +30
   elementalBond:
-    attack: 15
-    defense: 10
-    health: 12
+    attack: +15
+    defense: +10
+    health: +12
   classLink:
-    attack: 15
-    defense: 10
-    health: 12 
+    attack: +15
+    defense: +10
+    health: +12 
 assist:
   name: Blaze of Suppression
   effects:
+    - Deals 100 damage to all enemies.
+    - Recovers 50 health for all allies.
     - All enemies receive 250 Burn damage over 5 turns.
     - Dispels buffs from all enemies.
 image: https://i.imgur.com/iLpWHXW.jpg

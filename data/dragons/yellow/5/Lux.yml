@@ -1,10 +1,10 @@
 name: Lux
 source: season1
 speed: Slow
-attack:  13775
+attack: 13775
 defense: 13859
-health:  12096
-power:   11025
+health: 12096
+power: 11025
 skill: Sanctuary of Light
 effects:
   - Recovers 8000 health for all allies.
@@ -17,20 +17,21 @@ types:
 spiritBonus:
   spiritClass: Cleric
   all:
-    attack: 200
-    defense: 160
-    health: 60
+    attack: +225
+    defense: +180
+    health: +80
   elementalBond:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +30
+    defense: +25
+    health: +25
   classLink:
-    attack: 25
-    defense: 20
-    health: 20 
+    attack: +30
+    defense: +25
+    health: +25
 assist:
   name: Inspirational Breath
   effects:
-    - Recovers 750 health for all allies.
+    - Recovers 950 health for all allies.
+    - Deals 400 damage to all enemies.
     - All allies get +30% critical chance for 5 turns.
 image: https://imgur.com/JtDxhXC.jpg

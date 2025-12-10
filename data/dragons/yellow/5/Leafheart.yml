@@ -1,10 +1,10 @@
 name: Leafheart
 source: season1
 speed: Average
-attack:  13626
+attack: 13626
 defense: 13742
-health:  11970
-power:   10922
+health: 11970
+power: 10922
 skill: Wings of Thorn
 effects:
   - Deals 300% damage to the target and 175% damage to nearby enemies.
@@ -17,21 +17,22 @@ types:
 spiritBonus:
   spiritClass: Monk
   all:
-    attack: 200
-    defense: 160
-    health: 60
+    attack: +225
+    defense: +180
+    health: +80
   elementalBond:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +30
+    defense: +25
+    health: +25
   classLink:
-    attack: 25
-    defense: 20
-    health: 20 
+    attack: +30
+    defense: +25
+    health: +25
 assist:
   name: Sacred Flame
   effects:
-    - Deals 350 damage to all enemies.
+    - Deals 750 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All allies heal 40% of dealt normal damage for 5 turns.
     - Cleanses status ailments from all allies.
 image: https://imgur.com/ggBegTz.jpg

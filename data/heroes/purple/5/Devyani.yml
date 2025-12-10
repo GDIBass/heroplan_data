@@ -1,0 +1,26 @@
+name: Devyani
+source: temple
+family: mahayoddha
+speed: Very Fast
+class: Ranger
+power: 1261
+attack: 1328
+defense: 1268
+health: 2261
+skill: Righteous Stance
+effects:
+  - This Special Skill never misses its targets.
+  - Deals 500% damage to the target.
+  - 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Wither and Growth modify character`s Ability Scores.)'
+  - 'Wither: The target get -350 defense.'
+types:
+  - Hit 1
+  - Growth Boon 1
+  - Wither 1
+passives:
+  - "Mana on Damage Received:"
+  - " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana."
+  - " * Maximum of 10% mana gained per turn."
+  - >-
+    Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions.
+image: https://imgur.com/EHCDuod.jpg

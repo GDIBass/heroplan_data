@@ -1,10 +1,10 @@
 name: Shen Lin
 source: season1
 speed: Slow
-attack:  11781
+attack: 11781
 defense: 12038
-health:  10275
-power:   9522
+health: 10275
+power: 9522
 skill: Breath of Life
 effects:
   - Recovers 6500 health for all allies.
@@ -17,20 +17,21 @@ types:
 spiritBonus:
   spiritClass: Wizard
   all:
-    attack: 160
-    defense: 120
-    health: 45
+    attack: +160
+    defense: +120
+    health: +45
   elementalBond:
-    attack: 20
-    defense: 15
-    health: 15
+    attack: +20
+    defense: +15
+    health: +15
   classLink:
-    attack: 20
-    defense: 15
-    health: 15 
+    attack: +20
+    defense: +15
+    health: +15 
 assist:
   name: Revitalizing Breath
   effects:
-    - Recovers 400 health for all allies.
+    - Recovers 500 health for all allies.
+    - Deals 200 damage to all enemies.
     - All allies regenerate 150 HP over 5 turns.
 image: https://imgur.com/y7zLp85.jpg

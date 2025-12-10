@@ -1,10 +1,10 @@
 name: Nimblewing
 source: season1
 speed: Fast
-attack:  11472
+attack: 11472
 defense: 11686
-health:  10328
-power:   9323
+health: 10328
+power: 9323
 skill: Gust of Swiftness
 effects:
   - Deals 130% damage to all enemies.
@@ -15,21 +15,22 @@ types:
 spiritBonus:
   spiritClass: Paladin
   all:
-    attack: 160
-    defense: 120
-    health: 45
+    attack: +160
+    defense: +120
+    health: +45
   elementalBond:
-    attack: 20
-    defense: 15
-    health: 15
+    attack: +20
+    defense: +15
+    health: +15
   classLink:
-    attack: 20
-    defense: 15
-    health: 15 
+    attack: +20
+    defense: +15
+    health: +15 
 assist:
   name: Strengthening Flame
   effects:
-    - Recovers 300 health for all allies.
+    - Recovers 400 health for all allies.
+    - Deals 200 damage to all enemies.
     - All allies get +10% defense for 5 turns.
     - All allies get +10% attack for 5 turns.
 image: https://imgur.com/YVoZTfB.jpg

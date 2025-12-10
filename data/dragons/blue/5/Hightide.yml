@@ -2,7 +2,7 @@ name: Hightide
 source: ancientUnderroot
 speed: Slow
 power: 11170
-attack:  13900
+attack: 13900
 defense: 14080
 health: 12376
 skill: Impeccable Charge
@@ -17,20 +17,22 @@ types:
 spiritBonus:
   spiritClass: Fighter
   all:
-    attack: 200
-    defense: 160
-    health: 60
+    attack: +250
+    defense: +200
+    health: +100
   elementalBond:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +35
+    defense: +30
+    health: +30
   classLink:
-    attack: 25
-    defense: 20
-    health: 20 
+    attack: +35
+    defense: +30
+    health: +30 
 assist:
   name: Draining Blaze
   effects:
+    - Deals 400 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies receive 1100 Burn damage over 5 turns.
     - All enemies get -30% decrease for any healing received for 5 turns.
 image: https://imgur.com/qRd6Arr.jpg

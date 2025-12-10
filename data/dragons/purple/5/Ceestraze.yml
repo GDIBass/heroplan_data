@@ -1,0 +1,37 @@
+name: Ceestraze
+source: ancientUnderroot
+speed: Average
+power: 11188
+attack: 13991
+defense: 14065
+health: 12310
+skill: Cheese Wheel Rampage
+effects:
+  - Deals 200% damage to all enemies.
+  - All enemies receive 4000 Poison damage over 4 turns.
+  - All enemies take +25% increased damage form status ailments for 4 turns.
+types:
+  - Hit All
+  - DoT All
+  - Increased Damage from Ailments All
+spiritBonus:
+  spiritClass: Cleric
+  all:
+    attack: +250
+    defense: +200
+    health: +100
+  elementalBond:
+    attack: +35
+    defense: +30
+    health: +30
+  classLink:
+    attack: +35
+    defense: +30
+    health: +30 
+assist:
+  name: Wounding Blaze
+  effects:
+    - Deals 900 damage to all enemies.
+    - Recovers 200 health for all allies.
+    - All enemies get -30% decrease for any healing received for 5 turns.
+image: https://imgur.com/0dxgAvD.jpg

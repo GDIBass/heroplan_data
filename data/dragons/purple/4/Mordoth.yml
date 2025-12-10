@@ -15,20 +15,22 @@ types:
 spiritBonus:
   spiritClass: Druid
   all:
-    attack: 160
-    defense: 120
-    health: 45
+    attack: +160
+    defense: +120
+    health: +45
   elementalBond:
-    attack: 20
-    defense: 15
-    health: 15
+    attack: +20
+    defense: +15
+    health: +15
   classLink:
-    attack: 20
-    defense: 15
-    health: 15
+    attack: +20
+    defense: +15
+    health: +15
 assist:
   name: Destabilizing Blaze
   effects:
+    - Deals 200 damage to all enemies.
+    - Recovers 100 health for all allies.
     - All enemies receive 350 Burn damage over 5 turns.
     - Dispels buffs from all enemies.
 image: https://i.imgur.com/TjLBNjw.jpg

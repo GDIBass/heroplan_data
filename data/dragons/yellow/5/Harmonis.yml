@@ -15,21 +15,22 @@ types:
 spiritBonus:
   spiritClass: Ranger
   all:
-    attack: 200
-    defense: 160
-    health: 60
+    attack: +250
+    defense: +200
+    health: +100
   elementalBond:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +35
+    defense: +30
+    health: +30
   classLink:
-    attack: 25
-    defense: 20
-    health: 20 
+    attack: +35
+    defense: +30
+    health: +30 
 assist:
   name: Sacred Flame
   effects:
-    - Deals 370 damage to all enemies.
+    - Deals 770 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All allies heal 40% of dealt normal damage for 5 turns.
     - Cleanses status ailments from all allies.
 image: https://imgur.com/EgPl7O8.jpg

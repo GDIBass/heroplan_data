@@ -1,10 +1,10 @@
 name: Bonefang
 source: season1
 speed: Fast
-attack:  13837
+attack: 13837
 defense: 13744
-health:  12145
-power:   11021
+health: 12145
+power: 11021
 skill: Unchained Jaws
 effects:
   - Deals 300% damage to the target.
@@ -17,20 +17,21 @@ types:
 spiritBonus:
   spiritClass: Barbarian
   all:
-    attack:      200
-    defense:     160
-    health:      60
-  elementalBond: 
-    attack:      25
-    defense:     20
-    health:      20
-  classLink:     
-    attack:      25
-    defense:     20
-    health:      20
+    attack: +225
+    defense: +180
+    health: +80
+  elementalBond:
+    attack: +30
+    defense: +25
+    health: +25
+  classLink:
+    attack: +30
+    defense: +25
+    health: +25
 assist:
   name: Wounding Blaze
   effects:
-    - Deals 500 damage to all enemies.
+    - Deals 900 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies get -30% decrease for any healing received for 5 turns.
 image: https://imgur.com/Hn8ooBI.jpg

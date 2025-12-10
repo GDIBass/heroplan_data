@@ -1,10 +1,10 @@
 name: Zostrasz
 source: season1
 speed: Slow
-attack:  13643
+attack: 13643
 defense: 13651
-health:  12131
-power:   10925
+health: 12131
+power: 10925
 skill: Nature's Fury
 effects:
   - Deals 275% damage to the target and 200% damage to nearby enemies.
@@ -17,20 +17,21 @@ types:
 spiritBonus:
   spiritClass: Paladin
   all:
-    attack: 200
-    defense: 160
-    health: 60
+    attack: +225
+    defense: +180
+    health: +80
   elementalBond:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +30
+    defense: +25
+    health: +25
   classLink:
-    attack: 25
-    defense: 20
-    health: 20
+    attack: +30
+    defense: +25
+    health: +25
 assist:
   name: Wounding Blaze
   effects:
-    - Deals 500 damage to all enemies.
+    - Deals 900 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies get -30% decrease for any healing received for 5 turns.
 image: https://imgur.com/Y14RfyW.jpg
