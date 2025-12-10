@@ -17,17 +17,17 @@ types:
 spiritBonus:
   spiritClass: Sorcerer
   all:
-    attack: 100
-    defense: 80
-    health: 30
+    attack: +100
+    defense: +80
+    health: +30
   elementalBond:
-    attack: 15
-    defense: 10
-    health: 12
+    attack: +15
+    defense: +10
+    health: +12
   classLink:
-    attack: 15
-    defense: 10
-    health: 12
+    attack: +15
+    defense: +10
+    health: +12
 assist:
   name: Cauterizing Blaze
   effects:
