@@ -1,10 +1,10 @@
 name: Flumen
 source: season1
 speed: Average
-attack:  9602
+attack: 9602
 defense: 9625
-health:  8552
-power:   7822
+health: 8552
+power: 7822
 skill: Icebound Howl
 effects:
   - Deals 175% damage to all enemies.
@@ -29,6 +29,7 @@ spiritBonus:
 assist:
   name: Charring Blaze
   effects:
-    - Deals 250 damage to all enemies.
+    - Deals 350 damage to all enemies.
+    - Recovers 50 health for all allies.
     - All enemies receive 100 Burn damage over 5 turns.
 image: https://imgur.com/N13FB8d.jpg

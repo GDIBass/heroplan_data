@@ -1,10 +1,10 @@
 name: Ardentis
 source: ancientUnderroot
 speed: Average
-attack:  13909
+attack: 13909
 defense: 14032
-health:  12098
-power:   11120
+health: 12098
+power: 11120
 skill: Electric Dragonfire
 effects:
   - Deals 350% damage to all enemies.
@@ -20,7 +20,7 @@ spiritBonus:
   spiritClass: Wizard
   all:
     attack: +250
-    defense: 200
+    defense: +200
     health: +100
   elementalBond:
     attack: +35
@@ -33,6 +33,7 @@ spiritBonus:
 assist:
   name: Crushing Blaze
   effects:
-    - Deals 450 damage to all enemies,
+    - Deals 850 damage to all enemies,
+    - Recovers 200 health for all allies.
     - All damage all enemies receive is increased by 20% for 5 turns.
 image: https://imgur.com/KgfCHxa.jpg

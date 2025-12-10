@@ -1,10 +1,10 @@
 name: Luminare
 source: season1
 speed: Fast
-attack:  11620
+attack: 11620
 defense: 11441
-health:  10434
-power:   9321
+health: 10434
+power: 9321
 skill: Luminescent Electrocution
 effects:
   - Deals 185% damage to the target and nearby enemies.
@@ -31,6 +31,7 @@ spiritBonus:
 assist:
   name: Fiery Blaze
   effects:
-    - Deals 350 damage to all enemies.
+    - Deals 550 damage to all enemies.
+    - Recovers 100 health for all allies.
     - All allies receive 150 Burn damage over 5 turns.
 image: https://imgur.com/0JJTgBa.jpg

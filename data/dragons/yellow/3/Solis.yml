@@ -1,10 +1,10 @@
 name: Solis
 source: season1
 speed: Average
-attack:  9433
+attack: 9433
 defense: 9440
-health:  8637
-power:   7723
+health: 8637
+power: 7723
 skill: Blessing of the Skies
 effects:
   - Recovers 3500 health for all allies.
@@ -29,6 +29,7 @@ spiritBonus:
 assist:
   name: Charring Blaze
   effects:
-    - Deals 250 damage to all enemies.
+    - Deals 350 damage to all enemies.
+    - Recovers 50 health for all allies.
     - All enemies receive 100 Burn damage over 5 turns.
 image: https://imgur.com/7nTJrtr.jpg

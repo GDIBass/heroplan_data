@@ -1,10 +1,10 @@
 name: Kranio
 source: season1
 speed: Slow
-attack:  9625
+attack: 9625
 defense: 9532
-health:  8681
-power:   7823
+health: 8681
+power: 7823
 skill: Toxic Headbutt
 effects:
   - All enemies receive 4000 Poison damage over 5 turns.
@@ -31,6 +31,7 @@ spiritBonus:
 assist:
   name: Charring Blaze
   effects:
-    - Deals 250 damage to all enemies.
+    - Deals 350 damage to all enemies.
+    - Recovers 50 health for all allies.
     - All enemies receive 100 Burn damage over 5 turns.
 image: https://imgur.com/TEivHXA.jpg

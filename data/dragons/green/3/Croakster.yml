@@ -1,10 +1,10 @@
 name: Croakster
 source: season1
 speed: Slow
-attack:  9411
+attack: 9411
 defense: 9451
-health:  8655
-power:   7721
+health: 8655
+power: 7721
 skill: Medicinal Drool
 effects:
   - Recovers 4000 health for all allies.
@@ -29,6 +29,7 @@ spiritBonus:
 assist:
   name: Resuscitating Breath
   effects:
-    - Recovers 250 health for all allies.
+    - Recovers 300 health for all allies.
+    - Deals 100 damage to all enemies.
     - All allies regenerate 100 HP over 5 turns.
 image: https://imgur.com/9iUOcdF.jpg

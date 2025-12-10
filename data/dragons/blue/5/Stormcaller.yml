@@ -1,10 +1,10 @@
 name: Stormcaller
 source: ancientUnderroot
 speed: Fast
-attack:  13946
+attack: 13946
 defense: 14005
-health:  12127
-power:   11130
+health: 12127
+power: 11130
 skill: Eye of the Storm
 effects:
   - Deals 280% damage to the target.
@@ -16,7 +16,7 @@ spiritBonus:
   spiritClass: Ranger
   all:
     attack: +250
-    defense: 200
+    defense: +200
     health: +100
   elementalBond:
     attack: +35
@@ -29,6 +29,8 @@ spiritBonus:
 assist:
   name: Blazing Storm
   effects:
+    - Deals 400 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies receive 1250 Burn damage over 5 turns.
     - Dispels buffs from all enemies.
 image: https://imgur.com/fQ0UGp8.jpg

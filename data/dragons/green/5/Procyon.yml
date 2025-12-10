@@ -29,6 +29,8 @@ spiritBonus:
 assist:
   name: Shocking Blaze
   effects:
+    - Deals 400 damage to all enemies.
+    - Recovers 200 health for all allies.
     - Reduces max health of all enemies by 450. This effect is stronger against targets with boosted health.
     - All enemies get -20% defense for 5 turns.
 image: https://imgur.com/g79hPaU.jpg

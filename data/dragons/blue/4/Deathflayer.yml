@@ -1,10 +1,10 @@
 name: Deathflayer
 source: season1
 speed: Average
-attack:  11643
+attack: 11643
 defense: 11859
-health:  10280
-power:   9424
+health: 10280
+power: 9424
 skill: Bite of Protection
 effects:
   - Deals 250% damage to the target and 150% damage to nearby enemies.
@@ -29,6 +29,7 @@ spiritBonus:
 assist:
   name: Fiery Blaze
   effects:
-    - Deals 350 damage to all enemies.
+    - Deals 550 damage to all enemies.
+    - Recovers 100 health for all allies.
     - All enemies receive 150 Burn damage over 5 turns.
 image: https://imgur.com/LyCzkni.jpg

@@ -16,7 +16,7 @@ spiritBonus:
   spiritClass: Paladin
   all:
     attack: +250
-    defense: 200
+    defense: +200
     health: +100
   elementalBond:
     attack: +35
@@ -29,6 +29,7 @@ spiritBonus:
 assist:
   name: Blinding Blaze
   effects:
-    - Deals 420 damage to all enemies.
+    - Deals 820 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies get -20% accuracy for  5 turns.
 image: https://imgur.com/DES0Py0.jpg

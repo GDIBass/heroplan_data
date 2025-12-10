@@ -2,7 +2,7 @@ name: Ashenheart
 source: ancientUnderroot
 speed: Average
 power: 11180
-attack:  13970
+attack: 13970
 defense: 14047
 health: 12341
 skill: Ancient Dragon Sword
@@ -18,7 +18,7 @@ spiritBonus:
   spiritClass: Barbarian
   all:
     attack: +250
-    defense: 200
+    defense: +200
     health: +100
   elementalBond:
     attack: +35
@@ -31,6 +31,7 @@ spiritBonus:
 assist:
   name: Weakening Blaze
   effects:
-    - Deals 420 damage to all enemies.
+    - Deals 820 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies get -20% attack for 5 turns.
 image: https://imgur.com/Fop1AxI.jpg

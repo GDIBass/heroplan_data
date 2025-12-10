@@ -1,10 +1,10 @@
 name: Dreamcatcher
 source: season1
 speed: Average
-attack:  13824
+attack: 13824
 defense: 13859
-health:  11952
-power:   11022
+health: 11952
+power: 11022
 skill: Electrified Claws
 effects:
   - Deals 250% damage to the target and nearby enemies.
@@ -17,20 +17,21 @@ types:
 spiritBonus:
   spiritClass: Rogue
   all:
-    attack: +250
-    defense: 200
-    health: +100
+    attack: +225
+    defense: +180
+    health: +80
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: +30
+    defense: +25
+    health: +25
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: +30
+    defense: +25
+    health: +25
 assist:
   name: Weakening Blaze
   effects:
-    - Deals 400 damage to all enemies.
+    - Deals 800 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All allies get +20% attack for 5 turns.
 image: https://imgur.com/5zT6BEO.jpg

@@ -1,10 +1,10 @@
 name: Silva
 source: season1
 speed: Average
-attack:  9564
+attack: 9564
 defense: 9619
-health:  8677
-power:   7825
+health: 8677
+power: 7825
 skill: Gust of Restoration
 effects:
   - Recovers 2000 health for all allies.
@@ -32,6 +32,7 @@ spiritBonus:
 assist:
   name: Resuscitating Breath
   effects:
-    - Recovers 250 health for all allies.
+    - Recovers 300 health for all allies.
+    - Deals 100 damage to all enemies.
     - All allies regenerate 100 HP over 5 turns.
 image: https://imgur.com/rueNHXu.jpg

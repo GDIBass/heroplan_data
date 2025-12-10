@@ -29,6 +29,8 @@ spiritBonus:
 assist:
   name: Blaze of Suppression
   effects:
+    - Deals 100 damage to all enemies.
+    - Recovers 50 health for all allies.
     - All enemies receive 250 Burn damage over 5 turns.
     - Dispels buffs from all enemies.
 image: https://i.imgur.com/iLpWHXW.jpg

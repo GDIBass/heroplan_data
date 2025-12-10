@@ -14,7 +14,7 @@ spiritBonus:
   spiritClass: 
   all:
     attack: +250
-    defense: 200
+    defense: +200
     health: +100
   elementalBond:
     attack: +35

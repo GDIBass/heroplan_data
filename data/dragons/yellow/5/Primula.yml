@@ -18,7 +18,7 @@ spiritBonus:
   spiritClass: Cleric
   all:
     attack: +250
-    defense: 200
+    defense: +200
     health: +100
   elementalBond:
     attack: +35
@@ -31,6 +31,7 @@ spiritBonus:
 assist:
   name: Spring Breath
   effects:
-    - Recovers 650 health for all allies.
+    - Recovers 850 health for all allies.
+    - Deals 400 damage to all enemies.
     - All allies get +10% mana generation for 5 turns.
 image: https://imgur.com/fNgNi9V.jpg

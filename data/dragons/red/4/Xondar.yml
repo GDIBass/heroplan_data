@@ -1,10 +1,10 @@
 name: Xondar
 source: season1
 speed: Average
-attack:  11628
+attack: 11628
 defense: 11603
-health:  10119
-power:   9325
+health: 10119
+power: 9325
 skill: Breath of the Abyss
 effects:
   - Deals 130% damage to all enemies.
@@ -31,6 +31,7 @@ spiritBonus:
 assist:
   name: Fiery Blaze
   effects:
-    - Deals 350 damage to all enemies.
+    - Deals 550 damage to all enemies.
+    - Recovers 100 health for all allies.
     - All enemies receive 150 Burn damage over 5 turns.
 image: https://imgur.com/ptnIH6v.jpg

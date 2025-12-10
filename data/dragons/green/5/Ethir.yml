@@ -31,6 +31,8 @@ spiritBonus:
 assist:
   name: Cracking Blaze
   effects:
+    - Deals 400 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies receive 1100 Burn damage over 5 turns.
     - All enemies get -20% defense for 5 turns.
 image: https://imgur.com/QQRIXGj.jpg

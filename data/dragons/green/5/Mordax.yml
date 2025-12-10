@@ -31,6 +31,8 @@ spiritBonus:
 assist:
   name: Blaze of the Undying
   effects:
+    - Deals 400 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies receive 900 Burn damage over turns.
     - All enemies can't get their status ailments cleansed or reallocated by Special Skills for 5 turns.
 image: https://imgur.com/5ydjbcM.jpg

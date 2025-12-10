@@ -1,10 +1,10 @@
 name: Leafwind
 source: season1
 speed: Fast
-attack:  9280
+attack: 9280
 defense: 9279
-health:  8608
-power:   7621
+health: 8608
+power: 7621
 skill: Leaf Blast
 effects:
   - Deals 225% damage to the target.
@@ -31,6 +31,7 @@ spiritBonus:
 assist:
   name: Resuscitating Breath
   effects:
-    - Recovers 250 health for all allies.
+    - Recovers 300 health for all allies.
+    - Deals 100 damage to all enemies.
     - All allies regenerate 100 HP over 5 turns.
 image: https://imgur.com/jtSfi8k.jpg

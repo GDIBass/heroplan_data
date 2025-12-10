@@ -31,6 +31,7 @@ spiritBonus:
 assist:
   name: Searing Blaze
   effects:
-    - Deals 250 damage to all enemies.
+    - Deals 350 damage to all enemies.
+    - Recovers 50 health for all allies.
     - All enemies get -10% attack for 5 turns.
 image: https://i.imgur.com/WOuFz4h.jpg

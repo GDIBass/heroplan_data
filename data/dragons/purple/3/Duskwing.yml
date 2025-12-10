@@ -31,6 +31,7 @@ spiritBonus:
 assist:
   name: Blinding Blaze
   effects:
-    - Deals 250 damage to all enemies.
+    - Deals 350 damage to all enemies.
+    - Recovers 50 health for all allies.
     - All enemies get -10% accuracy for 5 turns.
 image: https://imgur.com/RSpWZA7.jpg

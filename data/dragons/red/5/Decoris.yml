@@ -16,7 +16,7 @@ spiritBonus:
   spiritClass: Wizard
   all:
     attack: +250
-    defense: 200
+    defense: +200
     health: +100
   elementalBond:
     attack: +35
@@ -29,6 +29,7 @@ spiritBonus:
 assist:
   name: Summer Blaze
   effects:
-    - Deals 450 damage to all enemies.
+    - Deals 850 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies get -15% attack , and a further -1% decrease every time they are hit during 5 turns, down to -25% attack.
 image: https://imgur.com/Ioq1VcP.jpg

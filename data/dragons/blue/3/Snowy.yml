@@ -1,10 +1,10 @@
 name: Snowy
 source: season1
 speed: Slow
-attack:  9463
+attack: 9463
 defense: 9463
-health:  8530
-power:   7725
+health: 8530
+power: 7725
 skill: Wings of Frost
 effects:
   - Deals 250% damage to the target and nearby enemies.
@@ -31,6 +31,7 @@ spiritBonus:
 assist:
   name: Charring Blaze
   effects:
-    - Deals 250 damage to all enemies.
+    - Deals 350 damage to all enemies.
+    - Recovers 50 health for all allies.
     - All enemies receive 100 Burn damage over 5 turns.
 image: https://imgur.com/abIYDoH.jpg

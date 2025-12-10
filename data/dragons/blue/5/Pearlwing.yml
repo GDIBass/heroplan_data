@@ -1,10 +1,10 @@
 name: Pearlwing
 source: ancientUnderroot
 speed: Fast
-power:   11160
-attack:  13997
+power: 11160
+attack: 13997
 defense: 14008
-health:  12211
+health: 12211
 skill: Pearls of Rejuvenation
 effects:
   - Recovers 3500 health for all allies.
@@ -16,7 +16,7 @@ spiritBonus:
   spiritClass: Monk
   all:
     attack: +250
-    defense: 200
+    defense: +200
     health: +100
   elementalBond:
     attack: +35
@@ -29,6 +29,7 @@ spiritBonus:
 assist:
   name: Shielding Breath
   effects:
-    - Recovers 650 health for all allies.
+    - Recovers 850 health for all allies.
+    - Deals 400 damage to all enemies.
     - All allies get +15% defense, and a further 1% increase every time they are hit during 5 turns, up to +25% defense.
 image: https://imgur.com/ieo5rph.jpg

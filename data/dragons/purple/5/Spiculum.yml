@@ -20,7 +20,7 @@ spiritBonus:
   spiritClass: Fighter
   all:
     attack: +250
-    defense: 200
+    defense: +200
     health: +100
   elementalBond:
     attack: +35
@@ -33,6 +33,7 @@ spiritBonus:
 assist:
   name: Breath of Retribution
   effects:
-    - Recovers 600 health for all allies.
+    - Recovers 800 health for all allies.
+    - Deals 400 damage to all enemies.
     - All allies counterattack with 30% of the damage received for 5 turns.
 image: https://imgur.com/uOtcl71.jpg

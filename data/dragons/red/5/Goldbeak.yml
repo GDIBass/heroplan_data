@@ -18,7 +18,7 @@ spiritBonus:
   spiritClass: Barbarian
   all:
     attack: +250
-    defense: 200
+    defense: +200
     health: +100
   elementalBond:
     attack: +35
@@ -31,6 +31,8 @@ spiritBonus:
 assist:
   name: Disarming Blaze
   effects:
+    - Deals 400 damage to all enemies.
+    - Recovers 200 health for all allies.
     - All enemies receive 1100 Burn damage over 5 turns.
     - All enemies get -20% attack for 5 turns.
 image: https://imgur.com/TwZ07Or.jpg
