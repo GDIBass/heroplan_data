@@ -1,0 +1,24 @@
+name: Kadilen Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Fast
+class: Druid
+power: 1240
+attack: 1340
+defense: 1204
+health: 2210
+skill: Glass Shield
+effects:
+  - Deals 280% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All allies get +72% defense against Special Skills for 3 turns.
+types:
+  - Hit All
+  - Bypass
+  - Special Skill Defense Buff All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/DLZ7RRq.jpg

@@ -1,0 +1,24 @@
+name: Tyrum Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Fast
+class: Paladin
+power: 518
+attack: 506
+defense: 470
+health: 1031
+skill: Glass Hit
+effects:
+  - Deals 325% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Dispels buffs from all enemies.
+types:
+  - Hit 1
+  - Bypass
+  - Dispeller All
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/7TW9Ahw.jpg

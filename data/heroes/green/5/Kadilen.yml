@@ -13,7 +13,7 @@ effects:
   - All allies get +74% defense against Special Skills for 3 turns
 types:
   - Hit All
-  - Special Skill Defense Buff
+  - Special Skill Defense Buff All
 image: https://i.imgur.com/Gjh3PRB.jpg
 costume:
   design: costume1
@@ -30,7 +30,7 @@ costume:
     - Thorn minion has 15% HP and 15% attack inherited from the caster
   types:
     - Hit All
-    - Minion Dodge Buff
+    - Minion Dodge Buff All
   image: https://i.imgur.com/N7LZ2EP.jpg
 costume2:
   design: costume2
@@ -47,7 +47,7 @@ costume2:
     - Empowered Thorn Minion has 25% HP and 25% attack inherited from the caster
   types:
     - Hit All
-    - Minion Dodge Buff  
+    - Minion Dodge Buff All
   image: https://i.imgur.com/hEckaC5.jpg
 costume3:
   design: toon
@@ -64,9 +64,29 @@ costume3:
     - Deals extra damage against Ice.
   types:
     - Hit All
-    - Special Skill Defense Buff
+    - Special Skill Defense Buff All
   passives:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/I1ETLXX.jpg
-
+costume4:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 1240
+  attack: 1340
+  defense: 1204
+  health: 2210
+  skill: Glass Shield
+  effects:
+    - Deals 280% damage to all enemies.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - All allies get +72% defense against Special Skills for 3 turns.
+  types:
+    - Hit All
+    - Bypass
+    - Special Skill Defense Buff All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/DLZ7RRq.jpg

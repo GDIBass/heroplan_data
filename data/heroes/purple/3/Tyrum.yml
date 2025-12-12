@@ -51,3 +51,24 @@ costume2:
     - >-
       Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
   image: https://i.imgur.com/MBq6uJ0.jpg
+costume3:
+  design: glass
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 518
+  attack: 506
+  defense: 470
+  health: 1031
+  skill: Glass Hit
+  effects:
+    - Deals 325% damage to the target.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - Dispels buffs from all enemies.
+  types:
+    - Hit 1
+    - Bypass
+    - Dispeller All
+  passives:
+    - >-
+      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  image: https://imgur.com/7TW9Ahw.jpg
