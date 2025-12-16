@@ -11,7 +11,7 @@ skill: Tokri of Resources
 effects:
   - Deals 415% damage to all enemies.
   - 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 800 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stats does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)'
-  - Summons a Tokri Minion for each ally with 27% HP and 22% attack inherited from the caster.
+  - Summons a Tokri Minion for each ally with 30% HP and 30% attack inherited from the caster.
   - Each time a Tokri Minion hits an enemy, it steals a random dispellable buff from the enemy and gives it to its owner.
 types:
   - Hit All

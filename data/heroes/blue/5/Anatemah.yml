@@ -19,7 +19,9 @@ types:
   - Astral Orb to hit enemies
 passives:
   - >-
-    Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.
+    Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.
+  - >-
+    Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.
   - >-
     Perfect Accuracy: This character’s Special Skill never misses its targets.
 image: https://imgur.com/VFI2yDa.jpg

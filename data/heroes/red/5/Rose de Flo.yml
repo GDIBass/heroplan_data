@@ -9,25 +9,28 @@ defense: 1293
 health: 2257
 skill: Beautiful Petals
 effects:
-  - "If the caster has 60 or more Humility:"
+  - "If the caster has 50 or more Humility:"
   - " * Recovers 30% health for all allies."
   - " * Cleanses status ailments from all allies."
+  - " * Growth: All allies get 150 attack."
   - " * All allies regenerate 1440 HP over 3 turns."
   - " * The caster gets +74% defense against Special Skills for 3 turns."
   - "Otherwise:"
   - " * Recovers 20% health for all allies."
   - " * Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)"
+  - " * Growth: All allies get 100 attack."
   - " * All allies regenerate 900 HP over 3 turns."
 types:
   - Healer All
   - Cleanser All
+  - Attack Growth All
   - HoT All
   - Self Special Skill Defense Buff
 passives:
   - >-
-    Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.
+    Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.
   - >-
-    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+    Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
   - >-
     Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead.
 image: https://imgur.com/XgPwLFu.jpg

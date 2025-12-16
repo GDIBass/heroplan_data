@@ -9,8 +9,8 @@ defense: 737
 health: 1310
 skill: Occult Redemption
 effects:
-  - Deals 310% damage to the target and nearby enemies.
-  - All allies get -75% reduction to damage received from status effects for 4 turns.
+  - Deals 340% damage to the target and nearby enemies.
+  - All allies get -80% reduction to damage received from status effects for 4 turns.
   - Element Link summons a Fire Minion for all Fire allies with 6% HP and 10% attack inherited from the caster.
 types:
   - Hit 3

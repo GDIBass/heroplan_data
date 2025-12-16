@@ -10,9 +10,9 @@ health: 2255
 skill: Lance of Torment
 effects:
   - Deals 610% damage to the target.
-  - Boosts the caster's health by 40% of damage dealt.
+  - Boosts the caster's health by 45% of damage dealt.
   - The target receives Resonance for 3 turns. Resonance deals 284 damage each turn. Resonance deals additional damage that reverberates to 3 random enemies. (Damage can't reverberate on the same target twice in a row. Reverberating damage is reduced after each hit.)
-  - Deals 190% damage to a random enemy at the end of each turn for as long as the caster has boosted health. This effect can't be dispelled.
+  - Deals 250% damage to a random enemy at the end of each turn for as long as the caster has boosted health. This effect can't be dispelled.
 types:
   - Hit 1
   - Self Boosted Heal
@@ -20,7 +20,9 @@ types:
   - Hit Random 1 if Boosted Health
 passives:
   - >-
-    Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.
+    Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.
+  - >-
+    Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.
   - >-
     Perfect Accuracy: This character’s Special Skill never misses its targets.
 image: https://imgur.com/U7jQZdn.jpg
