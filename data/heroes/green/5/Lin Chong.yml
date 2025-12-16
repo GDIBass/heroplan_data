@@ -1,0 +1,31 @@
+name: Lin Chong
+source: kingdom
+family: outlaws
+speed: Very Fast
+class: Ranger
+power: 1262
+attack: 1328
+defense: 1273
+health: 2259
+skill: Punishing Strike
+effects:
+  - This Special Skill has a chance to deal Critical hits. 
+  - Deals 390% damage to the target and minor damage to nearby enemies.
+  - "Stack (Max: 10): All damage the target and nearby enemies receive is increased by +5%."
+  - "Stack (Max: 10): Caster and nearby allies get +5% critical chance."
+types:
+  - Chance for Critical hit
+  - Hit 3
+  - Damage Increase Debuff Stack 3
+  - Critical Chance Buff Stack 3
+passives:
+  - >-
+    Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.
+  - >-
+    Righteous Rebellion: 
+  - " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health."
+  - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
+  - " * Each of these effects can activate once per turn."
+  - >-
+    Resist Bleed Damage: This character has innate resistance against Bleed.    
+image: https://imgur.com/DJhVYTD.jpg
