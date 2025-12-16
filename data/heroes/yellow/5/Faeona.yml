@@ -1,19 +1,18 @@
 name: Faeona
 source: hotm
-class: Sorcerer
 family: 2024
 speed: Slow
+class: Sorcerer
 power: 1042
 attack: 1042
 defense: 1108
 health: 1734
 skill: Revitalizing Orb
 effects:
-  - Recovers 45% health for all allies.
-  - All allies get +30% increase for any healing received for 5 turns.
+  - Recovers 46% health for all allies.
+  - All allies get +35% increase for any healing received for 5 turns.
   - >-
-    Stack +3 (Max 10): The caster gets +15% mana generation. (Affects only mana generated from 
-    matching tiles or mana gained by the defense team at the end of their turn.)
+    Stack +3 (Max 10): The caster gets +15% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
   - Element Link gives all Holy allies +20% critical chance for 6 turns. This effect cannot be dispelled.
 types:
   - Healer

@@ -3,10 +3,10 @@ source: kingdom
 family: outlaws
 speed: Slow
 class: Wizard
-power: 1637
-attack: 1835
-defense: 1695
-health: 3046
+power: 1249
+attack: 1256
+defense: 1316
+health: 2263
 skill: Clever Stratagem
 effects:
   - This Special Skill has a chance to deal critical hits.

@@ -10,7 +10,7 @@ health: 2263
 skill: Dinner with the Beast
 effects:
   - "If the caster has 35 or more Humility:"
-  - " * Deals 430% damage to 6 random enemies."
+  - " * Deals 460% damage to 6 random enemies."
   - " * All hit targets get -54% defense against Dark for 4 turns."
   - " * Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns."
   - " * The caster regenerates 1200 boosted health over 4 turns. Boosted health can exceed max HP."
@@ -25,9 +25,9 @@ types:
   - Self Boosted HoT
 passives:
   - >-
-    Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.
+    Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.
   - >-
-    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+    Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
   - >-
     Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead.
 image: https://imgur.com/ILZDSqW.jpg

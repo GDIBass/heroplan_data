@@ -9,7 +9,7 @@ defense: 712
 health: 1355
 skill: Shattering Warcry
 effects:
-  - Deals 290% damage to the target and nearby enemies
+  - Deals 320% damage to the target and nearby enemies
   - The target and nearby enemies get -54% defense against Nature for 4 turns
   - Dispels buffs from the target and nearby enemies
   - Element Link recovers 4% health for all Nature allies for 6 turns. This effect can't be cleansed
@@ -27,7 +27,7 @@ costume:
   health: 1914
   skill: Warcry of the Hunt
   effects:
-    - Deals 280% damage to the target and nearby enemies.
+    - Deals 310% damage to the target and nearby enemies.
     - The target and nearby enemies get -56% defense against Nature for 4 turns.
     - Dispels buffs from target and nearby enemies.
     - Element Link recovers 4% health for all Nature allies for 6 turns. This effect can’t be dispelled.

@@ -9,7 +9,7 @@ defense: 1155
 health: 2045
 skill: Arrows of Altruism
 effects:
-  - Deals 375% damage to the enemy with the highest remaining HP. Deals 225% damage to all other enemies.
+  - Deals 385% damage to the enemy with the highest remaining HP. Deals 255% damage to all other enemies.
   - The attack will always bypass counterattacks and reflection.
   - Steals the latest dispellable buff from all the enemies and randomly distributes them on alies who have 50% or less HP left.
   - Elemental Link gives all Nature allies +20% critical chance for 4 turns. This effect can’t be dispelled.
