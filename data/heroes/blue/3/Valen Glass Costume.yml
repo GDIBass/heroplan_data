@@ -1,0 +1,24 @@
+name: Valen Glass Costume
+is_costume: true
+design: glass
+source: season1
+family: classic
+speed: Fast
+class: Fighter
+power: 516
+attack: 559
+defense: 492
+health: 846
+skill: Glass Slash
+effects:
+  - Deals 340% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target gets -30% defense for 6 turns.
+types:
+  - Hit 1
+  - Bypass
+  - Defense Debuff 1
+passives:
+  - >-
+    Glass: 60% extra chance to reflect status ailments back to the attacker.
+image: https://imgur.com/ApzDafa.jpg
