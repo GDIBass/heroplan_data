@@ -1,0 +1,16 @@
+key: titanhunter
+code: 112
+description: Titan Hunter Family
+image: https://i.imgur.com/WKepT56.png
+bonus:
+  - "Bonus for 1/2/3 Heroes:"
+  - " * At the start of battle, receives 10% / 15% / 20% mana. Against Titans, receives 40% / 60% / 100% mana."
+  - " * Counterattacks with 100% / 120% / 140% of the damage received from Titan Special Skills."
+  - "Heroes belonging to this family receive the following perks in Monster Island:"
+  - " * +40% attack, +40% defense, +40% health."
+bonuscostume-5star: 
+bonuscostume-4star: 
+bonuscostume-3star: 
+bonuscostume2-5star: 
+bonuscostume2-4star: 
+bonuscostume2-3star: 
