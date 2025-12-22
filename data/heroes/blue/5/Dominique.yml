@@ -1,0 +1,30 @@
+name: Dominique
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Fast
+class: Fighter
+power: 1263
+attack: 1330
+defense: 1271
+health: 2263
+skill: Righteous Revenge
+effects:
+  - 'If the caster has 50 or more Humility:'
+  - Deals 460% damage to the target and nearby enemies.
+  - The target and nearby enemeis receive 1260 Bleed damage over 4 turns.
+  - The caster and nearby allies counterattack with 150% of the damage received for 4 turns.
+  - Otherwise:
+  - Deals 405% damage to the target and nearby enemies.
+  - The target and nearby enemeis receive 960 Bleed damage over 4 turns.
+types:
+  - Hit 3
+  - DoT 3
+  - Counterattack
+passives:
+  - >-
+    Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.
+  - >-
+    Heal when status ailment expires or is cleared: This character receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+  - >-
+    Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead.
+image: https://imgur.com/q6O7NPM.jpg
