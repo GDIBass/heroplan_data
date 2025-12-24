@@ -17,7 +17,7 @@ types:
   - Dispeller 1
   - Talent Silence 1
   - Hit 1
-  - Cast blocker 1
+  - Block Status Effects Cast 1
 passives:
   - >-
     Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.

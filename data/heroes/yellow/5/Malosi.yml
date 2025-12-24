@@ -14,7 +14,7 @@ effects:
   - Element Link gives all Holy allies +10% critical chance for 6 turns. This effect can't be cleansed.
 types:
   - Hit 1
-  - Status Effect Block
+  - Block Status Effects Cast 1
 passives:
   - >-
     Resist Defense Ailments: The hero has an innate resistance against status ailments and negative stacks that affect Defense. Doesn't apply to status ailments that affect elemental defense.
