@@ -16,7 +16,7 @@ effects:
 types:
   - Hit 1
   - Chain Hit
-  - Status Effect Block on Hit
+  - Block Status Effects Cast on Hit
   - Attack Debuff on Hit
 passives:
   - >-

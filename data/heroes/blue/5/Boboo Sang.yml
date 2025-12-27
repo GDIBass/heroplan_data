@@ -1,0 +1,25 @@
+name: Boboo Sang
+source: superelemental
+family: slime
+speed: Slow
+class: Cleric
+power: 1263
+attack: 1299
+defense: 1312
+health: 2261
+skill: Debt Drain
+effects:
+  - Deals 460% damage to all enemies.
+  - The caster steals generated mana of all enemies over 5 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster is defeated.
+  - All allies get Sticky surface for 5 turns. This effect can't be dispelled.
+  - 'Sticky surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)'
+types:
+  - Hit All
+  - Mana Steal All
+  - Sticky Surface All
+passives:
+  - >-
+    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
+  - >-
+    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+image: https://imgur.com/xFgwrK8.jpg
