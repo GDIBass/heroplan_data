@@ -1,0 +1,33 @@
+name: Jwala
+source: magic
+family: magiccarpet
+speed: Average
+class: Barbarian
+power: 1266
+attack: 1324
+defense: 1289
+health: 2263
+skill: Magmatic Burns
+effects:
+  - Deals 350% damage to all enemies.
+  - The duration of status ailments is reset for all enemies.
+  - All enemies receive Corrosive Burn for 4 turn. The Corrosive Burn deals 443 Burn damage and lowers the target's defense by -14% each turn. Deals extra damage against heroes with Minions or a Mega Minion.
+types:
+  - Hit All
+  - Debuff Duration Reset All
+  - DoT All
+  - Defense Debuff All
+passives:
+  - >-
+     Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:
+  - " * Attack buffs are transformed into -40% attack status ailments for 3 turns."
+  - " * Defense buffs are transformed into -40% defense status ailments for 3 turns."
+  - " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns."
+  - >-
+    Flight Momentum: If this character has any amount of Flight Momentum, they receive:
+  - " * Up to +35% mana generation."
+  - " * Up to +25% extra chance to dodge."
+  - " * The effects diminish the less Flight Momentum character has."
+  - >-
+    Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+image: https://imgur.com/vVFDc5F.jpg
