@@ -3,4 +3,7 @@ code: 2025
 description: 2025
 image: https://i.imgur.com/0z61ZQj.png
 bonus:
-  - "Bonus will activate on January 1st, 2026"
+  - "Bonus for 1/2/3 Heroes:"
+    - " * +10%/+15%/+20% critical chance."
+  - "Bonus for 2+ Heroes:"
+    - " * Element Link affects all allies."
