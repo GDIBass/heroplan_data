@@ -1,0 +1,31 @@
+name: Tunes
+source: wilderness
+family: wildcat
+speed: Average
+class: Cleric
+power: 796
+attack: 847
+defense: 762
+health: 1440
+skill: Ocarina Windsong
+effects:
+  - Dispels 2 buffs from all enemies. (The latest buffs are dispelled first.)
+  - Reduces max health of all enemies by 500. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 500.)
+  - All enemies get -44% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+types:
+  - Dispels 2 buffs All
+  - Max Health Reduction All
+  - Mana Generation Debuff All
+passives:
+  - >-
+    Nine Lives:
+  - ' * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.'
+  - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.'
+  - >-
+    Trait: Lithe Frame
+  - This character is not affected by effects that increase or reduce defense.
+  - 'This includes:'
+  - ' * - Status effect buffs and ailments.'
+  - ' * - Positive and negative stacks.'
+  - ' * - Growth and Wither effects.'
+image: https://imgur.com/FUgQh3k.jpg

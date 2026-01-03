@@ -1083,6 +1083,47 @@ troops:
       name: Status Ailment Damage Reduction
       description: Damage caused by status ailments is reduced by -10% for the character this Troop is equipped on.
       image: https://i.imgur.com/sujxLHC.jpg
+  five_star_Wizard_Druid:
+    key: five_star_Wizard_Druid
+    id: 69
+    stars: 5
+    name: Shaman Wizard
+    description: Legendary for class Wizard and Druid
+    classLink:
+      - Wizard
+      - Druid
+    images:
+      full:
+        purple: https://i.imgur.com/NfJuYlH.jpg
+        yellow: https://i.imgur.com/Vh14nC1.jpg
+        blue: https://i.imgur.com/0REN6Nv.jpg
+        green: https://i.imgur.com/Fw1nsaO.jpg
+        red: https://i.imgur.com/Eo1VnLu.jpg
+      half:
+        purple: https://i.imgur.com/BMez3dM.jpg
+        yellow: https://i.imgur.com/gvrZeE5.jpg
+        blue: https://i.imgur.com/gy1HfZr.jpg
+        green: https://i.imgur.com/rZDAPKA.jpg
+        red: https://i.imgur.com/CgiwRQv.jpg
+    mana_bonus:
+      1: 5
+      9: 7
+      19: 9
+      28: 11
+    max_level_stats:
+      attack: 25
+      defense: 22
+      health: 25
+      mana: 11
+    max_level_stats_for_class:
+      attack: 31
+      defense: 28
+      health: 40
+      mana: 11
+    max_level_passives_for_class:
+      name: Special Skill Damage Reduction
+      description: Direct Special Damage taken by the character this troop is equipped to is reduced by -8%.
+      image: https://i.imgur.com/BuULhKC.jpg
 
 max_level_by_stars:
   1: 10
