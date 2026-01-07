@@ -1,0 +1,23 @@
+name: Gan Ju Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Fast
+class: Monk
+power: 548
+attack: 592
+defense: 453
+health: 1068
+skill: Stylish Chop
+effects:
+  - Deals 320% damage to the target.
+  - Deals 380% damage if the target has less than 50% health remaining.
+  - Reduces the mana of the target by 24%.
+types:
+  - Hit 1
+  - Mana Reduction 1 
+passives:
+  - >-
+    Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+image: https://imgur.com/MFKBiWG.jpg
