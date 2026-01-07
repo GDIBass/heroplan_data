@@ -1,0 +1,39 @@
+name: Erudius
+source: ancientUnderroot
+speed: Slow
+power: 11193
+attack: 13925
+defense: 14123
+health: 12395
+skill: Bound by Knowledge 
+effects:
+  - Recovers 6000 health for all allies.
+  - All allies regenerate 6000 HP over 5 turns.
+  - 'Stack (Max: 10): All allies get +20% defense'
+  - All allies become Soul Connected for 5 turns. Soul Connectioned allies share received damage.
+types:
+  - Healer All
+  - HoT All
+  - Defense Buff Stack All
+  - Allies Damage Share All
+spiritBonus:
+  spiritClass: Sorcerer
+  all:
+    attack: +250
+    defense: +200
+    health: +100
+  elementalBond:
+    attack: +35
+    defense: +30
+    health: +30
+  classLink:
+    attack: +35
+    defense: +30
+    health: +30 
+assist:
+  name: Spring Breath
+  effects:
+    - Recovers 855 health for all allies.
+    - Deals 400 damage to all enemies.
+    - All allies get +10% mana generation for 5 turns.
+image: https://imgur.com/ZGuM8nS.jpg
