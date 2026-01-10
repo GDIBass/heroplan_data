@@ -1,0 +1,27 @@
+name: Jyoti
+source: temple
+family: mahayoddha
+speed: Average
+class: Sorcerer
+power: 1268
+attack: 1303
+defense: 1314
+health: 2282
+skill: Fiery Performace
+effects:
+  - Recovers 37% health for all allies.
+  - "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 800 additional  healing. Status effects affecting healing received do affect the healing scaling.)"
+  - All allies are immune to new status ailments for 4 turns, and recovers 205 health for each attempted status ailment.
+  - Alters the power of all Fire shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
+types:
+  - Healer All
+  - Healing Boon
+  - Ailments Immunity Buff All
+  - Board Alterer
+passives:
+  - "Mana on Damage Received:"
+  - " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana."
+  - " * Maximum of 10% mana gained per turn."
+  - >-
+    Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.
+image: https://imgur.com/vK0I9hS.jpg

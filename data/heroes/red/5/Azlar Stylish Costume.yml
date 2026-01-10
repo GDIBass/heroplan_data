@@ -1,0 +1,23 @@
+name: Azlar Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Slow
+class: Barbarian
+power: 1302
+attack: 1417
+defense: 1252
+health: 2362
+skill: Stylish Eruption
+effects:
+  - Deals 375% damage to all enemies.
+  - Deals 5250% damage to enemies with less than 50% health remaining.
+  - All enemies receive 720 Burn damage over 3 turns.
+types:
+  - Hit all
+  - DoT all
+passives:
+  - >-
+    Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+image: https://imgur.com/1ji1ouF.jpg

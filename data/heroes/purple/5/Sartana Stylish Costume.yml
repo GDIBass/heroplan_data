@@ -1,0 +1,23 @@
+name: Sartana Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Fast
+class: Wizard
+power: 1301
+attack: 1309
+defense: 1280
+health: 2571
+skill: Stylish Strike
+effects:
+  - Deals 550% damage to the target.
+  - Deals 615% damage if the target has less than 50% health remaining.
+  - The target receives 708 Poison damage over 3 turns.
+types:
+  - Hit 1
+  - DoT 1
+passives:
+  - >-
+    Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+image: https://imgur.com/ViZ7Y7x.jpg

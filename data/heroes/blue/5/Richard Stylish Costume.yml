@@ -1,0 +1,23 @@
+name: Richard Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Average
+class: Paladin
+power: 1294
+attack: 1374
+defense: 1211
+health: 2495
+skill: Bottle Hammer
+effects:
+  - Deals 585% damage to the target and minor damage to nearby enemies.
+  - Deals extra damage to enemies with less than 50% health remaining.
+  - The target and nearby enemies get -32% attack for 6 turns.
+types:
+  - Hit 3
+  - Attack Debuff 3
+passives:
+  - >-
+    Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+image: https://imgur.com/e0Q6Y54.jpg

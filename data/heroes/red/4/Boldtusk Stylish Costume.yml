@@ -1,0 +1,22 @@
+name: Boldtusk Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Average
+class: Fighter
+power: 816
+attack: 769
+defense: 936
+health: 1427
+skill: Stylish Warcry
+effects:
+  - Recovers 42% health for all the ally with the lowest remaining HP. All other allies recover 35% health.
+  - All allies get +46% attack for 4 turns
+types:
+  - Healer All
+  - Attack Buff All
+passives:
+  - >-
+    Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+image: https://imgur.com/tGz74NL.jpg

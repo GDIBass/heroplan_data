@@ -88,3 +88,23 @@ costume4:
     - >-
       Glass: 60% extra chance to reflect status ailments back to the attacker.
   image: https://i.imgur.com/S5acyh9.jpg
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: Barbarian
+  power: 1302
+  attack: 1417
+  defense: 1252
+  health: 2362
+  skill: Stylish Eruption
+  effects:
+    - Deals 375% damage to all enemies.
+    - Deals 525% damage to enemies with less than 50% health remaining.
+    - All enemies receive 720 Burn damage over 3 turns.
+  types:
+    - Hit all
+    - DoT all
+  passives:
+    - >-
+      Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+  image: https://imgur.com/1ji1ouF.jpg

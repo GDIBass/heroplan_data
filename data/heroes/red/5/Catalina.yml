@@ -1,0 +1,33 @@
+name: Catalina
+source: wilderness
+family: wildcat
+speed: Average
+class: Cleric
+power: 1267
+attack: 1402
+defense: 1196
+health: 2263
+skill: Regal Claws
+effects:
+  - Deals 550% Clawing damage to the target. (Deals 825% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)
+  - All allies except the caster get +40% attack for 4 turns.
+  - All allies except the caster get +40% critical chance for 4 turns.
+  - All allies except the caster heal 100% of dealt normal damage for 4 turns.
+types:
+  - Hit 1
+  - Attack Buff 4
+  - Critical chance Buff 4
+  - Heal on damage dealt Buff 4
+passives:
+  - >-
+    Nine Lives:
+  - ' * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.'
+  - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.'
+  - >-
+    Trait: Lithe Frame
+  - This character is not affect by effects that increase or reduce defense.
+  - 'This includes:'
+  - ' * - Status effect buffs and ailments.'
+  - ' * - Positive and negative stacks.'
+  - ' * - Growth and Wither effects.'
+image: https://imgur.com/Z8JMmbH.jpg

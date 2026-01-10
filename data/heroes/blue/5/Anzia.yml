@@ -13,7 +13,7 @@ effects:
   - All Ice allies regenerate a moderate amount of mana for each counterattack for 5 turns. This effect gets diminished for consecutive activations during the same turn.
 types:
   - Counterattack All
-  - Elemental Ice Mana on Counterattack
+  - Mana on Counterattack All Ice
 passives:
   - 'Troop Mastery:'
   - >-
@@ -25,3 +25,31 @@ passives:
     damage from Troops of stronger element.
   - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/9igBdFq.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 1264
+  attack: 1198
+  defense: 1235
+  health: 2676
+  skill: Radiant Shackles
+  effects:
+    - All allies counterattack with 70% of the damage received, and a further 8% increase per each Ice shield on the board for 5 turns, up to 166% damage in total.
+    - All Ice allies regenerate a moderate amount of mana for each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn.
+    - All allies reduce all received damage by 20% for 5 turns.
+  types:
+    - Counterattack All
+    - Mana on Counterattack All Ice
+    - Damage Reduction All
+  passives:
+    - 'Troop Mastery:'
+    - >-
+      Passive Skill as attacking character: This hero’s Troops deal extra 
+      elemental damage against weaker element.
+    - ' - Dealt extra elemental damage: +150%'
+    - >-
+      Passive Skill as defending character: This hero receives less elemental 
+      damage from Troops of stronger element.
+    - ' - Received elemental damage: -25%'
+  image: https://imgur.com/m04qRmx.jpg

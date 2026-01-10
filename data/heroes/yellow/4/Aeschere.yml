@@ -18,7 +18,7 @@ effects:
   - All allies regenerate 600 HP over 4 turns.
 types:
   - Safe Dispell 1 Buff All
-  - Source of Buffs 1
+  - Source of Buffs Random 1
   - HoT All
 passives:
   - >-

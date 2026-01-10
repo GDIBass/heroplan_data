@@ -3,7 +3,7 @@ source: solstice
 family: mahayoddha
 speed: Fast
 class: Fighter
-power: 1213
+power: 1252
 attack: 1250
 defense: 1332
 health: 2263
@@ -23,5 +23,5 @@ passives:
   - " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana."
   - " * Maximum of 10% mana gained per turn."
   - >-
-    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
+    Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions.
 image: https://imgur.com/4vCPlzL.jpg

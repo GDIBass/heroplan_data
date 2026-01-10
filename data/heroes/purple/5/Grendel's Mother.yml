@@ -18,7 +18,7 @@ effects:
 types:
   - Hit All
   - DoT All
-  - Source of Ailments
+  - Source of Ailments Random 1
 passives:
   - >-
     Mana of Buff Received: This character gains 5% mana when they receive a buff or possive stack.
