@@ -19,7 +19,7 @@ effects:
 types:
   - Healer
   - Boosted HoT All
-  - Source of Buffs 1
+  - Source of Buffs Random 1
 passives:
   - >-
     Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.

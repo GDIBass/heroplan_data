@@ -18,7 +18,7 @@ effects:
 types:
   - Safely Dispels All
   - Boosted Heal All
-  - Source of Ailments
+  - Source of Ailments Random 1
 passives:
   - >-
     Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).
