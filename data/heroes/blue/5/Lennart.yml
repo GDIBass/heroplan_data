@@ -25,7 +25,7 @@ passives:
   - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.'
   - >-
     Trait: Lithe Frame
-  - This character is not affect by effects that increase or reduce defense.
+  - This character is not affected by effects that increase or reduce defense.
   - 'This includes:'
   - ' * - Status effect buffs and ailments.'
   - ' * - Positive and negative stacks.'

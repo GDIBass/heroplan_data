@@ -1,8 +1,8 @@
 name: Ribbit
-family: pets
 source: pets
-class: Monk
+family: pets
 speed: Average
+class: Monk
 power: 484
 attack: 486
 defense: 500
@@ -18,9 +18,7 @@ types:
   - Dot 3
 passives:
   - >-
-    When a Minion is summoned to any ally, this character gains 5% health and 5%
-    mana. This effect can activate only once per turn.
+    Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
   - >-
-    When a Fiend is summoned to any enemy, this character deals 85% damage to
-    all enemies. This effect can activate only once per turn.
+    Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
 image: https://i.imgur.com/2fpNcNU.jpg

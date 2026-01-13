@@ -22,7 +22,7 @@ types:
   - Mana Generation Buff All
 passives:
   - >-
-    Quick Tempo - Ballad: All Ballads cast by enemies only last for 1 turn.
+    Quick Tempo: Ballad. All Ballads cast by enemies only last for 1 turn.
   - >-
-    Quick Tempo - Dance: All Dances cast by enemies only last for 1 turn.
+    Quick Tempo: Dance. All Dances cast by enemies only last for 1 turn.
 image: https://i.imgur.com/SRmxHwo.jpg
