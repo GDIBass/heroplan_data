@@ -27,5 +27,5 @@ passives:
   - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
   - " * Each of these effects can activate once per turn."
   - >-
-    Resist Bleed Damage: This character has innate resistance against Bleed.    
+    Resist Bleed: This character is immune to status ailments that deal Bleed damage.   
 image: https://imgur.com/YX2qCp0.jpg
