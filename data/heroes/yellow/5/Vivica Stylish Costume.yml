@@ -1,0 +1,24 @@
+name: Vivica Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Slow
+class: Cleric
+power: 1296
+attack: 1306
+defense: 1333
+health: 2438
+skill: Stylish Heal
+effects:
+  - Recovers 65% health for the ally with lowest remaining HP. All other allies recover 56% health.
+  - All allies get +61% defense for 4 turns.
+  - Cleanses status ailments from all allies.
+types:
+  - Healer All
+  - Defense Buff All
+  - Cleanser All
+passives:
+  - >-
+    Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+image: https://imgur.com/tWvDon8.jpg

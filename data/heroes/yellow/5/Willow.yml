@@ -19,9 +19,13 @@ effects:
   - ' * All allies reduce all received damage by -45% for 5 turns.'
   - ' * All allies counterattack with 115% of the damage received for 5 turns.'
 types:
-  - Hit all
-  - Damage Reduction
-  - Counterattack
+  - Charge
+  - Hit All
+  - Defense Buffs Dispeller
+  - Defense Buffs Immunity All
+  - Bypass All
+  - Damage Reduction All
+  - Counterattack All
 passives:
   - >-
     Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.

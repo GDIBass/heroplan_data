@@ -1,0 +1,29 @@
+name: Hygd
+source: beowulf
+family: beowulf
+speed: Average
+class: Cleric
+power: 1270
+attack: 1291
+defense: 1336
+health: 2286
+skill: Generous Gifts
+effects:
+  - Cleanses status ailments from all allies.
+  - Recovers 50% health for all allies.
+  - 'Source of Buffs: The following effects are cast on all allies at the start of each turn:'
+  - +40% defense against Special Skills for 2 turns.
+  - +40% increase for all healing received for 2 turns.
+  - The Source of Buffs will activate 3 times. Each attempt to dispel it removes one activation.
+types:
+  - Cleanser All
+  - Healer All
+  - Source of Buffs All
+passives:
+  - >-
+    Mana of Buff Received: This character gains 5% mana when they receive a buff or possive stack.
+  - >-
+    Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.
+  - >-
+    Resist Buff Blocking: This character is immune to effects that would block them from receiving new status effect buffs.
+image: https://imgur.com/KK21TKX.jpg

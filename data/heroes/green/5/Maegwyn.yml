@@ -15,7 +15,7 @@ effects:
 types:
   - Healer All
   - Boosted HoT
-  - Damage reducer All
+  - Damage Reduction All
 passives:
   - >-
     Destroy Fiends on Special: When this character casts their Special Skill, all fiends are destroyed from them.

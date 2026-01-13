@@ -26,6 +26,36 @@ passives:
   - >-
     Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.
   - >-
-    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana 
-    generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
+    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
 image: https://i.imgur.com/WMPKV4S.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 1263
+  attack: 1323
+  defense: 1271
+  health: 2286
+  skill: Brew of the Centaurs
+  effects:
+    - 'Special Skill has a different effect when charged with 100%/200% mana:'
+    - 'x1 Mana Charge:'
+    - ' * All enemies take +55% increased damage from status ailments for 3 turns.'
+    - ' * All enemies receive 573 Poison damage over 3 turns. The caster absorbs 10% of dealt Poison damage as health.'
+    - 'x2 Mana Charge:'
+    - ' * Recovers 75% health for the caster and nearby allies.'
+    - ' * The caster and nearby allies are immune to new status ailments for 5 turns, and recover 350 health for each attempted status ailment.'
+  types:
+    - Charge
+    - Increased Damage from Ailments All
+    - DoT all
+    - Healer 3
+    - Damage from Ailments Immunity 3
+  passives:
+    - >-
+      Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.
+    - >-
+      Stack on Special: When this character casts their Special Skill, all enemies get -7% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
+    - >-
+      Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+  image: https://imgur.com/oES7PTn.jpg

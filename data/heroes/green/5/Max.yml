@@ -15,6 +15,7 @@ effects:
 types:
   - Heal All
   - Summoner
+  - Damage Reduction All
 passives:
   - >-
     Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.

@@ -14,8 +14,10 @@ effects:
   - All allies reduce all received damage by -43% for 4 turns.
   - All allies’ normal attacks and Special Skills deal +100% damage against targets with boosted health for 4 turns.
 types:
-  - Summoner
-  - Damage reduction
+  - Summoner All
+  - Mana Gen Buff Minion
+  - Damage Reduction All
+  - Attack Buff All against boosted HP
 passives:
   - >-
     Resist Poison: This character has innate resistance against Poison.

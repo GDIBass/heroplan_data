@@ -88,3 +88,22 @@ costume4:
     - >-
       Glass: 60% extra chance to reflect status ailments back to the attacker.
   image: https://i.imgur.com/lVwUo5n.jpg
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 816
+  attack: 769
+  defense: 936
+  health: 1427
+  skill: Stylish Warcry
+  effects:
+    - Recovers 42% health for all the ally with the lowest remaining HP. All other allies recover 35% health.
+    - All allies get +46% attack for 4 turns
+  types:
+    - Healer All
+    - Attack Buff All
+  passives:
+    - >-
+      Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+  image: https://imgur.com/tGz74NL.jpg

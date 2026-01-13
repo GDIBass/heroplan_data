@@ -1,0 +1,25 @@
+name: Andre de Clermont
+source: hotm
+family: 2026
+speed: Slow
+class: Paladin
+power: 1168
+attack: 1233
+defense: 1264
+health: 1845
+skill: Oath of the Templar
+effects:
+  - Deals 390% damage to the target and nearby enemies.
+  - Gives cover to a random ally for 5 turns. This effect can't be dispelled. (While in Cover, the ally taks no damage from Special attacks or normal attacks. This covering character takes 50% of the damage dealt to the ally.)
+  - The caster and nearby allies get +89% defense against Ice for 5 turns.
+  - Elemental Link gives all Fire allies +20% critical chance for 4 turns. This effect can’t be dispelled.
+types:
+  - Hit 3
+  - Cover Random 1
+  - Elemental Defense Buff 3
+passives:
+  - >-
+    Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.
+  - >-  
+    Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character's health by 100.
+image: https://imgur.com/9qrVbdW.jpg

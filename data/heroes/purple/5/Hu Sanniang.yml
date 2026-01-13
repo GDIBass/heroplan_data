@@ -1,0 +1,33 @@
+name: Hu Sanniang
+source: kingdom
+family: outlaws
+speed: Fast
+class: Ranger
+power: 1271
+attack: 1291
+defense: 1341
+health: 2278
+skill: Double Strike
+effects:
+  - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)
+  - Deals 500% damage to the target.
+  - Safely dispels status effect buffs from the target. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passives skills and family effects can still activate.
+  - Deals 500% damage to a random target.
+  - Increases the duration of the target's active status ailments by 5 turns. (The duration increase affect both cleansable and uncleansable status ailments.)
+types:
+  - Chance for Critical hit
+  - Hit 1
+  - Safely Dispels 1
+  - Hit Random 1
+  - Increases Ailments Duration by 5
+passives:
+  - >-
+    Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.
+  - >-
+    Righteous Rebellion: 
+  - " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health."
+  - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
+  - " * Each of these effects can activate once per turn."
+  - >-
+    Resist Bleed: This character is immune to status ailments that deal Bleed damage.
+image: https://imgur.com/BtiEGep.jpg

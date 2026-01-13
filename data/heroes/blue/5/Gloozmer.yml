@@ -17,7 +17,7 @@ effects:
 types:
   - Steals Mega/Minions 1
   - Hit 1
-  - Status Effect Blocker 1
+  - Block Status Effects Cast 1
   - Devouring Goo 1
 passives:
   - >-

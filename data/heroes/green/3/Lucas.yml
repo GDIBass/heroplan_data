@@ -19,7 +19,7 @@ types:
   - Self Counterattack
 passives:
   - >-
-    Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.
+    Revival Health Reduction: All enemies have -80% health when revived. Boss enemies are not affected.
   - >-
     Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
   - >-

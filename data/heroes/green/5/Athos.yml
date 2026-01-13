@@ -9,16 +9,44 @@ defense: 747
 health: 1623
 skill: Piercing Shot
 effects:
-  - Destroys all Minions from the target.
+  - Destroys all Minions from the target. This effect damages Mega Minions.
   - Deals 470% damage to the target.
   - The caster gets 20% mana for each destroyed Minion.
   - The attack bypasses defensive buffs. This includes counterattacks.
   - Caster regenerates 306 HP over 2 turns.
 types:
-  - Hit 1
   - Minion Destroyer 1
+  - Hit 1
   - Bypass
+  - Boosted HoT
 passives:
   - >-
     Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies.
 image: https://i.imgur.com/HvsiBgn.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 1258
+  attack: 1332
+  defense: 1142
+  health: 2483
+  skill: Artisan's Shot
+  effects:
+    - Destroys all Minions from the target. This effect damages Mega Minions.
+    - Deals 480% damage to the target.
+    - The caster gets 20% mana for each destroyed Minion.
+    - The attack bypasses defensive buffs. (This includes counterattacks.)
+    - The caster regenerates 700 boosted health over 2 turns. Boosted health can exceed max HP.
+  types:
+    - Minion Destroyer 1
+    - Hit 1
+    - Bypass
+    - Mana boost on Minion Destroyed
+    - Boosted HoT
+  passives:
+    - >-
+      Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.
+    - >-
+      Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 75% chance to deal 50% of the received damage on all enemies.
+  image: https://imgur.com/hJqKdo0.jpg

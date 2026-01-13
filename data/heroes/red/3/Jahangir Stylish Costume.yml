@@ -1,0 +1,23 @@
+name: Jahangir Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Slow
+class: Sorcerer
+power: 546
+attack: 607
+defense: 518
+health: 887
+skill: Stylish Fireball
+effects:
+  - Deals 195% damage to all enemies.
+  - Deals 275% damage to enemies with less than 50% health remaining.
+  - All enemies receive 162 Burn damage over 3 turns.
+types:
+  - Hit All
+  - Dot All
+passives:
+  - >-
+    Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+image: https://imgur.com/7mjgAN4.jpg

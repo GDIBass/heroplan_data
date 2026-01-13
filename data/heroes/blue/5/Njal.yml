@@ -1,0 +1,24 @@
+name: Njal
+source: monsterisland
+family: plainshunter
+speed: Average
+class: Barbarian
+power: 1269
+attack: 1336
+defense: 1275
+health: 2284
+skill: First Frost
+effects:
+  - Deals 350% damage to all enemies.
+  - All enemies receive 852 Frost damage over 4 turns. The caster and all their allies absorb 20% of the dealt Frost damage as health.
+  - All Fire enemies get -64% defense against Special Skills for 4 turns.
+types:
+  - Hit All
+  - DoT All
+  - SS Defense Debuff All Fire
+passives:
+  - >-
+    Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+  - >-
+    Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+image: https://imgur.com/iMjqmy0.jpg

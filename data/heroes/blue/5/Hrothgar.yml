@@ -21,7 +21,7 @@ types:
   - Hit All
   - Mana Reduction All
   - Mana Generation Debuff All
-  - Source of Buffs 1
+  - Source of Buffs Random 1
 passives:
   - >-
     Perfect Accuracy: This character’s Special Skill never misses its targets.
