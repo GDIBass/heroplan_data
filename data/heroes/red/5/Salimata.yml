@@ -13,7 +13,7 @@ effects:
   - Deals 375% damage to target and nearby enemies.
   - The target and nearby enemies receive Minion Wound for 3 turns.
   - >-
-    Minion Wound: Target’s minions health is reduced by 50% and mega minions health is reduced by 25% each turn. (Reduction is applied to owned minions and to any received minions while the effect is active. Reduction only affects minions’ current health.
+    Minion Wound: Target's minions health is reduced by 50% and mega minions health is reduced by 25% each turn. (Reduction is applied to owned minions and to any received minions while the effect is active. Reduction only affects minions' current health.
   - The target and nearby enemies get -80% decrease for any healing received for 3 turns.
 types:
   - Dispeller 3

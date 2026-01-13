@@ -12,7 +12,7 @@ effects:
   - Recover 30% health for all allies.
   - Steals all dispellable buffs from the target and randomly distributes them on allies.
   - The target falls asleep.
-  - While asleep, the target can’t attack or gain mana.
+  - While asleep, the target can't attack or gain mana.
   - All damage dealt to the sleeping target is increased by +50%.
   - The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends.
   - Elemental Link gives all Dark allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled.
@@ -22,7 +22,7 @@ types:
   - Sleep
 passives:
   - >-
-    Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn’t apply to status effects from allies.
+    Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn't apply to status effects from allies.
   - >-
     Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or negative stack.
 image: https://i.imgur.com/mDRIe3A.jpg

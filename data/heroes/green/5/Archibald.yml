@@ -10,7 +10,7 @@ health: 2193
 skill: Suspicious Stew
 effects:
   - Deals 300% damage to all enemies.
-  - Damage bypasses target’s Minions.
+  - Damage bypasses target's Minions.
   - All enemies get -40% defense against Nature for 4 turns.
   - Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.
   - The target hit by the Sword Guard Mega Minion receives 441 Bleed damage over 3 turns. This effect spreads to nearby enemies.

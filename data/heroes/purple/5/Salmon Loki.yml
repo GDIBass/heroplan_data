@@ -25,7 +25,7 @@ costume:
   attack: 953
   defense: 1012
   health: 1756
-  skill: Gentleman’s Tranformation
+  skill: Gentleman's Tranformation
   effects:
     - Deals 350% damage to all holy Enemies.
     - For 4 turns, the element of all enemies is changed each turn. On the first 3 turns, the element is random.

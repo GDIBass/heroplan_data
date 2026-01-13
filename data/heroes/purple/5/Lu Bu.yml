@@ -11,8 +11,8 @@ skill: Disrupting Charge
 effects:
   - Deals 330% damage to all enemies.
   - Summons a Mercenary Fiend for all enemies. The Fiend damages its target with 56% attack every turn.
-  - The Mercenary Fiend absorbs healing. It disappears after absorbing a healing amount equal to 38% of its target’s max health.
-  - When summoned, the Mercenary Fiend  causes its target to be immune to new buffs. The effect lasts as long as the target has Mercenary Fiend. This effect can’t be cleansed.
+  - The Mercenary Fiend absorbs healing. It disappears after absorbing a healing amount equal to 38% of its target's max health.
+  - When summoned, the Mercenary Fiend  causes its target to be immune to new buffs. The effect lasts as long as the target has Mercenary Fiend. This effect can't be cleansed.
 types:
   - Hit All
   - Mercenary Fiend Summoner All
@@ -29,8 +29,8 @@ costume:
   effects:
     - Deals 320% damage to all enemies.
     - Summons a Mercenary Fiend for all enemies. The Fiend damages the enemy with 70% attack every turn.
-    - The Mercenary Fiend absorbs healing and disappears when it has absorbed health equal to 50% of its target’s max health.
-    - When summoned, the Mercenary Fiend causes its target to be immune to new buffs. The effect lasts as long as the target has Mercenary Fiends. This effect can’t be cleansed.
+    - The Mercenary Fiend absorbs healing and disappears when it has absorbed health equal to 50% of its target's max health.
+    - When summoned, the Mercenary Fiend causes its target to be immune to new buffs. The effect lasts as long as the target has Mercenary Fiends. This effect can't be cleansed.
   types:
     - Hit All
     - Mercenary Fiend Summoner All
@@ -39,6 +39,6 @@ costume:
     - >-
       Unstoppable Minions:
     - ' * Resistance against Minion removal.'
-    - ' * Can’t be prevented from receiving Minions.'
-    - ' * Minion attack and abilities can’t be disabled.'
+    - ' * Can't be prevented from receiving Minions.'
+    - ' * Minion attack and abilities can't be disabled.'
   image: https://i.imgur.com/9cuTL09.jpg

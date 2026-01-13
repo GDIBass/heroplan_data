@@ -13,7 +13,7 @@ effects:
   - Recovers 70% health for the caster and nearby allies.
   - The caster and nearby allies receive a moderate amount of mana over 6 turns.
   - Inflicts 40 Insanity to nearby allies.
-  - "The caster turns into Yag-Mago for 6 turns. This effect can’t be dispelled. The Yag-Mago has 200% attack, 150% defense and the following Special Skill:"
+  - "The caster turns into Yag-Mago for 6 turns. This effect can't be dispelled. The Yag-Mago has 200% attack, 150% defense and the following Special Skill:"
   - " - Ethernal Bond (Very Fast)"
   - "   * Deals 300% damage to all enemies and inflicts 20 Insanity on them."
   - "   * Revives a random defeated ally with 10% HP."

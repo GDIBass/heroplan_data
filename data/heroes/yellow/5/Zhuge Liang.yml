@@ -10,7 +10,7 @@ health: 1545
 skill: Martial Masterstroke
 effects:
   - Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack inherited from the caster.
-  - Shu Soldier Minion gives it’s owner the ability to counterattack with 60% of the damage received as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.
+  - Shu Soldier Minion gives it's owner the ability to counterattack with 60% of the damage received as long as the owner has a Shu Soldier Minion. This effect can't be dispelled.
   - Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages its target with 75% attack every turn.
   - The Shu Guerrilla Fiend absorbs healing and disappears when it has absorbed 50% of its targets health.
 types:
@@ -27,15 +27,15 @@ costume:
   skill: Triumph of Strategy
   effects:
     - Summons a Shu Soldier Minion for each ally with 33% HP and 33% attack inherited from the caster.
-    - When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 55% of the damage received as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.
+    - When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 55% of the damage received as long as the owner has a Shu Soldier Minion. This effect can't be dispelled.
     - Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages its target with 70% attack every turn.
-    - The Shu Guerrilla Fiend absorbs healing. It disappears after absorbing a healing amount equal to 55% of its target’s max health.
+    - The Shu Guerrilla Fiend absorbs healing. It disappears after absorbing a healing amount equal to 55% of its target's max health.
   types:
     - Counterattack Minion Summoner All
     - Fiend Summoner All
   passives:
     - 'Unstoppable Minions:'
     - ' * Resistance against Minion removal.'
-    - ' * Can’t be prevented from receiving minions.'
-    - ' * Minion attacks and abilities can’t be disabled.'
+    - ' * Can't be prevented from receiving minions.'
+    - ' * Minion attacks and abilities can't be disabled.'
   image: https://i.imgur.com/zdjoPv7.jpg

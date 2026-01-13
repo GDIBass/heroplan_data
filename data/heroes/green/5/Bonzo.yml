@@ -11,7 +11,7 @@ skill: Odd Drum Roll
 effects:
   - Rearranges the enemy positions randomly.
   - Deals 250% damage to all enemies.
-  - Damage bypasses target’s Minions.
+  - Damage bypasses target's Minions.
   - The attack bypasses defensive buffs. (This includes counterattacks)
 types:
   - Reposition

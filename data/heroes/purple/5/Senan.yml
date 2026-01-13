@@ -34,7 +34,7 @@ costume:
   effects:
     - Deals 265% damage to all enemies.
     - Summons a Specter Fiend for all enemies. The Fiend damages its target with 55% attack every turn.
-    - The Specter Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target’s max health.
+    - The Specter Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target's max health.
     - 'Stack +2 (Max 10): The caster gets +12% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)'
     - 'Stack +3 (Max 10): The caster recovers 45 HP each turn.'
   types:

@@ -11,7 +11,7 @@ skill: Mystery Potions
 effects:
   - Reduces the mana of all enemies by 20%.
   - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
-  - All enemies receive a Mystery Potion. After 3 turns the Mystery Potion explodes and deals 450 damage to the target. After the explosion the target can’t gain mana for 3 turns.
+  - All enemies receive a Mystery Potion. After 3 turns the Mystery Potion explodes and deals 450 damage to the target. After the explosion the target can't gain mana for 3 turns.
 types:
   - Mana reduction All
   - Summoner All

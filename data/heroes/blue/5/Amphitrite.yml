@@ -17,11 +17,11 @@ effects:
   - '2x Mana Charge:'
   - '* Deals 315% damage to all enemies.'
   - '* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.'
-  - '* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.'
+  - '* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target's max health.'
   - '3x Mana Charge:'
   - '* Deals 365% damage to all enemies.'
   - '* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.'
-  - '* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.'
+  - '* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target's max health.'
   - '* All enemies get -75% decrease of any healing received for 4 turns.'
 types:
   - Charge

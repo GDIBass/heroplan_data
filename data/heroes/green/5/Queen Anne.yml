@@ -9,7 +9,7 @@ defense: 922
 health: 1676
 skill: The Queen's Speech
 effects:
-  - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 6 turns.
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 6 turns.
   - The caster regenerates 918 HP over 6 turns.
   - All allies get +65% defense for 6 turns.
   - All allies get +44% mana generation for 6 turns.
@@ -20,5 +20,5 @@ types:
   - Mana Generation Buff All
 passives:
   - >-
-    Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies.
+    Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies.
 image: https://i.imgur.com/BoTIbhq.jpg

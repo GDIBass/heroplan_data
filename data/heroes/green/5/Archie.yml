@@ -28,7 +28,7 @@ costume:
   effects:
     - Deals 240% damage to all enemies.
     - All enemies are immune to new status effect buffs for 4 turns, and receive 300 damage for each attempted buff.
-    - The caster gets -10% accuracy for 4 turns. This effect can’t be cleansed. (Chance to miss also applies to offensive Special Skills.
+    - The caster gets -10% accuracy for 4 turns. This effect can't be cleansed. (Chance to miss also applies to offensive Special Skills.
   types:
     - Hit All
     - Buff Immunity Debuff

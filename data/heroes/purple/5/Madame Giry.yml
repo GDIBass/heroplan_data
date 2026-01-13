@@ -11,8 +11,8 @@ skill: Summoning the Ballerinas
 effects:
   - Deals 340% damage to all enemies.
   - Summons a Ballerina Fiend for all enemies. The Fiend damage the enemy with 110% attack every turn.
-  - The Ballerina Fiend aborbs healing and disappers when it has absorbed health equal to 45% of its target’s max health.
-  - When summoned, the Ballerina Fiend causes its target to be immune to new buffs. This effect lasts as long as the target has Ballerina Fiends. This effect can’t be cleansed.
+  - The Ballerina Fiend aborbs healing and disappers when it has absorbed health equal to 45% of its target's max health.
+  - When summoned, the Ballerina Fiend causes its target to be immune to new buffs. This effect lasts as long as the target has Ballerina Fiends. This effect can't be cleansed.
   - All enemies get -44% defense against Dark for 4 turns.
 types:
   - Hit all

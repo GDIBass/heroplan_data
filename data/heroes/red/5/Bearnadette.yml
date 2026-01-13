@@ -11,7 +11,7 @@ skill: Cursed Painting
 effects:
   - Dispels buffs from all enemies.
   - Deals 250% damage to all enemies.
-  - 'All enemies turn into Cursed Paintings for 5 turns. This effect can’t be cleansed. Cursed Paintings have 70% attack, 70% defense and the following Special Skill:'
+  - 'All enemies turn into Cursed Paintings for 5 turns. This effect can't be cleansed. Cursed Paintings have 70% attack, 70% defense and the following Special Skill:'
   - Break Free (Very Fast)
   - ' * Deals 250% damage to the target.'
   - ' * 60% chance of removing the Cursed Painting ailment from the caster. (Bosses, Titans and Mythic Titans are not affected by this status effect.)'

@@ -29,7 +29,7 @@ costume:
   effects:
     - Deals 200% damage to the target and nearby enemies.
     - Summons a Playing Card Minion with 25% HP and 40% attack inherited from the caster.
-    - When summoned, the Playing Card Minion gives Taunt for its owner as long as the owner has Playing Card minions. This effect can’t be dispelled.
+    - When summoned, the Playing Card Minion gives Taunt for its owner as long as the owner has Playing Card minions. This effect can't be dispelled.
     - The caster gets +74% defense against Special Skills for 4 turns.
   types:
     - Hit 3

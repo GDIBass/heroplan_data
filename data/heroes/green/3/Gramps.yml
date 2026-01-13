@@ -26,7 +26,7 @@ costume:
   attack: 459
   defense: 515
   health: 850
-  skill: Gardener’s Remedy
+  skill: Gardener's Remedy
   effects:
     - Each fallen ally has a 33% chance to get revived with 23% HP.
     - All allies regenerate 324 HP over 4 turns.

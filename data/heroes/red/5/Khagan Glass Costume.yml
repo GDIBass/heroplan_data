@@ -9,7 +9,7 @@ power: 1241
 attack: 1310
 defense: 1081
 health: 2536
-skill: Vitrail’s Order
+skill: Vitrail's Order
 effects:
   - Deals 540% damage to the target and nearby enemies.
   - The attack bypasses defensive buffs. (This includes counterattacks.)

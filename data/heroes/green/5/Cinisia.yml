@@ -19,7 +19,7 @@ types:
   - DoT
 passives:
   - >- 
-    Increased Attack Per Non-Nature Enemy: At the start of the battle, this character’s attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave.
+    Increased Attack Per Non-Nature Enemy: At the start of the battle, this character's attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave.
   - >-
     Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
 image: https://i.imgur.com/L1RhKDe.jpg

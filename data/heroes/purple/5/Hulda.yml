@@ -28,8 +28,8 @@ costume:
   skill: Larva Prescription
   effects:
     - Summons a Larva Minion for each ally with 36% HP inherited from the caster. The Minion recovers 15% health for its owner at the end of each turn.
-    - When summoned, the Larva Minion gives +24% mana generation for its owner for as long as the owner has Larva Minions. This effect can’t be dispelled.
-    - When summoned, the Larva Minion gives +50% defense for its owner for as long as the owner has Larva Minions. This effect can’t be dispelled.
+    - When summoned, the Larva Minion gives +24% mana generation for its owner for as long as the owner has Larva Minions. This effect can't be dispelled.
+    - When summoned, the Larva Minion gives +50% defense for its owner for as long as the owner has Larva Minions. This effect can't be dispelled.
   types:
     - Summoner
   passives:

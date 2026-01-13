@@ -7,7 +7,7 @@ power: 722
 attack: 709
 defense: 737
 health: 1309
-skill: Wise Man’s Counsel
+skill: Wise Man's Counsel
 effects:
   - Safely dispels 1 buff from all enemies. (The latest buffs are dispelled first.)
   - >-

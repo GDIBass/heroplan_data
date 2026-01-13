@@ -23,7 +23,7 @@ passives:
     Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.
   - >-
     Righteous Rebellion: 
-  - " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health."
+  - " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health."
   - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
   - " * Each of these effects can activate once per turn."
   - >-

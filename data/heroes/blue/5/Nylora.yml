@@ -19,7 +19,7 @@ types:
 passives:
   - 'Troop Mastery:'
   - >-
-    Passive Skill as attacking character: This hero’s Troops deal extra 
+    Passive Skill as attacking character: This hero's Troops deal extra 
     elemental damage against weaker element.
   - ' - Dealt extra elemental damage: +100%'
   - >-

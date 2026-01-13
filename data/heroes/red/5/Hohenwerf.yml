@@ -10,7 +10,7 @@ health: 1501
 skill: Possessor of Penance
 effects:
   - Deals 450% damage to the target.
-  - Summons a Gargoyle Fiend for the target. The Gargoyle Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.
+  - Summons a Gargoyle Fiend for the target. The Gargoyle Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner's max health.
   - When summoned, the Gargoyle Fiend forces its owner to cast Mindless Attack on a random ally when mana is full. The effect lasts as long as the target has Gargoyle Fiends. This effect cannot be dispelled.
   - The Gargyle Fiend explodes after 4 turns, dealing 150 damage to its target.
 types:
@@ -19,5 +19,5 @@ types:
   - Exploding Mindless Attack Fiend
 passives:
   - >-
-    Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 3 times they receive damage, it is dropped to 1. This effect can’t be dispelled.
+    Gargoyle's Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 3 times they receive damage, it is dropped to 1. This effect can't be dispelled.
 image: https://i.imgur.com/mNDZ6lN.jpg

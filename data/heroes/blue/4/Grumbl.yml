@@ -9,7 +9,7 @@ defense: 684
 health: 1296
 skill: Moon Boomerang
 effects:
-  - All allies except the caster receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.)
+  - All allies except the caster receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can't be dispelled.)
   - All allies recover 510 HP over 3 turns. This effect duration is reset if the status effect owner is hit with direct damage from a Special Skill.
   - Cleanses status ailments from all allies.
 types:
@@ -18,5 +18,5 @@ types:
   - Cleanser
 passives:
   - >-
-    Gargoyle’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.
+    Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can't be dispelled.
 image: https://i.imgur.com/h0Gvv51.jpg

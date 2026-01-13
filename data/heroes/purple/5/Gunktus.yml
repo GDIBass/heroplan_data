@@ -16,9 +16,9 @@ effects:
   - '* 50% attack.'
   - '* 50% defense.'
   - '* Special Skill: Slime Slap.'
-  - '* This effect can’t be dispelled.'
+  - '* This effect can't be dispelled.'
   - '* Deals 350% damage to the target.'
-  - If the Slime is not defeated in 3 turns, it will be reborn as the character’s original form inheriting the Slime’s health and mana.
+  - If the Slime is not defeated in 3 turns, it will be reborn as the character's original form inheriting the Slime's health and mana.
 types:
   - Hit 3
   - Attack buff 1

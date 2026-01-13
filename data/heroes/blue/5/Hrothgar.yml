@@ -7,7 +7,7 @@ power: 1182
 attack: 1291
 defense: 1089
 health: 2150
-skill: The King’s Feast
+skill: The King's Feast
 effects:
   - Deals 340% damage to all enemies.
   - Reduces the mana of all enemies by 20%.
@@ -24,9 +24,9 @@ types:
   - Source of Buffs Random 1
 passives:
   - >-
-    Perfect Accuracy: This character’s Special Skill never misses its targets.
+    Perfect Accuracy: This character's Special Skill never misses its targets.
   - >-
-    Heal when Status Ailment Expires or Is Cleared: This character’s receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+    Heal when Status Ailment Expires or Is Cleared: This character's receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
   - >-
     Stacking Attack on Damage Received: When this character receives direct Special Skill damage, gain 30% attack Stack (max: 10). One Stack can be gained per turn.
 image: https://i.imgur.com/RbbKSQ5.jpg

@@ -25,7 +25,7 @@ costume:
   attack: 725
   defense: 678
   health: 1168
-  skill: Mason’s Rage
+  skill: Mason's Rage
   effects:
     - Deals 175% damage to all enemies. Each hit has 80% accuracy.
     - All hit enemies receive 200 bleed damage over 4 turns. 

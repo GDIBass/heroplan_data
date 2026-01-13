@@ -12,8 +12,8 @@ effects:
   - Dispels buffs from all enemies.
   - Deals 150% damage to all enemies.
   - Summons a Corrupted Mask Fiend to all enemies. The Fiend damages the enemies with 55% attack every turn.
-  - The Corrupted Mask Fiend absorbs healing. It disappears after absorbing a healing amount equal to 22% of its target’s max health.
-  - When summoned, the Corrupted Mask Fiend gives -36% attack for its owner for as long as the owner has Corrupted Mask Fiends. This effect can’t be cleansed.
+  - The Corrupted Mask Fiend absorbs healing. It disappears after absorbing a healing amount equal to 22% of its target's max health.
+  - When summoned, the Corrupted Mask Fiend gives -36% attack for its owner for as long as the owner has Corrupted Mask Fiends. This effect can't be cleansed.
 types:
   - Dispeller All
   - Hit All

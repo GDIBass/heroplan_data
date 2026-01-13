@@ -12,7 +12,7 @@ effects:
   - Deals 270% damage to all enemies.
   - >-
     Enhanced Defense Ailment: All enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.
-  - After the Enhanced Defense Ailment ends or is removed or replaced, reduces the enemy’s mana by -15%.
+  - After the Enhanced Defense Ailment ends or is removed or replaced, reduces the enemy's mana by -15%.
   - All allies gain 15% mana after 2 turns or immediately if the effect is removed before the duration ends.
 types:
   - Hit All
@@ -21,7 +21,7 @@ types:
   - Delayed Mana Boost
 passives:
   - >-
-    Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.
+    Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.
   - >-
     Resist Insanity: This character has innate resistance against Insanity.
   - >-

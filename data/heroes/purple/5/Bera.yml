@@ -30,7 +30,7 @@ costume:
     - Summons a Moth Minion for each ally. Moth Minion inherits 30% attack and 30% HP from the caster.
     - 'Each hit from the Moth Minion gives the target the following status ailments:'
     - ' * The target receives 138 Poison damage over 3 turns.'
-    - ' * The target can’t receive new Minions for 3 turns.'
+    - ' * The target can't receive new Minions for 3 turns.'
   types:
     - Summoner
     - Minion Blocking

@@ -11,7 +11,7 @@ skill: Fury of the Ancient Forest
 effects:
   - Deals 375% damage to the target and nearby enemies.
   - Deals 900 extra damage if the target has boosted health.
-  - All allies’ normal attacks and Special Skills deals +85% damage against targets with boosted health for 3 turns.
+  - All allies' normal attacks and Special Skills deals +85% damage against targets with boosted health for 3 turns.
 types:
   - Hit 3
 passives:
@@ -19,7 +19,7 @@ passives:
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
   - >- 
     Destructive Core: The Construct Core of this character is Destructive Core.
-    The Destructive Core activates each time this character’s Special Skill is cast:
+    The Destructive Core activates each time this character's Special Skill is cast:
     * With fully charged Destructive Core, deals 180% damage to all enemies.
     * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated.
 image: https://i.imgur.com/ThTeBHZ.jpg

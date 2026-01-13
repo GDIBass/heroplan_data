@@ -25,7 +25,7 @@ types:
   - DoT
 passives:
   - >-
-    Increased Attack per Non-Fire Enemy: At the start of each battle, this character’s attack is increased by +5% for every enemy that is not of Fire element. In battles with multiple waves, the effect is refreshed at the beginning of each wave.
+    Increased Attack per Non-Fire Enemy: At the start of each battle, this character's attack is increased by +5% for every enemy that is not of Fire element. In battles with multiple waves, the effect is refreshed at the beginning of each wave.
   - >-
     Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs.
 image: https://i.imgur.com/csrWBuw.jpg

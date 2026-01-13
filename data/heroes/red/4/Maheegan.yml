@@ -11,13 +11,13 @@ skill: Claws of the Hunter
 effects:
   - Deals 280% damage to the target and minor damage to nearby enemies.
   - Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.
-  - The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health.
+  - The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner's max health.
 types:
   - Hit 3
   - Fiend Summoner 3
 passives:
   - >-
-    When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+    When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
   - >-
     Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
 image: https://i.imgur.com/c554xVo.jpg

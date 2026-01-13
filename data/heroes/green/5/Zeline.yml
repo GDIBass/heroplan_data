@@ -32,7 +32,7 @@ costume:
     - Deals 210% damage to all enemies.
     - All enemies get -38% attack for 4 turns.
     - Deals extra damage against Ice 
-    - Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can’t be dispelled.
+    - Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled.
   types:
     - Dispeller
     - Hit All
