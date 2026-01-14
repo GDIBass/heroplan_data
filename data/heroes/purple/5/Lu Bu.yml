@@ -39,6 +39,6 @@ costume:
     - >-
       Unstoppable Minions:
     - ' * Resistance against Minion removal.'
-    - ' * Can't be prevented from receiving Minions.'
-    - ' * Minion attack and abilities can't be disabled.'
+    - " * Can't be prevented from receiving Minions."
+    - " * Minion attack and abilities can't be disabled."
   image: https://i.imgur.com/9cuTL09.jpg

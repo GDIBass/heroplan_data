@@ -33,14 +33,14 @@ costume:
   effects:
     - 'Draw a card for a special effect:'
     - Skull
-    - ' * Reduces max health of all enemies by 550. Max health can't get lower than 30% of the original max health.'
-    - ' * All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 69 Poison damage and lowers the target's mana generation by -9% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+    - " * Reduces max health of all enemies by 550. Max health can't get lower than 30% of the original max health."
+    - " * All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 69 Poison damage and lowers the target's mana generation by -9% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
     - Cross
     - ' * Boosts health of all allies by 620. Boosted health can exceed max HP.'
     - ' * All allies are immune to new status ailments for 4 turns.'
     - Stars
-    - ' * All enemies get -54% mana generation for 4 turns. This effect can't
-      be cleansed.'
+    - " * All enemies get -54% mana generation for 4 turns. This effect can't
+      be cleansed."
     - ' * All enemies are immune to new status effect buffs for 4 turns.'
   types:
     - Gambler

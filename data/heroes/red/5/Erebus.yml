@@ -12,16 +12,16 @@ effects:
   - >-
     Special Skill has a different effect when charged with 100% / 200% / 300% mana:
   - '1x Mana Charge:'
-  - '* Destroys all Minions from the target.'
-  - '* Deals 520% damage to the target.'
+  - ' * Destroys all Minions from the target.'
+  - ' * Deals 520% damage to the target.'
   - '2x Mana Charge:'
-  - '* Destroys all Minions from the target.'
-  - '* Deals 610% damage to the target.'
-  - '* The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 3 turns.'
+  - ' * Destroys all Minions from the target.'
+  - ' * Deals 610% damage to the target.'
+  - " * The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 3 turns."
   - '3x Mana Charge:'
-  - '* Destroys all Minions from the target.'
-  - '* Deals 675% damage to the target.'
-  - '* The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 4 turns.'
+  - ' * Destroys all Minions from the target.'
+  - ' * Deals 675% damage to the target.'
+  - " * The target can't summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 4 turns."
 types:
   - Charge
   - Destroys Minions 1

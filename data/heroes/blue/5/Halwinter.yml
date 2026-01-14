@@ -22,7 +22,7 @@ passives:
   - >-
     Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.
   - 'Minion Core: The Construct Core of this character is Minion Core.'
-  - 'The Minion Core activates each time this character's Special Skill is cast:'
+  - "The Minion Core activates each time this character's Special Skill is cast:"
   - " * With fully charged Minion Core, summon a Killer Bot Minion with 22% HP and 55% attack inherited from the caster on all allies."
   - " * The HP and attack inherited from the caster is scaled by the amount of charge in Core. All charge is exhausted when the Core is activated."
   - " * Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions."

@@ -14,7 +14,7 @@ effects:
   - ' * Boosts health for all allies by 300, Boosted health can exceed max HP.'
   - ' * All allies get +20% defense for 3 turns. The defense increases by 10% each turn, up to +40%.'
   - Deadly Claw
-  - ' * Reduces the max health of all enemies by 300. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 300.)'
+  - " * Reduces the max health of all enemies by 300. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 300.)"
   - ' * All enemies get -20% defense for 3 tuns. The defense decreases by -10% each turn, up to -40%.'
 types:
   - Gambler

@@ -17,8 +17,8 @@ effects:
   - ' * All allies get +24% mana generation for 4 turns.'
   - ' * All allies get +63% defense for 4 turns.'
   - 'Freeze:'
-  - ' * The caster can't gain mana for 2 turns.'
-  - ' * This effect can't be cleansed.'
+  - " * The caster can't gain mana for 2 turns."
+  - " * This effect can't be cleansed."
 types:
   - Gambler
 image: https://i.imgur.com/jP1BF2A.jpg
@@ -39,8 +39,8 @@ costume:
     - ' * All enemies get -24% mana generation for 3 turns.'
     - ' * All enemies get -44% defense for 3 turns.'
     - Clearance Sale
-    - ' * Increases the mana of all allies except the caster's by 3%.'
-    - ' * The caster can't gain mana for 2 turns. This effect can't be cleansed.'
+    - " * Increases the mana of all allies except the caster's by 3%."
+    - " * The caster can't gain mana for 2 turns. This effect can't be cleansed."
   types:
     - Gambler
   image: https://i.imgur.com/HppFUSU.jpg

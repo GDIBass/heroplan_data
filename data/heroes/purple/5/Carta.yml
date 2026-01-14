@@ -2,7 +2,7 @@ name: Carta
 source: covenant
 family: construct
 speed: Average
-class: Wizard	
+class: Wizard
 power: 1055
 attack: 1025
 defense: 1038

@@ -11,23 +11,23 @@ skill: Tumbling Dragon
 effects:
   - Special Skill has a different effect when charged with 100%/200%/300% mana
   - 1x Mana Charge
-  - '* Deals 280% damage to the target.'
-  - '* The caster goes into hiding for 2 turns.'
-  - '* While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -20%.'
-  - '* When the caster comes out of hiding, they deal 227 damage to all enemies who use Special Skills while the caster was hiding.'
-  - '* The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 2 turns.'
+  - ' * Deals 280% damage to the target.'
+  - ' * The caster goes into hiding for 2 turns.'
+  - " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -20%."
+  - ' * When the caster comes out of hiding, they deal 227 damage to all enemies who use Special Skills while the caster was hiding.'
+  - ' * The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 2 turns.'
   - 2x Mana Charge
-  - '* Deals 370% damage to the target.'
-  - '* The caster goes into hiding for 3 turns.'
-  - '* While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -30%.'
-  - '* When the caster comes out of hiding they deal 316 damage to all enemies who use Special Skills while the caster was hiding.'
-  - '* The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.'
+  - ' * Deals 370% damage to the target.'
+  - ' * The caster goes into hiding for 3 turns.'
+  - " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -30%."
+  - ' * When the caster comes out of hiding they deal 316 damage to all enemies who use Special Skills while the caster was hiding.'
+  - ' * The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.'
   - 3x Mana Charge
-  - '* Deals 450% damage to the target.'
-  - '* The caster goes into hiding for 4 turns.'
-  - '* While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -40%.'
-  - '* When the caster comes out of hiding they deal 348 damage to all enemies who use Special Skills while the caster was hiding.'
-  - '* The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.'
+  - ' * Deals 450% damage to the target.'
+  - ' * The caster goes into hiding for 4 turns.'
+  - " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -40%."
+  - ' * When the caster comes out of hiding they deal 348 damage to all enemies who use Special Skills while the caster was hiding.'
+  - ' * The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.'
 types:
   - Charger
   - Hit 1
