@@ -35,7 +35,7 @@ costume:
     - Self HoT
   passives:
     - >-
-      Ability: Increased Status Effect Duration. Chance to increase the duration of cast status effects.
+      Increased Status Effect Duration: Chance to increase the duration of cast status effects.
     - " * +1 turn: 75%"
     - " * +2 turns: 25%"
   image: https://i.imgur.com/vtZxZ4o.jpg

@@ -13,12 +13,12 @@ effects:
   - '1st:'
   - ' * Deals 400% damage to target.'
   - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 32% attack every turn.'
-  - ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner’s max health.'
+  - " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner's max health."
   - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
   - '2nd:'
   - ' * Deals 450% damage to target.'
   - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 32% attack every turn.'
-  - ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner’s max health.'
+  - " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner's max health."
   - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
 types:
   - Hit 1
@@ -44,12 +44,12 @@ costume:
     - '1st:'
     - ' * Deals 375% damage to target.'
     - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 27% attack every turn.'
-    - ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner’s max health.'
+    - " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner's max health."
     - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
     - '2nd:'
     - ' * Deals 475% damage to target.'
     - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 42% attack every turn.'
-    - ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.'
+    - " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner's max health."
     - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
   types:
     - Hit 1

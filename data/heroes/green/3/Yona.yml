@@ -1,8 +1,8 @@
 name: Yona
-class: Rogue
 source: knights
 family: stag
 speed: Fast
+class: Rogue
 power: 490
 attack: 451
 defense: 476
@@ -12,17 +12,10 @@ effects:
   - 'Draw a card for a special effect:'
   - Gentle Paw
   - ' * Boosts health for all allies by 300, Boosted health can exceed max HP.'
-  - >-
-    ' * All allies get +20% defense for 3 turns. The defense increases by 10% '
-    'each turn, up to +40%.'
+  - ' * All allies get +20% defense for 3 turns. The defense increases by 10% each turn, up to +40%.'
   - Deadly Claw
-  - >-
-    ' * Reduces the max health of all enemies by 300. This effect is stronger '
-    'against targets with boosted health. (Max health can’t get lower than 30%'
-    'of the original max health. Any boosted health is reduced by an additional 300.)'
-  - >-
-    ' * All enemies get -20% defense for 3 tuns. The defense decreases by '
-    '-10% each turn, up to -40%.'
+  - " * Reduces the max health of all enemies by 300. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 300.)"
+  - ' * All enemies get -20% defense for 3 tuns. The defense decreases by -10% each turn, up to -40%.'
 types:
   - Gambler
   - HoT
@@ -31,6 +24,5 @@ types:
   - Defense debuff
 passives:
   - >-
-    Health Recovery on Buff Received - This character recovers 5% health when 
-    they receive a buff or a positive stack.
+    Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.
 image: https://i.imgur.com/uP5TQtw.jpg

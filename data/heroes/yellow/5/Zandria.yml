@@ -19,7 +19,7 @@ types:
 passives:
   - 'Troop Mastery:'
   - >-
-    Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.
+    Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.
   - ' - Dealt extra elemental damage: +100%'
   - >-
     Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
@@ -46,7 +46,7 @@ costume:
   passives:
     - 'Troop Mastery:'
     - >-
-      Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.
+      Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.
     - ' - Dealt extra elemental damage: +150%'
     - >-
       Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.

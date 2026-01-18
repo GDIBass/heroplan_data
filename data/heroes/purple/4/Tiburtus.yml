@@ -42,7 +42,7 @@ costume2:
   skill: Elegent Pulverizer
   effects:
     - Deals 295% damage to the target and minor damage to nearby enemies.
-    - Reduces the max health of the target and nearby enemies by 600 over 4 turns. The effect is stronger against targets with boosted health. Max heath can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 150 per turn.
+    - Reduces the max health of the target and nearby enemies by 600 over 4 turns. The effect is stronger against targets with boosted health. Max heath can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 150 per turn.
   types:
     - Hit 3
     - Health Reduction 3

@@ -7,7 +7,7 @@ power: 675
 attack: 565
 defense: 680
 health: 1447
-skill: Valkyrie’s Fortitude
+skill: Valkyrie's Fortitude
 effects:
   - Boosts health of the caster and nearby allies by 650. Boosted health can exceed max HP.
   - The caster and nearby allies get +94% defence against Nature for 3 turns.

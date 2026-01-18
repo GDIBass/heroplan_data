@@ -13,7 +13,7 @@ effects:
   - If the enemy team has any Mega Minions, this Special Skill deals 375% damage to all enemies instead.
   - All enemies receive Devouring Goo status ailment for 3 turns.
   - >-
-    Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 50 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can’t exceed 700.)
+    Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 50 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can't exceed 700.)
 types:
   - Hit All
   - Devouring Goo

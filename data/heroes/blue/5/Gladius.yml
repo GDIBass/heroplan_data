@@ -7,7 +7,7 @@ power: 915
 attack: 972
 defense: 918
 health: 1705
-skill: Hunter’s Instinct
+skill: Hunter's Instinct
 effects:
   - This Special Skill never misses its targets.
   - Deals 550% damage to the target.

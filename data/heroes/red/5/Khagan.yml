@@ -61,7 +61,7 @@ costume3:
   attack: 1117
   defense: 933
   health: 2415
-  skill: The Toon’s Order
+  skill: The Toon's Order
   effects:
     - Deals 530% damage to the target and nearby enemies.
     - The caster and nearby allies get +22% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by defence team at the end of turn.)
@@ -83,7 +83,7 @@ costume4:
   attack: 1310
   defense: 1081
   health: 2536
-  skill: Vitrail’s Order
+  skill: Vitrail's Order
   effects:
     - Deals 540% damage to the target and nearby enemies.
     - The attack bypasses defensive buffs. (This includes counterattacks.)

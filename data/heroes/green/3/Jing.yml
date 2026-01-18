@@ -11,7 +11,7 @@ skill: Spear of Shu
 effects:
   - Deals 340% damage to the target.
   - Summons a Shu Soldier Minion with 16% HP and 17% attack inherited from the caster.
-  - When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.
+  - When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can't be dispelled.
 types:
   - Hit 1
   - Summoner

@@ -11,7 +11,7 @@ skill: Hemlock Tea
 effects:
   - Deals 250% damage to all enemies.
   - The attack bypasses defensive buffs. This includes counterattacks.
-  - The enemies can’t get their status ailments cleansed or reallocated by Special Skills for 3 turns.
+  - The enemies can't get their status ailments cleansed or reallocated by Special Skills for 3 turns.
 types:
   - Hit all 
   - Bypass
@@ -32,7 +32,7 @@ costume:
   effects:
     - Deals 265% damage to all enemies.
     - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies can’t get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevent cleansing and reallocating of itself.)
+    - All enemies can't get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevent cleansing and reallocating of itself.)
     - All enemies receive 716 Bleed damage over 4 turns.
   types:
     - Hit All

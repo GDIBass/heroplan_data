@@ -23,7 +23,7 @@ costume:
   attack: 1081
   defense: 982
   health: 1756
-  skill: Machinist’s Cutlass
+  skill: Machinist's Cutlass
   effects:
     - Deals 370% damage to the target.
     - Deals 555% damage if the caster has status ailments or negative stacks.
@@ -33,5 +33,5 @@ costume:
     - >-
       Start Battle with Mana: This character receives 20% mana at the start of the battle.
     - >-
-      Increased Damage Against Boosted Health: After Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns.
+      Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns.
   image: https://i.imgur.com/UjiSmNx.jpg

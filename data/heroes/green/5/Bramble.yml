@@ -17,7 +17,7 @@ types:
   - Safely Cleanses
 passives:
   - >-
-    Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.
+    Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.
   - >-
     Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.
   - >-

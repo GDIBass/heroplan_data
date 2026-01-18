@@ -9,8 +9,8 @@ defense: 1081
 health: 1854
 skill: Holy Hibiscus Ale
 effects:
-  - If there’s 8 or more Holy shields on the board, then all effects cast in this Special Skill are undispellable.
-  - The caster get Taunt that prevents enemies from using Special Skils on the caster’s allies for 5 turns.
+  - If there's 8 or more Holy shields on the board, then all effects cast in this Special Skill are undispellable.
+  - The caster get Taunt that prevents enemies from using Special Skils on the caster's allies for 5 turns.
   - All allies regenerate 1300 boosted health over 5 turns. Boosted health can exceed max HP.
   - All allies get +44% mana generation for 5 turns.
 types:
@@ -20,7 +20,7 @@ types:
 passives:
   - 'Troop Mastery:'
   - >-
-    Passive Skill as attacking character: This hero’s Troops deal extra 
+    Passive Skill as attacking character: This hero's Troops deal extra 
     elemental damage against weaker element.
   - ' - Dealt extra elemental damage: +100%'
   - >-

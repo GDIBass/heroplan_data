@@ -9,8 +9,8 @@ defense: 1180
 health: 2121
 skill: Royal Meatball Buffet
 effects:
-  - Cleanses all status ailments from all allies, and increases all allies’ mana by 10% for each cleansed ailment.
-  - All allies bypass defensive buffs with their attacks for 4 turns. If any defensive buffs are bypassed, the attacking ally’s mana is increased by 15%. (Defensive buffs include counterattacks.)
+  - Cleanses all status ailments from all allies, and increases all allies' mana by 10% for each cleansed ailment.
+  - All allies bypass defensive buffs with their attacks for 4 turns. If any defensive buffs are bypassed, the attacking ally's mana is increased by 15%. (Defensive buffs include counterattacks.)
   - All allies resist new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.
   - 'Stack (Max: 10): All allies get +35% attack.'
 types:
@@ -22,10 +22,10 @@ passives:
   - >-
     Nine Lives:
   - ' * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.'
-  - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.'
+  - " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments on Passive Skills."
   - >-
     Trait: Lithe Frame
-  - This character is not affect by effects that increase or reduce defense.
+  - This character is not affected by effects that increase or reduce defense.
   - 'This includes:'
   - ' * - Status effect buffs and ailments.'
   - ' * - Positive and negative stacks.'

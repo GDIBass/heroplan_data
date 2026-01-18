@@ -10,7 +10,7 @@ health: 1975
 skill: Mending Bronze Axe
 effects:
   - Deals 350% damage to all enemies.
-  - Boosts all allies’ health by 25% of damage dealt.
+  - Boosts all allies' health by 25% of damage dealt.
   - All allies get +30% defense for 4 turns. The defense increases by 10% each turn up to 60%.
 types:
   - Hit All

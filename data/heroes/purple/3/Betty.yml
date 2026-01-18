@@ -10,11 +10,11 @@ health: 783
 skill: Pointy Darts
 effects:
   - Deals 210% damage to target and nearby enemies.
-  - Nearby allies receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.)
+  - Nearby allies receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can't be dispelled.)
 types:
   - Hit 3
   - Softskin 2
 passives:
   - >-
-    Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.
+    Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can't be dispelled.
 image: https://i.imgur.com/Ni9fM9U.jpg

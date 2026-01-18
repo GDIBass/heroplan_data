@@ -25,7 +25,7 @@ costume:
   attack: 1126
   defense: 1384
   health: 2261
-  skill: Clown’s Blessing
+  skill: Clown's Blessing
   effects:
     - Recovers 65% health for the ally with the lowest remaining HP. All other allies recover 45% health.
     - Summons a Clown Minion for each ally with 20% HP and 30% attack, inherited from the caster.

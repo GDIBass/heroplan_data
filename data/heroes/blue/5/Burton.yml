@@ -10,7 +10,7 @@ health: 2127
 skill: Petrifying Knuckles
 effects:
   - Deals 400% damage to the target and nearby enemies and inflicts 25 Insanity on them.
-  - The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 5 hits. This affects can’t be dispelled.
+  - The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 5 hits. This affects can't be dispelled.
   - Inflicts 50 Insanity to the caster.
 types:
   - Hit 3

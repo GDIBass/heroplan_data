@@ -10,8 +10,8 @@ health: 1623
 skill: Spirit of Spring
 effects:
   - Summons a Spirit of Spring Minion for all allies with 30% HP inherited from the caster.
-  - When summoned, the Spirit of Spring Minion boosts 120 health for its owner at the end of each turn for as long as the owner has a Spirit of Spring Minion. This effect can’t be dispelled.
-  - All allies’ Special Skill deal an additional 25% damage for 4 turn.
+  - When summoned, the Spirit of Spring Minion boosts 120 health for its owner at the end of each turn for as long as the owner has a Spirit of Spring Minion. This effect can't be dispelled.
+  - All allies' Special Skill deal an additional 25% damage for 4 turn.
   - Element Link gives all Nature allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled.
 types:
   - Summoner 

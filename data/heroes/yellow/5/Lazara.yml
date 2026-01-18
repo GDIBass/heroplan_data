@@ -12,7 +12,7 @@ effects:
   - Cleanses status ailments from all allies without triggering secondary effects.
   - Deals 325% damage to all enemies.
   - All enemies get -50% decrease for any healing received for 4 turns.
-  - All enemies can’t get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself.
+  - All enemies can't get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself.
 types:
   - Cleanser All
   - Hit All

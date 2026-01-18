@@ -9,9 +9,9 @@ defense: 559
 health: 801
 skill: Rough and Tumble
 effects:
-  - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)
+  - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)
   - Deals 265% damage to the target and minor damage to nearby enemies.
-  - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 5 turns.
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 5 turns.
 types:
   - Chance of Critical hits
   - Hit 3
@@ -21,7 +21,7 @@ passives:
     Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.
   - >-
     Righteous Rebellion: 
-  - " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health."
+  - " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health."
   - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
   - " * Each of these effects can activate once per turn."
   - >-

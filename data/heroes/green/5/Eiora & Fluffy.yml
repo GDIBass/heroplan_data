@@ -29,7 +29,7 @@ costume:
   effects:
     - Destroys all Minions from the target. This effect damages Mega Minions.
     - Deals 640% damage to the target.
-    - Reduces max health from all enemies by 850. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 850.)
+    - Reduces max health from all enemies by 850. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 850.)
   types:
     - Minion Destroyer 1
     - Hit 1

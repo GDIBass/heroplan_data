@@ -13,7 +13,7 @@ effects:
   - The attack bypasses defensive buffs. (This includes counterattacks.)
   - Heals all allies for 40% of damage dealt.
   - Summons a Grave Mothling Mega Fiend for the target. The Fiend damages the enemy with 270% attack every turn.
-  - The Grave Mothling Mega Fiend absorbs healing and disappears when it has absorbed health equal to 80% of its owner’s max health.
+  - The Grave Mothling Mega Fiend absorbs healing and disappears when it has absorbed health equal to 80% of its owner's max health.
   - When summoned, the Grave Mothling Mega Fiend increases the damage dealt to its target from all sources by +50%. The effect lasts as long as the owner has Grave Mothling Mega Fiend.
 types:
   - Hit 1

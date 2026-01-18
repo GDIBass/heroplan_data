@@ -11,8 +11,8 @@ skill: Bounty of the Spring
 effects:
   - "Growth: All allies get 150 attack and 150 defense."
   - Summon a Carrot Minion for each ally with 25% HP inherited from the caster.
-  - When summoned, the Carrot Minion gives +20% mana generation for its owner for as long as the owner has Carrot Minions. This effect can’t be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
-  - Elemental Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled.
+  - When summoned, the Carrot Minion gives +20% mana generation for its owner for as long as the owner has Carrot Minions. This effect can't be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+  - Elemental Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled.
 types:
   - Attack Growth All
   - Defense Growth All

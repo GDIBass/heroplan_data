@@ -15,7 +15,7 @@ effects:
   - " * +100% attack."
   - " * Reduces all received damage by -50%."
   - " * If the caster is defeated, the dancer receives 84 damage and their mana is  reduced by 100%."
-  - " * This effect can’t be dispelled, but it gets removed if caster is defeated."
+  - " * This effect can't be dispelled, but it gets removed if caster is defeated."
 types:
   - Full Cleanser 4
   - Self HoT
@@ -40,7 +40,7 @@ costume:
     - " * +110% attack."
     - " * Reduces all received damage by -30%."
     - " * If the caster is defeated, the dancer receives 115 damage and their mana is reduced by 100%."
-    - " * This effect can’t be dispelled, but it gets removed if caster is defeated."
+    - " * This effect can't be dispelled, but it gets removed if caster is defeated."
   types:
     - Full Cleanser 4
     - Healer All

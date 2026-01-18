@@ -1,7 +1,8 @@
 name: Nordri
-class: Barbarian
 source: season3
+family: jotunheim
 speed: Average
+class: Barbarian
 power: 464
 attack: 488
 defense: 406
@@ -13,9 +14,9 @@ effects:
 types:
   - Hit 3
   - Elemental Defense Debuff
-family: jotunheim
 image: https://i.imgur.com/35qzhpx.jpg
 costume:
+  bonuses: 3/3/6/1
   class: Monk
   power: 479
   attack: 477
@@ -24,13 +25,8 @@ costume:
   skill: Icy Axes
   effects:
     - Deals 230% damage to the target and nearby enemies.
-    - >-
-      All enemies get -54% defense against Ice for 3 turns. 
-      Against Fire characters, this status effect becomes uncleansable and lasts
-      2 turns longer.
+    - All enemies get -54% defense against Ice for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer.
   types:
     - Hit 3
     - Elemental Defense Debuff
   image: https://i.imgur.com/rQEdas3.jpg
-  bonuses: 3/3/6/1
-  

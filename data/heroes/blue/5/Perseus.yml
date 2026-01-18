@@ -10,9 +10,9 @@ health: 1367
 skill: Everlasting Wound
 effects:
   - Deal 455% damage to the target.
-  - The target gets -100% decrease for any healing received for 4 turns.  This effect can’t be cleansed.
+  - The target gets -100% decrease for any healing received for 4 turns.  This effect can't be cleansed.
   - The caster and nearby allies get +94% defense against Nature for 4 turns.
-  - Elemental Link gives 10% mana generation for all Ice allies for 4 turns. This effect can’t be displelled.
+  - Elemental Link gives 10% mana generation for all Ice allies for 4 turns. This effect can't be displelled.
 types:
   - Hit 1
   - Healing Debuff 1
@@ -28,9 +28,9 @@ costume:
   skill: Arctic Wound
   effects:
     - Deals 405% damage to the target and nearby enemies.
-    - The target and nearby enemies get -100% decrease of any healing received for 4 turns. This effect can’t be cleansed.
+    - The target and nearby enemies get -100% decrease of any healing received for 4 turns. This effect can't be cleansed.
     - The target and nearby enemies get -68% defense against Ice for 4 turns.
-    - Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This effect can’t be displelled.
+    - Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This effect can't be displelled.
   types:
     - Hit 3
     - Healing Debuff 3

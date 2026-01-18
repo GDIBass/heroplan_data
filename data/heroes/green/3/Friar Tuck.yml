@@ -39,7 +39,7 @@ costume2:
   attack: 526
   defense: 520
   health: 817
-  skill: Toon’s Faith
+  skill: Toon's Faith
   effects:
     - Recovers 40% health for the caster and nearby allies.
     - The caster and nearby allies get +12% mana generation for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.

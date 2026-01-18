@@ -11,7 +11,7 @@ skill: Spreading Shadow
 effects:
   - Deaks 450% damage to the target.
   - Summon a Spreading Shadow Fiend for the target. The Fiend damage the enemy with 60% attack every turn.
-  - The Spreading Shadow Fiend absorbs healing and disappears when it has absorbed health equal to 40% of its owner’s max health.
+  - The Spreading Shadow Fiend absorbs healing and disappears when it has absorbed health equal to 40% of its owner's max health.
   - The Spreading Shadow Fiend generates a clone of itself to nearby enemies every 2 turns. Cloned fiends absorb the same amount of healing and deal the same amount of damage as the original Fiend.
 types:
   - Hit 1

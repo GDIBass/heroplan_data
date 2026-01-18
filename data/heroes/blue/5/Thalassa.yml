@@ -7,7 +7,7 @@ power: 952
 attack: 896
 defense: 997
 health: 1674
-skill: Ocean’s Embrace
+skill: Ocean's Embrace
 effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'

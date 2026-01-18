@@ -27,7 +27,7 @@ costume:
   skill: But a Scratch
   effects:
     - The caster has a 50% chance to drop any received damage to 1 for 4 turns.
-    - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.
+    - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.
     - All allies get +54% attack for 4 turns.
   types:
     - Drop to 1 Damage All

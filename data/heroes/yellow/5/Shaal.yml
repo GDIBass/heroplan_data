@@ -22,8 +22,7 @@ passives:
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
   - >-
     Repair Core: The Construct Core of this character is Repair Core.
-    The Repair Core activates each time this character’s Special Skill is cast:
+    The Repair Core activates each time this character's Special Skill is cast:
     * With fully charged Repair Core, boosts the health of all allies by 25%.
-    * The healing is scaled by the amount of charge in the Core, All charge is 
-    exchausted when the Core is activated.
+    * The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated.
 image: https://i.imgur.com/elVlVhm.jpg

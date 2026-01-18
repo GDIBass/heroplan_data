@@ -14,7 +14,7 @@ effects:
   - >-
     For the next 3 turns, the target and nearby enemies convert all boosted 
     health received to max health reduction. Max health is reduced more for 
-    targets that already have boosted health. (Max health can’t get lower than
+    targets that already have boosted health. (Max health can't get lower than
     30% of the original max health. When boosted healing is converted, the max
     health reduction is doubled if the target already has boosted health.)
 types:

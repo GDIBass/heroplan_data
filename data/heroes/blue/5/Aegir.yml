@@ -30,7 +30,7 @@ costume:
     - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
     - All allies get +35% defense, and a further 5% increase every time they are hit during 4 turns up to +60%.
     - All allies regenerate 732 HP over 4 turns.
-    - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can’t be dispelled.
+    - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't be dispelled.
   types:
     - Share Damage All
     - Defense Buff All

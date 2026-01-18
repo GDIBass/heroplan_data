@@ -30,7 +30,7 @@ costume:
     - Deals 310% damage to the target and nearby enemies.
     - The target and nearby enemies get -56% defense against Nature for 4 turns.
     - Dispels buffs from target and nearby enemies.
-    - Element Link recovers 4% health for all Nature allies for 6 turns. This effect can’t be dispelled.
+    - Element Link recovers 4% health for all Nature allies for 6 turns. This effect can't be dispelled.
   types:
     - Hit 3
     - Elemental Defense Debuff

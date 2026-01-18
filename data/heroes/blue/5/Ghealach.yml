@@ -12,7 +12,7 @@ effects:
   - Deals 385% damage to the target and nearby enemies.
   - Summons a Fallen Star Fiend to the target and nearby enemies.
   - The Fallen Star Fiend absorbs healing. It disappears after absorbing a healing amount equal to 45% of its target max health.
-  - The caster steals 45% of the generated mana from the target and nearby enemies. The effect lasts as long as the target has Fallen Star Fiends. This effect can’t be cleansed, but it gets removed if the caster dies.
+  - The caster steals 45% of the generated mana from the target and nearby enemies. The effect lasts as long as the target has Fallen Star Fiends. This effect can't be cleansed, but it gets removed if the caster dies.
 types:
   - Hit 3
   - Fiend Summoner 3
@@ -22,7 +22,7 @@ passives:
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
   - >- 
     Destructive Core: The Construct Core of this character is Destructive Core.
-  - The Destructive Core activates each time this character’s Special Skill is cast
+  - The Destructive Core activates each time this character's Special Skill is cast
   - ' * With fully charged Destructive Core, deals 180% damage to all enemies.'
   - ' * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated.'
 image: https://i.imgur.com/KrLttV5.jpg

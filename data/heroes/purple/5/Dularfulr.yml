@@ -7,7 +7,7 @@ power: 1165
 attack: 1143
 defense: 1182
 health: 2212
-skill: Night’s Whisper
+skill: Night's Whisper
 effects:
   - Recovers 30% health for all allies.
   - All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1300. Reduces damage by additional 30% when the attacker is of the Nature element.
@@ -19,9 +19,7 @@ types:
 passives:
   - >-
     Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.
-  - Molten Core. This character has a Molten Core.
-  - >-
-    The Molten Core activates each time this character’s Special Skill is cast:
-  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 308 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions'
+  - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
+  - " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 308 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions."
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
 image: https://i.imgur.com/mO16Dj6.jpg

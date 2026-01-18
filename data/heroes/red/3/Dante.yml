@@ -7,7 +7,7 @@ power: 484
 attack: 537
 defense: 472
 health: 709
-skill: Dante’s Inferno
+skill: Dante's Inferno
 effects:
   - >-
     Special Skill has a different effect when charged with 100% / 200% / 300% mana:

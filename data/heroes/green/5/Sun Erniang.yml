@@ -11,12 +11,12 @@ skill: Vicious Trap
 effects:
   - "Casts one of the following Special Skill:"
   - "If any enemy has the Bleed status ailment:"
-  - " * This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)"
+  - " * This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)"
   - " * Deals 300% damage to the all enemies."
   - " * All enemies receive 1020 Bleed damage over 5 turns."
   - " * The duration of status ailments is reset for all enemies."
   - "Otherwise:"
-  - " * This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)"
+  - " * This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)"
   - " * Deals 250% damage to the all enemies."
   - " * All enemies receive 830 Bleed damage over 5 turns."
 types:
@@ -29,7 +29,7 @@ passives:
     Health Boost on Critical Special Attack: When this character scores a critical hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.
   - >-
     Righteous Rebellion: 
-  - " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health."
+  - " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health."
   - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
   - " * Each of these effects can activate once per turn."
   - >-

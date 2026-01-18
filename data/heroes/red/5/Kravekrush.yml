@@ -9,8 +9,8 @@ defense: 776
 health: 1409
 skill: Inevitable Demise
 effects:
-  - All enemies can’t revive their allies or themselves for 5 turns.
-  - All enemies can’t receive new status effects that would resurrect them for 5 turns.
+  - All enemies can't revive their allies or themselves for 5 turns.
+  - All enemies can't receive new status effects that would resurrect them for 5 turns.
   - Deals 430% damage to the target and minor damage to the nearby enemies.
 types:
   - Revive Block All
@@ -28,8 +28,8 @@ costume:
   health: 1942
   skill: Delicious Demise
   effects:
-    - All enemies can’t revive their allies or themselves for 4 turns.
-    - All enemies can’t receive new status effects that would resurrect them for 4 turns.
+    - All enemies can't revive their allies or themselves for 4 turns.
+    - All enemies can't receive new status effects that would resurrect them for 4 turns.
     - Deals 460% damage to the target and minor damage to nearby enemies.
   types:
     - Revive Block All

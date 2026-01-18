@@ -7,10 +7,10 @@ power: 1158
 attack: 1225
 defense: 1262
 health: 1796
-skill: I’ll Bring You Back
+skill: I'll Bring You Back
 effects:
   - Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stack that are otherwise undispelalble and uncleasable.
-  - The caster shifts into Ghost form for 3 turns. (While in Ghost form, Character can’t gain mana, and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)
+  - The caster shifts into Ghost form for 3 turns. (While in Ghost form, Character can't gain mana, and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)
   - 'When the Ghost form expires:'
   - The caster revives a random defeated ally with 40% HP.
   - All allies regenerate 900 health over 3 turns.

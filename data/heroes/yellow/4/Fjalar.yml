@@ -9,7 +9,7 @@ defense: 694
 health: 1260
 skill: Poetic Justice
 effects:
-  - Damage bypasses target’s Minions.
+  - Damage bypasses target's Minions.
   - Attack the target with Firestorm Strike, dealing up to 1080 damage. Deals 30% more damage if the target is ok the Nature element. This Special Skill never misses its targets.
   - The target resists new Minions for 4 turns.
 types:
@@ -19,10 +19,8 @@ types:
 passives:
   - >-
     Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.
-  - Molten Core. This character has a Molten Core.
-  - >-
-    The Molten Core activates each time this character’s Special Skill is cast:
-  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 193 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions'
+  - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
+  - " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 193 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions."
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
 image: https://i.imgur.com/iXEEsKX.jpg
 costume:
@@ -35,7 +33,7 @@ costume:
   health: 1415
   skill: Undead Penance
   effects:
-    - Damage bypasses target’s Minions.
+    - Damage bypasses target's Minions.
     - Attack the target with Firestorm Strike, dealing up to 1180 damage. Deals 30% more damage if the target is of the Nature element. This Special Skill never misses its targets.
     - The target resists new Minions for 4 turns.
   types:
@@ -45,10 +43,7 @@ costume:
   passives:
     - >-
       Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.
-    - >-
-      Molten Core. This character has a Molten Core.
-    - >-
-      The Molten Core activates each time this character’s Special Skill is cast:
-    - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 238 Burn damage, and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+    - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
+    - " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 238 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
     - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
   image: https://imgur.com/e5fIPsA.jpg

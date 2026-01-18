@@ -10,8 +10,8 @@ health: 1775
 skill: Summon Rock Golems
 effects:
   - Summon a Rock Golem Minion for each ally with 40% HP and 50% attack inherited from the caster.
-  - The Rock Golem Minion gives its owner Golem’s Stoneskin when summoned, and again every 3 turns. This effect can’t be dispelled.
-  - Golem’s Stoneskin drops all damage dealt to the owner to 1, but is removed after 1 hit.
+  - The Rock Golem Minion gives its owner Golem's Stoneskin when summoned, and again every 3 turns. This effect can't be dispelled.
+  - Golem's Stoneskin drops all damage dealt to the owner to 1, but is removed after 1 hit.
 types:
   - Summoner All
   - Stoneskin Minion

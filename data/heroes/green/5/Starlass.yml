@@ -11,7 +11,7 @@ skill: Power Wave
 effects:
   - This Special Skill never misses its targets.
   - Deals 550% damage to target and nearby enemies
-  - Automatically does 701 damage to the hit enemy and consumes 75% mana from hit enemy every time when the hit enemy’s mana gets full for 3 tuns.
+  - Automatically does 701 damage to the hit enemy and consumes 75% mana from hit enemy every time when the hit enemy's mana gets full for 3 tuns.
 types:
   - Hit 3
   - Mindless Attack

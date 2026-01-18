@@ -1,8 +1,8 @@
 name: Lucy
-class: Wizard
 source: magic
 family: magic
 speed: Magic
+class: Wizard
 power: 686
 attack: 658
 defense: 677
@@ -21,11 +21,7 @@ types:
   - Mana Generation
 passives:
   - >-
-    When this character casts their Special Skill, all enemies get -5% mana 
-    generation stack. If the Special Skill is fully charged, all enemies get 
-    two stacks. An enemy can have up to 10 stacks.
+    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
   - >-
-    When this character casts their Special Skill, they have a 50% chance to 
-    recover 15% health for all allies. If the Special Skill is fully charged, 
-    the chance is 100%.
+    Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.
 image: https://i.imgur.com/j3M4iy4.jpg

@@ -11,7 +11,7 @@ skill: Wrathful Sting
 effects:
   - This Special Skill ignores Dodge effects.
   - Dispels buffs from the target and nearby enemies.
-  - Target and nearby enemies receive 936 Poison damage over 3 turns. This effect can’t be cleansed.
+  - Target and nearby enemies receive 936 Poison damage over 3 turns. This effect can't be cleansed.
 types:
   - Dispeller
   - DoT 3

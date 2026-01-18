@@ -11,8 +11,8 @@ skill: Remendies and Diseases
 effects:
   - Destroys all Fiends from all allies.
   - Cleanses status ailments from all allies.
-  - All allies regenerate 1190 HP over 5 turns. This effect can’t be dispelled.
-  - All enemies receive 815 Poison damage over 5 turns. This effect can’t be cleansed.
+  - All allies regenerate 1190 HP over 5 turns. This effect can't be dispelled.
+  - All enemies receive 815 Poison damage over 5 turns. This effect can't be cleansed.
 types:
   - Fiend Destroyer All
   - Cleanser All

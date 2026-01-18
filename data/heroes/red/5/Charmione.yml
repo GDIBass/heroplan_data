@@ -12,8 +12,8 @@ effects:
   - Deals 400% damage to the target and nearby enemies.
   - The target and nearby enemies receive Devouring Goo status ailment for 5 turns.
   - >-
-    Devouring Goo: Removes all dispellable buffs and Growth effects, deals 300 damage per turn and 100 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can’t exceed 700.
-  - After 1 turn the target and nearby enemies get Paralyzed for 4 turns. (Paralyzed enemies can’t attack or gain mana and receive +50% increased damage.
+    Devouring Goo: Removes all dispellable buffs and Growth effects, deals 300 damage per turn and 100 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can't exceed 700.
+  - After 1 turn the target and nearby enemies get Paralyzed for 4 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage.
 types:
   - Hit 3
   - Devouring Goo 3

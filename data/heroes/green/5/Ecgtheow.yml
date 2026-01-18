@@ -16,7 +16,7 @@ types:
   - Mana Reduction All
 passives:
   - >-
-    Perfect Accuracy: This character’s Special Skill never mises its target.
+    Perfect Accuracy: This character's Special Skill never mises its target.
   - >-
     Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.
   - >-

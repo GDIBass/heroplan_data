@@ -11,7 +11,7 @@ skill: Ancient Spell
 effects:
   - Deals 500% damage to the target and minor damage to nearby enemies.
   - The target gets -54% defense for 3 turns.
-  - If target is defeated in the next 3 turns, all caster’s allies get +20% mana.
+  - If target is defeated in the next 3 turns, all caster's allies get +20% mana.
 types:
   - Hit 3
   - Defense Debuff
@@ -33,7 +33,7 @@ costume:
   effects:
     - Deals 530% damage to the target and minor damage to nearby enemies.
     - The target gets -44% defense for 3 turns.
-    - If the target is defeated in the next 3 turns, all caster’s allies get +20% mana.
+    - If the target is defeated in the next 3 turns, all caster's allies get +20% mana.
   types:
     - Hit 3
     - Defense Debuff 1

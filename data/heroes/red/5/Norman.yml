@@ -20,7 +20,7 @@ passives:
   - >-
     Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.
   - >-
-    Mana on Taunt: Each time an enemy receives Taunt status effect this character’s mana is increased by 10%.
+    Mana on Taunt: Each time an enemy receives Taunt status effect this character's mana is increased by 10%.
   - >-
-    Ignore Taunt: The character’s Special Skill is not affected by Taunt.
+    Ignore Taunt: The character's Special Skill is not affected by Taunt.
 image: https://i.imgur.com/xFLIwuu.jpg

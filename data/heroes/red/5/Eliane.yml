@@ -12,7 +12,7 @@ effects:
   - Deals 300% damage to all enemies.
   - All enemies receive 640 Burn damage over 4 turns.
   - Dispel buffs from all enemies.
-  - Elemental Link gives all Fire allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled.
+  - Elemental Link gives all Fire allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled.
 types:
   - Hit All
   - DoT All

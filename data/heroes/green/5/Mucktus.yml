@@ -11,7 +11,7 @@ skill: Insidious Goo
 effects:
   - Deals 290% damage to all enemies.
   - Summons a Slime Fiend for all enemies. The Fiend damage the enemy with 50% attack every turn.
-  - The Slime Fiend absorbs healing. It disappears after absorbing health equal to 40% of its target’s max health.
+  - The Slime Fiend absorbs healing. It disappears after absorbing health equal to 40% of its target's max health.
   - At the end of each turn the Slime Fiend steals one of the dispellable buffs or Growth effect and gives it to a random character on the opposite team.
 types:
   - Hit All

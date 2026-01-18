@@ -13,7 +13,7 @@ effects:
   - At the end of each turn, the caster cast a Bone Toss at a random enemy for 5 turns.
   - Each Bone Toss deals 230% damage.
   - Each Bone Toss summons a Skeleton Fox Fiend to the target. The Fiend damages its target with 100% attack every turn.
-  - The Skeleton Fox Fiend absorbs healing. It disappears after receiving a healing amount equal to 30% of its target’s max health.
+  - The Skeleton Fox Fiend absorbs healing. It disappears after receiving a healing amount equal to 30% of its target's max health.
 types:
   - Hit All
   - Bone Toss Hit 1

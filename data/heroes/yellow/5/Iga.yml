@@ -11,15 +11,15 @@ skill: Kunai Assault
 effects:
   - 1x Mana Charge
   - ' * Summons a Kunai Fiend for the target. The Fiend damages the enemy with 150% attack every turn.'
-  - ' * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 45% of it’s owner’s max health.'
+  - " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 45% of it's owner's max health."
   - ' * The Kunai Fiend explodes after 3 turns, dealing 1850 damage to its target.'
   - 2x Mana Charge
   - ' * Summons a Kunai Fiend for the target and nearby enemies. The Fiend damages the enemy with 175% attack every turn.'
-  - ' * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it’s owner’s max health.'
+  - " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it's owner's max health."
   - ' * The Kunai Fiend explodes after 3 turns, dealing 2000 damage to its target.'
   - 3x Mana Charge
   - ' * Summons a Kunai Fiend for all enemies. The Fiend damages the enemy with 200% attack every turn.'
-  - ' * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 55% of it’s owner’s max health.'
+  - " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 55% of it's owner's max health."
   - ' * The Kunai Fiend explodes after 3 turns, dealing 2250 damage to its target.'
 types:
   - Charge

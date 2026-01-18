@@ -12,7 +12,7 @@ effects:
   - This Special Skill never misses its targets.
   - Deals 300% damage to 3 random enemies.
   - All allies get +40% chance to dodge Special Skills that deal damage for 3 turns.
-  - Elemental Link gives all Fire allies +20% attack for 5 turns. This effect can’t be dispelled.
+  - Elemental Link gives all Fire allies +20% attack for 5 turns. This effect can't be dispelled.
 types:
   - Hit Random 3
   - Dodge Buff All

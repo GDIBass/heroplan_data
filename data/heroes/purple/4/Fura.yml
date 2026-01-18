@@ -10,7 +10,7 @@ health: 1083
 skill: Nightglade Pollen
 effects:
   - Deals 150% damage to all enemies.
-  - Reduces max health of all enemies by 100. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 100.
+  - Reduces max health of all enemies by 100. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 100.
   - All enemies get -50% decrease for any healing received for 4 turns.
 types:
   - Hit All

@@ -1,8 +1,8 @@
 name: Para
-class: Rogue
-speed: Average
-family: kalevala
 source: kalevala
+family: kalevala
+speed: Average
+class: Rogue
 power: 482
 attack: 457
 defense: 477
@@ -10,14 +10,11 @@ health: 884
 skill: Familiar Witchcraft
 effects:
   - Recovers 32% health for all allies.
-  - >-
-    All enemies get -24% attack for 4 turns. Against Holy characters, this
-    status effect becomes uncleansable and lasts 2 turns longer.
+  - All enemies get -24% attack for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.
 types:
   - Recover all
   - Attack debuff
 passives:
   - >-
-    When this character starts a turn with low health for the first time during
-    a battle, they recover 15% health and receive 15% mana.
+    Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/n5BGh1Y.jpg

@@ -10,7 +10,7 @@ health: 1374
 skill: Surprise Goo!
 effects:
   - Boosts health of the caster and nearby allies by 450. Boosted health can exceed max HP.
-  - The caster and nearby allies get Sticky Surface for 3 turns. This effect can’t be dispelled.
+  - The caster and nearby allies get Sticky Surface for 3 turns. This effect can't be dispelled.
   - "Sticky Surface: Steals 1 random dispellable buff or Growth from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)"
 types:
   - Health Boost 3

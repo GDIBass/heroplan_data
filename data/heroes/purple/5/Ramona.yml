@@ -11,7 +11,7 @@ skill: Three Little Rams
 effects:
   - Deals 450% damage to the target.
   - Summons three Ram Fiends for the target. This Fiend damages the enemy with 40% attack every turn.
-  - The Ram Fiend absorbs healing and disappears when it has absorbed health equal to 45% of its owner’s max health.
+  - The Ram Fiend absorbs healing and disappears when it has absorbed health equal to 45% of its owner's max health.
   - The healing absorbed is transferred to the summoner and their allies and distributed evenly. (Ignores heal steal, healing modifers and fiends)
 types:
   - Hit 1

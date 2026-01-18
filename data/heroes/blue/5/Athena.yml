@@ -12,7 +12,7 @@ effects:
   - Deals 365% damage to the target and minor damage to nearby enemies.
   - The target and nearby enemies get -41% defense and a further -4% decrease every time they are hit for 4 turns.
   - Deals extra damage against Fire.
-  - Element Link gives all Ice  allies +15% attack and +15% defense for 6 turns. This effect can’t be dispelled.
+  - Element Link gives all Ice  allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled.
 types:
   - Hit 3
   - Defense Debuff 3
@@ -29,7 +29,7 @@ costume:
     - Deals 350% damage to the target and minor damage to nearby enemies.
     - The target and nearby enemies get -41% defense, and a further -4% decrease every time that they are hit for 3 turns.
     - All Fire enemies get -34% defense against Ice for 3 turns.
-    - Element Link gives all Ice  allies +15% attack and +15% defense for 6 turns. This effect can’t be dispelled.
+    - Element Link gives all Ice  allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled.
   types:
     - Hit 3
     - Defense Debuff 3

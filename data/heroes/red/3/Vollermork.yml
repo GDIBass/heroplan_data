@@ -27,7 +27,7 @@ costume:
   skill: Leeching Worms
   effects:
     - Summons a Worm Fiend for all enemies. The fiend damages the enemy with 28% attack every turn.
-    - The fiend absorbs healing. It disappears after absorbing a healing equal to 20% of the target’s max health.
+    - The fiend absorbs healing. It disappears after absorbing a healing equal to 20% of the target's max health.
   types:
     - Fiend Summoner All
   passives:

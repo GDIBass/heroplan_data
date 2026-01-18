@@ -12,8 +12,8 @@ effects:
   - Destroys all Minions from the target and nearby enmies. This effect damage Mega Minions.
   - Deals 430% damage to the target and nearby enemies.
   - Summons a Flytrap Fiend to the target and nearby enemies.
-  - The Flytrap Fiend absorbs healing. It disappears after absorbing healing amount equal to 45% of its target’s max health.
-  - When summoned, the Flytrap Fiend reduces max health of its owner by 65 each turn. This effect is stonger against targets with boosted health. The effect lasts as long as the target has the Flytrap Fiend. This effect can’t be cleansed. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 65 per turn.)
+  - The Flytrap Fiend absorbs healing. It disappears after absorbing healing amount equal to 45% of its target's max health.
+  - When summoned, the Flytrap Fiend reduces max health of its owner by 65 each turn. This effect is stonger against targets with boosted health. The effect lasts as long as the target has the Flytrap Fiend. This effect can't be cleansed. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 65 per turn.)
 types:
   - Minion Destroyer 3
   - Hit 3

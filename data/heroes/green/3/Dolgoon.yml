@@ -1,8 +1,8 @@
 name: Dolgoon
-class: Sorcerer
 source: magic
 family: magic
 speed: Magic
+class: Sorcerer
 power: 479
 attack: 462
 defense: 504
@@ -14,7 +14,7 @@ effects:
   - ' * All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.'
   - ' * All allies get +63% defense for 3 turns.'
   - '2x Mana Charge:'
-  - ' * All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.'
+  - ' * All enemies become Soul Connected for 5 turns. Soul Connected enemies share received damage.'
   - ' * All enemies get -56% defense for 5 turns.'
 types:
   - Damage share buff
@@ -23,5 +23,6 @@ types:
   - Defense debuff
   - Charge
 passives:
-  - 'Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%.'
+  - >-
+    Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%.
 image: https://i.imgur.com/vRYNJwU.jpg

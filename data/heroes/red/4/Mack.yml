@@ -25,7 +25,7 @@ costume:
   attack: 658
   defense: 715
   health: 1265
-  skill: Halfling’s Wisdom
+  skill: Halfling's Wisdom
   effects:
     - The caster and nearby allies counterattack with 100% of the damage received for 4 turns.
     - The caster and nearby allies get +35% attack for 4 turns.

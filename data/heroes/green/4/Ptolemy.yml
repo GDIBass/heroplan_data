@@ -27,7 +27,7 @@ costume:
   attack: 576
   defense: 721
   health: 1509
-  skill: Nature’s Connection
+  skill: Nature's Connection
   effects:
     - Recovers 35% health for all allies.
     - The caster and nearby allies are immune to new status ailments for 3 turns, and recover 100 health for each attempted status ailment.

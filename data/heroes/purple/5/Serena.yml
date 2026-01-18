@@ -11,8 +11,8 @@ skill: Spreading Gossip
 effects:
   - Deals 400% damage to the target.
   - Summons a Gossip Whisperer Fiend for the target.
-  - The Gossip Whisperer Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% of its target’s max health.
-  - When summoned the Gossip Whisperer Fiend gives -45% accuracy for its target as long as the target has Gossip Whisperer Fiends. This effect can’t be cleansed. (Chance to miss also applies to offensive Special Skills.)
+  - The Gossip Whisperer Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% of its target's max health.
+  - When summoned the Gossip Whisperer Fiend gives -45% accuracy for its target as long as the target has Gossip Whisperer Fiends. This effect can't be cleansed. (Chance to miss also applies to offensive Special Skills.)
   - The Gossip Whisperer Fiend generates a clone of itself to nearby enemies on every turn. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original Fiend. The Fiend will only clone if the target does not already have the maximum amount of Fiends or Minions.)
 types:
   - Hit 1

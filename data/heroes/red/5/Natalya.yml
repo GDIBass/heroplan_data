@@ -9,10 +9,10 @@ defense: 679
 health: 1419
 skill: Burning Chains
 effects:
-  - The target receives 960 Burn damage over 4 turns. This effect can’t be cleansed.
-  - The target gets -54% mana generation for 4 turns. This effect can’t be cleansed.
+  - The target receives 960 Burn damage over 4 turns. This effect can't be cleansed.
+  - The target gets -54% mana generation for 4 turns. This effect can't be cleansed.
   - Deals extra damage against Nature.
-  - Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can’t be displelled.
+  - Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled.
 types:
   - Dot 1
   - Mana Generation Debuff
@@ -26,10 +26,10 @@ costume:
   health: 2024
   skill: Burning Thread
   effects:
-    - The target receives 1432 Burn damage over 4 turns. This effect can’t be cleansed.
-    - The target gets -50% mana generation for 4 turns. This effect can’t be cleansed.
+    - The target receives 1432 Burn damage over 4 turns. This effect can't be cleansed.
+    - The target gets -50% mana generation for 4 turns. This effect can't be cleansed.
     - Deals extra damage against Nature.
-    - Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can’t be displelled.
+    - Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled.
   types:
     - Dot 1
     - Mana Generation Debuff
