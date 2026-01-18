@@ -2,30 +2,35 @@ colors:
   purple:
     code: 1
     key: purple
+    element: dark
     description: Purple
     avatarImage: https://i.imgur.com/xiPH2Zc.png
     badgeImage: https://i.imgur.com/K8e75Cc.png
   yellow:
     code: 2
     key: yellow
+    element: holy
     description: Yellow
     avatarImage: https://i.imgur.com/9bzM9KP.png
     badgeImage: https://i.imgur.com/L7dC1my.png
   blue:
     code: 3
     key: blue
+    element: ice
     description: Blue
     avatarImage: https://i.imgur.com/v04zcUN.png
     badgeImage: https://i.imgur.com/l7guZyH.png
   green:
     code: 4
     key: green
+    element: nature
     description: Green
     avatarImage: https://i.imgur.com/txwdzeB.png
     badgeImage: https://i.imgur.com/9DNpPI8.png
   red:
     code: 5
     key: red
+    element: fire
     description: Red
     avatarImage: https://i.imgur.com/sfUwjbW.png
     badgeImage: https://i.imgur.com/OwdTZRf.png
