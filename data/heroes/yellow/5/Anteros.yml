@@ -12,12 +12,11 @@ effects:
   - This Special Skill never misses its targets.
   - Deals 460% damage to the target.
   - For 3 turns, the target is forced to cast Mindless Heal when at full mana.
-  - 'Mindless Heal:'
-  - ' * Recovers 20% HP health for the character on the opposing side with the lowest remaining HP.'
+  - "Mindless Heal: Recovers 20% HP health for the character on the opposing side with the lowest remaining HP."
 types:
   - Hit 1
   - Mindless Heal
 passives:
   - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
 image: https://i.imgur.com/ZH2Xuuj.jpg

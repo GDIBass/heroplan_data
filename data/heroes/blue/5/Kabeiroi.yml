@@ -13,14 +13,13 @@ effects:
   - For 3 turns, the target is forced to cast Mindless Heal when at full mana.
   - Deals 200% damage to 3 other random enemies. (This effect target the same enemy as the first hit if there are no other valid targets)
   - For 3 turns, all hit enemies are forced to cast Mindless Heal when at full mana.
-  - >-
-    Mindless Heal: Recovers 20% health for the character on the opposing side with the lowest remaining HP.
+  - "Mindless Heal: Recovers 20% HP health for the character on the opposing side with the lowest remaining HP."
 types:
   - Hit 1
   - Mindless heal 1
-  - Hit 3 extra
+  - Hit random 3
   - Mindless Heal on Hit
 passives:
   - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
 image: https://i.imgur.com/cMqbo5o.jpg

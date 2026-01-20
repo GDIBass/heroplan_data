@@ -14,9 +14,9 @@ effects:
   - Recovers 8% health per removed status effect for all allies, up to 64% health in total.
 types:
   - Hit All
-  - Dispeller
-  - Healer
+  - Dispeller All
+  - Healer All
 passives:
   - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
 image: https://i.imgur.com/OE7cx2p.jpg
