@@ -1,0 +1,32 @@
+name: Gitnib
+source: wilderness
+family: wildcat
+speed: Slow
+class: Monk
+power: 1273
+attack: 1380
+defense: 1236
+health: 2280
+skill: The Piranha Incident
+effects:
+  - "All enemies receive 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300, Max total damage: 3000.)"
+  - Summons a Piranha Fiend to all enemies. The Fiend damages the enemy with 80% attack every turn.
+  - The Piranha Fiend absorbs healing. It disappears after absorbing a healing amount equal to 55% of its targets max health.
+  - Deals 400 - 800 damage to all enemies after 3 turns or if the caster is defeated, based on the damage the caster had taken while this effect was active. The effect cannot be dispelled. (Maximmum effect is achieved upon taking 50% of max health  in damage.)
+types:
+  - DoT All
+  - Fiend Summoner All
+  - Delayed Hit All
+passives:
+  - >-
+    Nine Lives:
+  - ' * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.'
+  - " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills."
+  - >-
+    Trait: Lithe Frame
+  - This character is not affected by effects that increase or reduce defense.
+  - 'This includes:'
+  - ' * - Status effect buffs and ailments.'
+  - ' * - Positive and negative stacks.'
+  - ' * - Growth and Wither effects.'
+image: https://imgur.com/0J3oat0.jpg
