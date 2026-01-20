@@ -15,5 +15,25 @@ types:
   - Hit 3
 passives:
   - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
 image: https://i.imgur.com/07KHMD9.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 538
+  attack: 614
+  defense: 533
+  health: 781
+  skill: Lasso of Love
+  effects:
+    - Deals 200% damage to the target and nearby enemies.
+    - The less mana the enemies have, the more damage they will receive, up to 330%.
+    - The target and nearby enemies get -34% defense against Nature for 4 turns.
+  types:
+    - Hit 3
+    - Elemental Defense Debuff 3
+  passives:
+    - >-
+      Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+  image: https://imgur.com/cYRiqtv.jpg
