@@ -22,10 +22,10 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Monk
-  power: 
-  attack: 
-  defense: 
-  health: 
+  power: 796
+  attack: 769
+  defense: 762
+  health: 1636
   skill: Hues of Love
   effects:
     - Destroys all Fiends from the caster and nearby allies. This effect damages Mega Fiends.
