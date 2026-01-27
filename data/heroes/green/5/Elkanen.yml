@@ -1,3 +1,4 @@
+---
 name: Elkanen
 source: season1
 family: classic
@@ -9,81 +10,103 @@ defense: 784
 health: 1266
 skill: Crescent Spear
 effects:
-  - Deals 330% damage to the target and minor damage to nearby enemies
-  - Heals the caster for 38% or damage dealt
+- Deals 330% damage to the target and minor damage to nearby enemies
+- Heals the caster for 38% or damage dealt
 types:
-  - Hit 3
-  - Self Heal
+- Hit 3
+- Self Heal
 image: https://i.imgur.com/gkqoNuc.jpg
 costume:
   design: costume1
   bonuses: 5/5/10/5
-  class: Barbarian
+  class: barbarian
   power: 798
   attack: 687
   defense: 862
   health: 1370
   skill: Eclipse Spear
   effects:
-    - Deals 280% damage to the target and nearby enemies
-    - The caster steals 61% of any healing applied to the target and nearby enemies for 3 turns
+  - Deals 280% damage to the target and nearby enemies
+  - The caster steals 61% of any healing applied to the target and nearby enemies
+    for 3 turns
   types:
-    - Hit 3
-    - Healing Steal
+  - Hit 3
+  - Healing Steal
   image: https://i.imgur.com/r8h2KIN.jpg
 costume2:
   design: costume2
   bonuses: 5/5/10/5
-  class: Paladin
+  class: paladin
   power: 862
   attack: 805
   defense: 871
   health: 1514
   skill: Lunar Spear
   effects:
-    - Deals 230% damage to all enemies
-    - All enemies get -50% decrease for any healing received for 3 turns. This effect can't be cleansed.
+  - Deals 230% damage to all enemies
+  - All enemies get -50% decrease for any healing received for 3 turns. This effect
+    can't be cleansed.
   types:
-    - Hit All
-    - Healing Decrease
+  - Hit All
+  - Healing Decrease
   image: https://i.imgur.com/45ULmYn.jpg
 costume3:
   design: toon
   bonuses: 5/5/10/5
-  class: Cleric
+  class: cleric
   power: 1112
   attack: 1134
   defense: 1047
   health: 2125
   skill: Toon Spear
   effects:
-    - Deals 410% damage to the target and minor damage to nearby enemies.
-    - Heals the caster for 35% of damage dealt.
-    - Deals extra damage against Ice.
+  - Deals 410% damage to the target and minor damage to nearby enemies.
+  - Heals the caster for 35% of damage dealt.
+  - Deals extra damage against Ice.
   types:
-    - Hit 3
-    - Self Heal
+  - Hit 3
+  - Self Heal
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/6SvyBu6.jpg
 costume4:
   design: glass
   bonuses: 5/5/10/5
-  class: Cleric
+  class: cleric
   power: 1242
   attack: 1326
   defense: 1218
   health: 2232
   skill: Glass Spear
   effects:
-    - Deals 420% damage to the target and minor damage to nearby enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - Heals the caster for 37% of damage dealt.
+  - Deals 420% damage to the target and minor damage to nearby enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Heals the caster for 37% of damage dealt.
   types:
-    - Hit 3
-    - Self Heal
+  - Hit 3
+  - Self Heal
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/5zN8JJz.jpg
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: cleric
+  power: 1301
+  attack: 1406
+  defense: 1283
+  health: 2323
+  skill: Stylish Spear
+  effects:
+  - Deals 430% damage to the target and minor damage to nearby enemies.
+  - Deals extra damage to enemies with less than 50% health remaining.
+  - Heals the caster for 38% of damage dealt.
+  types:
+  - Hit 3
+  - Self Heal
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/93INKxC.jpg
+...

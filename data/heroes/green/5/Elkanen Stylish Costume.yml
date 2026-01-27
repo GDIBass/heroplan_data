@@ -1,0 +1,25 @@
+---
+name: Elkanen Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Fast
+class: Cleric
+power: 1301
+attack: 1406
+defense: 1283
+health: 2323
+skill: Stylish Spear
+effects:
+- Deals 430% damage to the target and minor damage to nearby enemies.
+- Deals extra damage to enemies with less than 50% health remaining.
+- Heals the caster for 38% of damage dealt.
+types:
+- Hit 3
+- Self Heal
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/93INKxC.jpg
+...
