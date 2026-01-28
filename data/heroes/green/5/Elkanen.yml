@@ -11,7 +11,7 @@ health: 1266
 skill: Crescent Spear
 effects:
 - Deals 330% damage to the target and minor damage to nearby enemies
-- Heals the caster for 38% or damage dealt
+- Heals the caster for 38% of damage dealt
 types:
 - Hit 3
 - Self Heal
@@ -31,7 +31,7 @@ costume:
     for 3 turns
   types:
   - Hit 3
-  - Healing Steal
+  - Healing Steal 3
   image: https://i.imgur.com/r8h2KIN.jpg
 costume2:
   design: costume2
@@ -48,7 +48,7 @@ costume2:
     can't be cleansed.
   types:
   - Hit All
-  - Healing Decrease
+  - Healing Decrease All
   image: https://i.imgur.com/45ULmYn.jpg
 costume3:
   design: toon
@@ -85,6 +85,7 @@ costume4:
   - Heals the caster for 37% of damage dealt.
   types:
   - Hit 3
+  - Bypass
   - Self Heal
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
