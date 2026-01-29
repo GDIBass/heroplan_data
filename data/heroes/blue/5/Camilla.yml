@@ -14,7 +14,7 @@ effects:
   - ' * Boosts health of all allies by 400. Boosted health can exceed max HP.'
   - ' * All allies get +40% defense against Special Skill for 3 turns.'
   - '2x Mana Charge:'
-  - ' * Reduce max health of all enemies by 800. Max health can`t get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.'
+  - " * Reduce max health of all enemies by 800. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 800."
   - ' * All enemies get -54% defense against Special Skill for 5 turns.'
 types:
   - Boosted Heal All
@@ -41,7 +41,7 @@ costume:
     - ' * Boosts health of all allies by 450. Boosted health can exceed max HP.'
     - ' * All allies get +45% defense against Special Skill for 3 turns.'
     - '2x Mana Charge:'
-    - ' * Reduce max health of all enemies by 900. The effect is stronger against targets with boosted health. (Max health can`t get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)'
+    - " * Reduce max health of all enemies by 900. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)"
     - ' * All enemies get -58% defense against Special Skill for 5 turns.' 
     - ' * All enemies get -45% decrease for any healing for 5 turns.'
   types:

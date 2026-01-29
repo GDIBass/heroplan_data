@@ -12,7 +12,7 @@ effects:
   - Deals 385% damage to the enemy with the highest remaining HP. Deals 255% damage to all other enemies.
   - The attack will always bypass counterattacks and reflection.
   - Steals the latest dispellable buff from all the enemies and randomly distributes them on alies who have 50% or less HP left.
-  - Elemental Link gives all Nature allies +20% critical chance for 4 turns. This effect can’t be dispelled.
+  - Elemental Link gives all Nature allies +20% critical chance for 4 turns. This effect can't be dispelled.
 types:
   - Hit All
   - Bypass
@@ -21,5 +21,5 @@ passives:
   - >-
     Resist Health Steal Ailments: This character is immune to status ailments that steal health.
   - >-  
-    Perfect Accuracy: This character’s Special Skill never misses its targets.
+    Perfect Accuracy: This character's Special Skill never misses its targets.
 image: https://imgur.com/8qArtb9.jpg

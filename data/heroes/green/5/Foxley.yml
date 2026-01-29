@@ -11,7 +11,7 @@ skill: Barbed Arrows
 effects:
   - Deals 375% damage to the target and nearby enemies.
   - The target and nearby enemies receive lasting 250 Bleed damage per turn. (This effect lasts until it is cleaned, replaced or removed.)
-  - After 2 turn the target and nearby enemies get Paralyzed for 1 turn. (Paralyzed enemies can’t attack, or gain mana and receive +50% increased damage. Bosses, Titans and Mythic Titans are not affeced by this status effect.)
+  - After 2 turn the target and nearby enemies get Paralyzed for 1 turn. (Paralyzed enemies can't attack, or gain mana and receive +50% increased damage. Bosses, Titans and Mythic Titans are not affeced by this status effect.)
 types:
   - Hit 3
   - Lasting DoT 3

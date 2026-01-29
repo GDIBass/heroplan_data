@@ -13,7 +13,7 @@ effects:
   - Cast Full Removal on the target. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)
   - The target shifts into Abyss Ghost form for 4 turns.
   - While in Abyss Ghost form the target receives 88 damage each turn.
-  - While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.
+  - While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.
   - Can't be cast if there's only one enemy left in battle.
 types:
   - Hit 1
@@ -36,7 +36,7 @@ costume:
     - Cast Full Removal on the target. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)
     - The target shifts into Abyss Ghost form for 4 turns.
     - While in Abyss Ghost form the target receives 182 damage each turn.
-    - While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.
+    - While in Ghost form, Character can't gain mana and can't be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.
     - Can't be cast if there's only one enemy left in battle.
   types:
     - Hit 1
@@ -46,5 +46,5 @@ costume:
     - >-
       Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
     - >-
-      Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%.
+      Health Boost on Special Skill: On Special Skill cast, boosts all allies' HP by 10%.
   image: https://i.imgur.com/MgzgOOM.jpg

@@ -12,11 +12,11 @@ effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
   - ' * Summons an Enchanted Sigil Minion for each ally with 15% HP and 20% attack inherited from the caster.'
-  - ' * When summoned, the Enchanted Sigil Minion gives +20% mana generation for its owner for as long as the owner has Enchanted Sigil Minions. This effect can’t be dispelled.'
+  - " * When summoned, the Enchanted Sigil Minion gives +20% mana generation for its owner for as long as the owner has Enchanted Sigil Minions. This effect can't be dispelled."
   - '2x Mana Charge:'
   - ' * Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 100% attack every turn.'
-  - ' * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 60% of its target’s max health.'
-  - ' * When summoned, the Cursed Sigil Fiend give -38% mana generation for its owner for as long as the owner has Cursed Sigil Fiends. This effect can’t be cleansed.'
+  - " * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 60% of its target's max health."
+  - " * When summoned, the Cursed Sigil Fiend give -38% mana generation for its owner for as long as the owner has Cursed Sigil Fiends. This effect can't be cleansed."
 types:
   - Charge
   - Minion Summoner All
@@ -41,10 +41,10 @@ costume:
     - 'Special Skill has a different effect when charged with 100%/200% mana:'
     - '1x Mana Charge:'
     - ' * Summons an Enchanted Sigil Minion for each ally with 16% HP and 25% attack inherited from the caster.'
-    - ' * When summoned, the Enchanted Sigil Minion gives small amount of mana for its owner for as long as the owner has Enchanted Sigil Minions. This effect can’t be dispelled.'
+    - " * When summoned, the Enchanted Sigil Minion gives small amount of mana for its owner for as long as the owner has Enchanted Sigil Minions. This effect can't be dispelled."
     - '2x Mana Charge:'
     - ' * Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 120% attack every turn.'
-    - ' * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 70% of its target’s max health.'
+    - " * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 70% of its target's max health."
     - " * The caster steals 45% of generated mana from all enemies. The effect lasts as long as the target has Cursed Sigil Fiends. This effect can't be cleansed, but it gets removed if the caster is defeated."
   types:
     - Charge

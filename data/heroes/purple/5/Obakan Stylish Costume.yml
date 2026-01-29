@@ -1,0 +1,25 @@
+---
+name: Obakan Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Fast
+class: Barbarian
+power: 1299
+attack: 1385
+defense: 1245
+health: 2434
+skill: Stylish Counterattack
+effects:
+- Deals 410% damage to the target and minor damage to nearby enemies.
+- Deals extra damage to enemies with less than 50% health remaining.
+- The caster counterattacks with 130% of the damage received for 4 turns.
+types:
+- Hit 3
+- Counterattack 1
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/hiS5mXD.jpg
+...

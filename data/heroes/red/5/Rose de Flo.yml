@@ -21,6 +21,7 @@ effects:
   - " * Growth: All allies get 100 attack."
   - " * All allies regenerate 900 HP over 3 turns."
 types:
+  - Humility
   - Healer All
   - Cleanser All
   - Attack Growth All

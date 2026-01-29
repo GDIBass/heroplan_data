@@ -37,7 +37,7 @@ costume2:
   attack: 798
   defense: 725
   health: 1210
-  skill: Gambler’s Swing
+  skill: Gambler's Swing
   effects:
     - All allies get +170% attack with -25% accuracy for 5 turns. Chance to miss also applies to offensive special skills.
   types:

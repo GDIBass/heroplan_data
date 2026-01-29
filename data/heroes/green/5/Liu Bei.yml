@@ -11,7 +11,7 @@ skill: Call to Arms
 effects:
   - Deals 360% damage to the target and nearby enemies.
   - Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack inherited from the caster.
-  - When summoned, the Shu Soldier Minion gives its owner the ability to  counterattack with 60% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.
+  - When summoned, the Shu Soldier Minion gives its owner the ability to  counterattack with 60% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can't be dispelled.
 types:
   - Hit 3
   - Summoner
@@ -28,7 +28,7 @@ costume:
   effects:
     - Deals 350% damage to the target and nearby enemies.
     - Summons a Shu Soldier Minion for each ally with 33% HP and 33% attack inherited from the caster.
-    - When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 55% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.
+    - When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 55% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can't be dispelled.
   types:
     - Hit 3
     - Summoner
@@ -36,6 +36,6 @@ costume:
   passives:
     - 'Unstoppable Minions:'
     - ' * Resistance against Minion removal.'
-    - ' * Can’t be prevented from receiving Minions.'
-    - ' * Minion attack and abilities can’t be disabled.'
+    - " * Can't be prevented from receiving Minions."
+    - " * Minion attack and abilities can't be disabled."
   image: https://i.imgur.com/rjnMev7.jpg

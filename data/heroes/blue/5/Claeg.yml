@@ -11,7 +11,7 @@ skill: Strength of the Accursed
 effects:
   - Recovers 20% health for all allies. Recovers extra 5% for each status ailment the ally has, up to 35% health in total.
   - Cleanses 3 status ailments from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)
-  - Elemental Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled.
+  - Elemental Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled.
 types:
   - Healer All
   - Cleanser All

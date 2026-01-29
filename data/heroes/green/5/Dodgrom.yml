@@ -9,7 +9,7 @@ defense: 1184
 health: 2189
 skill: Looking for Love
 effects:
-  - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.
   - The caster counterattacks a random enemy with 80% of the damage received for 4 turns.
   - The caster reduces all received damage by -35% for 4 turns.
 types:
@@ -18,5 +18,5 @@ types:
   - Damage reducer
 passives:
   - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
 image: https://i.imgur.com/7l2ITkQ.jpg

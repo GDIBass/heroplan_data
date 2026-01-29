@@ -1,91 +1,113 @@
+---
 name: Caedmon
-class: Druid
 source: season1
 family: classic
 speed: Fast
+class: Druid
 power: 643
 attack: 635
 defense: 637
 health: 1128
 skill: Piercing Strike
 effects:
-  - Deals 345% damage to the target.
-  - Dispels buffs from all enemies.
+- Deals 345% damage to the target.
+- Dispels buffs from all enemies.
 types:
-  - Hit 1
-  - Dispeller
+- Hit 1
+- Dispeller
 image: https://i.imgur.com/jv6lywZ.jpg
 costume:
   design: costume1
   bonuses: 5/5/10/5
-  class: Fighter
+  class: fighter
   power: 678
   attack: 670
   defense: 664
   health: 1236
   skill: Cleansing Strike
   effects:
-    - Deals 345% damage to the target.
-    - Cleanses status ailments from all allies.
+  - Deals 345% damage to the target.
+  - Cleanses status ailments from all allies.
   types:
-    - Hit 1
-    - Cleanser All
+  - Hit 1
+  - Cleanser All
   image: https://i.imgur.com/zrZ4p5y.jpg
 costume2:
   design: costume2
   bonuses: 5/5/10/5
-  class: Paladin
+  class: paladin
   power: 734
   attack: 745
   defense: 719
   health: 1340
   skill: Valorant Strike
   effects:
-    - Deals 275% damage to the target and nearby enemies.
-    - The target and nearby enemies are immune to new status effect buffs for 3 turns.
-    - Dispels buffs from the target and nearby enemies.
+  - Deals 275% damage to the target and nearby enemies.
+  - The target and nearby enemies are immune to new status effect buffs for 3 turns.
+  - Dispels buffs from the target and nearby enemies.
   types:
-    - Hit 3
-    - Dispels Buffs 3
+  - Hit 3
+  - Dispels Buffs 3
   image: https://i.imgur.com/0FiXuyI.jpg
 costume3:
   design: toon
   bonuses: 5/5/10/5
-  class: Druid
+  class: druid
   power: 746
   attack: 760
   defense: 742
   health: 1344
   skill: Toontastic Strike
   effects:
-    - Deals 350% damage to the target.
-    - Deals extra damage against Ice.
-    - Dispels buffs from all enemies.
+  - Deals 350% damage to the target.
+  - Deals extra damage against Ice.
+  - Dispels buffs from all enemies.
   types:
-    - Hit 1
-    - Dispeller
+  - Hit 1
+  - Dispeller
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/DR6bDUS.jpg
 costume4:
   design: glass
   bonuses: 5/5/10/5
-  class: Druid
+  class: druid
   power: 759
   attack: 775
   defense: 753
   health: 1372
   skill: Glass Strike
   effects:
-    - Deals 360% damage to the target.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies get -34% attack for 3 turns.
-    - Dispels buffs from all enemies.
+  - Deals 360% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies get -34% attack for 3 turns.
+  - Dispels buffs from all enemies.
   types:
-    - Hit 1
-    - Attack Debuff All
-    - Dispeller All
+  - Hit 1
+  - Attack Debuff All
+  - Dispeller All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/evExc3q.jpg
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: druid
+  power: 814
+  attack: 850
+  defense: 820
+  health: 1444
+  skill: Stylish Strike
+  effects:
+  - Deals 370% damage to the target.
+  - Deals 410% damage if the target has less than 50% health remaining.
+  - Dispels buffs from all enemies.
+  types:
+  - Hit 1
+  - Dispeller All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/rpOw1wa.jpg
+...

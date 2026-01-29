@@ -12,7 +12,7 @@ effects:
   - Deals 450% damage to the target.
   - Safely dispels status effect buffs from the target. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.)
   - Summons a Dusk Mothling Mega Fiend for the target. The Fiend damages the enemy with 270% attack every turn.
-  - The Dusk Mothling Mega Fiend absorbs healing and disappears when it has absorbed health equal to 75% of its owner’s max health.
+  - The Dusk Mothling Mega Fiend absorbs healing and disappears when it has absorbed health equal to 75% of its owner's max health.
   - When summoned, the Dusk Mothling Mega Fiend causes its target to be immune to new buffs. The effect lasts as long as the target has Dusk Mothling Mega Fiend.
 types:
   - Safely Dispel 1

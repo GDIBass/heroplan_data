@@ -1,0 +1,22 @@
+name: Lempi
+source: love
+family: cupid
+class: Sorcerer
+speed: Very Fast
+power: 1273
+attack: 1306
+defense: 1326
+health: 2284
+skill: Rime Heart
+effects:
+  - Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)
+  - Deals 225% damage to all enemies.
+  - For the next 2 turns, all enemies convert all  boosted health received to max health reduction. Max health is reduced more for targets that already have boosted health. (Max health can't get lower than 30% of the original max health. When boosted healing is converted, the max health reduction is doubled if the target already has boosted health.)
+types:
+  - Dispels latest Buff All
+  - Hit All
+  - Boosted health convert All
+passives:
+  - >-
+    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+image: https://imgur.com/SIKfkJP.jpg

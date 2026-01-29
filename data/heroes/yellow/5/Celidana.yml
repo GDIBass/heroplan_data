@@ -10,7 +10,7 @@ health: 1483
 skill: Sacrament of Salvation
 effects:
   - Boosts health of the caster and nearby allies by 1100. Boosted health can exceed max HP.
-  - The caster and nearby allies get +50% defense as long as caster has boosted health. This effect can’t be dispelled.
+  - The caster and nearby allies get +50% defense as long as caster has boosted health. This effect can't be dispelled.
   - The caster and nearby allies resist max health reduction for 5 turns.
   - Element Link gives all Holy allies immunity to new Fiends for 4 turns. This effect can't be dispelled.
 types:
@@ -21,5 +21,5 @@ passives:
   - >-
     Resist Max Health Reduction: This character has innate resistance against max health reduction.
   - >-
-    Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character’s health by 100.
+    Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character's health by 100.
 image: https://i.imgur.com/fzHIBe5.jpg

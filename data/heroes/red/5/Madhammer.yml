@@ -12,7 +12,7 @@ effects:
   - Deals 500% damage to the target.
   - Has 50% chance to deal 450% damage to a random different enemy. (This effect targets the same enemy as the first hit target if there are no other valid targets.)
   - Summons a Black Boar Mega Minion with 62% HP and 230% attack inherited from the caster. 
-  - The target hit by Black Boar Mega Minion can’t get their status ailments cleansed or rellocated from Special Skills for 4 turns. This effect also prevents cleansing and rellocating of itself.
+  - The target hit by Black Boar Mega Minion can't get their status ailments cleansed or rellocated from Special Skills for 4 turns. This effect also prevents cleansing and rellocating of itself.
 types:
   - Hit 1
   - Chance Extra Hit 1

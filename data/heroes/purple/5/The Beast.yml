@@ -19,6 +19,7 @@ effects:
   - " * All hit targets get -40% defense against Dark for 4 turns."
   - " * The caster regenerates 1000 boosted health over 4 turns. Boosted health can exceed max HP."
 types:
+  - Humility
   - Hit random 6
   - Elemental Defense Debuff on hit
   - Mindless Attack on hit

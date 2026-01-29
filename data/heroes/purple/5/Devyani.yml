@@ -11,7 +11,7 @@ skill: Righteous Stance
 effects:
   - This Special Skill never misses its targets.
   - Deals 500% damage to the target.
-  - 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Wither and Growth modify character`s Ability Scores.)'
+  - "Growth Boon: Deals 2x extra damage for each point of modified attack. (Wither and Growth modify character's Ability Scores.)"
   - 'Wither: The target get -350 defense.'
 types:
   - Hit 1

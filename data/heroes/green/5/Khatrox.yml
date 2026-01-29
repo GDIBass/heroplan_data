@@ -11,7 +11,7 @@ skill: Obliterating Surge
 effects:
   - Boosts health of the caster by 1000. Boosted health can exceed max HP.
   - Deals 470% damage to all enemies and inflicts 25 Insanity on them.
-  - Store all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealt to all enemies, up to a maximum of 1500 damage. This effect can’t be dispelled.
+  - Store all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealt to all enemies, up to a maximum of 1500 damage. This effect can't be dispelled.
   - Inflicts 50 Insanity to the caster.
 types:
   - Boosted Heal All

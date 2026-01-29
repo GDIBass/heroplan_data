@@ -10,8 +10,8 @@ health: 1812
 skill: Bone Club Party
 effects:
   - Boosts health of all allies by 700. Boosted health can exceed max HP.
-  - Reduces max health of all enemies by 700. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 700.
-  - All allies except the caster receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled.)
+  - Reduces max health of all enemies by 700. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 700.
+  - All allies except the caster receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can't be dispelled.)
   - All allies are immune to new status ailments that affect healing for 4 turns. Removes status ailments that affect healing from allies.
 types:
   - Overhealer
@@ -20,5 +20,5 @@ types:
   - Healing debuff imunity
 passives:
   - >-
-    Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.
+    Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can't be dispelled.
 image: https://i.imgur.com/8K8mMLw.jpg

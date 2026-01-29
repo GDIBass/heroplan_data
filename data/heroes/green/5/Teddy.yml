@@ -11,7 +11,7 @@ skill: The Call to Hibernate
 effects:
   - Deals 180% damage to all enemies.
   - All enemies fall asleep.
-  - While asleep, the target can’t attack or gain mana.
+  - While asleep, the target can't attack or gain mana.
   - All damage dealt to the sleeping target is increased by +70%.
   - The sleeping target is woken once it takes damage. The excudes damage from Minions or Fiends.
   - All allies regenerate 1200 HP over 4 turns.

@@ -19,7 +19,7 @@ types:
   - Healing Debuff 1
 passives:
   - >-
-    Resist Blind: This character has innate resistance against status ailments that affect accuracy. Doesn’t apply to original status effects from allies.
+    Resist Blind: This character has innate resistance against status ailments that affect accuracy. Doesn't apply to original status effects from allies.
   - >-
     Increased Special Skill Damage: This first 2 times this character casts a Special Skill that deals damage, an additional 50% is added to its power.
 image: https://i.imgur.com/G0RFHTr.jpg

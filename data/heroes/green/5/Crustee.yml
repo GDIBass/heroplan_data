@@ -1,0 +1,34 @@
+name: Crustee
+source: magic
+family: magiccarpet
+speed: Average
+class: Wizard
+power: 1272
+attack: 1318
+defense: 1320
+health: 2263
+skill: Juggling Trials
+effects:
+  - Rearranges the enemy positions randomly.
+  - Deals 350% damage to all enemies.
+  - All enemies get -32% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+  - The caster gets additional +50% power for the next Special Skill they cast. The additional power increaases +30% each turn, up to a maximum of 140% in total.
+types:
+  - Reposition All
+  - Hit All
+  - Mana Gen Debuff All
+  - Self Power Boost
+passives:
+  - >-
+     Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:
+  - " * Attack buffs are transformed into -40% attack status ailments for 3 turns."
+  - " * Defense buffs are transformed into -40% defense status ailments for 3 turns."
+  - " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns."
+  - >-
+    Flight Momentum: If this character has any amount of Flight Momentum, they receive:
+  - " * Up to +35% mana generation."
+  - " * Up to +25% extra chance to dodge."
+  - " * The effects diminish the less Flight Momentum character has."
+  - >-
+    Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+image: https://imgur.com/hwMIKuX.jpg

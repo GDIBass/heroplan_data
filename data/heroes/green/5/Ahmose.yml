@@ -10,7 +10,7 @@ health: 1569
 skill: Ancient Mirror
 effects:
   - Deals 400% damage to all enemies.
-  - All allies reflect all status effects and 150% damage back to the attacker and block other negative effects from enemies’ Fire Special Skill for 4 turns. This effect can’t be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - All allies reflect all status effects and 150% damage back to the attacker and block other negative effects from enemies' Fire Special Skill for 4 turns. This effect can't be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
 types:
   - Hit All
   - Elemental Reflect All
@@ -31,7 +31,7 @@ costume:
   skill: Veridant Minor
   effects:
     - Deals 410% damage to all enemies.
-    - All allies reflect all status effects and 160% damage back to the attacker and block other negative effects from enemies’ Fire Special Skill for 3 turns. This effect can’t be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
+    - All allies reflect all status effects and 160% damage back to the attacker and block other negative effects from enemies' Fire Special Skill for 3 turns. This effect can't be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
   types:
     - Hit All
     - Elemental Reflect All

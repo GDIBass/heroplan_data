@@ -7,7 +7,7 @@ power: 1008
 attack: 988
 defense: 1048
 health: 1746
-skill: Guardian’s Retaliation
+skill: Guardian's Retaliation
 effects:
   - Cleanses status ailments from the caster and nearby allies.
   - For the next 5 turns, this character has a 55% chance to deal 600% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)
@@ -20,7 +20,7 @@ types:
   - Reflect Stacks 3
 passives:
   - >-
-    Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.
+    Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana.
   - >-
     Mana on Health Recovery: This character receives 5% mana each time its health is recovered.
 image: https://i.imgur.com/7f9DRkN.jpg

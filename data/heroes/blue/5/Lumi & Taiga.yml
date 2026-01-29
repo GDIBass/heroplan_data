@@ -1,0 +1,34 @@
+---
+name: Lumi & Taiga
+source: titanhunter
+family: titanhunter
+speed: Average
+class: Paladin
+power: 1274
+attack: 1339
+defense: 1291
+health: 2282
+skill: Arctic Guard
+effects:
+- Deals 250% damage to all enemies.
+- Against Titans, deals 500% damage.
+- All allies get +50% attack for 4 turns. Against Fire Titans, all allies get +60%
+  attack.
+- All allies become Soul Connected for 4 turns. Soul Connected allies share received
+  damage.
+types:
+- Hit All
+- Attack Buff All
+- Ally Damage Share
+passives:
+- "Enhanced Shields on Special: Passive Skill as attacking character"
+- " * Fire shields on the board become enhanced with +54% critical chance when this
+  character casts their Special Skill."
+- "Passive Skill as defending character:"
+- " * Fire shields on the board become weakened with -47% accuracy when this character
+  casts their Special Skill."
+- "Mark of the Titan Hunter: When this character casts their Special Skill, they mark
+  a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting
+  Flare receives additional 150 damage when they receive a critical hit."
+image: https://imgur.com/tYMi9YT.jpg
+...

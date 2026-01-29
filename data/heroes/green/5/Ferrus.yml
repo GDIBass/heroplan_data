@@ -21,7 +21,7 @@ passives:
     Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
   - >- 
     Corrosive Core: The Construct Core of this character is Corrosive Core.
-    The Corrosive Core activates each time this character’s Special Skill is cast:
-    * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 128 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.
+    The Corrosive Core activates each time this character's Special Skill is cast:
+    * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 128 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.
     * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.
 image: https://i.imgur.com/cdOOWSr.jpg

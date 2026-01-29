@@ -1,0 +1,45 @@
+name: Ascension Mimic Holy Epic
+source: bazaar
+family: mimic
+speed: Average
+class: Wizard
+power: 797
+attack: 796
+defense: 796
+health: 1508
+skill: Gorging Bite
+effects:
+  - Deals 300% damage to the target.
+  - The target receives 128 Bleed damage over 4 turns.
+  - The Mimic chest closes for 2 turns.(The Mimic is immune to damage and new status ailments while closed.)
+types:
+  - Hit 1
+  - DoT 1
+  - Mimic Chest
+passives:
+  - >-
+    Perfect Accuracy: This character's Special Skill never misses its targets.
+  - >-
+    Mimic Loot: This Mimic gives a chance for extra loot when completing stages
+  - "***"
+  - "  - Hidden Blade"
+  - "  - Orb of Magic"
+  - "  - Sturdy Shield"
+  - "  - Trap Tool"
+  - "  - Warm Cape"
+  - "  - Battle Manual"
+  - "  - Chainmail Shirt"
+  - "  - Scabbard"
+  - "  - Tall Boots"
+  - "**"
+  - "  - Arcane Scripts"
+  - "  - Dagger"
+  - "  - Leather Armor"
+  - "  - Sharpening Stone"
+  - "  - Strong Rope"
+  - "  - Wooden Shield"
+  - "*"
+  - "  - Advanturer's Kit"
+  - "  - Practice Sword"
+  - "  - Rugged Clothes"
+image: https://imgur.com/faWYctK.jpg

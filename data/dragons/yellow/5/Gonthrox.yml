@@ -1,0 +1,37 @@
+name: Gonthrox
+source: ancientUnderroot
+speed: Average
+power: 11195
+attack: 13991
+defense: 14080
+health: 12327
+skill: Aerial Ram
+effects:
+  - Deals 300% damage to the target.
+  - If the target has less than 50% health before receiving damage, targets another enemy who had less than 50% health before receiving any damage from this Special Skill. If none of the other enemies have less than 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
+  - Hit enemies get -4400 attack for 4 turns.
+types:
+  - Hit 1
+  - Chain Hit
+  - Attack Debuff on Hit
+spiritBonus:
+  spiritClass: Paladin
+  all:
+    attack: +250
+    defense: +200
+    health: +100
+  elementalBond:
+    attack: +35
+    defense: +30
+    health: +30
+  classLink:
+    attack: +35
+    defense: +30
+    health: +30 
+assist:
+  name: Weakening Blaze
+  effects:
+    - Deals 830 damage to all enemies.
+    - Recovers 200 health for all allies.
+    - All enemies get -20% attack for 5 turns.
+image: https://imgur.com/WcrhbCt.jpg

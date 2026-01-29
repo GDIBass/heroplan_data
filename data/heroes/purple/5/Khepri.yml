@@ -11,7 +11,7 @@ skill: Scarab Bombardment
 effects:
   - Deals 275% damage to target and nearby enemies.
   - Summons a Scarab Bomb Fiend for the target and nearby enemies. The Fiend damages the enemy with 38% attack every turn.
-  - The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed a health equal to 30% of its owner’s max health.
+  - The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed a health equal to 30% of its owner's max health.
   - The Scarab Bomb Fiend explodes after 3 turns, dealing 600 damage to its target and minor damage to nearby enemies.
 types:
   - Hit 3
@@ -33,7 +33,7 @@ costume:
   effects:
     - Deals 265% damage to the target and nearby enemies.
     - Summons a Scarab Bomb Fiend for the target and nearby enemies. The Fiend damages the enemy with 38% attack every turn.
-    - The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.
+    - The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner's max health.
     - The Scarab Bomb Fiend explodes after 3 turns, dealing 900 damage to its target and minor damage to nearby enemies.
   types:
     - Hit 3

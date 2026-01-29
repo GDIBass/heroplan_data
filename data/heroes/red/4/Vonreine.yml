@@ -11,13 +11,13 @@ skill: Firing on all Cylinders
 effects:
   - Deals 285% damage to the target and nearby enemies.
   - Summons a Fire Wisp Fiend to the target and nearby enemies.
-  - The Fire Wisp Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target’s max health.
-  - The caster steals 30% of the generated mana from the target and nearby enemies. This effect lasts as long as the target has Fire Wish Fiends. This effect can’t be cleansed, but gets removed if the caster is defeated.
+  - The Fire Wisp Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target's max health.
+  - The caster steals 30% of the generated mana from the target and nearby enemies. This effect lasts as long as the target has Fire Wish Fiends. This effect can't be cleansed, but gets removed if the caster is defeated.
 types:
   - Hit 3
   - Fiend Summoner 3
   - Generated mana steal 3
 passives:
   - >-
-    Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.
+    Gargoyle's Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can't be dispelled.
 image: https://i.imgur.com/rPeRNSA.jpg

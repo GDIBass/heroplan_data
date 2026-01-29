@@ -9,7 +9,7 @@ defense: 1207
 health: 2202
 skill: Righteous Strike
 effects:
-  - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)
+  - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)
   - Deals 450% damage to the target and nearby enemies.
   - Heals the caster and nearby allies for 20% of damage dealt.
   - The target and nearby enemies get silenced for 4 turns.
@@ -25,7 +25,7 @@ passives:
     Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.
   - >-
     Righteous Rebellion: 
-  - " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health."
+  - " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health."
   - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
   - " * Each of these effects can activate once per turn."
   - >-

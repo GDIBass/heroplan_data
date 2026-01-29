@@ -11,7 +11,7 @@ skill: Invigorating Pollen
 effects:
   - Boosts health for all allies by 650. Boosted health can exceed max HP.
   - All allies regenerate 400 Bosted health over 4 turns. Boosted health can exceed max HP.
-  - All allies get +50% attack as long as the caster has boosted health. This effect can’t be cleansed.
+  - All allies get +50% attack as long as the caster has boosted health. This effect can't be cleansed.
   - Element Link gives all Nature allies +20% critical chance for 6 turns. This effect cannot be dispelled.
 types:
   - Health Boost All
@@ -20,5 +20,5 @@ passives:
   - >-
     Resist Healing Ailments: This character has innate resistance against ailments that affect healing.
   - >-
-    Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character’s health by 100.
+    Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character's health by 100.
 image: https://i.imgur.com/3NHTm5Y.jpg

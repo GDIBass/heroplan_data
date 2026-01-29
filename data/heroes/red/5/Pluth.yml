@@ -11,7 +11,7 @@ skill: Planar-time-widget
 effects:
   - Rearranges the enemy positions randomly.
   - Deals 215% damage to all enemies.
-  - Increases the duration of all enemies’ active status ailments by 1 turn.
+  - Increases the duration of all enemies' active status ailments by 1 turn.
   - All enemies get -20% mana generation for 2 turns.
 types:
   - Reposition
@@ -24,5 +24,5 @@ passives:
   - >-
     Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
   - >-
-    Perfect Accuracy: This character’s Special Skill never misses its targets.
+    Perfect Accuracy: This character's Special Skill never misses its targets.
 image: https://i.imgur.com/OSAvxSD.jpg

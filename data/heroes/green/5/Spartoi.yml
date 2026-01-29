@@ -13,18 +13,17 @@ effects:
   - '1st:'
   - ' * Deals 240% damage to all enemies.'
   - ' * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 75% attack every turn.'
-  - ' * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 40% of its target’s max health.'
+  - " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 40% of its target's max health."
   - '2nd:'
   - ' * Deals 320% damage to all enemies.'
   - ' * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 110% attack every turn.'
-  - ' * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target’s max health.'
+  - " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target's max health."
 types:
   - Hit all
   - Fiend Summoner All
 passives:
   - >-
-    Effects on Special Skill:
-  -  50% chance to perform the following actions when this character casts their Special Skill
+    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
   - ' * Deals 80% damage to all enemies.'
   - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/OJh8GR8.jpg
@@ -41,18 +40,17 @@ costume:
     - '1st:'
     - ' * Deals 230% damage to all enemies.'
     - ' * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 70% attack every turn.'
-    - ' * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target’s max health.'
+    - " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target's max health."
     - '2nd:'
     - ' * Deals 350% damage to all enemies.'
     - ' * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 125% attack every turn.'
-    - ' * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 60% of its target’s max health.'
+    - " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 60% of its target's max health."
   types:
     - Hit all
     - Fiend Summoner All
   passives:
     - >-
-      Effects on Special Skill:
-    -  50% chance to perform the following actions when this character casts their Special Skill
+      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
     - ' * Deals 80% damage to all enemies.'
     - ' * The caster gets +19% mana generation for 2 turns.'
     - >-

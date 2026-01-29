@@ -30,7 +30,7 @@ costume:
     - All allies regenerate 1450 HP over 5 turns.
     - All allies get +60% attack for 5 turns.
     - All allies get +60% critical chance for 5 turns.
-    - The caster gets -5% mana generation for 5 turns. This effect can’t be cleansed.
+    - The caster gets -5% mana generation for 5 turns. This effect can't be cleansed.
   types:
     - Healer
     - Attack buff

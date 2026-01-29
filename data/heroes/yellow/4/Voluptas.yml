@@ -9,12 +9,33 @@ defense: 643
 health: 1387
 skill: Flat Cake for Sweethearts
 effects:
-  - Destroys all Fiends from the caster and nearby allies.
+  - Destroys all Fiends from the caster and nearby allies. This effect damages Mega Fiends.
   - Recovers 40% health for the caster and nearby allies.
 types:
   - Fiend Destroyer 3
   - Healer 3
 passives:
   - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
 image: https://i.imgur.com/FUJWm4U.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 796
+  attack: 769
+  defense: 762
+  health: 1636
+  skill: Hues of Love
+  effects:
+    - Destroys all Fiends from the caster and nearby allies. This effect damages Mega Fiends.
+    - Recovers 40% health for the caster and nearby allies.
+    - The caster and nearby allies get +54% defense against Dark for 4 turns.
+  types:
+    - Fiend Destroyer 3
+    - Healer 3
+    - Elemental Defense Buff 3
+  passives:
+    - >-
+      Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+  image: https://imgur.com/y6sMqvm.jpg

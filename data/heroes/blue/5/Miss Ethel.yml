@@ -11,7 +11,7 @@ skill: Mooing for a Fight
 effects:
   - Deals 600% damage to the target.
   - If the target had more then 40% health before receiving damage targets another enemy who had over 40% health before receiving any damage from this Special Skill. If none of the other enemies have 40% health targets a random enemy. The damage is reduced on each consecutive hits. Each enemy can only be hit once.
-  - The caster gets -15% mana generation for 3 turns. This effect can’t be cleansed.
+  - The caster gets -15% mana generation for 3 turns. This effect can't be cleansed.
 types:
   - Hit 2
   - Chain hit

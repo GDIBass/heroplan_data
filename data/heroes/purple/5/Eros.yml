@@ -16,5 +16,5 @@ types:
   - Damage Received Debuff
 passives:
   - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
+    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
 image: https://i.imgur.com/5JDsRr2.jpg

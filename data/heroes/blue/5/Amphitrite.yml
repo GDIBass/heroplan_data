@@ -12,17 +12,17 @@ effects:
   - >-
     Special Skill has a different effect when charged with 100% / 200% / 300% mana:
   - '1x Mana Charge:'
-  - '* Deals 200% damage to all enemies.'
-  - '* All enemies get -25% decrease of any healing received for 3 turns.'
+  - ' * Deals 200% damage to all enemies.'
+  - ' * All enemies get -25% decrease of any healing received for 3 turns.'
   - '2x Mana Charge:'
-  - '* Deals 315% damage to all enemies.'
-  - '* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.'
-  - '* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.'
+  - ' * Deals 315% damage to all enemies.'
+  - ' * Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.'
+  - " * The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target's max health."
   - '3x Mana Charge:'
-  - '* Deals 365% damage to all enemies.'
-  - '* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.'
-  - '* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.'
-  - '* All enemies get -75% decrease of any healing received for 4 turns.'
+  - ' * Deals 365% damage to all enemies.'
+  - ' * Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.'
+  - " * The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target's max health."
+  - ' * All enemies get -75% decrease of any healing received for 4 turns.'
 types:
   - Charge
   - Hit All

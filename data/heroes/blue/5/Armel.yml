@@ -10,7 +10,7 @@ health: 1751
 skill: Frostbite
 effects:
   - Dispels buff from all enemies.
-  - Reduces max health of all enemies by 400. This effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 400.)
+  - Reduces max health of all enemies by 400. This effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 400.)
   - All enemies receive 459 Frost damage over 3 turns.
 types:
   - Dispeller

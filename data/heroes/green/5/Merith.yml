@@ -9,8 +9,8 @@ defense: 1264
 health: 2245
 skill: Petrifying Performance
 effects:
-  - Reduces max health of the target and nearby enemies by 1000. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 1000.)
-  - After 1 turn the target and nearby enemies get Paralyzed for 2 turn. (Paralized enemies can’t attack or gain man and receive +50% increased damage. Once Paralyzed, the effect can’t be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
+  - Reduces max health of the target and nearby enemies by 1000. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 1000.)
+  - After 1 turn the target and nearby enemies get Paralyzed for 2 turn. (Paralized enemies can't attack or gain man and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
   - Dispels buffs from the target and nearby enemies.
 types:
   - Max Health Reduction 3

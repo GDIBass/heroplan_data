@@ -7,11 +7,11 @@ power: 1230
 attack: 1367
 defense: 1159
 health: 2163
-skill: Courier’s Dash
+skill: Courier's Dash
 effects:
   - Deals 170% Clawing damage to all enemies. (Deals 255% damage against enemies with Minions or Mega Minions. Enemies with Minions or Mega Minions receive -35% defense for 6 turns.)
   - "All enemies receives 1200 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 3000.)"
-  - If the caster is defeated in the next 4 turns, reduces max health for all enemies by 1000 over 4 turns. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 250 per turn.)
+  - If the caster is defeated in the next 4 turns, reduces max health for all enemies by 1000 over 4 turns. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 250 per turn.)
   - All allies resist new effects that block usage of Special Skills for 4 turns.
 types:
   - Hit All
@@ -22,7 +22,7 @@ passives:
   - >-
     Nine Lives:
   - ' * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.'
-  - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.'
+  - " * Activates up to 9 times. Chance to revive is reduced on each activation. Can't be prevented with status ailments or Passive Skills."
   - >-
     Trait: Lithe Frame
   - This character is not affected by effects that increase or reduce defense.

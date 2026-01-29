@@ -27,7 +27,7 @@ costume:
   effects:
     - Deals 300% damage to the target and nearby enemies.
     - The target and nearby enemies get -50% accuracy for 3 turns. The effect duration is reset if the target is healed. Chance to miss also applies to offensive Special Skills. 
-    - Element Link   gives all Holy  allies +5% attack and +5% defense for 6 turns. This effect can’t be dispelled.
+    - Element Link   gives all Holy  allies +5% attack and +5% defense for 6 turns. This effect can't be dispelled.
   types:
     - Hit 3
     - Blind

@@ -19,5 +19,29 @@ types:
   - Self HoT
 passives:
   - >-
-    Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies.
+    Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies.
 image: https://i.imgur.com/BwYaSTj.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 1273
+  attack: 1309
+  defense: 1260
+  health: 2412
+  skill: Musketeer's Deal
+  effects:
+    - Deals 485% damage to all enemies.
+    - Alters the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enchanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.
+    - The caster regenerates 1530 boosted health over 6 turns. Boosted health can exceed max HP.
+    - Deals extra damage against Fire.
+  types:
+    - Hit All
+    - Board Alterer
+    - Self Boosted HoT
+  passives:
+    - >-
+      Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.
+    - >-
+      Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies.
+  image: https://imgur.com/ohUYwDY.jpg

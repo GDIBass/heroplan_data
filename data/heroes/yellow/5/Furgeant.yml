@@ -9,7 +9,7 @@ defense: 1318
 health: 2245
 skill: Vigorous Aegis
 effects:
-  - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.
   - The caster has a 50% chance to drop any received damage to 1 for 4 turns.
   - For the next 4 turns, this character deals 250% damage to a random enemy each time any other ally casts their Special Skill. The enemy hit falls into Deep Sleep and receive +80% increased damage while in Deep Sleep. (Each character can trigger this effect once per turn.)
   - All allies get +25% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)

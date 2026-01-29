@@ -19,7 +19,7 @@ types:
   - Self HoT
 passives:
   - >-
-    Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies.
+    Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there's a 60% chance to deal 20% of the received damage on all enemies.
 image: https://i.imgur.com/KO2VqaC.jpg
 costume:
   design: costume1
@@ -43,5 +43,5 @@ costume:
     - >-
       Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.
     - >-
-      Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 75% chance to deal 50% of the received damage on all enemies.
+      Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there's a 75% chance to deal 50% of the received damage on all enemies.
   image: https://imgur.com/G6mbAOv.jpg

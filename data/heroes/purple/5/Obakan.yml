@@ -1,3 +1,4 @@
+---
 name: Obakan
 source: season1
 family: classic
@@ -9,84 +10,107 @@ defense: 638
 health: 1328
 skill: Cleave and Counter
 effects:
-  - Deals 310% damage to the target and minor damage to nearby enemies.
-  - The caster counterattacks with 115% of the damage received for 4 turns.
+- Deals 310% damage to the target and minor damage to nearby enemies.
+- The caster counterattacks with 115% of the damage received for 4 turns.
 types:
-  - Hit 3
-  - Counterattack 1
+- Hit 3
+- Counterattack 1
 image: https://i.imgur.com/0JU9Ii1.jpg
 costume:
   design: costume1
   bonuses: 5/5/10/5
-  class: Rogue
+  class: rogue
   power: 796
   attack: 775
   defense: 712
   health: 1436
   skill: Oppose and Overthrow
   effects:
-    - Deals 182% damage to all enemies.
-    - The caster and nearby allies counterattack with 85% of the damage receied for 4 turns.
+  - Deals 182% damage to all enemies.
+  - The caster and nearby allies counterattack with 85% of the damage receied for
+    4 turns.
   types:
-    - Hit all
-    - Counterattack 33
+  - Hit all
+  - Counterattack 33
   image: https://i.imgur.com/SB2N0Vj.jpg
 costume2:
   design: costume2
   bonuses: 5/5/10/5
-  class: Fighter
+  class: fighter
   power: 859
   attack: 829
   defense: 793
   health: 1591
   skill: Vampiric Cleave
   effects:
-    - Deals 260% damage to the target and nearby enemies.
-    - The caster and nearby allies counterattack with 95% of the damage received for 3 turns.
-    - The caster and nearby allies regenerate a moderate amount of mana for each counterattack. The effect gets diminished for consecutive activations during the same turn.
+  - Deals 260% damage to the target and nearby enemies.
+  - The caster and nearby allies counterattack with 95% of the damage received for
+    3 turns.
+  - The caster and nearby allies regenerate a moderate amount of mana for each counterattack.
+    The effect gets diminished for consecutive activations during the same turn.
   types:
-    - Hit 3
-    - Counterattack 3
-    - Mana on Counterattack
+  - Hit 3
+  - Counterattack 3
+  - Mana on Counterattack
   image: https://i.imgur.com/jA79vt4.jpg
 costume3:
   design: toon
   bonuses: 5/5/10/5
-  class: Barbarian
+  class: barbarian
   power: 1110
   attack: 1114
   defense: 1018
   health: 2215
   skill: Toon and Counter
   effects:
-    - Deals 390% damage to the target and minor damage to nearby enemies.
-    - The caster counterattacks with 110% of the damage received for 4 turns.
-    - Deals extra damage against Holy.
+  - Deals 390% damage to the target and minor damage to nearby enemies.
+  - The caster counterattacks with 110% of the damage received for 4 turns.
+  - Deals extra damage against Holy.
   types:
-    - Hit 3
-    - Counterattack 1
+  - Hit 3
+  - Counterattack 1
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/YICnCq4.jpg
 costume4:
   design: glass
   bonuses: 5/5/10/5
-  class: Barbarian
+  class: barbarian
   power: 1237
   attack: 1303
   defense: 1181
   health: 2328
   skill: Cleave and Reflect
   effects:
-    - Deals 400% damage to the target and minor damage to nearby enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - The caster counterattacks with 120% of the damage received for 4 turns.
+  - Deals 400% damage to the target and minor damage to nearby enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The caster counterattacks with 120% of the damage received for 4 turns.
   types:
-    - Hit 3
-    - Bypass
-    - Counterattack 1
+  - Hit 3
+  - Bypass
+  - Counterattack 1
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/pN1Axne.jpg
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: barbarian
+  power: 1299
+  attack: 1385
+  defense: 1245
+  health: 2434
+  skill: Stylish Counterattack
+  effects:
+  - Deals 410% damage to the target and minor damage to nearby enemies.
+  - Deals extra damage to enemies with less than 50% health remaining.
+  - The caster counterattacks with 130% of the damage received for 4 turns.
+  types:
+  - Hit 3
+  - Counterattack 1
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/hiS5mXD.jpg
+...

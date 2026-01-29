@@ -10,7 +10,7 @@ health: 1387
 skill: Fruit Cocktail
 effects:
   - Deals 380% damage to tha target.
-  - After 1 turn the target gets Paralyzed for 4 turns. (Paralyzed enemies can’t attack or gain man and receive +50% increased damage. Once Paralyzed, the effect can’t be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
+  - After 1 turn the target gets Paralyzed for 4 turns. (Paralyzed enemies can't attack or gain man and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
 types:
   - Hit 1
   - Delayed Paralyzed 1

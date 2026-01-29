@@ -38,7 +38,7 @@ costume:
     - Defense Debuff
   passives:
     - >-
-      Effects on special skill: 50% chance to perform the following actions when this character casts their Special Skill:
+      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:
     - ' * Deals 70% damage to all enemies.'
     - ' * All enemies get -34% attack for 3 turns.'
     - >-

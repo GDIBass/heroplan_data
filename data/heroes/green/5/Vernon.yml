@@ -1,0 +1,23 @@
+name: Vernon
+source: love
+family: cupid
+speed: Fast
+class: Fighter
+power: 1273
+attack: 1318
+defense: 1314
+health: 2278
+skill: Shared Compassion
+effects:
+  - Deals 380% damageto the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.
+  - For 3 turns enemies on the edges of the enemy formation receive 50% of all damage dealt to their allies.
+  - For 3 turns, the enemies on the edges of the enemy formation are forced to cast Mindless heal when at full mana.
+  - "Mindless Heal: Recovers 20% HP health for the character on the opposing side with the lowest remaining HP."
+types:
+  - Hit 2
+  - Damage Link 2
+  - Mindless Heal 2
+passives:
+  - >-
+    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+image: https://imgur.com/tGCOgZ3.jpg

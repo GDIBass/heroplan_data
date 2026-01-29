@@ -12,7 +12,7 @@ effects:
   - Summons a Bee Minion for each ally. The Bee Minion inherits 15% HP and 17% attack from the caster.
   - 'Each hit from a Bee Minion gives the target the following status ailments:'
   - ' * The target receives 14 Poison damage over 2 turns.' 
-  - ' * The target can’t receive new Minions for 4 turns.'
+  - " * The target can't receive new Minions for 4 turns."
 types:
   - Summoner
   - Dot 1

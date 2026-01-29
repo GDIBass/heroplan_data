@@ -26,7 +26,7 @@ costume:
   effects:
     - Deals 520% damage to the target.
     - The target receives 390 Bleed damage over 3 turns.
-    - All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can’t be bypassed.
+    - All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can't be bypassed.
   types:
     - Hit 1
     - DoT 1
@@ -34,6 +34,6 @@ costume:
   passives:
     - 'Unstoppable Minions:'
     - ' * Resistance against Minion removal.'
-    - ' * Can’t be prevented from receiving Minions.'
-    - ' * Minion attack and abilities can’t be disabled.'
+    - " * Can't be prevented from receiving Minions."
+    - " * Minion attack and abilities can't be disabled."
   image: https://i.imgur.com/LeENxWF.jpg
