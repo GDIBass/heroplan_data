@@ -7,7 +7,7 @@ power: 952
 attack: 885
 defense: 912
 health: 1876
-skill: Remendies and Diseases
+skill: Remedies and Diseases
 effects:
   - Destroys all Fiends from all allies.
   - Cleanses status ailments from all allies.

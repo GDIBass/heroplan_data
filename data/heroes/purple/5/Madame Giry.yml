@@ -7,7 +7,7 @@ power: 957
 attack: 927
 defense: 968
 health: 1691
-skill: Summoning the Ballerinas
+skill: Summoning of Ballerinas
 effects:
   - Deals 340% damage to all enemies.
   - Summons a Ballerina Fiend for all enemies. The Fiend damage the enemy with 110% attack every turn.

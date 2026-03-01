@@ -12,7 +12,7 @@ skill: Verdant Trap
 effects:
 - Deals 275% damage to 3 random enemies.
 - Hit enemies become afflicted with Spike Trap.
-- The Spike Trap give its target -42% defense against Nature. Against Ice Titans,
+- The Spike Trap gives its target -42% defense against Nature. Against Ice Titans,
   the Spike Trap gives its target -65% defense against Nature.
 - Spike Traps explode in 3 turns dealing 300 damage to their owner. (If the Spike
   Trap is replaced by a new Spike Trap, it explodes. This can happen up to 2 times

@@ -7,7 +7,7 @@ power: 868
 attack: 832
 defense: 809
 health: 1612
-skill: Holly Aura
+skill: Holy Aura
 effects:
   - Deals 250% damage to the target. Deals extra damage is the target is Dark.
   - Deals 180% damage to 5 random enemies. Deals extra damage if the target is Dark.

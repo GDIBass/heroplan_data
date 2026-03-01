@@ -7,7 +7,7 @@ power: 999
 attack: 978
 defense: 990
 health: 1823
-skill: Advanture Awaits!
+skill: Adventure Awaits!
 effects:
   - Boosts health for all allies by 560. Boosted health can exceed max HP.
   - All allies get +20% attack, and an additional +10% each time any ally casts their Special Skill, up to maximimum of 70%, for the next 3 turns.

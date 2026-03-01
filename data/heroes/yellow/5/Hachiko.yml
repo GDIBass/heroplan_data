@@ -7,7 +7,7 @@ power: 876
 attack: 877
 defense: 807
 health: 1559
-skill: Strike of Thousand Howls
+skill: Strike of a Thousand Howls
 effects:
   - Deals 270% damage to all enemies.
   - All allies counterattack with 80% of the damage received for 4 turns. The counterattack damage increases by +15% each turn, up to 125%.

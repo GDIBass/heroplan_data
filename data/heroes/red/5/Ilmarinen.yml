@@ -28,7 +28,7 @@ costume:
   attack: 1151
   defense: 1250
   health: 2451
-  skill: Forged fom Gold
+  skill: Forged from Gold
   effects:
     - Reduces the mana of all Ice enemies by 50%. Reduces the mana of all other enemies by 30%.
     - All enemies become Soul Connected for 4 turns. Soul Connected enemis share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.

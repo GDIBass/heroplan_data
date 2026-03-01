@@ -7,7 +7,7 @@ power: 980
 attack: 994
 defense: 1021
 health: 1584
-skill: Flute of Echantment
+skill: Flute of Enchantment
 effects:
   - 'Growth: All allies get 355 defense.'
   - Summons a Spotted Boar Mega Minion with 65% HP and 260% attack inherited from the caster.

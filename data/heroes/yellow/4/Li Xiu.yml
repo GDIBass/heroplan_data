@@ -8,7 +8,7 @@ power: 640
 attack: 616
 defense: 665
 health: 1098
-skill: Slash of the Seven Blades
+skill: Slash of Seven Blades
 effects:
 - Deals 150% damage to all enemies
 - Reduces the mana of enemies by 20%
@@ -24,7 +24,7 @@ costume:
   attack: 660
   defense: 690
   health: 1189
-  skill: Slash of the Seven Daggers
+  skill: Slash of Seven Daggers
   effects:
   - Deals 180% damage to all enemies
   - Reduces the mana of all enemies by 10%

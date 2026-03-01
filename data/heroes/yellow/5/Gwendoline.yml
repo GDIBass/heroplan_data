@@ -7,7 +7,7 @@ power: 1224
 attack: 1223
 defense: 1312
 health: 2175
-skill: Essense of Queen Nitocris
+skill: Essence of Queen Nitocris
 effects:
   - Cleanses status ailments from the caster and nearby allies.
   - Recovers 70% health for the caster and nearby allies.

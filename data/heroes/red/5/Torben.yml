@@ -7,7 +7,7 @@ power: 980
 attack: 1034
 defense: 945
 health: 1633
-skill: Mark of the Prey
+skill: Mark the Prey
 effects:
   - The target receives 80% damage for all the damage their allies receive for 3 turns.
   - The target get -44% defense for 3 turns.

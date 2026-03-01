@@ -23,7 +23,7 @@ costume:
   attack: 876
   defense: 1093
   health: 1771
-  skill: Trickter's Lullaby
+  skill: Trickster's Lullaby
   effects:
     - Lifts all cleansable status ailments from all allies and randomly distributes them on enemies.
     - Deals 135% damage to all enemies.

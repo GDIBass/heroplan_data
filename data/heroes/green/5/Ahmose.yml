@@ -28,7 +28,7 @@ costume:
   attack: 1167
   defense: 1223
   health: 2397
-  skill: Veridant Minor
+  skill: Verdant Mirror
   effects:
     - Deals 410% damage to all enemies.
     - All allies reflect all status effects and 160% damage back to the attacker and block other negative effects from enemies' Fire Special Skill for 3 turns. This effect can't be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
