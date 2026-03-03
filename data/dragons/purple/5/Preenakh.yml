@@ -1,0 +1,40 @@
+---
+name: Preenakh
+source: ancientUnderroot
+speed: Average
+power: 11203
+attack: 13913
+defense: 14166
+health: 12409
+skill: Feathered Embrace
+effects:
+- Recovers 10000 health for all allies who have less than 50% health.
+- All allies regenerate 4000 HP over 4 turns.
+- All allies are immune to new status ailments for 4 turns.
+types:
+- Healer All
+- HoT All
+- Ailments Immunity All
+spiritBonus:
+  spiritClass: Druid
+  all:
+    attack: +250
+    defense: +200
+    health: +100
+  elementalBond:
+    attack: +35
+    defense: +30
+    health: +30
+  classLink:
+    attack: +35
+    defense: +30
+    health: +30
+assist:
+  name: Blazing Storm
+  effects:
+    - Deals 400 damage to all enemies.
+    - Recovers 200 health for all allies.
+    - All enemies receive 1300 Burn damage over 5 turns.
+    - Dispels buffs from all enemies.
+image: https://imgur.com/jx8wFUH.jpg
+...

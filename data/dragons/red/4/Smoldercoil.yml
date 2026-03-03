@@ -1,0 +1,40 @@
+---
+name: Smoldercoil
+source: ancientUnderroot
+speed: Fast
+power: 9530
+attack: 11962
+defense: 11823
+health: 10307
+skill: Magmatic Tempest
+effects:
+- Deals 210% damage to the target and 2 random enemies.
+- All hit enemies receive 1800 Burn damage over 3 turns. The caster absorbs 30% of dealt Burn damage as health.
+types:
+- Hit 1
+- Hit random 2
+- DoT on hit
+- Self Heal
+spiritBonus:
+  spiritClass: Ranger
+  all:
+    attack: +160
+    defense: +120
+    health: +45
+  elementalBond:
+    attack: +20
+    defense: +15
+    health: +15
+  classLink:
+    attack: +20
+    defense: +15
+    health: +15 
+assist:
+  name: Cracking Blaze
+  effects:
+    - Deals 200 damage to all enemies.
+    - Recovers 100 health for all allies.
+    - All enemies receive 350 Burn damage over 5 turns.
+    - All enemies get -15% defense for 5 turns.
+image: https://imgur.com/xyNnFkb.jpg
+...
