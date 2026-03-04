@@ -1,0 +1,35 @@
+---
+name: Savann
+source: wilderness
+family: wildcat
+speed: Fast
+class: Druid
+power: 1285
+attack: 1392
+defense: 1252
+health: 2307
+skill: Greeting of the Sun
+effects:
+- Reduces max health  of the target by 1500. The effect is stronger against targets
+  with boosted health. (Max health can't get lower than 30% of the original max health.
+  Any boosted health is reduced by an additional 1300.)
+- The target gets silenced for 3 turns.
+- 'Growth: Nearby allies get 400 attack.'
+types:
+- Max Health Reduction 1
+- Silence 1
+- Attack Growth 2
+passives:
+- 'Nine Lives:'
+- ' * When defeated this character has 80% chance to revive at the begining of their
+  next turn with 50% health and 80% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
+  be prevented with status ailments on Passive Skills.'
+- 'Trait: Lithe Frame'
+- This character is not affected by effects that increase or reduce defense.
+- 'This includes:'
+- ' * Status effect buffs and ailments.'
+- ' * Positive and negative stacks.'
+- ' * Growth and Wither effects.'
+image: https://imgur.com/VCijAQe.jpg
+...
