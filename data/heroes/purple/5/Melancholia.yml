@@ -1,3 +1,4 @@
+---
 name: Melancholia
 source: secretsummon
 family: cultist
@@ -9,15 +10,16 @@ defense: 1155
 health: 2136
 skill: Grim Awakening
 effects:
-  - Revives all allies with 70% HP and 50 Insanity.
-  - All allies get +74% defense against Special Skills for 5 turns.
-  - If any ally except the caster is defeated in 5 turns, all enemies receive 400 damage.
-  - Inflicts 55 Insanity on the caster.
+- Revives all allies with 70% HP and 50 Insanity.
+- All allies get +74% defense against Special Skills for 5 turns.
+- If any ally except the caster is defeated in 5 turns, all enemies receive 400 damage.
+- Casting this Special Skill inflicts 50 Insanity on the caster.
 types:
-  - Reviver
-  - Defense buff
-  - Insanity
+- Reviver
+- Defense buff
+- Insanity
 passives:
-  - >-
-    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
+- 'Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character
+  up to a maximum reduction of 50%.'
 image: https://i.imgur.com/okcHBcF.jpg
+...

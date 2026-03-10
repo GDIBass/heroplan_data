@@ -1,3 +1,4 @@
+---
 name: Wulfstan
 source: shadow
 family: cultist
@@ -9,12 +10,13 @@ defense: 1165
 health: 2076
 skill: Eldritch Sign Bolts
 effects:
-  - Steals all dispellable buff from all enemies to the caster.
-  - Deals 350% damage to all and inflicts 10 Insanity on them.
-  - Inflicts 55 Insanity on the caster.
+- Steals all dispellable buff from all enemies to the caster.
+- Deals 350% damage to all and inflicts 10 Insanity on them.
+- Casting this Special Skill inflicts 45 Insanity on the caster.
 types:
-  - Buff Steal All
-  - Hit All
-  - Insanity All
-  - Self Insanity
+- Buff Steal All
+- Hit All
+- Insanity All
+- Self Insanity
 image: https://i.imgur.com/EHlubEr.jpg
+...
