@@ -1,0 +1,41 @@
+---
+name: Mikanagi Miran
+source: ninja
+family: ronin
+speed: Charge
+class: Sorcerer
+power: 1288
+attack: 1351
+defense: 1318
+health: 2296
+skill: Iaijutsu
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- 'x1 Mana Charge:'
+- Deals 310% damage to the target.
+- Deals additional 310% damage to 1 random enemies.
+- Dispel 1 buffs from each hit enemy.
+- 'x2 Mana Charge:'
+- Deals 320% damage to the target.
+- Deals additional 320% damage to 4 random enemies.
+- 'Stack (Max: 10): Each hit gives its target -5% defense.'
+- Dispel 1 buffs from each hit enemy.
+- 'x3 Mana Charge:'
+- Deals 330% damage to the target.
+- Deals additional 330% damage to 10 random enemies.
+- 'Stack (Max: 10): Each hit gives its target -5% defense.'
+- Safely Dispels 1 buff from each hit enemy.
+types:
+- Charge
+- Hit 1
+- Hit Random 1 / 4 / 10
+- Dispel / Dispel / Safely Dispel 1 buff on hit
+- Defense Stack on hit
+passives:
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 400% damage.'
+- ' * The attacker receives 1200 Bleed damage over 3 turns.'
+image: https://imgur.com/Qq5yN3I.jpg
+...

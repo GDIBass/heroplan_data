@@ -1,0 +1,38 @@
+---
+name: Asakura Masao
+source: ninja
+family: ronin
+speed: Charge
+class: Paladin
+power: 1288
+attack: 1316
+defense: 1357
+health: 2307
+skill: Two Sword Technique
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- 'x1 Mana Charge:'
+- Deals 250% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy.
+- 'Growth: The caster gets 100 attack and 100 defense.'
+- 'x2 Mana Charge:'
+- Deals 400% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy.
+- 'Growth: The caster and nearby allies get 250 attack and 250 defense.'
+- 'x3 Mana Charge:'
+- Deals 600% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy.
+- 'Growth: All allies get 600 attack and 600 defense.'
+types:
+- Charge
+- Hit 1
+- Chain Hit
+- Growth Self / 3 / All
+passives:
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 400% damage.'
+- ' * The attacker receives 1200 Bleed damage over 3 turns.'
+image: https://imgur.com/z1SbTyh.jpg
+...
