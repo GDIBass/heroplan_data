@@ -1,3 +1,4 @@
+---
 name: Ellery
 source: shadow
 family: theinstitute
@@ -9,26 +10,39 @@ defense: 1283
 health: 2259
 skill: Mutated Specimen
 effects:
-  - "Growth: The caster and nearby allies get 400 attack and 400 defense."
-  - Summon an Aberration Mega Minion with 40% HP and 170% attack inherited from the caster.
-  - "Each hit from an Aberration Mega Minion gives the target the following status ailment:"
-  - " * The target receives 489 Toxin damage over 3 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion.  (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)"
-  - " * Inflicts 10 Insanity on the target."
-  - Inflicts 45 Insanity to the caster.
+- 'Growth: The caster and nearby allies get 400 attack and 400 defense.'
+- Summon an Aberration Mega Minion with 40% HP and 170% attack inherited from the
+  caster.
+- 'Each hit from an Aberration Mega Minion gives the target the following status ailment:'
+- ' * The target receives 489 Toxin damage over 3 turns. Damage is increased against
+  targets with boosted health, Minions or a Mega Minion.  (The Toxin damage is increased
+  by +100% against targets with boosted health. The Toxin damage is increased by +33%
+  per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)'
+- ' * Inflicts 10 Insanity on the target.'
+- Casting this Special Skill inflicts 45 Insanity to the caster.
 types:
-  - Attack Growth 3
-  - Defense Growth 3
-  - Aberration Mega Minion
-  - MM DoT 1
-  - MM Insanity 1
-  - Self Insanity
+- Attack Growth 3
+- Defense Growth 3
+- Aberration Mega Minion
+- MM DoT 1
+- MM Insanity 1
+- Self Insanity
 passives:
-  - "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%."
-  - "The Eldritch Host has:"
-  - " * 100% inherited health."
-  - " * 1200 attack."
-  - " * 1200 defense."
-  - "Special Skill: Eldrich Bright."
-  - " * Deals 400% damage to the target and inflicts 35 Insanity on them." 
-  - If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+- 'Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch
+  Host. The chance is 10% per 10 Insanity on this character, up to maximum chance
+  of 100%.'
+- 'The Eldritch Host has:'
+- ' * 100% inherited health.'
+- ' * 1200 attack.'
+- ' * 1200 defense.'
+- 'Special Skill: Eldrich Bright.'
+- ' * Deals 400% damage to the target and inflicts 35 Insanity on them.'
+- If this character defeats themself when activating Insanity, the chance to be reborn
+  is always 100%.
 image: https://imgur.com/tlI5XWl.jpg
+...

@@ -18,12 +18,17 @@ effects:
 - The Moldavite Owl Fiend infllicts 5 Insanity on the owner on every turn.
 - At the end of each turn, the Moldavite Owl Fiend dispels one of its target's dispellable
   buffs.
-- Inflicts 40 Insanity on the caster.
+- Casting this Special Skill inflicts 40 Insanity on the caster.
 types:
 - Hit 3
 - Moldavite Owl Fiend Summoner 3
 - Self Insanity
 passives:
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
 - 'Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch
   Host. The chance is 10% per 10 Insanity on this character, up to maximum chance
   of 100%.'

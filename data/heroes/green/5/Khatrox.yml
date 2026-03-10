@@ -1,3 +1,4 @@
+---
 name: Khatrox
 source: shadow
 family: forsaken
@@ -9,23 +10,33 @@ defense: 1194
 health: 2263
 skill: Obliterating Surge
 effects:
-  - Boosts health of the caster by 1000. Boosted health can exceed max HP.
-  - Deals 470% damage to all enemies and inflicts 25 Insanity on them.
-  - Store all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealt to all enemies, up to a maximum of 1500 damage. This effect can't be dispelled.
-  - Inflicts 45 Insanity to the caster.
+- Boosts health of the caster by 1000. Boosted health can exceed max HP.
+- Deals 470% damage to all enemies and inflicts 25 Insanity on them.
+- Store all damage dealt to the caster for 3 turns. When the effect ends, stored damage
+  is dealt to all enemies, up to a maximum of 1500 damage. This effect can't be dispelled.
+- Casting this Special Skill inflicts 45 Insanity to the caster.
 types:
-  - Boosted Heal All
-  - Hit All
-  - Insanity All Enemies
-  - Stores damage
-  - Self Insanity
+- Boosted Heal All
+- Hit All
+- Insanity All Enemies
+- Stores damage
+- Self Insanity
 passives:
-  - "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%."
-  - "The Eldritch Host has:"
-  - " * 100% inherited health."
-  - " * 1200 attack."
-  - " * 1200 defense."
-  - "Special Skill: Eldrich Bright."
-  - " * Deals 400% damage to the target and inflicts 35 Insanity on them." 
-  - If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+- 'Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch
+  Host. The chance is 10% per 10 Insanity on this character, up to maximum chance
+  of 100%.'
+- 'The Eldritch Host has:'
+- ' * 100% inherited health.'
+- ' * 1200 attack.'
+- ' * 1200 defense.'
+- 'Special Skill: Eldrich Bright.'
+- ' * Deals 400% damage to the target and inflicts 35 Insanity on them.'
+- If this character defeats themself when activating Insanity, the chance to be reborn
+  is always 100%.
 image: https://imgur.com/QRgxMUA.jpg
+...
