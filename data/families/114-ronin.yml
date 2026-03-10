@@ -1,0 +1,14 @@
+---
+code: 114
+key: ronin
+image: https://imgur.com/xDfADly.png
+description: Ronin Family
+bonus:
+- "Bonus for 1 / 2 / 3 Heroes:"
+- This character has 30% / 50% / 70% extra chance to bypass defensive buffs with their
+  attacks. If any defensive buffs are bypassed, this character's mana is increased
+  by 5%.
+bonusCostume-5star: ""
+bonusCostume-4star: ""
+bonusCostume-3star: ""
+...
