@@ -1,6 +1,7 @@
+---
 name: Eliane
 source: hotm
-family: 2025
+family: "2025"
 speed: Average
 class: Wizard
 power: 1066
@@ -9,17 +10,17 @@ defense: 1097
 health: 1769
 skill: Flame Surge
 effects:
-  - Deals 300% damage to all enemies.
-  - All enemies receive 640 Burn damage over 4 turns.
-  - Dispel buffs from all enemies.
-  - Elemental Link gives all Fire allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled.
+- Deals 330% damage to all enemies.
+- All enemies receive 640 Burn damage over 4 turns.
+- Dispel buffs from all enemies.
+- Elemental Link gives all Fire allies +30% defense against Special Skills for 4 turns.
+  This effect can't be dispelled.
 types:
-  - Hit All
-  - DoT All
-  - Dispeller
+- Hit All
+- DoT All
+- Dispeller All
 passives:
-  - >-
-    Resist Burn: This character has innate resistance against Burn.
-  - >-  
-    Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage.
+- 'Resist Burn: This character has innate resistance against Burn.'
+- 'Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage.'
 image: https://i.imgur.com/MByoToE.jpg
+...

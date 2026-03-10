@@ -1,28 +1,32 @@
+---
 name: Anoushka
-class: Druid
 source: hotm
-family: 2024
+family: "2024"
 speed: Average
+class: Druid
 power: 923
 attack: 902
 defense: 984
 health: 1788
 skill: Strange Incense
 effects:
-  - Recover 30% health for all allies.
-  - Steals all dispellable buffs from the target and randomly distributes them on allies.
-  - The target falls asleep.
-  - While asleep, the target can't attack or gain mana.
-  - All damage dealt to the sleeping target is increased by +50%.
-  - The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends.
-  - Elemental Link gives all Dark allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled.
+- Recover 32% health for all allies.
+- Steals all dispellable buffs from the target and randomly distributes them on allies.
+- The target falls asleep.
+- While asleep, the target can't attack or gain mana.
+- All damage dealt to the sleeping target is increased by +50%.
+- The sleeping target is woken once it takes damage. This excludes damage from Minions
+  and Fiends.
+- Elemental Link gives all Dark allies +10% additional Special Skill damage for 4
+  turns. This effect cannot be dispelled.
 types:
-  - Heal all
-  - Buff Stealer
-  - Sleep
+- Heal All
+- Buff Stealer 1
+- Sleep 1
 passives:
-  - >-
-    Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn't apply to status effects from allies.
-  - >-
-    Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or negative stack.
+- 'Resist Blind: This character has innate resistance against status ailments that
+  affect accurancy. Doesn''t apply to status effects from allies.'
+- 'Health Recovery on Status Ailment Received: This character recovers 10% health
+  when they receive a status ailment or negative stack.'
 image: https://i.imgur.com/mDRIe3A.jpg
+...
