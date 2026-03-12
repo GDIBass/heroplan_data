@@ -10,7 +10,7 @@ defense: 718
 health: 1248
 skill: Perfect Shot
 effects:
-- Deals 512% damage to the target
+- Deals 512% damage to the target.
 types:
 - Hit 1
 image: https://i.imgur.com/uJj6MQb.jpg
@@ -24,8 +24,8 @@ costume:
   health: 1364
   skill: Pure Shot
   effects:
-  - Deals 482% damage to the target
-  - The targe gets -34% mana generation for 3 turns
+  - Deals 482% damage to the target.
+  - The target gets -34% mana generation for 3 turns.
   types:
   - Hit 1
   - Mana Generation Debuff
@@ -40,8 +40,8 @@ costume2:
   health: 1470
   skill: Flawless Shot
   effects:
-  - Deals 500% damage to the target
-  - The targe gets silenced for 3 turns
+  - Deals 500% damage to the target.
+  - The target gets silenced for 3 turns.
   types:
   - Hit 1
   - Silencer
@@ -92,7 +92,7 @@ costume5:
   health: 2269
   skill: Stylish Arrow
   effects:
-  - Deals 613% damage to the target.
+  - Deals 612% damage to the target.
   - If the target has less than 50% health remaining, deals 712% damage instead.
   types:
   - Hit 1

@@ -1,3 +1,4 @@
+---
 name: Joon
 source: season1
 family: classic
@@ -9,11 +10,12 @@ defense: 636
 health: 1339
 skill: Solar Beam
 effects:
-  - Deals 468% damage to the target.
-  - The target gets -40% accuracy for 6 turns. Chance to miss also applies to offensive special skills.
+- Deals 468% damage to the target.
+- The target gets -40% accuracy for 6 turns. (Chance to miss also applies to offensive
+  special skills.)
 types:
-  - Hit 1
-  - Blind 1
+- Hit 1
+- Blind 1
 image: https://i.imgur.com/d5mevmf.jpg
 costume:
   design: costume1
@@ -25,11 +27,12 @@ costume:
   health: 1465
   skill: Solar Strike
   effects:
-    - Deals 488% damage to the target.
-    - The target gets -35% accuracy for 4 turns. Chance to miss also applies to offensive special skills.
+  - Deals 488% damage to the target.
+  - The target gets -35% accuracy for 4 turns. (Chance to miss also applies to offensive
+    special skills.)
   types:
-    - Hit 1
-    - Blind 1
+  - Hit 1
+  - Blind 1
   image: https://i.imgur.com/YXbYHIl.jpg
 costume2:
   design: costume2
@@ -41,13 +44,14 @@ costume2:
   health: 1584
   skill: Stellar Beam
   effects:
-    - Deals 260% damage to target and nearby enemies.
-    - The target and nearby enemies receive 195 Burn damage over 3 turns.
-    - The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.
+  - Deals 260% damage to target and nearby enemies.
+  - The target and nearby enemies receive 195 Burn damage over 3 turns.
+  - The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also
+    applies to offensive Special Skills.
   types:
-    - Hit 3
-    - Dot 3
-    - Blind 3
+  - Hit 3
+  - DoT 3
+  - Blind 3
   image: https://i.imgur.com/rJxyTcK.jpg
 costume3:
   design: toon
@@ -59,15 +63,15 @@ costume3:
   health: 2267
   skill: Toon Beam
   effects:
-    - Deals 548% damage to the target.
-    - The target gets -35% accuracy for 6 turns.
-    - Deals extra damage against Dark.
+  - Deals 548% damage to the target.
+  - The target gets -35% accuracy for 6 turns.
+  - Deals extra damage against Dark.
   types:
-    - Hit 1
-    - Blind 1
+  - Hit 1
+  - Blind 1
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/6UDBHvu.jpg
 costume4:
   design: glass
@@ -79,14 +83,15 @@ costume4:
   health: 2356
   skill: Glass Beam
   effects:
-    - Deals 558% damage to the target.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - The target gets -38% accuracy for 6 turns. (Chance to miss also applies to offensive Special Skills.)
+  - Deals 558% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target gets -38% accuracy for 6 turns. (Chance to miss also applies to offensive
+    Special Skills.)
   types:
-    - Hit 1
-    - Bypass
-    - Blind 1
+  - Hit 1
+  - Bypass
+  - Blind 1
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/7d9tXzA.jpg
+...

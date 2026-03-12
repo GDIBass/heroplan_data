@@ -1,3 +1,4 @@
+---
 name: Kadilen Second Costume
 is_costume: true
 design: costume2
@@ -11,10 +12,12 @@ defense: 1003
 health: 1603
 skill: Lunar Shield
 effects:
-  - Deals 210% damage to all enemies.
-  - All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge summons an Empowered Thorn Minion.
-  - Empowered Thorn Minion has 25% HP and 25% attack inherited from the caster
+- Deals 210% damage to all enemies.
+- All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge summons
+  an Empowered Thorn Minion.
+- Empowered Thorn Minion has 25% HP and 25% attack inherited from the caster.
 types:
-  - Hit All
-  - Minion Dodge Buff  
+- Hit All
+- SS Dodge Chance Buff All
 image: https://i.imgur.com/hEckaC5.jpg
+...

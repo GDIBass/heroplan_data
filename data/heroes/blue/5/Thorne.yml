@@ -1,3 +1,4 @@
+---
 name: Thorne
 source: season1
 family: classic
@@ -9,9 +10,9 @@ defense: 793
 health: 1339
 skill: Icecold Finisher
 effects:
-  - Deals 490% damage to the target and minor damage to nearby enemies
+- Deals 490% damage to the target and minor damage to nearby enemies.
 types:
-  - Hit 3
+- Hit 3
 image: https://i.imgur.com/9CT7f6V.jpg
 costume:
   design: costume1
@@ -23,11 +24,11 @@ costume:
   health: 1424
   skill: Freezing Finale
   effects:
-    - Deals 540% damage to the target.
-    - The caster gets +24% mana generation for 3 turns. This effect can't be dispelled.
+  - Deals 540% damage to the target.
+  - The caster gets +24% mana generation for 3 turns. This effect can't be dispelled.
   types:
-    - Hit 1
-    - Self Mana Gen Buff
+  - Hit 1
+  - Self Mana Gen Buff
   image: https://i.imgur.com/YX5GVdv.jpg
 costume2:
   design: costume2
@@ -39,13 +40,13 @@ costume2:
   health: 1618
   skill: Glacial Crusher
   effects:
-    - Deals 360% damage to the target and nearby enemies.
-    - Reduces the mana of the target and nearby enemies by 15%.
-    - The caster receives moderate amount of mana over 4 turns.
+  - Deals 360% damage to the target and nearby enemies.
+  - Reduces the mana of the target and nearby enemies by 15%.
+  - The caster receives moderate amount of mana over 4 turns.
   types:
-    - Hit 3
-    - Mana reducer
-    - Self MoT
+  - Hit 3
+  - Mana reducer 3
+  - Self MoT
   image: https://i.imgur.com/IEUFL8t.jpg
 costume3:
   design: toon
@@ -57,13 +58,13 @@ costume3:
   health: 2223
   skill: Toon Finisher
   effects:
-    - Deals 640% damage to the target and minor damage to nearby enemies.
-    - Deals extra damage against Fire.
+  - Deals 640% damage to the target and minor damage to nearby enemies.
+  - Deals extra damage against Fire.
   types:
-    - Hit 3
+  - Hit 3
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/bBInxqX.jpg
 costume4:
   design: glass
@@ -75,12 +76,12 @@ costume4:
   health: 2324
   skill: Glass Finisher
   effects:
-    - Deals 650% damage to the target and minor damage to nearby enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Deals 650% damage to the target and minor damage to nearby enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
   types:
-    - Hit 3
-    - Bypass
+  - Hit 3
+  - Bypass
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/jJvIunu.jpg
+...

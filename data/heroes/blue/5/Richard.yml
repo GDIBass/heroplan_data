@@ -1,3 +1,4 @@
+---
 name: Richard
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 817
 health: 1260
 skill: Cloud Hammer
 effects:
-  - Deals 415% damage to the target and minor damage to nearby enemies.
-  - The target and nearby enemies get -34% attack for 6 turns.
+- Deals 415% damage to the target and minor damage to nearby enemies.
+- The target and nearby enemies get -34% attack for 6 turns.
 types:
-  - Hit 3
-  - Attack Debuff 3
+- Hit 3
+- Attack Debuff 3
 image: https://i.imgur.com/G5NAe4a.jpg
 costume:
   design: costume1
@@ -25,11 +26,11 @@ costume:
   health: 1361
   skill: Cloud Axe
   effects:
-    - Deals 435% damage to the target and minor damage to nearby enemies.
-    - The target and nearby enemies get -34% attack for 4 turns.
+  - Deals 435% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -34% attack for 4 turns.
   types:
-    - Hit 3
-    - Attack Debuff 3
+  - Hit 3
+  - Attack Debuff 3
   image: https://i.imgur.com/WKQthMP.jpg
 costume2:
   design: costume2
@@ -41,11 +42,12 @@ costume2:
   health: 1609
   skill: Dread Hammer
   effects:
-    - Deals 300% damage to the target and nearby enemies.
-    - The target and nearby enemies get -30% attack, and a further -2% decrease every time they are hit during 4 turns.
+  - Deals 300% damage to the target and nearby enemies.
+  - The target and nearby enemies get -30% attack, and a further -2% decrease every
+    time they are hit during 4 turns.
   types:
-    - Hit 3
-    - Attack Debuff 3
+  - Hit 3
+  - Attack Debuff 3
   image: https://i.imgur.com/7TMtgd4.jpg
 costume3:
   design: toon
@@ -57,15 +59,15 @@ costume3:
   health: 2279
   skill: Toon Hammer
   effects:
-    - Deals 565% damage to the target and minor damage to nearby enemies.
-    - The target and nearby enemies get -24% attack for 6 turns.
-    - Deals extra damage against Fire.
+  - Deals 565% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -24% attack for 6 turns.
+  - Deals extra damage against Fire.
   types:
-    - Hit 3
-    - Attack Debuff 3
+  - Hit 3
+  - Attack Debuff 3
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/2rEfoQ7.jpg
 costume4:
   design: glass
@@ -77,16 +79,15 @@ costume4:
   health: 2394
   skill: Glass Hammer
   effects:
-    - Deals 575% damage to the target and minor damage to nearby enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - The target and nearby enemies get -30% attack for 6 turns.
+  - Deals 575% damage to the target and minor damage to nearby enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target and nearby enemies get -30% attack for 6 turns.
   types:
-    - Hit 3
-    - Bypass
-    - Attack Debuff 3
+  - Hit 3
+  - Bypass
+  - Attack Debuff 3
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/zd4avma.jpg
 costume5:
   design: stylish
@@ -98,13 +99,14 @@ costume5:
   health: 2495
   skill: Bottle Hammer
   effects:
-    - Deals 585% damage to the target and minor damage to nearby enemies.
-    - Deals extra damage to enemies with less than 50% health remaining.
-    - The target and nearby enemies get -32% attack for 6 turns.
+  - Deals 585% damage to the target and minor damage to nearby enemies.
+  - Deals extra damage to enemies with less than 50% health remaining.
+  - The target and nearby enemies get -32% attack for 6 turns.
   types:
-    - Hit 3
-    - Attack Debuff 3
+  - Hit 3
+  - Attack Debuff 3
   passives:
-    - >-
-      Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
   image: https://imgur.com/e0Q6Y54.jpg
+...

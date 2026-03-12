@@ -1,3 +1,4 @@
+---
 name: Domitia Second Costume
 is_costume: true
 design: costume2
@@ -11,10 +12,12 @@ defense: 805
 health: 1551
 skill: Dark Bolt
 effects:
-  - Deals 335% damage to target and nearby enemies
-  - The target and nearby enemies get -64% defense against Dark for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.
-  - Deals extra damage against Holy.
+- Deals 335% damage to target and nearby enemies
+- The target and nearby enemies get -64% defense against Dark for 4 turns. Against
+  Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.
+- Deals extra damage against Holy.
 types:
-  - Hit 3
-  - Defense Down
+- Hit 3
+- Elemental Defense Debuff 3
 image: https://i.imgur.com/36NtLB6.jpg
+...

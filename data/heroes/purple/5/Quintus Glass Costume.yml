@@ -1,3 +1,4 @@
+---
 name: Quintus Glass Costume
 is_costume: true
 design: glass
@@ -11,12 +12,12 @@ defense: 1225
 health: 2456
 skill: Glass Ultimatum
 effects:
-  - Deals 430% damage to all enemies.
-  - The attack bypasses defensive buffs. (This includes counterattacks.)
+- Deals 430% damage to all enemies.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
 types:
-  - Hit All
-  - Bypass
+- Hit All
+- Bypass
 passives:
-  - >-
-    Glass: 60% extra chance to reflect status ailments back to the attacker.
+- 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/5v62w6I.jpg
+...

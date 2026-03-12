@@ -1,3 +1,4 @@
+---
 name: Leonidas Glass Costume
 is_costume: true
 design: glass
@@ -11,16 +12,16 @@ defense: 1207
 health: 2155
 skill: Glass Cleave
 effects:
-  - Deals 575% damage to the target.
-  - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - Reduces the mana of the target by -38%.
-  - Heals the caster for 70% of damage dealt.
+- Deals 575% damage to the target.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- Reduces the mana of the target by -38%.
+- Heals the caster for 70% of damage dealt.
 types:
-  - Hit 1
-  - Bypass
-  - Mana reducer 1
-  - Self Heal
+- Hit 1
+- Bypass
+- Mana reducer 1
+- Self Heal
 passives:
-  - >-
-    Glass: 60% extra chance to reflect status ailments back to the attacker.
+- 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/7lvHaTO.jpg
+...

@@ -13,7 +13,7 @@ health: 2251
 skill: Stylish Cleave
 effects:
 - Deals 585% damage to the target.
-- Deals 730% damage if the target has less than 50% health remaining.
+- If the target has less than 50% health remaining, deals 730% damage instead.
 - Reduces the mana of the target by 39%.
 - Heals the caster for 72% of damage dealt.
 types:

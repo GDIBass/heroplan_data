@@ -10,13 +10,13 @@ defense: 673
 health: 1034
 skill: Blessed Brew
 effects:
-- Recovers 28% health for all allies
-- All allies get +30% attack for 3 turns
-- All allies get +30% defense for 3 turns
+- Recovers 28% health for all allies.
+- All allies get +30% attack for 3 turns.
+- All allies get +30% defense for 3 turns.
 types:
-- Healer
-- Attack Buff
-- Defense Buff
+- Healer All
+- Attack Buff All
+- Defense Buff All
 image: https://i.imgur.com/OnjIJvT.jpg
 costume:
   design: costume1
@@ -28,13 +28,13 @@ costume:
   health: 1153
   skill: Blessed Solo
   effects:
-  - Recovers 28% health for all allies
-  - All enemies get -34% attack for 3 turns
-  - All enemies get -34% defense for 3 turns
+  - Recovers 28% health for all allies.
+  - All enemies get -34% attack for 3 turns.
+  - All enemies get -34% defense for 3 turns.
   types:
-  - Healer
-  - Attack Debuff
-  - Defense Debuff
+  - Healer All
+  - Attack Debuff All
+  - Defense Debuff All
   image: https://i.imgur.com/BwPG5qR.jpg
 costume2:
   design: costume2
@@ -46,13 +46,13 @@ costume2:
   health: 1279
   skill: Blessed Tankard
   effects:
-  - Boosts health of all allies by 400. Boosted health can exceed max HP
-  - All allies get +30% defense for 3 turns
-  - All enemies get -34% attack for 3 turns
+  - Boosts health of all allies by 400. Boosted health can exceed max HP.
+  - All allies get +30% defense for 3 turns.
+  - All enemies get -34% attack for 3 turns.
   types:
-  - Healer
-  - Attack Debuff
-  - Defense Buff
+  - Boosted Heal All
+  - Defense Buff All
+  - Attack Debuff All
   image: https://i.imgur.com/s7WIRC3.jpg
 costume3:
   design: toon
@@ -65,14 +65,14 @@ costume3:
   skill: Toon Brew
   effects:
   - Recovers 31% health for all allies.
-  - All allies get 26% attack for 3 turns. This status effect is undispellable and
+  - All allies get +26% attack for 3 turns. This status effect is undispellable and
     lasts 2 turns longer on Ice characters.
-  - All allies get 26% defense for 3 turns. This status effect is undispellable and
+  - All allies get +26% defense for 3 turns. This status effect is undispellable and
     lasts 2 turns longer on Ice characters.
   types:
-  - Healer
-  - Attack Buff
-  - Defense Buff
+  - Healer All
+  - Attack Buff All
+  - Defense Buff All
   passives:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'

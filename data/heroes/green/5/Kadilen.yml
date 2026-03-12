@@ -1,3 +1,4 @@
+---
 name: Kadilen
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 766
 health: 1246
 skill: Eclipse Shield
 effects:
-  - Deals 190% damage to all enemies
-  - All allies get +74% defense against Special Skills for 3 turns
+- Deals 190% damage to all enemies
+- All allies get +74% defense against Special Skills for 3 turns
 types:
-  - Hit All
-  - Special Skill Defense Buff All
+- Hit All
+- SS Defense Buff All
 image: https://i.imgur.com/Gjh3PRB.jpg
 costume:
   design: costume1
@@ -25,12 +26,13 @@ costume:
   health: 1398
   skill: Crescent Shield
   effects:
-    - Deals 170% damage to all enemies.
-    - All allies get +45% chance to dodge special skills for 3 turns. Each dodge summons a thorn minion.
-    - Thorn minion has 15% HP and 15% attack inherited from the caster
+  - Deals 170% damage to all enemies.
+  - All allies get +45% chance to dodge special skills for 3 turns. Each dodge summons
+    a thorn minion.
+  - Thorn minion has 15% HP and 15% attack inherited from the caster.
   types:
-    - Hit All
-    - Minion Dodge Buff All
+  - Hit All
+  - SS Dodge Chance Buff All
   image: https://i.imgur.com/N7LZ2EP.jpg
 costume2:
   design: costume2
@@ -42,12 +44,13 @@ costume2:
   health: 1603
   skill: Lunar Shield
   effects:
-    - Deals 210% damage to all enemies.
-    - All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge summons an Empowered Thorn Minion.
-    - Empowered Thorn Minion has 25% HP and 25% attack inherited from the caster
+  - Deals 210% damage to all enemies.
+  - All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge summons
+    an Empowered Thorn Minion.
+  - Empowered Thorn Minion has 25% HP and 25% attack inherited from the caster.
   types:
-    - Hit All
-    - Minion Dodge Buff All
+  - Hit All
+  - SS Dodge Chance Buff All
   image: https://i.imgur.com/hEckaC5.jpg
 costume3:
   design: toon
@@ -59,15 +62,15 @@ costume3:
   health: 2118
   skill: Toon Shield
   effects:
-    - Deals 270% damage to all enemies.
-    - All allies get +64% defense against Special Skills for 3 turns.
-    - Deals extra damage against Ice.
+  - Deals 270% damage to all enemies.
+  - All allies get +64% defense against Special Skills for 3 turns.
+  - Deals extra damage against Ice.
   types:
-    - Hit All
-    - Special Skill Defense Buff All
+  - Hit All
+  - SS Defense Buff All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/I1ETLXX.jpg
 costume4:
   design: glass
@@ -79,14 +82,14 @@ costume4:
   health: 2210
   skill: Glass Shield
   effects:
-    - Deals 280% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All allies get +72% defense against Special Skills for 3 turns.
+  - Deals 280% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All allies get +72% defense against Special Skills for 3 turns.
   types:
-    - Hit All
-    - Bypass
-    - Special Skill Defense Buff All
+  - Hit All
+  - Bypass
+  - SS Defense Buff All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/DLZ7RRq.jpg
+...

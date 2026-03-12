@@ -1,3 +1,4 @@
+---
 name: Elena
 source: season1
 family: classic
@@ -9,11 +10,12 @@ defense: 578
 health: 1312
 skill: Wall of Swords
 effects:
-  - Deals 202% damage to all enemies.
-  - The caster and nearby allies counterattack with 125% of the damage received for 5 turns.
+- Deals 202% damage to all enemies.
+- The caster and nearby allies counterattack with 125% of the damage received for
+  5 turns.
 types:
-  - Hit All
-  - Counterattack
+- Hit All
+- Counterattack
 image: https://i.imgur.com/DJkMDg0.jpg
 costume:
   design: costume1
@@ -25,12 +27,13 @@ costume:
   health: 1494
   skill: Sword Barricade
   effects:
-    - Deals 172% damage to all enemies.
-    - The caster and nearby allies counterattack with 155% of the damage received for 5 turns.
+  - Deals 172% damage to all enemies.
+  - The caster and nearby allies counterattack with 155% of the damage received for
+    5 turns.
   types:
-    - Hit All
-    - Counterattack 3
-  image: https://i.imgur.com/rs8S0na.jpg 
+  - Hit All
+  - Counterattack 3
+  image: https://i.imgur.com/rs8S0na.jpg
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -41,11 +44,12 @@ costume2:
   health: 1660
   skill: Dreaded Swords
   effects:
-    - Deals 242% damage to all enemies.
-    - The caster and nearby allies counterattack with 115% of the damage received for 5 turns. The counterattack damage increases +10% each turn, up to 155%.
+  - Deals 242% damage to all enemies.
+  - The caster and nearby allies counterattack with 115% of the damage received for
+    5 turns. The counterattack damage increases +10% each turn, up to +155%.
   types:
-    - Hit All
-    - Counterattack 3
+  - Hit All
+  - Counterattack 3
   image: https://i.imgur.com/mKIsd5g.jpg
 costume3:
   design: toon
@@ -57,15 +61,16 @@ costume3:
   health: 2376
   skill: Wall of Toons
   effects:
-    - Deals 352% damage to all enemies.
-    - The caster and nearby allies counterattack with 120% of the damage received for 5 turns.
-    - Deals extra damage against Nature.
+  - Deals 352% damage to all enemies.
+  - The caster and nearby allies counterattack with 120% of the damage received for
+    5 turns.
+  - Deals extra damage against Nature.
   types:
-    - Hit All
-    - Counterattack 3
+  - Hit All
+  - Counterattack 3
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/6Zu6Ag7.jpg
 costume4:
   design: glass
@@ -77,14 +82,15 @@ costume4:
   health: 2499
   skill: Wall of Glass
   effects:
-    - Deals 362% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - The caster and nearby allies counterattack with 120% of the damage received for 5 turns.
+  - Deals 362% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The caster and nearby allies counterattack with 120% of the damage received for
+    5 turns.
   types:
-    - Hit All
-    - Bypass
-    - Counterattack 3
+  - Hit All
+  - Bypass
+  - Counterattack 3
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/ttrlvih.jpg
+...

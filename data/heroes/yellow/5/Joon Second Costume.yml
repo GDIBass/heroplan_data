@@ -1,3 +1,4 @@
+---
 name: Joon Second Costume
 is_costume: true
 design: costume2
@@ -11,11 +12,13 @@ defense: 736
 health: 1584
 skill: Stellar Beam
 effects:
-  - Deals 260% damage to target and nearby enemies.
-  - The target and nearby enemies receive 195 Burn damage over 3 turns.
-  - The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.
+- Deals 260% damage to target and nearby enemies.
+- The target and nearby enemies receive 195 Burn damage over 3 turns.
+- The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also
+  applies to offensive Special Skills.
 types:
-  - Hit 3
-  - Dot 3
-  - Blind 3
+- Hit 3
+- DoT 3
+- Blind 3
 image: https://i.imgur.com/rJxyTcK.jpg
+...

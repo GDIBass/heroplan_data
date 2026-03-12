@@ -1,3 +1,4 @@
+---
 name: Joon Glass Costume
 is_costume: true
 design: glass
@@ -11,14 +12,15 @@ defense: 1102
 health: 2356
 skill: Glass Beam
 effects:
-  - Deals 558% damage to the target.
-  - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - The target gets -38% accuracy for 6 turns. (Chance to miss also applies to offensive Special Skills.)
+- Deals 558% damage to the target.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- The target gets -38% accuracy for 6 turns. (Chance to miss also applies to offensive
+  Special Skills.)
 types:
-  - Hit 1
-  - Bypass
-  - Blind 1
+- Hit 1
+- Bypass
+- Blind 1
 passives:
-  - >-
-    Glass: 60% extra chance to reflect status ailments back to the attacker.
+- 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/7d9tXzA.jpg
+...

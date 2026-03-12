@@ -1,3 +1,4 @@
+---
 name: Quintus
 source: season1
 family: classic
@@ -9,9 +10,9 @@ defense: 636
 health: 1380
 skill: Thunder Ultimatum
 effects:
-  - Deals 270% damage to all enemies
+- Deals 270% damage to all enemies.
 types:
-  - Hit All
+- Hit All
 image: https://i.imgur.com/250UPh4.jpg
 costume:
   design: costume1
@@ -23,11 +24,11 @@ costume:
   health: 1472
   skill: Shock Ultimatum
   effects:
-    - Deals 235% damage to all enemies
-    - All enemies get -34% attack for 4 turns
+  - Deals 235% damage to all enemies.
+  - All enemies get -34% attack for 4 turns.
   types:
-    - Hit All
-    - Attack Debuff
+  - Hit All
+  - Attack Debuff All
   image: https://i.imgur.com/TBwlwOC.jpg
 costume2:
   design: costume2
@@ -39,11 +40,12 @@ costume2:
   health: 1686
   skill: Lightning Ultimatum
   effects:
-    - Deals 300% damage to the target and nearby enemies.
-    - The target and nearby enemies automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.
+  - Deals 300% damage to the target and nearby enemies.
+  - The target and nearby enemies automatically cast Mindless Attack on a random ally
+    when mana is full at the start of a turn during 4 turns.
   types:
-    - Hit All
-    - Mindless Attack
+  - Hit 3
+  - Mindless Attack 3
   image: https://i.imgur.com/BmY4xiU.jpg
 costume3:
   design: toon
@@ -55,13 +57,13 @@ costume3:
   health: 2356
   skill: Toon Ultimatum
   effects:
-    - Deals 420% damage to all enemies.
-    - Deals extra damage against Holy.
+  - Deals 420% damage to all enemies.
+  - Deals extra damage against Holy.
   types:
-    - Hit All
+  - Hit All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/ff1uvHj.jpg
 costume4:
   design: glass
@@ -73,12 +75,12 @@ costume4:
   health: 2456
   skill: Glass Ultimatum
   effects:
-    - Deals 430% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Deals 430% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
   types:
-    - Hit All
-    - Bypass
+  - Hit All
+  - Bypass
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/5v62w6I.jpg
+...

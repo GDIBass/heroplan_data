@@ -10,11 +10,11 @@ defense: 586
 health: 1000
 skill: Fog of the Fallen
 effects:
-- Recovers 42% health for all allies
-- Dispels buffs from all enemies
+- Recovers 42% health for all allies.
+- Dispels buffs from all enemies.
 types:
-- Healer
-- Dispeller
+- Healer All
+- Dispeller All
 image: https://i.imgur.com/3rwM4W7.jpg
 costume:
   design: costume1
@@ -26,13 +26,13 @@ costume:
   health: 1151
   skill: Fog of the Perished
   effects:
-  - All allies regenerate 609 HP over 3 turns
-  - All allies get +46% defense for 3 turns
-  - Dispels buffs from all enemies
+  - All allies regenerate 609 HP over 3 turns.
+  - All allies get +46% defense for 3 turns.
+  - Dispels buffs from all enemies.
   types:
-  - HOT
-  - Defense Buff
-  - Dispeller
+  - HoT ALl
+  - Defense Buff All
+  - Dispeller All
   image: https://i.imgur.com/5gxdGVM.jpg
 costume2:
   design: costume2
@@ -48,9 +48,9 @@ costume2:
   - All allies get +50% attack for 3 turns.
   - Dispels buffs from all enemies.
   types:
-  - Healer
-  - Attack Buff
-  - Dispeller
+  - HoT All
+  - Attack Buff All
+  - Dispeller All
   image: https://i.imgur.com/XVqcInX.jpg
 costume3:
   design: toon
@@ -63,13 +63,13 @@ costume3:
   skill: Toontastic Fog
   effects:
   - Recovers 45% health for all allies.
-  - All allies get 34% defense for 3 turns. For all Nature characters, this status
-    effect becomes undispellable and lasts 2 turns longer.
+  - All allies get +34% defense for 3 turns. This status effect is undispellable and
+    lasts 2 turns longer on Nature characters.
   - Dispels buffs from all enemies.
   types:
-  - Healer
-  - Defense Buff
-  - Dispeller
+  - Healer All
+  - Defense Buff All
+  - Dispeller All
   passives:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
@@ -92,7 +92,7 @@ costume4:
   - Healer All
   - Reflect Ailments for Nature Allies
   - Reflect Stacks for Nature Allies
-  - Dispeller
+  - Dispeller All
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/5Bt1nJk.jpg

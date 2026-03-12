@@ -10,11 +10,11 @@ defense: 712
 health: 1404
 skill: Magma Smash
 effects:
-- Deals 458% damage to the target
-- The target receives 300 damage over 6 turns
+- Deals 458% damage to the target.
+- The target receives 300 damage over 6 turns.
 types:
 - Hit 1
-- Dot 1
+- DoT 1
 image: https://i.imgur.com/H8u69R9.jpg
 costume:
   design: costume1
@@ -28,11 +28,11 @@ costume:
   effects:
   - Deals 358% damage to the target and minor damage to nearby enemies.
   - The target and nearby enemies get -54% defense against Fire for 3 turns.
-  - All Ice enemies get -34% attack for 3 turns
+  - All Ice enemies get -34% attack for 3 turns.
   types:
   - Hit 3
-  - Elemental Defense Debuff
-  - Elemental Attack Debuff
+  - Elemental Defense Debuff 3
+  - Attack Debuff All Ice
   image: https://i.imgur.com/E1sWcp1.jpg
 costume2:
   design: costume2
@@ -51,8 +51,8 @@ costume2:
     characters, this status effect becomes uncleansable, and lasts 2 turns longer.
   types:
   - Hit 3
-  - Defense Debuff
-  - DoT
+  - Defense Debuff 3
+  - DoT 3
   image: https://i.imgur.com/onSikNW.jpg
 costume3:
   design: toon
@@ -105,7 +105,7 @@ costume5:
   skill: Stylish Smash
   effects:
   - Deals 558% damage to the target.
-  - Deals 658% damage if the target has less than 50% health remaining.
+  - If the target has less than 50% health remaining, deals 658% damage instead.
   - The target receives 729 Burn damage over 3 turns.
   types:
   - Hit 1

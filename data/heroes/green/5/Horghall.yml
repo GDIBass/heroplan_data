@@ -1,3 +1,4 @@
+---
 name: Horghall
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 650
 health: 1545
 skill: Anger of the Forest
 effects:
-  - Deals 280% damage to all enemies
-  - All enemies get -34% attack for 6 turns
+- Deals 280% damage to all enemies.
+- All enemies get -34% attack for 6 turns.
 types:
-  - Hit All
-  - Attack Debuff All
+- Hit All
+- Attack Debuff All
 image: https://i.imgur.com/6787feX.jpg
 costume:
   design: costume1
@@ -25,11 +26,11 @@ costume:
   health: 1669
   skill: Anger of the Jester
   effects:
-    - Deals 250% damage to all enemies
-    - All enemies get -54% attack for 6 turns
+  - Deals 250% damage to all enemies.
+  - All enemies get -54% attack for 6 turns.
   types:
-    - Hit All
-    - Attack Debuff All
+  - Hit All
+  - Attack Debuff All
   image: https://i.imgur.com/AffGFoZ.jpg
 costume2:
   design: costume2
@@ -41,15 +42,16 @@ costume2:
   health: 1858
   skill: Anger of the Woods
   effects:
-    - Deals 260% damage to all enemies.
-    - All enemies get -31% attack, and a further 4% decrease any time they are hit during 4 turns.
-    - All enemies get -24% defense for 4 turns.
-    - All enemies receive 228 Poison damage over 4 turns.
+  - Deals 260% damage to all enemies.
+  - All enemies get -31% attack, and a further 4% decrease any time they are hit during
+    4 turns, down to -51% attack.
+  - All enemies get -24% defense for 4 turns.
+  - All enemies receive 228 Poison damage over 4 turns.
   types:
-    - Hit All
-    - Attack Debuff All
-    - Defense Debuff All
-    - Dot All
+  - Hit All
+  - Attack Debuff All
+  - Defense Debuff All
+  - DoT All
   image: https://i.imgur.com/IfQ1lHo.jpg
 costume3:
   design: toon
@@ -61,15 +63,15 @@ costume3:
   health: 2660
   skill: Anger of the Toons
   effects:
-    - Deals 430% damage to all enemies.
-    - All enemies get -24% attack for 6 turns.
-    - Deals extra damage against Ice.
+  - Deals 430% damage to all enemies.
+  - All enemies get -24% attack for 6 turns.
+  - Deals extra damage against Ice.
   types:
-    - Hit All
-    - Attack Debuff All
+  - Hit All
+  - Attack Debuff All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/VkOyyRt.jpg
 costume4:
   design: glass
@@ -81,14 +83,14 @@ costume4:
   health: 2782
   skill: Anger of Shards
   effects:
-    - Deals 440% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies get -29% attack for 6 turns.
+  - Deals 440% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies get -29% attack for 6 turns.
   types:
-    - Hit All
-    - Bypass
-    - Attack Debuff All
+  - Hit All
+  - Bypass
+  - Attack Debuff All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/VFeCPg6.jpg
+...

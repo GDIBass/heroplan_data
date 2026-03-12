@@ -15,7 +15,7 @@ effects:
 - Heals the caster for 75% of damage dealt.
 types:
 - Hit 1
-- Mana Reduction
+- Mana Reduction 1
 - Self Heal
 image: https://i.imgur.com/SPyWzYD.jpg
 costume:
@@ -33,6 +33,8 @@ costume:
   - All Dark enemies get -34% attack for 4 turns
   types:
   - Hit 3
+  - Elemental Defense Debuff 3
+  - Attack Debuff All Dark
   image: https://i.imgur.com/c7cvRg8.jpg
 costume2:
   design: costume2
@@ -50,8 +52,8 @@ costume2:
     effect becomes uncleansable lasts 2 turn longer.
   types:
   - Hit All
-  - Mana Reduction
-  - Defense Debuff
+  - Mana Reduction All
+  - Defense Debuff All
   image: https://i.imgur.com/6haP2Yz.jpg
 costume3:
   design: toon
@@ -69,7 +71,7 @@ costume3:
   - Deals extra damage against Dark.
   types:
   - Hit 1
-  - Mana reducer
+  - Mana reducer 1
   - Self heal
   passives:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
@@ -108,7 +110,7 @@ costume5:
   skill: Stylish Cleave
   effects:
   - Deals 585% damage to the target.
-  - Deals 730% damage if the target has less than 50% health remaining.
+  - If the target has less than 50% health remaining, deals 730% damage instead.
   - Reduces the mana of the target by 39%.
   - Heals the caster for 72% of damage dealt.
   types:

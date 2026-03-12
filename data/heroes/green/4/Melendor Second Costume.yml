@@ -16,8 +16,8 @@ effects:
 - All allies get +50% attack for 3 turns.
 - Dispels buffs from all enemies.
 types:
-- Healer
-- Attack Buff
-- Dispeller
+- HoT All
+- Attack Buff All
+- Dispeller All
 image: https://i.imgur.com/XVqcInX.jpg
 ...

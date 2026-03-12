@@ -1,3 +1,4 @@
+---
 name: Kadilen Toon Costume
 is_costume: true
 design: toon
@@ -11,13 +12,14 @@ defense: 1075
 health: 2118
 skill: Toon Shield
 effects:
-  - Deals 270% damage to all enemies.
-  - All allies get +64% defense against Special Skills for 3 turns.
-  - Deals extra damage against Ice.
+- Deals 270% damage to all enemies.
+- All allies get +64% defense against Special Skills for 3 turns.
+- Deals extra damage against Ice.
 types:
-  - Hit All
-  - Special Skill Defense Buff
+- Hit All
+- SS Defense Buff All
 passives:
-  - >-
-    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/I1ETLXX.jpg
+...

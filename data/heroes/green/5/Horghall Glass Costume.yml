@@ -1,3 +1,4 @@
+---
 name: Horghall Glass Costume
 is_costume: true
 design: glass
@@ -11,14 +12,14 @@ defense: 1218
 health: 2782
 skill: Anger of Shards
 effects:
-  - Deals 440% damage to all enemies.
-  - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - All enemies get -29% attack for 6 turns.
+- Deals 440% damage to all enemies.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- All enemies get -29% attack for 6 turns.
 types:
-  - Hit All
-  - Bypass
-  - Attack Debuff All
+- Hit All
+- Bypass
+- Attack Debuff All
 passives:
-  - >-
-    Glass: 60% extra chance to reflect status ailments back to the attacker.
+- 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/VFeCPg6.jpg
+...
