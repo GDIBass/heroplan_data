@@ -1,3 +1,4 @@
+---
 name: Tora
 source: ninja
 family: ninja
@@ -9,23 +10,27 @@ defense: 1102
 health: 1728
 skill: Hunt For Prey
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
-  - 'x1 Mana Charge:'
-  - ' - Deals 400% damage to the target.'
-  - ' - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 750% damage in total.'
-  - ' - The attack bypasses defensive buffs. (This include counterattacks)'
-  - 'x2 Mana Charge:'
-  - ' - Deals 425% damage to the target and nearby enemies.'
-  - ' - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 775% damage in total.'
-  - ' - The attack bypasses defensive buffs. (This include counterattacks)'
-  - 'x3 Mana Charge:'
-  - ' - Deals 450% damage to all enemies.'
-  - ' - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 800% damage in total.'
-  - ' - The attack bypasses defensive buffs. (This include counterattacks)'
+- 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+- 'x1 Mana Charge:'
+- ' - Deals 400% damage to the target.'
+- ' - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies
+  up to 750% damage in total.'
+- ' - The attack bypasses defensive buffs. (This include counterattacks)'
+- 'x2 Mana Charge:'
+- ' - Deals 425% damage to the target and nearby enemies.'
+- ' - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies
+  up to 775% damage in total.'
+- ' - The attack bypasses defensive buffs. (This include counterattacks)'
+- 'x3 Mana Charge:'
+- ' - Deals 450% damage to all enemies.'
+- ' - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies
+  up to 800% damage in total.'
+- ' - The attack bypasses defensive buffs. (This include counterattacks)'
 types:
-  - Charge Hit
-  - Bypass
+- Charge
+- Hit 1/3/All
+- Bypass
 passives:
-  - >-
-    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/SWoTRp0.jpg
+...

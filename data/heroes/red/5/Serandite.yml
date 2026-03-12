@@ -1,30 +1,32 @@
+---
 name: Serandite
-class: Barbarian
 source: ninja
 family: ninja
 speed: Charge
+class: Barbarian
 power: 867
 attack: 916
 defense: 788
 health: 1435
 skill: Burning Ashes
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
-  - 'x1 Mana Charge:'
-  - ' - Deals 160% damage to all enemies.'
-  - ' - All enemies receive 256 Burn damage over 2 turns.'
-  - ' - All enemies get -64% decrease of any healing received for 2 turns.'
-  - 'x2 Mana Charge:'
-  - ' - Deals 275% damage to all enemies.'
-  - ' - All enemies receive 561 Burn damage over 3 turns.'
-  - ' - All enemies get -74% decrease of any healing received for 3 turns.'
-  - 'x3 Mana Charge:'
-  - ' - Deals 340% damage to all enemies.'
-  - ' - All enemies receive 840 Burn damage over 4 turns.'
-  - ' - All enemies get -84% decrease of any healing received for 4 turns.'
+- 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+- 'x1 Mana Charge:'
+- ' - Deals 160% damage to all enemies.'
+- ' - All enemies receive 256 Burn damage over 2 turns.'
+- ' - All enemies get -64% decrease of any healing received for 2 turns.'
+- 'x2 Mana Charge:'
+- ' - Deals 275% damage to all enemies.'
+- ' - All enemies receive 561 Burn damage over 3 turns.'
+- ' - All enemies get -74% decrease of any healing received for 3 turns.'
+- 'x3 Mana Charge:'
+- ' - Deals 340% damage to all enemies.'
+- ' - All enemies receive 840 Burn damage over 4 turns.'
+- ' - All enemies get -84% decrease of any healing received for 4 turns.'
 types:
-  - Charge
-  - Hit All
-  - Dot All
-  - Healing Debuff All
+- Charge
+- Hit All
+- Dot All
+- Healing Debuff All
 image: https://i.imgur.com/3lmxyeL.jpg
+...

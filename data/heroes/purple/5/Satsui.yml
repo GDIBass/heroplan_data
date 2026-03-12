@@ -1,3 +1,4 @@
+---
 name: Satsui
 source: ninja
 family: ninja
@@ -9,26 +10,32 @@ defense: 1236
 health: 1833
 skill: Shade Cloak
 effects:
-  - 1x Mana Charge
-  - ' * Deals 400% damage to the target.'
-  - ' * The caster goes into hiding for 2 turns.'
-  - " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -30%."
-  - ' * When the caster comes out of hiding, they deal 330 damage to all enemies who used Special Skills while the caster was hiding.'
-  - 2x Mana Charge
-  - ' * Deals 425% damage to the target and nearby enemies.'
-  - ' * The caster goes into hiding for 2 turns.'
-  - " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -60%."
-  - ' * When the caster comes out of hiding, they deal 449 damage to all enemies who used Special Skills while the caster was hiding.'
-  - 3x Mana Charge
-  - ' * Deals 450% damage to all enemies.'
-  - ' * The caster goes into hiding for 2 turns.'
-  - " * While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -80%."
-  - ' * When the caster comes out of hiding, they deal 508 damage to all enemies who used Special Skills while the caster was hiding.'
+- 1x Mana Charge
+- ' * Deals 400% damage to the target.'
+- ' * The caster goes into hiding for 2 turns.'
+- ' * While hidden, the caster can''t receive new status effects or stacks, and all
+  received damage is reduced by -30%.'
+- ' * When the caster comes out of hiding, they deal 330 damage to all enemies who
+  used Special Skills while the caster was hiding.'
+- 2x Mana Charge
+- ' * Deals 425% damage to the target and nearby enemies.'
+- ' * The caster goes into hiding for 2 turns.'
+- ' * While hidden, the caster can''t receive new status effects or stacks, and all
+  received damage is reduced by -60%.'
+- ' * When the caster comes out of hiding, they deal 449 damage to all enemies who
+  used Special Skills while the caster was hiding.'
+- 3x Mana Charge
+- ' * Deals 450% damage to all enemies.'
+- ' * The caster goes into hiding for 2 turns.'
+- ' * While hidden, the caster can''t receive new status effects or stacks, and all
+  received damage is reduced by -80%.'
+- ' * When the caster comes out of hiding, they deal 508 damage to all enemies who
+  used Special Skills while the caster was hiding.'
 types:
-  - Charge
-  - Hit
-  - Hide
+- Charge
+- Hit 1/3/All
+- Hide
 passives:
-  - >-
-    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/xzr9Szx.jpg
+...

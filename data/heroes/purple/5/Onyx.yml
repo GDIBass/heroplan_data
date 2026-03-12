@@ -1,3 +1,4 @@
+---
 name: Onyx
 source: ninja
 family: ninja
@@ -9,20 +10,22 @@ defense: 706
 health: 1392
 skill: Crippling Claws
 effects:
-  - 1x Mana Charge
-  - '* Deals 300% damage to the target.'
-  - '* The target is immune to new status effects buffs for 3 turns.'
-  - '* Dispels buffs from the target.'
-  - 2x Mana Charge
-  - '* Deals 340% damage to the target and nearby enemies.'
-  - '* The target and nearby enemies are immune to new status effects buffs for 4 turns.'
-  - '* Dispels buffs from the target and nearby enemies.'
-  - 3x Mana Charge
-  - '* Deals 380% damage to all enemies.'
-  - '* All enemies are immune to new status effects buffs for 5 turns.'
-  - '* Dispels buffs from all enemies.'
+- 1x Mana Charge
+- ' * Deals 300% damage to the target.'
+- ' * The target is immune to new status effects buffs for 3 turns.'
+- ' * Dispels buffs from the target.'
+- 2x Mana Charge
+- ' * Deals 340% damage to the target and nearby enemies.'
+- ' * The target and nearby enemies are immune to new status effects buffs for 4 turns.'
+- ' * Dispels buffs from the target and nearby enemies.'
+- 3x Mana Charge
+- ' * Deals 380% damage to all enemies.'
+- ' * All enemies are immune to new status effects buffs for 5 turns.'
+- ' * Dispels buffs from all enemies.'
 types:
-  - Charger
-  - Hit All
-  - Dispeller
+- Charge
+- Hit 1/3/All
+- Buff Immunity 1/3/All
+- Dispeller 1/3/All
 image: https://i.imgur.com/r2WPn3d.jpg
+...

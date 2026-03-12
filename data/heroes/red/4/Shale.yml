@@ -1,3 +1,4 @@
+---
 name: Shale
 source: ninja
 family: ninja
@@ -9,17 +10,18 @@ defense: 626
 health: 1423
 skill: Channel Ki
 effects:
-  - 1x Mana Charge
-  - '* The caster regenerates 411 HP over 3 turns'
-  - '* Cleanses status ailments from the caster'
-  - 2x Mana Charge
-  - '* The caster and nearby allies regenerate 549 HP over 3 turns'
-  - '* Cleanses status ailments from the caster and nearby allies'
-  - 3x Mana Charge
-  - '* All allies regenerate 714 HP over 3 turns'
-  - '* Cleanses status ailments from all allies'
+- 1x Mana Charge
+- ' * The caster regenerates 411 HP over 3 turns.'
+- ' * Cleanses status ailments from the caster.'
+- 2x Mana Charge
+- ' * The caster and nearby allies regenerate 549 HP over 3 turns.'
+- ' * Cleanses status ailments from the caster and nearby allies.'
+- 3x Mana Charge
+- ' * All allies regenerate 714 HP over 3 turns.'
+- ' * Cleanses status ailments from all allies.'
 types:
-  - Charge
-  - Hot Self/3/All
-  - Cleanser Self/3/All
+- Charge
+- HoT Self/3/All
+- Cleanser Self/3/All
 image: https://i.imgur.com/MtPyEOT.jpg
+...
