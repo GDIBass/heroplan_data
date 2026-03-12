@@ -1,3 +1,4 @@
+---
 name: Magni Second Costume
 is_costume: true
 design: costume2
@@ -11,9 +12,10 @@ defense: 738
 health: 1630
 skill: Strike of the Underworld
 effects:
-  - Deals 285% damage to target and nearby enemies.
-  - The target and nearby enemies get -64% defense against Special Skills for 4 turns.
+- Deals 285% damage to target and nearby enemies.
+- The target and nearby enemies get -64% defense against Special Skills for 4 turns.
 types:
-  - Hit 3
-  - Defense Debuff
+- Hit 3
+- Defense Debuff 3
 image: https://i.imgur.com/npmSFHz.jpg
+...
