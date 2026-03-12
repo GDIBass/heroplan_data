@@ -1,3 +1,4 @@
+---
 name: Xnolphod
 source: season4
 family: underwild
@@ -9,19 +10,21 @@ defense: 793
 health: 1380
 skill: Ancient Enchantment
 effects:
-  - Recovers 40% health for all allies.
-  - Increases the mana of all allies by 10%.
-  - Alters the power of all Dark shields on the boards. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
+- Recovers 40% health for all allies.
+- Increases the mana of all allies by 10%.
+- Alters the power of all Dark shields on the boards. When an attacking Hero casts
+  the special, the shields become enhanced and give +37% more mana. When a defending
+  Hero casts the special, the shields become weakened and give -30% less mana.
 types:
-  - Heal All
-  - Mana Increase
-  - Board Alterer
+- Heal All
+- Mana Increase All
+- Board Alterer
 passives:
-  - >-
-    Decrease Ailment Duration: Duration of the first 3 status ailments this
-    character receives from Special Skill is decreased by 1 turn.
+- 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
+  receives from Special Skills is decreased by 1 turn.'
 image: https://i.imgur.com/RF7rniv.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 1024
@@ -30,16 +33,19 @@ costume:
   health: 1776
   skill: Entrapping Enchantment
   effects:
-    - All allies regenerate 1060 HP over 4 turns.
-    - All allies receive a small amount of mana over 4 turns.
-    - Alters the power of all Dark Shields on the board. When an attacking Hero casts the special, the enhanced shields give 37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
+  - All allies regenerate 1060 HP over 4 turns.
+  - All allies receive a small amount of mana over 4 turns.
+  - Alters the power of all Dark Shields on the board. When an attacking Hero casts
+    the special, the enhanced shields give 37% more mana. When a defending Hero casts
+    the special, the shields become weakened and give -30% less mana.
   types:
-    - HoT
-    - Mana over time
-    - Board Alterer
+  - HoT All
+  - MoT All
+  - Board Alterer
   passives:
-    - >-
-      Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
-    - >-
-      Health Boost on Special Skill: On Special Skill cast, boosts all allies' HP by 10%.
+  - 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
+    receives from Special Skills is decreased by 1 turn.'
+  - 'Health Boost on Special Skill: On Special Skill cast, boosts all allies'' HP
+    by 10%.'
   image: https://i.imgur.com/s1HpuGG.jpg
+...

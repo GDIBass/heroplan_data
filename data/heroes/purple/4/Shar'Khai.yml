@@ -1,3 +1,4 @@
+---
 name: Shar'Khai
 source: untoldtales
 family: nightmaresofatlantis
@@ -9,23 +10,30 @@ defense: 705
 health: 1279
 skill: Critical Tactics
 effects:
-  - 'Special Skill need consecutive uses to reach full power, the following order:'
-  - '1st:'
-  - ' * All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.'
-  - ' * All allies get +20% critical chance for 5 turns.'
-  - '2nd:'
-  - ' * All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.'
-  - ' * All allies get +35% critical chance for 5 turns.'
+- 'Special Skill need consecutive uses to reach full power, the following order:'
+- '1st:'
+- ' * All allies get +80% normal attack for 5 turns. The normal attack is increased
+  by 20% each turn. This effect can be active in addition to effects that alter attack
+  in general. Normal attacks can have a total maximum of +160% increased power while
+  this effect is active.'
+- ' * All allies get +20% critical chance for 5 turns.'
+- '2nd:'
+- ' * All allies get +80% normal attack for 5 turns. The normal attack is increased
+  by 20% each turn. This effect can be active in addition to effects that alter attack
+  in general. Normal attacks can have a total maximum of +160% increased power while
+  this effect is active.'
+- ' * All allies get +35% critical chance for 5 turns.'
 types:
-  - Titan Attack Buff
-  - Crit Buff
+- Titan Attack Buff All
+- Critical Chance Buff All
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 80% damage to all enemies.'
-  - ' * The caster gets +19% mana generation for 2 turns.'
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 80% damage to all enemies.'
+- ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/pCqXNHO.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
   power: 704
@@ -34,21 +42,27 @@ costume:
   health: 1285
   skill: Critical Cookout
   effects:
-    - 'Special Skill need consecutive uses to reach full power, the following order:'
-    - '1st:'
-    - ' * All allies get +70% normal attack for 5 turns. The normal attack is increased by 15% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +130% increased power while this effect is active.'
-    - ' * All allies get +15% critical chance for 5 turns.'
-    - '2nd:'
-    - ' * All allies get +90% normal attack for 5 turns. The normal attack is increased by 25% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +190% increased power while this effect is active.'
-    - ' * All allies get +40% critical chance for 5 turns.'
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * All allies get +70% normal attack for 5 turns. The normal attack is increased
+    by 15% each turn. This effect can be active in addition to effects that alter
+    attack in general. Normal attacks can have a total maximum of +130% increased
+    power while this effect is active.'
+  - ' * All allies get +15% critical chance for 5 turns.'
+  - '2nd:'
+  - ' * All allies get +90% normal attack for 5 turns. The normal attack is increased
+    by 25% each turn. This effect can be active in addition to effects that alter
+    attack in general. Normal attacks can have a total maximum of +190% increased
+    power while this effect is active.'
+  - ' * All allies get +40% critical chance for 5 turns.'
   types:
-    - Titan Attack Buff
-    - Crit Buff
+  - Titan Attack Buff All
+  - Critical Chance Buff All
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 80% damage to all enemies.'
-    - ' * The caster gets +19% mana generation for 2 turns.'
-    - >-
-      Resist Insanity: This character has an innate resistance against Insanity.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 80% damage to all enemies.'
+  - ' * The caster gets +19% mana generation for 2 turns.'
+  - 'Resist Insanity: This character has an innate resistance against Insanity.'
   image: https://i.imgur.com/ER0xDRX.jpg
+...
