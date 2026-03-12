@@ -1,3 +1,4 @@
+---
 name: Melendor
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 586
 health: 1000
 skill: Fog of the Fallen
 effects:
-  - Recovers 42% health for all allies
-  - Dispels buffs from all enemies
+- Recovers 42% health for all allies
+- Dispels buffs from all enemies
 types:
-  - Healer
-  - Dispeller
+- Healer
+- Dispeller
 image: https://i.imgur.com/3rwM4W7.jpg
 costume:
   design: costume1
@@ -25,13 +26,13 @@ costume:
   health: 1151
   skill: Fog of the Perished
   effects:
-    - All allies regenerate 609 HP over 3 turns
-    - All allies get +46% defense for 3 turns
-    - Dispels buffs from all enemies
+  - All allies regenerate 609 HP over 3 turns
+  - All allies get +46% defense for 3 turns
+  - Dispels buffs from all enemies
   types:
-    - HOT
-    - Defense Buff
-    - Dispeller
+  - HOT
+  - Defense Buff
+  - Dispeller
   image: https://i.imgur.com/5gxdGVM.jpg
 costume2:
   design: costume2
@@ -43,13 +44,13 @@ costume2:
   health: 1231
   skill: Fog of the Smoke Machine
   effects:
-    - All allies regenerate 609 HP over 3 turns.
-    - All allies get +50% attack for 3 turns.
-    - Dispels buffs from all enemies.
+  - All allies regenerate 609 HP over 3 turns.
+  - All allies get +50% attack for 3 turns.
+  - Dispels buffs from all enemies.
   types:
-    - Healer
-    - Attack Buff
-    - Dispeller
+  - Healer
+  - Attack Buff
+  - Dispeller
   image: https://i.imgur.com/XVqcInX.jpg
 costume3:
   design: toon
@@ -61,15 +62,17 @@ costume3:
   health: 1233
   skill: Toontastic Fog
   effects:
-    - Recovers 45% health for all allies.
-    - All allies get 34% defense for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
-    - Dispels buffs from all enemies.
+  - Recovers 45% health for all allies.
+  - All allies get 34% defense for 3 turns. For all Nature characters, this status
+    effect becomes undispellable and lasts 2 turns longer.
+  - Dispels buffs from all enemies.
   types:
-    - Healer
-    - Defense Buff
-    - Dispeller
+  - Healer
+  - Defense Buff
+  - Dispeller
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/3swBEW4.jpg
 costume4:
   design: glass
@@ -81,15 +84,36 @@ costume4:
   health: 1264
   skill: Fog of the Vitrails
   effects:
-    - Recovers 46% health for all allies.
-    - All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
-    - Dispels buffs from all enemies.
+  - Recovers 46% health for all allies.
+  - All Nature allies reflect status ailments and negative stacks for 2 turns. (Status
+    effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - Dispels buffs from all enemies.
   types:
-    - Healer All
-    - Reflect Ailments for Nature Allies
-    - Reflect Stacks for Nature Allies
-    - Dispeller
+  - Healer All
+  - Reflect Ailments for Nature Allies
+  - Reflect Stacks for Nature Allies
+  - Dispeller
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/5Bt1nJk.jpg
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: Druid
+  power: 809
+  attack: 884
+  defense: 820
+  health: 1322
+  skill: Fog of the Stylish
+  effects:
+  - Recovers 54% health for the ally with the lowest remaining HP. All other allies
+    recover 47% health.
+  - Dispels buffs from all enemies.
+  types:
+  - Healer All
+  - Dispeller All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/2xZL7uT.jpg
+...
