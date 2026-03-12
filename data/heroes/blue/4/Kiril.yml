@@ -1,3 +1,4 @@
+---
 name: Kiril
 source: season1
 family: classic
@@ -9,13 +10,13 @@ defense: 673
 health: 1034
 skill: Blessed Brew
 effects:
-  - Recovers 28% health for all allies
-  - All allies get +30% attack for 3 turns
-  - All allies get +30% defense for 3 turns
+- Recovers 28% health for all allies
+- All allies get +30% attack for 3 turns
+- All allies get +30% defense for 3 turns
 types:
-  - Healer
-  - Attack Buff
-  - Defense Buff
+- Healer
+- Attack Buff
+- Defense Buff
 image: https://i.imgur.com/OnjIJvT.jpg
 costume:
   design: costume1
@@ -27,13 +28,13 @@ costume:
   health: 1153
   skill: Blessed Solo
   effects:
-    - Recovers 28% health for all allies
-    - All enemies get -34% attack for 3 turns
-    - All enemies get -34% defense for 3 turns
+  - Recovers 28% health for all allies
+  - All enemies get -34% attack for 3 turns
+  - All enemies get -34% defense for 3 turns
   types:
-    - Healer
-    - Attack Debuff
-    - Defense Debuff
+  - Healer
+  - Attack Debuff
+  - Defense Debuff
   image: https://i.imgur.com/BwPG5qR.jpg
 costume2:
   design: costume2
@@ -45,13 +46,13 @@ costume2:
   health: 1279
   skill: Blessed Tankard
   effects:
-    - Boosts health of all allies by 400. Boosted health can exceed max HP
-    - All allies get +30% defense for 3 turns
-    - All enemies get -34% attack for 3 turns
+  - Boosts health of all allies by 400. Boosted health can exceed max HP
+  - All allies get +30% defense for 3 turns
+  - All enemies get -34% attack for 3 turns
   types:
-    - Healer
-    - Attack Debuff
-    - Defense Buff
+  - Healer
+  - Attack Debuff
+  - Defense Buff
   image: https://i.imgur.com/s7WIRC3.jpg
 costume3:
   design: toon
@@ -63,15 +64,18 @@ costume3:
   health: 1272
   skill: Toon Brew
   effects:
-    - Recovers 31% health for all allies.
-    - All allies get 26% attack for 3 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
-    - All allies get 26% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+  - Recovers 31% health for all allies.
+  - All allies get 26% attack for 3 turns. This status effect is undispellable and
+    lasts 2 turns longer on Ice characters.
+  - All allies get 26% defense for 3 turns. This status effect is undispellable and
+    lasts 2 turns longer on Ice characters.
   types:
-    - Healer
-    - Attack Buff
-    - Defense Buff
+  - Healer
+  - Attack Buff
+  - Defense Buff
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/PWTfo2c.jpg
 costume4:
   design: glass
@@ -83,17 +87,40 @@ costume4:
   health: 1328
   skill: Glass Brew
   effects:
-    - Recovers 32% health for all allies.
-    - All allies get +28% attack for 3 turns.
-    - All allies get +28% defense for 3 turns.
-    - All Ice allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - Recovers 32% health for all allies.
+  - All allies get +28% attack for 3 turns.
+  - All allies get +28% defense for 3 turns.
+  - All Ice allies reflect status ailments and negative stacks for 2 turns. (Status
+    effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
   types:
-    - Healer All
-    - Attack Buff All
-    - Defense Buff All
-    - Reflect Ailments for Ice Allies
-    - Reflect Stacks for Ice Allies
+  - Healer All
+  - Attack Buff All
+  - Defense Buff All
+  - Reflect Ailments for Ice Allies
+  - Reflect Stacks for Ice Allies
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/gArugbH.jpg
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: Wizard
+  power: 818
+  attack: 822
+  defense: 899
+  health: 1388
+  skill: Stylish Appetizer
+  effects:
+  - Recovers 40% health for the ally with the lowest remaining HP. All other allies
+    recover 33% health.
+  - All allies get +29% attack for 3 turns.
+  - All allies get +29% defense for 3 turns.
+  types:
+  - Healer All
+  - Attack Buff All
+  - Defense Buff All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/2F6uZCQ.jpg
+...
