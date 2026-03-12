@@ -1,3 +1,4 @@
+---
 name: Colen Second Costume
 is_costume: true
 design: costume2
@@ -11,10 +12,11 @@ defense: 625
 health: 1315
 skill: Flame Storm
 effects:
-  - Deals 285% damage to the target and nearby enemies.
-  - The target and nearby enemies get -54% defense against Fire for 6 turns.
-  - Deals extra damage against Nature.
+- Deals 285% damage to the target and nearby enemies.
+- The target and nearby enemies get -54% defense against Fire for 6 turns.
+- Deals extra damage against Nature.
 types:
-  - Hit 3
-  - Elemental Defense Debuff 3
+- Hit 3
+- Elemental Defense Debuff 3
 image: https://i.imgur.com/2DIxTGe.jpg
+...

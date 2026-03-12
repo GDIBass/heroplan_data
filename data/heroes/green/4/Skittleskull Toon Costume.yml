@@ -1,3 +1,4 @@
+---
 name: Skittleskull Toon Costume
 is_costume: true
 design: toon
@@ -11,12 +12,14 @@ defense: 705
 health: 1207
 skill: Toon Vines
 effects:
-  - Deals 215% damage to all enemies.
-  - All enemies get -24% attack for 6 turns.
-  - Deals extra damage against Ice.
+- Deals 215% damage to all enemies.
+- All enemies get -24% attack for 6 turns.
+- Deals extra damage against Ice.
 types:
-  - Hit All
-  - Attack Debuff All
+- Hit All
+- Attack Debuff All
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/DQzJaMV.jpg
+...

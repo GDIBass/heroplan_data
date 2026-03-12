@@ -1,3 +1,4 @@
+---
 name: Sabina Glass Costume
 is_costume: true
 design: glass
@@ -11,14 +12,15 @@ defense: 780
 health: 1148
 skill: Fog of the Vitrails
 effects:
-  - Recovers 46% health for all allies.
-  - All Dark allies reflect status ailments and negative stacks for 2 turns.
-  - Dispels buffs from all enemies.
+- Recovers 46% health for all allies.
+- All Dark allies reflect status ailments and negative stacks for 2 turns.
+- Dispels buffs from all enemies.
 types:
-  - Heal All
-  - Debuff Reflect for Dark Allies
-  - Dispeller
+- Heal All
+- Reflect Ailments for Dark Allies
+- Reflect Stacks for Dark Allies
+- Dispeller All
 passives:
-  - >-
-    Glass: 60% extra chance to reflect status ailments back to the attacker.
+- 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/4SC7QDU.jpg
+...

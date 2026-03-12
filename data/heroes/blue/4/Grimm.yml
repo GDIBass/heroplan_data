@@ -1,3 +1,4 @@
+---
 name: Grimm
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 531
 health: 1132
 skill: Ramming Pulverizer
 effects:
-  - Deals 295% damage to the target and minor damage to nearby enemies.
-  - The target and nearby enemies get -34% defense for 6 turns.
+- Deals 295% damage to the target and minor damage to nearby enemies.
+- The target and nearby enemies get -34% defense for 6 turns.
 types:
-  - Hit 3
-  - Defense Debuff 3
+- Hit 3
+- Defense Debuff 3
 image: https://i.imgur.com/Mx4BDfE.jpg
 costume:
   design: costume1
@@ -25,11 +26,11 @@ costume:
   health: 1278
   skill: Merciless Pulverizer
   effects:
-    - Deals 295% damage to the target and minor damage to nearby enemies.
-    - The caster and nearby allies get +50% attack for 6 turns.
+  - Deals 295% damage to the target and minor damage to nearby enemies.
+  - The caster and nearby allies get +50% attack for 6 turns.
   types:
-    - Hit 3
-    - Attack Buff 3
+  - Hit 3
+  - Attack Buff 3
   image: https://i.imgur.com/Z9LP9Ei.jpg
 costume2:
   design: costume2
@@ -41,10 +42,12 @@ costume2:
   health: 1328
   skill: Postal Pulverizer
   effects:
-    - Deals 295% damage to the target and minor damage to nearby enemies.
-    - The caster and nearby allies Special Skill deal an additional +40% damage for 6 turns.
+  - Deals 295% damage to the target and minor damage to nearby enemies.
+  - The caster and nearby allies' Special Skill deal an additional +40% damage for
+    6 turns.
   types:
-    - Hit 3
+  - Hit 3
+  - SS Damage Buff 3
   image: https://i.imgur.com/cDO5QOd.jpg
 costume3:
   design: toon
@@ -56,15 +59,15 @@ costume3:
   health: 1381
   skill: Toonpower Pulverizer
   effects:
-    - Deals 325% damage to the target and minor damage to nearby enemies.
-    - The target and nearby enemies get -28% defense for 6 turns.
-    - Deals extra damage against Fire.
+  - Deals 325% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -28% defense for 6 turns.
+  - Deals extra damage against Fire.
   types:
-    - Hit 3
-    - Defense Debuff 3
+  - Hit 3
+  - Defense Debuff 3
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/3MLw0k0.jpg
 costume4:
   design: glass
@@ -76,15 +79,15 @@ costume4:
   health: 1412
   skill: Glass Pulverizer
   effects:
-    - Deals 335% damage to the target and minor damage to nearby enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - The target and nearby enemies get -30% defense for 6 turns.
+  - Deals 335% damage to the target and minor damage to nearby enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target and nearby enemies get -30% defense for 6 turns.
   types:
-    - Hit 3
-    - Defense Debuff 3
+  - Hit 3
+  - Bypass
+  - Defense Debuff 3
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/STrSTFP.jpg
 costume5:
   design: stylish
@@ -96,13 +99,14 @@ costume5:
   health: 1488
   skill: Stylish Pulverizer
   effects:
-    - Deals 345% damage to the target and minor damage to nearby enemies.
-    - Deals extra damage to enemies with less than 50% health recovering.
-    - The target and nearby enemies get -32% defense for 6 turns.
+  - Deals 345% damage to the target and minor damage to nearby enemies.
+  - Deals extra damage to enemies with less than 50% health remaining.
+  - The target and nearby enemies get -32% defense for 6 turns.
   types:
-    - Hit 3
-    - Defense Debuff 3
+  - Hit 3
+  - Defense Debuff 3
   passives:
-    - >-
-      Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
   image: https://imgur.com/570BQPZ.jpg
+...

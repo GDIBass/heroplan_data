@@ -1,3 +1,4 @@
+---
 name: Sabina
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 578
 health: 1060
 skill: Fog of the Fallen
 effects:
-  - Recovers 42% health for all allies
-  - Dispels buffs from all enemies
+- Recovers 42% health for all allies.
+- Dispels buffs from all enemies.
 types:
-  - Healer
-  - Dispeller
+- Healer All
+- Dispeller All
 image: https://i.imgur.com/G6mmZNN.jpg
 costume:
   design: costume1
@@ -25,13 +26,13 @@ costume:
   health: 1074
   skill: Haze of the Fallen
   effects:
-    - All allies regenerate 609 HP over 3 turns
-    - All enemies are immune to new buffs for 3 turns
-    - Dispels buffs from all enemies
+  - All allies regenerate 609 HP over 3 turns.
+  - All enemies are immune to new buffs for 3 turns.
+  - Dispels buffs from all enemies.
   types:
-    - HOT All
-    - Buff immunity All
-    - Dispeller All
+  - HoT All
+  - Buff Immunity All
+  - Dispeller All
   image: https://i.imgur.com/flsZEGB.jpg
 costume2:
   design: costume2
@@ -43,13 +44,13 @@ costume2:
   health: 1144
   skill: Mist of the Fallen
   effects:
-    - All allies regenerate 609 HP over 3 turns.
-    - All allies are immune to new status ailments for 3 turns.
-    - Cleanses ailment from all allies.
+  - All allies regenerate 609 HP over 3 turns.
+  - All allies are immune to new status ailments for 3 turns.
+  - Cleanses ailment from all allies.
   types:
-    - HoT All
-    - Status Ailment Immunity All
-    - Cleanser
+  - HoT All
+  - Status Ailment Immunity All
+  - Cleanser All
   image: https://i.imgur.com/EBmu86N.jpg
 costume3:
   design: toon
@@ -61,16 +62,17 @@ costume3:
   health: 1134
   skill: Fog of the Toons
   effects:
-    - Recovers 45% health for all allies.
-    - All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
-    - Dispels buffs from all enemies.
+  - Recovers 45% health for all allies.
+  - All allies get +34% defense for 3 turns. This status effect is undispellable and
+    lasts 2 turns longer on Dark characters.
+  - Dispels buffs from all enemies.
   types:
-    - Heal All
-    - Defense Buff All
-    - Dispeller
+  - Heal All
+  - Defense Buff All
+  - Dispeller All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/8kaUg4T.jpg
 costume4:
   design: glass
@@ -82,14 +84,15 @@ costume4:
   health: 1148
   skill: Fog of the Vitrails
   effects:
-    - Recovers 46% health for all allies.
-    - All Dark allies reflect status ailments and negative stacks for 2 turns.
-    - Dispels buffs from all enemies.
+  - Recovers 46% health for all allies.
+  - All Dark allies reflect status ailments and negative stacks for 2 turns.
+  - Dispels buffs from all enemies.
   types:
-    - Heal All
-    - Debuff Reflect for Dark Allies
-    - Dispeller
+  - Heal All
+  - Reflect Ailments for Dark Allies
+  - Reflect Stacks for Dark Allies
+  - Dispeller All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/4SC7QDU.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Sonya Second Costume
 is_costume: true
 design: costume2
@@ -11,9 +12,10 @@ defense: 708
 health: 1179
 skill: Wrenching Strike
 effects:
-  - Deals 345% damage to the target.
-  - All enemies are immune to new status effect buffs for 2 turns.
+- Deals 345% damage to the target.
+- All enemies are immune to new status effect buffs for 2 turns.
 types:
-  - Hit 1
-  - Buff Imunity All
+- Hit 1
+- Buff Immunity Debuff All
 image: https://i.imgur.com/9fhb23h.jpg
+...

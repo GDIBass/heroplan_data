@@ -1,3 +1,4 @@
+---
 name: Gormek Second Costume
 is_costume: true
 design: costume2
@@ -11,9 +12,10 @@ defense: 630
 health: 1555
 skill: Pulverizing Ham
 effects:
-  - Dispels buffs from all enemies.
-  - Deals 225% damage to all enemies.
+- Dispels buffs from all enemies
+- Deals 225% damage to all enemies
 types:
-  - Dispeller All
-  - Hit all
+- Dispeller All
+- Hit All
 image: https://i.imgur.com/6XbZQ2N.jpg
+...

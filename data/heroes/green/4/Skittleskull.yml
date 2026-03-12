@@ -1,3 +1,4 @@
+---
 name: Skittleskull
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 605
 health: 969
 skill: Creeping Vines
 effects:
-  - Deals 185% damage to all enemies
-  - All enemies get -34% attack for 6 turns
+- Deals 185% damage to all enemies.
+- All enemies get -34% attack for 6 turns.
 types:
-  - Hit All
-  - Attack Debuff All
+- Hit All
+- Attack Debuff All
 image: https://i.imgur.com/6Oucdm4.jpg
 costume:
   design: costume1
@@ -25,11 +26,11 @@ costume:
   health: 1035
   skill: Candy Vines
   effects:
-    - Deals 175% damage to all enemies
-    - All enemies get -39% attack for 6 turns
+  - Deals 175% damage to all enemies.
+  - All enemies get -39% attack for 6 turns.
   types:
-    - Hit All
-    - Attack Debuff All
+  - Hit All
+  - Attack Debuff All
   image: https://i.imgur.com/9DvgVYg.jpg
 costume2:
   design: costume2
@@ -41,11 +42,11 @@ costume2:
   health: 1154
   skill: Crawling Vines
   effects:
-    - Deals 195% damage to all enemies.
-    - All enemies get -34% defense for 6 turns.
+  - Deals 195% damage to all enemies.
+  - All enemies get -34% defense for 6 turns.
   types:
-    - Hit All
-    - Defense Debuff All
+  - Hit All
+  - Defense Debuff All
   image: https://i.imgur.com/EIvqBU6.jpg
 costume3:
   design: toon
@@ -57,14 +58,15 @@ costume3:
   health: 1207
   skill: Toon Vines
   effects:
-    - Deals 215% damage to all enemies.
-    - All enemies get -24% attack for 6 turns.
-    - Deals extra damage against Ice.
+  - Deals 215% damage to all enemies.
+  - All enemies get -24% attack for 6 turns.
+  - Deals extra damage against Ice.
   types:
-    - Hit All
-    - Attack Debuff All
+  - Hit All
+  - Attack Debuff All
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/DQzJaMV.jpg
 costume4:
   design: glass
@@ -76,14 +78,14 @@ costume4:
   health: 1201
   skill: Glass Vines
   effects:
-    - Deals 225% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies get -30% attack for 6 turns.
+  - Deals 225% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies get -30% attack for 6 turns.
   types:
-    - Hit All
-    - Bypass
-    - Attack Debuff All
+  - Hit All
+  - Bypass
+  - Attack Debuff All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/qCkUNrw.jpg
+...

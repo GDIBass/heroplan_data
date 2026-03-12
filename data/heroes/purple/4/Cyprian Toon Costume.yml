@@ -1,3 +1,4 @@
+---
 name: Cyprian Toon Costume
 is_costume: true
 design: toon
@@ -11,9 +12,12 @@ defense: 703
 health: 1687
 skill: Toontastic Riposte
 effects:
-  - The caster and nearby allies counterattack with 125% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
+- The caster and nearby allies counterattack with 125% of the damage received for
+  5 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
 types:
-  - Counterattack 3
+- Counterattack 3
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/NlALPlg.jpg
+...

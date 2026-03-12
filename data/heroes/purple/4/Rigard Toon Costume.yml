@@ -1,3 +1,4 @@
+---
 name: Rigard Toon Costume
 is_costume: true
 design: toon
@@ -11,14 +12,16 @@ defense: 730
 health: 1274
 skill: Toonification
 effects:
-  - Recovers 45% health for all allies.
-  - All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
-  - Cleanses status ailments from all allies.
+- Recovers 45% health for all allies.
+- All allies get +34% defense for 3 turns. This status effect is undispellable and
+  lasts 2 turns longer on Dark characters.
+- Cleanses status ailments from all allies.
 types:
-  - Heal All
-  - Defense Buff All
-  - Cleanser
+- Heal All
+- Defense Buff All
+- Cleanser
 passives:
-  - >-
-    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/rCKWMnx.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Little John
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 569
 health: 988
 skill: Massive Chop
 effects:
-  - Deals 185% damage to all enemies.
-  - All enemies get -64% mana generation for 3 turns.
+- Deals 185% damage to all enemies.
+- All enemies get -64% mana generation for 3 turns.
 types:
-  - Hit All
-  - Mana Generation Debuff All
+- Hit All
+- Mana Generation Debuff All
 image: https://i.imgur.com/nRRdXVw.jpg
 costume:
   design: costume1
@@ -25,11 +26,14 @@ costume:
   health: 1086
   skill: Massive Cleave
   effects:
-    - Deals 185% damage to all enemies
-    - The caster and nearby allies have from +30% to +70% chance of dodging special attacks that do damage.  The higher the damage from the special is, the higher the chance to dodge it. Each dodge gives +24% mana to the target. The effect lasts for 4 turns.
+  - Deals 185% damage to all enemies
+  - The caster and nearby allies have from +30% to +70% chance of dodging Special
+    Skills that deal damage.  The higher the damage from the Special Skill is, the
+    higher the chance to dodge it. Each dodge gives +24% mana to the target. The effect
+    lasts for 4 turns.
   types:
-    - Hit All
-    - Dodge Buff 3
+  - Hit All
+  - Dodge Chance Buff 3
   image: https://i.imgur.com/OZPuj5P.jpg
 costume2:
   design: costume2
@@ -41,11 +45,11 @@ costume2:
   health: 1251
   skill: Massive Swing
   effects:
-    - Deals 185% damage to all enemies.
-    - All allies get +33% mana generation for 3 turns.
+  - Deals 185% damage to all enemies.
+  - All allies get +33% mana generation for 3 turns.
   types:
-    - Hit all
-    - Mana Generation Buff All
+  - Hit all
+  - Mana Generation Buff All
   image: https://i.imgur.com/pBSZGi6.jpg
 costume3:
   design: toon
@@ -57,15 +61,15 @@ costume3:
   health: 1212
   skill: Toontastic Chop
   effects:
-    - Deals 215% damage to all enemies.
-    - All enemies get -54% mana generation for 3 turns.
-    - Deals extra damage against Ice.
+  - Deals 215% damage to all enemies.
+  - All enemies get -54% mana generation for 3 turns.
+  - Deals extra damage against Ice.
   types:
-    - Hit All
-    - Mana Generation Debuff
+  - Hit All
+  - Mana Generation Debuff All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/8mWGMUp.jpg
 costume4:
   design: glass
@@ -77,14 +81,14 @@ costume4:
   health: 1237
   skill: Glass Chop
   effects:
-    - Deals 225% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies get -59% mana generation for 3 turns.
+  - Deals 225% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies get -59% mana generation for 3 turns.
   types:
-    - Hit All
-    - Bypass
-    - Mana Generation Debuff All
+  - Hit All
+  - Bypass
+  - Mana Generation Debuff All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/8scCOJR.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Sonya
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 731
 health: 1011
 skill: Piercing Strike
 effects:
-  - Deals 345% damage to the target.
-  - Dispels buffs from all enemies.
+- Deals 345% damage to the target.
+- Dispels buffs from all enemies.
 types:
-  - Hit 1
-  - Dispeller All
+- Hit 1
+- Dispeller All
 image: https://i.imgur.com/zE5VVll.jpg
 costume:
   design: costume1
@@ -25,11 +26,11 @@ costume:
   health: 1103
   skill: Purifying Strike
   effects:
-    - Deals 345% damage to the target.
-    - Cleanses status ailments from all allies.
+  - Deals 345% damage to the target.
+  - Cleanses status ailments from all allies.
   types:
-    - Hit 1
-    - Cleanser All
+  - Hit 1
+  - Cleanser All
   image: https://i.imgur.com/R1MhQgF.jpg
 costume2:
   design: costume2
@@ -41,11 +42,11 @@ costume2:
   health: 1179
   skill: Wrenching Strike
   effects:
-    - Deals 345% damage to the target.
-    - All enemies are immune to new status effect buffs for 2 turns.
+  - Deals 345% damage to the target.
+  - All enemies are immune to new status effect buffs for 2 turns.
   types:
-    - Hit 1
-    - Buff Imunity All
+  - Hit 1
+  - Buff Immunity Debuff All
   image: https://i.imgur.com/9fhb23h.jpg
 costume3:
   design: toon
@@ -57,15 +58,15 @@ costume3:
   health: 1194
   skill: Toonpower Strike
   effects:
-    - Deals 355% damage to the target.
-    - Deals extra damage against Fire.
-    - Dispels buffs from the target.
+  - Deals 355% damage to the target.
+  - Deals extra damage against Fire.
+  - Dispels buffs from all enemies.
   types:
-    - Hit 1
-    - Dispeller 1
+  - Hit 1
+  - Dispeller All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/k4GWNzl.jpg
 costume4:
   design: glass
@@ -77,14 +78,14 @@ costume4:
   health: 1211
   skill: Glass Strike
   effects:
-    - Deals 365% damage to the target.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - Dispels buffs from all enemies.
+  - Deals 365% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Dispels buffs from all enemies.
   types:
-    - Hit 1
-    - Bypass
-    - Dispeller 1
+  - Hit 1
+  - Bypass
+  - Dispeller All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/eehQrS3.jpg
+...

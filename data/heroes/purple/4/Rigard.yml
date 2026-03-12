@@ -1,3 +1,4 @@
+---
 name: Rigard
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 673
 health: 1166
 skill: Purification
 effects:
-  - Recover 42% health for all allies
-  - Cleanses status ailments from all allies
+- Recover 42% health for all allies.
+- Cleanses status ailments from all allies.
 types:
-  - Heal All
-  - Cleanser
+- Heal All
+- Cleanser
 image: https://i.imgur.com/epzxGwy.jpg
 costume:
   design: costume1
@@ -25,13 +26,13 @@ costume:
   health: 1271
   skill: Regeneration
   effects:
-    - All allies regenerate 609 HP over 3 turns
-    - All allies get +48% attack for 3 turns
-    - Cleanses status ailments from all allies
+  - All allies regenerate 609 HP over 3 turns.
+  - All allies get +48% attack for 3 turns.
+  - Cleanses status ailments from all allies.
   types:
-    - HoT All
-    - Attack Buff All
-    - Cleanser
+  - HoT All
+  - Attack Buff All
+  - Cleanser All
   image: https://i.imgur.com/9nzkBMP.jpg
 costume2:
   design: costume2
@@ -43,13 +44,13 @@ costume2:
   health: 1246
   skill: Transfigure
   effects:
-    - Boosts health of all allies by 410. Boosted health can exceed max HP.
-    - All allies get +40% defense for 3 turns.
-    - Cleanses status ailments from all allies.    
+  - Boosts health of all allies by 410. Boosted health can exceed max HP.
+  - All allies get +40% defense for 3 turns.
+  - Cleanses status ailments from all allies.
   types:
-    - Boost Health All
-    - Defense Buff All
-    - Cleanser
+  - Boost Health All
+  - Defense Buff All
+  - Cleanser All
   image: https://i.imgur.com/0dWPfN4.jpg
 costume3:
   design: toon
@@ -61,16 +62,17 @@ costume3:
   health: 1274
   skill: Toonification
   effects:
-    - Recovers 45% health for all allies.
-    - All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
-    - Cleanses status ailments from all allies.
+  - Recovers 45% health for all allies.
+  - All allies get +34% defense for 3 turns. This status effect is undispellable and
+    lasts 2 turns longer on Dark characters.
+  - Cleanses status ailments from all allies.
   types:
-    - Heal All
-    - Defense Buff All
-    - Cleanser
+  - Heal All
+  - Defense Buff All
+  - Cleanser
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/rCKWMnx.jpg
 costume4:
   design: glass
@@ -82,14 +84,16 @@ costume4:
   health: 1227
   skill: Glassification
   effects:
-    - Recovers 47% health for all allies.
-    - All Dark allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
-    - Cleanses status ailments from all allies.
+  - Recovers 47% health for all allies.
+  - All Dark allies reflect status ailments and negative stacks for 2 turns. (Status
+    effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - Cleanses status ailments from all allies.
   types:
-    - Heal All
-    - Debuff Reflect for Dark Allies
-    - Cleanser
+  - Heal All
+  - Reflect Ailments for Dark Allies
+  - Reflect Stacks for Dark Allies
+  - Cleanser
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/3o76oi9.jpg
+...

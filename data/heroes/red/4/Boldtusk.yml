@@ -1,3 +1,4 @@
+---
 name: Boldtusk
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 711
 health: 1107
 skill: Warcry
 effects:
-  - Recovers 27% health for all allies.
-  - All allies get +48% attack for 4 turns.
+- Recovers 27% health for all allies.
+- All allies get +48% attack for 4 turns.
 types:
-  - Healer All
-  - Attack Buff All
+- Healer All
+- Attack Buff All
 image: https://i.imgur.com/K7cfOtS.jpg
 costume:
   design: costume1
@@ -25,11 +26,11 @@ costume:
   health: 1230
   skill: War Feast
   effects:
-    - Recovers 37% health for all allies.
-    - All allies get +30% attack for 4 turns.
+  - Recovers 37% health for all allies.
+  - All allies get +30% attack for 4 turns.
   types:
-    - Healer All
-    - Attack Buff All
+  - Healer All
+  - Attack Buff All
   image: https://i.imgur.com/ZFrdT4t.jpg
 costume2:
   design: costume2
@@ -41,11 +42,13 @@ costume2:
   health: 1272
   skill: War Song
   effects:
-    - All allies regenerate 288 boosted health over 4 turns. Boosted health can exceed max HP.
-    - All allies get +45% attack, and a further 20% increase every time they are hit during 4 turns.
+  - All allies regenerate 288 boosted health over 4 turns. Boosted health can exceed
+    max HP.
+  - All allies get +45% attack, and a further 20% increase every time they are hit
+    during 4 turns, up to +145% attack.
   types:
-    - Boosted HoT All
-    - Attack Buff All
+  - Boosted HoT All
+  - Attack Buff All
   image: https://i.imgur.com/T4p2FAB.jpg
 costume3:
   design: toon
@@ -57,14 +60,15 @@ costume3:
   health: 1323
   skill: Tooncry
   effects:
-    - Recovers 33% health for all allies.
-    - All allies get +40% attack for 4 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer.
+  - Recovers 33% health for all allies.
+  - All allies get +40% attack for 4 turns. For all Fire characters, this status effect
+    becomes undispellable and lasts 2 turns longer.
   types:
-    - Healer All
-    - Attack Buff All
+  - Healer All
+  - Attack Buff All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/ufJrKaD.jpg
 costume4:
   design: glass
@@ -76,17 +80,17 @@ costume4:
   health: 1351
   skill: Glass Warcry
   effects:
-    - Recovers 34% health for all allies.
-    - All allies get +45% attack for 4 turns.
-    - All Fire allies reflect status ailments and negative stacks for 2 turns. (Status effects cast by characters, Minions, and Fiends on the same side cannot be reflected.)
+  - Recovers 34% health for all allies.
+  - All allies get +45% attack for 4 turns.
+  - All Fire allies reflect status ailments and negative stacks for 2 turns. (Status
+    effects cast by characters, Minions, and Fiends on the same side cannot be reflected.)
   types:
-    - Healer All
-    - Attack Buff All
-    - Reflect Ailments for Fire Allies
-    - Reflect Stacks for Fire Allies
+  - Healer All
+  - Attack Buff All
+  - Reflect Ailments for Fire Allies
+  - Reflect Stacks for Fire Allies
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/lVwUo5n.jpg
 costume5:
   design: stylish
@@ -98,12 +102,14 @@ costume5:
   health: 1427
   skill: Stylish Warcry
   effects:
-    - Recovers 42% health for all the ally with the lowest remaining HP. All other allies recover 35% health.
-    - All allies get +46% attack for 4 turns
+  - Recovers 42% health for all the ally with the lowest remaining HP. All other allies
+    recover 35% health.
+  - All allies get +46% attack for 4 turns
   types:
-    - Healer All
-    - Attack Buff All
+  - Healer All
+  - Attack Buff All
   passives:
-    - >-
-      Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
   image: https://imgur.com/tGz74NL.jpg
+...

@@ -13,7 +13,7 @@ health: 1366
 skill: Slash of Stylish Blades
 effects:
 - Deals 200% damage to all enemies.
-- Deals 275% damage to enemies with less than 50% health remaining.
+- If the enemies have less than 50% health remaining, deals 275% damage instead.
 - Reduces the mana of all enemies by -19%.
 types:
 - Hit All

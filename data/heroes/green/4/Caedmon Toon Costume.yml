@@ -1,22 +1,25 @@
+---
 name: Caedmon Toon Costume
 is_costume: true
 design: toon
-class: Druid
 source: season1
 family: classic
 speed: Fast
+class: Druid
 power: 746
 attack: 760
 defense: 742
 health: 1344
 skill: Toontastic Strike
 effects:
-  - Deals 350% damage to the target.
-  - Deals extra damage against Ice.
-  - Dispels buffs from all enemies.
+- Deals 350% damage to the target.
+- Deals extra damage against Ice.
+- Dispels buffs from all enemies.
 types:
-  - Hit 1
-  - Dispeller
+- Hit 1
+- Dispeller All
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/DR6bDUS.jpg
+...
