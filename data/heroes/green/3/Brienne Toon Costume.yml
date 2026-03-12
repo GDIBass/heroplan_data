@@ -1,19 +1,24 @@
+---
 name: Brienne Toon Costume
 is_costume: true
 design: toon
-class: Druid
 source: season1
 family: classic
 speed: Average
+class: Druid
 power: 502
 attack: 507
 defense: 488
 health: 883
 skill: Toon Fury
 effects:
-  - All allies get 45% attack, and a further 20% increase every time they are hit during 5 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
+- All allies get +45% attack, and a further 20% increase every time they are hit during
+  5 turns, up to +145% attack. This status effect is undispellable and lasts 2 turns
+  longer on Nature characters.
 types:
-  - Attack Buff
+- Attack Buff All
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/0PzrzM8.jpg
+...

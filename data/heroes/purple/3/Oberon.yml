@@ -1,3 +1,4 @@
+---
 name: Oberon
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 411
 health: 839
 skill: Toxic Traps
 effects:
-  - Deals 121% damage to all enemies.
-  - All enemies receive 102 damage over 6 turns.
+- Deals 121% damage to all enemies.
+- All enemies receive 102 damage over 6 turns.
 types:
-  - Hit All
-  - DoT All
+- Hit All
+- DoT All
 image: https://i.imgur.com/FkvOQpS.jpg
 costume:
   design: costume1
@@ -25,9 +26,9 @@ costume:
   health: 933
   skill: Toxic Tricks
   effects:
-    - All enemies receive 324 Poison damage over 3 turns.  This effect can't be cleased.
+  - All enemies receive 324 Poison damage over 3 turns.  This effect can't be cleased.
   types:
-    - Dot all
+  - DoT All
   image: https://i.imgur.com/4wjqw3M.jpg
 costume2:
   design: toon
@@ -39,34 +40,34 @@ costume2:
   health: 956
   skill: Toon Traps
   effects:
-    - Deals 151% damage to all enemies.
-    - All enemies receive 76 damage over 6 turns.
-    - Deals extra damage against Holy.
+  - Deals 151% damage to all enemies.
+  - All enemies receive 76 damage over 6 turns.
+  - Deals extra damage against Holy.
   types:
-    - Hit All
-    - DoT All
+  - Hit All
+  - DoT All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/z96lxl3.jpg
 costume3:
   design: glass
   bonuses: 5/5/10/5
   class: Fighter
-  power: 517
-  attack: 532
-  defense: 471
-  health: 963
+  power: 521
+  attack: 536
+  defense: 475
+  health: 971
   skill: Glass Traps
   effects:
-    - Deals 161% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies receive 148 Poison damage over 4 turns.
+  - Deals 161% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies receive 148 Poison damage over 4 turns.
   types:
-    - Hit All
-    - Bypass
-    - DoT All
+  - Hit All
+  - Bypass
+  - DoT All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/BaV6ZoB.jpg
+...

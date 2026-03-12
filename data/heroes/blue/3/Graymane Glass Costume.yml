@@ -1,3 +1,4 @@
+---
 name: Graymane Glass Costume
 is_costume: true
 design: glass
@@ -5,20 +6,20 @@ source: season1
 family: classic
 speed: Average
 class: Sorcerer
-power: 513
-attack: 532
-defense: 446
-health: 980
+power: 516
+attack: 536
+defense: 450
+health: 988
 skill: Glass Bite
 effects:
-  - Deals 265% damage to the target.
-  - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - Heals the caster for 48% of damage dealt.
+- Deals 265% damage to the target.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- Heals the caster for 48% of damage dealt.
 types:
-  - Hit 1
-  - Bypass
-  - Self Heal
+- Hit 1
+- Bypass
+- Heal Self
 passives:
-  - >-
-    Glass: 60% extra chance to reflect status ailments back to the attacker.
+- 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/B6cM6Ze.jpg
+...

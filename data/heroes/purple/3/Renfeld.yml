@@ -1,3 +1,4 @@
+---
 name: Renfeld
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 398
 health: 700
 skill: Leeching Stars
 effects:
-  - Deals 215% damage to the target.
-  - Heals the caster for 50% of damage dealt.
+- Deals 215% damage to the target.
+- Heals the caster for 50% of damage dealt.
 types:
-  - Hit 1
-  - Self Heal
+- Hit 1
+- Heal Self
 image: https://i.imgur.com/6HwABCg.jpg
 costume:
   design: costume1
@@ -25,11 +26,14 @@ costume:
   health: 904
   skill: Leeching Saw
   effects:
-    - Deals 195% damage to the target.
-    - The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.  This effect can't be cleansed, but it gets removed if the caster dies.
+  - Deals 195% damage to the target.
+  - The caster steals generated mana of the target and the nearby enemies over 4 turns
+    starting low and increasing every turn until on the last turn all the generated
+    mana is stolen.  This effect can't be cleansed, but it gets removed if the caster
+    dies.
   types:
-    - Hit 1
-    - Mana Steal 3
+  - Hit 1
+  - Mana Steal 3
   image: https://i.imgur.com/7QkxYAf.jpg
 costume2:
   design: toon
@@ -41,34 +45,34 @@ costume2:
   health: 990
   skill: Toon Stars
   effects:
-    - Deals 245% damage to the target.
-    - Heals the caster for 40% of damage dealt.
-    - Deals extra damage against Holy.
+  - Deals 245% damage to the target.
+  - Heals the caster for 40% of damage dealt.
+  - Deals extra damage against Holy.
   types:
-    - Hit 1
-    - Self Heal
+  - Hit 1
+  - Heal Self
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/D4cVPMi.jpg
 costume3:
   design: glass
   bonuses: 5/5/10/5
   class: Fighter
-  power: 516
-  attack: 499
-  defense: 487
-  health: 1000
+  power: 519
+  attack: 503
+  defense: 492
+  health: 1008
   skill: Glass Stars
   effects:
-    - Deals 255% damage to the target.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - Heals the caster for 45% of damage dealt.
+  - Deals 255% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Heals the caster for 45% of damage dealt.
   types:
-    - Hit 1
-    - Bypass
-    - Self Heal
+  - Hit 1
+  - Bypass
+  - Heal Self
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/LQv6YPQ.jpg
+...

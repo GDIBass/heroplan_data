@@ -1,3 +1,4 @@
+---
 name: Belith Glass Costume
 is_costume: true
 design: glass
@@ -5,20 +6,22 @@ source: season1
 family: classic
 speed: Average
 class: Druid
-power: 513
-attack: 521
-defense: 504
-health: 894
+power: 517
+attack: 526
+defense: 508
+health: 901
 skill: Glass Mist
 effects:
-  - Recovers 36% health for all allies.
-  - All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
-  - Dispels buffs from all enemies.
+- Recovers 36% health for all allies.
+- All Nature allies reflect status ailments and negative stacks for 2 turns. (Status
+  effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+- Dispels buffs from all enemies.
 types:
-  - Healer All
-  - Elemental Reflect All
-  - Dispeller
+- Healer All
+- Reflect Ailments for Nature Allies
+- Reflect Stacks for Nature Allies
+- Dispeller All
 passives:
-  - >-
-    Glass: 60% extra chance to reflect status ailments back to the attacker.
+- 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/Y4Gu3iU.jpg
+...

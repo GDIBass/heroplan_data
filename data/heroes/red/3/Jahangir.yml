@@ -1,3 +1,4 @@
+---
 name: Jahangir
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 436
 health: 599
 skill: Fireball
 effects:
-  - Deals 145% damage to all enemies.
-  - All enemies receive 120 damage over 6 turns.
+- Deals 145% damage to all enemies.
+- All enemies receive 120 damage over 6 turns.
 types:
-  - Hit All
-  - Dot All
+- Hit All
+- DoT All
 image: https://i.imgur.com/7oZTOqz.jpg
 costume:
   design: costume1
@@ -25,11 +26,11 @@ costume:
   health: 705
   skill: Scorching Ray
   effects:
-    - Deals 115% damage to all enemies.
-    - All enemies receive 156 Burn damage over 4 turns.
+  - Deals 115% damage to all enemies.
+  - All enemies receive 156 Burn damage over 4 turns.
   types:
-    - Hit all
-    - Dot All
+  - Hit all
+  - DoT All
   image: https://i.imgur.com/IPO19rX.jpg
 costume2:
   design: toon
@@ -41,15 +42,15 @@ costume2:
   health: 806
   skill: Toonball
   effects:
-    - Deals 175% damage to all enemies.
-    - All enemies receive 114 Burn damage over 3 turns.
-    - Deals extra damage against Nature.
+  - Deals 175% damage to all enemies.
+  - All enemies receive 114 Burn damage over 3 turns.
+  - Deals extra damage against Nature.
   types:
-    - Hit All
-    - Dot All
+  - Hit All
+  - DoT All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/nGXpTVa.jpg
 costume3:
   design: glass
@@ -61,15 +62,15 @@ costume3:
   health: 825
   skill: Glass Fireball
   effects:
-    - Deals 185% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies receive 135 Burn damage over 3 turns.
+  - Deals 185% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies receive 135 Burn damage over 3 turns.
   types:
-    - Hit All
-    - Dot All
+  - Hit All
+  - Bypass
+  - DoT All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/r8eT1gi.jpg
 costume4:
   design: stylish
@@ -81,13 +82,14 @@ costume4:
   health: 887
   skill: Stylish Fireball
   effects:
-    - Deals 195% damage to all enemies.
-    - Deals 275% damage to enemies with less than 50% health remaining.
-    - All enemies receive 162 Burn damage over 3 turns.
+  - Deals 195% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 275% damage instead.
+  - All enemies receive 162 Burn damage over 3 turns.
   types:
-    - Hit All
-    - Dot All
+  - Hit All
+  - DoT All
   passives:
-    - >-
-      Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
   image: https://imgur.com/7mjgAN4.jpg
+...

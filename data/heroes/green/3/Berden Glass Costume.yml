@@ -1,3 +1,4 @@
+---
 name: Berden Glass Costume
 is_costume: true
 design: glass
@@ -5,20 +6,20 @@ source: season1
 family: classic
 speed: Fast
 class: Ranger
-power: 515
-attack: 556
-defense: 493
-health: 843
+power: 519
+attack: 561
+defense: 497
+health: 849
 skill: Glass Arrow
 effects:
-  - Deals 340% damage to the target.
-  - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - The target gets -29% attack for 6 turns.
+- Deals 340% damage to the target.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- The target gets -29% attack for 6 turns.
 types:
-  - Hit 1
-  - Bypass
-  - Attack Debuff 1
+- Hit 1
+- Bypass
+- Attack Debuff 1
 passives:
-  - >-
-    Glass: 60% extra chance to reflect status ailments back to the attacker.
+- 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/lvzA5b8.jpg
+...

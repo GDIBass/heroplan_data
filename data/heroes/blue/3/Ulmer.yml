@@ -1,3 +1,4 @@
+---
 name: Ulmer
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 359
 health: 677
 skill: Blizzard
 effects:
-  - Deals 116% damage to all enemies.
-  - All enemies get -34% defense for 6 turns.
+- Deals 116% damage to all enemies.
+- All enemies get -34% defense for 6 turns.
 types:
-  - Hit All
-  - Defense Debuff All
+- Hit All
+- Defense Debuff All
 image: https://i.imgur.com/8fr1xWV.jpg
 costume:
   design: costume1
@@ -25,11 +26,11 @@ costume:
   health: 772
   skill: Whiteout
   effects:
-    - Deals 145% damage to all enemies.
-    - All allies get +48% attack for 6 turns.
+  - Deals 145% damage to all enemies.
+  - All allies get +48% attack for 6 turns.
   types:
-    - Hit all
-    - Attack Buff All
+  - Hit All
+  - Attack Buff All
   image: https://i.imgur.com/0GakWdj.jpg
 costume2:
   design: toon
@@ -41,34 +42,34 @@ costume2:
   health: 820
   skill: Toon Blizzard
   effects:
-    - Deals 146% damage to all enemies.
-    - All enemies get -24% defense for 6 turns.
-    - Deals extra damage against Fire.
+  - Deals 146% damage to all enemies.
+  - All enemies get -24% defense for 6 turns.
+  - Deals extra damage against Fire.
   types:
-    - Hit All
-    - Defense Debuff All
+  - Hit All
+  - Defense Debuff All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/7Gi7zzw.jpg
 costume3:
   design: glass
   bonuses: 5/5/10/5
   class: Wizard
-  power: 516
-  attack: 552
-  defense: 507
-  health: 830
+  power: 520
+  attack: 556
+  defense: 512
+  health: 837
   skill: Glass Blizzard
   effects:
-    - Deals 156% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies get -30% defense for 6 turns.
+  - Deals 156% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies get -30% defense for 6 turns.
   types:
-    - Hit All
-    - Bypass
-    - Defense Debuff All
+  - Hit All
+  - Bypass
+  - Defense Debuff All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/mdOC2xf.jpg
+...

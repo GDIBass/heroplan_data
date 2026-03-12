@@ -12,8 +12,8 @@ defense: 563
 health: 1004
 skill: Stylish Fury
 effects:
-- All allies get +55% attack, and a further +20% increase every time they are hit
-  during 5 turns, up to +155% attack.
+- All allies get +55% attack, and a further 20% increase every time they are hit during
+  5 turns, up to +155% attack.
 - All allies regenerate 300 HP over 5 turns.
 types:
 - Attack Buff All

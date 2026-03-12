@@ -1,3 +1,4 @@
+---
 name: Berden Toon Costume
 is_costume: true
 design: toon
@@ -11,13 +12,14 @@ defense: 488
 health: 825
 skill: Toontastic Shot
 effects:
-  - Deals 330% damage to the target.
-  - The target gets -24% attack for 6 turns.
-  - Deals extra damage against Ice.
+- Deals 330% damage to the target.
+- The target gets -24% attack for 6 turns.
+- Deals extra damage against Ice.
 types:
-  - Hit 1
-  - Attack Debuff 1
+- Hit 1
+- Attack Debuff 1
 passives:
-  - >-
-    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/JqQwQQo.jpg
+...

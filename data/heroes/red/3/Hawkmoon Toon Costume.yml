@@ -1,3 +1,4 @@
+---
 name: Hawkmoon Toon Costume
 is_costume: true
 design: toon
@@ -11,12 +12,14 @@ defense: 496
 health: 732
 skill: Toon Prayer
 effects:
-  - Recovers 35% health for all allies.
-  - All allies get +34% defense for 3 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer.
+- Recovers 35% health for all allies.
+- All allies get +34% defense for 3 turns. This status effect is undispellable and
+  lasts 2 turns longer on Fire characters.
 types:
-  - Healer All
-  - Defense Buff All
+- Healer All
+- Defense Buff All
 passives:
-  - >-
-    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/hDOgs06.jpg
+...
