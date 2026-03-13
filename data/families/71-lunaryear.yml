@@ -17,3 +17,11 @@ bonus:
 bonuscostume-5star: 55/55/60/5
 bonuscostume-4star: 
 bonuscostume-3star: 
+zodiacAnimals:
+  - rabbit: '+5% mana generation'
+  - ox: '+10% defense'
+  - tiger: '+10% attack'
+  - dragon: '+15% critical chance'
+  - snake: '+5% healing'
+  - rat: '+15% Special Skill power'
+  - horse: '-5% Received damage reduction'
