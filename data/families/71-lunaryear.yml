@@ -15,13 +15,18 @@ bonus:
   - " ** Horse: -5% Received damage reduction"
   - "The members of this family have additional perks in the Lunar New Year event."
 bonuscostume-5star: 55/55/60/5
-bonuscostume-4star: 
-bonuscostume-3star: 
+bonuscostume-4star:
+bonuscostume-3star:
 zodiacAnimals:
-  - rabbit: '+5% mana generation'
+  - rat: '+15% Special Skill power'
   - ox: '+10% defense'
   - tiger: '+10% attack'
+  - rabbit: '+5% mana generation'
   - dragon: '+15% critical chance'
   - snake: '+5% healing'
-  - rat: '+15% Special Skill power'
   - horse: '-5% Received damage reduction'
+  - goat: ''
+  - monkey: ''
+  - rooster: ''
+  - dog: ''
+  - pig: ''
