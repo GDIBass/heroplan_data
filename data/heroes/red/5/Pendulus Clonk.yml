@@ -1,0 +1,42 @@
+---
+name: Pendulus Clonk
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Fast
+class: Rogue
+power: 1287
+attack: 1359
+defense: 1299
+health: 2307
+skill: Always on Time
+effects:
+- 'If the caster has 35 or more Humility:'
+- Deals 750% damage to the target.
+- If the target is defeated by the attack, the caster gains +50% mana. (After a character
+  receives 5 direct mana additions from Special Skills during a single turn, all subsequent
+  direct mana additions done by Special Skills will have a reduced power on that character.)
+- For the next 3 turns, this character deals 600% damage to a random enemy after an
+  enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)
+- The caster recovers 1000 health after 3 turns. If the effect is removed or replaced
+  before the duration ends, recovers 1400 health instead.
+- 'Otherwise:'
+- Deals 600% damage to the target.
+- For the next 3 turns, this character deals 500% damage to a random enemy after an
+  enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)
+- The caster recovers 800 health after 3 turns. If the effect is removed or replaced
+  before the duration ends, recovers 1200 health instead.
+types:
+- Humility
+- Hit 1
+- Extra Hit Random 1 after enemy SS
+- Delayed Heal Self
+passives:
+- 'Revival Health Reduction: All enemies have -80% health when revived. Boss enemies
+  are not affected.'
+- 'Heal when Status Ailment Expires or Is Cleared: This character''s receives 10%
+  health each time a status ailment expires or is cleansed, removed or reallocated
+  from them. This effect can activate only once per turn.'
+- 'Beautiful Inside: Whenever this character would take damage from a status ailment
+  or from a negative stack, they will recover that much health instead.'
+image: https://imgur.com/B98TRPW.jpg
+...
