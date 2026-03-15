@@ -41,7 +41,7 @@ effects:
 types:
 - Charge
 - Hit 1
-- Hide
+- Hide Self
 - Mindless Attack 1
 image: https://i.imgur.com/4sSfY3A.jpg
 ...

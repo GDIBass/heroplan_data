@@ -1,3 +1,4 @@
+---
 name: Flip
 source: beachparty
 family: beachparty
@@ -9,18 +10,18 @@ defense: 867
 health: 1528
 skill: To the Rescue!
 effects:
-  - Recovers 45% health for all allies.
-  - All allies bypass defensive buffs with their attacks for 4 turns. Defensive buffs include counterattacks.
-  - All allies get +50% critical chance for 4 turns.
+- Recovers 45% health for all allies.
+- All allies bypass defensive buffs with their attacks for 4 turns. Defensive buffs
+  include counterattacks.
+- All allies get +50% critical chance for 4 turns.
 types:
-  - Healer
-  - Bypass All
-  - Crit Buff All
+- Healer
+- Bypass Buff All
+- Crit Chance Buff All
 passives:
-  - >-
-    Resist Water Damage: This character has innate resistance against Water Damage.
-  - >-
-    Damage over time on Special: When this character casts their Special Skill, all enemies receive 200 Water damage over 2 turns.
+- 'Resist Water: This character is immune to status ailments that deal Water damage.'
+- 'Damage over time on Special: When this character casts their Special Skill, all
+  enemies receive 200 Water damage over 2 turns.'
 image: https://i.imgur.com/VLECZaD.jpg
 costume:
   design: costume1
@@ -32,16 +33,17 @@ costume:
   health: 2235
   skill: Donut to the Rescue!
   effects:
-    - Recovers 50% health for all allies.
-    - All allies bypass defensive buffs with their attacks for 4 turns. (Defensive buffs include counterattacks.)
-    - All allies get +55% critical chance for 4 turns.
+  - Recovers 50% health for all allies.
+  - All allies bypass defensive buffs with their attacks for 4 turns. (Defensive buffs
+    include counterattacks.)
+  - All allies get +55% critical chance for 4 turns.
   types:
-    - Healer
-    - Bypass All
-    - Crit Buff All
+  - Healer
+  - Bypass All
+  - Crit Buff All
   passives:
-    - >-
-      Damage over time on Special: When this character casts their Special Skill, all enemies receive 272 Water damage over 2 turns.
-    - >-
-      Resist Water Damage: This character has innate resistance against Water Damage.
+  - 'Damage over time on Special: When this character casts their Special Skill, all
+    enemies receive 272 Water damage over 2 turns.'
+  - 'Resist Water Damage: This character has innate resistance against Water Damage.'
   image: https://imgur.com/r5YqJOC.jpg
+...

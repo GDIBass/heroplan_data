@@ -26,14 +26,14 @@ effects:
 - ' * Stack (Max 10): All allies get +20% attack for their Minions.'
 types:
 - Summoner 3
+- Mana Increase Minion
 - Taunt
-- Attack Stack All
+- Minion Attack Stack All
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
   character casts their Special Skill'
 - ' * Deals 80% damage to all enemies.'
 - ' * All allies get +21% critical chance for 2 turns.'
-- 'Resist Insanity: This character has innate resistance against Insanity.'
 image: https://i.imgur.com/6o3KSeL.jpg
 costume:
   design: costume1

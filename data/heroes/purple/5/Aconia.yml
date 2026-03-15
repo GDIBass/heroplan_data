@@ -18,7 +18,7 @@ effects:
   receives 810 Bleed damage over 3 turns.
 types:
 - Fiend Summoner 1
-- Elemental Fiend Summoner
+- Fiend Summoner on Holy Enemies
 passives:
 - 'Troop Mastery:'
 - 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental

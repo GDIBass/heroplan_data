@@ -1,3 +1,4 @@
+---
 name: Thalassa
 source: untoldtales
 family: defendersofatlantis
@@ -9,27 +10,26 @@ defense: 997
 health: 1674
 skill: Ocean's Embrace
 effects:
-  - 'Special Skill need consecutive uses to reach full power, the following order:'
-  - '1st:'
-  - ' * Boosts health of all allies by 550. Boosted health can exceed max HP.'
-  - ' * All allies are immune to new status ailments for 3 turns.'
-  - '2nd:'
-  - ' * Boosts health of all allies by 650. Boosted health can exceed max HP.'
-  - ' * The duration of status ailments is reset for all enemies.'
-  - ' * All allies are immune to new status ailments for 3 turns.'
+- 'Special Skill need consecutive uses to reach full power, the following order:'
+- '1st:'
+- ' * Boosts health of all allies by 550. Boosted health can exceed max HP.'
+- ' * All allies are immune to new status ailments for 3 turns.'
+- '2nd:'
+- ' * Boosts health of all allies by 650. Boosted health can exceed max HP.'
+- ' * The duration of status ailments is reset for all enemies.'
+- ' * All allies are immune to new status ailments for 3 turns.'
 types:
-  - Heal all
-  - Status Ailment Reset
-  - Status Ailment Immunity
+- Heal All
+- Status Ailments Immunity All
+- Status Ailments Reset All
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 80% damage to all enemies.'
-  - ' * All allies get +21% critical chance for 2 turns.'
-  - >-
-    Resist Insanity: This character has innate resistance against Insanity.
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 80% damage to all enemies.'
+- ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/aKuc2pB.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 1184
@@ -38,23 +38,23 @@ costume:
   health: 2117
   skill: Crystal Embrace
   effects:
-    - 'Special Skill need consecutive uses to reach full power, the following order:'
-    - 1st
-    - ' * Boosts health of all allies by 500. Boosted health can exceed max HP.'
-    - ' * All allies are immune to new status ailments for 3 turns.'
-    - 2nd
-    - ' * Boosts health of all allies by 800. Boosted health can exceed max HP.'
-    - ' * The duration of status ailments is reset for all enemies.'
-    - ' * All allies are immune to new status ailments for 4 turns.'
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - 1st
+  - ' * Boosts health of all allies by 500. Boosted health can exceed max HP.'
+  - ' * All allies are immune to new status ailments for 3 turns.'
+  - 2nd
+  - ' * Boosts health of all allies by 800. Boosted health can exceed max HP.'
+  - ' * The duration of status ailments is reset for all enemies.'
+  - ' * All allies are immune to new status ailments for 4 turns.'
   types:
-    - Heal all
-    - Status Ailment Reset
-    - Status Ailment Immunity
+  - Heal all
+  - Status Ailment Reset
+  - Status Ailment Immunity
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 80% damage to all enemies.'
-    - ' * All allies get +21% critical chance for 2 turns.'
-    - >-
-      Resist Insanity: This character has innate resistance against Insanity.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 80% damage to all enemies.'
+  - ' * All allies get +21% critical chance for 2 turns.'
+  - 'Resist Insanity: This character has innate resistance against Insanity.'
   image: https://i.imgur.com/EE7MEpv.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Phantom of the Opera
 source: solstice
 family: opera
@@ -9,25 +10,26 @@ defense: 933
 health: 1707
 skill: Ballad of Obsession
 effects:
-  - Deals 405% damage to the target and nearby enemies.
-  - >-
-    The target and nearby enemies dance to Ballad of Obsession for 4 turns. 
-    All existing status effects will be removed when this effect is added.
-  - Ballad of Obsession
-  - "* -40% mana generation."
-  - "* -40% decrease for any healing received."
-  - "* Gives immunity to new status effects."
-  - "* This effect cannot be dispelled. The effect is removed when the caster dies."
+- Deals 405% damage to the target and nearby enemies.
+- The target and nearby enemies dance to Ballad of Obsession for 4 turns.  All existing
+  status effects will be removed when this effect is added.
+- Ballad of Obsession
+- '* -40% mana generation.'
+- '* -40% decrease for any healing received.'
+- '* Gives immunity to new status effects.'
+- '* This effect cannot be dispelled. The effect is removed when the caster dies.'
 types:
-  - Hit 3
-  - Cleanser
-  - Ballad of Obsession
-  - Mana gen debuff
-  - Healing Decrease
-  - Status Effect immunity
+- Hit 3
+- Ballad of Obsession 3
+- Cleanser 3
+- Mana Generation  Debuff 3
+- Healing Decrease 3
+- Status Effect Immunity 3
 passives:
-  - >- 
-    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
-  - >-
-    Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
+- 'Heal when status ailment expires or is cleared: This character receives 10% health
+  each time a status ailment expires or is cleansed, removed or reallocated from them.
+  This effect can activate only once per turn.'
+- 'Resist Attack Ailments: This character is immune to status ailments that affect
+  attack.'
 image: https://i.imgur.com/7nuGOll.jpg
+...

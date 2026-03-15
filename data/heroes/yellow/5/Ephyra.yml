@@ -1,3 +1,4 @@
+---
 name: Ephyra
 source: untoldtales
 family: defendersofatlantis
@@ -9,23 +10,25 @@ defense: 920
 health: 1674
 skill: Seabed Pirouette
 effects:
-  - 'Special Skill need consecutive uses to reach full power, the following order:'
-  - '1st:'
-  - ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.'
-  - ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
-  - '2nd:'
-  - ' * Replaces all Fiends on all allies with Jellyfish Minions.'
-  - ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.'
-  - ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
+- 'Special Skill need consecutive uses to reach full power, the following order:'
+- '1st:'
+- ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited
+  from the caster.'
+- ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
+- '2nd:'
+- ' * Replaces all Fiends on all allies with Jellyfish Minions.'
+- ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited
+  from the caster.'
+- ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
 types:
-  - Minion Summoner All
-  - Stack
-  - Fiend Replacement All
+- Minion Summoner All
+- Increased Minion HP Stack All
+- Fiend Replacement All
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 80% damage to all enemies.'
-  - ' * All allies get +21% critical chance for 2 turns.'
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 80% damage to all enemies.'
+- ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/nL4nDAx.jpg
 costume:
   design: costume1
@@ -37,23 +40,25 @@ costume:
   health: 2167
   skill: Seabed Sissonne
   effects:
-    - 'Special Skill need consecutive uses to reach full power, the following order:'
-    - '1st:'
-    - ' * Summons a Jellyfish Minion for each ally with +35% HP and +40% attack inherited from the caster.'
-    - ' * Stack (Max 10): All allies get +4% inherited HP for new Minions they summon.'
-    - '2nd:'
-    - ' * Replaces all Fiends on all allies with Jellyfish Minions.'
-    - ' * Summons a Jellyfish Minion for each ally with 40% HP and 50% attack inherited from the caster.'
-    - ' * Stack (Max 10): All allies get +7% inherited HP for new Minions they summon.'
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Summons a Jellyfish Minion for each ally with +35% HP and +40% attack inherited
+    from the caster.'
+  - ' * Stack (Max 10): All allies get +4% inherited HP for new Minions they summon.'
+  - '2nd:'
+  - ' * Replaces all Fiends on all allies with Jellyfish Minions.'
+  - ' * Summons a Jellyfish Minion for each ally with 40% HP and 50% attack inherited
+    from the caster.'
+  - ' * Stack (Max 10): All allies get +7% inherited HP for new Minions they summon.'
   types:
-    - Minion Summoner All
-    - Stack
-    - Fiend Replacement All
+  - Minion Summoner All
+  - Stack
+  - Fiend Replacement All
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 80% damage to all enemies.'
-    - ' * All allies get +21% critical chance for 2 turns.'
-    - >-
-      Resist Insanity: This character has innate resistance against Insanity.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 80% damage to all enemies.'
+  - ' * All allies get +21% critical chance for 2 turns.'
+  - 'Resist Insanity: This character has innate resistance against Insanity.'
   image: https://imgur.com/CAlgEAJ.jpg
+...

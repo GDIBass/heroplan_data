@@ -1,3 +1,4 @@
+---
 name: Griffex
 source: superelemental
 family: superelemental
@@ -9,19 +10,21 @@ defense: 875
 health: 1697
 skill: Mana Manipulation
 effects:
-  - Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies by 50%.
-  - Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%.
+- Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies
+  by 50%.
+- Increases the mana of all Dark allies except the caster by 30%. Increases the mana
+  of all other allies by 15%.
 types:
-  - Mana Reducer All
-  - Mana Increase All
+- Mana Reducer All
+- Mana Increase All
 passives:
-  - 'Troop Mastery:'
-  - >-
-    Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.
-  - ' - Dealt extra elemental damage: +100%'
-  - >-
-    Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
-  - ' - Received elemental damage: -10%'
+- 'Troop Mastery:'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra elemental
+  damage against weaker element.'
+- ' * Dealt extra elemental damage: +100%'
+- 'Passive Skill as defending character: This hero receives less elemental damage
+  from Troops of stronger element.'
+- ' * Received elemental damage: -10%'
 image: https://i.imgur.com/uvhkpHJ.jpg
 costume:
   design: costume1
@@ -33,19 +36,22 @@ costume:
   health: 2441
   skill: Memory Manipulation
   effects:
-    - Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies by 55%.
-    - Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%. (This has no effect on other Griffex characters.)
-    - All allies are immune to new negative mana effects for 5 turns.
+  - Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies
+    by 55%.
+  - Increases the mana of all Dark allies except the caster by 30%. Increases the
+    mana of all other allies by 15%. (This has no effect on other Griffex characters.)
+  - All allies are immune to new negative mana effects for 5 turns.
   types:
-    - Mana Reducer All
-    - Mana Increase All
-    - Debuff Immunity All
+  - Mana Reducer All
+  - Mana Increase All
+  - Debuff Immunity All
   passives:
-    - 'Troop Mastery:'
-    - >-
-      Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.
-    - ' - Dealt extra elemental damage: +150%'
-    - >-
-      Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
-    - ' - Received elemental damage: -25%'
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This hero''s Troops deal extra elemental
+    damage against weaker element.'
+  - ' - Dealt extra elemental damage: +150%'
+  - 'Passive Skill as defending character: This hero receives less elemental damage
+    from Troops of stronger element.'
+  - ' - Received elemental damage: -25%'
   image: https://imgur.com/QbtVKOI.jpg
+...
