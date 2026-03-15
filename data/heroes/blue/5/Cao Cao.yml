@@ -1,3 +1,4 @@
+---
 name: Cao Cao
 source: kingdom
 family: kingdom
@@ -9,16 +10,18 @@ defense: 813
 health: 1468
 skill: Order to Overwhelm
 effects:
-  - Deals 330% damage to all enemies.
-  - Summons a Wei Soldier Minion for each ally with 20% HP and 25% attack inherited from the caster.
-  - Each hit from a Wei Soldier Minion dispels all dispellable buffs from the target.
-  - All allies get +30% defense for 4 turns.
+- Deals 330% damage to all enemies.
+- Summons a Wei Soldier Minion for each ally with 20% HP and 25% attack inherited
+  from the caster.
+- Each hit from a Wei Soldier Minion dispels all dispellable buffs from the target.
+- All allies get +30% defense for 4 turns.
 types:
-  - Hit All
-  - Summoner
-  - Defense buff
+- Hit All
+- Summoner All
+- Defense Buff All
 image: https://i.imgur.com/U1AQZ8U.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Ranger
   power: 1108
@@ -27,17 +30,19 @@ costume:
   health: 2117
   skill: Ice-Cold Order
   effects:
-    - Deals 320% damage to all enemies.
-    - Summons a Wei Soldier Minion for each ally with 42% HP and 42% attack inherited from the caster.
-    - Each hit from a Wei Soldier Minion dispels all dispellable buffs from the target.
-    - All allies get +40% defense for 5 turns.
+  - Deals 320% damage to all enemies.
+  - Summons a Wei Soldier Minion for each ally with 42% HP and 42% attack inherited
+    from the caster.
+  - Each hit from a Wei Soldier Minion dispels all dispellable buffs from the target.
+  - All allies get +40% defense for 5 turns.
   types:
-    - Hit All
-    - Summoner
-    - Defense buff
+  - Hit All
+  - Summoner
+  - Defense buff
   passives:
-    - 'Unstoppable Minions:'
-    - ' * Resistance against Minion removal.'
-    - " * Can't be prevented from receiving Minions."
-    - " * Minion attack and abilities can't be disabled."
+  - 'Unstoppable Minions:'
+  - ' * Resistance against Minion removal.'
+  - ' * Can''t be prevented from receiving Minions.'
+  - ' * Minion attack and abilities can''t be disabled.'
   image: https://i.imgur.com/zsLpVZ2.jpg
+...

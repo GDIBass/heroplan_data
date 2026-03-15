@@ -1,29 +1,30 @@
+---
 name: Doxan
-class: Fighter
-speed: Fast
 source: superelemental
 family: superelemental
+speed: Fast
+class: Fighter
 power: 905
 attack: 887
 defense: 828
 health: 1705
 skill: Dual Laser Blades
 effects:
-  - Deals 500% damage to the target and minor damage to all Nature enemies.
-  - The target and all Nature enemies receive 992 Burn damage over 4 turns.
+- Deals 500% damage to the target and minor damage to all Nature enemies.
+- The target and all Nature enemies receive 992 Burn damage over 4 turns.
 types:
-  - Hit 1
-  - Hit All Nature 
-  - DoT 1
-  - DoT All Nature 
+- Hit 1
+- Hit All Nature
+- DoT 1
+- DoT All Nature
 passives:
-  - 'Troop Mastery:'
-  - >-
-    Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.
-  - ' - Dealt extra elemental damage: +100%'
-  - >-
-    Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
-  - ' - Received elemental damage: -10%'
+- 'Troop Mastery:'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra elemental
+  damage against weaker element.'
+- ' * Dealt extra elemental damage: +100%'
+- 'Passive Skill as defending character: This hero receives less elemental damage
+  from Troops of stronger element.'
+- ' * Received elemental damage: -10%'
 image: https://i.imgur.com/aM5vSU2.jpg
 costume:
   design: costume1
@@ -35,21 +36,22 @@ costume:
   health: 2483
   skill: Dual Data Blades
   effects:
-    - Deals 550% damage to the target and minor damage to all Nature enemies.
-    - The target and all Nature enemies receive 1504 Burn damage over 4 turns.
-    - The caster and all Fire allies get +30% attack for 4 turns.
+  - Deals 550% damage to the target and minor damage to all Nature enemies.
+  - The target and all Nature enemies receive 1504 Burn damage over 4 turns.
+  - The caster and all Fire allies get +30% attack for 4 turns.
   types:
-    - Hit 1
-    - Hit All Nature 
-    - DoT 1
-    - DoT All Nature 
-    - Attack Buff to Fire allies
+  - Hit 1
+  - Hit All Nature
+  - DoT 1
+  - DoT All Nature
+  - Attack Buff to Fire allies
   passives:
-    - 'Troop Mastery:'
-    - >-
-      Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.
-    - ' - Dealt extra elemental damage: +150%'
-    - >-
-      Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
-    - ' - Received elemental damage: -25%'
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This hero''s Troops deal extra elemental
+    damage against weaker element.'
+  - ' - Dealt extra elemental damage: +150%'
+  - 'Passive Skill as defending character: This hero receives less elemental damage
+    from Troops of stronger element.'
+  - ' - Received elemental damage: -25%'
   image: https://imgur.com/2BXA5Mj.jpg
+...

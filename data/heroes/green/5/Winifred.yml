@@ -1,3 +1,4 @@
+---
 name: Winifred
 source: festival
 family: bard
@@ -9,16 +10,18 @@ defense: 832
 health: 1582
 skill: Madrigal of Mayhem
 effects:
-  - Deals 550% damage to the target.
-  - The attack chains through all the enemies who are adjacent to any hit enemy and deals minor damage.
-  - All hit targets get -54% attack for 5 turns.
-  - All hit targets are immune to new status effect buffs for 5 turns.
+- Deals 550% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy and
+  deals minor damage.
+- All hit targets get -54% attack for 5 turns.
+- All hit targets are immune to new status effect buffs for 5 turns.
 types:
-  - Hit 1
-  - Chain
-  - Attack Debuff on hit
-  - Buff Immunity on hit
+- Hit 1
+- Chain
+- Attack Debuff on hit
+- Buff Immunity on hit
 passives:
-  - >-
-    Defense ailment reduction: Reduces the effect of defense ailments by 80%. The effect applies to this character and all its allies in the battle.
+- 'Defense ailment reduction: Reduces the effect of defense ailments by 80%. The effect
+  applies to this character and all its allies in the battle.'
 image: https://i.imgur.com/keg45a3.jpg
+...

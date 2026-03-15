@@ -1,28 +1,29 @@
+---
 name: Emilio
-class: Druid
 source: starfall
 family: starfall
 speed: Very Fast
+class: Druid
 power: 809
 attack: 745
 defense: 803
 health: 1406
 skill: Flames and Rejuvenation
 effects:
-  - 'Casts one of the following special skills:'
-  - ' '
-  - 'If any enemy has the Burn Status Ailment:'
-  - ' * All enemies receive 415 Burn damage over 5 turns.'
-  - ' * All allies regenerate 549 HP over 3 turns.'
-  - ' * All allies are immune to new status ailments for 3 turns.'
-  - 'Otherwise:'
-  - ' * All enemies receive 365 Burn damage over 5 turns.'
-  - ' * All allies are immune to new status ailments for 3 turns.'
+- 'Casts one of the following special skills:'
+- ""
+- 'If any enemy has the Burn Status Ailment:'
+- ' * All enemies receive 415 Burn damage over 5 turns.'
+- ' * All allies regenerate 549 HP over 3 turns.'
+- ' * All allies are immune to new status ailments for 3 turns.'
+- 'Otherwise:'
+- ' * All enemies receive 365 Burn damage over 5 turns.'
+- ' * All allies are immune to new status ailments for 3 turns.'
 types:
-  - Gamble
-  - DoT All
-  - HoT All
-  - Status Ailments Immunity All
+- Gamble
+- DoT All
+- HoT All
+- Status Ailments Immunity All
 image: https://i.imgur.com/iAnFGWC.jpg
 costume:
   design: costume1
@@ -34,21 +35,22 @@ costume:
   health: 2336
   skill: Frogs and Hoop
   effects:
-    - 'Casts one of the following Special Skills:'
-    - " "
-    - 'If any enemy has the Burn status ailment:'
-    - ' * All enemies receive 715 Burn damage over 5 turns.'
-    - ' * All allies regenerate 450 HP over 3 turns.'
-    - ' * All allies are immune to new status ailments for 3 turns.'
-    - 'Otherwise:'
-    - ' * All enemies receive 620 Burn damage over 5 turns.'
-    - ' * All allies are immune to new status ailments for 3 turns.'
+  - 'Casts one of the following Special Skills:'
+  - ""
+  - 'If any enemy has the Burn status ailment:'
+  - ' * All enemies receive 715 Burn damage over 5 turns.'
+  - ' * All allies regenerate 450 HP over 3 turns.'
+  - ' * All allies are immune to new status ailments for 3 turns.'
+  - 'Otherwise:'
+  - ' * All enemies receive 620 Burn damage over 5 turns.'
+  - ' * All allies are immune to new status ailments for 3 turns.'
   types:
-    - Gamble
-    - DoT All
-    - HoT All
-    - Status Ailments Immunity All
+  - Gamble
+  - DoT All
+  - HoT All
+  - Status Ailments Immunity All
   passives:
-    - >-
-      Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy.
+  - 'Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a
+    new copy of the cleansed ailment is applied on a random enemy.'
   image: https://imgur.com/Jiz6BXT.jpg
+...

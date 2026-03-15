@@ -1,3 +1,4 @@
+---
 name: Tethys
 source: season2
 family: atlantis
@@ -9,14 +10,14 @@ defense: 770
 health: 1468
 skill: Amphibious Assault
 effects:
-  - Deals 300% damage to target and nearby enemies.
-  - The target and nearby enemies receive 396 Water damage over 3 turns.
-  - All allies that are not of Ice element get +30% attack of 3 turns.
-  - All Ice allies get +60% attack for 3 turns.
+- Deals 300% damage to target and nearby enemies.
+- The target and nearby enemies receive 396 Water damage over 3 turns.
+- All allies that are not of Ice element get +30% attack of 3 turns.
+- All Ice allies get +60% attack for 3 turns.
 types:
-  - Hit 3
-  - Dot 3
-  - Attack Buff All
+- Hit 3
+- DoT 3
+- Attack Buff All
 image: https://i.imgur.com/LPmQIgT.jpg
 costume:
   design: costume1
@@ -28,12 +29,13 @@ costume:
   health: 1900
   skill: Oceanic Offensive
   effects:
-    - Deals 400% damage to the target and nearby enemies.
-    - The target and nearby enemies receive 657 Water damage over 3 turns.
-    - All allies that are not of Ice element get +35% attack for 3 turns.
-    - All  Ice allies get +65% attack for 3 turns.
+  - Deals 400% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 657 Water damage over 3 turns.
+  - All allies that are not of Ice element get +35% attack for 3 turns.
+  - All  Ice allies get +65% attack for 3 turns.
   types:
-    - Hit 3
-    - DoT 3
-    - Attack Buff All
+  - Hit 3
+  - DoT 3
+  - Attack Buff All
   image: https://imgur.com/JHMzCNP.jpg
+...

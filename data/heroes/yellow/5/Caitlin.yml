@@ -1,3 +1,4 @@
+---
 name: Caitlin
 source: slayers
 family: slayer
@@ -9,21 +10,22 @@ defense: 821
 health: 1446
 skill: Dispelling Willpower
 effects:
-  - Dispels buffs from all enemies.
-  - Deals 180% damage to all enemies
-  - Deals additional 20% damage per removed status effect, up to 340% damage in total.
-  - 'Stack (Max: 10): The caster gets +5% mana generation'
-  - 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
+- Dispels buffs from all enemies.
+- Deals 180% damage to all enemies
+- Deals additional 20% damage per removed status effect, up to 340% damage in total.
+- 'Stack (Max: 10): The caster gets +5% mana generation'
+- 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
 types:
-  - Dispeller All
-  - Hit All
-  - Self Mana Generation Stacks
-  - Self HoT Stacks
+- Dispeller All
+- Hit All
+- Self Mana Generation Stacks
+- Self HoT Stacks
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character is immune to incoming damage
+  from status effects and stacks.'
 image: https://i.imgur.com/ERb7z96.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 1210
@@ -32,19 +34,20 @@ costume:
   health: 2358
   skill: Dispelling Judgement
   effects:
-    - Dispels buffs from all enemies.
-    - Deals 170% damage to all enemies.
-    - Deals additional 25% damage per removed status effect, up to 370% damage in total.
-    - 'Stack +2 (Max: 10): The caster gets +12% mana generation.'
-    - 'Stack +3 (Max: 10): The caster recovers 45 HP each turn.'
+  - Dispels buffs from all enemies.
+  - Deals 170% damage to all enemies.
+  - Deals additional 25% damage per removed status effect, up to 370% damage in total.
+  - 'Stack +2 (Max: 10): The caster gets +12% mana generation.'
+  - 'Stack +3 (Max: 10): The caster recovers 45 HP each turn.'
   types:
-    - Dispeller All
-    - Hit All
-    - Self Mana Generation Stacks
-    - Self HoT Stacks
+  - Dispeller All
+  - Hit All
+  - Self Mana Generation Stacks
+  - Self HoT Stacks
   passives:
-    - >-
-      Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
-    - >-
-      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 528 Bleed damage over 4 turns.
+  - 'Resist Damage from Status Effects: This character has innate resistance against
+    incoming damage from status effects.'
+  - 'Bleed on Special Skill: When this character casts their Special Skill, all enemies
+    receive 528 Bleed damage over 4 turns.'
   image: https://i.imgur.com/JgYBU3i.jpg
+...

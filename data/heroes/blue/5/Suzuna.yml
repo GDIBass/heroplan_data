@@ -1,6 +1,7 @@
+---
 name: Suzuna
 source: hotm
-family: 2023
+family: "2023"
 speed: Fast
 class: Cleric
 power: 823
@@ -9,17 +10,20 @@ defense: 764
 health: 1462
 skill: Easy-breezy Aura
 effects:
-  - Cleanses status ailments from the caster and nearby allies.
-  - The caster and nearby allies reflect status ailments and negative stacks for 3 turns. Status effects casts by characters, Minions and fiends on the same side cannot be reflected.
-  - The caster and nearby allies regenerate 855 HP over 3 turns.
-  - Element Link recovers 4% health for all Ice allies for 4 turns. This effect can't be dispelled.
+- Cleanses status ailments from the caster and nearby allies.
+- The caster and nearby allies reflect status ailments and negative stacks for 3 turns.
+  Status effects casts by characters, Minions and fiends on the same side cannot be
+  reflected.
+- The caster and nearby allies regenerate 855 HP over 3 turns.
+- Element Link recovers 4% health for all Ice allies for 4 turns. This effect can't
+  be dispelled.
 types:
-  - Cleanser 3
-  - Reflect Ailments 3
-  - HoT 3
+- Cleanser 3
+- Reflect Ailments 3
+- HoT 3
 passives:
-  - >-
-    Resist Healing Ailments: This character has innate resistance against status ailments that affect healing.
-  - >-
-    Resist Fiends: This character can't receive Fiends.
+- 'Resist Healing Ailments: This character is immune to status ailments that affect
+  healing.'
+- 'Resist Fiends: This character can''t receive Fiends.'
 image: https://i.imgur.com/Mep7TSo.jpg
+...

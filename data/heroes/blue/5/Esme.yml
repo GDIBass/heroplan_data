@@ -1,3 +1,4 @@
+---
 name: Esme
 source: knights
 family: wolf
@@ -9,11 +10,12 @@ defense: 780
 health: 1477
 skill: Fiendslayer
 effects:
-  - Destroys all Fiends from all allies.
-  - Boosts health of all allies by 650. Boosted health can exceed max HP.
-  - If an ally had fiends they will be immune to new Fiends for 4 turns.
+- Destroys all Fiends from all allies and damages Mega Fiends.
+- Boosts health of all allies by 650. Boosted health can exceed max HP.
+- If an ally had fiends they will be immune to new Fiends for 4 turns.
 types:
-  - Fiend Destroyer All
-  - Boosted Heal All
-  - Fiend immunity
+- Fiend Destroyer All
+- Boosted Heal All
+- Fiend Immunity
 image: https://i.imgur.com/nObQye7.jpg
+...

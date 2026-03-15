@@ -8,7 +8,7 @@ power: 866
 attack: 832
 defense: 826
 health: 1563
-skill: Sword Dance
+skill: Masterful Manipulation
 effects:
 - Deals 385% damage to all enemies.
 - The caster regenerates 918 HP over 6 turns.
@@ -18,7 +18,7 @@ effects:
   team for 6 turns. Only cleansable ailments are reflected.
 types:
 - Hit All
-- Self HoT
+- HoT Self
 - Reflect Buffs All
 - Reflect Ailments All
 passives:

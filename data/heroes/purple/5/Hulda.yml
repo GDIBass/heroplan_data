@@ -1,3 +1,4 @@
+---
 name: Hulda
 source: season4
 family: underwild
@@ -9,16 +10,22 @@ defense: 782
 health: 1479
 skill: Pet Larva
 effects:
-  - Summons a Larva Minion for each ally with 31% HP inheried from the caster. The Minion recovers 11% health for its owner at the end of each turn.
-  - When summoned, the Larva Minion gives +24% mana generation for its owner for as long as the owner has Larva Minions. This effect can't be dispelled.
-  - When summoned, the Larva Minion gives +54% defense for is owner for as long as the owner has Larva Minions. This effect can't be dispelled.
+- Summons a Larva Minion for each ally with 31% HP inheried from the caster. The Minion
+  recovers 11% health for its owner at the end of each turn.
+- When summoned, the Larva Minion gives +24% mana generation for its owner for as
+  long as the owner has Larva Minions. This effect can't be dispelled.
+- When summoned, the Larva Minion gives +54% defense for is owner for as long as the
+  owner has Larva Minions. This effect can't be dispelled.
 types:
-  - Summoner
+- Summoner All
+- Mana Generation Buff Minion
+- Defense Buff Minion
 passives:
-  - >-
-    Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn.
+- 'Increase Buff Duration: Duration of the first 3 buffs this character receives from
+  Special Skill is increased by 1 turn.'
 image: https://i.imgur.com/J9OOPtS.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 1034
@@ -27,14 +34,20 @@ costume:
   health: 1952
   skill: Larva Prescription
   effects:
-    - Summons a Larva Minion for each ally with 36% HP inherited from the caster. The Minion recovers 15% health for its owner at the end of each turn.
-    - When summoned, the Larva Minion gives +24% mana generation for its owner for as long as the owner has Larva Minions. This effect can't be dispelled.
-    - When summoned, the Larva Minion gives +50% defense for its owner for as long as the owner has Larva Minions. This effect can't be dispelled.
+  - Summons a Larva Minion for each ally with 36% HP inherited from the caster. The
+    Minion recovers 15% health for its owner at the end of each turn.
+  - When summoned, the Larva Minion gives +24% mana generation for its owner for as
+    long as the owner has Larva Minions. This effect can't be dispelled.
+  - When summoned, the Larva Minion gives +50% defense for its owner for as long as
+    the owner has Larva Minions. This effect can't be dispelled.
   types:
-    - Summoner
+  - Summoner All
+  - Mana Generation Buff Minion
+  - Defense Buff Minion
   passives:
-    - >-
-      Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skills is increased by 1 turn.
-    - >-
-      Health Boost on Special Skill: When this characters casts their Special Skill, they boost the health of all their allies by 10%.
+  - 'Increase Buff Duration: Duration of the first 3 buffs this character receives
+    from Special Skills is increased by 1 turn.'
+  - 'Health Boost on Special Skill: When this characters casts their Special Skill,
+    they boost the health of all their allies by 10%.'
   image: https://i.imgur.com/sPMKsgr.jpg
+...

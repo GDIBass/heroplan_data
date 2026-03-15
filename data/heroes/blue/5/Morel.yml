@@ -1,3 +1,4 @@
+---
 name: Morel
 source: season4
 family: underwild
@@ -9,16 +10,17 @@ defense: 745
 health: 1452
 skill: Deathly Glaive
 effects:
-  - Deals 180% damage to all enemies
-  - All enemis get -34% defense for 3 turns.
+- Deals 180% damage to all enemies
+- All enemis get -34% defense for 3 turns.
 types:
-  - Hit All
-  - Defense Debuff All
+- Hit All
+- Defense Debuff All
 passives:
-  - >-
-    Increased Special Skill Damage: The first time this character casts a Special Skill that does damage, an additional 30% is added to its power.
+- 'Increased Special Skill Damage: The first time this character casts a Special Skill
+  that does damage, an additional 30% is added to its power.'
 image: https://i.imgur.com/BbpdvD9.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 1021
@@ -27,16 +29,18 @@ costume:
   health: 1957
   skill: Staff of the Seastar
   effects:
-    - Deals 145% damage to all enemies.
-    - All enemies get -34% defense for 3 turns.
-    - All allies regenerate 411 HP over 3 turns.
+  - Deals 145% damage to all enemies.
+  - All enemies get -34% defense for 3 turns.
+  - All allies regenerate 411 HP over 3 turns.
   types:
-    - Hit all
-    - Defense Debuff All
-    - HoT All
+  - Hit all
+  - Defense Debuff All
+  - HoT All
   passives:
-    - >-
-      Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.
-    - >-
-      Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns.
+  - 'Increased Special Skill Damage: This first time this character cast a Special
+    Skill that deals damage an additional 30% is added to its power.'
+  - 'Increased Damage Against Boosted Health: After Special Skill cast, all allies''
+    normal attacks and Special Skills deal +70% damage against targets with boosted
+    health for 4 turns.'
   image: https://i.imgur.com/MAsmJsS.jpg
+...

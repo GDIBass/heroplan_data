@@ -15,10 +15,10 @@ effects:
   healing for 4 turns.
 types:
 - Hit 1
+- Healing Resist Debuff 3
 - Damage on each Resisted Healing 3
 passives:
-- 'Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies
-  are disabled.'
+- 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/BFeoiOp.jpg
 costume:
   design: costume1

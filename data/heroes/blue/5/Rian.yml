@@ -1,3 +1,4 @@
+---
 name: Rian
 source: slayers
 family: slayer
@@ -7,19 +8,20 @@ power: 808
 attack: 725
 defense: 817
 health: 1439
-skill: Cleansing determination
+skill: Cleansing Determination
 effects:
-  - Cleanses status ailments from all allies.
-  - Deals 210% damage to all enemies.
-  - Deals additional 25% damage per removed status effect, up to 410% damage in total.
-  - 'Stack (Max: 10): The caster gets +5% mana generation'
-  - 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
+- Cleanses status ailments from all allies.
+- Deals 210% damage to all enemies.
+- Deals additional 25% damage per removed status effect, up to 410% damage in total.
+- 'Stack (Max: 10): The caster gets +5% mana generation'
+- 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
 types:
-  - Cleanser All
-  - Hit All
-  - Self Mana Generation Buff Stack
-  - Self HoT Stack
+- Cleanser All
+- Hit All
+- Self Mana Generation Buff Stack
+- Self HoT Stack
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character is immune to incoming damage
+  from status effects and stacks.'
 image: https://i.imgur.com/pgR8NJw.jpg
+...

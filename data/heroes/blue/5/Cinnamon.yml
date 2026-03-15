@@ -1,6 +1,7 @@
+---
 name: Cinnamon
-family: pets
 source: pets
+family: pets
 speed: Average
 class: Paladin
 power: 878
@@ -9,16 +10,17 @@ defense: 850
 health: 1580
 skill: Frozen Wind
 effects:
-  - Deals 250% damage to all enemies.
-  - All enemies receive 524 Frost damage over 4 turns.
-  - All enemies get -54% defense against Ice for 4 turns.
+- Deals 250% damage to all enemies.
+- All enemies receive 524 Frost damage over 4 turns.
+- All enemies get -54% defense against Ice for 4 turns.
 types:
-  - Hit All
-  - DoT All
-  - EDD All
+- Hit All
+- DoT All
+- EDD All
 passives:
-  - >-
-    Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
-  - >-
-    Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
+- 'Friend of the Familiars: When a Minion is summoned to any ally, this character
+  gains 5% health and 5% mana. This effect can activate only once per turn.'
+- 'Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85%
+  damage to all enemies. This effect can activate only once per turn.'
 image: https://i.imgur.com/RDVpqBy.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Alucard
 source: morlovia
 family: morlovia
@@ -9,20 +10,24 @@ defense: 803
 health: 1454
 skill: Vampiric Curse
 effects:
-  - Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.
-  - Deals 250% damage to the target and nearby enemies.
-  - All allies recover 10% health for each destroyed Minion.
-  - All allies get 3% mana for each destroyed Minion.
-  - The attack bypasses defensive buffs. This includes counterattacks.
+- Destroys all Minions from the target and nearby enemies. This effect damages Mega
+  Minions.
+- Deals 250% damage to the target and nearby enemies.
+- All allies recover 10% health for each destroyed Minion.
+- All allies get 3% mana for each destroyed Minion.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
 types:
-  - Minion Destroyer 3
-  - Hit 3
-  - Bypass
+- Minion Destroyer 3
+- Hit 3
+- Heal All per minion destroyed
+- Bypass
 passives:
-  - >-
-    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+- 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+  to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
+  has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/ZDIKUNx.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 1224
@@ -31,16 +36,19 @@ costume:
   health: 2230
   skill: Vampiric Heist
   effects:
-    - Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.
-    - Deals 245% damage to the target and nearby enemies.
-    - All allies recover 12% health for each destroyed Minion.
-    - All allies get 3% mana for each destroyed Minion.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Destroys all Minions from the target and nearby enemies. This effect damages Mega
+    Minions.
+  - Deals 245% damage to the target and nearby enemies.
+  - All allies recover 12% health for each destroyed Minion.
+  - All allies get 3% mana for each destroyed Minion.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
   types:
-    - Minion Destroyer 3
-    - Hit 3
-    - Bypass
+  - Minion Destroyer 3
+  - Hit 3
+  - Bypass
   passives:
-    - >-
-      Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+  - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+    to steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/ed8i62p.jpg
+...

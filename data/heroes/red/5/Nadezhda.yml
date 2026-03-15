@@ -1,3 +1,4 @@
+---
 name: Nadezhda
 source: magic
 family: magic
@@ -9,24 +10,27 @@ defense: 782
 health: 1446
 skill: Flame of the Dragon Familiar
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200% mana:'
-  - '1x Mana Charge:'
-  - ' * The target and nearby enemies receive 156 Burn damage over 2 turns.'
-  - ' * If the caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.'
-  - '2x Mana Charge:'
-  - ' * Each defeated ally has a 50% chance to get revived with 40% HP.'
-  - ' * All allies regenerate 714 HP over 3 turns.'
-  - ' * All allies reduce all received damage by -50% for 3 turns.'
+- 'Special Skill has a different effect when charged with 100%/200% mana:'
+- '1x Mana Charge:'
+- ' * The target and nearby enemies receive 156 Burn damage over 2 turns.'
+- ' * If the caster dies during the next 2 turns they are resurrected in the beginning
+  of their next turn with 32% health. All status effects and stacks are removed when
+  the caster dies.'
+- '2x Mana Charge:'
+- ' * Each defeated ally has a 50% chance to get revived with 40% HP.'
+- ' * All allies regenerate 714 HP over 3 turns.'
+- ' * All allies reduce all received damage by -50% for 3 turns.'
 types:
-  - Charge
-  - DoT 3
-  - Self resurrection
-  - Reviver
-  - HoT All
-  - Damage Reduction All
+- Charge
+- DoT 3
+- Self resurrection
+- Reviver
+- HoT All
+- Damage Reduction All
 passives:
-  - >-
-    Health recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.
+- 'Health recovery on special: When this character casts their Special Skill, they
+  have a 50% chance to recover 15% health for all allies. If the Special Skill is
+  fully charged, the chance is 100%.'
 image: https://i.imgur.com/i5g8Fr0.jpg
 costume:
   design: costume1
@@ -38,24 +42,29 @@ costume:
   health: 2249
   skill: Parcel of the Dragon Familiar
   effects:
-    - "Special Skill has a different effect when charged with 100% / 200% mana:"
-    - "1x Mana Charge:"
-    - " * All enemies receive 350 Burn damage over 2 turns. The caster absorbs 10% of dealt Burn damage as health."
-    - " * If the caster is defeated during the next 2 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stack are removed when the caster is defeated."
-    - "2x Mana Charge:"
-    - " * Each defeated ally has a 55% chance to get revived with 44% HP."
-    - " * All allies regenerate 795 boosted health over 3 turns. Boosted health can exceed max HP."
-    - " * All allies reduce all received damage by -60% for 3 turns."
+  - 'Special Skill has a different effect when charged with 100% / 200% mana:'
+  - '1x Mana Charge:'
+  - ' * All enemies receive 350 Burn damage over 2 turns. The caster absorbs 10% of
+    dealt Burn damage as health.'
+  - ' * If the caster is defeated during the next 2 turns, they are resurrected in
+    the beginning of their next turn with 40% health. All status effects and stack
+    are removed when the caster is defeated.'
+  - '2x Mana Charge:'
+  - ' * Each defeated ally has a 55% chance to get revived with 44% HP.'
+  - ' * All allies regenerate 795 boosted health over 3 turns. Boosted health can
+    exceed max HP.'
+  - ' * All allies reduce all received damage by -60% for 3 turns.'
   types:
-    - Charge
-    - DoT All
-    - Self resurrection
-    - Reviver
-    - Boosted HoT All
-    - Damage Reduction All
+  - Charge
+  - DoT All
+  - Self resurrection
+  - Reviver
+  - Boosted HoT All
+  - Damage Reduction All
   passives:
-    - >-
-      Health Recovery on Special: When this character casts their Special Skill, they have a 60% chance to recover 20% health for allies. If the Special Skill is fully charged, the chance is 100%.
-    - >-
-      Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+  - 'Health Recovery on Special: When this character casts their Special Skill, they
+    have a 60% chance to recover 20% health for allies. If the Special Skill is fully
+    charged, the chance is 100%.'
+  - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/bdS7gtT.jpg
+...

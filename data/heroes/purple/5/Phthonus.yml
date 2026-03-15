@@ -1,3 +1,4 @@
+---
 name: Phthonus
 source: love
 family: cupid
@@ -9,14 +10,16 @@ defense: 809
 health: 1580
 skill: Potions of Covetous Desire
 effects:
-  - Deals 360% damage to all enemies.
-  - Dispels buffs from all enemies.
-  - Recovers 8% health per removed status effect for all allies, up to 64% health in total.
+- Deals 360% damage to all enemies.
+- Dispels buffs from all enemies.
+- Recovers 8% health per removed status effect for all allies, up to 64% health in
+  total.
 types:
-  - Hit All
-  - Dispeller All
-  - Healer All
+- Hit All
+- Dispeller All
+- Heal All on buff dispelled
 passives:
-  - >-
-    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skills.'
 image: https://i.imgur.com/OE7cx2p.jpg
+...

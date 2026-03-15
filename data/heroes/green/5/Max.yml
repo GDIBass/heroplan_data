@@ -1,3 +1,4 @@
+---
 name: Max
 source: pets
 family: pets
@@ -9,16 +10,19 @@ defense: 867
 health: 1540
 skill: Puppy Tales
 effects:
-  - Recovers 45% health for all allies.
-  - Summons a Brown Puppy Minion for each ally with 35% HP and 55% attack inherited from the caster.
-  - All allies reduce all received damage from the attacks and special skills of the stronger enemy by -80% for 5 turns.
+- Recovers 45% health for all allies.
+- Summons a Brown Puppy Minion for each ally with 35% HP and 55% attack inherited
+  from the caster.
+- All allies reduce all received damage from the attacks and special skills of the
+  stronger enemy by -80% for 5 turns.
 types:
-  - Heal All
-  - Summoner
-  - Damage Reduction All
+- Heal All
+- Summoner All
+- Damage Reduction All
 passives:
-  - >-
-    Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
-  - >-
-    Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
+- 'Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85%
+  damage to all enemies. This effect can activate only once per turn.'
+- 'Friend of the Familiars: When a Minion is summoned to any ally, this character
+  gains 5% health and 5% mana. This effect can activate only once per turn.'
 image: https://i.imgur.com/V0qUVNH.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Meresankh
 source: season5
 family: sun
@@ -9,22 +10,22 @@ defense: 879
 health: 1643
 skill: Impossible Riddle
 effects:
-  - Deals 130% damage to all enemies.
-  - The more mana the enemies have,the more damage they will receive,up to 250%
-  - Reduces the mana of all enemies by 20%.
-  - All enemies get -14% mana generation for 3 turns.
+- Deals 130% damage to all enemies.
+- The more mana the enemies have,the more damage they will receive,up to 250%
+- Reduces the mana of all enemies by 20%.
+- All enemies get -14% mana generation for 3 turns.
 types:
-  - Hit all
-  - Mana Reduction
-  - Mana Generation Debuff
+- Hit All
+- Mana Reduction All
+- Mana Generation Debuff All
 passives:
-  - >-
-    Effects on Special Skill: 60% chance to perform the following actions when
-    this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * All enemies receive 231 Sand damage over 3 turns.'
+- 'Effects on Special Skill: 60% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 70% damage to all enemies.'
+- ' * All enemies receive 231 Sand damage over 3 turns.'
 image: https://i.imgur.com/PIgKmeD.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 1219
@@ -33,21 +34,23 @@ costume:
   health: 2403
   skill: Impossible Groove
   effects:
-    - Deals 180% damage to all enemies.
-    - The more mana the enemies have, the more damage they will receive, up to 300%.
-    - Reduces the mana of all enemies by 15%.
-    - All enemies get -10% mana generation for 3 turns.
+  - Deals 180% damage to all enemies.
+  - The more mana the enemies have, the more damage they will receive, up to 300%.
+  - Reduces the mana of all enemies by 15%.
+  - All enemies get -10% mana generation for 3 turns.
   types:
-    - Hit all
-    - Mana Reduction
-    - Mana Generation Debuff
+  - Hit all
+  - Mana Reduction
+  - Mana Generation Debuff
   passives:
-    - >-
-      Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 70% damage to all enemies.'
-    - ' * All enemies receive 357 Sand damage over 3 turns.'
-    - >-
-      Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
-    - >-
-      Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage an additional 50% is added to its power.
+  - 'Effects on Special Skill: 60% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies receive 357 Sand damage over 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  - 'Increased Special Skill Damage: The first time this character casts a Special
+    Skill that deals damage an additional 50% is added to its power.'
   image: https://i.imgur.com/4IURwj4.jpg
+...

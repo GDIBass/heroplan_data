@@ -1,3 +1,4 @@
+---
 name: Sekhmet
 source: season5
 family: sun
@@ -9,16 +10,16 @@ defense: 782
 health: 1487
 skill: Pounce of the Lioness
 effects:
-  - Deals 450% damage to the target.
-  - Heals all allies for 40% of the damage dealt.
+- Deals 450% damage to the target.
+- Heals all allies for 40% of the damage dealt.
 types:
-  - Hit 1
-  - Damage Heal
+- Hit 1
+- Damage Heal All
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * All enemies get -34% attack for 3 turns.'
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 70% damage to all enemies.'
+- ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/8oISZes.jpg
 costume:
   design: costume1
@@ -30,18 +31,20 @@ costume:
   health: 2199
   skill: Flame of the Lioness
   effects:
-    - Deals 500% damage to the target.
-    - Heals all allies for 35% of damage dealt.
+  - Deals 500% damage to the target.
+  - Heals all allies for 35% of damage dealt.
   types:
-    - Hit 1
-    - Damage Heal All
+  - Hit 1
+  - Damage Heal All
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 70% damage to all enemies.'
-    - ' * All enemies get -34% attack for 3 turns.'
-    - >-
-      Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
-    - >-
-      Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies get -34% attack for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  - 'Mana on Health Boosting Special Skill: This character gains 5% mana each time
+    an enemy casts a Special Skill that directly boosts health.'
   image: https://i.imgur.com/ykQVLB2.jpg
+...

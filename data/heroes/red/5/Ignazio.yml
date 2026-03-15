@@ -1,3 +1,4 @@
+---
 name: Ignazio
 source: superelemental
 family: superelemental
@@ -9,23 +10,23 @@ defense: 924
 health: 1851
 skill: Purifying Flame
 effects:
-  - Recovers 25% health for all allies.
-  - Recovers additional 3% health per each Fire shield on the board, up to 55% health in total.
-  - All allies get +50% attack for 4 turns.
-  - Cleanses status ailments from all allies
+- Recovers 25% health for all allies.
+- Recovers additional 3% health per each Fire shield on the board, up to 55% health
+  in total.
+- All allies get +50% attack for 4 turns.
+- Cleanses status ailments from all allies
 types:
-  - Heal all
-  - Elemental Heal Red
-  - Attack Buff All
-  - Cleanser All
+- Heal All
+- Attack Buff All
+- Cleanser All
 passives:
-  - 'Troop Mastery:'
-  - >-
-    Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.
-  - ' - Dealt extra elemental damage: +100%'
-  - >-
-    Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
-  - ' - Received elemental damage: -10%'
+- 'Troop Mastery:'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra elemental
+  damage against weaker element.'
+- ' * Dealt extra elemental damage: +100%'
+- 'Passive Skill as defending character: This hero receives less elemental damage
+  from Troops of stronger element.'
+- ' * Received elemental damage: -10%'
 image: https://i.imgur.com/y6oi4Yq.jpg
 costume:
   design: costume1
@@ -37,21 +38,23 @@ costume:
   health: 2415
   skill: Cauterizing Flame
   effects:
-    - Recovers 28% health for all allies.
-    - Recovers additional 4% health per each Fire shield on the board, up to 60%.
-    - All allies get 55% attack for 4 turns. This status effect is undispellable and lasts 2 turns longer on Fire allies.
-    - Cleanses status ailments from all allies.
+  - Recovers 28% health for all allies.
+  - Recovers additional 4% health per each Fire shield on the board, up to 60%.
+  - All allies get 55% attack for 4 turns. This status effect is undispellable and
+    lasts 2 turns longer on Fire allies.
+  - Cleanses status ailments from all allies.
   types:
-    - Heal All
-    - Elemental Heal Red
-    - Attack Buff All
-    - Cleanser All
+  - Heal All
+  - Elemental Heal Red
+  - Attack Buff All
+  - Cleanser All
   passives:
-    - 'Troop Mastery:'
-    - >-
-      Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.
-    - ' - Dealt extra elemental damage: +150%'
-    - >-
-      Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
-    - ' - Received elemental damage: -25%'
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This hero''s Troops deal extra elemental
+    damage against weaker element.'
+  - ' - Dealt extra elemental damage: +150%'
+  - 'Passive Skill as defending character: This hero receives less elemental damage
+    from Troops of stronger element.'
+  - ' - Received elemental damage: -25%'
   image: https://imgur.com/jf9JtOu.jpg
+...

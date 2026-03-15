@@ -1,3 +1,4 @@
+---
 name: Ray
 source: magic
 family: magic
@@ -9,28 +10,30 @@ defense: 908
 health: 1487
 skill: Blazing Slam Dunk
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200% mana:'
-  - '1x Mana Charge:'
-  - ' * All enemies receive 423 Burn damage over 3 turns.'
-  - ' * All enemies get -34% defense against Fire for 3 turns.'
-  - ' * Dispels buffs from all enemies.'
-  - '2x Mana Charge:'
-  - ' * All allies regenerate 1190 HP over 5 turns.'
-  - ' * All allies get +50% attack against Nature for 5 turns.'
-  - ' * Cleanses status ailments from all allies.'
+- 'Special Skill has a different effect when charged with 100%/200% mana:'
+- '1x Mana Charge:'
+- ' * All enemies receive 423 Burn damage over 3 turns.'
+- ' * All enemies get -34% defense against Fire for 3 turns.'
+- ' * Dispels buffs from all enemies.'
+- '2x Mana Charge:'
+- ' * All allies regenerate 1190 HP over 5 turns.'
+- ' * All allies get +50% attack against Nature for 5 turns.'
+- ' * Cleanses status ailments from all allies.'
 types:
-  - Charge
-  - DoT All
-  - Elemental Defense Debuff All
-  - Dispeller
-  - HoT All
-  - Elemental Attack Buff All
-  - Cleanser
+- Charge
+- DoT All
+- Elemental Defense Debuff All
+- Dispeller All
+- HoT All
+- Elemental Attack Buff All
+- Cleanser All
 passives:
-  - >-
-    Mana on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
-  - >-
-    Stack on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.
+- 'Mana on Special: When this character casts their Special Skill, all enemies get
+  -5% mana generation stack. If the Special Skill is fully charged, all enemies get
+  two stacks. An enemy can have up to 10 stacks.'
+- 'Stack on Special: When this character casts their Special Skill, they have a 50%
+  chance to give 10% mana to all allies. If the Special Skill is fully charged, the
+  chance is 100%.'
 image: https://i.imgur.com/0vSBWSh.jpg
 costume:
   design: costume1
@@ -42,28 +45,32 @@ costume:
   health: 2134
   skill: Thorned Slam Dunk
   effects:
-    - 'Special Skill has a different effect when charged with 100%/200% mana:'
-    - '1x Mana Charge:'
-    - ' * All enemies received 645 Burn damage over 3 turns. The caster absorbs 10% of dealt Burn damage as health.'
-    - ' * All enemies get -36% defense against Fire for 3 turns.'
-    - ' * Dispels buffs from all enemies.'
-    - '2x Mana Charge:'
-    - ' * All allies regenerate 1300 boosted health over 5 turns. Boosted health can exceed max HP.'
-    - ' * All allies get +60% attack against Nature for 5 turns.'
-    - ' * Cleanses status ailments from all allies.'
+  - 'Special Skill has a different effect when charged with 100%/200% mana:'
+  - '1x Mana Charge:'
+  - ' * All enemies received 645 Burn damage over 3 turns. The caster absorbs 10%
+    of dealt Burn damage as health.'
+  - ' * All enemies get -36% defense against Fire for 3 turns.'
+  - ' * Dispels buffs from all enemies.'
+  - '2x Mana Charge:'
+  - ' * All allies regenerate 1300 boosted health over 5 turns. Boosted health can
+    exceed max HP.'
+  - ' * All allies get +60% attack against Nature for 5 turns.'
+  - ' * Cleanses status ailments from all allies.'
   types:
-    - Charge
-    - DoT All
-    - Elemental Defense Debuff All
-    - Dispeller
-    - Boosted HoT All
-    - Elemental Attack Buff All
-    - Cleanser
+  - Charge
+  - DoT All
+  - Elemental Defense Debuff All
+  - Dispeller
+  - Boosted HoT All
+  - Elemental Attack Buff All
+  - Cleanser
   passives:
-    - >-
-      Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.
-    - >-
-      Stack on Special: When this character casts their Special Skill, all enemies get -7% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
-    - >-
-      Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+  - 'Mana on Special: When this character casts their Special Skill, they have a 60%
+    chance to give 10% mana to all allies. If the Special Skill is fully charged,
+    the chance is 100%.'
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get -7% mana generation stack. If the Special Skill is fully charged, all enemies
+    get two stacks. An enemy can have up to 10 stacks.'
+  - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/QG8aRPS.jpg
+...

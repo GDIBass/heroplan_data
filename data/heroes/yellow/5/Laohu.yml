@@ -14,10 +14,9 @@ effects:
 - Boosts the caster's health by 50% of damage dealt.
 types:
 - Hit 1
-- Self Health Boost
+- Health Boost Self
 passives:
-- 'Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies
-  are disabled.'
+- 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/3mERqj0.jpg
 costume:
   design: costume1

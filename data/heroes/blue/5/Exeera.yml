@@ -1,3 +1,4 @@
+---
 name: Exeera
 source: season4
 family: underwild
@@ -9,15 +10,17 @@ defense: 776
 health: 1390
 skill: Saturated Suffering
 effects:
-  - All enemies receive 237 Water damage, and an increase of 33 damage per each Ice shield on the board over 3 turns, up to 633 damage. This effect is uncleansable for all Fire enemies.
-  - All Ice enemies are immune to this attack
+- All enemies receive 237 Water damage, and an increase of 33 damage per each Ice
+  shield on the board over 3 turns, up to 633 damage. This effect is uncleansable
+  for all Fire enemies.
+- All Ice enemies are immune to this attack.
 types:
-  - DoT All
+- DoT All
 passives:
-  - >-
-    Start Battle with Mana: This character receives 20% mana at the start of the battle.
+- 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/UnO1gz8.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 1030
@@ -26,13 +29,17 @@ costume:
   health: 1860
   skill: Oceanic Suffering
   effects:
-    - All enemies receive 270 Water damage, and an increase of 54 damage per each Ice shield on the board over 3 turns, up to 918 damage. This effect is uncleansable for all Fire enemies.
-    - All Ice enemies are immune to this attack.
+  - All enemies receive 270 Water damage, and an increase of 54 damage per each Ice
+    shield on the board over 3 turns, up to 918 damage. This effect is uncleansable
+    for all Fire enemies.
+  - All Ice enemies are immune to this attack.
   types:
-    - DoT All
+  - DoT All
   passives:
-    - >-
-      Start Battle with Mana: This character receives 20% mana at the start of the battle.
-    - >-
-      Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns.
+  - 'Start Battle with Mana: This character receives 20% mana at the start of the
+    battle.'
+  - 'Increased Damage Against Boosted Health: After this character casts their Special
+    Skill, all allies deal +70% increased normal attack and Special Skills damage
+    against targets with boosted health for 4 turns.'
   image: https://i.imgur.com/4y90uTW.jpg
+...

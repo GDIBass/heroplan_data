@@ -1,25 +1,26 @@
+---
 name: Louhi
-class: Monk
-speed: Average
-family: kalevala
 source: kalevala
-power: 837
+family: kalevala
+speed: Average
+class: Monk
+power: 937
 attack: 927
 defense: 865
 health: 1759
 skill: Feather Tempest
 effects:
-  - Dispels buffs from all enemies.
-  - Deals 250% damage to all enemies.
-  - >-
-    All enemies get -24% defense for 4 turns. Against Holy characters, this
-    status effect becomes uncleansable and last 2 turns longer.
+- Dispels buffs from all enemies.
+- Deals 250% damage to all enemies.
+- All enemies get -24% defense for 4 turns. Against Holy characters, this status effect
+  becomes uncleansable and last 2 turns longer.
 types:
-  - Dispeler all
-  - Hit all
+- Dispeler All
+- Hit All
+- Defense Debuff All
 passives:
-  - >-
-    Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+- 'Power of Sisu: When this character starts a turn with low health for the first
+  time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/RQWKyOA.jpg
 costume:
   design: costume1
@@ -31,14 +32,16 @@ costume:
   health: 2390
   skill: Raging Tempest
   effects:
-    - Dispels buffs from all enemies.
-    - Deals 280% damage to all enemies.
-    - All enemies get -30% defense for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  - Dispels buffs from all enemies.
+  - Deals 280% damage to all enemies.
+  - All enemies get -30% defense for 4 turns. Against Holy characters, this status
+    effect becomes uncleansable and lasts 2 turns longer.
   types:
-    - Dispeler all
-    - Hit all
-    - Defense Debuff All
+  - Dispeler all
+  - Hit all
+  - Defense Debuff All
   passives:
-    - >-
-      Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+  - 'Power of Sisu: When this character starts a turn with low health for the first
+    time during a battle, they recover 15% health and receive 15% mana.'
   image: https://imgur.com/bKgarHR.jpg
+...

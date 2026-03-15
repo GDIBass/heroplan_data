@@ -1,6 +1,7 @@
+---
 name: Natalya
 source: hotm
-family: 2018
+family: "2018"
 speed: Fast
 class: Sorcerer
 power: 765
@@ -9,15 +10,17 @@ defense: 679
 health: 1419
 skill: Burning Chains
 effects:
-  - The target receives 1020 Burn damage over 4 turns. This effect can't be cleansed.
-  - The target gets -54% mana generation for 4 turns. This effect can't be cleansed.
-  - Deals extra damage against Nature.
-  - Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled.
+- The target receives 1016 Burn damage over 4 turns. This effect can't be cleansed.
+- The target gets -54% mana generation for 4 turns. This effect can't be cleansed.
+- Deals extra damage against Nature.
+- Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect
+  can't be dispelled.
 types:
-  - Dot 1
-  - Mana Generation Debuff
+- Dot 1
+- Mana Generation Debuff
 image: https://i.imgur.com/vuOEJDC.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 973
@@ -26,14 +29,16 @@ costume:
   health: 2024
   skill: Burning Thread
   effects:
-    - The target receives 1504 Burn damage over 4 turns. This effect can't be cleansed.
-    - The target gets -50% mana generation for 4 turns. This effect can't be cleansed.
-    - Deals extra damage against Nature.
-    - Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can't be displelled.
+  - The target receives 1504 Burn damage over 4 turns. This effect can't be cleansed.
+  - The target gets -50% mana generation for 4 turns. This effect can't be cleansed.
+  - Deals extra damage against Nature.
+  - Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This
+    effect can't be displelled.
   types:
-    - Dot 1
-    - Mana Generation Debuff
+  - Dot 1
+  - Mana Generation Debuff
   passives:
-    - >-
-      Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies.
+  - 'Dispel on Special Skill: When this character casts their Special Skill, they
+    dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/IO9WHYd.jpg
+...

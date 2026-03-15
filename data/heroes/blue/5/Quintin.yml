@@ -1,3 +1,4 @@
+---
 name: Quintin
 source: knights
 family: raven
@@ -9,9 +10,10 @@ defense: 766
 health: 1396
 skill: Echoes of Pain
 effects:
-  - Deals 420% damage to the target.
-  - The target receives 100% damage for all the damage their allies receive for 4 turns.
+- Deals 420% damage to the target.
+- For 4 turns, the target receives 100% damage for all the damage dealt to their allies.
 types:
-  - Hit 1
-  - Damage Link 1
+- Hit 1
+- Damage Link 1
 image: https://i.imgur.com/8ISALDU.jpg
+...

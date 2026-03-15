@@ -1,3 +1,4 @@
+---
 name: Passepartout
 source: season4
 family: underwild
@@ -9,18 +10,21 @@ defense: 803
 health: 1411
 skill: Helping Hands
 effects:
-  - Recovers 25% health for all allies.
-  - All allies regenerate 400 HP over 4 turns, and a further increase of 100 HP per each Nature shield on the board, up to 1200 HP total.
-  - All allies get +20% defense, and a further 7% increase for each Nature shield on the board for 4 turns, up to 76% defense.
+- Recovers 25% health for all allies.
+- All allies regenerate 400 HP over 4 turns, and a further increase of 100 HP per
+  each Nature shield on the board, up to 1200 HP total.
+- All allies get +20% defense, and a further 7% increase for each Nature shield on
+  the board for 4 turns, up to 76% defense.
 types:
-  - Healer All
-  - HoT All
-  - Defense Buff All
+- Healer All
+- HoT All
+- Defense Buff All
 passives:
-  - >-
-    Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.
+- 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
+  Skills is increased by 1 turn.'
 image: https://i.imgur.com/6D1hJ1P.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 1026
@@ -29,16 +33,19 @@ costume:
   health: 1904
   skill: Creative Hands
   effects:
-    - Recover 40% health for all allies.
-    - All allies regenerate 260 HP over 4 turns and a further increase of 76 HP per each Nature shield on the board, up to 868 HP total.
-    - All allies get +30% defense, and a further 8% increase per each Nature shield on the board for 4 turns, up to +94% defense.
+  - Recover 40% health for all allies.
+  - All allies regenerate 260 HP over 4 turns and a further increase of 76 HP per
+    each Nature shield on the board, up to 868 HP total.
+  - All allies get +30% defense, and a further 8% increase per each Nature shield
+    on the board for 4 turns, up to +94% defense.
   types:
-    - Healer All
-    - HoT All
-    - Defense Buff All
+  - Healer All
+  - HoT All
+  - Defense Buff All
   passives:
-    - >-
-      Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.
-    - >-
-      Health Boost on Special Skill: On Special Skill cast, boosts all allies' HP by 10%.
+  - 'Increase Buff Duration: Duration of the first 3 buff this hero receives from
+    Special Skills is increased by 1 turn.'
+  - 'Health Boost on Special Skill: On Special Skill cast, boosts all allies'' HP
+    by 10%.'
   image: https://i.imgur.com/mcEOLvZ.jpg
+...

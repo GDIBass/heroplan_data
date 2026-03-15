@@ -1,3 +1,4 @@
+---
 name: Charon
 source: styx
 family: styx
@@ -9,25 +10,24 @@ defense: 856
 health: 1678
 skill: Ferry From the Beyond
 effects:
-  - >-
-    Special Skill has a different effect when charged with 100% / 200% / 300% mana:
-  - '1x Mana Charge:'
-  - '* Boosts health of all allies by 450. Boosted health can exceed max HP.'
-  - '2x Mana Charge:'
-  - '* Each fallen ally has 50% chance to get revived with 10% HP.'
-  - '* All allies regenerate 609 HP over 3 turns.'
-  - '3x Mana Charge:'
-  - '* Boosts health of all allies by 700. Boosted health can exceed max HP.'
-  - '* Each fallen ally has 65% chance to get revived with 27% HP.'
-  - '* All allies regenerate 952 HP over 4 turns.'
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- '1x Mana Charge:'
+- '* Boosts health of all allies by 450. Boosted health can exceed max HP.'
+- '2x Mana Charge:'
+- '* Each fallen ally has 50% chance to get revived with 10% HP.'
+- '* All allies regenerate 609 HP over 3 turns.'
+- '3x Mana Charge:'
+- '* Boosts health of all allies by 700. Boosted health can exceed max HP.'
+- '* Each fallen ally has 65% chance to get revived with 27% HP.'
+- '* All allies regenerate 952 HP over 4 turns.'
 types:
-  - Charge
-  - Boost health All
-  - Reviver
-  - HoT
+- Charge
+- Boost Health All
+- Reviver
+- HoT All
 passives:
-  - >-
-    Resist Defense Ailments: This Hero has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
-  - >-
-    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
+- 'Resist Defense Ailments: This character is immune to status ailments that affect
+  defense. Applies also to status ailments that affect elemental defense.'
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/eSyywNh.jpg
+...

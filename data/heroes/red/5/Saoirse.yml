@@ -1,28 +1,30 @@
+---
 name: Saoirse
-class: Fighter
 source: slayers
 family: slayer
 speed: Slow
+class: Fighter
 power: 810
 attack: 737
 defense: 809
 health: 1433
 skill: Fracturing Slash
 effects:
-  - Deals 315% damage to the target and nearby enemies.
-  - The target and nearby enemies get -54% defense for 3 turns.
-  - 'Stack +2 (Max: 10): The caster gets +10% mana generation'
-  - 'Stack (Max: 10): The caster recovers 10 HP each turn.'
+- Deals 315% damage to the target and nearby enemies.
+- The target and nearby enemies get -54% defense for 3 turns.
+- 'Stack +2 (Max: 10): The caster gets +10% mana generation'
+- 'Stack (Max: 10): The caster recovers 10 HP each turn.'
 types:
-  - Hit 3
-  - Defense Debuff 3
-  - Self Mana Generation Stacks
-  - Self HoT Stacks
+- Hit 3
+- Defense Debuff 3
+- Self Mana Generation Stacks
+- Self HoT Stacks
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character is immune to incoming damage
+  from status effects and stacks.'
 image: https://i.imgur.com/pHj3rld.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 1212
@@ -31,18 +33,19 @@ costume:
   health: 2449
   skill: Fracturing Cut
   effects:
-    - Deals 335% damage to the target and nearby enemies.
-    - The target and nearby enemies get -44% defense for 3 turns.
-    - 'Stack +3 (Max: 10): The caster gets +18% mana generation.'
-    - 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
+  - Deals 335% damage to the target and nearby enemies.
+  - The target and nearby enemies get -44% defense for 3 turns.
+  - 'Stack +3 (Max: 10): The caster gets +18% mana generation.'
+  - 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
   types:
-    - Hit 3
-    - Defense Debuff 3
-    - Self Mana Generation Stacks
-    - Self HoT Stacks
+  - Hit 3
+  - Defense Debuff 3
+  - Self Mana Generation Stacks
+  - Self HoT Stacks
   passives:
-    - >-
-      Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
-    - >-
-      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 452 Bleed damage over 4 turns.
+  - 'Resist Damage from Status Effects: This character is immune to incoming damage
+    from status effects and stacks.'
+  - 'Bleed on Special Skill: When this character casts their Special Skill, all enemies
+    receive 452 Bleed damage over 4 turns.'
   image: https://i.imgur.com/yHVhyhO.jpg
+...

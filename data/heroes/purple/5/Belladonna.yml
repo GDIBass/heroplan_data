@@ -1,3 +1,4 @@
+---
 name: Belladonna
 source: festival
 family: bard
@@ -9,15 +10,18 @@ defense: 850
 health: 1553
 skill: Mystical Concerto
 effects:
-  - Recovers 42% health for all allies.
-  - All allies recover additional 8% health for each Fiend owned by the allies.
-  - All allies get +54% attack for 4 turns.
-  - All allies are immune to buff dispels and reallocations for 4 turns. The immunity also includes this effect itself.
+- Recovers 42% health for all allies.
+- All allies recover additional 8% health for each Fiend owned by the allies.
+- All allies get +54% attack for 4 turns.
+- All allies are immune to buff dispels and reallocations for 4 turns. (The immunity
+  also includes this effect itself.)
 types:
-  - Heal all
-  - Attack Buff
-  - Dispel Immunity
+- Heal All
+- Attack Buff All
+- Dispel Immunity Buff All
 passives:
-  - >-
-    Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
+- 'Mana increase reduction: Reduces the amount of mana increased by Special Skill,
+  Passive Skills, family bonuses and status effects by -80%. The effect applies to
+  all enemies in the battle.'
 image: https://i.imgur.com/sGuDCiH.jpg
+...

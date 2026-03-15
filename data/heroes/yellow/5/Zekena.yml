@@ -1,28 +1,29 @@
+---
 name: Zekena
-class: Barbarian
 source: season4
 family: underwild
 speed: Fast
+class: Barbarian
 power: 812
 attack: 801
 defense: 756
 health: 1396
 skill: Swift Stingers
 effects:
-  - Deals 300% damage to the target.
-  - >-
-    Deals 450% damage to a random target enemy. Deals extra damage if ther
-    target is Dark.
-  - The target of the second hit gets -56% defense for 3 turns.
+- Deals 300% damage to the target.
+- Deals 450% damage to a random target enemy. Deals extra damage if ther target is
+  Dark.
+- The target of the second hit gets -56% defense for 3 turns.
 types:
-  - Hit 1
-  - Bounce
-  - Defense Debuff
+- Hit 1
+- Hit Random 1
+- Defense Debuff 1
 passives:
-  - >-
-    Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.
+- 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
+  Skills is increased by 1 turn.'
 image: https://i.imgur.com/hsqxizP.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 1028
@@ -31,14 +32,17 @@ costume:
   health: 1902
   skill: Sharp Stingers
   effects:
-    - Deals 400% damage to the target.
-    - Deals 400% damage to a random different enemy. Deals extra damage if the target is Dark.
-    - The target of the second hit gets -56% defense for 3 turns.
+  - Deals 400% damage to the target.
+  - Deals 400% damage to a random different enemy. Deals extra damage if the target
+    is Dark.
+  - The target of the second hit gets -56% defense for 3 turns.
   types:
-    - Hit 1
-    - Bounce
-    - Defense Debuff
+  - Hit 1
+  - Bounce
+  - Defense Debuff
   passives:
-    - >-
-      Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns .
+  - 'Increased Damage Against Boosted Health: After this character casts their Special
+    Skill cast, all allies'' normal attacks and Special Skills deal +70% damage against
+    targets with boosted health for 4 turns .'
   image: https://i.imgur.com/KswtgYH.jpg
+...

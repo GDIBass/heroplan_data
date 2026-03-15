@@ -1,3 +1,4 @@
+---
 name: Senan
 source: slayers
 family: slayer
@@ -9,18 +10,21 @@ defense: 813
 health: 1421
 skill: Curse of the Specter
 effects:
-  - Deals 275% damage to the all enemies.
-  - Summons a Spectre Fiend for all enemies. The Fiend damages its target with 45% attack every turn.
-  - The Spectre Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of it's target's max health.
-  - 'Stack (Max: 10): The caster gets +6% mana generation'
-  - 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
+- Deals 275% damage to the all enemies.
+- Summons a Spectre Fiend for all enemies. The Fiend damages its target with 45% attack
+  every turn.
+- The Spectre Fiend absorbs healing. It disappears after absorbing a healing amount
+  equal to 30% of it's target's max health.
+- 'Stack (Max: 10): The caster gets +6% mana generation'
+- 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
 types:
-  - Hit All
-  - Fiend Summoner All
-  - Stacks
+- Hit All
+- Fiend Summoner All
+- Mana Generation Buff Stack Self
+- Mana HoT Stack Self
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character is immune to incoming damage
+  from status effects and stacks.'
 image: https://i.imgur.com/PYhKsHp.jpg
 costume:
   design: costume1
@@ -32,18 +36,23 @@ costume:
   health: 2324
   skill: Curse of the Cephaloid
   effects:
-    - Deals 265% damage to all enemies.
-    - Summons a Specter Fiend for all enemies. The Fiend damages its target with 55% attack every turn.
-    - The Specter Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target's max health.
-    - 'Stack +2 (Max 10): The caster gets +12% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)'
-    - 'Stack +3 (Max 10): The caster recovers 45 HP each turn.'
+  - Deals 265% damage to all enemies.
+  - Summons a Specter Fiend for all enemies. The Fiend damages its target with 55%
+    attack every turn.
+  - The Specter Fiend absorbs healing. It disappears after absorbing a healing amount
+    equal to 35% of its target's max health.
+  - 'Stack +2 (Max 10): The caster gets +12% mana generation. (Affects only mana generated
+    from matching tiles or mana gained by the defense team at the end of their turn.)'
+  - 'Stack +3 (Max 10): The caster recovers 45 HP each turn.'
   types:
-    - Hit All
-    - Fiend Summoner All
-    - Stacks
+  - Hit All
+  - Fiend Summoner All
+  - Mana Generation Buff Stack Self
+  - Mana HoT Stack Self
   passives:
-    - >-
-      Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
-    - >-
-      Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 544 Bleed damage over 4 turns.
+  - 'Resist Damage from Status Effects: This character is immune to incoming damage
+    from status effects and stacks.'
+  - 'Bleed on Special Skill: When this character casts their Special Skill, all enemies
+    receive 544 Bleed damage over 4 turns.'
   image: https://imgur.com/CNY72vk.jpg
+...

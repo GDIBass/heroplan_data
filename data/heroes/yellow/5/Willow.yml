@@ -1,3 +1,4 @@
+---
 name: Willow
 source: magic
 family: magic
@@ -9,26 +10,31 @@ defense: 900
 health: 1598
 skill: Levitating Lunchbox Deluxe
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200% mana:'
-  - '1x Mana Charge:'
-  - ' * Deals 175% damage to all enemies.'
-  - ' * Dispels status effect buffs that affect defense from all enemies.'
-  - ' * All enemies are immune to new status effect buffs that affect defense for 3 turns.'
-  - '2x Mana Charge:'
-  - ' * All allies bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.'
-  - ' * All allies reduce all received damage by -45% for 5 turns.'
-  - ' * All allies counterattack with 115% of the damage received for 5 turns.'
+- 'Special Skill has a different effect when charged with 100%/200% mana:'
+- '1x Mana Charge:'
+- ' * Deals 175% damage to all enemies.'
+- ' * Dispels status effect buffs that affect defense from all enemies.'
+- ' * All enemies are immune to new status effect buffs that affect defense for 3
+  turns.'
+- '2x Mana Charge:'
+- ' * All allies bypass defensive buffs with their attacks for 5 turns. Defensive
+  buffs include counterattacks.'
+- ' * All allies reduce all received damage by -45% for 5 turns.'
+- ' * All allies counterattack with 115% of the damage received for 5 turns.'
 types:
-  - Charge
-  - Hit All
-  - Defense Buffs Dispeller
-  - Defense Buffs Immunity All
-  - Bypass All
-  - Damage Reduction All
-  - Counterattack All
+- Charge
+- Hit All
+- Defense Buffs Dispeller
+- Defense Buffs Immunity All
+- Bypass All
+- Damage Reduction All
+- Counterattack All
 passives:
-  - >-
-    Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.
-  - >-
-    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.
+- 'Health recovery on Special: When this character casts their Special Skill, they
+  have a 50% chance to recover 15% health for all allies. If the Special Skill is
+  fully charged, the chance is 100%.'
+- 'Stack on Special: When this character casts their Special Skill, all enemies get
+  -5% mana generation stack. If the Special Skill is fully charged, all enemies get
+  two stacks. An enemy can have up to 10 stacks.'
 image: https://i.imgur.com/Njfyzmw.jpg
+...

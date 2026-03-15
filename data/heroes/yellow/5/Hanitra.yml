@@ -1,6 +1,7 @@
+---
 name: Hanitra
 source: hotm
-family: 2021
+family: "2021"
 speed: Fast
 class: Monk
 power: 797
@@ -9,15 +10,19 @@ defense: 797
 health: 1409
 skill: Dancing Dodge
 effects:
-  - All allies get +45% chance to dodge Special SKills for 3 turns. Each dodge boosts max health by 450. Boosted health cand exceed max HP.
-  - All allies resist max health reduction for 3 turns.
-  - Element Link gives +10% increase for any healing received for all Holy allies for 4 turns. This effect can't be dispelled.
+- All allies get +45% chance to dodge Special SKills for 3 turns. Each dodge boosts
+  max health by 450. Boosted health cand exceed max HP.
+- All allies resist max health reduction for 3 turns.
+- Element Link gives +10% increase for any healing received for all Holy allies for
+  4 turns. This effect can't be dispelled.
 types:
-  - Dodge Buff
-  - Health Boost
+- Dodge Chance Buff All
+- Health Boost on dodge
+- Max Health Reduction Immunity All
 passives:
-  - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
-  - >-
-    Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack.
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skill.'
+- 'Mana on Buff Received: This character gains 5% mana when they receive a buff or
+  a positive stack.'
 image: https://i.imgur.com/Q6iWdU3.jpg
+...

@@ -20,8 +20,7 @@ types:
 - Bypass Chance
 - Defense Buff All
 passives:
-- 'Resist Mana Ailments: This character has innate resistance against ailments that
-  affect mana.'
+- 'Resist Mana Ailments: This character is immune to status ailments that affect mana.'
 - 'Mana Per Enemy Buff: Gains a small amount of mana for every active status effect
   buff that the enemy team has at the start of each turn (maximum of 20 buffs).'
 image: https://i.imgur.com/gcaSLmN.jpg
