@@ -1,3 +1,4 @@
+---
 name: Amber
 source: morlovia
 family: morlovia
@@ -9,14 +10,18 @@ defense: 885
 health: 1689
 skill: Spear of Blood Pact
 effects:
-  - Deals 605% damage to the target.
-  - Heals the caster for 100% of the damage dealt.
-  - The target resists healing and receives 300 damage per each resisted healing for 4 turns.
+- Deals 605% damage to the target.
+- Heals the caster for 100% of the damage dealt.
+- The target resists healing and receives 300 damage per each resisted healing for
+  4 turns.
 types:
-  - Hit 1
-  - Self heal
-  - Damage on each Resisted Healing 1
+- Hit 1
+- Heal Self
+- Healing Resist Debuff 1
+- Damage on each Resisted Healing 1
 passives:
-  - >-
-    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+- 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+  to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
+  has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/PmKUK6y.jpg
+...

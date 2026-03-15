@@ -1,3 +1,4 @@
+---
 name: Firmin Richard
 source: solstice
 family: opera
@@ -9,16 +10,18 @@ defense: 887
 health: 1827
 skill: Voice of Authority
 effects:
-  - Deals 175% damage to the all enemies.
-  - 'Stack (Max: 10): All allies get +20% attack.'
-  - 'Stack (Max: 10): All alies get +20% defense.'
+- Deals 175% damage to the all enemies.
+- 'Stack (Max: 10): All allies get +20% attack.'
+- 'Stack (Max: 10): All alies get +20% defense.'
 types:
-  - Hit all
-  - Attack Buff Stack All
-  - Defense Buff Stack All
+- Hit all
+- Attack Buff Stack All
+- Defense Buff Stack All
 passives:
-  - >-
-    Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
-  - >- 
-    Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+- 'Resist Attack Ailments: This character is immune to status ailments that affect
+  attack.'
+- 'Heal when status ailment expires or is cleared: This character receives 5% health
+  each time a status ailment expires or is cleansed, removed or reallocated from them.
+  This effect can activate only once per turn.'
 image: https://i.imgur.com/I63hfD5.jpg
+...

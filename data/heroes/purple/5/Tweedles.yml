@@ -1,3 +1,4 @@
+---
 name: Tweedles
 source: wonderland
 family: wonderland
@@ -9,16 +10,18 @@ defense: 947
 health: 1565
 skill: Dum and Dee
 effects:
-  - Deals 600% damage to a random enemy.
-  - The target gets -50% defense for 5 turns.
-  - Deals 600% damage to a random enemy.
-  - The target gets -50% attack for 5 turns.
-  - The caster gets 30% mana if both attacks hit the same target.
+- Deals 600% damage to a random enemy.
+- The target gets -50% defense for 5 turns.
+- Deals 600% damage to a random enemy.
+- The target gets -50% attack for 5 turns.
+- The caster gets 30% mana if both attacks hit the same target.
 types:
-  - Hit 2
-  - Attack debuff
-  - Defense debuff
+- Hit Random 1
+- Defense debuff
+- Hit Random 1
+- Attack debuff
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character is immune to incoming damage
+  from status effects and stacks.'
 image: https://i.imgur.com/oaSASQ4.jpg
+...

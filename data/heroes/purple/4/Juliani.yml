@@ -1,3 +1,4 @@
+---
 name: Juliani
 source: owltower
 family: owl
@@ -9,13 +10,17 @@ defense: 692
 health: 1289
 skill: Scroll of Spite
 effects:
-  - This Special Skill never misses its targets.
-  - Attacks the target and nearby enemies with Moonrise Strike dealing up to 860 damage. Deals 30% more damage if the target is Holy. 
-  - The target and nearby enemies receive 900 Poison damage over 5 turns. The caster and all allies absorb 35% of the dealt Poison damage as health.
+- This Special Skill never misses its targets.
+- Attacks the target and nearby enemies with Moonrise Strike dealing up to 860 damage.
+  Deals 30% more damage if the target is Holy.
+- The target and nearby enemies receive 900 Poison damage over 5 turns. The caster
+  and all allies absorb 35% of the dealt Poison damage as health.
 types:
-  - Hit 3
-  - Dot 3
+- Hit 3
+- Dot 3
 passives:
-  - >-
-    Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
 image: https://i.imgur.com/UhbZaxw.jpg
+...

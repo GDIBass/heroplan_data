@@ -1,3 +1,4 @@
+---
 name: Mariol
 source: owltower
 family: owl
@@ -9,14 +10,17 @@ defense: 1079
 health: 1781
 skill: Healing Mirror
 effects:
-  - Boosts health of all allies by 700. Boosted health can exceed max HP.
-  - All allies get Moonrise Ward for 3 turns, that reduces incoming Special Skill damage by -700. Reduces damage by additional 30% when attacker is Holy. 
-  - Cleanses status ailments from all allies.
+- Boosts health of all allies by 700. Boosted health can exceed max HP.
+- All allies get Moonrise Ward for 3 turns, that reduces incoming Special Skill damage
+  by -700. Reduces damage by additional 30% when attacker is Holy.
+- Cleanses status ailments from all allies.
 types:
-  - Healer All
-  - Moonrise Ward
-  - Cleanser All
+- Healer All
+- Moonrise Ward All
+- Cleanser All
 passives:
-  - >-
-    Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
 image: https://i.imgur.com/NhlQa4M.jpg
+...

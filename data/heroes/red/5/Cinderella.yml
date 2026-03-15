@@ -1,3 +1,4 @@
+---
 name: Cinderella
 source: fables
 family: grimforest
@@ -9,18 +10,21 @@ defense: 1027
 health: 1672
 skill: Fairy Godmother's Blessing
 effects:
-  - Cleanses status ailments from all allies.
-  - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
-  - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.
-  - All allies get +63% defense for 4 turns.
-  - All enemies get -44% defense for 4 turns.
+- Cleanses status ailments from all allies.
+- All allies become Soul Connected for 4 turns. Soul Connected allies share received
+  damage.
+- All enemies become Soul Connected for 4 turns. Soul Connected enemies share received
+  damage.
+- All allies get +63% defense for 4 turns.
+- All enemies get -44% defense for 4 turns.
 types:
-  - Cleanser All
-  - Allies Damage Share
-  - Enemies Damage Share
-  - Defense Buff All
-  - Defense Debuff All
+- Cleanser All
+- Allies Damage Share
+- Enemies Damage Share
+- Defense Buff All
+- Defense Debuff All
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character is immune to incoming damage
+  from status effects and stacks.'
 image: https://i.imgur.com/8MZHUmV.jpg
+...

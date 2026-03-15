@@ -25,7 +25,7 @@ effects:
 - ' * If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns.'
 types:
 - Hit Random 3/5
-- Magma Cube on hit
+- Exploding Magma Cube on hit
 - Defense Debuff on hit
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this

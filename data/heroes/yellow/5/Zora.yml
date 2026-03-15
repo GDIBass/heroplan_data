@@ -1,6 +1,7 @@
+---
 name: Zora
 source: hotm
-family: 2024
+family: "2024"
 speed: Slow
 class: Paladin
 power: 953
@@ -9,19 +10,19 @@ defense: 999
 health: 1744
 skill: Dawnlight Rally
 effects:
-  - Deals 380% damage to all enemies.
-  - Cleanses status ailments from all allies.
-  - All allies get +20% attack, and a further +5% increase per each removed 
-    status effect up to +60% in total, for 4 turns.
-  - Element Link gives all Holy allies +10% additional Special Skill damage 
-    for 4 turns. This effect cannot be dispelled.
+- Deals 380% damage to all enemies.
+- Cleanses status ailments from all allies.
+- All allies get +20% attack, and a further +5% increase per each removed status effect
+  up to +60% in total, for 4 turns.
+- Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns.
+  This effect cannot be dispelled.
 types:
-  - Hit All
-  - Cleanser
-  - Attack buff
+- Hit All
+- Cleanser
+- Attack buff
 passives:
-  - >-
-    Resist Mana Reduction: This character has innate resistance against mana reduction.
-  - >-
-    Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
+- 'Mana on Status Ailment Received: This character gains 5% mana when they receive
+  a status ailment or negative stack.'
 image: https://i.imgur.com/wf4Kvkm.jpg
+...
