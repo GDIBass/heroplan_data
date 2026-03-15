@@ -1,3 +1,4 @@
+---
 name: Carver
 source: season1
 family: classic
@@ -7,13 +8,13 @@ power: 444
 attack: 464
 defense: 448
 health: 653
-skill: Slash of the four Blades
+skill: Slash of the Four Blades
 effects:
-  - Deals 125% damage to all enemies.
-  - Reduces the mana of all enemies by 16%.
+- Deals 125% damage to all enemies.
+- Reduces the mana of all enemies by 16%.
 types:
-  - Hit All
-  - Mana Reduction All
+- Hit All
+- Mana Reduction All
 image: https://i.imgur.com/DfWafQ3.jpg
 costume:
   design: costume1
@@ -25,11 +26,11 @@ costume:
   health: 708
   skill: Stab of Four Blades
   effects:
-    - Deals 125% damage to all enemies.
-    - All enemies get -24% mana generation for 3 turns. This effect can't be cleansed.
+  - Deals 125% damage to all enemies.
+  - All enemies get -24% mana generation for 3 turns. This effect can't be cleansed.
   types:
-    - Hit All
-    - Mana Generation Debuff All
+  - Hit All
+  - Mana Generation Debuff All
   image: https://i.imgur.com/xs9Nn7b.jpg
 costume2:
   design: toon
@@ -41,34 +42,34 @@ costume2:
   health: 783
   skill: Slash of Four Toons
   effects:
-    - Deals 155% damage to all enemies.
-    - Reduces the mana of all enemies by 10%.
-    - Deals extra damage against Ice.
+  - Deals 155% damage to all enemies.
+  - Reduces the mana of all enemies by 10%.
+  - Deals extra damage against Ice.
   types:
-    - Hit All
-    - Mana Reduction All
+  - Hit All
+  - Mana Reduction All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/rbDQHbY.jpg
 costume3:
   design: glass
   bonuses: 5/5/10/5
   class: Rogue
-  power: 515
-  attack: 620
-  defense: 425
-  health: 816
+  power: 518
+  attack: 625
+  defense: 429
+  health: 822
   skill: Slash of Glass Blades
   effects:
-    - Deals 165% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - Reduces the mana of all enemies by -15%.
+  - Deals 165% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Reduces the mana of all enemies by -15%.
   types:
-    - Hit All
-    - Bypass
-    - Mana Reduction All
+  - Hit All
+  - Bypass
+  - Mana Reduction All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/1k45GDi.jpg
+...

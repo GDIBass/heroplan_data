@@ -1,3 +1,4 @@
+---
 name: Wu Kong
 source: season1
 family: classic
@@ -9,10 +10,10 @@ defense: 620
 health: 992
 skill: Gambler's Stance
 effects:
-  - All allies get +185% attack with -32% accuracy for 5 turns
-  - Chance to miss also applies to offensive special skills
+- All allies get +185% attack with -32% accuracy for 5 turns. (Chance to miss also
+  applies to offensive special skills.)
 types:
-  - Titan Attack Buff
+- Titan Attack Buff All
 image: https://i.imgur.com/EZfzNHv.jpg
 costume:
   design: costume1
@@ -24,10 +25,11 @@ costume:
   health: 1053
   skill: Gambler's Slash
   effects:
-    - Deals 210% damage to all enemies
-    - The caster gets -20% defense for 3 turns. This effect can't be cleansed.
+  - Deals 210% damage to all enemies.
+  - The caster gets -20% defense for 3 turns. This effect can't be cleansed.
   types:
-    - Hit all
+  - Hit All
+  - Defense Buff Self
   image: https://i.imgur.com/Xt9qUWm.jpg
 costume2:
   design: costume2
@@ -39,9 +41,10 @@ costume2:
   health: 1210
   skill: Gambler's Swing
   effects:
-    - All allies get +170% attack with -25% accuracy for 5 turns. Chance to miss also applies to offensive special skills.
+  - All allies get +170% attack with -25% accuracy for 5 turns. (Chance to miss also
+    applies to offensive special skills.)
   types:
-    - Titan Attack Buff
+  - Titan Attack Buff All
   image: https://i.imgur.com/gZEff9Z.jpg
 costume3:
   design: toon
@@ -53,12 +56,13 @@ costume3:
   health: 1290
   skill: Toon Stance
   effects:
-    - All allies get +175% attack with -32% accuracy for 5 turns. For all Holy characters, this status effect becomes undispellable and lasts 2 turns longer.
+  - All allies get +175% attack with -32% accuracy for 5 turns. This status effect
+    is undispellable and lasts 2 turns longer on Holy characters.
   types:
-    - Titan Attack Buff
+  - Titan Attack Buff All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/3dV4crJ.jpg
 costume4:
   design: glass
@@ -70,12 +74,15 @@ costume4:
   health: 1303
   skill: Glass Stance
   effects:
-    - All allies get +180% attack with -32% accuracy for 5 turns. (Chance to Miss applies to offensive Special Skills.)
-    - All Holy allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - All allies get +180% attack with -32% accuracy for 5 turns. (Chance to Miss applies
+    to offensive Special Skills.)
+  - All Holy allies reflect status ailments and negative stacks for 2 turns. (Status
+    effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
   types:
-    - Titan Attack Buff
-    - Debuff Reflect for Holy Allies
+  - Titan Attack Buff All
+  - Reflect Ailments for Holy Allies
+  - Reflect Stacks for Holy Allies
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/JLY9oLh.jpg
+...

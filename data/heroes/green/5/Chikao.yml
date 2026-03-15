@@ -1,3 +1,4 @@
+---
 name: Chikao
 source: ninja
 family: ninja
@@ -9,24 +10,36 @@ defense: 1141
 health: 1726
 skill: Fatal Dreams
 effects:
-  - 1x Mana Charge
-  - ' * Dispels buffs from the enemies on the edges of the enemy formation.'
-  - ' * Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.'
-  - ' * The enemy on the edges of the formation fall asleep and receive +60% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)'
-  - 2x Mana Charge
-  - ' * Dispels buffs from the enemies on the edges of the enemy formation.'
-  - ' * Deals 485% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.'
-  - ' * The enemy on the edges of the formation fall asleep and receive +80% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)'
-  - 3x Mana Charge
-  - ' * Dispels buffs from the enemies on the edges of the enemy formation.'
-  - ' * Deals 900% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.'
-  - ' * The enemy on the edges of the formation fall asleep and receive +100% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)'
+- 1x Mana Charge
+- ' * Dispels buffs from the enemies on the edges of the enemy formation.'
+- ' * Deals 300% damage to the enemies on the edges of the enemy formation. If there
+  is only one enemy aive, the damage is doubled.'
+- ' * The enemy on the edges of the formation fall asleep and receive +60% increased
+  damage while sleeping. (A sleeping character cannot gain mana. The sleeping target
+  is woken once it takes damage. This excludes damage from Minions and Fiends. This
+  effect is uncleansable.)'
+- 2x Mana Charge
+- ' * Dispels buffs from the enemies on the edges of the enemy formation.'
+- ' * Deals 485% damage to the enemies on the edges of the enemy formation. If there
+  is only one enemy aive, the damage is doubled.'
+- ' * The enemy on the edges of the formation fall asleep and receive +80% increased
+  damage while sleeping. (A sleeping character cannot gain mana. The sleeping target
+  is woken once it takes damage. This excludes damage from Minions and Fiends. This
+  effect is uncleansable.)'
+- 3x Mana Charge
+- ' * Dispels buffs from the enemies on the edges of the enemy formation.'
+- ' * Deals 900% damage to the enemies on the edges of the enemy formation. If there
+  is only one enemy aive, the damage is doubled.'
+- ' * The enemy on the edges of the formation fall asleep and receive +100% increased
+  damage while sleeping. (A sleeping character cannot gain mana. The sleeping target
+  is woken once it takes damage. This excludes damage from Minions and Fiends. This
+  effect is uncleansable.)'
 types:
-  - Charge
-  - Dispeller 2
-  - Hit 2
-  - Sleep 2
+- Charge
+- Dispeller 2
+- Hit 2
+- Sleep 2
 passives:
-  - >-
-    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/g0WuoGF.jpg
+...

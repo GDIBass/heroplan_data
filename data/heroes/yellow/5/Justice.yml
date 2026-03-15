@@ -1,3 +1,4 @@
+---
 name: Justice
 source: season1
 family: classic
@@ -9,11 +10,12 @@ defense: 776
 health: 1425
 skill: Rite of Judgement
 effects:
-  - Deals 285% damage to all enemies.
-  - All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
+- Deals 285% damage to all enemies.
+- All enemies get -40% accuracy for 4 turns. (Chance to miss also applies to offensive
+  Special Skills.)
 types:
-  - Hit All
-  - Blind All
+- Hit All
+- Blind All
 image: https://i.imgur.com/nIFbFrG.jpg
 costume:
   design: costume1
@@ -25,12 +27,12 @@ costume:
   health: 1511
   skill: Day of Judgement
   effects:
-    - Deals 250% damage to all enemies.
-    - The damage is increased by 50% per each dead ally.
-    - The caster gets +24% mana generation for 3 turns.
+  - Deals 250% damage to all enemies.
+  - The damage is increased by 50% per each defeated ally.
+  - The caster gets +24% mana generation for 3 turns.
   types:
-    - Hit all
-    - Self Mana generation buff 
+  - Hit All
+  - Self Mana Gen Buff
   image: https://i.imgur.com/KCL7Y0s.jpg
 costume2:
   design: costume2
@@ -42,12 +44,13 @@ costume2:
   health: 1656
   skill: Ritual of Judgement
   effects:
-    - Deals 300% damage to all enemies.
-    - The damage is increased by 45% per each dead enemy.
-    - All enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills
+  - Deals 300% damage to all enemies.
+  - The damage is increased by 45% per each dead enemy.
+  - All enemies get -40% accuracy for 3 turns. (Chance to miss also applies to offensive
+    Special Skills)
   types:
-    - Hit All
-    - Blind All
+  - Hit All
+  - Blind All
   image: https://i.imgur.com/feWdynO.jpg
 costume3:
   design: toon
@@ -59,15 +62,16 @@ costume3:
   health: 2380
   skill: Toon of Judgment
   effects:
-    - Deals 435% damage to all enemies.
-    - All enemies get -30% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)
-    - Deals extra damage against Dark.
+  - Deals 435% damage to all enemies.
+  - All enemies get -30% accuracy for 4 turns. (Chance to miss also applies to offensive
+    Special Skills.)
+  - Deals extra damage against Dark.
   types:
-    - Hit All
-    - Blind All
+  - Hit All
+  - Blind All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/ChEEEeb.jpg
 costume4:
   design: glass
@@ -79,14 +83,15 @@ costume4:
   health: 2477
   skill: Glass Judgement
   effects:
-    - Deals 445% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies get -34% accuracy for 4 turns. (Chance to miss applies to offensive Special Skills.)
+  - Deals 445% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies get -34% accuracy for 4 turns. (Chance to miss applies to offensive
+    Special Skills.)
   types:
-    - Hit All
-    - Bypass
-    - Blind All
+  - Hit All
+  - Bypass
+  - Blind All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/ilgx8jA.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Emilie
 source: shadow
 family: theinstitute
@@ -9,27 +10,35 @@ defense: 1316
 health: 2261
 skill: Endless Maze
 effects:
-  - Casts Full Removal on the target. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even effects and stacks that are otherwise undispellable or uncleansable.)
-  - The target shifts into Abyss Ghost form for 5 turns.
-  - While in Abyss Ghost form the target receives 226 damage each turn.
-  - >-
-    When the Abyss Ghost form expires:
-    * Deals 1200 damage to all allies and inflicts 15 Insanity on them.
-  - Inflicts 45 Insanity on the caster.
+- Casts Full Removal on the target. (Full Removal removes all status effects, stacks
+  and Growth and Wither effects. Removes even effects and stacks that are otherwise
+  undispellable or uncleansable.)
+- The target shifts into Abyss Ghost form for 5 turns.
+- While in Abyss Ghost form the target receives 226 damage each turn.
+- 'When the Abyss Ghost form expires - Deals 1200 damage to all allies and inflicts
+  15 Insanity on them.'
+- Casting this Special Skill inflicts 45 Insanity on the caster.
 types:
-  - Full Removal 1
-  - Abyss Ghost 1
-  - DoT 1 while ghost
-  - Hit & Insanity All after ghost
-  - Self Insanity
+- Full Removal 1
+- Abyss Ghost 1
+- DoT 1 while ghost
+- Hit & Insanity All after ghost
+- Self Insanity
 passives:
-  - "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%."
-  - "The Eldritch Host has:"
-  - " * 100% inherited health."
-  - " * 1200 attack."
-  - " * 1200 defense."
-  - "Special Skill: Eldrich Bright."
-  - " * Deals 400% damage to the target and inflicts 35 Insanity on them." 
-  - " * Inflicts 30 Insanity on the caster."
-  - If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+- 'Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch
+  Host. The chance is 10% per 10 Insanity on this character, up to maximum chance
+  of 100%. If this character defeats themself when activating Insanity, the chance
+  to be reborn is always 100%.'
+- 'The Eldritch Host has:'
+- ' * 100% inherited health.'
+- ' * 1200 attack.'
+- ' * 1200 defense.'
+- 'Special Skill: Eldrich Bright.'
+- ' * Deals 400% damage to the target and inflicts 35 Insanity on them.'
 image: https://imgur.com/o4gFbVk.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Chomper
 source: pets
 family: pets
@@ -9,16 +10,17 @@ defense: 863
 health: 1520
 skill: Slice and Dice
 effects:
-  - Deals 330% damage to the target and nearby enemies.
-  - Heals each ally with 40% of the total damage dealt.
-  - The target and nearby enemies receive 368 Bleed damage over 4 turns.
+- Deals 330% damage to the target and nearby enemies.
+- Heals each ally with 40% of the total damage dealt.
+- The target and nearby enemies receive 368 Bleed damage over 4 turns.
 types:
-  - Hit 3
-  - Healer
-  - Dot 3
+- Hit 3
+- Healer All
+- DoT 3
 passives:
-  - >-
-    Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
-  - >-
-    Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
+- 'Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85%
+  damage to all enemies. This effect can activate only once per turn.'
+- 'Friend of the Familiars: When a Minion is summoned to any ally, this character
+  gains 5% health and 5% mana. This effect can activate only once per turn.'
 image: https://i.imgur.com/5iYa63c.jpg
+...

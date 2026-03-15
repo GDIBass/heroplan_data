@@ -1,3 +1,4 @@
+---
 name: Cathal
 source: slayers
 family: slayer
@@ -9,16 +10,17 @@ defense: 803
 health: 1427
 skill: Breaker Blade
 effects:
-  - Deals 570% damage to the target.
-  - The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
-  - 'Stack +2 (Max: 10): The caster gets +12% mana generation'
-  - 'Stack (Max: 10): The caster recovers 15 HP each turn.'
+- Deals 570% damage to the target.
+- The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
+- 'Stack +2 (Max: 10): The caster gets +12% mana generation'
+- 'Stack (Max: 10): The caster recovers 15 HP each turn.'
 types:
-  - Hit 1
-  - Bypass Chance
-  - Self Mana Generation Buff Stack
-  - Self HoT Stack
+- Hit 1
+- Bypass Chance
+- Self Mana Generation Buff Stack
+- Self HoT Stack
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character is immune to incoming damage
+  from status effects and stacks.'
 image: https://i.imgur.com/T6kV2Hh.jpg
+...

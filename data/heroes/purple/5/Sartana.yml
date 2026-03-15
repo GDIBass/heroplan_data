@@ -1,3 +1,4 @@
+---
 name: Sartana
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 700
 health: 1382
 skill: Deathstrike
 effects:
-  - Deals 452% damage to the target.
-  - The target receives 306 Poison damage over 6 turns.
+- Deals 452% damage to the target.
+- The target receives 306 Poison damage over 6 turns.
 types:
-  - Hit 1
-  - DoT 1
+- Hit 1
+- DoT 1
 image: https://i.imgur.com/YBEHGb0.jpg
 costume:
   design: costume1
@@ -25,9 +26,9 @@ costume:
   health: 1558
   skill: Dreadstrike
   effects:
-    - Deals 532% damage to the target
+  - Deals 532% damage to the target.
   types:
-    - Hit 1
+  - Hit 1
   image: https://i.imgur.com/gwzMUaT.jpg
 costume2:
   design: costume2
@@ -39,13 +40,13 @@ costume2:
   health: 1719
   skill: Frightstrike
   effects:
-    - Destroys all Minions from the target.
-    - Deals 500% damage to the target.
-    - The target resists new Minions for 3 turns.
+  - Destroys all Minions from the target. This effect damages Mega Minions.
+  - Deals 500% damage to the target.
+  - The target resists new Minions for 3 turns.
   types:
-    - Minion Destroyer 1
-    - Hit 1
-    - Minion Blocking
+  - Minion Destroyer 1
+  - Hit 1
+  - Minion Blocking 1
   image: https://i.imgur.com/I8cTetD.jpg
 costume3:
   design: toon
@@ -57,15 +58,15 @@ costume3:
   health: 2346
   skill: Toonstrike
   effects:
-    - Deals 530% damage to the target.
-    - The target receives 510 Poison damage over 3 turns.
-    - Deals extra damage against Holy.
+  - Deals 530% damage to the target.
+  - The target receives 510 Poison damage over 3 turns.
+  - Deals extra damage against Holy.
   types:
-    - Hit 1
-    - DoT 1
+  - Hit 1
+  - DoT 1
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/V3r9sPS.jpg
 costume4:
   design: glass
@@ -77,15 +78,15 @@ costume4:
   health: 2467
   skill: Glass Strike
   effects:
-    - Deals 540% damage to the target.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - The target receives 615 Poison damage over 3 turns.
+  - Deals 540% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target receives 615 Poison damage over 3 turns.
   types:
-    - Hit 1
-    - DoT 1
+  - Hit 1
+  - Bypass
+  - DoT 1
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/fdUWQiQ.jpg
 costume5:
   design: stylish
@@ -97,13 +98,14 @@ costume5:
   health: 2571
   skill: Stylish Strike
   effects:
-    - Deals 550% damage to the target.
-    - Deals 615% damage if the target has less than 50% health remaining.
-    - The target receives 708 Poison damage over 3 turns.
+  - Deals 550% damage to the target.
+  - If the target has less than 50% health remaining, deals 615% damage instead.
+  - The target receives 708 Poison damage over 3 turns.
   types:
-    - Hit 1
-    - DoT 1
+  - Hit 1
+  - DoT 1
   passives:
-    - >-
-      Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
   image: https://imgur.com/ViZ7Y7x.jpg
+...

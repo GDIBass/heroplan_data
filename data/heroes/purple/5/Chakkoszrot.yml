@@ -1,6 +1,7 @@
+---
 name: Chakkoszrot
 source: hotm
-family: 2021
+family: "2021"
 speed: Slow
 class: Druid
 power: 793
@@ -9,17 +10,19 @@ defense: 780
 health: 1355
 skill: Stalling Spell
 effects:
-  - Deals 295% damage to all enemies
-  - All enemies with a dispellable mana generation buff get -54% mana generation for 5 turns. This effect can't be cleansed.
-  - All enemies are immune to new status effect buffs for 5 turns.
-  - Element Link gives +10% increase for any healing received for all Dark allies for 4 turns. This effect can't be dispelled.
+- Deals 295% damage to all enemies
+- All enemies with a dispellable mana generation buff get -54% mana generation for
+  5 turns. This effect can't be cleansed.
+- All enemies are immune to new status effect buffs for 5 turns.
+- Element Link gives +10% increase for any healing received for all Dark allies for
+  4 turns. This effect can't be dispelled.
 types:
-  - Hit All
-  - Mana Generation Debuff
-  - Buff Immunity Debuff
+- Hit All
+- Mana Generation Debuff All
+- Buff Immunity Debuff All
 passives:
-  - >-
-    Resist Mana reduction: This character has an innate resistance against mana Reduction.
-  - >-
-    Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
+- 'Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns
+  when this character receives a status ailment or a negative stack.'
 image: https://i.imgur.com/tvzGcka.jpg
+...

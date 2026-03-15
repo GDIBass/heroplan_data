@@ -1,0 +1,46 @@
+---
+name: Cerissa
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Fast
+class: Sorcerer
+power: 1281
+attack: 1320
+defense: 1332
+health: 2294
+skill: Spell of Camaraderie
+effects:
+- 'If the caster has 50 or more Humility:'
+- Boosts health of the caster and nearby allies by 1450. Boosted health can exceed
+  max HP.
+- 'Stack +2(Max: 10): All damage the caster and nearby allies receive is reduced by
+  -8%.'
+- For the next 4 turns, this character recovers 750 boosted health to the caster and
+  nearby allies each time any other ally casts their Special Skill. (Each character
+  can trigger this effect once per turn.)
+- The caster and nearby allies get +30% mana generation for 4 turns. (Affects only
+  mana generated from matching tiles or mana gained by the defense team at the end
+  of their turn.)
+- 'Otherwise:'
+- Boosts health of the caster and nearby allies by 1100. Boosted health can exceed
+  max HP.
+- 'Stack (Max: 10): All damage the caster and nearby allies receive is reduced by
+  -4%.'
+- For the next 4 turns, this character recovers 550 boosted health to the caster and
+  nearby allies each time any other ally casts their Special Skill. (Each character
+  can trigger this effect once per turn.)
+types:
+- Humility
+- Boosted Heal 3
+- Damage Reduction Buff Stack 3
+- Mana Generation Buff 3
+passives:
+- 'Revival Health Reduction: All enemies have -80% health when revived. Boss enemies
+  are not affected.'
+- 'Heal when status ailment expires or is cleared: This character receives 15% health
+  each time a status ailment expires or is cleansed, removed or reallocated from them.
+  This effect can activate only once per turn.'
+- 'Beautiful Inside: Whenever this character would take damage from a status ailment
+  or from a negative stack, they will recover that much health instead.'
+image: https://imgur.com/tJa3U9O.jpg
+...

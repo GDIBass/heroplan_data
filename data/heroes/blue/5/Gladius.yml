@@ -1,25 +1,29 @@
+---
 name: Gladius
 source: hotm
-class: Ranger
-family: 2024
+family: "2024"
 speed: Fast
-power: 915
+class: Ranger
+power: 960
 attack: 972
 defense: 918
 health: 1705
 skill: Hunter's Instinct
 effects:
-  - This Special Skill never misses its targets.
-  - Deals 550% damage to the target.
-  - >-
-    The target becomes marked for 3 turns. Whenever a marked target dodges, they gain a stack (Max: 10). Each stack increases all damage the target receives by +5%.
-  - Element Link gives all Ice allies +10% additional Special Skill damage for 4 turns. This effect can't be dispelled.
+- This Special Skill never misses its targets.
+- Deals 600% damage to the target.
+- 'The target gets a Mark of Dodge for 3 turns. Whenever a marked target dodges, they
+  gain a stack (Max: 10). Each stack increases all damage the target receives by +5%.'
+- Element Link gives all Ice allies +10% additional Special Skill damage for 4 turns.
+  This effect can't be dispelled.
 types:
-  - Hit 1
-  - Stack on Dodge
+- Hit 1
+- Stack on Dodge
 passives:
-  - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
-  - >-
-    Mana on Enemy Defensive Buffs: This character gains 10% mana when any enemy receives a defenseive buff.
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skills.'
+- 'Mana on Enemy Defensive Buff: This character gains 10% mana when an enemy receives
+  a status effect buff that affects defense. This effect can activate only once per
+  turn.'
 image: https://i.imgur.com/oxh0XPo.jpg
+...

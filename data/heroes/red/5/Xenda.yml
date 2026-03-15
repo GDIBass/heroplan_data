@@ -1,3 +1,4 @@
+---
 name: Xenda
 source: season4
 family: underwild
@@ -9,18 +10,22 @@ defense: 803
 health: 1507
 skill: Underworld Blaze
 effects:
-  - Deals 250% damage to all enemies.
-  - All enemies receive 300 Burn damage over 4 turns. The caster absorbs 15% of dealt Burn damage as health.
-  - The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.
+- Deals 250% damage to all enemies.
+- All enemies receive 300 Burn damage over 4 turns. The caster absorbs 15% of dealt
+  Burn damage as health.
+- The caster steals generated mana of all enemies over 4 turns starting low and increasing
+  every turn until on the last turn all the generated mana is stolen.
 types:
-  - Hit All
-  - Dot All
-  - Mana steal
+- Hit All
+- DoT All
+- Heal Self on burn
+- Mana Steal All
 passives:
-  - >-
-    Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
+- 'Special Skill Damage Reduction: Received damage is reduced by -20% for the first
+  3 times this character receives damage from Special Skills.'
 image: https://i.imgur.com/pr4mBGS.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Monk
   power: 1081
@@ -29,16 +34,20 @@ costume:
   health: 2037
   skill: Underworld Flame
   effects:
-    - Deals 230% damage to all enemies.
-    - All enemies receive 472 Burn damage over 4 turns. The caster absorbs 20% of dealt Burn damage as health.
-    - The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.
+  - Deals 230% damage to all enemies.
+  - All enemies receive 472 Burn damage over 4 turns. The caster absorbs 20% of dealt
+    Burn damage as health.
+  - The caster steals generated mana of all enemies over 4 turns starting low and
+    increasing every turn until on the last turn all the generated mana is stolen.
   types:
-    - Hit All
-    - Dot All
-    - Mana steal All
+  - Hit All
+  - Dot All
+  - Mana steal All
   passives:
-    - >-
-      Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
-    - >-
-      Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns.
+  - 'Special Skill Damage Reduction: Received damage is reduced by -20% for the first
+    3 times this character receives damage from Special Skills'
+  - 'Increased Damage Against Boosted Health: After this character casts their Special
+    Skill, all allies deal +70% increased normal attack and Special Skill damage against
+    targets with boosted health for 4 turns.'
   image: https://i.imgur.com/QhwvGtU.jpg
+...

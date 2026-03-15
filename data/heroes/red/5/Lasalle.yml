@@ -1,3 +1,4 @@
+---
 name: Lasalle
 source: untoldtales
 family: defendersofatlantis
@@ -9,29 +10,36 @@ defense: 850
 health: 1602
 skill: Flanking Maneuver
 effects:
-  - 'Special Skill need consecutive uses to reach full power, the following order:'
-  - '1st:'
-  - ' * Deals 400% damage to target.'
-  - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 32% attack every turn.'
-  - " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner's max health."
-  - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
-  - '2nd:'
-  - ' * Deals 450% damage to target.'
-  - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 32% attack every turn.'
-  - " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner's max health."
-  - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
+- 'Special Skill need consecutive uses to reach full power, the following order:'
+- '1st:'
+- ' * Deals 400% damage to target.'
+- ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with
+  32% attack every turn.'
+- ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health
+  equal to 20% of its owner''s max health.'
+- ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every
+  turn. Clone Fiends absorb the same amount of healing and deal the same amount of
+  damage as the original fiend.'
+- '2nd:'
+- ' * Deals 450% damage to target.'
+- ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with
+  32% attack every turn.'
+- ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health
+  equal to 20% of its owner''s max health.'
+- ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every
+  turn. Clone Fiends absorb the same amount of healing and deal the same amount of
+  damage as the original fiend.'
 types:
-  - Hit 1
-  - Replicating Fiend Summoner 1
+- Hit 1
+- Replicating Fiend Summoner 1
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 80% damage to all enemies.'
-  - ' * All allies get +21% critical chance for 2 turns.'
-  - >-
-    Resist Insanity: This character has innate resistance against Insanity.
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 80% damage to all enemies.'
+- ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/bpyUqBe.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 1163
@@ -40,25 +48,33 @@ costume:
   health: 1998
   skill: Champion Maneuver
   effects:
-    - 'Special Skill need consecutive uses to reach full power, the following order:'
-    - '1st:'
-    - ' * Deals 375% damage to target.'
-    - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 27% attack every turn.'
-    - " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner's max health."
-    - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
-    - '2nd:'
-    - ' * Deals 475% damage to target.'
-    - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 42% attack every turn.'
-    - " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner's max health."
-    - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.'
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Deals 375% damage to target.'
+  - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with
+    27% attack every turn.'
+  - ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed
+    health equal to 15% of its owner''s max health.'
+  - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after
+    every turn. Clone Fiends absorb the same amount of healing and deal the same amount
+    of damage as the original fiend.'
+  - '2nd:'
+  - ' * Deals 475% damage to target.'
+  - ' * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with
+    42% attack every turn.'
+  - ' * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed
+    health equal to 30% of its owner''s max health.'
+  - ' * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after
+    every turn. Clone Fiends absorb the same amount of healing and deal the same amount
+    of damage as the original fiend.'
   types:
-    - Hit 1
-    - Replicating Fiend Summoner 1
+  - Hit 1
+  - Replicating Fiend Summoner 1
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 80% damage to all enemies.'
-    - ' * All allies get +21% critical chance for 2 turns.'
-    - >-
-      Resist Insanity: This character has innate resistance against Insanity.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 80% damage to all enemies.'
+  - ' * All allies get +21% critical chance for 2 turns.'
+  - 'Resist Insanity: This character has innate resistance against Insanity.'
   image: https://imgur.com/SU2agg6.jpg
+...

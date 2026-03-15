@@ -1,3 +1,4 @@
+---
 name: Magni Glass Costume
 is_costume: true
 design: glass
@@ -11,14 +12,14 @@ defense: 1081
 health: 2397
 skill: Glass Strike
 effects:
-  - Deals 510% damage to the target.
-  - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - The caster and nearby allies get +60% defense for 4 turns.
+- Deals 510% damage to the target.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- The caster and nearby allies get +60% defense for 4 turns.
 types:
-  - Hit 1
-  - Bypass
-  - Defense Buff 3
+- Hit 1
+- Bypass
+- Defense Buff 3
 passives:
-  - >-
-    Glass: 60% extra chance to reflect status ailments back to the attacker.
+- 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/EJome7K.jpg
+...

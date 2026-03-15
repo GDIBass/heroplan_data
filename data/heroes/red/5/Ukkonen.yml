@@ -1,3 +1,4 @@
+---
 name: Ukkonen
 source: kalevala
 family: kalevala
@@ -9,20 +10,23 @@ defense: 935
 health: 1674
 skill: Chords of Distortion
 effects:
-  - Deals 230% damage to all enemies.
-  - All enemies get -40% attack for 3 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.
-  - The caster and nearby allies recover 618 HP over 3 turns. The effect duration is reset if the status effect owner is hit with direct damage from a Special Skill.
-  - The caster and nearby allies are immune to buff dispels for 3 turns.
+- Deals 230% damage to all enemies.
+- All enemies get -40% attack for 3 turns. Against Ice characters, this status effect
+  becomes uncleansable and lasts 2 turns longer.
+- The caster and nearby allies recover 618 HP over 3 turns. The effect duration is
+  reset if the status effect owner is hit with direct damage from a Special Skill.
+- The caster and nearby allies are immune to buff dispels for 3 turns.
 types:
-  - Hit all
-  - Attack Buff
-  - HoT 3
-  - Dispel Immunity 3
+- Hit all
+- Attack Debuff All
+- HoT 3
+- Dispel Immunity Buff 3
 passives:
-  - >-
-    Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+- 'Power of Sisu: When this character starts a turn with low health for the first
+  time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/tAIchka.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 1035
@@ -31,16 +35,20 @@ costume:
   health: 1951
   skill: Chords of Inferno
   effects:
-    - Deals 260% damage to all enemies.
-    - All enemies get -30% attack for 3 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.
-    - The caster and nearby allies recover 717 HP over 3 turns. The effect duration is reset if the status effect owner is hit with direct damage from a Special Skill.
-    - The caster and nearby allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself)
+  - Deals 260% damage to all enemies.
+  - All enemies get -30% attack for 3 turns. Against Ice characters, this status effect
+    becomes uncleansable and lasts 2 turns longer.
+  - The caster and nearby allies recover 717 HP over 3 turns. The effect duration
+    is reset if the status effect owner is hit with direct damage from a Special Skill.
+  - The caster and nearby allies are immune to buff dispels and reallocations for
+    3 turns. (The immunity also includes this effect itself)
   types:
-    - Hit All
-    - Attack Debuff
-    - HoT 3
-    - Dispel Immunity 3
+  - Hit All
+  - Attack Debuff
+  - HoT 3
+  - Dispel Immunity 3
   passives:
-    - >-
-      Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
+  - 'Power of Sisu: When this character starts a turn with low health for the first
+    time during a battle, they recover 15% health and receive 15% mana.'
   image: https://i.imgur.com/0QCrvIl.jpg
+...

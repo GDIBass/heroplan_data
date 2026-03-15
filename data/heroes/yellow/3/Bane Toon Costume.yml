@@ -1,22 +1,25 @@
+---
 name: Bane Toon Costume
 is_costume: true
 design: toon
-class: Monk
 source: season1
 family: classic
 speed: Fast
+class: Monk
 power: 483
 attack: 524
 defense: 433
 health: 815
 skill: Toon Slam
 effects:
-  - Deals 305% damage to the target.
-  - The target gets -30% accuracy for 2 turns.
-  - Deals extra damage against Dark.
+- Deals 305% damage to the target.
+- The target gets -30% accuracy for 2 turns.
+- Deals extra damage against Dark.
 types:
-  - Hit 1
-  - Blind 1
+- Hit 1
+- Blind 1
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/IQ13bAv.jpg
+...

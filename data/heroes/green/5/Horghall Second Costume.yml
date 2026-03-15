@@ -1,23 +1,26 @@
+---
 name: Horghall Second Costume
 is_costume: true
 design: costume2
-class: Wizard
 source: season1
 family: classic
 speed: Slow
+class: Wizard
 power: 910
 attack: 816
 defense: 856
 health: 1858
 skill: Anger of the Woods
 effects:
-  - Deals 260% damage to all enemies.
-  - All enemies get -31% attack, and a further 4% decrease any time they are hit during 4 turns.
-  - All enemies get -24% defense for 4 turns.
-  - All enemies receive 228 Poison damage over 4 turns.
+- Deals 260% damage to all enemies.
+- All enemies get -31% attack, and a further 4% decrease any time they are hit during
+  4 turns, down to -51% attack.
+- All enemies get -24% defense for 4 turns.
+- All enemies receive 228 Poison damage over 4 turns.
 types:
-  - Hit All
-  - Attack Debuff All
-  - Defense Debuff All
-  - Dot All
+- Hit All
+- Attack Debuff All
+- Defense Debuff All
+- DoT All
 image: https://i.imgur.com/IfQ1lHo.jpg
+...

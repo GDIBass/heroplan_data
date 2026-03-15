@@ -27,10 +27,10 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue
-  power: 1245
-  attack: 1277
-  defense: 1212
-  health: 2388
+  power: 1273
+  attack: 1313
+  defense: 1246
+  health: 2438
   skill: Cursed Plan
   effects:
     - Dispels buffs from the target and nearby enemies.
@@ -44,6 +44,6 @@ costume:
     - >-
       Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.
     - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
-    - " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 376 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+    - " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 387 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
     - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
   image: https://imgur.com/Pn28cus.jpg

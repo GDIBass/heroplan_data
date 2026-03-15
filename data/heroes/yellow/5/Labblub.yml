@@ -13,12 +13,14 @@ effects:
   - Deals 350% damage to all enemies.
   - All allies get 5% mana for each destroyed Minion.
   - All allies are immune to new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.
+  - All enemies receive Devouring Goo for 4 turns. Removes all dispellable buffs and Growth effects and deals 200 damage each turn. If effects are removed, 50 more damage is dealt for each removed effect.
 types:
   - Minion Destroyer All
   - Hit All
   - Mana Boost All
   - Mana Debuffs Immunity All
   - Mana Increase if Resist All
+  - Devouring Goo Debuff All
 passives:
   - >-
     Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.

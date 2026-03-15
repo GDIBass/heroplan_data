@@ -1,3 +1,4 @@
+---
 name: Galapago
 source: untoldtales
 family: defendersofatlantis
@@ -9,29 +10,29 @@ defense: 957
 health: 1856
 skill: Testudo Roll
 effects:
-  - 'Special Skill need consecutive uses to reach full power, the following order:'
-  - '1st:'
-  - ' * Destroys all Minions from all enemies.'
-  - ' * Deals 280% damage to all enemies.'
-  - ' * All allies get +30% defense for 3 turns.'
-  - '2nd:'
-  - ' * Destroys all Minions from all enemies.'
-  - ' * Deals 370% damage to all enemies.'
-  - ' * Stack (Max 10): The caster recovers 24 HP each turn for each destroyed Minion.'
-  - ' * All allies get +50% defense for 3 turns.'
+- 'Special Skill need consecutive uses to reach full power, the following order:'
+- '1st:'
+- ' * Destroys all Minions from all enemies.'
+- ' * Deals 280% damage to all enemies.'
+- ' * All allies get +30% defense for 3 turns.'
+- '2nd:'
+- ' * Destroys all Minions from all enemies.'
+- ' * Deals 370% damage to all enemies.'
+- ' * Stack (Max 10): The caster recovers 24 HP each turn for each destroyed Minion.'
+- ' * All allies get +50% defense for 3 turns.'
 types:
-  - Minion Destroyer All
-  - Hit all
-  - Defense Buff All
+- Minion Destroyer All
+- Hit All
+- Defense Buff All
+- Heal Stack on minion destroyed
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 80% damage to all enemies.'
-  - ' * All allies get +21% critical chance for 2 turns.'
-  - >-
-    Resist Insanity: This character has innate resistance against Insanity.
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 80% damage to all enemies.'
+- ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/pxAZGoS.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 1161
@@ -40,25 +41,25 @@ costume:
   health: 2330
   skill: Testudo Rock
   effects:
-    - 'Special Skill need consecutive uses to reach full power, the following order:'
-    - '1st:'
-    - ' * Destroys all Minions from all enemies.'
-    - ' * Deals 270% damage to all enemies.'
-    - ' * All allies get +25% defense for 3 turns.'
-    - '2nd:'
-    - ' * Destroys all Minions from all enemies.'
-    - ' * Deals 400% damage to all enemies.'
-    - ' * Stack (Max 10): The caster recovers 30 HP each turn for each destroyed Minion.'
-    - ' * All allies get +55% defense for 3 turns.'
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Destroys all Minions from all enemies.'
+  - ' * Deals 270% damage to all enemies.'
+  - ' * All allies get +25% defense for 3 turns.'
+  - '2nd:'
+  - ' * Destroys all Minions from all enemies.'
+  - ' * Deals 400% damage to all enemies.'
+  - ' * Stack (Max 10): The caster recovers 30 HP each turn for each destroyed Minion.'
+  - ' * All allies get +55% defense for 3 turns.'
   types:
-    - Destroy Minions
-    - Hit all
-    - Defense Buffer
+  - Destroy Minions
+  - Hit all
+  - Defense Buffer
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 80% damage to all enemies.'
-    - ' * All allies get +21% critical chance for 2 turns.'
-    - >-
-      Resist Insanity: This character has innate resistance against Insanity.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 80% damage to all enemies.'
+  - ' * All allies get +21% critical chance for 2 turns.'
+  - 'Resist Insanity: This character has innate resistance against Insanity.'
   image: https://i.imgur.com/hvltSu6.jpg
+...

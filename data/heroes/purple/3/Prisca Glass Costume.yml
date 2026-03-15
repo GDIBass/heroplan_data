@@ -1,3 +1,4 @@
+---
 name: Prisca Glass Costume
 is_costume: true
 design: glass
@@ -5,20 +6,20 @@ source: season1
 family: classic
 speed: Average
 class: Paladin
-power: 519
-attack: 504
-defense: 527
-health: 929
+power: 522
+attack: 508
+defense: 532
+health: 937
 skill: Glass Stab
 effects:
-  - Deals 275% damage to the target.
-  - The attack bypasses defensive buffs.(This includes counterattacks.)
-  - Heals the caster for 50% of damage dealt.
+- Deals 275% damage to the target.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- Heals the caster for 50% of damage dealt.
 types:
-  - Hit 1
-  - Bypass
-  - Heal Self
+- Hit 1
+- Bypass
+- Heal Self
 passives:
-  - >-
-    Glass: 60% extra chance to reflect status ailments back to the attacker.
+- 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/SdXnKqi.jpg
+...

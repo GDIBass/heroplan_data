@@ -1,0 +1,23 @@
+---
+name: Balthazar Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Fast
+class: Wizard
+power: 544
+attack: 633
+defense: 503
+health: 839
+skill: Stylish Jolt
+effects:
+- Deals 385% damage to the target.
+- If the target has less than 50% health remaining, deals 435% damage instead.
+types:
+- Hit 1
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/sAHNKFa.jpg
+...

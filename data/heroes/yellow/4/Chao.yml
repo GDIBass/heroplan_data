@@ -1,3 +1,4 @@
+---
 name: Chao
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 675
 health: 1115
 skill: Tactical Cut
 effects:
-  - Deals 315% damage to the target
-  - Reduces the mana of the target by 25%
+- Deals 315% damage to the target.
+- Reduces the mana of the target by 25%.
 types:
-  - Hit 1
-  - Mana Reduction
+- Hit 1
+- Mana Reduction 1
 image: https://i.imgur.com/akseq6D.jpg
 costume:
   design: costume1
@@ -25,11 +26,13 @@ costume:
   health: 1189
   skill: Ornithological Cut
   effects:
-    - Deals 275% damage to the target.
-    - The caster steals generated mana of the target over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but it gets remoed if the caster dies.
+  - Deals 275% damage to the target.
+  - The caster steals generated mana of the target over 4 turns starting low and increasing
+    every turn until on the last turn all the generated mana is stolen. This effect
+    can't be cleansed, but it gets removed if the caster dies.
   types:
-    - Hit 1
-    - Mana steal 1
+  - Hit 1
+  - Mana Steal 1
   image: https://i.imgur.com/iiLBfC1.jpg
 costume2:
   design: costume2
@@ -41,11 +44,11 @@ costume2:
   health: 1279
   skill: Cub Leader Cut
   effects:
-    - Deals 275% damage to the target and nearby enemies.
-    - The target and nearby enemies get -24% mana generation for 3 turns.
+  - Deals 275% damage to the target and nearby enemies.
+  - The target and nearby enemies get -24% mana generation for 3 turns.
   types:
-    - Hit 3
-    - Mana generation debuff 3
+  - Hit 3
+  - Mana Generation Debuff 3
   image: https://i.imgur.com/AhEe43s.jpg
 costume3:
   design: toon
@@ -57,15 +60,15 @@ costume3:
   health: 1295
   skill: Toontastic Cut
   effects:
-    - Deals 320% damage to the target.
-    - Reduces the mana of the target by -20%.
-    - Deals extra damage against Dark.
+  - Deals 320% damage to the target.
+  - Reduces the mana of the target by -20%.
+  - Deals extra damage against Dark.
   types:
-    - Hit 1
-    - Mana Reduction 1
+  - Hit 1
+  - Mana Reduction 1
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/SdLEIc0.jpg
 costume4:
   design: glass
@@ -77,14 +80,14 @@ costume4:
   health: 1311
   skill: Vitrail Cut
   effects:
-    - Deals 325% damage to the target.
-    - Reduces the mana of the target by -23%.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Deals 325% damage to the target.
+  - Reduces the mana of the target by 23%.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
   types:
-    - Hit 1
-    - Mana Reduction 1
-    - Bypass
+  - Hit 1
+  - Mana Reduction 1
+  - Bypass
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/s68xCDI.jpg
+...

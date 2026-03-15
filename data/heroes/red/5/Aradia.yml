@@ -1,3 +1,4 @@
+---
 name: Aradia
 source: carnivalofgods
 family: maskedgod
@@ -9,13 +10,17 @@ defense: 859
 health: 1858
 skill: Wicked Witchcraft
 effects:
-  - Reduces max health of all enemies by 570. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of max health. Any boosted health is reduced by an additional 570.
-  - All enemies receive 744 Burn damage over 4 turns.
-  - All enemies get -75% decrease of any boosted health received for 4 turns.
+- Reduces max health of all enemies by 570. The effect is stronger against targets
+  with boosted health. Max health can't get lower than 30% of max health. Any boosted
+  health is reduced by an additional 570.
+- All enemies receive 744 Burn damage over 4 turns.
+- All enemies get -75% decrease of any boosted health received for 4 turns.
 types:
-  - Max Health Reduction
-  - DoT All
+- Max Health Reduction
+- DoT All
+- Boosted Heal Decrease Debuff All
 passives:
-  - >-
-    Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. 
+- 'Cleanse on Minion Death: This character is cleansed of status ailments when Minion
+  owned by them is destroyed.'
 image: https://i.imgur.com/KU4YzVK.jpg
+...

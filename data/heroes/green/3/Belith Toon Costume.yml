@@ -1,3 +1,4 @@
+---
 name: Belith Toon Costume
 is_costume: true
 design: toon
@@ -11,13 +12,16 @@ defense: 496
 health: 874
 skill: Toon Mist
 effects:
-  - Recovers 35% health for all allies.
-  - All allies get +34% defense for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.
-  - Dispels buffs from all enemies.
+- Recovers 35% health for all allies.
+- All allies get +34% defense for 3 turns. This status effect is undispellable and
+  lasts 2 turns longer on Nature characters.
+- Dispels buffs from all enemies.
 types:
-  - Healer
-  - Defense buff All
-  - Dispeller All
+- Healer All
+- Defense Buff All
+- Dispeller All
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/d6OTmVG.jpg
+...

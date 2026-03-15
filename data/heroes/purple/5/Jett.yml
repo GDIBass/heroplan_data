@@ -1,30 +1,70 @@
+---
 name: Jett
-class: Wizard
 source: magic
 family: magic
 speed: Magic
+class: Wizard
 power: 954
 attack: 959
 defense: 931
 health: 1668
 skill: Vapors of the Underworld
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200% mana:'
-  - '1x Mana Charge:'
-  - ' * Deals 290% damage to the target.'
-  - ' * The target receives 588 Poision damage over 3 turns. The caster absorbs 100% of the dealt Poison damage as heath.'
-  - '2x Mana Charge:'
-  - ' * Deals 300% damage to all enemies.'
-  - ' * All enemies receives 730 Poision damage over 5 turns. The caster and all their allies absorb 30% of the dealt Poison damage as health.'
+- 'Special Skill has a different effect when charged with 100%/200% mana:'
+- '1x Mana Charge:'
+- ' * Deals 290% damage to the target.'
+- ' * The target receives 588 Poision damage over 3 turns. The caster absorbs 100%
+  of the dealt Poison damage as heath.'
+- '2x Mana Charge:'
+- ' * Deals 300% damage to all enemies.'
+- ' * All enemies receives 730 Poision damage over 5 turns. The caster and all their
+  allies absorb 30% of the dealt Poison damage as health.'
 types:
+- Charge
+- Hit 1
+- DoT 1
+- Hit all
+- DoT All
+passives:
+- 'Health Recovery on Special: When this character casts their Special Skill, they
+  have a 50% chance to recover 15% health for all allies. If the Special Skill is
+  fully changed, the chance is 100%.'
+- 'Stack on Special: When this character casts their Special Skill, all enemies get
+  -5% mana generation stack. If the Special Skill is fully changed, all enemies get
+  two stacks. An enemy can have up to 10 stacks.'
+image: https://i.imgur.com/bHuMYnz.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 1276
+  attack: 1333
+  defense: 1282
+  health: 2332
+  skill: Gaze of the Underworld
+  effects:
+  - 'Special Skill has a different effect when charged with 100%/200% mana:'
+  - 'x1 Mana Charge:'
+  - ' * Deals 300% damage to the target.'
+  - ' * The target receives 858 Poison damage over 3 turns. The caster absorbs 100%
+    of dealt Poison damage as boosted health.'
+  - 'x2 Mana Charge:'
+  - ' * Deals 300% damage to all enemies.'
+  - ' * All enemies receive 1085 Poison damage over 5 turns. The caster and all their
+    allies absorb 30% of dealt Poison damage as boosted health.'
+  types:
   - Charge
   - Hit 1
   - DoT 1
   - Hit all
   - Dot All
-passives:
-  - >-
-    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.
-  - >-
-    Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%.
-image: https://i.imgur.com/bHuMYnz.jpg
+  passives:
+  - 'Health Recovery on Special: When this character casts their Special Skill, they
+    have a 60% chance to recover 20% health for all allies. If the Special Skill is
+    fully changed, the chance is 100%.'
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get -7% mana generation stack. If the Special Skill is fully changed, all enemies
+    get two stacks. An enemy can have up to 10 stacks.'
+  - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
+  image: https://imgur.com/byXCjvP.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Domitia
 source: season1
 family: classic
@@ -9,13 +10,13 @@ defense: 677
 health: 1349
 skill: Shock Bolt
 effects:
-  - Deals 440% damage to the target.
-  - The caster and nearby allies get + 94% defense against Holy for 4 turns.
-  - Dispels buffs from the target and nearby enemies.
+- Deals 440% damage to the target.
+- The caster and nearby allies get + 94% defense against Holy for 4 turns.
+- Dispels buffs from the target and nearby enemies.
 types:
-  - Hit 1
-  - Elemental Defense Buff 3
-  - Dispeller 3
+- Hit 1
+- Elemental Defense Buff 3
+- Dispeller 3
 image: https://i.imgur.com/t244Fcr.jpg
 costume:
   design: costume1
@@ -27,13 +28,13 @@ costume:
   health: 1411
   skill: Poison Bolt
   effects:
-    - Deals 400% damage to the target.
-    - The target and nearby enemies receive 356 Poison damage over 4 turns.
-    - Cleanses status ailments from the caster and nearby allies.
+  - Deals 400% damage to the target.
+  - The target and nearby enemies receive 356 Poison damage over 4 turns.
+  - Cleanses status ailments from the caster and nearby allies.
   types:
-    - Hit 1
-    - Dot 3
-    - Cleanser 3
+  - Hit 1
+  - DoT 3
+  - Cleanser 3
   image: https://i.imgur.com/mpRxFeU.jpg
 costume2:
   design: costume2
@@ -45,12 +46,13 @@ costume2:
   health: 1551
   skill: Dark Bolt
   effects:
-    - Deals 335% damage to target and nearby enemies
-    - The target and nearby enemies get -64% defense against Dark for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.
-    - Deals extra damage against Holy.
+  - Deals 335% damage to target and nearby enemies
+  - The target and nearby enemies get -64% defense against Dark for 4 turns. Against
+    Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  - Deals extra damage against Holy.
   types:
-    - Hit 3
-    - Elemental Defense Debuff 3
+  - Hit 3
+  - Elemental Defense Debuff 3
   image: https://i.imgur.com/36NtLB6.jpg
 costume3:
   design: toon
@@ -62,17 +64,17 @@ costume3:
   health: 2215
   skill: Toon Bolt
   effects:
-    - Deals 590% damage to the target.
-    - The caster and nearby allies get +64% defense against Holy for 4 turns.
-    - Deals extra damage against Holy.
-    - Dispels buffs from the target and nearby enemies.
+  - Deals 590% damage to the target.
+  - The caster and nearby allies get +64% defense against Holy for 4 turns.
+  - Deals extra damage against Holy.
+  - Dispels buffs from the target and nearby enemies.
   types:
-    - Hit 1
-    - Elemental Defense Buff 3
-    - Dispeller
+  - Hit 1
+  - Elemental Defense Buff 3
+  - Dispeller 3
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/q7quKlm.jpg
 costume4:
   design: glass
@@ -84,16 +86,16 @@ costume4:
   health: 2324
   skill: Glass Bolt
   effects:
-    - Deals 600% damage to the target.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - The caster and nearby allies get +74% defense against Holy for 4 turns.
-    - Dispels buffs from the target and nearby enemies.
+  - Deals 600% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The caster and nearby allies get +74% defense against Holy for 4 turns.
+  - Dispels buffs from the target and nearby enemies.
   types:
-    - Hit 1
-    - Bypass
-    - Elemental Defense Buff 3
-    - Dispeller 3
+  - Hit 1
+  - Bypass
+  - Elemental Defense Buff 3
+  - Dispeller 3
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/gwMXUDN.jpg
+...

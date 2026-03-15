@@ -7,7 +7,7 @@ power: 480
 attack: 491
 defense: 460
 health: 820
-skill: Magnificient Meal
+skill: Magnificent Meal
 effects:
   - >-
     All allies get +100% normal attack for 4 turns. This effect can be active in

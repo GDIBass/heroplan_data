@@ -19,7 +19,7 @@ image: https://i.imgur.com/0JU9Ii1.jpg
 costume:
   design: costume1
   bonuses: 5/5/10/5
-  class: rogue
+  class: Rogue
   power: 796
   attack: 775
   defense: 712
@@ -31,12 +31,12 @@ costume:
     4 turns.
   types:
   - Hit all
-  - Counterattack 33
+  - Counterattack 3
   image: https://i.imgur.com/SB2N0Vj.jpg
 costume2:
   design: costume2
   bonuses: 5/5/10/5
-  class: fighter
+  class: Fighter
   power: 859
   attack: 829
   defense: 793
@@ -56,7 +56,7 @@ costume2:
 costume3:
   design: toon
   bonuses: 5/5/10/5
-  class: barbarian
+  class: Barbarian
   power: 1110
   attack: 1114
   defense: 1018
@@ -76,7 +76,7 @@ costume3:
 costume4:
   design: glass
   bonuses: 5/5/10/5
-  class: barbarian
+  class: Barbarian
   power: 1237
   attack: 1303
   defense: 1181
@@ -96,7 +96,7 @@ costume4:
 costume5:
   design: stylish
   bonuses: 5/5/10/5
-  class: barbarian
+  class: Barbarian
   power: 1299
   attack: 1385
   defense: 1245

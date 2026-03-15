@@ -1,3 +1,4 @@
+---
 name: Omen
 source: secretsummon
 family: cultist
@@ -9,17 +10,22 @@ defense: 1110
 health: 2004
 skill: Ritual of the Deep
 effects:
-  - Deals 500% damage to the target.
-  - Summons an Ominous Tentacle Fiend for the target.
-  - The Ominous Tentacle Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner's max health.
-  - The Ominous Tentacle Fiend generates clone of itself to nearby enemies after every turn. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend)
-  - The Ominous Tentacle inflicts 5 Insanity on the owner on every turn.
-  - Inflits 50 Instanity on the caster.
+- Deals 500% damage to the target.
+- Summons an Ominous Tentacle Fiend for the target.
+- The Ominous Tentacle Fiend absorbs healing and disappears when it has absorbed health
+  equal to 15% of its owner's max health.
+- The Ominous Tentacle Fiend generates clone of itself to nearby enemies after every
+  turn. (Cloned Fiends absorb the same amount of healing and deal the same amount
+  of damage as the original fiend)
+- The Ominous Tentacle inflicts 5 Insanity on the owner on every turn.
+- Casting this Special Skill inflicts 45 Insanity on the caster.
 types:
-  - Hit 1
-  - Replicating Fiend Summoner 1
-  - Insanity Inflincting Fiend
+- Hit 1
+- Replicating Fiend Summoner 1
+- Insanity Inflicting Fiend
+- Insanity Self
 passives:
-  - >-
-    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
+- 'Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character
+  up to a maximum reduction of 50%.'
 image: https://i.imgur.com/lX6ylxv.jpg
+...

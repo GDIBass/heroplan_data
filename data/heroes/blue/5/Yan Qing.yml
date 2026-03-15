@@ -1,0 +1,35 @@
+---
+name: Yan Qing
+source: fortune
+family: fortunedancer
+speed: Dancer
+class: Ranger
+power: 1282
+attack: 1339
+defense: 1326
+health: 2266
+skill: Flowing Dragon Dual Slash
+effects:
+- Deals 500% Spirit Slash damage to the enemies on the edges of the enemy formation.
+  Spirit Slash safely removes buffs before dealing damage. (Damage is reduced by -60%
+  for each removed buff. Undispellable buffs are also removed.)
+- Nearby allies dance the Flowing Fortune Dance for 4 turns.
+- Flowing Fortune Dance
+- ' * +44% mana generation.'
+- ' * Dealt damage is increased by +20%. The effect is +30% against Fire targets.'
+- ' * Received damage is reduced by -20%. The effect is -30% against Nature Special
+  Skills.'
+- ' * Fortune Dances stack with other Dance effects. (All existing status effects
+  will be removed when Fortune Dance status effects is added, except other Dance status
+  effects. Fortune Dances gives immunity to new status effects, except other Dance
+  effects. Fortune Dance effect cannot be dispelled. The effect is removed when the
+  caster is defeated.)'
+types:
+- Safely Dispel 2
+- Spirit Slash Hit 2
+- Flowing Fortune Dance Buff 2
+passives:
+- 'Fierce Dancer: If any allies are Dancing, this character''s Special Skill deals
+  +30% more damage.'
+image: https://imgur.com/7jfn9T4.jpg
+...

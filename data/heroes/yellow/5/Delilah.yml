@@ -1,6 +1,7 @@
+---
 name: Delilah
 source: hotm
-family: 2018
+family: "2018"
 speed: Average
 class: Fighter
 power: 768
@@ -9,14 +10,17 @@ defense: 704
 health: 1345
 skill: Summon Temple Guardians
 effects:
-  - Recovers 40% health for all allies
-  - Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster
-  - Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be displelled.
+- Recovers 42% health for all allies
+- Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from
+  the caster
+- Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This
+  effect can't be dispelled.
 types:
-  - Healer
-  - Summoner
+- Healer
+- Summoner
 image: https://i.imgur.com/gbHdhVI.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 974
@@ -25,13 +29,16 @@ costume:
   health: 1973
   skill: Summon Celestial Guardians
   effects:
-    - Recovers 37% health for all allies.
-    - Summons a Guardian Minion for each ally with 25% HP and 30% attack inherited from the caster.
-    - Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can't be displelled.
+  - Recovers 40% health for all allies.
+  - Summons a Guardian Minion for each ally with 25% HP and 30% attack inherited from
+    the caster.
+  - Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This
+    effect can't be displelled.
   types:
-    - Healer
-    - Summoner
+  - Healer
+  - Summoner
   passives:
-    - >-
-      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
+  - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
+    the newest status ailment from all allies.'
   image: https://i.imgur.com/muqHGtI.jpg
+...

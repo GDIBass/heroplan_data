@@ -7,7 +7,7 @@ power: 1224
 attack: 1277
 defense: 1231
 health: 2202
-skill: Mending Stiches
+skill: Mending Stitches
 effects:
   - Each defeated ally has a 60% chance to get revived with 20% HP.
   - All allies regenerate 1080 boosted health over 4 turn. Boosted health can exceed max HP.

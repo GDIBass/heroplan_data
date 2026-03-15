@@ -1,3 +1,4 @@
+---
 name: Green Knight
 source: avalon
 family: avalon
@@ -9,11 +10,15 @@ defense: 819
 health: 1431
 skill: Omen of Retribution
 effects:
-  - All enemies get -24% defense for 3 turns.
-  - Deals 265% damage to all enemies.
-  - If the caster dies during the next 5 turns, they are resurrected in the beginning of their next turn with 45% health and 765 damage is dealt to all enemies. All status effects and stacks are removed when the caster dies.
+- All enemies get -24% defense for 3 turns.
+- Deals 265% damage to all enemies.
+- If the caster dies during the next 5 turns, they are resurrected in the beginning
+  of their next turn with 45% health and 765 damage is dealt to all enemies. All status
+  effects and stacks are removed when the caster dies.
 types:
-  - Defense debuff
-  - Hit all
-  - Self Resurrection
+- Defense debuff
+- Hit all
+- Self Resurrection
+- Damage All on resurrection
 image: https://i.imgur.com/4LKxVef.jpg
+...

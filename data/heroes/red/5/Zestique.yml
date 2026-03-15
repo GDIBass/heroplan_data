@@ -10,10 +10,12 @@ health: 2261
 skill: Cherry Pudding Served!
 effects:
   - Increases the mana of nearby allies by 30%.
+  - Recovers 25% health for the caster and nearby allies.
   - "Growth: Nearby allies gets 300 attack and 300 defense."
   - Summon a Slime Mega Minion with 50% HP and 40% attack inherited from the caster.
 types:
   - Mana Increase 2
+  - Healer 3
   - Growth 2
   - Slime Mega Minion Self
 passives:

@@ -1,3 +1,4 @@
+---
 name: Garnet
 source: ninja
 family: ninja
@@ -9,17 +10,18 @@ defense: 751
 health: 1481
 skill: Awaken Ki
 effects:
-  - 1x Mana Charge
-  - '* Boosts health of all allies by 230. Boosted health can exceed max HP.'
-  - '* All allies are immune to new status ailments for 2 turns.'
-  - 2x Mana Charge
-  - '* Boosts health of all allies by 450. Boosted health can exceed max HP.'
-  - '* All allies are immune to new status ailments for 3 turns.'
-  - 3x Mana Charge
-  - '* Boosts health of all allies by 750. Boosted health can exceed max HP.'
-  - '* All allies are immune to new status ailments for 4 turns.'
+- 1x Mana Charge
+- ' * Boosts health of all allies by 230. Boosted health can exceed max HP.'
+- ' * All allies are immune to new status ailments for 2 turns.'
+- 2x Mana Charge
+- ' * Boosts health of all allies by 450. Boosted health can exceed max HP.'
+- ' * All allies are immune to new status ailments for 3 turns.'
+- 3x Mana Charge
+- ' * Boosts health of all allies by 750. Boosted health can exceed max HP.'
+- ' * All allies are immune to new status ailments for 4 turns.'
 types:
-  - Charger
-  - Health Boost
-  - Status Ailment Immunity
+- Charge
+- Health Boost All
+- Status Ailment Immunity Buff All
 image: https://i.imgur.com/Vxe7UpD.jpg
+...

@@ -1,0 +1,42 @@
+---
+name: Tokage Daigo
+source: ninja
+family: ronin
+speed: Charge
+class: Ranger
+power: 800
+attack: 892
+defense: 794
+health: 1294
+skill: Lethal Strikes
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- 'x1 Mana Charge:'
+- Deals 180% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy.
+- All hit target receive 398 Poison damage over 2 turns.
+- The attack has 65% chance to bypass defensive buffs. (This includes counterattacks)
+- 'x2 Mana Charge:'
+- Deals 280% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy.
+- All hit target receive 597 Poison damage over 3 turns.
+- The attack has 85% chance to bypass defensive buffs. (This includes counterattacks)
+- 'x3 Mana Charge:'
+- Deals 380% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy.
+- All hit target receive 796 Poison damage over 4 turns.
+- The attack bypasses defensive buffs. (This includes counterattacks)
+types:
+- Charge
+- Hit 1
+- Chain Hit
+- DoT on hit
+- Bypass chance
+passives:
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 400% damage.'
+- ' * The attacker receives 1200 Bleed damage over 3 turns.'
+image: https://imgur.com/mI380TJ.jpg
+...

@@ -7,7 +7,7 @@ power: 649
 attack: 531
 defense: 690
 health: 1323
-skill: Sand Gate
+skill: Sand Gale
 effects:
   - Deals 235% damage to the target and minor damage to nearby enemies.
   - The target and nearby enemies receive 172 damage over 4 turns.

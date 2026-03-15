@@ -1,25 +1,27 @@
+---
 name: Zaria
-class: Sorcerer
-speed: Average
 source: superelemental
 family: superelemental
+speed: Average
+class: Sorcerer
 power: 961
 attack: 999
 defense: 945
 health: 1586
 skill: Cataclysmic Divination
 effects:
-  - Deals 290% damage to all enemies.
-  - If there are 6 or more Fire shields on the board, damage is increased to 340%.
-  - If there are 12 or more Fire shields on the board, damage is increased to 500%.
+- Deals 290% damage to all enemies.
+- If there are 6 or more Fire shields on the board, damage is increased to 340%.
+- If there are 12 or more Fire shields on the board, damage is increased to 500%.
 types:
-  - Hit all
+- Hit All
 passives:
-  - 'Troop Mastery:'
-  - >-
-    Passive Skill as attacking character: This hero's Troops deal extra elemental damage against weaker element.
-  - ' - Dealt extra elemental damage: +100%'
-  - >-
-    Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.
-  - ' - Received elemental damage: -10%'
+- 'Troop Mastery:'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra elemental
+  damage against weaker element.'
+- ' * Dealt extra elemental damage: +100%'
+- 'Passive Skill as defending character: This hero receives less elemental damage
+  from Troops of stronger element.'
+- ' * Received elemental damage: -10%'
 image: https://i.imgur.com/kfVoysd.jpg
+...

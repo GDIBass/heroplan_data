@@ -1,3 +1,4 @@
+---
 name: Moonflower
 source: astral
 family: astralelves
@@ -9,14 +10,15 @@ defense: 1073
 health: 1720
 skill: Leafglow Bloom
 effects:
-  - For the next 3 turns, this character deals 235% damage to all enemies after an enemy casts their Special Skill.
-  - All allies get +35% mana generation for 3 turns.
+- For the next 3 turns, this character deals 235% damage to all enemies after an enemy
+  casts their Special Skill.
+- All allies get +35% mana generation for 3 turns.
 types:
-  - Hit All
-  - Mana generation buff
+- Hit All after Enemy SS
+- Mana Generation Buff All
 passives:
-  - >-
-    Resist Poison: This character has innate resistance against Poison.
-  - >-
-    Share Received Damage: 20% of damage received by this character is shared with other allies.
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
+- 'Share Received Damage: 20% of damage received by this character is shared with
+  other allies.'
 image: https://i.imgur.com/0xgP0mx.jpg
+...

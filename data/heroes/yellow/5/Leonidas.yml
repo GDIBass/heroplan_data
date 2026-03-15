@@ -1,3 +1,4 @@
+---
 name: Leonidas
 source: season1
 family: classic
@@ -9,13 +10,13 @@ defense: 718
 health: 1221
 skill: Spartan Cleave
 effects:
-  - Deals 415% damage to the target.
-  - Reduces the mana of the target by 40%.
-  - Heals the caster for 75% of damage dealt.
+- Deals 415% damage to the target.
+- Reduces the mana of the target by 40%.
+- Heals the caster for 75% of damage dealt.
 types:
-  - Hit 1
-  - Mana Reduction
-  - Self Heal
+- Hit 1
+- Mana Reduction 1
+- Self Heal
 image: https://i.imgur.com/SPyWzYD.jpg
 costume:
   design: costume1
@@ -27,11 +28,13 @@ costume:
   health: 1347
   skill: Spartan Charge
   effects:
-    - Deals 390% damage to the target and minor damage to nearby enemies
-    - The target and nearby enemies get -54% defense against Holy for 4 turns.
-    - All Dark enemies get -34% attack for 4 turns
+  - Deals 390% damage to the target and minor damage to nearby enemies
+  - The target and nearby enemies get -54% defense against Holy for 4 turns.
+  - All Dark enemies get -34% attack for 4 turns
   types:
-    - Hit 3
+  - Hit 3
+  - Elemental Defense Debuff 3
+  - Attack Debuff All Dark
   image: https://i.imgur.com/c7cvRg8.jpg
 costume2:
   design: costume2
@@ -43,13 +46,14 @@ costume2:
   health: 1369
   skill: Spartan Slash
   effects:
-    - Deals 240% damage to all enemies.
-    - Reduces the mana of all enemies by 10%.
-    - All enemies get -34% defense for 3 turns. Against Dark characters, this status effect becomes uncleansable lasts 2 turn longer.
+  - Deals 240% damage to all enemies.
+  - Reduces the mana of all enemies by 10%.
+  - All enemies get -34% defense for 3 turns. Against Dark characters, this status
+    effect becomes uncleansable lasts 2 turn longer.
   types:
-    - Hit All
-    - Mana Reduction
-    - Defense Debuff
+  - Hit All
+  - Mana Reduction All
+  - Defense Debuff All
   image: https://i.imgur.com/6haP2Yz.jpg
 costume3:
   design: toon
@@ -61,17 +65,17 @@ costume3:
   health: 2096
   skill: Toon Cleave
   effects:
-    - Deals 565% damage to the target.
-    - Reduces the mana of the target by 35%.
-    - Heals the caster for 65% of damage dealt.
-    - Deals extra damage against Dark.
+  - Deals 565% damage to the target.
+  - Reduces the mana of the target by 35%.
+  - Heals the caster for 65% of damage dealt.
+  - Deals extra damage against Dark.
   types:
-    - Hit 1
-    - Mana reducer
-    - Self heal
+  - Hit 1
+  - Mana reducer 1
+  - Self heal
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/PKsAK4b.jpg
 costume4:
   design: glass
@@ -83,16 +87,38 @@ costume4:
   health: 2155
   skill: Glass Cleave
   effects:
-    - Deals 575% damage to the target.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - Reduces the mana of the target by -38%.
-    - Heals the caster for 70% of damage dealt.
+  - Deals 575% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Reduces the mana of the target by -38%.
+  - Heals the caster for 70% of damage dealt.
   types:
-    - Hit 1
-    - Bypass
-    - Mana reducer 1
-    - Self Heal
+  - Hit 1
+  - Bypass
+  - Mana reducer 1
+  - Self Heal
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/7lvHaTO.jpg
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 1292
+  attack: 1417
+  defense: 1272
+  health: 2251
+  skill: Stylish Cleave
+  effects:
+  - Deals 585% damage to the target.
+  - If the target has less than 50% health remaining, deals 730% damage instead.
+  - Reduces the mana of the target by 39%.
+  - Heals the caster for 72% of damage dealt.
+  types:
+  - Hit 1
+  - Mana Reducer 1
+  - Self Heal
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/MeT3mAW.jpg
+...

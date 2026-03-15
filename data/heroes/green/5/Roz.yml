@@ -1,29 +1,30 @@
+---
 name: Roz
 source: superelemental
 family: superelemental
 speed: Fast
 class: Ranger
-power: 950
+power: 970
 attack: 939
 defense: 908
 health: 1874
 skill: Elemental Infusion Arrow
 effects:
-  - Deals 530% damage to the target.
-  - If there are 6 or more Nature shields on the board damage is dealt to the target and nearby enemies.
-  - If there are 12 or more Nature shields on the board damage is dealt to all enemies.
+- Deals 530% damage to the target.
+- If there are 6 or more Nature shields on the board damage is dealt to the target
+  and nearby enemies instead.
+- If there are 12 or more Nature shields on the board damage is dealt to all enemies
+  instead.
 types:
-  - Hit 1, 3 or All
+- Hit 1, 3 or All
 passives:
-  - 'Troop Mastery:'
-  - >-
-    Passive Skill as attacking character: This hero's Troops deal extra 
-    elemental damage against weaker element.
-  - ' - Dealt extra elemental damage: +100%'
-  - >-
-    Passive Skill as defending character: This hero receives less elemental 
-    damage from Troops of stronger element.
-  - ' - Received elemental damage: -10%'
+- 'Troop Mastery:'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
+  damage against weaker element.'
+- ' * Dealt extra elemental damage: +100%'
+- 'Passive Skill as defending character: This hero receives less elemental  damage
+  from Troops of stronger element.'
+- ' * Received elemental damage: -10%'
 image: https://i.imgur.com/5xvOFq1.jpg
 costume:
   design: costume1
@@ -35,20 +36,20 @@ costume:
   health: 2393
   skill: Sonic Infusion Arrow
   effects:
-    - Deals 540% damage to the target.
-    - If there are 5 or more Nature shields on the board damage is dealt to the target and nearby enemies.
-    - If there are 10 or more Nature shields on the board damage is dealt to all enemies.
-    - Deals extra damage against Ice.
+  - Deals 540% damage to the target.
+  - If there are 5 or more Nature shields on the board damage is dealt to the target
+    and nearby enemies.
+  - If there are 10 or more Nature shields on the board damage is dealt to all enemies.
+  - Deals extra damage against Ice.
   types:
-    - Hit 1, 3 or All
+  - Hit 1, 3 or All
   passives:
-    - 'Troop Mastery:'
-    - >-
-      Passive Skill as attacking character: This hero's Troops deal extra 
-      elemental damage against weaker element.
-    - ' - Dealt extra elemental damage: +150%'
-    - >-
-      Passive Skill as defending character: This hero receives less elemental 
-      damage from Troops of stronger element.
-    - ' - Received elemental damage: -25%'
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
+    damage against weaker element.'
+  - ' * Dealt extra elemental damage: +150%'
+  - 'Passive Skill as defending character: This hero receives less elemental  damage
+    from Troops of stronger element.'
+  - ' * Received elemental damage: -25%'
   image: https://imgur.com/iob8I3P.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Quintus Second Costume
 is_costume: true
 design: costume2
@@ -11,9 +12,11 @@ defense: 805
 health: 1686
 skill: Lightning Ultimatum
 effects:
-  - Deals 300% damage to the target and nearby enemies.
-  - The target and nearby enemies automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns.
+- Deals 300% damage to the target and nearby enemies.
+- The target and nearby enemies automatically cast Mindless Attack on a random ally
+  when mana is full at the start of a turn during 4 turns.
 types:
-  - Hit All
-  - Mindless Attack
+- Hit 3
+- Mindless Attack 3
 image: https://i.imgur.com/BmY4xiU.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Gandr
 source: untoldtales
 family: nidavellir
@@ -9,17 +10,54 @@ defense: 1161
 health: 2193
 skill: Spearwand Gale
 effects:
-  - Attacks all enemies with Firestorm Strike, dealing up to 2200 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.
-  - Heals all allies for 30% of damage dealt.
-  - All allies counterattack with 65% of the damage received for 5 turns.
+- Attacks all enemies with Firestorm Strike, dealing up to 2200 damage. Deals 40%
+  more if the target is of the Nature element. This Special Skill never misses its
+  targets.
+- Heals all allies for 30% of damage dealt.
+- All allies counterattack with 65% of the damage received for 5 turns.
 types:
-  - Hit All
-  - Healer
-  - Counterattack
+- Hit All
+- Healer All
+- Counterattack All
 passives:
-  - >-
-    Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.
-  - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
-  - " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions."
-  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+- 'Empowered Resist Burn: This character has innate resistance against Burn and gains
+  450 boosted heath and 5% mana each time they resist.'
+- 'Molten Core: The Molten Core activates each time this character''s Special Skill
+  is cast:'
+- ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core,
+  the Corrosive Burn deals 315 Burn damage, and lowers the target''s defense by -12%
+  each turn. Deals extra damage against heroes with Minions or Mega Minions.'
+- ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
+  exhausted when the Core is activated.'
 image: https://i.imgur.com/hNiWYCE.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 1277
+  attack: 1291
+  defense: 1279
+  health: 2444
+  skill: Regal Spearhead
+  effects:
+  - Attacks all enemies with Firestorm Strike, dealing up to 2500 damage. Deals 40%
+    more damage if the target is of the Nature element. This Special Skill never misses
+    its targets.
+  - Boosts all allies' health by 27% of damage dealt.
+  - All allies counterattack with 70% of the damage received for 5 turns.
+  types:
+  - Hit All
+  - Boosted Heal All
+  - Counterattack All
+  passives:
+  - 'Empowered Resist Burn: This character has innate resistance against Burn and
+    gains 600 boosted heath and 10% mana each time they resist.'
+  - 'Molten Core: The Molten Core activates each time this character''s Special Skill
+    is cast:'
+  - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten
+    Core, the Corrosive Burn deals 380 Burn damage, and lowers the target''s defense
+    by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
+  image: https://imgur.com/mgjd5V3.jpg
+...

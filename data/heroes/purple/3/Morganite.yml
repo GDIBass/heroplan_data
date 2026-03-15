@@ -1,3 +1,4 @@
+---
 name: Morganite
 source: ninja
 family: ninja
@@ -9,17 +10,22 @@ defense: 481
 health: 702
 skill: Cursed Fumes
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
-  - 'x1 Mana Charge:'
-  - ' - All enemies receive 64 Poison damage over 2 turns.'
-  - ' - All enemies get -40% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.'
-  - 'x2 Mana Charge:'
-  - ' - All enemies receive 196 Poison damage over 4 turns.'
-  - ' - All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.'
-  - 'x3 Mana Charge:'
-  - ' - All enemies receive 354 Poison damage over 6 turns.'
-  - ' - All enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills.'
+- 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+- 'x1 Mana Charge:'
+- ' - All enemies receive 64 Poison damage over 2 turns.'
+- ' - All enemies get -40% accuracy for 2 turns. Chance to miss also applies to offensive
+  Special Skills.'
+- 'x2 Mana Charge:'
+- ' - All enemies receive 196 Poison damage over 4 turns.'
+- ' - All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive
+  Special Skills.'
+- 'x3 Mana Charge:'
+- ' - All enemies receive 354 Poison damage over 6 turns.'
+- ' - All enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive
+  Special Skills.'
 types:
-  - DoT
-  - Blind
+- Charge
+- DoT All
+- Blind All
 image: https://i.imgur.com/lHtD195.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Penelope
 source: shadow
 family: investigator
@@ -9,13 +10,16 @@ defense: 1170
 health: 2191
 skill: Cut, Cure and Craze
 effects:
-  - Deals 440% damage to all enemies.
-  - Heals all allies for 35% of the damage dealth.
-  - All allies get +45% chance to dodge Special Skills for 5 turns. Each dodge inflicts 15 Insanity on the attacker.
-  - Inflicts 50 Insanity to the caster.
+- Deals 440% damage to all enemies.
+- Heals all allies for 35% of the damage dealt.
+- All allies get +45% chance to dodge Special Skills for 5 turns. Each dodge inflicts
+  15 Insanity on the attacker.
+- Casting this Special Skill inflicts 50 Insanity to the caster.
 types:
-  - Hit All
-  - Healer
-  - Dodge Buff
-  - Insanity
+- Hit All
+- Healer All
+- Dodge Buff All
+- Insanity on dodge
+- Insanity Self
 image: https://i.imgur.com/mxewGNK.jpg
+...

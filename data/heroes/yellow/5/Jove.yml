@@ -1,3 +1,4 @@
+---
 name: Jove
 source: carnivalofgods
 family: maskedgod
@@ -9,14 +10,15 @@ defense: 793
 health: 1406
 skill: Strike from the Skies
 effects:
-  - Deals 490% damage to the target, and minor damage to all other enemies.
-  - All enemies get -65% decrease for any healing received for 3 turns.
-  - All enemies get -75% less mana from Special Skills for 3 turns.
+- Deals 490% damage to the target, and minor damage to all other enemies.
+- All enemies get -65% decrease for any healing received for 3 turns.
+- All enemies get -75% less mana from Special Skills for 3 turns.
 types:
-  - Hit all
-  - Healing Debuff
-  - Mana Debuff
+- Hit All
+- Boosted Healing Debuff All
+- Mana Gain Debuff All
 passives:
-  - >-
-    Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed.
+- 'Cleanse on Minion Death: This character is cleansed of status ailments when Minion
+  owned by them is destroyed.'
 image: https://i.imgur.com/YFCeTvj.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Oberon Toon Costume
 is_costume: true
 design: toon
@@ -11,13 +12,14 @@ defense: 466
 health: 956
 skill: Toon Traps
 effects:
-  - Deals 151% damage to all enemies.
-  - All enemies receive 76 damage over 6 turns.
-  - Deals extra damage against Holy.
+- Deals 151% damage to all enemies.
+- All enemies receive 76 damage over 6 turns.
+- Deals extra damage against Holy.
 types:
-  - Hit All
-  - DoT All
+- Hit All
+- DoT All
 passives:
-  - >-
-    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/z96lxl3.jpg
+...

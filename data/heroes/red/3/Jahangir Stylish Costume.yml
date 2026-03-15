@@ -1,3 +1,4 @@
+---
 name: Jahangir Stylish Costume
 is_costume: true
 design: stylish
@@ -11,13 +12,14 @@ defense: 518
 health: 887
 skill: Stylish Fireball
 effects:
-  - Deals 195% damage to all enemies.
-  - Deals 275% damage to enemies with less than 50% health remaining.
-  - All enemies receive 162 Burn damage over 3 turns.
+- Deals 195% damage to all enemies.
+- If the enemies have less than 50% health remaining, deals 275% damage instead.
+- All enemies receive 162 Burn damage over 3 turns.
 types:
-  - Hit All
-  - Dot All
+- Hit All
+- DoT All
 passives:
-  - >-
-    Stylish!: 65% chance to replace incoming negative effects with matching positive ones.
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
 image: https://imgur.com/7mjgAN4.jpg
+...

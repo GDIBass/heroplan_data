@@ -1,0 +1,38 @@
+name: Gallakhran
+source: ancientUnderroot
+speed: Fast
+power: 11200
+attack: 13927
+defense: 14141
+health: 12401
+skill: Oceanic Torrent
+effects:
+  - Deals 230% damage to the target and nearby enemies.
+  - The target and nearby enemies resist healing and receive 2000 damage per each resisted healing for 3 turns.
+  - The target and nearby enemies get -34% mana generation for 3 turns. (Affect only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+types:
+  - Hit 3
+  - Damage on each Resisted Healing 3
+  - Mana Generation Debuff 3
+spiritBonus:
+  spiritClass: Monk
+  all:
+    attack: +250
+    defense: +200
+    health: +100
+  elementalBond:
+    attack: +35
+    defense: +30
+    health: +30
+  classLink:
+    attack: +35
+    defense: +30
+    health: +30 
+assist:
+  name: Cleansing Flame
+  effects:
+    - Deals 400 damage to all enemies.
+    - Recovers 200 health for all allies.
+    - All allies regenerate 520 HP over 5 turns.
+    - Cleanses status ailments from all allies.
+image: https://imgur.com/BaSbx0Q.jpg

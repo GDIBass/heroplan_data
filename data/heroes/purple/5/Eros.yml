@@ -1,3 +1,4 @@
+---
 name: Eros
 source: love
 family: cupid
@@ -9,12 +10,13 @@ defense: 937
 health: 1617
 skill: Arrow of Desire
 effects:
-  - Deals 465% damage to the target.
-  - All damage the target receives is increased by +40% for 2 turns.
+- Deals 465% damage to the target.
+- All damage the target receives is increased by +40% for 2 turns.
 types:
-  - Hit 1
-  - Damage Received Debuff
+- Hit 1
+- Damage Received Debuff 1
 passives:
-  - >-
-    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skills.'
 image: https://i.imgur.com/5JDsRr2.jpg
+...

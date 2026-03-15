@@ -1,3 +1,4 @@
+---
 name: Eiora & Fluffy
 source: starfall
 family: starfall
@@ -9,13 +10,14 @@ defense: 751
 health: 1400
 skill: Perfect Teamwork
 effects:
-  - Destroys all minions from the target. This effect damages Mega Minions.
-  - Deals 600% damage to the target.
-  - Reduces max health from all enemies who own Minions by 404. Max health can't get lower than 30% of the original max health.
+- Destroys all minions from the target. This effect damages Mega Minions.
+- Deals 600% damage to the target.
+- Reduces max health from all enemies who own Minions by 404. Max health can't get
+  lower than 30% of the original max health.
 types:
-  - Minion Destroyer 1
-  - Hit 1
-  - Health reduction on Minion owner
+- Minion Destroyer 1
+- Hit 1
+- Health reduction on each Minion owner
 image: https://i.imgur.com/ISxaSzG.jpg
 costume:
   design: costume1
@@ -27,14 +29,17 @@ costume:
   health: 2331
   skill: Balanced Teamwork
   effects:
-    - Destroys all Minions from the target. This effect damages Mega Minions.
-    - Deals 640% damage to the target.
-    - Reduces max health from all enemies by 850. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 850.)
+  - Destroys all Minions from the target. This effect damages Mega Minions.
+  - Deals 640% damage to the target.
+  - Reduces max health from all enemies by 850. The effect is stronger against targets
+    with boosted health. (Max health can't get lower than 30% of the original max
+    health. Any boosted health is reduced by an additional 850.)
   types:
-    - Minion Destroyer 1
-    - Hit 1
-    - Health Reduction All
+  - Minion Destroyer 1
+  - Hit 1
+  - Health Reduction All
   passives:
-    - >-
-      Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy.
+  - 'Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a
+    new copy of the cleansed ailment is applied on a random enemy.'
   image: https://imgur.com/GDnuePZ.jpg
+...

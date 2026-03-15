@@ -1,3 +1,4 @@
+---
 name: Skittleskull Second Costume
 is_costume: true
 design: costume2
@@ -11,9 +12,10 @@ defense: 710
 health: 1154
 skill: Crawling Vines
 effects:
-  - Deals 195% damage to all enemies.
-  - All enemies get -34% defense for 6 turns.
+- Deals 195% damage to all enemies.
+- All enemies get -34% defense for 6 turns.
 types:
-  - Hit All
-  - Defense Debuff All
+- Hit All
+- Defense Debuff All
 image: https://i.imgur.com/EIvqBU6.jpg
+...

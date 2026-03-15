@@ -1,3 +1,4 @@
+---
 name: Smarttongue
 source: goblinvillage
 family: goblin
@@ -9,16 +10,19 @@ defense: 949
 health: 1668
 skill: Goblin Serenade
 effects:
-  - "Wither: All enemies get -350 attack."
-  - Reduces max health for all enemies by 700. This effect is stronger against targets with boosted health. (Max health can't be lower than the 30% of the original max health. Any boosted health is reduced by an additional 700.)
-  - All enemies get -45% defense against Special Skills for 4 turns.
+- 'Wither: All enemies get -350 attack.'
+- Reduces max health for all enemies by 700. This effect is stronger against targets
+  with boosted health. (Max health can't be lower than the 30% of the original max
+  health. Any boosted health is reduced by an additional 700.)
+- All enemies get -45% defense against Special Skills for 4 turns.
 types:
-  - Wither Attack Debuff
-  - Health reduction
-  - Defense Debuff
+- Attack Wither All
+- Health Reduction All
+- SS Defense Debuff All
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.
-  - " * Deals 90% damage to all enemies."
-  - " * All enemies get -25% accuracy for 3 turns."
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill.'
+- ' * Deals 90% damage to all enemies.'
+- ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/reMeS9l.jpg
+...

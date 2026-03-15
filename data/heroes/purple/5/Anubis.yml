@@ -1,3 +1,4 @@
+---
 name: Anubis
 source: season5
 family: moon
@@ -9,20 +10,22 @@ defense: 850
 health: 1586
 skill: Mark of Anubis
 effects:
-  - Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies Special Skills.
-  - All enemies receive 501 Poison damage over 3 turns.
-  - All enemies get -34% defense for 3 turns.
+- Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other
+  enemies from receiving friendly effects of their allies Special Skills.
+- All enemies receive 501 Poison damage over 3 turns.
+- All enemies get -34% defense for 3 turns.
 types:
-  - Greed
-  - DoT all
-  - Defense Debuff
+- Greed 1
+- DoT All
+- Defense Debuff All
 passives:
-  - >-
-    Effects on special skill: 60% chance to perform the following actions when this character casts their Special Skill:
-  - ' * Deals 70% damage to all enemies.'
-  - ' * Dispells the latest dispellable buff from all enemies.'
+- 'Effects on special skill: 60% chance to perform the following actions when this
+  character casts their Special Skill:'
+- ' * Deals 70% damage to all enemies.'
+- ' * Dispells the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/QQQGz6W.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 1216
@@ -31,20 +34,23 @@ costume:
   health: 2391
   skill: Mark of the Jackal
   effects:
-    - Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies' Special Skills.
-    - All enemies receive 888 Poison damage over 3 turns.
-    - All enemies get -28% defense for 3 turns.
+  - Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other
+    enemies from receiving friendly effects of their allies' Special Skills.
+  - All enemies receive 888 Poison damage over 3 turns.
+  - All enemies get -28% defense for 3 turns.
   types:
-    - Greed
-    - DoT all
-    - Defense Debuff
+  - Greed
+  - DoT all
+  - Defense Debuff
   passives:
-    - >-
-      Effects on special skill: 60% chance to perform the following actions when this character casts their Special Skill:
-    - ' * Deals 70% damage to all enemies.'
-    - ' * Dispells the latest dispellable buff from all enemies.'
-    - >-
-      Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.
-    - >-
-      Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
+  - 'Effects on special skill: 60% chance to perform the following actions when this
+    character casts their Special Skill:'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * Dispells the latest dispellable buff from all enemies.'
+  - 'Guaranteed Effect on Special Skill: When this character casts their Special Skill,
+    any of their Passive Skills that grant extra effects on cast are guaranteed to
+    activate.'
+  - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
+    a status ailment or negative stack.'
   image: https://i.imgur.com/8BGU68M.jpg
+...

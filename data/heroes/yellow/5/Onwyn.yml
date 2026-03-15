@@ -1,0 +1,40 @@
+---
+name: Onwyn
+source: valiant
+family: vegetable
+speed: Slow
+class: Ranger
+power: 1285
+attack: 1336
+defense: 1322
+health: 2305
+skill: Teargas Roulette
+effects:
+- Deals 375% damage to the target and 5 random enemies.
+- 'Summons a Seedling Fiend to each hit enemy. (The Seeding Fiend evolves into a Sprout
+  Fiend after 2 turns. The Sprout Fiend evolves into a Blossom Mega Fiend after 2
+  turns. * Seedling Fiend: 50% attack, 20% health. * Sprout Fiend: 75% attack, 30%
+  health. * Blossom Mega Fiend: 250% attack, 60% health. A Fiend damages their target
+  every turn. A Fiend disappears after absorbing healing. Amount of healing required
+  depends on the target''s max health. The Evolution of the Fiends is delayed with
+  1 turn each time they are absorb healing.)'
+- All hit target gets -49% accuracy for 6 turns. (Chance to miss also applies to offensive
+  Special Skills.)
+types:
+- Hit 1
+- Hit Random 5
+- Summon Seedling Fiend to hit enemies
+- Blind to hit enemies
+passives:
+- 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
+  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
+  mana each time they resist.'
+- 'Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.'
+- '* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.'
+- '* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.'
+- '* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.'
+- '1) Seedling Fiend: 50% attack, 20% health'
+- '2) Sprout Fiend: 75% attack, 30% health'
+- '3) Blossom Mega Fiend: 250% attack, 60% health.'
+image: https://imgur.com/ePndCAl.jpg
+...

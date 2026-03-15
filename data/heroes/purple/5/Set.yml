@@ -1,3 +1,4 @@
+---
 name: Set
 source: season5
 family: moon
@@ -9,18 +10,20 @@ defense: 842
 health: 1582
 skill: Legions of Darkness
 effects:
-  - Summon a Dark Soldier Minion for all allies with 40% HP and 40% attack inherited from the caster.
-  - All enemies receive 324 Poison damage over 3 turns.
-  - If the caster is defeated in the next 3 turns, all enemies mana is reduced by -100%. This effect can't be dispelled.
+- Summon a Dark Soldier Minion for all allies with 40% HP and 40% attack inherited
+  from the caster.
+- All enemies receive 324 Poison damage over 3 turns.
+- If the caster is defeated in the next 3 turns, all enemies mana is reduced by -100%.
+  This effect can't be dispelled.
 types:
-  - Summoner
-  - DoT all
-  - Mana Reduction All on Defeat
+- Summoner All
+- DoT All
+- Mana Reduction All on Defeat Self
 passives:
-  - >-
-    Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * All enemies get -24% mana generation for 3 turns.'
+- 'Effects on Special Skill: 70% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 70% damage to all enemies.'
+- ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/8kUB8ir.jpg
 costume:
   design: costume1
@@ -32,20 +35,23 @@ costume:
   health: 2341
   skill: Legions of Tyrant
   effects:
-    - Summons a Dark Soldier Minion for all allies with 45% HP and 35% attack inherited from the caster.
-    - All enemies receive 1136 Poison damage over 4 turns.
-    - If the caster is defeated in the next 4 turns, all enemies' mana is reduced by -100%. This effect can't be dispelled.
+  - Summons a Dark Soldier Minion for all allies with 45% HP and 35% attack inherited
+    from the caster.
+  - All enemies receive 1136 Poison damage over 4 turns.
+  - If the caster is defeated in the next 4 turns, all enemies' mana is reduced by
+    -100%. This effect can't be dispelled.
   types:
-    - Summoner
-    - DoT All
-    - Mana Reduction All on Defeat
+  - Summoner
+  - DoT All
+  - Mana Reduction All on Defeat
   passives:
-    - >-
-      Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill
-    - " * Deals 70% damage to all enemies."
-    - " * All enemies get -24% mana generation for 3 turns."
-    - >-
-      Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
-    - >-
-      Resist Sand Damage: This character has innate resistance against Sand damage.
+  - 'Effects on Special Skill: 70% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies get -24% mana generation for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  - 'Resist Sand Damage: This character has innate resistance against Sand damage.'
   image: https://imgur.com/olt8i8H.jpg
+...

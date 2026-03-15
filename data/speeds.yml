@@ -102,3 +102,12 @@ speeds:
       15:
         - 7
         - 16
+  dancer:
+    key: dancer
+    code: 10
+    shortName: D
+    description: Dancer
+    descriptionLong: Dancer mana speed is faster than Fast, but becomes Slow for 3 turns after each Special Skill cast.
+    tiles: [7]
+    breakPoints:
+      17: [6]

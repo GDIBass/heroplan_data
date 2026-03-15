@@ -1,0 +1,34 @@
+---
+name: Dragon Kids
+source: fortune
+family: fortunedancer
+speed: Dancer
+class: Cleric
+power: 541
+attack: 521
+defense: 543
+health: 1013
+skill: Protective Aura
+effects:
+- Boosts the caster and nearby allies' health by 400 with Spirit Aura. Spirit Aura
+  safely removes status ailments before boosting health. (The health boost is reduced
+  by -40 for each removed ailment. Uncleansable ailments are also removed.)
+- Nearby allies dance the Fiery Fortune Dance for 4 turns.
+- Fiery Fortune Dance
+- ' * +30% attack.'
+- ' * Dealt damage is increased by +10%. The effect is +15% against Nature targets.'
+- ' * Received damage is reduced by -10%. The effect is -15% against Ice Special Skills.'
+- ' * Fortune Dances stack with other Dance effects. (All existing status effects
+  will be removed when Fortune Dance status effects is added, except other Dance status
+  effects. Fortune Dances gives immunity to new status effects, except other Dance
+  effects. Fortune Dance effect cannot be dispelled. The effect is removed when the
+  caster is defeated.)'
+types:
+- Safely Clean 3
+- Spirit Aura Boosted Heal 3
+- Fiery Fortune Dance Buff 2
+passives:
+- 'Graceful Dancer: If any allies are Dancing when this character casts their Special
+  Skill, boosts the health of all allies by 400. Boosted health can exceed max HP.'
+image: https://imgur.com/B8zoxwe.jpg
+...

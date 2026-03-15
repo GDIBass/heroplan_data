@@ -1,3 +1,4 @@
+---
 name: Cyprian
 source: season1
 family: classic
@@ -9,9 +10,10 @@ defense: 605
 health: 1362
 skill: Perfect Riposte
 effects:
-  - The caster and nearby allies counterattack with 125% of the damage received for 5 turns
+- The caster and nearby allies counterattack with 125% of the damage received for
+  5 turns.
 types:
-  - Counterattack 3
+- Counterattack 3
 image: https://i.imgur.com/wpGUug5.jpg
 costume:
   design: costume1
@@ -23,9 +25,9 @@ costume:
   health: 1460
   skill: Deadly Riposte
   effects:
-    - All allies counterattack with 60% of the damage received for 4 turns.
+  - All allies counterattack with 60% of the damage received for 4 turns.
   types:
-    - Counterattack All
+  - Counterattack All
   image: https://i.imgur.com/sJK7XXq.jpg
 costume2:
   design: costume2
@@ -37,13 +39,16 @@ costume2:
   health: 1534
   skill: Precise Riposte
   effects:
-    - The caster and nearby allies counterattack with 80% of the damage received for 4 turns.
-    - The caster and nearby allies regenerate a moderate amount of mana for each counterattack for 4 turns. The effect gets diminished for consecutive activations during the same turn.
-    - The caster and nearby allies reduce all received damage by -35% for 4 turns.
+  - The caster and nearby allies counterattack with 80% of the damage received for
+    4 turns.
+  - The caster and nearby allies regenerate a moderate amount of mana for each counterattack
+    for 4 turns. The effect gets diminished for consecutive activations during the
+    same turn.
+  - The caster and nearby allies reduce all received damage by -35% for 4 turns.
   types:
-    - Counterattack 3
-    - Mana on Counterattack
-    - Damage Reduction 3
+  - Counterattack 3
+  - Mana on Counterattack 3
+  - Damage Reduction 3
   image: https://i.imgur.com/oDvjeQX.jpg
 costume3:
   design: toon
@@ -55,12 +60,14 @@ costume3:
   health: 1687
   skill: Toontastic Riposte
   effects:
-    - The caster and nearby allies counterattack with 125% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.
+  - The caster and nearby allies counterattack with 125% of the damage received for
+    5 turns. This status effect is undispellable and lasts 2 turns longer on Dark
+    characters.
   types:
-    - Counterattack 3
+  - Counterattack 3
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/NlALPlg.jpg
 costume4:
   design: glass
@@ -72,12 +79,15 @@ costume4:
   health: 1719
   skill: Glass Riposte
   effects:
-    - The caster and nearby allies counterattack with 125% of the damage received for 5 turns.
-    - All Dark allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - The caster and nearby allies counterattack with 125% of the damage received for
+    5 turns.
+  - All Dark allies reflect status ailments and negative stacks for 2 turns. (Status
+    effect cast by characters, Minions and Fiends on the same side cannot be reflected.)
   types:
-    - Counterattack 3
-    - Elemental Reflect Ailments All
+  - Counterattack 3
+  - Reflect Ailments for Dark Allies
+  - Reflect Stacks for Dark Allies
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/NcRhwAX.jpg
+...

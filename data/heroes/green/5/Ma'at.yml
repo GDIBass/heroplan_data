@@ -1,3 +1,4 @@
+---
 name: Ma'at
 source: season5
 family: sun
@@ -9,19 +10,21 @@ defense: 836
 health: 1540
 skill: Bringer of Order
 effects:
-  - Deals 195% damage to all enemies.
-  - All enemies get -34% defense for 3 turns.
-  - All Fire enemies get -24% attack for 3 turns.
+- Deals 195% damage to all enemies.
+- All enemies get -34% defense for 3 turns.
+- All Fire enemies get -24% attack for 3 turns.
 types:
-  - Hit All
-  - Defense Debuff
+- Hit All
+- Defense Debuff All
+- Attack Debuff All Fire
 passives:
-  - >-
-   Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:
-  - ' * Deals 70% damage to all enemies.'
-  - ' * All enemies get -34% attack for 3 turns.'
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill:'
+- ' * Deals 70% damage to all enemies.'
+- ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/Lc6n5Vz.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 1209
@@ -30,19 +33,22 @@ costume:
   health: 2317
   skill: Protector of the Blue River
   effects:
-    - Deals 220% damage to all enemies.
-    - All enemies get -35% defense for 3 turns.
-    - All Fire enemies get -20% attack for 3 turns.
+  - Deals 220% damage to all enemies.
+  - All enemies get -35% defense for 3 turns.
+  - All Fire enemies get -20% attack for 3 turns.
   types:
-    - Hit All
-    - Defense Debuff
+  - Hit All
+  - Defense Debuff All
+  - Attack Debuff All Fire
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:
-    - ' * Deals 70% damage to all enemies.'
-    - ' * All enemies get -34% attack for 3 turns.'
-    - >-
-      Extra Chance for Effects on Special Skill: When this character casts their  Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
-    - >-
-      Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill:'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies get -34% attack for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their  Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  - 'Mana on Health Boosting Special Skill: This character gains 5% mana each time
+    an enemy casts a Special Skill that directly boosts health.'
   image: https://i.imgur.com/mjmiIt0.jpg
+...

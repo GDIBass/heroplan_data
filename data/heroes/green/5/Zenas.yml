@@ -1,0 +1,44 @@
+---
+name: Zenas
+source: shadow
+family: theinstitute
+speed: Fast
+class: Druid
+power: 1277
+attack: 1332
+defense: 1303
+health: 2294
+skill: Moldavite Wings
+effects:
+- Deals 360% damage to the target and nearby enemies and inflicts 35 Insanity on them.
+- Summons a Moldavite Owl Fiend for the target and nearby enemies. The Fiend damage
+  the enemy with 60% attack every turn.
+- The Moldavite Owl Fiend absorbs healing. It disappears after absorbing a healing
+  equal to 25% of its target's max health.
+- The Moldavite Owl Fiend infllicts 5 Insanity on the owner on every turn.
+- At the end of each turn, the Moldavite Owl Fiend dispels one of its target's dispellable
+  buffs.
+- Casting this Special Skill inflicts 40 Insanity on the caster.
+types:
+- Hit 3
+- Moldavite Owl Fiend Summoner 3
+- Self Insanity
+passives:
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+- 'Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch
+  Host. The chance is 10% per 10 Insanity on this character, up to maximum chance
+  of 100%.'
+- 'The Eldritch Host has:'
+- ' * 100% inherited health.'
+- ' * 1200 attack.'
+- ' * 1200 defense.'
+- 'Special Skill: Eldrich Bright.'
+- ' * Deals 400% damage to the target and inflicts 35 Insanity on them.'
+- If this character defeats themself when activating Insanity, the chance to be reborn
+  is always 100%.
+image: https://imgur.com/0GRQ93S.jpg
+...

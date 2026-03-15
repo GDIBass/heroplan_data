@@ -1,0 +1,24 @@
+---
+name: Hongyunxing
+source: lunaryear
+family: lunaryear
+speed: Fast
+class: Paladin
+power: 1281
+attack: 1328
+defense: 1324
+health: 2290
+skill: Ardent Panacea
+effects:
+- All allies regenerate 1020 boosted health over 3 turns. Boosted health can exceed
+  max HP.
+- All allies receive a small amount of mana over 3 turns.
+- Cleanses status ailments from all allies at the end of each turn for 3 turns.
+types:
+- Boosted HoT All
+- Mana over time All
+- Cleanser All
+passives:
+- 'Stop Minions: Enemy Minions can''t attack or use abilities.'
+image: https://imgur.com/3DrVYLz.jpg
+...

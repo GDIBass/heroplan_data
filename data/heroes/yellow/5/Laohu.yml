@@ -1,21 +1,42 @@
+---
 name: Laohu
-class: Monk
 source: lunaryear
 family: lunaryear
 speed: Fast
+class: Monk
 power: 861
 attack: 844
 defense: 805
 health: 1538
 skill: Fierce Fu Jow Pai
 effects:
-  - Deals 605% damage to the target.
-  - Boosts the caster's health by 50% of damage dealt.
+- Deals 605% damage to the target.
+- Boosts the caster's health by 50% of damage dealt.
 types:
-  - Hit 1
-  - Health Boost
+- Hit 1
+- Health Boost Self
 passives:
-  - >-
-    Disable Minion Abilities: Attacks and abilities of all Minions owned by
-    enemies are disabled.
+- 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/3mERqj0.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 1277
+  attack: 1311
+  defense: 1247
+  health: 2464
+  skill: Lucky Fu Jow Pai
+  effects:
+  - Deals 630% damage to the target.
+  - Boosts the caster's health by 45% of damage dealt.
+  - All allies get +50% attack as long as the caster has boosted health. This effect
+    can't be dispelled.
+  types:
+  - Hit 1
+  - Self Health Boost
+  - Attack Buff All while Boosted Health
+  passives:
+  - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
+  image: https://imgur.com/DOXTk1A.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Gunnar
 source: season1
 family: classic
@@ -9,11 +10,12 @@ defense: 533
 health: 656
 skill: Spirit Link
 effects:
-  - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.
-  - All allies get +63% defense for 5 turns
+- All allies become Soul Connected for 5 turns. Soul Connected allies share received
+  damage.
+- All allies get +63% defense for 5 turns
 types:
-  - Ally Damage Share
-  - Defense Buff All
+- Ally Damage Share
+- Defense Buff All
 image: https://i.imgur.com/ra4Iv0M.jpg
 costume:
   design: costume1
@@ -25,11 +27,12 @@ costume:
   health: 729
   skill: Steel Link
   effects:
-    - All enemies become Soul Connected for 5 turns. Soul Connected enemies share received damage.
-    - All enemies get -44% defense for 5 turns.
+  - All enemies become Soul Connected for 5 turns. Soul Connected enemies share received
+    damage.
+  - All enemies get -44% defense for 5 turns.
   types:
-    - Enemy Damage Share
-    - Defense Debuff All
+  - Enemy Damage Share
+  - Defense Debuff All
   image: https://i.imgur.com/MxDScRN.jpg
 costume2:
   design: toon
@@ -41,33 +44,37 @@ costume2:
   health: 817
   skill: Toon Link
   effects:
-    - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.
-    - All allies get +51% defense for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+  - All allies become Soul Connected for 5 turns. Soul Connected allies share received
+    damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+  - All allies get +51% defense for 5 turns. This status effect is undispellable and
+    lasts 2 turns longer on Ice characters.
   types:
-    - Ally Damage Share
-    - Defense Buff All
+  - Ally Damage Share
+  - Defense Buff All
   passives:
-    - >-
-      Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/F5oS2LZ.jpg
 costume3:
   design: glass
   bonuses: 5/5/10/5
   class: Paladin
-  power: 511
-  attack: 518
-  defense: 534
-  health: 825
+  power: 515
+  attack: 522
+  defense: 539
+  health: 832
   skill: Glass Link
   effects:
-    - All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.
-    - All allies get +59% defense for 5 turns.
-    - All Ice allies reflect status ailments and negative stacks for 2 turns.
+  - All allies become Soul Connected for 5 turns. Soul Connected allies share received
+    damage.
+  - All allies get +59% defense for 5 turns.
+  - All Ice allies reflect status ailments and negative stacks for 2 turns.
   types:
-    - Ally Damage Share
-    - Defense Buff All
-    - Debuffs Reflect All
+  - Ally Damage Share
+  - Defense Buff All
+  - Reflect Ailments for Ice Allies
+  - Reflect Stacks for Ice Allies
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/le2bIzh.jpg
+...

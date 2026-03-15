@@ -1,3 +1,4 @@
+---
 name: Rhys
 source: festival
 family: bard
@@ -9,16 +10,21 @@ defense: 805
 health: 1454
 skill: Hymn of Enrichment
 effects:
-  - Boost health of all allies by 320. Boosted health can exceed max HP.
-  - Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.
-  - All allies get +34% attack and a further 3% increase per each Holy shield on the board for 3 turns, up to +70% attack.
-  - Cleanses status ailments from all allies.
+- Boost health of all allies by 320. Boosted health can exceed max HP.
+- Alters the power of all Holy shields on the board. When an attacking Hero casts
+  the special, the shields become enhanced and give +37% more mana. When a defending
+  Hero casts the special, the shields become weakened and give -30% less mana.
+- All allies get +34% attack and a further 3% increase per each Holy shield on the
+  board for 3 turns, up to +70% attack.
+- Cleanses status ailments from all allies.
 types:
-  - Health Boost All
-  - Board Alterer
-  - Attack Buff All
-  - Cleanse All
+- Health Boost All
+- Board Alterer
+- Attack Buff All
+- Cleanse All
 passives:
-  - >-
-    Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
 image: https://i.imgur.com/CuNew0r.jpg
+...

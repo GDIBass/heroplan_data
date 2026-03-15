@@ -1,3 +1,4 @@
+---
 name: Caedmon Second Costume
 is_costume: true
 design: costume2
@@ -11,12 +12,12 @@ defense: 719
 health: 1340
 skill: Valorant Strike
 effects:
-  - Deals 275% damage to the target and nearby enemies
-  - >-
-    The target and nearby enemies are immune to new status effect buffs for 3
-    turns
-  - Dispels buffs from the target and nearby enemies
+- Deals 275% damage to the target and nearby enemies.
+- The target and nearby enemies are immune to new status effect buffs for 3 turns.
+- Dispels buffs from the target and nearby enemies.
 types:
-  - Hit 3
-  - Dispels Buffs
+- Hit 3
+- Status Effect Immunity Debuff 3
+- Dispels Buffs 3
 image: https://i.imgur.com/0FiXuyI.jpg
+...

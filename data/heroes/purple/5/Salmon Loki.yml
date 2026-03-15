@@ -1,3 +1,4 @@
+---
 name: Salmon Loki
 source: season3
 family: niflheim
@@ -9,29 +10,32 @@ defense: 751
 health: 1376
 skill: Trickster's Transformation
 effects:
-  - Deals 250% damage to all Holy enemies.
-  - For 3 turns the element of all enemies is changed each turn. On the first 2 turns, the element is random.
-  - On the last turn, enemies revert to their original element.
-  - After each element change, enemies take 528 damage if their element is Holy.
+- Deals 250% damage to all Holy enemies.
+- For 3 turns the element of all enemies is changed each turn. On the first 2 turns,
+  the element is random.
+- On the last turn, enemies revert to their original element.
+- After each element change, enemies take 528 damage if their element is Holy.
 types:
-  - Hit Some
-  - Weird
+- Hit All Holy
+- Weird
 image: https://i.imgur.com/fVTl018.jpg
 costume:
-  speed: Slow
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 987
   attack: 953
   defense: 1012
   health: 1756
-  skill: Gentleman's Tranformation
+  skill: Gentleman's Transformation
   effects:
-    - Deals 350% damage to all holy Enemies.
-    - For 4 turns, the element of all enemies is changed each turn. On the first 3 turns, the element is random.
-    - On the last turn, enemies revert to their original element.
-    - After each element change, enemies take 736 damage if their element is Holy.
+  - Deals 350% damage to all holy Enemies.
+  - For 4 turns, the element of all enemies is changed each turn. On the first 3 turns,
+    the element is random.
+  - On the last turn, enemies revert to their original element.
+  - After each element change, enemies take 736 damage if their element is Holy.
   types:
-    - Hit Some
-    - Weird
+  - Hit All Holy
+  - Weird
   image: https://i.imgur.com/mbPRCrB.jpg
+...

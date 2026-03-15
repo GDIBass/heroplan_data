@@ -1,35 +1,39 @@
+---
 name: Vaishali
-class: Cleric
 source: magic
 family: magic
 speed: Magic
+class: Cleric
 power: 956
 attack: 939
 defense: 945
 health: 1705
 skill: Pawns of Divinity
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200% mana:'
-  - '1x Mana Charge:'
-  - ' * All allies regenerate 594 HP over 3 turns.'
-  - ' * All allies get +30% attack for 3 turns.'
-  - ' * Cleanses status ailments from all allies.'
-  - '2x Mana Charge:'
-  - ' * Dispels buffs from all enemies.'
-  - ' * All enemies receive 1290 Sand damage over 5 turns.'
-  - ' * All enemies get -45% attack for 5 turns.'
+- 'Special Skill has a different effect when charged with 100%/200% mana:'
+- '1x Mana Charge:'
+- ' * All allies regenerate 594 HP over 3 turns.'
+- ' * All allies get +30% attack for 3 turns.'
+- ' * Cleanses status ailments from all allies.'
+- '2x Mana Charge:'
+- ' * Dispels buffs from all enemies.'
+- ' * All enemies receive 1290 Sand damage over 5 turns.'
+- ' * All enemies get -45% attack for 5 turns.'
 types:
-  - HoT All
-  - Attack Buff All
-  - Cleanser All
-  - Dispeller All
-  - DoT All
-  - Attack Debuff All
+- Charge
+- HoT All
+- Attack Buff All
+- Cleanser All
+- Dispeller All
+- DoT All
+- Attack Debuff All
 passives:
-  - >-
-    Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.
-  - >-
-    Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%.
+- 'Stack on Special: When this character casts their Special Skill, all enemies get
+  -5% mana generation stack. If the Special Skill is fully changed, all enemies get
+  two stacks. An enemy can have up to 10 stacks.'
+- 'Mana on Special: When this character casts their Special Skill, they have a 50%
+  chance to give 10% mana to all allies. If the Special Skill is fully changed, the
+  chance is 100%.'
 image: https://i.imgur.com/Ssu3ay2.jpg
 costume:
   design: costume1
@@ -41,29 +45,32 @@ costume:
   health: 2247
   skill: Crust of Divinity
   effects:
-    - 'Special Skill has a different effect when charged with 100%/200% mana:'
-    - '1x Mana Charge:'
-    - ' * All allies regenerate 702 HP over 3 turns.'
-    - ' * All allies get +33% attack for 3 turns.'
-    - ' * Cleanses status ailments from all allies.'
-    - '2x Mana Charge:'
-    - ' * Dispels buffs from all enemies.'
-    - ' * All enemies receive 1855 Sand damage over 5 turns.'
-    - ' * All enemies get -50% attack for 5 turns.'
-    - ' * All enemies get -45% decrease for any healing for 5 turns.'
+  - 'Special Skill has a different effect when charged with 100%/200% mana:'
+  - '1x Mana Charge:'
+  - ' * All allies regenerate 702 HP over 3 turns.'
+  - ' * All allies get +33% attack for 3 turns.'
+  - ' * Cleanses status ailments from all allies.'
+  - '2x Mana Charge:'
+  - ' * Dispels buffs from all enemies.'
+  - ' * All enemies receive 1855 Sand damage over 5 turns.'
+  - ' * All enemies get -50% attack for 5 turns.'
+  - ' * All enemies get -45% decrease for any healing for 5 turns.'
   types:
-    - HoT All
-    - Attack Buff All
-    - Cleanser All
-    - Dispeller All
-    - DoT All
-    - Attack Debuff All
-    - Healing Debuff All
+  - Charge
+  - HoT All
+  - Attack Buff All
+  - Cleanser All
+  - Dispeller All
+  - DoT All
+  - Attack Debuff All
+  - Healing Debuff All
   passives:
-    - >-
-      Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%.
-    - >-
-      Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.
-    - >-
-      Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+  - 'Mana on Special: When this character casts their Special Skill, they have a 50%
+    chance to give 10% mana to all allies. If the Special Skill is fully changed,
+    the chance is 100%.'
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get -5% mana generation stack. If the Special Skill is fully changed, all enemies
+    get two stacks. An enemy can have up to 10 stacks.'
+  - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/l0NBwwH.jpg
+...

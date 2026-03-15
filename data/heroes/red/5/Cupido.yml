@@ -1,3 +1,4 @@
+---
 name: Cupido
 source: love
 family: cupid
@@ -9,16 +10,17 @@ defense: 805
 health: 1545
 skill: Love Conquers All
 effects:
-  - Deals 295% damage to the target and nearby enemies.
-  - For 3 turns, the target and nearby enemies are forced to cast Mindless Heal when at full mana.
-  - >-
-    Mindless Heal: Recovers 20% health for the character on the opposing side with the lowest remaining HP.
+- Deals 295% damage to the target and nearby enemies.
+- For 3 turns, the target and nearby enemies are forced to cast Mindless Heal when
+  at full mana.
+- 'Mindless Heal: Recovers 20% health for the character on the opposing side with
+  the lowest remaining HP.'
 types:
-  - Hit 3
-  - Mindless Heal 3
+- Hit 3
+- Mindless Heal 3
 passives:
-  - >-
-    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skills.'
 image: https://i.imgur.com/4hhCXCA.jpg
 costume:
   design: costume1
@@ -30,15 +32,18 @@ costume:
   health: 2410
   skill: Passion Conquers All
   effects:
-    - Deals 330% damage to the target and nearby enemies.
-    - The target and nearby enemies get -34% defense against Fire for 3 turns.
-    - For 3 turns, the target and nearby enemies are forced to cast Mindless Heal when at full mana.
-    - "Mindless Heal: Recovers 20% HP health for the character on the opposing side with the lowest remaining HP."
+  - Deals 330% damage to the target and nearby enemies.
+  - The target and nearby enemies get -34% defense against Fire for 3 turns.
+  - For 3 turns, the target and nearby enemies are forced to cast Mindless Heal when
+    at full mana.
+  - 'Mindless Heal: Recovers 20% HP health for the character on the opposing side
+    with the lowest remaining HP.'
   types:
-    - Hit 3
-    - Elemental Defense Debuff 3
-    - Mindless Heal 3
+  - Hit 3
+  - Elemental Defense Debuff 3
+  - Mindless Heal 3
   passives:
-    - >-
-      Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+  - 'Resist Special Skill Blocking: This character is immune to status ailments that
+    prevent the use of Special Skills.'
   image: https://imgur.com/8v59FIZ.jpg
+...

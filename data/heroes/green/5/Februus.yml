@@ -1,3 +1,4 @@
+---
 name: Februus
 source: carnivalofgods
 family: maskedgod
@@ -7,20 +8,21 @@ power: 952
 attack: 885
 defense: 912
 health: 1876
-skill: Remendies and Diseases
+skill: Remedies and Diseases
 effects:
-  - Destroys all Fiends from all allies.
-  - Cleanses status ailments from all allies.
-  - All allies regenerate 1190 HP over 5 turns. This effect can't be dispelled.
-  - All enemies receive 815 Poison damage over 5 turns. This effect can't be cleansed.
+- Destroys all Fiends from all allies and damages all Mega Minions.
+- Cleanses status ailments from all allies.
+- All allies regenerate 1190 HP over 5 turns. This effect can't be dispelled.
+- All enemies receive 815 Poison damage over 5 turns. This effect can't be cleansed.
 types:
-  - Fiend Destroyer All
-  - Cleanser All
-  - HoT All
-  - Dot All
+- Fiend Destroyer All
+- Cleanser All
+- HoT All
+- DoT All
 passives:
-  - >-
-    Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. 
-  - >-
-    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+- 'Resist Defense Ailments: This character is immune to status ailments that affect
+  defense. Applies also to status ailments that affect elemental defense.'
+- 'Cleanse on Minion Death: This character is cleansed of status ailments when Minion
+  owned by them is destroyed.'
 image: https://i.imgur.com/uBNXICu.jpg
+...

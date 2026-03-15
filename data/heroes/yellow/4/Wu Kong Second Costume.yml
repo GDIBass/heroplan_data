@@ -1,3 +1,4 @@
+---
 name: Wu Kong Second Costume
 is_costume: true
 design: costume2
@@ -11,7 +12,9 @@ defense: 725
 health: 1210
 skill: Gambler's Swing
 effects:
-  - All allies get +170% attack with -25% accuracy for 5 turns. Chance to miss also applies to offensive special skills.
+- All allies get +170% attack with -25% accuracy for 5 turns. (Chance to miss also
+  applies to offensive special skills.)
 types:
-  - Titan Attack Buff
+- Titan Attack Buff All
 image: https://i.imgur.com/gZEff9Z.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Inanis
 source: shadow
 family: forsaken
@@ -9,18 +10,24 @@ defense: 1293
 health: 2202
 skill: Severed Seal
 effects:
-  - Deals 330% damage to the target.
-  - Deals additional 330% damage to 2 random enemies.
-  - All hit targets get 15 Insanity every time they are hit.
-  - 'Stack (Max: 10): All damage the hit enemy receives is increased by 4%.'
-  - Inflicts 35 Insanity on the caster.
+- Deals 330% damage to the target.
+- Deals additional 330% damage to 2 random enemies.
+- All hit targets get 15 Insanity every time they are hit.
+- 'Stack (Max: 10): All damage the hit enemy receives is increased by 4%.'
+- Casting this Special Skill inflicts 35 Insanity on the caster.
 types:
-  - Hit 1
-  - Hit Random 2
-  - Insanity on hit
-  - Damage Increase Debuff Stack on hit
-  - Self Insanity
+- Hit 1
+- Hit Random 2
+- Insanity on hit
+- Damage Increase Debuff Stack on hit
+- Self Insanity
 passives:
-  - >-
-    Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%.
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+- 'Branded by the Old Ones: All damage from normal attacks and Special Skills dealt
+  by this character is increased by 6% per 10 Insanity on this character, up to 60%.'
 image: https://imgur.com/nOztQOp.jpg
+...

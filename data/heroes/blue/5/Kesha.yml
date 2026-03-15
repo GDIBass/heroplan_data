@@ -1,0 +1,39 @@
+---
+name: Kesha
+source: magic
+family: magiccarpet
+speed: Slow
+class: Sorcerer
+power: 1279
+attack: 1306
+defense: 1341
+health: 2301
+skill: Ethernal Ishq
+effects:
+- Deals 485% damage to all enemies.
+- All allies except the caster dance the Dance of Ishq.
+- 'Dance of Ishq:'
+- +44% mana generation.
+- Received damage is reduced by -47%. (Affects only mana generation from matching
+  tiles or mana gained by the defense team at the end of their turn. All existing
+  status effects will be removed when a dance status effect is added. Dance gives
+  immunity to new status effects. New dance status effect will replace this effect.
+  The effect is removed when the caster is defeated.)
+types:
+- Hit All
+- Dance of Ishq 4
+passives:
+- 'Transform Buffs: Each time this character casts their Special Skill, all dispellable
+  buffs affecting attack, defense and mana generation on all enemies are transformed
+  into matching undispellable status ailments. Transformed effects:'
+- ' * Attack buffs are transformed into -40% attack status ailments for 3 turns.'
+- ' * Defense buffs are transformed into -40% defense status ailments for 3 turns.'
+- ' * Mana generation buffs are transformed into -40% mana generation status ailments
+  for 3 turns.'
+- 'Flight Momentum: If this character has any amount of Flight Momentum, they receive:'
+- ' * Up to +35% mana generation.'
+- ' * Up to +25% extra chance to dodge.'
+- ' * The effects diminish the less Flight Momentum character has.'
+- 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
+image: https://imgur.com/KV0bCQc.jpg
+...

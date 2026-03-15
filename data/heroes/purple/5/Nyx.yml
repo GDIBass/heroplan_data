@@ -1,3 +1,4 @@
+---
 name: Nyx
 source: styx
 family: styx
@@ -9,26 +10,25 @@ defense: 826
 health: 1514
 skill: Night Falls
 effects:
-  - >-
-    Special Skill has a different effect when charged with 100% / 200% / 300%
-    mana:
-  - '1x Mana Charge:'
-  - ' * Deals 220% damage to all enemies.'
-  - ' * All allies get +30% attack for 3 turns.'
-  - '2x Mana Charge:'
-  - ' * Deals 360% damage to all enemies.'
-  - ' * All enemies get -34% defense for 3 turns.'
-  - '3x Mana Charge:'
-  - ' * Deals 395% damage to all enemies.'
-  - ' * All allies get +50% attack for 4 turns.'
-  - ' * All enemies get -44% defense for 4 turns.'
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- '1x Mana Charge:'
+- ' * Deals 220% damage to all enemies.'
+- ' * All allies get +30% attack for 3 turns.'
+- '2x Mana Charge:'
+- ' * Deals 360% damage to all enemies.'
+- ' * All enemies get -34% defense for 3 turns.'
+- '3x Mana Charge:'
+- ' * Deals 395% damage to all enemies.'
+- ' * All allies get +50% attack for 4 turns.'
+- ' * All enemies get -44% defense for 4 turns.'
 types:
-  - Hit all
-  - Defense Debuff
-  - Attack Buff
+- Charge
+- Hit All
+- Attack Buff All
+- Defense Debuff All
 passives:
-  - >-
-    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
-  - >-
-    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+- 'Weaker Minions: Enemy Minions have -50% HP.'
+- 'Resist Defense Ailments: This character is immune to status ailments that affect
+  defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/aQwzAEQ.jpg
+...

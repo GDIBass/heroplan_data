@@ -1,3 +1,4 @@
+---
 name: Bane
 source: season1
 family: classic
@@ -9,11 +10,12 @@ defense: 410
 health: 693
 skill: Harmonic Slam
 effects:
-  - Deals 300% damage to the target.
-  - The target gets -35% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
+- Deals 300% damage to the target.
+- The target gets -35% accuracy for 4 turns. (Chance to miss also applies to offensive
+  Special Skills.)
 types:
-  - Hit 1
-  - Blind 1
+- Hit 1
+- Blind 1
 image: https://i.imgur.com/9aCbPHu.jpg
 costume:
   design: costume1
@@ -25,11 +27,12 @@ costume:
   health: 682
   skill: Harmonic Bash
   effects:
-    - Deals 280% damage to the target
-    - The target gets -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.
+  - Deals 280% damage to the target.
+  - The target gets -40% accuracy for 4 turns. (Chance to miss also applies to offensive
+    Special Skills.)
   types:
-    - Hit 1
-    - Blind 1
+  - Hit 1
+  - Blind 1
   image: https://i.imgur.com/oMyq8FB.jpg
 costume2:
   design: toon
@@ -41,33 +44,34 @@ costume2:
   health: 815
   skill: Toon Slam
   effects:
-    - Deals 305% damage to the target.
-    - The target gets -30% accuracy for 2 turns.
-    - Deals extra damage against Dark.
+  - Deals 305% damage to the target.
+  - The target gets -30% accuracy for 2 turns.
+  - Deals extra damage against Dark.
   types:
-    - Hit 1
-    - Blind 1
+  - Hit 1
+  - Blind 1
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
-  image: https://i.imgur.com/IQ13bAv.jpg 
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
+  image: https://i.imgur.com/IQ13bAv.jpg
 costume3:
   design: glass
   bonuses: 5/5/10/5
   class: Monk
-  power: 511
-  attack: 562
-  defense: 457
-  health: 868
+  power: 515
+  attack: 567
+  defense: 461
+  health: 875
   skill: Glass Slam
   effects:
-    - Deals 315% damage to the target.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - The target gets -32% accuracy for 4 turns.
+  - Deals 315% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - The target gets -32% accuracy for 4 turns.
   types:
-    - Hit 1
-    - Bypass
-    - Blind 1
+  - Hit 1
+  - Bypass
+  - Blind 1
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/GXkDkIq.jpg
+...

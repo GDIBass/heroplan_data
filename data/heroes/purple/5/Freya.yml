@@ -7,7 +7,7 @@ power: 792
 attack: 776
 defense: 743
 health: 1339
-skill: Raven's Vigil
+skill: Ravens' Vigil
 effects:
   - Summons a Raven Minion for each ally with 20% HP and 20% attack inherited from the caster.
   - Raven Minion gives +120% attack to all its owner's other Minions.

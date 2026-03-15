@@ -1,3 +1,4 @@
+---
 name: Graymane Toon Costume
 is_costume: true
 design: toon
@@ -11,12 +12,14 @@ defense: 399
 health: 946
 skill: Toon Bite
 effects:
-  - Deals 255% damage to the target.
-  - Heals the caster for 45% of damage dealt.
-  - Deals extra damage against Fire.
+- Deals 255% damage to the target.
+- Heals the caster for 45% of damage dealt.
+- Deals extra damage against Fire.
 types:
-  - Hit 1
-  - Self Heal
+- Hit 1
+- Heal Self
 passives:
-  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/Qf69vSG.jpg
+...

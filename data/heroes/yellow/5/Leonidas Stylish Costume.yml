@@ -1,0 +1,27 @@
+---
+name: Leonidas Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Average
+class: Monk
+power: 1292
+attack: 1417
+defense: 1272
+health: 2251
+skill: Stylish Cleave
+effects:
+- Deals 585% damage to the target.
+- If the target has less than 50% health remaining, deals 730% damage instead.
+- Reduces the mana of the target by 39%.
+- Heals the caster for 72% of damage dealt.
+types:
+- Hit 1
+- Mana Reducer 1
+- Self Heal
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/MeT3mAW.jpg
+...

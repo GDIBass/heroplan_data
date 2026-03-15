@@ -1,3 +1,4 @@
+---
 name: Colen
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 537
 health: 1094
 skill: Fire Storm
 effects:
-  - Deals 180% damage to all enemies
-  - All enemies receive 348 damage over 6 turns
+- Deals 180% damage to all enemies.
+- All enemies receive 348 damage over 6 turns.
 types:
-  - Hit All
-  - Dot All
+- Hit All
+- Dot All
 image: https://i.imgur.com/eqgOQXS.jpg
 costume:
   design: costume1
@@ -25,11 +26,11 @@ costume:
   health: 1222
   skill: Flame Assault
   effects:
-    - Deals 240% damage to all enemies.
-    - All enemies receive 204 Burn damage over 3 turns.
+  - Deals 240% damage to all enemies.
+  - All enemies receive 204 Burn damage over 3 turns.
   types:
-    - Hit all
-    - DoT All
+  - Hit All
+  - DoT All
   image: https://i.imgur.com/pAWbbb8.jpg
 costume2:
   design: costume2
@@ -41,12 +42,12 @@ costume2:
   health: 1315
   skill: Flame Storm
   effects:
-    - Deals 285% damage to the target and nearby enemies.
-    - The target and nearby enemies get -54% defense against Fire for 6 turns.
-    - Deals extra damage against Nature.
+  - Deals 285% damage to the target and nearby enemies.
+  - The target and nearby enemies get -54% defense against Fire for 6 turns.
+  - Deals extra damage against Nature.
   types:
-    - Hit 3
-    - Elemental Defense Debuff 3
+  - Hit 3
+  - Elemental Defense Debuff 3
   image: https://i.imgur.com/2DIxTGe.jpg
 costume3:
   design: toon
@@ -58,14 +59,15 @@ costume3:
   health: 1321
   skill: Toon Storm
   effects:
-    - Deals 210% damage to all enemies.
-    - All enemies receive 174 Burn damage over 3 turns.
-    - Deals extra damage against Nature.
+  - Deals 210% damage to all enemies.
+  - All enemies receive 174 Burn damage over 3 turns.
+  - Deals extra damage against Nature.
   types:
-    - Hit All
-    - DoT All
+  - Hit All
+  - DoT All
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/swTTE4N.jpg
 costume4:
   design: glass
@@ -77,14 +79,14 @@ costume4:
   health: 1319
   skill: Vitrail Flames
   effects:
-    - Deals 220% damage to all enemies.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - All enemies receive 198 Burn damage over 3 turns.
+  - Deals 220% damage to all enemies.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - All enemies receive 198 Burn damage over 3 turns.
   types:
-    - Hit All
-    - Bypass
-    - DoT All
+  - Hit All
+  - Bypass
+  - DoT All
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/7dLF49j.jpg
+...

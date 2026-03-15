@@ -1,6 +1,7 @@
+---
 name: Ithar
 source: hotm
-family: 2023
+family: "2023"
 speed: Very Fast
 class: Rogue
 power: 867
@@ -9,17 +10,19 @@ defense: 780
 health: 1481
 skill: Stupendous Break In
 effects:
-  - Steals all dispellable buffs from the target and randomly distributes them on allies.
-  - Steals 35% mana from the target and distributes it to allies.
-  - All allies get +40% attack for 2 turns.
-  - Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled.
+- Steals all dispellable buffs from the target and randomly distributes them on allies.
+- Steals 35% mana from the target and distributes it to allies.
+- All allies get +40% attack for 2 turns.
+- Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect
+  cannot be dispelled.
 types:
-  - Buff Stealer
-  - Mana Stealer
-  - Attack Buff
+- Buff Stealer 1
+- Mana Stealer 1
+- Attack Buff All
 passives:
-  - >-
-    Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
-  - >-
-    Resist Status Ailments From Minions: This character has innate resistance against status ailments that are from Minions.
+- 'Resist Status Ailments From Minions: This character is immune to status ailments
+  that are from Minions.'
+- 'Dodge Special Damage: This character has a 15% chance to dodge Special Skills that
+  deal damage.'
 image: https://i.imgur.com/DDTIPj2.jpg
+...

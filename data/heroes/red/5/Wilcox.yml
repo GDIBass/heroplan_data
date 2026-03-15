@@ -1,3 +1,4 @@
+---
 name: Wilcox
 source: shadow
 family: theinstitute
@@ -9,25 +10,36 @@ defense: 1293
 health: 2241
 skill: Volatile Crystal Conduit
 effects:
-  - Deals 265% damage to the target.
-  - The attack chains through all the enemies who are adjacent to any hit enemy and bypasses defensive buffs.
-  - All hit targets 20 Insanity every time they are hit.
-  - After 1 turn the target gets Paralyzed for4 turns. (Paralyzed enemies can't attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
-  - Inflicts 40 Insanity on the caster.
+- Deals 265% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy and
+  bypasses defensive buffs.
+- All hit targets 20 Insanity every time they are hit.
+- After 1 turn the target gets Paralyzed for4 turns. (Paralyzed enemies can't attack
+  or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't
+  be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
+- Casting this Special Skill inflicts 40 Insanity on the caster.
 types:
-  - Hit 1
-  - Chain Hit
-  - Insanity on hit
-  - Delayed Paralyze on hit
-  - Self Insanity
+- Hit 1
+- Chain Hit
+- Insanity on hit
+- Delayed Paralyze on hit
+- Self Insanity
 passives:
-  - "Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch Host. The chance is 10% per 10 Insanity on this character, up to maximum chance of 100%."
-  - "The Eldritch Host has:"
-  - " * 100% inherited health."
-  - " * 1200 attack."
-  - " * 1200 defense."
-  - "Special Skill: Eldrich Bright."
-  - " * Deals 400% damage to the target and inflicts 35 Insanity on them." 
-  - " * Inflicts 30 Insanity on the caster."
-  - If this character defeats themself when activating Insanity, the chance to be reborn is always 100%.
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+- 'Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch
+  Host. The chance is 10% per 10 Insanity on this character, up to maximum chance
+  of 100%.'
+- 'The Eldritch Host has:'
+- ' * 100% inherited health.'
+- ' * 1200 attack.'
+- ' * 1200 defense.'
+- 'Special Skill: Eldrich Bright.'
+- ' * Deals 400% damage to the target and inflicts 35 Insanity on them.'
+- If this character defeats themself when activating Insanity, the chance to be reborn
+  is always 100%.
 image: https://imgur.com/csfwNsx.jpg
+...

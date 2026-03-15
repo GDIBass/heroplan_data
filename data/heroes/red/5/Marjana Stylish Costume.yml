@@ -1,0 +1,25 @@
+---
+name: Marjana Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Fast
+class: Rogue
+power: 1295
+attack: 1389
+defense: 1219
+health: 2453
+skill: Stylish Smash
+effects:
+- Deals 558% damage to the target.
+- If the target has less than 50% health remaining, deals 658% damage instead.
+- The target receives 729 Burn damage over 3 turns.
+types:
+- Hit 1
+- DoT 1
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/UBdZIW9.jpg
+...

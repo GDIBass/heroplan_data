@@ -1,3 +1,4 @@
+---
 name: Rigard Second Costume
 is_costume: true
 design: costume2
@@ -11,11 +12,12 @@ defense: 808
 health: 1246
 skill: Transfigure
 effects:
-  - Boosts health of all allies by 410. Boosted health can exceed max HP.
-  - All allies get +40% defense for 3 turns.
-  - Cleanses status ailments from all allies.    
+- Boosts health of all allies by 410. Boosted health can exceed max HP.
+- All allies get +40% defense for 3 turns.
+- Cleanses status ailments from all allies.
 types:
-  - Boost Heal All
-  - Defense Buff All
-  - Cleanser
+- Boost Health All
+- Defense Buff All
+- Cleanser All
 image: https://i.imgur.com/0dWPfN4.jpg
+...

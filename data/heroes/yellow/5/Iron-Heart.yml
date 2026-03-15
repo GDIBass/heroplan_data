@@ -1,3 +1,4 @@
+---
 name: Iron-Heart
 source: covenant
 family: construct
@@ -9,21 +10,29 @@ defense: 1248
 health: 2097
 skill: Iron Rocket Fist
 effects:
-  - Deals 520% damage to the target.
-  - Deals 520% damage to a random different enemy.
-  - If an enemy is defeated by the attack, the caster recovers +35% health and gains +35% mana.
-  - All allies counterattack with +110% of the damage received for 4 turns.
+- Deals 520% damage to the target.
+- Deals 520% damage to a random different enemy.
+- If an enemy is defeated by the attack, the caster recovers +35% health and gains
+  +35% mana.
+- All allies counterattack with +110% of the damage received for 4 turns.
 types:
-  - Hit Random 2
-  - Self Heal on Kill
-  - Self Mana Increase on Kill
-  - Counterattack All
+- Hit Random 2
+- Self Heal on Kill
+- Self Mana Increase on Kill
+- Counterattack All
 passives:
-  - >-
-    Empowered Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills. They also gain 450 boosted health and 5% mana each time they resist.
-  - >-
-    Minion Core: The Construct Core of this character is Minion Core. The Minion Core activates each time this character's Special Skill is cast
-    * With fully charged Minion Core, summon Killer Bot Minion with 27% HP and 55% attack inherited from the caster on all allies.
-    * The HP and attack inherited from the caster are scaled by the amount of charge int the Core. All charge is exhausted when the Core is activated.
-    * Before the Killer Bot Minion hits a target, it destroys all Minion from the target and damages Mega Minions.
+- 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
+  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
+  mana each time they resist.'
+- 'Minion Core: The Construct Core of this character is Minion Core. The Minion Core
+  activates each time this character''s Special Skill is cast.'
+- ' * With fully charged Minion Core, summon Killer Bot Minion with 27% HP and 55%
+  attack inherited from the caster on all allies.'
+- ' * The HP and attack inherited from the caster are scaled by the amount of charge
+  in the Core. All charge is exhausted when the Core is activated.'
+- ' * Before the Killer Bot Minion hits a target, it destroys all Minion from the
+  target and damages Mega Minions.'
+- ' * The Killer Bot Minion recovers 5% health for its owner at the end of each turn.'
+- ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
 image: https://imgur.com/oPQZTy5.jpg
+...

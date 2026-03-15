@@ -11,7 +11,7 @@ skill: Sickle Trouble
 effects:
   - Deals 310% damage to  enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.
   - Reduces the mana of the enemies on the edges of the enemy formation by 20%. If there is only one enemy, the mana reduction is doubled.
-  - Enemies on the edges of the formation receive Resonance for 2 turns. Each turn, Resonance deals 1000 damage to the afflicted enemies and 500 damage to nearby enemies.
+  - Enemies on the edges of the formation receive Resonance for 2 turns. Each turn, Resonance deals 716 damage to the afflicted enemies and 358 damage to nearby enemies.
 types:
   - Hit 2
   - Mana Reducer 2

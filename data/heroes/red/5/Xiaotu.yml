@@ -1,3 +1,4 @@
+---
 name: Xiaotu
 source: lunaryear
 family: lunaryear
@@ -9,13 +10,37 @@ defense: 819
 health: 1497
 skill: Reverse Recovery
 effects:
-  - Deals 655% damage to the target.
-  - The target and nearby enemies resist healing and receive 250 damage per each resisted healing for 4 turns.
+- Deals 655% damage to the target.
+- The target and nearby enemies resist healing and receive 250 damage per each resisted
+  healing for 4 turns.
 types:
-  - Hit 1
-  - Damage on each Resisted Healing 3
+- Hit 1
+- Healing Resist Debuff 3
+- Damage on each Resisted Healing 3
 passives:
-  - >-
-    Disable Minion Abilities: Attacks and abilities of all Minions owned by
-    enemies are disabled.
+- 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/BFeoiOp.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 1279
+  attack: 1323
+  defense: 1272
+  health: 2398
+  skill: Ill-Fated Recovery
+  effects:
+  - Deals 670% damage to the target.
+  - Reduce max health of the target and nearby enemies by 250. The effect is stronger
+    against targets with boosted health. (Max health can't get lower than 30% of the
+    original max health. Any boosted health is reduced by an additional 250.)
+  - The target and nearby enemies resist healing and receive 270 damage per resisted
+    healing for 4 turns.
+  types:
+  - Hit 1
+  - Max Health Reduction 3
+  - Damage on each Resisted Healing 3
+  passives:
+  - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
+  image: https://imgur.com/lrCWqsO.jpg
+...

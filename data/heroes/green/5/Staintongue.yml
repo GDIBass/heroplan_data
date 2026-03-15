@@ -1,3 +1,4 @@
+---
 name: Staintongue
 source: covenant
 family: abysshunter
@@ -7,18 +8,24 @@ power: 891
 attack: 898
 defense: 844
 health: 1540
-skill: Mallett Swing of the Beast
+skill: Mallet Swing of the Beast
 effects:
-  - Deals 330% damage to the target and nearby enemies.
-  - The target and nearby enemies get -30% accuracy for 3 turns. The accuracy decreases by -10% each turn, up to -50%.
-  - The target and nearby enemies receive 363 Poison damage over 3 turns.
+- Deals 330% damage to the target and nearby enemies.
+- The target and nearby enemies get -30% accuracy for 3 turns. The accuracy decreases
+  by -10% each turn, up to -50%.
+- The target and nearby enemies receive 363 Poison damage over 3 turns.
 types:
-  - Hit 3
-  - Blind
-  - DoT
+- Hit 3
+- Blind 3
+- DoT 3
 passives:
-  - >-
-    Hunter's Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.
-  - >-
-    Damage over Time on Special: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 5% health.
+- 'Hunter''s Sense: When this character casts their Special Skill, they have 100%
+  chance to transfer the newest status ailment from themself to the target. If the
+  Special Skill cannot target an enemy, a random enemy is chosen instead. If this
+  character has no status ailments, they recover 12% health.'
+- 'Damage over Time on Special: When this character casts their Special Skill, they
+  have 100% chance to transfer the newest status ailment from themself to the target.
+  If the Special Skill cannot target an enemy, a random enemy is chosen instead. If
+  this character has no status ailments, they recover 5% health.'
 image: https://i.imgur.com/obJIXMO.jpg
+...

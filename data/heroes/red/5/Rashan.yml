@@ -1,3 +1,4 @@
+---
 name: Rashan
 source: secretsummon
 family: cultist
@@ -9,14 +10,17 @@ defense: 1128
 health: 1994
 skill: Cuts of Hulu
 effects:
-  - Deals 330% damage to the enemies on the edges of the enemy formation and inflicts 25 Insanity on them. If only one enemy alive, the damage and Insanity is doubled.
-  - The enemies on the edges of the enemy formation resist healing and receive 250 damage per each resisted healing for 3 turns.
-  - Inflicts 45 Insanity on the caster.
+- Deals 330% damage to the enemies on the edges of the enemy formation and inflicts
+  25 Insanity on them. If only one enemy alive, the damage and Insanity is doubled.
+- The enemies on the edges of the enemy formation resist healing and receive 250 damage
+  per each resisted healing for 3 turns.
+- Casting this Special Skill inflicts 40 Insanity on the caster.
 types:
-  - Hit 2
-  - Damage on each Resisted Healing 2
-  - Self Insanity 
+- Hit 2
+- Damage on each Resisted Healing 2
+- Self Insanity
 passives:
-  - >-
-    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
+- 'Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character
+  up to a maximum reduction of 50%.'
 image: https://i.imgur.com/WJH09pj.jpg
+...

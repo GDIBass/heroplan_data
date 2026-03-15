@@ -1,3 +1,4 @@
+---
 name: Justice Toon Costume
 is_costume: true
 design: toon
@@ -11,13 +12,15 @@ defense: 934
 health: 2380
 skill: Toon of Judgment
 effects:
-  - Deals 435% damage to all enemies.
-  - All enemies get -30% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)
-  - Deals extra damage against Dark.
+- Deals 435% damage to all enemies.
+- All enemies get -30% accuracy for 4 turns. (Chance to miss also applies to offensive
+  Special Skills.)
+- Deals extra damage against Dark.
 types:
-  - Hit All
-  - Blind
+- Hit All
+- Blind All
 passives:
-  - >-
-    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/ChEEEeb.jpg
+...

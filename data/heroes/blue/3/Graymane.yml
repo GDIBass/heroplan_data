@@ -1,3 +1,4 @@
+---
 name: Graymane
 source: season1
 family: classic
@@ -9,11 +10,11 @@ defense: 368
 health: 789
 skill: Wolf Bite
 effects:
-  - Deals 225% damage to the target.
-  - Heals the caster for 50% of damage dealt.
+- Deals 225% damage to the target.
+- Heals the caster for 50% of damage dealt.
 types:
-  - Hit 1
-  - Self Heal
+- Hit 1
+- Heal Self
 image: https://i.imgur.com/QFfHzlB.jpg
 costume:
   design: costume1
@@ -23,15 +24,16 @@ costume:
   attack: 457
   defense: 411
   health: 896
-  skill: Racoon Bite
+  skill: Raccoon Bite
   effects:
-    - Deals 235% damage to the target.
-    - The caster is immune to new status ailments for 3 turns.  This effect can't be dispelled.
-    - The caster gets +50% attack for 3 turns.
+  - Deals 235% damage to the target.
+  - The caster is immune to new status ailments for 3 turns.  This effect can't be
+    dispelled.
+  - The caster gets +50% attack for 3 turns.
   types:
-    - Hit 1
-    - Ailments Immunity Self
-    - Attack Buff Self
+  - Hit 1
+  - Ailments Immunity Buff Self
+  - Attack Buff Self
   image: https://i.imgur.com/zH4VZaJ.jpg
 costume2:
   design: toon
@@ -43,33 +45,34 @@ costume2:
   health: 946
   skill: Toon Bite
   effects:
-    - Deals 255% damage to the target.
-    - Heals the caster for 45% of damage dealt.
-    - Deals extra damage against Fire.
+  - Deals 255% damage to the target.
+  - Heals the caster for 45% of damage dealt.
+  - Deals extra damage against Fire.
   types:
-    - Hit 1
-    - Self Heal
+  - Hit 1
+  - Heal Self
   passives:
-    - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/Qf69vSG.jpg
 costume3:
   design: glass
   bonuses: 5/5/10/5
   class: Sorcerer
-  power: 513
-  attack: 532
-  defense: 446
-  health: 980
+  power: 516
+  attack: 536
+  defense: 450
+  health: 988
   skill: Glass Bite
   effects:
-    - Deals 265% damage to the target.
-    - The attack bypasses defensive buffs. (This includes counterattacks.)
-    - Heals the caster for 48% of damage dealt.
+  - Deals 265% damage to the target.
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Heals the caster for 48% of damage dealt.
   types:
-    - Hit 1
-    - Bypass
-    - Self Heal
+  - Hit 1
+  - Bypass
+  - Heal Self
   passives:
-    - >-
-      Glass: 60% extra chance to reflect status ailments back to the attacker.
+  - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/B6cM6Ze.jpg
+...

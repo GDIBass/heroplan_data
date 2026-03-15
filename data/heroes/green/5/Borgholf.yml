@@ -1,0 +1,35 @@
+---
+name: Borgholf
+source: titanhunter
+family: titanhunter
+speed: Fast
+class: Sorcerer
+power: 1281
+attack: 1341
+defense: 1306
+health: 2294
+skill: Verdant Trap
+effects:
+- Deals 275% damage to 3 random enemies.
+- Hit enemies become afflicted with Spike Trap.
+- The Spike Trap gives its target -42% defense against Nature. Against Ice Titans,
+  the Spike Trap gives its target -65% defense against Nature.
+- Spike Traps explode in 3 turns dealing 300 damage to their owner. (If the Spike
+  Trap is replaced by a new Spike Trap, it explodes. This can happen up to 2 times
+  per turn.)
+types:
+- Hit random 3
+- Exploding Spike Trap on hit
+- Elemental Defense Debuff on hit
+passives:
+- 'Enhanced Shields on Special: Passive Skill as attacking character'
+- ' * Nature shields on the board become enhanced with +54% critical chance when this
+  character casts their Special Skill.'
+- Passive Skill as defending character
+- ' * Nature shields on the board become weakened with -47% accuracy when this character
+  casts their Special Skill.'
+- 'Mark of the Titan Hunter: When this character casts their Special Skill, they mark
+  a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting
+  Flare receives additional 150 damage when they receive a critical hit.'
+image: https://imgur.com/QlpsKs5.jpg
+...

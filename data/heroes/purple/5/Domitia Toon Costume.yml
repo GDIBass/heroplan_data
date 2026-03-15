@@ -1,24 +1,27 @@
+---
 name: Domitia Toon Costume
 is_costume: true
 design: toon
-class: Rogue
 source: season1
 family: classic
 speed: Average
+class: Rogue
 power: 1111
 attack: 1129
 defense: 1006
 health: 2215
 skill: Toon Bolt
 effects:
-  - Deals 590% damage to the target.
-  - The caster and nearby allies get +64% defense against Holy for 4 turns.
-  - Deals extra damage against Holy.
-  - Dispels buffs from the target and nearby enemies.
+- Deals 590% damage to the target.
+- The caster and nearby allies get +64% defense against Holy for 4 turns.
+- Deals extra damage against Holy.
+- Dispels buffs from the target and nearby enemies.
 types:
-  - Hit 1
-  - Dispeller
+- Hit 1
+- Elemental Defense Buff 3
+- Dispeller 3
 passives:
-  - >-
-    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/q7quKlm.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Fulvia
 source: owltower
 family: owl
@@ -9,14 +10,19 @@ defense: 1011
 health: 1542
 skill: Royal Assault
 effects:
-  - Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage. Deals 40% more damage if the target is Holy.
-  - For 3 turns, reduces the mana of the target and nearby enemies by -15% at the end of turn.
-  - The target and nearby enemies get -50% decrease for any healing received for 3 turns.
+- Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage.
+  Deals 40% more damage if the target is Holy. This Special Skill never misses its
+  targets.
+- For 3 turns, reduces the mana of the target and nearby enemies by -15% at the end
+  of turn.
+- The target and nearby enemies get -50% decrease for any healing received for 3 turns.
 types:
-  - Hit 3
-  - Mana reducer 3
-  - Healing Debuff 3
+- Hit 3
+- Mana Reducer 3
+- Healing Debuff 3
 passives:
-  - >-
-    Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle.
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
 image: https://i.imgur.com/Z2G4Lwa.jpg
+...

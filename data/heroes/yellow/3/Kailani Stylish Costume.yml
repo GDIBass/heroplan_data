@@ -1,0 +1,27 @@
+---
+name: Kailani Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Slow
+class: Cleric
+power: 546
+attack: 513
+defense: 595
+health: 964
+skill: Style Link
+effects:
+- All allies become Soul Connected for 5 turns. Soul Connected allies share received
+  damage.
+- All allies get +60% defense for 5 turns.
+- All allies regenerate 300 HP over 5 turns.
+types:
+- Ally Damage Share
+- Defense Buff All
+- HoT All
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/DLbCQyk.jpg
+...

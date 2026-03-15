@@ -1,0 +1,25 @@
+---
+name: Brienne Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Average
+class: Druid
+power: 542
+attack: 512
+defense: 563
+health: 1004
+skill: Stylish Fury
+effects:
+- All allies get +55% attack, and a further 20% increase every time they are hit during
+  5 turns, up to +155% attack.
+- All allies regenerate 300 HP over 5 turns.
+types:
+- Attack Buff All
+- HoT All
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/9fZP07k.jpg
+...

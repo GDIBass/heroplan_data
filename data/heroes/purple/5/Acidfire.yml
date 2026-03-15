@@ -1,3 +1,4 @@
+---
 name: Acidfire
 source: goblinvillage
 family: goblin
@@ -9,17 +10,19 @@ defense: 959
 health: 1604
 skill: Poisonous Mist
 effects:
-  - Deals 355% damage to the target and nearby enemies.
-  - "Wither: The target and nearby enemies get -225 attack and -225 defense."
-  - The target and nearby enemies reflect status effect buffs to a random character on the opposing team for 3 turns. (Only dispellable buffs are reflected.)
+- Deals 355% damage to the target and nearby enemies.
+- 'Wither: The target and nearby enemies get -225 attack and -225 defense.'
+- The target and nearby enemies reflect status effect buffs to a random character
+  on the opposing team for 3 turns. (Only dispellable buffs are reflected.)
 types:
-  - Hit 3
-  - Wither attack
-  - Wither defense
-  - Reflect Buffs 3
+- Hit 3
+- Attack Wither 3
+- Defense Wither 3
+- Reflect Buffs 3
 passives:
-  - >-
-    Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.
-  - " * Deals 90% damage to all enemies."
-  - " * All enemies get -25% accuracy for 3 turns."
+- 'Effects on Special Skill: 40% chance to perform the following actions when this
+  character casts their Special Skill.'
+- ' * Deals 90% damage to all enemies.'
+- ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/KXpETJ0.jpg
+...

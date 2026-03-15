@@ -1,6 +1,7 @@
+---
 name: Balbar
 source: hotm
-family: 2021
+family: "2021"
 speed: Average
 class: Druid
 power: 796
@@ -9,18 +10,21 @@ defense: 756
 health: 1378
 skill: Slumber Spores
 effects:
-  - Deals 350% damage to the target.
-  - The target falls asleep.
-  - While asleep, the target can't attack or gain mana.
-  - All damage dealt to the sleeping target is increased by +60%.
-  - The sleeping target is woken once it takes damage. This excludes damage from minions and fiends.
-  - Element Link gives +10% increase for any healing received for all Nature allies for 4 turns. This effect can't be dispelled.
+- Deals 350% damage to the target.
+- The target falls asleep.
+- While asleep, the target can't attack or gain mana.
+- All damage dealt to the sleeping target is increased by +60%.
+- The sleeping target is woken once it takes damage. This excludes damage from minions
+  and fiends.
+- Element Link gives +10% increase for any healing received for all Nature allies
+  for 4 turns. This effect can't be dispelled.
 types:
-  - Hit 1
-  - Sleep
+- Hit 1
+- Sleep 1
 passives:
-  - >-
-    Resist buff immunity: This character has innate resistance against status ailments that give immunity to new buffs.
-  - >- 
-    Health recovery on buff received: This character recovers 5% health when they receive a buff or a positive stack.
+- 'Resist Buff Blocking: This character is immune to effects that would block them
+  from receiving new status effect buffs.'
+- 'Health recovery on buff received: This character recovers 5% health when they receive
+  a buff or a positive stack.'
 image: https://i.imgur.com/lTYrovf.jpg
+...

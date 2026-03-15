@@ -1,3 +1,4 @@
+---
 name: Mortimer
 source: beachparty
 family: beachparty
@@ -9,15 +10,17 @@ defense: 861
 health: 1507
 skill: Tidal Waves
 effects:
-  - Deals 480% damage to target and a minor damage to nearby enemies.
-  - The target and nearby enemies get silenced for 3 turns.
-  - The caster and nearby allies resist new effects that block usage of Special Skills for 3 turns.
+- Deals 480% damage to target and a minor damage to nearby enemies.
+- The target and nearby enemies get silenced for 3 turns.
+- The caster and nearby allies resist new effects that block usage of Special Skills
+  for 3 turns.
 types:
-  - Hit 3
-  - Silencer
+- Hit 3
+- Silencer 3
+- SS Block Immunity 3
 passives:
-  - >-
-    Damage over time on Special: When this character casts their Special Skill, all enemies receive 202 Water damage over 2 turns.
-  - >-
-    Resist Water Damage: This character has innate resistance against Water Damage.
+- 'Damage over time on Special: When this character casts their Special Skill, all
+  enemies receive 202 Water damage over 2 turns.'
+- 'Resist Water: This character is immune to status ailments that deal Water damage.'
 image: https://i.imgur.com/J2WmnG0.jpg
+...

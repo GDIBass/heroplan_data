@@ -1,3 +1,4 @@
+---
 name: Isarnia Second Costume
 is_costume: true
 design: costume2
@@ -11,10 +12,12 @@ defense: 733
 health: 1432
 skill: Glacial Vortex
 effects:
-  - Deals 270% damage to all enemies
-  - All enemies get -34% attack for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer
-  - Deals extra damage against Fire
+- Deals 270% damage to all enemies.
+- All enemies get -34% attack for 4 turns. Against Nature characters, this status
+  effect becomes uncleansable and lasts 2 turns longer.
+- Deals extra damage against Fire.
 types:
-  - Hit All
-  - Attack Debuff
+- Hit All
+- Attack Debuff All
 image: https://i.imgur.com/wccczud.jpg
+...

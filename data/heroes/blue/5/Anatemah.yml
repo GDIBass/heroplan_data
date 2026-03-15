@@ -13,7 +13,7 @@ effects:
   - Hit enemies become afflicted with Astral Orb.
   - While afflicted with the Astral Orb the Owner can't gain new Buffs.
   - Astral Orbs explode in 3 turns dealing 450 damage to their owner.
-  - If the Astral Orb is cleansed, the owner receives Resonance for 3 turns. Each turn, Resonance deals 1000 damage to the afflicted enemies and 500 damage to nearby enemies. (If an Astal Orb is replaced by a new Astral Orb, it explodes. This effect can happen up to 2 times per turn.)
+  - If the Astral Orb is cleansed, the owner receives Resonance for 3 turns. Each turn, Resonance deals 769 damage to the afflicted enemies and 384 damage to nearby enemies. (If an Astal Orb is replaced by a new Astral Orb, it explodes. This effect can happen up to 2 times per turn.)
 types:
   - Hit random 5
   - Astral Orb to hit enemies

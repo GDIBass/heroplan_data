@@ -1,0 +1,25 @@
+---
+name: Melendor Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Average
+class: Druid
+power: 809
+attack: 884
+defense: 820
+health: 1322
+skill: Fog of the Stylish
+effects:
+- Recovers 54% health for the ally with the lowest remaining HP. All other allies
+  recover 47% health.
+- Dispels buffs from all enemies.
+types:
+- Healer All
+- Dispeller All
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/2xZL7uT.jpg
+...

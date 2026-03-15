@@ -1,0 +1,27 @@
+---
+name: Kiril Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Average
+class: Wizard
+power: 818
+attack: 822
+defense: 899
+health: 1388
+skill: Stylish Appetizer
+effects:
+- Recovers 40% health for the ally with the lowest remaining HP. All other allies
+  recover 33% health.
+- All allies get +29% attack for 3 turns.
+- All allies get +29% defense for 3 turns.
+types:
+- Healer All
+- Attack Buff All
+- Defense Buff All
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/2F6uZCQ.jpg
+...

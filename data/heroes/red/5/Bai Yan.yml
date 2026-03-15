@@ -1,0 +1,34 @@
+---
+name: Bai Yan
+source: fortune
+family: fortunedancer
+speed: Dancer
+class: Druid
+power: 1282
+attack: 1328
+defense: 1330
+health: 2290
+skill: Aura of the Fiery Lion
+effects:
+- Boosts the caster and nearby allies' health by 1300 with Spirit Aura. Spirit Aura
+  safely removes status ailments before boosting health. (The health boost is reduced
+  by -100 for each removed ailment. Uncleansable ailments are also removed.)
+- Nearby allies dance the Fiery Fortune Dance for 4 turns.
+- Fiery Fortune Dance
+- ' * +50% attack.'
+- ' * Dealt damage is increased by +20%. The effect is +30% against Nature targets.'
+- ' * Received damage is reduced by -20%. The effect is -30% against Ice Special Skills.'
+- ' * Fortune Dances stack with other Dance effects. (All existing status effects
+  will be removed when Fortune Dance status effects is added, except other Dance status
+  effects. Fortune Dances gives immunity to new status effects, except other Dance
+  effects. Fortune Dance effect cannot be dispelled. The effect is removed when the
+  caster is defeated.)'
+types:
+- Safely Clean 3
+- Spirit Aura Boosted Heal 3
+- Fiery Fortune Dance Buff 2
+passives:
+- 'Graceful Dancer: If any allies are Dancing when this character casts their Special
+  Skill, boosts the health of all allies by 400. Boosted health can exceed max HP.'
+image: https://imgur.com/EthkTxy.jpg
+...

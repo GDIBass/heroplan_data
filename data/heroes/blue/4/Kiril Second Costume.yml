@@ -1,3 +1,4 @@
+---
 name: Kiril Second Costume
 is_costume: true
 design: costume2
@@ -11,11 +12,12 @@ defense: 782
 health: 1279
 skill: Blessed Tankard
 effects:
-  - Boosts health of all allies by 400. Boosted health can exceed max HP
-  - All allies get +30% defense for 3 turns
-  - All enemies get -34% attack for 3 turns
+- Boosts health of all allies by 400. Boosted health can exceed max HP.
+- All allies get +30% defense for 3 turns.
+- All enemies get -34% attack for 3 turns.
 types:
-  - Healer
-  - Attack Debuff
-  - Defense Buff
+- Boosted Heal All
+- Defense Buff All
+- Attack Debuff All
 image: https://i.imgur.com/s7WIRC3.jpg
+...

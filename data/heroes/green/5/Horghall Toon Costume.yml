@@ -1,3 +1,4 @@
+---
 name: Horghall Toon Costume
 is_costume: true
 design: toon
@@ -11,13 +12,14 @@ defense: 1091
 health: 2660
 skill: Anger of the Toons
 effects:
-  - Deals 430% damage to all enemies.
-  - All enemies get -24% attack for 6 turns.
-  - Deals extra damage against Ice.
+- Deals 430% damage to all enemies.
+- All enemies get -24% attack for 6 turns.
+- Deals extra damage against Ice.
 types:
-  - Hit All
-  - Attack Debuff
+- Hit All
+- Attack Debuff All
 passives:
-  - >-
-    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/VkOyyRt.jpg
+...

@@ -9,7 +9,7 @@ defense: 1312
 health: 2261
 skill: Debt Drain
 effects:
-  - Deals 460% damage to all enemies.
+  - Deals 500% damage to all enemies.
   - The caster steals generated mana of all enemies over 5 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster is defeated.
   - All allies get Sticky surface for 5 turns. This effect can't be dispelled.
   - 'Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)'

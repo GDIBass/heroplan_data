@@ -1,3 +1,4 @@
+---
 name: Starwalker
 source: blackfriday
 family: astralelves
@@ -9,16 +10,17 @@ defense: 1007
 health: 1709
 skill: Scepter of Constellations
 effects:
-  - This Special Skill never misses its targets.
-  - Deals 200% damage to all enemies.
-  - Deals 450 extra damage if the target has boosted health.
-  - All enemies get -35% defense for 3 turns. If the effect is removed before the duration ends, the target with effect suffers 577 damage.
+- This Special Skill never misses its targets.
+- Deals 200% damage to all enemies.
+- Deals 450 extra damage if the target has boosted health.
+- All enemies get -35% defense for 3 turns. If the effect is removed before the duration
+  ends, the target with effect suffers 577 damage.
 types:
-  - Hit all
-  - Defense debuff
+- Hit all
+- Defense debuff
 passives:
-  - >-
-    Share Received Damage: 20% of damage received by this character is shared with other allies.
-  - >-
-    Resist Poison: This character has innate resistance against Poison.
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
+- 'Share Received Damage: 20% of damage received by this character is shared with
+  other allies.'
 image: https://i.imgur.com/GZxuVqX.jpg
+...

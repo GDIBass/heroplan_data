@@ -1,3 +1,4 @@
+---
 name: Little John Toon Costume
 is_costume: true
 design: toon
@@ -11,13 +12,14 @@ defense: 696
 health: 1212
 skill: Toontastic Chop
 effects:
-  - Deals 215% damage to all enemies.
-  - All enemies get -54% mana generation for 3 turns.
-  - Deals extra damage against Ice.
+- Deals 215% damage to all enemies.
+- All enemies get -54% mana generation for 3 turns.
+- Deals extra damage against Ice.
 types:
-  - Hit All
-  - Mana Generation Debuff All
+- Hit All
+- Mana Generation Debuff All
 passives:
-  - >-
-    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/8mWGMUp.jpg
+...

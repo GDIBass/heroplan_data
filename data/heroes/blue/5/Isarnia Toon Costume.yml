@@ -1,3 +1,4 @@
+---
 name: Isarnia Toon Costume
 is_costume: true
 design: toon
@@ -11,13 +12,14 @@ defense: 1018
 health: 2065
 skill: Toon Shatter
 effects:
-  - Deals 385% damage to all enemies.
-  - All enemies get -34% defense for 6 turns.
-  - Deals extra damage against Fire.
+- Deals 385% damage to all enemies.
+- All enemies get -34% defense for 6 turns.
+- Deals extra damage against Fire.
 types:
-  - Hit All
-  - Defense Debuff
+- Hit All
+- Defense Debuff All
 passives:
-  - >-
-    Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels.
+- 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+  dispels.'
 image: https://i.imgur.com/mFs5DrO.jpg
+...

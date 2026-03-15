@@ -1,3 +1,4 @@
+---
 name: Zenobia
 source: season4
 family: underwild
@@ -9,16 +10,20 @@ defense: 756
 health: 1316
 skill: Dual Sting
 effects:
-  - Deals 320% damage to the enemies on he edges of the enemy formation. If there is only one enemy alive, the damage is doubled.
-  - Alters the power of all Fire shields on the board. When an attacking Hero casts the special, the shield becomes enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.
+- Deals 320% damage to the enemies on he edges of the enemy formation. If there is
+  only one enemy alive, the damage is doubled.
+- Alters the power of all Fire shields on the board. When an attacking Hero casts
+  the special, the shield becomes enhanced with +64% attack. When a defending Hero
+  casts the special, the shields become weakened with -57% attack.
 types:
-  - Hit 2
-  - Board Alterer
+- Hit 2
+- Board Alterer
 passives:
-  - >-
-    Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.
+- 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
+  Skills is increased by 1 turn.'
 image: https://i.imgur.com/H6eN1G6.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 1024
@@ -27,14 +32,19 @@ costume:
   health: 1782
   skill: Floral Sting
   effects:
-    - Deals 340% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.
-    - Alters the power of Fire shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.
+  - Deals 340% damage to the enemies on the edges of the enemy formation. If there
+    is only one enemy alive, the damage is doubled.
+  - Alters the power of Fire shields on the board. When an attacking Hero casts the
+    special, the shields become enhanced with +64% attack. When a defending Hero casts
+    the special, the shields become weakened with -57% attack.
   types:
-    - Hit 2
-    - Board Alterer
+  - Hit 2
+  - Board Alterer
   passives:
-    - >-
-      Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn.
-    - >-
-      Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns.
+  - 'Increase Buff Duration: Duration of the first 3 buffs this character receives
+    from Special Skill is increased by 1 turn.'
+  - 'Increased Damage Against Boosted Health: After this character casts their Special
+    Skill cast, all allies'' normal attacks and Special Skills deal +70% damage against
+    targets with boosted health for 4 turns.'
   image: https://i.imgur.com/lrLa3g9.jpg
+...

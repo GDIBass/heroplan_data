@@ -27,10 +27,10 @@ costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Monk
-  power: 1245
-  attack: 1202
-  defense: 1279
-  health: 2438
+  power: 1273
+  attack: 1236
+  defense: 1315
+  health: 2483
   skill: Gaurding Tunes
   effects:
     - Boosts health of all allies by 800. Boosted health can exceed max HP.
@@ -44,6 +44,6 @@ costume:
     - >-
       Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.
     - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
-    - " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 354 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+    - " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 364 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
     - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
   image: https://imgur.com/xREyScg.jpg

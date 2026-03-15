@@ -1,0 +1,25 @@
+---
+name: Li Xiu Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Average
+class: Monk
+power: 811
+attack: 884
+defense: 808
+health: 1366
+skill: Slash of Stylish Blades
+effects:
+- Deals 200% damage to all enemies.
+- If the enemies have less than 50% health remaining, deals 275% damage instead.
+- Reduces the mana of all enemies by -19%.
+types:
+- Hit All
+- Mana Reducer All
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/Z55KgeX.jpg
+...

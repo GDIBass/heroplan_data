@@ -1,0 +1,23 @@
+---
+name: Lianna Stylish Costume
+is_costume: true
+design: stylish
+source: season1
+family: classic
+speed: Fast
+class: Ranger
+power: 1296
+attack: 1409
+defense: 1287
+health: 2269
+skill: Stylish Arrow
+effects:
+- Deals 612% damage to the target.
+- If the target has less than 50% health remaining, deals 712% damage instead.
+types:
+- Hit 1
+passives:
+- 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+  ones.'
+image: https://imgur.com/AIepZxd.jpg
+...

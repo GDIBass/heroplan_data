@@ -1,0 +1,37 @@
+name: Talonshine
+source: ancientUnderroot
+speed: Average
+power: 7829
+attack: 9600
+defense: 9555
+health: 8742
+skill: Cute and Dangerous
+effects:
+  - Deals 230% damage to the target.
+  - Deals 230% damage to a random different enemy. (This effect targets the same enemy as the first hit if there are no other valid targets.
+  - All hit targets get -2000 defense against Holy for 4 turns.
+types:
+  - Hit 1
+  - Hit Random 1
+  - Elemental Defense Debuff on hit
+spiritBonus:
+  spiritClass: Monk
+  all:
+    attack: +100
+    defense: +80
+    health: +30
+  elementalBond:
+    attack: +15
+    defense: +10
+    health: +12
+  classLink:
+    attack: +15
+    defense: +10
+    health: +12
+assist:
+  name: Wounding Blaze
+  effects:
+    - Deals 350 damage to all enemies.
+    - Recovers 50 health for all allies.
+    - All enemies get -10% decrease for any healing received for 5 turns.
+image: https://imgur.com/qKVHpLE.jpg

@@ -1,0 +1,37 @@
+---
+name: Yamada Jingasa
+source: ninja
+family: ronin
+speed: Charge
+class: Monk
+power: 542
+attack: 573
+defense: 538
+health: 903
+skill: Flying Front Kick
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- 'x1 Mana Charge:'
+- Deals 200% damage to the target.
+- Deals additional 200% damage to 1 random enemies.
+- 'x2 Mana Charge:'
+- Deals 260% damage to the target.
+- Deals additional 260% damage to 2 random enemies.
+- All hit targets get -24% attack for 3 turns.
+- 'x3 Mana Charge:'
+- Deals 320% damage to the target.
+- Deals additional 320% damage to 3 random enemies.
+- All hit targets get -34% attack for 5 turns.
+types:
+- Charge
+- Hit 1
+- Hit Random 1 / 2 / 3
+- Attack Debuff on hit
+passives:
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 400% damage.'
+- ' * The attacker receives 1200 Bleed damage over 3 turns.'
+image: https://imgur.com/EnlM3s8.jpg
+...

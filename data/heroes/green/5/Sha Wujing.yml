@@ -1,3 +1,4 @@
+---
 name: Sha Wujing
 source: kingdom
 family: journey
@@ -9,16 +10,17 @@ defense: 931
 health: 1606
 skill: Prayer of the Desert
 effects:
-  - Deals 610% damage to the target.
-  - Heals all allies for 40% of damage dealt.
-  - All allies get +45% chance to dodge Special Skills that deal damage for 4 turns.
+- Deals 610% damage to the target.
+- Heals all allies for 40% of damage dealt.
+- All allies get +45% chance to dodge Special Skills that deal damage for 4 turns.
 types:
-  - Hit 1
-  - Healer
-  - Dodge Buff
+- Hit 1
+- Healer All
+- Dodge Chance Buff All
 passives:
-  - >-
-    Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.
-  - >-
-    Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack.
+- 'Mana on Buff Received: This character has a 50% chance to gain 10% mana when they
+  receive a buff or possitive stack.'
+- 'Health Recovery on Buff Received: This character has a 50% chance to recover 10%
+  health when they receive a buff or possitve stack.'
 image: https://i.imgur.com/zNMCJKX.jpg
+...

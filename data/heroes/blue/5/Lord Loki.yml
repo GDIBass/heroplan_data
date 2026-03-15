@@ -1,3 +1,4 @@
+---
 name: Lord Loki
 source: season3
 family: jotunheim
@@ -9,15 +10,18 @@ defense: 743
 health: 1312
 skill: Trickster's Mischief
 effects:
-  - Copies target's Special Skill and uses it as if it was the caster's own Special Skill.
-  - If the target does not have a Special Skill or it can't be copied, the following special skill will be cast
-  - 'Villain Swing:'
-  - ' * Deals 275% damage to the target'
+- Copies target's Special Skill and uses it as if it was the caster's own Special
+  Skill.
+- If the target does not have a Special Skill or it can't be copied, the following
+  special skill will be cast
+- 'Villain Swing:'
+- ' * Deals 275% damage to the target'
 types:
-  - Copy Special
-  - Hit 1
+- Copy Special Skill
+- Hit 1
 image: https://i.imgur.com/eGy2uqe.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 986
@@ -26,12 +30,16 @@ costume:
   health: 1721
   skill: Shapeshifter's Deception
   effects:
-    - Copies all dispellable buffs from the target.
-    - Copies target's Special Skill and uses it in addition to the caster's own Special Skill.
-    - "If the target does not have a Special Skill, or it can't be copied, the following Special Skill will be cast:"
-    - 'Scoundrel Swing:'
-    - ' * Deals 265% damage to the target.'
+  - Copies all dispellable buffs from the target.
+  - Copies target's Special Skill and uses it in addition to the caster's own Special
+    Skill.
+  - 'If the target does not have a Special Skill, or it can''t be copied, the following
+    Special Skill will be cast:'
+  - 'Scoundrel Swing:'
+  - ' * Deals 265% damage to the target.'
   types:
-    - Copy Special
-    - Hit 1
+  - Copy Buffs
+  - Copy Special Skill
+  - Hit 1
   image: https://i.imgur.com/aEGEu4Y.jpg
+...
