@@ -1,3 +1,4 @@
+---
 name: Odin
 source: season3
 family: midgard
@@ -9,26 +10,32 @@ defense: 751
 health: 1330
 skill: Fury of Grimnir
 effects:
-  - Deals 100% damage to all enemies.
-  - Deals additional 18% damage per each Holy shield on the board, up to 244% damage in total
-  - All allies get +8% mana generation, and a further 2% increase per each Holy shield on the board for 3 turns, up to +28% mana generation
+- Deals 100% damage to all enemies.
+- Deals additional 18% damage per each Holy shield on the board, up to 244% damage
+  in total
+- All allies get +8% mana generation, and a further 2% increase per each Holy shield
+  on the board for 3 turns, up to +28% mana generation
 types:
-  - Hit All
-  - Mana Generation Buff
+- Hit All
+- Mana Generation Buff All
 image: https://i.imgur.com/WpdZnYI.jpg
 costume:
-  class: Fighter
+  design: costume1
   bonuses: 5/5/10/5
+  class: Fighter
   power: 986
   attack: 956
   defense: 977
   health: 1810
   skill: Rage of Grimnir
   effects:
-    - Deals 90% damage to all enemies.
-    - Deals additional 25% damage per each Holy shield on the board, up to 290% damage in total
-    - All allies get +8% mana generation, and a further 3% increase per each Holy shield on the board for 3 turns, up to +38% mana generation
+  - Deals 90% damage to all enemies.
+  - Deals additional 25% damage per each Holy shield on the board, up to 290% damage
+    in total
+  - All allies get +8% mana generation, and a further 3% increase per each Holy shield
+    on the board for 3 turns, up to +38% mana generation
   types:
-    - Hit All
-    - Mana Generation Buff
+  - Hit All
+  - Mana Generation Buff All
   image: https://i.imgur.com/guLxDJt.jpg
+...

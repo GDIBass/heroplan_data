@@ -1,3 +1,4 @@
+---
 name: Vanda
 source: morlovia
 family: morlovia
@@ -9,18 +10,20 @@ defense: 735
 health: 1384
 skill: Twilight of Sorrow
 effects:
-  - Deals 125% damage to all enemies.
-  - The caster steals 61% of any healing applied to all enemies for 2 turns.
-  - All allies are immune to new status ailments for 2 turns.
+- Deals 125% damage to all enemies.
+- The caster steals 61% of any healing applied to all enemies for 2 turns.
+- All allies are immune to new status ailments for 2 turns.
 types:
-  - Hit All
-  - Health Steal
-  - Status Ailment Immunity
+- Hit All
+- Health Steal All
+- Status Ailment Immunity All
 passives:
-  - >-
-    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+- 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+  to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
+  has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/FsFObHs.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 1140
@@ -29,14 +32,16 @@ costume:
   health: 2148
   skill: Twilight of Ruin
   effects:
-    - Deals 115% damage to all enemies.
-    - The caster steals 51% of any healing applied to all enemies for 3 turns.
-    - All allies are immune to new status ailments for 3 turns.
+  - Deals 115% damage to all enemies.
+  - The caster steals 51% of any healing applied to all enemies for 3 turns.
+  - All allies are immune to new status ailments for 3 turns.
   types:
-    - Hit All
-    - Healing Steal
-    - Status Ailment Immunity All
+  - Hit All
+  - Healing Steal All
+  - Status Ailment Immunity All
   passives:
-    - >-
-      Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+  - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+    to steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/yADk9kZ.jpg
+...

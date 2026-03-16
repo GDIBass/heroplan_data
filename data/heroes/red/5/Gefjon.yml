@@ -1,3 +1,4 @@
+---
 name: Gefjon
 source: season3
 family: muspelheim
@@ -9,13 +10,14 @@ defense: 766
 health: 1258
 skill: Maiden's Command
 effects:
-  - Steals minions from the target.
-  - Deals 500% damage to the target.
+- Steals minions from the target.
+- Deals 500% damage to the target.
 types:
-  - Steals Minions 1
-  - Hit 1
+- Steals Minions 1
+- Hit 1
 image: https://i.imgur.com/BYGrEEN.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 983
@@ -24,9 +26,11 @@ costume:
   health: 1729
   skill: Maiden's Orders
   effects:
-    - Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.
-    - Deals 335% damage to the target and nearby enemies.
+  - Destroys all Minions from the target and nearby enemies. This effect damages Mega
+    Minions.
+  - Deals 335% damage to the target and nearby enemies.
   types:
-    - Destroys Mega/Minions
-    - Hit 3
+  - Destroys Mega/Minions 1
+  - Hit 3
   image: https://i.imgur.com/ZoOkEJb.jpg
+...

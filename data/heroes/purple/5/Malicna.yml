@@ -24,11 +24,11 @@ effects:
 - Element Link gives all Dark allies small amount of mana at the end of the turn for
   4 turns. This effect can't be dispelled
 types:
-- Gambler
 - Hit 3
+- Gambler
 passives:
-- 'Resist Health Steal Ailments: This character has innate resistance against status
-  ailments that steal health.'
+- 'Resist Health Steal Ailments: This character is immune to status ailments that
+  steal health.'
 - 'Status Effect on Mana Reduction: This character gets +94% defense against Holy
   for 3 turns when their mana is reduced.'
 image: https://i.imgur.com/ZMAYhxa.jpg

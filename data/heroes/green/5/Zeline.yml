@@ -1,6 +1,7 @@
+---
 name: Zeline
 source: hotm
-family: 2018
+family: "2018"
 speed: Fast
 class: Wizard
 power: 768
@@ -9,17 +10,19 @@ defense: 688
 health: 1308
 skill: Emerald Flash
 effects:
-  - Deals 255% damage to all enemies
-  - All enemies get -34% attack for 4 turns
-  - Deals extra damage against Ice
-  - Dispels buffs from all enemies
-  - Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled.
+- Deals 255% damage to all enemies.
+- All enemies get -34% attack for 4 turns.
+- Deals extra damage against Ice.
+- Dispels buffs from all enemies.
+- Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This
+  effect can't be dispelled.
 types:
-  - Hit All
-  - Attack Debuff
-  - Dispeller
+- Hit All
+- Attack Debuff All
+- Dispeller All
 image: https://i.imgur.com/lrpsqzO.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 975
@@ -28,16 +31,18 @@ costume:
   health: 1908
   skill: Plume Flash
   effects:
-    - Dispels buffs from all enemies.
-    - Deals 240% damage to all enemies.
-    - All enemies get -38% attack for 4 turns.
-    - Deals extra damage against Ice 
-    - Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled.
+  - Dispels buffs from all enemies.
+  - Deals 240% damage to all enemies.
+  - All enemies get -38% attack for 4 turns.
+  - Deals extra damage against Ice
+  - Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This
+    effect can't be dispelled.
   types:
-    - Dispeller
-    - Hit All
-    - Attack Debuff
+  - Dispeller All
+  - Hit All
+  - Attack Debuff All
   passives:
-    - >-
-      Cleanse on Special Skill: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
+  - 'Cleanse on Special Skill: When this character casts their Special Skill, they
+    cleanse the newest status ailment from all allies.'
   image: https://i.imgur.com/QJNIkdZ.jpg
+...

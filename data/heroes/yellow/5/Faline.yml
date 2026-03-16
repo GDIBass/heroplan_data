@@ -1,3 +1,4 @@
+---
 name: Faline
 source: starfall
 family: starfall
@@ -9,9 +10,10 @@ defense: 751
 health: 1394
 skill: Chakram Kick
 effects:
-  - Deals 330% daamage to the target and nearby enemies.
-  - The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns.
+- Deals 330% damage to the target and nearby enemies.
+- The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns.
 types:
-  - Hit 3
-  - Mana Generation Debuff 1
+- Hit 3
+- Mana Generation Debuff 1
 image: https://i.imgur.com/8rLI8nK.jpg
+...

@@ -1,6 +1,7 @@
+---
 name: Zocc
 source: hotm
-family: 2020
+family: "2020"
 speed: Average
 class: Rogue
 power: 775
@@ -9,14 +10,17 @@ defense: 725
 health: 1351
 skill: Keyknife Typhoon
 effects:
-  - Deals 320% damage to the target
-  - Increases the mana of the target by 50%
-  - The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.
-  - Element Link gives all Nature allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled.
+- Deals 320% damage to the target
+- Increases the mana of the target by 50%
+- The target automatically casts Mindless Attack on a random ally when mana is full
+  at the start of a turn during 3 turns.
+- Element Link gives all Nature allies +30% defense against Special Skills for 4 turns.
+  This effect can't be dispelled.
 types:
-  - Hit 1
-  - Mindless Attack
+- Hit 1
+- Mana Boosts 1
+- Mindless Attack 1
 passives:
-  - >-
-    Resist Water Damage: This character has an innate resistance against Water damage.
+- 'Resist Water: This character is immune to status ailments that deal Water damage.'
 image: https://i.imgur.com/XA1fhlp.jpg
+...

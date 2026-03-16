@@ -16,8 +16,8 @@ effects:
 - Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect
   can't be dispelled.
 types:
-- Dot 1
-- Mana Generation Debuff
+- DoT 1
+- Mana Generation Debuff 1
 image: https://i.imgur.com/vuOEJDC.jpg
 costume:
   design: costume1
@@ -36,7 +36,7 @@ costume:
     effect can't be displelled.
   types:
   - Dot 1
-  - Mana Generation Debuff
+  - Mana Generation Debuff 1
   passives:
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
     dispel the newest status effect buff from all enemies.'

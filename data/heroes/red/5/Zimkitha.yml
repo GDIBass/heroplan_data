@@ -1,6 +1,7 @@
+---
 name: Zimkitha
 source: hotm
-family: 2018
+family: "2018"
 speed: Fast
 class: Druid
 power: 769
@@ -9,16 +10,18 @@ defense: 681
 health: 1454
 skill: Dawn Strike
 effects:
-  - Deals 215% damage to all enemies.
-  - All allies get +30% attack for 4 turns.
-  - Cleanses status ailments from all allies.
-  - Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't be cleansed.
+- Deals 215% damage to all enemies.
+- All allies get +30% attack for 4 turns.
+- Cleanses status ailments from all allies.
+- Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't
+  be cleansed.
 types:
-  - Hit All
-  - Attack Buff
-  - Cleanser
+- Hit All
+- Attack Buff All
+- Cleanser All
 image: https://i.imgur.com/ZnoCx4D.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 979
@@ -27,14 +30,16 @@ costume:
   health: 2080
   skill: Morning Catch
   effects:
-    - Dispels buffs from all enemies.
-    - Deals 240% damage to all enemies.
-    - Deals additional 15% damage per removed status effect, up to 420% damage in total.
-    - Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't be dispelled.
+  - Dispels buffs from all enemies.
+  - Deals 240% damage to all enemies.
+  - Deals additional 15% damage per removed status effect, up to 420% damage in total.
+  - Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't
+    be dispelled.
   types:
-    - Dispeller
-    - Hit all
+  - Dispeller All
+  - Hit All
   passives:
-    - >-
-      Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies.
+  - 'Dispel on Special Skill: When this character casts their Special Skill, they
+    dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/M65Mn9a.jpg
+...

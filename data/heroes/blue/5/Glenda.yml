@@ -1,6 +1,7 @@
+---
 name: Glenda
 source: hotm
-family: 2020
+family: "2020"
 speed: Average
 class: Wizard
 power: 780
@@ -9,14 +10,18 @@ defense: 723
 health: 1361
 skill: Midnight Magic
 effects:
-  - Deals 330% damage to the target and nearby enemies.
-  - The caster and nearby allies' Special Skills deal an additional +40% damage for 4 turns.
-  - Cleanses status ailements from all allies.
-  - Element Link summons an Ice Minion for all Ice allies with 6% HP and 10% attack inherited from the caster.
+- Deals 330% damage to the target and nearby enemies.
+- The caster and nearby allies' Special Skills deal an additional +40% damage for
+  4 turns.
+- Cleanses status ailements from all allies.
+- Element Link summons an Ice Minion for all Ice allies with 6% HP and 10% attack
+  inherited from the caster.
 types:
-  - Hit 3
-  - Cleanser All
+- Hit 3
+- Boost SS Damage Buff 3
+- Cleanser All
 passives:
-  - >-
-    Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs.
+- 'Resist Buff Blocking: This character is immune to effects that would block them
+  from receiving new status effect buffs.'
 image: https://i.imgur.com/25WLFwN.jpg
+...

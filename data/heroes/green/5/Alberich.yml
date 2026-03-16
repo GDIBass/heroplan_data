@@ -1,6 +1,7 @@
+---
 name: Alberich
 source: hotm
-family: 2017
+family: "2017"
 speed: Slow
 class: Druid
 power: 765
@@ -9,16 +10,18 @@ defense: 741
 health: 1277
 skill: Midsummer's Dream
 effects:
-  - Each fallen ally has a 33% chance to get revived with 23% HP.
-  - All allies regenerate 712 HP over 4 turns.
-  - All allies regenerate a moderate amount of mana over 4 turns.
-  - Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled.
+- Each fallen ally has a 33% chance to get revived with 23% HP.
+- All allies regenerate 712 HP over 4 turns.
+- All allies regenerate a moderate amount of mana over 4 turns.
+- Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This
+  effect can't be dispelled.
 types:
-  - Reviver
-  - HoT
-  - MoT
+- Reviver
+- HoT All
+- MoT All
 image: https://i.imgur.com/0IebpZg.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 970
@@ -27,15 +30,18 @@ costume:
   health: 1871
   skill: Midsummer's Reverie
   effects:
-    - Each fallen ally has a 38% chance to get revived with 28% HP.
-    - All allies regenerate 648 HP over 4 turns.
-    - All allies ge +38% mana generation for 4 turns.
-    - Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled.
+  - Each fallen ally has a 38% chance to get revived with 28% HP.
+  - All allies regenerate 648 HP over 4 turns.
+  - All allies get +38% mana generation for 4 turns.
+  - Element Link gives all Nature allies +15% attack and +15 defense for 6 turns.
+    This effect can't be dispelled.
   types:
-    - Reviver
-    - HoT
-    - MoT
+  - Reviver
+  - HoT All
+  - Mana Generation Buff All
+  - MoT All
   passives:
-    - >-
-      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
+  - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
+    the newest status ailment from all allies.'
   image: https://i.imgur.com/qgThGvZ.jpg
+...

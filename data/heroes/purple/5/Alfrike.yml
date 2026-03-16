@@ -17,7 +17,7 @@ effects:
 - Enemies hit automatically casts Mindless Attack on a random ally when mana is full
   at the start of a turn during 3 turns.
 types:
-- Hit 5
+- Hit Random 5
 - Max Health Reduction on hit
 - Mindless Attack on hit
 image: https://i.imgur.com/O54lA6V.jpg
@@ -39,7 +39,7 @@ costume:
   - Enemies hit automatically casts Mindless Attack on a random ally when mana is
     full at the start of a turn during 3 turns.
   types:
-  - Hit 5
+  - Hit Random 5
   - Max Health Reduction on hit
   - Mindless Attack on hit
   image: https://i.imgur.com/2AJeAry.jpg

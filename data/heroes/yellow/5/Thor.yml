@@ -1,3 +1,4 @@
+---
 name: Thor
 source: season3
 family: midgard
@@ -9,21 +10,25 @@ defense: 735
 health: 1394
 skill: Power of Mjolnir
 effects:
-  - "Special Skill has a different effect on consecutive uses, in the following order:"
-  - '1st:'
-  - ' * Deals 280% damage to the target.'
-  - ' * The target get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
-  - '2nd:'
-  - ' * Deals 280% damage to the target and nearby enemies.'
-  - ' * The target and nearby enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
-  - '3rd:'
-  - ' * Deals 280% damage to all enemies.'
-  - ' * All enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
+- 'Special Skill has a different effect on consecutive uses, in the following order:'
+- '1st:'
+- ' * Deals 280% damage to the target.'
+- ' * The target get -40% accuracy for 3 turns.  Chance to miss also applies to offensive
+  special skills'
+- '2nd:'
+- ' * Deals 280% damage to the target and nearby enemies.'
+- ' * The target and nearby enemies get -40% accuracy for 3 turns.  Chance to miss
+  also applies to offensive special skills'
+- '3rd:'
+- ' * Deals 280% damage to all enemies.'
+- ' * All enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive
+  special skills'
 types:
-  - Hit All
-  - Blind
+- Hit 1/3/All
+- Blind 1/3/All
 image: https://i.imgur.com/Cls9o26.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 986
@@ -32,17 +37,21 @@ costume:
   health: 1929
   skill: Energy of Mjolnir
   effects:
-    - "Special Skill has a different effect on consecutive uses, in the following order:"
-    - '1st:'
-    - ' * Deals 185% damage to all enemies.'
-    - ' * All enemies get -25% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
-    - '2nd:'
-    - ' * Deals 260% damage to all enemies.'
-    - ' * All enemies get -35% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
-    - '3rd:'
-    - ' * Deals 290% damage to all enemies.'
-    - ' * All enemies get -54% accuracy for 3 turns.  Chance to miss also applies to offensive special skills'
+  - 'Special Skill has a different effect on consecutive uses, in the following order:'
+  - '1st:'
+  - ' * Deals 185% damage to all enemies.'
+  - ' * All enemies get -25% accuracy for 3 turns.  Chance to miss also applies to
+    offensive special skills'
+  - '2nd:'
+  - ' * Deals 260% damage to all enemies.'
+  - ' * All enemies get -35% accuracy for 3 turns.  Chance to miss also applies to
+    offensive special skills'
+  - '3rd:'
+  - ' * Deals 290% damage to all enemies.'
+  - ' * All enemies get -54% accuracy for 3 turns.  Chance to miss also applies to
+    offensive special skills'
   types:
-    - Hit All
-    - Blind
+  - Hit All
+  - Blind All
   image: https://i.imgur.com/LYyDsUh.jpg
+...

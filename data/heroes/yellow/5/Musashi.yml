@@ -1,6 +1,7 @@
+---
 name: Musashi
 source: hotm
-family: 2017
+family: "2017"
 speed: Fast
 class: Rogue
 power: 764
@@ -9,14 +10,16 @@ defense: 679
 health: 1248
 skill: Dragon Fang
 effects:
-  - Deals 362% damage to the target and minor damage to nearby enemies
-  - The caster heals 50% of dealt normal damage for 5 turns.
-  - Elemental Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can't be displelled.
+- Deals 362% damage to the target and minor damage to nearby enemies
+- The caster heals 50% of dealt normal damage for 5 turns.
+- Elemental Link gives all Holy allies +15% attack and +15% defense for 6 turns. This
+  effect can't be displelled.
 types:
-  - Hit 3
-  - Self Heal
+- Hit 3
+- Heal Self
 image: https://i.imgur.com/1PxVmlq.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
   power: 969
@@ -25,13 +28,15 @@ costume:
   health: 1821
   skill: Rod of Freedom
   effects:
-    - Deals 350% damage to the target and minor damage to nearby enemies.
-    - The caster heals 75% of dealt normal damage for 5 turns.
-    - Elemental Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled.
+  - Deals 350% damage to the target and minor damage to nearby enemies.
+  - The caster heals 75% of dealt normal damage for 5 turns.
+  - Elemental Link gives all Holy allies +15% attack and +15% defense for 6 turns.
+    This effect can't be dispelled.
   types:
-    - Hit 3
-    - Self Heal
+  - Hit 3
+  - Heal Self
   passives:
-    - >-
-      Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies.
+  - 'Dispel on Special Skill: When this character casts their Special Skill, they
+    dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/dt3i5jN.jpg
+...

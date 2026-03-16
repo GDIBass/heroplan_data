@@ -16,7 +16,7 @@ effects:
 types:
 - Dispeller 1
 - Hit 1
-- Elemental Debuff 1
+- Elemental Defense Debuff 1
 passives:
 - 'Special Skill Damage Reduction: Received damage from Special Skills is reduced
   by -20% for this character.'
@@ -37,7 +37,7 @@ costume:
   types:
   - Dispeller 1
   - Hit 1
-  - Elemental Debuff 1
+  - Elemental Defense Debuff 1
   passives:
   - 'Special Skill Damage Reduction: Received damage from Special Skills is reduced
     by -20% for this character.'

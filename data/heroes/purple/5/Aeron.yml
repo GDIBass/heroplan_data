@@ -1,6 +1,7 @@
+---
 name: Aeron
 source: hotm
-family: 2018
+family: "2018"
 speed: Average
 class: Monk
 power: 768
@@ -9,16 +10,19 @@ defense: 712
 health: 1341
 skill: Nethershield
 effects:
-  - All allies regenerate 1150 HP over 5 turns.
-  - The caster and nearby allies are immune to new status ailments for 5 turns. This effect can't be dispelled.
-  - Cleanses status ailments from the caster and nearby allies.
-  - Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns. This effect can't be dispelled.
+- All allies regenerate 1150 HP over 5 turns.
+- The caster and nearby allies are immune to new status ailments for 5 turns. This
+  effect can't be dispelled.
+- Cleanses status ailments from the caster and nearby allies.
+- Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns. This
+  effect can't be dispelled.
 types:
-  - HoT All
-  - Status Ailment Immunity 3
-  - Cleanser 3
+- HoT All
+- Status Ailment Immunity 3
+- Cleanser 3
 image: https://i.imgur.com/9AxepJ9.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 976
@@ -27,13 +31,16 @@ costume:
   health: 1976
   skill: Voidshield
   effects:
-    - Recovers 47% health for all allies.
-    - Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.
-    - Element Link gives all Dark allies +5% attack and +5% defense for 6 turns. Can't be dispelled.
+  - Recovers 47% health for all allies.
+  - Lifts all cleansable status ailments from the caster and nearby allies and randomly
+    distributes them on enemies.
+  - Element Link gives all Dark allies +5% attack and +5% defense for 6 turns. Can't
+    be dispelled.
   types:
-    - Healer All
-    - Lifts Ailments 3
+  - Healer All
+  - Lifts Ailments 3
   passives:
-    - >-
-      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
+  - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
+    the newest status ailment from all allies.'
   image: https://i.imgur.com/WvBRV3O.jpg
+...

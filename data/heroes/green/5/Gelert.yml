@@ -39,7 +39,7 @@ costume:
   attack: 1331
   defense: 1095
   health: 2264
-  skill: ""
+  skill: Scavenging Dash
   effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'

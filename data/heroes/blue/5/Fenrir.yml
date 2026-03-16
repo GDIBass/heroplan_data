@@ -1,3 +1,4 @@
+---
 name: Fenrir
 source: season3
 family: niflheim
@@ -9,16 +10,18 @@ defense: 737
 health: 1297
 skill: Gargantuan Bite
 effects:
-  - Deals 320% damage to the target.
-  - Deals 640% damage if the target has less than 50% health remaining.
-  - The caster gains a moderate amount of mana for each enemy killed and a small amount of mana for each enemy minion killed.
-  - Heals the caster for 50% of damage dealt.
+- Deals 320% damage to the target.
+- If the target has less than 50% health remaining, deals 640% damage instead.
+- The caster gains a moderate amount of mana for each enemy defeated and a small amount
+  of mana for each enemy Minion destroyed.
+- Heals the caster for 50% of damage dealt.
 types:
-  - Hit 1
-  - Mana boost on kill
-  - Self Heal
+- Hit 1
+- Mana Boost on kill
+- Heal Self
 image: https://i.imgur.com/jTbJkeI.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
   power: 982
@@ -27,12 +30,14 @@ costume:
   health: 1734
   skill: Colossal Bite
   effects:
-    - Deals 350% damage to the target.
-    - Deals 700% damage if the target has less than 50% health remaining.
-    - The caster recovers 35% health for each enemy killed and 15% health for each enemy Minion killed.
-    - Increases the mana of the caster by 15%.
+  - Deals 350% damage to the target.
+  - Deals 700% damage if the target has less than 50% health remaining.
+  - The caster recovers 35% health for each enemy killed and 15% health for each enemy
+    Minion killed.
+  - Increases the mana of the caster by 15%.
   types:
-    - Hit 1
-    - Self heal
-    - Self Mana Boost
+  - Hit 1
+  - Heal Self
+  - Boost Mana Self
   image: https://i.imgur.com/ZPobGZa.jpg
+...

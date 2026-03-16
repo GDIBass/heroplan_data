@@ -1,3 +1,4 @@
+---
 name: Skadi
 source: season3
 family: jotunheim
@@ -9,18 +10,19 @@ defense: 793
 health: 1411
 skill: Iceberg Crush
 effects:
-  - Deals 220% damage to all enemies.
-  - The damage is increased by 50% per each dead enemy.
-  - >-
-    Stack (Max: 10): All enemies receive 35 Frost damage per each killed enemy or enemy minion at the end of each turn.
-  - >-
-    Stack (Max: 10): All enemies get -6% mana generation per each killed enemy or enemy minion.
+- Deals 220% damage to all enemies.
+- The damage is increased by 50% per each defeated enemy.
+- 'Stack (Max: 10): All enemies receive 30 Frost damage per each defeated enemy or
+  enemy minion at the end of each turn.'
+- 'Stack (Max: 10): All enemies get -6% mana generation per each killed enemy or enemy
+  minion.'
 types:
-  - Hit All
-  - DoT Stack
-  - Mana Generation Debuff Stack
+- Hit All
+- DoT Stack All on enemy/minion defeated
+- Mana Generation Debuff Stack All on enemy/minion defeated
 image: https://i.imgur.com/MzjdnYC.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 987
@@ -29,14 +31,15 @@ costume:
   health: 1865
   skill: Iceberg Havoc
   effects:
-    - Deals 320% damage to the target and nearby enemies.
-    - The damage is increased by 35% per each dead enemy.
-    - >-
-      Stack (Max: 10): All enemies receive 54 Frost damage per each killed enemy or enemy Minion at the end of each turn.
-    - >-
-      Stack (Max: 10): All enemies get -7% mana generation per each killed enemy or enemy Minion.
+  - Deals 320% damage to the target and nearby enemies.
+  - The damage is increased by 35% per each dead enemy.
+  - 'Stack (Max: 10): All enemies receive 54 Frost damage per each killed enemy or
+    enemy Minion at the end of each turn.'
+  - 'Stack (Max: 10): All enemies get -7% mana generation per each killed enemy or
+    enemy Minion.'
   types:
-    - Hit 3
-    - DoT Stack
-    - Mana Generation Debuff Stack
+  - Hit 3
+  - DoT Stack All on enemy/minion defeated
+  - Mana Generation Debuff Stack All on enemy/minion defeated
   image: https://i.imgur.com/SWH0vbH.jpg
+...

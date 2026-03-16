@@ -1,6 +1,7 @@
+---
 name: Zulag
 source: hotm
-family: 2020
+family: "2020"
 speed: Average
 class: Paladin
 power: 778
@@ -9,14 +10,16 @@ defense: 782
 health: 1433
 skill: Robust Ward
 effects:
-  - The caster and nearby allies regenerate 852 HP over 4 turns
-  - The caster and nearby allies get +46% defense for 4 turns
-  - The caster and nearby allies get +74% defense against special skills for 4 turns.
-  - Element Link summons a Dark Minion for all Dark allies with 6% HP and 10% attack inherited from the caster
+- The caster and nearby allies regenerate 852 HP over 4 turns
+- The caster and nearby allies get +46% defense for 4 turns
+- The caster and nearby allies get +74% defense against special skills for 4 turns.
+- Element Link summons a Dark Minion for all Dark allies with 6% HP and 10% attack
+  inherited from the caster
 types:
-  - HoT 3
-  - Defense Buff
+- HoT 3
+- Defense Buff 3
+- SS Defense Buff 3
 passives:
-  - >-
-    Resist Sand Damage: This character has innate resistance against Sand damage.
+- 'Resist Sand: This character is immune to status ailments that deal Sand damage.'
 image: https://i.imgur.com/oEPqMWI.jpg
+...
