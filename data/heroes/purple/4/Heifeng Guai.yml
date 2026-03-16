@@ -1,3 +1,4 @@
+---
 name: Heifeng Guai
 source: kingdom
 family: journey
@@ -9,10 +10,12 @@ defense: 624
 health: 1379
 skill: Black Tassel Spear Sting
 effects:
-  - Deals 285% damage to target
-  - The duration of dispellable status ailments is reset for the target.
-  - The target gets -35% defense for 3 turns.
+- Deals 285% damage to target.
+- The duration of dispellable status ailments is reset for the target.
+- The target gets -35% defense for 3 turns.
 types:
-  - Hit 1
-  - Defense Down
+- Hit 1
+- Status Ailments reset 1
+- Defense Debuff 1
 image: https://i.imgur.com/cY9fvY1.jpg
+...

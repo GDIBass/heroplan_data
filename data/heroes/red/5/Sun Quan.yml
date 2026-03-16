@@ -35,12 +35,12 @@ costume:
   - The target hit by Wu Soldier Minion receives 543 Burn damage over 3 turns.
   types:
   - Hit 3
-  - Summoner
+  - Summoner All
   - Minions with DoT
   passives:
   - 'Unstoppable Minions:'
-  - ' * Resistance against Minion removal.'
+  - ' * Immune to effects that remove Minions.'
   - ' * Can''t be prevented from receiving Minions.'
-  - ' * Minion attack and abilities can''t be disabled.'
+  - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/FrxOT5n.jpg
 ...

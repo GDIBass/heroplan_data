@@ -16,7 +16,7 @@ effects:
 - Each time a Lackey Minion hits an enemy, it steals a random dispellable buff from
   the enemy and gives it to its owner.
 types:
-- Heal All
+- Healer All
 - Summoner 3
 - Buff Stealing Minion
 image: https://i.imgur.com/PBEksgr.jpg
@@ -36,13 +36,13 @@ costume:
   - Each time a Lackey Minion hits an enemy, it steals a random dispellable buff from
     the enemy and gives it to its owner.
   types:
-  - Healer
+  - Healer All
   - Summoner 3
   - Buff Stealing Minion
   passives:
   - 'Unstoppable Minions:'
-  - ' * Resistance against Minion removal.'
-  - ' * Can''t be prevented from receiving minions.'
+  - ' * Immune to effects that remove Minions.'
+  - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/ZWN9v1V.jpg
 ...

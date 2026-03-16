@@ -1,3 +1,4 @@
+---
 name: Baishu
 source: lunaryear
 family: lunaryear
@@ -9,14 +10,16 @@ defense: 1120
 health: 2160
 skill: Masterful Balance
 effects:
-  - Steals the latest status effect buff from all enemies and randomly distributes them on allies.
-  - If no buffs were succesfully stolen, deal 200% damage to all enemies.
-  - Lifts the latest status ailment from all allies and randomly distributes them on enemies.
-  - If no ailments were succesfully distributed, deals 200% damage to all enemies.
+- Steals the latest status effect buff from all enemies and randomly distributes them
+  on allies.
+- If no buffs were succesfully stolen, deal 200% damage to all enemies.
+- Lifts the latest status ailment from all allies and randomly distributes them on
+  enemies.
+- If no ailments were succesfully distributed, deals 200% damage to all enemies.
 types:
-  - Steals 1 Buff All or Hit All
-  - Lifts 1 Ailment All or Hit All
+- Steals 1 Buff All or Hit All
+- Lifts 1 Ailment All or Hit All
 passives:
-  - >-
-    Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled.
+- 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/hMx4yq8.jpg
+...

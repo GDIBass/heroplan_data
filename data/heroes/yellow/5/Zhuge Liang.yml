@@ -47,8 +47,8 @@ costume:
   - Fiend Summoner All
   passives:
   - 'Unstoppable Minions:'
-  - ' * Resistance against Minion removal.'
-  - ' * Can''t be prevented from receiving minions.'
+  - ' * Immune to effects that remove Minions.'
+  - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/zdjoPv7.jpg
 ...

@@ -15,6 +15,7 @@ effects:
 - Target and nearby enemies receive 936 Poison damage over 3 turns. This effect can't
   be cleansed.
 types:
+- SS Ignores Dodge
 - Dispeller 3
 - DoT 3
 passives:

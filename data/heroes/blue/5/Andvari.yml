@@ -41,7 +41,7 @@ costume:
   attack: 1257
   defense: 1320
   health: 2518
-  skill: Saga of Restoratio
+  skill: Saga of Restoration
   effects:
   - Destroys all Minions from all enemies and damages Mega Minions.
   - Destroys all Fiends from all allies and damages all Mega Fiends.
