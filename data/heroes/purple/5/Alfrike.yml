@@ -1,3 +1,4 @@
+---
 name: Alfrike
 source: season3
 family: svartalfheim
@@ -9,16 +10,19 @@ defense: 844
 health: 1421
 skill: Cube of Dark Realm
 effects:
-  - Deals 200% damage to hit targets.
-  - Casts 5 Dark Cubes to random enemies.
-  - Dark Cube reduces max health from the target by 224. Max health can't get lower than 30% of the original max health.
-  - Enemies hit automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.
+- Deals 200% damage to hit targets.
+- Casts 5 Dark Cubes to random enemies.
+- Dark Cube reduces max health from the target by 224. Max health can't get lower
+  than 30% of the original max health.
+- Enemies hit automatically casts Mindless Attack on a random ally when mana is full
+  at the start of a turn during 3 turns.
 types:
-  - Hit 5
-  - Health Reduction
-  - Mindless Attack
+- Hit 5
+- Max Health Reduction on hit
+- Mindless Attack on hit
 image: https://i.imgur.com/O54lA6V.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 991
@@ -27,12 +31,16 @@ costume:
   health: 1921
   skill: Cavalier Hat of Dark Realm
   effects:
-    - Deals 240% damage to hit targets.
-    - Casts 5 Dark Cubes to random enemies.
-    - Dark Cube reduces max health from the target by 184. This effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 184.
-    - Enemies hit automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.
+  - Deals 240% damage to hit targets.
+  - Casts 5 Dark Cubes to random enemies.
+  - Dark Cube reduces max health from the target by 184. This effect is stronger against
+    targets with boosted health. Max health can't get lower than 30% of the original
+    max health. Any boosted health is reduced by an additional 184.
+  - Enemies hit automatically casts Mindless Attack on a random ally when mana is
+    full at the start of a turn during 3 turns.
   types:
-    - Hit 5
-    - Health Reduction
-    - Mindless Attack
+  - Hit 5
+  - Max Health Reduction on hit
+  - Mindless Attack on hit
   image: https://i.imgur.com/2AJeAry.jpg
+...

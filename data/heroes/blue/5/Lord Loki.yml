@@ -17,7 +17,7 @@ effects:
 - 'Villain Swing:'
 - ' * Deals 275% damage to the target'
 types:
-- Copy Special Skill
+- Copy Special Skill 1
 - Hit 1
 image: https://i.imgur.com/eGy2uqe.jpg
 costume:
@@ -38,8 +38,8 @@ costume:
   - 'Scoundrel Swing:'
   - ' * Deals 265% damage to the target.'
   types:
-  - Copy Buffs
-  - Copy Special Skill
+  - Copy Buffs 1
+  - Copy Special Skill 1
   - Hit 1
   image: https://i.imgur.com/aEGEu4Y.jpg
 ...
