@@ -39,7 +39,7 @@ costume:
   types:
   - Minion Destroyer 1
   - Hit 1
-  - Self Boosted HoT
+  - Boosted HoT Self
   passives:
   - 'Resist Defense Ailments: This character is immune to status ailments and negative
     stacks that affect defense. Doesn''t apply to status ailments that affect elemental

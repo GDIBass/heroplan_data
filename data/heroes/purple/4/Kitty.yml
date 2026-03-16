@@ -42,7 +42,7 @@ costume:
   types:
   - Boosted Healer All
   - Reflect Ailments All
-  - Self SS Defense Buff
+  - SS Defense Buff Self
   passives:
   - 'Resist Defense Ailments: This character is immune to status ailments and negative
     stacks that affect defense. Doesn''t apply to status ailments that affect elemental

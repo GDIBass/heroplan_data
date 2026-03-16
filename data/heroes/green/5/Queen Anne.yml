@@ -17,7 +17,7 @@ effects:
 - All allies get +44% mana generation for 6 turns.
 types:
 - Taunt
-- Self HoT
+- HoT Self
 - Defense Buff All
 - Mana Generation Buff All
 passives:

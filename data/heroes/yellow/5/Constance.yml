@@ -15,6 +15,8 @@ effects:
   the attacker for 100 damage.
 types:
 - Hit All
+- Dodge Chance Buff All
+- Damage attacker on dodge
 passives:
 - 'Damage on Special Skill and Cover Damage: When this character receives damage from
   Special Skills or in place of a character in Cover, there''s a 60% chance to deal

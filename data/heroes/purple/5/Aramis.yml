@@ -43,7 +43,7 @@ costume:
   - Hit 3
   - Damage Boosted Heal All
   - Status Ailment Immunity All
-  - Self Damage Reduction Buff
+  - Damage Reduction Buff Self
   passives:
   - 'Resist Defense Ailments: This character is immune to status ailments and negative
     stacks that affect defense. Doesn''t apply to status ailments that affect elemental
