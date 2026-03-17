@@ -1,3 +1,4 @@
+---
 name: Ariel
 source: season2
 family: atlantis
@@ -9,15 +10,16 @@ defense: 768
 health: 1260
 skill: Divine Protection
 effects:
-  - Recovers 40% health for all allies.
-  - All allies get +24% mana generation for 4 turns.
-  - Cleanses status ailments from all allies.
+- Recovers 40% health for all allies.
+- All allies get +24% mana generation for 4 turns.
+- Cleanses status ailments from all allies.
 types:
-  - Healer All
-  - Mana Generation Buff All
-  - Cleanser All
+- Healer All
+- Mana Generation Buff All
+- Cleanser All
 image: https://i.imgur.com/WWzsu8l.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 942
@@ -26,11 +28,12 @@ costume:
   health: 1622
   skill: Deep Sea Ritual
   effects:
-    - Boosts health of all allies by 520. Boosted health can exceed max HP.
-    - All allies regenerate a moderate amount of mana over 4 turns.
-    - Cleanses status ailments from all allies.
+  - Boosts health of all allies by 520. Boosted health can exceed max HP.
+  - All allies regenerate a moderate amount of mana over 4 turns.
+  - Cleanses status ailments from all allies.
   types:
-    - Boosted Health All
-    - MoT All
-    - Cleanser All
+  - Boosted Health All
+  - MoT All
+  - Cleanser All
   image: https://i.imgur.com/gRSAJUL.jpg
+...

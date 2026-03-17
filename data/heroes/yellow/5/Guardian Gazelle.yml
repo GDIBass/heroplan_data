@@ -1,6 +1,7 @@
+---
 name: Guardian Gazelle
 source: teltoc
-family: guardiansteltoc 
+family: guardiansteltoc
 speed: Average
 class: Druid
 power: 780
@@ -9,42 +10,48 @@ defense: 741
 health: 1324
 skill: Dance of Spirits
 effects:
-  - Removes all cleansable and uncleansable status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.
-  - The caster regenerates 612 HP over 4 turns.
-  - "All allies except the caster dance the Dance of Spirits for 4 turns:"
-  - " * +100% attack."
-  - " * Reduces all received damage by -50%."
-  - " * If the caster is defeated, the dancer receives 84 damage and their mana is  reduced by 100%."
-  - " * This effect can't be dispelled, but it gets removed if caster is defeated."
+- Removes all cleansable and uncleansable status effects from all allies except the
+  caster. Removes even status effects that are otherwise undispellable or uncleansable.
+- The caster regenerates 612 HP over 4 turns.
+- 'All allies except the caster dance the Dance of Spirits for 4 turns:'
+- ' * +100% attack.'
+- ' * Reduces all received damage by -50%.'
+- ' * If the caster is defeated, the dancer receives 84 damage and their mana is  reduced
+  by 100%.'
+- ' * This effect can''t be dispelled, but it gets removed if caster is defeated.'
 types:
-  - Full Cleanser 4
-  - Self HoT
-  - Dance of Spirits 4
-  - Attack Buff 4 while Dancing
-  - Damage Reduction 4 while Dancing
-  - Damage if caster Defeat 4 
-  - Mana Reduction if caster Defeat 4 
+- Full Cleanser 4
+- Self HoT
+- Dance of Spirits 4
+- Attack Buff while Dancing
+- Damage Reduction while Dancing
+- Damage if caster Defeated while Dancing
+- Mana Reduction if caster Defeated while Dancing
 image: https://i.imgur.com/B2LpVrC.jpg
 costume:
-  class: Fighter
+  design: costume1
   bonuses: 5/5/10/5
+  class: Fighter
   power: 976
   attack: 982
   defense: 933
   health: 1761
   skill: Bandalore Dance
   effects:
-    - Removes all status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.
-    - Recovers 48% health for all allies.
-    - "All allies except the caster dance the Dance of Spirits for 4 turns:"
-    - " * +110% attack."
-    - " * Reduces all received damage by -30%."
-    - " * If the caster is defeated, the dancer receives 115 damage and their mana is reduced by 100%."
-    - " * This effect can't be dispelled, but it gets removed if caster is defeated."
+  - Removes all status effects from all allies except the caster. Removes even status
+    effects that are otherwise undispellable or uncleansable.
+  - Recovers 48% health for all allies.
+  - 'All allies except the caster dance the Dance of Spirits for 4 turns:'
+  - ' * +110% attack.'
+  - ' * Reduces all received damage by -30%.'
+  - ' * If the caster is defeated, the dancer receives 115 damage and their mana is
+    reduced by 100%.'
+  - ' * This effect can''t be dispelled, but it gets removed if caster is defeated.'
   types:
-    - Full Cleanser 4
-    - Healer All
-    - Dance of Spirits 4
-    - Attack Buff 4 while Dancing
-    - Damage Reduction 4 while Dancing
+  - Full Cleanser 4
+  - Healer All
+  - Dance of Spirits 4
+  - Attack Buff 4 while Dancing
+  - Damage Reduction 4 while Dancing
   image: https://i.imgur.com/E5qL0sl.jpg
+...

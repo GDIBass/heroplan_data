@@ -1,3 +1,4 @@
+---
 name: Sargasso
 source: pirates
 family: corellia
@@ -9,13 +10,14 @@ defense: 708
 health: 1334
 skill: Curse of Sargasso
 effects:
-  - Deals 415% damage to the target and minor damage to nearby enemies
-  - The target and nearby enemies get -90% increase for any healing received for 4 turns.
+- Deals 415% damage to the target and minor damage to nearby enemies.
+- The target and nearby enemies get -90% increase for any healing received for 4 turns.
 types:
-  - Hit 3
-  - Healing Debuff
+- Hit 3
+- Healing Debuff 3
 image: https://i.imgur.com/6s6FE8i.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
   power: 957
@@ -24,14 +26,16 @@ costume:
   health: 1652
   skill: Curse of the Sea
   effects:
-    - Deals 415% damage to the target and minor damage to nearby enemies.
-    - The target and nearby enemies get -100% decrease for any healing received for 4 turns.
-    - The target and nearby enemies receive 260 Water damage over 4 turns.
+  - Deals 415% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -100% decrease for any healing received for
+    4 turns.
+  - The target and nearby enemies receive 260 Water damage over 4 turns.
   types:
-    - Hit 3
-    - Healing Debuff
-    - DoT
+  - Hit 3
+  - Healing Debuff
+  - DoT
   passives:
-    - >-
-      Poison on Special Skill: When this character casts their Special Skill, all enemies receive 476 Poison damage over 4 turns.
+  - 'Poison on Special Skill: When this character casts their Special Skill, all enemies
+    receive 476 Poison damage over 4 turns.'
   image: https://i.imgur.com/lR0HaHa.jpg
+...

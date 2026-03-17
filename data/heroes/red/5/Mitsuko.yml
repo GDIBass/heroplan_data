@@ -1,3 +1,4 @@
+---
 name: Mitsuko
 source: season2
 family: sakura
@@ -9,16 +10,19 @@ defense: 727
 health: 1450
 skill: Mirror of Flames
 effects:
-  - Deals 245% damage to the target and nearby enemies.
-  - Reduces the mana of the target and nearby enemies by 20%.
-  - All allies reflect all status effects and 115% damage back to the attacker  and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
+- Deals 245% damage to the target and nearby enemies.
+- Reduces the mana of the target and nearby enemies by 20%.
+- All allies reflect all status effects and 115% damage back to the attacker  and
+  block other negative effects from enemies' Ice Special Skills for 4 turns. Status
+  effects cast by characters, Minions and Fiends on the same side cannot be reflected.
 types:
-  - Hit 3
-  - Mana Reduction 3
-  - Elemental Reflect All
-  - Elemental Counterattack All
+- Hit 3
+- Mana Reduction 3
+- Elemental Reflect All
+- Elemental Counterattack All
 image: https://i.imgur.com/xMxFVwW.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 947
@@ -27,12 +31,15 @@ costume:
   health: 1908
   skill: Glaive of Flames
   effects:
-    - Deals 230% damage to all enemies.
-    - All enemies get -34% mana generation.
-    - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
+  - Deals 230% damage to all enemies.
+  - All enemies get -34% mana generation.
+  - All allies reflect all status effects and 115% damage back to the attacker and
+    block other negative effects from enemies' Ice Special Skills for 4 turns. Status
+    effects cast by characters, Minions and Fiends on the same side cannot be reflected.
   types:
-    - Hit All
-    - Mana Generation Debuff 3
-    - Elemental Reflect All
-    - Elemental Counterattack All
+  - Hit All
+  - Mana Generation Debuff 3
+  - Elemental Reflect All
+  - Elemental Counterattack All
   image: https://i.imgur.com/8AHvvyw.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Ursena
 source: season2
 family: atlantis
@@ -9,16 +10,19 @@ defense: 731
 health: 1283
 skill: Depth Blast
 effects:
-  - Deals 130% damage to all enemies.
-  - Deals 260% damage if the target has more than 50% health remaining.
-  - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Holy Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
-  - Deals extra damage against Holy.
+- Deals 130% damage to all enemies.
+- Deals 260% damage if the target has more than 50% health remaining.
+- All allies reflect all status effects and 115% damage back to the attacker and block
+  other negative effects from enemies' Holy Special Skills for 4 turns. Status effects
+  cast by characters, Minions and Fiends on the same side cannot be reflected.
+- Deals extra damage against Holy.
 types:
-  - Hit All
-  - Elemental Reflect All
-  - Elemental Counterattack All
+- Hit All
+- Elemental Reflect All
+- Elemental Counterattack All
 image: https://i.imgur.com/OQ8iQcf.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
   power: 946
@@ -27,12 +31,16 @@ costume:
   health: 1680
   skill: Reef Blast
   effects:
-    - Deals 130% damage to all enemies.
-    - Deals 260% damage if the target has more than 50% health remaining.
-    - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from  enemies' Holy Special Skills back to the attacker for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
-    - All Holy enemies get -54% defense against Dark for 4 turns.
+  - Deals 130% damage to all enemies.
+  - Deals 260% damage if the target has more than 50% health remaining.
+  - All allies reflect all status effects and 115% damage back to the attacker and
+    block other negative effects from  enemies' Holy Special Skills back to the attacker
+    for 4 turns. Status effects cast by characters, Minions and Fiends on the same
+    side cannot be reflected.
+  - All Holy enemies get -54% defense against Dark for 4 turns.
   types:
-    - Hit All
-    - Elemental Reflect All
-    - Elemental Counterattack All
+  - Hit All
+  - Elemental Reflect All
+  - Elemental Counterattack All
   image: https://i.imgur.com/HefSfvM.jpg
+...

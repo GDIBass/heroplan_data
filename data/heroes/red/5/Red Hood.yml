@@ -1,3 +1,4 @@
+---
 name: Red Hood
 source: fables
 family: grimforest
@@ -9,13 +10,13 @@ defense: 708
 health: 1353
 skill: Forest Friends
 effects:
-  - Deals 215% damage to all enemies.
-  - >-
-    Summons a Fox Minion for each ally with 25% HP. The minion recovers 10%
-    health for its owner at the end of each turn. The minion protects its owner
-    from mana reduction.
+- Deals 215% damage to all enemies.
+- Summons a Fox Minion for each ally with 25% HP. The minion recovers 10% health for
+  its owner at the end of each turn. The minion protects its owner from mana reduction.
 types:
-  - Hit All
-  - Summoner
-  - Healer
+- Hit All
+- Summoner All
+- Healer Minion
+- Mana Reduction Immunity Minion
 image: https://i.imgur.com/P4he1aZ.jpg
+...

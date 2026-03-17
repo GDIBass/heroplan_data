@@ -1,3 +1,4 @@
+---
 name: White Rabbit
 source: wonderland
 family: wonderland
@@ -9,13 +10,15 @@ defense: 749
 health: 1353
 skill: Rabbit's Watch
 effects:
-  - Deals 280% Damage to the target and nearby enemies
-  - Target gets -34% defense for 4 turns. The effect duration is reset if the target is healed. This effect can't be cleansed.
+- Deals 280% Damage to the target and nearby enemies
+- The target gets -34% defense for 4 turns. The effect duration is reset if the target
+  is healed. This effect can't be cleansed.
 types:
-  - Hit 3
-  - Defense Debuff
+- Hit 3
+- Defense Debuff 1
 image: https://i.imgur.com/00qNGOk.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 977
@@ -24,12 +27,14 @@ costume:
   health: 1883
   skill: Cosmic Clock
   effects:
-    - Deals 260% damage to the target and nearby enemies.
-    - The target and nearby enemies get -34% defense for 3 turns. The effect duration resets if the target is healed. This effect can't be cleansed.
+  - Deals 260% damage to the target and nearby enemies.
+  - The target and nearby enemies get -34% defense for 3 turns. The effect duration
+    resets if the target is healed. This effect can't be cleansed.
   types:
-    - Hit 3
-    - Defense Debuff
+  - Hit 3
+  - Defense Debuff 3
   passives:
-    - >-
-      Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns.
+  - 'Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict
+    Mindless Attack on a random enemy for 3 turns.'
   image: https://i.imgur.com/qj3SAsZ.jpg
+...

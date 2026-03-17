@@ -1,22 +1,26 @@
+---
 name: Sif
-class: Rogue
 source: season3
 family: midgard
 speed: Average
-power: 784
-attack: 786
+class: Rogue
+power: 788
+attack: 788
 defense: 716
 health: 1339
 skill: Gold Weaver
 effects:
-  - The caster and nearby allies counterattack with 100% of the damage received for 4 turns.
-  - The caster and nearby allies reduce all received damage by -50% for 4 turns.
-  - The caster and nearby allies get +24% mana generation for 4 turns.
+- The caster and nearby allies counterattack with 100% of the damage received for
+  4 turns.
+- The caster and nearby allies reduce all received damage by -50% for 4 turns.
+- The caster and nearby allies get +24% mana generation for 4 turns.
 types:
-  - Counterattack
-  - Mana Generation Buff
+- Counterattack 3
+- Damage Reduction Buff 3
+- Mana Generation Buff 3
 image: https://i.imgur.com/IEuL57g.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 987
@@ -25,11 +29,13 @@ costume:
   health: 1845
   skill: Golden Strings
   effects:
-    - Increases the mana of the caster and nearby allies by 15%.
-    - The caster and nearby allies counterattack with 125% of the damage received for 4 turns.
-    - The caster and nearby allies reduce all received damage by 40% for 4 turns.
+  - Increases the mana of the caster and nearby allies by 15%.
+  - The caster and nearby allies counterattack with 125% of the damage received for
+    4 turns.
+  - The caster and nearby allies reduce all received damage by 40% for 4 turns.
   types:
-    - Mana boost
-    - Counterattack
-    - Damage Reduction
+  - Boost Mana 3
+  - Counterattack 3
+  - Damage Reduction Buff 3
   image: https://i.imgur.com/L0IBEq2.jpg
+...

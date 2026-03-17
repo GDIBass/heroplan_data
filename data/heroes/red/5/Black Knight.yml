@@ -1,3 +1,4 @@
+---
 name: Black Knight
 source: avalon
 family: avalon
@@ -9,28 +10,33 @@ defense: 846
 health: 1458
 skill: Just a Flesh Wound
 effects:
-  - The caster has a 50% chance to drop any received damage to 1 for 3 turns
-  - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.
-  - All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns
+- The caster has a 50% chance to drop any received damage to 1 for 3 turns.
+- The caster gets Taunt that prevents enemies from using Special Skills on the caster's
+  allies for 3 turns.
+- All allies get +45% attack, and a further 20% increase every time they are hit during
+  3 turns.
 types:
-  - Drop to 1 Damage Self
-  - Taunt
-  - Attack Buff All
+- Drop Damage to 1 Buff Self
+- Taunt
+- Attack Buff All
 image: https://i.imgur.com/6so0gHz.jpg
 costume:
-  class: Wizard
+  design: costume1
   bonuses: 5/5/10/5
+  class: Wizard
   power: 978
   attack: 792
   defense: 1045
   health: 2027
   skill: But a Scratch
   effects:
-    - The caster has a 50% chance to drop any received damage to 1 for 4 turns.
-    - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.
-    - All allies get +54% attack for 4 turns.
+  - The caster has a 50% chance to drop any received damage to 1 for 4 turns.
+  - The caster gets Taunt that prevents enemies from using Special Skills on the caster's
+    allies for 4 turns.
+  - All allies get +54% attack for 4 turns.
   types:
-    - Drop to 1 Damage All
-    - Taunt
-    - Attack Buff All
+  - Drop Damage to 1 Buff Self
+  - Taunt
+  - Attack Buff All
   image: https://i.imgur.com/BH9J6dC.jpg
+...

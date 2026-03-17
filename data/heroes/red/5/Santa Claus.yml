@@ -1,3 +1,4 @@
+---
 name: Santa Claus
 source: christmas
 family: christmas
@@ -9,17 +10,19 @@ defense: 830
 health: 1437
 skill: Ultimate Gift Sack
 effects:
-  - Deals 200% damage to all enemies.
-  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
-  - All enemies get -34% attack for 3 turns.
-  - All enemies get -44% defense for 3 turns.
+- Deals 200% damage to all enemies.
+- Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the
+  caster.
+- All enemies get -34% attack for 3 turns.
+- All enemies get -44% defense for 3 turns.
 types:
-  - Hit All
-  - Attack Debuff
-  - Defense Debuff
-  - Summoner
+- Hit All
+- Summoner All
+- Attack Debuff All
+- Defense Debuff All
 image: https://i.imgur.com/gDDhARF.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 1017
@@ -28,16 +31,18 @@ costume:
   health: 1947
   skill: Gift of Rock
   effects:
-    - Deals 150% damage to all enemies.
-    - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
-    - All enemies get -24% attack for 4 turns.
-    - All enemies get -54% defense for 4 turns.
+  - Deals 150% damage to all enemies.
+  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from
+    the caster.
+  - All enemies get -24% attack for 4 turns.
+  - All enemies get -54% defense for 4 turns.
   types:
-    - Hit All
-    - Summoner All
-    - Attack Debuff All
-    - Defense Debuff All
+  - Hit All
+  - Summoner All
+  - Attack Debuff All
+  - Defense Debuff All
   passives:
-    - >-
-      Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 332 Frost damage over 4 turns.
+  - 'Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 332
+    Frost damage over 4 turns.'
   image: https://i.imgur.com/3zbVEXc.jpg
+...

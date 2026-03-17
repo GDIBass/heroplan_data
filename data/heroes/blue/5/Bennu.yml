@@ -16,7 +16,7 @@ effects:
 - The caster and nearby allies reduce all received damage by -50% for 5 turns.
 types:
 - Counterattack 3
-- 'Received Damage Reduced #'
+- Received Damage Reduced 3
 passives:
 - 'Effects on Special Skill: 60% chance to perform the following actions when this
   character casts their Special Skill'
@@ -39,6 +39,7 @@ costume:
   - The caster and nearby allies reduce all received damage by -30% for 5 turns.
   types:
   - Counterattack 3
+  - Received Damage Reduced 3
   passives:
   - 'Effects on Special Skill: 60% chance to perform the following actions when this
     character casts their Special Skill'

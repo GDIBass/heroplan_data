@@ -1,3 +1,4 @@
+---
 name: Kageburado
 source: season2
 family: sakura
@@ -9,14 +10,15 @@ defense: 714
 health: 1248
 skill: Break Strike
 effects:
-  - Dispels buffs from the target.
-  - Deals 225% damage to the target.
-  - Deals 450% damage if the target has more than 50% health remaining.
+- Dispels buffs from the target.
+- Deals 225% damage to the target.
+- Deals 450% damage if the target has more than 50% health remaining.
 types:
-  - Dispeller 1
-  - Hit 1
+- Dispeller 1
+- Hit 1
 image: https://i.imgur.com/OUhEZUJ.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 942
@@ -25,13 +27,14 @@ costume:
   health: 1643
   skill: Beetle Strike
   effects:
-    - Dispels buffs from the target.
-    - Deals 320% damage to the target.
-    - The target is immune to new status effect buffs for 2 turns.
-    - The target gets -34% defense for 2 turns.
+  - Dispels buffs from the target.
+  - Deals 320% damage to the target.
+  - The target is immune to new status effect buffs for 2 turns.
+  - The target gets -34% defense for 2 turns.
   types:
-    - Dispeller 1
-    - Hit 1
-    - Buff immunity 1
-    - Defense Debuff 1
+  - Dispeller 1
+  - Hit 1
+  - Buff Immunity 1
+  - Defense Debuff 1
   image: https://i.imgur.com/3Xk7Vld.jpg
+...

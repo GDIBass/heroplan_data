@@ -1,3 +1,4 @@
+---
 name: Killhare
 source: springvale
 family: springvale
@@ -9,12 +10,15 @@ defense: 756
 health: 1382
 skill: Reckless Swing
 effects:
-  - Deals 300% damage to all enemies.
-  - All allies except the caster get -20% defense for 3 turns. This effect can't be cleansed.
+- Deals 300% damage to all enemies.
+- All allies except the caster get -20% defense for 3 turns. This effect can't be
+  cleansed.
 types:
-  - Hit All
+- Hit All
+- Defense Debuff All allies except Self
 image: https://i.imgur.com/WU18HC0.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
   power: 936
@@ -23,8 +27,11 @@ costume:
   health: 1752
   skill: Championship Carrot
   effects:
-    - Deals 330% damage to all enemies.
-    - All allies except the caser get -20% attack for 3 turns. This effect can't be cleansed.
+  - Deals 330% damage to all enemies.
+  - All allies except the caser get -20% attack for 3 turns. This effect can't be
+    cleansed.
   types:
-    - Hit all
+  - Hit All
+  - Attack Debuff All allies except Self
   image: https://i.imgur.com/vAkZp36.jpg
+...

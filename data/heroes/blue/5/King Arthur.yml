@@ -1,3 +1,4 @@
+---
 name: King Arthur
 source: avalon
 family: avalon
@@ -9,13 +10,14 @@ defense: 733
 health: 1336
 skill: Excalibur
 effects:
-  - Deals 468% damage to the target.
-  - The target gets -39% attack for 4 turns.
-  - The target gets -54% defense against Ice for 4 turns.
-  - The caster gets +74% defense against Special Skills for 4 turns.
+- Deals 468% damage to the target.
+- The target gets -39% attack for 4 turns.
+- The target gets -54% defense against Ice for 4 turns.
+- The caster gets +74% defense against Special Skills for 4 turns.
 types:
-  - Hit 1
-  - Attack Debuff 1
-  - EDD 1
-  - Self SS Defense Buff
+- Hit 1
+- Attack Debuff 1
+- Elemental Defense Debuff 1
+- SS Defense Buff Self
 image: https://i.imgur.com/2lBnZH9.jpg
+...

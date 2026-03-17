@@ -1,3 +1,4 @@
+---
 name: Tyr
 source: season3
 family: helheim
@@ -9,19 +10,22 @@ defense: 756
 health: 1312
 skill: Adamantite Claw
 effects:
-  - Deals 285% damage to the target.
-  - The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
-  - The target receives 212 Bleed damage over 4 turns.
-  - The caster regenerates 548 HP over 4 turns.
-  - If the caster dies during the next 4 turns, they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.
+- Deals 285% damage to the target.
+- The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
+- The target receives 212 Bleed damage over 4 turns.
+- The caster regenerates 548 HP over 4 turns.
+- If the caster dies during the next 4 turns, they are resurrected in the beginning
+  of their next turn with 32% health. All status effects and stacks are removed when
+  the caster dies.
 types:
-  - Hit 1
-  - Bypass Chance
-  - DoT 1
-  - Self HoT
-  - Self Resurection
+- Hit 1
+- Bypass Chance
+- DoT 1
+- Self HoT
+- Self Resurrection
 image: https://i.imgur.com/tjoH1nb.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
   power: 989
@@ -30,13 +34,17 @@ costume:
   health: 1771
   skill: Indestructible Claw
   effects:
-    - Deals 260% damage to the target and nearby enemies.
-    - The attack bypasses defensive buffs. This includes counterattacks.
-    - The target and nearby enemies receive 648 Bleed damage over 4 turns. The caster absorbs 40% of the dealt Bleed damage as health.
-    - If the caster dies during the next 4 turns they are resurrected in the beginning of their turn with 40% health. All status effects and stacks are removed when the caster dies.
+  - Deals 260% damage to the target and nearby enemies.
+  - The attack bypasses defensive buffs. This includes counterattacks.
+  - The target and nearby enemies receive 648 Bleed damage over 4 turns. The caster
+    absorbs 40% of the dealt Bleed damage as health.
+  - If the caster dies during the next 4 turns they are resurrected in the beginning
+    of their turn with 40% health. All status effects and stacks are removed when
+    the caster dies.
   types:
-    - Hit 3
-    - Bypass
-    - Dot 3
-    - Self Resurection
+  - Hit 3
+  - Bypass
+  - Dot 3
+  - Self Resurrection
   image: https://i.imgur.com/7UO34fo.jpg
+...

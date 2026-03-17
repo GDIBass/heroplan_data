@@ -1,3 +1,4 @@
+---
 name: Roc
 source: sand
 family: sand
@@ -9,15 +10,17 @@ defense: 739
 health: 1361
 skill: Sand Cyclone
 effects:
-  - All enemies receive 324 Sand damage over 3 turns.
-  - All enemies get -50% decrease for any healing received for 2 turns. This effect can't be cleansed.
-  - Cleanses status ailments from all allies.
+- All enemies receive 324 Sand damage over 3 turns.
+- All enemies get -50% decrease for any healing received for 2 turns. This effect
+  can't be cleansed.
+- Cleanses status ailments from all allies.
 types:
-  - Dot All
-  - Healing Debuff All
-  - Cleanser All
+- DoT All
+- Healing Debuff All
+- Cleanser All
 image: https://i.imgur.com/jRrOk7n.jpg
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 936
@@ -26,11 +29,12 @@ costume:
   health: 1683
   skill: Beach Party
   effects:
-    - All enemies receive 780 Sand damage over 4 turns.
-    - All enemies get -44% defense for 3 turns.
-    - Dispells buffs from all enemies.
+  - All enemies receive 780 Sand damage over 4 turns.
+  - All enemies get -44% defense for 3 turns.
+  - Dispells buffs from all enemies.
   types:
-    - Dot All
-    - Defense Debuff All
-    - Dispeller All
+  - DoT All
+  - Defense Debuff All
+  - Dispeller All
   image: https://i.imgur.com/wRsoDQK.jpg
+...

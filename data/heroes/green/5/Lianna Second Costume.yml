@@ -16,6 +16,6 @@ effects:
 - The target gets silenced for 3 turns.
 types:
 - Hit 1
-- Silencer
+- Silencer 1
 image: https://i.imgur.com/UwDUNi0.jpg
 ...

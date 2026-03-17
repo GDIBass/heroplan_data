@@ -11,7 +11,7 @@ health: 1382
 skill: Deathstrike
 effects:
 - Deals 452% damage to the target.
-- The target receives 306 Poison damage over 6 turns.
+- The target receives 294 Poison damage over 6 turns.
 types:
 - Hit 1
 - DoT 1
