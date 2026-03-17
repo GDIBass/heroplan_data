@@ -1,3 +1,4 @@
+---
 name: Caelen
 source: goblinvillage
 family: garrisonguard
@@ -9,18 +10,21 @@ defense: 1112
 health: 1755
 skill: Soothing Melody
 effects:
-  - Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.
-  - The Shield Guard Mega Minion cleanses the latest cleansable status ailment from all allies each turn. This does not trigger secondary effects.
-  - All enemies fall asleep.
-  - While asleep, the target can't attack or gain mana.
-  - All damage dealt to the sleeping target is increased by +70%.
-  - The sleeping target is woken once it take damage. This excludes damage from Minions and Fiends.
+- Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the
+  caster.
+- The Shield Guard Mega Minion cleanses the latest cleansable status ailment from
+  all allies each turn. This does not trigger secondary effects.
+- All enemies fall asleep.
+- While asleep, the target can't attack or gain mana.
+- All damage dealt to the sleeping target is increased by +70%.
+- The sleeping target is woken once it take damage. This excludes damage from Minions
+  and Fiends.
 types:
-  - Shield Guard Mega Minion
-  - Sleep All
+- Shield Guard Mega Minion
+- Cleanser Minion
+- Sleep All
 passives:
-  - >-
-    Resist Mana reduction: This character has an innate resistance against mana Reduction.
-  - >-
-    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/HHfGYBP.jpg
+...
