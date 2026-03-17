@@ -28,4 +28,33 @@ passives:
   from Troops of stronger element.'
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/DZtGVoI.jpg
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Ranger
+  power: 1288
+  attack: 1361
+  defense: 1256
+  health: 2399
+  skill: Overflowing Whirlwind
+  effects:
+  - Deals 270% damage to the target.
+  - If 1 ally is of Holy element, the damage will increase to 330% and it will affect
+    nearby enemies.
+  - If 2 allies are of Holy element, the damage will increase to 360% and it will
+    affect all enemies.
+  - Reduces the mana of all hit enemies by -25%.
+  - Deals extra damage against Dark.
+  types:
+  - Hit 1,3 or All
+  - Mana Reducer All
+  passives:
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This character''s Troops deal extra damage
+    against the weaker element.'
+  - ' * Extra damage dealt: +150%'
+  - 'Passive Skill as defending character: This character receives less damage from
+    Troops of the stronger element.'
+  - ' * Received elemental damage: -25%'
+  image: https://imgur.com/diCJq7h.jpg
 ...
