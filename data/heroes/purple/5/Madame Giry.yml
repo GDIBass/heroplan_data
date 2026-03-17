@@ -20,13 +20,13 @@ effects:
   be cleansed.
 - All enemies get -44% defense against Dark for 4 turns.
 types:
-- Hit all
+- Hit All
 - Fiend Summoner All
 - Buff Immunity Fiends
 - Elemental Defense Debuff All
 passives:
-- 'Resist Attack Ailments: This character has innate resistance against status ailments
-  that affect attack.'
+- 'Resist Attack Ailments: This character is immune to status ailments that affect
+  attack.'
 - 'Heal when status ailment expires or is cleared: This character receives 20% health
   each time a status ailment expires or is cleansed, removed or reallocated from them.
   This effect can activate only once per turn.'

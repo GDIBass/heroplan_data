@@ -1,3 +1,4 @@
+---
 name: Isidore
 source: wilderness
 family: woodlandfaun
@@ -9,20 +10,22 @@ defense: 1118
 health: 2158
 skill: Flurry of Blows
 effects:
-  - >-
-    Enhanced Defense Ailment: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 3 times.
-  - After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets -80% decrease of any healing received for 6 turns.
-  - Deals 350% damage to the target and 9 random enemies. The damage is reduced on each consecutive hit.
+- 'Enhanced Defense Ailment: All enemies get -64% defense against Special Skills.
+  This effect lasts until the enemy takes damage from a Special Skill 3 times.'
+- After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets
+  -80% decrease of any healing received for 6 turns.
+- Deals 350% damage to the target and 9 random enemies. The damage is reduced on each
+  consecutive hit.
 types:
-  - Enhanced Defense Ailment All
-  - Delayed Healing Debuff 1
-  - Hit 1
-  - Hit 9 random
+- Enhanced Defense Ailment All
+- Delayed Healing Debuff 1
+- Hit 1
+- Hit 9 random
 passives:
-  - >-
-    Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.
-  - >-
-    Resist Insanity: This character has innate resistance against Insanity.
-  - >-
-    Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.
+- 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
+  have -50% accuracy.'
+- 'Resist Insanity: This character is immune to Insanity.'
+- 'Resist Attack Ailments: This character is immune to status ailments that affect
+  attack.'
 image: https://i.imgur.com/sj8AKxx.jpg
+...
