@@ -24,8 +24,8 @@ types:
 - Attack Buff All
 - Critical Chance All
 passives:
-- 'Empowered Resist Frost: This character has innate resistance against Frost and
-  gains 450 boosted heath and 5% mana each time they resist.'
+- 'Empowered Resist Frost: This character is immune to status ailments that deals
+  Frost damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
   is cast'
 - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core,
