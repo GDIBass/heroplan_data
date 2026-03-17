@@ -20,7 +20,7 @@ types:
 - DoT All
 - Dispeller All
 passives:
-- 'Resist Burn: This character has innate resistance against Burn.'
+- 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 - 'Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage.'
 image: https://i.imgur.com/MByoToE.jpg
 ...
