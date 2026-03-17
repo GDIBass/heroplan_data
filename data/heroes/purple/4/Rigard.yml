@@ -14,7 +14,7 @@ effects:
 - Cleanses status ailments from all allies.
 types:
 - Heal All
-- Cleanser
+- Cleanser All
 image: https://i.imgur.com/epzxGwy.jpg
 costume:
   design: costume1

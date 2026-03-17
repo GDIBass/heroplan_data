@@ -11,7 +11,7 @@ health: 599
 skill: Fireball
 effects:
 - Deals 145% damage to all enemies.
-- All enemies receive 120 damage over 6 turns.
+- All enemies receive 114 Burn damage over 6 turns.
 types:
 - Hit All
 - DoT All

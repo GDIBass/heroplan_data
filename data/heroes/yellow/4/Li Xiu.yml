@@ -14,7 +14,7 @@ effects:
 - Reduces the mana of all enemies by 20%.
 types:
 - Hit All
-- Mana Reduction
+- Mana Reduction All
 image: https://i.imgur.com/flDK18I.jpg
 costume:
   design: costume1

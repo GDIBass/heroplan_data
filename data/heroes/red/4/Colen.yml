@@ -11,10 +11,10 @@ health: 1094
 skill: Fire Storm
 effects:
 - Deals 180% damage to all enemies.
-- All enemies receive 348 damage over 6 turns.
+- All enemies receive 330 Burn damage over 6 turns.
 types:
 - Hit All
-- Dot All
+- DoT All
 image: https://i.imgur.com/eqgOQXS.jpg
 costume:
   design: costume1

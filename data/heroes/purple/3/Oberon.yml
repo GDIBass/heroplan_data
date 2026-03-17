@@ -11,7 +11,7 @@ health: 839
 skill: Toxic Traps
 effects:
 - Deals 121% damage to all enemies.
-- All enemies receive 102 damage over 6 turns.
+- All enemies receive 96 Poison damage over 6 turns.
 types:
 - Hit All
 - DoT All
