@@ -1,0 +1,33 @@
+---
+name: Sproutwhisker
+source: birthday
+family: rodent
+speed: Average
+class: Cleric
+power: 1290
+attack: 1322
+defense: 1363
+health: 2294
+skill: Vibrant Whistle
+effects:
+- 'Wild: For 4 turns, all allies regenerate 400 HP or receive 800 boosted health each
+  turn. (Wild adds a chance each turn for this effect to be more powerful. This Wild
+  effect has a 50% chance to heal extra +100% HP that turn. When extra HP is healed
+  the effect gives boosted health. Wild effects bypass most effects that would normally
+  prevent them from being applied. Wild effects can be applied in addition to other
+  effects of the same type.)'
+- For the next 4 turns, all allies receive 10% mana at the end of the turn.
+- All allies get +55% defense for 4 turns.
+types:
+- Wild
+- Heal All or Boost Health All
+- Boost Mana All
+- Defense Buff All
+passives:
+- 'Nibble: When an ally casts their Special Skill, this character deals 200% damage
+  and gives -35% defense for 3 turns to a random enemy.'
+- 'Tiny Frame: This character is not affected by effects that increase or reduce attack.
+  This includes status effect buffs and ailments, positive and negative Stacks, Growth
+  and Wither effects.'
+image: https://imgur.com/54wGetD.jpg
+...
