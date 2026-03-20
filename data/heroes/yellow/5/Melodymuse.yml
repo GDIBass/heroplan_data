@@ -1,3 +1,4 @@
+---
 name: Melodymuse
 source: astral
 family: astralelves
@@ -9,14 +10,16 @@ defense: 1155
 health: 2024
 skill: Moonlight Crescendo
 effects:
-  - Boosts health of all allies by 710. Boosted health can exceed max HP.
-  - All allies are immune to new status ailments for 4 turns.
+- Boosts health of all allies by 710. Boosted health can exceed max HP.
+- All allies are immune to new status ailments for 4 turns.
 types:
-  - Boosts health
-  - Ailmens imunity
+- Boosts Health All
+- Ailments Immunity All
 passives:
-  - >-
-    Resist Poison: This character has innate resistance against Poison.
-  - >-
-    Share Received Damage: 20% of damage received by this character is shared with other allies.
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
+- 'Share Received Damage: 20% of damage received by this character is shared with
+  other allies.'
 image: https://i.imgur.com/PSc9HJP.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

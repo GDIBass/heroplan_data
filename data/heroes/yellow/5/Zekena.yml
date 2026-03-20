@@ -19,9 +19,11 @@ types:
 - Hit Random 1
 - Defense Debuff 1
 passives:
-- 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
-  Skills is increased by 1 turn.'
+- 'Increase Buff Duration: Duration of the first 3 buffs this character receives from
+  Special Skill is increased by 1 turn.'
 image: https://i.imgur.com/hsqxizP.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,10 +41,14 @@ costume:
   types:
   - Hit 1
   - Bounce
-  - Defense Debuff
+  - Defense Debuff 1
   passives:
+  - 'Increase Buff Duration: Duration of the first 3 buffs this character receives
+    from Special Skill is increased by 1 turn.'
   - 'Increased Damage Against Boosted Health: After this character casts their Special
-    Skill cast, all allies'' normal attacks and Special Skills deal +70% damage against
-    targets with boosted health for 4 turns .'
+    Skill cast, all allies deal +70% increased normal attacks and Special Skills damage
+    against targets with boosted health for 4 turns .'
   image: https://i.imgur.com/KswtgYH.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

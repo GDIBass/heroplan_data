@@ -20,6 +20,9 @@ types:
 passives:
 - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/BFeoiOp.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+zodiacAnimal: rabbit
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +46,6 @@ costume:
   passives:
   - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
   image: https://imgur.com/lrCWqsO.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

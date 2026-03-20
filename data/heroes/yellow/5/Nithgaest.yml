@@ -1,3 +1,4 @@
+---
 name: Nithgaest
 source: beowulf
 family: beowulf
@@ -9,18 +10,21 @@ defense: 1126
 health: 2200
 skill: Rush of Flame
 effects:
-  - Deals 335% damage to the target and nearby enemies.
-  - The caster and nearby allies counterattack with 150% of the damage received for 4 turns. 
-  - "Caster and nearby allies get Burning Touch for 4 turns. (Burning Touch: Each time the owner of this status effect counterattacks an enemy, the attacker receives 492 Burn damage over 4 turns.)"
+- Deals 335% damage to the target and nearby enemies.
+- The caster and nearby allies counterattack with 150% of the damage received for
+  4 turns.
+- 'Caster and nearby allies get Burning Touch for 4 turns. (Burning Touch: Each time
+  the owner of this status effect counterattacks an enemy, the attacker receives 492
+  Burn damage over 4 turns.)'
 types:
-  - Hit 3
-  - Counterattack 3
-  - Burning Touch
+- Hit 3
+- Counterattack 3
+- Burning Touch DoT on counterattack
 passives:
-  - >-
-    Perfect Accuracy: This character's Special Skill never mises its target.
-  - >-
-    Empowered Resist Mana Reduction: This character has innate resistance against mana reductions. They also gain 600 boosted health and 10% mana each time they resist.
-  - >-
-    Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.
+- 'Perfect Accuracy: This character''s Special Skill never misses its target.'
+- 'Empowered Resist Mana Reduction: This character is immune to mana reduction. They
+  also gain 600 boosted health and 10% mana each time they resist.'
+- 'Stacking Attack On Damage Received: When this character receives damage from Special
+  Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.'
 image: https://imgur.com/25R91G2.jpg
+...

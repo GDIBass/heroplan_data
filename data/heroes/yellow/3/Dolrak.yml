@@ -1,3 +1,4 @@
+---
 name: Dolrak
 source: beachparty
 family: beachparty
@@ -9,16 +10,19 @@ defense: 490
 health: 723
 skill: Sunscreen Blast
 effects:
-  - Deals 270% damage to the target.
-  - The target gets -30% defense for 4 turns. The effect duration resets if the target is healed.
-  - The target gets -40% decrease of any healing for 4 turns.
+- Deals 270% damage to the target.
+- The target gets -30% defense for 4 turns. The effect duration resets if the target
+  is healed.
+- The target gets -40% decrease of any healing for 4 turns.
 types:
-  - Hit 1
-  - Defense Debuff
-  - Healing debuff
+- Hit 1
+- Defense Debuff 1
+- Healing Debuff 1
 passives:
-  - >-
-    Damage over time on Special: When this character casts their Special Skill, all enemies receive 124 Water damage over 2 turns.
-  - >-
-    Resist Water Damage: This character has innate resistance against Water Damage.
+- 'Damage over time on Special: When this character casts their Special Skill, all
+  enemies receive 124 Water damage over 2 turns.'
+- 'Resist Water: This character is immune to status ailments that deal Water damage.'
 image: https://i.imgur.com/0vQaoVS.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

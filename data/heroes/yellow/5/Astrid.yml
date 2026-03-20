@@ -1,3 +1,4 @@
+---
 name: Astrid
 source: festival
 family: bard
@@ -9,16 +10,17 @@ defense: 1252
 health: 2251
 skill: Booming Mend
 effects:
-  - Recovers 50% health for all allies.
-  - Each defeated ally has 40% chance to get revived with 30% HP.
-  - All allies have a 20% chance to drop any received damage to 1 for 3 turns.
+- Recovers 50% health for all allies.
+- Each defeated ally has 40% chance to get revived with 30% HP.
+- All allies have a 20% chance to drop any received damage to 1 for 3 turns.
 types:
-  - Healer
-  - Reviver
-  - Drop to 1 Damage All
+- Healer All
+- Reviver
+- Damage Drop to 1 All
 passives:
-  - >-
-    Quick Tempo: Ballad. All Ballads cast by enemies only last for 1 turn.
-  - >-
-    Quick Tempo: Dance. All Dances cast by enemies only last for 1 turn.
+- 'Quick Tempo: Ballad. All Ballads cast by enemies only last for 1 turn.'
+- 'Quick Tempo: Dance. All Dances cast by enemies only last for 1 turn.'
 image: https://i.imgur.com/efuZ1Xu.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

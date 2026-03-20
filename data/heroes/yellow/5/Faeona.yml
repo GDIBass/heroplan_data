@@ -1,6 +1,7 @@
+---
 name: Faeona
 source: hotm
-family: 2024
+family: "2024"
 speed: Slow
 class: Sorcerer
 power: 1042
@@ -9,19 +10,21 @@ defense: 1108
 health: 1734
 skill: Revitalizing Orb
 effects:
-  - Recovers 46% health for all allies.
-  - All allies get +35% increase for any healing received for 5 turns.
-  - >-
-    Stack +3 (Max 10): The caster gets +15% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
-  - Element Link gives all Holy allies +20% critical chance for 6 turns. This effect cannot be dispelled.
+- Recovers 46% health for all allies.
+- All allies get +35% increase for any healing received for 5 turns.
+- 'Stack +3 (Max 10): The caster gets +15% mana generation. (Affects only mana generated
+  from matching tiles or mana gained by the defense team at the end of their turn.)'
+- Element Link gives all Holy allies +20% critical chance for 6 turns. This effect
+  cannot be dispelled.
 types:
-  - Healer
-  - Healing Buff
-  - Mana Gen Buff Stack 1
+- Healer All
+- Healing Buff All
+- Mana Generation Buff Stack Self
 passives:
-  - >-
-    Resist Mana Reduction: This character has innate resistance against mana
-    reduction.
-  - >-
-    Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
+- 'Mana on Buff Received: This character gains 5% mana when they receive a buff or
+  positive stack.'
 image: https://i.imgur.com/plLMCMU.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

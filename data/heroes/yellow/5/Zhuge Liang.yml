@@ -12,10 +12,10 @@ skill: Martial Masterstroke
 effects:
 - Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack inherited
   from the caster.
-- Shu Soldier Minion gives it's owner the ability to counterattack with 60% of the
-  damage received as long as the owner has a Shu Soldier Minion. This effect can't
-  be dispelled.
-- Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages its target with
+- When summoned, the Shu Soldier Minion gives its owner the ability to counterattack
+  with 60% of the damage received as long as the owner has a Shu Soldier Minion. This
+  effect can't be dispelled.
+- Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages the enemies with
   75% attack every turn.
 - The Shu Guerrilla Fiend absorbs healing and disappears when it has absorbed 50%
   of its targets health.
@@ -23,6 +23,8 @@ types:
 - Counterattack Minion Summoner All
 - Fiend Summoner All
 image: https://i.imgur.com/jjSBiGT.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/zdjoPv7.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

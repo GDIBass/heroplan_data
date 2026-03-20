@@ -24,6 +24,8 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies receive 231 Sand damage over 3 turns.'
 image: https://i.imgur.com/PIgKmeD.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,9 +41,9 @@ costume:
   - Reduces the mana of all enemies by 15%.
   - All enemies get -10% mana generation for 3 turns.
   types:
-  - Hit all
-  - Mana Reduction
-  - Mana Generation Debuff
+  - Hit All
+  - Mana Reduction All
+  - Mana Generation Debuff All
   passives:
   - 'Effects on Special Skill: 60% chance to perform the following actions when this
     character casts their Special Skill'
@@ -53,4 +55,6 @@ costume:
   - 'Increased Special Skill Damage: The first time this character casts a Special
     Skill that deals damage an additional 50% is added to its power.'
   image: https://i.imgur.com/4IURwj4.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

@@ -14,15 +14,17 @@ effects:
 - All allies are immune to new status ailments for 3 turns, and recover 205 health
   for each attempted status ailment.
 types:
-- Healer
-- Status Ailment Immunity
-- Heal on Ailment attempt
+- Healer All
+- Status Ailment Immunity All
+- Heal on attempted ailment
 passives:
 - 'Effects on Special Skill: 60% chance to perform the following actions when this
   character casts their Special Skill'
 - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
 - ' * Cleanses the latest cleansable status ailment from all allies.'
 image: https://i.imgur.com/pyEHRBi.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,8 +39,9 @@ costume:
   - All allies are immune to new status ailments for 3 turns, and recover 360 health
     for each attempted status ailment.
   types:
-  - Healer
-  - Status Ailment Immunity
+  - Healer All
+  - Status Ailment Immunity All
+  - Heal on attempted ailment
   passives:
   - 'Effects on Special Skill: 60% chance to perform the following actions when this
     character casts their Special Skill'
@@ -49,4 +52,6 @@ costume:
   - 'Health Recover on Buff Received: This character recovers 5% HP when they receive
     a buff or positive stack.'
   image: https://i.imgur.com/BWI4O98.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

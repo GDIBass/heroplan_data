@@ -18,12 +18,15 @@ effects:
   4 turns. This effect can't be dispelled.
 types:
 - Hit 3
-- Summoner
-- Dispeller
+- Summoner Self
+- Destroy Minions on Minion Hit
+- Dispeller 3
 passives:
 - 'Resist Dispels: This character is immune to effects that would dispel their status
   effect buffs.'
 - 'Resist negative minion effects: This character is immune to incoming negative effects
   and damage from Minions.'
 image: https://i.imgur.com/kOGhPnC.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 ...

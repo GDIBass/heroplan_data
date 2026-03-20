@@ -1,3 +1,4 @@
+---
 name: Kvasir
 source: season3
 family: alfheim
@@ -9,16 +10,21 @@ defense: 424
 health: 915
 skill: Bee Bravado
 effects:
-  - Summons a Bee Minion for each ally. The Bee Minion inherits 15% HP and 17% attack from the caster.
-  - 'Each hit from a Bee Minion gives the target the following status ailments:'
-  - ' * The target receives 14 Poison damage over 2 turns.' 
-  - " * The target can't receive new Minions for 4 turns."
+- Summons a Bee Minion for each ally. The Bee Minion inherits 15% HP and 17% attack
+  from the caster.
+- 'Each hit from a Bee Minion gives the target the following status ailments:'
+- ' * The target receives 14 Poison damage over 2 turns.'
+- ' * The target can''t receive new Minions for 4 turns.'
 types:
-  - Summoner
-  - Dot 1
+- Summoner All
+- Minion with DoT
+- Minion with Minion Block
 image: https://i.imgur.com/iXRJ2NZ.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Paladin
   power: 477
   attack: 429
@@ -26,10 +32,16 @@ costume:
   health: 986
   skill: Bee Bombast
   effects:
-    - Summons a Bee Minion for each ally. The Bee Minion inherits 18% HP and 15% attack from the caster.
-    - 'Each hit from the Bee Minion gives the target the following status ailments:'
-    - ' * The target receives 48 Poison damage over 3 turns.'
-    - ' * The target is immune to new status effects buffs for 2 turns.'
+  - Summons a Bee Minion for each ally. The Bee Minion inherits 18% HP and 15% attack
+    from the caster.
+  - 'Each hit from the Bee Minion gives the target the following status ailments:'
+  - ' * The target receives 48 Poison damage over 3 turns.'
+  - ' * The target is immune to new status effects buffs for 2 turns.'
   types:
-    - Summoner
+  - Summoner All
+  - Minion with DoT
+  - Minion with Buff Immunity
   image: https://i.imgur.com/3EEFeIL.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
+...

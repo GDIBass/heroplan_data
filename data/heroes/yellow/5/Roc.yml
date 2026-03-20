@@ -19,6 +19,8 @@ types:
 - Healing Debuff All
 - Cleanser All
 image: https://i.imgur.com/jRrOk7n.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -29,12 +31,14 @@ costume:
   health: 1683
   skill: Beach Party
   effects:
-  - All enemies receive 780 Sand damage over 4 turns.
+  - All enemies receive 800 Sand damage over 4 turns.
   - All enemies get -44% defense for 3 turns.
-  - Dispells buffs from all enemies.
+  - Dispels buffs from all enemies.
   types:
   - DoT All
   - Defense Debuff All
   - Dispeller All
   image: https://i.imgur.com/wRsoDQK.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

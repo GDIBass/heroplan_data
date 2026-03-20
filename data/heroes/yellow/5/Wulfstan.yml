@@ -11,12 +11,14 @@ health: 2076
 skill: Eldritch Sign Bolts
 effects:
 - Steals all dispellable buff from all enemies to the caster.
-- Deals 350% damage to all and inflicts 10 Insanity on them.
+- Deals 350% damage to all enemies and inflicts 10 Insanity on them.
 - Casting this Special Skill inflicts 45 Insanity on the caster.
 types:
-- Buff Steal All
+- Buff Steal All to Self
 - Hit All
 - Insanity All
-- Self Insanity
+- Insanity Self
 image: https://i.imgur.com/EHlubEr.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 ...

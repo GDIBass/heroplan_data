@@ -10,7 +10,7 @@ defense: 793
 health: 1390
 skill: Ravaging Talons
 effects:
-- Destroys all Minions from all enemies.
+- Destroys all Minions from all enemies and damages Mega Minions.
 - Deals 270% damage to all enemies.
 - If an enemy had Minions they will resist new Minions for 4 turns.
 types:
@@ -18,4 +18,6 @@ types:
 - Hit All
 - Minion Immunity
 image: https://i.imgur.com/x2Zz9OK.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 ...

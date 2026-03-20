@@ -1,3 +1,4 @@
+---
 name: Arman
 source: sand
 family: sand
@@ -9,13 +10,17 @@ defense: 418
 health: 712
 skill: Sand Breeze
 effects:
-  - Deals 130% damage to all enemies.
-  - All enemies receive 92 damage over 4 turns.
-  - All enemies get -50% increase for any healing received for 2 turns. This effect can't be cleansed.
-  - Dispels status ailments from the caster.
+- Deals 130% damage to all enemies.
+- All enemies receive 92 damage over 4 turns.
+- All enemies get -50% increase for any healing received for 2 turns. This effect
+  can't be cleansed.
+- Cleanses status ailments from the caster.
 types:
-  - Hit All
-  - Dot All
-  - Healing Debuff
-  - Self Clean
+- Hit All
+- DoT All
+- Healing Debuff All
+- Clean Self
 image: https://i.imgur.com/N88uqSK.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

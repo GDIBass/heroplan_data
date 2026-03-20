@@ -19,6 +19,8 @@ types:
 - Healer All
 - Summoner All
 image: https://i.imgur.com/gbHdhVI.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -33,7 +35,7 @@ costume:
   - Summons a Guardian Minion for each ally with 25% HP and 30% attack inherited from
     the caster.
   - Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This
-    effect can't be displelled.
+    effect can't be dispelled.
   types:
   - Healer All
   - Summoner All
@@ -41,4 +43,6 @@ costume:
   - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
     the newest status ailment from all allies.'
   image: https://i.imgur.com/muqHGtI.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

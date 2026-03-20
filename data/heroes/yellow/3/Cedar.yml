@@ -1,3 +1,4 @@
+---
 name: Cedar
 source: kalevala
 family: junglehunter
@@ -9,16 +10,22 @@ defense: 477
 health: 729
 skill: Titanbone Chain Slash
 effects:
-  - Deals 175% damage to all enemies.
-  - All enemies get -15% accuracy, and a further -2% decreae every time they 
-    are hit during 4 turns, up to -35% accuracy.
-  - 'Stack (Max: 10): The caster gets +20% attack against the weaker element.'
+- Deals 175% damage to all enemies.
+- All enemies get -15% accuracy, and a further -2% decreae every time they are hit
+  during 4 turns, up to -35% accuracy.
+- 'Stack (Max: 10): The caster gets +20% attack against the weaker element.'
 types:
-  - Defense buff
-  - Stack 
+- Hit All
+- Blind All
+- Attack Buff Stack Self
 passives:
-  - >-
-    Damage over time on special: When this character casts their Special Skill they give a Hunter's Mark on a random enemy. The target receives 150 damage  over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
-  - >-
-    Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.
+- 'Damage over time on special: When this character casts their Special Skill they
+  give a Hunter''s Mark on a random enemy. The target receives 150 damage  over 3
+  turns. If a target already has this effect, the duration will be refreshed and the
+  damage will be increased by 150, up to 1500 damage in total.'
+- 'Hunter''s Vigor: When this character casts their Special Skill, they get +20% attack
+  for 3 turns. This effect can be active in addition to other effects that alter attack.'
 image: https://i.imgur.com/occTuk0.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

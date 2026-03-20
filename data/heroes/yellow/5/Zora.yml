@@ -19,10 +19,12 @@ effects:
 types:
 - Hit All
 - Cleanser
-- Attack buff
+- Attack Buff All per ailment removed
 passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
   a status ailment or negative stack.'
 image: https://i.imgur.com/wf4Kvkm.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 ...

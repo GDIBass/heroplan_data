@@ -19,6 +19,8 @@ types:
 - Damage Reduction Self
 - Boosted HoT All
 image: https://i.imgur.com/8Qu4qUF.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,8 +36,8 @@ costume:
   - All allies regenerate 720 boosted health over 4 turns. Boosted health can exceed
     max HP.
   types:
-  - Hit all
-  - Damage reduction 1
+  - Hit All
+  - Damage reduction Self
   - Boosted HoT All
   passives:
   - 'Increased Status Effect Duration: Chance to increase the duration of cast status
@@ -43,4 +45,6 @@ costume:
   - ' * +1 turn: 75%'
   - ' * +2 turns: 25%'
   image: https://i.imgur.com/2DLIDng.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

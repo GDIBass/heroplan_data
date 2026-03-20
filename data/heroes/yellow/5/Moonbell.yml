@@ -1,3 +1,4 @@
+---
 name: Moonbell
 source: astral
 family: astralelves
@@ -9,18 +10,25 @@ defense: 1205
 health: 1868
 skill: Astral Summon
 effects:
-  - Summons an Astral Sphere Minion for each ally with 35% HP and 39% attack inherited from the caster.
-  - When summoned, the Astral Sphere Minion gives +33% mana generation for its owner for as long as the owner has Astral Sphere Minions. This effect can't be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
-  - All allies reduce all received damage by -43% for 4 turns.
-  - All allies' normal attacks and Special Skills deal +100% damage against targets with boosted health for 4 turns.
+- Summons an Astral Sphere Minion for each ally with 35% HP and 39% attack inherited
+  from the caster.
+- When summoned, the Astral Sphere Minion gives +33% mana generation for its owner
+  for as long as the owner has Astral Sphere Minions. This effect can't be dispelled.
+  (Affects only mana generated from matching tiles or mana gained by the defense team
+  at the end of their turn.)
+- All allies reduce all received damage by -43% for 4 turns.
+- All allies' normal attacks and Special Skills deal +100% damage against targets
+  with boosted health for 4 turns.
 types:
-  - Summoner All
-  - Mana Gen Buff Minion
-  - Damage Reduction All
-  - Attack Buff All against boosted HP
+- Summoner All
+- Mana Generation Buff Minion
+- Damage Reduction All
+- Attack Buff All against boosted HP
 passives:
-  - >-
-    Resist Poison: This character has innate resistance against Poison.
-  - >-
-    Share Received Damage: 20% of damage received by this character is shared with other allies.
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
+- 'Share Received Damage: 20% of damage received by this character is shared with
+  other allies.'
 image: https://i.imgur.com/EiBBCez.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

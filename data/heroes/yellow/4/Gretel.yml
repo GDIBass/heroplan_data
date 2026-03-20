@@ -1,3 +1,4 @@
+---
 name: Gretel
 source: fables
 family: grimforest
@@ -9,11 +10,16 @@ defense: 599
 health: 1056
 skill: Witch Slayer
 effects:
-  - Deals 175% damage to the target and minor damage to nearby enemies.
-  - Automatically does 147 damage to the target and consumes 50% mana from the target when the target's mana is full for 3 turns.
-  - The caster gets +74% defense against Special Skills for 3 turns.
+- Deals 175% damage to the target and minor damage to nearby enemies.
+- Automatically does 147 damage to the target and consumes 50% mana from the target
+  when the target's mana is full for 3 turns.
+- The caster gets +74% defense against Special Skills for 3 turns.
 types:
-  - Hit 3
-  - Damage when Full Mana 3
-  - Mana Reducer when Full Mana 3
+- Hit 3
+- Damage when Full Mana 3
+- Mana Reducer when Full Mana 3
+- SS Defense Buff Self
 image: https://i.imgur.com/cq0lzx6.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

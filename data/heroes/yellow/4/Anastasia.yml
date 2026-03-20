@@ -1,3 +1,4 @@
+---
 name: Anastasia
 source: magic
 family: magic
@@ -9,18 +10,26 @@ defense: 626
 health: 1319
 skill: Cheerful Charm
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200% mana:'
-  - '1x Mana Charge:'
-  - ' * Summons a Grimoire Minion for all allies with 13% HP and 20% attack inherited from the caster.'
-  - '2x Mana Charge:'
-  - ' * Deals 235 damage to all enemies.'
-  - ' * Summons a Grimoire Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.'
-  - ' * The Grimoire Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of its target''s max health.'
+- 'Special Skill has a different effect when charged with 100%/200% mana:'
+- '1x Mana Charge:'
+- ' * Summons a Grimoire Minion for all allies with 13% HP and 20% attack inherited
+  from the caster.'
+- '2x Mana Charge:'
+- ' * Deals 235 damage to all enemies.'
+- ' * Summons a Grimoire Fiend for all enemies. The Fiend damages the enemy with 43%
+  attack every turn.'
+- ' * The Grimoire Fiend absorbs healing. It disappears after absorbing a healing
+  amount equal to 30% of its target''s max health.'
 types:
-  - Charge
-  - Minion Summoner All
-  - Fiend Summoner All
+- Charge
+- Minion Summoner All
+- Hit All
+- Fiend Summoner All
 passives:
-  - >-
-    Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%.
+- 'Status effect on special: When this character casts their Special Skill, they have
+  a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special
+  Skill is fully charged, the chance is 100%.'
 image: https://i.imgur.com/ADu9siF.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

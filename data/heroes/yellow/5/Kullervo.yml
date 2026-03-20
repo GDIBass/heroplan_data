@@ -23,14 +23,16 @@ passives:
 - 'Power of Sisu: When this character starts a turn with low health for the first
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/tmvOfKK.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter
-  power: 940
-  attack: 904
-  defense: 953
-  health: 1662
+  power: 1078
+  attack: 1062
+  defense: 1120
+  health: 1918
   skill: Cunning Knife
   effects:
   - Deals 450% damage to the target.
@@ -46,4 +48,6 @@ costume:
   - 'Power of Sisu: When this character starts a turn with low health for the first
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://i.imgur.com/llU8XwL.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

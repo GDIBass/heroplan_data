@@ -21,6 +21,8 @@ passives:
 - ' * Boosts health of all allies by 10%. Boosted Heath can exceed max HP.'
 - ' * All allies gain a small amount of mana.'
 image: https://i.imgur.com/sV7BVbk.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -35,8 +37,8 @@ costume:
     max HP.
   - All allies are immune to new status ailments for 4 turns.
   types:
-  - HoT
-  - Status Ailment Immunity
+  - Boosted HoT All
+  - Status Ailment Immunity All
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
     character casts their Special Skill.'
@@ -45,7 +47,9 @@ costume:
   - 'Guaranteed Effect on Special Skill: When this character casts their Special Skill,
     any of their Passive Skills that grant extra effects on cast are guaranteed to
     activate.'
-  - 'Resist Mana Generation Stopping: This character has an innate resistance against
-    status ailments that affect stop mana generation.'
+  - 'Resist Mana Generation Stopping: This character is immune to status ailments
+    that stop mana generation.'
   image: https://i.imgur.com/blidD7L.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

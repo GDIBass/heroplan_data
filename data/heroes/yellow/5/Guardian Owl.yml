@@ -13,10 +13,12 @@ effects:
 - Deals 300% damage to all enemies.
 - The damage is increased by 60% per each defeated ally.
 - The caster gets +46% defense for 5 turns.
-- The caster regenerates 915 HP over 5 turns.
+- The caster regenerates 1015 HP over 5 turns.
 types:
 - Hit All
 - Defense Buff Self
 - HoT Self
 image: https://i.imgur.com/XO3HIxy.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 ...

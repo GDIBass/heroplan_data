@@ -16,7 +16,8 @@ effects:
   +35% mana.
 - All allies counterattack with +110% of the damage received for 4 turns.
 types:
-- Hit Random 2
+- Hit 1
+- Hit Random 1
 - Self Heal on Kill
 - Self Mana Increase on Kill
 - Counterattack All

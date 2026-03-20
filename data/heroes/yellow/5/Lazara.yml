@@ -16,7 +16,7 @@ effects:
 - All enemies can't get their status ailments cleansed or reallocated by Special Skills
   for 4 turns. (This effect also prevents cleansing and reallocating of itself.)
 types:
-- Safely Cleanser All
+- Safely Clean All
 - Hit All
 - Healing Decrease All
 - Cleanse Immunity All
@@ -29,4 +29,6 @@ passives:
 - 'Damage on Attempted Enemy Cleanse: When an enemy attempts to cleanse by using Special
   Skill, all enemies receive 300 damage. This effect can activate only once per turn.'
 image: https://i.imgur.com/mxOSRGe.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 ...

@@ -1,3 +1,4 @@
+---
 name: Albin
 source: christmas
 family: christmas
@@ -9,11 +10,15 @@ defense: 1143
 health: 2070
 skill: A Cozy Break
 effects:
-  - Deals 440% damage to all enemies.
-  - The duration of buffs is reset for all allies.
-  - Summons 2 Elf Minions for each ally with 10% HP and 10% attack inherited from the caster.
+- Deals 440% damage to all enemies.
+- The duration of buffs is reset for all allies.
+- Summons 2 Elf Minions for each ally with 10% HP and 10% attack inherited from the
+  caster.
 types:
-  - Hit All
-  - Buff duration reset All
-  - Summoner 2x All
+- Hit All
+- Buff Duration Reset All
+- Summoner 2x All
 image: https://i.imgur.com/x9XJFnx.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

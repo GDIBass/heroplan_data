@@ -16,7 +16,7 @@ effects:
 - Deals extra damage agianst Dark.
 types:
 - Hit 1
-- Hit Dark
+- Hit All Dark
 - Mana Generation Debuff All
 passives:
 - 'Troop Mastery:'

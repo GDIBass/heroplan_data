@@ -17,13 +17,15 @@ effects:
   turn.
 types:
 - Hit 3
-- Health Reduction 3
+- Health Reduction over time 3
 passives:
 - 'Effects on Special Skill: 40% chance to perform the following actions when this
   character casts their Special Skill:'
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/0Yedhet.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,7 +43,7 @@ costume:
     per turn.
   types:
   - Hit 3
-  - Health reduction
+  - Health Reduction over Time 3
   passives:
   - 'Effects on Special Skill: 40% chance to perform the following actions when this
     character casts their Special Skill:'
@@ -53,4 +55,6 @@ costume:
   - 'Mana on Health Boosting Special Skill: This character gains 5% mana each time
     an enemy casts a Special Skill that directly boosts health.'
   image: https://i.imgur.com/fLHpPl2.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

@@ -1,3 +1,4 @@
+---
 name: Waddles
 source: pets
 family: pets
@@ -9,14 +10,19 @@ defense: 699
 health: 1317
 skill: Spear of Loyalty
 effects:
-  - Deals 365% damage to the target.
-  - The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally, and the duration is refreshed.
+- Deals 365% damage to the target.
+- The target automatically casts Shifting Mindless Attack on a random ally when mana
+  is full at the start of a turn during 3 turns. When this effect is triggered, it
+  shifts to the hit ally, and the duration is refreshed.
 types:
-  - Hit 1
-  - Mindless Attack
+- Hit 1
+- Mindless Attack 1
 passives:
-  - >-
-    Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
-  - >-
-    Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
+- 'Friend of the Familiars: When a Minion is summoned to any ally, this character
+  gains 5% health and 5% mana. This effect can activate only once per turn.'
+- 'Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85%
+  damage to all enemies. This effect can activate only once per turn.'
 image: https://i.imgur.com/acvvh6o.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

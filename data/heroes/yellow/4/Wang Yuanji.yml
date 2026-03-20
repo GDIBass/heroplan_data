@@ -10,12 +10,14 @@ defense: 709
 health: 1170
 skill: Noble's Empathy
 effects:
-- Destroys all Fiends from all allies.
+- Destroys all Fiends from all allies and damages all Mega Fiends.
 - Boosts health of all allies by 625. Boosted health can exceed max HP.
 types:
 - Fiend Destroyer All
-- Health Boost
+- Health Boost All
 image: https://i.imgur.com/SwBxlgF.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -26,7 +28,7 @@ costume:
   health: 1256
   skill: Calligrapher's Empathy
   effects:
-  - Destroys all Fiends from all allies. This effect damages Mega Fiends.
+  - Destroys all Fiends from all allies and damages all Mega Fiends.
   - Boosts health of all allies by 520. Boosted health can exceed max HP.
   - All allies get +30% defense for 5 turns.
   types:
@@ -39,4 +41,6 @@ costume:
   - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/EPCCR66.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

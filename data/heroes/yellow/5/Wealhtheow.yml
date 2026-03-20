@@ -1,3 +1,4 @@
+---
 name: Wealhtheow
 source: blackfriday
 family: beowulf
@@ -9,22 +10,28 @@ defense: 1236
 health: 2305
 skill: Cup of Mead
 effects:
-  - Heals all allies who have less than 50% HP left to 50% health.
-  - All allies regenerate 1320 boosted health over 3 turns. Boosted health can exceed max HP.
-  - >-
-    Source of Buffs: The following effects are cast on a random ally at the start of each turn
-  - " * +100% Special Skill damage for 4 turns."
-  - " * +33% mana generation for 4 turns."
-  - " * The Source of Buffs will activate 3 times. Each attempt to dispel it removes one activation."
+- Heals all allies who have less than 50% HP left to 50% health.
+- All allies regenerate 1320 boosted health over 3 turns. Boosted health can exceed
+  max HP.
+- 'Source of Buffs: The following effects are cast on a random ally at the start of
+  each turn'
+- ' * +100% Special Skill damage for 4 turns.'
+- ' * +33% mana generation for 4 turns.'
+- ' * The Source of Buffs will activate 3 times. Each attempt to dispel it removes
+  one activation.'
 types:
-  - Healer
-  - Boosted HoT All
-  - Source of Buffs Random 1
+- Healer
+- Boosted HoT All
+- Source of Buffs Random 1 every turn
 passives:
-  - >-
-    Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.
-  - >-
-    Heal when Status Ailment Expires or Is Cleared: This character's receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
-  - >-
-    Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs.
+- 'Mana on Buff Received: This character gains 5% mana when they receive a buff or
+  positive stack.'
+- 'Heal when Status Ailment Expires or Is Cleared: This character''s receives 10%
+  health each time a status ailment expires or is cleansed, removed or reallocated
+  from them. This effect can activate only once per turn.'
+- 'Resist Buff Blocking: This character is immune to effect that would block them
+  from receiving new status effect buffs.'
 image: https://i.imgur.com/yG43ChX.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...
