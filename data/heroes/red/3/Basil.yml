@@ -1,3 +1,4 @@
+---
 name: Basil
 source: covenant
 family: abysshunter
@@ -9,16 +10,26 @@ defense: 538
 health: 782
 skill: Squeak of Protection
 effects:
-  - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
-  - All allies get +35% defense for 4 turns. The defense increases by 10% each turn up to +65%.
-  - All allies counterattack with 70% of the damage received for 4 turns. The counterattack damage increases by +10% each turn, up to +100%.
+- All allies become Soul Connected for 4 turns. Soul Connected allies share received
+  damage.
+- All allies get +35% defense for 4 turns. The defense increases by 10% each turn
+  up to +65%.
+- All allies counterattack with 70% of the damage received for 4 turns. The counterattack
+  damage increases by +10% each turn, up to +100%.
 types:
-  - Defense Buff
-  - Ally Damage Share
-  - Counterattack
+- Defense Buff All
+- Ally Damage Share
+- Counterattack All
 passives:
-  - >-
-    Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
-  - >-
-    Hunter's sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health.
+- 'Hunter''s Sense: When this character casts their Special Skill, they transfer the
+  newest cleansable status ailment from themself to the target. If the Special Skill
+  cannot target an enemy, a random enemy is chosen instead. If this character has
+  no cleansable status ailments, they recover 12% health.'
+- 'Damage over Time on Special: When this character casts their Special Skill, they
+  give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
+  If a target already has this effect, the duration will be refreshed and the damage
+  will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/WxAALcm.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...

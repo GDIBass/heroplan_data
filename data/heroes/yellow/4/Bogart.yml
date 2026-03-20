@@ -17,14 +17,14 @@ types:
 - Hit 3
 - Defense Debuff 3
 passives:
-- 'Damage over time on special: When this character casts their Special Skill, they
+- 'Hunter''s Sense: When this character casts their Special Skill, they transfer the
+  newest cleansable status ailment from themself to the target. If the Special Skill
+  cannot target an enemy, a random enemy is chosen instead. If this character has
+  no cleansable status ailments, they recover 8% health.'
+- 'Damage over Time on Special: When this character casts their Special Skill, they
   give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
-- 'Hunter''s sense: When this character casts their Special Skill, they transfer the
-  newest cleansable status ailment from themself to the target. If the Special Skill
-  cannot target an enemy, a random enemy is chosen instead. If this character has
-  no status ailments, they recover 8% health.'
 image: https://i.imgur.com/Z4N4G0e.jpg
 dtReleased: ""
 dtModified: "2026-03-20"

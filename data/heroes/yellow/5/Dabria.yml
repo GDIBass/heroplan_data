@@ -20,9 +20,9 @@ types:
 - Defense Buff All
 passives:
 - 'Hunter''s Sense: When this character casts their Special Skill, they transfer the
-  newest cleansable status ailment from themselves to the target. If the Special Skill
+  newest cleansable status ailment from themself to the target. If the Special Skill
   cannot target an enemy, a random enemy is chosen instead. If this character has
-  no status ailments, they recover 8% health.'
+  no cleansable status ailments, they recover 8% health.'
 - 'Damage Over Time on Special: When this character casts their Special Skill, they
   give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
   If a target already has this effect, the duration will be refreshed and the damage

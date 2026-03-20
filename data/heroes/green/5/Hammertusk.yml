@@ -14,7 +14,7 @@ effects:
 - All damage the target and nearby enemies receives is increased by +50% for 4 turns.
 types:
 - Hit 3
-- Damage Receive Debuff 3
+- Increased Received Damage Debuff 3
 passives:
 - 'Special Skill Damage Reduction: This character has a 10% chance to drop the direct
   damage received from Special Skills to 1.'
@@ -23,4 +23,6 @@ passives:
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/pL7PYXM.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 ...

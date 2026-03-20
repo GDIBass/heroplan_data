@@ -19,13 +19,15 @@ types:
 - Blind 3
 - DoT 3
 passives:
-- 'Hunter''s Sense: When this character casts their Special Skill, they have 100%
-  chance to transfer the newest status ailment from themself to the target. If the
-  Special Skill cannot target an enemy, a random enemy is chosen instead. If this
-  character has no status ailments, they recover 12% health.'
+- 'Hunter''s Sense: When this character casts their Special Skill, they transfer the
+  newest cleansable status ailment from themself to the target. If the Special Skill
+  cannot target an enemy, a random enemy is chosen instead. If this character has
+  no cleansable status ailments, they recover 5% health.'
 - 'Damage over Time on Special: When this character casts their Special Skill, they
-  have 100% chance to transfer the newest status ailment from themself to the target.
-  If the Special Skill cannot target an enemy, a random enemy is chosen instead. If
-  this character has no status ailments, they recover 5% health.'
+  give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
+  If a target already has this effect, the duration will be refreshed and the damage
+  will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/obJIXMO.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 ...

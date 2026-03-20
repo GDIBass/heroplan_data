@@ -15,7 +15,7 @@ effects:
 - 'Stack (Max: 10): The caster gets +15% attack against the weaker element.'
 types:
 - Hit 1
-- Attack Stack Self
+- Attack Buff Stack Self
 passives:
 - 'Hunter''s Vigor: When this character casts their Special Skill, they get +20% attack
   for 3 turns. This effect can be active in addition to other effects that alter attack.'
@@ -24,4 +24,6 @@ passives:
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased with 150, up to 1500 damage in total.'
 image: https://i.imgur.com/sBMiou9.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 ...

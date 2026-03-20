@@ -1,3 +1,4 @@
+---
 name: Revna
 source: covenant
 family: plainshunter
@@ -9,18 +10,25 @@ defense: 1126
 health: 2214
 skill: Cloak of Feathers
 effects:
-  - Safely cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)
-  - Recovers 35% health for all allies.
-  - All allies reflect status ailments, negative stacks, and Wither effects to a random character on the opposing team for 4 turns.
+- Safely cleanses 1 status ailment from all allies. (Status ailments are cleansed
+  in the order they have been received. The latest status ailments are cleansed first.)
+- Recovers 35% health for all allies.
+- All allies reflect status ailments, negative stacks and Wither effects to a random
+  character on the opposing team for 4 turns.
 types:
-  - Safely Cleanses 1 Ailment
-  - Healer All
-  - Reflect Ailments All
-  - Reflect Stacks All
-  - Reflect Wither All
+- Safely Cleanses Latest Ailment
+- Healer All
+- Reflect Ailments All
+- Reflect Negative Stacks All
+- Reflect Wither All
 passives:
-  - >-
-    Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
-  - >-
-    Damage over Time on Special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
+- 'Special Skill Damage Reduction: This character has a 10% chance to drop the direct
+  damage received from Special Skills to 1.'
+- 'Damage over Time on Special: When this character casts their Special Skill, they
+  give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
+  If a target already has this effect, the duration will be refreshed and the damage
+  will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/Uu7gHck.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+...
