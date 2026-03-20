@@ -1,3 +1,4 @@
+---
 name: Melia
 source: season2
 family: atlantis
@@ -9,14 +10,17 @@ defense: 404
 health: 684
 skill: Atlantean Sword
 effects:
-  - Deals 120% damage to all enemies.
-  - All allies get +36% critical chance for 4 turns.
+- Deals 120% damage to all enemies.
+- All allies get +36% critical chance for 4 turns.
 types:
-  - Hit All
-  - Crit Buff All
+- Hit All
+- Critical Chance Buff All
 image: https://i.imgur.com/4LFidrS.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Fighter
   power: 464
   attack: 534
@@ -24,9 +28,13 @@ costume:
   health: 709
   skill: Atlantean Blade
   effects:
-    - Deals 120% damage to all enemies.
-    - All enemies get -25% accuracy for 3 turns. Chance to miss also applies too offensive Special Skills.
+  - Deals 120% damage to all enemies.
+  - All enemies get -25% accuracy for 3 turns. Chance to miss also applies too offensive
+    Special Skills.
   types:
-    - Hit All
-    - Accuracy Debuff
+  - Hit All
+  - Blind All
   image: https://i.imgur.com/M7NWE48.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
+...

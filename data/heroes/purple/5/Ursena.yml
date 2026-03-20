@@ -11,16 +11,18 @@ health: 1283
 skill: Depth Blast
 effects:
 - Deals 130% damage to all enemies.
-- Deals 260% damage if the target has more than 50% health remaining.
+- If the enemies have more that 50% health remaining, deals 260% damage instead.
 - All allies reflect all status effects and 115% damage back to the attacker and block
-  other negative effects from enemies' Holy Special Skills for 4 turns. Status effects
-  cast by characters, Minions and Fiends on the same side cannot be reflected.
+  other negative effects from enemies' Holy Special Skills for 4 turns. (Status effects
+  cast by characters, Minions and Fiends on the same side cannot be reflected.)
 - Deals extra damage against Holy.
 types:
 - Hit All
 - Elemental Reflect All
 - Elemental Counterattack All
 image: https://i.imgur.com/OQ8iQcf.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,15 +34,17 @@ costume:
   skill: Reef Blast
   effects:
   - Deals 130% damage to all enemies.
-  - Deals 260% damage if the target has more than 50% health remaining.
+  - If the enemies have more that 50% health remaining, deals 260% damage instead.
   - All allies reflect all status effects and 115% damage back to the attacker and
-    block other negative effects from  enemies' Holy Special Skills back to the attacker
-    for 4 turns. Status effects cast by characters, Minions and Fiends on the same
-    side cannot be reflected.
+    block other negative effects from enemies' Holy Special Skills for 4 turns. (Status
+    effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
   - All Holy enemies get -54% defense against Dark for 4 turns.
   types:
   - Hit All
   - Elemental Reflect All
   - Elemental Counterattack All
+  - Elemental Defense Debuff All dark
   image: https://i.imgur.com/HefSfvM.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
 ...

@@ -1,3 +1,4 @@
+---
 name: Wilbur
 source: season2
 family: lagoon
@@ -9,18 +10,23 @@ defense: 690
 health: 1143
 skill: Wonderful Feast
 effects:
-  - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
-  - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.
-  - All allies get +63% defense for 4 turns
-  - All enemies get -44% defense for 4 turns
+- All allies become Soul Connected for 4 turns. Soul Connected allies share received
+  damage.
+- All enemies become Soul Connected for 4 turns. Soul Connected enemies share received
+  damage.
+- All allies get +63% defense for 4 turns
+- All enemies get -44% defense for 4 turns
 types:
-  - Ally Damage Share
-  - Enemy Damage Share
-  - Defense Buff
-  - Defense Debuff
+- Ally Damage Share
+- Enemy Damage Share
+- Defense Buff All
+- Defense Debuff All
 image: https://i.imgur.com/EjclF3b.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Cleric
   power: 671
   attack: 656
@@ -28,9 +34,14 @@ costume:
   health: 1197
   skill: Brilliant Brew
   effects:
-    - All allies get +100% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +140% increased power while this effect is active.
-    - All allies regenerate 280 HP over 4 turns.
+  - All allies get +100% normal attack for 4 turns. This effect can be active in addition
+    to effects that alter attack in general. Normal attacks can have a total maximum
+    of +140% increased power while this effect is active.
+  - All allies regenerate 280 HP over 4 turns.
   types:
-    - Titan Attack Buff
-    - HoT 
+  - Titan Attack Buff All
+  - HoT All
   image: https://i.imgur.com/BehrpwT.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
+...

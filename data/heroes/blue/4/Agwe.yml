@@ -1,3 +1,4 @@
+---
 name: Agwe
 source: season2
 family: lagoon
@@ -9,14 +10,17 @@ defense: 634
 health: 1143
 skill: Rogue Wave
 effects:
-  - Deals 190% damage to all enemies.
-  - All allies get +54% defense against Nature for 4 turns.
+- Deals 190% damage to all enemies.
+- All allies get +54% defense against Nature for 4 turns.
 types:
-  - Hit All
-  - Elemental Defense Buff
+- Hit All
+- Elemental Defense Buff
 image: https://i.imgur.com/cTx7oHb.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Wizard
   power: 669
   attack: 658
@@ -24,9 +28,12 @@ costume:
   health: 1107
   skill: Spilled Decoctions
   effects:
-    - Deals 185% damage to all enemies.
-    - All Nature enemies receive 536 Burn damage over 4 turns.
+  - Deals 185% damage to all enemies.
+  - All Nature enemies receive 536 Burn damage over 4 turns.
   types:
-    - Hit All
-    - Elemental DoT
+  - Hit All
+  - DoT All Nature
   image: https://i.imgur.com/1q4qwgL.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
+...

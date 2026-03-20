@@ -1,3 +1,4 @@
+---
 name: Gill-Ra
 source: season2
 family: lagoon
@@ -9,16 +10,19 @@ defense: 453
 health: 747
 skill: Lament of Regression
 effects:
-  - All enemies get -34% defense for 4 turns.
-  - All enemies get -34% attack for 4 turns.
-  - Cleanses status ailments from all allies.
+- All enemies get -34% defense for 4 turns.
+- All enemies get -34% attack for 4 turns.
+- Cleanses status ailments from all allies.
 types:
-  - Defense Debuff
-  - Attack Debuff
-  - Cleanser
+- Defense Debuff All
+- Attack Debuff All
+- Cleanser All
 image: https://i.imgur.com/5yoZu18.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Rogue
   power: 463
   attack: 478
@@ -26,11 +30,14 @@ costume:
   health: 767
   skill: Lament of the Hunt
   effects:
-    - All allies get +25% defense for 4 turns.
-    - All allies get +25% attack for 4 turns.
-    - Dispells buffs from all enemies.
+  - All allies get +25% defense for 4 turns.
+  - All allies get +25% attack for 4 turns.
+  - Dispells buffs from all enemies.
   types:
-    - Defense Buff
-    - Attack Buff
-    - Dispeller
+  - Defense Buff All
+  - Attack Buff All
+  - Dispeller All
   image: https://i.imgur.com/bezss9U.jpg
+  dtReleased: ""
+  dtModified: "2026-03-20"
+...

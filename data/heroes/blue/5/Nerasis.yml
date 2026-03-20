@@ -20,9 +20,12 @@ effects:
   dispelled.
 types:
 - Hit 1
-- Self Mana Increase on Kill
+- Mana Increase Self on Kill
+- Attack Buff Stack Self
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its target.'
 - 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 image: https://imgur.com/Uu4IHao.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
 ...
