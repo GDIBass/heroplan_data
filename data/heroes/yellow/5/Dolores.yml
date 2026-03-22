@@ -13,8 +13,8 @@ effects:
 - For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity
   to a random target and nearby enemies each time any other ally casts their Special
   Skill.
-- 'Stack (Max: 10): All allies get +20% attack'
-- 'Stack (Max: 10): All allies get +5% mana generation'
+- 'Stack (Max: 10): All allies get +20% attack.'
+- 'Stack (Max: 10): All allies get +5% mana generation.'
 - Inflicts 50 Insanity to the caster.
 types:
 - Hit Random 3 on ally SS cast
@@ -27,5 +27,5 @@ passives:
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/sAavBEB.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-03-22"
 ...

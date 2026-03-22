@@ -17,10 +17,13 @@ effects:
 - Casting this Special Skill inflicts 40 Insanity on the caster.
 types:
 - Hit 2
-- Damage on each Resisted Healing 2
-- Self Insanity
+- Resist Healing Debuff 2
+- Damage on each attempted heal
+- Insanity Self
 passives:
 - 'Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/WJH09pj.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
 ...

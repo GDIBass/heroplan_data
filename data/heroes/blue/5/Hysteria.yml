@@ -18,7 +18,9 @@ effects:
 - Casting this Special Skill inflicts 45 Insanity on the caster.
 types:
 - Taunt
-- Insanity All
-- Self Insanity
+- Insanity All on hit
+- Insanity Self
 image: https://imgur.com/GBS05PK.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
 ...

@@ -1,7 +1,7 @@
 ---
 name: Salvatore
 source: shadow
-family: investigator
+family: cultist
 speed: Slow
 class: Fighter
 power: 1218
@@ -23,10 +23,12 @@ effects:
   to new Growth and Wither effects.)
 - Casting this Special Skill inflicts 25 Insanity on all allies except the caster.
 types:
-- Self Full Removal
-- Self Deranged Dire Ghost
-- Hit 1
-- Insanity 1
-- Insanity to allies
+- Full Removal Self
+- Deranged Dire Ghost Self
+- Hit 1 while ghost
+- Insanity 1 while ghost
+- Insanity to allies except Self
 image: https://imgur.com/kk1oySX.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
 ...

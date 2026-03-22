@@ -19,7 +19,7 @@ effects:
 - Deals 400% damage to all enemies and inflicts 25 Insanity on them.
 - Casting this Special Skill inflicts 45 Insanity on the caster.
 types:
-- Fear All
+- Fear Debuff All
 - Attack Wither All
 - Hit All
 - Insanity All

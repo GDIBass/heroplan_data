@@ -18,8 +18,10 @@ effects:
 types:
 - Hit All
 - Healer All
-- Dodge Buff All
+- Dodge Chance Buff All
 - Insanity on dodge
 - Insanity Self
 image: https://i.imgur.com/mxewGNK.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
 ...
