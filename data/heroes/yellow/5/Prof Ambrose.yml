@@ -1,0 +1,38 @@
+---
+name: Prof Ambrose
+source: shadow
+family: theinstitute
+speed: Slow
+class: Cleric
+power: 1289
+attack: 1316
+defense: 1361
+health: 2307
+skill: Staff of Domination
+effects:
+- All enemies succumb to Fear for 5 turns. (The target gets -40% defense. Removes
+  all dispellable buffs and Growth effects when a Fear status effect is added. The
+  target cannot gain new buffs or Growth effects for the duration. Target with Fear
+  deals 160% damage to a random ally each time any other ally casts their Special
+  Skill. Each character can trigger this effect once per turn.)
+- 'Wither: All enemies get -400 attack.'
+- Deals 400% damage to all enemies and inflicts 25 Insanity on them.
+- Casting this Special Skill inflicts 45 Insanity on the caster.
+types:
+- Fear All
+- Attack Wither All
+- Hit All
+- Insanity All
+- Insanity Self
+passives:
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+- 'Branded by the Old Ones: All damage from normal attacks and Special Skills dealt
+  by this character is increased by 6% per 10 Insanity on this character, up to 60%.'
+image: https://imgur.com/QhHCnui.jpg
+dtReleased: "2026-03-22"
+dtModified: ""
+...
