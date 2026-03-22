@@ -1,3 +1,4 @@
+---
 name: Jolyon
 source: wilderness
 family: woodlandfaun
@@ -9,19 +10,24 @@ defense: 1223
 health: 2263
 skill: Charm of Protection
 effects:
-  - "Enhanced Dodge: All allies get +75% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges once."
-  - After the Enhanced Dodge ends or is removed or replaced, the ally gets a Wooden Doll Minion.
-  - The Wooden Doll Minion has 30% HP and 30% attack inherited from the caster.
-  - When summoned the Wooden Doll Minion gives its owner immunity to new status ailments for as long as the owner has Wooden Doll Minion.
+- 'Enhanced Dodge: All allies get +75% chance to dodge Special Skills that deal damage.
+  This effect lasts until the ally succesfully dodges once.'
+- After the Enhanced Dodge ends or is removed or replaced, the ally gets a Wooden
+  Doll Minion.
+- The Wooden Doll Minion has 30% HP and 30% attack inherited from the caster.
+- When summoned the Wooden Doll Minion gives its owner immunity to new status ailments
+  for as long as the owner has Wooden Doll Minion.
 types:
-  - Enhanced Dodge All
-  - Summoner
-  - Status Ailments Immunity Minion
+- Enhanced Dodge All
+- Summoner
+- Status Ailments Immunity Minion
 passives:
-  - >-
-    Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.
-  - >-
-    Resist Insanity: This character has innate resistance against Insanity.
-  - >-
-    Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense. 
+- 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
+  have -50% accuracy.'
+- 'Resist Insanity: This character is immune to Insanity.'
+- 'Resist Defense Ailments: This character has innate resistance against status ailments,
+  stacks and Wither effects that affect defense.'
 image: https://imgur.com/61PB1e9.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
+...

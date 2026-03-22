@@ -32,6 +32,8 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * The caster get +19% mana generation for 2 turns.'
 image: https://i.imgur.com/Ns22n5S.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -64,6 +66,8 @@ costume:
     character casts their Special Skill.'
   - ' * Deals 80% damage to all enemies.'
   - ' * The caster get +19% mana generation for 2 turns.'
-  - 'Resist Insanity: This character has innate resistance against Insanity.'
+  - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/lUbp0Tz.jpg
+  dtReleased: ""
+  dtModified: "2026-03-22"
 ...

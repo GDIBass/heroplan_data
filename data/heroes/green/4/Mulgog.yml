@@ -1,3 +1,4 @@
+---
 name: Mulgog
 source: untoldtales
 family: nightmaresofatlantis
@@ -9,24 +10,27 @@ defense: 643
 health: 1228
 skill: Noxious Cleave
 effects:
-  - 'Special Skill need consecutive uses to reach full power, the following order:'
-  - '1st:'
-  - ' * Deals 230% damage to target and nearby enemies.'
-  - ' * Reduces the mana of the target and nearby enemies by 10%.'
-  - '2nd:'
-  - ' * Deals 260% damage to target and nearby enemies.'
-  - ' * Reduces the mana of the target and nearby enemies by 15%.'
-  - ' * All enemies receive 570 Poison damage over 5 turns. The caster absorbs 50% of dealt Posion damage as health.'
+- 'Special Skill need consecutive uses to reach full power, the following order:'
+- '1st:'
+- ' * Deals 230% damage to target and nearby enemies.'
+- ' * Reduces the mana of the target and nearby enemies by 10%.'
+- '2nd:'
+- ' * Deals 260% damage to target and nearby enemies.'
+- ' * Reduces the mana of the target and nearby enemies by 15%.'
+- ' * All enemies receive 570 Poison damage over 5 turns. The caster absorbs 50% of
+  dealt Posion damage as health.'
 types:
-  - Hit 3
-  - Mana Reduction
-  - DoT all
+- Hit 3
+- Mana Reduction
+- DoT all
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 80% damage to all enemies.'
-  - ' * All allies get +19% mana generation for 2 turns.'
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 80% damage to all enemies.'
+- ' * All allies get +19% mana generation for 2 turns.'
 image: https://i.imgur.com/b7HL0wq.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,23 +41,26 @@ costume:
   health: 1298
   skill: Noxious Chord
   effects:
-    - 'Special Skill need consecutive uses to reach full power, the following order:'
-    - '1st:'
-    - ' * Deals 220% damage to target and nearby enemies.'
-    - ' * Reduces the mana of the target and nearby enemies by 8%.'
-    - '2nd:'
-    - ' * Deals 280% damage to target and nearby enemies.'
-    - ' * Reduces the mana of the target and nearby enemies by 18%.'
-    - ' * All enemies receive 665 Poison damage over 5 turns. The caster absorbs 55% of dealt Posion damage as health.'
+  - 'Special Skill need consecutive uses to reach full power, the following order:'
+  - '1st:'
+  - ' * Deals 220% damage to target and nearby enemies.'
+  - ' * Reduces the mana of the target and nearby enemies by 8%.'
+  - '2nd:'
+  - ' * Deals 280% damage to target and nearby enemies.'
+  - ' * Reduces the mana of the target and nearby enemies by 18%.'
+  - ' * All enemies receive 665 Poison damage over 5 turns. The caster absorbs 55%
+    of dealt Posion damage as health.'
   types:
-    - Hit 3
-    - Mana Reduction
-    - DoT all
-  passives:  
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 80% damage to all enemies.'
-    - ' * All allies get +19% mana generation for 2 turns.'
-    - >-
-      Resist Insanity: This character has innate resistance against Insanity.
+  - Hit 3
+  - Mana Reduction
+  - DoT all
+  passives:
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 80% damage to all enemies.'
+  - ' * All allies get +19% mana generation for 2 turns.'
+  - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/X5IVjtR.jpg
+  dtReleased: ""
+  dtModified: "2026-03-22"
+...

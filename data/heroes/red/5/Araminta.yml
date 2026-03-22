@@ -1,3 +1,4 @@
+---
 name: Araminta
 source: wilderness
 family: woodlandfaun
@@ -9,18 +10,21 @@ defense: 1104
 health: 2177
 skill: Forceful Advance
 effects:
-  - Deals 260% damage to all enemies.
-  - 'Stack (Max: 10): All damage all enemies recieve is increased by +7%.'
-  - All allies gain 10% mana after 2 turns, or immediatelly if the effect is removed before the duration ends.
+- Deals 260% damage to all enemies.
+- 'Stack (Max: 10): All damage all enemies recieve is increased by +7%.'
+- All allies gain 10% mana after 2 turns, or immediatelly if the effect is removed
+  before the duration ends.
 types:
-  - Hit All
-  - Damage Increase Stack All
-  - Delayed Mana boost All
+- Hit All
+- Damage Increase Stack All
+- Delayed Mana boost All
 passives:
-  - >-
-    Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.
-  - >-
-    Resist Insanity: This character has innate resistance against Insanity.
-  - >-
-    Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack.
+- 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
+  have -50% accuracy.'
+- 'Resist Insanity: This character is immune to Insanity.'
+- 'Resist Attack Reduction: This character has innate resistance against status ailments,
+  stacks and Wither effects that affect attack.'
 image: https://i.imgur.com/52hX4ns.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
+...

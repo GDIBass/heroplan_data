@@ -35,6 +35,8 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/eqqisr9.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -68,6 +70,8 @@ costume:
     character casts their Special Skill'
   - ' * Deals 80% damage to all enemies.'
   - ' * All allies get +21% critical chance for 2 turns.'
-  - 'Resist Insanity: This character has innate resistance against Insanity.'
+  - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/wMfcpZk.jpg
+  dtReleased: ""
+  dtModified: "2026-03-22"
 ...

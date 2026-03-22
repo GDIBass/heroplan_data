@@ -1,3 +1,4 @@
+---
 name: Bramble
 source: wilderness
 family: woodlandfaun
@@ -9,17 +10,22 @@ defense: 1182
 health: 2214
 skill: Sylvan Blessings
 effects:
-  - Recovers 50% health for all allies.
-  - All allies gain 25% mana after 3 turns or immediately if the effect is removed before the duration ends.
-  - Safely cleanses status ailmentsfrom all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.)
+- Recovers 50% health for all allies.
+- All allies gain 25% mana after 3 turns or immediately if the effect is removed before
+  the duration ends.
+- Safely cleanses status ailmentsfrom all allies. (Safe cleanse bypasses secondary
+  effects, such as damage on removal, from removed status ailment. External effects
+  such as passive skills and family effects can still activate.)
 types:
-  - Heal All
-  - Safely Cleanses
+- Heal All
+- Safely Cleanses
 passives:
-  - >-
-    Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.
-  - >-
-    Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.
-  - >-
-    Resist Insanity: This character has innate resistance against Insanity.
+- 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
+  have -50% accuracy.'
+- 'Resist Defense Reduction: This character has innate resistance against status ailments,
+  stacks and Wither effects that affect defense.'
+- 'Resist Insanity: This character is immune to Insanity.'
 image: https://i.imgur.com/BA1yyNs.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
+...
