@@ -16,8 +16,11 @@ effects:
 - All allies get +30% defense for 4 turns.
 types:
 - Summoner All
+- Minions Attack Buff All
 - Defense Buff All
 image: https://i.imgur.com/4iJaoi6.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +37,9 @@ costume:
   - All allies get +36% chance to dodge Special Skills that deal damage for 4 turns.
   types:
   - Summoner All
+  - Minions Attack Buff All
   - Dodge Chance Buff All
   image: https://i.imgur.com/Ye3Esdg.jpg
+  dtReleased: ""
+  dtModified: "2026-03-23"
 ...

@@ -19,6 +19,8 @@ types:
 - Hit All
 - Defense Debuff All
 image: https://i.imgur.com/UMxFVGq.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +38,8 @@ costume:
     on the board for 3 turns, up to -48% defense.
   types:
   - Hit All
-  - Defense Debuff
+  - Defense Debuff All
   image: https://i.imgur.com/G0IAEBg.jpg
+  dtReleased: ""
+  dtModified: "2026-03-23"
 ...

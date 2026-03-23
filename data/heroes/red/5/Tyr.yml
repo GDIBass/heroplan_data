@@ -14,9 +14,9 @@ effects:
 - The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
 - The target receives 212 Bleed damage over 4 turns.
 - The caster regenerates 548 HP over 4 turns.
-- If the caster dies during the next 4 turns, they are resurrected in the beginning
+- If the caster is defeated during the next 4 turns, they are resurrected in the beginning
   of their next turn with 32% health. All status effects and stacks are removed when
-  the caster dies.
+  the caster is defeated.
 types:
 - Hit 1
 - Bypass Chance
@@ -24,6 +24,8 @@ types:
 - Self HoT
 - Self Resurrection
 image: https://i.imgur.com/tjoH1nb.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,13 +40,16 @@ costume:
   - The attack bypasses defensive buffs. This includes counterattacks.
   - The target and nearby enemies receive 648 Bleed damage over 4 turns. The caster
     absorbs 40% of the dealt Bleed damage as health.
-  - If the caster dies during the next 4 turns they are resurrected in the beginning
-    of their turn with 40% health. All status effects and stacks are removed when
-    the caster dies.
+  - If the caster is defeated during the next 4 turns, they are resurrected in the
+    beginning of their next turn with 40% health. All status effects and stacks are
+    removed when the caster is defeated.
   types:
   - Hit 3
   - Bypass
   - Dot 3
+  - Heal Self on DoT
   - Self Resurrection
   image: https://i.imgur.com/7UO34fo.jpg
+  dtReleased: ""
+  dtModified: "2026-03-23"
 ...

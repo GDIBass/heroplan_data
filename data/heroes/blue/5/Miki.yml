@@ -21,7 +21,9 @@ types:
 - Titan Attack Buff All
 - Silencer 3
 passives:
-- 'Resist Special Skill Blocking: This character has is immune to status ailments
-  that prevent the use of Special Skill.'
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skill.'
 image: https://i.imgur.com/FM0GgVz.jpg
+dtReleased: ""
+dtModified: "2026-03-22"
 ...

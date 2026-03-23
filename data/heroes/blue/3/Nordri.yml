@@ -1,3 +1,4 @@
+---
 name: Nordri
 source: season3
 family: jotunheim
@@ -9,14 +10,17 @@ defense: 406
 health: 818
 skill: Frosty Axes
 effects:
-  - Deals 245% damage to the target and minor damage to nearby enemies
-  - The target and nearby enemies get -54% defense against Ice for 4 turns
+- Deals 245% damage to the target and minor damage to nearby enemies.
+- The target and nearby enemies get -54% defense against Ice for 4 turns.
 types:
-  - Hit 3
-  - Elemental Defense Debuff
+- Hit 3
+- Elemental Defense Debuff 3
 image: https://i.imgur.com/35qzhpx.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Monk
   power: 479
   attack: 477
@@ -24,9 +28,13 @@ costume:
   health: 902
   skill: Icy Axes
   effects:
-    - Deals 230% damage to the target and nearby enemies.
-    - All enemies get -54% defense against Ice for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer.
+  - Deals 220% damage to the target and nearby enemies.
+  - All enemies get -54% defense against Ice for 3 turns. Against Fire characters,
+    this status effect becomes uncleansable and lasts 2 turns longer.
   types:
-    - Hit 3
-    - Elemental Defense Debuff
+  - Hit 3
+  - Elemental Defense Debuff All
   image: https://i.imgur.com/rQEdas3.jpg
+  dtReleased: ""
+  dtModified: "2026-03-23"
+...

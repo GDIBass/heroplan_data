@@ -20,6 +20,8 @@ types:
 - Mana Boost on kill
 - Heal Self
 image: https://i.imgur.com/jTbJkeI.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -31,7 +33,7 @@ costume:
   skill: Colossal Bite
   effects:
   - Deals 350% damage to the target.
-  - Deals 700% damage if the target has less than 50% health remaining.
+  - If the target has less than 50% health remaining, deals 700% damage instead.
   - The caster recovers 35% health for each enemy killed and 15% health for each enemy
     Minion killed.
   - Increases the mana of the caster by 15%.
@@ -40,4 +42,6 @@ costume:
   - Heal Self
   - Boost Mana Self
   image: https://i.imgur.com/ZPobGZa.jpg
+  dtReleased: ""
+  dtModified: "2026-03-23"
 ...

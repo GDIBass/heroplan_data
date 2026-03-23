@@ -19,6 +19,8 @@ types:
 - Hit All Holy
 - Weird
 image: https://i.imgur.com/fVTl018.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -33,9 +35,11 @@ costume:
   - For 4 turns, the element of all enemies is changed each turn. On the first 3 turns,
     the element is random.
   - On the last turn, enemies revert to their original element.
-  - After each element change, enemies take 736 damage if their element is Holy.
+  - After each element change, enemies take 811 damage if their element is Holy.
   types:
   - Hit All Holy
   - Weird
   image: https://i.imgur.com/mbPRCrB.jpg
+  dtReleased: ""
+  dtModified: "2026-03-23"
 ...

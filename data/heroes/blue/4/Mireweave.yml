@@ -1,17 +1,21 @@
+---
 name: Mireweave
-class: Ranger
 source: season3
+family: vanaheim
 speed: Very Fast
+class: Ranger
 power: 660
 attack: 697
 defense: 597
 health: 1175
 skill: Chain of Pain
 effects:
-  - Deals 150% damage to the target and nearby enemies.
-  - 'Stack (Max: 10): The caster gets +10% attack.'
+- Deals 150% damage to the target and nearby enemies.
+- 'Stack (Max: 10): The caster gets +10% attack.'
 types:
-  - Hit 3
-  - Stacking
-family: vanaheim
+- Hit 3
+- Attack Buff Stack Self
 image: https://i.imgur.com/mjsblyy.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
+...

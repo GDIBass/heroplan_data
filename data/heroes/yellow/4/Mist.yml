@@ -17,8 +17,9 @@ effects:
 types:
 - Hit 3
 - Buff Immunity Debuff 3
+- SS Defense Debuff 3
 - Mana Generation Debuff 3
 image: https://i.imgur.com/1FjRHHb.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-03-23"
 ...

@@ -1,3 +1,4 @@
+---
 name: Bjorn
 source: season3
 family: midgard
@@ -9,16 +10,19 @@ defense: 436
 health: 827
 skill: Dual Slash
 effects:
-  - Deals 200% damage to the target.
-  - >-
-    Deals 350% damage to a random different enemy. Deals extra damage if the
-    target is Holy. This effect targets the same enemy as the first hit if there are no other valid targets.
+- Deals 200% damage to the target.
+- Deals 350% damage to a random different enemy. Deals extra damage if the target
+  is Holy. This effect targets the same enemy as the first hit if there are no other
+  valid targets.
 types:
-  - Hit 1
-  - Hit Bounce
+- Hit 1
+- Hit Random 1
 image: https://i.imgur.com/vOaNkHC.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Rogue
   power: 478
   attack: 464
@@ -26,13 +30,15 @@ costume:
   health: 878
   skill: Empowered Slash
   effects:
-    - Deals 180% damage to the target.
-    - Deals 380% damage to a random different enemy.
-    - >-
-      Enemies hit get -24% mana generation for 3 turns. Against Holy characters,
-      this status effect becomes uncleansable and lasts 2 turns longer.
+  - Deals 180% damage to the target.
+  - Deals 380% damage to a random different enemy.
+  - Enemies hit get -24% mana generation for 3 turns. Against Holy characters, this
+    status effect becomes uncleansable and lasts 2 turns longer.
   types:
-    - Hit 1
-    - Bounce
-    - Mana Generation Debuff
+  - Hit 1
+  - Hit Random 1
+  - Mana Generation Debuff on hit
   image: https://i.imgur.com/KuvURzu.jpg
+  dtReleased: ""
+  dtModified: "2026-03-23"
+...

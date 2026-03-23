@@ -21,6 +21,8 @@ types:
 - DoT Stack All on enemy/minion defeated
 - Mana Generation Debuff Stack All on enemy/minion defeated
 image: https://i.imgur.com/MzjdnYC.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,14 +34,16 @@ costume:
   skill: Iceberg Havoc
   effects:
   - Deals 320% damage to the target and nearby enemies.
-  - The damage is increased by 35% per each dead enemy.
-  - 'Stack (Max: 10): All enemies receive 54 Frost damage per each killed enemy or
-    enemy Minion at the end of each turn.'
-  - 'Stack (Max: 10): All enemies get -7% mana generation per each killed enemy or
-    enemy Minion.'
+  - The damage is increased by 35% per each defeated enemy.
+  - 'Stack (Max: 10): All enemies receive 54 Frost damage per each defeated enemy
+    or enemy Minion at the end of each turn.'
+  - 'Stack (Max: 10): All enemies get -7% mana generation per each defeated enemy
+    or enemy Minion.'
   types:
   - Hit 3
   - DoT Stack All on enemy/minion defeated
   - Mana Generation Debuff Stack All on enemy/minion defeated
   image: https://i.imgur.com/SWH0vbH.jpg
+  dtReleased: ""
+  dtModified: "2026-03-23"
 ...
