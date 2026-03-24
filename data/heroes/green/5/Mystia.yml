@@ -1,6 +1,7 @@
+---
 name: Mystia
 source: hotm
-family: 2025
+family: "2025"
 speed: Average
 class: Sorcerer
 power: 1063
@@ -9,18 +10,24 @@ defense: 1093
 health: 1777
 skill: Mesmerizing Mirror
 effects:
-  - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.
-  - All enemies get -34% defense for 4 turns.
-  - All allies reflect all status effects and 145% damage back to the attacker and block other negative effects from enemies' Fire Special Skill for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
-  - Element Link gives all Nature allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled.
+- All enemies become Soul Connected for 4 turns. Soul Connected enemies share received
+  damage.
+- All enemies get -34% defense for 4 turns.
+- All allies reflect all status effects and 145% damage back to the attacker and block
+  other negative effects from enemies' Fire Special Skill for 4 turns. (Status effects
+  cast by characters, Minions and Fiends on the same side cannot be reflected.)
+- Element Link gives all Nature allies +30% defense against Special Skills for 4 turns.
+  This effect can't be dispelled.
 types:
-  - Enemy Damage Share
-  - Defense Debuff All
-  - Elemental Reflect All
-  - Elemental Counterattack All
+- Enemy Damage Share
+- Defense Debuff All
+- Elemental Reflect All
+- Elemental Counterattack All
 passives:
-  - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
-  - >-  
-    Ignore Taunt: This character's Special Skill is not affected by Taunt.
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skills.'
+- 'Ignore Taunt: This character''s Special Skill is not affected by Taunt.'
 image: https://i.imgur.com/igntudt.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
+...
