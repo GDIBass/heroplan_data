@@ -22,7 +22,7 @@ effects:
   turn.
 types:
 - Healer 3
-- Growth Boon
+- Heal Growth Boon
 - Counterattack 3
 - Mana on Counterattack 3
 passives:
@@ -33,4 +33,6 @@ passives:
 - 'Superior Resist Negative Minion Effects: This character is immune to incoming negative
   effects and damage from Minions and Mega Minions.'
 image: https://imgur.com/ncLhZOI.jpg
+dtReleased: ""
+dtModified: "2026-03-24"
 ...
