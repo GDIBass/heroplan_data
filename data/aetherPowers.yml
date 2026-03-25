@@ -1,0 +1,185 @@
+---
+- key: ailment_immunity
+  image: aether/ailment_immunity.png
+  imageImgur: https://imgur.com/yao2wuI.png
+  description: Ailment Immunity
+  descriptionLong:
+    - At the start of each battle, this Hero is immune to new status ailments for 6
+      turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: ailment_reflect
+  image: aether/ailment_reflect.png
+  imageImgur: https://imgur.com/75Ha8N4.png
+  description: Ailment Reflect
+  descriptionLong:
+    - At the start of each battle, this Hero reflects cleansable status ailments they
+      would receive to a random character on the opposing team for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: attack_up
+  image: aether/attack_up.png
+  imageImgur: https://imgur.com/ghNcCzL.png
+  description: Attack Up
+  descriptionLong:
+    - At the start of each battle, this Hero gets +20% attack for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: boosted_regen
+  image: aether/boosted_regen.png
+  imageImgur: https://imgur.com/G0UlCBl.png
+  description: Boosted Regen
+  descriptionLong:
+    - At the start of each battle, this Hero regenerates 300 boosted health over 6 turns. Boosted health can exceed max HP.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: bulwark
+  image: aether/bulwark.png
+  imageImgur: https://imgur.com/cwPnBXB.png
+  description: Bulwark
+  descriptionLong:
+    - At the start of each battle, this Hero gets +15% defense, and a further 1% increase
+      every time they are hit during 6 turns, up to +25% defense.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: counterattack
+  image: aether/counterattack.png
+  imageImgur: https://imgur.com/VQ1haGS.png
+  description: Counterattack
+  descriptionLong:
+    - At the start of each battle, this Hero counterattacks with 60% of the damage received for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: damage_reduction
+  image: aether/damage_reduction.png
+  imageImgur: https://imgur.com/ya4fFQt.png
+  description: Damage Reduction
+  descriptionLong:
+    - At the start of each battle, all damage received by this Hero is reduced by -10%
+      for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: defense_up
+  image: aether/defense_up.png
+  imageImgur: https://imgur.com/UKPWIqY.png
+  description: Defense Up
+  descriptionLong:
+    - At the start of each battle, this Hero gets +20% defense for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: dodge
+  image: aether/dodge.png
+  imageImgur: https://imgur.com/g3qGNoQ.png
+  description: Dodge
+  descriptionLong:
+    - At the start of each battle, this Hero gets +20% chance to dodge Special Skills
+      that deal damage for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: fiend_resist
+  image: aether/fiend_resist.png
+  imageImgur: https://imgur.com/neI9bHL.png
+  description: Fiend Resist
+  descriptionLong:
+    - At the start of each battle, this Hero is immune to new Fiends for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: gamble
+  image: aether/gamble.png
+  imageImgur: https://imgur.com/MxacyML.png
+  description: Gamble
+  descriptionLong:
+    - At the start of each battle, this Hero gets +60% attack with -20% accuracy for
+      6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: heal_increase
+  image: aether/heal_increase.png
+  imageImgur: https://imgur.com/EFDNkfC.png
+  description: Heal Increase
+  descriptionLong:
+    - At the start of each battle, this Hero gets +50% increase for any healing received
+      for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: knights_endurance
+  image: aether/knights_endurance.png
+  imageImgur: https://imgur.com/JQfOyAa.png
+  description: Knight's Endurance
+  descriptionLong:
+    - At the start of each battle, this Hero has a 15% chance to drop any received damage
+      to 1 for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: mana_boost
+  image: aether/mana_boost.png
+  imageImgur: https://imgur.com/wEcShkQ.png
+  description: Mana Boost
+  descriptionLong:
+    - At the start of each battle, this Hero receives a small amount of mana over 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: rage
+  image: aether/rage.png
+  imageImgur: https://imgur.com/CoJayoV.png
+  description: Rage
+  descriptionLong:
+    - At the start of each battle, this Hero gets +15% attack, and a further 1% increase
+      every time they are hit during 6 turns, up to +25% attack.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: regen
+  image: aether/regen.png
+  imageImgur: https://imgur.com/FByU7Ri.png
+  description: Regen
+  descriptionLong:
+    - At the start of each battle, this Hero regenerates 420 health over 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: revive
+  image: aether/revive.png
+  imageImgur: https://imgur.com/s0eNwsq.png
+  description: Revive
+  descriptionLong:
+    - If this Hero is defeated during the first 4 turns of a battle, they are resurrected
+      in the beginning of their next turn with 1% health. All status effects and stacks
+      are removed when the Hero is defeated.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: special_armor
+  image: aether/special_armor.png
+  imageImgur: https://imgur.com/UsOYAKk.png
+  description: Special Armor
+  descriptionLong:
+    - At the start of each battle, this Hero gets +40% defense against Special Skills
+      for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: special_boost
+  image: aether/special_boost.png
+  imageImgur: https://imgur.com/szKG5rf.png
+  description: Special Boost
+  descriptionLong:
+    - At the start of each battle, this Hero's Special Skill deals an additional +30%
+      damage for 6 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: taunt
+  image: aether/taunt.png
+  imageImgur: https://imgur.com/9BKP4xh.png
+  description: Taunt
+  descriptionLong:
+    - At the start of each battle, this Hero gets Taunt that prevents enemies from using
+      Special Skills on the Hero's allies for 3 turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+- key: vampire
+  image: aether/vampire.png
+  imageImgur: https://imgur.com/bo9eG00.png
+  description: Vampire
+  descriptionLong:
+    - At the start of each battle, this Hero heals 100% of dealt normal damage for 6
+      turns.
+    - In battles with multiple waves, the effect is refreshed at the beginning of each
+      wave.
+...
