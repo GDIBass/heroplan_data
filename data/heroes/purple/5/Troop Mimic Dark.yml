@@ -1,5 +1,5 @@
 ---
-name: Troop Mimic Fire
+name: Troop Mimic Dark
 source: secretsummon
 family: mimic
 speed: Average
@@ -15,7 +15,7 @@ effects:
   +33% mana. (After a character has received 5 direct mana additions from Special
   Skills during a single turn, all subsequent direct mana additions done by Special
   Skills will have reduced power on that character.)
-- All Fire allies get +100% normal attack for 4 turns. This effect can be active in
+- All Dark allies get +100% normal attack for 2 turns. This effect can be active in
   additional to other effects that alter attack in general. Normal attacks can have
   a total maximum of +200% increased power while this effect is active.
 - The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status
@@ -29,20 +29,20 @@ passives:
 - 'Mimic Loot: This Mimic grants a chance for the following extra loot when completing
   stages'
 - RARE
-- ' * Barbaric Maulers'
-- ' * Barbaric Minotaurs'
-- ' * Firecaller Battlemages'
+- ' * Reanimated Fighters'
+- ' * Reanimated Knights'
+- ' * Guild Knights'
 - ' * Trainer Troop'
 - UNCOMMON
-- ' * Barbaric Berserkers'
-- ' * Firecaller Wizards'
+- ' * Guild Assassins'
+- ' * Guild Strikers'
 - ' * Trainer Troop'
 - COMMON
 - ' * Common Villager'
-- ' * Barbaric Monks'
-- ' * Barbaric Fighters'
+- ' * Reanimated Fighters'
+- ' * Guild Initiates'
 - ' * Trainer Troop'
-image: https://imgur.com/m2ZYITu.jpg
-dtReleased: ""
-dtModified: "2026-03-27"
+image: https://imgur.com/ZIaPZBO.jpg
+dtReleased: "2026-03-27"
+dtModified: ""
 ...
