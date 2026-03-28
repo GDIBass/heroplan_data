@@ -18,15 +18,15 @@ bonuscostume-5star: 55/55/60/5
 bonuscostume-4star:
 bonuscostume-3star:
 zodiacAnimals:
-  - rat: '+15% Special Skill power'
-  - ox: '+10% defense'
-  - tiger: '+10% attack'
-  - rabbit: '+5% mana generation'
-  - dragon: '+15% critical chance'
-  - snake: '+5% healing'
-  - horse: '-5% Received damage reduction'
-  - goat: ''
-  - monkey: ''
-  - rooster: ''
-  - dog: ''
-  - pig: ''
+  rat: +15% Special Skill power
+  ox: +10% defense
+  tiger: +10% attack
+  rabbit: +5% mana generation
+  dragon: +15% critical chance
+  snake: +5% healing
+  horse: -5% Received damage reduction
+  goat: ""
+  monkey: ""
+  rooster: ""
+  dog: ""
+  pig: ""

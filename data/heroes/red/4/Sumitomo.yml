@@ -1,3 +1,4 @@
+---
 name: Sumitomo
 source: season2
 family: sakura
@@ -9,16 +10,20 @@ defense: 633
 health: 1113
 skill: Oji-Waza
 effects:
-  - Deals 300% damage to the target.
-  - The caster counterattacks with 135% of the damage received for 5 turns.
-  - The caster regenerates a moderate amount of mana for each counterattack for 5 turns. This effect gets diminished for consecutive activations during the same turn.
+- Deals 300% damage to the target.
+- The caster counterattacks with 135% of the damage received for 5 turns.
+- The caster regenerates a moderate amount of mana for each counterattack for 5 turns.
+  This effect gets diminished for consecutive activations during the same turn.
 types:
-  - Hit 1
-  - Counterattack 1
-  - Mana on counterattack
+- Hit 1
+- Counterattack Self
+- Mana Gain Self on counterattack
 image: https://i.imgur.com/qnIyV2j.jpg
+dtReleased: ""
+dtModified: "2026-03-28"
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Barbarian
   power: 671
   attack: 649
@@ -26,11 +31,16 @@ costume:
   health: 1184
   skill: Orsoldoon
   effects:
-    - Deals 280% damage to the target.
-    - The caster counterattacks with 155% of the damage received for 5 turns.
-    - The caster regenerates a moderate amount of mana for each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn.
+  - Deals 280% damage to the target.
+  - The caster counterattacks with 155% of the damage received for 5 turns.
+  - The caster regenerates a moderate amount of mana for each counterattack for 5
+    turns. The effect gets diminished for consecutive activations during the same
+    turn.
   types:
-    - Hit 1
-    - Counterattack 1
-    - Mana on counterattack
+  - Hit 1
+  - Counterattack Self
+  - Mana Gain Self on counterattack
   image: https://i.imgur.com/kQW2sKb.jpg
+  dtReleased: ""
+  dtModified: "2026-03-28"
+...

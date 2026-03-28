@@ -1,3 +1,4 @@
+---
 name: Skarn
 source: covenant
 family: construct
@@ -9,19 +10,24 @@ defense: 1030
 health: 2043
 skill: Searing Frost
 effects:
-  - Deals 185% damage to all enemies.
-  - All enemies get -30% defense against Ice for 3 turns.
-  - All enemies receive 378 Frost damage over 3 turns.
+- Deals 185% damage to all enemies.
+- All enemies get -30% defense against Ice for 3 turns.
+- All enemies receive 378 Frost damage over 3 turns.
 types:
-  - Hit All
-  - Defense Debuff All
-  - DoT All
+- Hit All
+- Elemental Defense Debuff All
+- DoT All
 passives:
-  - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.
-  - >- 
-    Corrosive Core: The Construct Core of this character is Corrosive Core.
-    The Corrosive Core activates each time this character's Special Skill is cast:
-  - " * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
-  - " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skills.'
+- 'Resist Special Skill Blocking:'
+- 'Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive
+  Core activates each time this character''s Special Skill is cast:'
+- ' * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive
+  Core, the Corrosive Poison deals 153 Poison damage and lowers the target''s mana
+  generation by -13% each turn. Deals extra damage against heroes with Minions or
+  a Mega Minion.'
 image: https://i.imgur.com/jl8sclm.jpg
+dtReleased: ""
+dtModified: "2026-03-26"
+...
