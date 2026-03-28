@@ -1,0 +1,52 @@
+---
+name: Xiang Chong
+source: kingdom
+family: outlaws
+speed: Fast
+class: Rogue
+power: 1292
+attack: 1369
+defense: 1314
+health: 2288
+skill: Storm of Blades
+effects:
+- This Special Skill has a chance to deal Critical hits. (The chance of dealing a
+  Critical hit is based on Hero's overall critical chance when the damage is dealt.
+  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
+  reduces enemies' max health on PVP battles. This effect is stronger against boosted
+  health.)
+- Deals 270% damage to all enemies.
+- For the next 3 turns, the caster deals 450% damage to a random enemy at the end
+  of each turn, and boosts health for themselves with 50% of damage dealt. (Each character
+  can trigger this effect once per turn.)
+types:
+- Chance for Critical hits
+- Hit All
+- Hit Random 1 each turn
+- Boost Health on damage dealt
+passives:
+- 'Cleanse on Critical Special Attack: When this character scores a critical hit with
+  their Special Skill, they safely cleanse the latest cleansable status ailment from
+  all allies. This effect can activate once per turn.'
+- 'Righteous Rebellion:'
+- ' * When this character''s Special Skill hits a character that had higher current
+  HP, gain +20% boosted health.'
+- ' * When this character is hit by the Special Skill of a character that had higher
+  current HP, gain +20% mana.'
+- ' * Each of these effects can activate once per turn.'
+- 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
+image: https://imgur.com/QDJy548.jpg
+dtReleased: "2026-03-28"
+dtModified: ""
+aetherPower: attack_up
+lb1:
+  power: 1400
+  attack: 1476
+  defense: 1416
+  health: 2466
+lb2:
+  power: 1600
+  attack: 1689
+  defense: 1620
+  health: 2821
+...
