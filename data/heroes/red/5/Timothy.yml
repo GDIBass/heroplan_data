@@ -1,3 +1,4 @@
+---
 name: Timothy
 source: springvale
 family: springvale
@@ -9,10 +10,15 @@ defense: 990
 health: 1823
 skill: Adventure Awaits!
 effects:
-  - Boosts health for all allies by 560. Boosted health can exceed max HP.
-  - All allies get +20% attack, and an additional +10% each time any ally casts their Special Skill, up to maximimum of 70%, for the next 3 turns.
-  - The caster gets -20% defense for 3 turns. This effect can't be cleansed.
+- Boosts health for all allies by 560. Boosted health can exceed max HP.
+- All allies get +20% attack, and an additional +10% each time any ally casts their
+  Special Skill, up to maximimum of 70%, for the next 3 turns.
+- The caster gets -20% defense for 3 turns. This effect can't be cleansed.
 types:
-  - Healer
-  - Attack buff
+- Boost Health All
+- Attack Buff All
+- Defense Debuff Self
 image: https://i.imgur.com/64Tdmgl.jpg
+dtReleased: ""
+dtModified: "2026-03-29"
+...

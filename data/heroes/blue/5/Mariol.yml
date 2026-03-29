@@ -15,12 +15,14 @@ effects:
   by -700. Reduces damage by additional 30% when attacker is Holy.
 - Cleanses status ailments from all allies.
 types:
-- Healer All
-- Moonrise Ward All
+- Boost Health All
+- SS Damage Reduction Moonrise Ward All
 - Cleanser All
 passives:
 - 'Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills,
   family bonuses and status effects by -80%. The effect applies to all enemies in
   the battle.'
 image: https://i.imgur.com/NhlQa4M.jpg
+dtReleased: ""
+dtModified: "2026-03-29"
 ...

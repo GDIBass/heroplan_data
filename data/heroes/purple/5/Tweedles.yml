@@ -17,11 +17,13 @@ effects:
 - The caster gets 30% mana if both attacks hit the same target.
 types:
 - Hit Random 1
-- Defense debuff
+- Defense Debuff 1
 - Hit Random 1
-- Attack debuff
+- Attack Debuff 1
 passives:
 - 'Resist Damage from Status Effects: This character is immune to incoming damage
   from status effects and stacks.'
 image: https://i.imgur.com/oaSASQ4.jpg
+dtReleased: ""
+dtModified: "2026-03-29"
 ...

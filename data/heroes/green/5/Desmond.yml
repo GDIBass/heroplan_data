@@ -18,8 +18,8 @@ effects:
   Ice characters, this status effect becomes uncleasable and lasts 2 turns longer.
 types:
 - Hit 2
-- Health boost for 3
-- Silencer 2
+- Boost Health on damage dealt 3
+- Silence 2
 passives:
 - 'Troop Mastery:'
 - 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
@@ -29,4 +29,6 @@ passives:
   from Troops of stronger element.'
 - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/oyCoXcq.jpg
+dtReleased: ""
+dtModified: "2026-03-29"
 ...
