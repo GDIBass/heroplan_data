@@ -1,0 +1,38 @@
+---
+name: Shar-alen
+source: wilderness
+family: wildcat
+speed: Very Fast
+class: Ranger
+power: 1293
+attack: 1429
+defense: 1223
+health: 2329
+skill: Tip of the Spear
+effects:
+- Deals 400% Clawing damage to the target. (Deals 600% damage against enemies with
+  any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs,
+  Minions or Mega Minions receive -35% defense for 6 turns.)
+- Reduces the mana of the target by 15%.
+- For 4 turns, the target receives 70% of all damage dealt to their allies.
+types:
+- Hit 1
+- Mana Reduction 1
+- Damage Link 1
+passives:
+- 'Nine Lives:'
+- ' * When defeated, this character has 80% chance to revive at the beginning of their
+  next turn with 50% health and 80% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
+  be prevented with status ailments or Passive Skills.'
+- 'Trait: Lithe Frame'
+- This character is not affected by effects that increase or reduce defense.
+- 'This includes:'
+- ' * Status effect buffs and ailments.'
+- ' * Positive and negative Stacks.'
+- ' * Growth and Wither effects.'
+image: https://imgur.com/5QYP9u1.jpg
+dtReleased: "2026-03-30"
+dtModified: ""
+aetherPower: special_boost
+...
