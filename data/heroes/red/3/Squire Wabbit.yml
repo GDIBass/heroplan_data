@@ -1,16 +1,53 @@
+---
 name: Squire Wabbit
-class: Ranger
 source: springvale
+family: springvale
 speed: Fast
+class: Ranger
 power: 445
 attack: 538
 defense: 382
 health: 608
 skill: Reckless Stab
 effects:
-  - Deals 355% damage to the target
-  - The caster gets -20% defense for 3 turns. This effect can't be cleansed
+- Deals 355% damage to the target
+- The caster gets -20% defense for 3 turns. This effect can't be cleansed
 types:
-  - Hit 1
-family: springvale
+- Hit 1
 image: https://i.imgur.com/545SVXP.jpg
+dtReleased: ""
+dtModified: ""
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 540
+  attack: 678
+  defense: 466
+  health: 768
+  skill: Prudent Stab
+  effects:
+  - Deals 375% damage to the target.
+  - If the target has less than 50% health remaining, deals 400% damage instead.
+  - The caster gets -20% defense against for 3 turns. This effect can't be cleansed.
+  types:
+  - Hit 1
+  - Defense Debuff Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get: Stack (Max: 10): -5% defense.'
+  image: https://imgur.com/paSL8nL.jpg
+  dtReleased: "2026-03-30"
+  dtModified: ""
+  aetherPower: special_boost
+  lb1:
+    power: 650
+    attack: 751
+    defense: 516
+    health: 871
+  lb2:
+    power: 750
+    attack: 928
+    defense: 638
+    health: 1076
+...

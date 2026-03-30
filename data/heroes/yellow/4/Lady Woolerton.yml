@@ -18,4 +18,38 @@ types:
 image: https://i.imgur.com/qf9ikj1.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 800
+  attack: 771
+  defense: 834
+  health: 1517
+  skill: Shearing Treatment
+  effects:
+  - Recovers 42% health for all allies.
+  - The caster gets +50% defense against Dark for 3 turns.
+  - The caster can't gain mana for  2 turns. This effect can't be cleansed.
+  types:
+  - Healer All
+  - Elemental Defense Buff Self
+  - Mana Gain Debuff Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all allies get:
+    Stack (Max: 10): Recovers 10 HP each turn.'
+  image: https://imgur.com/qh7po0H.jpg
+  dtReleased: "2026-03-30"
+  dtModified: ""
+  aetherPower: boosted_regen
+  lb1:
+    power: 850
+    attack: 838
+    defense: 906
+    health: 1647
+  lb2:
+    power: 900
+    attack: 972
+    defense: 1051
+    health: 1910
 ...
