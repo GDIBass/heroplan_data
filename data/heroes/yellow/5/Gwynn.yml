@@ -33,4 +33,6 @@ passives:
 image: https://i.imgur.com/94OEbs6.jpg
 dtReleased: "2024-07-12"
 dtModified: "2026-03-20"
+fancy_name: Energy Flow Construct
+aetherPower: attack_up
 ...

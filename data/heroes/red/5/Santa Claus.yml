@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/gDDhARF.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: The Gift-Bringer
+aetherPower: mana_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +51,6 @@ costume:
   image: https://i.imgur.com/3zbVEXc.jpg
   dtReleased: "2021-12-01"
   dtModified: ""
+  fancy_name: Hard Rock Santa
+  aetherPower: regen
 ...

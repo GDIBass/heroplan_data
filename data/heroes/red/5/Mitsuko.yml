@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/xMxFVwW.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Fatal Beauty
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
   image: https://i.imgur.com/8AHvvyw.jpg
   dtReleased: "2023-03-06"
   dtModified: ""
+  fancy_name: Blazing Beauty
+  aetherPower: attack_up
 ...

@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/0JU9Ii1.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Praetorian Bodyguard
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,6 +39,8 @@ costume:
   image: https://i.imgur.com/SB2N0Vj.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: Praetorian Gladiator
+  aetherPower: damage_reduction
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -59,6 +63,8 @@ costume2:
   image: https://i.imgur.com/jA79vt4.jpg
   dtReleased: "2022-09-05"
   dtModified: ""
+  fancy_name: Praetorian Vampire
+  aetherPower: vampire
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -81,6 +87,8 @@ costume3:
   image: https://i.imgur.com/YICnCq4.jpg
   dtReleased: "2023-11-27"
   dtModified: ""
+  fancy_name: Praetorian Toon
+  aetherPower: counterattack
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -103,6 +111,8 @@ costume4:
   image: https://i.imgur.com/pN1Axne.jpg
   dtReleased: "2025-01-14"
   dtModified: ""
+  fancy_name: Praetorian Vitrail
+  aetherPower: counterattack
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -125,4 +135,6 @@ costume5:
   image: https://imgur.com/hiS5mXD.jpg
   dtReleased: "2026-01-26"
   dtModified: ""
+  fancy_name: Stylish Bodyguard
+  aetherPower: counterattack
 ...

@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/jRrOk7n.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Protector of Sand Empire
+aetherPower: dodge
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +43,6 @@ costume:
   image: https://i.imgur.com/wRsoDQK.jpg
   dtReleased: "2022-05-16"
   dtModified: "2026-03-20"
+  fancy_name: Protector of the Beach
+  aetherPower: damage_reduction
 ...

@@ -30,6 +30,8 @@ passives:
 image: https://i.imgur.com/DZtGVoI.jpg
 dtReleased: "2023-07-17"
 dtModified: ""
+fancy_name: Dual Blade Specialist
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -61,4 +63,6 @@ costume:
   image: https://imgur.com/diCJq7h.jpg
   dtReleased: "2026-03-17"
   dtModified: ""
+  fancy_name: Dual Blade Arthropod
+  aetherPower: rage
 ...

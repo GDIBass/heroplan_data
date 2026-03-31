@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/MjynoiD.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Nine-tailed Spirit
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://i.imgur.com/Q0YpLSK.jpg
   dtReleased: "2022-05-02"
   dtModified: "2026-03-20"
+  fancy_name: White Kitsune Spirit
+  aetherPower: special_boost
 ...

@@ -27,6 +27,8 @@ types:
 image: https://i.imgur.com/sKXoFnG.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Voodoo Queen of Corellia
+aetherPower: mana_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +60,6 @@ costume:
   image: https://i.imgur.com/cwv2NUd.jpg
   dtReleased: "2022-02-17"
   dtModified: ""
+  fancy_name: Soul-Stealing Priestess
+  aetherPower: heal_increase
 ...

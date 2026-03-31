@@ -21,6 +21,8 @@ passives:
 image: https://i.imgur.com/gMyh86R.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Morlock Chieftain
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +51,6 @@ costume:
   image: https://i.imgur.com/VvDq081.jpg
   dtReleased: "2024-02-01"
   dtModified: ""
+  fancy_name: Morlock Running Back
+  aetherPower: damage_reduction
 ...

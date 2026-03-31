@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/1PxVmlq.jpg
 dtReleased: "2017-09-01"
 dtModified: ""
+fancy_name: Invincible Ronin
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
   image: https://i.imgur.com/dt3i5jN.jpg
   dtReleased: "2023-10-02"
   dtModified: ""
+  fancy_name: Escape Artist
+  aetherPower: rage
 ...

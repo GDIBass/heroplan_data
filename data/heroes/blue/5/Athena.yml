@@ -22,6 +22,8 @@ types:
 image: https://i.imgur.com/uPsJEUS.jpg
 dtReleased: "2017-07-01"
 dtModified: ""
+fancy_name: Celestial of Ice
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +50,6 @@ costume:
   image: https://i.imgur.com/MA6JXX4.jpg
   dtReleased: "2021-12-23"
   dtModified: ""
+  fancy_name: Goddess of War
+  aetherPower: special_boost
 ...

@@ -22,6 +22,8 @@ types:
 image: https://i.imgur.com/nDiRoqi.jpg
 dtReleased: "2022-03-14"
 dtModified: ""
+fancy_name: Valiant General
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +51,6 @@ costume:
   image: https://i.imgur.com/GP4J8r3.jpg
   dtReleased: "2024-10-01"
   dtModified: ""
+  fancy_name: Inferno General
+  aetherPower: attack_up
 ...

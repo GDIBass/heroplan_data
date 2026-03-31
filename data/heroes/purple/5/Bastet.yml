@@ -24,6 +24,8 @@ passives:
 image: https://i.imgur.com/4N9tjf5.jpg
 dtReleased: "2022-08-04"
 dtModified: ""
+fancy_name: Eye of the Moon
+aetherPower: fiend_resist
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +55,6 @@ costume:
   image: https://i.imgur.com/21HSfR4.jpg
   dtReleased: "2024-08-10"
   dtModified: ""
+  fancy_name: Eye of the Forest
+  aetherPower: special_armor
 ...

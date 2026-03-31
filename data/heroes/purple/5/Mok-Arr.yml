@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/f9fc9eh.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Savage Butcher
+aetherPower: rage
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
   image: https://i.imgur.com/EOk0EO8.jpg
   dtReleased: "2023-02-06"
   dtModified: ""
+  fancy_name: Savage Blademaster
+  aetherPower: counterattack
 ...

@@ -24,6 +24,8 @@ passives:
 image: https://i.imgur.com/RQWKyOA.jpg
 dtReleased: "2022-06-20"
 dtModified: ""
+fancy_name: Witch of the North
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +50,6 @@ costume:
   image: https://imgur.com/bKgarHR.jpg
   dtReleased: "2025-07-28"
   dtModified: ""
+  fancy_name: Mistress of the North
+  aetherPower: rage
 ...

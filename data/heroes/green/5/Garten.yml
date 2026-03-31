@@ -33,4 +33,6 @@ passives:
 image: https://i.imgur.com/8K8mMLw.jpg
 dtReleased: "2024-02-27"
 dtModified: "2026-03-29"
+fancy_name: Party Gargoyle
+aetherPower: damage_reduction
 ...

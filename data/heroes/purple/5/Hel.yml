@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/5oaRVxv.jpg
 dtReleased: "2017-06-01"
 dtModified: ""
+fancy_name: Celestial of Darkness
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://i.imgur.com/8SUbwUY.jpg
   dtReleased: "2022-11-28"
   dtModified: ""
+  fancy_name: Omen of Darkness
+  aetherPower: special_boost
 ...

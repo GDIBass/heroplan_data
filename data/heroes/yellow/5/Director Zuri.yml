@@ -22,6 +22,8 @@ types:
 image: https://i.imgur.com/NrSrxkV.jpg
 dtReleased: "2021-06-10"
 dtModified: ""
+fancy_name: Master of Circus
+aetherPower: special_armor
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://imgur.com/9J7qQSS.jpg
   dtReleased: "2025-08-08"
   dtModified: ""
+  fancy_name: Master of Clowns
+  aetherPower: defense_up
 ...

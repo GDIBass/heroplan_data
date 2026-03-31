@@ -21,6 +21,8 @@ passives:
 image: https://i.imgur.com/FKztylV.jpg
 dtReleased: "2022-01-27"
 dtModified: ""
+fancy_name: Warrior of the Depths
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +47,6 @@ costume:
   image: https://i.imgur.com/llQVrNB.jpg
   dtReleased: "2024-08-01"
   dtModified: ""
+  fancy_name: Warrior of Kelp
+  aetherPower: regen
 ...

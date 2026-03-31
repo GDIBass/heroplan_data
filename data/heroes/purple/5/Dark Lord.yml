@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/ja50n6G.jpg
 dtReleased: "2021-02-11"
 dtModified: ""
+fancy_name: Bane of Karemdol
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +56,6 @@ costume:
   image: https://i.imgur.com/Mz4axni.jpg
   dtReleased: "2024-11-14"
   dtModified: ""
+  fancy_name: Astronomer of Karemdol
+  aetherPower: defense_up
 ...

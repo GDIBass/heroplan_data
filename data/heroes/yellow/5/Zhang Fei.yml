@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/stJf0Qg.jpg
 dtReleased: "2022-03-14"
 dtModified: ""
+fancy_name: Merciless General
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
   image: https://i.imgur.com/LeENxWF.jpg
   dtReleased: "2024-10-29"
   dtModified: ""
+  fancy_name: Merciless Bear General
+  aetherPower: rage
 ...

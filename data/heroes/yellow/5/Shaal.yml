@@ -29,4 +29,6 @@ passives:
 image: https://i.imgur.com/elVlVhm.jpg
 dtReleased: "2023-12-08"
 dtModified: ""
+fancy_name: Cleric Construct
+aetherPower: defense_up
 ...

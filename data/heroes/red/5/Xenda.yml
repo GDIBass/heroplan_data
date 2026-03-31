@@ -26,6 +26,8 @@ passives:
 image: https://i.imgur.com/pr4mBGS.jpg
 dtReleased: "2022-12-08"
 dtModified: ""
+fancy_name: Heiress of the Underworld
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +56,6 @@ costume:
   image: https://i.imgur.com/QhwvGtU.jpg
   dtReleased: "2024-05-23"
   dtModified: ""
+  fancy_name: Heiress to the Flame
+  aetherPower: counterattack
 ...

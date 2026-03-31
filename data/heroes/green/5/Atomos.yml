@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/DAUb4SR.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Guardian of Atlantis
+aetherPower: rage
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   image: https://i.imgur.com/Mrpkkq0.jpg
   dtReleased: "2023-04-03"
   dtModified: ""
+  fancy_name: Guardian of the Reef
+  aetherPower: bulwark
 ...

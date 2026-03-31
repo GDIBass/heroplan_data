@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/WWzsu8l.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Princess of Atlantis
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +42,6 @@ costume:
   image: https://i.imgur.com/gRSAJUL.jpg
   dtReleased: "2021-11-15"
   dtModified: ""
+  fancy_name: Enchanter of Atlantis
+  aetherPower: attack_up
 ...

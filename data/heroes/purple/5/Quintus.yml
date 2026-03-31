@@ -16,6 +16,8 @@ types:
 image: https://i.imgur.com/250UPh4.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Mad Scientist
+aetherPower: mana_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +36,8 @@ costume:
   image: https://i.imgur.com/TBwlwOC.jpg
   dtReleased: "2020-01-01"
   dtModified: ""
+  fancy_name: Electro Scientist
+  aetherPower: special_boost
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -53,6 +57,8 @@ costume2:
   image: https://i.imgur.com/BmY4xiU.jpg
   dtReleased: "2022-12-26"
   dtModified: ""
+  fancy_name: Love Doctor
+  aetherPower: ailment_immunity
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -73,6 +79,8 @@ costume3:
   image: https://i.imgur.com/ff1uvHj.jpg
   dtReleased: "2024-08-11"
   dtModified: ""
+  fancy_name: Toon Scientist
+  aetherPower: mana_boost
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -93,4 +101,6 @@ costume4:
   image: https://imgur.com/5v62w6I.jpg
   dtReleased: "2025-10-09"
   dtModified: ""
+  fancy_name: Glass Scientist
+  aetherPower: mana_boost
 ...

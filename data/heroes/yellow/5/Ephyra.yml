@@ -32,6 +32,8 @@ passives:
 image: https://i.imgur.com/nL4nDAx.jpg
 dtReleased: "2023-06-07"
 dtModified: ""
+fancy_name: Nereid Princess
+aetherPower: dodge
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -65,4 +67,6 @@ costume:
   image: https://imgur.com/CAlgEAJ.jpg
   dtReleased: "2025-03-31"
   dtModified: ""
+  fancy_name: Princess of the Reef
+  aetherPower: ailment_immunity
 ...

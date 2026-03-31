@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/1C4Lajq.jpg
 dtReleased: "2018-09-01"
 dtModified: ""
+fancy_name: Mirage Assassin
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +47,6 @@ costume:
   image: https://i.imgur.com/mLc9HWv.jpg
   dtReleased: "2024-02-09"
   dtModified: ""
+  fancy_name: Mirage Engineer
+  aetherPower: special_armor
 ...

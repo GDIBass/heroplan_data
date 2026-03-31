@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/Uq8cKe7.jpg
 dtReleased: "2022-05-23"
 dtModified: ""
+fancy_name: Warlord of Shu
+aetherPower: damage_reduction
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   image: https://i.imgur.com/rjnMev7.jpg
   dtReleased: "2025-01-29"
   dtModified: ""
+  fancy_name: Warlord of Forest
+  aetherPower: ailment_immunity
 ...

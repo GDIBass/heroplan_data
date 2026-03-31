@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/wAibSFk.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Last of the Leors
+aetherPower: rage
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +40,8 @@ costume:
   image: https://i.imgur.com/TDGgAGz.jpg
   dtReleased: "2020-05-18"
   dtModified: ""
+  fancy_name: King of the Leors
+  aetherPower: bulwark
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -58,6 +62,8 @@ costume2:
   image: https://i.imgur.com/6N4jIyy.jpg
   dtReleased: "2023-02-20"
   dtModified: ""
+  fancy_name: Leor Babysitter
+  aetherPower: boosted_regen
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -80,6 +86,8 @@ costume3:
   image: https://i.imgur.com/yS5bHHw.jpg
   dtReleased: "2023-10-30"
   dtModified: ""
+  fancy_name: Toon Leor
+  aetherPower: rage
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -102,6 +110,8 @@ costume4:
   image: https://i.imgur.com/S5acyh9.jpg
   dtReleased: "2024-12-25"
   dtModified: ""
+  fancy_name: Glass Leor
+  aetherPower: rage
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -124,4 +134,6 @@ costume5:
   image: https://imgur.com/1ji1ouF.jpg
   dtReleased: "2026-01-07"
   dtModified: ""
+  fancy_name: Stylish Leor
+  aetherPower: rage
 ...

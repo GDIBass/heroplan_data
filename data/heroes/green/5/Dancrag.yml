@@ -36,5 +36,6 @@ passives:
 image: https://imgur.com/IBA3W2a.jpg
 dtReleased: "2026-03-26"
 dtModified: ""
-zodiacAnimal: ""
+fancy_name: Ancient Colossus Construct
+aetherPower: damage_reduction
 ...

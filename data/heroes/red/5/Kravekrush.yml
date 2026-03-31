@@ -21,6 +21,8 @@ passives:
 image: https://i.imgur.com/xMJYpsy.jpg
 dtReleased: "2022-02-24"
 dtModified: ""
+fancy_name: Ettin Commander
+aetherPower: rage
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
   image: https://i.imgur.com/m5PtQ2l.jpg
   dtReleased: "2024-09-26"
   dtModified: ""
+  fancy_name: Ettin Grillmaster
+  aetherPower: attack_up
 ...

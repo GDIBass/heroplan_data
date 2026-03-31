@@ -25,6 +25,8 @@ types:
 image: https://i.imgur.com/jjSBiGT.jpg
 dtReleased: "2022-03-14"
 dtModified: "2026-03-20"
+fancy_name: Master Strategist
+aetherPower: fiend_resist
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +57,6 @@ costume:
   image: https://i.imgur.com/zdjoPv7.jpg
   dtReleased: "2024-05-28"
   dtModified: "2026-03-20"
+  fancy_name: Strategist Supreme
+  aetherPower: mana_boost
 ...

@@ -22,6 +22,8 @@ types:
 image: https://i.imgur.com/H73nb1h.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Cat of Grimforest
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +46,6 @@ costume:
   image: https://i.imgur.com/emXl6nU.jpg
   dtReleased: "2023-08-10"
   dtModified: ""
+  fancy_name: Masked Highwaycat
+  aetherPower: special_armor
 ...

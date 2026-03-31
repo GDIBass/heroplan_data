@@ -28,6 +28,8 @@ passives:
 image: https://i.imgur.com/PYhKsHp.jpg
 dtReleased: "2021-08-05"
 dtModified: ""
+fancy_name: The Accursed
+aetherPower: fiend_resist
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +61,6 @@ costume:
   image: https://imgur.com/CNY72vk.jpg
   dtReleased: "2025-04-09"
   dtModified: ""
+  fancy_name: The Cephaloid Servant
+  aetherPower: damage_reduction
 ...

@@ -27,4 +27,6 @@ passives:
 image: https://i.imgur.com/reMeS9l.jpg
 dtReleased: "2023-09-18"
 dtModified: ""
+fancy_name: Goblin Bard
+aetherPower: ailment_immunity
 ...

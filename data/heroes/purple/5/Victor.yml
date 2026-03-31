@@ -28,6 +28,8 @@ passives:
 image: https://i.imgur.com/Trss5zi.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Vampire King
+aetherPower: vampire
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +59,6 @@ costume:
   image: https://i.imgur.com/bKghYKS.jpg
   dtReleased: "2021-10-04"
   dtModified: ""
+  fancy_name: King of Crime
+  aetherPower: attack_up
 ...

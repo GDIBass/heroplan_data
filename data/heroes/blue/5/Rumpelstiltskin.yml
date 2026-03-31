@@ -25,6 +25,8 @@ types:
 image: https://i.imgur.com/v7aCbsm.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Jester of Grimforest
+aetherPower: gamble
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +59,6 @@ costume:
   image: https://i.imgur.com/G2za8YY.jpg
   dtReleased: "2022-06-16"
   dtModified: ""
+  fancy_name: Eternal Trickster
+  aetherPower: counterattack
 ...

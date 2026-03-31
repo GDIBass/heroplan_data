@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/9AxepJ9.jpg
 dtReleased: "2018-04-01"
 dtModified: ""
+fancy_name: Steadfast Judge
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://i.imgur.com/WvBRV3O.jpg
   dtReleased: "2023-01-23"
   dtModified: ""
+  fancy_name: Periwig Judge
+  aetherPower: special_armor
 ...

@@ -26,6 +26,8 @@ passives:
 image: https://i.imgur.com/0Yedhet.jpg
 dtReleased: "2022-05-19"
 dtModified: "2026-03-20"
+fancy_name: God of the Hunt
+aetherPower: dodge
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +59,6 @@ costume:
   image: https://i.imgur.com/fLHpPl2.jpg
   dtReleased: "2024-04-01"
   dtModified: "2026-03-20"
+  fancy_name: Golden Hunter
+  aetherPower: special_boost
 ...

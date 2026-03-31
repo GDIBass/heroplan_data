@@ -27,6 +27,8 @@ passives:
 image: https://i.imgur.com/4zzp1TD.jpg
 dtReleased: "2022-11-24"
 dtModified: ""
+fancy_name: Mummy Pharaoh
+aetherPower: revive
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +60,6 @@ costume:
   image: https://i.imgur.com/hOov8Aa.jpg
   dtReleased: "2024-03-04"
   dtModified: ""
+  fancy_name: Pharaoh Reborn
+  aetherPower: boosted_regen
 ...

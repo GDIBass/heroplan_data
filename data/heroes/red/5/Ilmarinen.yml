@@ -26,6 +26,8 @@ passives:
 image: https://i.imgur.com/WriV7pU.jpg
 dtReleased: "2022-06-20"
 dtModified: ""
+fancy_name: Expert Blacksmith
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,4 +54,6 @@ costume:
   image: https://imgur.com/G8Zln8R.jpg
   dtReleased: "2025-07-28"
   dtModified: ""
+  fancy_name: Expert Artificer
+  aetherPower: regen
 ...

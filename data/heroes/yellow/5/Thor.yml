@@ -29,6 +29,8 @@ types:
 image: https://i.imgur.com/Cls9o26.jpg
 dtReleased: "2021-01-28"
 dtModified: ""
+fancy_name: God of Thunder
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +60,6 @@ costume:
   image: https://i.imgur.com/LYyDsUh.jpg
   dtReleased: "2022-12-19"
   dtModified: ""
+  fancy_name: Conduit of Thunder
+  aetherPower: special_boost
 ...

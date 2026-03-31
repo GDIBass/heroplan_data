@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/LIKBIhe.jpg
 dtReleased: "2023-03-27"
 dtModified: "2026-03-31"
+fancy_name: Traveling Llama Troubadour
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   image: https://i.imgur.com/NhdULEq.jpg
   dtReleased: "2024-03-18"
   dtModified: "2026-03-31"
+  fancy_name: Gallant Llama Troubadour
+  aetherPower: special_boost
 ...

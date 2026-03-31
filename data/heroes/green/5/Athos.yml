@@ -28,6 +28,8 @@ passives:
 image: https://i.imgur.com/HvsiBgn.jpg
 dtReleased: "2022-12-14"
 dtModified: ""
+fancy_name: Veteran Musketeer
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -60,4 +62,6 @@ costume:
   image: https://imgur.com/hJqKdo0.jpg
   dtReleased: "2025-12-19"
   dtModified: ""
+  fancy_name: Farrier Musketeer
+  aetherPower: special_boost
 ...

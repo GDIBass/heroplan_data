@@ -19,6 +19,8 @@ types:
 image: https://i.imgur.com/WU18HC0.jpg
 dtReleased: ""
 dtModified: "2026-03-31"
+fancy_name: Savage Protector of Springvale
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +43,6 @@ costume:
   image: https://i.imgur.com/vAkZp36.jpg
   dtReleased: "2022-03-21"
   dtModified: "2026-03-31"
+  fancy_name: Ultimate Farmer
+  aetherPower: defense_up
 ...

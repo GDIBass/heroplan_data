@@ -28,6 +28,8 @@ passives:
 image: https://i.imgur.com/aM5vSU2.jpg
 dtReleased: "2023-03-27"
 dtModified: ""
+fancy_name: Exiled Plasma Blade
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +60,6 @@ costume:
   image: https://imgur.com/2BXA5Mj.jpg
   dtReleased: "2025-09-04"
   dtModified: ""
+  fancy_name: Exiled Plasma Hacker
+  aetherPower: special_boost
 ...

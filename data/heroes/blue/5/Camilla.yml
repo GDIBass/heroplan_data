@@ -33,6 +33,8 @@ passives:
 image: https://i.imgur.com/IZ0ZIwf.jpg
 dtReleased: "2023-05-03"
 dtModified: ""
+fancy_name: Arcanist Tinkerer
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -70,4 +72,6 @@ costume:
   image: https://imgur.com/WOaPfmT.jpg
   dtReleased: "2025-10-19"
   dtModified: ""
+  fancy_name: Floral Tinkerer
+  aetherPower: special_armor
 ...

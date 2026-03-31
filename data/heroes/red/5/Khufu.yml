@@ -26,6 +26,8 @@ passives:
 image: https://i.imgur.com/waF0HXl.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Acute Androsphinx
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +59,6 @@ costume:
   image: https://i.imgur.com/5tsbayA.jpg
   dtReleased: "2024-11-01"
   dtModified: ""
+  fancy_name: Aquatic Androsphinx
+  aetherPower: defense_up
 ...

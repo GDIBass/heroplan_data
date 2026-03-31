@@ -26,6 +26,8 @@ passives:
 image: https://i.imgur.com/adxVUbU.jpg
 dtReleased: "2021-06-17"
 dtModified: ""
+fancy_name: Adventurous Archaeologist
+aetherPower: fiend_resist
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +56,6 @@ costume:
   image: https://i.imgur.com/uhuj4Z5.jpg
   dtReleased: "2024-04-25"
   dtModified: ""
+  fancy_name: Adventurous Drover
+  aetherPower: attack_up
 ...

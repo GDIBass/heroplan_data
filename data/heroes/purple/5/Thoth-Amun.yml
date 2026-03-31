@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/qJmJu2G.jpg
 dtReleased: "2017-11-01"
 dtModified: ""
+fancy_name: Master of Crypts
+aetherPower: revive
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +47,6 @@ costume:
   image: https://i.imgur.com/3rXphxC.jpg
   dtReleased: "2024-01-11"
   dtModified: ""
+  fancy_name: Cosmic Conjurer
+  aetherPower: bulwark
 ...

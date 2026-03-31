@@ -23,6 +23,8 @@ passives:
 image: https://i.imgur.com/8oISZes.jpg
 dtReleased: "2022-09-01"
 dtModified: ""
+fancy_name: Eye of the Sun
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   image: https://i.imgur.com/ykQVLB2.jpg
   dtReleased: "2025-03-17"
   dtModified: ""
+  fancy_name: Warden of the Sun
+  aetherPower: special_boost
 ...

@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/vuOEJDC.jpg
 dtReleased: "2018-01-01"
 dtModified: ""
+fancy_name: Fireborn Enchantress
+aetherPower: dodge
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +47,6 @@ costume:
   image: https://i.imgur.com/IO9WHYd.jpg
   dtReleased: "2023-05-15"
   dtModified: ""
+  fancy_name: Fireborn Seamstress
+  aetherPower: attack_up
 ...

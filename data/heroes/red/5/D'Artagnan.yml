@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/cwvEsxY.jpg
 dtReleased: "2022-12-14"
 dtModified: ""
+fancy_name: Ardent Musketeer
+aetherPower: ailment_immunity
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +56,6 @@ costume:
   image: https://imgur.com/9p7hmgV.jpg
   dtReleased: "2026-02-20"
   dtModified: ""
+  fancy_name: Ardent Chimney-Sweeper
+  aetherPower: attack_up
 ...

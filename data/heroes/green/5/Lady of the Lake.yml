@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/hlRFlMx.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Sorceress of Avalon
+aetherPower: special_armor
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +46,6 @@ costume:
   image: https://i.imgur.com/T9XV0yp.jpg
   dtReleased: "2021-12-15"
   dtModified: ""
+  fancy_name: Lady of Blades
+  aetherPower: heal_increase
 ...

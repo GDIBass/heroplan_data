@@ -21,6 +21,8 @@ passives:
 image: https://i.imgur.com/UnO1gz8.jpg
 dtReleased: "2021-12-30"
 dtModified: ""
+fancy_name: Octopod Priest
+aetherPower: boosted_regen
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
   image: https://i.imgur.com/4y90uTW.jpg
   dtReleased: "2024-09-26"
   dtModified: ""
+  fancy_name: Octopod Hierophant
+  aetherPower: special_armor
 ...

@@ -25,4 +25,6 @@ passives:
 image: https://i.imgur.com/okcHBcF.jpg
 dtReleased: "2024-05-01"
 dtModified: "2026-03-22"
+fancy_name: Acolyte of the Old Ones
+aetherPower: ailment_immunity
 ...

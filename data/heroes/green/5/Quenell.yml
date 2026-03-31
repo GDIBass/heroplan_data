@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/iWwRJlT.jpg
 dtReleased: "2021-10-13"
 dtModified: ""
+fancy_name: Champion of the Castle
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://i.imgur.com/vtZxZ4o.jpg
   dtReleased: "2024-12-17"
   dtModified: ""
+  fancy_name: Champion of the Wolves
+  aetherPower: special_boost
 ...

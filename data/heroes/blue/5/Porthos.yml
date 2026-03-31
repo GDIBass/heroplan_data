@@ -27,6 +27,8 @@ passives:
 image: https://i.imgur.com/BwYaSTj.jpg
 dtReleased: "2022-12-14"
 dtModified: ""
+fancy_name: Jolly Musketeer
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +60,6 @@ costume:
   image: https://imgur.com/ohUYwDY.jpg
   dtReleased: "2026-01-23"
   dtModified: ""
+  fancy_name: Merchant Musketeer
+  aetherPower: regen
 ...

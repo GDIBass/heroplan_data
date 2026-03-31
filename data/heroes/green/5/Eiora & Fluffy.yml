@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/ISxaSzG.jpg
 dtReleased: "2021-06-10"
 dtModified: ""
+fancy_name: Dynamic Duo
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
   image: https://imgur.com/GDnuePZ.jpg
   dtReleased: "2025-08-08"
   dtModified: ""
+  fancy_name: Dark Duo
+  aetherPower: defense_up
 ...

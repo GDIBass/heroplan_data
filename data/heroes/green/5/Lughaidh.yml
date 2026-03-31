@@ -33,6 +33,8 @@ passives:
 image: https://i.imgur.com/RFjr7Fi.jpg
 dtReleased: "2021-11-04"
 dtModified: ""
+fancy_name: King of the Depths
+aetherPower: special_armor
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -66,4 +68,6 @@ costume:
   image: https://i.imgur.com/EAwYCZr.jpg
   dtReleased: "2024-08-29"
   dtModified: ""
+  fancy_name: The Deathless King
+  aetherPower: boosted_regen
 ...

@@ -27,6 +27,8 @@ passives:
 image: https://i.imgur.com/wdaa6Lv.jpg
 dtReleased: "2023-02-16"
 dtModified: ""
+fancy_name: Cunning Sphinx
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +61,6 @@ costume:
   image: https://i.imgur.com/zPZlLVD.jpg
   dtReleased: "2024-03-04"
   dtModified: ""
+  fancy_name: Sphinx at the Spa
+  aetherPower: heal_increase
 ...

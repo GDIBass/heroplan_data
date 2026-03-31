@@ -25,4 +25,6 @@ passives:
 image: https://i.imgur.com/wCLflfr.jpg
 dtReleased: "2019-01-01"
 dtModified: ""
+fancy_name: Blind Seer
+aetherPower: damage_reduction
 ...

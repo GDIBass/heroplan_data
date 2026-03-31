@@ -20,6 +20,8 @@ passives:
 image: https://i.imgur.com/3mERqj0.jpg
 dtReleased: "2023-01-19"
 dtModified: "2026-03-20"
+fancy_name: Lunar Brawler Tiger
+aetherPower: heal_increase
 zodiacAnimal: tiger
 costume:
   design: costume1
@@ -44,4 +46,6 @@ costume:
   image: https://imgur.com/DOXTk1A.jpg
   dtReleased: "2026-02-17"
   dtModified: "2026-03-20"
+  fancy_name: Lunar Lucky Tiger
+  aetherPower: regen
 ...

@@ -33,6 +33,8 @@ passives:
 image: https://i.imgur.com/XIyQFXu.jpg
 dtReleased: "2024-12-03"
 dtModified: ""
+fancy_name: Dwarven Merry Trickster
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -66,4 +68,6 @@ costume:
   image: https://imgur.com/xREyScg.jpg
   dtReleased: "2025-10-15"
   dtModified: ""
+  fancy_name: Dwarven Maestro Trickster
+  aetherPower: boosted_regen
 ...

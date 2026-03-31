@@ -40,6 +40,8 @@ passives:
 image: https://i.imgur.com/bpyUqBe.jpg
 dtReleased: "2023-06-07"
 dtModified: "2026-03-22"
+fancy_name: Flamboyant Hussar of Atlantis
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -81,4 +83,6 @@ costume:
   image: https://imgur.com/SU2agg6.jpg
   dtReleased: "2024-09-21"
   dtModified: "2026-03-22"
+  fancy_name: Flamboyant Jockey of Atlantis
+  aetherPower: damage_reduction
 ...

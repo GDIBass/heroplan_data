@@ -31,6 +31,8 @@ passives:
 image: https://i.imgur.com/DQY3Orp.jpg
 dtReleased: "2023-01-30"
 dtModified: ""
+fancy_name: Universal Beast
+aetherPower: rage
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -64,4 +66,6 @@ costume:
   image: https://imgur.com/Rl5qcPs.jpg
   dtReleased: "2025-08-12"
   dtModified: ""
+  fancy_name: Cultivating Beast
+  aetherPower: counterattack
 ...

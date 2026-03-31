@@ -28,6 +28,8 @@ passives:
 image: https://i.imgur.com/H1Awz0g.jpg
 dtReleased: "2021-09-15"
 dtModified: ""
+fancy_name: Charms Professor
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +59,6 @@ costume:
   image: https://imgur.com/1pcXfJf.jpg
   dtReleased: "2025-11-03"
   dtModified: ""
+  fancy_name: Enchantments Professor
+  aetherPower: counterattack
 ...

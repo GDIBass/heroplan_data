@@ -37,6 +37,8 @@ passives:
 image: https://i.imgur.com/eqqisr9.jpg
 dtReleased: "2023-07-05"
 dtModified: "2026-03-22"
+fancy_name: Primordial Goddess of Sea Monsters
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -74,4 +76,6 @@ costume:
   image: https://i.imgur.com/wMfcpZk.jpg
   dtReleased: "2025-03-03"
   dtModified: "2026-03-22"
+  fancy_name: Primordial Queen of Sea Monsters
+  aetherPower: special_boost
 ...

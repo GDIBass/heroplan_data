@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/6s6FE8i.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Dread Captain of Corellia
+aetherPower: revive
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   image: https://i.imgur.com/lR0HaHa.jpg
   dtReleased: "2023-12-28"
   dtModified: ""
+  fancy_name: Rotten Captain of Corellia
+  aetherPower: regen
 ...

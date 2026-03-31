@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/EShG44Z.jpg
 dtReleased: "2022-09-12"
 dtModified: ""
+fancy_name: Warlord of Wu
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://i.imgur.com/FrxOT5n.jpg
   dtReleased: "2024-11-30"
   dtModified: ""
+  fancy_name: Warlord of Fortune
+  aetherPower: attack_up
 ...

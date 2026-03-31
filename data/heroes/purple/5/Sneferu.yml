@@ -26,6 +26,8 @@ passives:
 image: https://i.imgur.com/xRHanch.jpg
 dtReleased: "2023-05-11"
 dtModified: ""
+fancy_name: Sphinx of the Moon
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +59,6 @@ costume:
   image: https://imgur.com/3FfUfwE.jpg
   dtReleased: "2025-07-10"
   dtModified: ""
+  fancy_name: Vanquisher of the Moon
+  aetherPower: defense_up
 ...

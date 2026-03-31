@@ -19,6 +19,8 @@ types:
 image: https://i.imgur.com/rSEO0Xi.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Lady of Corellia
+aetherPower: revive
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
   image: https://i.imgur.com/mpM0YIf.jpg
   dtReleased: "2023-12-28"
   dtModified: ""
+  fancy_name: Rebel Queen
+  aetherPower: attack_up
 ...

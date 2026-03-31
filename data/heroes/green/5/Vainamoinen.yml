@@ -23,6 +23,8 @@ passives:
 image: https://i.imgur.com/gY0vQZu.jpg
 dtReleased: "2022-06-20"
 dtModified: ""
+fancy_name: Eternal Bard
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
   image: https://i.imgur.com/eTqe3pF.jpg
   dtReleased: "2024-07-22"
   dtModified: ""
+  fancy_name: Eternal Sage
+  aetherPower: special_boost
 ...

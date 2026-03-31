@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/WpdZnYI.jpg
 dtReleased: "2020-11-26"
 dtModified: ""
+fancy_name: Wise All-Father
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   image: https://i.imgur.com/guLxDJt.jpg
   dtReleased: "2023-03-13"
   dtModified: ""
+  fancy_name: Valiant All-Father
+  aetherPower: special_boost
 ...

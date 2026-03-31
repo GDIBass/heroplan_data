@@ -26,6 +26,8 @@ passives:
 image: https://i.imgur.com/ERb7z96.jpg
 dtReleased: "2021-08-05"
 dtModified: "2026-03-20"
+fancy_name: The Enlightened
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +56,6 @@ costume:
   image: https://i.imgur.com/JgYBU3i.jpg
   dtReleased: "2024-11-14"
   dtModified: "2026-03-20"
+  fancy_name: The Justicar Crusader
+  aetherPower: defense_up
 ...

@@ -33,6 +33,8 @@ passives:
 image: https://i.imgur.com/pxAZGoS.jpg
 dtReleased: "2023-06-07"
 dtModified: "2026-03-22"
+fancy_name: Wise Sage of the Oceans
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -66,4 +68,6 @@ costume:
   image: https://i.imgur.com/hvltSu6.jpg
   dtReleased: "2024-07-27"
   dtModified: "2026-03-22"
+  fancy_name: Wise Roller of the Quarry
+  aetherPower: special_armor
 ...

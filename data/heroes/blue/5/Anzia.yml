@@ -28,6 +28,8 @@ passives:
 image: https://i.imgur.com/9igBdFq.jpg
 dtReleased: "2023-01-30"
 dtModified: ""
+fancy_name: Galactic Savior
+aetherPower: damage_reduction
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +61,6 @@ costume:
   image: https://imgur.com/m04qRmx.jpg
   dtReleased: "2026-01-02"
   dtModified: ""
+  fancy_name: Galactic Jailer
+  aetherPower: regen
 ...

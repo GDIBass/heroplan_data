@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/VmIENFl.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Prince of the Jungle
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +43,6 @@ costume:
   image: https://i.imgur.com/UPOaKMz.jpg
   dtReleased: "2022-12-12"
   dtModified: "2026-03-20"
+  fancy_name: Prince of the Luʻau
+  aetherPower: ailment_immunity
 ...

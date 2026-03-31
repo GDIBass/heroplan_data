@@ -34,6 +34,8 @@ passives:
 image: https://i.imgur.com/Ns22n5S.jpg
 dtReleased: "2023-11-22"
 dtModified: "2026-03-22"
+fancy_name: Glacial Nereid of the Deep
+aetherPower: dodge
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -70,4 +72,6 @@ costume:
   image: https://i.imgur.com/lUbp0Tz.jpg
   dtReleased: "2024-11-21"
   dtModified: "2026-03-22"
+  fancy_name: Glacial Siren of the Deep
+  aetherPower: damage_reduction
 ...

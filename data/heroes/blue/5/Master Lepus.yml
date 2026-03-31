@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/Ti2FM1v.jpg
 dtReleased: ""
 dtModified: "2026-03-31"
+fancy_name: Guardian of Springvale
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,4 +41,6 @@ costume:
   image: https://i.imgur.com/aLTsGWG.jpg
   dtReleased: "2022-03-21"
   dtModified: "2026-03-31"
+  fancy_name: Rift Breaker
+  aetherPower: special_boost
 ...

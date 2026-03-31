@@ -28,6 +28,8 @@ passives:
 image: https://i.imgur.com/Z6trZDL.jpg
 dtReleased: "2022-06-09"
 dtModified: ""
+fancy_name: Scarab God
+aetherPower: fiend_resist
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -60,4 +62,6 @@ costume:
   image: https://i.imgur.com/j3u49nY.jpg
   dtReleased: "2025-02-17"
   dtModified: ""
+  fancy_name: Scarab Overlord
+  aetherPower: special_boost
 ...

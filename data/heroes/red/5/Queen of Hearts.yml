@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/12RLqSK.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Monarch of Wonderland
+aetherPower: taunt
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +51,6 @@ costume:
   image: https://i.imgur.com/q5xoHJ1.jpg
   dtReleased: "2023-10-05"
   dtModified: ""
+  fancy_name: Benefactor of Wonderland
+  aetherPower: boosted_regen
 ...

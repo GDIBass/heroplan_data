@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/YbdZndT.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Mighty Knight of Springvale
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,6 +46,7 @@ costume:
   image: https://imgur.com/hVpuzbz.jpg
   dtReleased: "2026-03-30"
   dtModified: ""
+  fancy_name: Mighty Alchemist of Springvale
   aetherPower: attack_up
   lb1:
     power: 1400

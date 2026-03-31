@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/BYGrEEN.jpg
 dtReleased: "2020-10-22"
 dtModified: ""
+fancy_name: Goddess of Harvest
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,4 +39,6 @@ costume:
   image: https://i.imgur.com/ZoOkEJb.jpg
   dtReleased: "2022-09-26"
   dtModified: ""
+  fancy_name: Goddess of the Wild
+  aetherPower: special_armor
 ...

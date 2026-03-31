@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/XCRwmmP.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Queen of Sand Empire
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
   image: https://i.imgur.com/ETB8w9H.jpg
   dtReleased: "2021-06-21"
   dtModified: "2026-03-20"
+  fancy_name: Surfer Queen
+  aetherPower: defense_up
 ...

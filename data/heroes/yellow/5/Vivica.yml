@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/aHsNbej.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Scholar Supreme
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +42,8 @@ costume:
   image: https://i.imgur.com/pm7wcbP.jpg
   dtReleased: "2020-01-01"
   dtModified: ""
+  fancy_name: Magician Supreme
+  aetherPower: special_armor
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -60,6 +64,8 @@ costume2:
   image: https://i.imgur.com/J8lGs8A.jpg
   dtReleased: "2022-09-05"
   dtModified: ""
+  fancy_name: Scribe Supreme
+  aetherPower: heal_increase
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -84,6 +90,8 @@ costume3:
   image: https://i.imgur.com/zJxvLuN.jpg
   dtReleased: "2023-10-30"
   dtModified: ""
+  fancy_name: Toon Scholar
+  aetherPower: defense_up
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -110,6 +118,8 @@ costume4:
   image: https://i.imgur.com/Vcxpsu2.jpg
   dtReleased: "2024-12-25"
   dtModified: ""
+  fancy_name: Glass Scholar
+  aetherPower: defense_up
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -134,4 +144,6 @@ costume5:
   image: https://imgur.com/tWvDon8.jpg
   dtReleased: "2026-01-07"
   dtModified: ""
+  fancy_name: Stylish Scholar
+  aetherPower: defense_up
 ...

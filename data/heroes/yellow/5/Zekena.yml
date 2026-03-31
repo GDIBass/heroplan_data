@@ -24,6 +24,8 @@ passives:
 image: https://i.imgur.com/hsqxizP.jpg
 dtReleased: "2021-12-02"
 dtModified: "2026-03-20"
+fancy_name: Myriapod Prince
+aetherPower: dodge
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   image: https://i.imgur.com/KswtgYH.jpg
   dtReleased: "2024-06-20"
   dtModified: "2026-03-20"
+  fancy_name: Apocynacid Prince
+  aetherPower: special_armor
 ...

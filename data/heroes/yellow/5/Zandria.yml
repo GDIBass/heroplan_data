@@ -30,6 +30,8 @@ passives:
 image: https://i.imgur.com/h5xLq71.jpg
 dtReleased: "2022-10-10"
 dtModified: ""
+fancy_name: Defender of Space-Time
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -61,4 +63,6 @@ costume:
   image: https://imgur.com/sbozpVC.jpg
   dtReleased: "2025-11-10"
   dtModified: ""
+  fancy_name: Defender of Galaxies
+  aetherPower: bulwark
 ...

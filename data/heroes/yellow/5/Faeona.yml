@@ -27,4 +27,6 @@ passives:
 image: https://i.imgur.com/plLMCMU.jpg
 dtReleased: "2024-12-01"
 dtModified: "2026-03-20"
+fancy_name: Elven White Mage
+aetherPower: defense_up
 ...

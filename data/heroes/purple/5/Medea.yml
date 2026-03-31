@@ -37,6 +37,8 @@ passives:
 image: https://i.imgur.com/RtOVjbp.jpg
 dtReleased: "2024-01-17"
 dtModified: "2026-03-22"
+fancy_name: Naga Queen of the Deep
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -75,4 +77,6 @@ costume:
   image: https://i.imgur.com/CadXjHa.jpg
   dtReleased: "2024-10-19"
   dtModified: "2026-03-22"
+  fancy_name: Naga Goddess of the Deep
+  aetherPower: special_boost
 ...

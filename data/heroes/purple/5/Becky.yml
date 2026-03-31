@@ -35,6 +35,8 @@ passives:
 image: https://i.imgur.com/xqlrby4.jpg
 dtReleased: "2023-06-28"
 dtModified: ""
+fancy_name: Starlight Conjurer
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -73,4 +75,6 @@ costume:
   image: https://imgur.com/zrbo7zD.jpg
   dtReleased: "2025-09-17"
   dtModified: ""
+  fancy_name: Twilight Conjurer
+  aetherPower: special_boost
 ...

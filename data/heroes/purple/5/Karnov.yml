@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/uCM3DQT.jpg
 dtReleased: "2021-02-11"
 dtModified: ""
+fancy_name: Champion Bruiser
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +46,6 @@ costume:
   image: https://imgur.com/atHtLfK.jpg
   dtReleased: "2025-06-15"
   dtModified: ""
+  fancy_name: Bedtime Bruiser
+  aetherPower: damage_reduction
 ...

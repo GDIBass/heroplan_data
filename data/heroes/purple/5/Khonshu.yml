@@ -23,6 +23,8 @@ passives:
 image: https://i.imgur.com/qiCq8Jo.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: God of the Moon
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +51,6 @@ costume:
   image: https://i.imgur.com/dLlMk1f.jpg
   dtReleased: "2024-09-07"
   dtModified: ""
+  fancy_name: Knight of the Moon
+  aetherPower: counterattack
 ...

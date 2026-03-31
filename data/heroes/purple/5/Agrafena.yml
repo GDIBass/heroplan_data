@@ -36,6 +36,8 @@ passives:
 image: https://i.imgur.com/19jbbwr.jpg
 dtReleased: "2021-09-15"
 dtModified: ""
+fancy_name: Superintendent Supreme
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -75,4 +77,6 @@ costume:
   image: https://imgur.com/QIlXtnC.jpg
   dtReleased: "2025-05-29"
   dtModified: ""
+  fancy_name: Supreme Dark Sorceress
+  aetherPower: special_armor
 ...

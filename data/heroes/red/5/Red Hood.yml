@@ -19,4 +19,8 @@ types:
 - Healer Minion
 - Mana Reduction Immunity Minion
 image: https://i.imgur.com/P4he1aZ.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Protector of Grimforest
+aetherPower: defense_up
 ...

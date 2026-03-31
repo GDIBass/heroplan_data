@@ -30,4 +30,6 @@ passives:
 image: https://i.imgur.com/GyN20JL.jpg
 dtReleased: "2024-05-20"
 dtModified: ""
+fancy_name: Elemental Shaman
+aetherPower: ailment_reflect
 ...

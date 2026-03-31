@@ -33,6 +33,8 @@ passives:
 image: https://i.imgur.com/KaW9HIP.jpg
 dtReleased: "2022-12-05"
 dtModified: ""
+fancy_name: Master of Elemental Creations
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -68,4 +70,6 @@ costume:
   image: https://imgur.com/qGN516v.jpg
   dtReleased: "2025-12-07"
   dtModified: ""
+  fancy_name: Idol of Elemental Creations
+  aetherPower: special_armor
 ...

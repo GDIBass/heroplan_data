@@ -1,3 +1,4 @@
+---
 name: Myztero
 source: secretsummon
 family: mystery
@@ -9,11 +10,17 @@ defense: 743
 health: 1388
 skill: Absordium Deflectors
 effects:
-  - Deals 175% damage to all enemies.
-  - All status ailments memorized by the innate ability are cast to all enemies.
+- Deals 175% damage to all enemies.
+- All status ailments memorized by the innate ability are cast to all enemies.
 types:
-  - Hit All
+- Hit All
 passives:
-  - >-
-    Memorize Status Ailments: This hero has an innate ability to memorize status ailments. The latest 5 status ailments that are cast on the Hero will stay memorized until the Special Skill is cast.
+- 'Memorize Status Ailments: This hero has an innate ability to memorize status ailments.
+  The latest 5 status ailments that are cast on the Hero will stay memorized until
+  the Special Skill is cast.'
 image: https://i.imgur.com/J37iEs6.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Spell-Bending Conundrum
+aetherPower: bulwark
+...

@@ -23,6 +23,8 @@ passives:
 image: https://i.imgur.com/jBtXWpz.jpg
 dtReleased: "2020-10-26"
 dtModified: ""
+fancy_name: The Monstress
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +50,6 @@ costume:
   image: https://i.imgur.com/ObnUcTT.jpg
   dtReleased: "2021-10-04"
   dtModified: ""
+  fancy_name: The Mobstress
+  aetherPower: special_boost
 ...

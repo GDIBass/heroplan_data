@@ -26,6 +26,8 @@ passives:
 image: https://i.imgur.com/J9OOPtS.jpg
 dtReleased: "2022-03-24"
 dtModified: ""
+fancy_name: Head of the Moles
+aetherPower: special_armor
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +56,6 @@ costume:
   image: https://i.imgur.com/sPMKsgr.jpg
   dtReleased: "2024-03-28"
   dtModified: ""
+  fancy_name: Head Nurse
+  aetherPower: ailment_immunity
 ...

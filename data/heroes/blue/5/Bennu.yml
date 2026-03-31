@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/GdX7t3H.jpg
 dtReleased: "2022-07-07"
 dtModified: ""
+fancy_name: Spirit of Creation
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +57,6 @@ costume:
   image: https://i.imgur.com/2RfW9P4.jpg
   dtReleased: "2024-12-10"
   dtModified: ""
+  fancy_name: Heron of Creation
+  aetherPower: damage_reduction
 ...

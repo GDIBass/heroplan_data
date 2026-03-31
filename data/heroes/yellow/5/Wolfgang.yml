@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/8Qu4qUF.jpg
 dtReleased: "2021-10-13"
 dtModified: "2026-03-20"
+fancy_name: Commander of the Castle
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://i.imgur.com/2DLIDng.jpg
   dtReleased: "2024-12-17"
   dtModified: "2026-03-20"
+  fancy_name: Commander of the Wolves
+  aetherPower: damage_reduction
 ...

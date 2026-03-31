@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/4n0L387.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Chieftain of Teltoc
+aetherPower: rage
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
   image: https://i.imgur.com/cXwWGpL.jpg
   dtReleased: "2022-04-14"
   dtModified: ""
+  fancy_name: Conqueror Kong
+  aetherPower: regen
 ...

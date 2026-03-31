@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/SPyWzYD.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Unyielding King
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +42,8 @@ costume:
   image: https://i.imgur.com/c7cvRg8.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: King of Sparta
+  aetherPower: damage_reduction
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -61,6 +65,8 @@ costume2:
   image: https://i.imgur.com/6haP2Yz.jpg
   dtReleased: "2022-12-26"
   dtModified: ""
+  fancy_name: Unyielding Mage
+  aetherPower: ailment_immunity
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -85,6 +91,8 @@ costume3:
   image: https://i.imgur.com/PKsAK4b.jpg
   dtReleased: "2023-12-25"
   dtModified: ""
+  fancy_name: Unyielding Toon
+  aetherPower: counterattack
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -109,6 +117,8 @@ costume4:
   image: https://i.imgur.com/7lvHaTO.jpg
   dtReleased: "2025-02-11"
   dtModified: ""
+  fancy_name: Unyielding Vitrail
+  aetherPower: counterattack
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -133,4 +143,6 @@ costume5:
   image: https://imgur.com/MeT3mAW.jpg
   dtReleased: "2026-02-14"
   dtModified: ""
+  fancy_name: King of Style
+  aetherPower: counterattack
 ...

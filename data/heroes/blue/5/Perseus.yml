@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/AMhR92j.jpg
 dtReleased: "2017-12-01"
 dtModified: ""
+fancy_name: Son of Zeus
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +51,6 @@ costume:
   image: https://i.imgur.com/nzVNwio.jpg
   dtReleased: "2022-11-28"
   dtModified: ""
+  fancy_name: Challenger of Boreas
+  aetherPower: defense_up
 ...

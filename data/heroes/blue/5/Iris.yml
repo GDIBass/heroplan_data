@@ -26,4 +26,6 @@ passives:
 image: https://i.imgur.com/2NdyTvR.jpg
 dtReleased: "2022-02-01"
 dtModified: ""
+fancy_name: Expert Dispeller
+aetherPower: damage_reduction
 ...

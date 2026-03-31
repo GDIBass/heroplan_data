@@ -27,6 +27,7 @@ passives:
 image: https://imgur.com/hSS5Ldf.jpg
 dtReleased: "2026-03-30"
 dtModified: ""
+fancy_name: High Mage of Springvale
 aetherPower: special_boost
 lb1:
   power: 1400

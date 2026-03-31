@@ -37,6 +37,8 @@ passives:
 image: https://i.imgur.com/6o3KSeL.jpg
 dtReleased: "2023-06-07"
 dtModified: "2026-03-22"
+fancy_name: Primordial God of the Depths
+aetherPower: taunt
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -74,4 +76,6 @@ costume:
   image: https://i.imgur.com/FXIdE4S.jpg
   dtReleased: "2024-05-23"
   dtModified: "2026-03-22"
+  fancy_name: Warrior God of the Depths
+  aetherPower: revive
 ...

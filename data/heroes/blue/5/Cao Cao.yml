@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/U1AQZ8U.jpg
 dtReleased: "2022-07-18"
 dtModified: ""
+fancy_name: Warlord of Wei
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   image: https://i.imgur.com/zsLpVZ2.jpg
   dtReleased: "2024-08-02"
   dtModified: ""
+  fancy_name: Warlord of Ice
+  aetherPower: special_armor
 ...

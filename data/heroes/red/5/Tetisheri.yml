@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/vkAXXiK.jpg
 dtReleased: "2022-10-27"
 dtModified: ""
+fancy_name: Mummy Queen
+aetherPower: revive
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +56,6 @@ costume:
   image: https://i.imgur.com/TVr5JnF.jpg
   dtReleased: "2024-05-27"
   dtModified: ""
+  fancy_name: Molten Queen
+  aetherPower: rage
 ...

@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/6787feX.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Ancient of the Woods
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +38,8 @@ costume:
   image: https://i.imgur.com/AffGFoZ.jpg
   dtReleased: "2020-01-01"
   dtModified: ""
+  fancy_name: Wooden Jester
+  aetherPower: special_armor
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -59,6 +63,8 @@ costume2:
   image: https://i.imgur.com/IfQ1lHo.jpg
   dtReleased: "2022-10-31"
   dtModified: ""
+  fancy_name: Nightmare of the Woods
+  aetherPower: damage_reduction
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -81,6 +87,8 @@ costume3:
   image: https://i.imgur.com/VkOyyRt.jpg
   dtReleased: "2024-07-16"
   dtModified: ""
+  fancy_name: Toon of the Woods
+  aetherPower: defense_up
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -103,4 +111,6 @@ costume4:
   image: https://i.imgur.com/VFeCPg6.jpg
   dtReleased: "2025-09-07"
   dtModified: ""
+  fancy_name: Vitrail of the Woods
+  aetherPower: defense_up
 ...

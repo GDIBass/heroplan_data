@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/OQ8iQcf.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Empress of the Depths
+aetherPower: bulwark
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://i.imgur.com/HefSfvM.jpg
   dtReleased: "2021-11-15"
   dtModified: "2026-03-20"
+  fancy_name: Deadly Reef Queen
+  aetherPower: rage
 ...

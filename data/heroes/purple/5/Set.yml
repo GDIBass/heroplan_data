@@ -27,6 +27,8 @@ passives:
 image: https://i.imgur.com/8kUB8ir.jpg
 dtReleased: "2022-09-29"
 dtModified: ""
+fancy_name: Dark Usurper
+aetherPower: mana_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +60,6 @@ costume:
   image: https://imgur.com/olt8i8H.jpg
   dtReleased: "2025-05-14"
   dtModified: ""
+  fancy_name: Dark Tyrant
+  aetherPower: boosted_regen
 ...

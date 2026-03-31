@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/NshfXdy.jpg
 dtReleased: "2023-09-25"
 dtModified: ""
+fancy_name: Cunning Butler
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,4 +54,6 @@ costume:
   image: https://imgur.com/RyJ3YBO.jpg
   dtReleased: "2025-10-08"
   dtModified: ""
+  fancy_name: The Backstabbing Butler
+  aetherPower: attack_up
 ...

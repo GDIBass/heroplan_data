@@ -30,6 +30,8 @@ types:
 image: https://i.imgur.com/B2LpVrC.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Druid of Teltoc
+aetherPower: ailment_immunity
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +60,6 @@ costume:
   image: https://i.imgur.com/E5qL0sl.jpg
   dtReleased: "2023-01-26"
   dtModified: ""
+  fancy_name: Swift Striker of Teltoc
+  aetherPower: heal_increase
 ...

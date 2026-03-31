@@ -37,6 +37,8 @@ passives:
 image: https://i.imgur.com/Ssu3ay2.jpg
 dtReleased: "2023-11-15"
 dtModified: ""
+fancy_name: Mystic Chess Master
+aetherPower: damage_reduction
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -77,4 +79,6 @@ costume:
   image: https://imgur.com/l0NBwwH.jpg
   dtReleased: "2025-08-20"
   dtModified: ""
+  fancy_name: Mystic Pie Master
+  aetherPower: ailment_immunity
 ...

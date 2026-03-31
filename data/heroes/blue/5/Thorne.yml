@@ -16,6 +16,8 @@ types:
 image: https://i.imgur.com/9CT7f6V.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Wielder of Frostmorrow
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +36,8 @@ costume:
   image: https://i.imgur.com/YX5GVdv.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: King Frostmorrow
+  aetherPower: attack_up
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -54,6 +58,8 @@ costume2:
   image: https://i.imgur.com/IEUFL8t.jpg
   dtReleased: "2023-07-10"
   dtModified: ""
+  fancy_name: Commander Frostmorrow
+  aetherPower: counterattack
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -74,6 +80,8 @@ costume3:
   image: https://i.imgur.com/bBInxqX.jpg
   dtReleased: "2024-09-08"
   dtModified: ""
+  fancy_name: Toon Frostmorrow
+  aetherPower: special_boost
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -94,4 +102,6 @@ costume4:
   image: https://imgur.com/jJvIunu.jpg
   dtReleased: "2025-11-25"
   dtModified: ""
+  fancy_name: Vitrail of Frostmorrow
+  aetherPower: special_boost
 ...

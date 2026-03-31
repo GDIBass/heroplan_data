@@ -1,4 +1,3 @@
-
 ---
 name: Aouda
 source: season4
@@ -21,6 +20,8 @@ passives:
 image: https://i.imgur.com/Ri4pkcS.jpg
 dtReleased: "2021-07-15"
 dtModified: ""
+fancy_name: Kind-hearted Princess
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +45,6 @@ costume:
   image: https://i.imgur.com/8bE9bAk.jpg
   dtReleased: "2023-09-07"
   dtModified: ""
+  fancy_name: Lotus Princess
+  aetherPower: special_boost
 ...

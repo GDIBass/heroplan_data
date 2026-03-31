@@ -32,6 +32,8 @@ passives:
 image: https://i.imgur.com/IX7uDP5.jpg
 dtReleased: "2024-12-03"
 dtModified: ""
+fancy_name: Dwarven Fabled Prince
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -64,4 +66,6 @@ costume:
   image: https://imgur.com/Pn28cus.jpg
   dtReleased: "2025-10-15"
   dtModified: ""
+  fancy_name: Dwarven Fallen Prince
+  aetherPower: ailment_immunity
 ...

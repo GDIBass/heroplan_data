@@ -28,6 +28,8 @@ passives:
 image: https://i.imgur.com/ZDIKUNx.jpg
 dtReleased: "2022-10-03"
 dtModified: ""
+fancy_name: Vampire Scion
+aetherPower: vampire
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +57,6 @@ costume:
   image: https://i.imgur.com/ed8i62p.jpg
   dtReleased: "2024-09-23"
   dtModified: ""
+  fancy_name: Vampire Kingpin
+  aetherPower: revive
 ...

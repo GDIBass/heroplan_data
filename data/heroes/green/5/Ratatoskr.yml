@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/IwBPUx4.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Messenger of Yggdrasil
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +42,6 @@ costume:
   image: https://i.imgur.com/AZRDhg4.jpg
   dtReleased: "2023-09-25"
   dtModified: ""
+  fancy_name: Architect of Yggdrasil
+  aetherPower: bulwark
 ...

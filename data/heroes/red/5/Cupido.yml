@@ -24,6 +24,8 @@ passives:
 image: https://i.imgur.com/4hhCXCA.jpg
 dtReleased: "2023-02-14"
 dtModified: ""
+fancy_name: Cupid of Affection
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +52,6 @@ costume:
   image: https://imgur.com/8v59FIZ.jpg
   dtReleased: "2026-01-19"
   dtModified: ""
+  fancy_name: Cupid of Fiery Passion
+  aetherPower: rage
 ...

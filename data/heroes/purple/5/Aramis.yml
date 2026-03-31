@@ -26,6 +26,8 @@ passives:
 image: https://i.imgur.com/7DRTWTb.jpg
 dtReleased: "2022-12-14"
 dtModified: ""
+fancy_name: Romantic Musketeer
+aetherPower: heal_increase
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -56,4 +58,6 @@ costume:
   image: https://imgur.com/58shBmV.jpg
   dtReleased: "2025-11-12"
   dtModified: ""
+  fancy_name: Boulanger Musketeer
+  aetherPower: dodge
 ...

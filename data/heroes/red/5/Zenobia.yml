@@ -24,6 +24,8 @@ passives:
 image: https://i.imgur.com/H6eN1G6.jpg
 dtReleased: "2021-09-09"
 dtModified: ""
+fancy_name: Myriapod Queen
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   image: https://i.imgur.com/lrLa3g9.jpg
   dtReleased: "2024-02-29"
   dtModified: ""
+  fancy_name: Apocynacid Queen
+  aetherPower: counterattack
 ...

@@ -30,6 +30,8 @@ passives:
 image: https://i.imgur.com/VT78aoB.jpg
 dtReleased: "2023-05-22"
 dtModified: ""
+fancy_name: Cyber Rogue
+aetherPower: fiend_resist
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -63,4 +65,6 @@ costume:
   image: https://imgur.com/cjiqk4D.jpg
   dtReleased: "2026-02-19"
   dtModified: ""
+  fancy_name: Cyber Courier
+  aetherPower: damage_reduction
 ...

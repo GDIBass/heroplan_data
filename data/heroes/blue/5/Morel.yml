@@ -21,6 +21,8 @@ passives:
 image: https://i.imgur.com/BbpdvD9.jpg
 dtReleased: "2021-06-17"
 dtModified: ""
+fancy_name: Eloi Hunter
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://i.imgur.com/MAsmJsS.jpg
   dtReleased: "2023-07-20"
   dtModified: ""
+  fancy_name: Eloi Sage
+  aetherPower: bulwark
 ...

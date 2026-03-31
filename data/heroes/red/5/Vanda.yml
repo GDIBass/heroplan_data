@@ -24,6 +24,8 @@ passives:
 image: https://i.imgur.com/FsFObHs.jpg
 dtReleased: "2020-10-26"
 dtModified: ""
+fancy_name: Vampire Queen
+aetherPower: vampire
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +50,6 @@ costume:
   image: https://i.imgur.com/yADk9kZ.jpg
   dtReleased: "2021-10-04"
   dtModified: ""
+  fancy_name: Queen of Crime
+  aetherPower: damage_reduction
 ...

@@ -22,6 +22,8 @@ types:
 image: https://i.imgur.com/BZVWKzM.jpg
 dtReleased: "2022-06-27"
 dtModified: ""
+fancy_name: Titan of Sea
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +46,6 @@ costume:
   image: https://imgur.com/0rCfFEu.jpg
   dtReleased: "2025-10-25"
   dtModified: ""
+  fancy_name: Titan of Magma
+  aetherPower: rage
 ...

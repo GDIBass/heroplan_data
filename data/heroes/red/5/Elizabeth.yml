@@ -27,6 +27,8 @@ passives:
 image: https://i.imgur.com/5redygr.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Arachnid Aristocrat
+aetherPower: fiend_resist
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +59,6 @@ costume:
   image: https://i.imgur.com/aGoeueo.jpg
   dtReleased: "2023-04-27"
   dtModified: ""
+  fancy_name: Bridal Aristocrat
+  aetherPower: counterattack
 ...

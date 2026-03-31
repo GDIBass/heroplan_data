@@ -24,6 +24,8 @@ types:
 image: https://i.imgur.com/bmdaK3F.jpg
 dtReleased: "2020-05-28"
 dtModified: ""
+fancy_name: Luminous God
+aetherPower: heal_increase
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +50,6 @@ costume:
   image: https://i.imgur.com/oTqqeuM.jpg
   dtReleased: "2022-11-21"
   dtModified: ""
+  fancy_name: Fiery God
+  aetherPower: boosted_regen
 ...

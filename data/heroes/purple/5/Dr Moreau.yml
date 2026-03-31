@@ -23,6 +23,8 @@ passives:
 image: https://i.imgur.com/fpP6oo2.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Devious Scientist
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +51,6 @@ costume:
   image: https://i.imgur.com/WWxEz6I.jpg
   dtReleased: "2023-04-27"
   dtModified: ""
+  fancy_name: Devious Scribe
+  aetherPower: special_boost
 ...

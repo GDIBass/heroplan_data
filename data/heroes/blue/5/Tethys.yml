@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/LPmQIgT.jpg
 dtReleased: "2022-05-30"
 dtModified: ""
+fancy_name: Goddess of all Rivers
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   image: https://imgur.com/JHMzCNP.jpg
   dtReleased: "2025-10-25"
   dtModified: ""
+  fancy_name: Avenger of All Rivers
+  aetherPower: special_boost
 ...

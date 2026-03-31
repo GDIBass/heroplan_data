@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/Gjh3PRB.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Shieldmaster of Moonlight
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +40,8 @@ costume:
   image: https://i.imgur.com/N7LZ2EP.jpg
   dtReleased: "2020-05-18"
   dtModified: ""
+  fancy_name: Priestess of Moonlight
+  aetherPower: special_armor
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -58,6 +62,8 @@ costume2:
   image: https://i.imgur.com/hEckaC5.jpg
   dtReleased: "2023-04-17"
   dtModified: ""
+  fancy_name: Moonlit Fairy
+  aetherPower: attack_up
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -80,6 +86,8 @@ costume3:
   image: https://i.imgur.com/I1ETLXX.jpg
   dtReleased: "2024-10-06"
   dtModified: ""
+  fancy_name: Toon Shieldmaster
+  aetherPower: defense_up
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -102,4 +110,6 @@ costume4:
   image: https://imgur.com/DLZ7RRq.jpg
   dtReleased: "2025-12-11"
   dtModified: ""
+  fancy_name: Shieldmaster of Glass
+  aetherPower: defense_up
 ...

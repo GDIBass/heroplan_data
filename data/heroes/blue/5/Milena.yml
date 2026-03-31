@@ -30,6 +30,8 @@ passives:
 image: https://i.imgur.com/30AXxJs.jpg
 dtReleased: "2021-09-15"
 dtModified: ""
+fancy_name: Teacher of the Arcane Arts
+aetherPower: damage_reduction
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -63,4 +65,6 @@ costume:
   image: https://imgur.com/hwGD9H1.jpg
   dtReleased: "2025-04-17"
   dtModified: ""
+  fancy_name: Teacher of Arctic Spells
+  aetherPower: dodge
 ...

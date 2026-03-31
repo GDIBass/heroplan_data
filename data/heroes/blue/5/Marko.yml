@@ -27,6 +27,7 @@ passives:
 image: https://imgur.com/I71luP2.jpg
 dtReleased: "2026-03-30"
 dtModified: ""
+fancy_name: Wayfarer of Springvale
 aetherPower: heal_increase
 lb1:
   power: 1400

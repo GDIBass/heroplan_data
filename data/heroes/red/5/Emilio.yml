@@ -27,6 +27,8 @@ types:
 image: https://i.imgur.com/iAnFGWC.jpg
 dtReleased: "2021-06-10"
 dtModified: ""
+fancy_name: The Great Phoenix Tamer
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +59,6 @@ costume:
   image: https://imgur.com/Jiz6BXT.jpg
   dtReleased: "2025-04-09"
   dtModified: ""
+  fancy_name: The Great Frog Tamer
+  aetherPower: attack_up
 ...

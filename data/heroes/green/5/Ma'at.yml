@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/Lc6n5Vz.jpg
 dtReleased: "2022-09-29"
 dtModified: ""
+fancy_name: Lady of Harmony
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +57,6 @@ costume:
   image: https://i.imgur.com/mjmiIt0.jpg
   dtReleased: "2024-02-05"
   dtModified: ""
+  fancy_name: Lady of the Iteru
+  aetherPower: damage_reduction
 ...

@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/dYjW9Xa.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Queen of Avalon
+aetherPower: bulwark
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
   image: https://i.imgur.com/IeQY7xx.jpg
   dtReleased: "2023-04-20"
   dtModified: ""
+  fancy_name: Dragonrider of Avalon
+  aetherPower: special_armor
 ...

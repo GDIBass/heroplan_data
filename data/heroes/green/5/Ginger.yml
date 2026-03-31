@@ -24,6 +24,8 @@ types:
 image: https://i.imgur.com/U9fsiDu.jpg
 dtReleased: "2023-12-01"
 dtModified: ""
+fancy_name: Gnome Explorer
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +55,6 @@ costume:
   image: https://imgur.com/8ijqdEk.jpg
   dtReleased: "2025-12-01"
   dtModified: ""
+  fancy_name: Gnome Master of Gifts
+  aetherPower: boosted_regen
 ...

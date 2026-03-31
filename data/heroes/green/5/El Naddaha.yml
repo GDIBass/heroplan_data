@@ -24,6 +24,8 @@ passives:
 image: https://i.imgur.com/IdGJmNB.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Siren of the River
+aetherPower: damage_reduction
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +55,6 @@ costume:
   image: https://i.imgur.com/okhmn3A.jpg
   dtReleased: "2025-01-20"
   dtModified: ""
+  fancy_name: Siren of the Sea
+  aetherPower: attack_up
 ...

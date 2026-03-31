@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/m5DCDHL.jpg
 dtReleased: "2021-02-11"
 dtModified: ""
+fancy_name: Sovereign of Cerbera
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
   image: https://imgur.com/6ZuZX5t.jpg
   dtReleased: "2025-06-15"
   dtModified: ""
+  fancy_name: Sovereign of Flora
+  aetherPower: special_armor
 ...

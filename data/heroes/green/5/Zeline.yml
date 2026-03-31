@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/lrpsqzO.jpg
 dtReleased: "2018-02-01"
 dtModified: ""
+fancy_name: Celestial of Nature
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +51,6 @@ costume:
   image: https://i.imgur.com/QJNIkdZ.jpg
   dtReleased: "2023-12-19"
   dtModified: ""
+  fancy_name: Avian Celestial
+  aetherPower: special_boost
 ...

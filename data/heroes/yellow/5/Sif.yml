@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/IEuL57g.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Fair-Haired Deity
+aetherPower: ailment_immunity
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   image: https://i.imgur.com/L0IBEq2.jpg
   dtReleased: "2022-08-29"
   dtModified: ""
+  fancy_name: Golden Deity
+  aetherPower: damage_reduction
 ...

@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/Qk5TZ17.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Chief of Tribes
+aetherPower: special_armor
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +42,8 @@ costume:
   image: https://i.imgur.com/Wuav96d.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: Avenger of Tribes
+  aetherPower: mana_boost
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -60,6 +64,8 @@ costume2:
   image: https://i.imgur.com/Az13Jne.jpg
   dtReleased: "2022-09-05"
   dtModified: ""
+  fancy_name: Chief of Leopards
+  aetherPower: counterattack
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -86,6 +92,8 @@ costume3:
   image: https://i.imgur.com/tV5jaYy.jpg
   dtReleased: "2024-04-08"
   dtModified: ""
+  fancy_name: Chief of Toons
+  aetherPower: special_armor
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -110,4 +118,6 @@ costume4:
   image: https://imgur.com/gv5Agq9.jpg
   dtReleased: "2025-06-18"
   dtModified: ""
+  fancy_name: Chief of Vitrails
+  aetherPower: special_armor
 ...

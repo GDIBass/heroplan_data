@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/pHj3rld.jpg
 dtReleased: "2021-08-05"
 dtModified: ""
+fancy_name: The Untamable
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,4 +54,6 @@ costume:
   image: https://i.imgur.com/yHVhyhO.jpg
   dtReleased: "2024-11-14"
   dtModified: ""
+  fancy_name: The Vanquisher
+  aetherPower: defense_up
 ...

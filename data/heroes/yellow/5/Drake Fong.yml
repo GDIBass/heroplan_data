@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/DfnVeiC.jpg
 dtReleased: "2018-08-01"
 dtModified: ""
+fancy_name: Master of Martial Arts
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
   image: https://i.imgur.com/31loghP.jpg
   dtReleased: "2021-12-23"
   dtModified: ""
+  fancy_name: Serene Fighter
+  aetherPower: special_boost
 ...

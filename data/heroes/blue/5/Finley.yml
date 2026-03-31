@@ -22,6 +22,8 @@ types:
 image: https://i.imgur.com/RIPu5ha.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Commodore of Corellia
+aetherPower: revive
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://i.imgur.com/8HdzNsi.jpg
   dtReleased: "2022-04-14"
   dtModified: ""
+  fancy_name: Bleak Commodore
+  aetherPower: attack_up
 ...

@@ -27,4 +27,6 @@ passives:
 image: https://i.imgur.com/wf4Kvkm.jpg
 dtReleased: "2024-01-01"
 dtModified: "2026-03-20"
+fancy_name: Knight of the Rose
+aetherPower: damage_reduction
 ...

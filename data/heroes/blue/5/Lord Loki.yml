@@ -22,6 +22,8 @@ types:
 image: https://i.imgur.com/eGy2uqe.jpg
 dtReleased: "2020-12-24"
 dtModified: ""
+fancy_name: Trickster God
+aetherPower: special_armor
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
   image: https://i.imgur.com/aEGEu4Y.jpg
   dtReleased: "2023-05-08"
   dtModified: ""
+  fancy_name: Shapeshifter God
+  aetherPower: special_boost
 ...

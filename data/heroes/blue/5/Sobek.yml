@@ -23,6 +23,8 @@ passives:
 image: https://i.imgur.com/3Y3v4bs.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: God of the River
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +55,6 @@ costume:
   image: https://i.imgur.com/E4kLEt9.jpg
   dtReleased: "2024-07-13"
   dtModified: ""
+  fancy_name: Guardian of the River
+  aetherPower: attack_up
 ...

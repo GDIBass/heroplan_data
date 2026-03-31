@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/4yAjxl7.jpg
 dtReleased: ""
 dtModified: "2026-03-28"
+fancy_name: Ruler of Atlantis
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,4 +41,6 @@ costume:
   image: https://i.imgur.com/jU6Z8JO.jpg
   dtReleased: "2021-11-15"
   dtModified: "2026-03-28"
+  fancy_name: Slayer of Atlantis
+  aetherPower: special_boost
 ...

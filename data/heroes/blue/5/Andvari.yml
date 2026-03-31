@@ -35,6 +35,8 @@ passives:
 image: https://i.imgur.com/MVPiXPz.jpg
 dtReleased: "2024-12-28"
 dtModified: ""
+fancy_name: Dwarven Oracle
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -71,4 +73,6 @@ costume:
   image: https://imgur.com/MIeBXAK.jpg
   dtReleased: "2026-03-14"
   dtModified: ""
+  fancy_name: Dwarven Restorer
+  aetherPower: bulwark
 ...
