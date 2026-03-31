@@ -40,6 +40,6 @@ costume:
   - 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
     receives from Special Skill is decreased by 1 turn.'
   image: https://i.imgur.com/AXlFl5t.jpg
-  dtReleased: ""
+  dtReleased: "2024-04-25"
   dtModified: ""
 ...

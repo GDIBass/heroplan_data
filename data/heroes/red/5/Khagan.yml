@@ -38,7 +38,7 @@ costume:
   - Mana Generation Buff All
   - Defense Buff All
   image: https://i.imgur.com/Wuav96d.jpg
-  dtReleased: ""
+  dtReleased: "2021-01-18"
   dtModified: ""
 costume2:
   design: costume2
@@ -58,7 +58,7 @@ costume2:
   - MoT Buff All
   - Defense Buff All
   image: https://i.imgur.com/Az13Jne.jpg
-  dtReleased: ""
+  dtReleased: "2022-09-05"
   dtModified: ""
 costume3:
   design: toon
@@ -84,7 +84,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/tV5jaYy.jpg
-  dtReleased: ""
+  dtReleased: "2024-04-08"
   dtModified: ""
 costume4:
   design: glass

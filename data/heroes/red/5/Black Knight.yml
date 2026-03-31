@@ -20,6 +20,8 @@ types:
 - Taunt
 - Attack Buff All
 image: https://i.imgur.com/6so0gHz.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,4 +41,6 @@ costume:
   - Taunt
   - Attack Buff All
   image: https://i.imgur.com/BH9J6dC.jpg
+  dtReleased: "2022-06-16"
+  dtModified: ""
 ...

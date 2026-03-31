@@ -18,6 +18,8 @@ types:
 - Elemental Defense Buff All
 - Cleanser All
 image: https://i.imgur.com/4n0L387.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,4 +41,6 @@ costume:
   - Elemental Counterattack All
   - Dispeller All
   image: https://i.imgur.com/cXwWGpL.jpg
+  dtReleased: "2022-04-14"
+  dtModified: ""
 ...
