@@ -29,6 +29,6 @@ passives:
 - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
   a status ailment or a negative stacks.'
 image: https://i.imgur.com/5Tx3rNq.jpg
-dtReleased: ""
+dtReleased: "2024-12-07"
 dtModified: "2026-03-20"
 ...

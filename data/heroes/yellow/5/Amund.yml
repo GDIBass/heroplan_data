@@ -30,6 +30,6 @@ passives:
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/Cr6rYpC.jpg
-dtReleased: ""
+dtReleased: "2025-02-27"
 dtModified: "2026-03-20"
 ...

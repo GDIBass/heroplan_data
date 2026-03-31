@@ -24,6 +24,6 @@ passives:
 - 'Mana on Buff Received: This character gains 5% mana when they receive a buff or
   a positive stack.'
 image: https://i.imgur.com/0zHJdCL.jpg
-dtReleased: ""
+dtReleased: "2024-06-01"
 dtModified: "2026-03-20"
 ...

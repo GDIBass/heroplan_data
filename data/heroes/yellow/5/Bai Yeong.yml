@@ -24,4 +24,6 @@ passives:
 - 'Resist Status Ailments From Minions: This character is immune to status ailments
   that are from Minions.'
 image: https://i.imgur.com/4FIVAWy.jpg
+dtReleased: "2020-09-01"
+dtModified: ""
 ...

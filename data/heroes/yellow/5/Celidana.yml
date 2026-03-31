@@ -26,4 +26,6 @@ passives:
 - 'Boost Health on Enemy Special: When an enemy casts their Special Skill, this character
   has a 50% chance to boost this character''s health by 100.'
 image: https://i.imgur.com/fzHIBe5.jpg
+dtReleased: "2022-10-01"
+dtModified: ""
 ...

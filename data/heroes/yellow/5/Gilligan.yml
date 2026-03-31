@@ -24,4 +24,6 @@ passives:
 - 'Mana Per Enemy Buff: Gains a small amount of mana for every active status effect
   buff that the enemy team has at the start of each turn (maximum of 20 buffs).'
 image: https://i.imgur.com/gcaSLmN.jpg
+dtReleased: "2023-03-01"
+dtModified: ""
 ...

@@ -19,6 +19,8 @@ passives:
 - 'Increased Special Skill Damage: The first time this character casts a Special Skill
   that deals damage, an additional 30% is added to its power.'
 image: https://i.imgur.com/gMyh86R.jpg
+dtReleased: "2021-03-25"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +47,6 @@ costume:
     Skill cast, all allies'' normal attacks and Special Skills deal +70% damage against
     targets with boosted health for 3 turns.'
   image: https://i.imgur.com/VvDq081.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

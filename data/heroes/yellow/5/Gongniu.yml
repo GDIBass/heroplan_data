@@ -25,7 +25,7 @@ passives:
   when they receive a status ailment or a negative stack.'
 - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/BDNFVzo.jpg
-dtReleased: ""
+dtReleased: "2024-02-08"
 dtModified: "2026-03-20"
 zodiacAnimal: ox
 ...
