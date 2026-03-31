@@ -17,6 +17,8 @@ types:
 - Hit 3
 - Buff Stealer All
 image: https://i.imgur.com/Fs3u4wr.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,4 +41,6 @@ costume:
   - 'Mindless Attack on Special Skill: When this character casts their Special Skill,
     they have a 50% chance to give Mindless Attack for 3 turns to a random enemy.'
   image: https://i.imgur.com/SDtr1yp.jpg
+  dtReleased: "2024-04-18"
+  dtModified: ""
 ...

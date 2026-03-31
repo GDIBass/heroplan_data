@@ -32,7 +32,7 @@ costume:
   types:
   - DoT All
   image: https://i.imgur.com/4wjqw3M.jpg
-  dtReleased: ""
+  dtReleased: "2021-01-18"
   dtModified: ""
 costume2:
   design: toon
@@ -54,7 +54,7 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/z96lxl3.jpg
-  dtReleased: ""
+  dtReleased: "2024-08-11"
   dtModified: ""
 costume3:
   design: glass
@@ -76,6 +76,6 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/BaV6ZoB.jpg
-  dtReleased: ""
+  dtReleased: "2025-09-07"
   dtModified: ""
 ...

@@ -36,7 +36,7 @@ costume:
   - Attack Buff All
   - Cleanser All
   image: https://i.imgur.com/9nzkBMP.jpg
-  dtReleased: ""
+  dtReleased: "2020-01-01"
   dtModified: ""
 costume2:
   design: costume2
@@ -56,7 +56,7 @@ costume2:
   - Defense Buff All
   - Cleanser All
   image: https://i.imgur.com/0dWPfN4.jpg
-  dtReleased: ""
+  dtReleased: "2023-04-17"
   dtModified: ""
 costume3:
   design: toon
@@ -80,7 +80,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/rCKWMnx.jpg
-  dtReleased: ""
+  dtReleased: "2024-06-28"
   dtModified: ""
 costume4:
   design: glass
@@ -104,6 +104,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/3o76oi9.jpg
-  dtReleased: ""
+  dtReleased: "2025-07-16"
   dtModified: ""
 ...

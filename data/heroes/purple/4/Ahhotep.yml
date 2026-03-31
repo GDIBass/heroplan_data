@@ -47,6 +47,6 @@ costume:
   - 'Mana on Status Ailment Received: This character gains 5% mana each time they
     receive a status ailment or negative stack.'
   image: https://i.imgur.com/ph6Gczr.jpg
-  dtReleased: ""
+  dtReleased: "2024-07-13"
   dtModified: ""
 ...

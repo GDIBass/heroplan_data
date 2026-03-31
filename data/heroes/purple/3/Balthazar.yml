@@ -32,7 +32,7 @@ costume:
   - Hit 1
   - DoT 1
   image: https://i.imgur.com/PBzwskK.jpg
-  dtReleased: ""
+  dtReleased: "2020-05-18"
   dtModified: ""
 costume2:
   design: toon
@@ -52,7 +52,7 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/TVzeF5e.jpg
-  dtReleased: ""
+  dtReleased: "2024-01-22"
   dtModified: ""
 costume3:
   design: glass
@@ -72,7 +72,7 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/GyPOLEn.jpg
-  dtReleased: ""
+  dtReleased: "2025-03-11"
   dtModified: ""
 costume4:
   design: stylish
@@ -92,6 +92,6 @@ costume4:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/sAHNKFa.jpg
-  dtReleased: ""
+  dtReleased: "2026-03-12"
   dtModified: ""
 ...

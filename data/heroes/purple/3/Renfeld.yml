@@ -37,7 +37,7 @@ costume:
   - Hit 1
   - Mana Steal 3
   image: https://i.imgur.com/7QkxYAf.jpg
-  dtReleased: ""
+  dtReleased: "2020-05-18"
   dtModified: ""
 costume2:
   design: toon
@@ -59,7 +59,7 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/D4cVPMi.jpg
-  dtReleased: ""
+  dtReleased: "2024-09-08"
   dtModified: ""
 costume3:
   design: glass
@@ -81,6 +81,6 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/LQv6YPQ.jpg
-  dtReleased: ""
+  dtReleased: "2025-11-25"
   dtModified: ""
 ...

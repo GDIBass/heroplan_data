@@ -18,6 +18,8 @@ types:
 - Healer All
 - Board Alterer
 image: https://i.imgur.com/IwBPUx4.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,4 +38,6 @@ costume:
   - HoT All
   - Board Alterer
   image: https://i.imgur.com/AZRDhg4.jpg
+  dtReleased: "2023-09-25"
+  dtModified: ""
 ...
