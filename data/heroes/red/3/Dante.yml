@@ -1,3 +1,4 @@
+---
 name: Dante
 source: styx
 family: styx
@@ -9,24 +10,25 @@ defense: 472
 health: 709
 skill: Dante's Inferno
 effects:
-  - >-
-    Special Skill has a different effect when charged with 100% / 200% / 300% mana:
-  - '1x Mana Charge:'
-  - '* Deals 105% damage to all enemies.'
-  - '* The attack bypasses defensive buffs. This includes counterattacks.'
-  - '2x Mana Charge:'
-  - '* Deals 125% damage to all enemies.' 
-  - '* The attack bypasses defensive buffs. This includes counterattacks.'
-  - '* All enemies receive 120 Burn damage over 3 turns.'
-  - '3x Mana Charge:'
-  - '* Deals 205% damage to all enemies.'
-  - '* The attack bypasses defensive buffs. This includes counterattacks.'
-  - '* All enemies receive 160 Burn damage over 4 turns.'
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- '1x Mana Charge:'
+- '* Deals 105% damage to all enemies.'
+- '* The attack bypasses defensive buffs. This includes counterattacks.'
+- '2x Mana Charge:'
+- '* Deals 125% damage to all enemies.'
+- '* The attack bypasses defensive buffs. This includes counterattacks.'
+- '* All enemies receive 120 Burn damage over 3 turns.'
+- '3x Mana Charge:'
+- '* Deals 205% damage to all enemies.'
+- '* The attack bypasses defensive buffs. This includes counterattacks.'
+- '* All enemies receive 160 Burn damage over 4 turns.'
 types:
-  - Charge
+- Charge
 passives:
-  - >-
-    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
-  - >-
-    Resist defense ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+- 'Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.'
+- 'Resist defense ailments: This character has innate resistance against status ailments
+  that affect defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/FNkLC6z.jpg
+dtReleased: "2022-09-21"
+dtModified: ""
+...

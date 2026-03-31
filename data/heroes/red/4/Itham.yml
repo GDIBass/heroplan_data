@@ -1,3 +1,4 @@
+---
 name: Itham
 source: beachparty
 family: beachparty
@@ -9,16 +10,19 @@ defense: 703
 health: 1211
 skill: Cannonball Splash
 effects:
-  - Deals 270% damage to the target and nearby enemies.
-  - The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 70 damage for each attempted buff.
-  - The caster and nearby allies resist new effects that block usage of Special Skills for 3 turns.
+- Deals 270% damage to the target and nearby enemies.
+- The target and nearby enemies are immune to new status effect buffs for 3 turns,
+  and receive 70 damage for each attempted buff.
+- The caster and nearby allies resist new effects that block usage of Special Skills
+  for 3 turns.
 types:
-  - Hit 3
-  - Buff Immunity
+- Hit 3
+- Buff Immunity
 passives:
-  - >-
-    Damage over time on Special: When this character casts their Special Skill, all enemies receive 160 Water damage over 2 turns.
-  - >-
-    Resist Water Damage: This character has innate resistance against Water 
-    Damage.
+- 'Damage over time on Special: When this character casts their Special Skill, all
+  enemies receive 160 Water damage over 2 turns.'
+- 'Resist Water Damage: This character has innate resistance against Water  Damage.'
 image: https://i.imgur.com/7w0kLrp.jpg
+dtReleased: "2023-06-12"
+dtModified: ""
+...

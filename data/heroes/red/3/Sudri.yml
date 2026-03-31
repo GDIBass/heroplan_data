@@ -1,3 +1,4 @@
+---
 name: Sudri
 source: season3
 family: muspelheim
@@ -9,8 +10,12 @@ defense: 484
 health: 775
 skill: Burning Shields
 effects:
-  - Deals 120% damage to all enemies.
-  - Deals additional 24% damage per each Fire shield on the board, up to 360% damage in total.
+- Deals 120% damage to all enemies.
+- Deals additional 24% damage per each Fire shield on the board, up to 360% damage
+  in total.
 types:
-  - Hit All
+- Hit All
 image: https://i.imgur.com/kbwg0o2.jpg
+dtReleased: "2020-05-28"
+dtModified: ""
+...

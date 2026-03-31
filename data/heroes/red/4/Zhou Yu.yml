@@ -19,6 +19,8 @@ types:
 - Summoner All
 - Minion with DoT
 image: https://i.imgur.com/KiDn1jL.jpg
+dtReleased: "2022-03-14"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
   - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/Uiw1osb.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

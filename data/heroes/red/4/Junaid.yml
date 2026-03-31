@@ -1,3 +1,4 @@
+---
 name: Junaid
 source: season5
 family: moon
@@ -9,18 +10,21 @@ defense: 573
 health: 1260
 skill: Slash and Support
 effects:
-  - Deals 400% damage to the target.
-  - Heals all allies for 30% of the damage dealt
+- Deals 400% damage to the target.
+- Heals all allies for 30% of the damage dealt
 types:
-  - Hit 1
-  - Damage Heal
+- Hit 1
+- Damage Heal
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * All enemies get -24% mana generation for 3 turns.'
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 70% damage to all enemies.'
+- ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/9XxU54s.jpg
+dtReleased: "2022-04-21"
+dtModified: ""
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 700
@@ -29,18 +33,21 @@ costume:
   health: 1332
   skill: Strike and Support
   effects:
-    - Deals 370% damage to the target.
-    - Heals all allies for 40% of damage dealt.
+  - Deals 370% damage to the target.
+  - Heals all allies for 40% of damage dealt.
   types:
-    - Hit 1
-    - Damage Heal
+  - Hit 1
+  - Damage Heal
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 70% damage to all enemies.'
-    - ' * All enemies get -24% mana generation for 3 turns.'
-    - >-
-      Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
-    - >-
-      Resist Sand Damage: This character has innate resistance against sand damage.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies get -24% mana generation for 3 turns.'
+  - 'Extra Chance for Effects On Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  - 'Resist Sand Damage: This character has innate resistance against sand damage.'
   image: https://i.imgur.com/4PhQKkZ.jpg
+  dtReleased: ""
+  dtModified: ""
+...

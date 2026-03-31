@@ -1,3 +1,4 @@
+---
 name: Waqas
 source: season5
 family: sun
@@ -9,17 +10,21 @@ defense: 472
 health: 709
 skill: Unyielding Protector
 effects:
-  - Deals 205% damage to all enemies.
-  - Reduces max health for all enemies by 450 over 3 turns. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 150 per turn.)
+- Deals 205% damage to all enemies.
+- Reduces max health for all enemies by 450 over 3 turns. The effect is stronger against
+  targets with boosted health. (Max health can't get lower than 30% of the original
+  max health. Any boosted health is reduced by an additional 150 per turn.)
 types:
-  - Hit All
-  - Max Health Reduction over Time All
+- Hit All
+- Max Health Reduction over Time All
 passives:
-  - >-
-    Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * All enemies get -34% attack for 3 turns.'
+- 'Effects on Special Skill: 70% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 70% damage to all enemies.'
+- ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/CWQ9rw6.jpg
+dtReleased: "2022-04-21"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -30,18 +35,24 @@ costume:
   health: 737
   skill: Unyielding Sword
   effects:
-    - Deals 235% damage to all enemies.
-    - Reduces max health of all enemies by 345 over 3 turns. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 115 per turn.)
+  - Deals 235% damage to all enemies.
+  - Reduces max health of all enemies by 345 over 3 turns. The effect is stronger
+    against targets with boosted health. (Max health can't get lower than 30% of the
+    original max health. Any boosted health is reduced by an additional 115 per turn.)
   types:
-    - Hit All
-    - Max Health Reduction over Time All
+  - Hit All
+  - Max Health Reduction over Time All
   passives:
-    - >-
-      Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 70% damage to all enemies.'
-    - ' * All enemies get -34% attack for 3 turns.'
-    - >-
-      Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
-    - >-
-      Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health.
+  - 'Effects on Special Skill: 70% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies get -34% attack for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  - 'Mana on Health Boosting Special Skill: This character gains 5% mana each time
+    an enemy casts a Special Skill that directly boosts health.'
   image: https://imgur.com/W7OyLyj.jpg
+  dtReleased: ""
+  dtModified: ""
+...

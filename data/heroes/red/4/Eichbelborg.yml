@@ -1,3 +1,4 @@
+---
 name: Eichbelborg
 source: starfall
 family: starfall
@@ -9,9 +10,12 @@ defense: 656
 health: 1317
 skill: Pompous Flex
 effects:
-  - Deals 340% damage to the target.
-  - The enemy with the highest base defense gets -44% defense for 4 turns.
+- Deals 340% damage to the target.
+- The enemy with the highest base defense gets -44% defense for 4 turns.
 types:
-  - Hit 1
-  - Defense Debuff
+- Hit 1
+- Defense Debuff
 image: https://i.imgur.com/B0oW04d.jpg
+dtReleased: "2021-06-10"
+dtModified: ""
+...

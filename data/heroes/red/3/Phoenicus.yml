@@ -1,17 +1,21 @@
+---
 name: Phoenicus
-class: Monk
 source: wonderland
+family: wonderland
 speed: Fast
+class: Monk
 power: 481
 attack: 446
 defense: 521
 health: 815
 skill: Valuable Contribution
 effects:
-  - All allies except the caster get +50% attack for 3 turns.
-  - All allies except the caster get +24% mana generation for 3 turns.
+- All allies except the caster get +50% attack for 3 turns.
+- All allies except the caster get +24% mana generation for 3 turns.
 types:
-  - Attack Buff
-  - Mana Generation Buff
-family: wonderland
+- Attack Buff
+- Mana Generation Buff
 image: https://i.imgur.com/zBoeoLf.jpg
+dtReleased: "2021-12-15"
+dtModified: ""
+...
