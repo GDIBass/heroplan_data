@@ -31,4 +31,6 @@ passives:
 - 'Graceful Dancer: If any allies are Dancing when this character casts their Special
   Skill, boosts the health of all allies by 400. Boosted health can exceed max HP.'
 image: https://imgur.com/EthkTxy.jpg
+dtReleased: "2026-02-17"
+dtModified: ""
 ...

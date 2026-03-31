@@ -23,4 +23,6 @@ passives:
 - 'Cleanse on Minion Death: This character is cleansed of status ailments when Minion
   owned by them is destroyed.'
 image: https://i.imgur.com/KU4YzVK.jpg
+dtReleased: "2023-07-13"
+dtModified: ""
 ...

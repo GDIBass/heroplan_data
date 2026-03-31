@@ -35,4 +35,6 @@ passives:
 - ' * The attacker receives 400% damage.'
 - ' * The attacker receives 1200 Bleed damage over 3 turns.'
 image: https://imgur.com/z1SbTyh.jpg
+dtReleased: "2026-03-10"
+dtModified: ""
 ...

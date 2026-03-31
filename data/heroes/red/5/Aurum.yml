@@ -29,11 +29,13 @@ effects:
   target receives by +5%.'
 - ' * All enemies receive 1506 Bleed damage over 6 turns.'
 types:
-- Charge 
+- Charge
 - Hit 1/3/All
 - Bleed Mark on hit
 - DoT 1/3/All
 passives:
 - 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/ti2OFXj.jpg
+dtReleased: "2025-03-05"
+dtModified: ""
 ...

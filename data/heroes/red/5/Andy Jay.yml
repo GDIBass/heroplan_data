@@ -1,3 +1,4 @@
+---
 name: Andy Jay
 source: beachparty
 family: beachparty
@@ -9,17 +10,24 @@ defense: 1194
 health: 2193
 skill: Blazing Rave Dance
 effects:
-  - Deals 450% damage to all enemies.
-  - All allies except the caster dance the Blazing Dave Dance for 3 turns.
-  - Blazing Rave Dance
-  - " * +50% defense."
-  - " * If the dancer is hit with direct damage from Special Skill, Blazing Rave Dance is extended by 1 turn for all dancers. The dance can only be extended once per turn. (All existing status effect will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. The effect is removed when the caster is defeated.)"
+- Deals 450% damage to all enemies.
+- All allies except the caster dance the Blazing Dave Dance for 3 turns.
+- Blazing Rave Dance
+- ' * +50% defense.'
+- ' * If the dancer is hit with direct damage from Special Skill, Blazing Rave Dance
+  is extended by 1 turn for all dancers. The dance can only be extended once per turn.
+  (All existing status effect will be removed when a dance status effect is added.
+  Dance gives immunity to new status effects. New dance status effect will replace
+  this effect. Dance effect cannot be dispelled. The effect is removed when the caster
+  is defeated.)'
 types:
-  - Hit All
-  - Blazing Rave Dance All
+- Hit All
+- Blazing Rave Dance All
 passives:
-  - >-
-    Damage over time on Special: When this character casts their Special Skill, all enemies receive 292 Water damage over 2 turns.
-  - >-
-    Resist Water Damage: This character has innate resistance against Water Damage.
+- 'Damage over time on Special: When this character casts their Special Skill, all
+  enemies receive 292 Water damage over 2 turns.'
+- 'Resist Water Damage: This character has innate resistance against Water Damage.'
 image: https://imgur.com/ZWcSNEl.jpg
+dtReleased: "2025-06-03"
+dtModified: ""
+...

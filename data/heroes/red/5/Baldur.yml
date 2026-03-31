@@ -22,6 +22,8 @@ types:
 - Mana Reduction Immunity All if boosted HP
 - Hit 1 random each turn if boosted HP
 image: https://i.imgur.com/bmdaK3F.jpg
+dtReleased: "2020-05-28"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +46,6 @@ costume:
   - Mana Reduction Immunity All if boosted HP
   - Hit 1 random each turn if boosted HP
   image: https://i.imgur.com/oTqqeuM.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

@@ -27,4 +27,6 @@ passives:
 - 'Friend of the Familiars: When a Minion is summoned to any ally, this character
   gains 5% health and 5% mana. This effect can activate only once per turn.'
 image: https://i.imgur.com/X0UJRC3.jpg
+dtReleased: "2023-05-18"
+dtModified: ""
 ...

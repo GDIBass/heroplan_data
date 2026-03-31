@@ -22,4 +22,6 @@ passives:
   negative stacks that affect mana generation. Doesn''t apply to status ailments that
   stop mana generation or steal mana.'
 image: https://i.imgur.com/1Kkc15H.jpg
+dtReleased: "2019-04-01"
+dtModified: ""
 ...
