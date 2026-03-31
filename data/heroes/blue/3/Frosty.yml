@@ -21,4 +21,14 @@ dtReleased: "2020-12-01"
 dtModified: ""
 fancy_name: Northern Sentinel
 aetherPower: defense_up
+lb1:
+  power: 530
+  attack: 500
+  defense: 592
+  health: 888
+lb2:
+  power: 639
+  attack: 618
+  defense: 732
+  health: 1097
 ...

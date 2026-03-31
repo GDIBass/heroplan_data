@@ -34,4 +34,14 @@ dtReleased: "2022-12-24"
 dtModified: "2026-03-20"
 fancy_name: Mouse of the Hunt
 aetherPower: damage_reduction
+lb1:
+  power: 542
+  attack: 522
+  defense: 610
+  health: 886
+lb2:
+  power: 655
+  attack: 645
+  defense: 754
+  health: 1095
 ...

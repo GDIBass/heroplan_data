@@ -26,4 +26,14 @@ dtReleased: "2020-10-26"
 dtModified: ""
 fancy_name: Pumpkin Minstrel
 aetherPower: damage_reduction
+lb1:
+  power: 522
+  attack: 557
+  defense: 510
+  health: 853
+lb2:
+  power: 629
+  attack: 688
+  defense: 630
+  health: 1053
 ...

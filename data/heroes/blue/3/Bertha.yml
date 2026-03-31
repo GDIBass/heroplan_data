@@ -33,4 +33,14 @@ dtReleased: "2025-04-17"
 dtModified: ""
 fancy_name: Maker of Magic Carpets
 aetherPower: defense_up
+lb1:
+  power: 565
+  attack: 616
+  defense: 579
+  health: 874
+lb2:
+  power: 682
+  attack: 761
+  defense: 715
+  health: 1080
 ...

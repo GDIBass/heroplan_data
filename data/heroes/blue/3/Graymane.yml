@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: The Ferocious
 aetherPower: special_boost
+lb1:
+  power: 492
+  attack: 529
+  defense: 417
+  health: 894
+lb2:
+  power: 593
+  attack: 654
+  defense: 516
+  health: 1105
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,6 +53,16 @@ costume:
   dtModified: ""
   fancy_name: Garlic Thief
   aetherPower: dodge
+  lb1:
+    power: 525
+    attack: 529
+    defense: 476
+    health: 1016
+  lb2:
+    power: 633
+    attack: 653
+    defense: 588
+    health: 1255
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -67,6 +87,16 @@ costume2:
   dtModified: ""
   fancy_name: The Ferocious Toon
   aetherPower: special_boost
+  lb1:
+    power: 563
+    attack: 634
+    defense: 453
+    health: 1073
+  lb2:
+    power: 681
+    attack: 783
+    defense: 559
+    health: 1326
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -91,4 +121,14 @@ costume3:
   dtModified: ""
   fancy_name: The Ferocious Glass
   aetherPower: special_boost
+  lb1:
+    power: 578
+    attack: 609
+    defense: 511
+    health: 1121
+  lb2:
+    power: 698
+    attack: 752
+    defense: 631
+    health: 1386
 ...

@@ -20,4 +20,14 @@ dtReleased: "2020-05-28"
 dtModified: "2026-03-23"
 fancy_name: Wolverine Pugilist
 aetherPower: special_boost
+lb1:
+  power: 520
+  attack: 567
+  defense: 478
+  health: 878
+lb2:
+  power: 627
+  attack: 700
+  defense: 591
+  health: 1085
 ...

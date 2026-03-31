@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Leaf of Bamboo
 aetherPower: defense_up
+lb1:
+  power: 334
+  attack: 275
+  defense: 345
+  health: 693
+lb2:
+  power: 334
+  attack: 275
+  defense: 345
+  health: 693
 ...

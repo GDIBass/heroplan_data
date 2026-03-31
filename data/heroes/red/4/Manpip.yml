@@ -34,4 +34,14 @@ dtReleased: "2025-04-17"
 dtModified: ""
 fancy_name: Nervous Magic Carpet Flier
 aetherPower: attack_up
+lb1:
+  power: 783
+  attack: 810
+  defense: 780
+  health: 1401
+lb2:
+  power: 894
+  attack: 939
+  defense: 904
+  health: 1624
 ...

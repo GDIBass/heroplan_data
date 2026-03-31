@@ -24,6 +24,16 @@ dtReleased: "2020-05-28"
 dtModified: "2026-03-23"
 fancy_name: Shadowblade of Svartalfheim
 aetherPower: special_boost
+lb1:
+  power: 712
+  attack: 681
+  defense: 704
+  health: 1371
+lb2:
+  power: 812
+  attack: 789
+  defense: 816
+  health: 1590
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +56,14 @@ costume:
   dtModified: "2026-03-23"
   fancy_name: Lord of Svartalfheim
   aetherPower: dodge
+  lb1:
+    power: 736
+    attack: 725
+    defense: 689
+    health: 1466
+  lb2:
+    power: 840
+    attack: 840
+    defense: 799
+    health: 1699
 ...

@@ -24,6 +24,16 @@ dtReleased: ""
 dtModified: "2026-03-28"
 fancy_name: Witch Hunter of Grimforest
 aetherPower: attack_up
+lb1:
+  power: 695
+  attack: 759
+  defense: 653
+  health: 1156
+lb2:
+  power: 792
+  attack: 880
+  defense: 757
+  health: 1341
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +58,14 @@ costume:
   dtModified: "2026-03-28"
   fancy_name: Vampire Hunter of Grimforest
   aetherPower: special_boost
+  lb1:
+    power: 734
+    attack: 729
+    defense: 770
+    health: 1280
+  lb2:
+    power: 838
+    attack: 846
+    defense: 893
+    health: 1484
 ...

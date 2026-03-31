@@ -33,4 +33,14 @@ dtReleased: "2022-09-21"
 dtModified: ""
 fancy_name: Adventurer of the Underworld
 aetherPower: special_boost
+lb1:
+  power: 540
+  attack: 608
+  defense: 535
+  health: 803
+lb2:
+  power: 652
+  attack: 752
+  defense: 662
+  health: 993
 ...

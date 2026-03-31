@@ -23,4 +23,14 @@ dtReleased: "2021-06-10"
 dtModified: ""
 fancy_name: Most Mischevious Mime
 aetherPower: special_boost
+lb1:
+  power: 728
+  attack: 711
+  defense: 681
+  health: 1454
+lb2:
+  power: 830
+  attack: 824
+  defense: 789
+  health: 1686
 ...

@@ -34,4 +34,14 @@ dtReleased: "2022-09-21"
 dtModified: ""
 fancy_name: Guide to the Underworld
 aetherPower: defense_up
+lb1:
+  power: 540
+  attack: 468
+  defense: 561
+  health: 1107
+lb2:
+  power: 653
+  attack: 579
+  defense: 693
+  health: 1367
 ...

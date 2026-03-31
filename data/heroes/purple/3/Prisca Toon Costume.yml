@@ -26,4 +26,14 @@ dtReleased: "2024-02-12"
 dtModified: ""
 fancy_name: Resolute Toon
 aetherPower: special_boost
+lb1:
+  power: 570
+  attack: 541
+  defense: 604
+  health: 1051
+lb2:
+  power: 689
+  attack: 668
+  defense: 747
+  health: 1299
 ...

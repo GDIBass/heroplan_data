@@ -26,4 +26,14 @@ dtReleased: "2025-04-08"
 dtModified: ""
 fancy_name: Glass Witch
 aetherPower: mana_boost
+lb1:
+  power: 818
+  attack: 956
+  defense: 772
+  health: 1305
+lb2:
+  power: 935
+  attack: 1108
+  defense: 895
+  health: 1513
 ...

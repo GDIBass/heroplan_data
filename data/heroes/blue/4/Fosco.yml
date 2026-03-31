@@ -27,4 +27,14 @@ dtReleased: "2023-07-13"
 dtModified: ""
 fancy_name: Follower of Februus
 aetherPower: regen
+lb1:
+  power: 741
+  attack: 731
+  defense: 757
+  health: 1346
+lb2:
+  power: 846
+  attack: 848
+  defense: 878
+  health: 1560
 ...

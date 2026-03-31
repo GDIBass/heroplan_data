@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Dark Orphan
 aetherPower: rage
+lb1:
+  power: 691
+  attack: 778
+  defense: 577
+  health: 1230
+lb2:
+  power: 787
+  attack: 902
+  defense: 669
+  health: 1426
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Heir of Evil
   aetherPower: ailment_immunity
+  lb1:
+    power: 740
+    attack: 793
+    defense: 649
+    health: 1401
+  lb2:
+    power: 844
+    attack: 919
+    defense: 753
+    health: 1625
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -61,6 +81,16 @@ costume2:
   dtModified: ""
   fancy_name: Dark Messenger
   aetherPower: counterattack
+  lb1:
+    power: 789
+    attack: 913
+    defense: 655
+    health: 1443
+  lb2:
+    power: 902
+    attack: 1059
+    defense: 760
+    health: 1673
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -85,6 +115,16 @@ costume3:
   dtModified: ""
   fancy_name: Dark Toon
   aetherPower: rage
+  lb1:
+    power: 804
+    attack: 899
+    defense: 694
+    health: 1501
+  lb2:
+    power: 918
+    attack: 1042
+    defense: 804
+    health: 1740
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -109,6 +149,16 @@ costume4:
   dtModified: ""
   fancy_name: Dark Vitrail
   aetherPower: rage
+  lb1:
+    power: 817
+    attack: 917
+    defense: 703
+    health: 1534
+  lb2:
+    power: 934
+    attack: 1064
+    defense: 815
+    health: 1779
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -133,4 +183,14 @@ costume5:
   dtModified: ""
   fancy_name: Heir of Evil Style
   aetherPower: rage
+  lb1:
+    power: 877
+    attack: 1005
+    defense: 765
+    health: 1617
+  lb2:
+    power: 1003
+    attack: 1165
+    defense: 887
+    health: 1875
 ...

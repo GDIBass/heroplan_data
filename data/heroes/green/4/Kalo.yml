@@ -26,4 +26,14 @@ dtReleased: "2022-05-12"
 dtModified: ""
 fancy_name: Aberrant Gargoyle
 aetherPower: defense_up
+lb1:
+  power: 728
+  attack: 681
+  defense: 704
+  health: 1486
+lb2:
+  power: 830
+  attack: 789
+  defense: 816
+  health: 1723
 ...

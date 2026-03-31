@@ -18,6 +18,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Dread Magician
 aetherPower: special_boost
+lb1:
+  power: 493
+  attack: 547
+  defense: 478
+  health: 734
+lb2:
+  power: 594
+  attack: 676
+  defense: 591
+  health: 907
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +48,16 @@ costume:
   dtModified: ""
   fancy_name: Undead Magician
   aetherPower: attack_up
+  lb1:
+    power: 527
+    attack: 604
+    defense: 493
+    health: 808
+  lb2:
+    power: 636
+    attack: 747
+    defense: 609
+    health: 998
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -60,6 +80,16 @@ costume2:
   dtModified: ""
   fancy_name: Toon Magician
   aetherPower: special_boost
+  lb1:
+    power: 564
+    attack: 636
+    defense: 539
+    health: 900
+  lb2:
+    power: 682
+    attack: 786
+    defense: 666
+    health: 1112
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -82,6 +112,16 @@ costume3:
   dtModified: ""
   fancy_name: Glass Magician
   aetherPower: special_boost
+  lb1:
+    power: 577
+    attack: 671
+    defense: 543
+    health: 898
+  lb2:
+    power: 699
+    attack: 830
+    defense: 672
+    health: 1110
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -104,4 +144,14 @@ costume4:
   dtModified: ""
   fancy_name: Stylish Magician
   aetherPower: special_boost
+  lb1:
+    power: 609
+    attack: 719
+    defense: 571
+    health: 952
+  lb2:
+    power: 737
+    attack: 888
+    defense: 705
+    health: 1177
 ...

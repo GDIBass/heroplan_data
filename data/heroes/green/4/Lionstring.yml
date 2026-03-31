@@ -28,4 +28,14 @@ dtReleased: "2024-03-07"
 dtModified: ""
 fancy_name: Astral Elf Dressmaker
 aetherPower: dodge
+lb1:
+  power: 750
+  attack: 743
+  defense: 748
+  health: 1403
+lb2:
+  power: 856
+  attack: 861
+  defense: 867
+  health: 1627
 ...

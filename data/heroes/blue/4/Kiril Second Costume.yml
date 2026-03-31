@@ -24,4 +24,14 @@ dtReleased: "2022-10-31"
 dtModified: ""
 fancy_name: Master Wood Carver
 aetherPower: heal_increase
+lb1:
+  power: 795
+  attack: 796
+  defense: 849
+  health: 1390
+lb2:
+  power: 909
+  attack: 923
+  defense: 985
+  health: 1612
 ...

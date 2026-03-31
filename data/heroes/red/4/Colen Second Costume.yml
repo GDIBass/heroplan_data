@@ -23,4 +23,14 @@ dtReleased: "2023-06-12"
 dtModified: ""
 fancy_name: Brave Tracker
 aetherPower: counterattack
+lb1:
+  power: 790
+  attack: 900
+  defense: 679
+  health: 1429
+lb2:
+  power: 902
+  attack: 1043
+  defense: 788
+  health: 1657
 ...

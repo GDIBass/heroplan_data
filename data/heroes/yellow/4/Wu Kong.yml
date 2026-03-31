@@ -19,6 +19,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Monkey Lord
 aetherPower: gamble
+lb1:
+  power: 693
+  attack: 768
+  defense: 674
+  health: 1078
+lb2:
+  power: 790
+  attack: 891
+  defense: 781
+  health: 1250
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,6 +49,16 @@ costume:
   dtModified: ""
   fancy_name: Monkey Ronin
   aetherPower: attack_up
+  lb1:
+    power: 743
+    attack: 807
+    defense: 765
+    health: 1155
+  lb2:
+    power: 848
+    attack: 936
+    defense: 887
+    health: 1340
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -58,6 +78,16 @@ costume2:
   dtModified: ""
   fancy_name: Monkey Reveller
   aetherPower: rage
+  lb1:
+    power: 793
+    attack: 868
+    defense: 788
+    health: 1316
+  lb2:
+    power: 906
+    attack: 1006
+    defense: 914
+    health: 1525
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -80,6 +110,16 @@ costume3:
   dtModified: ""
   fancy_name: Monkey Toon
   aetherPower: gamble
+  lb1:
+    power: 806
+    attack: 810
+    defense: 864
+    health: 1402
+  lb2:
+    power: 921
+    attack: 939
+    defense: 1002
+    health: 1626
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -105,4 +145,14 @@ costume4:
   dtModified: ""
   fancy_name: Glass Monkey
   aetherPower: gamble
+  lb1:
+    power: 820
+    attack: 840
+    defense: 868
+    health: 1417
+  lb2:
+    power: 937
+    attack: 974
+    defense: 1006
+    health: 1643
 ...

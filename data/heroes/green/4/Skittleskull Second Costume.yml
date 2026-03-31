@@ -22,4 +22,14 @@ dtReleased: "2023-04-17"
 dtModified: ""
 fancy_name: Toad Witch
 aetherPower: ailment_immunity
+lb1:
+  power: 791
+  attack: 900
+  defense: 772
+  health: 1255
+lb2:
+  power: 904
+  attack: 1043
+  defense: 895
+  health: 1455
 ...

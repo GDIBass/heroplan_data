@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Unhinged Assassin
 aetherPower: special_boost
+lb1:
+  power: 495
+  attack: 553
+  defense: 451
+  health: 793
+lb2:
+  power: 597
+  attack: 683
+  defense: 557
+  health: 980
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,6 +53,16 @@ costume:
   dtModified: ""
   fancy_name: Unhinged Surgeon
   aetherPower: attack_up
+  lb1:
+    power: 528
+    attack: 495
+    defense: 526
+    health: 1024
+  lb2:
+    power: 638
+    attack: 612
+    defense: 651
+    health: 1266
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -67,6 +87,16 @@ costume2:
   dtModified: ""
   fancy_name: Unhinged Toon
   aetherPower: special_boost
+  lb1:
+    power: 567
+    attack: 543
+    defense: 555
+    health: 1122
+  lb2:
+    power: 685
+    attack: 671
+    defense: 685
+    health: 1387
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -91,4 +121,14 @@ costume3:
   dtModified: ""
   fancy_name: Glass Assassin
   aetherPower: special_boost
+  lb1:
+    power: 580
+    attack: 571
+    defense: 557
+    health: 1143
+  lb2:
+    power: 702
+    attack: 706
+    defense: 689
+    health: 1413
 ...

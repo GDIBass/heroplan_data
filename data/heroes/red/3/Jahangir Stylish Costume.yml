@@ -26,4 +26,14 @@ dtReleased: "2026-01-07"
 dtModified: ""
 fancy_name: Stylish Mage
 aetherPower: defense_up
+lb1:
+  power: 611
+  attack: 689
+  defense: 588
+  health: 1006
+lb2:
+  power: 740
+  attack: 851
+  defense: 727
+  health: 1243
 ...

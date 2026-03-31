@@ -26,4 +26,14 @@ dtReleased: "2024-08-11"
 dtModified: ""
 fancy_name: Relentless Toon
 aetherPower: mana_boost
+lb1:
+  power: 569
+  attack: 582
+  defense: 530
+  health: 1085
+lb2:
+  power: 687
+  attack: 719
+  defense: 654
+  health: 1340
 ...

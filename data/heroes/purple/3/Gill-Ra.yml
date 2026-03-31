@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Shallows Hunter
 aetherPower: counterattack
+lb1:
+  power: 500
+  attack: 494
+  defense: 514
+  health: 847
+lb2:
+  power: 602
+  attack: 610
+  defense: 635
+  health: 1046
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +54,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Shallows Pursuer
   aetherPower: special_armor
+  lb1:
+    power: 517
+    attack: 543
+    defense: 501
+    health: 870
+  lb2:
+    power: 623
+    attack: 671
+    defense: 619
+    health: 1075
 ...

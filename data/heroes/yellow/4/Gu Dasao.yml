@@ -40,4 +40,14 @@ dtReleased: "2025-05-22"
 dtModified: ""
 fancy_name: Female Tiger of Water Margin
 aetherPower: defense_up
+lb1:
+  power: 794
+  attack: 815
+  defense: 785
+  health: 1461
+lb2:
+  power: 907
+  attack: 944
+  defense: 910
+  health: 1694
 ...

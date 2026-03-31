@@ -19,6 +19,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Squire of Springvale
 aetherPower: rage
+lb1:
+  power: 496
+  attack: 610
+  defense: 433
+  health: 689
+lb2:
+  power: 597
+  attack: 754
+  defense: 535
+  health: 851
 costume:
   design: costume1
   bonuses: 5/5/10/5

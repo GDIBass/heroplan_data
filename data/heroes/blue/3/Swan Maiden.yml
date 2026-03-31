@@ -38,4 +38,14 @@ dtReleased: "2024-01-25"
 dtModified: ""
 fancy_name: One of The Little Swans
 aetherPower: dodge
+lb1:
+  power: 575
+  attack: 591
+  defense: 591
+  health: 985
+lb2:
+  power: 695
+  attack: 730
+  defense: 730
+  health: 1217
 ...

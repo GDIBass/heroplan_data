@@ -26,4 +26,14 @@ dtReleased: "2025-06-18"
 dtModified: ""
 fancy_name: Blade of Glass
 aetherPower: defense_up
+lb1:
+  power: 812
+  attack: 884
+  defense: 741
+  health: 1503
+lb2:
+  power: 928
+  attack: 1025
+  defense: 860
+  health: 1742
 ...

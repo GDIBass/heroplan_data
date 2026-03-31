@@ -24,4 +24,14 @@ dtReleased: "2023-11-27"
 dtModified: ""
 fancy_name: Deathbound Princess
 aetherPower: counterattack
+lb1:
+  power: 787
+  attack: 801
+  defense: 884
+  health: 1244
+lb2:
+  power: 899
+  attack: 929
+  defense: 1025
+  health: 1442
 ...

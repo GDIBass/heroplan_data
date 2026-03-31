@@ -30,4 +30,14 @@ dtReleased: "2025-12-06"
 dtModified: ""
 fancy_name: Boon Companion
 aetherPower: defense_up
+lb1:
+  power: 856
+  attack: 863
+  defense: 861
+  health: 1632
+lb2:
+  power: 979
+  attack: 1001
+  defense: 998
+  health: 1892
 ...

@@ -24,4 +24,14 @@ dtReleased: "2026-03-12"
 dtModified: ""
 fancy_name: Stylish Magician
 aetherPower: special_boost
+lb1:
+  power: 609
+  attack: 719
+  defense: 571
+  health: 952
+lb2:
+  power: 737
+  attack: 888
+  defense: 705
+  health: 1177
 ...

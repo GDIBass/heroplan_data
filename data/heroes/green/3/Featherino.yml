@@ -24,4 +24,14 @@ dtReleased: "2023-12-20"
 dtModified: ""
 fancy_name: Anxious Rapscallion of Owl Tower
 aetherPower: dodge
+lb1:
+  power: 546
+  attack: 648
+  defense: 482
+  health: 858
+lb2:
+  power: 660
+  attack: 800
+  defense: 596
+  health: 1061
 ...

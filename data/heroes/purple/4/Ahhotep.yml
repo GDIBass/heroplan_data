@@ -24,6 +24,16 @@ dtReleased: "2022-04-21"
 dtModified: ""
 fancy_name: Mummy Warrior
 aetherPower: revive
+lb1:
+  power: 735
+  attack: 752
+  defense: 715
+  health: 1339
+lb2:
+  power: 839
+  attack: 872
+  defense: 829
+  health: 1552
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +63,14 @@ costume:
   dtModified: ""
   fancy_name: Mummy Champion
   aetherPower: boosted_regen
+  lb1:
+    power: 752
+    attack: 718
+    defense: 767
+    health: 1440
+  lb2:
+    power: 859
+    attack: 832
+    defense: 890
+    health: 1670
 ...

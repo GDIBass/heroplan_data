@@ -24,4 +24,14 @@ dtReleased: "2024-08-11"
 dtModified: ""
 fancy_name: Toon of Shaguad
 aetherPower: dodge
+lb1:
+  power: 561
+  attack: 609
+  defense: 582
+  health: 862
+lb2:
+  power: 678
+  attack: 752
+  defense: 719
+  health: 1066
 ...

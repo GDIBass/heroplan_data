@@ -25,4 +25,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Trusted Steed of Sand Empire
 aetherPower: rage
+lb1:
+  power: 499
+  attack: 612
+  defense: 443
+  health: 689
+lb2:
+  power: 601
+  attack: 756
+  defense: 547
+  health: 851
 ...

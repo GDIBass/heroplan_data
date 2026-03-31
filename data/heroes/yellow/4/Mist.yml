@@ -24,4 +24,14 @@ dtReleased: ""
 dtModified: "2026-03-23"
 fancy_name: Commander of Valkyries
 aetherPower: attack_up
+lb1:
+  power: 711
+  attack: 745
+  defense: 655
+  health: 1299
+lb2:
+  power: 811
+  attack: 864
+  defense: 760
+  health: 1507
 ...

@@ -26,4 +26,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Relentless Draugr
 aetherPower: rage
+lb1:
+  power: 711
+  attack: 789
+  defense: 676
+  health: 1147
+lb2:
+  power: 810
+  attack: 915
+  defense: 784
+  health: 1330
 ...

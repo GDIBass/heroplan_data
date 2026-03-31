@@ -24,4 +24,14 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Witch Slayer of Grimforest
 aetherPower: attack_up
+lb1:
+  power: 695
+  attack: 764
+  defense: 651
+  health: 1147
+lb2:
+  power: 792
+  attack: 886
+  defense: 754
+  health: 1330
 ...

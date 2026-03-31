@@ -28,4 +28,14 @@ dtReleased: "2024-10-06"
 dtModified: ""
 fancy_name: Deathless Toon
 aetherPower: special_armor
+lb1:
+  power: 799
+  attack: 872
+  defense: 845
+  health: 1233
+lb2:
+  power: 913
+  attack: 1011
+  defense: 980
+  health: 1430
 ...

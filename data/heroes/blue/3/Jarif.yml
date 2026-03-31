@@ -26,6 +26,16 @@ dtReleased: "2022-04-21"
 dtModified: ""
 fancy_name: Stressed-Out Scribe
 aetherPower: attack_up
+lb1:
+  power: 539
+  attack: 575
+  defense: 462
+  health: 1030
+lb2:
+  power: 651
+  attack: 710
+  defense: 571
+  health: 1272
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -56,4 +66,14 @@ costume:
   dtModified: ""
   fancy_name: Stressed-Out Curator
   aetherPower: defense_up
+  lb1:
+    power: 553
+    attack: 624
+    defense: 452
+    health: 1022
+  lb2:
+    power: 668
+    attack: 772
+    defense: 558
+    health: 1263
 ...

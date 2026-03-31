@@ -22,4 +22,14 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Sprite of Grimforest
 aetherPower: defense_up
+lb1:
+  power: 507
+  attack: 484
+  defense: 494
+  health: 961
+lb2:
+  power: 611
+  attack: 598
+  defense: 610
+  health: 1187
 ...

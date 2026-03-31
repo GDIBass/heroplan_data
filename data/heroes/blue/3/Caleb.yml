@@ -33,4 +33,14 @@ dtReleased: "2026-02-04"
 dtModified: ""
 fancy_name: Cabbage Soldier
 aetherPower: dodge
+lb1:
+  power: 603
+  attack: 634
+  defense: 630
+  health: 1004
+lb2:
+  power: 730
+  attack: 783
+  defense: 778
+  health: 1241
 ...

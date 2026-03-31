@@ -24,6 +24,16 @@ dtReleased: "2022-06-20"
 dtModified: ""
 fancy_name: Undying Champion
 aetherPower: dodge
+lb1:
+  power: 733
+  attack: 701
+  defense: 669
+  health: 1544
+lb2:
+  power: 837
+  attack: 813
+  defense: 776
+  health: 1790
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +58,14 @@ costume:
   dtModified: ""
   fancy_name: Fading Champion
   aetherPower: attack_up
+  lb1:
+    power: 761
+    attack: 730
+    defense: 687
+    health: 1632
+  lb2:
+    power: 868
+    attack: 846
+    defense: 796
+    health: 1892
 ...

@@ -26,4 +26,14 @@ dtReleased: "2024-03-11"
 dtModified: ""
 fancy_name: Toon Brawler
 aetherPower: attack_up
+lb1:
+  power: 561
+  attack: 623
+  defense: 514
+  health: 964
+lb2:
+  power: 678
+  attack: 769
+  defense: 635
+  health: 1191
 ...

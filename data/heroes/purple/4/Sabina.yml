@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Deathbound Lady
 aetherPower: special_armor
+lb1:
+  power: 687
+  attack: 759
+  defense: 628
+  health: 1152
+lb2:
+  power: 783
+  attack: 880
+  defense: 728
+  health: 1335
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,6 +52,16 @@ costume:
   dtModified: ""
   fancy_name: Deathless Princess
   aetherPower: defense_up
+  lb1:
+    power: 736
+    attack: 822
+    defense: 711
+    health: 1178
+  lb2:
+    power: 840
+    attack: 953
+    defense: 824
+    health: 1366
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Deathbound Princess
   aetherPower: counterattack
+  lb1:
+    power: 787
+    attack: 801
+    defense: 884
+    health: 1244
+  lb2:
+    power: 899
+    attack: 929
+    defense: 1025
+    health: 1442
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -90,6 +120,16 @@ costume3:
   dtModified: ""
   fancy_name: Deathless Toon
   aetherPower: special_armor
+  lb1:
+    power: 799
+    attack: 872
+    defense: 845
+    health: 1233
+  lb2:
+    power: 913
+    attack: 1011
+    defense: 980
+    health: 1430
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -115,4 +155,14 @@ costume4:
   dtModified: ""
   fancy_name: Deathbound Vitrail
   aetherPower: special_armor
+  lb1:
+    power: 812
+    attack: 901
+    defense: 849
+    health: 1248
+  lb2:
+    power: 928
+    attack: 1044
+    defense: 984
+    health: 1447
 ...

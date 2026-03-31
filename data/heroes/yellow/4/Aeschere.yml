@@ -32,4 +32,14 @@ dtReleased: "2025-02-13"
 dtModified: "2026-03-20"
 fancy_name: Sage of the Scyldings
 aetherPower: defense_up
+lb1:
+  power: 778
+  attack: 771
+  defense: 801
+  health: 1422
+lb2:
+  power: 888
+  attack: 894
+  defense: 928
+  health: 1649
 ...

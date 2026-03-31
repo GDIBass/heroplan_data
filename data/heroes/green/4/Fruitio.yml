@@ -27,4 +27,14 @@ dtReleased: "2025-07-04"
 dtModified: ""
 fancy_name: Fruit Loving Slime
 aetherPower: regen
+lb1:
+  power: 804
+  attack: 803
+  defense: 812
+  health: 1507
+lb2:
+  power: 919
+  attack: 931
+  defense: 942
+  health: 1748
 ...

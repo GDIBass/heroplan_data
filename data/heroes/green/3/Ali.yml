@@ -34,4 +34,14 @@ dtReleased: "2025-11-17"
 dtModified: "2026-03-24"
 fancy_name: Gifted Errand Boy
 aetherPower: rage
+lb1:
+  power: 599
+  attack: 614
+  defense: 622
+  health: 1036
+lb2:
+  power: 725
+  attack: 759
+  defense: 769
+  health: 1280
 ...

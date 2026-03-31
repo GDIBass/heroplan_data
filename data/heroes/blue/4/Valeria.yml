@@ -28,4 +28,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Child of Night
 aetherPower: vampire
+lb1:
+  power: 698
+  attack: 662
+  defense: 713
+  health: 1299
+lb2:
+  power: 796
+  attack: 768
+  defense: 827
+  health: 1507
 ...

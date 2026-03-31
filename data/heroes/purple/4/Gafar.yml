@@ -25,4 +25,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Vizier of Sand Empire
 aetherPower: attack_up
+lb1:
+  power: 698
+  attack: 773
+  defense: 688
+  health: 1073
+lb2:
+  power: 795
+  attack: 896
+  defense: 797
+  health: 1244
 ...

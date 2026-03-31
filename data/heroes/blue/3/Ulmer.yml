@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Mage of Glaceholm
 aetherPower: defense_up
+lb1:
+  power: 495
+  attack: 598
+  defense: 407
+  health: 768
+lb2:
+  power: 597
+  attack: 739
+  defense: 503
+  health: 949
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Hermit of Glaceholm
   aetherPower: special_armor
+  lb1:
+    power: 529
+    attack: 604
+    defense: 465
+    health: 875
+  lb2:
+    power: 638
+    attack: 747
+    defense: 575
+    health: 1081
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Toon of Glaceholm
   aetherPower: defense_up
+  lb1:
+    power: 567
+    attack: 604
+    defense: 573
+    health: 931
+  lb2:
+    power: 685
+    attack: 747
+    defense: 708
+    health: 1150
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -88,4 +118,14 @@ costume3:
   dtModified: ""
   fancy_name: Vitrail of Glaceholm
   aetherPower: defense_up
+  lb1:
+    power: 581
+    attack: 632
+    defense: 581
+    health: 949
+  lb2:
+    power: 703
+    attack: 781
+    defense: 718
+    health: 1173
 ...

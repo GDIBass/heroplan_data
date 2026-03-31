@@ -30,4 +30,14 @@ dtReleased: "2024-05-16"
 dtModified: ""
 fancy_name: Wise Gargoyle
 aetherPower: regen
+lb1:
+  power: 755
+  attack: 757
+  defense: 743
+  health: 1408
+lb2:
+  power: 861
+  attack: 878
+  defense: 861
+  health: 1632
 ...

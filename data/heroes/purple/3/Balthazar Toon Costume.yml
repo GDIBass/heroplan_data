@@ -24,4 +24,14 @@ dtReleased: "2024-01-22"
 dtModified: ""
 fancy_name: Toon Magician
 aetherPower: special_boost
+lb1:
+  power: 564
+  attack: 636
+  defense: 539
+  health: 900
+lb2:
+  power: 682
+  attack: 786
+  defense: 666
+  health: 1112
 ...

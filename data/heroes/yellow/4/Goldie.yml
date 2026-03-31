@@ -28,4 +28,14 @@ dtReleased: "2023-09-18"
 dtModified: ""
 fancy_name: Goblin Beauty
 aetherPower: ailment_immunity
+lb1:
+  power: 741
+  attack: 699
+  defense: 778
+  health: 1383
+lb2:
+  power: 845
+  attack: 811
+  defense: 902
+  health: 1603
 ...

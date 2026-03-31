@@ -37,4 +37,14 @@ dtReleased: "2025-11-12"
 dtModified: ""
 fancy_name: Illuminator of the Bewitched Castle
 aetherPower: attack_up
+lb1:
+  power: 847
+  attack: 909
+  defense: 842
+  health: 1493
+lb2:
+  power: 969
+  attack: 1054
+  defense: 977
+  health: 1732
 ...

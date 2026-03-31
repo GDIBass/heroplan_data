@@ -27,4 +27,14 @@ dtReleased: "2025-11-25"
 dtModified: ""
 fancy_name: Deathbound Vitrail
 aetherPower: special_armor
+lb1:
+  power: 812
+  attack: 901
+  defense: 849
+  health: 1248
+lb2:
+  power: 928
+  attack: 1044
+  defense: 984
+  health: 1447
 ...

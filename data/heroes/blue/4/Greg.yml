@@ -27,4 +27,14 @@ dtReleased: "2024-04-15"
 dtModified: ""
 fancy_name: The Grogsmaster
 aetherPower: regen
+lb1:
+  power: 752
+  attack: 748
+  defense: 766
+  health: 1364
+lb2:
+  power: 858
+  attack: 867
+  defense: 888
+  health: 1582
 ...

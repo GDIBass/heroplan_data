@@ -34,4 +34,14 @@ dtReleased: "2023-11-06"
 dtModified: ""
 fancy_name: Artisan of Elemental Energy
 aetherPower: damage_reduction
+lb1:
+  power: 745
+  attack: 736
+  defense: 775
+  health: 1325
+lb2:
+  power: 850
+  attack: 853
+  defense: 899
+  health: 1536
 ...

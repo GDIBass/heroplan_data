@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Seeker of Throne
 aetherPower: rage
+lb1:
+  power: 495
+  attack: 559
+  defense: 468
+  health: 738
+lb2:
+  power: 596
+  attack: 691
+  defense: 579
+  health: 912
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Seeker of Gods
   aetherPower: dodge
+  lb1:
+    power: 528
+    attack: 573
+    defense: 524
+    health: 827
+  lb2:
+    power: 637
+    attack: 708
+    defense: 648
+    health: 1022
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Seeker of Toons
   aetherPower: rage
+  lb1:
+    power: 566
+    attack: 666
+    defense: 521
+    health: 874
+  lb2:
+    power: 683
+    attack: 822
+    defense: 643
+    health: 1080
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -88,4 +118,14 @@ costume3:
   dtModified: ""
   fancy_name: Seeker of Glass
   aetherPower: rage
+  lb1:
+    power: 579
+    attack: 688
+    defense: 530
+    health: 898
+  lb2:
+    power: 701
+    attack: 850
+    defense: 654
+    health: 1110
 ...

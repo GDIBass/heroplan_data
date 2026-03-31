@@ -23,4 +23,14 @@ dtReleased: "2021-02-11"
 dtModified: ""
 fancy_name: Doomed Hersir
 aetherPower: regen
+lb1:
+  power: 726
+  attack: 688
+  defense: 743
+  health: 1378
+lb2:
+  power: 828
+  attack: 797
+  defense: 861
+  health: 1598
 ...

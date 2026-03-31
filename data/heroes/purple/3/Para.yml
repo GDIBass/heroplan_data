@@ -24,4 +24,14 @@ dtReleased: "2022-06-20"
 dtModified: ""
 fancy_name: Household Familiar
 aetherPower: defense_up
+lb1:
+  power: 538
+  attack: 518
+  defense: 541
+  health: 1002
+lb2:
+  power: 649
+  attack: 640
+  defense: 669
+  health: 1238
 ...

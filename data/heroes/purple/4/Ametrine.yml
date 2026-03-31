@@ -28,4 +28,14 @@ dtReleased: "2020-10-13"
 dtModified: ""
 fancy_name: Ninja of Hidden Blades
 aetherPower: attack_up
+lb1:
+  power: 720
+  attack: 778
+  defense: 609
+  health: 1378
+lb2:
+  power: 822
+  attack: 902
+  defense: 706
+  health: 1598
 ...

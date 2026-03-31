@@ -27,6 +27,16 @@ dtReleased: "2022-06-20"
 dtModified: ""
 fancy_name: Spirit of the Forest
 aetherPower: defense_up
+lb1:
+  power: 734
+  attack: 667
+  defense: 704
+  health: 1565
+lb2:
+  power: 838
+  attack: 773
+  defense: 816
+  health: 1815
 costume:
   design: costume1
   bonuses: 3/3/6/1
@@ -52,4 +62,14 @@ costume:
   dtModified: ""
   fancy_name: Protector of the Bears
   aetherPower: bulwark
+  lb1:
+    power: 761
+    attack: 663
+    defense: 732
+    health: 1708
+  lb2:
+    power: 869
+    attack: 769
+    defense: 849
+    health: 1980
 ...

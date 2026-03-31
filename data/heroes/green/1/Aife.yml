@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Village Girl
 aetherPower: attack_up
+lb1:
+  power: 209
+  attack: 209
+  defense: 183
+  health: 360
+lb2:
+  power: 209
+  attack: 209
+  defense: 183
+  health: 360
 ...

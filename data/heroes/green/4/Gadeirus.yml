@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Watcher of Atlantis
 aetherPower: fiend_resist
+lb1:
+  power: 696
+  attack: 671
+  defense: 750
+  health: 1191
+lb2:
+  power: 794
+  attack: 779
+  defense: 870
+  health: 1381
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +55,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Atlantean Sentinel
   aetherPower: heal_increase
+  lb1:
+    power: 719
+    attack: 665
+    defense: 784
+    health: 1299
+  lb2:
+    power: 820
+    attack: 772
+    defense: 909
+    health: 1506
 ...

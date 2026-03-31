@@ -24,4 +24,14 @@ dtReleased: "2022-03-14"
 dtModified: ""
 fancy_name: Shu Footsoldier
 aetherPower: attack_up
+lb1:
+  power: 538
+  attack: 567
+  defense: 549
+  health: 868
+lb2:
+  power: 650
+  attack: 700
+  defense: 679
+  health: 1073
 ...

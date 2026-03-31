@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Master Tactician
 aetherPower: ailment_immunity
+lb1:
+  power: 691
+  attack: 660
+  defense: 734
+  health: 1212
+lb2:
+  power: 787
+  attack: 765
+  defense: 851
+  health: 1405
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,6 +52,16 @@ costume:
   dtModified: ""
   fancy_name: Master Conservator
   aetherPower: dodge
+  lb1:
+    power: 739
+    attack: 746
+    defense: 753
+    health: 1304
+  lb2:
+    power: 843
+    attack: 865
+    defense: 873
+    health: 1512
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -62,6 +82,16 @@ costume2:
   dtModified: ""
   fancy_name: Tiger Master
   aetherPower: attack_up
+  lb1:
+    power: 789
+    attack: 844
+    defense: 767
+    health: 1390
+  lb2:
+    power: 901
+    attack: 978
+    defense: 889
+    health: 1612
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -86,6 +116,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Tactician
   aetherPower: attack_up
+  lb1:
+    power: 802
+    attack: 877
+    defense: 764
+    health: 1408
+  lb2:
+    power: 917
+    attack: 1017
+    defense: 886
+    health: 1632
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -110,4 +150,14 @@ costume4:
   dtModified: ""
   fancy_name: Glass Tactician
   aetherPower: ailment_immunity
+  lb1:
+    power: 815
+    attack: 914
+    defense: 755
+    health: 1425
+  lb2:
+    power: 932
+    attack: 1060
+    defense: 876
+    health: 1653
 ...

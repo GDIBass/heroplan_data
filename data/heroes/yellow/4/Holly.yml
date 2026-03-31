@@ -26,4 +26,14 @@ dtReleased: "2022-12-01"
 dtModified: "2026-03-20"
 fancy_name: Gnome Head Chef
 aetherPower: defense_up
+lb1:
+  power: 736
+  attack: 676
+  defense: 778
+  health: 1410
+lb2:
+  power: 840
+  attack: 784
+  defense: 902
+  health: 1635
 ...

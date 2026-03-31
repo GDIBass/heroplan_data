@@ -29,4 +29,14 @@ dtReleased: "2023-01-11"
 dtModified: ""
 fancy_name: Thunderous Ninja Monk
 aetherPower: attack_up
+lb1:
+  power: 543
+  attack: 616
+  defense: 583
+  health: 711
+lb2:
+  power: 655
+  attack: 761
+  defense: 720
+  health: 878
 ...

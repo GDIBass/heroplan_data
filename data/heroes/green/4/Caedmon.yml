@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Elven Veteran
 aetherPower: special_boost
+lb1:
+  power: 691
+  attack: 690
+  defense: 692
+  health: 1226
+lb2:
+  power: 788
+  attack: 800
+  defense: 803
+  health: 1421
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Elven Avenger
   aetherPower: special_armor
+  lb1:
+    power: 740
+    attack: 743
+    defense: 736
+    health: 1355
+  lb2:
+    power: 845
+    attack: 862
+    defense: 853
+    health: 1571
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -62,6 +82,16 @@ costume2:
   dtModified: ""
   fancy_name: Elven Cavalier
   aetherPower: dodge
+  lb1:
+    power: 791
+    attack: 809
+    defense: 783
+    health: 1457
+  lb2:
+    power: 904
+    attack: 938
+    defense: 908
+    health: 1689
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -86,6 +116,16 @@ costume3:
   dtModified: ""
   fancy_name: Elven Toon
   aetherPower: special_boost
+  lb1:
+    power: 804
+    attack: 826
+    defense: 807
+    health: 1462
+  lb2:
+    power: 919
+    attack: 958
+    defense: 936
+    health: 1695
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -111,6 +151,16 @@ costume4:
   dtModified: ""
   fancy_name: Elven Vitrail
   aetherPower: special_boost
+  lb1:
+    power: 817
+    attack: 843
+    defense: 818
+    health: 1491
+  lb2:
+    power: 934
+    attack: 977
+    defense: 949
+    health: 1729
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -135,4 +185,14 @@ costume5:
   dtModified: ""
   fancy_name: Stylish Elf
   aetherPower: special_boost
+  lb1:
+    power: 877
+    attack: 924
+    defense: 891
+    health: 1569
+  lb2:
+    power: 1003
+    attack: 1071
+    defense: 1033
+    health: 1820
 ...

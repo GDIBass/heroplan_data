@@ -25,4 +25,14 @@ dtReleased: "2024-03-07"
 dtModified: ""
 fancy_name: Astral Elf Youth
 aetherPower: attack_up
+lb1:
+  power: 550
+  attack: 594
+  defense: 545
+  health: 892
+lb2:
+  power: 665
+  attack: 735
+  defense: 674
+  health: 1102
 ...

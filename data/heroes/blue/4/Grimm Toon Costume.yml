@@ -26,4 +26,14 @@ dtReleased: "2023-12-25"
 dtModified: ""
 fancy_name: Dark Toon
 aetherPower: rage
+lb1:
+  power: 804
+  attack: 899
+  defense: 694
+  health: 1501
+lb2:
+  power: 918
+  attack: 1042
+  defense: 804
+  health: 1740
 ...

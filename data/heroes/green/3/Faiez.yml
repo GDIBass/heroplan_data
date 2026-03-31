@@ -27,6 +27,16 @@ dtReleased: "2022-04-21"
 dtModified: ""
 fancy_name: Fortuitous Farmer
 aetherPower: heal_increase
+lb1:
+  power: 539
+  attack: 527
+  defense: 555
+  health: 963
+lb2:
+  power: 651
+  attack: 652
+  defense: 686
+  health: 1190
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +69,14 @@ costume:
   dtModified: ""
   fancy_name: Fortuitous Miner
   aetherPower: special_armor
+  lb1:
+    power: 553
+    attack: 518
+    defense: 586
+    health: 1020
+  lb2:
+    power: 668
+    attack: 640
+    defense: 724
+    health: 1260
 ...

@@ -38,4 +38,14 @@ dtReleased: "2026-03-10"
 dtModified: ""
 fancy_name: Karate Champion
 aetherPower: attack_up
+lb1:
+  power: 606
+  attack: 650
+  defense: 610
+  health: 1024
+lb2:
+  power: 734
+  attack: 803
+  defense: 754
+  health: 1265
 ...

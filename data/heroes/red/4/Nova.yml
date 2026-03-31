@@ -31,4 +31,14 @@ dtReleased: "2023-10-09"
 dtModified: ""
 fancy_name: Fire Spirit Collector
 aetherPower: defense_up
+lb1:
+  power: 744
+  attack: 699
+  defense: 785
+  health: 1392
+lb2:
+  power: 849
+  attack: 811
+  defense: 910
+  health: 1614
 ...

@@ -27,4 +27,14 @@ dtReleased: "2023-12-20"
 dtModified: "2026-03-20"
 fancy_name: Princess of Owl Tower
 aetherPower: damage_reduction
+lb1:
+  power: 545
+  attack: 490
+  defense: 604
+  health: 1002
+lb2:
+  power: 659
+  attack: 606
+  defense: 747
+  health: 1238
 ...

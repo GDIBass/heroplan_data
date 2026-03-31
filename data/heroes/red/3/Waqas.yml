@@ -27,6 +27,16 @@ dtReleased: "2022-04-21"
 dtModified: ""
 fancy_name: Pharaoh's Shield
 aetherPower: regen
+lb1:
+  power: 539
+  attack: 606
+  defense: 535
+  health: 803
+lb2:
+  power: 651
+  attack: 749
+  defense: 662
+  health: 993
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +69,14 @@ costume:
   dtModified: ""
   fancy_name: Pharaoh's Blade
   aetherPower: rage
+  lb1:
+    power: 552
+    attack: 653
+    defense: 506
+    health: 835
+  lb2:
+    power: 666
+    attack: 806
+    defense: 625
+    health: 1032
 ...

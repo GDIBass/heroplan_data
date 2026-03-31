@@ -27,4 +27,14 @@ dtReleased: "2022-11-03"
 dtModified: ""
 fancy_name: Clawsome Bandit
 aetherPower: special_boost
+lb1:
+  power: 736
+  attack: 750
+  defense: 674
+  health: 1431
+lb2:
+  power: 840
+  attack: 870
+  defense: 781
+  health: 1659
 ...

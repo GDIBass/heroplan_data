@@ -30,4 +30,14 @@ dtReleased: "2024-09-24"
 dtModified: ""
 fancy_name: Iron Discipline Ninja
 aetherPower: attack_up
+lb1:
+  power: 755
+  attack: 826
+  defense: 692
+  health: 1339
+lb2:
+  power: 862
+  attack: 958
+  defense: 803
+  health: 1552
 ...

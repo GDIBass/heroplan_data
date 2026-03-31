@@ -29,4 +29,14 @@ dtReleased: "2024-04-25"
 dtModified: "2026-03-28"
 fancy_name: Frost Construct
 aetherPower: attack_up
+lb1:
+  power: 752
+  attack: 708
+  defense: 826
+  health: 1348
+lb2:
+  power: 859
+  attack: 821
+  defense: 958
+  health: 1563
 ...

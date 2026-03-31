@@ -26,4 +26,14 @@ dtReleased: "2024-05-31"
 dtModified: ""
 fancy_name: First Toon in Battle
 aetherPower: attack_up
+lb1:
+  power: 564
+  attack: 706
+  defense: 459
+  health: 884
+lb2:
+  power: 682
+  attack: 873
+  defense: 568
+  health: 1092
 ...

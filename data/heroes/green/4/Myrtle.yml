@@ -31,4 +31,14 @@ dtReleased: "2025-02-21"
 dtModified: "2026-03-22"
 fancy_name: Harried Faun Herbalist
 aetherPower: attack_up
+lb1:
+  power: 783
+  attack: 854
+  defense: 720
+  health: 1413
+lb2:
+  power: 894
+  attack: 990
+  defense: 835
+  health: 1638
 ...

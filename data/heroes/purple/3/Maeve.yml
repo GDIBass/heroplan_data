@@ -26,4 +26,14 @@ dtReleased: "2021-08-05"
 dtModified: ""
 fancy_name: The Unseen
 aetherPower: attack_up
+lb1:
+  power: 534
+  attack: 520
+  defense: 577
+  health: 900
+lb2:
+  power: 645
+  attack: 642
+  defense: 713
+  health: 1112
 ...

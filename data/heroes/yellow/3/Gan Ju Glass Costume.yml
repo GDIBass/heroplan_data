@@ -26,4 +26,14 @@ dtReleased: "2024-12-25"
 dtModified: ""
 fancy_name: Branch of Glass
 aetherPower: attack_up
+lb1:
+  power: 582
+  attack: 632
+  defense: 488
+  health: 1138
+lb2:
+  power: 704
+  attack: 781
+  defense: 603
+  health: 1407
 ...

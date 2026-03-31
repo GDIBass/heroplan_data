@@ -39,4 +39,14 @@ dtReleased: "2025-12-23"
 dtModified: ""
 fancy_name: Flame Cyclone Construct
 aetherPower: counterattack
+lb1:
+  power: 857
+  attack: 886
+  defense: 865
+  health: 1570
+lb2:
+  power: 980
+  attack: 1027
+  defense: 1003
+  health: 1820
 ...

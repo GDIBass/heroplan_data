@@ -26,4 +26,14 @@ dtReleased: "2024-03-11"
 dtModified: ""
 fancy_name: Toon Witch
 aetherPower: mana_boost
+lb1:
+  power: 804
+  attack: 918
+  defense: 767
+  health: 1312
+lb2:
+  power: 919
+  attack: 1064
+  defense: 889
+  health: 1521
 ...

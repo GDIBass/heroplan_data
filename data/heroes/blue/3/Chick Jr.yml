@@ -20,4 +20,14 @@ dtReleased: ""
 dtModified: "2026-03-31"
 fancy_name: Squire of Springvale
 aetherPower: special_boost
+lb1:
+  power: 514
+  attack: 592
+  defense: 468
+  health: 797
+lb2:
+  power: 621
+  attack: 732
+  defense: 579
+  health: 985
 ...

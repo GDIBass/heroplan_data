@@ -27,4 +27,14 @@ dtReleased: "2024-05-16"
 dtModified: ""
 fancy_name: Nimble Gargoyle
 aetherPower: attack_up
+lb1:
+  power: 550
+  attack: 600
+  defense: 541
+  health: 888
+lb2:
+  power: 665
+  attack: 742
+  defense: 669
+  health: 1097
 ...

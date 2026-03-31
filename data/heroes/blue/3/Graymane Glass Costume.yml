@@ -26,4 +26,14 @@ dtReleased: "2025-06-18"
 dtModified: ""
 fancy_name: The Ferocious Glass
 aetherPower: special_boost
+lb1:
+  power: 578
+  attack: 609
+  defense: 511
+  health: 1121
+lb2:
+  power: 698
+  attack: 752
+  defense: 631
+  health: 1386
 ...

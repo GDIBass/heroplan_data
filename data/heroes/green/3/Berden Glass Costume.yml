@@ -26,4 +26,14 @@ dtReleased: "2025-05-10"
 dtModified: ""
 fancy_name: Glass Archer
 aetherPower: attack_up
+lb1:
+  power: 580
+  attack: 636
+  defense: 564
+  health: 964
+lb2:
+  power: 702
+  attack: 786
+  defense: 697
+  health: 1191
 ...

@@ -26,4 +26,14 @@ dtReleased: "2024-01-10"
 dtModified: ""
 fancy_name: Scholar of the Emerald Forest
 aetherPower: regen
+lb1:
+  power: 745
+  attack: 713
+  defense: 775
+  health: 1383
+lb2:
+  power: 850
+  attack: 827
+  defense: 899
+  health: 1603
 ...

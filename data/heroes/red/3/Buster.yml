@@ -25,4 +25,14 @@ dtReleased: "2022-12-01"
 dtModified: ""
 fancy_name: Grumpy Garden Gnome
 aetherPower: dodge
+lb1:
+  power: 541
+  attack: 577
+  defense: 512
+  health: 935
+lb2:
+  power: 653
+  attack: 713
+  defense: 632
+  health: 1156
 ...

@@ -22,4 +22,14 @@ dtReleased: "2022-03-14"
 dtModified: ""
 fancy_name: Wei Footsoldier
 aetherPower: attack_up
+lb1:
+  power: 538
+  attack: 551
+  defense: 563
+  health: 882
+lb2:
+  power: 650
+  attack: 681
+  defense: 696
+  health: 1090
 ...

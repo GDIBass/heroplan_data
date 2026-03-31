@@ -22,4 +22,14 @@ dtReleased: "2025-12-03"
 dtModified: "2026-03-22"
 fancy_name: Hounding Hooligan
 aetherPower: attack_up
+lb1:
+  power: 600
+  attack: 604
+  defense: 644
+  health: 1030
+lb2:
+  power: 727
+  attack: 747
+  defense: 795
+  health: 1272
 ...

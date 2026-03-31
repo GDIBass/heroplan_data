@@ -20,4 +20,14 @@ dtReleased: ""
 dtModified: "2026-03-23"
 fancy_name: Swift Draugr
 aetherPower: special_boost
+lb1:
+  power: 710
+  attack: 757
+  defense: 648
+  health: 1276
+lb2:
+  power: 810
+  attack: 878
+  defense: 752
+  health: 1480
 ...

@@ -27,4 +27,14 @@ dtReleased: "2025-09-09"
 dtModified: "2026-03-22"
 fancy_name: Servant of the Abyss
 aetherPower: special_boost
+lb1:
+  power: 826
+  attack: 854
+  defense: 812
+  health: 1535
+lb2:
+  power: 944
+  attack: 990
+  defense: 942
+  health: 1780
 ...

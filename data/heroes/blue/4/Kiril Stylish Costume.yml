@@ -28,4 +28,14 @@ dtReleased: "2026-03-12"
 dtModified: ""
 fancy_name: Stylish Taster
 aetherPower: defense_up
+lb1:
+  power: 883
+  attack: 894
+  defense: 978
+  health: 1509
+lb2:
+  power: 1010
+  attack: 1037
+  defense: 1134
+  health: 1750
 ...

@@ -30,4 +30,14 @@ dtReleased: "2025-03-11"
 dtModified: ""
 fancy_name: Brewer Vitrail
 aetherPower: defense_up
+lb1:
+  power: 822
+  attack: 824
+  defense: 884
+  health: 1443
+lb2:
+  power: 940
+  attack: 955
+  defense: 1025
+  health: 1673
 ...

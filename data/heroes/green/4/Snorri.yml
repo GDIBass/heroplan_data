@@ -35,4 +35,14 @@ dtReleased: "2025-08-06"
 dtModified: ""
 fancy_name: Dwarven Storyteller
 aetherPower: fiend_resist
+lb1:
+  power: 815
+  attack: 842
+  defense: 815
+  health: 1482
+lb2:
+  power: 931
+  attack: 977
+  defense: 944
+  health: 1718
 ...

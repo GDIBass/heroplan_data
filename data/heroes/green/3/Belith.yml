@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Glade Spirit
 aetherPower: defense_up
+lb1:
+  power: 492
+  attack: 482
+  defense: 510
+  health: 827
+lb2:
+  power: 593
+  attack: 596
+  defense: 630
+  health: 1022
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Grove Spirit
   aetherPower: special_armor
+  lb1:
+    power: 525
+    attack: 505
+    defense: 533
+    health: 962
+  lb2:
+    power: 634
+    attack: 625
+    defense: 658
+    health: 1188
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -66,6 +86,16 @@ costume2:
   dtModified: ""
   fancy_name: Toon Spirit
   aetherPower: defense_up
+  lb1:
+    power: 563
+    attack: 577
+    defense: 564
+    health: 992
+  lb2:
+    power: 681
+    attack: 713
+    defense: 696
+    health: 1226
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -92,4 +122,14 @@ costume3:
   dtModified: ""
   fancy_name: Glass Spirit
   aetherPower: defense_up
+  lb1:
+    power: 578
+    attack: 597
+    defense: 576
+    health: 1022
+  lb2:
+    power: 699
+    attack: 738
+    defense: 712
+    health: 1263
 ...

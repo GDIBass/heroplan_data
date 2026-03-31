@@ -26,4 +26,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Vampire Henchman
 aetherPower: vampire
+lb1:
+  power: 500
+  attack: 417
+  defense: 551
+  health: 969
+lb2:
+  power: 603
+  attack: 516
+  defense: 681
+  health: 1197
 ...

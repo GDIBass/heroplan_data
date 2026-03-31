@@ -27,4 +27,14 @@ dtReleased: "2025-03-11"
 dtModified: ""
 fancy_name: Vitrail of Rathwood
 aetherPower: defense_up
+lb1:
+  power: 575
+  attack: 541
+  defense: 609
+  health: 1075
+lb2:
+  power: 695
+  attack: 669
+  defense: 752
+  health: 1329
 ...

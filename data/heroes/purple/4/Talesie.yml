@@ -25,4 +25,14 @@ dtReleased: "2025-10-08"
 dtModified: ""
 fancy_name: Sanguine Assassin
 aetherPower: attack_up
+lb1:
+  power: 837
+  attack: 861
+  defense: 831
+  health: 1558
+lb2:
+  power: 956
+  attack: 998
+  defense: 963
+  health: 1806
 ...

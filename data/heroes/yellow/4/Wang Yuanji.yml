@@ -20,6 +20,16 @@ dtReleased: "2022-03-14"
 dtModified: "2026-03-20"
 fancy_name: Gentle Noblewoman
 aetherPower: heal_increase
+lb1:
+  power: 735
+  attack: 734
+  defense: 771
+  health: 1272
+lb2:
+  power: 839
+  attack: 851
+  defense: 894
+  health: 1475
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +57,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Gentle Calligrapher
   aetherPower: regen
+  lb1:
+    power: 775
+    attack: 753
+    defense: 841
+    health: 1365
+  lb2:
+    power: 885
+    attack: 873
+    defense: 976
+    health: 1583
 ...

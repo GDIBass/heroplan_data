@@ -26,4 +26,14 @@ dtReleased: "2024-05-31"
 dtModified: ""
 fancy_name: Toon of Bamboo
 aetherPower: defense_up
+lb1:
+  power: 799
+  attack: 810
+  defense: 780
+  health: 1515
+lb2:
+  power: 913
+  attack: 939
+  defense: 905
+  health: 1757
 ...

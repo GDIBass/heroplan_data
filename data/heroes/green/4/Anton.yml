@@ -32,4 +32,14 @@ dtReleased: "2021-09-15"
 dtModified: ""
 fancy_name: Young Scholar
 aetherPower: defense_up
+lb1:
+  power: 729
+  attack: 706
+  defense: 695
+  health: 1450
+lb2:
+  power: 832
+  attack: 819
+  defense: 805
+  health: 1681
 ...

@@ -32,4 +32,14 @@ dtReleased: "2022-08-25"
 dtModified: "2026-03-20"
 fancy_name: Hunter Minstrel
 aetherPower: defense_up
+lb1:
+  power: 540
+  attack: 512
+  defense: 541
+  health: 1034
+lb2:
+  power: 652
+  attack: 632
+  defense: 669
+  health: 1277
 ...

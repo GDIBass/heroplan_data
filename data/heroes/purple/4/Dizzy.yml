@@ -27,4 +27,14 @@ dtReleased: "2023-12-01"
 dtModified: ""
 fancy_name: Gnome Entertainer
 aetherPower: attack_up
+lb1:
+  power: 739
+  attack: 734
+  defense: 743
+  health: 1357
+lb2:
+  power: 844
+  attack: 851
+  defense: 861
+  health: 1574
 ...

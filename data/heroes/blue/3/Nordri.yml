@@ -20,6 +20,16 @@ dtReleased: ""
 dtModified: "2026-03-23"
 fancy_name: Ice Dwarf of Jotunheim
 aetherPower: rage
+lb1:
+  power: 517
+  attack: 553
+  defense: 460
+  health: 927
+lb2:
+  power: 623
+  attack: 683
+  defense: 569
+  health: 1146
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +51,14 @@ costume:
   dtModified: "2026-03-23"
   fancy_name: Explorer Dwarf of Jotunheim
   aetherPower: counterattack
+  lb1:
+    power: 535
+    attack: 541
+    defense: 491
+    health: 1023
+  lb2:
+    power: 645
+    attack: 669
+    defense: 606
+    health: 1264
 ...

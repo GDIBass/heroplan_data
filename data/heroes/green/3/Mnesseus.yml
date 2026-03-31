@@ -20,6 +20,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Merman of Atlantis
 aetherPower: attack_up
+lb1:
+  power: 499
+  attack: 537
+  defense: 488
+  health: 784
+lb2:
+  power: 601
+  attack: 664
+  defense: 603
+  health: 968
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +50,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Lieutenant of Atlantis
   aetherPower: defense_up
+  lb1:
+    power: 516
+    attack: 568
+    defense: 497
+    health: 812
+  lb2:
+    power: 622
+    attack: 701
+    defense: 614
+    health: 1003
 ...

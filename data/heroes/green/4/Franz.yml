@@ -22,4 +22,14 @@ dtReleased: "2022-01-05"
 dtModified: ""
 fancy_name: Protector of the Castle
 aetherPower: vampire
+lb1:
+  power: 733
+  attack: 600
+  defense: 741
+  health: 1650
+lb2:
+  power: 837
+  attack: 696
+  defense: 859
+  health: 1914
 ...

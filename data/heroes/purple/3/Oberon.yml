@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Relentless Remnant
 aetherPower: mana_boost
+lb1:
+  power: 495
+  attack: 478
+  defense: 466
+  health: 951
+lb2:
+  power: 597
+  attack: 591
+  defense: 576
+  health: 1175
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +48,16 @@ costume:
   dtModified: ""
   fancy_name: Jester Remnant
   aetherPower: boosted_regen
+  lb1:
+    power: 530
+    attack: 478
+    defense: 535
+    health: 1059
+  lb2:
+    power: 640
+    attack: 591
+    defense: 661
+    health: 1309
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -62,6 +82,16 @@ costume2:
   dtModified: ""
   fancy_name: Relentless Toon
   aetherPower: mana_boost
+  lb1:
+    power: 569
+    attack: 582
+    defense: 530
+    health: 1085
+  lb2:
+    power: 687
+    attack: 719
+    defense: 654
+    health: 1340
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -86,4 +116,14 @@ costume3:
   dtModified: ""
   fancy_name: Relentless Vitrail
   aetherPower: mana_boost
+  lb1:
+    power: 583
+    attack: 609
+    defense: 539
+    health: 1102
+  lb2:
+    power: 705
+    attack: 752
+    defense: 666
+    health: 1362
 ...

@@ -25,6 +25,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Lone Ghost
 aetherPower: special_armor
+lb1:
+  power: 698
+  attack: 838
+  defense: 572
+  health: 1145
+lb2:
+  power: 796
+  attack: 971
+  defense: 663
+  health: 1327
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,4 +62,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Lonesome Yurei
   aetherPower: defense_up
+  lb1:
+    power: 722
+    attack: 761
+    defense: 708
+    health: 1238
+  lb2:
+    power: 824
+    attack: 882
+    defense: 821
+    health: 1435
 ...

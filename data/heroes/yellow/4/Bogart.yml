@@ -30,4 +30,14 @@ dtReleased: "2022-12-24"
 dtModified: "2026-03-20"
 fancy_name: Marsh Hunter
 aetherPower: rage
+lb1:
+  power: 738
+  attack: 708
+  defense: 731
+  health: 1433
+lb2:
+  power: 842
+  attack: 821
+  defense: 848
+  health: 1662
 ...

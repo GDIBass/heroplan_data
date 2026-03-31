@@ -24,4 +24,14 @@ dtReleased: "2025-09-07"
 dtModified: ""
 fancy_name: Glass Fighter
 aetherPower: special_boost
+lb1:
+  power: 585
+  attack: 574
+  defense: 539
+  health: 1204
+lb2:
+  power: 707
+  attack: 709
+  defense: 666
+  health: 1487
 ...

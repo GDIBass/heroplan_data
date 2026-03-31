@@ -27,4 +27,14 @@ dtReleased: "2025-08-10"
 dtModified: ""
 fancy_name: Glass Monkey
 aetherPower: gamble
+lb1:
+  power: 820
+  attack: 840
+  defense: 868
+  health: 1417
+lb2:
+  power: 937
+  attack: 974
+  defense: 1006
+  health: 1643
 ...

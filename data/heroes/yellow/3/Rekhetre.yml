@@ -27,6 +27,16 @@ dtReleased: "2022-04-21"
 dtModified: "2026-03-20"
 fancy_name: Young Sphinx
 aetherPower: defense_up
+lb1:
+  power: 538
+  attack: 533
+  defense: 559
+  health: 935
+lb2:
+  power: 650
+  attack: 659
+  defense: 691
+  health: 1156
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +69,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Young Artist
   aetherPower: special_armor
+  lb1:
+    power: 552
+    attack: 558
+    defense: 562
+    health: 962
+  lb2:
+    power: 667
+    attack: 690
+    defense: 695
+    health: 1189
 ...

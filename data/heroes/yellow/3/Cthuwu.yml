@@ -26,4 +26,14 @@ dtReleased: "2025-01-09"
 dtModified: "2026-03-20"
 fancy_name: Spawn of the Old Ones
 aetherPower: attack_up
+lb1:
+  power: 559
+  attack: 551
+  defense: 529
+  health: 1095
+lb2:
+  power: 675
+  attack: 681
+  defense: 654
+  health: 1353
 ...

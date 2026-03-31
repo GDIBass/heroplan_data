@@ -31,4 +31,14 @@ dtReleased: "2024-10-17"
 dtModified: ""
 fancy_name: Fiery Gargoyle
 aetherPower: fiend_resist
+lb1:
+  power: 755
+  attack: 768
+  defense: 738
+  health: 1396
+lb2:
+  power: 863
+  attack: 891
+  defense: 856
+  health: 1619
 ...

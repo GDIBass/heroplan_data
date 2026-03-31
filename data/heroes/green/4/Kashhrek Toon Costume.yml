@@ -26,4 +26,14 @@ dtReleased: "2024-05-31"
 dtModified: ""
 fancy_name: Toon Chieftain
 aetherPower: defense_up
+lb1:
+  power: 806
+  attack: 740
+  defense: 751
+  health: 1802
+lb2:
+  power: 921
+  attack: 858
+  defense: 870
+  health: 2090
 ...

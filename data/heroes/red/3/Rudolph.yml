@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Santa's Loyal Steed
 aetherPower: attack_up
+lb1:
+  power: 499
+  attack: 612
+  defense: 443
+  health: 689
+lb2:
+  power: 601
+  attack: 756
+  defense: 547
+  health: 851
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +59,14 @@ costume:
   dtModified: ""
   fancy_name: Santa's Knightly Steed
   aetherPower: defense_up
+  lb1:
+    power: 593
+    attack: 735
+    defense: 541
+    health: 856
+  lb2:
+    power: 717
+    attack: 908
+    defense: 668
+    health: 1058
 ...

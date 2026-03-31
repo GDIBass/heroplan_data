@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Branch of Bamboo
 aetherPower: attack_up
+lb1:
+  power: 493
+  attack: 529
+  defense: 411
+  health: 919
+lb2:
+  power: 595
+  attack: 654
+  defense: 508
+  health: 1136
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Root of Bamboo
   aetherPower: special_boost
+  lb1:
+    power: 529
+    attack: 600
+    defense: 430
+    health: 957
+  lb2:
+    power: 639
+    attack: 742
+    defense: 531
+    health: 1183
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Branch of Toons
   aetherPower: attack_up
+  lb1:
+    power: 567
+    attack: 611
+    defense: 478
+    health: 1103
+  lb2:
+    power: 685
+    attack: 755
+    defense: 590
+    health: 1364
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -88,6 +118,16 @@ costume3:
   dtModified: ""
   fancy_name: Branch of Glass
   aetherPower: attack_up
+  lb1:
+    power: 582
+    attack: 632
+    defense: 488
+    health: 1138
+  lb2:
+    power: 704
+    attack: 781
+    defense: 603
+    health: 1407
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -112,4 +152,14 @@ costume4:
   dtModified: ""
   fancy_name: Vibrant Bamboo
   aetherPower: attack_up
+  lb1:
+    power: 613
+    attack: 672
+    defense: 514
+    health: 1211
+  lb2:
+    power: 742
+    attack: 830
+    defense: 635
+    health: 1496
 ...

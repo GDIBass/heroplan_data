@@ -30,6 +30,16 @@ dtReleased: "2023-06-07"
 dtModified: "2026-03-22"
 fancy_name: Fishman Skirmish Leader
 aetherPower: dodge
+lb1:
+  power: 543
+  attack: 648
+  defense: 457
+  health: 884
+lb2:
+  power: 655
+  attack: 800
+  defense: 564
+  health: 1092
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -61,4 +71,14 @@ costume:
   dtModified: "2026-03-22"
   fancy_name: Fishboy Scout
   aetherPower: damage_reduction
+  lb1:
+    power: 556
+    attack: 580
+    defense: 564
+    health: 932
+  lb2:
+    power: 672
+    attack: 717
+    defense: 697
+    health: 1151
 ...

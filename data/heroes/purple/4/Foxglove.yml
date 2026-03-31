@@ -27,4 +27,14 @@ dtReleased: "2025-07-06"
 dtModified: ""
 fancy_name: The Sly Bat-eared Fox
 aetherPower: special_boost
+lb1:
+  power: 805
+  attack: 854
+  defense: 761
+  health: 1489
+lb2:
+  power: 920
+  attack: 990
+  defense: 883
+  health: 1726
 ...

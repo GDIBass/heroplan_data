@@ -20,4 +20,14 @@ dtReleased: "2020-05-28"
 dtModified: "2026-03-20"
 fancy_name: Courageous Villager
 aetherPower: attack_up
+lb1:
+  power: 517
+  attack: 630
+  defense: 551
+  health: 557
+lb2:
+  power: 624
+  attack: 778
+  defense: 681
+  health: 688
 ...

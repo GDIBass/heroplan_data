@@ -35,4 +35,14 @@ dtReleased: "2024-01-10"
 dtModified: ""
 fancy_name: Jester of the Highlands
 aetherPower: defense_up
+lb1:
+  power: 547
+  attack: 512
+  defense: 539
+  health: 1087
+lb2:
+  power: 660
+  attack: 632
+  defense: 666
+  health: 1343
 ...

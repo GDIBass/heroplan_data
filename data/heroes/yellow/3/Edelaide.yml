@@ -28,4 +28,14 @@ dtReleased: "2022-10-15"
 dtModified: "2026-03-20"
 fancy_name: Nomad of the Wild
 aetherPower: defense_up
+lb1:
+  power: 540
+  attack: 494
+  defense: 577
+  health: 1004
+lb2:
+  power: 651
+  attack: 610
+  defense: 713
+  health: 1241
 ...

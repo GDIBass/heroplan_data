@@ -18,6 +18,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Ascendant Shaman
 aetherPower: defense_up
+lb1:
+  power: 495
+  attack: 537
+  defense: 506
+  health: 722
+lb2:
+  power: 597
+  attack: 664
+  defense: 625
+  health: 893
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +48,16 @@ costume:
   dtModified: ""
   fancy_name: Ascendant Mender
   aetherPower: special_armor
+  lb1:
+    power: 528
+    attack: 569
+    defense: 545
+    health: 801
+  lb2:
+    power: 638
+    attack: 703
+    defense: 674
+    health: 990
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -62,6 +82,16 @@ costume2:
   dtModified: ""
   fancy_name: Ascendant Toon
   aetherPower: defense_up
+  lb1:
+    power: 567
+    attack: 618
+    defense: 589
+    health: 867
+  lb2:
+    power: 685
+    attack: 764
+    defense: 727
+    health: 1071
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -86,4 +116,14 @@ costume3:
   dtModified: ""
   fancy_name: Ascendant Vitrail
   aetherPower: defense_up
+  lb1:
+    power: 582
+    attack: 669
+    defense: 592
+    health: 838
+  lb2:
+    power: 704
+    attack: 827
+    defense: 732
+    health: 1035
 ...

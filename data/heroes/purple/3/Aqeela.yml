@@ -25,6 +25,16 @@ dtReleased: "2022-04-21"
 dtModified: ""
 fancy_name: Street-Smart Urchin
 aetherPower: attack_up
+lb1:
+  power: 539
+  attack: 510
+  defense: 565
+  health: 986
+lb2:
+  power: 651
+  attack: 630
+  defense: 698
+  health: 1219
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +65,14 @@ costume:
   dtModified: ""
   fancy_name: Street-Smart Sorcerer
   aetherPower: special_boost
+  lb1:
+    power: 552
+    attack: 540
+    defense: 554
+    health: 1026
+  lb2:
+    power: 667
+    attack: 667
+    defense: 685
+    health: 1268
 ...

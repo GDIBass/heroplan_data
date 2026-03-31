@@ -36,4 +36,14 @@ dtReleased: "2025-10-20"
 dtModified: ""
 fancy_name: Adventurous Rainforest Cat
 aetherPower: special_boost
+lb1:
+  power: 586
+  attack: 652
+  defense: 581
+  health: 933
+lb2:
+  power: 709
+  attack: 805
+  defense: 718
+  health: 1153
 ...

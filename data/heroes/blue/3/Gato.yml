@@ -20,4 +20,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Swamp Thug
 aetherPower: attack_up
+lb1:
+  power: 498
+  attack: 585
+  defense: 455
+  health: 724
+lb2:
+  power: 600
+  attack: 722
+  defense: 562
+  health: 895
 ...

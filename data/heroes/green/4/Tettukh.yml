@@ -25,6 +25,16 @@ dtReleased: "2021-03-25"
 dtModified: ""
 fancy_name: Morlock Brute
 aetherPower: regen
+lb1:
+  power: 728
+  attack: 720
+  defense: 725
+  health: 1348
+lb2:
+  power: 831
+  attack: 835
+  defense: 840
+  health: 1563
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +60,14 @@ costume:
   dtModified: ""
   fancy_name: Morlock Cheerleader
   aetherPower: attack_up
+  lb1:
+    power: 745
+    attack: 803
+    defense: 713
+    health: 1287
+  lb2:
+    power: 851
+    attack: 931
+    defense: 827
+    health: 1492
 ...

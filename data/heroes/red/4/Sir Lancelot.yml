@@ -22,4 +22,14 @@ dtReleased: ""
 dtModified: "2026-03-28"
 fancy_name: Knight of Avalon
 aetherPower: special_boost
+lb1:
+  power: 694
+  attack: 822
+  defense: 579
+  health: 1138
+lb2:
+  power: 791
+  attack: 953
+  defense: 671
+  health: 1319
 ...

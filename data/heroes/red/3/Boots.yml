@@ -28,4 +28,14 @@ dtReleased: "2023-09-18"
 dtModified: ""
 fancy_name: Oblivious Guard
 aetherPower: attack_up
+lb1:
+  power: 543
+  attack: 516
+  defense: 520
+  health: 1087
+lb2:
+  power: 655
+  attack: 637
+  defense: 642
+  health: 1343
 ...

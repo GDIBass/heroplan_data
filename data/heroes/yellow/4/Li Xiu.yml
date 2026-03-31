@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Wise General
 aetherPower: counterattack
+lb1:
+  power: 688
+  attack: 669
+  defense: 722
+  health: 1193
+lb2:
+  power: 784
+  attack: 776
+  defense: 837
+  health: 1384
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Ceremonial Assassin
   aetherPower: special_armor
+  lb1:
+    power: 737
+    attack: 731
+    defense: 765
+    health: 1304
+  lb2:
+    power: 841
+    attack: 847
+    defense: 887
+    health: 1512
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -60,6 +80,16 @@ costume2:
   dtModified: ""
   fancy_name: Fireworks General
   aetherPower: damage_reduction
+  lb1:
+    power: 787
+    attack: 788
+    defense: 817
+    health: 1413
+  lb2:
+    power: 899
+    attack: 914
+    defense: 948
+    health: 1638
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -84,6 +114,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon General
   aetherPower: counterattack
+  lb1:
+    power: 800
+    attack: 788
+    defense: 848
+    health: 1447
+  lb2:
+    power: 915
+    attack: 914
+    defense: 983
+    health: 1678
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -108,6 +148,16 @@ costume4:
   dtModified: ""
   fancy_name: Glass General
   aetherPower: counterattack
+  lb1:
+    power: 814
+    attack: 873
+    defense: 807
+    health: 1414
+  lb2:
+    power: 931
+    attack: 1013
+    defense: 936
+    health: 1639
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -132,4 +182,14 @@ costume5:
   dtModified: ""
   fancy_name: Stylish General
   aetherPower: counterattack
+  lb1:
+    power: 875
+    attack: 960
+    defense: 879
+    health: 1485
+  lb2:
+    power: 1000
+    attack: 1113
+    defense: 1019
+    health: 1722
 ...

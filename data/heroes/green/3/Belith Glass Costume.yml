@@ -28,4 +28,14 @@ dtReleased: "2025-04-23"
 dtModified: ""
 fancy_name: Glass Spirit
 aetherPower: defense_up
+lb1:
+  power: 578
+  attack: 597
+  defense: 576
+  health: 1022
+lb2:
+  power: 699
+  attack: 738
+  defense: 712
+  health: 1263
 ...

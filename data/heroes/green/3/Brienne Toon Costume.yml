@@ -25,4 +25,14 @@ dtReleased: "2024-01-22"
 dtModified: ""
 fancy_name: Toon of Rathwood
 aetherPower: defense_up
+lb1:
+  power: 561
+  attack: 575
+  defense: 555
+  health: 1002
+lb2:
+  power: 678
+  attack: 710
+  defense: 685
+  health: 1238
 ...

@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Simple Woodsman
 aetherPower: attack_up
+lb1:
+  power: 210
+  attack: 193
+  defense: 197
+  health: 380
+lb2:
+  power: 210
+  attack: 193
+  defense: 197
+  health: 380
 ...

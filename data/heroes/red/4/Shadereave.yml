@@ -27,4 +27,14 @@ dtReleased: "2020-05-28"
 dtModified: "2026-03-23"
 fancy_name: Brutish Draugr
 aetherPower: mana_boost
+lb1:
+  power: 710
+  attack: 646
+  defense: 690
+  health: 1475
+lb2:
+  power: 810
+  attack: 749
+  defense: 800
+  health: 1710
 ...

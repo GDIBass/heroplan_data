@@ -19,6 +19,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Druid of Rathwood
 aetherPower: defense_up
+lb1:
+  power: 491
+  attack: 506
+  defense: 508
+  health: 764
+lb2:
+  power: 591
+  attack: 625
+  defense: 627
+  health: 944
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +48,16 @@ costume:
   dtModified: ""
   fancy_name: Shaman of Concordia
   aetherPower: special_armor
+  lb1:
+    power: 524
+    attack: 539
+    defense: 541
+    health: 851
+  lb2:
+    power: 632
+    attack: 666
+    defense: 669
+    health: 1052
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -61,6 +81,16 @@ costume2:
   dtModified: ""
   fancy_name: Toon of Rathwood
   aetherPower: defense_up
+  lb1:
+    power: 561
+    attack: 575
+    defense: 555
+    health: 1002
+  lb2:
+    power: 678
+    attack: 710
+    defense: 685
+    health: 1238
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -86,6 +116,16 @@ costume3:
   dtModified: ""
   fancy_name: Vitrail of Rathwood
   aetherPower: defense_up
+  lb1:
+    power: 575
+    attack: 541
+    defense: 609
+    health: 1075
+  lb2:
+    power: 695
+    attack: 669
+    defense: 752
+    health: 1329
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -110,4 +150,14 @@ costume4:
   dtModified: ""
   fancy_name: Stylish Druid
   aetherPower: defense_up
+  lb1:
+    power: 607
+    attack: 581
+    defense: 640
+    health: 1139
+  lb2:
+    power: 734
+    attack: 718
+    defense: 791
+    health: 1408
 ...

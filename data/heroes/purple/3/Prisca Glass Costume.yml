@@ -26,4 +26,14 @@ dtReleased: "2025-04-08"
 dtModified: ""
 fancy_name: Resolute Vitrail
 aetherPower: special_boost
+lb1:
+  power: 584
+  attack: 576
+  defense: 604
+  health: 1063
+lb2:
+  power: 707
+  attack: 712
+  defense: 746
+  health: 1314
 ...

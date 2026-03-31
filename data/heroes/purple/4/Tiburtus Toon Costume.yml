@@ -26,4 +26,14 @@ dtReleased: "2024-08-11"
 dtModified: ""
 fancy_name: Mournful Toon
 aetherPower: attack_up
+lb1:
+  power: 799
+  attack: 821
+  defense: 861
+  health: 1329
+lb2:
+  power: 913
+  attack: 952
+  defense: 999
+  health: 1541
 ...

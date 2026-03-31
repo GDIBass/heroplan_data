@@ -28,4 +28,14 @@ dtReleased: "2026-03-12"
 dtModified: ""
 fancy_name: Stylish Healer
 aetherPower: special_armor
+lb1:
+  power: 610
+  attack: 583
+  defense: 674
+  health: 1093
+lb2:
+  power: 739
+  attack: 721
+  defense: 833
+  health: 1351
 ...

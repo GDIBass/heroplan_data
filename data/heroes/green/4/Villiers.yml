@@ -31,6 +31,16 @@ dtReleased: "2022-12-14"
 dtModified: ""
 fancy_name: Pompous Duke
 aetherPower: fiend_resist
+lb1:
+  power: 738
+  attack: 755
+  defense: 738
+  health: 1304
+lb2:
+  power: 842
+  attack: 875
+  defense: 856
+  health: 1512
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -67,4 +77,14 @@ costume:
   dtModified: ""
   fancy_name: Pompous Jester
   aetherPower: damage_reduction
+  lb1:
+    power: 846
+    attack: 878
+    defense: 844
+    health: 1559
+  lb2:
+    power: 968
+    attack: 1019
+    defense: 978
+    health: 1808
 ...

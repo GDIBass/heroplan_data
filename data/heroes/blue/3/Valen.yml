@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Dashing Duelist
 aetherPower: attack_up
+lb1:
+  power: 493
+  attack: 543
+  defense: 466
+  health: 770
+lb2:
+  power: 594
+  attack: 671
+  defense: 576
+  health: 951
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Clean-Cut Climber
   aetherPower: special_boost
+  lb1:
+    power: 526
+    attack: 564
+    defense: 512
+    health: 860
+  lb2:
+    power: 634
+    attack: 697
+    defense: 632
+    health: 1062
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Talented Toon
   aetherPower: attack_up
+  lb1:
+    power: 563
+    attack: 616
+    defense: 545
+    health: 929
+  lb2:
+    power: 680
+    attack: 761
+    defense: 674
+    health: 1147
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -88,4 +118,14 @@ costume3:
   dtModified: ""
   fancy_name: Glass Duelist
   aetherPower: attack_up
+  lb1:
+    power: 577
+    attack: 634
+    defense: 557
+    health: 959
+  lb2:
+    power: 698
+    attack: 784
+    defense: 689
+    health: 1185
 ...

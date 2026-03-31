@@ -32,4 +32,14 @@ dtReleased: "2022-09-21"
 dtModified: ""
 fancy_name: Farmer Cyclops
 aetherPower: defense_up
+lb1:
+  power: 737
+  attack: 750
+  defense: 778
+  health: 1228
+lb2:
+  power: 841
+  attack: 870
+  defense: 902
+  health: 1424
 ...

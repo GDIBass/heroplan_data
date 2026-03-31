@@ -21,4 +21,14 @@ dtReleased: "2023-02-27"
 dtModified: ""
 fancy_name: Shapeshifting Demon General
 aetherPower: regen
+lb1:
+  power: 543
+  attack: 589
+  defense: 575
+  health: 793
+lb2:
+  power: 655
+  attack: 727
+  defense: 710
+  health: 980
 ...

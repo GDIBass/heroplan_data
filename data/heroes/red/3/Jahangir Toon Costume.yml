@@ -26,4 +26,14 @@ dtReleased: "2023-12-25"
 dtModified: ""
 fancy_name: Mage from the Toon Sea
 aetherPower: defense_up
+lb1:
+  power: 565
+  attack: 629
+  defense: 545
+  health: 914
+lb2:
+  power: 684
+  attack: 778
+  defense: 674
+  health: 1130
 ...

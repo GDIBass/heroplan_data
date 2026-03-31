@@ -21,6 +21,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Selfless Healer
 aetherPower: special_armor
+lb1:
+  power: 494
+  attack: 486
+  defense: 514
+  health: 827
+lb2:
+  power: 596
+  attack: 601
+  defense: 635
+  health: 1022
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,6 +52,16 @@ costume:
   dtModified: ""
   fancy_name: Magnanimous Mender
   aetherPower: defense_up
+  lb1:
+    power: 528
+    attack: 489
+    defense: 575
+    health: 936
+  lb2:
+    power: 637
+    attack: 604
+    defense: 710
+    health: 1156
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -68,6 +88,16 @@ costume2:
   dtModified: ""
   fancy_name: Toon Healer
   aetherPower: special_armor
+  lb1:
+    power: 565
+    attack: 557
+    defense: 595
+    health: 995
+  lb2:
+    power: 683
+    attack: 688
+    defense: 736
+    health: 1229
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -95,6 +125,16 @@ costume3:
   dtModified: ""
   fancy_name: Glass Healer
   aetherPower: special_armor
+  lb1:
+    power: 579
+    attack: 555
+    defense: 627
+    health: 1032
+  lb2:
+    power: 700
+    attack: 686
+    defense: 775
+    health: 1275
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -121,4 +161,14 @@ costume4:
   dtModified: ""
   fancy_name: Stylish Healer
   aetherPower: special_armor
+  lb1:
+    power: 610
+    attack: 583
+    defense: 674
+    health: 1093
+  lb2:
+    power: 739
+    attack: 721
+    defense: 833
+    health: 1351
 ...

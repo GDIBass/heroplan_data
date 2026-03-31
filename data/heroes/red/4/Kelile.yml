@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Priestess of Dragonia
 aetherPower: attack_up
+lb1:
+  power: 692
+  attack: 734
+  defense: 745
+  health: 1015
+lb2:
+  power: 789
+  attack: 851
+  defense: 864
+  health: 1177
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +48,16 @@ costume:
   dtModified: ""
   fancy_name: Shaman of Dragonia
   aetherPower: rage
+  lb1:
+    power: 741
+    attack: 827
+    defense: 765
+    health: 1091
+  lb2:
+    power: 846
+    attack: 959
+    defense: 887
+    health: 1265
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -60,6 +80,16 @@ costume2:
   dtModified: ""
   fancy_name: Sorceress of Dragonia
   aetherPower: special_boost
+  lb1:
+    power: 791
+    attack: 857
+    defense: 833
+    health: 1235
+  lb2:
+    power: 903
+    attack: 994
+    defense: 966
+    health: 1432
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -84,6 +114,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon of Dragonia
   aetherPower: attack_up
+  lb1:
+    power: 803
+    attack: 886
+    defense: 826
+    health: 1267
+  lb2:
+    power: 918
+    attack: 1027
+    defense: 958
+    health: 1469
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -108,4 +148,14 @@ costume4:
   dtModified: ""
   fancy_name: Vitrail of Dragonia
   aetherPower: attack_up
+  lb1:
+    power: 817
+    attack: 912
+    defense: 835
+    health: 1285
+  lb2:
+    power: 934
+    attack: 1057
+    defense: 968
+    health: 1490
 ...

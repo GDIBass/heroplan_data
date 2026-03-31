@@ -24,6 +24,16 @@ dtReleased: "2020-05-28"
 dtModified: "2026-03-23"
 fancy_name: Poisoner of Svartalfheim
 aetherPower: attack_up
+lb1:
+  power: 709
+  attack: 768
+  defense: 683
+  health: 1177
+lb2:
+  power: 809
+  attack: 891
+  defense: 792
+  health: 1365
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +57,14 @@ costume:
   dtModified: "2026-03-23"
   fancy_name: Herbalist of Svartalfheim
   aetherPower: special_boost
+  lb1:
+    power: 733
+    attack: 815
+    defense: 680
+    health: 1238
+  lb2:
+    power: 837
+    attack: 945
+    defense: 788
+    health: 1435
 ...

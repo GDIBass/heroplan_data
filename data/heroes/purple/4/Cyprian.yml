@@ -19,6 +19,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Deathbound Lord
 aetherPower: counterattack
+lb1:
+  power: 690
+  attack: 611
+  defense: 658
+  health: 1480
+lb2:
+  power: 786
+  attack: 709
+  defense: 762
+  health: 1715
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,6 +47,16 @@ costume:
   dtModified: ""
   fancy_name: Deathless Prince
   aetherPower: damage_reduction
+  lb1:
+    power: 740
+    attack: 615
+    defense: 773
+    health: 1601
+  lb2:
+    power: 845
+    attack: 713
+    defense: 896
+    health: 1857
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -62,6 +82,16 @@ costume2:
   dtModified: ""
   fancy_name: Deathbound Reveller
   aetherPower: regen
+  lb1:
+    power: 792
+    attack: 716
+    defense: 796
+    health: 1668
+  lb2:
+    power: 904
+    attack: 831
+    defense: 923
+    health: 1933
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -85,6 +115,16 @@ costume3:
   dtModified: ""
   fancy_name: Deathbound Toon
   aetherPower: counterattack
+  lb1:
+    power: 805
+    attack: 713
+    defense: 764
+    health: 1833
+  lb2:
+    power: 919
+    attack: 826
+    defense: 886
+    health: 2126
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -110,4 +150,14 @@ costume4:
   dtModified: ""
   fancy_name: Deathbound Vitrail
   aetherPower: counterattack
+  lb1:
+    power: 818
+    attack: 722
+    defense: 783
+    health: 1869
+  lb2:
+    power: 935
+    attack: 837
+    defense: 907
+    health: 2167
 ...

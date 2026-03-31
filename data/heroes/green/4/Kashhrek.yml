@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Lizardfolk Chieftain
 aetherPower: defense_up
+lb1:
+  power: 691
+  attack: 595
+  defense: 704
+  health: 1436
+lb2:
+  power: 788
+  attack: 690
+  defense: 816
+  health: 1665
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,6 +51,16 @@ costume:
   dtModified: ""
   fancy_name: Lizardfolk Elder
   aetherPower: special_armor
+  lb1:
+    power: 742
+    attack: 649
+    defense: 765
+    health: 1545
+  lb2:
+    power: 847
+    attack: 753
+    defense: 887
+    health: 1791
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -61,6 +81,16 @@ costume2:
   dtModified: ""
   fancy_name: Lizardfolk Fisher
   aetherPower: regen
+  lb1:
+    power: 793
+    attack: 650
+    defense: 831
+    health: 1773
+  lb2:
+    power: 906
+    attack: 754
+    defense: 963
+    health: 2055
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -86,6 +116,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Chieftain
   aetherPower: defense_up
+  lb1:
+    power: 806
+    attack: 740
+    defense: 751
+    health: 1802
+  lb2:
+    power: 921
+    attack: 858
+    defense: 870
+    health: 2090
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -112,4 +152,14 @@ costume4:
   dtModified: ""
   fancy_name: Glass Chieftain
   aetherPower: defense_up
+  lb1:
+    power: 820
+    attack: 802
+    defense: 736
+    health: 1775
+  lb2:
+    power: 937
+    attack: 930
+    defense: 853
+    health: 2058
 ...

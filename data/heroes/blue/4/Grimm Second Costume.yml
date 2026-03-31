@@ -23,4 +23,14 @@ dtReleased: "2023-06-12"
 dtModified: ""
 fancy_name: Dark Messenger
 aetherPower: counterattack
+lb1:
+  power: 789
+  attack: 913
+  defense: 655
+  health: 1443
+lb2:
+  power: 902
+  attack: 1059
+  defense: 760
+  health: 1673
 ...

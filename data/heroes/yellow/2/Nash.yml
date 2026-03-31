@@ -20,4 +20,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Smith's Apprentice
 aetherPower: attack_up
+lb1:
+  power: 335
+  attack: 331
+  defense: 343
+  health: 562
+lb2:
+  power: 335
+  attack: 331
+  defense: 343
+  health: 562
 ...

@@ -26,4 +26,14 @@ dtReleased: "2024-06-28"
 dtModified: ""
 fancy_name: The Cutpurse Toon
 aetherPower: attack_up
+lb1:
+  power: 565
+  attack: 609
+  defense: 584
+  health: 888
+lb2:
+  power: 684
+  attack: 752
+  defense: 722
+  health: 1098
 ...

@@ -28,4 +28,14 @@ dtReleased: "2021-08-05"
 dtModified: ""
 fancy_name: The Undying
 aetherPower: attack_up
+lb1:
+  power: 728
+  attack: 685
+  defense: 741
+  health: 1403
+lb2:
+  power: 831
+  attack: 795
+  defense: 859
+  health: 1627
 ...

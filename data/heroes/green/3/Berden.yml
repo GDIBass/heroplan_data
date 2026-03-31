@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Able Archer
 aetherPower: attack_up
+lb1:
+  power: 495
+  attack: 533
+  defense: 482
+  health: 780
+lb2:
+  power: 597
+  attack: 659
+  defense: 596
+  health: 963
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Adroit Archer
   aetherPower: special_boost
+  lb1:
+    power: 529
+    attack: 529
+    defense: 550
+    health: 892
+  lb2:
+    power: 638
+    attack: 653
+    defense: 679
+    health: 1103
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Toon Archer
   aetherPower: attack_up
+  lb1:
+    power: 567
+    attack: 616
+    defense: 555
+    health: 936
+  lb2:
+    power: 684
+    attack: 761
+    defense: 685
+    health: 1156
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -88,4 +118,14 @@ costume3:
   dtModified: ""
   fancy_name: Glass Archer
   aetherPower: attack_up
+  lb1:
+    power: 580
+    attack: 636
+    defense: 564
+    health: 964
+  lb2:
+    power: 702
+    attack: 786
+    defense: 697
+    health: 1191
 ...

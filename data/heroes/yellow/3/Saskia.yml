@@ -30,4 +30,14 @@ dtReleased: "2024-08-31"
 dtModified: "2026-03-20"
 fancy_name: Fleet-Footed Faun Dancer
 aetherPower: defense_up
+lb1:
+  power: 553
+  attack: 606
+  defense: 539
+  health: 896
+lb2:
+  power: 668
+  attack: 749
+  defense: 666
+  health: 1107
 ...

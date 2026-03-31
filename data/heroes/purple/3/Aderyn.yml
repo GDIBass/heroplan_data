@@ -20,4 +20,14 @@ dtReleased: "2021-10-13"
 dtModified: ""
 fancy_name: Medic of the Castle
 aetherPower: defense_up
+lb1:
+  power: 535
+  attack: 512
+  defense: 563
+  health: 957
+lb2:
+  power: 646
+  attack: 632
+  defense: 696
+  health: 1182
 ...

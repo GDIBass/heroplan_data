@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Veteran Battler
 aetherPower: defense_up
+lb1:
+  power: 333
+  attack: 310
+  defense: 292
+  health: 703
+lb2:
+  power: 333
+  attack: 310
+  defense: 292
+  health: 703
 ...

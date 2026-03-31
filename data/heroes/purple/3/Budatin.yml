@@ -24,4 +24,14 @@ dtReleased: "2022-05-12"
 dtModified: ""
 fancy_name: Vicious Gargoyle
 aetherPower: damage_reduction
+lb1:
+  power: 538
+  attack: 567
+  defense: 569
+  health: 827
+lb2:
+  power: 649
+  attack: 700
+  defense: 703
+  health: 1022
 ...

@@ -24,4 +24,14 @@ dtReleased: "2020-12-01"
 dtModified: ""
 fancy_name: Santa's Little Helper
 aetherPower: special_armor
+lb1:
+  power: 725
+  attack: 678
+  defense: 701
+  health: 1475
+lb2:
+  power: 827
+  attack: 787
+  defense: 813
+  health: 1710
 ...

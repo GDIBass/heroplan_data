@@ -26,4 +26,14 @@ dtReleased: "2024-07-16"
 dtModified: ""
 fancy_name: Toon of Glaceholm
 aetherPower: defense_up
+lb1:
+  power: 567
+  attack: 604
+  defense: 573
+  health: 931
+lb2:
+  power: 685
+  attack: 747
+  defense: 708
+  health: 1150
 ...

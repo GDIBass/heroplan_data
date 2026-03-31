@@ -24,4 +24,14 @@ dtReleased: "2022-05-12"
 dtModified: "2026-03-20"
 fancy_name: Wicked Gargoyle
 aetherPower: special_boost
+lb1:
+  power: 734
+  attack: 759
+  defense: 685
+  health: 1369
+lb2:
+  power: 837
+  attack: 880
+  defense: 795
+  health: 1587
 ...

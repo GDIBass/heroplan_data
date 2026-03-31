@@ -28,4 +28,14 @@ dtReleased: "2025-06-04"
 dtModified: ""
 fancy_name: Astral Dwarf Sweet Tooth
 aetherPower: boosted_regen
+lb1:
+  power: 568
+  attack: 573
+  defense: 612
+  health: 941
+lb2:
+  power: 687
+  attack: 708
+  defense: 756
+  health: 1163
 ...

@@ -29,4 +29,14 @@ dtReleased: "2025-02-13"
 dtModified: ""
 fancy_name: Hrunting's Bearer
 aetherPower: attack_up
+lb1:
+  power: 563
+  attack: 608
+  defense: 591
+  health: 860
+lb2:
+  power: 681
+  attack: 752
+  defense: 730
+  health: 1063
 ...

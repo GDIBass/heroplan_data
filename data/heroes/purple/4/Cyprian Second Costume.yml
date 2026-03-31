@@ -27,4 +27,14 @@ dtReleased: "2023-04-17"
 dtModified: ""
 fancy_name: Deathbound Reveller
 aetherPower: regen
+lb1:
+  power: 792
+  attack: 716
+  defense: 796
+  health: 1668
+lb2:
+  power: 904
+  attack: 831
+  defense: 923
+  health: 1933
 ...

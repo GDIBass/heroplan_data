@@ -27,4 +27,14 @@ dtReleased: "2025-01-14"
 dtModified: ""
 fancy_name: Elven Vitrail
 aetherPower: special_boost
+lb1:
+  power: 817
+  attack: 843
+  defense: 818
+  health: 1491
+lb2:
+  power: 934
+  attack: 977
+  defense: 949
+  health: 1729
 ...

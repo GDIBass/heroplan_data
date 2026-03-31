@@ -26,4 +26,14 @@ dtReleased: "2026-01-07"
 dtModified: ""
 fancy_name: Vibrant Bamboo
 aetherPower: attack_up
+lb1:
+  power: 613
+  attack: 672
+  defense: 514
+  health: 1211
+lb2:
+  power: 742
+  attack: 830
+  defense: 635
+  health: 1496
 ...

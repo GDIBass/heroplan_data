@@ -23,6 +23,16 @@ dtReleased: "2021-03-25"
 dtModified: ""
 fancy_name: Ettin Smasher
 aetherPower: rage
+lb1:
+  power: 728
+  attack: 768
+  defense: 715
+  health: 1246
+lb2:
+  power: 831
+  attack: 891
+  defense: 829
+  health: 1445
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -46,4 +56,14 @@ costume:
   dtModified: ""
   fancy_name: Ettin Mason
   aetherPower: attack_up
+  lb1:
+    power: 744
+    attack: 788
+    defense: 737
+    health: 1270
+  lb2:
+    power: 850
+    attack: 914
+    defense: 854
+    health: 1472
 ...

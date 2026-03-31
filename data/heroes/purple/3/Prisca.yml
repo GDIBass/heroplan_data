@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Resolute Warden
 aetherPower: special_boost
+lb1:
+  power: 496
+  attack: 468
+  defense: 525
+  health: 862
+lb2:
+  power: 598
+  attack: 579
+  defense: 649
+  health: 1066
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Resolute Overseer
   aetherPower: attack_up
+  lb1:
+    power: 531
+    attack: 480
+    defense: 539
+    health: 1055
+  lb2:
+    power: 641
+    attack: 593
+    defense: 666
+    health: 1303
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Resolute Toon
   aetherPower: special_boost
+  lb1:
+    power: 570
+    attack: 541
+    defense: 604
+    health: 1051
+  lb2:
+    power: 689
+    attack: 668
+    defense: 747
+    health: 1299
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -88,4 +118,14 @@ costume3:
   dtModified: ""
   fancy_name: Resolute Vitrail
   aetherPower: special_boost
+  lb1:
+    power: 584
+    attack: 576
+    defense: 604
+    health: 1063
+  lb2:
+    power: 707
+    attack: 712
+    defense: 746
+    health: 1314
 ...

@@ -34,4 +34,14 @@ dtReleased: "2025-05-16"
 dtModified: ""
 fancy_name: Dwarven Siegemaster
 aetherPower: defense_up
+lb1:
+  power: 788
+  attack: 778
+  defense: 808
+  health: 1463
+lb2:
+  power: 900
+  attack: 902
+  defense: 936
+  health: 1697
 ...

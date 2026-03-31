@@ -24,4 +24,14 @@ dtReleased: "2025-03-11"
 dtModified: ""
 fancy_name: Glass Magician
 aetherPower: special_boost
+lb1:
+  power: 577
+  attack: 671
+  defense: 543
+  health: 898
+lb2:
+  power: 699
+  attack: 830
+  defense: 672
+  health: 1110
 ...

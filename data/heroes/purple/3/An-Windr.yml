@@ -22,4 +22,14 @@ dtReleased: "2020-05-28"
 dtModified: "2026-03-23"
 fancy_name: Cursed Viking Bruiser
 aetherPower: counterattack
+lb1:
+  power: 518
+  attack: 480
+  defense: 571
+  health: 898
+lb2:
+  power: 625
+  attack: 593
+  defense: 705
+  health: 1109
 ...

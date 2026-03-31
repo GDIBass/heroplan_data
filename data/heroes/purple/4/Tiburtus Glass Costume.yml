@@ -26,4 +26,14 @@ dtReleased: "2025-09-07"
 dtModified: ""
 fancy_name: Mournful Vitrail
 aetherPower: attack_up
+lb1:
+  power: 813
+  attack: 846
+  defense: 871
+  health: 1345
+lb2:
+  power: 929
+  attack: 981
+  defense: 1009
+  health: 1560
 ...

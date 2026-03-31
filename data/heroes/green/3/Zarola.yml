@@ -22,6 +22,16 @@ dtReleased: "2023-02-14"
 dtModified: ""
 fancy_name: Cupid of Heartbreakers
 aetherPower: special_boost
+lb1:
+  power: 543
+  attack: 620
+  defense: 537
+  health: 791
+lb2:
+  power: 655
+  attack: 766
+  defense: 664
+  health: 978
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +56,14 @@ costume:
   dtModified: ""
   fancy_name: Cupid of Lone Rangers
   aetherPower: attack_up
+  lb1:
+    power: 602
+    attack: 697
+    defense: 604
+    health: 886
+  lb2:
+    power: 728
+    attack: 861
+    defense: 746
+    health: 1095
 ...

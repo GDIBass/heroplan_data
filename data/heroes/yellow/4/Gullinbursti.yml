@@ -24,6 +24,16 @@ dtReleased: "2020-05-28"
 dtModified: "2026-03-20"
 fancy_name: Golden Boar
 aetherPower: heal_increase
+lb1:
+  power: 713
+  attack: 660
+  defense: 660
+  health: 1517
+lb2:
+  power: 813
+  attack: 765
+  defense: 765
+  health: 1758
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +59,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Unchained Boar
   aetherPower: defense_up
+  lb1:
+    power: 737
+    attack: 665
+    defense: 692
+    health: 1615
+  lb2:
+    power: 841
+    attack: 772
+    defense: 802
+    health: 1872
 ...

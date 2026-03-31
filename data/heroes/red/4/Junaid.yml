@@ -25,6 +25,16 @@ dtReleased: "2022-04-21"
 dtModified: ""
 fancy_name: Sworn Soldier
 aetherPower: special_boost
+lb1:
+  power: 735
+  attack: 812
+  defense: 623
+  health: 1369
+lb2:
+  power: 839
+  attack: 942
+  defense: 722
+  health: 1587
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +64,14 @@ costume:
   dtModified: ""
   fancy_name: Sworn Champion
   aetherPower: attack_up
+  lb1:
+    power: 753
+    attack: 781
+    defense: 687
+    health: 1448
+  lb2:
+    power: 860
+    attack: 906
+    defense: 797
+    health: 1678
 ...

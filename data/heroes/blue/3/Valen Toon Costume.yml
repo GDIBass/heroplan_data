@@ -26,4 +26,14 @@ dtReleased: "2023-12-25"
 dtModified: ""
 fancy_name: Talented Toon
 aetherPower: attack_up
+lb1:
+  power: 563
+  attack: 616
+  defense: 545
+  health: 929
+lb2:
+  power: 680
+  attack: 761
+  defense: 674
+  health: 1147
 ...

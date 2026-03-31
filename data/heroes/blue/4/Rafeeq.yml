@@ -33,4 +33,14 @@ dtReleased: "2025-11-17"
 dtModified: "2026-03-24"
 fancy_name: Shrewd Politician
 aetherPower: special_boost
+lb1:
+  power: 853
+  attack: 861
+  defense: 888
+  health: 1560
+lb2:
+  power: 975
+  attack: 998
+  defense: 1030
+  health: 1809
 ...

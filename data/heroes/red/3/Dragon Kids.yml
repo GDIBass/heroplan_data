@@ -35,4 +35,14 @@ dtReleased: "2026-02-17"
 dtModified: ""
 fancy_name: The Next Generation of Dragon Dancers
 aetherPower: special_armor
+lb1:
+  power: 605
+  attack: 591
+  defense: 616
+  health: 1148
+lb2:
+  power: 732
+  attack: 730
+  defense: 761
+  health: 1419
 ...

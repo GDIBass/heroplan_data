@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Serious Guardsman
 aetherPower: special_armor
+lb1:
+  power: 332
+  attack: 283
+  defense: 307
+  health: 733
+lb2:
+  power: 332
+  attack: 283
+  defense: 307
+  health: 733
 ...

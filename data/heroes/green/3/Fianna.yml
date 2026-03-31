@@ -31,4 +31,14 @@ dtReleased: "2022-11-12"
 dtModified: "2026-03-20"
 fancy_name: Forest Trapper
 aetherPower: fiend_resist
+lb1:
+  power: 540
+  attack: 591
+  defense: 514
+  health: 890
+lb2:
+  power: 652
+  attack: 730
+  defense: 635
+  health: 1100
 ...

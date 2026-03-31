@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Raider from the Sandsea
 aetherPower: attack_up
+lb1:
+  power: 688
+  attack: 833
+  defense: 551
+  health: 1129
+lb2:
+  power: 785
+  attack: 966
+  defense: 639
+  health: 1309
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,6 +52,16 @@ costume:
   dtModified: ""
   fancy_name: Assassin from the Sandsea
   aetherPower: dodge
+  lb1:
+    power: 737
+    attack: 852
+    defense: 622
+    health: 1286
+  lb2:
+    power: 841
+    attack: 988
+    defense: 721
+    health: 1491
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -63,6 +83,16 @@ costume2:
   dtModified: ""
   fancy_name: Dancer from the Sandsea
   aetherPower: special_boost
+  lb1:
+    power: 787
+    attack: 937
+    defense: 642
+    health: 1390
+  lb2:
+    power: 899
+    attack: 1086
+    defense: 745
+    health: 1612
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -87,6 +117,16 @@ costume3:
   dtModified: ""
   fancy_name: Raider from the Toon Sea
   aetherPower: attack_up
+  lb1:
+    power: 800
+    attack: 915
+    defense: 710
+    health: 1405
+  lb2:
+    power: 914
+    attack: 1061
+    defense: 823
+    health: 1629
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -111,4 +151,14 @@ costume4:
   dtModified: ""
   fancy_name: Raider from the Glass Sea
   aetherPower: attack_up
+  lb1:
+    power: 813
+    attack: 945
+    defense: 711
+    health: 1422
+  lb2:
+    power: 930
+    attack: 1095
+    defense: 825
+    health: 1649
 ...

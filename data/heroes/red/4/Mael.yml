@@ -32,4 +32,14 @@ dtReleased: "2025-10-23"
 dtModified: ""
 fancy_name: Astral Demon Pursuer
 aetherPower: dodge
+lb1:
+  power: 842
+  attack: 882
+  defense: 831
+  health: 1547
+lb2:
+  power: 963
+  attack: 1022
+  defense: 963
+  health: 1793
 ...

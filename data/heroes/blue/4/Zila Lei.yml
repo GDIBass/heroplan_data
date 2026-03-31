@@ -24,6 +24,16 @@ dtReleased: "2021-03-25"
 dtModified: ""
 fancy_name: Octropod Assassin
 aetherPower: attack_up
+lb1:
+  power: 728
+  attack: 736
+  defense: 708
+  health: 1341
+lb2:
+  power: 831
+  attack: 853
+  defense: 821
+  health: 1555
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +58,14 @@ costume:
   dtModified: ""
   fancy_name: Octopod Dancer
   aetherPower: counterattack
+  lb1:
+    power: 745
+    attack: 763
+    defense: 725
+    health: 1363
+  lb2:
+    power: 851
+    attack: 884
+    defense: 841
+    health: 1581
 ...

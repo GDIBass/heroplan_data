@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Jovial Brother
 aetherPower: defense_up
+lb1:
+  power: 497
+  attack: 520
+  defense: 510
+  health: 772
+lb2:
+  power: 599
+  attack: 642
+  defense: 630
+  health: 954
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Jovial Explorer
   aetherPower: special_armor
+  lb1:
+    power: 532
+    attack: 548
+    defense: 541
+    health: 884
+  lb2:
+    power: 642
+    attack: 677
+    defense: 669
+    health: 1092
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Jovial Toon
   aetherPower: defense_up
+  lb1:
+    power: 569
+    attack: 598
+    defense: 591
+    health: 926
+  lb2:
+    power: 687
+    attack: 738
+    defense: 730
+    health: 1144
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -90,4 +120,14 @@ costume3:
   dtModified: ""
   fancy_name: Jovial Vitrail
   aetherPower: defense_up
+  lb1:
+    power: 582
+    attack: 627
+    defense: 599
+    health: 932
+  lb2:
+    power: 705
+    attack: 775
+    defense: 741
+    health: 1152
 ...

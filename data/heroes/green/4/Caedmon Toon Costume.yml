@@ -26,4 +26,14 @@ dtReleased: "2024-01-22"
 dtModified: ""
 fancy_name: Elven Toon
 aetherPower: special_boost
+lb1:
+  power: 804
+  attack: 826
+  defense: 807
+  health: 1462
+lb2:
+  power: 919
+  attack: 958
+  defense: 936
+  health: 1695
 ...

@@ -19,4 +19,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Nightmare of Teltoc
 aetherPower: damage_reduction
+lb1:
+  power: 508
+  attack: 496
+  defense: 474
+  health: 977
+lb2:
+  power: 612
+  attack: 613
+  defense: 586
+  health: 1207
 ...

@@ -34,4 +34,14 @@ dtReleased: "2025-10-23"
 dtModified: ""
 fancy_name: Astral Demon Gatekeeper
 aetherPower: boosted_regen
+lb1:
+  power: 589
+  attack: 557
+  defense: 616
+  health: 1122
+lb2:
+  power: 713
+  attack: 688
+  defense: 761
+  health: 1387
 ...

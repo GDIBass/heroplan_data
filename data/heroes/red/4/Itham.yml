@@ -27,4 +27,14 @@ dtReleased: "2023-06-12"
 dtModified: ""
 fancy_name: Elf Swimming School Instructor
 aetherPower: attack_up
+lb1:
+  power: 738
+  attack: 729
+  defense: 764
+  health: 1316
+lb2:
+  power: 842
+  attack: 845
+  defense: 886
+  health: 1525
 ...

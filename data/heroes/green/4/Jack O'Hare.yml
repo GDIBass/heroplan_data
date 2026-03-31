@@ -20,6 +20,16 @@ dtReleased: ""
 dtModified: "2026-03-31"
 fancy_name: Champion of Springvale
 aetherPower: attack_up
+lb1:
+  power: 697
+  attack: 808
+  defense: 655
+  health: 1043
+lb2:
+  power: 794
+  attack: 936
+  defense: 760
+  health: 1210
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +56,14 @@ costume:
   dtModified: "2026-03-31"
   fancy_name: Egg Hunter of Springvale
   aetherPower: special_boost
+  lb1:
+    power: 844
+    attack: 927
+    defense: 853
+    health: 1400
+  lb2:
+    power: 965
+    attack: 1075
+    defense: 989
+    health: 1623
 ...

@@ -47,4 +47,14 @@ dtReleased: "2026-01-16"
 dtModified: ""
 fancy_name: Grinning Cache of Lesser Evil
 aetherPower: bulwark
+lb1:
+  power: 859
+  attack: 865
+  defense: 865
+  health: 1639
+lb2:
+  power: 982
+  attack: 1003
+  defense: 1003
+  health: 1900
 ...

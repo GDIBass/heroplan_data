@@ -34,4 +34,14 @@ dtReleased: "2021-09-15"
 dtModified: "2026-03-20"
 fancy_name: Apprentice Summoner
 aetherPower: fiend_resist
+lb1:
+  power: 730
+  attack: 725
+  defense: 681
+  health: 1433
+lb2:
+  power: 832
+  attack: 840
+  defense: 789
+  health: 1662
 ...

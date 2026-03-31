@@ -30,6 +30,16 @@ dtReleased: "2022-04-21"
 dtModified: "2026-03-20"
 fancy_name: Scarab Guard
 aetherPower: fiend_resist
+lb1:
+  power: 735
+  attack: 688
+  defense: 711
+  health: 1507
+lb2:
+  power: 839
+  attack: 797
+  defense: 824
+  health: 1748
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -64,4 +74,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Scarab Sentinel
   aetherPower: boosted_regen
+  lb1:
+    power: 754
+    attack: 732
+    defense: 704
+    health: 1544
+  lb2:
+    power: 861
+    attack: 849
+    defense: 816
+    health: 1790
 ...

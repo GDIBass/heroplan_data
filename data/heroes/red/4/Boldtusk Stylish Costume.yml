@@ -26,4 +26,14 @@ dtReleased: "2026-01-07"
 dtModified: ""
 fancy_name: The Fancy
 aetherPower: defense_up
+lb1:
+  power: 879
+  attack: 837
+  defense: 1017
+  health: 1551
+lb2:
+  power: 1006
+  attack: 970
+  defense: 1179
+  health: 1799
 ...

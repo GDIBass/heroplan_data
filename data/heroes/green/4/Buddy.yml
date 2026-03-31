@@ -25,6 +25,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Santa's Little Helper
 aetherPower: attack_up
+lb1:
+  power: 698
+  attack: 577
+  defense: 750
+  health: 1438
+lb2:
+  power: 796
+  attack: 669
+  defense: 870
+  health: 1667
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +64,14 @@ costume:
   dtModified: ""
   fancy_name: Santa's Bookkeeper
   aetherPower: special_boost
+  lb1:
+    power: 852
+    attack: 727
+    defense: 929
+    health: 1809
+  lb2:
+    power: 975
+    attack: 843
+    defense: 1077
+    health: 2098
 ...

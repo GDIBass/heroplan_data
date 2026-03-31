@@ -29,4 +29,14 @@ dtReleased: "2025-10-08"
 dtModified: ""
 fancy_name: Sanguine Scion
 aetherPower: attack_up
+lb1:
+  power: 582
+  attack: 598
+  defense: 596
+  health: 1006
+lb2:
+  power: 704
+  attack: 739
+  defense: 737
+  health: 1243
 ...

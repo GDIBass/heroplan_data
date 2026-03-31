@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: The Cutpurse
 aetherPower: attack_up
+lb1:
+  power: 494
+  attack: 525
+  defense: 508
+  health: 740
+lb2:
+  power: 595
+  attack: 649
+  defense: 627
+  health: 915
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: The Cutthroat
   aetherPower: special_boost
+  lb1:
+    power: 527
+    attack: 583
+    defense: 522
+    health: 803
+  lb2:
+    power: 636
+    attack: 721
+    defense: 645
+    health: 993
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: The Cutpurse Toon
   aetherPower: attack_up
+  lb1:
+    power: 565
+    attack: 609
+    defense: 584
+    health: 888
+  lb2:
+    power: 684
+    attack: 752
+    defense: 722
+    health: 1098
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -88,4 +118,14 @@ costume3:
   dtModified: ""
   fancy_name: Glass Cutpurse
   aetherPower: attack_up
+  lb1:
+    power: 580
+    attack: 709
+    defense: 488
+    health: 932
+  lb2:
+    power: 701
+    attack: 875
+    defense: 603
+    health: 1152
 ...

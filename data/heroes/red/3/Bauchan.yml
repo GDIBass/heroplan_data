@@ -22,4 +22,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Imp of Avalon
 aetherPower: counterattack
+lb1:
+  power: 507
+  attack: 476
+  defense: 514
+  health: 941
+lb2:
+  power: 611
+  attack: 589
+  defense: 635
+  health: 1163
 ...

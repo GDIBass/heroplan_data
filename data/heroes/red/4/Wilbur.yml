@@ -26,6 +26,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Valiant Fisherman
 aetherPower: regen
+lb1:
+  power: 699
+  attack: 658
+  defense: 750
+  health: 1242
+lb2:
+  power: 796
+  attack: 762
+  defense: 870
+  health: 1440
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +58,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Bold Brewmaster
   aetherPower: defense_up
+  lb1:
+    power: 723
+    attack: 713
+    defense: 737
+    health: 1302
+  lb2:
+    power: 824
+    attack: 827
+    defense: 854
+    health: 1509
 ...

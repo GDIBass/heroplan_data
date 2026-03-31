@@ -24,4 +24,14 @@ dtReleased: "2023-10-30"
 dtModified: ""
 fancy_name: Party Wizard
 aetherPower: heal_increase
+lb1:
+  power: 784
+  attack: 743
+  defense: 902
+  health: 1338
+lb2:
+  power: 896
+  attack: 861
+  defense: 1046
+  health: 1551
 ...

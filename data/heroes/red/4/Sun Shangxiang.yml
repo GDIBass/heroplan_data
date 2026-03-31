@@ -21,4 +21,14 @@ dtReleased: "2022-03-14"
 dtModified: ""
 fancy_name: Noble Battler
 aetherPower: attack_up
+lb1:
+  power: 734
+  attack: 849
+  defense: 593
+  health: 1329
+lb2:
+  power: 837
+  attack: 985
+  defense: 687
+  health: 1541
 ...

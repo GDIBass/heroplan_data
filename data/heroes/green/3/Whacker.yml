@@ -20,4 +20,14 @@ dtReleased: "2021-06-10"
 dtModified: ""
 fancy_name: Wacky Walloper
 aetherPower: dodge
+lb1:
+  power: 532
+  attack: 628
+  defense: 460
+  health: 847
+lb2:
+  power: 642
+  attack: 776
+  defense: 569
+  health: 1046
 ...

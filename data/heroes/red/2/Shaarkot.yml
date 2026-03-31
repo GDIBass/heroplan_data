@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Servant of the Old Ones
 aetherPower: defense_up
+lb1:
+  power: 334
+  attack: 356
+  defense: 275
+  health: 627
+lb2:
+  power: 334
+  attack: 356
+  defense: 275
+  health: 627
 ...

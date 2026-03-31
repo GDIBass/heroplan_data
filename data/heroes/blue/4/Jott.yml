@@ -22,4 +22,14 @@ dtReleased: "2020-05-28"
 dtModified: ""
 fancy_name: Barbaric Ice Giant
 aetherPower: defense_up
+lb1:
+  power: 714
+  attack: 782
+  defense: 660
+  health: 1223
+lb2:
+  power: 815
+  attack: 907
+  defense: 765
+  health: 1418
 ...

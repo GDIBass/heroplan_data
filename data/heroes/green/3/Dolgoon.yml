@@ -34,4 +34,14 @@ dtReleased: "2021-09-15"
 dtModified: ""
 fancy_name: Erudite Librarian
 aetherPower: special_armor
+lb1:
+  power: 534
+  attack: 524
+  defense: 571
+  health: 902
+lb2:
+  power: 644
+  attack: 647
+  defense: 705
+  health: 1114
 ...

@@ -22,4 +22,14 @@ dtReleased: "2023-02-27"
 dtModified: ""
 fancy_name: Black Wind Demon
 aetherPower: attack_up
+lb1:
+  power: 739
+  attack: 727
+  defense: 678
+  health: 1498
+lb2:
+  power: 843
+  attack: 843
+  defense: 787
+  health: 1737
 ...

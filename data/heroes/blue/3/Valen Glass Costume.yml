@@ -26,4 +26,14 @@ dtReleased: "2025-12-11"
 dtModified: ""
 fancy_name: Glass Duelist
 aetherPower: attack_up
+lb1:
+  power: 577
+  attack: 634
+  defense: 557
+  health: 959
+lb2:
+  power: 698
+  attack: 784
+  defense: 689
+  health: 1185
 ...

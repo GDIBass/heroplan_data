@@ -20,6 +20,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Chameleon Shaman
 aetherPower: boosted_regen
+lb1:
+  power: 697
+  attack: 745
+  defense: 669
+  health: 1172
+lb2:
+  power: 794
+  attack: 864
+  defense: 776
+  health: 1359
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +50,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Chameleon Alchemist
   aetherPower: damage_reduction
+  lb1:
+    power: 719
+    attack: 715
+    defense: 772
+    health: 1204
+  lb2:
+    power: 821
+    attack: 829
+    defense: 896
+    health: 1396
 ...

@@ -31,4 +31,14 @@ dtReleased: "2022-08-25"
 dtModified: "2026-03-20"
 fancy_name: Wolf Tracker
 aetherPower: fiend_resist
+lb1:
+  power: 736
+  attack: 713
+  defense: 731
+  health: 1410
+lb2:
+  power: 840
+  attack: 827
+  defense: 848
+  health: 1635
 ...

@@ -28,4 +28,14 @@ dtReleased: "2025-06-18"
 dtModified: ""
 fancy_name: Jovial Vitrail
 aetherPower: defense_up
+lb1:
+  power: 582
+  attack: 627
+  defense: 599
+  health: 932
+lb2:
+  power: 705
+  attack: 775
+  defense: 741
+  health: 1152
 ...

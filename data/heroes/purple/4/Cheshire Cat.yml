@@ -21,6 +21,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Mischievous Kitty Cat
 aetherPower: special_armor
+lb1:
+  power: 698
+  attack: 715
+  defense: 697
+  health: 1200
+lb2:
+  power: 796
+  attack: 829
+  defense: 808
+  health: 1392
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +52,14 @@ costume:
   dtModified: ""
   fancy_name: Malicious Kitty Cat
   aetherPower: ailment_immunity
+  lb1:
+    power: 736
+    attack: 814
+    defense: 700
+    health: 1219
+  lb2:
+    power: 840
+    attack: 944
+    defense: 812
+    health: 1413
 ...

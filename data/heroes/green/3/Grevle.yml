@@ -20,4 +20,14 @@ dtReleased: "2020-05-28"
 dtModified: "2026-03-23"
 fancy_name: Cunning Badger
 aetherPower: heal_increase
+lb1:
+  power: 518
+  attack: 457
+  defense: 695
+  health: 707
+lb2:
+  power: 625
+  attack: 564
+  defense: 859
+  health: 873
 ...

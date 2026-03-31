@@ -19,4 +19,14 @@ dtReleased: "2021-02-11"
 dtModified: ""
 fancy_name: Thick-Headed Thug
 aetherPower: attack_up
+lb1:
+  power: 531
+  attack: 596
+  defense: 510
+  health: 819
+lb2:
+  power: 641
+  attack: 737
+  defense: 630
+  health: 1012
 ...

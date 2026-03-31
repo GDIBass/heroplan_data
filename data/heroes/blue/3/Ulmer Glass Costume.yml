@@ -26,4 +26,14 @@ dtReleased: "2025-10-09"
 dtModified: ""
 fancy_name: Vitrail of Glaceholm
 aetherPower: defense_up
+lb1:
+  power: 581
+  attack: 632
+  defense: 581
+  health: 949
+lb2:
+  power: 703
+  attack: 781
+  defense: 718
+  health: 1173
 ...

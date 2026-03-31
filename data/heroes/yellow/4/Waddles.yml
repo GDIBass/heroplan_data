@@ -27,4 +27,14 @@ dtReleased: "2022-11-03"
 dtModified: "2026-03-20"
 fancy_name: Captain of the Duck's Guard
 aetherPower: attack_up
+lb1:
+  power: 736
+  attack: 681
+  defense: 759
+  health: 1431
+lb2:
+  power: 839
+  attack: 789
+  defense: 880
+  health: 1659
 ...

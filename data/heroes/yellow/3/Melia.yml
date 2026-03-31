@@ -20,6 +20,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Mermaid of Atlantis
 aetherPower: attack_up
+lb1:
+  power: 502
+  attack: 573
+  defense: 459
+  health: 776
+lb2:
+  power: 605
+  attack: 708
+  defense: 567
+  health: 958
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +51,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Emissary of Atlantis
   aetherPower: special_boost
+  lb1:
+    power: 518
+    attack: 606
+    defense: 460
+    health: 803
+  lb2:
+    power: 625
+    attack: 749
+    defense: 569
+    health: 993
 ...

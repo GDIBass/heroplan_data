@@ -21,4 +21,14 @@ dtReleased: "2023-11-27"
 dtModified: ""
 fancy_name: Tavern Defender
 aetherPower: damage_reduction
+lb1:
+  power: 792
+  attack: 642
+  defense: 961
+  health: 1526
+lb2:
+  power: 905
+  attack: 745
+  defense: 1114
+  health: 1770
 ...

@@ -38,4 +38,14 @@ dtReleased: "2025-05-22"
 dtModified: ""
 fancy_name: Red-Haired Devil of Water Margin
 aetherPower: taunt
+lb1:
+  power: 566
+  attack: 563
+  defense: 634
+  health: 908
+lb2:
+  power: 684
+  attack: 696
+  defense: 783
+  health: 1122
 ...

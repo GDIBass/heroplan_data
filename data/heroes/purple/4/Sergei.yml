@@ -30,4 +30,14 @@ dtReleased: "2021-09-15"
 dtModified: ""
 fancy_name: Student of the Arcane
 aetherPower: special_armor
+lb1:
+  power: 729
+  attack: 715
+  defense: 674
+  health: 1468
+lb2:
+  power: 832
+  attack: 829
+  defense: 781
+  health: 1702
 ...

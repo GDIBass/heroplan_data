@@ -27,4 +27,14 @@ dtReleased: "2022-11-03"
 dtModified: ""
 fancy_name: Furry Woodcutter
 aetherPower: regen
+lb1:
+  power: 540
+  attack: 569
+  defense: 529
+  health: 916
+lb2:
+  power: 652
+  attack: 703
+  defense: 654
+  health: 1131
 ...

@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Mournful Duke
 aetherPower: attack_up
+lb1:
+  power: 687
+  attack: 718
+  defense: 688
+  health: 1136
+lb2:
+  power: 783
+  attack: 832
+  defense: 797
+  health: 1317
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Duke of Rock
   aetherPower: rage
+  lb1:
+    power: 736
+    attack: 763
+    defense: 748
+    health: 1250
+  lb2:
+    power: 840
+    attack: 885
+    defense: 867
+    health: 1450
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -63,6 +83,16 @@ costume2:
   dtModified: ""
   fancy_name: Lamenting Duke
   aetherPower: special_boost
+  lb1:
+    power: 785
+    attack: 793
+    defense: 825
+    health: 1374
+  lb2:
+    power: 897
+    attack: 920
+    defense: 957
+    health: 1593
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -87,6 +117,16 @@ costume3:
   dtModified: ""
   fancy_name: Mournful Toon
   aetherPower: attack_up
+  lb1:
+    power: 799
+    attack: 821
+    defense: 861
+    health: 1329
+  lb2:
+    power: 913
+    attack: 952
+    defense: 999
+    health: 1541
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -111,4 +151,14 @@ costume4:
   dtModified: ""
   fancy_name: Mournful Vitrail
   aetherPower: attack_up
+  lb1:
+    power: 813
+    attack: 846
+    defense: 871
+    health: 1345
+  lb2:
+    power: 929
+    attack: 981
+    defense: 1009
+    health: 1560
 ...

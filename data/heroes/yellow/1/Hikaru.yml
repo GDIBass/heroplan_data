@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Ninja Student
 aetherPower: attack_up
+lb1:
+  power: 213
+  attack: 222
+  defense: 189
+  health: 340
+lb2:
+  power: 213
+  attack: 222
+  defense: 189
+  health: 340
 ...

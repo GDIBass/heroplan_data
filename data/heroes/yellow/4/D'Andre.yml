@@ -23,4 +23,14 @@ dtReleased: "2021-06-10"
 dtModified: "2026-03-20"
 fancy_name: Sure-Handed Juggler
 aetherPower: special_armor
+lb1:
+  power: 727
+  attack: 683
+  defense: 692
+  health: 1500
+lb2:
+  power: 830
+  attack: 792
+  defense: 803
+  health: 1740
 ...

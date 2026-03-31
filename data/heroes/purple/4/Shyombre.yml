@@ -28,4 +28,14 @@ dtReleased: "2025-01-23"
 dtModified: ""
 fancy_name: Shadow Moth
 aetherPower: attack_up
+lb1:
+  power: 772
+  attack: 842
+  defense: 761
+  health: 1281
+lb2:
+  power: 882
+  attack: 977
+  defense: 883
+  health: 1485
 ...

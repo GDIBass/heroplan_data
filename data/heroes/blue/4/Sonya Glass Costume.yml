@@ -26,4 +26,14 @@ dtReleased: "2025-08-10"
 dtModified: ""
 fancy_name: Glass Champion
 aetherPower: special_boost
+lb1:
+  power: 818
+  attack: 909
+  defense: 824
+  health: 1317
+lb2:
+  power: 934
+  attack: 1054
+  defense: 955
+  health: 1526
 ...

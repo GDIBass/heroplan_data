@@ -24,6 +24,16 @@ dtReleased: "2023-02-14"
 dtModified: ""
 fancy_name: Cupid of Delights
 aetherPower: bulwark
+lb1:
+  power: 738
+  attack: 706
+  defense: 699
+  health: 1507
+lb2:
+  power: 843
+  attack: 819
+  defense: 811
+  health: 1748
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +60,14 @@ costume:
   dtModified: ""
   fancy_name: Cupid of Painters
   aetherPower: special_armor
+  lb1:
+    power: 858
+    attack: 836
+    defense: 828
+    health: 1779
+  lb2:
+    power: 981
+    attack: 969
+    defense: 960
+    health: 2062
 ...

@@ -26,4 +26,14 @@ dtReleased: "2023-12-25"
 dtModified: ""
 fancy_name: Branch of Toons
 aetherPower: attack_up
+lb1:
+  power: 567
+  attack: 611
+  defense: 478
+  health: 1103
+lb2:
+  power: 685
+  attack: 755
+  defense: 590
+  health: 1364
 ...

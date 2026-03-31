@@ -18,6 +18,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: The Hotblooded
 aetherPower: rage
+lb1:
+  power: 493
+  attack: 549
+  defense: 429
+  health: 831
+lb2:
+  power: 594
+  attack: 679
+  defense: 530
+  health: 1027
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +48,16 @@ costume:
   dtModified: ""
   fancy_name: The Heated
   aetherPower: bulwark
+  lb1:
+    power: 526
+    attack: 609
+    defense: 438
+    health: 899
+  lb2:
+    power: 635
+    attack: 752
+    defense: 541
+    health: 1111
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -60,6 +80,16 @@ costume2:
   dtModified: ""
   fancy_name: The Hotblooded Toon
   aetherPower: rage
+  lb1:
+    power: 564
+    attack: 659
+    defense: 471
+    health: 981
+  lb2:
+    power: 682
+    attack: 814
+    defense: 582
+    health: 1212
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -82,4 +112,14 @@ costume3:
   dtModified: ""
   fancy_name: The Hotblooded Vitrail
   aetherPower: rage
+  lb1:
+    power: 578
+    attack: 685
+    defense: 478
+    health: 998
+  lb2:
+    power: 699
+    attack: 847
+    defense: 591
+    health: 1233
 ...

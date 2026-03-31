@@ -21,6 +21,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Protector Knight
 aetherPower: special_armor
+lb1:
+  power: 491
+  attack: 439
+  defense: 604
+  health: 744
+lb2:
+  power: 592
+  attack: 542
+  defense: 747
+  health: 920
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,6 +52,16 @@ costume:
   dtModified: ""
   fancy_name: Brave Blacksmith
   aetherPower: defense_up
+  lb1:
+    power: 525
+    attack: 480
+    defense: 630
+    health: 827
+  lb2:
+    power: 633
+    attack: 593
+    defense: 778
+    health: 1022
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -67,6 +87,16 @@ costume2:
   dtModified: ""
   fancy_name: Toon Knight
   aetherPower: special_armor
+  lb1:
+    power: 561
+    attack: 566
+    defense: 604
+    health: 926
+  lb2:
+    power: 678
+    attack: 699
+    defense: 747
+    health: 1144
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -93,4 +123,14 @@ costume3:
   dtModified: ""
   fancy_name: Glass Knight
   aetherPower: special_armor
+  lb1:
+    power: 575
+    attack: 592
+    defense: 611
+    health: 945
+  lb2:
+    power: 695
+    attack: 732
+    defense: 755
+    health: 1167
 ...

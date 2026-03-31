@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Noble Cavalier
 aetherPower: defense_up
+lb1:
+  power: 693
+  attack: 646
+  defense: 731
+  health: 1267
+lb2:
+  power: 790
+  attack: 749
+  defense: 848
+  health: 1469
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,6 +52,16 @@ costume:
   dtModified: ""
   fancy_name: Dapper Noble
   aetherPower: special_armor
+  lb1:
+    power: 743
+    attack: 701
+    defense: 778
+    health: 1394
+  lb2:
+    power: 848
+    attack: 813
+    defense: 902
+    health: 1616
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Noble Healer
   aetherPower: damage_reduction
+  lb1:
+    power: 793
+    attack: 780
+    defense: 878
+    health: 1354
+  lb2:
+    power: 906
+    attack: 905
+    defense: 1019
+    health: 1570
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -90,6 +120,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Cavalier
   aetherPower: defense_up
+  lb1:
+    power: 807
+    attack: 875
+    defense: 794
+    health: 1385
+  lb2:
+    power: 922
+    attack: 1014
+    defense: 920
+    health: 1606
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -116,4 +156,14 @@ costume4:
   dtModified: ""
   fancy_name: Glass Cavalier
   aetherPower: defense_up
+  lb1:
+    power: 820
+    attack: 906
+    defense: 829
+    health: 1334
+  lb2:
+    power: 938
+    attack: 1051
+    defense: 962
+    health: 1546
 ...

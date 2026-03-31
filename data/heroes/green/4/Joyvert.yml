@@ -25,4 +25,14 @@ dtReleased: "2025-08-14"
 dtModified: ""
 fancy_name: Music Mothuoso
 aetherPower: special_boost
+lb1:
+  power: 821
+  attack: 912
+  defense: 798
+  health: 1385
+lb2:
+  power: 939
+  attack: 1057
+  defense: 926
+  health: 1606
 ...

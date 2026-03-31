@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Rebellious Rogue
 aetherPower: attack_up
+lb1:
+  power: 338
+  attack: 336
+  defense: 340
+  health: 574
+lb2:
+  power: 338
+  attack: 336
+  defense: 340
+  health: 574
 ...

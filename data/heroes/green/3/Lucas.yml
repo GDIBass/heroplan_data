@@ -32,4 +32,14 @@ dtReleased: "2025-11-12"
 dtModified: ""
 fancy_name: Dominique's Younger Brother
 aetherPower: regen
+lb1:
+  power: 618
+  attack: 630
+  defense: 636
+  health: 1105
+lb2:
+  power: 748
+  attack: 778
+  defense: 786
+  health: 1365
 ...

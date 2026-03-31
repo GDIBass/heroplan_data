@@ -24,4 +24,14 @@ dtReleased: "2022-09-05"
 dtModified: ""
 fancy_name: Sorceress of Dragonia
 aetherPower: special_boost
+lb1:
+  power: 791
+  attack: 857
+  defense: 833
+  health: 1235
+lb2:
+  power: 903
+  attack: 994
+  defense: 966
+  health: 1432
 ...

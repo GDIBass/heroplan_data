@@ -20,6 +20,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Captain of Atlantis
 aetherPower: regen
+lb1:
+  power: 701
+  attack: 782
+  defense: 653
+  health: 1140
+lb2:
+  power: 799
+  attack: 907
+  defense: 757
+  health: 1322
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +50,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Champion of Atlantis
   aetherPower: counterattack
+  lb1:
+    power: 725
+    attack: 749
+    defense: 742
+    health: 1216
+  lb2:
+    power: 826
+    attack: 868
+    defense: 860
+    health: 1410
 ...

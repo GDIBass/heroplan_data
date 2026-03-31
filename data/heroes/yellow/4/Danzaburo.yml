@@ -28,6 +28,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Dauntless Deceiver
 aetherPower: gamble
+lb1:
+  power: 701
+  attack: 676
+  defense: 692
+  health: 1329
+lb2:
+  power: 799
+  attack: 784
+  defense: 803
+  health: 1541
 costume:
   design: costume1
   bonuses: 3/3/6/1
@@ -55,4 +65,14 @@ costume:
   dtModified: ""
   fancy_name: Fearless Merchant
   aetherPower: special_armor
+  lb1:
+    power: 725
+    attack: 663
+    defense: 725
+    health: 1468
+  lb2:
+    power: 827
+    attack: 769
+    defense: 840
+    health: 1702
 ...

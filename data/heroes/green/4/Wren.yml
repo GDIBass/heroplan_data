@@ -23,4 +23,14 @@ dtReleased: "2021-10-13"
 dtModified: ""
 fancy_name: Scout of the Castle
 aetherPower: attack_up
+lb1:
+  power: 732
+  attack: 734
+  defense: 699
+  health: 1392
+lb2:
+  power: 835
+  attack: 851
+  defense: 811
+  health: 1614
 ...

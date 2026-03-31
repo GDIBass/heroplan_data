@@ -24,4 +24,14 @@ dtReleased: "2024-09-08"
 dtModified: ""
 fancy_name: Toon Defender
 aetherPower: regen
+lb1:
+  power: 805
+  attack: 705
+  defense: 929
+  health: 1523
+lb2:
+  power: 919
+  attack: 817
+  defense: 1077
+  health: 1766
 ...

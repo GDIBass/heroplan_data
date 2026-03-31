@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: "2026-03-23"
 fancy_name: Brave Villager
 aetherPower: attack_up
+lb1:
+  power: 516
+  attack: 520
+  defense: 494
+  health: 937
+lb2:
+  power: 622
+  attack: 642
+  defense: 610
+  health: 1158
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +55,14 @@ costume:
   dtModified: "2026-03-23"
   fancy_name: Brave Soldier
   aetherPower: special_boost
+  lb1:
+    power: 533
+    attack: 527
+    defense: 517
+    health: 996
+  lb2:
+    power: 643
+    attack: 651
+    defense: 639
+    health: 1230
 ...

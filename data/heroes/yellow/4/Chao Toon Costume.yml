@@ -26,4 +26,14 @@ dtReleased: "2024-06-28"
 dtModified: ""
 fancy_name: Toon Tactician
 aetherPower: attack_up
+lb1:
+  power: 802
+  attack: 877
+  defense: 764
+  health: 1408
+lb2:
+  power: 917
+  attack: 1017
+  defense: 886
+  health: 1632
 ...

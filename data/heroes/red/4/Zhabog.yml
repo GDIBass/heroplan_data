@@ -23,4 +23,14 @@ dtReleased: "2022-08-11"
 dtModified: "2026-03-23"
 fancy_name: Bard of Eloquence
 aetherPower: attack_up
+lb1:
+  power: 734
+  attack: 715
+  defense: 655
+  health: 1542
+lb2:
+  power: 838
+  attack: 829
+  defense: 760
+  health: 1788
 ...

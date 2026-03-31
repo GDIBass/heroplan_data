@@ -22,4 +22,14 @@ dtReleased: "2023-11-27"
 dtModified: ""
 fancy_name: Willful Prospector
 aetherPower: attack_up
+lb1:
+  power: 791
+  attack: 889
+  defense: 770
+  health: 1282
+lb2:
+  power: 903
+  attack: 1031
+  defense: 892
+  health: 1487
 ...

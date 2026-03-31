@@ -23,4 +23,14 @@ dtReleased: "2022-03-14"
 dtModified: ""
 fancy_name: Wu Footsoldier
 aetherPower: regen
+lb1:
+  power: 538
+  attack: 545
+  defense: 551
+  health: 921
+lb2:
+  power: 651
+  attack: 674
+  defense: 681
+  health: 1139
 ...

@@ -20,4 +20,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Priest of Teltoc
 aetherPower: ailment_immunity
+lb1:
+  power: 695
+  attack: 600
+  defense: 819
+  health: 1223
+lb2:
+  power: 793
+  attack: 696
+  defense: 950
+  health: 1418
 ...

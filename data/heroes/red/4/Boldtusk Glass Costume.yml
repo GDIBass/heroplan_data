@@ -28,4 +28,14 @@ dtReleased: "2024-12-25"
 dtModified: ""
 fancy_name: The Reflecting
 aetherPower: heal_increase
+lb1:
+  power: 819
+  attack: 769
+  defense: 928
+  health: 1468
+lb2:
+  power: 936
+  attack: 891
+  defense: 1076
+  health: 1702
 ...

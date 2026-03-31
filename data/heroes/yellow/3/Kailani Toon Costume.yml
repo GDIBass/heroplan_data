@@ -28,4 +28,14 @@ dtReleased: "2024-02-12"
 dtModified: ""
 fancy_name: Toon Healer
 aetherPower: special_armor
+lb1:
+  power: 565
+  attack: 557
+  defense: 595
+  health: 995
+lb2:
+  power: 683
+  attack: 688
+  defense: 736
+  health: 1229
 ...

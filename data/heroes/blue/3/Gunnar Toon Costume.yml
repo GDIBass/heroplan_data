@@ -27,4 +27,14 @@ dtReleased: "2024-09-08"
 dtModified: ""
 fancy_name: Toon Knight
 aetherPower: special_armor
+lb1:
+  power: 561
+  attack: 566
+  defense: 604
+  health: 926
+lb2:
+  power: 678
+  attack: 699
+  defense: 747
+  health: 1144
 ...

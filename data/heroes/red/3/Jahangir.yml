@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Mage from the Sandsea
 aetherPower: defense_up
+lb1:
+  power: 496
+  attack: 565
+  defense: 494
+  health: 679
+lb2:
+  power: 597
+  attack: 698
+  defense: 610
+  health: 839
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Wizard from the Sandsea
   aetherPower: regen
+  lb1:
+    power: 528
+    attack: 594
+    defense: 512
+    health: 799
+  lb2:
+    power: 637
+    attack: 734
+    defense: 632
+    health: 987
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Mage from the Toon Sea
   aetherPower: defense_up
+  lb1:
+    power: 565
+    attack: 629
+    defense: 545
+    health: 914
+  lb2:
+    power: 684
+    attack: 778
+    defense: 674
+    health: 1130
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -88,6 +118,16 @@ costume3:
   dtModified: ""
   fancy_name: Nomad from the Glass Sea
   aetherPower: defense_up
+  lb1:
+    power: 580
+    attack: 648
+    defense: 557
+    health: 945
+  lb2:
+    power: 701
+    attack: 801
+    defense: 689
+    health: 1167
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -112,4 +152,14 @@ costume4:
   dtModified: ""
   fancy_name: Stylish Mage
   aetherPower: defense_up
+  lb1:
+    power: 611
+    attack: 689
+    defense: 588
+    health: 1006
+  lb2:
+    power: 740
+    attack: 851
+    defense: 727
+    health: 1243
 ...

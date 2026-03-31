@@ -28,4 +28,14 @@ dtReleased: "2025-11-25"
 dtModified: ""
 fancy_name: Glass Knight
 aetherPower: special_armor
+lb1:
+  power: 575
+  attack: 592
+  defense: 611
+  health: 945
+lb2:
+  power: 695
+  attack: 732
+  defense: 755
+  health: 1167
 ...

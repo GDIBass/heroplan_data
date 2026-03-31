@@ -25,4 +25,14 @@ dtReleased: "2022-12-01"
 dtModified: ""
 fancy_name: Bard of Joy
 aetherPower: attack_up
+lb1:
+  power: 737
+  attack: 725
+  defense: 725
+  health: 1401
+lb2:
+  power: 841
+  attack: 840
+  defense: 840
+  health: 1624
 ...

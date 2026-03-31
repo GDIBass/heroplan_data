@@ -23,4 +23,14 @@ dtReleased: "2023-10-30"
 dtModified: ""
 fancy_name: Dancer from the Sandsea
 aetherPower: special_boost
+lb1:
+  power: 787
+  attack: 937
+  defense: 642
+  health: 1390
+lb2:
+  power: 899
+  attack: 1086
+  defense: 745
+  health: 1612
 ...

@@ -27,4 +27,14 @@ dtReleased: "2022-11-03"
 dtModified: "2026-03-20"
 fancy_name: Gladiator of Frog Kingdom
 aetherPower: attack_up
+lb1:
+  power: 540
+  attack: 551
+  defense: 567
+  health: 886
+lb2:
+  power: 652
+  attack: 681
+  defense: 700
+  health: 1095
 ...

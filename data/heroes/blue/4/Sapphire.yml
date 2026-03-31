@@ -31,4 +31,14 @@ dtReleased: "2020-10-13"
 dtModified: ""
 fancy_name: Ninja of Leaping Shadows
 aetherPower: special_boost
+lb1:
+  power: 721
+  attack: 789
+  defense: 588
+  health: 1396
+lb2:
+  power: 822
+  attack: 915
+  defense: 682
+  health: 1619
 ...

@@ -20,4 +20,14 @@ dtReleased: "2020-05-28"
 dtModified: ""
 fancy_name: Fire Dwarf of Muspelheim
 aetherPower: defense_up
+lb1:
+  power: 515
+  attack: 498
+  defense: 549
+  health: 878
+lb2:
+  power: 622
+  attack: 615
+  defense: 679
+  health: 1085
 ...

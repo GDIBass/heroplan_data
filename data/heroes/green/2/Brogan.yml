@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Mercenary Thug
 aetherPower: attack_up
+lb1:
+  power: 335
+  attack: 295
+  defense: 340
+  health: 660
+lb2:
+  power: 335
+  attack: 295
+  defense: 340
+  health: 660
 ...

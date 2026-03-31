@@ -24,4 +24,14 @@ dtReleased: "2025-10-09"
 dtModified: ""
 fancy_name: Vitrail of Shaguad
 aetherPower: dodge
+lb1:
+  power: 575
+  attack: 636
+  defense: 590
+  health: 879
+lb2:
+  power: 696
+  attack: 786
+  defense: 729
+  health: 1086
 ...

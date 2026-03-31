@@ -24,6 +24,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Beekeeper of Alfheim
 aetherPower: defense_up
+lb1:
+  power: 514
+  attack: 486
+  defense: 480
+  health: 1038
+lb2:
+  power: 620
+  attack: 601
+  defense: 593
+  health: 1282
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +58,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Bee Captain of Alfheim
   aetherPower: special_armor
+  lb1:
+    power: 532
+    attack: 486
+    defense: 503
+    health: 1119
+  lb2:
+    power: 642
+    attack: 601
+    defense: 621
+    health: 1382
 ...

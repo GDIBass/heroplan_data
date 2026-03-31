@@ -26,4 +26,14 @@ dtReleased: "2025-04-08"
 dtModified: ""
 fancy_name: Glass Bounty hunter
 aetherPower: attack_up
+lb1:
+  power: 817
+  attack: 956
+  defense: 703
+  health: 1434
+lb2:
+  power: 933
+  attack: 1108
+  defense: 815
+  health: 1663
 ...

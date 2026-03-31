@@ -19,6 +19,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Stout Defender
 aetherPower: regen
+lb1:
+  power: 691
+  attack: 544
+  defense: 861
+  health: 1251
+lb2:
+  power: 788
+  attack: 631
+  defense: 998
+  health: 1450
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,6 +47,16 @@ costume:
   dtModified: ""
   fancy_name: Heavyweight Defender
   aetherPower: ailment_immunity
+  lb1:
+    power: 742
+    attack: 558
+    defense: 943
+    health: 1412
+  lb2:
+    power: 846
+    attack: 647
+    defense: 1094
+    health: 1637
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -56,6 +76,16 @@ costume2:
   dtModified: ""
   fancy_name: Tavern Defender
   aetherPower: damage_reduction
+  lb1:
+    power: 792
+    attack: 642
+    defense: 961
+    health: 1526
+  lb2:
+    power: 905
+    attack: 745
+    defense: 1114
+    health: 1770
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -78,6 +108,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Defender
   aetherPower: regen
+  lb1:
+    power: 805
+    attack: 705
+    defense: 929
+    health: 1523
+  lb2:
+    power: 919
+    attack: 817
+    defense: 1077
+    health: 1766
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -103,4 +143,14 @@ costume4:
   dtModified: ""
   fancy_name: Glass Defender
   aetherPower: regen
+  lb1:
+    power: 818
+    attack: 730
+    defense: 934
+    health: 1543
+  lb2:
+    power: 935
+    attack: 847
+    defense: 1083
+    health: 1789
 ...

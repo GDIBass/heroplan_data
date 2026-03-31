@@ -24,4 +24,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Chameleon Warrior
 aetherPower: attack_up
+lb1:
+  power: 501
+  attack: 719
+  defense: 423
+  health: 476
+lb2:
+  power: 604
+  attack: 888
+  defense: 523
+  health: 589
 ...

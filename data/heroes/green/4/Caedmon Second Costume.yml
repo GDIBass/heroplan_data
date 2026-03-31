@@ -24,4 +24,14 @@ dtReleased: "2022-12-26"
 dtModified: ""
 fancy_name: Elven Cavalier
 aetherPower: dodge
+lb1:
+  power: 791
+  attack: 809
+  defense: 783
+  health: 1457
+lb2:
+  power: 904
+  attack: 938
+  defense: 908
+  health: 1689
 ...

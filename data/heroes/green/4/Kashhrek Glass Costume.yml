@@ -28,4 +28,14 @@ dtReleased: "2025-06-18"
 dtModified: ""
 fancy_name: Glass Chieftain
 aetherPower: defense_up
+lb1:
+  power: 820
+  attack: 802
+  defense: 736
+  health: 1775
+lb2:
+  power: 937
+  attack: 930
+  defense: 853
+  health: 2058
 ...

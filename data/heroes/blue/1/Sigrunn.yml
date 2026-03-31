@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Fierce Maiden
 aetherPower: attack_up
+lb1:
+  power: 210
+  attack: 183
+  defense: 208
+  health: 381
+lb2:
+  power: 210
+  attack: 183
+  defense: 208
+  health: 381
 ...

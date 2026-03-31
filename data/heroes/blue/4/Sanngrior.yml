@@ -21,4 +21,14 @@ dtReleased: "2021-02-11"
 dtModified: ""
 fancy_name: Fallen Valkyrie
 aetherPower: heal_increase
+lb1:
+  power: 726
+  attack: 614
+  defense: 738
+  health: 1572
+lb2:
+  power: 829
+  attack: 712
+  defense: 856
+  health: 1823
 ...

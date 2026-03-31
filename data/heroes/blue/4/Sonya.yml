@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Willful Champion
 aetherPower: special_boost
+lb1:
+  power: 692
+  attack: 660
+  defense: 794
+  health: 1099
+lb2:
+  power: 788
+  attack: 765
+  defense: 920
+  health: 1274
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Viking Champion
   aetherPower: special_armor
+  lb1:
+    power: 741
+    attack: 716
+    defense: 844
+    health: 1209
+  lb2:
+    power: 845
+    attack: 830
+    defense: 979
+    health: 1402
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -60,6 +80,16 @@ costume2:
   dtModified: ""
   fancy_name: Willful Prospector
   aetherPower: attack_up
+  lb1:
+    power: 791
+    attack: 889
+    defense: 770
+    health: 1282
+  lb2:
+    power: 903
+    attack: 1031
+    defense: 892
+    health: 1487
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -84,6 +114,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Champion
   aetherPower: special_boost
+  lb1:
+    power: 804
+    attack: 877
+    defense: 823
+    health: 1298
+  lb2:
+    power: 919
+    attack: 1017
+    defense: 955
+    health: 1505
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -108,4 +148,14 @@ costume4:
   dtModified: ""
   fancy_name: Glass Champion
   aetherPower: special_boost
+  lb1:
+    power: 818
+    attack: 909
+    defense: 824
+    health: 1317
+  lb2:
+    power: 934
+    attack: 1054
+    defense: 955
+    health: 1526
 ...

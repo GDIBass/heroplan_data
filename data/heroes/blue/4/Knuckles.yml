@@ -32,4 +32,14 @@ dtReleased: "2023-05-06"
 dtModified: "2026-03-20"
 fancy_name: Macaque Sentinel
 aetherPower: special_armor
+lb1:
+  power: 740
+  attack: 681
+  defense: 727
+  health: 1523
+lb2:
+  power: 844
+  attack: 789
+  defense: 843
+  health: 1766
 ...

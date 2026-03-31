@@ -29,4 +29,14 @@ dtReleased: "2023-09-11"
 dtModified: ""
 fancy_name: Carefree Convict
 aetherPower: rage
+lb1:
+  power: 740
+  attack: 752
+  defense: 736
+  health: 1332
+lb2:
+  power: 845
+  attack: 872
+  defense: 853
+  health: 1544
 ...

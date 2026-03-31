@@ -18,6 +18,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Lizardfolk Fighter
 aetherPower: special_boost
+lb1:
+  power: 498
+  attack: 514
+  defense: 472
+  health: 866
+lb2:
+  power: 600
+  attack: 635
+  defense: 584
+  health: 1070
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +48,16 @@ costume:
   dtModified: ""
   fancy_name: Lizardfolk Ancestor
   aetherPower: counterattack
+  lb1:
+    power: 532
+    attack: 552
+    defense: 453
+    health: 1053
+  lb2:
+    power: 642
+    attack: 682
+    defense: 559
+    health: 1301
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -60,6 +80,16 @@ costume2:
   dtModified: ""
   fancy_name: Toon Fighter
   aetherPower: special_boost
+  lb1:
+    power: 570
+    attack: 548
+    defense: 530
+    health: 1182
+  lb2:
+    power: 689
+    attack: 677
+    defense: 654
+    health: 1460
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -82,4 +112,14 @@ costume3:
   dtModified: ""
   fancy_name: Glass Fighter
   aetherPower: special_boost
+  lb1:
+    power: 585
+    attack: 574
+    defense: 539
+    health: 1204
+  lb2:
+    power: 707
+    attack: 709
+    defense: 666
+    health: 1487
 ...

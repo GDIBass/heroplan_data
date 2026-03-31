@@ -23,6 +23,16 @@ dtReleased: "2022-03-14"
 dtModified: ""
 fancy_name: Young Commander
 aetherPower: attack_up
+lb1:
+  power: 735
+  attack: 695
+  defense: 729
+  health: 1452
+lb2:
+  power: 838
+  attack: 805
+  defense: 845
+  health: 1683
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: ""
   fancy_name: Raven Commander
   aetherPower: special_boost
+  lb1:
+    power: 774
+    attack: 766
+    defense: 748
+    health: 1515
+  lb2:
+    power: 884
+    attack: 888
+    defense: 868
+    health: 1756
 ...

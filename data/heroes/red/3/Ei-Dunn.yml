@@ -20,6 +20,16 @@ dtReleased: ""
 dtModified: "2026-03-23"
 fancy_name: Cursed Viking Battler
 aetherPower: ailment_immunity
+lb1:
+  power: 520
+  attack: 478
+  defense: 545
+  health: 965
+lb2:
+  power: 627
+  attack: 591
+  defense: 674
+  health: 1192
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +50,14 @@ costume:
   dtModified: "2026-03-23"
   fancy_name: Ferocious Viking Battler
   aetherPower: rage
+  lb1:
+    power: 537
+    attack: 570
+    defense: 472
+    health: 1008
+  lb2:
+    power: 649
+    attack: 704
+    defense: 584
+    health: 1246
 ...

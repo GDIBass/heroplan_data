@@ -22,6 +22,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Master Brewer
 aetherPower: ailment_immunity
+lb1:
+  power: 696
+  attack: 713
+  defense: 731
+  health: 1124
+lb2:
+  power: 794
+  attack: 827
+  defense: 848
+  health: 1303
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,6 +54,16 @@ costume:
   dtModified: ""
   fancy_name: Master Shredder
   aetherPower: defense_up
+  lb1:
+    power: 745
+    attack: 778
+    defense: 753
+    health: 1266
+  lb2:
+    power: 850
+    attack: 902
+    defense: 873
+    health: 1467
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -66,6 +86,16 @@ costume2:
   dtModified: ""
   fancy_name: Master Wood Carver
   aetherPower: heal_increase
+  lb1:
+    power: 795
+    attack: 796
+    defense: 849
+    health: 1390
+  lb2:
+    power: 909
+    attack: 923
+    defense: 985
+    health: 1612
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -93,6 +123,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Brewer
   aetherPower: defense_up
+  lb1:
+    power: 809
+    attack: 837
+    defense: 850
+    health: 1383
+  lb2:
+    power: 925
+    attack: 970
+    defense: 986
+    health: 1603
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -121,6 +161,16 @@ costume4:
   dtModified: ""
   fancy_name: Brewer Vitrail
   aetherPower: defense_up
+  lb1:
+    power: 822
+    attack: 824
+    defense: 884
+    health: 1443
+  lb2:
+    power: 940
+    attack: 955
+    defense: 1025
+    health: 1673
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -147,4 +197,14 @@ costume5:
   dtModified: ""
   fancy_name: Stylish Taster
   aetherPower: defense_up
+  lb1:
+    power: 883
+    attack: 894
+    defense: 978
+    health: 1509
+  lb2:
+    power: 1010
+    attack: 1037
+    defense: 1134
+    health: 1750
 ...

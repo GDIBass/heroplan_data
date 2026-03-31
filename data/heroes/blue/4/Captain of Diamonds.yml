@@ -23,4 +23,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Knave of Wonderland
 aetherPower: attack_up
+lb1:
+  power: 699
+  attack: 674
+  defense: 741
+  health: 1223
+lb2:
+  power: 797
+  attack: 781
+  defense: 859
+  health: 1418
 ...

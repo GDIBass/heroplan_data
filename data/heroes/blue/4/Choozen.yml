@@ -32,4 +32,14 @@ dtReleased: "2025-07-31"
 dtModified: ""
 fancy_name: Shy Chest Slime
 aetherPower: defense_up
+lb1:
+  power: 810
+  attack: 768
+  defense: 884
+  health: 1493
+lb2:
+  power: 926
+  attack: 891
+  defense: 1025
+  health: 1732
 ...

@@ -36,4 +36,14 @@ dtReleased: "2026-02-17"
 dtModified: ""
 fancy_name: Junior Dragon Dancer
 aetherPower: special_boost
+lb1:
+  power: 860
+  attack: 893
+  defense: 868
+  health: 1574
+lb2:
+  power: 984
+  attack: 1035
+  defense: 1006
+  health: 1825
 ...

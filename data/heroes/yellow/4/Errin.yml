@@ -29,4 +29,14 @@ dtReleased: "2025-06-04"
 dtModified: "2026-03-20"
 fancy_name: Astral Dwarf Toymaker
 aetherPower: counterattack
+lb1:
+  power: 799
+  attack: 785
+  defense: 852
+  health: 1436
+lb2:
+  power: 912
+  attack: 910
+  defense: 987
+  health: 1665
 ...

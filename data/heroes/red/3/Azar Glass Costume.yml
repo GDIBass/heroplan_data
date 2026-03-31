@@ -26,4 +26,14 @@ dtReleased: "2025-04-23"
 dtModified: ""
 fancy_name: Seeker of Glass
 aetherPower: rage
+lb1:
+  power: 579
+  attack: 688
+  defense: 530
+  health: 898
+lb2:
+  power: 701
+  attack: 850
+  defense: 654
+  health: 1110
 ...

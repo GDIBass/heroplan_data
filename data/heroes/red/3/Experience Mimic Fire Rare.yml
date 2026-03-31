@@ -31,4 +31,14 @@ dtReleased: "2026-01-16"
 dtModified: ""
 fancy_name: Trove of the Tiny Teeth
 aetherPower: bulwark
+lb1:
+  power: 603
+  attack: 620
+  defense: 620
+  health: 1053
+lb2:
+  power: 729
+  attack: 766
+  defense: 766
+  health: 1302
 ...

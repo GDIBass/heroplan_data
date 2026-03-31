@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: First in Battle
 aetherPower: attack_up
+lb1:
+  power: 493
+  attack: 583
+  defense: 415
+  health: 776
+lb2:
+  power: 594
+  attack: 720
+  defense: 513
+  health: 958
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Last to Retreat
   aetherPower: special_boost
+  lb1:
+    power: 527
+    attack: 655
+    defense: 427
+    health: 810
+  lb2:
+    power: 636
+    attack: 809
+    defense: 528
+    health: 1001
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: First Toon in Battle
   aetherPower: attack_up
+  lb1:
+    power: 564
+    attack: 706
+    defense: 459
+    health: 884
+  lb2:
+    power: 682
+    attack: 873
+    defense: 568
+    health: 1092
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -88,4 +118,14 @@ costume3:
   dtModified: ""
   fancy_name: Last to Shatter
   aetherPower: attack_up
+  lb1:
+    power: 578
+    attack: 734
+    defense: 467
+    health: 901
+  lb2:
+    power: 699
+    attack: 907
+    defense: 577
+    health: 1113
 ...

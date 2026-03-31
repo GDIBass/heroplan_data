@@ -26,4 +26,14 @@ dtReleased: "2024-05-06"
 dtModified: ""
 fancy_name: The Hungry Toon
 aetherPower: rage
+lb1:
+  power: 805
+  attack: 696
+  defense: 807
+  health: 1791
+lb2:
+  power: 920
+  attack: 808
+  defense: 936
+  health: 2077
 ...

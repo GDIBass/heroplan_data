@@ -20,4 +20,14 @@ dtReleased: "2021-10-13"
 dtModified: "2026-03-20"
 fancy_name: Chef of the Castle
 aetherPower: counterattack
+lb1:
+  power: 536
+  attack: 557
+  defense: 522
+  health: 929
+lb2:
+  power: 647
+  attack: 688
+  defense: 645
+  health: 1148
 ...

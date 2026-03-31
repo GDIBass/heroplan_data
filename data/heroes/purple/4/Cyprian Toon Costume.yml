@@ -24,4 +24,14 @@ dtReleased: "2024-04-08"
 dtModified: ""
 fancy_name: Deathbound Toon
 aetherPower: counterattack
+lb1:
+  power: 805
+  attack: 713
+  defense: 764
+  health: 1833
+lb2:
+  power: 919
+  attack: 826
+  defense: 886
+  health: 2126
 ...

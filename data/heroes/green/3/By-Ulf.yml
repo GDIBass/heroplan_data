@@ -29,4 +29,14 @@ dtReleased: ""
 dtModified: "2026-03-23"
 fancy_name: Cursed Viking Brawler
 aetherPower: special_armor
+lb1:
+  power: 516
+  attack: 494
+  defense: 506
+  health: 981
+lb2:
+  power: 623
+  attack: 610
+  defense: 625
+  health: 1212
 ...

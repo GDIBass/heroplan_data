@@ -26,4 +26,14 @@ dtReleased: "2025-09-07"
 dtModified: ""
 fancy_name: Relentless Vitrail
 aetherPower: mana_boost
+lb1:
+  power: 583
+  attack: 609
+  defense: 539
+  health: 1102
+lb2:
+  power: 705
+  attack: 752
+  defense: 666
+  health: 1362
 ...

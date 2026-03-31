@@ -26,4 +26,14 @@ dtReleased: "2024-05-06"
 dtModified: ""
 fancy_name: Toon Archer
 aetherPower: attack_up
+lb1:
+  power: 567
+  attack: 616
+  defense: 555
+  health: 936
+lb2:
+  power: 684
+  attack: 761
+  defense: 685
+  health: 1156
 ...

@@ -27,4 +27,14 @@ dtReleased: "2025-01-23"
 dtModified: ""
 fancy_name: Young Moth Painter
 aetherPower: attack_up
+lb1:
+  power: 562
+  attack: 581
+  defense: 612
+  health: 876
+lb2:
+  power: 679
+  attack: 718
+  defense: 756
+  health: 1083
 ...

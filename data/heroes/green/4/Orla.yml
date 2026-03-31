@@ -27,4 +27,14 @@ dtReleased: "2021-08-05"
 dtModified: ""
 fancy_name: The Worthy
 aetherPower: attack_up
+lb1:
+  power: 728
+  attack: 690
+  defense: 738
+  health: 1396
+lb2:
+  power: 831
+  attack: 800
+  defense: 856
+  health: 1619
 ...

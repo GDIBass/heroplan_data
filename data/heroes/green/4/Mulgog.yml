@@ -33,6 +33,16 @@ dtReleased: "2023-06-07"
 dtModified: "2026-03-22"
 fancy_name: Fishman Marauder
 aetherPower: attack_up
+lb1:
+  power: 740
+  attack: 780
+  defense: 699
+  health: 1334
+lb2:
+  power: 845
+  attack: 904
+  defense: 811
+  health: 1547
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -67,4 +77,14 @@ costume:
   dtModified: "2026-03-22"
   fancy_name: Fishman Bard
   aetherPower: defense_up
+  lb1:
+    power: 758
+    attack: 725
+    defense: 793
+    health: 1411
+  lb2:
+    power: 866
+    attack: 841
+    defense: 920
+    health: 1637
 ...

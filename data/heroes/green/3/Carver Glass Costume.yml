@@ -26,4 +26,14 @@ dtReleased: "2025-07-16"
 dtModified: ""
 fancy_name: Glass Cutpurse
 aetherPower: attack_up
+lb1:
+  power: 580
+  attack: 709
+  defense: 488
+  health: 932
+lb2:
+  power: 701
+  attack: 875
+  defense: 603
+  health: 1152
 ...

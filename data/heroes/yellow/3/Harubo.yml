@@ -29,4 +29,14 @@ dtReleased: "2025-10-27"
 dtModified: ""
 fancy_name: Patrolling Slime
 aetherPower: counterattack
+lb1:
+  power: 592
+  attack: 620
+  defense: 577
+  health: 1063
+lb2:
+  power: 716
+  attack: 766
+  defense: 713
+  health: 1314
 ...

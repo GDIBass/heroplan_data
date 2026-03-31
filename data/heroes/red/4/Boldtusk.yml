@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: The Unwavering
 aetherPower: defense_up
+lb1:
+  power: 693
+  attack: 639
+  defense: 773
+  health: 1202
+lb2:
+  power: 790
+  attack: 741
+  defense: 896
+  health: 1394
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Cast Iron Chef
   aetherPower: counterattack
+  lb1:
+    power: 743
+    attack: 689
+    defense: 815
+    health: 1350
+  lb2:
+    power: 848
+    attack: 799
+    defense: 945
+    health: 1565
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -62,6 +82,16 @@ costume2:
   dtModified: ""
   fancy_name: The Feral Sage
   aetherPower: special_armor
+  lb1:
+    power: 792
+    attack: 748
+    defense: 902
+    health: 1382
+  lb2:
+    power: 905
+    attack: 868
+    defense: 1046
+    health: 1602
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -86,6 +116,16 @@ costume3:
   dtModified: ""
   fancy_name: The Unwavering Toon
   aetherPower: defense_up
+  lb1:
+    power: 806
+    attack: 759
+    defense: 910
+    health: 1439
+  lb2:
+    power: 921
+    attack: 880
+    defense: 1055
+    health: 1668
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -112,6 +152,16 @@ costume4:
   dtModified: ""
   fancy_name: The Reflecting
   aetherPower: heal_increase
+  lb1:
+    power: 819
+    attack: 769
+    defense: 928
+    health: 1468
+  lb2:
+    power: 936
+    attack: 891
+    defense: 1076
+    health: 1702
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -136,4 +186,14 @@ costume5:
   dtModified: ""
   fancy_name: The Fancy
   aetherPower: defense_up
+  lb1:
+    power: 879
+    attack: 837
+    defense: 1017
+    health: 1551
+  lb2:
+    power: 1006
+    attack: 970
+    defense: 1179
+    health: 1799
 ...

@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Shambling Remnant
 aetherPower: defense_up
+lb1:
+  power: 333
+  attack: 293
+  defense: 290
+  health: 749
+lb2:
+  power: 333
+  attack: 293
+  defense: 290
+  health: 749
 ...

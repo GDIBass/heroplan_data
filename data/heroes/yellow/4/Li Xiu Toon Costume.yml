@@ -26,4 +26,14 @@ dtReleased: "2024-02-12"
 dtModified: ""
 fancy_name: Toon General
 aetherPower: counterattack
+lb1:
+  power: 800
+  attack: 788
+  defense: 848
+  health: 1447
+lb2:
+  power: 915
+  attack: 914
+  defense: 983
+  health: 1678
 ...

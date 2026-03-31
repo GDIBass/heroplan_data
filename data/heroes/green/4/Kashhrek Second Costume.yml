@@ -22,4 +22,14 @@ dtReleased: "2023-11-27"
 dtModified: ""
 fancy_name: Lizardfolk Fisher
 aetherPower: regen
+lb1:
+  power: 793
+  attack: 650
+  defense: 831
+  health: 1773
+lb2:
+  power: 906
+  attack: 754
+  defense: 963
+  health: 2055
 ...

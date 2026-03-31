@@ -24,4 +24,14 @@ dtReleased: "2023-10-18"
 dtModified: ""
 fancy_name: Devoted Squire
 aetherPower: defense_up
+lb1:
+  power: 546
+  attack: 518
+  defense: 522
+  health: 1101
+lb2:
+  power: 660
+  attack: 640
+  defense: 645
+  health: 1360
 ...

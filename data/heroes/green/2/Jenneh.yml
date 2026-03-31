@@ -18,4 +18,14 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Plant Whisperer
 aetherPower: attack_up
+lb1:
+  power: 335
+  attack: 328
+  defense: 325
+  health: 602
+lb2:
+  power: 335
+  attack: 328
+  defense: 325
+  health: 602
 ...

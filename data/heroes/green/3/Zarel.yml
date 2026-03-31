@@ -25,4 +25,14 @@ dtReleased: "2022-12-01"
 dtModified: ""
 fancy_name: Bard of Lore
 aetherPower: regen
+lb1:
+  power: 541
+  attack: 559
+  defense: 565
+  health: 878
+lb2:
+  power: 654
+  attack: 691
+  defense: 698
+  health: 1085
 ...

@@ -20,6 +20,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Assassin of Teltoc
 aetherPower: attack_up
+lb1:
+  power: 694
+  attack: 831
+  defense: 577
+  health: 1122
+lb2:
+  power: 791
+  attack: 963
+  defense: 669
+  health: 1301
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +50,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Bone Collector of Teltoc
   aetherPower: rage
+  lb1:
+    power: 732
+    attack: 734
+    defense: 724
+    health: 1343
+  lb2:
+    power: 836
+    attack: 851
+    defense: 840
+    health: 1557
 ...

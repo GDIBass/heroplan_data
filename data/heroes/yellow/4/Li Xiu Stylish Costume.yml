@@ -26,4 +26,14 @@ dtReleased: "2026-02-14"
 dtModified: ""
 fancy_name: Stylish General
 aetherPower: counterattack
+lb1:
+  power: 875
+  attack: 960
+  defense: 879
+  health: 1485
+lb2:
+  power: 1000
+  attack: 1113
+  defense: 1019
+  health: 1722
 ...

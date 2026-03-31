@@ -26,4 +26,14 @@ dtReleased: "2024-03-11"
 dtModified: ""
 fancy_name: Seeker of Toons
 aetherPower: rage
+lb1:
+  power: 566
+  attack: 666
+  defense: 521
+  health: 874
+lb2:
+  power: 683
+  attack: 822
+  defense: 643
+  health: 1080
 ...

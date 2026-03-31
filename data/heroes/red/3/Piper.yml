@@ -23,4 +23,14 @@ dtReleased: "2025-09-09"
 dtModified: "2026-03-22"
 fancy_name: Inquisitive Hired Gun
 aetherPower: defense_up
+lb1:
+  power: 578
+  attack: 614
+  defense: 555
+  health: 1022
+lb2:
+  power: 699
+  attack: 759
+  defense: 686
+  health: 1263
 ...

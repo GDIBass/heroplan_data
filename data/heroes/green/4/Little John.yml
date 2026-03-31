@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Mighty Brother
 aetherPower: defense_up
+lb1:
+  power: 690
+  attack: 805
+  defense: 618
+  health: 1073
+lb2:
+  power: 786
+  attack: 934
+  defense: 717
+  health: 1244
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,6 +53,16 @@ costume:
   dtModified: ""
   fancy_name: Stealthy Brother
   aetherPower: special_armor
+  lb1:
+    power: 738
+    attack: 837
+    defense: 691
+    health: 1191
+  lb2:
+    power: 842
+    attack: 971
+    defense: 802
+    health: 1381
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -63,6 +83,16 @@ costume2:
   dtModified: ""
   fancy_name: Mighty Highlander
   aetherPower: regen
+  lb1:
+    power: 788
+    attack: 913
+    defense: 693
+    health: 1360
+  lb2:
+    power: 901
+    attack: 1059
+    defense: 803
+    health: 1577
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -87,6 +117,16 @@ costume3:
   dtModified: ""
   fancy_name: Mighty Toon
   aetherPower: defense_up
+  lb1:
+    power: 801
+    attack: 915
+    defense: 756
+    health: 1318
+  lb2:
+    power: 915
+    attack: 1061
+    defense: 876
+    health: 1528
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -111,4 +151,14 @@ costume4:
   dtModified: ""
   fancy_name: Mighty Vitrail
   aetherPower: defense_up
+  lb1:
+    power: 815
+    attack: 936
+    defense: 766
+    health: 1345
+  lb2:
+    power: 932
+    attack: 1086
+    defense: 888
+    health: 1560
 ...

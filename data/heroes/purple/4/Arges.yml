@@ -32,4 +32,14 @@ dtReleased: "2022-09-21"
 dtModified: ""
 fancy_name: Potion Merchant Cyclops
 aetherPower: damage_reduction
+lb1:
+  power: 737
+  attack: 720
+  defense: 692
+  health: 1475
+lb2:
+  power: 841
+  attack: 835
+  defense: 803
+  health: 1710
 ...
