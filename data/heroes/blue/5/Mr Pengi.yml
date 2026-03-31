@@ -22,6 +22,8 @@ types:
 - DoT on hit
 - Summoner 3
 image: https://i.imgur.com/BbxUIy4.jpg
+dtReleased: "2021-12-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   - 'Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 416
     Frost damage over 4 turns.'
   image: https://i.imgur.com/kNrkptI.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

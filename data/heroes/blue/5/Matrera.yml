@@ -21,4 +21,6 @@ passives:
   hardens. The next 4 times they receive damage, it is dropped to 1. This effect can''t
   be dispelled.'
 image: https://i.imgur.com/5yPwJb7.jpg
+dtReleased: "2022-12-29"
+dtModified: ""
 ...

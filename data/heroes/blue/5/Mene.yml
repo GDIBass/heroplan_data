@@ -24,4 +24,6 @@ passives:
 - 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 - 'Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage.'
 image: https://i.imgur.com/yERCkFp.jpg
+dtReleased: "2024-11-01"
+dtModified: ""
 ...

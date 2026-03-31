@@ -20,6 +20,8 @@ types:
 - Copy Special Skill 1
 - Hit 1
 image: https://i.imgur.com/eGy2uqe.jpg
+dtReleased: "2020-12-24"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   - Copy Special Skill 1
   - Hit 1
   image: https://i.imgur.com/aEGEu4Y.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

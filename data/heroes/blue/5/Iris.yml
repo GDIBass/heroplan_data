@@ -24,4 +24,6 @@ passives:
 - 'Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled
   from this character. This effect can activate only once per turn.'
 image: https://i.imgur.com/2NdyTvR.jpg
+dtReleased: "2022-02-01"
+dtModified: ""
 ...

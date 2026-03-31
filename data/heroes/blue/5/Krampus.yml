@@ -23,6 +23,8 @@ types:
 - Defense Buff Self
 - Attack Buff All
 image: https://i.imgur.com/9L71cZ8.jpg
+dtReleased: "2020-12-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +51,6 @@ costume:
   - 'Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 388
     Frost damage over 4 turns.'
   image: https://i.imgur.com/fkiwdOj.jpg
+  dtReleased: ""
+  dtModified: ""
 ...
