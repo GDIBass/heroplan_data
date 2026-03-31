@@ -26,4 +26,6 @@ passives:
   from receiving new status effect buffs.'
 - 'Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage.'
 image: https://imgur.com/1H7NBTN.jpg
+dtReleased: "2026-02-01"
+dtModified: ""
 ...

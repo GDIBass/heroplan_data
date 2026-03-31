@@ -22,4 +22,6 @@ passives:
 - 'Attack Ailment Reduction: Reduces the effect of status ailments affecting attack
   by 80%. The effect applies to this character and its allies in the battle.'
 image: https://i.imgur.com/MCqDFr1.jpg
+dtReleased: "2023-06-15"
+dtModified: ""
 ...

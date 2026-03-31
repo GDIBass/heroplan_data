@@ -24,4 +24,6 @@ passives:
 - 'Resist Attack Ailments: This character is immune to status ailments that affect
   attack.'
 image: https://i.imgur.com/HIow6YQ.jpg
+dtReleased: "2022-12-01"
+dtModified: ""
 ...

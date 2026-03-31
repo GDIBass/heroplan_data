@@ -32,7 +32,7 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * The caster get +19% mana generation for 2 turns.'
 image: https://i.imgur.com/Ns22n5S.jpg
-dtReleased: ""
+dtReleased: "2023-11-22"
 dtModified: "2026-03-22"
 costume:
   design: costume1

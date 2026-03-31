@@ -21,6 +21,8 @@ types:
 - Minion Dispels on hit
 - Defense Buff All
 image: https://i.imgur.com/U1AQZ8U.jpg
+dtReleased: "2022-07-18"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/zsLpVZ2.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

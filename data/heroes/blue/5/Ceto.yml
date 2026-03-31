@@ -35,7 +35,7 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/eqqisr9.jpg
-dtReleased: ""
+dtReleased: "2023-07-05"
 dtModified: "2026-03-22"
 costume:
   design: costume1
