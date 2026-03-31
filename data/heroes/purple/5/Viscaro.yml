@@ -29,4 +29,6 @@ passives:
 - 'Resist negative minion effects: This character is immune to incoming negative effects
   and damage from Minions.'
 image: https://i.imgur.com/tgvzp56.jpg
+dtReleased: "2022-01-01"
+dtModified: ""
 ...

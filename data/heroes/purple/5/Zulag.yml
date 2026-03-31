@@ -22,4 +22,6 @@ types:
 passives:
 - 'Resist Sand: This character is immune to status ailments that deal Sand damage.'
 image: https://i.imgur.com/oEPqMWI.jpg
+dtReleased: "2020-10-01"
+dtModified: ""
 ...

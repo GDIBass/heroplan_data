@@ -32,4 +32,6 @@ types:
 passives:
 - 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/2sWnlMn.jpg
+dtReleased: "2024-10-22"
+dtModified: ""
 ...

@@ -24,6 +24,8 @@ types:
 passives:
 - 'Resist mana reduction: This character is immune to mana reduction.'
 image: https://i.imgur.com/FioNeBy.jpg
+dtReleased: "2019-07-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +52,6 @@ costume:
   - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
     the newest status ailment from all allies.'
   image: https://i.imgur.com/qNMuMVA.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

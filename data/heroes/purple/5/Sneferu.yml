@@ -24,6 +24,8 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * Dispels the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/xRHanch.jpg
+dtReleased: "2023-05-11"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +55,6 @@ costume:
   - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
     a status ailment or negative stack.'
   image: https://imgur.com/3FfUfwE.jpg
+  dtReleased: ""
+  dtModified: ""
 ...
