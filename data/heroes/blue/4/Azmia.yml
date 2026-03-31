@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/VnnI4Om.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Tough-as-Nails Tavern Keeper
+aetherPower: damage_reduction
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +56,6 @@ costume:
   image: https://i.imgur.com/CmCVc5Z.jpg
   dtReleased: "2024-06-24"
   dtModified: ""
+  fancy_name: Dancing Tavern Keeper
+  aetherPower: special_armor
 ...

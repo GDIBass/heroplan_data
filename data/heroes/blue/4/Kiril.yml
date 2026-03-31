@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/OnjIJvT.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Master Brewer
+aetherPower: ailment_immunity
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +42,8 @@ costume:
   image: https://i.imgur.com/BwPG5qR.jpg
   dtReleased: "2020-05-18"
   dtModified: ""
+  fancy_name: Master Shredder
+  aetherPower: defense_up
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -60,6 +64,8 @@ costume2:
   image: https://i.imgur.com/s7WIRC3.jpg
   dtReleased: "2022-10-31"
   dtModified: ""
+  fancy_name: Master Wood Carver
+  aetherPower: heal_increase
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -85,6 +91,8 @@ costume3:
   image: https://i.imgur.com/PWTfo2c.jpg
   dtReleased: "2024-02-12"
   dtModified: ""
+  fancy_name: Toon Brewer
+  aetherPower: defense_up
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -111,6 +119,8 @@ costume4:
   image: https://i.imgur.com/gArugbH.jpg
   dtReleased: "2025-03-11"
   dtModified: ""
+  fancy_name: Brewer Vitrail
+  aetherPower: defense_up
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -135,4 +145,6 @@ costume5:
   image: https://imgur.com/2F6uZCQ.jpg
   dtReleased: "2026-03-12"
   dtModified: ""
+  fancy_name: Stylish Taster
+  aetherPower: defense_up
 ...

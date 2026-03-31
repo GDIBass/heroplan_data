@@ -23,6 +23,8 @@ passives:
 image: https://i.imgur.com/dQao9jX.jpg
 dtReleased: "2020-10-26"
 dtModified: ""
+fancy_name: The Monster
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -50,4 +52,6 @@ costume:
   image: https://i.imgur.com/HUrGPkv.jpg
   dtReleased: "2021-10-04"
   dtModified: ""
+  fancy_name: The Mobster
+  aetherPower: special_boost
 ...

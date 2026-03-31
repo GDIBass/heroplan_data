@@ -22,6 +22,8 @@ passives:
 image: https://i.imgur.com/f4cHfqp.jpg
 dtReleased: "2022-06-20"
 dtModified: ""
+fancy_name: Undying Champion
+aetherPower: dodge
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +46,6 @@ costume:
   image: https://imgur.com/Dbr4leC.jpg
   dtReleased: "2025-07-28"
   dtModified: ""
+  fancy_name: Fading Champion
+  aetherPower: attack_up
 ...

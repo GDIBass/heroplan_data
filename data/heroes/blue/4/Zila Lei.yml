@@ -22,6 +22,8 @@ passives:
 image: https://i.imgur.com/AZ3KQGe.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Octropod Assassin
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +46,6 @@ costume:
   image: https://i.imgur.com/uA3g8LR.jpg
   dtReleased: "2024-01-04"
   dtModified: ""
+  fancy_name: Octopod Dancer
+  aetherPower: counterattack
 ...

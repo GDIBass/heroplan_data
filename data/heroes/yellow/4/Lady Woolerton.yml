@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/qf9ikj1.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Mender of Springvale
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,6 +43,7 @@ costume:
   image: https://imgur.com/qh7po0H.jpg
   dtReleased: "2026-03-30"
   dtModified: ""
+  fancy_name: Coiffeuse of Springvale
   aetherPower: boosted_regen
   lb1:
     power: 850

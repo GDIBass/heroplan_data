@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/yQuuDkU.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Assassin of Teltoc
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,4 +38,6 @@ costume:
   image: https://i.imgur.com/SmImrcW.jpg
   dtReleased: "2023-01-26"
   dtModified: "2026-03-20"
+  fancy_name: Bone Collector of Teltoc
+  aetherPower: rage
 ...

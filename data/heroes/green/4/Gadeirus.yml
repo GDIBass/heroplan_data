@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/dGtM0Hw.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Watcher of Atlantis
+aetherPower: fiend_resist
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +43,6 @@ costume:
   image: https://i.imgur.com/MAOY5JJ.jpg
   dtReleased: "2022-05-02"
   dtModified: "2026-03-20"
+  fancy_name: Atlantean Sentinel
+  aetherPower: heal_increase
 ...

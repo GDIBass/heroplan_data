@@ -23,6 +23,8 @@ passives:
 image: https://i.imgur.com/9XxU54s.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Sworn Soldier
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +52,6 @@ costume:
   image: https://i.imgur.com/4PhQKkZ.jpg
   dtReleased: "2024-11-01"
   dtModified: ""
+  fancy_name: Sworn Champion
+  aetherPower: attack_up
 ...

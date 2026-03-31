@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/VkDdipF.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Lone Ghost
+aetherPower: special_armor
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +50,6 @@ costume:
   image: https://i.imgur.com/VZyVFDJ.jpg
   dtReleased: "2022-05-02"
   dtModified: "2026-03-20"
+  fancy_name: Lonesome Yurei
+  aetherPower: defense_up
 ...

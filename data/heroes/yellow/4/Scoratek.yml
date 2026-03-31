@@ -28,6 +28,8 @@ passives:
 image: https://i.imgur.com/cEv4g9a.jpg
 dtReleased: "2022-04-21"
 dtModified: "2026-03-20"
+fancy_name: Scarab Guard
+aetherPower: fiend_resist
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -60,4 +62,6 @@ costume:
   image: https://i.imgur.com/uNnOzl3.jpg
   dtReleased: "2025-01-20"
   dtModified: "2026-03-20"
+  fancy_name: Scarab Sentinel
+  aetherPower: boosted_regen
 ...

@@ -19,6 +19,8 @@ types:
 image: https://i.imgur.com/Js5mqAr.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Mischievous Kitty Cat
+aetherPower: special_armor
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,4 +40,6 @@ costume:
   image: https://i.imgur.com/ImaCQvI.jpg
   dtReleased: "2023-10-05"
   dtModified: ""
+  fancy_name: Malicious Kitty Cat
+  aetherPower: ailment_immunity
 ...

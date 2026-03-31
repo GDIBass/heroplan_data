@@ -34,6 +34,8 @@ passives:
 image: https://i.imgur.com/3R1f8Vh.jpg
 dtReleased: "2023-09-27"
 dtModified: "2026-03-22"
+fancy_name: Elemental Hoplite
+aetherPower: damage_reduction
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -69,4 +71,6 @@ costume:
   image: https://imgur.com/Dkny5By.jpg
   dtReleased: "2025-05-28"
   dtModified: "2026-03-22"
+  fancy_name: Elemental Colossus
+  aetherPower: dodge
 ...

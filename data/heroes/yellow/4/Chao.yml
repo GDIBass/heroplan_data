@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/akseq6D.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Master Tactician
+aetherPower: ailment_immunity
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +40,8 @@ costume:
   image: https://i.imgur.com/iiLBfC1.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: Master Conservator
+  aetherPower: dodge
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -56,6 +60,8 @@ costume2:
   image: https://i.imgur.com/AhEe43s.jpg
   dtReleased: "2023-10-30"
   dtModified: ""
+  fancy_name: Tiger Master
+  aetherPower: attack_up
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -78,6 +84,8 @@ costume3:
   image: https://i.imgur.com/SdLEIc0.jpg
   dtReleased: "2024-06-28"
   dtModified: ""
+  fancy_name: Toon Tactician
+  aetherPower: attack_up
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -100,4 +108,6 @@ costume4:
   image: https://imgur.com/s68xCDI.jpg
   dtReleased: "2025-07-16"
   dtModified: ""
+  fancy_name: Glass Tactician
+  aetherPower: ailment_immunity
 ...

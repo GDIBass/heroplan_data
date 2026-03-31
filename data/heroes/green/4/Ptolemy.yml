@@ -24,6 +24,8 @@ passives:
 image: https://i.imgur.com/3gaWwFG.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Elder Pharaoh
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +55,6 @@ costume:
   image: https://i.imgur.com/xEySNN6.jpg
   dtReleased: "2024-10-05"
   dtModified: ""
+  fancy_name: Elder Log
+  aetherPower: special_armor
 ...

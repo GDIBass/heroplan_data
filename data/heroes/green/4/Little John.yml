@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/nRRdXVw.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Mighty Brother
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,6 +41,8 @@ costume:
   image: https://i.imgur.com/OZPuj5P.jpg
   dtReleased: "2020-05-18"
   dtModified: ""
+  fancy_name: Stealthy Brother
+  aetherPower: special_armor
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -57,6 +61,8 @@ costume2:
   image: https://i.imgur.com/pBSZGi6.jpg
   dtReleased: "2023-10-30"
   dtModified: ""
+  fancy_name: Mighty Highlander
+  aetherPower: regen
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -79,6 +85,8 @@ costume3:
   image: https://i.imgur.com/8mWGMUp.jpg
   dtReleased: "2024-05-06"
   dtModified: ""
+  fancy_name: Mighty Toon
+  aetherPower: defense_up
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -101,4 +109,6 @@ costume4:
   image: https://imgur.com/8scCOJR.jpg
   dtReleased: "2025-05-10"
   dtModified: ""
+  fancy_name: Mighty Vitrail
+  aetherPower: defense_up
 ...

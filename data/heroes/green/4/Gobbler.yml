@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/Sc5af8g.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Chameleon General
+aetherPower: fiend_resist
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +43,6 @@ costume:
   image: https://i.imgur.com/ZFJ0073.jpg
   dtReleased: "2023-04-03"
   dtModified: "2026-03-20"
+  fancy_name: World Heavyweight Champion
+  aetherPower: ailment_immunity
 ...

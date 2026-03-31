@@ -22,6 +22,8 @@ passives:
 image: https://i.imgur.com/nafpwvj.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Halfling Adventurer
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -44,4 +46,6 @@ costume:
   image: https://i.imgur.com/piqOqpg.jpg
   dtReleased: "2024-05-23"
   dtModified: ""
+  fancy_name: Halfling Novelist
+  aetherPower: damage_reduction
 ...

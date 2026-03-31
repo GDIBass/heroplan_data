@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/rridBLP.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Raider from the Sandsea
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +40,8 @@ costume:
   image: https://i.imgur.com/t5Qcm7v.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: Assassin from the Sandsea
+  aetherPower: dodge
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -57,6 +61,8 @@ costume2:
   image: https://i.imgur.com/Zxh18lV.jpg
   dtReleased: "2023-10-30"
   dtModified: ""
+  fancy_name: Dancer from the Sandsea
+  aetherPower: special_boost
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -79,6 +85,8 @@ costume3:
   image: https://i.imgur.com/uv68SUQ.jpg
   dtReleased: "2024-08-11"
   dtModified: ""
+  fancy_name: Raider from the Toon Sea
+  aetherPower: attack_up
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -101,4 +109,6 @@ costume4:
   image: https://i.imgur.com/hfB6wCM.jpg
   dtReleased: "2025-09-07"
   dtModified: ""
+  fancy_name: Raider from the Glass Sea
+  aetherPower: attack_up
 ...

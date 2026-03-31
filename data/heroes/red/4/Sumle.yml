@@ -17,6 +17,8 @@ types:
 image: https://i.imgur.com/yxQi63p.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Burly Fire Giant
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 3/3/6/1
@@ -34,4 +36,6 @@ costume:
   image: https://i.imgur.com/BBcd7nx.jpg
   dtReleased: "2022-07-04"
   dtModified: ""
+  fancy_name: Unhallowed Fire Giant
+  aetherPower: ailment_immunity
 ...

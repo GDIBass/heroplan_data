@@ -27,4 +27,6 @@ passives:
 image: https://i.imgur.com/3Pho2hm.jpg
 dtReleased: "2024-04-25"
 dtModified: "2026-03-28"
+fancy_name: Frost Construct
+aetherPower: attack_up
 ...

@@ -1,3 +1,4 @@
+---
 name: Stonecleave
 source: season3
 family: helheim
@@ -9,19 +10,20 @@ defense: 622
 health: 1056
 skill: Dire Ghost
 effects:
-  - >-
-    Removes all status effects and stacks from the caster. Removes even status
-    effects and stacks that are otherwise undispellable or uncleansable.
-  - The caster shifts into Dire Ghost form.
-  - >-
-    While in Dire Ghost form, the caster automatically deals 175% damage against
-    a random enemy each turn.
-  - >-
-    While in Dire Ghost form, the caster can't gain mana and can't be healed by
-    Special Skills, but is immune to normal attacks, Special Skill attacks, 
-    status effects and stacks except the damage from enemies whose element is 
-    strong against the caster.
-  - Dire Ghost form lasts for 4 turns.
+- Removes all status effects and stacks from the caster. Removes even status effects
+  and stacks that are otherwise undispellable or uncleansable.
+- The caster shifts into Dire Ghost form.
+- While in Dire Ghost form, the caster automatically deals 175% damage against a random
+  enemy each turn.
+- While in Dire Ghost form, the caster can't gain mana and can't be healed by Special
+  Skills, but is immune to normal attacks, Special Skill attacks,  status effects
+  and stacks except the damage from enemies whose element is  strong against the caster.
+- Dire Ghost form lasts for 4 turns.
 types:
-  - Ghost
+- Ghost
 image: https://i.imgur.com/7VLylDF.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Relentless Draugr
+aetherPower: rage
+...

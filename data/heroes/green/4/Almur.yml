@@ -22,6 +22,8 @@ types:
 image: https://i.imgur.com/zT4IQhV.jpg
 dtReleased: "2020-05-28"
 dtModified: "2026-03-23"
+fancy_name: Shadowblade of Svartalfheim
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   image: https://i.imgur.com/G55eXUT.jpg
   dtReleased: "2023-03-13"
   dtModified: "2026-03-23"
+  fancy_name: Lord of Svartalfheim
+  aetherPower: dodge
 ...

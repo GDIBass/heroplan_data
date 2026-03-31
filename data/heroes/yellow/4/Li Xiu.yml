@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/flDK18I.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Wise General
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +38,8 @@ costume:
   image: https://i.imgur.com/6LRP9pF.jpg
   dtReleased: "2020-01-01"
   dtModified: ""
+  fancy_name: Ceremonial Assassin
+  aetherPower: special_armor
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -54,6 +58,8 @@ costume2:
   image: https://i.imgur.com/kSRi1Vn.jpg
   dtReleased: "2023-02-20"
   dtModified: ""
+  fancy_name: Fireworks General
+  aetherPower: damage_reduction
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -76,6 +82,8 @@ costume3:
   image: https://i.imgur.com/9y6lz7h.jpg
   dtReleased: "2024-02-12"
   dtModified: ""
+  fancy_name: Toon General
+  aetherPower: counterattack
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -98,6 +106,8 @@ costume4:
   image: https://i.imgur.com/uvZCfR2.jpg
   dtReleased: "2025-03-11"
   dtModified: ""
+  fancy_name: Glass General
+  aetherPower: counterattack
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -120,4 +130,6 @@ costume5:
   image: https://imgur.com/Z55KgeX.jpg
   dtReleased: "2026-02-14"
   dtModified: ""
+  fancy_name: Stylish General
+  aetherPower: counterattack
 ...

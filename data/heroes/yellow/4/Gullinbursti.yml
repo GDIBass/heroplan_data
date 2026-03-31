@@ -22,6 +22,8 @@ types:
 image: https://i.imgur.com/sx7Ooj7.jpg
 dtReleased: "2020-05-28"
 dtModified: "2026-03-20"
+fancy_name: Golden Boar
+aetherPower: heal_increase
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +47,6 @@ costume:
   image: https://i.imgur.com/0fW6S7f.jpg
   dtReleased: "2022-07-04"
   dtModified: "2026-03-20"
+  fancy_name: Unchained Boar
+  aetherPower: defense_up
 ...

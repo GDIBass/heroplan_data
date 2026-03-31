@@ -23,6 +23,8 @@ types:
 image: https://i.imgur.com/fZWbFxH.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Santa's Little Helper
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +52,6 @@ costume:
   image: https://imgur.com/YhMy2mY.jpg
   dtReleased: "2025-12-01"
   dtModified: ""
+  fancy_name: Santa's Bookkeeper
+  aetherPower: special_boost
 ...

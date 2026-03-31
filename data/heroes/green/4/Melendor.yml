@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/3rwM4W7.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Wisdom of the Forest
+aetherPower: ailment_immunity
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +40,8 @@ costume:
   image: https://i.imgur.com/5gxdGVM.jpg
   dtReleased: "2020-01-01"
   dtModified: ""
+  fancy_name: Mighty Wizard
+  aetherPower: special_armor
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -58,6 +62,8 @@ costume2:
   image: https://i.imgur.com/XVqcInX.jpg
   dtReleased: "2023-10-30"
   dtModified: ""
+  fancy_name: Party Wizard
+  aetherPower: heal_increase
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -82,6 +88,8 @@ costume3:
   image: https://i.imgur.com/3swBEW4.jpg
   dtReleased: "2024-01-22"
   dtModified: ""
+  fancy_name: Toon Wizard
+  aetherPower: special_armor
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -106,6 +114,8 @@ costume4:
   image: https://i.imgur.com/5Bt1nJk.jpg
   dtReleased: "2025-03-11"
   dtModified: ""
+  fancy_name: Vitrail of the Forest
+  aetherPower: special_armor
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -128,4 +138,6 @@ costume5:
   image: https://imgur.com/2xZL7uT.jpg
   dtReleased: "2026-03-12"
   dtModified: ""
+  fancy_name: Stylish Wizard
+  aetherPower: special_armor
 ...

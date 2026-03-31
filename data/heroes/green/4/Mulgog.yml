@@ -31,6 +31,8 @@ passives:
 image: https://i.imgur.com/b7HL0wq.jpg
 dtReleased: "2023-06-07"
 dtModified: "2026-03-22"
+fancy_name: Fishman Marauder
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -63,4 +65,6 @@ costume:
   image: https://imgur.com/X5IVjtR.jpg
   dtReleased: "2025-03-31"
   dtModified: "2026-03-22"
+  fancy_name: Fishman Bard
+  aetherPower: defense_up
 ...

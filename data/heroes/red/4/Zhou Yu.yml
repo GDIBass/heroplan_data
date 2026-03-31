@@ -21,6 +21,8 @@ types:
 image: https://i.imgur.com/KiDn1jL.jpg
 dtReleased: "2022-03-14"
 dtModified: ""
+fancy_name: Young Commander
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +49,6 @@ costume:
   image: https://i.imgur.com/Uiw1osb.jpg
   dtReleased: "2025-01-29"
   dtModified: ""
+  fancy_name: Raven Commander
+  aetherPower: special_boost
 ...

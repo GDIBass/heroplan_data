@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/iJhZeCK.jpg
 dtReleased: "2021-10-13"
 dtModified: ""
+fancy_name: Warden of the Castle
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
   image: https://i.imgur.com/f9WxEPE.jpg
   dtReleased: "2024-12-17"
   dtModified: ""
+  fancy_name: Warden of the Wolves
+  aetherPower: damage_reduction
 ...

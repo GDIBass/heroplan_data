@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/z8mBTci.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Wizard of Avalon
+aetherPower: ailment_immunity
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +42,6 @@ costume:
   image: https://i.imgur.com/VwvFKmH.jpg
   dtReleased: "2023-04-20"
   dtModified: ""
+  fancy_name: Astromancer of Avalon
+  aetherPower: damage_reduction
 ...

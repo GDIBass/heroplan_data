@@ -21,6 +21,8 @@ passives:
 image: https://i.imgur.com/dOWSQgd.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Ettin Smasher
+aetherPower: rage
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -42,4 +44,6 @@ costume:
   image: https://i.imgur.com/AXlFl5t.jpg
   dtReleased: "2024-04-25"
   dtModified: ""
+  fancy_name: Ettin Mason
+  aetherPower: attack_up
 ...
