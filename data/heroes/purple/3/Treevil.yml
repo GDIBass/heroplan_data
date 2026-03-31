@@ -1,3 +1,4 @@
+---
 name: Treevil
 source: avalon
 family: avalon
@@ -9,13 +10,16 @@ defense: 509
 health: 870
 skill: Archaic Dread
 effects:
-  - Deals 280% damage to all enemies.
-  - All enemies get -34% attack for 6 turns.
-  - All enemies get -34% defense for 6 turns.
-  - All enemies get -34% mana generation for 6 turns.
+- Deals 280% damage to all enemies.
+- All enemies get -34% attack for 6 turns.
+- All enemies get -34% defense for 6 turns.
+- All enemies get -34% mana generation for 6 turns.
 types:
-  - Hit All
-  - Attack Debuff
-  - Defense Debuff
-  - Mana Generation Debuff
+- Hit All
+- Attack Debuff
+- Defense Debuff
+- Mana Generation Debuff
 image: https://i.imgur.com/8ZDDLNG.jpg
+dtReleased: "2021-12-15"
+dtModified: ""
+...

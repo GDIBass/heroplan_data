@@ -1,3 +1,4 @@
+---
 name: Koda
 source: knights
 family: bear
@@ -9,13 +10,16 @@ defense: 637
 health: 1272
 skill: Feral Swing
 effects:
-  - Deals 400% damage to the target.
-  - The target gets -35% defense for 3 turns.
-  - The defense decreases by -10% each turn, up to -55%.
+- Deals 400% damage to the target.
+- The target gets -35% defense for 3 turns.
+- The defense decreases by -10% each turn, up to -55%.
 types:
-  - Hit 1
-  - Defense debuff
+- Hit 1
+- Defense debuff
 passives:
-  - >-
-    Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack.
+- 'Health Recovery on Buff Received: This character recovers 5% health when they receive
+  a buff or a positive stack.'
 image: https://i.imgur.com/QTVEQjn.jpg
+dtReleased: "2023-10-18"
+dtModified: ""
+...

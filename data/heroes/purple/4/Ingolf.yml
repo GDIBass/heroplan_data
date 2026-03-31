@@ -1,3 +1,4 @@
+---
 name: Ingolf
 source: villains
 family: villains
@@ -9,11 +10,15 @@ defense: 684
 health: 1268
 skill: Impairing Blade
 effects:
-  - Deals 280% damage to all enemies
-  - Reduces the duration of all enemies active buffs by 1 turn.
-  - All enemies get corrosive poison for 4 turns. Corrosive Poison deals 50
-    damage and lowers the target's mana generation by -9% each turn. Deals extra damage against heroes with Minions or Mega Minions.
+- Deals 280% damage to all enemies
+- Reduces the duration of all enemies active buffs by 1 turn.
+- All enemies get corrosive poison for 4 turns. Corrosive Poison deals 50 damage and
+  lowers the target's mana generation by -9% each turn. Deals extra damage against
+  heroes with Minions or Mega Minions.
 types:
-  - Hit 3
-  - Dot 3
+- Hit 3
+- Dot 3
 image: https://i.imgur.com/EjtbILF.jpg
+dtReleased: "2021-02-11"
+dtModified: ""
+...

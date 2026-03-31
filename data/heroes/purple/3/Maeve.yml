@@ -1,3 +1,4 @@
+---
 name: Maeve
 source: slayers
 family: slayer
@@ -9,15 +10,18 @@ defense: 509
 health: 794
 skill: Assassin's Blades
 effects:
-  - Deals 260% damage to the target and nearby enemies.
-  - The target and nearby enemies get -44% defenese for 4 turns.
-  - 'Stack (Max: 10): The caster gets +5% mana generation'
-  - 'Stack (Max: 10): The caster recovers 5 HP each turn'
+- Deals 260% damage to the target and nearby enemies.
+- The target and nearby enemies get -44% defenese for 4 turns.
+- 'Stack (Max: 10): The caster gets +5% mana generation'
+- 'Stack (Max: 10): The caster recovers 5 HP each turn'
 types:
-  - Hit 3
-  - Defense debuff
-  - Stack
+- Hit 3
+- Defense debuff
+- Stack
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character has innate resistance against
+  incoming damage from status effects.'
 image: https://i.imgur.com/vEp3yLs.jpg
+dtReleased: "2021-08-05"
+dtModified: ""
+...

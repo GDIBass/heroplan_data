@@ -28,6 +28,8 @@ passives:
   from Troops of stronger element.'
 - ' * Received elemental damage -10%'
 image: https://i.imgur.com/VT78aoB.jpg
+dtReleased: "2023-05-22"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +61,6 @@ costume:
     from Troops of stronger element.'
   - ' * Received elemental damage -25%'
   image: https://imgur.com/cjiqk4D.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

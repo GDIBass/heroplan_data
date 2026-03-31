@@ -1,3 +1,4 @@
+---
 name: Edd
 source: villains
 family: villains
@@ -9,8 +10,11 @@ defense: 450
 health: 723
 skill: Crazed Lunge
 effects:
-  - Deal 335% damage to the target.
-  - The target is immune to new status effect buffs for 3 turns.
+- Deal 335% damage to the target.
+- The target is immune to new status effect buffs for 3 turns.
 types:
-  - Hit 1
+- Hit 1
 image: https://i.imgur.com/OuUgvKY.jpg
+dtReleased: "2021-02-11"
+dtModified: ""
+...

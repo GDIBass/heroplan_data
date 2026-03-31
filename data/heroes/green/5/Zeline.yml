@@ -21,6 +21,8 @@ types:
 - Attack Debuff All
 - Dispeller All
 image: https://i.imgur.com/lrpsqzO.jpg
+dtReleased: "2018-02-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +47,6 @@ costume:
   - 'Cleanse on Special Skill: When this character casts their Special Skill, they
     cleanse the newest status ailment from all allies.'
   image: https://i.imgur.com/QJNIkdZ.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

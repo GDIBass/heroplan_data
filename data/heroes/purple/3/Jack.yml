@@ -1,3 +1,4 @@
+---
 name: Jack
 source: morlovia
 family: morlovia
@@ -9,12 +10,18 @@ defense: 450
 health: 752
 skill: Explosive O'lantern
 effects:
-  - Deals 200% damage to the target.
-  - The target receieves a Pumpkin Bomb. After 3 turns the Pumpkin Bomb explodes and deals 206 damage to the target and nearby targets. The Pumpkin Bomb also explodes when the target is defeated.
+- Deals 200% damage to the target.
+- The target receieves a Pumpkin Bomb. After 3 turns the Pumpkin Bomb explodes and
+  deals 206 damage to the target and nearby targets. The Pumpkin Bomb also explodes
+  when the target is defeated.
 types:
-  - Hit 1
-  - Bomb
+- Hit 1
+- Bomb
 passives:
-  - >-
-    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+- 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+  to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
+  has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/1pbBKiM.jpg
+dtReleased: "2020-10-26"
+dtModified: ""
+...
