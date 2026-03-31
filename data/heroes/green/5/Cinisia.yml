@@ -27,4 +27,6 @@ passives:
   attack is increased by 5% for enemy that is not of Nature element. In battles with
   multiple waves, this effect is refreshed at the beginning of each wave.'
 image: https://i.imgur.com/L1RhKDe.jpg
+dtReleased: "2023-07-01"
+dtModified: ""
 ...

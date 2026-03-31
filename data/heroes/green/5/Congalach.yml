@@ -19,6 +19,8 @@ passives:
 - 'Special Skill Damage Reduction: Received damage from Special Skills is  reduced
   by -20% for this character.'
 image: https://i.imgur.com/FKztylV.jpg
+dtReleased: "2022-01-27"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +43,6 @@ costume:
     Skill, all allies deal +70% increased normal attack and Special Skill damage against
     targets with boosted health for 4 turns.'
   image: https://i.imgur.com/llQVrNB.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

@@ -1,3 +1,4 @@
+---
 name: El Naddaha
 source: season5
 family: moon
@@ -9,18 +10,22 @@ defense: 797
 health: 1514
 skill: Luring Song
 effects:
-  - Deals 305% damage to the target and nearby enemies.
-  - The target and nearby enemies are immune to new status effect buff for 3 turns, and receive 200 damage for each attempted buff.
+- Deals 305% damage to the target and nearby enemies.
+- The target and nearby enemies are immune to new status effect buff for 3 turns,
+  and receive 200 damage for each attempted buff.
 types:
-  - Hit 3
-  - Buff Immunity
+- Hit 3
+- Buff Immunity
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * Dispels the latest dispellable buff from enemies.'
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 70% damage to all enemies.'
+- ' * Dispels the latest dispellable buff from enemies.'
 image: https://i.imgur.com/IdGJmNB.jpg
+dtReleased: "2022-04-21"
+dtModified: ""
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 1199
@@ -29,18 +34,23 @@ costume:
   health: 2254
   skill: Soothing Song
   effects:
-    - Deals 295% damage to the target and nearby enemies.
-    - The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 400 damage for each attempted buff.
+  - Deals 295% damage to the target and nearby enemies.
+  - The target and nearby enemies are immune to new status effect buffs for 3 turns,
+    and receive 400 damage for each attempted buff.
   types:
-    - Hit 3
-    - Buff Immunity
+  - Hit 3
+  - Buff Immunity
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 70% damage to all enemies.'
-    - ' * Dispels the latest dispellable buff from enemies.'
-    - >-
-      Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.
-    - >-
-      Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * Dispels the latest dispellable buff from enemies.'
+  - 'Guaranteed Effect on Special Skill: When this character casts their Special Skill,
+    any of their Passive Skills that grant extra effects on cast are guaranteed to
+    activate.'
+  - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
+    a status ailment or negative stack.'
   image: https://i.imgur.com/okhmn3A.jpg
+  dtReleased: ""
+  dtModified: ""
+...

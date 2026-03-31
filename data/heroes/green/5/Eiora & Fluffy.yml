@@ -19,6 +19,8 @@ types:
 - Hit 1
 - Health reduction on each Minion owner
 image: https://i.imgur.com/ISxaSzG.jpg
+dtReleased: "2021-06-10"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   - 'Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a
     new copy of the cleansed ailment is applied on a random enemy.'
   image: https://imgur.com/GDnuePZ.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

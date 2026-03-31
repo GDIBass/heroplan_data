@@ -21,6 +21,8 @@ passives:
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/jBtXWpz.jpg
+dtReleased: "2020-10-26"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +46,6 @@ costume:
     to steal the newest dispellable buff from a random enemy that has buffs. If no
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/ObnUcTT.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

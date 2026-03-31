@@ -20,6 +20,8 @@ types:
 - HoT All
 - MoT All
 image: https://i.imgur.com/0IebpZg.jpg
+dtReleased: "2017-10-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +46,6 @@ costume:
   - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
     the newest status ailment from all allies.'
   image: https://i.imgur.com/qgThGvZ.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

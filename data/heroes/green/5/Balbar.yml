@@ -27,4 +27,6 @@ passives:
 - 'Health recovery on buff received: This character recovers 5% health when they receive
   a buff or a positive stack.'
 image: https://i.imgur.com/lTYrovf.jpg
+dtReleased: "2021-11-01"
+dtModified: ""
 ...

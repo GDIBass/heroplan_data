@@ -20,6 +20,8 @@ types:
 - Elemental Defense Debuff 3
 - Dispeller 3
 image: https://i.imgur.com/YnTLDcR.jpg
+dtReleased: "2018-12-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
   - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
     the newest status ailment from all allies.'
   image: https://i.imgur.com/93B4oB9.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

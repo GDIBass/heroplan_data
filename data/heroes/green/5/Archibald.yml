@@ -27,4 +27,6 @@ passives:
 - 'Resist mana reduction: This character is immune to mana reduction.'
 - 'Guard Rally: Every 4 turns, removes all Growth effects from all enemies.'
 image: https://i.imgur.com/zBBsCSR.jpg
+dtReleased: "2025-03-14"
+dtModified: ""
 ...

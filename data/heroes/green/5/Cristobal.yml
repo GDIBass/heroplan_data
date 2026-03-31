@@ -26,6 +26,8 @@ passives:
   a 50% chance to give -25% mana generation for 3 turns to all their enemies. If the
   Special Skill is fully charged, the chance is 100%.'
 image: https://i.imgur.com/H1Awz0g.jpg
+dtReleased: "2021-09-15"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +55,6 @@ costume:
     If the Special Skill is fully charged, the chance is 100%.'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/1pcXfJf.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

@@ -1,3 +1,4 @@
+---
 name: Bonzo
 source: festival
 family: bard
@@ -9,18 +10,19 @@ defense: 1069
 health: 1932
 skill: Odd Drum Roll
 effects:
-  - Rearranges the enemy positions randomly.
-  - Deals 250% damage to all enemies.
-  - Damage bypasses target's Minions.
-  - The attack bypasses defensive buffs. (This includes counterattacks)
+- Rearranges the enemy positions randomly.
+- Deals 250% damage to all enemies.
+- Damage bypasses target's Minions.
+- The attack bypasses defensive buffs. (This includes counterattacks)
 types:
-  - Reposition
-  - Hit all
-  - Bypass Minions
-  - Bypass defensive buffs
+- Reposition
+- Hit all
+- Bypass Minions
+- Bypass defensive buffs
 passives:
-  - >-
-    Quick Tempo: Ballad. All Ballads cast by enemies only last for 1 turn.
-  - >-
-    Quick Tempo: Dance. All Dances cast by enemies only last for 1 turn.
+- 'Quick Tempo: Ballad. All Ballads cast by enemies only last for 1 turn.'
+- 'Quick Tempo: Dance. All Dances cast by enemies only last for 1 turn.'
 image: https://i.imgur.com/jSnGpgr.jpg
+dtReleased: "2024-11-14"
+dtModified: ""
+...

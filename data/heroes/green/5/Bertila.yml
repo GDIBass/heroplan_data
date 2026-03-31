@@ -25,4 +25,6 @@ passives:
 - 'Mana on Minion Death: This character gains a small amount of mana when a Minion
   owned by them is destroyed.'
 image: https://i.imgur.com/VlS3IND.jpg
+dtReleased: "2021-01-01"
+dtModified: ""
 ...
