@@ -32,7 +32,7 @@ costume:
   types:
   - Hit 1
   image: https://i.imgur.com/gwzMUaT.jpg
-  dtReleased: ""
+  dtReleased: "2020-05-18"
   dtModified: ""
 costume2:
   design: costume2
@@ -52,7 +52,7 @@ costume2:
   - Hit 1
   - Minion Blocking 1
   image: https://i.imgur.com/I8cTetD.jpg
-  dtReleased: ""
+  dtReleased: "2023-06-12"
   dtModified: ""
 costume3:
   design: toon
@@ -74,7 +74,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/V3r9sPS.jpg
-  dtReleased: ""
+  dtReleased: "2023-10-30"
   dtModified: ""
 costume4:
   design: glass
@@ -96,7 +96,7 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/fdUWQiQ.jpg
-  dtReleased: ""
+  dtReleased: "2024-12-25"
   dtModified: ""
 costume5:
   design: stylish
@@ -118,6 +118,6 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/ViZ7Y7x.jpg
-  dtReleased: ""
+  dtReleased: "2026-01-07"
   dtModified: ""
 ...

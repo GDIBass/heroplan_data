@@ -41,6 +41,6 @@ costume:
   - 'Ability: Increased Status Effect Duration Chance to increase the duration of
     cast status effects. * +1 turn: 75% * +2 turns: 25%'
   image: https://i.imgur.com/f9WxEPE.jpg
-  dtReleased: ""
+  dtReleased: "2024-12-17"
   dtModified: ""
 ...
