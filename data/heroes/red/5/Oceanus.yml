@@ -20,6 +20,8 @@ types:
 - Titan Attack Buff All
 - Defense Buff All
 image: https://i.imgur.com/BZVWKzM.jpg
+dtReleased: "2022-06-27"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +42,6 @@ costume:
   - Titan Attack Buff All
   - Defense Buff All
   image: https://imgur.com/0rCfFEu.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

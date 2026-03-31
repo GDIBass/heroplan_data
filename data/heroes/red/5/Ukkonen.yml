@@ -25,6 +25,8 @@ passives:
 - 'Power of Sisu: When this character starts a turn with low health for the first
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/tAIchka.jpg
+dtReleased: "2023-08-07"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   - 'Power of Sisu: When this character starts a turn with low health for the first
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://i.imgur.com/0QCrvIl.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

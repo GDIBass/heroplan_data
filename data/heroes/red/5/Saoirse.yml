@@ -23,6 +23,8 @@ passives:
 - 'Resist Damage from Status Effects: This character is immune to incoming damage
   from status effects and stacks.'
 image: https://i.imgur.com/pHj3rld.jpg
+dtReleased: "2021-08-05"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +50,6 @@ costume:
   - 'Bleed on Special Skill: When this character casts their Special Skill, all enemies
     receive 452 Bleed damage over 4 turns.'
   image: https://i.imgur.com/yHVhyhO.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

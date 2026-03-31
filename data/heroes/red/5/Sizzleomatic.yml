@@ -36,4 +36,6 @@ passives:
 - ' * The Killer Bot Minion recovers 5% health for its owner at the end of each turn.'
 - ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
 image: https://imgur.com/5bw98dE.jpg
+dtReleased: "2025-12-23"
+dtModified: ""
 ...

@@ -23,4 +23,6 @@ passives:
   they receive a status ailment or a negative stack.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/CooQRgw.jpg
+dtReleased: "2022-08-01"
+dtModified: ""
 ...

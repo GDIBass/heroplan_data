@@ -26,4 +26,6 @@ passives:
   mana is reduced.'
 - 'Resist Water: This character is immune to status ailments that deal Water damage.'
 image: https://i.imgur.com/vzzuVpu.jpg
+dtReleased: "2021-05-01"
+dtModified: ""
 ...

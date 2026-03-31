@@ -35,6 +35,8 @@ passives:
   chance to give 10% mana to all allies. If the Special Skill is fully charged, the
   chance is 100%.'
 image: https://i.imgur.com/0vSBWSh.jpg
+dtReleased: "2023-05-03"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -73,4 +75,6 @@ costume:
     get two stacks. An enemy can have up to 10 stacks.'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/QG8aRPS.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

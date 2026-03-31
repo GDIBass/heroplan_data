@@ -23,4 +23,6 @@ passives:
   attack.'
 - 'Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage.'
 image: https://i.imgur.com/EoY0Pni.jpg
+dtReleased: "2021-10-01"
+dtModified: ""
 ...

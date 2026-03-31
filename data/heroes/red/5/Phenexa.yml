@@ -23,4 +23,6 @@ passives:
 - 'Revival Chance Reduction: The chance of revival is reduced for all enemies in the
   battle. The chance is 20% of the original value.'
 image: https://i.imgur.com/LzmbqjK.jpg
+dtReleased: "2022-08-11"
+dtModified: ""
 ...

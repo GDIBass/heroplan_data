@@ -24,4 +24,6 @@ passives:
 - ' * Deals 90% damage to all enemies.'
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/O681MYE.jpg
+dtReleased: "2024-01-08"
+dtModified: ""
 ...
