@@ -1,25 +1,28 @@
+---
 name: Helo
-class: Druid
 source: season4
 family: underwild
 speed: Average
+class: Druid
 power: 478
 attack: 457
 defense: 505
 health: 799
 skill: Healthiest Catch
 effects:
-  - Recovers 32% health for all allies.
-  - Cleanses status ailments from all allies.
+- Recovers 32% health for all allies.
+- Cleanses status ailments from all allies.
 types:
-  - Heal All
-  - Cleanse All
+- Heal All
+- Cleanse All
 passives:
-  - >-
-    Increase Buff Duration: Duration of the first 3 buff this hero receives 
-    from Special Skills is increased by 1 turn.
+- 'Increase Buff Duration: Duration of the first 3 buff this hero receives  from Special
+  Skills is increased by 1 turn.'
 image: https://i.imgur.com/e1OFOms.jpg
+dtReleased: "2021-03-25"
+dtModified: ""
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 488
@@ -28,13 +31,15 @@ costume:
   health: 814
   skill: Fishiest Pastry
   effects:
-    - All allies regenerate 411 HP over 3 turns.
-    - Cleanses status ailments from all allies.
+  - All allies regenerate 411 HP over 3 turns.
+  - Cleanses status ailments from all allies.
   types:
-    - HoT
-    - Cleanser
+  - HoT
+  - Cleanser
   passives:
-    - >-
-      Increase Buff Duration: Duration of the first 3 buff this hero receives 
-      from Special Skills is increased by 1 turn.
+  - 'Increase Buff Duration: Duration of the first 3 buff this hero receives  from
+    Special Skills is increased by 1 turn.'
   image: https://i.imgur.com/c9F3Wjn.jpg
+  dtReleased: ""
+  dtModified: ""
+...

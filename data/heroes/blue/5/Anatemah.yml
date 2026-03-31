@@ -1,3 +1,4 @@
+---
 name: Anatemah
 source: astral
 family: astraldemons
@@ -9,19 +10,26 @@ defense: 1361
 health: 2263
 skill: Astral Orb
 effects:
-  - Deals 400% damage to 5 random enemies.
-  - Hit enemies become afflicted with Astral Orb.
-  - While afflicted with the Astral Orb the Owner can't gain new Buffs.
-  - Astral Orbs explode in 3 turns dealing 450 damage to their owner.
-  - If the Astral Orb is cleansed, the owner receives Resonance for 3 turns. Each turn, Resonance deals 769 damage to the afflicted enemies and 384 damage to nearby enemies. (If an Astal Orb is replaced by a new Astral Orb, it explodes. This effect can happen up to 2 times per turn.)
+- Deals 400% damage to 5 random enemies.
+- Hit enemies become afflicted with Astral Orb.
+- While afflicted with the Astral Orb the Owner can't gain new Buffs.
+- Astral Orbs explode in 3 turns dealing 450 damage to their owner.
+- If the Astral Orb is cleansed, the owner receives Resonance for 3 turns. Each turn,
+  Resonance deals 769 damage to the afflicted enemies and 384 damage to nearby enemies.
+  (If an Astal Orb is replaced by a new Astral Orb, it explodes. This effect can happen
+  up to 2 times per turn.)
 types:
-  - Hit random 5
-  - Astral Orb to hit enemies
+- Hit random 5
+- Astral Orb to hit enemies
 passives:
-  - >-
-    Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.
-  - >-
-    Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.
-  - >-
-    Perfect Accuracy: This character's Special Skill never misses its targets.
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  battle.'
+- 'Resist Negative Mana Effects: This character is immune to mana reductions, as well
+  as status ailments and negative stacks that affect mana generation. Applies also
+  to effects and status ailments that block or steal mana.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://imgur.com/VFI2yDa.jpg
+dtReleased: "2025-11-02"
+dtModified: ""
+...

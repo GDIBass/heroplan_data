@@ -33,6 +33,8 @@ passives:
 - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
 image: https://i.imgur.com/MVPiXPz.jpg
+dtReleased: "2024-12-28"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -67,4 +69,6 @@ costume:
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
     is exhausted when the Core is activated.'
   image: https://imgur.com/MIeBXAK.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

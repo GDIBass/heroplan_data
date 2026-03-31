@@ -21,6 +21,8 @@ types:
 - Defense Buff All
 - Heal on damage dealt All
 image: https://i.imgur.com/BzRTcqJ.jpg
+dtReleased: "2018-10-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
   - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
     the newest status ailment from all allies.'
   image: https://i.imgur.com/JN0Ddwo.jpg
+  dtReleased: ""
+  dtModified: ""
 ...
