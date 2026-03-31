@@ -26,4 +26,6 @@ passives:
 - 'Resist Attack Status Effects: This character is immune to all status effects and
   stacks that effect attack. This includes status effect buffs.'
 image: https://i.imgur.com/jTxW191.jpg
+dtReleased: "2022-03-01"
+dtModified: ""
 ...

@@ -36,4 +36,6 @@ passives:
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://imgur.com/rTKzhQE.jpg
+dtReleased: "2025-05-22"
+dtModified: ""
 ...

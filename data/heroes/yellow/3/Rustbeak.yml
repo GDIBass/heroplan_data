@@ -27,6 +27,6 @@ passives:
 - '* The healing is scaled by the amount of charge in the Core. All charge is exhausted
   when the Core is activated.'
 image: https://i.imgur.com/OFz97hb.jpg
-dtReleased: ""
+dtReleased: "2024-04-25"
 dtModified: "2026-03-20"
 ...

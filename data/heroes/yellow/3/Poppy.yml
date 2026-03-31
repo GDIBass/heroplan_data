@@ -20,7 +20,7 @@ passives:
 - 'Increased Specail Skill Damage: This first time this character cast a  Special
   Skill that deals damage an additional 30% is added to its power.'
 image: https://i.imgur.com/pxiscDG.jpg
-dtReleased: ""
+dtReleased: "2021-03-25"
 dtModified: "2026-03-20"
 costume:
   design: costume1

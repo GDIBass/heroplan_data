@@ -23,7 +23,7 @@ passives:
 - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
 - ' * Cleanses the latest cleansable status ailments from all allies.'
 image: https://i.imgur.com/nkaWucV.jpg
-dtReleased: ""
+dtReleased: "2022-04-21"
 dtModified: "2026-03-20"
 costume:
   design: costume1

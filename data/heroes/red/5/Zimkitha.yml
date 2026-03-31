@@ -20,6 +20,8 @@ types:
 - Attack Buff All
 - Cleanser All
 image: https://i.imgur.com/ZnoCx4D.jpg
+dtReleased: "2018-11-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/M65Mn9a.jpg
+  dtReleased: ""
+  dtModified: ""
 ...
