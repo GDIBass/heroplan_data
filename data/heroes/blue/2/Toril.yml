@@ -1,14 +1,21 @@
+---
 name: Toril
-class: Barbarian
 source: season1
+family: classic
 speed: Average
+class: Barbarian
 power: 333
 attack: 310
 defense: 292
 health: 703
 skill: Attack Rally
 effects:
-  - All allies get +48% attack for 4 turns
+- All allies get +48% attack for 4 turns
 types:
-  - Attack Buff
+- Attack Buff
 image: https://i.imgur.com/IzIi9fO.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Veteran Battler
+aetherPower: defense_up
+...

@@ -1,16 +1,23 @@
+---
 name: Nash
-class: Wizard
 source: season1
+family: classic
 speed: Fast
+class: Wizard
 power: 335
 attack: 331
 defense: 343
 health: 562
 skill: Paralyzing Smash
 effects:
-  - Deals 195% damage to the target
-  - The target gets -34% attack for 6 turns
+- Deals 195% damage to the target
+- The target gets -34% attack for 6 turns
 types:
-  - Hit 1
-  - Attack Debuff
+- Hit 1
+- Attack Debuff
 image: https://i.imgur.com/HfePtEe.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Smith's Apprentice
+aetherPower: attack_up
+...

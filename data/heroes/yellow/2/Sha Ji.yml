@@ -1,14 +1,21 @@
+---
 name: Sha Ji
-class: Cleric
 source: season1
+family: classic
 speed: Average
+class: Cleric
 power: 334
 attack: 275
 defense: 345
 health: 693
 skill: Healing Chant
 effects:
-  - Recovers 28% health for all allies
+- Recovers 28% health for all allies
 types:
-  - Healer
+- Healer
 image: https://i.imgur.com/OCarZIF.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Leaf of Bamboo
+aetherPower: defense_up
+...

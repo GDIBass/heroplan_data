@@ -1,14 +1,21 @@
+---
 name: Hou
-class: Monk
 source: season1
+family: classic
 speed: Average
+class: Monk
 power: 336
 attack: 366
 defense: 341
 health: 488
 skill: Defensive Tactics
 effects:
-  - All allies get +63% defense for 4 turns
+- All allies get +63% defense for 4 turns
 types:
-  - Defense Buff
+- Defense Buff
 image: https://i.imgur.com/twn2sqC.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Monkey Warrior
+aetherPower: special_armor
+...

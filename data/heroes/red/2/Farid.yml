@@ -1,14 +1,21 @@
+---
 name: Farid
-class: Barbarian
 source: season1
+family: classic
 speed: Average
+class: Barbarian
 power: 337
 attack: 350
 defense: 288
 health: 635
 skill: Fierce Slash
 effects:
-  - Deals 115% damage to all enemies
+- Deals 115% damage to all enemies
 types:
-  - Hit All
+- Hit All
 image: https://i.imgur.com/MeeFayZ.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Rugged Brawler
+aetherPower: attack_up
+...
