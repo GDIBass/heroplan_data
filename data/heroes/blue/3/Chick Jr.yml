@@ -1,3 +1,4 @@
+---
 name: Chick Jr
 source: springvale
 family: springvale
@@ -9,8 +10,12 @@ defense: 413
 health: 703
 skill: Compact Lance
 effects:
-  - Deals 180% damage to all enemies
-  - The caster gets -20% attack for 3 turns. This effect can't be cleansed.
+- Deals 180% damage to all enemies
+- The caster gets -20% attack for 3 turns. This effect can't be cleansed.
 types:
-  - Hit All
+- Hit All
+- Attack Debuff Self
 image: https://i.imgur.com/3LZJ0cl.jpg
+dtReleased: ""
+dtModified: "2026-03-31"
+...

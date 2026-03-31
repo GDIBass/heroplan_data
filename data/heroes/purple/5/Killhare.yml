@@ -17,14 +17,16 @@ types:
 - Hit All
 - Defense Debuff All allies except Self
 image: https://i.imgur.com/WU18HC0.jpg
+dtReleased: ""
+dtModified: "2026-03-31"
 costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Druid
-  power: 936
-  attack: 879
-  defense: 924
-  health: 1752
+  power: 1021
+  attack: 973
+  defense: 1039
+  health: 1892
   skill: Championship Carrot
   effects:
   - Deals 330% damage to all enemies.
@@ -33,5 +35,10 @@ costume:
   types:
   - Hit All
   - Attack Debuff All allies except Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/vAkZp36.jpg
+  dtReleased: ""
+  dtModified: "2026-03-31"
 ...

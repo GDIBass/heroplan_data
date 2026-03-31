@@ -18,17 +18,21 @@ effects:
 types:
 - Hit All
 - Buff Immunity Debuff All
-- Damage on attempted buff
+- Damage on each attempted buff
 - Blind Self
+passives:
+- ""
 image: https://i.imgur.com/LIKBIhe.jpg
+dtReleased: ""
+dtModified: "2026-03-31"
 costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Druid
-  power: 1029
-  attack: 1062
-  defense: 993
-  health: 1822
+  power: 1124
+  attack: 1175
+  defense: 1117
+  health: 1968
   skill: Vigorous Villanelle
   effects:
   - Deals 240% damage to all enemies.
@@ -39,6 +43,12 @@ costume:
   types:
   - Hit All
   - Buff Immunity Debuff
-  - Self Blind
+  - Damage on each attempted buff
+  - Blind Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/NhdULEq.jpg
+  dtReleased: ""
+  dtModified: "2026-03-31"
 ...

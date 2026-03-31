@@ -1,34 +1,45 @@
+---
 name: Jack O'Hare
-class: Ranger
 source: springvale
+family: springvale
 speed: Fast
+class: Ranger
 power: 648
 attack: 743
 defense: 603
 health: 960
 skill: Reckless Slash
 effects:
-  - Deal 180% damage to all enemies
-  - The caster gets -20% defense for 3 turns. This effect can't be cleansed
+- Deal 180% damage to all enemies
+- The caster gets -20% defense for 3 turns. This effect can't be cleansed
 types:
-  - Hit All
-family: springvale
+- Hit All
+- Defense Debuff Self
 image: https://i.imgur.com/KJoqPtw.jpg
+dtReleased: ""
+dtModified: "2026-03-31"
 costume:
+  design: costume1
+  bonuses: 5/5/10/5
   class: Paladin
-  power: 669
-  attack: 708
-  defense: 651
-  health: 1101
+  power: 783
+  attack: 853
+  defense: 784
+  health: 1288
   skill: Egg Barrage
   effects:
-    - Deals 230% damage to the target.
-    - The attack chains through all enemies who are adjacent to any hit enemy.
-    - >-
-      All allies except the caster get -20% attack for 3 turns. This effect
-      can't be dispelled.
+  - Deals 230% damage to the target.
+  - The attack chains through all enemies who are adjacent to any hit enemy.
+  - All allies except the caster get -20% attack for 3 turns. This effect can't be
+    dispelled.
   types:
-    - Hit all
-    - Chain
+  - Hit All
+  - Chain hit
+  - Attack Debuff All allies except Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/mwBA0kR.jpg
-  bonuses: 3/3/6/1
+  dtReleased: ""
+  dtModified: "2026-03-31"
+...

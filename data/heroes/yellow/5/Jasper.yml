@@ -20,14 +20,16 @@ types:
 - Critical Chance Buff All
 - Mana Generation Debuff Self
 image: https://i.imgur.com/Fqmw2ti.jpg
+dtReleased: ""
+dtModified: "2026-03-31"
 costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Monk
-  power: 1033
-  attack: 946
-  defense: 1047
-  health: 2033
+  power: 1128
+  attack: 1047
+  defense: 1178
+  health: 2196
   skill: Dreams of Nourishment
   effects:
   - All allies regenerate 1450 HP over 5 turns.
@@ -39,5 +41,10 @@ costume:
   - Attack Buff All
   - Critical Chance Buff All
   - Mana Generation Debuff Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all allies get:
+    Stack (Max: 10): Recovers 30 HP each turn.'
   image: https://i.imgur.com/iHZz8KB.jpg
+  dtReleased: ""
+  dtModified: "2026-03-31"
 ...

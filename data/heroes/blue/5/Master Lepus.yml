@@ -16,14 +16,16 @@ types:
 - Hit 3
 - Defense Debuff Self
 image: https://i.imgur.com/Ti2FM1v.jpg
+dtReleased: ""
+dtModified: "2026-03-31"
 costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 904
-  attack: 944
-  defense: 847
-  health: 1513
+  power: 986
+  attack: 1044
+  defense: 953
+  health: 1634
   skill: Rift Blade
   effects:
   - Deals 280% damage to all enemies.
@@ -31,5 +33,10 @@ costume:
   types:
   - Hit All
   - Mana Generation Debuff Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/aLTsGWG.jpg
+  dtReleased: ""
+  dtModified: "2026-03-31"
 ...
