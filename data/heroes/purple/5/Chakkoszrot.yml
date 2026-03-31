@@ -25,4 +25,6 @@ passives:
 - 'Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns
   when this character receives a status ailment or a negative stack.'
 image: https://i.imgur.com/tvzGcka.jpg
+dtReleased: "2021-08-01"
+dtModified: ""
 ...

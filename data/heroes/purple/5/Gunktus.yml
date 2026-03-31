@@ -33,4 +33,6 @@ passives:
 - 'Slime Minion Split: If this character loses more than 25% of max health at once,
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://i.imgur.com/gYtmXoK.jpg
+dtReleased: "2024-06-18"
+dtModified: ""
 ...

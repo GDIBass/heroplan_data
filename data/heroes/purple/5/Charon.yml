@@ -30,4 +30,6 @@ passives:
   defense. Applies also to status ailments that affect elemental defense.'
 - 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/eSyywNh.jpg
+dtReleased: "2022-11-16"
+dtModified: ""
 ...

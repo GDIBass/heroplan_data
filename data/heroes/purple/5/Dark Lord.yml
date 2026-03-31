@@ -21,6 +21,8 @@ types:
 - DoT 3
 - Mana Generation Debuff 3
 image: https://i.imgur.com/ja50n6G.jpg
+dtReleased: "2021-02-11"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +52,6 @@ costume:
   - 'Curse on Special Skill: When this character casts their Special Skill, all enemies
     receive 473 Curse damage over 4 turns, starting low and increasing every turn.'
   image: https://i.imgur.com/Mz4axni.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

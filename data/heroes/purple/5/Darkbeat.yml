@@ -1,3 +1,4 @@
+---
 name: Darkbeat
 source: festival
 family: bard
@@ -9,16 +10,24 @@ defense: 1219
 health: 2181
 skill: Struck By Thunder
 effects:
-  - Deals 355% damage to all enemies.
-  - Reduces the duration of all allies' active status ailments by 2 turns. (The duration modification affects both cleansable and uncleasable effects. If the duration of any effect is reduced to zero the effect is considered as having expired naturally.)
-  - Reduces the duration of all enemies' active buffs by 2 turns.(The duration modification affects both cleansable and uncleasable effects. If the duration of any effect is reduced to zero the effect is considered as having expired naturally.)
-  - All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself.)
+- Deals 355% damage to all enemies.
+- Reduces the duration of all allies' active status ailments by 2 turns. (The duration
+  modification affects both cleansable and uncleasable effects. If the duration of
+  any effect is reduced to zero the effect is considered as having expired naturally.)
+- Reduces the duration of all enemies' active buffs by 2 turns.(The duration modification
+  affects both cleansable and uncleasable effects. If the duration of any effect is
+  reduced to zero the effect is considered as having expired naturally.)
+- All allies are immune to buff dispels and reallocations for 4 turns. (The immunity
+  also includes this effect itself.)
 types:
-  - Hit All
-  - Reduce Ailments Duration by 2
-  - Reduce Buffs Duration by 2
-  - Buff Dispel immunity All
+- Hit All
+- Reduce Ailments Duration by 2
+- Reduce Buffs Duration by 2
+- Buff Dispel immunity All
 passives:
-  - >-
-    Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value.
+- 'Revival Chance Reduction: The chance of revival is reduced for all enemies in the
+  battle. The chance is 20% of the original value.'
 image: https://imgur.com/ypDGkpC.jpg
+dtReleased: "2025-04-09"
+dtModified: ""
+...

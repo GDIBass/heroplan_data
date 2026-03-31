@@ -28,4 +28,6 @@ passives:
 - 'Health Recovery on Status Ailment Received: This character recovers 10% health
   when they receive a status ailment or negative stack.'
 image: https://i.imgur.com/mDRIe3A.jpg
+dtReleased: "2024-03-01"
+dtModified: ""
 ...
