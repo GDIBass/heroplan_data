@@ -17,6 +17,8 @@ types:
 - Hit 3
 - Weaker Defense 3
 image: https://i.imgur.com/evikfGP.jpg
+dtReleased: "2020-03-26"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -35,4 +37,6 @@ costume:
   - Hit 3
   - Weaker Defense 3
   image: https://i.imgur.com/aH5vllh.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

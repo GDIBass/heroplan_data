@@ -27,4 +27,6 @@ passives:
 - 'Stacking Attack On Damage Received: When this character receives damage from Special
   Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.'
 image: https://imgur.com/25R91G2.jpg
+dtReleased: "2025-05-18"
+dtModified: ""
 ...

@@ -26,4 +26,6 @@ passives:
 - 'Resist Defense Ailments: This character is immune to status ailments that affect
   defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/ltyTaFe.jpg
+dtReleased: "2022-05-01"
+dtModified: ""
 ...

@@ -18,6 +18,8 @@ types:
 - Hit 3
 - Heal Self
 image: https://i.imgur.com/1PxVmlq.jpg
+dtReleased: "2017-09-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,4 +41,6 @@ costume:
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/dt3i5jN.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

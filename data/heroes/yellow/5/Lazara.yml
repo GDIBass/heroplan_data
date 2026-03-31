@@ -29,6 +29,6 @@ passives:
 - 'Damage on Attempted Enemy Cleanse: When an enemy attempts to cleanse by using Special
   Skill, all enemies receive 300 damage. This effect can activate only once per turn.'
 image: https://i.imgur.com/mxOSRGe.jpg
-dtReleased: ""
+dtReleased: "2024-03-08"
 dtModified: "2026-03-20"
 ...

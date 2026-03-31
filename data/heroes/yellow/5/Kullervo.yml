@@ -23,7 +23,7 @@ passives:
 - 'Power of Sisu: When this character starts a turn with low health for the first
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/tmvOfKK.jpg
-dtReleased: ""
+dtReleased: "2022-06-20"
 dtModified: "2026-03-20"
 costume:
   design: costume1

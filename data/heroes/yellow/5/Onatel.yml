@@ -23,4 +23,6 @@ passives:
 - 'Resist Blind: This character is immune to status ailments that affect accuracy.
   Doesn''t apply to original status effects from allies.'
 image: https://i.imgur.com/wCLflfr.jpg
+dtReleased: "2019-01-01"
+dtModified: ""
 ...

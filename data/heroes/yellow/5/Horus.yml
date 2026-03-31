@@ -24,7 +24,7 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/0Yedhet.jpg
-dtReleased: ""
+dtReleased: "2022-05-19"
 dtModified: "2026-03-20"
 costume:
   design: costume1

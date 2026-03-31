@@ -19,6 +19,8 @@ types:
 - Hit All
 - Mana Generation Buff All
 image: https://i.imgur.com/WpdZnYI.jpg
+dtReleased: "2020-11-26"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,4 +40,6 @@ costume:
   - Hit All
   - Mana Generation Buff All
   image: https://i.imgur.com/guLxDJt.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

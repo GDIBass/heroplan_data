@@ -28,4 +28,6 @@ types:
 passives:
 - 'Decreased Healing: All enemies get -50% healing.'
 image: https://imgur.com/spHpfyL.jpg
+dtReleased: "2025-07-06"
+dtModified: ""
 ...

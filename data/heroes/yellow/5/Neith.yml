@@ -24,4 +24,6 @@ passives:
 - 'Resist Mana Generation Stopping: This character is immune to status ailments that
   stop mana generation.'
 image: https://i.imgur.com/5p5UjK8.jpg
+dtReleased: "2019-11-01"
+dtModified: ""
 ...

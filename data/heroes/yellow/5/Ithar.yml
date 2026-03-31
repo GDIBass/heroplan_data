@@ -25,4 +25,6 @@ passives:
 - 'Dodge Special Damage: This character has a 15% chance to dodge Special Skills that
   deal damage.'
 image: https://i.imgur.com/DDTIPj2.jpg
+dtReleased: "2023-08-01"
+dtModified: ""
 ...
