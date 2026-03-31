@@ -32,7 +32,7 @@ costume:
   types:
   - Defense Debuff All
   image: https://i.imgur.com/ig1RoGx.jpg
-  dtReleased: ""
+  dtReleased: "2020-01-01"
   dtModified: ""
 costume2:
   design: toon
@@ -53,7 +53,7 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/0PzrzM8.jpg
-  dtReleased: ""
+  dtReleased: "2024-01-22"
   dtModified: ""
 costume3:
   design: glass
@@ -76,7 +76,7 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/Z7YMKIU.jpg
-  dtReleased: ""
+  dtReleased: "2025-03-11"
   dtModified: ""
 costume4:
   design: stylish
@@ -98,6 +98,6 @@ costume4:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/9fZP07k.jpg
-  dtReleased: ""
+  dtReleased: "2026-02-14"
   dtModified: ""
 ...

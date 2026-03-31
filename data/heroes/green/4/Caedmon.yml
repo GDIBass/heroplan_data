@@ -34,7 +34,7 @@ costume:
   - Hit 1
   - Cleanser All
   image: https://i.imgur.com/zrZ4p5y.jpg
-  dtReleased: ""
+  dtReleased: "2020-05-18"
   dtModified: ""
 costume2:
   design: costume2
@@ -54,7 +54,7 @@ costume2:
   - Status Effect Immunity Debuff 3
   - Dispels Buffs 3
   image: https://i.imgur.com/0FiXuyI.jpg
-  dtReleased: ""
+  dtReleased: "2022-12-26"
   dtModified: ""
 costume3:
   design: toon
@@ -76,7 +76,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/DR6bDUS.jpg
-  dtReleased: ""
+  dtReleased: "2024-01-22"
   dtModified: ""
 costume4:
   design: glass
@@ -99,7 +99,7 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/evExc3q.jpg
-  dtReleased: ""
+  dtReleased: "2025-01-14"
   dtModified: ""
 costume5:
   design: stylish
@@ -121,6 +121,6 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/rpOw1wa.jpg
-  dtReleased: ""
+  dtReleased: "2026-01-26"
   dtModified: ""
 ...

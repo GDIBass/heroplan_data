@@ -32,7 +32,7 @@ costume:
   - Hit 3
   - Defense Debuff 3
   image: https://i.imgur.com/aTgE0vq.jpg
-  dtReleased: ""
+  dtReleased: "2020-05-18"
   dtModified: ""
 costume2:
   design: toon
@@ -52,7 +52,7 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/DoAEWX7.jpg
-  dtReleased: ""
+  dtReleased: "2024-07-16"
   dtModified: ""
 costume3:
   design: glass
@@ -72,6 +72,6 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/IDaamkI.jpg
-  dtReleased: ""
+  dtReleased: "2025-09-07"
   dtModified: ""
 ...

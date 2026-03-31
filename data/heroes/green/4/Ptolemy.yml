@@ -51,6 +51,6 @@ costume:
   - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
   - ' * Cleanses that latest cleansable status ailment from all allies.'
   image: https://i.imgur.com/xEySNN6.jpg
-  dtReleased: ""
+  dtReleased: "2024-10-05"
   dtModified: ""
 ...
