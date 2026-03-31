@@ -39,6 +39,6 @@ costume:
   - 'Stack on Special: When this character casts their Special Skill, all enemies
     get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/vAkZp36.jpg
-  dtReleased: ""
+  dtReleased: "2022-03-21"
   dtModified: "2026-03-31"
 ...

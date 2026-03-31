@@ -25,6 +25,8 @@ types:
 - Defense Buff All
 - Zombie Blessing Buff All
 image: https://i.imgur.com/sKXoFnG.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +56,6 @@ costume:
   - 'Poison on Special Skill: When this character casts their Special Skill, all enemies
     receive 504 Poison damage over 4 turns.'
   image: https://i.imgur.com/cwv2NUd.jpg
+  dtReleased: "2022-02-17"
+  dtModified: ""
 ...

@@ -38,7 +38,7 @@ costume:
   - DoT 3
   - Cleanser 3
   image: https://i.imgur.com/mpRxFeU.jpg
-  dtReleased: ""
+  dtReleased: "2020-05-18"
   dtModified: ""
 costume2:
   design: costume2
@@ -58,7 +58,7 @@ costume2:
   - Hit 3
   - Elemental Defense Debuff 3
   image: https://i.imgur.com/36NtLB6.jpg
-  dtReleased: ""
+  dtReleased: "2022-10-31"
   dtModified: ""
 costume3:
   design: toon
@@ -82,7 +82,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/q7quKlm.jpg
-  dtReleased: ""
+  dtReleased: "2024-03-11"
   dtModified: ""
 costume4:
   design: glass
@@ -106,6 +106,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/gwMXUDN.jpg
-  dtReleased: ""
+  dtReleased: "2025-04-23"
   dtModified: ""
 ...

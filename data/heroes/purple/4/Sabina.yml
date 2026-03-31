@@ -56,7 +56,7 @@ costume2:
   - Status Ailment Immunity All
   - Cleanser All
   image: https://i.imgur.com/EBmu86N.jpg
-  dtReleased: ""
+  dtReleased: "2023-11-27"
   dtModified: ""
 costume3:
   design: toon
@@ -80,7 +80,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/8kaUg4T.jpg
-  dtReleased: ""
+  dtReleased: "2024-10-06"
   dtModified: ""
 costume4:
   design: glass
@@ -103,6 +103,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/4SC7QDU.jpg
-  dtReleased: ""
+  dtReleased: "2025-11-25"
   dtModified: ""
 ...

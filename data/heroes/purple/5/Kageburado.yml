@@ -17,6 +17,8 @@ types:
 - Dispeller 1
 - Hit 1
 image: https://i.imgur.com/OUhEZUJ.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,4 +39,6 @@ costume:
   - Buff Immunity 1
   - Defense Debuff 1
   image: https://i.imgur.com/3Xk7Vld.jpg
+  dtReleased: "2021-11-15"
+  dtModified: ""
 ...

@@ -19,6 +19,8 @@ types:
 - Hit All allies
 - Hits Ignore Dark
 image: https://i.imgur.com/f9fc9eh.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,4 +41,6 @@ costume:
   - Attack Buff All dark
   - Attack Debuff All not dark
   image: https://i.imgur.com/EOk0EO8.jpg
+  dtReleased: "2023-02-06"
+  dtModified: ""
 ...

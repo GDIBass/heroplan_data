@@ -18,6 +18,8 @@ types:
 - Hit 2
 - DoT 2
 image: https://i.imgur.com/ODUCn9s.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   - 'Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict
     Mindless Attack on a random enemy for 3 turns.'
   image: https://i.imgur.com/Y9oF73p.jpg
+  dtReleased: "2021-12-15"
+  dtModified: ""
 ...
