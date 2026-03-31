@@ -34,7 +34,7 @@ costume:
   - Hit 3
   - Attack Buff 3
   image: https://i.imgur.com/Z9LP9Ei.jpg
-  dtReleased: ""
+  dtReleased: "2021-01-18"
   dtModified: ""
 costume2:
   design: costume2
@@ -53,7 +53,7 @@ costume2:
   - Hit 3
   - SS Damage Buff 3
   image: https://i.imgur.com/cDO5QOd.jpg
-  dtReleased: ""
+  dtReleased: "2023-06-12"
   dtModified: ""
 costume3:
   design: toon
@@ -75,7 +75,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/3MLw0k0.jpg
-  dtReleased: ""
+  dtReleased: "2023-12-25"
   dtModified: ""
 costume4:
   design: glass
@@ -97,7 +97,7 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/STrSTFP.jpg
-  dtReleased: ""
+  dtReleased: "2024-12-25"
   dtModified: ""
 costume5:
   design: stylish
@@ -119,6 +119,6 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/570BQPZ.jpg
-  dtReleased: ""
+  dtReleased: "2026-01-07"
   dtModified: ""
 ...

@@ -36,7 +36,7 @@ costume:
   - Enemy Damage Share
   - Defense Debuff All
   image: https://i.imgur.com/MxDScRN.jpg
-  dtReleased: ""
+  dtReleased: "2020-01-01"
   dtModified: ""
 costume2:
   design: toon
@@ -59,7 +59,7 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/F5oS2LZ.jpg
-  dtReleased: ""
+  dtReleased: "2024-09-08"
   dtModified: ""
 costume3:
   design: glass
@@ -83,6 +83,6 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/le2bIzh.jpg
-  dtReleased: ""
+  dtReleased: "2025-11-25"
   dtModified: ""
 ...

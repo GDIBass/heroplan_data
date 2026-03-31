@@ -18,6 +18,8 @@ types:
 - Mana Generation Buff All
 - Cleanser All
 image: https://i.imgur.com/WWzsu8l.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,4 +38,6 @@ costume:
   - MoT All
   - Cleanser All
   image: https://i.imgur.com/gRSAJUL.jpg
+  dtReleased: "2021-11-15"
+  dtModified: ""
 ...

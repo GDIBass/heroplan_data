@@ -31,7 +31,7 @@ costume:
   types:
   - Counterattack All
   image: https://i.imgur.com/p8PKYHQ.jpg
-  dtReleased: ""
+  dtReleased: "2020-05-18"
   dtModified: ""
 costume2:
   design: costume2
@@ -48,7 +48,7 @@ costume2:
   types:
   - Counterattack All
   image: https://i.imgur.com/9wlyamA.jpg
-  dtReleased: ""
+  dtReleased: "2023-11-27"
   dtModified: ""
 costume3:
   design: toon
@@ -68,7 +68,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/FCxtmOB.jpg
-  dtReleased: ""
+  dtReleased: "2024-09-08"
   dtModified: ""
 costume4:
   design: glass
@@ -91,6 +91,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/x1sFOfC.jpg
-  dtReleased: ""
+  dtReleased: "2025-10-09"
   dtModified: ""
 ...
