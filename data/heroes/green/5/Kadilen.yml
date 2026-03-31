@@ -36,7 +36,7 @@ costume:
   - Hit All
   - SS Dodge Chance Buff All
   image: https://i.imgur.com/N7LZ2EP.jpg
-  dtReleased: ""
+  dtReleased: "2020-05-18"
   dtModified: ""
 costume2:
   design: costume2
@@ -56,7 +56,7 @@ costume2:
   - Hit All
   - SS Dodge Chance Buff All
   image: https://i.imgur.com/hEckaC5.jpg
-  dtReleased: ""
+  dtReleased: "2023-04-17"
   dtModified: ""
 costume3:
   design: toon
@@ -78,7 +78,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/I1ETLXX.jpg
-  dtReleased: ""
+  dtReleased: "2024-10-06"
   dtModified: ""
 costume4:
   design: glass
@@ -100,6 +100,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/DLZ7RRq.jpg
-  dtReleased: ""
+  dtReleased: "2025-12-11"
   dtModified: ""
 ...

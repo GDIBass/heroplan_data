@@ -17,6 +17,8 @@ types:
 - DoT 3
 - Cleanser All
 image: https://i.imgur.com/rSEO0Xi.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,4 +41,6 @@ costume:
   - 'Poison on Special Skill: When this character casts their Special Skill, all enemies
     receive 540 Poison damage over 4 turns.'
   image: https://i.imgur.com/mpM0YIf.jpg
+  dtReleased: "2023-12-28"
+  dtModified: ""
 ...

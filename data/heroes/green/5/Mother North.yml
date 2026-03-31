@@ -19,6 +19,8 @@ types:
 - Reviver
 - Summoner All
 image: https://i.imgur.com/463IXXp.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +43,6 @@ costume:
   - 'Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 304
     Frost damage over 4 turns.'
   image: https://i.imgur.com/0QsTiw8.jpg
+  dtReleased: "2021-12-01"
+  dtModified: ""
 ...

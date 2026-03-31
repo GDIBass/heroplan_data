@@ -44,6 +44,6 @@ costume:
   - 'Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a
     new copy of the cleansed ailment is applied on a random enemy.'
   image: https://imgur.com/GDnuePZ.jpg
-  dtReleased: ""
+  dtReleased: "2025-08-08"
   dtModified: ""
 ...

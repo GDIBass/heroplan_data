@@ -41,6 +41,6 @@ costume:
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/ONemvil.jpg
-  dtReleased: ""
+  dtReleased: "2024-03-08"
   dtModified: ""
 ...

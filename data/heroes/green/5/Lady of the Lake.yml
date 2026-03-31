@@ -19,6 +19,8 @@ types:
 - Summoner 3
 - Mana Reduction Minion
 image: https://i.imgur.com/hlRFlMx.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +42,6 @@ costume:
   - Summoner 3
   - Mana Generation Debuff Minion
   image: https://i.imgur.com/T9XV0yp.jpg
+  dtReleased: "2021-12-15"
+  dtModified: ""
 ...
