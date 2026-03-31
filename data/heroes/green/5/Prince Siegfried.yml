@@ -36,6 +36,6 @@ passives:
   each time a status ailment expires or is cleansed, removed or reallocated from them.
   This effect can activate only once per turn.'
 image: https://i.imgur.com/WwCBlh0.jpg
-dtReleased: ""
+dtReleased: "2024-01-25"
 dtModified: "2026-03-29"
 ...

@@ -26,4 +26,6 @@ passives:
   for each enemy inflicted with Poison at the end of each turn. Boosted health can
   exceed max HP.'
 image: https://i.imgur.com/SWrRjRX.jpg
+dtReleased: "2023-02-01"
+dtModified: ""
 ...

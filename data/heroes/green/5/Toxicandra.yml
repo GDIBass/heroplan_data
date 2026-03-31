@@ -18,6 +18,8 @@ types:
 - MoT All
 - Cleanser All
 image: https://i.imgur.com/m5DCDHL.jpg
+dtReleased: "2021-02-11"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,4 +41,6 @@ costume:
   - 'Curse on Special Skill: When this character casts their Special Skill, all enemies
     receive 461 Curse damage over 4 turns, starting low and increasing every turn.'
   image: https://imgur.com/6ZuZX5t.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

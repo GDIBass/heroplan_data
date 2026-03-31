@@ -29,4 +29,6 @@ passives:
 - 'Health Boost on Enemy Health Boost: This character gets 450 boosted health  each
   time an enemy casts a Special Skill that directly boosts health.'
 image: https://i.imgur.com/CtidFGk.jpg
+dtReleased: "2024-02-09"
+dtModified: ""
 ...
