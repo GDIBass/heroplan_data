@@ -27,6 +27,8 @@ passives:
   or in place of a character in Cover, there''s a 60% chance to deal 20% of the received
   damage on all enemies.'
 image: https://i.imgur.com/bq60wfg.jpg
+dtReleased: "2022-12-14"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +61,6 @@ costume:
     from Special Skills or in place of a character in Cover, there''s a 75% chance
     to deal 50% of the received damage on all enemies.'
   image: https://imgur.com/IiNjIeR.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

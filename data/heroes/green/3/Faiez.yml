@@ -23,6 +23,8 @@ passives:
 - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
 - ' * Cleanses the latest cleansable status ailments from all allies.'
 image: https://i.imgur.com/vZiyZG9.jpg
+dtReleased: "2022-04-21"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   - 'Health Recovery on Buff Received: This character recovers 5% health when they
     receive a buff or a positive stack.'
   image: https://i.imgur.com/TFnsKJy.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

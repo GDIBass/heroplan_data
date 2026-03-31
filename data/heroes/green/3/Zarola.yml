@@ -1,3 +1,4 @@
+---
 name: Zarola
 source: love
 family: cupid
@@ -9,14 +10,16 @@ defense: 474
 health: 698
 skill: Punishing Shot
 effects:
-  - Deals 200% damage to the target and nearby enemies.
-  - The less mana the enemies have, the more damage they will receive, up to 300%.
+- Deals 200% damage to the target and nearby enemies.
+- The less mana the enemies have, the more damage they will receive, up to 300%.
 types:
-  - Hit 3
+- Hit 3
 passives:
-  - >-
-    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skills.'
 image: https://i.imgur.com/07KHMD9.jpg
+dtReleased: "2023-02-14"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -27,13 +30,16 @@ costume:
   health: 781
   skill: Lasso of Love
   effects:
-    - Deals 200% damage to the target and nearby enemies.
-    - The less mana the enemies have, the more damage they will receive, up to 330%.
-    - The target and nearby enemies get -34% defense against Nature for 4 turns.
+  - Deals 200% damage to the target and nearby enemies.
+  - The less mana the enemies have, the more damage they will receive, up to 330%.
+  - The target and nearby enemies get -34% defense against Nature for 4 turns.
   types:
-    - Hit 3
-    - Elemental Defense Debuff 3
+  - Hit 3
+  - Elemental Defense Debuff 3
   passives:
-    - >-
-      Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+  - 'Resist Special Skill Blocking: This character is immune to status ailments that
+    prevent the use of Special Skills.'
   image: https://imgur.com/cYRiqtv.jpg
+  dtReleased: ""
+  dtModified: ""
+...

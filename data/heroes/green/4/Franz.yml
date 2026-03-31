@@ -1,19 +1,23 @@
+---
 name: Franz
-class: Paladin
 source: knights
 family: raven
 speed: Very Slow
+class: Paladin
 power: 681
 attack: 552
 defense: 682
 health: 1519
 skill: Sonorous Spear
 effects:
-  - Deals 215% damage to all enemies.
-  - All damage all enemies receive is increased by +50% for 6 turns.
-  - All enemies are immune to new status effect buffs for 6 turns.
+- Deals 215% damage to all enemies.
+- All damage all enemies receive is increased by +50% for 6 turns.
+- All enemies are immune to new status effect buffs for 6 turns.
 types:
-  - Hit All
-  - Damage Increased Debuff All
-  - Buff Immunity Debuff All
+- Hit All
+- Damage Increased Debuff All
+- Buff Immunity Debuff All
 image: https://i.imgur.com/Qe02pzU.jpg
+dtReleased: "2022-01-05"
+dtModified: ""
+...

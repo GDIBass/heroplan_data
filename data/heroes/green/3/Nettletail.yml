@@ -1,3 +1,4 @@
+---
 name: Nettletail
 source: covenant
 family: fox
@@ -9,12 +10,15 @@ defense: 512
 health: 830
 skill: Friendly Criters' Feast
 effects:
-  - Boosts health of all allies by 275. Boosted health can exceed max HP.
-  - All allies get lasting +25% defense. (This effect lasts until it is dispelled, replaced or removed.)
+- Boosts health of all allies by 275. Boosted health can exceed max HP.
+- All allies get lasting +25% defense. (This effect lasts until it is dispelled, replaced
+  or removed.)
 types:
-  - Health Boost All
-  - Lasting Defense Buff All
+- Health Boost All
+- Lasting Defense Buff All
 passives:
-  - >-
-    Decreased Healing: All enemies get -50% healing.
+- 'Decreased Healing: All enemies get -50% healing.'
 image: https://imgur.com/ACFdSkP.jpg
+dtReleased: "2025-08-09"
+dtModified: ""
+...
