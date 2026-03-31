@@ -22,7 +22,7 @@ passives:
 - 'Increase Buff Duration: Duration of the first 3 buffs this character receives from
   Special Skill is increased by 1 turn.'
 image: https://i.imgur.com/hsqxizP.jpg
-dtReleased: ""
+dtReleased: "2021-12-02"
 dtModified: "2026-03-20"
 costume:
   design: costume1

@@ -18,6 +18,8 @@ types:
 - Hit 1
 - Defense Debuff Reflect All
 image: https://i.imgur.com/stJf0Qg.jpg
+dtReleased: "2022-03-14"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/LeENxWF.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

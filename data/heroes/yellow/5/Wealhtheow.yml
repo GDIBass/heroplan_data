@@ -32,6 +32,6 @@ passives:
 - 'Resist Buff Blocking: This character is immune to effect that would block them
   from receiving new status effect buffs.'
 image: https://i.imgur.com/yG43ChX.jpg
-dtReleased: ""
+dtReleased: "2024-11-25"
 dtModified: "2026-03-20"
 ...

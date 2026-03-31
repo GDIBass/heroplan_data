@@ -21,6 +21,8 @@ types:
 passives:
 - 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/1q7ZFV3.jpg
+dtReleased: "2021-03-25"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +47,6 @@ costume:
   - 'Health Boost on Special Skill: On Special Skill cast, boosts all allies'' HP
     by 10%.'
   image: https://i.imgur.com/CwQ3ejX.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

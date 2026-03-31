@@ -25,4 +25,6 @@ passives:
 - 'Health from Dead Minion: This character recovers 50 health when a Minion owned
   by them is destroyed.'
 image: https://i.imgur.com/1T6P7Be.jpg
+dtReleased: "2021-02-01"
+dtModified: ""
 ...

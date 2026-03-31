@@ -21,4 +21,6 @@ types:
 passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 image: https://i.imgur.com/pCzfhdF.jpg
+dtReleased: "2019-06-01"
+dtModified: ""
 ...

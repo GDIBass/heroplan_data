@@ -37,4 +37,6 @@ passives:
   -5% mana generation stack. If the Special Skill is fully charged, all enemies get
   two stacks. An enemy can have up to 10 stacks.'
 image: https://i.imgur.com/Njfyzmw.jpg
+dtReleased: "2023-05-03"
+dtModified: ""
 ...

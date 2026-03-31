@@ -1,3 +1,4 @@
+---
 name: Ratgrub
 source: goblinvillage
 family: goblin
@@ -9,13 +10,19 @@ defense: 1285
 health: 2270
 skill: Princess Unleashed
 effects:
-  - Summons a Rat Princess Mega Minion with 40% HP and 160% attack inherited from the caster.
-  - When summoned, the Rat Princess Mega Minion gives its owner the ability to deal 250% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)
+- Summons a Rat Princess Mega Minion with 40% HP and 160% attack inherited from the
+  caster.
+- When summoned, the Rat Princess Mega Minion gives its owner the ability to deal
+  250% damage to all enemies each time any other ally casts their Special Skill. (Each
+  character can trigger this effect once per turn.)
 types:
-  - Rat Princess Mega Minion
+- Rat Princess Mega Minion
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.
-  - " * Deals 90% damage to all enemies."
-  - " * All enemies get -25% accuracy for 3 turns."
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill.'
+- ' * Deals 90% damage to all enemies.'
+- ' * All enemies get -25% accuracy for 3 turns.'
 image: https://imgur.com/BwwWWBg.jpg
+dtReleased: "2025-09-16"
+dtModified: ""
+...
