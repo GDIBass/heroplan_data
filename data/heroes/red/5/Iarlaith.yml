@@ -21,4 +21,6 @@ passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://imgur.com/ruIGzTu.jpg
+dtReleased: "2025-04-29"
+dtModified: ""
 ...

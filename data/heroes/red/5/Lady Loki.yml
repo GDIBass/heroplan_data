@@ -19,6 +19,8 @@ types:
 - Lifts Ailments All
 - Hit All
 image: https://i.imgur.com/NzRPKjE.jpg
+dtReleased: "2020-07-23"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,4 +40,6 @@ costume:
   - Lifts Ailments All
   - Hit All
   image: https://i.imgur.com/R89Eh1b.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

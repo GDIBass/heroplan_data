@@ -21,7 +21,7 @@ passives:
 - ' * Boosts health of all allies by 10%. Boosted Heath can exceed max HP.'
 - ' * All allies gain a small amount of mana.'
 image: https://i.imgur.com/sV7BVbk.jpg
-dtReleased: ""
+dtReleased: "2022-12-22"
 dtModified: "2026-03-20"
 costume:
   design: costume1

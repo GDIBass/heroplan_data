@@ -23,6 +23,8 @@ passives:
 - 'Damage over time on Special: When this character casts their Special Skill, all
   enemies receive 200 Water damage over 2 turns.'
 image: https://i.imgur.com/VLECZaD.jpg
+dtReleased: "2023-06-12"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +48,6 @@ costume:
     enemies receive 272 Water damage over 2 turns.'
   - 'Resist Water Damage: This character has innate resistance against Water Damage.'
   image: https://imgur.com/r5YqJOC.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

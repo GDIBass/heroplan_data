@@ -32,4 +32,6 @@ passives:
 - ' * The Frost damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
 image: https://imgur.com/TXnhxAk.jpg
+dtReleased: "2025-07-11"
+dtModified: ""
 ...

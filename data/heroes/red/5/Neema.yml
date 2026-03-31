@@ -28,4 +28,6 @@ passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
   prevent the use of Special Skills.'
 image: https://i.imgur.com/hih0AUp.jpg
+dtReleased: "2023-11-01"
+dtModified: ""
 ...

@@ -16,6 +16,8 @@ types:
 - Steals Minions 1
 - Hit 1
 image: https://i.imgur.com/BYGrEEN.jpg
+dtReleased: "2020-10-22"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -33,4 +35,6 @@ costume:
   - Destroys Mega/Minions 1
   - Hit 3
   image: https://i.imgur.com/ZoOkEJb.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

@@ -24,4 +24,6 @@ passives:
 - 'Resist Health Steal Ailments: This hero is immune to status ailments that steal
   health.'
 image: https://i.imgur.com/Fq9orae.jpg
+dtReleased: "2020-02-01"
+dtModified: ""
 ...
