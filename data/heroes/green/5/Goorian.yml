@@ -1,3 +1,4 @@
+---
 name: Goorian
 source: superelemental
 family: slime
@@ -9,22 +10,28 @@ defense: 1244
 health: 1917
 skill: Bone Slam
 effects:
-  - Deals 480% damage to all enemies.
-  - All hit targets get -40% defense and a further -5% decrease every time they are hit during 5 turns, to max -60%.
-  - 'The caster receives Slime Revive status effect for 2 turns. If defeated while Slime Revive is active, the character will be reborn as a Slime with:'
-  - ' * 100% inherited health.'
-  - ' * 50% attack.'
-  - ' * 50% defense.'
-  - ' * Special Skill: Slime Slap. (Deals 350% damage to the target.)'
-  - " * This effect can't be dispelled."
-  - If the Slime is not defeated in 3 turns, it will be reborn as the character's original form inheriting the Slime's health and mana.
+- Deals 480% damage to all enemies.
+- All hit targets get -40% defense and a further -5% decrease every time they are
+  hit during 5 turns, to max -60%.
+- 'The caster receives Slime Revive status effect for 2 turns. If defeated while Slime
+  Revive is active, the character will be reborn as a Slime with:'
+- ' * 100% inherited health.'
+- ' * 50% attack.'
+- ' * 50% defense.'
+- ' * Special Skill: Slime Slap. (Deals 350% damage to the target.)'
+- ' * This effect can''t be dispelled.'
+- If the Slime is not defeated in 3 turns, it will be reborn as the character's original
+  form inheriting the Slime's health and mana.
 types:
-  - Hit All
-  - Defense Debuff All
-  - Self Slime Revive
+- Hit All
+- Defense Debuff All
+- Self Slime Revive
 passives:
-  - >-
-    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
-  - >-
-    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+- 'Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega
+  Minions to nearby allies with 50% HP and 40% attack inherited from this character.'
+- 'Slime Minion Split: If this character loses more than 25% of max health at once,
+  they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://i.imgur.com/e1nrPfv.jpg
+dtReleased: "2025-03-17"
+dtModified: ""
+...

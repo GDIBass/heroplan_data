@@ -38,4 +38,6 @@ passives:
 - 'Beautiful Inside: Whenever this character would take damage from a status ailment,
   they will recover that much health instead.'
 image: https://imgur.com/w9K0HkI.jpg
+dtReleased: "2026-01-23"
+dtModified: ""
 ...

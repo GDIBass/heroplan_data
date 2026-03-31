@@ -24,4 +24,6 @@ passives:
 - 'Resist Dispels: This character is immune to effects that would dispel their status
   effect buffs.'
 image: https://i.imgur.com/3T1uKuW.jpg
+dtReleased: "2019-05-01"
+dtModified: ""
 ...

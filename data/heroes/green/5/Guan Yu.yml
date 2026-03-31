@@ -20,6 +20,8 @@ types:
 - Bypass Minions
 - Defense Debuff 3
 image: https://i.imgur.com/nDiRoqi.jpg
+dtReleased: "2022-03-14"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +47,6 @@ costume:
   - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/GP4J8r3.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

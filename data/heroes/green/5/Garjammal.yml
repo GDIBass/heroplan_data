@@ -20,6 +20,8 @@ passives:
 - 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
   receives from Special Skill is decreased by 1 turn.'
 image: https://i.imgur.com/kz19bRj.jpg
+dtReleased: "2021-04-22"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
     normal attacks and Special Skills deal +70% damage against targets with boosted
     health for 4 turns.'
   image: https://i.imgur.com/U99nNNm.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

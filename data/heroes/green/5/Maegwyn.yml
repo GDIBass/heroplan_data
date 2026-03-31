@@ -1,3 +1,4 @@
+---
 name: Maegwyn
 source: astral
 family: astraldwarfs
@@ -9,18 +10,22 @@ defense: 1256
 health: 1957
 skill: Astral Brew
 effects:
-  - Recovers 50% health for all allies.
-  - All allies regenerate 800 boosted health over 4 turns. Boosted health can exceed max HP.
-  - All allies reduce all received damage by -40% for 4 turns.
+- Recovers 50% health for all allies.
+- All allies regenerate 800 boosted health over 4 turns. Boosted health can exceed
+  max HP.
+- All allies reduce all received damage by -40% for 4 turns.
 types:
-  - Healer All
-  - Boosted HoT
-  - Damage Reduction All
+- Healer All
+- Boosted HoT
+- Damage Reduction All
 passives:
-  - >-
-    Destroy Fiends on Special: When this character casts their Special Skill, all fiends are destroyed from them.
-  - >-
-    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
-  - >-
-    Resist Healing Ailments: This character has innate resistance against status ailments that affect healing.
+- 'Destroy Fiends on Special: When this character casts their Special Skill, all fiends
+  are destroyed from them.'
+- 'Superior Resist Negative Minion Effects: This character has innate resistance against
+  incoming negative effects and damage from Minions and Mega Minions.'
+- 'Resist Healing Ailments: This character has innate resistance against status ailments
+  that affect healing.'
 image: https://i.imgur.com/ZHoR1Fc.jpg
+dtReleased: "2025-01-06"
+dtModified: ""
+...

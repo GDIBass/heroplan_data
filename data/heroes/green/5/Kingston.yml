@@ -21,4 +21,6 @@ types:
 passives:
 - 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 image: https://i.imgur.com/rlpoKXr.jpg
+dtReleased: "2019-10-01"
+dtModified: ""
 ...

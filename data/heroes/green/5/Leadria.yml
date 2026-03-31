@@ -27,4 +27,6 @@ passives:
 - 'Boosted Health From Dead Minion: This character recovers 50 boosted health when
   a minion owned by them is destroyed.'
 image: https://i.imgur.com/YdTKSoW.jpg
+dtReleased: "2023-12-01"
+dtModified: ""
 ...
