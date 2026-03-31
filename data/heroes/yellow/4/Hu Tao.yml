@@ -17,6 +17,8 @@ types:
 - Hit All
 - Blind All
 image: https://i.imgur.com/uyASMQ6.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,6 +39,8 @@ costume:
   - Blind All
   - Healing Debuff All
   image: https://i.imgur.com/vPJgzTp.jpg
+  dtReleased: ""
+  dtModified: ""
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -56,6 +60,8 @@ costume2:
   - Blind All
   - Mana Gen Debuff All
   image: https://i.imgur.com/3xo1OZT.jpg
+  dtReleased: ""
+  dtModified: ""
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -76,6 +82,8 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/J3KLB3K.jpg
+  dtReleased: ""
+  dtModified: ""
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -96,4 +104,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/V32B1dq.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

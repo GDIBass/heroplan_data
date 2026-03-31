@@ -23,4 +23,6 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/Z7YMKIU.jpg
+dtReleased: ""
+dtModified: ""
 ...

@@ -16,6 +16,8 @@ types:
 - Healer All
 - Dispeller All
 image: https://i.imgur.com/aLWFiS9.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +34,8 @@ costume:
   - HoT All
   - Dispell Immunity Buff All
   image: https://i.imgur.com/MHO518e.jpg
+  dtReleased: ""
+  dtModified: ""
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -54,6 +58,8 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/d6OTmVG.jpg
+  dtReleased: ""
+  dtModified: ""
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -76,4 +82,6 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/Y4Gu3iU.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

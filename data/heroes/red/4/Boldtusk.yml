@@ -16,6 +16,8 @@ types:
 - Healer All
 - Attack Buff All
 image: https://i.imgur.com/K7cfOtS.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +34,8 @@ costume:
   - Healer All
   - Attack Buff All
   image: https://i.imgur.com/ZFrdT4t.jpg
+  dtReleased: ""
+  dtModified: ""
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -50,6 +54,8 @@ costume2:
   - Boosted HoT All
   - Attack Buff All
   image: https://i.imgur.com/T4p2FAB.jpg
+  dtReleased: ""
+  dtModified: ""
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -70,6 +76,8 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/ufJrKaD.jpg
+  dtReleased: ""
+  dtModified: ""
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -92,6 +100,8 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/lVwUo5n.jpg
+  dtReleased: ""
+  dtModified: ""
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -112,4 +122,6 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/tGz74NL.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

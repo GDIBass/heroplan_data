@@ -18,6 +18,8 @@ types:
 - Mana Generation Buff 3
 - Defense Buff 3
 image: https://i.imgur.com/Qk5TZ17.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +38,8 @@ costume:
   - Mana Generation Buff All
   - Defense Buff All
   image: https://i.imgur.com/Wuav96d.jpg
+  dtReleased: ""
+  dtModified: ""
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -54,6 +58,8 @@ costume2:
   - MoT Buff All
   - Defense Buff All
   image: https://i.imgur.com/Az13Jne.jpg
+  dtReleased: ""
+  dtModified: ""
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -78,6 +84,8 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/tV5jaYy.jpg
+  dtReleased: ""
+  dtModified: ""
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -100,4 +108,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/gv5Agq9.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

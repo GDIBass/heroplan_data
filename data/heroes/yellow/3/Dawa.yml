@@ -14,6 +14,8 @@ effects:
 types:
 - Hit 3
 image: https://i.imgur.com/p1FG8Av.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -31,6 +33,8 @@ costume:
   - Hit 1
   - Hit Random 1
   image: https://i.imgur.com/4JD88JW.jpg
+  dtReleased: ""
+  dtModified: ""
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -49,6 +53,8 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/O05gU50.jpg
+  dtReleased: ""
+  dtModified: ""
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -67,4 +73,6 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/rW9GnU7.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

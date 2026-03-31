@@ -17,6 +17,8 @@ types:
 - Ally Damage Share
 - Defense Buff All
 image: https://i.imgur.com/h7fAkgX.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +36,8 @@ costume:
   - Ally Damage Share
   - Attack Buff All
   image: https://i.imgur.com/OOF8ysq.jpg
+  dtReleased: ""
+  dtModified: ""
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -56,6 +60,8 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/6HNw9i7.jpg
+  dtReleased: ""
+  dtModified: ""
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -79,6 +85,8 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/jRBcqpn.jpg
+  dtReleased: ""
+  dtModified: ""
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -101,4 +109,6 @@ costume4:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/DLbCQyk.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

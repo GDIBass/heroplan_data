@@ -15,6 +15,8 @@ effects:
 types:
 - Titan Attack Buff All
 image: https://i.imgur.com/EZfzNHv.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -31,6 +33,8 @@ costume:
   - Hit All
   - Defense Buff Self
   image: https://i.imgur.com/Xt9qUWm.jpg
+  dtReleased: ""
+  dtModified: ""
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -46,6 +50,8 @@ costume2:
   types:
   - Titan Attack Buff All
   image: https://i.imgur.com/gZEff9Z.jpg
+  dtReleased: ""
+  dtModified: ""
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +70,8 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/3dV4crJ.jpg
+  dtReleased: ""
+  dtModified: ""
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -85,4 +93,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/JLY9oLh.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

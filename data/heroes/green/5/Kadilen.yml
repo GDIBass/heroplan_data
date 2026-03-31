@@ -16,6 +16,8 @@ types:
 - Hit All
 - SS Defense Buff All
 image: https://i.imgur.com/Gjh3PRB.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +36,8 @@ costume:
   - Hit All
   - SS Dodge Chance Buff All
   image: https://i.imgur.com/N7LZ2EP.jpg
+  dtReleased: ""
+  dtModified: ""
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -52,6 +56,8 @@ costume2:
   - Hit All
   - SS Dodge Chance Buff All
   image: https://i.imgur.com/hEckaC5.jpg
+  dtReleased: ""
+  dtModified: ""
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -72,6 +78,8 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/I1ETLXX.jpg
+  dtReleased: ""
+  dtModified: ""
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -92,4 +100,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/DLZ7RRq.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

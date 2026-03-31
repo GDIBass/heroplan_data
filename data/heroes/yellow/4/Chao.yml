@@ -16,6 +16,8 @@ types:
 - Hit 1
 - Mana Reduction 1
 image: https://i.imgur.com/akseq6D.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +36,8 @@ costume:
   - Hit 1
   - Mana Steal 1
   image: https://i.imgur.com/iiLBfC1.jpg
+  dtReleased: ""
+  dtModified: ""
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -50,6 +54,8 @@ costume2:
   - Hit 3
   - Mana Generation Debuff 3
   image: https://i.imgur.com/AhEe43s.jpg
+  dtReleased: ""
+  dtModified: ""
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -70,6 +76,8 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/SdLEIc0.jpg
+  dtReleased: ""
+  dtModified: ""
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -90,4 +98,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/s68xCDI.jpg
+  dtReleased: ""
+  dtModified: ""
 ...
