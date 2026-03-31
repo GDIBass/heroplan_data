@@ -19,6 +19,8 @@ types:
 - Hit 1
 - Attack Buff 3
 image: https://i.imgur.com/1C4Lajq.jpg
+dtReleased: "2018-09-01"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +43,6 @@ costume:
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
     dispel the newest status efect buff from all enemies.'
   image: https://i.imgur.com/mLc9HWv.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

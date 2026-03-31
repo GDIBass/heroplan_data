@@ -28,4 +28,6 @@ passives:
 - 'Mana on Health Boosting Special Skill: This character gains 5% mana each time an
   enemy casts a Special Skill that directly boosts health.'
 image: https://i.imgur.com/9tJznmy.jpg
+dtReleased: "2022-11-01"
+dtModified: ""
 ...

@@ -23,6 +23,8 @@ types:
 - Mercenary Fiend Summoner All
 - Buff Immunity Fiend
 image: https://i.imgur.com/pOnV8Et.jpg
+dtReleased: "2022-03-14"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/9cuTL09.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

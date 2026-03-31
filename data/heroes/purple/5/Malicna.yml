@@ -32,4 +32,6 @@ passives:
 - 'Status Effect on Mana Reduction: This character gets +94% defense against Holy
   for 3 turns when their mana is reduced.'
 image: https://i.imgur.com/ZMAYhxa.jpg
+dtReleased: "2021-03-01"
+dtModified: ""
 ...

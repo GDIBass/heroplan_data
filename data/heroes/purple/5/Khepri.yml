@@ -26,6 +26,8 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/Z6trZDL.jpg
+dtReleased: "2022-06-09"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -56,4 +58,6 @@ costume:
     to activate.'
   - 'Resist Sand Damage: This character has innate resistance against sand damage.'
   image: https://i.imgur.com/j3u49nY.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

@@ -23,4 +23,6 @@ passives:
   enemies receive 202 Water damage over 2 turns.'
 - 'Resist Water: This character is immune to status ailments that deal Water damage.'
 image: https://i.imgur.com/J2WmnG0.jpg
+dtReleased: "2023-06-12"
+dtModified: ""
 ...
