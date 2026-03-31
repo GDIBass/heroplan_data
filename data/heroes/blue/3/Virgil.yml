@@ -8,7 +8,7 @@ power: 484
 attack: 413
 defense: 495
 health: 976
-skill: Imaginary Increments
+skill: Poet's Protection
 effects:
 - 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
 - '1x Mana Charge:'
