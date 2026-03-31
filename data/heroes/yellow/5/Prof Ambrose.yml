@@ -37,4 +37,14 @@ dtReleased: "2026-03-22"
 dtModified: ""
 fancy_name: Director of the Institute
 aetherPower: bulwark
+lb1:
+  power: 1380
+  attack: 1418
+  defense: 1467
+  health: 2486
+lb2:
+  power: 1561
+  attack: 1623
+  defense: 1678
+  health: 2844
 ...

@@ -30,6 +30,16 @@ dtReleased: "2022-12-14"
 dtModified: ""
 fancy_name: Veteran Musketeer
 aetherPower: defense_up
+lb1:
+  power: 921
+  attack: 932
+  defense: 805
+  health: 1749
+lb2:
+  power: 1036
+  attack: 1066
+  defense: 922
+  health: 2001
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -64,4 +74,14 @@ costume:
   dtModified: ""
   fancy_name: Farrier Musketeer
   aetherPower: special_boost
+  lb1:
+    power: 1347
+    attack: 1436
+    defense: 1232
+    health: 2676
+  lb2:
+    power: 1523
+    attack: 1643
+    defense: 1410
+    health: 3062
 ...

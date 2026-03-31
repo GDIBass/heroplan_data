@@ -22,4 +22,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Governor of Grimforest
 aetherPower: mana_boost
+lb1:
+  power: 817
+  attack: 610
+  defense: 890
+  health: 1642
+lb2:
+  power: 917
+  attack: 698
+  defense: 1018
+  health: 1879
 ...

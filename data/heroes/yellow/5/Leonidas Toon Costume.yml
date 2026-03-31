@@ -28,4 +28,14 @@ dtReleased: "2023-12-25"
 dtModified: ""
 fancy_name: Unyielding Toon
 aetherPower: counterattack
+lb1:
+  power: 1203
+  attack: 1228
+  defense: 1187
+  health: 2260
+lb2:
+  power: 1359
+  attack: 1405
+  defense: 1358
+  health: 2586
 ...

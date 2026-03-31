@@ -29,4 +29,14 @@ dtReleased: "2025-05-01"
 dtModified: ""
 fancy_name: The Master Marksmoth
 aetherPower: special_boost
+lb1:
+  power: 1281
+  attack: 1434
+  defense: 1203
+  health: 2268
+lb2:
+  power: 1447
+  attack: 1640
+  defense: 1376
+  health: 2595
 ...

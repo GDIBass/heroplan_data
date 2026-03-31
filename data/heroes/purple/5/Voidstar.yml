@@ -27,4 +27,14 @@ dtReleased: "2024-04-22"
 dtModified: ""
 fancy_name: Astral Elf Great Knight
 aetherPower: defense_up
+lb1:
+  power: 1113
+  attack: 1081
+  defense: 1201
+  health: 1955
+lb2:
+  power: 1255
+  attack: 1236
+  defense: 1374
+  health: 2237
 ...

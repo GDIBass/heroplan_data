@@ -36,4 +36,14 @@ dtReleased: "2025-03-17"
 dtModified: ""
 fancy_name: Barbaric Sludge
 aetherPower: rage
+lb1:
+  power: 1267
+  attack: 1365
+  defense: 1340
+  health: 2066
+lb2:
+  power: 1432
+  attack: 1562
+  defense: 1534
+  health: 2364
 ...

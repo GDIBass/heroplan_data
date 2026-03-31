@@ -42,4 +42,14 @@ dtReleased: "2026-02-01"
 dtModified: "2026-03-28"
 fancy_name: Fair-Faced Gentleman of Water Margin
 aetherPower: regen
+lb1:
+  power: 1366
+  attack: 1411
+  defense: 1429
+  health: 2479
+lb2:
+  power: 1545
+  attack: 1615
+  defense: 1635
+  health: 2837
 ...

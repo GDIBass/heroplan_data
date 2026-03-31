@@ -30,4 +30,14 @@ dtReleased: "2025-07-02"
 dtModified: ""
 fancy_name: Astral Dwarf Gardener
 aetherPower: damage_reduction
+lb1:
+  power: 1301
+  attack: 1272
+  defense: 1389
+  health: 2444
+lb2:
+  power: 1470
+  attack: 1455
+  defense: 1590
+  health: 2796
 ...

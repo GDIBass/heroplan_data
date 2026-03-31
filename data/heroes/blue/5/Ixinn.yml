@@ -31,4 +31,14 @@ dtReleased: "2025-03-27"
 dtModified: ""
 fancy_name: Astral Dwarf Demolisher
 aetherPower: defense_up
+lb1:
+  power: 1258
+  attack: 1260
+  defense: 1360
+  health: 2224
+lb2:
+  power: 1421
+  attack: 1442
+  defense: 1557
+  health: 2545
 ...

@@ -25,4 +25,14 @@ dtReleased: "2019-06-01"
 dtModified: ""
 fancy_name: Holy Centaur
 aetherPower: gamble
+lb1:
+  power: 820
+  attack: 828
+  defense: 843
+  health: 1214
+lb2:
+  power: 921
+  attack: 947
+  defense: 965
+  health: 1389
 ...

@@ -32,4 +32,14 @@ dtReleased: "2026-01-01"
 dtModified: ""
 fancy_name: The Betrayed Templar
 aetherPower: regen
+lb1:
+  power: 1250
+  attack: 1329
+  defense: 1363
+  health: 1989
+lb2:
+  power: 1412
+  attack: 1521
+  defense: 1559
+  health: 2275
 ...

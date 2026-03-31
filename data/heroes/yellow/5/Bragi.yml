@@ -35,4 +35,14 @@ dtReleased: "2025-10-02"
 dtModified: ""
 fancy_name: Dwarven Prizefighter
 aetherPower: counterattack
+lb1:
+  power: 1328
+  attack: 1371
+  defense: 1367
+  health: 2433
+lb2:
+  power: 1501
+  attack: 1569
+  defense: 1564
+  health: 2783
 ...

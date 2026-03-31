@@ -30,6 +30,16 @@ dtReleased: "2023-05-22"
 dtModified: ""
 fancy_name: Modifier of Reality
 aetherPower: regen
+lb1:
+  power: 968
+  attack: 925
+  defense: 943
+  health: 1829
+lb2:
+  power: 1090
+  attack: 1059
+  defense: 1079
+  health: 2092
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -62,4 +72,14 @@ costume:
   dtModified: ""
   fancy_name: Modifier of Obscura
   aetherPower: damage_reduction
+  lb1:
+    power: 1317
+    attack: 1283
+    defense: 1339
+    health: 2631
+  lb2:
+    power: 1489
+    attack: 1468
+    defense: 1532
+    health: 3011
 ...

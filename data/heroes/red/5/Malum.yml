@@ -44,4 +44,14 @@ dtReleased: "2024-09-24"
 dtModified: ""
 fancy_name: Ruthless Shinobi
 aetherPower: rage
+lb1:
+  power: 1183
+  attack: 1411
+  defense: 1192
+  health: 1649
+lb2:
+  power: 1336
+  attack: 1615
+  defense: 1363
+  health: 1887
 ...

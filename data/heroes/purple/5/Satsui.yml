@@ -42,4 +42,14 @@ dtReleased: "2025-01-02"
 dtModified: ""
 fancy_name: Shadowy Kunoichi
 aetherPower: special_boost
+lb1:
+  power: 1220
+  attack: 1274
+  defense: 1332
+  health: 1975
+lb2:
+  power: 1378
+  attack: 1457
+  defense: 1524
+  health: 2260
 ...

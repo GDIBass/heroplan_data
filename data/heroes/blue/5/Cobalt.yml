@@ -28,4 +28,14 @@ dtReleased: "2020-10-13"
 dtModified: ""
 fancy_name: Ninja of Whispering Seas
 aetherPower: special_boost
+lb1:
+  power: 850
+  attack: 863
+  defense: 739
+  health: 1547
+lb2:
+  power: 955
+  attack: 988
+  defense: 845
+  health: 1770
 ...

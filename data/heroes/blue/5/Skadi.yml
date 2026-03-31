@@ -25,6 +25,16 @@ dtReleased: "2020-06-25"
 dtModified: "2026-03-23"
 fancy_name: Goddess of Jotunheim
 aetherPower: attack_up
+lb1:
+  power: 839
+  attack: 750
+  defense: 854
+  health: 1520
+lb2:
+  power: 942
+  attack: 858
+  defense: 977
+  health: 1739
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +60,14 @@ costume:
   dtModified: "2026-03-23"
   fancy_name: Guardian of Jotunheim
   aetherPower: special_boost
+  lb1:
+    power: 1054
+    attack: 1011
+    defense: 1051
+    health: 2010
+  lb2:
+    power: 1188
+    attack: 1157
+    defense: 1202
+    health: 2300
 ...

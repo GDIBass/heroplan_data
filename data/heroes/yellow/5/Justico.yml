@@ -30,4 +30,14 @@ dtReleased: "2026-03-17"
 dtModified: ""
 fancy_name: Protector Slime
 aetherPower: taunt
+lb1:
+  power: 1379
+  attack: 1411
+  defense: 1476
+  health: 2481
+lb2:
+  power: 1560
+  attack: 1615
+  defense: 1689
+  health: 2839
 ...

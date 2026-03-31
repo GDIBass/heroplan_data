@@ -28,4 +28,14 @@ dtReleased: "2024-01-10"
 dtModified: ""
 fancy_name: Avenger of the Withered
 aetherPower: attack_up
+lb1:
+  power: 1097
+  attack: 1187
+  defense: 1056
+  health: 1864
+lb2:
+  power: 1237
+  attack: 1358
+  defense: 1209
+  health: 2133
 ...

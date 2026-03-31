@@ -32,4 +32,14 @@ dtReleased: "2025-11-01"
 dtModified: ""
 fancy_name: The Flock Father
 aetherPower: dodge
+lb1:
+  power: 1228
+  attack: 1280
+  defense: 1218
+  health: 2248
+lb2:
+  power: 1388
+  attack: 1465
+  defense: 1394
+  health: 2573
 ...

@@ -29,4 +29,14 @@ dtReleased: "2026-01-19"
 dtModified: ""
 fancy_name: Cupid of Winter Morning
 aetherPower: attack_up
+lb1:
+  power: 1362
+  attack: 1407
+  defense: 1429
+  health: 2461
+lb2:
+  power: 1540
+  attack: 1610
+  defense: 1635
+  health: 2816
 ...

@@ -28,4 +28,14 @@ dtReleased: "2023-01-01"
 dtModified: ""
 fancy_name: Unseparable Team
 aetherPower: special_boost
+lb1:
+  power: 873
+  attack: 872
+  defense: 772
+  health: 1620
+lb2:
+  power: 981
+  attack: 998
+  defense: 883
+  health: 1854
 ...

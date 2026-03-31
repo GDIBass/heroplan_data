@@ -34,4 +34,14 @@ dtReleased: "2025-10-23"
 dtModified: ""
 fancy_name: Astral Demon Warlord
 aetherPower: attack_up
+lb1:
+  power: 1336
+  attack: 1425
+  defense: 1329
+  health: 2430
+lb2:
+  power: 1510
+  attack: 1630
+  defense: 1521
+  health: 2781
 ...

@@ -36,4 +36,14 @@ dtReleased: "2024-10-22"
 dtModified: ""
 fancy_name: Poison Flower Ninja
 aetherPower: ailment_immunity
+lb1:
+  power: 1184
+  attack: 1314
+  defense: 1232
+  health: 1820
+lb2:
+  power: 1337
+  attack: 1503
+  defense: 1409
+  health: 2082
 ...

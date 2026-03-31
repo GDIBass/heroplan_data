@@ -27,4 +27,14 @@ dtReleased: "2024-09-23"
 dtModified: ""
 fancy_name: The Unfriendly Ghost
 aetherPower: revive
+lb1:
+  power: 1124
+  attack: 999
+  defense: 1365
+  health: 1913
+lb2:
+  power: 1268
+  attack: 1143
+  defense: 1562
+  health: 2189
 ...

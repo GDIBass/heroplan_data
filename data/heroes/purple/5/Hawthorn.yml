@@ -33,4 +33,14 @@ dtReleased: "2022-09-18"
 dtModified: "2026-03-20"
 fancy_name: Hunter Journeyman
 aetherPower: attack_up
+lb1:
+  power: 948
+  attack: 883
+  defense: 941
+  health: 1791
+lb2:
+  power: 1066
+  attack: 1010
+  defense: 1076
+  health: 2049
 ...

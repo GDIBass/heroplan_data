@@ -25,6 +25,16 @@ dtReleased: "2022-12-22"
 dtModified: "2026-03-20"
 fancy_name: Goddess of Motherhood
 aetherPower: attack_up
+lb1:
+  power: 899
+  attack: 834
+  defense: 856
+  health: 1736
+lb2:
+  power: 1011
+  attack: 955
+  defense: 980
+  health: 1986
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -56,4 +66,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Starlit Mother
   aetherPower: defense_up
+  lb1:
+    power: 1261
+    attack: 1203
+    defense: 1255
+    health: 2597
+  lb2:
+    power: 1424
+    attack: 1377
+    defense: 1436
+    health: 2971
 ...

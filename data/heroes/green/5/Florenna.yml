@@ -30,4 +30,14 @@ dtReleased: "2025-07-01"
 dtModified: ""
 fancy_name: Graceful Elaphocentaur
 aetherPower: attack_up
+lb1:
+  power: 1192
+  attack: 1260
+  defense: 1223
+  health: 2031
+lb2:
+  power: 1346
+  attack: 1442
+  defense: 1399
+  health: 2324
 ...

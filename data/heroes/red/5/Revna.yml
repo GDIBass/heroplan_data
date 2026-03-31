@@ -33,4 +33,14 @@ dtReleased: "2024-10-18"
 dtModified: "2026-03-20"
 fancy_name: Carnelian Hunter
 aetherPower: defense_up
+lb1:
+  power: 1223
+  attack: 1212
+  defense: 1214
+  health: 2386
+lb2:
+  power: 1381
+  attack: 1386
+  defense: 1389
+  health: 2730
 ...

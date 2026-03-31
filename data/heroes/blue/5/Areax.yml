@@ -28,4 +28,14 @@ dtReleased: "2023-09-01"
 dtModified: ""
 fancy_name: Half-horse Ice Mage
 aetherPower: regen
+lb1:
+  power: 933
+  attack: 939
+  defense: 805
+  health: 1818
+lb2:
+  power: 1050
+  attack: 1074
+  defense: 922
+  health: 2080
 ...

@@ -34,4 +34,14 @@ dtReleased: "2025-02-02"
 dtModified: ""
 fancy_name: The Lost Princess Fox
 aetherPower: ailment_reflect
+lb1:
+  power: 1238
+  attack: 1320
+  defense: 1360
+  health: 1935
+lb2:
+  power: 1399
+  attack: 1511
+  defense: 1557
+  health: 2214
 ...

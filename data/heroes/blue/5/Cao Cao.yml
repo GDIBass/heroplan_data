@@ -25,6 +25,16 @@ dtReleased: "2022-07-18"
 dtModified: ""
 fancy_name: Warlord of Wei
 aetherPower: regen
+lb1:
+  power: 893
+  attack: 861
+  defense: 876
+  health: 1582
+lb2:
+  power: 1004
+  attack: 985
+  defense: 1003
+  health: 1811
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +65,14 @@ costume:
   dtModified: ""
   fancy_name: Warlord of Ice
   aetherPower: special_armor
+  lb1:
+    power: 1184
+    attack: 1150
+    defense: 1207
+    health: 2282
+  lb2:
+    power: 1337
+    attack: 1316
+    defense: 1381
+    health: 2611
 ...

@@ -35,4 +35,14 @@ dtReleased: "2024-08-22"
 dtModified: ""
 fancy_name: Feared Magician
 aetherPower: special_boost
+lb1:
+  power: 1168
+  attack: 1265
+  defense: 1134
+  health: 2020
+lb2:
+  power: 1318
+  attack: 1447
+  defense: 1297
+  health: 2311
 ...

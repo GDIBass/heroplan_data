@@ -36,4 +36,14 @@ dtReleased: "2025-09-05"
 dtModified: "2026-03-23"
 fancy_name: The Peace-Weaver
 aetherPower: bulwark
+lb1:
+  power: 1319
+  attack: 1303
+  defense: 1420
+  health: 2437
+lb2:
+  power: 1491
+  attack: 1490
+  defense: 1625
+  health: 2788
 ...

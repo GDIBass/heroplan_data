@@ -28,4 +28,14 @@ dtReleased: "2024-08-19"
 dtModified: ""
 fancy_name: Astral Elf Incense Master
 aetherPower: heal_increase
+lb1:
+  power: 1161
+  attack: 1147
+  defense: 1260
+  health: 2013
+lb2:
+  power: 1310
+  attack: 1313
+  defense: 1442
+  health: 2303
 ...

@@ -46,4 +46,14 @@ dtReleased: "2024-08-27"
 dtModified: ""
 fancy_name: Silent Striker
 aetherPower: attack_up
+lb1:
+  power: 1183
+  attack: 1296
+  defense: 1229
+  health: 1860
+lb2:
+  power: 1335
+  attack: 1483
+  defense: 1407
+  health: 2128
 ...

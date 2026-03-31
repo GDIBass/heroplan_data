@@ -27,6 +27,16 @@ dtReleased: "2022-10-27"
 dtModified: ""
 fancy_name: Mummy Queen
 aetherPower: revive
+lb1:
+  power: 921
+  attack: 894
+  defense: 870
+  health: 1716
+lb2:
+  power: 1036
+  attack: 1023
+  defense: 995
+  health: 1963
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +68,14 @@ costume:
   dtModified: ""
   fancy_name: Molten Queen
   aetherPower: rage
+  lb1:
+    power: 1292
+    attack: 1351
+    defense: 1213
+    health: 2534
+  lb2:
+    power: 1460
+    attack: 1546
+    defense: 1388
+    health: 2899
 ...

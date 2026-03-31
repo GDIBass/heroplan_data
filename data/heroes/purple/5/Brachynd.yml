@@ -34,4 +34,14 @@ dtReleased: "2026-03-09"
 dtModified: ""
 fancy_name: Warden of the Cove
 aetherPower: defense_up
+lb1:
+  power: 1377
+  attack: 1460
+  defense: 1407
+  health: 2481
+lb2:
+  power: 1558
+  attack: 1671
+  defense: 1610
+  health: 2839
 ...

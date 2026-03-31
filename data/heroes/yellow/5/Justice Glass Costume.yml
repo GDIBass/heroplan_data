@@ -27,4 +27,14 @@ dtReleased: "2025-08-10"
 dtModified: ""
 fancy_name: Vitrail of Stone
 aetherPower: defense_up
+lb1:
+  power: 1322
+  attack: 1452
+  defense: 1126
+  health: 2671
+lb2:
+  power: 1495
+  attack: 1662
+  defense: 1289
+  health: 3056
 ...

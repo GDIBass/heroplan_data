@@ -28,6 +28,16 @@ dtReleased: "2022-04-21"
 dtModified: ""
 fancy_name: Acute Androsphinx
 aetherPower: regen
+lb1:
+  power: 915
+  attack: 883
+  defense: 863
+  health: 1711
+lb2:
+  power: 1029
+  attack: 1010
+  defense: 988
+  health: 1958
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -61,4 +71,14 @@ costume:
   dtModified: ""
   fancy_name: Aquatic Androsphinx
   aetherPower: defense_up
+  lb1:
+    power: 1285
+    attack: 1326
+    defense: 1220
+    health: 2534
+  lb2:
+    power: 1452
+    attack: 1517
+    defense: 1395
+    health: 2899
 ...

@@ -20,6 +20,16 @@ dtReleased: "2020-10-22"
 dtModified: ""
 fancy_name: Goddess of Harvest
 aetherPower: attack_up
+lb1:
+  power: 837
+  attack: 832
+  defense: 825
+  health: 1356
+lb2:
+  power: 939
+  attack: 952
+  defense: 944
+  health: 1551
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,4 +51,14 @@ costume:
   dtModified: ""
   fancy_name: Goddess of the Wild
   aetherPower: special_armor
+  lb1:
+    power: 1049
+    attack: 1045
+    defense: 1065
+    health: 1864
+  lb2:
+    power: 1183
+    attack: 1196
+    defense: 1219
+    health: 2132
 ...

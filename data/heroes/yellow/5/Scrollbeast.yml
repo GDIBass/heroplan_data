@@ -31,4 +31,14 @@ dtReleased: "2024-04-15"
 dtModified: "2026-03-20"
 fancy_name: Retired Boar Rider
 aetherPower: ailment_immunity
+lb1:
+  power: 1136
+  attack: 1125
+  defense: 1172
+  health: 2066
+lb2:
+  power: 1281
+  attack: 1287
+  defense: 1341
+  health: 2364
 ...

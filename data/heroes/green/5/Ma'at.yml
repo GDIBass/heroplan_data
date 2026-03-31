@@ -27,6 +27,16 @@ dtReleased: "2022-09-29"
 dtModified: ""
 fancy_name: Lady of Harmony
 aetherPower: defense_up
+lb1:
+  power: 923
+  attack: 896
+  defense: 901
+  health: 1660
+lb2:
+  power: 1038
+  attack: 1026
+  defense: 1031
+  health: 1899
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +69,14 @@ costume:
   dtModified: ""
   fancy_name: Lady of the Iteru
   aetherPower: damage_reduction
+  lb1:
+    power: 1294
+    attack: 1290
+    defense: 1316
+    health: 2497
+  lb2:
+    power: 1463
+    attack: 1476
+    defense: 1506
+    health: 2857
 ...

@@ -24,4 +24,14 @@ dtReleased: "2022-12-29"
 dtModified: ""
 fancy_name: Hardened Gargoyle
 aetherPower: attack_up
+lb1:
+  power: 906
+  attack: 892
+  defense: 876
+  health: 1602
+lb2:
+  power: 1019
+  attack: 1021
+  defense: 1003
+  health: 1833
 ...

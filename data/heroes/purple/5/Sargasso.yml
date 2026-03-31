@@ -20,6 +20,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Dread Captain of Corellia
 aetherPower: revive
+lb1:
+  power: 814
+  attack: 785
+  defense: 763
+  health: 1438
+lb2:
+  power: 914
+  attack: 899
+  defense: 873
+  health: 1645
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +56,14 @@ costume:
   dtModified: ""
   fancy_name: Rotten Captain of Corellia
   aetherPower: regen
+  lb1:
+    power: 1022
+    attack: 998
+    defense: 1068
+    health: 1780
+  lb2:
+    power: 1151
+    attack: 1141
+    defense: 1222
+    health: 2037
 ...

@@ -30,4 +30,14 @@ dtReleased: "2025-01-06"
 dtModified: ""
 fancy_name: Barmaid of the Astral Dwarves
 aetherPower: defense_up
+lb1:
+  power: 1241
+  attack: 1263
+  defense: 1354
+  health: 2109
+lb2:
+  power: 1402
+  attack: 1445
+  defense: 1549
+  health: 2413
 ...

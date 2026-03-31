@@ -25,6 +25,16 @@ dtReleased: "2021-03-25"
 dtModified: ""
 fancy_name: Courageous Voyager
 aetherPower: attack_up
+lb1:
+  power: 859
+  attack: 896
+  defense: 783
+  health: 1443
+lb2:
+  power: 966
+  attack: 1026
+  defense: 896
+  health: 1651
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +63,14 @@ costume:
   dtModified: ""
   fancy_name: Exquisite Engineer
   aetherPower: rage
+  lb1:
+    power: 1090
+    attack: 1145
+    defense: 1038
+    health: 1960
+  lb2:
+    power: 1230
+    attack: 1310
+    defense: 1188
+    health: 2242
 ...

@@ -34,4 +34,14 @@ dtReleased: "2022-11-03"
 dtModified: ""
 fancy_name: Ruffian of the Canine Expedition
 aetherPower: attack_up
+lb1:
+  power: 890
+  attack: 843
+  defense: 892
+  health: 1576
+lb2:
+  power: 1001
+  attack: 965
+  defense: 1021
+  health: 1803
 ...

@@ -26,6 +26,16 @@ dtReleased: "2022-06-20"
 dtModified: ""
 fancy_name: Summer Maiden
 aetherPower: defense_up
+lb1:
+  power: 891
+  attack: 850
+  defense: 874
+  health: 1600
+lb2:
+  power: 1001
+  attack: 972
+  defense: 1000
+  health: 1831
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,4 +62,14 @@ costume:
   dtModified: ""
   fancy_name: Lake Maiden
   aetherPower: bulwark
+  lb1:
+    power: 1153
+    attack: 1109
+    defense: 1210
+    health: 2154
+  lb2:
+    power: 1302
+    attack: 1269
+    defense: 1385
+    health: 2465
 ...

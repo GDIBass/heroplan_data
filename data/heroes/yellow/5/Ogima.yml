@@ -27,4 +27,14 @@ dtReleased: "2022-12-01"
 dtModified: ""
 fancy_name: Bard of Spirits
 aetherPower: defense_up
+lb1:
+  power: 892
+  attack: 899
+  defense: 861
+  health: 1514
+lb2:
+  power: 1003
+  attack: 1028
+  defense: 985
+  health: 1732
 ...

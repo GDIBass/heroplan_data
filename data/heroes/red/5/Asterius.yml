@@ -25,4 +25,14 @@ dtReleased: "2021-02-11"
 dtModified: ""
 fancy_name: Monstrous Minotaur
 aetherPower: bulwark
+lb1:
+  power: 855
+  attack: 845
+  defense: 821
+  health: 1460
+lb2:
+  power: 960
+  attack: 967
+  defense: 939
+  health: 1671
 ...

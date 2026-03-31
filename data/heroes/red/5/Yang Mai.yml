@@ -30,4 +30,14 @@ dtReleased: "2021-05-01"
 dtModified: ""
 fancy_name: Fist of the Sun
 aetherPower: special_boost
+lb1:
+  power: 841
+  attack: 801
+  defense: 821
+  health: 1476
+lb2:
+  power: 944
+  attack: 916
+  defense: 939
+  health: 1689
 ...

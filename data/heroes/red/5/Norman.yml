@@ -29,4 +29,14 @@ dtReleased: "2024-01-11"
 dtModified: ""
 fancy_name: Jousting Champion
 aetherPower: knights_endurance
+lb1:
+  power: 1060
+  attack: 1092
+  defense: 1070
+  health: 1815
+lb2:
+  power: 1195
+  attack: 1249
+  defense: 1224
+  health: 2077
 ...

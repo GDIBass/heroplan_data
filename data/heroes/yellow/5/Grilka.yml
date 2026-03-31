@@ -34,4 +34,14 @@ dtReleased: "2024-04-22"
 dtModified: ""
 fancy_name: Hospitable Quartermaster
 aetherPower: taunt
+lb1:
+  power: 1110
+  attack: 1085
+  defense: 1165
+  health: 1998
+lb2:
+  power: 1252
+  attack: 1242
+  defense: 1333
+  health: 2286
 ...

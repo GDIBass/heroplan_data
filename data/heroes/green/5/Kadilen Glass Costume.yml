@@ -26,4 +26,14 @@ dtReleased: "2025-12-11"
 dtModified: ""
 fancy_name: Shieldmaster of Glass
 aetherPower: defense_up
+lb1:
+  power: 1327
+  attack: 1445
+  defense: 1297
+  health: 2382
+lb2:
+  power: 1500
+  attack: 1653
+  defense: 1484
+  health: 2726
 ...

@@ -32,4 +32,14 @@ dtReleased: "2023-12-24"
 dtModified: ""
 fancy_name: Imprisoned Construct
 aetherPower: attack_up
+lb1:
+  power: 1053
+  attack: 1072
+  defense: 981
+  health: 1991
+lb2:
+  power: 1187
+  attack: 1226
+  defense: 1122
+  health: 2278
 ...

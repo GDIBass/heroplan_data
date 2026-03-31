@@ -20,4 +20,14 @@ dtReleased: "2022-01-05"
 dtModified: ""
 fancy_name: Marksman of the Castle
 aetherPower: vampire
+lb1:
+  power: 876
+  attack: 856
+  defense: 861
+  health: 1509
+lb2:
+  power: 985
+  attack: 980
+  defense: 985
+  health: 1727
 ...

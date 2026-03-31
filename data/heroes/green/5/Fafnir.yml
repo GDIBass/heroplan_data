@@ -35,4 +35,14 @@ dtReleased: "2025-06-13"
 dtModified: ""
 fancy_name: Dwarven Lord of Myrkheim
 aetherPower: counterattack
+lb1:
+  power: 1295
+  attack: 1347
+  defense: 1265
+  health: 2466
+lb2:
+  power: 1464
+  attack: 1541
+  defense: 1447
+  health: 2821
 ...

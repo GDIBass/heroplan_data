@@ -35,4 +35,14 @@ dtReleased: "2026-02-17"
 dtModified: ""
 fancy_name: Lion Dance Drummer
 aetherPower: defense_up
+lb1:
+  power: 1372
+  attack: 1431
+  defense: 1434
+  health: 2468
+lb2:
+  power: 1552
+  attack: 1638
+  defense: 1640
+  health: 2824
 ...

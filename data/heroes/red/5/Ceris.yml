@@ -33,4 +33,14 @@ dtReleased: "2025-04-21"
 dtModified: ""
 fancy_name: Astral Dwarf Magus
 aetherPower: attack_up
+lb1:
+  power: 1261
+  attack: 1307
+  defense: 1300
+  health: 2248
+lb2:
+  power: 1425
+  attack: 1496
+  defense: 1488
+  health: 2573
 ...

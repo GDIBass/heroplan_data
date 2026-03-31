@@ -22,6 +22,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Chief of Tribes
 aetherPower: special_armor
+lb1:
+  power: 806
+  attack: 765
+  defense: 692
+  health: 1571
+lb2:
+  power: 905
+  attack: 876
+  defense: 792
+  health: 1798
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,6 +54,16 @@ costume:
   dtModified: ""
   fancy_name: Avenger of Tribes
   aetherPower: mana_boost
+  lb1:
+    power: 910
+    attack: 883
+    defense: 802
+    health: 1798
+  lb2:
+    power: 1023
+    attack: 1010
+    defense: 918
+    health: 2057
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -66,6 +86,16 @@ costume2:
   dtModified: ""
   fancy_name: Chief of Leopards
   aetherPower: counterattack
+  lb1:
+    power: 1035
+    attack: 1002
+    defense: 927
+    health: 2145
+  lb2:
+    power: 1166
+    attack: 1146
+    defense: 1061
+    health: 2454
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -94,6 +124,16 @@ costume3:
   dtModified: ""
   fancy_name: Chief of Toons
   aetherPower: special_armor
+  lb1:
+    power: 1216
+    attack: 1245
+    defense: 1039
+    health: 2604
+  lb2:
+    power: 1373
+    attack: 1425
+    defense: 1188
+    health: 2979
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -120,4 +160,14 @@ costume4:
   dtModified: ""
   fancy_name: Chief of Vitrails
   aetherPower: special_armor
+  lb1:
+    power: 1328
+    attack: 1414
+    defense: 1165
+    health: 2734
+  lb2:
+    power: 1502
+    attack: 1617
+    defense: 1333
+    health: 3128
 ...

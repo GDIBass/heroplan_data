@@ -30,6 +30,16 @@ dtReleased: "2021-08-05"
 dtModified: ""
 fancy_name: The Accursed
 aetherPower: fiend_resist
+lb1:
+  power: 860
+  attack: 788
+  defense: 876
+  health: 1531
+lb2:
+  power: 966
+  attack: 901
+  defense: 1003
+  health: 1752
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -63,4 +73,14 @@ costume:
   dtModified: ""
   fancy_name: The Cephaloid Servant
   aetherPower: damage_reduction
+  lb1:
+    power: 1291
+    attack: 1341
+    defense: 1237
+    health: 2506
+  lb2:
+    power: 1459
+    attack: 1535
+    defense: 1415
+    health: 2868
 ...

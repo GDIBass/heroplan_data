@@ -36,4 +36,14 @@ dtReleased: "2023-06-20"
 dtModified: ""
 fancy_name: Mysterious Mastermind
 aetherPower: attack_up
+lb1:
+  power: 1020
+  attack: 1018
+  defense: 1005
+  health: 1840
+lb2:
+  power: 1149
+  attack: 1165
+  defense: 1150
+  health: 2105
 ...

@@ -24,4 +24,14 @@ dtReleased: "2025-10-09"
 dtModified: ""
 fancy_name: Glass Scientist
 aetherPower: mana_boost
+lb1:
+  power: 1327
+  attack: 1320
+  defense: 1320
+  health: 2647
+lb2:
+  power: 1500
+  attack: 1511
+  defense: 1511
+  health: 3029
 ...

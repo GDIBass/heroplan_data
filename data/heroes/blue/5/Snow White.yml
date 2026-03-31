@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Princess of Grimforest
 aetherPower: defense_up
+lb1:
+  power: 831
+  attack: 814
+  defense: 805
+  health: 1400
+lb2:
+  power: 933
+  attack: 932
+  defense: 922
+  health: 1602
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +54,14 @@ costume:
   dtModified: ""
   fancy_name: Slayer White
   aetherPower: defense_up
+  lb1:
+    power: 1043
+    attack: 1068
+    defense: 979
+    health: 1933
+  lb2:
+    power: 1175
+    attack: 1222
+    defense: 1120
+    health: 2211
 ...

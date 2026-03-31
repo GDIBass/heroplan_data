@@ -32,4 +32,14 @@ dtReleased: "2020-10-13"
 dtModified: ""
 fancy_name: Ninja of Elusive Winds
 aetherPower: attack_up
+lb1:
+  power: 850
+  attack: 865
+  defense: 761
+  health: 1500
+lb2:
+  power: 955
+  attack: 990
+  defense: 871
+  health: 1717
 ...

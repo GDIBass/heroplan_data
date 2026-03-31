@@ -28,4 +28,14 @@ dtReleased: "2022-12-01"
 dtModified: ""
 fancy_name: Gnome Elder
 aetherPower: heal_increase
+lb1:
+  power: 907
+  attack: 854
+  defense: 912
+  health: 1633
+lb2:
+  power: 1020
+  attack: 977
+  defense: 1043
+  health: 1869
 ...

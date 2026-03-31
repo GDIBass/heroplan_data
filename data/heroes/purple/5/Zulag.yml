@@ -26,4 +26,14 @@ dtReleased: "2020-10-01"
 dtModified: ""
 fancy_name: The Valiant
 aetherPower: ailment_immunity
+lb1:
+  power: 829
+  attack: 721
+  defense: 843
+  health: 1545
+lb2:
+  power: 931
+  attack: 825
+  defense: 965
+  health: 1767
 ...

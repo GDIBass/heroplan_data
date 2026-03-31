@@ -27,4 +27,14 @@ dtReleased: "2022-11-12"
 dtModified: "2026-03-20"
 fancy_name: Burly Bashing Barbarian
 aetherPower: attack_up
+lb1:
+  power: 946
+  attack: 883
+  defense: 952
+  health: 1756
+lb2:
+  power: 1064
+  attack: 1010
+  defense: 1089
+  health: 2009
 ...

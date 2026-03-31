@@ -36,4 +36,14 @@ dtReleased: "2022-08-25"
 dtModified: "2026-03-20"
 fancy_name: Titanbone Warrior
 aetherPower: counterattack
+lb1:
+  power: 944
+  attack: 901
+  defense: 943
+  health: 1718
+lb2:
+  power: 1063
+  attack: 1031
+  defense: 1079
+  health: 1965
 ...

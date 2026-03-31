@@ -23,4 +23,14 @@ dtReleased: "2023-08-07"
 dtModified: ""
 fancy_name: Captain of the Wicked
 aetherPower: ailment_immunity
+lb1:
+  power: 1030
+  attack: 996
+  defense: 916
+  health: 2148
+lb2:
+  power: 1161
+  attack: 1140
+  defense: 1048
+  health: 2457
 ...

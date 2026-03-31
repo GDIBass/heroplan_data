@@ -31,4 +31,14 @@ dtReleased: "2022-04-01"
 dtModified: ""
 fancy_name: Forest God
 aetherPower: special_boost
+lb1:
+  power: 859
+  attack: 839
+  defense: 808
+  health: 1536
+lb2:
+  power: 965
+  attack: 960
+  defense: 924
+  health: 1757
 ...

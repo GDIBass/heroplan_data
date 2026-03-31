@@ -30,4 +30,14 @@ dtReleased: "2025-08-14"
 dtModified: ""
 fancy_name: Marquise Moth
 aetherPower: special_armor
+lb1:
+  power: 1314
+  attack: 1316
+  defense: 1383
+  health: 2439
+lb2:
+  power: 1485
+  attack: 1506
+  defense: 1582
+  health: 2791
 ...

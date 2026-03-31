@@ -32,4 +32,14 @@ dtReleased: "2025-04-09"
 dtModified: ""
 fancy_name: Mosh Pit Maestro
 aetherPower: counterattack
+lb1:
+  power: 1271
+  attack: 1285
+  defense: 1314
+  health: 2350
+lb2:
+  power: 1436
+  attack: 1470
+  defense: 1503
+  health: 2689
 ...

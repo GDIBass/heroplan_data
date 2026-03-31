@@ -25,4 +25,14 @@ dtReleased: "2022-12-29"
 dtModified: ""
 fancy_name: Shadowy Gargoyle
 aetherPower: special_boost
+lb1:
+  power: 907
+  attack: 888
+  defense: 868
+  health: 1631
+lb2:
+  power: 1019
+  attack: 1016
+  defense: 993
+  health: 1866
 ...

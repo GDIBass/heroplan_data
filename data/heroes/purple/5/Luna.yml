@@ -28,4 +28,14 @@ dtReleased: "2023-09-04"
 dtModified: ""
 fancy_name: Crescent Owl
 aetherPower: ailment_immunity
+lb1:
+  power: 1001
+  attack: 985
+  defense: 967
+  health: 1862
+lb2:
+  power: 1127
+  attack: 1127
+  defense: 1107
+  health: 2131
 ...

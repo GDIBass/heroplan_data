@@ -30,4 +30,14 @@ dtReleased: "2025-01-22"
 dtModified: "2026-03-22"
 fancy_name: Gentle Faun Gardener
 aetherPower: regen
+lb1:
+  power: 1237
+  attack: 1205
+  defense: 1274
+  health: 2386
+lb2:
+  power: 1397
+  attack: 1379
+  defense: 1457
+  health: 2730
 ...

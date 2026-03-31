@@ -36,4 +36,14 @@ dtReleased: "2025-11-30"
 dtModified: ""
 fancy_name: Magical Aviator
 aetherPower: regen
+lb1:
+  power: 1345
+  attack: 1403
+  defense: 1409
+  health: 2395
+lb2:
+  power: 1521
+  attack: 1605
+  defense: 1612
+  health: 2740
 ...

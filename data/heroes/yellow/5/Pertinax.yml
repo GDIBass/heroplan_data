@@ -37,4 +37,14 @@ dtReleased: "2025-02-05"
 dtModified: ""
 fancy_name: Knight Guardian of Owl Tower
 aetherPower: counterattack
+lb1:
+  power: 1240
+  attack: 1252
+  defense: 1278
+  health: 2282
+lb2:
+  power: 1401
+  attack: 1432
+  defense: 1463
+  health: 2611
 ...

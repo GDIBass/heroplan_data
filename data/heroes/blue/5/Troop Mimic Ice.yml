@@ -47,4 +47,14 @@ dtReleased: "2026-02-23"
 dtModified: ""
 fancy_name: Bounty of Dreadful Arsenal
 aetherPower: bulwark
+lb1:
+  power: 1372
+  attack: 1440
+  defense: 1436
+  health: 2439
+lb2:
+  power: 1552
+  attack: 1648
+  defense: 1643
+  health: 2791
 ...

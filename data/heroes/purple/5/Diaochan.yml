@@ -24,6 +24,16 @@ dtReleased: "2022-03-14"
 dtModified: ""
 fancy_name: Brilliant Beauty
 aetherPower: attack_up
+lb1:
+  power: 890
+  attack: 868
+  defense: 859
+  health: 1580
+lb2:
+  power: 1000
+  attack: 993
+  defense: 982
+  health: 1808
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +63,14 @@ costume:
   dtModified: ""
   fancy_name: Flower Beauty
   aetherPower: defense_up
+  lb1:
+    power: 1181
+    attack: 1156
+    defense: 1174
+    health: 2311
+  lb2:
+    power: 1334
+    attack: 1323
+    defense: 1344
+    health: 2644
 ...

@@ -31,4 +31,14 @@ dtReleased: "2024-10-02"
 dtModified: ""
 fancy_name: Fiendish Forest Blob
 aetherPower: fiend_resist
+lb1:
+  power: 1220
+  attack: 1258
+  defense: 1232
+  health: 2213
+lb2:
+  power: 1378
+  attack: 1440
+  defense: 1409
+  health: 2532
 ...

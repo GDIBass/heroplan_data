@@ -34,6 +34,16 @@ dtReleased: "2023-06-07"
 dtModified: ""
 fancy_name: Nereid Princess
 aetherPower: dodge
+lb1:
+  power: 996
+  attack: 976
+  defense: 992
+  health: 1804
+lb2:
+  power: 1122
+  attack: 1117
+  defense: 1135
+  health: 2065
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -69,4 +79,14 @@ costume:
   dtModified: ""
   fancy_name: Princess of the Reef
   aetherPower: ailment_immunity
+  lb1:
+    power: 1242
+    attack: 1227
+    defense: 1290
+    health: 2335
+  lb2:
+    power: 1403
+    attack: 1404
+    defense: 1476
+    health: 2672
 ...

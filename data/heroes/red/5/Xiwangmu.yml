@@ -30,4 +30,14 @@ dtReleased: "2023-10-09"
 dtModified: ""
 fancy_name: The Queen Mother
 aetherPower: defense_up
+lb1:
+  power: 1011
+  attack: 1058
+  defense: 1032
+  health: 1625
+lb2:
+  power: 1139
+  attack: 1211
+  defense: 1181
+  health: 1859
 ...

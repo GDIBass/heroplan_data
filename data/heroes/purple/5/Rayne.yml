@@ -21,4 +21,14 @@ dtReleased: "2022-01-05"
 dtModified: ""
 fancy_name: Captain of the Castle
 aetherPower: vampire
+lb1:
+  power: 876
+  attack: 879
+  defense: 841
+  health: 1491
+lb2:
+  power: 984
+  attack: 1005
+  defense: 962
+  health: 1706
 ...

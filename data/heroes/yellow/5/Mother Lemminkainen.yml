@@ -27,4 +27,14 @@ dtReleased: "2025-07-28"
 dtModified: ""
 fancy_name: Champion's Savior
 aetherPower: heal_increase
+lb1:
+  power: 1310
+  attack: 1376
+  defense: 1327
+  health: 2373
+lb2:
+  power: 1481
+  attack: 1574
+  defense: 1518
+  health: 2715
 ...

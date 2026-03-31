@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Chieftain of Teltoc
 aetherPower: rage
+lb1:
+  power: 815
+  attack: 848
+  defense: 632
+  health: 1545
+lb2:
+  power: 914
+  attack: 970
+  defense: 723
+  health: 1767
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +57,14 @@ costume:
   dtModified: ""
   fancy_name: Conqueror Kong
   aetherPower: regen
+  lb1:
+    power: 1025
+    attack: 1085
+    defense: 801
+    health: 2116
+  lb2:
+    power: 1155
+    attack: 1241
+    defense: 917
+    health: 2421
 ...

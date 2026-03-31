@@ -27,4 +27,14 @@ dtReleased: "2025-03-20"
 dtModified: ""
 fancy_name: Moth of the Mist
 aetherPower: bulwark
+lb1:
+  power: 1272
+  attack: 1265
+  defense: 1394
+  health: 2246
+lb2:
+  power: 1437
+  attack: 1447
+  defense: 1595
+  health: 2570
 ...

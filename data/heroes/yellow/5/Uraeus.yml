@@ -29,4 +29,14 @@ dtReleased: "2021-02-01"
 dtModified: ""
 fancy_name: Arcane Vizier
 aetherPower: special_boost
+lb1:
+  power: 837
+  attack: 839
+  defense: 783
+  health: 1427
+lb2:
+  power: 940
+  attack: 960
+  defense: 896
+  health: 1633
 ...

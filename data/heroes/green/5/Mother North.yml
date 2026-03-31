@@ -23,6 +23,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: The Northern Chef
 aetherPower: defense_up
+lb1:
+  power: 821
+  attack: 652
+  defense: 883
+  health: 1576
+lb2:
+  power: 921
+  attack: 746
+  defense: 1010
+  health: 1803
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +59,14 @@ costume:
   dtModified: ""
   fancy_name: Holiday Sweater Enthusiast
   aetherPower: special_armor
+  lb1:
+    power: 1080
+    attack: 863
+    defense: 1225
+    health: 2221
+  lb2:
+    power: 1219
+    attack: 988
+    defense: 1402
+    health: 2541
 ...

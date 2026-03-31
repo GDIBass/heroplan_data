@@ -37,6 +37,16 @@ dtReleased: "2023-06-28"
 dtModified: ""
 fancy_name: Starlight Conjurer
 aetherPower: attack_up
+lb1:
+  power: 968
+  attack: 950
+  defense: 963
+  health: 1727
+lb2:
+  power: 1090
+  attack: 1087
+  defense: 1102
+  health: 1976
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -77,4 +87,14 @@ costume:
   dtModified: ""
   fancy_name: Twilight Conjurer
   aetherPower: special_boost
+  lb1:
+    power: 1321
+    attack: 1345
+    defense: 1358
+    health: 2466
+  lb2:
+    power: 1494
+    attack: 1540
+    defense: 1554
+    health: 2822
 ...

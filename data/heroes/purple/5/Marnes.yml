@@ -40,4 +40,14 @@ dtReleased: "2025-11-07"
 dtModified: ""
 fancy_name: Flank-Stabbing Panther
 aetherPower: attack_up
+lb1:
+  power: 1339
+  attack: 1427
+  defense: 1351
+  health: 2406
+lb2:
+  power: 1514
+  attack: 1633
+  defense: 1546
+  health: 2753
 ...

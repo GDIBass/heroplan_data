@@ -38,4 +38,14 @@ dtReleased: "2025-10-20"
 dtModified: ""
 fancy_name: Snow Leopard Magus
 aetherPower: heal_increase
+lb1:
+  power: 1334
+  attack: 1465
+  defense: 1300
+  health: 2377
+lb2:
+  power: 1509
+  attack: 1676
+  defense: 1488
+  health: 2720
 ...

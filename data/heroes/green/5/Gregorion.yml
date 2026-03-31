@@ -22,6 +22,16 @@ dtReleased: "2018-07-01"
 dtModified: ""
 fancy_name: The Adept Archer
 aetherPower: attack_up
+lb1:
+  power: 817
+  attack: 785
+  defense: 765
+  health: 1456
+lb2:
+  power: 918
+  attack: 899
+  defense: 876
+  health: 1666
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +57,14 @@ costume:
   dtModified: ""
   fancy_name: The Hermit Alchemist
   aetherPower: rage
+  lb1:
+    power: 1043
+    attack: 1034
+    defense: 953
+    health: 2073
+  lb2:
+    power: 1176
+    attack: 1183
+    defense: 1091
+    health: 2371
 ...

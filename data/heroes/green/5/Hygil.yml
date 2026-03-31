@@ -31,4 +31,14 @@ dtReleased: "2025-08-24"
 dtModified: ""
 fancy_name: Astral Dwarf Cartographer
 aetherPower: damage_reduction
+lb1:
+  power: 1316
+  attack: 1294
+  defense: 1418
+  health: 2439
+lb2:
+  power: 1488
+  attack: 1480
+  defense: 1623
+  health: 2791
 ...

@@ -38,4 +38,14 @@ dtReleased: "2025-12-27"
 dtModified: ""
 fancy_name: Lava Magic Girl
 aetherPower: rage
+lb1:
+  power: 1354
+  attack: 1427
+  defense: 1389
+  health: 2439
+lb2:
+  power: 1532
+  attack: 1633
+  defense: 1590
+  health: 2791
 ...

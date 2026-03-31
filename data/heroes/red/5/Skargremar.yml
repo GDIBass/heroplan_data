@@ -31,4 +31,14 @@ dtReleased: "2023-06-01"
 dtModified: ""
 fancy_name: Pioneering Rearguard
 aetherPower: counterattack
+lb1:
+  power: 878
+  attack: 825
+  defense: 852
+  health: 1613
+lb2:
+  power: 986
+  attack: 944
+  defense: 975
+  health: 1846
 ...

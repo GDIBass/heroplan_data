@@ -29,4 +29,14 @@ dtReleased: "2025-03-31"
 dtModified: "2026-03-31"
 fancy_name: Mischievous Mallard
 aetherPower: special_boost
+lb1:
+  power: 1253
+  attack: 1338
+  defense: 1207
+  health: 2299
+lb2:
+  power: 1415
+  attack: 1531
+  defense: 1381
+  health: 2631
 ...

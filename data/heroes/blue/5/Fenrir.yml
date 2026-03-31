@@ -24,6 +24,16 @@ dtReleased: "2020-02-27"
 dtModified: "2026-03-23"
 fancy_name: Leader of Niflheim
 aetherPower: rage
+lb1:
+  power: 837
+  attack: 841
+  defense: 794
+  health: 1398
+lb2:
+  power: 940
+  attack: 962
+  defense: 909
+  health: 1600
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +58,14 @@ costume:
   dtModified: "2026-03-23"
   fancy_name: Guardian of Niflheim
   aetherPower: special_boost
+  lb1:
+    power: 1049
+    attack: 1094
+    defense: 1000
+    health: 1870
+  lb2:
+    power: 1182
+    attack: 1251
+    defense: 1144
+    health: 2139
 ...

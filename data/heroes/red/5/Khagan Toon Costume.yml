@@ -30,4 +30,14 @@ dtReleased: "2024-04-08"
 dtModified: ""
 fancy_name: Chief of Toons
 aetherPower: special_armor
+lb1:
+  power: 1216
+  attack: 1245
+  defense: 1039
+  health: 2604
+lb2:
+  power: 1373
+  attack: 1425
+  defense: 1188
+  health: 2979
 ...

@@ -35,4 +35,14 @@ dtReleased: "2024-07-07"
 dtModified: ""
 fancy_name: Courageous Corporal
 aetherPower: defense_up
+lb1:
+  power: 1177
+  attack: 1174
+  defense: 1247
+  health: 2086
+lb2:
+  power: 1328
+  attack: 1343
+  defense: 1427
+  health: 2387
 ...

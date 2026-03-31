@@ -42,4 +42,14 @@ dtReleased: "2025-09-23"
 dtModified: "2026-03-22"
 fancy_name: The Strange Inhabitant
 aetherPower: rage
+lb1:
+  power: 1325
+  attack: 1387
+  defense: 1347
+  health: 2417
+lb2:
+  power: 1499
+  attack: 1587
+  defense: 1541
+  health: 2766
 ...

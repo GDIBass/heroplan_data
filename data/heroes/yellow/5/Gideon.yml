@@ -33,4 +33,14 @@ dtReleased: "2024-12-07"
 dtModified: "2026-03-20"
 fancy_name: Courageous Faun Commander
 aetherPower: boosted_regen
+lb1:
+  power: 1230
+  attack: 1209
+  defense: 1256
+  health: 2364
+lb2:
+  power: 1390
+  attack: 1384
+  defense: 1437
+  health: 2705
 ...

@@ -39,4 +39,14 @@ dtReleased: "2026-02-04"
 dtModified: ""
 fancy_name: Broccoli Shaman
 aetherPower: ailment_immunity
+lb1:
+  power: 1368
+  attack: 1423
+  defense: 1425
+  health: 2473
+lb2:
+  power: 1547
+  attack: 1628
+  defense: 1630
+  health: 2829
 ...

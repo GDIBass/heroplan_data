@@ -37,4 +37,14 @@ dtReleased: "2025-07-05"
 dtModified: ""
 fancy_name: Magic Carpet Charmer
 aetherPower: special_armor
+lb1:
+  power: 1302
+  attack: 1283
+  defense: 1358
+  health: 2490
+lb2:
+  power: 1472
+  attack: 1468
+  defense: 1554
+  health: 2849
 ...

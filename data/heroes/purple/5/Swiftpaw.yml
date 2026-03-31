@@ -28,4 +28,14 @@ dtReleased: "2024-10-07"
 dtModified: ""
 fancy_name: The Assassin Silver Fox
 aetherPower: special_boost
+lb1:
+  power: 1221
+  attack: 1287
+  defense: 1192
+  health: 2233
+lb2:
+  power: 1379
+  attack: 1473
+  defense: 1363
+  health: 2555
 ...

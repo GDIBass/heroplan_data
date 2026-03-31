@@ -28,4 +28,14 @@ dtReleased: "2024-02-14"
 dtModified: ""
 fancy_name: Berserker of Owl Tower
 aetherPower: defense_up
+lb1:
+  power: 1072
+  attack: 1123
+  defense: 1118
+  health: 1724
+lb2:
+  power: 1209
+  attack: 1285
+  defense: 1280
+  health: 1973
 ...

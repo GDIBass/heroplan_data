@@ -26,6 +26,16 @@ dtReleased: "2020-04-23"
 dtModified: "2026-03-23"
 fancy_name: Queen of Svartalfheim
 aetherPower: damage_reduction
+lb1:
+  power: 842
+  attack: 710
+  defense: 910
+  health: 1531
+lb2:
+  power: 945
+  attack: 812
+  defense: 1041
+  health: 1752
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,4 +62,14 @@ costume:
   dtModified: "2026-03-23"
   fancy_name: Hatter of Svartalfheim
   aetherPower: ailment_immunity
+  lb1:
+    power: 1059
+    attack: 841
+    defense: 1250
+    health: 2070
+  lb2:
+    power: 1193
+    attack: 962
+    defense: 1430
+    health: 2369
 ...

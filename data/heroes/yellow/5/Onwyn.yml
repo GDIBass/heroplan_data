@@ -41,4 +41,14 @@ dtReleased: "2026-03-06"
 dtModified: ""
 fancy_name: Onion Bandit
 aetherPower: counterattack
+lb1:
+  power: 1375
+  attack: 1440
+  defense: 1425
+  health: 2484
+lb2:
+  power: 1556
+  attack: 1648
+  defense: 1630
+  health: 2842
 ...

@@ -32,4 +32,14 @@ dtReleased: "2024-04-21"
 dtModified: ""
 fancy_name: Hallowed by the Devil Reef
 aetherPower: counterattack
+lb1:
+  power: 1205
+  attack: 1267
+  defense: 1196
+  health: 2160
+lb2:
+  power: 1361
+  attack: 1450
+  defense: 1369
+  health: 2471
 ...

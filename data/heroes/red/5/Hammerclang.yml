@@ -27,4 +27,14 @@ dtReleased: "2024-03-28"
 dtModified: "2026-03-29"
 fancy_name: Astral Elf Blacksmith
 aetherPower: special_boost
+lb1:
+  power: 1083
+  attack: 1107
+  defense: 1134
+  health: 1809
+lb2:
+  power: 1221
+  attack: 1267
+  defense: 1297
+  health: 2070
 ...

@@ -27,4 +27,14 @@ dtReleased: "2024-04-02"
 dtModified: "2026-03-20"
 fancy_name: Great Mystery of the River
 aetherPower: damage_reduction
+lb1:
+  power: 1095
+  attack: 1090
+  defense: 1156
+  health: 1893
+lb2:
+  power: 1235
+  attack: 1247
+  defense: 1323
+  health: 2166
 ...

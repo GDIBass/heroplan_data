@@ -29,4 +29,14 @@ dtReleased: "2022-11-03"
 dtModified: ""
 fancy_name: Copycat of the Illusionary Arts
 aetherPower: attack_up
+lb1:
+  power: 935
+  attack: 936
+  defense: 894
+  health: 1658
+lb2:
+  power: 1051
+  attack: 1071
+  defense: 1023
+  health: 1897
 ...

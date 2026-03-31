@@ -34,4 +34,14 @@ dtReleased: "2024-02-14"
 dtModified: ""
 fancy_name: Head Priestess of Owl Tower
 aetherPower: regen
+lb1:
+  power: 1119
+  attack: 1045
+  defense: 1165
+  health: 2160
+lb2:
+  power: 1262
+  attack: 1196
+  defense: 1333
+  health: 2471
 ...

@@ -37,4 +37,14 @@ dtReleased: "2025-10-19"
 dtModified: ""
 fancy_name: Magic Carpet Botanist
 aetherPower: defense_up
+lb1:
+  power: 1333
+  attack: 1365
+  defense: 1396
+  health: 2430
+lb2:
+  power: 1508
+  attack: 1562
+  defense: 1597
+  health: 2781
 ...

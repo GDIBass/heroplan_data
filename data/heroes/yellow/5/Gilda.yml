@@ -30,4 +30,14 @@ dtReleased: "2026-03-01"
 dtModified: ""
 fancy_name: Dwarven Guider of Light
 aetherPower: damage_reduction
+lb1:
+  power: 1266
+  attack: 1367
+  defense: 1358
+  health: 2022
+lb2:
+  power: 1431
+  attack: 1564
+  defense: 1554
+  health: 2313
 ...

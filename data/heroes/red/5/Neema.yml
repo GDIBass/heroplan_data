@@ -32,4 +32,14 @@ dtReleased: "2023-11-01"
 dtModified: ""
 fancy_name: Fire Wizard
 aetherPower: ailment_immunity
+lb1:
+  power: 951
+  attack: 888
+  defense: 976
+  health: 1731
+lb2:
+  power: 1070
+  attack: 1016
+  defense: 1117
+  health: 1981
 ...

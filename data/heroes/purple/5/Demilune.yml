@@ -28,4 +28,14 @@ dtReleased: "2024-05-20"
 dtModified: ""
 fancy_name: Astral Elf Oracle
 aetherPower: attack_up
+lb1:
+  power: 1124
+  attack: 1181
+  defense: 1152
+  health: 1880
+lb2:
+  power: 1268
+  attack: 1351
+  defense: 1318
+  health: 2151
 ...

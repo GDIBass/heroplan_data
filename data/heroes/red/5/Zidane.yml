@@ -37,4 +37,14 @@ dtReleased: "2024-10-01"
 dtModified: "2026-03-20"
 fancy_name: Charming Privateer
 aetherPower: gamble
+lb1:
+  power: 1095
+  attack: 1223
+  defense: 1047
+  health: 1778
+lb2:
+  power: 1234
+  attack: 1399
+  defense: 1198
+  health: 2034
 ...

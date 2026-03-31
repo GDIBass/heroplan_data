@@ -18,6 +18,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Mad Scientist
 aetherPower: mana_boost
+lb1:
+  power: 806
+  attack: 805
+  defense: 685
+  health: 1487
+lb2:
+  power: 905
+  attack: 922
+  defense: 784
+  health: 1701
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +48,16 @@ costume:
   dtModified: ""
   fancy_name: Electro Scientist
   aetherPower: special_boost
+  lb1:
+    power: 909
+    attack: 933
+    defense: 770
+    health: 1731
+  lb2:
+    power: 1022
+    attack: 1067
+    defense: 881
+    health: 1981
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -59,6 +79,16 @@ costume2:
   dtModified: ""
   fancy_name: Love Doctor
   aetherPower: ailment_immunity
+  lb1:
+    power: 1035
+    attack: 1048
+    defense: 896
+    health: 2093
+  lb2:
+    power: 1166
+    attack: 1199
+    defense: 1025
+    health: 2395
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -81,6 +111,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Scientist
   aetherPower: mana_boost
+  lb1:
+    power: 1214
+    attack: 1152
+    defense: 1180
+    health: 2539
+  lb2:
+    power: 1371
+    attack: 1318
+    defense: 1350
+    health: 2906
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -103,4 +143,14 @@ costume4:
   dtModified: ""
   fancy_name: Glass Scientist
   aetherPower: mana_boost
+  lb1:
+    power: 1327
+    attack: 1320
+    defense: 1320
+    health: 2647
+  lb2:
+    power: 1500
+    attack: 1511
+    defense: 1511
+    health: 3029
 ...

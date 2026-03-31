@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Prince of the Jungle
 aetherPower: counterattack
+lb1:
+  power: 824
+  attack: 888
+  defense: 719
+  health: 1336
+lb2:
+  power: 924
+  attack: 1016
+  defense: 822
+  health: 1529
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +55,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Prince of the Luʻau
   aetherPower: ailment_immunity
+  lb1:
+    power: 1008
+    attack: 935
+    defense: 1110
+    health: 1754
+  lb2:
+    power: 1135
+    attack: 1069
+    defense: 1270
+    health: 2007
 ...

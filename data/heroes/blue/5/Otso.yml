@@ -28,4 +28,14 @@ dtReleased: "2024-07-22"
 dtModified: ""
 fancy_name: Wanderer of the Steppes
 aetherPower: defense_up
+lb1:
+  power: 1105
+  attack: 999
+  defense: 1165
+  health: 2173
+lb2:
+  power: 1246
+  attack: 1143
+  defense: 1333
+  health: 2486
 ...

@@ -47,4 +47,14 @@ dtReleased: "2025-06-30"
 dtModified: "2026-03-28"
 fancy_name: Pagoda-Shifting Heavenly King of Water Margin
 aetherPower: defense_up
+lb1:
+  power: 1300
+  attack: 1338
+  defense: 1338
+  health: 2375
+lb2:
+  power: 1469
+  attack: 1531
+  defense: 1531
+  health: 2717
 ...

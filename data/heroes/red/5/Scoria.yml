@@ -34,4 +34,14 @@ dtReleased: "2024-05-19"
 dtModified: "2026-03-27"
 fancy_name: Everburning Construct
 aetherPower: attack_up
+lb1:
+  power: 1121
+  attack: 1127
+  defense: 1083
+  health: 2135
+lb2:
+  power: 1265
+  attack: 1290
+  defense: 1239
+  health: 2443
 ...

@@ -33,4 +33,14 @@ dtReleased: "2026-03-07"
 dtModified: "2026-03-22"
 fancy_name: Astral Demon Sun-Wielder
 aetherPower: fiend_resist
+lb1:
+  power: 1377
+  attack: 1414
+  defense: 1465
+  health: 2479
+lb2:
+  power: 1557
+  attack: 1617
+  defense: 1676
+  health: 2837
 ...

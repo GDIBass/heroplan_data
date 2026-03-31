@@ -27,6 +27,16 @@ dtReleased: "2022-07-07"
 dtModified: ""
 fancy_name: Spirit of Creation
 aetherPower: regen
+lb1:
+  power: 918
+  attack: 854
+  defense: 925
+  health: 1684
+lb2:
+  power: 1033
+  attack: 977
+  defense: 1059
+  health: 1927
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +69,14 @@ costume:
   dtModified: ""
   fancy_name: Heron of Creation
   aetherPower: damage_reduction
+  lb1:
+    power: 1288
+    attack: 1239
+    defense: 1342
+    health: 2527
+  lb2:
+    power: 1455
+    attack: 1417
+    defense: 1535
+    health: 2891
 ...

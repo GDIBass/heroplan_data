@@ -36,6 +36,16 @@ dtReleased: "2021-09-15"
 dtModified: ""
 fancy_name: Tower Headmaster
 aetherPower: defense_up
+lb1:
+  power: 871
+  attack: 836
+  defense: 843
+  health: 1558
+lb2:
+  power: 979
+  attack: 957
+  defense: 965
+  health: 1783
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -75,4 +85,14 @@ costume:
   dtModified: ""
   fancy_name: Tower Postmaster
   aetherPower: special_armor
+  lb1:
+    power: 1300
+    attack: 1341
+    defense: 1310
+    health: 2425
+  lb2:
+    power: 1470
+    attack: 1535
+    defense: 1499
+    health: 2775
 ...

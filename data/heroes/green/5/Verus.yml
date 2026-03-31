@@ -28,4 +28,14 @@ dtReleased: "2024-03-13"
 dtModified: ""
 fancy_name: Scout Commander of Owl Tower
 aetherPower: attack_up
+lb1:
+  power: 1119
+  attack: 1158
+  defense: 1127
+  health: 1953
+lb2:
+  power: 1262
+  attack: 1325
+  defense: 1290
+  health: 2235
 ...

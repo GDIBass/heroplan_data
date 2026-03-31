@@ -27,4 +27,14 @@ dtReleased: "2020-04-01"
 dtModified: ""
 fancy_name: Reigning Champion
 aetherPower: rage
+lb1:
+  power: 821
+  attack: 801
+  defense: 785
+  health: 1405
+lb2:
+  power: 922
+  attack: 916
+  defense: 899
+  health: 1607
 ...

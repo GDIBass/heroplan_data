@@ -31,4 +31,14 @@ dtReleased: "2023-12-08"
 dtModified: ""
 fancy_name: Cleric Construct
 aetherPower: defense_up
+lb1:
+  power: 1045
+  attack: 976
+  defense: 1107
+  health: 1922
+lb2:
+  power: 1178
+  attack: 1117
+  defense: 1267
+  health: 2199
 ...

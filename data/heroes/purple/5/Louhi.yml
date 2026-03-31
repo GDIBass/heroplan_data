@@ -26,6 +26,16 @@ dtReleased: "2022-06-20"
 dtModified: ""
 fancy_name: Witch of the North
 aetherPower: attack_up
+lb1:
+  power: 1000
+  attack: 999
+  defense: 932
+  health: 1895
+lb2:
+  power: 1127
+  attack: 1143
+  defense: 1066
+  health: 2169
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,4 +62,14 @@ costume:
   dtModified: ""
   fancy_name: Mistress of the North
   aetherPower: rage
+  lb1:
+    power: 1306
+    attack: 1279
+    defense: 1332
+    health: 2577
+  lb2:
+    power: 1476
+    attack: 1463
+    defense: 1524
+    health: 2948
 ...

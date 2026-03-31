@@ -23,6 +23,16 @@ dtReleased: "2018-09-01"
 dtModified: ""
 fancy_name: Mirage Assassin
 aetherPower: special_boost
+lb1:
+  power: 818
+  attack: 796
+  defense: 763
+  health: 1440
+lb2:
+  power: 919
+  attack: 911
+  defense: 873
+  health: 1648
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +59,14 @@ costume:
   dtModified: ""
   fancy_name: Mirage Engineer
   aetherPower: special_armor
+  lb1:
+    power: 1043
+    attack: 1040
+    defense: 951
+    health: 2060
+  lb2:
+    power: 1175
+    attack: 1189
+    defense: 1088
+    health: 2357
 ...

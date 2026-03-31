@@ -26,4 +26,14 @@ dtReleased: "2024-12-25"
 dtModified: ""
 fancy_name: Glass Leor
 aetherPower: rage
+lb1:
+  power: 1329
+  attack: 1441
+  defense: 1282
+  health: 2438
+lb2:
+  power: 1503
+  attack: 1649
+  defense: 1466
+  health: 2789
 ...

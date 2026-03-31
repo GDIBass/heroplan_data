@@ -35,4 +35,14 @@ dtReleased: "2024-02-27"
 dtModified: "2026-03-29"
 fancy_name: Party Gargoyle
 aetherPower: damage_reduction
+lb1:
+  power: 1120
+  attack: 1129
+  defense: 1167
+  health: 1953
+lb2:
+  power: 1264
+  attack: 1292
+  defense: 1336
+  health: 2235
 ...

@@ -19,4 +19,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Buccaneer Captain of Corellia
 aetherPower: revive
+lb1:
+  power: 815
+  attack: 783
+  defense: 757
+  health: 1458
+lb2:
+  power: 914
+  attack: 896
+  defense: 866
+  health: 1668
 ...

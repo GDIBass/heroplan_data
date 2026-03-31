@@ -26,4 +26,14 @@ dtReleased: "2025-02-14"
 dtModified: ""
 fancy_name: Cupid of Love Returned
 aetherPower: attack_up
+lb1:
+  power: 1244
+  attack: 1320
+  defense: 1196
+  health: 2304
+lb2:
+  power: 1406
+  attack: 1511
+  defense: 1369
+  health: 2636
 ...

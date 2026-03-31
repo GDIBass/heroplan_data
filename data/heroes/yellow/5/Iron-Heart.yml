@@ -40,4 +40,14 @@ dtReleased: "2025-09-14"
 dtModified: ""
 fancy_name: Holy Guardian Construct
 aetherPower: damage_reduction
+lb1:
+  power: 1322
+  attack: 1443
+  defense: 1345
+  health: 2259
+lb2:
+  power: 1495
+  attack: 1651
+  defense: 1539
+  health: 2585
 ...

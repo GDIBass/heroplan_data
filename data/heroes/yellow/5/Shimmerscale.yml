@@ -27,4 +27,14 @@ dtReleased: "2024-04-15"
 dtModified: "2026-03-20"
 fancy_name: Lizardfolk Lanternbearer
 aetherPower: attack_up
+lb1:
+  power: 1126
+  attack: 1136
+  defense: 1238
+  health: 1835
+lb2:
+  power: 1270
+  attack: 1300
+  defense: 1417
+  health: 2100
 ...

@@ -24,6 +24,16 @@ dtReleased: "2018-12-01"
 dtModified: ""
 fancy_name: Brave Heiress
 aetherPower: attack_up
+lb1:
+  power: 818
+  attack: 783
+  defense: 768
+  health: 1460
+lb2:
+  power: 918
+  attack: 896
+  defense: 878
+  health: 1671
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: ""
   fancy_name: Brave Huntress
   aetherPower: special_boost
+  lb1:
+    power: 1042
+    attack: 1025
+    defense: 965
+    health: 2063
+  lb2:
+    power: 1175
+    attack: 1173
+    defense: 1104
+    health: 2360
 ...

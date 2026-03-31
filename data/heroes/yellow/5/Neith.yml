@@ -28,4 +28,14 @@ dtReleased: "2019-11-01"
 dtModified: ""
 fancy_name: Opener of the Ways
 aetherPower: attack_up
+lb1:
+  power: 820
+  attack: 792
+  defense: 794
+  health: 1400
+lb2:
+  power: 920
+  attack: 906
+  defense: 909
+  health: 1602
 ...

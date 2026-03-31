@@ -33,4 +33,14 @@ dtReleased: "2025-02-21"
 dtModified: "2026-03-22"
 fancy_name: All-Seeing Faun Augur
 aetherPower: ailment_immunity
+lb1:
+  power: 1246
+  attack: 1289
+  defense: 1201
+  health: 2388
+lb2:
+  power: 1408
+  attack: 1475
+  defense: 1374
+  health: 2733
 ...

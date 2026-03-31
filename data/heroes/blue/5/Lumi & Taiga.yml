@@ -35,4 +35,14 @@ dtReleased: "2026-01-25"
 dtModified: ""
 fancy_name: Warden of the Tundra
 aetherPower: defense_up
+lb1:
+  power: 1363
+  attack: 1443
+  defense: 1391
+  health: 2459
+lb2:
+  power: 1542
+  attack: 1651
+  defense: 1592
+  health: 2814
 ...

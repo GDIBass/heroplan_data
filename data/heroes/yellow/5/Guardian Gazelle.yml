@@ -32,6 +32,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Druid of Teltoc
 aetherPower: ailment_immunity
+lb1:
+  power: 832
+  attack: 810
+  defense: 799
+  health: 1427
+lb2:
+  power: 933
+  attack: 927
+  defense: 914
+  health: 1633
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -62,4 +72,14 @@ costume:
   dtModified: ""
   fancy_name: Swift Striker of Teltoc
   aetherPower: heal_increase
+  lb1:
+    power: 1043
+    attack: 1060
+    defense: 1007
+    health: 1898
+  lb2:
+    power: 1175
+    attack: 1212
+    defense: 1152
+    health: 2172
 ...

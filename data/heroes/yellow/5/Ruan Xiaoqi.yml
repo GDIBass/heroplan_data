@@ -41,4 +41,14 @@ dtReleased: "2025-05-22"
 dtModified: "2026-03-28"
 fancy_name: Destruction Star of Water Margin
 aetherPower: dodge
+lb1:
+  power: 1287
+  attack: 1345
+  defense: 1314
+  health: 2315
+lb2:
+  power: 1455
+  attack: 1539
+  defense: 1503
+  health: 2649
 ...

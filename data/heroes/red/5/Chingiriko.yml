@@ -33,4 +33,14 @@ dtReleased: "2026-01-31"
 dtModified: ""
 fancy_name: Shadow Stalker Slime
 aetherPower: counterattack
+lb1:
+  power: 1365
+  attack: 1449
+  defense: 1391
+  health: 2457
+lb2:
+  power: 1544
+  attack: 1658
+  defense: 1592
+  health: 2811
 ...

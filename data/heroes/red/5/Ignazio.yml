@@ -32,6 +32,16 @@ dtReleased: "2023-03-27"
 dtModified: ""
 fancy_name: Conductor of Flames
 aetherPower: defense_up
+lb1:
+  power: 1017
+  attack: 956
+  defense: 996
+  health: 1995
+lb2:
+  power: 1146
+  attack: 1094
+  defense: 1140
+  health: 2283
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -65,4 +75,14 @@ costume:
   dtModified: ""
   fancy_name: Flame Surgeon
   aetherPower: special_armor
+  lb1:
+    power: 1280
+    attack: 1219
+    defense: 1303
+    health: 2603
+  lb2:
+    power: 1447
+    attack: 1395
+    defense: 1490
+    health: 2978
 ...

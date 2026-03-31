@@ -22,4 +22,14 @@ dtReleased: "2021-10-13"
 dtModified: ""
 fancy_name: Archmage of the Castle
 aetherPower: heal_increase
+lb1:
+  power: 870
+  attack: 821
+  defense: 841
+  health: 1591
+lb2:
+  power: 977
+  attack: 939
+  defense: 962
+  health: 1821
 ...

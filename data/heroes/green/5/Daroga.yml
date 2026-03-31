@@ -29,4 +29,14 @@ dtReleased: "2024-03-21"
 dtModified: ""
 fancy_name: Jade Eyed Gentleman
 aetherPower: dodge
+lb1:
+  power: 1091
+  attack: 1147
+  defense: 1145
+  health: 1749
+lb2:
+  power: 1231
+  attack: 1313
+  defense: 1310
+  health: 2001
 ...

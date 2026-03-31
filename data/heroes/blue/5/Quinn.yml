@@ -37,4 +37,14 @@ dtReleased: "2023-09-11"
 dtModified: ""
 fancy_name: Cosmic Chef
 aetherPower: counterattack
+lb1:
+  power: 1018
+  attack: 972
+  defense: 1043
+  health: 1867
+lb2:
+  power: 1147
+  attack: 1112
+  defense: 1193
+  health: 2136
 ...

@@ -37,4 +37,14 @@ dtReleased: "2024-11-25"
 dtModified: ""
 fancy_name: Master of the Mead-Hall
 aetherPower: attack_up
+lb1:
+  power: 1264
+  attack: 1391
+  defense: 1174
+  health: 2317
+lb2:
+  power: 1429
+  attack: 1592
+  defense: 1343
+  health: 2651
 ...

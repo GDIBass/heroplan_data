@@ -30,4 +30,14 @@ dtReleased: "2025-07-04"
 dtModified: ""
 fancy_name: Gooey Emerald Arbiter
 aetherPower: rage
+lb1:
+  power: 1303
+  attack: 1345
+  defense: 1214
+  health: 2624
+lb2:
+  power: 1472
+  attack: 1539
+  defense: 1389
+  health: 3002
 ...

@@ -28,4 +28,14 @@ dtReleased: "2025-03-13"
 dtModified: ""
 fancy_name: Fierce War-Leader
 aetherPower: regen
+lb1:
+  power: 1271
+  attack: 1365
+  defense: 1227
+  health: 2324
+lb2:
+  power: 1437
+  attack: 1562
+  defense: 1404
+  health: 2659
 ...

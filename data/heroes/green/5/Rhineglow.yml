@@ -34,4 +34,14 @@ dtReleased: "2024-06-06"
 dtModified: "2026-03-27"
 fancy_name: Supercapacitor Construct
 aetherPower: taunt
+lb1:
+  power: 1134
+  attack: 1056
+  defense: 1178
+  health: 2215
+lb2:
+  power: 1280
+  attack: 1209
+  defense: 1348
+  health: 2534
 ...

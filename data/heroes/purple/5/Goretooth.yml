@@ -32,4 +32,14 @@ dtReleased: "2022-12-24"
 dtModified: "2026-03-20"
 fancy_name: Savage Hunter
 aetherPower: attack_up
+lb1:
+  power: 949
+  attack: 979
+  defense: 903
+  health: 1636
+lb2:
+  power: 1068
+  attack: 1120
+  defense: 1033
+  health: 1871
 ...

@@ -31,4 +31,14 @@ dtReleased: "2025-03-14"
 dtModified: ""
 fancy_name: Unnerving Quartermaster
 aetherPower: attack_up
+lb1:
+  power: 1249
+  attack: 1223
+  defense: 1307
+  health: 2364
+lb2:
+  power: 1412
+  attack: 1399
+  defense: 1496
+  health: 2705
 ...

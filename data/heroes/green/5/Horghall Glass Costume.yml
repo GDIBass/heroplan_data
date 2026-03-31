@@ -26,4 +26,14 @@ dtReleased: "2025-09-07"
 dtModified: ""
 fancy_name: Vitrail of the Woods
 aetherPower: defense_up
+lb1:
+  power: 1321
+  attack: 1169
+  defense: 1313
+  health: 2999
+lb2:
+  power: 1493
+  attack: 1337
+  defense: 1502
+  health: 3431
 ...

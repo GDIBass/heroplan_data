@@ -24,6 +24,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Cat of Grimforest
 aetherPower: defense_up
+lb1:
+  power: 831
+  attack: 823
+  defense: 783
+  health: 1425
+lb2:
+  power: 933
+  attack: 942
+  defense: 896
+  health: 1630
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +58,14 @@ costume:
   dtModified: ""
   fancy_name: Masked Highwaycat
   aetherPower: special_armor
+  lb1:
+    power: 1044
+    attack: 1150
+    defense: 846
+    health: 2004
+  lb2:
+    power: 1177
+    attack: 1316
+    defense: 968
+    health: 2293
 ...

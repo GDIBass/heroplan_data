@@ -26,4 +26,14 @@ dtReleased: "2024-10-06"
 dtModified: ""
 fancy_name: Toon Shieldmaster
 aetherPower: defense_up
+lb1:
+  power: 1212
+  attack: 1266
+  defense: 1159
+  health: 2283
+lb2:
+  power: 1368
+  attack: 1448
+  defense: 1326
+  health: 2612
 ...

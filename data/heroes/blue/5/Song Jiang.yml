@@ -41,4 +41,14 @@ dtReleased: "2025-05-22"
 dtModified: "2026-03-28"
 fancy_name: Timely Rain of Water Margin
 aetherPower: ailment_immunity
+lb1:
+  power: 1287
+  attack: 1332
+  defense: 1300
+  health: 2373
+lb2:
+  power: 1455
+  attack: 1524
+  defense: 1488
+  health: 2715
 ...

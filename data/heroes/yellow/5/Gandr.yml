@@ -34,6 +34,16 @@ dtReleased: "2024-12-03"
 dtModified: ""
 fancy_name: Dwarven Wind Warrior
 aetherPower: ailment_immunity
+lb1:
+  power: 1246
+  attack: 1258
+  defense: 1252
+  health: 2364
+lb2:
+  power: 1408
+  attack: 1440
+  defense: 1432
+  health: 2705
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -68,4 +78,14 @@ costume:
   dtModified: ""
   fancy_name: Dwarven Regal Soldier
   aetherPower: mana_boost
+  lb1:
+    power: 1366
+    attack: 1391
+    defense: 1379
+    health: 2635
+  lb2:
+    power: 1546
+    attack: 1592
+    defense: 1578
+    health: 3015
 ...

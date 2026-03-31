@@ -21,6 +21,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Captain of the Royal Guard
 aetherPower: regen
+lb1:
+  power: 802
+  attack: 872
+  defense: 623
+  health: 1414
+lb2:
+  power: 900
+  attack: 998
+  defense: 713
+  health: 1617
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,6 +52,16 @@ costume:
   dtModified: ""
   fancy_name: Captain of Fire
   aetherPower: damage_reduction
+  lb1:
+    power: 905
+    attack: 980
+    defense: 682
+    health: 1758
+  lb2:
+    power: 1017
+    attack: 1122
+    defense: 780
+    health: 2011
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -63,6 +83,16 @@ costume2:
   dtModified: ""
   fancy_name: Captain of the Wicked
   aetherPower: ailment_immunity
+  lb1:
+    power: 1030
+    attack: 996
+    defense: 916
+    health: 2148
+  lb2:
+    power: 1161
+    attack: 1140
+    defense: 1048
+    health: 2457
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -88,6 +118,16 @@ costume3:
   dtModified: ""
   fancy_name: Captain of the Royal Toons
   aetherPower: regen
+  lb1:
+    power: 1208
+    attack: 1101
+    defense: 1211
+    health: 2562
+  lb2:
+    power: 1363
+    attack: 1259
+    defense: 1385
+    health: 2931
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -113,4 +153,14 @@ costume4:
   dtModified: ""
   fancy_name: Captain of the Glass Guard
   aetherPower: regen
+  lb1:
+    power: 1322
+    attack: 1305
+    defense: 1297
+    health: 2694
+  lb2:
+    power: 1494
+    attack: 1493
+    defense: 1484
+    health: 3083
 ...

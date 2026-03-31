@@ -30,4 +30,14 @@ dtReleased: "2025-01-23"
 dtModified: ""
 fancy_name: Marquis Moth
 aetherPower: damage_reduction
+lb1:
+  power: 1260
+  attack: 1247
+  defense: 1400
+  health: 2195
+lb2:
+  power: 1424
+  attack: 1427
+  defense: 1602
+  health: 2512
 ...

@@ -36,4 +36,14 @@ dtReleased: "2023-07-27"
 dtModified: ""
 fancy_name: Hellish Construct
 aetherPower: attack_up
+lb1:
+  power: 1018
+  attack: 1012
+  defense: 974
+  health: 1902
+lb2:
+  power: 1147
+  attack: 1158
+  defense: 1115
+  health: 2176
 ...

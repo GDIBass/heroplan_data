@@ -33,4 +33,14 @@ dtReleased: "2021-11-10"
 dtModified: ""
 fancy_name: The Red Oni Ninja
 aetherPower: defense_up
+lb1:
+  power: 872
+  attack: 883
+  defense: 788
+  health: 1554
+lb2:
+  power: 979
+  attack: 1010
+  defense: 901
+  health: 1778
 ...

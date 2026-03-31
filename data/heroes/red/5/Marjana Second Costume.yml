@@ -26,4 +26,14 @@ dtReleased: "2023-06-12"
 dtModified: ""
 fancy_name: Master Thief of Windemer
 aetherPower: dodge
+lb1:
+  power: 1032
+  attack: 999
+  defense: 933
+  health: 2116
+lb2:
+  power: 1163
+  attack: 1143
+  defense: 1068
+  health: 2421
 ...

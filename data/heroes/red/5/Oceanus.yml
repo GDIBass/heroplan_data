@@ -24,6 +24,16 @@ dtReleased: "2022-06-27"
 dtModified: ""
 fancy_name: Titan of Sea
 aetherPower: attack_up
+lb1:
+  power: 890
+  attack: 952
+  defense: 792
+  health: 1507
+lb2:
+  power: 1001
+  attack: 1089
+  defense: 906
+  health: 1724
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +58,14 @@ costume:
   dtModified: ""
   fancy_name: Titan of Magma
   aetherPower: rage
+  lb1:
+    power: 1094
+    attack: 1204
+    defense: 982
+    health: 1950
+  lb2:
+    power: 1233
+    attack: 1377
+    defense: 1123
+    health: 2232
 ...

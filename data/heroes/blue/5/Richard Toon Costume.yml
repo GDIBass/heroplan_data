@@ -26,4 +26,14 @@ dtReleased: "2023-10-30"
 dtModified: ""
 fancy_name: Hammer of Toon Power
 aetherPower: attack_up
+lb1:
+  power: 1209
+  attack: 1235
+  defense: 1101
+  health: 2456
+lb2:
+  power: 1365
+  attack: 1413
+  defense: 1259
+  health: 2811
 ...

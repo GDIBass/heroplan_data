@@ -30,4 +30,14 @@ dtReleased: "2024-09-29"
 dtModified: ""
 fancy_name: The Hogmaster
 aetherPower: attack_up
+lb1:
+  power: 1199
+  attack: 1265
+  defense: 1198
+  health: 2115
+lb2:
+  power: 1354
+  attack: 1447
+  defense: 1371
+  health: 2420
 ...

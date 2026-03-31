@@ -50,4 +50,14 @@ dtReleased: "2025-08-02"
 dtModified: "2026-03-28"
 fancy_name: Strong Star of Water Margin
 aetherPower: attack_up
+lb1:
+  power: 1310
+  attack: 1380
+  defense: 1320
+  health: 2377
+lb2:
+  power: 1481
+  attack: 1579
+  defense: 1511
+  health: 2720
 ...

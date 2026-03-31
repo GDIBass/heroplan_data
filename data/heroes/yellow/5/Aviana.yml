@@ -28,4 +28,14 @@ dtReleased: "2024-06-01"
 dtModified: "2026-03-20"
 fancy_name: The Falcon Commander
 aetherPower: special_armor
+lb1:
+  power: 1057
+  attack: 1110
+  defense: 1036
+  health: 1811
+lb2:
+  power: 1191
+  attack: 1270
+  defense: 1186
+  health: 2072
 ...

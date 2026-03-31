@@ -28,4 +28,14 @@ dtReleased: "2025-04-01"
 dtModified: ""
 fancy_name: Curse-Touched Healer
 aetherPower: defense_up
+lb1:
+  power: 1146
+  attack: 1149
+  defense: 1165
+  health: 2091
+lb2:
+  power: 1293
+  attack: 1315
+  defense: 1333
+  health: 2392
 ...

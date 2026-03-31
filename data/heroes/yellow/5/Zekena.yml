@@ -26,6 +26,16 @@ dtReleased: "2021-12-02"
 dtModified: "2026-03-20"
 fancy_name: Myriapod Prince
 aetherPower: dodge
+lb1:
+  power: 865
+  attack: 863
+  defense: 814
+  health: 1505
+lb2:
+  power: 972
+  attack: 988
+  defense: 932
+  health: 1722
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +65,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Apocynacid Prince
   aetherPower: special_armor
+  lb1:
+    power: 1098
+    attack: 1128
+    defense: 1044
+    health: 2049
+  lb2:
+    power: 1239
+    attack: 1291
+    defense: 1195
+    health: 2345
 ...

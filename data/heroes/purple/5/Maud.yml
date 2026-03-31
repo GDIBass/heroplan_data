@@ -29,4 +29,14 @@ dtReleased: "2025-03-26"
 dtModified: "2026-03-22"
 fancy_name: Ambitious Faun Alchemist
 aetherPower: special_boost
+lb1:
+  power: 1252
+  attack: 1318
+  defense: 1205
+  health: 2348
+lb2:
+  power: 1415
+  attack: 1508
+  defense: 1379
+  health: 2687
 ...

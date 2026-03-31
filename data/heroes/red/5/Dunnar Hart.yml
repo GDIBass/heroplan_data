@@ -32,4 +32,14 @@ dtReleased: "2025-06-15"
 dtModified: ""
 fancy_name: The Magmatic Drummer
 aetherPower: ailment_immunity
+lb1:
+  power: 1296
+  attack: 1312
+  defense: 1336
+  health: 2413
+lb2:
+  power: 1464
+  attack: 1501
+  defense: 1529
+  health: 2760
 ...

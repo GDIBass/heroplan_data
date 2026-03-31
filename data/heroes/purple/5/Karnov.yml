@@ -22,6 +22,16 @@ dtReleased: "2021-02-11"
 dtModified: ""
 fancy_name: Champion Bruiser
 aetherPower: counterattack
+lb1:
+  power: 856
+  attack: 825
+  defense: 803
+  health: 1556
+lb2:
+  power: 961
+  attack: 944
+  defense: 919
+  health: 1780
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +58,14 @@ costume:
   dtModified: ""
   fancy_name: Bedtime Bruiser
   aetherPower: damage_reduction
+  lb1:
+    power: 1286
+    attack: 1387
+    defense: 1198
+    health: 2434
+  lb2:
+    power: 1454
+    attack: 1587
+    defense: 1371
+    health: 2785
 ...

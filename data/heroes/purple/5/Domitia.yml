@@ -22,6 +22,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Magitech Sniper
 aetherPower: attack_up
+lb1:
+  power: 806
+  attack: 781
+  defense: 730
+  health: 1454
+lb2:
+  power: 904
+  attack: 894
+  defense: 835
+  health: 1663
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,6 +54,16 @@ costume:
   dtModified: ""
   fancy_name: Steampunk Sniper
   aetherPower: special_boost
+  lb1:
+    power: 908
+    attack: 903
+    defense: 840
+    health: 1659
+  lb2:
+    power: 1021
+    attack: 1033
+    defense: 961
+    health: 1898
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -66,6 +86,16 @@ costume2:
   dtModified: ""
   fancy_name: Undead Sniper
   aetherPower: dodge
+  lb1:
+    power: 1032
+    attack: 1013
+    defense: 973
+    health: 2007
+  lb2:
+    power: 1164
+    attack: 1159
+    defense: 1114
+    health: 2296
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -92,6 +122,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Sniper
   aetherPower: attack_up
+  lb1:
+    power: 1213
+    attack: 1259
+    defense: 1121
+    health: 2388
+  lb2:
+    power: 1370
+    attack: 1440
+    defense: 1283
+    health: 2733
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -118,4 +158,14 @@ costume4:
   dtModified: ""
   fancy_name: Glass Sniper
   aetherPower: attack_up
+  lb1:
+    power: 1328
+    attack: 1441
+    defense: 1243
+    health: 2505
+  lb2:
+    power: 1501
+    attack: 1649
+    defense: 1422
+    health: 2866
 ...

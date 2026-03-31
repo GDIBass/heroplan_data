@@ -32,6 +32,16 @@ dtReleased: "2023-07-17"
 dtModified: ""
 fancy_name: Dual Blade Specialist
 aetherPower: attack_up
+lb1:
+  power: 1003
+  attack: 1025
+  defense: 956
+  health: 1802
+lb2:
+  power: 1130
+  attack: 1173
+  defense: 1094
+  health: 2062
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -65,4 +75,14 @@ costume:
   dtModified: ""
   fancy_name: Dual Blade Arthropod
   aetherPower: rage
+  lb1:
+    power: 1380
+    attack: 1469
+    defense: 1355
+    health: 2586
+  lb2:
+    power: 1561
+    attack: 1680
+    defense: 1550
+    health: 2958
 ...

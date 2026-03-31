@@ -39,4 +39,14 @@ dtReleased: "2026-03-10"
 dtModified: ""
 fancy_name: Enraged Ronin
 aetherPower: damage_reduction
+lb1:
+  power: 1378
+  attack: 1418
+  defense: 1462
+  health: 2486
+lb2:
+  power: 1559
+  attack: 1623
+  defense: 1673
+  health: 2844
 ...

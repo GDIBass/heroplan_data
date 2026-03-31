@@ -27,4 +27,14 @@ dtReleased: "2025-04-08"
 dtModified: ""
 fancy_name: Vitrail of the Sun
 aetherPower: dodge
+lb1:
+  power: 1318
+  attack: 1445
+  defense: 1188
+  health: 2540
+lb2:
+  power: 1491
+  attack: 1653
+  defense: 1360
+  health: 2907
 ...

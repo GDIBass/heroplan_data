@@ -28,6 +28,16 @@ dtReleased: "2019-07-01"
 dtModified: ""
 fancy_name: Reanimated Huntress
 aetherPower: attack_up
+lb1:
+  power: 820
+  attack: 819
+  defense: 737
+  health: 1449
+lb2:
+  power: 921
+  attack: 937
+  defense: 843
+  health: 1658
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +68,14 @@ costume:
   dtModified: ""
   fancy_name: High Revenant Archer
   aetherPower: dodge
+  lb1:
+    power: 1046
+    attack: 1057
+    defense: 920
+    health: 2098
+  lb2:
+    power: 1178
+    attack: 1209
+    defense: 1052
+    health: 2401
 ...

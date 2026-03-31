@@ -30,4 +30,14 @@ dtReleased: "2024-04-25"
 dtModified: "2026-03-27"
 fancy_name: Cartographer Construct
 aetherPower: counterattack
+lb1:
+  power: 1128
+  attack: 1105
+  defense: 1118
+  health: 2166
+lb2:
+  power: 1272
+  attack: 1264
+  defense: 1280
+  health: 2479
 ...

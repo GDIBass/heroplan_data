@@ -25,6 +25,16 @@ dtReleased: "2018-10-01"
 dtModified: ""
 fancy_name: Frozen Highlander
 aetherPower: special_armor
+lb1:
+  power: 818
+  attack: 663
+  defense: 868
+  health: 1558
+lb2:
+  power: 918
+  attack: 759
+  defense: 993
+  health: 1783
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +64,14 @@ costume:
   dtModified: ""
   fancy_name: Frozen Farmer
   aetherPower: ailment_immunity
+  lb1:
+    power: 1045
+    attack: 875
+    defense: 1046
+    health: 2295
+  lb2:
+    power: 1177
+    attack: 1001
+    defense: 1196
+    health: 2625
 ...

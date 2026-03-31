@@ -33,4 +33,14 @@ dtReleased: "2025-06-03"
 dtModified: ""
 fancy_name: Shoreside Socialite
 aetherPower: counterattack
+lb1:
+  power: 1280
+  attack: 1265
+  defense: 1309
+  health: 2470
+lb2:
+  power: 1446
+  attack: 1447
+  defense: 1498
+  health: 2827
 ...

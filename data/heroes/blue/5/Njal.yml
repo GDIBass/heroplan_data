@@ -31,4 +31,14 @@ dtReleased: "2026-01-05"
 dtModified: "2026-03-20"
 fancy_name: Hunter of the North Wind
 aetherPower: rage
+lb1:
+  power: 1358
+  attack: 1440
+  defense: 1374
+  health: 2461
+lb2:
+  power: 1536
+  attack: 1648
+  defense: 1572
+  health: 2816
 ...

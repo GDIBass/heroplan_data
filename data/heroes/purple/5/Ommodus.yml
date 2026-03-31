@@ -27,4 +27,14 @@ dtReleased: "2023-12-20"
 dtModified: ""
 fancy_name: Lawbringer of Owl Tower
 aetherPower: regen
+lb1:
+  power: 1051
+  attack: 1063
+  defense: 1103
+  health: 1753
+lb2:
+  power: 1184
+  attack: 1216
+  defense: 1262
+  health: 2006
 ...

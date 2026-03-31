@@ -34,4 +34,14 @@ dtReleased: "2024-09-04"
 dtModified: ""
 fancy_name: Singing Tavern Slime
 aetherPower: regen
+lb1:
+  power: 1174
+  attack: 1209
+  defense: 1165
+  health: 2142
+lb2:
+  power: 1325
+  attack: 1384
+  defense: 1333
+  health: 2451
 ...

@@ -33,4 +33,14 @@ dtReleased: "2024-07-10"
 dtModified: "2026-03-20"
 fancy_name: Astral Elf Summoner
 aetherPower: dodge
+lb1:
+  power: 1159
+  attack: 1112
+  defense: 1298
+  health: 2013
+lb2:
+  power: 1308
+  attack: 1272
+  defense: 1485
+  health: 2303
 ...

@@ -28,4 +28,14 @@ dtReleased: "2023-12-04"
 dtModified: ""
 fancy_name: Chosen by the Lunar Light
 aetherPower: ailment_reflect
+lb1:
+  power: 1044
+  attack: 1050
+  defense: 1067
+  health: 1809
+lb2:
+  power: 1177
+  attack: 1201
+  defense: 1221
+  health: 2070
 ...

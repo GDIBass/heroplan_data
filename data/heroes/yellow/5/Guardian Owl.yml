@@ -23,4 +23,14 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Elite Guardian of Teltoc
 aetherPower: mana_boost
+lb1:
+  power: 815
+  attack: 648
+  defense: 856
+  health: 1598
+lb2:
+  power: 914
+  attack: 741
+  defense: 980
+  health: 1828
 ...

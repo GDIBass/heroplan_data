@@ -24,4 +24,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: King of Avalon
 aetherPower: attack_up
+lb1:
+  power: 814
+  attack: 763
+  defense: 790
+  health: 1440
+lb2:
+  power: 914
+  attack: 873
+  defense: 904
+  health: 1648
 ...

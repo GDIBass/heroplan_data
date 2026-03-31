@@ -37,4 +37,14 @@ dtReleased: "2024-06-18"
 dtModified: ""
 fancy_name: Relentless Battle Blob
 aetherPower: rage
+lb1:
+  power: 1212
+  attack: 1283
+  defense: 1221
+  health: 2115
+lb2:
+  power: 1368
+  attack: 1468
+  defense: 1397
+  health: 2420
 ...

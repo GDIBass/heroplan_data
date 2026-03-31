@@ -27,4 +27,14 @@ dtReleased: "2024-05-31"
 dtModified: ""
 fancy_name: Captain of the Royal Toons
 aetherPower: regen
+lb1:
+  power: 1208
+  attack: 1101
+  defense: 1211
+  health: 2562
+lb2:
+  power: 1363
+  attack: 1259
+  defense: 1385
+  health: 2931
 ...

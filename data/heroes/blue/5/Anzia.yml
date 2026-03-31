@@ -30,6 +30,16 @@ dtReleased: "2023-01-30"
 dtModified: ""
 fancy_name: Galactic Savior
 aetherPower: damage_reduction
+lb1:
+  power: 962
+  attack: 885
+  defense: 905
+  health: 1958
+lb2:
+  power: 1083
+  attack: 1013
+  defense: 1036
+  health: 2240
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -63,4 +73,14 @@ costume:
   dtModified: ""
   fancy_name: Galactic Jailer
   aetherPower: regen
+  lb1:
+    power: 1354
+    attack: 1293
+    defense: 1332
+    health: 2884
+  lb2:
+    power: 1531
+    attack: 1479
+    defense: 1524
+    health: 3300
 ...

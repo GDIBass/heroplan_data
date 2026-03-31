@@ -26,4 +26,14 @@ dtReleased: "2023-02-27"
 dtModified: ""
 fancy_name: Unparalleled Beauty
 aetherPower: fiend_resist
+lb1:
+  power: 919
+  attack: 859
+  defense: 896
+  health: 1733
+lb2:
+  power: 1033
+  attack: 982
+  defense: 1026
+  health: 1983
 ...

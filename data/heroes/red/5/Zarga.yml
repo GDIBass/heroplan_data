@@ -29,4 +29,14 @@ dtReleased: "2024-04-01"
 dtModified: ""
 fancy_name: Fast Blade
 aetherPower: special_boost
+lb1:
+  power: 1038
+  attack: 1152
+  defense: 934
+  health: 1780
+lb2:
+  power: 1170
+  attack: 1318
+  defense: 1069
+  health: 2037
 ...

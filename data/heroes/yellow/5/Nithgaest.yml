@@ -31,4 +31,14 @@ dtReleased: "2025-05-18"
 dtModified: ""
 fancy_name: Beowulf's Bane
 aetherPower: ailment_immunity
+lb1:
+  power: 1285
+  attack: 1396
+  defense: 1214
+  health: 2370
+lb2:
+  power: 1452
+  attack: 1597
+  defense: 1389
+  health: 2712
 ...

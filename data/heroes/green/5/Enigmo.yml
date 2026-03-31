@@ -28,4 +28,14 @@ dtReleased: "2022-11-22"
 dtModified: ""
 fancy_name: Summoning Conundrum
 aetherPower: ailment_immunity
+lb1:
+  power: 910
+  attack: 888
+  defense: 883
+  health: 1625
+lb2:
+  power: 1023
+  attack: 1016
+  defense: 1010
+  health: 1859
 ...

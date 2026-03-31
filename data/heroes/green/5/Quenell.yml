@@ -23,6 +23,16 @@ dtReleased: "2021-10-13"
 dtModified: ""
 fancy_name: Champion of the Castle
 aetherPower: attack_up
+lb1:
+  power: 870
+  attack: 856
+  defense: 819
+  health: 1545
+lb2:
+  power: 977
+  attack: 980
+  defense: 937
+  health: 1767
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: ""
   fancy_name: Champion of the Wolves
   aetherPower: special_boost
+  lb1:
+    power: 1228
+    attack: 1274
+    defense: 1209
+    health: 2280
+  lb2:
+    power: 1387
+    attack: 1458
+    defense: 1383
+    health: 2608
 ...

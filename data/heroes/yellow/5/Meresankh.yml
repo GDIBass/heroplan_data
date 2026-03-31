@@ -28,6 +28,16 @@ dtReleased: "2023-04-13"
 dtModified: "2026-03-20"
 fancy_name: Sphinx of the Sun
 aetherPower: attack_up
+lb1:
+  power: 929
+  attack: 832
+  defense: 947
+  health: 1771
+lb2:
+  power: 1045
+  attack: 952
+  defense: 1084
+  health: 2026
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -61,4 +71,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Sphinx of the Disco
   aetherPower: special_boost
+  lb1:
+    power: 1304
+    attack: 1287
+    defense: 1310
+    health: 2590
+  lb2:
+    power: 1474
+    attack: 1473
+    defense: 1498
+    health: 2964
 ...

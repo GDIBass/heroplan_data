@@ -27,4 +27,14 @@ dtReleased: "2021-10-01"
 dtModified: ""
 fancy_name: Raging Pyromancer
 aetherPower: special_boost
+lb1:
+  power: 846
+  attack: 856
+  defense: 796
+  health: 1425
+lb2:
+  power: 951
+  attack: 980
+  defense: 911
+  health: 1630
 ...

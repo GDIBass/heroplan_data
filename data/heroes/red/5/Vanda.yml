@@ -26,6 +26,16 @@ dtReleased: "2020-10-26"
 dtModified: ""
 fancy_name: Vampire Queen
 aetherPower: vampire
+lb1:
+  power: 847
+  attack: 834
+  defense: 792
+  health: 1491
+lb2:
+  power: 951
+  attack: 955
+  defense: 906
+  health: 1706
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,4 +62,14 @@ costume:
   dtModified: ""
   fancy_name: Queen of Crime
   aetherPower: damage_reduction
+  lb1:
+    power: 1219
+    attack: 1242
+    defense: 1198
+    health: 2315
+  lb2:
+    power: 1377
+    attack: 1421
+    defense: 1371
+    health: 2649
 ...

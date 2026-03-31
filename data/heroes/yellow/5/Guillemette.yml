@@ -26,4 +26,14 @@ dtReleased: "2025-10-08"
 dtModified: ""
 fancy_name: Sanguine Crusader
 aetherPower: ailment_immunity
+lb1:
+  power: 1331
+  attack: 1431
+  defense: 1309
+  health: 2424
+lb2:
+  power: 1505
+  attack: 1638
+  defense: 1498
+  health: 2773
 ...

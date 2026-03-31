@@ -40,4 +40,14 @@ dtReleased: "2026-03-01"
 dtModified: "2026-03-28"
 fancy_name: Nine Dragon Tattoos of Water Margin
 aetherPower: attack_up
+lb1:
+  power: 1374
+  attack: 1443
+  defense: 1418
+  health: 2479
+lb2:
+  power: 1554
+  attack: 1651
+  defense: 1623
+  health: 2837
 ...

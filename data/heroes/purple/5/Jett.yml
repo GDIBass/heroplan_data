@@ -37,6 +37,16 @@ dtReleased: "2023-11-15"
 dtModified: ""
 fancy_name: Herald of Sacrifice
 aetherPower: attack_up
+lb1:
+  power: 1019
+  attack: 1034
+  defense: 1003
+  health: 1798
+lb2:
+  power: 1148
+  attack: 1183
+  defense: 1148
+  health: 2057
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -75,4 +85,14 @@ costume:
   dtModified: ""
   fancy_name: Herald of Judgment
   aetherPower: counterattack
+  lb1:
+    power: 1366
+    attack: 1436
+    defense: 1381
+    health: 2514
+  lb2:
+    power: 1545
+    attack: 1643
+    defense: 1580
+    health: 2877
 ...

@@ -33,4 +33,14 @@ dtReleased: "2025-05-16"
 dtModified: ""
 fancy_name: Dwarven Frost Seeker
 aetherPower: defense_up
+lb1:
+  power: 1285
+  attack: 1323
+  defense: 1240
+  health: 2504
+lb2:
+  power: 1452
+  attack: 1513
+  defense: 1419
+  health: 2865
 ...

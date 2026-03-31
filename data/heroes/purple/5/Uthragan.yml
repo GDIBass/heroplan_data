@@ -28,4 +28,14 @@ dtReleased: "2023-10-01"
 dtModified: ""
 fancy_name: Toxic Abomination
 aetherPower: defense_up
+lb1:
+  power: 942
+  attack: 1001
+  defense: 799
+  health: 1736
+lb2:
+  power: 1059
+  attack: 1145
+  defense: 914
+  health: 1986
 ...

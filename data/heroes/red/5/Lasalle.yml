@@ -42,6 +42,16 @@ dtReleased: "2023-06-07"
 dtModified: "2026-03-22"
 fancy_name: Flamboyant Hussar of Atlantis
 aetherPower: counterattack
+lb1:
+  power: 998
+  attack: 1072
+  defense: 916
+  health: 1727
+lb2:
+  power: 1124
+  attack: 1226
+  defense: 1049
+  health: 1976
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -85,4 +95,14 @@ costume:
   dtModified: "2026-03-22"
   fancy_name: Flamboyant Jockey of Atlantis
   aetherPower: damage_reduction
+  lb1:
+    power: 1244
+    attack: 1344
+    defense: 1241
+    health: 2153
+  lb2:
+    power: 1405
+    attack: 1537
+    defense: 1420
+    health: 2464
 ...

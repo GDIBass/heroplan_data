@@ -39,4 +39,14 @@ dtReleased: "2025-07-23"
 dtModified: ""
 fancy_name: Magic Carpet Assassin
 aetherPower: attack_up
+lb1:
+  power: 1308
+  attack: 1447
+  defense: 1294
+  health: 2246
+lb2:
+  power: 1478
+  attack: 1656
+  defense: 1480
+  health: 2570
 ...

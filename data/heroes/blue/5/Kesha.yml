@@ -40,4 +40,14 @@ dtReleased: "2026-02-10"
 dtModified: ""
 fancy_name: Enchantress of Al-Layl
 aetherPower: special_boost
+lb1:
+  power: 1369
+  attack: 1407
+  defense: 1445
+  health: 2479
+lb2:
+  power: 1548
+  attack: 1610
+  defense: 1653
+  health: 2837
 ...

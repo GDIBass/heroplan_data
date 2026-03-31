@@ -26,4 +26,14 @@ dtReleased: "2024-01-22"
 dtModified: ""
 fancy_name: Toon of Ice
 aetherPower: attack_up
+lb1:
+  power: 1208
+  attack: 1269
+  defense: 1042
+  health: 2483
+lb2:
+  power: 1364
+  attack: 1452
+  defense: 1192
+  health: 2841
 ...

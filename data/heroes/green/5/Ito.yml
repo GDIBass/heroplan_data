@@ -39,4 +39,14 @@ dtReleased: "2024-12-05"
 dtModified: ""
 fancy_name: Subjugating Shinobi
 aetherPower: special_boost
+lb1:
+  power: 1208
+  attack: 1276
+  defense: 1276
+  health: 1998
+lb2:
+  power: 1364
+  attack: 1460
+  defense: 1460
+  health: 2286
 ...

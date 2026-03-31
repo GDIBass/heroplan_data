@@ -39,4 +39,14 @@ dtReleased: "2021-09-15"
 dtModified: ""
 fancy_name: Master Groundskeeper
 aetherPower: fiend_resist
+lb1:
+  power: 866
+  attack: 814
+  defense: 854
+  health: 1551
+lb2:
+  power: 973
+  attack: 932
+  defense: 977
+  health: 1775
 ...

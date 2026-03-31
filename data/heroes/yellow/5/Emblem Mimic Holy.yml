@@ -33,4 +33,14 @@ dtReleased: "2025-10-17"
 dtModified: ""
 fancy_name: Horrifying One-Eyed Lockbox
 aetherPower: bulwark
+lb1:
+  power: 1338
+  attack: 1394
+  defense: 1394
+  health: 2397
+lb2:
+  power: 1513
+  attack: 1595
+  defense: 1595
+  health: 2743
 ...

@@ -27,6 +27,16 @@ dtReleased: "2022-12-14"
 dtModified: ""
 fancy_name: Ardent Musketeer
 aetherPower: ailment_immunity
+lb1:
+  power: 936
+  attack: 934
+  defense: 899
+  health: 1665
+lb2:
+  power: 1053
+  attack: 1069
+  defense: 1028
+  health: 1905
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +68,14 @@ costume:
   dtModified: ""
   fancy_name: Ardent Chimney-Sweeper
   aetherPower: attack_up
+  lb1:
+    power: 1370
+    attack: 1433
+    defense: 1375
+    health: 2567
+  lb2:
+    power: 1550
+    attack: 1639
+    defense: 1573
+    health: 2937
 ...

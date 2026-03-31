@@ -28,6 +28,16 @@ dtReleased: "2021-06-17"
 dtModified: ""
 fancy_name: Adventurous Archaeologist
 aetherPower: fiend_resist
+lb1:
+  power: 861
+  attack: 841
+  defense: 805
+  health: 1545
+lb2:
+  power: 967
+  attack: 962
+  defense: 922
+  health: 1767
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -58,4 +68,14 @@ costume:
   dtModified: ""
   fancy_name: Adventurous Drover
   aetherPower: attack_up
+  lb1:
+    power: 1092
+    attack: 1111
+    defense: 1036
+    health: 2064
+  lb2:
+    power: 1232
+    attack: 1271
+    defense: 1185
+    health: 2362
 ...

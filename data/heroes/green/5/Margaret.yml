@@ -28,4 +28,14 @@ dtReleased: "2019-05-01"
 dtModified: ""
 fancy_name: Treasure Hunter
 aetherPower: attack_up
+lb1:
+  power: 820
+  attack: 885
+  defense: 699
+  health: 1358
+lb2:
+  power: 921
+  attack: 1013
+  defense: 800
+  health: 1554
 ...

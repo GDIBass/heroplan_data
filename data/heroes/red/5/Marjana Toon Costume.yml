@@ -26,4 +26,14 @@ dtReleased: "2023-12-25"
 dtModified: ""
 fancy_name: Toon of Windemer
 aetherPower: attack_up
+lb1:
+  power: 1211
+  attack: 1166
+  defense: 1173
+  health: 2498
+lb2:
+  power: 1367
+  attack: 1334
+  defense: 1342
+  health: 2858
 ...

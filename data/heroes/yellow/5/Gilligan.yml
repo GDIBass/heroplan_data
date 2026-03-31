@@ -28,4 +28,14 @@ dtReleased: "2023-03-01"
 dtModified: ""
 fancy_name: Quixotic Adventurer
 aetherPower: regen
+lb1:
+  power: 876
+  attack: 812
+  defense: 830
+  health: 1676
+lb2:
+  power: 984
+  attack: 929
+  defense: 949
+  health: 1917
 ...

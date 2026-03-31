@@ -27,6 +27,16 @@ dtReleased: "2021-05-20"
 dtModified: ""
 fancy_name: Eloi Rogue
 aetherPower: attack_up
+lb1:
+  power: 860
+  attack: 854
+  defense: 843
+  health: 1431
+lb2:
+  power: 966
+  attack: 977
+  defense: 965
+  health: 1638
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +67,14 @@ costume:
   dtModified: ""
   fancy_name: Eloi Painter
   aetherPower: rage
+  lb1:
+    power: 1092
+    attack: 1137
+    defense: 1096
+    health: 1873
+  lb2:
+    power: 1231
+    attack: 1300
+    defense: 1254
+    health: 2143
 ...

@@ -33,4 +33,14 @@ dtReleased: "2025-10-13"
 dtModified: ""
 fancy_name: The Juggermoth
 aetherPower: taunt
+lb1:
+  power: 1332
+  attack: 1347
+  defense: 1420
+  health: 2419
+lb2:
+  power: 1506
+  attack: 1541
+  defense: 1625
+  health: 2768
 ...

@@ -26,6 +26,16 @@ dtReleased: "2021-12-01"
 dtModified: ""
 fancy_name: Captain of Santa's Guards
 aetherPower: defense_up
+lb1:
+  power: 875
+  attack: 865
+  defense: 841
+  health: 1514
+lb2:
+  power: 983
+  attack: 990
+  defense: 962
+  health: 1732
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +65,14 @@ costume:
   dtModified: ""
   fancy_name: Captain of Snowboard Team
   aetherPower: attack_up
+  lb1:
+    power: 1155
+    attack: 1186
+    defense: 1152
+    health: 2089
+  lb2:
+    power: 1303
+    attack: 1357
+    defense: 1318
+    health: 2390
 ...

@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Messenger of Yggdrasil
 aetherPower: defense_up
+lb1:
+  power: 837
+  attack: 812
+  defense: 799
+  health: 1458
+lb2:
+  power: 939
+  attack: 929
+  defense: 914
+  health: 1668
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +54,14 @@ costume:
   dtModified: ""
   fancy_name: Architect of Yggdrasil
   aetherPower: bulwark
+  lb1:
+    power: 1049
+    attack: 1165
+    defense: 937
+    health: 1816
+  lb2:
+    power: 1182
+    attack: 1332
+    defense: 1072
+    health: 2077
 ...

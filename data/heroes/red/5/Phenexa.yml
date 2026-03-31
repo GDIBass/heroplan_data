@@ -27,4 +27,14 @@ dtReleased: "2022-08-11"
 dtModified: ""
 fancy_name: Bard of Whispers
 aetherPower: defense_up
+lb1:
+  power: 926
+  attack: 883
+  defense: 916
+  health: 1689
+lb2:
+  power: 1042
+  attack: 1010
+  defense: 1049
+  health: 1932
 ...

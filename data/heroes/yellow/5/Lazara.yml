@@ -33,4 +33,14 @@ dtReleased: "2024-03-08"
 dtModified: "2026-03-20"
 fancy_name: Baseball Champion
 aetherPower: dodge
+lb1:
+  power: 1085
+  attack: 1121
+  defense: 1096
+  health: 1864
+lb2:
+  power: 1223
+  attack: 1282
+  defense: 1254
+  health: 2133
 ...

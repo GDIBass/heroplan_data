@@ -27,4 +27,14 @@ dtReleased: "2023-11-21"
 dtModified: ""
 fancy_name: King of the Astral Elves
 aetherPower: attack_up
+lb1:
+  power: 1079
+  attack: 1121
+  defense: 1085
+  health: 1842
+lb2:
+  power: 1216
+  attack: 1282
+  defense: 1242
+  health: 2108
 ...

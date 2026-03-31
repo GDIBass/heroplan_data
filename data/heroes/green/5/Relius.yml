@@ -27,4 +27,14 @@ dtReleased: "2023-12-20"
 dtModified: ""
 fancy_name: Herbalist of Owl Tower
 aetherPower: regen
+lb1:
+  power: 1051
+  attack: 1021
+  defense: 1118
+  health: 1827
+lb2:
+  power: 1184
+  attack: 1168
+  defense: 1280
+  health: 2090
 ...

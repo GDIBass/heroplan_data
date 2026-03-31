@@ -39,6 +39,16 @@ dtReleased: "2024-01-17"
 dtModified: "2026-03-22"
 fancy_name: Naga Queen of the Deep
 aetherPower: attack_up
+lb1:
+  power: 1066
+  attack: 1076
+  defense: 1087
+  health: 1862
+lb2:
+  power: 1202
+  attack: 1231
+  defense: 1244
+  health: 2131
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -79,4 +89,14 @@ costume:
   dtModified: "2026-03-22"
   fancy_name: Naga Goddess of the Deep
   aetherPower: special_boost
+  lb1:
+    power: 1332
+    attack: 1415
+    defense: 1363
+    health: 2358
+  lb2:
+    power: 1506
+    attack: 1619
+    defense: 1560
+    health: 2698
 ...

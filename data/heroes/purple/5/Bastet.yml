@@ -26,6 +26,16 @@ dtReleased: "2022-08-04"
 dtModified: ""
 fancy_name: Eye of the Moon
 aetherPower: fiend_resist
+lb1:
+  power: 919
+  attack: 872
+  defense: 907
+  health: 1682
+lb2:
+  power: 1034
+  attack: 998
+  defense: 1038
+  health: 1925
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +67,14 @@ costume:
   dtModified: ""
   fancy_name: Eye of the Forest
   aetherPower: special_armor
+  lb1:
+    power: 1291
+    attack: 1236
+    defense: 1368
+    health: 2504
+  lb2:
+    power: 1459
+    attack: 1414
+    defense: 1565
+    health: 2865
 ...

@@ -31,4 +31,14 @@ dtReleased: "2025-01-01"
 dtModified: ""
 fancy_name: Imperial Lancer
 aetherPower: attack_up
+lb1:
+  power: 1123
+  attack: 1245
+  defense: 1116
+  health: 1791
+lb2:
+  power: 1267
+  attack: 1424
+  defense: 1277
+  health: 2049
 ...

@@ -23,6 +23,16 @@ dtReleased: "2018-01-01"
 dtModified: ""
 fancy_name: Fireborn Enchantress
 aetherPower: dodge
+lb1:
+  power: 814
+  attack: 774
+  defense: 732
+  health: 1529
+lb2:
+  power: 914
+  attack: 886
+  defense: 838
+  health: 1750
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +59,14 @@ costume:
   dtModified: ""
   fancy_name: Fireborn Seamstress
   aetherPower: attack_up
+  lb1:
+    power: 1040
+    attack: 1008
+    defense: 917
+    health: 2182
+  lb2:
+    power: 1172
+    attack: 1154
+    defense: 1049
+    health: 2497
 ...

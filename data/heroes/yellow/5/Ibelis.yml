@@ -33,4 +33,14 @@ dtReleased: "2026-01-21"
 dtModified: ""
 fancy_name: Astral Demon Shadowguard
 aetherPower: attack_up
+lb1:
+  power: 1363
+  attack: 1465
+  defense: 1400
+  health: 2382
+lb2:
+  power: 1541
+  attack: 1676
+  defense: 1602
+  health: 2725
 ...

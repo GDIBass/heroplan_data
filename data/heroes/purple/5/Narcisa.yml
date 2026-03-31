@@ -25,4 +25,14 @@ dtReleased: "2022-08-11"
 dtModified: ""
 fancy_name: Bard of Glamour
 aetherPower: special_armor
+lb1:
+  power: 906
+  attack: 910
+  defense: 850
+  health: 1607
+lb2:
+  power: 1018
+  attack: 1041
+  defense: 972
+  health: 1838
 ...

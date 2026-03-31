@@ -32,4 +32,14 @@ dtReleased: "2024-05-23"
 dtModified: "2026-03-20"
 fancy_name: Star-Blessed Hunter
 aetherPower: attack_up
+lb1:
+  power: 1199
+  attack: 1258
+  defense: 1147
+  health: 2233
+lb2:
+  power: 1354
+  attack: 1440
+  defense: 1313
+  health: 2555
 ...

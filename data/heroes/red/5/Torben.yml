@@ -25,4 +25,14 @@ dtReleased: "2023-10-18"
 dtModified: ""
 fancy_name: Lord of the Highlands
 aetherPower: attack_up
+lb1:
+  power: 1046
+  attack: 1114
+  defense: 1018
+  health: 1760
+lb2:
+  power: 1179
+  attack: 1275
+  defense: 1165
+  health: 2014
 ...

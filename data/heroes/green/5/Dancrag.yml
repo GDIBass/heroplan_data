@@ -38,4 +38,14 @@ dtReleased: "2026-03-26"
 dtModified: ""
 fancy_name: Ancient Colossus Construct
 aetherPower: damage_reduction
+lb1:
+  power: 1382
+  attack: 1420
+  defense: 1480
+  health: 2470
+lb2:
+  power: 1563
+  attack: 1625
+  defense: 1694
+  health: 2827
 ...

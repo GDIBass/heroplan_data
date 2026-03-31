@@ -24,4 +24,14 @@ dtReleased: "2026-03-12"
 dtModified: ""
 fancy_name: Stylish Archer
 aetherPower: attack_up
+lb1:
+  power: 1387
+  attack: 1519
+  defense: 1388
+  health: 2447
+lb2:
+  power: 1569
+  attack: 1738
+  defense: 1588
+  health: 2800
 ...

@@ -23,6 +23,16 @@ dtReleased: "2021-03-25"
 dtModified: ""
 fancy_name: Morlock Chieftain
 aetherPower: attack_up
+lb1:
+  power: 859
+  attack: 843
+  defense: 832
+  health: 1478
+lb2:
+  power: 966
+  attack: 965
+  defense: 952
+  health: 1691
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +63,14 @@ costume:
   dtModified: ""
   fancy_name: Morlock Running Back
   aetherPower: damage_reduction
+  lb1:
+    power: 1091
+    attack: 1062
+    defense: 1105
+    health: 2037
+  lb2:
+    power: 1230
+    attack: 1215
+    defense: 1264
+    health: 2331
 ...

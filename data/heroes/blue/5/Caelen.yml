@@ -31,4 +31,14 @@ dtReleased: "2024-05-13"
 dtModified: ""
 fancy_name: The Pensive Poet
 aetherPower: regen
+lb1:
+  power: 1167
+  attack: 1263
+  defense: 1198
+  health: 1891
+lb2:
+  power: 1317
+  attack: 1445
+  defense: 1371
+  health: 2164
 ...

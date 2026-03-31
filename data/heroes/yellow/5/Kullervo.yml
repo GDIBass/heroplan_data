@@ -27,6 +27,16 @@ dtReleased: "2022-06-20"
 dtModified: "2026-03-20"
 fancy_name: Vengeful Son
 aetherPower: attack_up
+lb1:
+  power: 891
+  attack: 879
+  defense: 852
+  health: 1571
+lb2:
+  power: 1001
+  attack: 1005
+  defense: 975
+  health: 1798
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +64,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Battle-Scarred Son
   aetherPower: rage
+  lb1:
+    power: 1153
+    attack: 1145
+    defense: 1207
+    health: 2067
+  lb2:
+    power: 1301
+    attack: 1310
+    defense: 1381
+    health: 2366
 ...

@@ -24,4 +24,14 @@ dtReleased: "2025-03-06"
 dtModified: ""
 fancy_name: Homunculus Investigator
 aetherPower: attack_up
+lb1:
+  power: 1259
+  attack: 1320
+  defense: 1254
+  health: 2293
+lb2:
+  power: 1422
+  attack: 1511
+  defense: 1435
+  health: 2623
 ...

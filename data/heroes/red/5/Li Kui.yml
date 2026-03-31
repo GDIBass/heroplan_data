@@ -41,4 +41,14 @@ dtReleased: "2025-05-22"
 dtModified: "2026-03-28"
 fancy_name: Iron Ox of Water Margin
 aetherPower: taunt
+lb1:
+  power: 1287
+  attack: 1245
+  defense: 1389
+  health: 2410
+lb2:
+  power: 1454
+  attack: 1424
+  defense: 1590
+  health: 2758
 ...

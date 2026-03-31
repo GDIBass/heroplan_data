@@ -23,6 +23,16 @@ dtReleased: ""
 dtModified: "2026-03-28"
 fancy_name: Ruler of Atlantis
 aetherPower: attack_up
+lb1:
+  power: 826
+  attack: 803
+  defense: 774
+  health: 1454
+lb2:
+  power: 927
+  attack: 919
+  defense: 886
+  health: 1663
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +53,14 @@ costume:
   dtModified: "2026-03-28"
   fancy_name: Slayer of Atlantis
   aetherPower: special_boost
+  lb1:
+    power: 1012
+    attack: 990
+    defense: 957
+    health: 1948
+  lb2:
+    power: 1140
+    attack: 1133
+    defense: 1095
+    health: 2228
 ...

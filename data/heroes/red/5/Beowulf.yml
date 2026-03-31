@@ -30,4 +30,14 @@ dtReleased: "2025-02-13"
 dtModified: ""
 fancy_name: Sword of the Geats
 aetherPower: attack_up
+lb1:
+  power: 1267
+  attack: 1394
+  defense: 1194
+  health: 2286
+lb2:
+  power: 1431
+  attack: 1595
+  defense: 1366
+  health: 2616
 ...

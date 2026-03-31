@@ -33,4 +33,14 @@ dtReleased: "2022-08-25"
 dtModified: "2026-03-20"
 fancy_name: Hunting Chieftain
 aetherPower: rage
+lb1:
+  power: 948
+  attack: 919
+  defense: 930
+  health: 1724
+lb2:
+  power: 1066
+  attack: 1051
+  defense: 1064
+  health: 1973
 ...

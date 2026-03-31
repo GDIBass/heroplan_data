@@ -28,4 +28,14 @@ dtReleased: "2025-10-06"
 dtModified: ""
 fancy_name: Exceptionally Eager Instrumentalist
 aetherPower: special_boost
+lb1:
+  power: 1330
+  attack: 1383
+  defense: 1356
+  health: 2439
+lb2:
+  power: 1503
+  attack: 1582
+  defense: 1551
+  health: 2791
 ...

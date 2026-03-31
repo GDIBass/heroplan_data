@@ -31,4 +31,14 @@ dtReleased: "2023-12-04"
 dtModified: ""
 fancy_name: Warlord of the Unwavering Orcs
 aetherPower: attack_up
+lb1:
+  power: 1044
+  attack: 1078
+  defense: 1041
+  health: 1789
+lb2:
+  power: 1176
+  attack: 1234
+  defense: 1191
+  health: 2047
 ...

@@ -30,4 +30,14 @@ dtReleased: "2025-12-01"
 dtModified: ""
 fancy_name: The Benevolent Bandit
 aetherPower: special_boost
+lb1:
+  power: 1239
+  attack: 1307
+  defense: 1245
+  health: 2204
+lb2:
+  power: 1400
+  attack: 1496
+  defense: 1424
+  health: 2522
 ...

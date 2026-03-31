@@ -36,4 +36,14 @@ dtReleased: "2025-03-17"
 dtModified: ""
 fancy_name: Leor Survivor
 aetherPower: special_boost
+lb1:
+  power: 1299
+  attack: 1456
+  defense: 1232
+  health: 2284
+lb2:
+  power: 1468
+  attack: 1666
+  defense: 1409
+  health: 2613
 ...

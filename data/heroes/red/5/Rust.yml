@@ -29,4 +29,14 @@ dtReleased: "2024-08-20"
 dtModified: ""
 fancy_name: The Guardian Red Fox
 aetherPower: defense_up
+lb1:
+  power: 1214
+  attack: 1203
+  defense: 1229
+  health: 2317
+lb2:
+  power: 1371
+  attack: 1376
+  defense: 1407
+  health: 2651
 ...

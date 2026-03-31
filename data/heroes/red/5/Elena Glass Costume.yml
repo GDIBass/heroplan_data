@@ -27,4 +27,14 @@ dtReleased: "2025-07-16"
 dtModified: ""
 fancy_name: Captain of the Glass Guard
 aetherPower: regen
+lb1:
+  power: 1322
+  attack: 1305
+  defense: 1297
+  health: 2694
+lb2:
+  power: 1494
+  attack: 1493
+  defense: 1484
+  health: 3083
 ...

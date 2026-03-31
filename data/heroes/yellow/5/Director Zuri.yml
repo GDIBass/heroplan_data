@@ -24,6 +24,16 @@ dtReleased: "2021-06-10"
 dtModified: ""
 fancy_name: Master of Circus
 aetherPower: special_armor
+lb1:
+  power: 861
+  attack: 825
+  defense: 832
+  health: 1531
+lb2:
+  power: 967
+  attack: 944
+  defense: 952
+  health: 1752
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: ""
   fancy_name: Master of Clowns
   aetherPower: defense_up
+  lb1:
+    power: 1308
+    attack: 1214
+    defense: 1491
+    health: 2438
+  lb2:
+    power: 1479
+    attack: 1389
+    defense: 1706
+    health: 2789
 ...

@@ -31,4 +31,14 @@ dtReleased: "2022-08-11"
 dtModified: ""
 fancy_name: Bard of Valor
 aetherPower: attack_up
+lb1:
+  power: 905
+  attack: 910
+  defense: 868
+  health: 1567
+lb2:
+  power: 1018
+  attack: 1041
+  defense: 993
+  health: 1793
 ...

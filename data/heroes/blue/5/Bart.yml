@@ -37,4 +37,14 @@ dtReleased: "2025-09-17"
 dtModified: ""
 fancy_name: Magic Carpet Speedster
 aetherPower: special_boost
+lb1:
+  power: 1323
+  attack: 1378
+  defense: 1369
+  health: 2377
+lb2:
+  power: 1496
+  attack: 1577
+  defense: 1567
+  health: 2720
 ...

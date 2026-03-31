@@ -23,4 +23,14 @@ dtReleased: "2024-12-01"
 dtModified: "2026-03-20"
 fancy_name: Hot Chocolate Connoisseur
 aetherPower: defense_up
+lb1:
+  power: 1200
+  attack: 1194
+  defense: 1232
+  health: 2231
+lb2:
+  power: 1354
+  attack: 1366
+  defense: 1409
+  health: 2552
 ...

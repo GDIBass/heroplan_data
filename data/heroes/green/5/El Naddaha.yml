@@ -26,6 +26,16 @@ dtReleased: "2022-04-21"
 dtModified: ""
 fancy_name: Siren of the River
 aetherPower: damage_reduction
+lb1:
+  power: 915
+  attack: 919
+  defense: 859
+  health: 1631
+lb2:
+  power: 1029
+  attack: 1051
+  defense: 982
+  health: 1866
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +67,14 @@ costume:
   dtModified: ""
   fancy_name: Siren of the Sea
   aetherPower: attack_up
+  lb1:
+    power: 1283
+    attack: 1361
+    defense: 1223
+    health: 2430
+  lb2:
+    power: 1451
+    attack: 1557
+    defense: 1399
+    health: 2781
 ...

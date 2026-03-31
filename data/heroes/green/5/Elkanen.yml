@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Spearmaster of Moonlight
 aetherPower: special_boost
+lb1:
+  power: 807
+  attack: 728
+  defense: 845
+  health: 1365
+lb2:
+  power: 905
+  attack: 833
+  defense: 967
+  health: 1562
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,6 +51,16 @@ costume:
   dtModified: ""
   fancy_name: Moonlit Conqueror
   aetherPower: attack_up
+  lb1:
+    power: 909
+    attack: 797
+    defense: 1000
+    health: 1611
+  lb2:
+    power: 1022
+    attack: 912
+    defense: 1145
+    health: 1844
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -62,6 +82,16 @@ costume2:
   dtModified: ""
   fancy_name: Moonlit King
   aetherPower: counterattack
+  lb1:
+    power: 1034
+    attack: 973
+    defense: 1053
+    health: 1959
+  lb2:
+    power: 1166
+    attack: 1114
+    defense: 1205
+    health: 2242
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -86,6 +116,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Spearmaster
   aetherPower: special_boost
+  lb1:
+    power: 1213
+    attack: 1262
+    defense: 1166
+    health: 2290
+  lb2:
+    power: 1370
+    attack: 1444
+    defense: 1334
+    health: 2621
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -110,6 +150,16 @@ costume4:
   dtModified: ""
   fancy_name: Glass Spearmaster
   aetherPower: special_boost
+  lb1:
+    power: 1329
+    attack: 1429
+    defense: 1313
+    health: 2406
+  lb2:
+    power: 1503
+    attack: 1635
+    defense: 1502
+    health: 2753
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -134,4 +184,14 @@ costume5:
   dtModified: ""
   fancy_name: Stylish Spearmaster
   aetherPower: special_boost
+  lb1:
+    power: 1393
+    attack: 1515
+    defense: 1384
+    health: 2505
+  lb2:
+    power: 1576
+    attack: 1733
+    defense: 1583
+    health: 2866
 ...

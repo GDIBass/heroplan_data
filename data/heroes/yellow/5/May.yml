@@ -33,4 +33,14 @@ dtReleased: "2025-05-01"
 dtModified: ""
 fancy_name: The Blissful Harvester
 aetherPower: defense_up
+lb1:
+  power: 1150
+  attack: 1154
+  defense: 1165
+  health: 2113
+lb2:
+  power: 1298
+  attack: 1320
+  defense: 1333
+  health: 2418
 ...

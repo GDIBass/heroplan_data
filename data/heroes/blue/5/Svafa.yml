@@ -36,4 +36,14 @@ dtReleased: "2025-08-26"
 dtModified: ""
 fancy_name: Dwarven Big Game Hunter
 aetherPower: dodge
+lb1:
+  power: 1317
+  attack: 1383
+  defense: 1312
+  health: 2435
+lb2:
+  power: 1489
+  attack: 1582
+  defense: 1501
+  health: 2786
 ...

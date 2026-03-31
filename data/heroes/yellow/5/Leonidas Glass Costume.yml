@@ -28,4 +28,14 @@ dtReleased: "2025-02-11"
 dtModified: ""
 fancy_name: Unyielding Vitrail
 aetherPower: counterattack
+lb1:
+  power: 1318
+  attack: 1441
+  defense: 1301
+  health: 2323
+lb2:
+  power: 1491
+  attack: 1649
+  defense: 1489
+  health: 2658
 ...

@@ -39,4 +39,14 @@ dtReleased: "2025-06-28"
 dtModified: ""
 fancy_name: Sharp-Eyed Bobcat
 aetherPower: ailment_immunity
+lb1:
+  power: 1299
+  attack: 1429
+  defense: 1267
+  health: 2286
+lb2:
+  power: 1469
+  attack: 1635
+  defense: 1450
+  health: 2616
 ...

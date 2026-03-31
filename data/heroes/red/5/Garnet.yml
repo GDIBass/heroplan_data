@@ -28,4 +28,14 @@ dtReleased: "2020-10-13"
 dtModified: ""
 fancy_name: Ninja of Soaring Vitality
 aetherPower: attack_up
+lb1:
+  power: 851
+  attack: 788
+  defense: 810
+  health: 1596
+lb2:
+  power: 955
+  attack: 901
+  defense: 927
+  health: 1826
 ...

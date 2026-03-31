@@ -31,4 +31,14 @@ dtReleased: "2023-05-18"
 dtModified: ""
 fancy_name: Pug of War
 aetherPower: ailment_immunity
+lb1:
+  power: 938
+  attack: 963
+  defense: 879
+  health: 1645
+lb2:
+  power: 1055
+  attack: 1102
+  defense: 1005
+  health: 1882
 ...

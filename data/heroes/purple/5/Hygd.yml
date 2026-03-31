@@ -34,4 +34,14 @@ dtReleased: "2026-01-09"
 dtModified: ""
 fancy_name: Queen of the Geats
 aetherPower: defense_up
+lb1:
+  power: 1360
+  attack: 1391
+  defense: 1440
+  health: 2464
+lb2:
+  power: 1538
+  attack: 1592
+  defense: 1648
+  health: 2819
 ...

@@ -21,6 +21,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Riddler of Wonderland
 aetherPower: ailment_reflect
+lb1:
+  power: 818
+  attack: 792
+  defense: 765
+  health: 1445
+lb2:
+  power: 918
+  attack: 906
+  defense: 876
+  health: 1653
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +57,14 @@ costume:
   dtModified: ""
   fancy_name: Tea Connoisseur of Wonderland
   aetherPower: counterattack
+  lb1:
+    power: 1029
+    attack: 1029
+    defense: 943
+    health: 2001
+  lb2:
+    power: 1159
+    attack: 1177
+    defense: 1079
+    health: 2290
 ...

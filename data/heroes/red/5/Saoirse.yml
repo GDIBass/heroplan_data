@@ -27,6 +27,16 @@ dtReleased: "2021-08-05"
 dtModified: ""
 fancy_name: The Untamable
 aetherPower: attack_up
+lb1:
+  power: 863
+  attack: 794
+  defense: 872
+  health: 1545
+lb2:
+  power: 969
+  attack: 909
+  defense: 998
+  health: 1767
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -56,4 +66,14 @@ costume:
   dtModified: ""
   fancy_name: The Vanquisher
   aetherPower: defense_up
+  lb1:
+    power: 1297
+    attack: 1108
+    defense: 1484
+    health: 2639
+  lb2:
+    power: 1467
+    attack: 1268
+    defense: 1698
+    health: 3020
 ...

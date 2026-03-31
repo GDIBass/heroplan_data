@@ -40,4 +40,14 @@ dtReleased: "2025-03-05"
 dtModified: ""
 fancy_name: Sanguine Kunoichi
 aetherPower: rage
+lb1:
+  power: 1248
+  attack: 1427
+  defense: 1229
+  health: 2000
+lb2:
+  power: 1410
+  attack: 1633
+  defense: 1407
+  health: 2288
 ...

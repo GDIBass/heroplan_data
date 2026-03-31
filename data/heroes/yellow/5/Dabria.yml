@@ -32,4 +32,14 @@ dtReleased: "2023-02-09"
 dtModified: "2026-03-20"
 fancy_name: Hunter Occultist
 aetherPower: special_armor
+lb1:
+  power: 950
+  attack: 916
+  defense: 963
+  health: 1680
+lb2:
+  power: 1069
+  attack: 1049
+  defense: 1102
+  health: 1922
 ...

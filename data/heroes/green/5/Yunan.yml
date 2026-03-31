@@ -25,6 +25,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: King of Sand Empire
 aetherPower: mana_boost
+lb1:
+  power: 821
+  attack: 666
+  defense: 879
+  health: 1549
+lb2:
+  power: 921
+  attack: 762
+  defense: 1005
+  health: 1772
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +59,14 @@ costume:
   dtModified: ""
   fancy_name: King of Lifeguards
   aetherPower: boosted_regen
+  lb1:
+    power: 1005
+    attack: 863
+    defense: 1071
+    health: 1991
+  lb2:
+    power: 1132
+    attack: 987
+    defense: 1225
+    health: 2278
 ...

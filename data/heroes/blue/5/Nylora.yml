@@ -31,4 +31,14 @@ dtReleased: "2024-06-17"
 dtModified: ""
 fancy_name: Cold Blooded Assassin
 aetherPower: attack_up
+lb1:
+  power: 1137
+  attack: 1216
+  defense: 1110
+  health: 1975
+lb2:
+  power: 1283
+  attack: 1391
+  defense: 1270
+  health: 2260
 ...

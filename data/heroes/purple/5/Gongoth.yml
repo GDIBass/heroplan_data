@@ -30,4 +30,14 @@ dtReleased: "2025-05-07"
 dtModified: ""
 fancy_name: Astral Dwarf Contender
 aetherPower: special_boost
+lb1:
+  power: 1267
+  attack: 1325
+  defense: 1296
+  health: 2255
+lb2:
+  power: 1432
+  attack: 1516
+  defense: 1483
+  health: 2580
 ...

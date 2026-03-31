@@ -23,6 +23,16 @@ dtReleased: "2020-11-26"
 dtModified: ""
 fancy_name: Wise All-Father
 aetherPower: attack_up
+lb1:
+  power: 839
+  attack: 821
+  defense: 810
+  health: 1434
+lb2:
+  power: 942
+  attack: 939
+  defense: 927
+  health: 1640
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +56,14 @@ costume:
   dtModified: ""
   fancy_name: Valiant All-Father
   aetherPower: special_boost
+  lb1:
+    power: 1054
+    attack: 1031
+    defense: 1054
+    health: 1951
+  lb2:
+    power: 1188
+    attack: 1180
+    defense: 1206
+    health: 2232
 ...

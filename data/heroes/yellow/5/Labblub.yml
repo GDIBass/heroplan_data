@@ -35,4 +35,14 @@ dtReleased: "2025-10-27"
 dtModified: ""
 fancy_name: Curious Scientist Slime
 aetherPower: ailment_immunity
+lb1:
+  power: 1336
+  attack: 1351
+  defense: 1418
+  health: 2439
+lb2:
+  power: 1511
+  attack: 1546
+  defense: 1623
+  health: 2791
 ...

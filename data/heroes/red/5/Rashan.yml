@@ -28,4 +28,14 @@ dtReleased: "2024-07-18"
 dtModified: "2026-03-22"
 fancy_name: Hulu-Metal User
 aetherPower: special_boost
+lb1:
+  power: 1220
+  attack: 1298
+  defense: 1216
+  health: 2148
+lb2:
+  power: 1378
+  attack: 1485
+  defense: 1391
+  health: 2458
 ...

@@ -32,4 +32,14 @@ dtReleased: "2024-05-20"
 dtModified: ""
 fancy_name: Elemental Shaman
 aetherPower: ailment_reflect
+lb1:
+  power: 1121
+  attack: 1107
+  defense: 1163
+  health: 2022
+lb2:
+  power: 1264
+  attack: 1267
+  defense: 1330
+  health: 2313
 ...

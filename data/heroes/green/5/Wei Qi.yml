@@ -36,4 +36,14 @@ dtReleased: "2026-02-17"
 dtModified: ""
 fancy_name: Snow Lion Dancer
 aetherPower: attack_up
+lb1:
+  power: 1372
+  attack: 1458
+  defense: 1405
+  health: 2453
+lb2:
+  power: 1551
+  attack: 1668
+  defense: 1607
+  health: 2806
 ...

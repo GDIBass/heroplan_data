@@ -31,4 +31,14 @@ dtReleased: "2021-09-01"
 dtModified: ""
 fancy_name: Shield Against Injustice
 aetherPower: defense_up
+lb1:
+  power: 846
+  attack: 803
+  defense: 805
+  health: 1534
+lb2:
+  power: 950
+  attack: 919
+  defense: 922
+  health: 1755
 ...

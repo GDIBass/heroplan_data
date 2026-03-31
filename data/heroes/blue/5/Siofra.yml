@@ -28,4 +28,14 @@ dtReleased: "2024-06-05"
 dtModified: ""
 fancy_name: The Oathkeeper
 aetherPower: attack_up
+lb1:
+  power: 1133
+  attack: 1176
+  defense: 1145
+  health: 1973
+lb2:
+  power: 1279
+  attack: 1346
+  defense: 1310
+  health: 2258
 ...

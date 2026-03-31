@@ -48,4 +48,14 @@ dtReleased: "2023-05-31"
 dtModified: ""
 fancy_name: The Fist of Deception
 aetherPower: ailment_immunity
+lb1:
+  power: 933
+  attack: 874
+  defense: 939
+  health: 1713
+lb2:
+  power: 1050
+  attack: 1000
+  defense: 1074
+  health: 1960
 ...

@@ -34,4 +34,14 @@ dtReleased: "2025-09-11"
 dtModified: ""
 fancy_name: The Daremoth
 aetherPower: attack_up
+lb1:
+  power: 1321
+  attack: 1405
+  defense: 1300
+  health: 2437
+lb2:
+  power: 1494
+  attack: 1607
+  defense: 1488
+  health: 2788
 ...

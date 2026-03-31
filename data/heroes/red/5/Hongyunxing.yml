@@ -25,5 +25,15 @@ dtReleased: "2026-02-17"
 dtModified: "2026-03-20"
 fancy_name: Lunar Itinerant Horse
 aetherPower: defense_up
+lb1:
+  power: 1370
+  attack: 1431
+  defense: 1427
+  health: 2468
+lb2:
+  power: 1550
+  attack: 1638
+  defense: 1633
+  health: 2824
 zodiacAnimal: horse
 ...

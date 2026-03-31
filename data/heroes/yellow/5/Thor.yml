@@ -31,6 +31,16 @@ dtReleased: "2021-01-28"
 dtModified: ""
 fancy_name: God of Thunder
 aetherPower: attack_up
+lb1:
+  power: 839
+  attack: 808
+  defense: 792
+  health: 1502
+lb2:
+  power: 942
+  attack: 924
+  defense: 906
+  health: 1719
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -62,4 +72,14 @@ costume:
   dtModified: ""
   fancy_name: Conduit of Thunder
   aetherPower: special_boost
+  lb1:
+    power: 1054
+    attack: 1008
+    defense: 1020
+    health: 2079
+  lb2:
+    power: 1188
+    attack: 1154
+    defense: 1167
+    health: 2379
 ...

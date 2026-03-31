@@ -34,4 +34,14 @@ dtReleased: "2025-07-31"
 dtModified: ""
 fancy_name: Gentle Trickster Slime
 aetherPower: special_boost
+lb1:
+  power: 1311
+  attack: 1332
+  defense: 1398
+  health: 2346
+lb2:
+  power: 1482
+  attack: 1524
+  defense: 1600
+  health: 2684
 ...

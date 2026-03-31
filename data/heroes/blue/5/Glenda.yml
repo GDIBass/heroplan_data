@@ -28,4 +28,14 @@ dtReleased: "2020-11-01"
 dtModified: ""
 fancy_name: Magical Godmother
 aetherPower: attack_up
+lb1:
+  power: 831
+  attack: 808
+  defense: 779
+  health: 1467
+lb2:
+  power: 932
+  attack: 924
+  defense: 891
+  health: 1678
 ...

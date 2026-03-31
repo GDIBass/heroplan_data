@@ -28,4 +28,14 @@ dtReleased: "2019-02-01"
 dtModified: ""
 fancy_name: Mystical Vagabond
 aetherPower: defense_up
+lb1:
+  power: 821
+  attack: 666
+  defense: 879
+  health: 1549
+lb2:
+  power: 921
+  attack: 762
+  defense: 1005
+  health: 1772
 ...

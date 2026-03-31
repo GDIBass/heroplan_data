@@ -29,4 +29,14 @@ dtReleased: "2025-06-02"
 dtModified: ""
 fancy_name: Moth Barkeeper
 aetherPower: defense_up
+lb1:
+  power: 1291
+  attack: 1327
+  defense: 1334
+  health: 2344
+lb2:
+  power: 1459
+  attack: 1518
+  defense: 1526
+  health: 2682
 ...

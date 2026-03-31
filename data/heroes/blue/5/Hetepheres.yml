@@ -29,6 +29,16 @@ dtReleased: "2023-02-16"
 dtModified: ""
 fancy_name: Cunning Sphinx
 aetherPower: defense_up
+lb1:
+  power: 927
+  attack: 828
+  defense: 952
+  health: 1756
+lb2:
+  power: 1042
+  attack: 947
+  defense: 1089
+  health: 2009
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -63,4 +73,14 @@ costume:
   dtModified: ""
   fancy_name: Sphinx at the Spa
   aetherPower: heal_increase
+  lb1:
+    power: 1300
+    attack: 1197
+    defense: 1387
+    health: 2627
+  lb2:
+    power: 1469
+    attack: 1370
+    defense: 1587
+    health: 3006
 ...

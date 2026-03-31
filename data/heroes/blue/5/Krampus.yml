@@ -27,6 +27,16 @@ dtReleased: "2020-12-01"
 dtModified: ""
 fancy_name: Holiday Ghoul
 aetherPower: taunt
+lb1:
+  power: 855
+  attack: 719
+  defense: 919
+  health: 1582
+lb2:
+  power: 960
+  attack: 822
+  defense: 1051
+  health: 1811
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -57,4 +67,14 @@ costume:
   dtModified: ""
   fancy_name: Holiday Prankster
   aetherPower: dodge
+  lb1:
+    power: 1128
+    attack: 1110
+    defense: 1158
+    health: 2077
+  lb2:
+    power: 1273
+    attack: 1270
+    defense: 1325
+    health: 2376
 ...

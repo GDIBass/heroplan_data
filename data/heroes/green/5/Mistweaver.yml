@@ -31,4 +31,14 @@ dtReleased: "2023-03-03"
 dtModified: "2026-03-20"
 fancy_name: Orangutan Brawler
 aetherPower: defense_up
+lb1:
+  power: 954
+  attack: 954
+  defense: 950
+  health: 1642
+lb2:
+  power: 1074
+  attack: 1092
+  defense: 1087
+  health: 1879
 ...

@@ -37,4 +37,14 @@ dtReleased: "2025-11-17"
 dtModified: "2026-03-24"
 fancy_name: Basket Maker
 aetherPower: special_armor
+lb1:
+  power: 1344
+  attack: 1376
+  defense: 1418
+  health: 2437
+lb2:
+  power: 1520
+  attack: 1574
+  defense: 1623
+  health: 2788
 ...

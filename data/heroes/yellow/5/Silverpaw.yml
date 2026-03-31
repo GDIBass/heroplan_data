@@ -28,4 +28,14 @@ dtReleased: "2025-01-11"
 dtModified: "2026-03-20"
 fancy_name: The Pirate Fennec Fox
 aetherPower: dodge
+lb1:
+  power: 1234
+  attack: 1334
+  defense: 1309
+  health: 1975
+lb2:
+  power: 1394
+  attack: 1526
+  defense: 1498
+  health: 2260
 ...

@@ -31,4 +31,14 @@ dtReleased: "2025-01-16"
 dtModified: ""
 fancy_name: One-dwarf Band
 aetherPower: special_armor
+lb1:
+  power: 1253
+  attack: 1216
+  defense: 1436
+  health: 2148
+lb2:
+  power: 1416
+  attack: 1391
+  defense: 1643
+  health: 2458
 ...

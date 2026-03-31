@@ -28,4 +28,14 @@ dtReleased: "2020-02-01"
 dtModified: ""
 fancy_name: Musketeer Mage
 aetherPower: counterattack
+lb1:
+  power: 822
+  attack: 794
+  defense: 779
+  health: 1436
+lb2:
+  power: 922
+  attack: 909
+  defense: 891
+  health: 1643
 ...

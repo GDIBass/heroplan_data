@@ -35,4 +35,14 @@ dtReleased: "2022-06-01"
 dtModified: ""
 fancy_name: Mother Night
 aetherPower: damage_reduction
+lb1:
+  power: 911
+  attack: 883
+  defense: 890
+  health: 1631
+lb2:
+  power: 1024
+  attack: 1010
+  defense: 1018
+  health: 1866
 ...

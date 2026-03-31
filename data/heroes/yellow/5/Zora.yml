@@ -29,4 +29,14 @@ dtReleased: "2024-01-01"
 dtModified: "2026-03-20"
 fancy_name: Knight of the Rose
 aetherPower: damage_reduction
+lb1:
+  power: 1018
+  attack: 939
+  defense: 1076
+  health: 1880
+lb2:
+  power: 1146
+  attack: 1074
+  defense: 1231
+  health: 2151
 ...

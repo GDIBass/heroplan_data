@@ -35,4 +35,14 @@ dtReleased: "2024-08-27"
 dtModified: ""
 fancy_name: Silent Executioner
 aetherPower: attack_up
+lb1:
+  power: 1183
+  attack: 1345
+  defense: 1149
+  health: 1900
+lb2:
+  power: 1336
+  attack: 1539
+  defense: 1315
+  health: 2174
 ...

@@ -29,4 +29,14 @@ dtReleased: "2023-09-18"
 dtModified: ""
 fancy_name: Goblin Bard
 aetherPower: ailment_immunity
+lb1:
+  power: 1005
+  attack: 979
+  defense: 1023
+  health: 1798
+lb2:
+  power: 1132
+  attack: 1120
+  defense: 1170
+  health: 2057
 ...

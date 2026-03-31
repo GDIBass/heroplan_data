@@ -27,4 +27,14 @@ dtReleased: "2024-09-01"
 dtModified: ""
 fancy_name: Nervous Messenger
 aetherPower: special_boost
+lb1:
+  power: 1194
+  attack: 1263
+  defense: 1181
+  health: 2122
+lb2:
+  power: 1348
+  attack: 1445
+  defense: 1351
+  health: 2428
 ...

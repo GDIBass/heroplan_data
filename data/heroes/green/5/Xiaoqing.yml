@@ -27,5 +27,15 @@ dtReleased: "2025-01-27"
 dtModified: "2026-03-20"
 fancy_name: Lunar Musician Snake
 aetherPower: damage_reduction
+lb1:
+  power: 1235
+  attack: 1207
+  defense: 1274
+  health: 2364
+lb2:
+  power: 1395
+  attack: 1381
+  defense: 1457
+  health: 2705
 zodiacAnimal: snake
 ...

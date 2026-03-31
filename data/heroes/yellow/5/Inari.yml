@@ -25,6 +25,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Nine-tailed Spirit
 aetherPower: attack_up
+lb1:
+  power: 823
+  attack: 876
+  defense: 692
+  health: 1414
+lb2:
+  power: 924
+  attack: 1003
+  defense: 792
+  health: 1617
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: White Kitsune Spirit
   aetherPower: special_boost
+  lb1:
+    power: 1007
+    attack: 1040
+    defense: 921
+    health: 1864
+  lb2:
+    power: 1135
+    attack: 1190
+    defense: 1054
+    health: 2133
 ...

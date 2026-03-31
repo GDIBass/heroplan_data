@@ -30,4 +30,14 @@ dtReleased: "2024-09-01"
 dtModified: ""
 fancy_name: Floral Spirit
 aetherPower: heal_increase
+lb1:
+  power: 1087
+  attack: 985
+  defense: 1274
+  health: 1862
+lb2:
+  power: 1225
+  attack: 1127
+  defense: 1457
+  health: 2131
 ...

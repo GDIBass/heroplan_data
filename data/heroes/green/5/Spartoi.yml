@@ -36,6 +36,16 @@ dtReleased: "2024-02-01"
 dtModified: "2026-03-22"
 fancy_name: Naga Berserker
 aetherPower: fiend_resist
+lb1:
+  power: 1065
+  attack: 1050
+  defense: 1147
+  health: 1802
+lb2:
+  power: 1201
+  attack: 1201
+  defense: 1313
+  health: 2062
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -73,4 +83,14 @@ costume:
   dtModified: "2026-03-22"
   fancy_name: Naga Guard
   aetherPower: ailment_immunity
+  lb1:
+    power: 1334
+    attack: 1292
+    defense: 1528
+    health: 2350
+  lb2:
+    power: 1508
+    attack: 1479
+    defense: 1749
+    health: 2688
 ...

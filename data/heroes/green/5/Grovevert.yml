@@ -29,4 +29,14 @@ dtReleased: "2025-01-23"
 dtModified: ""
 fancy_name: Mothling Breeder
 aetherPower: damage_reduction
+lb1:
+  power: 1260
+  attack: 1320
+  defense: 1354
+  health: 2106
+lb2:
+  power: 1424
+  attack: 1511
+  defense: 1549
+  health: 2410
 ...

@@ -41,4 +41,14 @@ dtReleased: "2025-08-05"
 dtModified: ""
 fancy_name: Grinning Cache of Evil
 aetherPower: bulwark
+lb1:
+  power: 1310
+  attack: 1367
+  defense: 1367
+  health: 2319
+lb2:
+  power: 1481
+  attack: 1564
+  defense: 1564
+  health: 2654
 ...

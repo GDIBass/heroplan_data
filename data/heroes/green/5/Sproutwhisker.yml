@@ -34,4 +34,14 @@ dtReleased: "2026-03-18"
 dtModified: ""
 fancy_name: The Dark-furred Cleric
 aetherPower: regen
+lb1:
+  power: 1381
+  attack: 1425
+  defense: 1469
+  health: 2473
+lb2:
+  power: 1562
+  attack: 1630
+  defense: 1681
+  health: 2829
 ...

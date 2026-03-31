@@ -28,4 +28,14 @@ dtReleased: "2024-11-01"
 dtModified: ""
 fancy_name: Fairy Queen of the Night
 aetherPower: attack_up
+lb1:
+  power: 1105
+  attack: 1174
+  defense: 1112
+  health: 1842
+lb2:
+  power: 1246
+  attack: 1343
+  defense: 1272
+  health: 2108
 ...

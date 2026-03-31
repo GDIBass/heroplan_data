@@ -26,4 +26,14 @@ dtReleased: "2026-02-14"
 dtModified: ""
 fancy_name: Stylish Lady of Windemer
 aetherPower: attack_up
+lb1:
+  power: 1387
+  attack: 1499
+  defense: 1314
+  health: 2644
+lb2:
+  power: 1569
+  attack: 1715
+  defense: 1503
+  health: 3026
 ...

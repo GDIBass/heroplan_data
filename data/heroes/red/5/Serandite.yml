@@ -33,4 +33,14 @@ dtReleased: "2023-01-11"
 dtModified: ""
 fancy_name: Ninja of the Piercing Flames
 aetherPower: defense_up
+lb1:
+  power: 925
+  attack: 987
+  defense: 850
+  health: 1547
+lb2:
+  power: 1040
+  attack: 1130
+  defense: 972
+  health: 1770
 ...

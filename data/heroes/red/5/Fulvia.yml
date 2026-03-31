@@ -29,4 +29,14 @@ dtReleased: "2023-12-20"
 dtModified: ""
 fancy_name: Queen of Owl Tower
 aetherPower: counterattack
+lb1:
+  power: 1052
+  attack: 1112
+  defense: 1090
+  health: 1662
+lb2:
+  power: 1185
+  attack: 1272
+  defense: 1247
+  health: 1902
 ...

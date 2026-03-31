@@ -23,6 +23,16 @@ dtReleased: "2018-06-01"
 dtModified: ""
 fancy_name: Blood-Stained Druid
 aetherPower: dodge
+lb1:
+  power: 818
+  attack: 783
+  defense: 763
+  health: 1469
+lb2:
+  power: 918
+  attack: 896
+  defense: 873
+  health: 1681
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +58,14 @@ costume:
   dtModified: ""
   fancy_name: Burning Avenger
   aetherPower: counterattack
+  lb1:
+    power: 1043
+    attack: 994
+    defense: 951
+    health: 2172
+  lb2:
+    power: 1175
+    attack: 1137
+    defense: 1088
+    health: 2486
 ...

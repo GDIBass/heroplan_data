@@ -29,4 +29,14 @@ dtReleased: "2021-04-01"
 dtModified: ""
 fancy_name: Winter Bringer
 aetherPower: defense_up
+lb1:
+  power: 841
+  attack: 836
+  defense: 788
+  health: 1451
+lb2:
+  power: 944
+  attack: 957
+  defense: 901
+  health: 1661
 ...

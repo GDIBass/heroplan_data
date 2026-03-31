@@ -26,5 +26,15 @@ dtReleased: "2025-01-27"
 dtModified: "2026-03-20"
 fancy_name: Lunar Acrobat Rat
 aetherPower: counterattack
+lb1:
+  power: 1232
+  attack: 1267
+  defense: 1207
+  health: 2328
+lb2:
+  power: 1392
+  attack: 1450
+  defense: 1381
+  health: 2664
 zodiacAnimal: rat
 ...

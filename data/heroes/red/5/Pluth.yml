@@ -30,4 +30,14 @@ dtReleased: "2025-02-28"
 dtModified: ""
 fancy_name: Astral Dwarf Tinkerer
 aetherPower: special_boost
+lb1:
+  power: 1253
+  attack: 1343
+  defense: 1334
+  health: 2033
+lb2:
+  power: 1415
+  attack: 1536
+  defense: 1526
+  health: 2326
 ...

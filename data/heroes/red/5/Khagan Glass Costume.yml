@@ -28,4 +28,14 @@ dtReleased: "2025-06-18"
 dtModified: ""
 fancy_name: Chief of Vitrails
 aetherPower: special_armor
+lb1:
+  power: 1328
+  attack: 1414
+  defense: 1165
+  health: 2734
+lb2:
+  power: 1502
+  attack: 1617
+  defense: 1333
+  health: 3128
 ...

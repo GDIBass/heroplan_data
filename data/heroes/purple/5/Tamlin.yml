@@ -30,4 +30,14 @@ dtReleased: "2024-09-20"
 dtModified: "2026-03-22"
 fancy_name: Eerie Faun Flautist
 aetherPower: regen
+lb1:
+  power: 1218
+  attack: 1214
+  defense: 1218
+  health: 2339
+lb2:
+  power: 1376
+  attack: 1389
+  defense: 1394
+  health: 2677
 ...

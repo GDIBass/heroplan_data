@@ -30,4 +30,14 @@ dtReleased: "2025-10-18"
 dtModified: ""
 fancy_name: Arrogant Goblin Assassin
 aetherPower: attack_up
+lb1:
+  power: 1333
+  attack: 1425
+  defense: 1369
+  health: 2333
+lb2:
+  power: 1507
+  attack: 1630
+  defense: 1567
+  health: 2669
 ...

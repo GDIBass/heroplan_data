@@ -31,4 +31,14 @@ dtReleased: "2026-01-06"
 dtModified: ""
 fancy_name: Starved Storage of Rods
 aetherPower: bulwark
+lb1:
+  power: 1370
+  attack: 1436
+  defense: 1436
+  health: 2435
+lb2:
+  power: 1550
+  attack: 1643
+  defense: 1643
+  health: 2786
 ...

@@ -33,4 +33,14 @@ dtReleased: "2024-12-09"
 dtModified: ""
 fancy_name: Unflappable Constable
 aetherPower: defense_up
+lb1:
+  power: 1211
+  attack: 1145
+  defense: 1269
+  health: 2357
+lb2:
+  power: 1367
+  attack: 1310
+  defense: 1452
+  health: 2697
 ...

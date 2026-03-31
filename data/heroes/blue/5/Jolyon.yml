@@ -32,4 +32,14 @@ dtReleased: "2025-05-20"
 dtModified: "2026-03-22"
 fancy_name: Thoughtful Faun Tinkerer
 aetherPower: defense_up
+lb1:
+  power: 1264
+  attack: 1225
+  defense: 1318
+  health: 2439
+lb2:
+  power: 1428
+  attack: 1402
+  defense: 1508
+  health: 2791
 ...

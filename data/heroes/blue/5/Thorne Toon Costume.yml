@@ -24,4 +24,14 @@ dtReleased: "2024-09-08"
 dtModified: ""
 fancy_name: Toon Frostmorrow
 aetherPower: special_boost
+lb1:
+  power: 1213
+  attack: 1149
+  defense: 1255
+  health: 2396
+lb2:
+  power: 1371
+  attack: 1314
+  defense: 1437
+  health: 2741
 ...

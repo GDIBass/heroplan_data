@@ -30,4 +30,14 @@ dtReleased: "2023-09-20"
 dtModified: ""
 fancy_name: Duplicitous Duke
 aetherPower: fiend_resist
+lb1:
+  power: 990
+  attack: 950
+  defense: 936
+  health: 1935
+lb2:
+  power: 1115
+  attack: 1087
+  defense: 1071
+  health: 2214
 ...

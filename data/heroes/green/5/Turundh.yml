@@ -35,4 +35,14 @@ dtReleased: "2025-12-24"
 dtModified: ""
 fancy_name: Astral Demon Inquisitor
 aetherPower: attack_up
+lb1:
+  power: 1353
+  attack: 1423
+  defense: 1411
+  health: 2397
+lb2:
+  power: 1531
+  attack: 1628
+  defense: 1615
+  health: 2743
 ...

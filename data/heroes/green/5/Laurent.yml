@@ -42,4 +42,14 @@ dtReleased: "2026-01-23"
 dtModified: ""
 fancy_name: Petrified Guard of the Bewitched Castle
 aetherPower: taunt
+lb1:
+  power: 1363
+  attack: 1414
+  defense: 1427
+  health: 2459
+lb2:
+  power: 1542
+  attack: 1617
+  defense: 1633
+  health: 2814
 ...

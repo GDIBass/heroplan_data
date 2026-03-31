@@ -25,6 +25,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Monarch of Wonderland
 aetherPower: taunt
+lb1:
+  power: 818
+  attack: 688
+  defense: 785
+  health: 1665
+lb2:
+  power: 918
+  attack: 787
+  defense: 899
+  health: 1905
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +63,14 @@ costume:
   dtModified: ""
   fancy_name: Benefactor of Wonderland
   aetherPower: boosted_regen
+  lb1:
+    power: 1031
+    attack: 806
+    defense: 1057
+    health: 2346
+  lb2:
+    power: 1161
+    attack: 922
+    defense: 1209
+    health: 2684
 ...

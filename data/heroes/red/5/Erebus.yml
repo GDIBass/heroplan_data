@@ -39,4 +39,14 @@ dtReleased: "2022-09-21"
 dtModified: ""
 fancy_name: God of Deep Darkness
 aetherPower: special_boost
+lb1:
+  power: 914
+  attack: 896
+  defense: 881
+  health: 1638
+lb2:
+  power: 1028
+  attack: 1026
+  defense: 1008
+  health: 1874
 ...

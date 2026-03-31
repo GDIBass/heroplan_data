@@ -34,4 +34,14 @@ dtReleased: "2025-01-20"
 dtModified: ""
 fancy_name: Wise Sanctuary Goo
 aetherPower: damage_reduction
+lb1:
+  power: 1254
+  attack: 1343
+  defense: 1249
+  health: 2211
+lb2:
+  power: 1417
+  attack: 1536
+  defense: 1430
+  health: 2529
 ...

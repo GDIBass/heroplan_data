@@ -31,4 +31,14 @@ dtReleased: "2025-02-20"
 dtModified: ""
 fancy_name: The Mothician
 aetherPower: ailment_immunity
+lb1:
+  power: 1268
+  attack: 1325
+  defense: 1320
+  health: 2215
+lb2:
+  power: 1433
+  attack: 1516
+  defense: 1511
+  health: 2534
 ...

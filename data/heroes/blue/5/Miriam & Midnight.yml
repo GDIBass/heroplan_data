@@ -30,4 +30,14 @@ dtReleased: "2022-10-03"
 dtModified: ""
 fancy_name: Occult Duo
 aetherPower: defense_up
+lb1:
+  power: 907
+  attack: 854
+  defense: 903
+  health: 1645
+lb2:
+  power: 1019
+  attack: 977
+  defense: 1033
+  health: 1882
 ...

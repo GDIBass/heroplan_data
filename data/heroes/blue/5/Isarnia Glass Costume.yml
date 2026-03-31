@@ -26,4 +26,14 @@ dtReleased: "2025-06-18"
 dtModified: ""
 fancy_name: Vitrail of Glaceholm
 aetherPower: regen
+lb1:
+  power: 1322
+  attack: 1577
+  defense: 1173
+  health: 2268
+lb2:
+  power: 1495
+  attack: 1804
+  defense: 1342
+  health: 2595
 ...

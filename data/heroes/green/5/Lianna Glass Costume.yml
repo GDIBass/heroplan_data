@@ -24,4 +24,14 @@ dtReleased: "2025-05-10"
 dtModified: ""
 fancy_name: The Noble Vitrail
 aetherPower: attack_up
+lb1:
+  power: 1324
+  attack: 1425
+  defense: 1320
+  health: 2363
+lb2:
+  power: 1497
+  attack: 1631
+  defense: 1511
+  health: 2703
 ...

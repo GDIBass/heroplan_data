@@ -25,6 +25,16 @@ dtReleased: "2022-04-21"
 dtModified: ""
 fancy_name: God of the Moon
 aetherPower: special_boost
+lb1:
+  power: 915
+  attack: 930
+  defense: 836
+  health: 1651
+lb2:
+  power: 1029
+  attack: 1064
+  defense: 957
+  health: 1889
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +63,14 @@ costume:
   dtModified: ""
   fancy_name: Knight of the Moon
   aetherPower: counterattack
+  lb1:
+    power: 1283
+    attack: 1371
+    defense: 1191
+    health: 2464
+  lb2:
+    power: 1449
+    attack: 1568
+    defense: 1362
+    health: 2819
 ...

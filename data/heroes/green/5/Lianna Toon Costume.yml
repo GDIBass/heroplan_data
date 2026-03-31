@@ -24,4 +24,14 @@ dtReleased: "2024-02-12"
 dtModified: ""
 fancy_name: The Noble Toon
 aetherPower: attack_up
+lb1:
+  power: 1209
+  attack: 1228
+  defense: 1197
+  health: 2283
+lb2:
+  power: 1366
+  attack: 1405
+  defense: 1370
+  health: 2612
 ...

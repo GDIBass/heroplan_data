@@ -28,4 +28,14 @@ dtReleased: "2022-12-01"
 dtModified: ""
 fancy_name: Ferocious Gladiator
 aetherPower: attack_up
+lb1:
+  power: 866
+  attack: 836
+  defense: 828
+  health: 1551
+lb2:
+  power: 973
+  attack: 957
+  defense: 947
+  health: 1775
 ...

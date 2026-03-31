@@ -25,6 +25,16 @@ dtReleased: "2021-03-25"
 dtModified: ""
 fancy_name: Devious Scientist
 aetherPower: attack_up
+lb1:
+  power: 860
+  attack: 834
+  defense: 810
+  health: 1551
+lb2:
+  power: 967
+  attack: 955
+  defense: 927
+  health: 1775
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +63,14 @@ costume:
   dtModified: ""
   fancy_name: Devious Scribe
   aetherPower: special_boost
+  lb1:
+    power: 1091
+    attack: 1064
+    defense: 1070
+    health: 2103
+  lb2:
+    power: 1231
+    attack: 1218
+    defense: 1225
+    health: 2407
 ...

@@ -33,4 +33,14 @@ dtReleased: "2025-07-29"
 dtModified: ""
 fancy_name: Fanatical Archaeologist
 aetherPower: revive
+lb1:
+  power: 1310
+  attack: 1318
+  defense: 1414
+  health: 2344
+lb2:
+  power: 1481
+  attack: 1508
+  defense: 1617
+  health: 2682
 ...

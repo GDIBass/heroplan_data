@@ -23,6 +23,16 @@ dtReleased: "2022-09-12"
 dtModified: ""
 fancy_name: Warlord of Wu
 aetherPower: defense_up
+lb1:
+  power: 894
+  attack: 852
+  defense: 859
+  health: 1647
+lb2:
+  power: 1004
+  attack: 975
+  defense: 982
+  health: 1884
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: ""
   fancy_name: Warlord of Fortune
   aetherPower: attack_up
+  lb1:
+    power: 1187
+    attack: 1213
+    defense: 1099
+    health: 2356
+  lb2:
+    power: 1340
+    attack: 1388
+    defense: 1258
+    health: 2695
 ...

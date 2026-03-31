@@ -25,6 +25,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Empress of the Depths
 aetherPower: bulwark
+lb1:
+  power: 825
+  attack: 819
+  defense: 788
+  health: 1383
+lb2:
+  power: 926
+  attack: 937
+  defense: 901
+  health: 1582
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Deadly Reef Queen
   aetherPower: rage
+  lb1:
+    power: 1011
+    attack: 1010
+    defense: 996
+    health: 1812
+  lb2:
+    power: 1138
+    attack: 1155
+    defense: 1139
+    health: 2073
 ...

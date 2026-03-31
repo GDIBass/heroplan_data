@@ -26,4 +26,14 @@ dtReleased: "2022-09-05"
 dtModified: ""
 fancy_name: Praetorian Vampire
 aetherPower: vampire
+lb1:
+  power: 1032
+  attack: 1002
+  defense: 959
+  health: 2058
+lb2:
+  power: 1162
+  attack: 1146
+  defense: 1097
+  health: 2355
 ...

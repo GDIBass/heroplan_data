@@ -30,6 +30,16 @@ dtReleased: "2022-12-05"
 dtModified: ""
 fancy_name: Natural Sharpshooter
 aetherPower: defense_up
+lb1:
+  power: 1036
+  attack: 1012
+  defense: 979
+  health: 2020
+lb2:
+  power: 1167
+  attack: 1158
+  defense: 1120
+  health: 2311
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -60,4 +70,14 @@ costume:
   dtModified: ""
   fancy_name: Disco Sharpshooter
   aetherPower: attack_up
+  lb1:
+    power: 1306
+    attack: 1311
+    defense: 1291
+    health: 2580
+  lb2:
+    power: 1476
+    attack: 1500
+    defense: 1477
+    health: 2951
 ...

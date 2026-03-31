@@ -37,4 +37,14 @@ dtReleased: "2024-08-27"
 dtModified: ""
 fancy_name: Silent Huntress
 aetherPower: special_boost
+lb1:
+  power: 1183
+  attack: 1329
+  defense: 1187
+  health: 1862
+lb2:
+  power: 1335
+  attack: 1521
+  defense: 1358
+  health: 2131
 ...

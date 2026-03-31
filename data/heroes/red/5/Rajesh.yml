@@ -40,4 +40,14 @@ dtReleased: "2025-03-17"
 dtModified: ""
 fancy_name: Gourmand Tigris Chief
 aetherPower: fiend_resist
+lb1:
+  power: 1299
+  attack: 1423
+  defense: 1272
+  health: 2286
+lb2:
+  power: 1468
+  attack: 1628
+  defense: 1455
+  health: 2616
 ...

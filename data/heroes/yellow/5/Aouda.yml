@@ -22,6 +22,16 @@ dtReleased: "2021-07-15"
 dtModified: ""
 fancy_name: Kind-hearted Princess
 aetherPower: attack_up
+lb1:
+  power: 862
+  attack: 874
+  defense: 843
+  health: 1394
+lb2:
+  power: 968
+  attack: 1000
+  defense: 965
+  health: 1595
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +57,14 @@ costume:
   dtModified: ""
   fancy_name: Lotus Princess
   aetherPower: special_boost
+  lb1:
+    power: 1094
+    attack: 1220
+    defense: 1096
+    health: 1684
+  lb2:
+    power: 1234
+    attack: 1396
+    defense: 1254
+    health: 1927
 ...

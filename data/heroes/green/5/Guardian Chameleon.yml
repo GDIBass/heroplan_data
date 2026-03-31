@@ -26,4 +26,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Elementalist of Teltoc
 aetherPower: damage_reduction
+lb1:
+  power: 832
+  attack: 770
+  defense: 841
+  health: 1443
+lb2:
+  power: 933
+  attack: 881
+  defense: 962
+  health: 1651
 ...

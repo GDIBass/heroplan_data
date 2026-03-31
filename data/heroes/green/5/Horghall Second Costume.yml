@@ -27,4 +27,14 @@ dtReleased: "2022-10-31"
 dtModified: ""
 fancy_name: Nightmare of the Woods
 aetherPower: damage_reduction
+lb1:
+  power: 1032
+  attack: 907
+  defense: 953
+  health: 2308
+lb2:
+  power: 1163
+  attack: 1038
+  defense: 1091
+  health: 2640
 ...

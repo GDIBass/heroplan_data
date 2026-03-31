@@ -35,6 +35,16 @@ dtReleased: "2023-08-30"
 dtModified: "2026-03-22"
 fancy_name: Treasure Hunter of the Deep
 aetherPower: attack_up
+lb1:
+  power: 1043
+  attack: 1101
+  defense: 943
+  health: 1920
+lb2:
+  power: 1175
+  attack: 1259
+  defense: 1079
+  health: 2197
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -73,4 +83,14 @@ costume:
   dtModified: "2026-03-22"
   fancy_name: Scavenger of the Deep
   aetherPower: dodge
+  lb1:
+    power: 1299
+    attack: 1435
+    defense: 1182
+    health: 2440
+  lb2:
+    power: 1468
+    attack: 1641
+    defense: 1352
+    health: 2792
 ...

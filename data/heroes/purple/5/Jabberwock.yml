@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Horror of Wonderland
 aetherPower: attack_up
+lb1:
+  power: 831
+  attack: 801
+  defense: 805
+  health: 1431
+lb2:
+  power: 933
+  attack: 916
+  defense: 922
+  health: 1638
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +60,14 @@ costume:
   dtModified: ""
   fancy_name: Jabbermoth
   aetherPower: special_boost
+  lb1:
+    power: 1043
+    attack: 1031
+    defense: 998
+    health: 1989
+  lb2:
+    power: 1176
+    attack: 1180
+    defense: 1143
+    health: 2275
 ...

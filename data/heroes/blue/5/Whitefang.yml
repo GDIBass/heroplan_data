@@ -25,4 +25,14 @@ dtReleased: "2024-08-20"
 dtModified: ""
 fancy_name: The Ranger Arctic Fox
 aetherPower: attack_up
+lb1:
+  power: 1214
+  attack: 1178
+  defense: 1267
+  health: 2306
+lb2:
+  power: 1372
+  attack: 1348
+  defense: 1450
+  health: 2639
 ...

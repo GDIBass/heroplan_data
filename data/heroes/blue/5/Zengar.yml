@@ -33,6 +33,16 @@ dtReleased: "2023-01-30"
 dtModified: ""
 fancy_name: Universal Beast
 aetherPower: rage
+lb1:
+  power: 962
+  attack: 947
+  defense: 874
+  health: 1864
+lb2:
+  power: 1083
+  attack: 1084
+  defense: 1000
+  health: 2133
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -68,4 +78,14 @@ costume:
   dtModified: ""
   fancy_name: Cultivating Beast
   aetherPower: counterattack
+  lb1:
+    power: 1313
+    attack: 1311
+    defense: 1243
+    health: 2723
+  lb2:
+    power: 1484
+    attack: 1500
+    defense: 1422
+    health: 3115
 ...

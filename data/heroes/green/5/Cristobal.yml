@@ -30,6 +30,16 @@ dtReleased: "2021-09-15"
 dtModified: ""
 fancy_name: Charms Professor
 aetherPower: special_boost
+lb1:
+  power: 866
+  attack: 852
+  defense: 819
+  health: 1527
+lb2:
+  power: 973
+  attack: 975
+  defense: 937
+  health: 1747
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -61,4 +71,14 @@ costume:
   dtModified: ""
   fancy_name: Enchantments Professor
   aetherPower: counterattack
+  lb1:
+    power: 1337
+    attack: 1404
+    defense: 1320
+    health: 2508
+  lb2:
+    power: 1511
+    attack: 1606
+    defense: 1511
+    health: 2870
 ...

@@ -24,6 +24,16 @@ dtReleased: "2021-04-22"
 dtModified: ""
 fancy_name: Morlock Battle Master
 aetherPower: rage
+lb1:
+  power: 860
+  attack: 852
+  defense: 834
+  health: 1454
+lb2:
+  power: 966
+  attack: 975
+  defense: 955
+  health: 1663
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: ""
   fancy_name: Morlock Kite Master
   aetherPower: regen
+  lb1:
+    power: 1091
+    attack: 1082
+    defense: 1096
+    health: 2007
+  lb2:
+    power: 1231
+    attack: 1238
+    defense: 1254
+    health: 2297
 ...

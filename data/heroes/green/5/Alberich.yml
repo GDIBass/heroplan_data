@@ -24,6 +24,16 @@ dtReleased: "2017-10-01"
 dtModified: ""
 fancy_name: Seelie Champion
 aetherPower: defense_up
+lb1:
+  power: 814
+  attack: 781
+  defense: 799
+  health: 1376
+lb2:
+  power: 914
+  attack: 894
+  defense: 914
+  health: 1574
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,4 +62,14 @@ costume:
   dtModified: ""
   fancy_name: Everoak Knight
   aetherPower: special_armor
+  lb1:
+    power: 1037
+    attack: 983
+    defense: 1020
+    health: 2018
+  lb2:
+    power: 1168
+    attack: 1124
+    defense: 1168
+    health: 2309
 ...

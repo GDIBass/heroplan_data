@@ -41,6 +41,16 @@ dtReleased: "2023-08-23"
 dtModified: ""
 fancy_name: Peculiar Inventor Wizard
 aetherPower: fiend_resist
+lb1:
+  power: 998
+  attack: 963
+  defense: 987
+  health: 1860
+lb2:
+  power: 1125
+  attack: 1102
+  defense: 1130
+  health: 2128
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -83,4 +93,14 @@ costume:
   dtModified: ""
   fancy_name: Peculiar Arcane Buccaneer
   aetherPower: damage_reduction
+  lb1:
+    power: 1344
+    attack: 1332
+    defense: 1366
+    health: 2651
+  lb2:
+    power: 1520
+    attack: 1524
+    defense: 1563
+    health: 3033
 ...

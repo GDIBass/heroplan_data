@@ -23,6 +23,16 @@ dtReleased: "2017-06-01"
 dtModified: ""
 fancy_name: Celestial of Darkness
 aetherPower: attack_up
+lb1:
+  power: 814
+  attack: 803
+  defense: 745
+  health: 1431
+lb2:
+  power: 914
+  attack: 919
+  defense: 853
+  health: 1638
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: ""
   fancy_name: Omen of Darkness
   aetherPower: special_boost
+  lb1:
+    power: 1038
+    attack: 1028
+    defense: 939
+    health: 2076
+  lb2:
+    power: 1170
+    attack: 1176
+    defense: 1075
+    health: 2375
 ...

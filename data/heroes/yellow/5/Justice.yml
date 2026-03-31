@@ -21,6 +21,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Ancient of Stone
 aetherPower: defense_up
+lb1:
+  power: 804
+  attack: 657
+  defense: 836
+  health: 1536
+lb2:
+  power: 901
+  attack: 751
+  defense: 957
+  health: 1757
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,6 +52,16 @@ costume:
   dtModified: ""
   fancy_name: Ancient of the Sun
   aetherPower: special_armor
+  lb1:
+    power: 906
+    attack: 820
+    defense: 878
+    health: 1776
+  lb2:
+    power: 1019
+    attack: 938
+    defense: 1004
+    health: 2033
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Ancient of Thorns
   aetherPower: special_boost
+  lb1:
+    power: 1031
+    attack: 959
+    defense: 970
+    health: 2141
+  lb2:
+    power: 1162
+    attack: 1097
+    defense: 1110
+    health: 2450
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -89,6 +119,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon of Stone
   aetherPower: defense_up
+  lb1:
+    power: 1210
+    attack: 1269
+    defense: 1008
+    health: 2566
+  lb2:
+    power: 1367
+    attack: 1452
+    defense: 1153
+    health: 2936
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -114,4 +154,14 @@ costume4:
   dtModified: ""
   fancy_name: Vitrail of Stone
   aetherPower: defense_up
+  lb1:
+    power: 1322
+    attack: 1452
+    defense: 1126
+    health: 2671
+  lb2:
+    power: 1495
+    attack: 1662
+    defense: 1289
+    health: 3056
 ...

@@ -23,6 +23,16 @@ dtReleased: "2021-06-10"
 dtModified: ""
 fancy_name: Dynamic Duo
 aetherPower: attack_up
+lb1:
+  power: 859
+  attack: 848
+  defense: 810
+  health: 1509
+lb2:
+  power: 965
+  attack: 970
+  defense: 927
+  health: 1727
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +60,14 @@ costume:
   dtModified: ""
   fancy_name: Dark Duo
   aetherPower: defense_up
+  lb1:
+    power: 1305
+    attack: 1271
+    defense: 1371
+    health: 2513
+  lb2:
+    power: 1475
+    attack: 1454
+    defense: 1568
+    health: 2876
 ...

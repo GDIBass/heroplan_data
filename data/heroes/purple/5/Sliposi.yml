@@ -28,4 +28,14 @@ dtReleased: "2025-09-25"
 dtModified: ""
 fancy_name: Slippery Courier Slime
 aetherPower: dodge
+lb1:
+  power: 1326
+  attack: 1316
+  defense: 1425
+  health: 2439
+lb2:
+  power: 1499
+  attack: 1506
+  defense: 1630
+  health: 2791
 ...

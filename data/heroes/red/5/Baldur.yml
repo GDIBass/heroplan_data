@@ -26,6 +26,16 @@ dtReleased: "2020-05-28"
 dtModified: ""
 fancy_name: Luminous God
 aetherPower: heal_increase
+lb1:
+  power: 839
+  attack: 870
+  defense: 750
+  health: 1429
+lb2:
+  power: 942
+  attack: 995
+  defense: 858
+  health: 1635
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,4 +62,14 @@ costume:
   dtModified: ""
   fancy_name: Fiery God
   aetherPower: boosted_regen
+  lb1:
+    power: 1053
+    attack: 1065
+    defense: 1000
+    health: 1969
+  lb2:
+    power: 1187
+    attack: 1219
+    defense: 1144
+    health: 2252
 ...

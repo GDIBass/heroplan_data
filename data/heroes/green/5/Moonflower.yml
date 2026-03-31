@@ -25,4 +25,14 @@ dtReleased: "2024-03-07"
 dtModified: ""
 fancy_name: Astral Elf Botanist
 aetherPower: damage_reduction
+lb1:
+  power: 1083
+  attack: 1072
+  defense: 1156
+  health: 1853
+lb2:
+  power: 1221
+  attack: 1226
+  defense: 1323
+  health: 2120
 ...

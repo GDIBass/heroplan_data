@@ -23,4 +23,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Spell-Bending Conundrum
 aetherPower: bulwark
+lb1:
+  power: 852
+  attack: 839
+  defense: 801
+  health: 1496
+lb2:
+  power: 957
+  attack: 960
+  defense: 916
+  health: 1711
 ...

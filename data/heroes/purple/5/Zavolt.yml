@@ -39,4 +39,14 @@ dtReleased: "2026-01-15"
 dtModified: ""
 fancy_name: Chaotic Mage Construct
 aetherPower: defense_up
+lb1:
+  power: 1362
+  attack: 1387
+  defense: 1454
+  health: 2461
+lb2:
+  power: 1540
+  attack: 1587
+  defense: 1663
+  health: 2816
 ...

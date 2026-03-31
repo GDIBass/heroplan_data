@@ -31,4 +31,14 @@ dtReleased: "2024-02-22"
 dtModified: ""
 fancy_name: True Arrow of Teltoc
 aetherPower: special_armor
+lb1:
+  power: 1078
+  attack: 1067
+  defense: 1145
+  health: 1855
+lb2:
+  power: 1216
+  attack: 1221
+  defense: 1310
+  health: 2123
 ...

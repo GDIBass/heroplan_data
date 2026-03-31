@@ -26,4 +26,14 @@ dtReleased: "2023-02-14"
 dtModified: ""
 fancy_name: Cupid of Unrequited Love
 aetherPower: attack_up
+lb1:
+  power: 919
+  attack: 932
+  defense: 868
+  health: 1607
+lb2:
+  power: 1033
+  attack: 1066
+  defense: 993
+  health: 1838
 ...

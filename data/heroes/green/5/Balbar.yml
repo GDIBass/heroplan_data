@@ -31,4 +31,14 @@ dtReleased: "2021-11-01"
 dtModified: ""
 fancy_name: Botanist Hermit
 aetherPower: attack_up
+lb1:
+  power: 848
+  attack: 821
+  defense: 814
+  health: 1485
+lb2:
+  power: 952
+  attack: 939
+  defense: 932
+  health: 1699
 ...

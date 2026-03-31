@@ -24,4 +24,14 @@ dtReleased: "2022-09-05"
 dtModified: ""
 fancy_name: Ruler of Glaceholm
 aetherPower: regen
+lb1:
+  power: 1028
+  attack: 1131
+  defense: 887
+  health: 1854
+lb2:
+  power: 1159
+  attack: 1294
+  defense: 1015
+  health: 2121
 ...

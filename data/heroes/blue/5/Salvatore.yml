@@ -33,4 +33,14 @@ dtReleased: "2025-07-08"
 dtModified: "2026-03-22"
 fancy_name: Twisted Medium
 aetherPower: ailment_immunity
+lb1:
+  power: 1303
+  attack: 1276
+  defense: 1343
+  health: 2544
+lb2:
+  power: 1473
+  attack: 1460
+  defense: 1536
+  health: 2910
 ...

@@ -27,4 +27,14 @@ dtReleased: "2024-11-14"
 dtModified: ""
 fancy_name: Bard of Odd
 aetherPower: special_boost
+lb1:
+  power: 1226
+  attack: 1394
+  defense: 1152
+  health: 2082
+lb2:
+  power: 1385
+  attack: 1595
+  defense: 1318
+  health: 2382
 ...

@@ -27,4 +27,14 @@ dtReleased: "2025-09-16"
 dtModified: ""
 fancy_name: Goblin Rat Courtier
 aetherPower: special_armor
+lb1:
+  power: 1323
+  attack: 1338
+  defense: 1385
+  health: 2446
+lb2:
+  power: 1496
+  attack: 1531
+  defense: 1584
+  health: 2799
 ...

@@ -30,4 +30,14 @@ dtReleased: "2025-08-08"
 dtModified: ""
 fancy_name: Serpentine Violinist
 aetherPower: dodge
+lb1:
+  power: 1312
+  attack: 1334
+  defense: 1363
+  health: 2419
+lb2:
+  power: 1483
+  attack: 1526
+  defense: 1559
+  health: 2768
 ...

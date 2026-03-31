@@ -25,6 +25,16 @@ dtReleased: "2018-02-01"
 dtModified: ""
 fancy_name: Celestial of Nature
 aetherPower: attack_up
+lb1:
+  power: 817
+  attack: 823
+  defense: 741
+  health: 1409
+lb2:
+  power: 917
+  attack: 942
+  defense: 848
+  health: 1612
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +63,14 @@ costume:
   dtModified: ""
   fancy_name: Avian Celestial
   aetherPower: special_boost
+  lb1:
+    power: 1042
+    attack: 1037
+    defense: 951
+    health: 2056
+  lb2:
+    power: 1174
+    attack: 1186
+    defense: 1088
+    health: 2353
 ...

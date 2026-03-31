@@ -22,6 +22,16 @@ dtReleased: "2021-02-11"
 dtModified: ""
 fancy_name: Sovereign of Cerbera
 aetherPower: defense_up
+lb1:
+  power: 852
+  attack: 834
+  defense: 819
+  health: 1476
+lb2:
+  power: 958
+  attack: 955
+  defense: 937
+  health: 1689
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +57,14 @@ costume:
   dtModified: ""
   fancy_name: Sovereign of Flora
   aetherPower: special_armor
+  lb1:
+    power: 1280
+    attack: 1247
+    defense: 1415
+    health: 2305
+  lb2:
+    power: 1446
+    attack: 1427
+    defense: 1619
+    health: 2637
 ...

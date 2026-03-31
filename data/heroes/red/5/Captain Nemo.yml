@@ -21,6 +21,16 @@ dtReleased: "2021-08-12"
 dtModified: ""
 fancy_name: Enigmatic Explorer
 aetherPower: attack_up
+lb1:
+  power: 862
+  attack: 885
+  defense: 810
+  health: 1438
+lb2:
+  power: 969
+  attack: 1013
+  defense: 927
+  health: 1645
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +56,14 @@ costume:
   dtModified: ""
   fancy_name: Enigmatic Machinist
   aetherPower: special_boost
+  lb1:
+    power: 1094
+    attack: 1165
+    defense: 1059
+    health: 1894
+  lb2:
+    power: 1234
+    attack: 1334
+    defense: 1211
+    health: 2167
 ...

@@ -28,4 +28,14 @@ dtReleased: "2024-02-06"
 dtModified: ""
 fancy_name: Scorpion Demoness
 aetherPower: counterattack
+lb1:
+  power: 1067
+  attack: 1105
+  defense: 1052
+  health: 1864
+lb2:
+  power: 1202
+  attack: 1264
+  defense: 1203
+  health: 2133
 ...

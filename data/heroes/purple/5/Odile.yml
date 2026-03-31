@@ -36,4 +36,14 @@ dtReleased: "2024-03-21"
 dtModified: "2026-03-23"
 fancy_name: Black Swan
 aetherPower: defense_up
+lb1:
+  power: 1093
+  attack: 1147
+  defense: 1027
+  health: 1993
+lb2:
+  power: 1233
+  attack: 1313
+  defense: 1176
+  health: 2280
 ...

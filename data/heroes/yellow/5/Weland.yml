@@ -33,4 +33,14 @@ dtReleased: "2025-12-06"
 dtModified: ""
 fancy_name: Skillful Smith
 aetherPower: bulwark
+lb1:
+  power: 1348
+  attack: 1391
+  defense: 1414
+  health: 2437
+lb2:
+  power: 1525
+  attack: 1592
+  defense: 1617
+  health: 2788
 ...

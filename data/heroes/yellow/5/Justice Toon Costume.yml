@@ -27,4 +27,14 @@ dtReleased: "2024-06-28"
 dtModified: ""
 fancy_name: Toon of Stone
 aetherPower: defense_up
+lb1:
+  power: 1210
+  attack: 1269
+  defense: 1008
+  health: 2566
+lb2:
+  power: 1367
+  attack: 1452
+  defense: 1153
+  health: 2936
 ...

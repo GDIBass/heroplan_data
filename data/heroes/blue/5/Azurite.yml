@@ -39,4 +39,14 @@ dtReleased: "2023-05-31"
 dtModified: ""
 fancy_name: Ninja Outlook
 aetherPower: attack_up
+lb1:
+  power: 935
+  attack: 1012
+  defense: 834
+  health: 1591
+lb2:
+  power: 1052
+  attack: 1158
+  defense: 955
+  health: 1821
 ...

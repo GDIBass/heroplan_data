@@ -33,4 +33,14 @@ dtReleased: "2023-04-05"
 dtModified: ""
 fancy_name: The Strongest Bannerlord
 aetherPower: heal_increase
+lb1:
+  power: 931
+  attack: 881
+  defense: 963
+  health: 1633
+lb2:
+  power: 1048
+  attack: 1008
+  defense: 1102
+  health: 1869
 ...

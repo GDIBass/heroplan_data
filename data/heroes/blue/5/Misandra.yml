@@ -23,6 +23,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Magnificent Mercenary
 aetherPower: attack_up
+lb1:
+  power: 825
+  attack: 779
+  defense: 810
+  health: 1434
+lb2:
+  power: 926
+  attack: 891
+  defense: 927
+  health: 1640
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +56,14 @@ costume:
   dtModified: ""
   fancy_name: Magnificent Hula Dancer
   aetherPower: special_boost
+  lb1:
+    power: 1011
+    attack: 1012
+    defense: 974
+    health: 1852
+  lb2:
+    power: 1138
+    attack: 1158
+    defense: 1114
+    health: 2119
 ...

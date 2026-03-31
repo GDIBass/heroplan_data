@@ -22,6 +22,16 @@ dtReleased: "2023-01-19"
 dtModified: "2026-03-20"
 fancy_name: Lunar Brawler Tiger
 aetherPower: heal_increase
+lb1:
+  power: 918
+  attack: 910
+  defense: 868
+  health: 1658
+lb2:
+  power: 1032
+  attack: 1041
+  defense: 993
+  health: 1897
 zodiacAnimal: tiger
 costume:
   design: costume1
@@ -48,4 +58,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Lunar Lucky Tiger
   aetherPower: regen
+  lb1:
+    power: 1368
+    attack: 1414
+    defense: 1345
+    health: 2656
+  lb2:
+    power: 1547
+    attack: 1618
+    defense: 1539
+    health: 3039
 ...

@@ -24,6 +24,16 @@ dtReleased: "2022-03-14"
 dtModified: ""
 fancy_name: Valiant General
 aetherPower: special_boost
+lb1:
+  power: 890
+  attack: 890
+  defense: 834
+  health: 1578
+lb2:
+  power: 1001
+  attack: 1018
+  defense: 955
+  health: 1805
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +63,14 @@ costume:
   dtModified: ""
   fancy_name: Inferno General
   aetherPower: attack_up
+  lb1:
+    power: 1181
+    attack: 1234
+    defense: 1171
+    health: 2118
+  lb2:
+    power: 1333
+    attack: 1412
+    defense: 1340
+    health: 2423
 ...

@@ -29,4 +29,14 @@ dtReleased: "2024-04-15"
 dtModified: ""
 fancy_name: The Steadfast Sapper
 aetherPower: regen
+lb1:
+  power: 1148
+  attack: 1214
+  defense: 1192
+  health: 1895
+lb2:
+  power: 1296
+  attack: 1389
+  defense: 1363
+  health: 2169
 ...

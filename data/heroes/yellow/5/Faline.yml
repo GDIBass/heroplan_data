@@ -20,4 +20,14 @@ dtReleased: "2021-06-10"
 dtModified: ""
 fancy_name: Astonishing Acrobat
 aetherPower: attack_up
+lb1:
+  power: 857
+  attack: 845
+  defense: 810
+  health: 1502
+lb2:
+  power: 963
+  attack: 967
+  defense: 927
+  health: 1719
 ...

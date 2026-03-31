@@ -29,4 +29,14 @@ dtReleased: "2024-12-01"
 dtModified: "2026-03-20"
 fancy_name: Elven White Mage
 aetherPower: defense_up
+lb1:
+  power: 1114
+  attack: 1123
+  defense: 1194
+  health: 1869
+lb2:
+  power: 1256
+  attack: 1285
+  defense: 1366
+  health: 2138
 ...

@@ -26,4 +26,14 @@ dtReleased: "2024-12-25"
 dtModified: ""
 fancy_name: Hammer of Glass
 aetherPower: attack_up
+lb1:
+  power: 1322
+  attack: 1398
+  defense: 1239
+  health: 2580
+lb2:
+  power: 1495
+  attack: 1600
+  defense: 1417
+  health: 2952
 ...

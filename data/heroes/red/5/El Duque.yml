@@ -24,4 +24,14 @@ dtReleased: "2022-05-12"
 dtModified: ""
 fancy_name: Exalted Gargoyle
 aetherPower: counterattack
+lb1:
+  power: 897
+  attack: 896
+  defense: 841
+  health: 1596
+lb2:
+  power: 1009
+  attack: 1026
+  defense: 962
+  health: 1826
 ...

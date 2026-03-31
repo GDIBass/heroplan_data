@@ -28,4 +28,14 @@ dtReleased: "2025-12-01"
 dtModified: ""
 fancy_name: Joyful Sledge Kid
 aetherPower: damage_reduction
+lb1:
+  power: 1347
+  attack: 1378
+  defense: 1429
+  health: 2428
+lb2:
+  power: 1523
+  attack: 1577
+  defense: 1635
+  health: 2778
 ...

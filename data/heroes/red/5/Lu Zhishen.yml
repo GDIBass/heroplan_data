@@ -40,4 +40,14 @@ dtReleased: "2025-08-30"
 dtModified: ""
 fancy_name: Flowery Monk of Water Margin
 aetherPower: bulwark
+lb1:
+  power: 1318
+  attack: 1376
+  defense: 1336
+  health: 2413
+lb2:
+  power: 1490
+  attack: 1574
+  defense: 1529
+  health: 2760
 ...

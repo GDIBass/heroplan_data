@@ -30,4 +30,14 @@ dtReleased: "2025-06-01"
 dtModified: ""
 fancy_name: Devious Reaver
 aetherPower: special_boost
+lb1:
+  power: 1159
+  attack: 1240
+  defense: 1163
+  health: 1964
+lb2:
+  power: 1308
+  attack: 1419
+  defense: 1330
+  health: 2247
 ...

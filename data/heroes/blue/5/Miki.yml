@@ -28,4 +28,14 @@ dtReleased: "2019-08-01"
 dtModified: "2026-03-22"
 fancy_name: Slayer of Frost Beasts
 aetherPower: attack_up
+lb1:
+  power: 821
+  attack: 768
+  defense: 839
+  health: 1374
+lb2:
+  power: 921
+  attack: 878
+  defense: 960
+  health: 1572
 ...

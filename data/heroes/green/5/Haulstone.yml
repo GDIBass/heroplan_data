@@ -40,4 +40,14 @@ dtReleased: "2023-06-28"
 dtModified: "2026-03-27"
 fancy_name: Carry-It-All Construct
 aetherPower: defense_up
+lb1:
+  power: 988
+  attack: 819
+  defense: 1054
+  health: 2011
+lb2:
+  power: 1112
+  attack: 937
+  defense: 1206
+  health: 2301
 ...

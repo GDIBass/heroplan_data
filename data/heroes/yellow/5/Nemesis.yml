@@ -41,4 +41,14 @@ dtReleased: "2022-09-21"
 dtModified: ""
 fancy_name: Goddess of Divine Retribution
 aetherPower: defense_up
+lb1:
+  power: 914
+  attack: 945
+  defense: 843
+  health: 1593
+lb2:
+  power: 1029
+  attack: 1082
+  defense: 965
+  health: 1823
 ...

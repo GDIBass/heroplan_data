@@ -33,4 +33,14 @@ dtReleased: "2024-04-05"
 dtModified: ""
 fancy_name: Ram Turismo Champion
 aetherPower: attack_up
+lb1:
+  power: 1097
+  attack: 1101
+  defense: 1145
+  health: 1902
+lb2:
+  power: 1237
+  attack: 1259
+  defense: 1310
+  health: 2176
 ...

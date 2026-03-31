@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Warrior of Teltoc
 aetherPower: attack_up
+lb1:
+  power: 815
+  attack: 848
+  defense: 679
+  health: 1454
+lb2:
+  power: 914
+  attack: 970
+  defense: 777
+  health: 1663
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +54,14 @@ costume:
   dtModified: ""
   fancy_name: Fierce Panther
   aetherPower: special_armor
+  lb1:
+    power: 1024
+    attack: 1048
+    defense: 868
+    health: 2066
+  lb2:
+    power: 1153
+    attack: 1199
+    defense: 993
+    health: 2364
 ...

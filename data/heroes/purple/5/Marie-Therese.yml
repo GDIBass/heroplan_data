@@ -29,6 +29,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Voodoo Queen of Corellia
 aetherPower: mana_boost
+lb1:
+  power: 831
+  attack: 834
+  defense: 779
+  health: 1403
+lb2:
+  power: 933
+  attack: 955
+  defense: 891
+  health: 1605
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -62,4 +72,14 @@ costume:
   dtModified: ""
   fancy_name: Soul-Stealing Priestess
   aetherPower: heal_increase
+  lb1:
+    power: 1043
+    attack: 1031
+    defense: 998
+    health: 1989
+  lb2:
+    power: 1176
+    attack: 1180
+    defense: 1143
+    health: 2275
 ...

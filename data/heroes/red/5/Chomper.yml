@@ -27,4 +27,14 @@ dtReleased: "2022-11-03"
 dtModified: ""
 fancy_name: Hamster Brawler Champion
 aetherPower: special_boost
+lb1:
+  power: 935
+  attack: 916
+  defense: 930
+  health: 1638
+lb2:
+  power: 1052
+  attack: 1049
+  defense: 1064
+  health: 1874
 ...

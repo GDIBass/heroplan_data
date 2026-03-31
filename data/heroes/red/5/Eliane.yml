@@ -27,4 +27,14 @@ dtReleased: "2025-03-01"
 dtModified: ""
 fancy_name: Senior Red Mage
 aetherPower: special_armor
+lb1:
+  power: 1139
+  attack: 1189
+  defense: 1183
+  health: 1906
+lb2:
+  power: 1285
+  attack: 1361
+  defense: 1353
+  health: 2181
 ...

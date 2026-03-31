@@ -30,4 +30,14 @@ dtReleased: "2024-02-27"
 dtModified: ""
 fancy_name: Virtuoso Gargoyle
 aetherPower: attack_up
+lb1:
+  power: 1120
+  attack: 1163
+  defense: 1149
+  health: 1904
+lb2:
+  power: 1263
+  attack: 1330
+  defense: 1315
+  health: 2179
 ...

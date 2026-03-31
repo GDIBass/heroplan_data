@@ -35,4 +35,14 @@ dtReleased: "2025-09-26"
 dtModified: ""
 fancy_name: Tabby Safecracker
 aetherPower: attack_up
+lb1:
+  power: 1327
+  attack: 1438
+  defense: 1305
+  health: 2382
+lb2:
+  power: 1500
+  attack: 1645
+  defense: 1493
+  health: 2725
 ...

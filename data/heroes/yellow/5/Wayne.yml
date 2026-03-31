@@ -25,4 +25,14 @@ dtReleased: "2024-09-23"
 dtModified: ""
 fancy_name: The Great Magician of Morlovia
 aetherPower: vampire
+lb1:
+  power: 1127
+  attack: 1276
+  defense: 1207
+  health: 1554
+lb2:
+  power: 1271
+  attack: 1460
+  defense: 1381
+  health: 1778
 ...

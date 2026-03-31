@@ -31,4 +31,14 @@ dtReleased: "2025-09-09"
 dtModified: ""
 fancy_name: The Masked Savant
 aetherPower: counterattack
+lb1:
+  power: 1321
+  attack: 1325
+  defense: 1409
+  health: 2417
+lb2:
+  power: 1494
+  attack: 1516
+  defense: 1612
+  health: 2766
 ...

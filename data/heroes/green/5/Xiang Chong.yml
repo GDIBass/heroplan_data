@@ -41,12 +41,12 @@ dtModified: ""
 fancy_name: Flying Star of Water Margin
 aetherPower: attack_up
 lb1:
-  power: 1400
+  power: 1383
   attack: 1476
   defense: 1416
   health: 2466
 lb2:
-  power: 1600
+  power: 1564
   attack: 1689
   defense: 1620
   health: 2821

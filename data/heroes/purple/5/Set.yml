@@ -29,6 +29,16 @@ dtReleased: "2022-09-29"
 dtModified: ""
 fancy_name: Dark Usurper
 aetherPower: mana_boost
+lb1:
+  power: 922
+  attack: 870
+  defense: 907
+  health: 1704
+lb2:
+  power: 1036
+  attack: 995
+  defense: 1038
+  health: 1950
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -62,4 +72,14 @@ costume:
   dtModified: ""
   fancy_name: Dark Tyrant
   aetherPower: boosted_regen
+  lb1:
+    power: 1294
+    attack: 1306
+    defense: 1284
+    health: 2524
+  lb2:
+    power: 1463
+    attack: 1495
+    defense: 1469
+    health: 2887
 ...

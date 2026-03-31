@@ -40,4 +40,14 @@ dtReleased: "2025-11-13"
 dtModified: ""
 fancy_name: Heavily Armored Construct
 aetherPower: taunt
+lb1:
+  power: 1340
+  attack: 1403
+  defense: 1369
+  health: 2439
+lb2:
+  power: 1516
+  attack: 1605
+  defense: 1567
+  health: 2791
 ...

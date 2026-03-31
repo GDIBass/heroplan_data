@@ -26,6 +26,16 @@ dtReleased: "2023-02-14"
 dtModified: ""
 fancy_name: Cupid of Affection
 aetherPower: attack_up
+lb1:
+  power: 919
+  attack: 910
+  defense: 868
+  health: 1665
+lb2:
+  power: 1034
+  attack: 1041
+  defense: 993
+  health: 1905
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +64,14 @@ costume:
   dtModified: ""
   fancy_name: Cupid of Fiery Passion
   aetherPower: rage
+  lb1:
+    power: 1360
+    attack: 1414
+    defense: 1348
+    health: 2597
+  lb2:
+    power: 1539
+    attack: 1618
+    defense: 1543
+    health: 2971
 ...

@@ -34,4 +34,14 @@ dtReleased: "2025-11-02"
 dtModified: ""
 fancy_name: Astral Demon Empress
 aetherPower: defense_up
+lb1:
+  power: 1337
+  attack: 1316
+  defense: 1467
+  health: 2439
+lb2:
+  power: 1512
+  attack: 1506
+  defense: 1678
+  health: 2791
 ...

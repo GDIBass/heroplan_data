@@ -23,6 +23,16 @@ dtReleased: "2021-06-17"
 dtModified: ""
 fancy_name: Eloi Hunter
 aetherPower: defense_up
+lb1:
+  power: 860
+  attack: 832
+  defense: 803
+  health: 1565
+lb2:
+  power: 966
+  attack: 952
+  defense: 919
+  health: 1790
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: ""
   fancy_name: Eloi Sage
   aetherPower: bulwark
+  lb1:
+    power: 1091
+    attack: 1154
+    defense: 955
+    health: 2109
+  lb2:
+    power: 1230
+    attack: 1320
+    defense: 1092
+    health: 2414
 ...

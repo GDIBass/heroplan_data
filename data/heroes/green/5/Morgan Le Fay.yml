@@ -21,4 +21,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Enchantress of Avalon
 aetherPower: bulwark
+lb1:
+  power: 815
+  attack: 772
+  defense: 777
+  health: 1447
+lb2:
+  power: 914
+  attack: 883
+  defense: 889
+  health: 1656
 ...

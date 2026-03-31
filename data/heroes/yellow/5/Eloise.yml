@@ -22,4 +22,14 @@ dtReleased: "2022-01-05"
 dtModified: "2026-03-20"
 fancy_name: Enchanter of the Castle
 aetherPower: vampire
+lb1:
+  power: 876
+  attack: 865
+  defense: 854
+  health: 1498
+lb2:
+  power: 985
+  attack: 990
+  defense: 977
+  health: 1714
 ...

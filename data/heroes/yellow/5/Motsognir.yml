@@ -38,4 +38,14 @@ dtReleased: "2025-08-06"
 dtModified: ""
 fancy_name: Dwarven Frontier Wildman
 aetherPower: regen
+lb1:
+  power: 1312
+  attack: 1265
+  defense: 1316
+  health: 2688
+lb2:
+  power: 1483
+  attack: 1447
+  defense: 1506
+  health: 3075
 ...

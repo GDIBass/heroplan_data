@@ -31,4 +31,14 @@ dtReleased: "2023-08-24"
 dtModified: ""
 fancy_name: Porcelain Doll Construct
 aetherPower: regen
+lb1:
+  power: 1046
+  attack: 954
+  defense: 1081
+  health: 2035
+lb2:
+  power: 1179
+  attack: 1092
+  defense: 1236
+  health: 2329
 ...

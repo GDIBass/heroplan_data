@@ -28,4 +28,14 @@ dtReleased: "2025-08-01"
 dtModified: ""
 fancy_name: Fairy of Auburn Woods
 aetherPower: damage_reduction
+lb1:
+  power: 1203
+  attack: 1192
+  defense: 1252
+  health: 2217
+lb2:
+  power: 1358
+  attack: 1363
+  defense: 1432
+  health: 2537
 ...

@@ -40,4 +40,14 @@ dtReleased: "2024-11-19"
 dtModified: ""
 fancy_name: Faithful Kunoichi
 aetherPower: counterattack
+lb1:
+  power: 1193
+  attack: 1198
+  defense: 1398
+  health: 1838
+lb2:
+  power: 1347
+  attack: 1371
+  defense: 1600
+  health: 2103
 ...

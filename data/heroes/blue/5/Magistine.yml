@@ -31,4 +31,14 @@ dtReleased: "2025-04-25"
 dtModified: ""
 fancy_name: Spell Weaving Slime
 aetherPower: defense_up
+lb1:
+  power: 1274
+  attack: 1349
+  defense: 1320
+  health: 2200
+lb2:
+  power: 1440
+  attack: 1544
+  defense: 1511
+  health: 2517
 ...

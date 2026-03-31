@@ -37,4 +37,14 @@ dtReleased: "2025-01-26"
 dtModified: ""
 fancy_name: Dwarven Mountain Shaman
 aetherPower: dodge
+lb1:
+  power: 1255
+  attack: 1318
+  defense: 1245
+  health: 2291
+lb2:
+  power: 1418
+  attack: 1508
+  defense: 1424
+  health: 2621
 ...

@@ -35,4 +35,14 @@ dtReleased: "2024-06-18"
 dtModified: ""
 fancy_name: Rejuvenating Forest Slime
 aetherPower: regen
+lb1:
+  power: 1197
+  attack: 1165
+  defense: 1303
+  health: 2142
+lb2:
+  power: 1351
+  attack: 1333
+  defense: 1490
+  health: 2451
 ...

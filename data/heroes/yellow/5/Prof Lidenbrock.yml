@@ -25,6 +25,16 @@ dtReleased: "2021-03-25"
 dtModified: ""
 fancy_name: Sagacious Scientist
 aetherPower: heal_increase
+lb1:
+  power: 859
+  attack: 803
+  defense: 870
+  health: 1502
+lb2:
+  power: 965
+  attack: 919
+  defense: 995
+  health: 1719
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +63,14 @@ costume:
   dtModified: ""
   fancy_name: Sagacious Jeweler
   aetherPower: special_armor
+  lb1:
+    power: 1090
+    attack: 1038
+    defense: 1125
+    health: 2052
+  lb2:
+    power: 1229
+    attack: 1188
+    defense: 1287
+    health: 2348
 ...

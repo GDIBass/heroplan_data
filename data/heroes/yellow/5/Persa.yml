@@ -44,6 +44,16 @@ dtReleased: "2023-10-25"
 dtModified: "2026-03-20"
 fancy_name: Water Spirit of Plunder
 aetherPower: attack_up
+lb1:
+  power: 1029
+  attack: 1054
+  defense: 1105
+  health: 1618
+lb2:
+  power: 1160
+  attack: 1206
+  defense: 1264
+  health: 1851
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -89,4 +99,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Jellyfish Noble
   aetherPower: special_boost
+  lb1:
+    power: 1283
+    attack: 1363
+    defense: 1400
+    health: 2071
+  lb2:
+    power: 1451
+    attack: 1560
+    defense: 1602
+    health: 2370
 ...

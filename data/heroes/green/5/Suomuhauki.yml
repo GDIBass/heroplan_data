@@ -29,4 +29,14 @@ dtReleased: "2025-07-28"
 dtModified: ""
 fancy_name: Hulking Pike
 aetherPower: fiend_resist
+lb1:
+  power: 1310
+  attack: 1407
+  defense: 1256
+  health: 2437
+lb2:
+  power: 1481
+  attack: 1610
+  defense: 1437
+  health: 2788
 ...

@@ -29,4 +29,14 @@ dtReleased: "2025-10-11"
 dtModified: ""
 fancy_name: Sweet Blushing Slime
 aetherPower: dodge
+lb1:
+  power: 1330
+  attack: 1389
+  defense: 1351
+  health: 2437
+lb2:
+  power: 1504
+  attack: 1590
+  defense: 1546
+  health: 2788
 ...

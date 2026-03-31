@@ -23,6 +23,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Fair-Haired Deity
 aetherPower: ailment_immunity
+lb1:
+  power: 840
+  attack: 850
+  defense: 772
+  health: 1443
+lb2:
+  power: 943
+  attack: 972
+  defense: 883
+  health: 1651
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +56,14 @@ costume:
   dtModified: ""
   fancy_name: Golden Deity
   aetherPower: damage_reduction
+  lb1:
+    power: 1055
+    attack: 1037
+    defense: 1031
+    health: 1990
+  lb2:
+    power: 1189
+    attack: 1186
+    defense: 1180
+    health: 2276
 ...

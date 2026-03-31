@@ -33,4 +33,14 @@ dtReleased: "2024-02-09"
 dtModified: ""
 fancy_name: Javelin Throw Champion
 aetherPower: attack_up
+lb1:
+  power: 1068
+  attack: 1107
+  defense: 1076
+  health: 1820
+lb2:
+  power: 1204
+  attack: 1267
+  defense: 1231
+  health: 2082
 ...

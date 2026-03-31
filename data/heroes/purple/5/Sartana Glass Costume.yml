@@ -26,4 +26,14 @@ dtReleased: "2024-12-25"
 dtModified: ""
 fancy_name: Vitrail from Descenthia
 aetherPower: dodge
+lb1:
+  power: 1329
+  attack: 1332
+  defense: 1309
+  health: 2659
+lb2:
+  power: 1503
+  attack: 1524
+  defense: 1497
+  health: 3042
 ...

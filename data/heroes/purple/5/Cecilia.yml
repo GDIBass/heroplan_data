@@ -24,4 +24,14 @@ dtReleased: "2024-04-10"
 dtModified: ""
 fancy_name: Blessed by Twilight
 aetherPower: attack_up
+lb1:
+  power: 1098
+  attack: 1110
+  defense: 1136
+  health: 1909
+lb2:
+  power: 1239
+  attack: 1270
+  defense: 1300
+  health: 2184
 ...

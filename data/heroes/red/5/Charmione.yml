@@ -32,4 +32,14 @@ dtReleased: "2025-01-01"
 dtModified: ""
 fancy_name: Charming Theater Goo
 aetherPower: revive
+lb1:
+  power: 1250
+  attack: 1194
+  defense: 1218
+  health: 2621
+lb2:
+  power: 1413
+  attack: 1366
+  defense: 1394
+  health: 2999
 ...

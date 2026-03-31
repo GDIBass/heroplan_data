@@ -26,4 +26,14 @@ dtReleased: "2023-07-26"
 dtModified: ""
 fancy_name: Courageous Musketeer
 aetherPower: attack_up
+lb1:
+  power: 992
+  attack: 939
+  defense: 976
+  health: 1895
+lb2:
+  power: 1117
+  attack: 1074
+  defense: 1117
+  health: 2169
 ...

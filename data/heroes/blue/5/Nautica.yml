@@ -32,4 +32,14 @@ dtReleased: "2024-02-08"
 dtModified: "2026-03-20"
 fancy_name: Navigator Construct
 aetherPower: dodge
+lb1:
+  power: 1062
+  attack: 1074
+  defense: 1074
+  health: 1864
+lb2:
+  power: 1197
+  attack: 1229
+  defense: 1229
+  health: 2133
 ...

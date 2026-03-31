@@ -29,6 +29,16 @@ dtReleased: "2021-03-25"
 dtModified: ""
 fancy_name: Arachnid Aristocrat
 aetherPower: fiend_resist
+lb1:
+  power: 860
+  attack: 828
+  defense: 812
+  health: 1560
+lb2:
+  power: 966
+  attack: 947
+  defense: 929
+  health: 1785
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -61,4 +71,14 @@ costume:
   dtModified: ""
   fancy_name: Bridal Aristocrat
   aetherPower: counterattack
+  lb1:
+    power: 1091
+    attack: 1096
+    defense: 1064
+    health: 2037
+  lb2:
+    power: 1231
+    attack: 1254
+    defense: 1218
+    health: 2331
 ...

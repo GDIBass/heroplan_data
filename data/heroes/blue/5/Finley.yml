@@ -24,6 +24,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Commodore of Corellia
 aetherPower: revive
+lb1:
+  power: 832
+  attack: 812
+  defense: 803
+  health: 1416
+lb2:
+  power: 934
+  attack: 929
+  defense: 919
+  health: 1620
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: ""
   fancy_name: Bleak Commodore
   aetherPower: attack_up
+  lb1:
+    power: 1045
+    attack: 1079
+    defense: 979
+    health: 1920
+  lb2:
+    power: 1178
+    attack: 1235
+    defense: 1120
+    health: 2197
 ...

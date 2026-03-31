@@ -36,4 +36,14 @@ dtReleased: "2025-04-14"
 dtModified: ""
 fancy_name: Dwarven Great Knight
 aetherPower: defense_up
+lb1:
+  power: 1277
+  attack: 1260
+  defense: 1294
+  health: 2493
+lb2:
+  power: 1443
+  attack: 1442
+  defense: 1480
+  health: 2852
 ...

@@ -29,4 +29,14 @@ dtReleased: "2024-06-10"
 dtModified: ""
 fancy_name: Happy-Go-Lucky Halfling
 aetherPower: special_armor
+lb1:
+  power: 1169
+  attack: 1236
+  defense: 1181
+  health: 2006
+lb2:
+  power: 1319
+  attack: 1414
+  defense: 1351
+  health: 2296
 ...

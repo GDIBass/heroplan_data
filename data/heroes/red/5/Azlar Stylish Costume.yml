@@ -26,4 +26,14 @@ dtReleased: "2026-01-07"
 dtModified: ""
 fancy_name: Stylish Leor
 aetherPower: rage
+lb1:
+  power: 1394
+  attack: 1527
+  defense: 1351
+  health: 2546
+lb2:
+  power: 1577
+  attack: 1748
+  defense: 1545
+  health: 2913
 ...

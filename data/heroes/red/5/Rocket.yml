@@ -30,4 +30,14 @@ dtReleased: "2024-03-18"
 dtModified: ""
 fancy_name: Demolitions Expert
 aetherPower: fiend_resist
+lb1:
+  power: 1090
+  attack: 1156
+  defense: 1103
+  health: 1798
+lb2:
+  power: 1229
+  attack: 1323
+  defense: 1262
+  health: 2057
 ...

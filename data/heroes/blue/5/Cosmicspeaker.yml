@@ -27,4 +27,14 @@ dtReleased: "2024-10-14"
 dtModified: ""
 fancy_name: Astral Elf Astronomer
 aetherPower: attack_up
+lb1:
+  power: 1182
+  attack: 1260
+  defense: 1218
+  health: 1971
+lb2:
+  power: 1335
+  attack: 1442
+  defense: 1394
+  health: 2255
 ...

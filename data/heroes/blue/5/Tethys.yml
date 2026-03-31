@@ -23,6 +23,16 @@ dtReleased: "2022-05-30"
 dtModified: ""
 fancy_name: Goddess of all Rivers
 aetherPower: attack_up
+lb1:
+  power: 891
+  attack: 892
+  defense: 830
+  health: 1582
+lb2:
+  power: 1001
+  attack: 1021
+  defense: 949
+  health: 1811
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +56,14 @@ costume:
   dtModified: ""
   fancy_name: Avenger of All Rivers
   aetherPower: special_boost
+  lb1:
+    power: 1095
+    attack: 1129
+    defense: 1029
+    health: 2049
+  lb2:
+    power: 1234
+    attack: 1292
+    defense: 1177
+    health: 2344
 ...

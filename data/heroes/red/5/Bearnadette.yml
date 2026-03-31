@@ -30,4 +30,14 @@ dtReleased: "2024-07-17"
 dtModified: "2026-03-22"
 fancy_name: Portrait Painter
 aetherPower: boosted_regen
+lb1:
+  power: 1153
+  attack: 1090
+  defense: 1221
+  health: 2177
+lb2:
+  power: 1301
+  attack: 1247
+  defense: 1397
+  health: 2491
 ...

@@ -30,4 +30,14 @@ dtReleased: "2026-01-19"
 dtModified: ""
 fancy_name: Cupid of the Heartwood
 aetherPower: special_boost
+lb1:
+  power: 1362
+  attack: 1420
+  defense: 1416
+  health: 2455
+lb2:
+  power: 1540
+  attack: 1625
+  defense: 1620
+  health: 2809
 ...

@@ -22,6 +22,16 @@ dtReleased: ""
 dtModified: "2026-03-23"
 fancy_name: Vigilant Watchman
 aetherPower: heal_increase
+lb1:
+  power: 840
+  attack: 705
+  defense: 910
+  health: 1527
+lb2:
+  power: 943
+  attack: 807
+  defense: 1041
+  health: 1747
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +55,14 @@ costume:
   dtModified: "2026-03-23"
   fancy_name: Dreaded Watchman
   aetherPower: bulwark
+  lb1:
+    power: 1055
+    attack: 897
+    defense: 1184
+    health: 2034
+  lb2:
+    power: 1189
+    attack: 1027
+    defense: 1355
+    health: 2328
 ...

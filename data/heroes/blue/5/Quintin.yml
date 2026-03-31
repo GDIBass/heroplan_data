@@ -20,4 +20,14 @@ dtReleased: "2022-01-05"
 dtModified: ""
 fancy_name: Stalker of the Castle
 aetherPower: vampire
+lb1:
+  power: 876
+  attack: 885
+  defense: 825
+  health: 1505
+lb2:
+  power: 984
+  attack: 1013
+  defense: 944
+  health: 1722
 ...

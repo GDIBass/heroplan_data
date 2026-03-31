@@ -29,4 +29,14 @@ dtReleased: "2022-11-03"
 dtModified: ""
 fancy_name: Canine Storyteller
 aetherPower: defense_up
+lb1:
+  power: 934
+  attack: 901
+  defense: 934
+  health: 1660
+lb2:
+  power: 1051
+  attack: 1031
+  defense: 1069
+  health: 1899
 ...

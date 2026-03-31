@@ -36,4 +36,14 @@ dtReleased: "2026-03-04"
 dtModified: ""
 fancy_name: Cat of the Sun-Blessed Valley
 aetherPower: regen
+lb1:
+  power: 1375
+  attack: 1500
+  defense: 1349
+  health: 2486
+lb2:
+  power: 1556
+  attack: 1717
+  defense: 1544
+  health: 2844
 ...

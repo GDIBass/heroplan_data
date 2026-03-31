@@ -29,6 +29,16 @@ dtReleased: "2022-11-24"
 dtModified: ""
 fancy_name: Mummy Pharaoh
 aetherPower: revive
+lb1:
+  power: 924
+  attack: 865
+  defense: 927
+  health: 1691
+lb2:
+  power: 1039
+  attack: 990
+  defense: 1061
+  health: 1935
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -62,4 +72,14 @@ costume:
   dtModified: ""
   fancy_name: Pharaoh Reborn
   aetherPower: boosted_regen
+  lb1:
+    power: 1296
+    attack: 1258
+    defense: 1319
+    health: 2584
+  lb2:
+    power: 1465
+    attack: 1440
+    defense: 1510
+    health: 2956
 ...

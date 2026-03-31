@@ -36,4 +36,14 @@ dtReleased: "2025-06-25"
 dtModified: ""
 fancy_name: The Lab Moth
 aetherPower: ailment_immunity
+lb1:
+  power: 1298
+  attack: 1407
+  defense: 1276
+  health: 2315
+lb2:
+  power: 1468
+  attack: 1610
+  defense: 1460
+  health: 2649
 ...

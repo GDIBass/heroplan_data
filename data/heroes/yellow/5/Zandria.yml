@@ -32,6 +32,16 @@ dtReleased: "2022-10-10"
 dtModified: ""
 fancy_name: Defender of Space-Time
 aetherPower: regen
+lb1:
+  power: 955
+  attack: 879
+  defense: 947
+  health: 1844
+lb2:
+  power: 1075
+  attack: 1005
+  defense: 1084
+  health: 2110
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -65,4 +75,14 @@ costume:
   dtModified: ""
   fancy_name: Defender of Galaxies
   aetherPower: bulwark
+  lb1:
+    power: 1341
+    attack: 1296
+    defense: 1374
+    health: 2702
+  lb2:
+    power: 1516
+    attack: 1483
+    defense: 1572
+    health: 3091
 ...

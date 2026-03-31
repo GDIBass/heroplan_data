@@ -29,4 +29,14 @@ dtReleased: "2021-01-01"
 dtModified: ""
 fancy_name: The Green Knight
 aetherPower: regen
+lb1:
+  power: 835
+  attack: 774
+  defense: 834
+  health: 1474
+lb2:
+  power: 938
+  attack: 886
+  defense: 955
+  health: 1686
 ...

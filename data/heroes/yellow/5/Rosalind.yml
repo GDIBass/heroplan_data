@@ -30,4 +30,14 @@ dtReleased: "2024-10-27"
 dtModified: "2026-03-20"
 fancy_name: Cheerful Captain
 aetherPower: counterattack
+lb1:
+  power: 1187
+  attack: 1167
+  defense: 1252
+  health: 2168
+lb2:
+  power: 1340
+  attack: 1336
+  defense: 1432
+  health: 2481
 ...

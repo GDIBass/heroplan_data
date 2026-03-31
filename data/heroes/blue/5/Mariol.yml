@@ -27,4 +27,14 @@ dtReleased: "2024-03-13"
 dtModified: "2026-03-29"
 fancy_name: Courtier of Owl Tower
 aetherPower: heal_increase
+lb1:
+  power: 1119
+  attack: 1143
+  defense: 1163
+  health: 1920
+lb2:
+  power: 1262
+  attack: 1308
+  defense: 1330
+  health: 2197
 ...

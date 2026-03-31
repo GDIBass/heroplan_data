@@ -34,4 +34,14 @@ dtReleased: "2022-10-15"
 dtModified: "2026-03-20"
 fancy_name: Hunter Knight
 aetherPower: fiend_resist
+lb1:
+  power: 948
+  attack: 959
+  defense: 896
+  health: 1691
+lb2:
+  power: 1067
+  attack: 1097
+  defense: 1026
+  health: 1935
 ...

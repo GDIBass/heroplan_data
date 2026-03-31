@@ -22,6 +22,16 @@ dtReleased: "2017-09-01"
 dtModified: ""
 fancy_name: Invincible Ronin
 aetherPower: attack_up
+lb1:
+  power: 815
+  attack: 848
+  defense: 732
+  health: 1345
+lb2:
+  power: 914
+  attack: 970
+  defense: 838
+  health: 1539
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +57,14 @@ costume:
   dtModified: ""
   fancy_name: Escape Artist
   aetherPower: rage
+  lb1:
+    power: 1035
+    attack: 1065
+    defense: 939
+    health: 1963
+  lb2:
+    power: 1167
+    attack: 1219
+    defense: 1075
+    health: 2246
 ...

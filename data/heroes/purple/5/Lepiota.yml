@@ -32,6 +32,16 @@ dtReleased: "2021-03-25"
 dtModified: ""
 fancy_name: Leader of the Eloi
 aetherPower: special_armor
+lb1:
+  power: 859
+  attack: 841
+  defense: 839
+  health: 1465
+lb2:
+  power: 965
+  attack: 962
+  defense: 960
+  health: 1676
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -66,4 +76,14 @@ costume:
   dtModified: ""
   fancy_name: Leader of the Undying
   aetherPower: special_armor
+  lb1:
+    power: 1088
+    attack: 1059
+    defense: 1111
+    health: 2013
+  lb2:
+    power: 1227
+    attack: 1211
+    defense: 1271
+    health: 2304
 ...

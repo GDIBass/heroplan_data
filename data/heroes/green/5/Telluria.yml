@@ -30,4 +30,14 @@ dtReleased: "2020-03-01"
 dtModified: ""
 fancy_name: Forest God
 aetherPower: bulwark
+lb1:
+  power: 822
+  attack: 661
+  defense: 896
+  health: 1536
+lb2:
+  power: 922
+  attack: 756
+  defense: 1026
+  health: 1757
 ...

@@ -26,4 +26,14 @@ dtReleased: "2024-06-12"
 dtModified: ""
 fancy_name: Astral Elf Arbalist
 aetherPower: damage_reduction
+lb1:
+  power: 1135
+  attack: 1112
+  defense: 1256
+  health: 1926
+lb2:
+  power: 1281
+  attack: 1272
+  defense: 1437
+  health: 2204
 ...

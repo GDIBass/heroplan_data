@@ -27,6 +27,16 @@ dtReleased: "2023-06-12"
 dtModified: ""
 fancy_name: Seal Lifeguard
 aetherPower: defense_up
+lb1:
+  power: 931
+  attack: 899
+  defense: 934
+  health: 1647
+lb2:
+  power: 1047
+  attack: 1028
+  defense: 1069
+  health: 1884
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +64,14 @@ costume:
   dtModified: ""
   fancy_name: Seal Donut Vendor
   aetherPower: damage_reduction
+  lb1:
+    power: 1267
+    attack: 1230
+    defense: 1339
+    health: 2411
+  lb2:
+    power: 1432
+    attack: 1408
+    defense: 1532
+    health: 2758
 ...

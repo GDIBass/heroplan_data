@@ -28,4 +28,14 @@ dtReleased: "2025-10-08"
 dtModified: ""
 fancy_name: Sanguine Steward
 aetherPower: fiend_resist
+lb1:
+  power: 1331
+  attack: 1374
+  defense: 1371
+  health: 2439
+lb2:
+  power: 1505
+  attack: 1572
+  defense: 1569
+  health: 2791
 ...

@@ -38,4 +38,14 @@ dtReleased: "2025-07-18"
 dtModified: ""
 fancy_name: Fluffy Constellationist
 aetherPower: boosted_regen
+lb1:
+  power: 1307
+  attack: 1323
+  defense: 1414
+  health: 2308
+lb2:
+  power: 1477
+  attack: 1513
+  defense: 1617
+  health: 2641
 ...

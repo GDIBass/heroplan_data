@@ -35,4 +35,14 @@ dtReleased: "2025-07-13"
 dtModified: ""
 fancy_name: Terror-Spreading Tarn-Hag
 aetherPower: fiend_resist
+lb1:
+  power: 1306
+  attack: 1329
+  defense: 1365
+  health: 2384
+lb2:
+  power: 1476
+  attack: 1521
+  defense: 1562
+  health: 2727
 ...

@@ -32,4 +32,14 @@ dtReleased: "2024-05-03"
 dtModified: ""
 fancy_name: Discus Throw Champion
 aetherPower: defense_up
+lb1:
+  power: 1113
+  attack: 1076
+  defense: 1187
+  health: 1998
+lb2:
+  power: 1256
+  attack: 1231
+  defense: 1358
+  health: 2286
 ...

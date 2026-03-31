@@ -25,4 +25,14 @@ dtReleased: "2025-04-29"
 dtModified: ""
 fancy_name: The Stylish Swordsman
 aetherPower: attack_up
+lb1:
+  power: 1259
+  attack: 1294
+  defense: 1263
+  health: 2342
+lb2:
+  power: 1422
+  attack: 1480
+  defense: 1445
+  health: 2679
 ...

@@ -34,4 +34,14 @@ dtReleased: "2025-11-29"
 dtModified: ""
 fancy_name: Astral Demon Socialite
 aetherPower: regen
+lb1:
+  power: 1345
+  attack: 1371
+  defense: 1425
+  health: 2439
+lb2:
+  power: 1521
+  attack: 1569
+  defense: 1630
+  health: 2791
 ...

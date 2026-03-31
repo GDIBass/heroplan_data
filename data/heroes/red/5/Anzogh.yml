@@ -26,4 +26,14 @@ dtReleased: "2019-04-01"
 dtModified: ""
 fancy_name: Shaman with a Grudge
 aetherPower: special_boost
+lb1:
+  power: 820
+  attack: 752
+  defense: 854
+  health: 1378
+lb2:
+  power: 920
+  attack: 861
+  defense: 977
+  health: 1577
 ...

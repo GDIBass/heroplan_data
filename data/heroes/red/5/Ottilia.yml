@@ -24,4 +24,14 @@ dtReleased: "2024-12-01"
 dtModified: ""
 fancy_name: Gnome Decorator
 aetherPower: attack_up
+lb1:
+  power: 1202
+  attack: 1256
+  defense: 1185
+  health: 2184
+lb2:
+  power: 1357
+  attack: 1437
+  defense: 1356
+  health: 2499
 ...

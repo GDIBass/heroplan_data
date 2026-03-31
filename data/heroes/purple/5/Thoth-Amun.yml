@@ -23,6 +23,16 @@ dtReleased: "2017-11-01"
 dtModified: ""
 fancy_name: Master of Crypts
 aetherPower: revive
+lb1:
+  power: 815
+  attack: 788
+  defense: 748
+  health: 1467
+lb2:
+  power: 914
+  attack: 901
+  defense: 855
+  health: 1678
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +59,14 @@ costume:
   dtModified: ""
   fancy_name: Cosmic Conjurer
   aetherPower: bulwark
+  lb1:
+    power: 1040
+    attack: 983
+    defense: 962
+    health: 2156
+  lb2:
+    power: 1171
+    attack: 1124
+    defense: 1100
+    health: 2467
 ...

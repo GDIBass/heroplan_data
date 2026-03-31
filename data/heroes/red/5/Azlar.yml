@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Last of the Leors
 aetherPower: rage
+lb1:
+  power: 806
+  attack: 854
+  defense: 654
+  health: 1425
+lb2:
+  power: 904
+  attack: 977
+  defense: 749
+  health: 1630
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,6 +52,16 @@ costume:
   dtModified: ""
   fancy_name: King of the Leors
   aetherPower: bulwark
+  lb1:
+    power: 909
+    attack: 953
+    defense: 770
+    health: 1683
+  lb2:
+    power: 1022
+    attack: 1090
+    defense: 881
+    health: 1926
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -64,6 +84,16 @@ costume2:
   dtModified: ""
   fancy_name: Leor Babysitter
   aetherPower: boosted_regen
+  lb1:
+    power: 1033
+    attack: 1116
+    defense: 873
+    health: 1950
+  lb2:
+    power: 1164
+    attack: 1277
+    defense: 999
+    health: 2231
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -88,6 +118,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Leor
   aetherPower: rage
+  lb1:
+    power: 1214
+    attack: 1273
+    defense: 1138
+    health: 2321
+  lb2:
+    power: 1371
+    attack: 1456
+    defense: 1303
+    health: 2655
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -112,6 +152,16 @@ costume4:
   dtModified: ""
   fancy_name: Glass Leor
   aetherPower: rage
+  lb1:
+    power: 1329
+    attack: 1441
+    defense: 1282
+    health: 2438
+  lb2:
+    power: 1503
+    attack: 1649
+    defense: 1466
+    health: 2789
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -136,4 +186,14 @@ costume5:
   dtModified: ""
   fancy_name: Stylish Leor
   aetherPower: rage
+  lb1:
+    power: 1394
+    attack: 1527
+    defense: 1351
+    health: 2546
+  lb2:
+    power: 1577
+    attack: 1748
+    defense: 1545
+    health: 2913
 ...

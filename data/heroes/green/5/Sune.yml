@@ -32,4 +32,14 @@ dtReleased: "2024-07-21"
 dtModified: "2026-03-20"
 fancy_name: Malachite Hunter
 aetherPower: attack_up
+lb1:
+  power: 1210
+  attack: 1232
+  defense: 1161
+  health: 2348
+lb2:
+  power: 1366
+  attack: 1409
+  defense: 1328
+  health: 2687
 ...

@@ -29,4 +29,14 @@ dtReleased: "2024-01-08"
 dtModified: ""
 fancy_name: Love-struck Gearhead
 aetherPower: defense_up
+lb1:
+  power: 1031
+  attack: 1027
+  defense: 1043
+  health: 1820
+lb2:
+  power: 1162
+  attack: 1176
+  defense: 1193
+  health: 2082
 ...

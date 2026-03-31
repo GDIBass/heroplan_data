@@ -35,4 +35,14 @@ dtReleased: "2024-08-01"
 dtModified: ""
 fancy_name: The Vagabond Guardian
 aetherPower: knights_endurance
+lb1:
+  power: 1077
+  attack: 1065
+  defense: 1129
+  health: 1882
+lb2:
+  power: 1214
+  attack: 1219
+  defense: 1292
+  health: 2153
 ...

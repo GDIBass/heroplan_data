@@ -21,6 +21,16 @@ dtReleased: "2020-03-26"
 dtModified: ""
 fancy_name: Weavers of Destiny
 aetherPower: special_boost
+lb1:
+  power: 838
+  attack: 830
+  defense: 774
+  health: 1476
+lb2:
+  power: 941
+  attack: 949
+  defense: 886
+  health: 1689
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +53,14 @@ costume:
   dtModified: ""
   fancy_name: Puppeteers of Destiny
   aetherPower: ailment_immunity
+  lb1:
+    power: 1054
+    attack: 1145
+    defense: 991
+    health: 1792
+  lb2:
+    power: 1188
+    attack: 1310
+    defense: 1134
+    health: 2050
 ...

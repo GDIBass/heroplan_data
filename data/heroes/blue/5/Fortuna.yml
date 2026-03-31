@@ -31,4 +31,14 @@ dtReleased: "2022-11-22"
 dtModified: ""
 fancy_name: Masked Goddess of Fate
 aetherPower: fiend_resist
+lb1:
+  power: 931
+  attack: 883
+  defense: 923
+  health: 1707
+lb2:
+  power: 1047
+  attack: 1010
+  defense: 1056
+  health: 1953
 ...

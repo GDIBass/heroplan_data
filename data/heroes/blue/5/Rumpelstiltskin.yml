@@ -27,6 +27,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Jester of Grimforest
 aetherPower: gamble
+lb1:
+  power: 817
+  attack: 790
+  defense: 752
+  health: 1465
+lb2:
+  power: 917
+  attack: 904
+  defense: 861
+  health: 1676
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -61,4 +71,14 @@ costume:
   dtModified: ""
   fancy_name: Eternal Trickster
   aetherPower: counterattack
+  lb1:
+    power: 1026
+    attack: 989
+    defense: 951
+    health: 2063
+  lb2:
+    power: 1156
+    attack: 1132
+    defense: 1089
+    health: 2361
 ...

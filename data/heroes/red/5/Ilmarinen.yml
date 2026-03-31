@@ -28,6 +28,16 @@ dtReleased: "2022-06-20"
 dtModified: ""
 fancy_name: Expert Blacksmith
 aetherPower: attack_up
+lb1:
+  power: 1000
+  attack: 930
+  defense: 999
+  health: 1933
+lb2:
+  power: 1127
+  attack: 1064
+  defense: 1143
+  health: 2212
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -56,4 +66,14 @@ costume:
   dtModified: ""
   fancy_name: Expert Artificer
   aetherPower: regen
+  lb1:
+    power: 1306
+    attack: 1240
+    defense: 1347
+    health: 2643
+  lb2:
+    power: 1476
+    attack: 1419
+    defense: 1541
+    health: 3024
 ...

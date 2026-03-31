@@ -29,6 +29,16 @@ dtReleased: "2023-01-19"
 dtModified: ""
 fancy_name: Lady of Ten Thousand Names
 aetherPower: attack_up
+lb1:
+  power: 926
+  attack: 896
+  defense: 872
+  health: 1738
+lb2:
+  power: 1041
+  attack: 1026
+  defense: 998
+  health: 1988
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -65,4 +75,14 @@ costume:
   dtModified: ""
   fancy_name: Lady of the Golden Sun
   aetherPower: rage
+  lb1:
+    power: 1300
+    attack: 1335
+    defense: 1236
+    health: 2584
+  lb2:
+    power: 1469
+    attack: 1528
+    defense: 1414
+    health: 2956
 ...

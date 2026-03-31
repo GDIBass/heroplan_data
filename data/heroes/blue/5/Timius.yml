@@ -28,4 +28,14 @@ dtReleased: "2023-12-20"
 dtModified: ""
 fancy_name: Royal Vanguard of Owl Tower
 aetherPower: dodge
+lb1:
+  power: 1052
+  attack: 1083
+  defense: 1072
+  health: 1771
+lb2:
+  power: 1185
+  attack: 1239
+  defense: 1226
+  health: 2026
 ...

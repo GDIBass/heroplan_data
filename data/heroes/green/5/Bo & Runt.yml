@@ -31,4 +31,14 @@ dtReleased: "2024-05-01"
 dtModified: ""
 fancy_name: Leaders of the Pack
 aetherPower: attack_up
+lb1:
+  power: 1047
+  attack: 1123
+  defense: 1001
+  health: 1780
+lb2:
+  power: 1180
+  attack: 1285
+  defense: 1145
+  health: 2037
 ...

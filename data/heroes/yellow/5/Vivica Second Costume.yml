@@ -24,4 +24,14 @@ dtReleased: "2022-09-05"
 dtModified: ""
 fancy_name: Scribe Supreme
 aetherPower: heal_increase
+lb1:
+  power: 1031
+  attack: 967
+  defense: 976
+  health: 2109
+lb2:
+  power: 1163
+  attack: 1107
+  defense: 1117
+  health: 2414
 ...

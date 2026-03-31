@@ -32,4 +32,14 @@ dtReleased: "2024-05-16"
 dtModified: ""
 fancy_name: Fluffy Gargoyle
 aetherPower: regen
+lb1:
+  power: 1121
+  attack: 1161
+  defense: 1143
+  health: 1931
+lb2:
+  power: 1265
+  attack: 1328
+  defense: 1308
+  health: 2209
 ...

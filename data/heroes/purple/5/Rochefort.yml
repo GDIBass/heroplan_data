@@ -24,4 +24,14 @@ dtReleased: "2023-09-20"
 dtModified: ""
 fancy_name: Ruthless Miscreant
 aetherPower: attack_up
+lb1:
+  power: 991
+  attack: 952
+  defense: 916
+  health: 1978
+lb2:
+  power: 1116
+  attack: 1089
+  defense: 1049
+  health: 2263
 ...

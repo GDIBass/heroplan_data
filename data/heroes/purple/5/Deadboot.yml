@@ -30,4 +30,14 @@ dtReleased: "2023-09-18"
 dtModified: ""
 fancy_name: Goblin Cultist
 aetherPower: attack_up
+lb1:
+  power: 1003
+  attack: 1038
+  defense: 967
+  health: 1747
+lb2:
+  power: 1130
+  attack: 1188
+  defense: 1107
+  health: 1998
 ...

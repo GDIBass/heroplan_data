@@ -29,4 +29,14 @@ dtReleased: "2026-03-20"
 dtModified: "2026-03-20"
 fancy_name: Berylline Bruiser
 aetherPower: boosted_regen
+lb1:
+  power: 1379
+  attack: 1445
+  defense: 1438
+  health: 2475
+lb2:
+  power: 1560
+  attack: 1653
+  defense: 1645
+  health: 2832
 ...

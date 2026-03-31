@@ -26,4 +26,14 @@ dtReleased: "2025-05-08"
 dtModified: ""
 fancy_name: The Fire Caller Fox
 aetherPower: ailment_immunity
+lb1:
+  power: 1260
+  attack: 1358
+  defense: 1334
+  health: 2051
+lb2:
+  power: 1424
+  attack: 1554
+  defense: 1526
+  health: 2346
 ...

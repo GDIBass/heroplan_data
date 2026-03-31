@@ -30,4 +30,14 @@ dtReleased: "2022-05-01"
 dtModified: ""
 fancy_name: Hallowed Defender
 aetherPower: taunt
+lb1:
+  power: 859
+  attack: 814
+  defense: 825
+  health: 1562
+lb2:
+  power: 965
+  attack: 932
+  defense: 944
+  health: 1788
 ...

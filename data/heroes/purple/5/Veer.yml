@@ -35,4 +35,14 @@ dtReleased: "2026-01-28"
 dtModified: "2026-03-24"
 fancy_name: Prideful Assassin
 aetherPower: special_boost
+lb1:
+  power: 1364
+  attack: 1449
+  defense: 1387
+  health: 2459
+lb2:
+  power: 1543
+  attack: 1658
+  defense: 1587
+  health: 2814
 ...

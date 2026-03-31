@@ -31,4 +31,14 @@ dtReleased: "2025-01-23"
 dtModified: "2026-03-20"
 fancy_name: The Clergymoth
 aetherPower: attack_up
+lb1:
+  power: 1260
+  attack: 1338
+  defense: 1316
+  health: 2133
+lb2:
+  power: 1424
+  attack: 1531
+  defense: 1506
+  health: 2440
 ...

@@ -40,4 +40,14 @@ dtReleased: "2025-12-14"
 dtModified: "2026-03-28"
 fancy_name: Panther Head of Water Margin
 aetherPower: special_boost
+lb1:
+  power: 1350
+  attack: 1431
+  defense: 1371
+  health: 2435
+lb2:
+  power: 1527
+  attack: 1638
+  defense: 1569
+  health: 2786
 ...

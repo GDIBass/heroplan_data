@@ -26,4 +26,14 @@ dtReleased: "2020-12-01"
 dtModified: ""
 fancy_name: Sworn Occultist
 aetherPower: rage
+lb1:
+  power: 833
+  attack: 825
+  defense: 794
+  health: 1411
+lb2:
+  power: 936
+  attack: 944
+  defense: 909
+  health: 1615
 ...

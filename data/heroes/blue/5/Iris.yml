@@ -28,4 +28,14 @@ dtReleased: "2022-02-01"
 dtModified: ""
 fancy_name: Expert Dispeller
 aetherPower: damage_reduction
+lb1:
+  power: 857
+  attack: 850
+  defense: 810
+  health: 1485
+lb2:
+  power: 962
+  attack: 972
+  defense: 927
+  health: 1699
 ...

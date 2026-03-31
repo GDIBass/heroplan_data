@@ -29,4 +29,14 @@ dtReleased: "2024-08-14"
 dtModified: ""
 fancy_name: The Pathfinder
 aetherPower: defense_up
+lb1:
+  power: 1159
+  attack: 1256
+  defense: 1192
+  health: 1864
+lb2:
+  power: 1308
+  attack: 1437
+  defense: 1363
+  health: 2133
 ...

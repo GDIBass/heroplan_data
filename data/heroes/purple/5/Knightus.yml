@@ -33,4 +33,14 @@ dtReleased: "2025-02-17"
 dtModified: ""
 fancy_name: Chivalric Temple Slime
 aetherPower: special_armor
+lb1:
+  power: 1262
+  attack: 1338
+  defense: 1305
+  health: 2171
+lb2:
+  power: 1426
+  attack: 1531
+  defense: 1493
+  health: 2484
 ...

@@ -26,4 +26,14 @@ dtReleased: "2024-02-12"
 dtModified: ""
 fancy_name: Toon of the Sun
 aetherPower: dodge
+lb1:
+  power: 1206
+  attack: 1255
+  defense: 1070
+  health: 2445
+lb2:
+  power: 1362
+  attack: 1437
+  defense: 1224
+  health: 2798
 ...

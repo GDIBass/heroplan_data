@@ -29,4 +29,14 @@ dtReleased: "2025-07-22"
 dtModified: ""
 fancy_name: Garrulous Guardsman
 aetherPower: defense_up
+lb1:
+  power: 1307
+  attack: 1307
+  defense: 1374
+  health: 2430
+lb2:
+  power: 1478
+  attack: 1496
+  defense: 1572
+  health: 2781
 ...

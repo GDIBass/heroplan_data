@@ -36,4 +36,14 @@ dtReleased: "2026-03-24"
 dtModified: ""
 fancy_name: Jestful Thakurain
 aetherPower: heal_increase
+lb1:
+  power: 1380
+  attack: 1431
+  defense: 1456
+  health: 2475
+lb2:
+  power: 1561
+  attack: 1638
+  defense: 1666
+  health: 2832
 ...

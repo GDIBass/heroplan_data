@@ -28,4 +28,14 @@ dtReleased: "2023-07-13"
 dtModified: ""
 fancy_name: Masked Goddess of the Moon
 aetherPower: attack_up
+lb1:
+  power: 994
+  attack: 992
+  defense: 941
+  health: 1851
+lb2:
+  power: 1120
+  attack: 1135
+  defense: 1076
+  health: 2118
 ...

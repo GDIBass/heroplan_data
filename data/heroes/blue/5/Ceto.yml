@@ -39,6 +39,16 @@ dtReleased: "2023-07-05"
 dtModified: "2026-03-22"
 fancy_name: Primordial Goddess of Sea Monsters
 aetherPower: attack_up
+lb1:
+  power: 1000
+  attack: 1072
+  defense: 905
+  health: 1760
+lb2:
+  power: 1126
+  attack: 1226
+  defense: 1036
+  health: 2014
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -78,4 +88,14 @@ costume:
   dtModified: "2026-03-22"
   fancy_name: Primordial Queen of Sea Monsters
   aetherPower: special_boost
+  lb1:
+    power: 1244
+    attack: 1381
+    defense: 1150
+    health: 2247
+  lb2:
+    power: 1406
+    attack: 1580
+    defense: 1316
+    health: 2571
 ...

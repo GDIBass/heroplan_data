@@ -24,6 +24,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Terror of Avalon
 aetherPower: knights_endurance
+lb1:
+  power: 830
+  attack: 659
+  defense: 912
+  health: 1571
+lb2:
+  power: 932
+  attack: 754
+  defense: 1043
+  health: 1798
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +57,14 @@ costume:
   dtModified: ""
   fancy_name: Negative Knight
   aetherPower: taunt
+  lb1:
+    power: 1044
+    attack: 854
+    defense: 1126
+    health: 2184
+  lb2:
+    power: 1177
+    attack: 977
+    defense: 1289
+    health: 2499
 ...

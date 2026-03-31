@@ -28,4 +28,14 @@ dtReleased: "2020-01-01"
 dtModified: ""
 fancy_name: Aquatic Conjurer
 aetherPower: attack_up
+lb1:
+  power: 821
+  attack: 801
+  defense: 785
+  health: 1405
+lb2:
+  power: 922
+  attack: 916
+  defense: 899
+  health: 1607
 ...

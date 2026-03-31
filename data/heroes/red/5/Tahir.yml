@@ -27,4 +27,14 @@ dtReleased: "2022-08-01"
 dtModified: ""
 fancy_name: Nomadic Hunter
 aetherPower: special_boost
+lb1:
+  power: 863
+  attack: 856
+  defense: 799
+  health: 1536
+lb2:
+  power: 969
+  attack: 980
+  defense: 914
+  health: 1757
 ...

@@ -33,4 +33,14 @@ dtReleased: "2023-05-26"
 dtModified: "2026-03-20"
 fancy_name: Ape Assassin
 aetherPower: attack_up
+lb1:
+  power: 955
+  attack: 970
+  defense: 919
+  health: 1671
+lb2:
+  power: 1075
+  attack: 1109
+  defense: 1051
+  health: 1912
 ...

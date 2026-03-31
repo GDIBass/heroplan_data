@@ -27,4 +27,14 @@ dtReleased: "2020-06-01"
 dtModified: ""
 fancy_name: Tranquil Channeler
 aetherPower: defense_up
+lb1:
+  power: 824
+  attack: 701
+  defense: 865
+  health: 1511
+lb2:
+  power: 924
+  attack: 802
+  defense: 990
+  health: 1729
 ...

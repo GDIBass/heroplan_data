@@ -24,6 +24,16 @@ dtReleased: "2017-08-01"
 dtModified: ""
 fancy_name: Deity of War
 aetherPower: defense_up
+lb1:
+  power: 814
+  attack: 710
+  defense: 799
+  health: 1554
+lb2:
+  power: 914
+  attack: 812
+  defense: 914
+  health: 1778
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +64,14 @@ costume:
   dtModified: ""
   fancy_name: Keymaster of War
   aetherPower: heal_increase
+  lb1:
+    power: 1041
+    attack: 943
+    defense: 965
+    health: 2256
+  lb2:
+    power: 1173
+    attack: 1079
+    defense: 1104
+    health: 2581
 ...

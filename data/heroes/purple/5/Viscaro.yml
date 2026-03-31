@@ -33,4 +33,14 @@ dtReleased: "2022-01-01"
 dtModified: ""
 fancy_name: Corrupted Druid
 aetherPower: fiend_resist
+lb1:
+  power: 855
+  attack: 788
+  defense: 872
+  health: 1507
+lb2:
+  power: 961
+  attack: 901
+  defense: 998
+  health: 1724
 ...

@@ -36,4 +36,14 @@ dtReleased: "2022-02-02"
 dtModified: ""
 fancy_name: Ninja of Deadly Toxins
 aetherPower: attack_up
+lb1:
+  power: 872
+  attack: 879
+  defense: 796
+  health: 1547
+lb2:
+  power: 979
+  attack: 1005
+  defense: 911
+  health: 1770
 ...

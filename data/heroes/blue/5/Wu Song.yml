@@ -39,4 +39,14 @@ dtReleased: "2025-09-27"
 dtModified: "2026-03-28"
 fancy_name: Tiger-Fighting Hero of Water Margin
 aetherPower: fiend_resist
+lb1:
+  power: 1327
+  attack: 1394
+  defense: 1336
+  health: 2430
+lb2:
+  power: 1500
+  attack: 1595
+  defense: 1529
+  health: 2781
 ...

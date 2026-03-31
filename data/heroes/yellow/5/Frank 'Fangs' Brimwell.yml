@@ -28,4 +28,14 @@ dtReleased: "2024-08-04"
 dtModified: ""
 fancy_name: Streetwise Sergeant
 aetherPower: attack_up
+lb1:
+  power: 1183
+  attack: 1258
+  defense: 1189
+  health: 2040
+lb2:
+  power: 1336
+  attack: 1440
+  defense: 1361
+  health: 2334
 ...

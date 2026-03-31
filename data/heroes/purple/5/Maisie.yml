@@ -31,4 +31,14 @@ dtReleased: "2025-02-14"
 dtModified: ""
 fancy_name: The Merry Mason
 aetherPower: special_armor
+lb1:
+  power: 1244
+  attack: 1212
+  defense: 1318
+  health: 2328
+lb2:
+  power: 1405
+  attack: 1386
+  defense: 1508
+  health: 2664
 ...

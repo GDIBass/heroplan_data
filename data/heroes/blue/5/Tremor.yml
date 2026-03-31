@@ -31,4 +31,14 @@ dtReleased: "2023-07-27"
 dtModified: "2026-03-20"
 fancy_name: Baboon Swordmaster
 aetherPower: defense_up
+lb1:
+  power: 1012
+  attack: 965
+  defense: 1027
+  health: 1873
+lb2:
+  power: 1140
+  attack: 1104
+  defense: 1176
+  health: 2143
 ...

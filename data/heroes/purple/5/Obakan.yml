@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Praetorian Bodyguard
 aetherPower: counterattack
+lb1:
+  power: 805
+  attack: 821
+  defense: 688
+  health: 1431
+lb2:
+  power: 903
+  attack: 939
+  defense: 787
+  health: 1638
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,6 +51,16 @@ costume:
   dtModified: ""
   fancy_name: Praetorian Gladiator
   aetherPower: damage_reduction
+  lb1:
+    power: 907
+    attack: 900
+    defense: 827
+    health: 1688
+  lb2:
+    power: 1021
+    attack: 1030
+    defense: 947
+    health: 1932
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -65,6 +85,16 @@ costume2:
   dtModified: ""
   fancy_name: Praetorian Vampire
   aetherPower: vampire
+  lb1:
+    power: 1032
+    attack: 1002
+    defense: 959
+    health: 2058
+  lb2:
+    power: 1162
+    attack: 1146
+    defense: 1097
+    health: 2355
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -89,6 +119,16 @@ costume3:
   dtModified: ""
   fancy_name: Praetorian Toon
   aetherPower: counterattack
+  lb1:
+    power: 1211
+    attack: 1242
+    defense: 1135
+    health: 2388
+  lb2:
+    power: 1368
+    attack: 1421
+    defense: 1299
+    health: 2733
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -113,6 +153,16 @@ costume4:
   dtModified: ""
   fancy_name: Praetorian Vitrail
   aetherPower: counterattack
+  lb1:
+    power: 1325
+    attack: 1406
+    defense: 1274
+    health: 2509
+  lb2:
+    power: 1497
+    attack: 1609
+    defense: 1457
+    health: 2870
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -137,4 +187,14 @@ costume5:
   dtModified: ""
   fancy_name: Stylish Bodyguard
   aetherPower: counterattack
+  lb1:
+    power: 1391
+    attack: 1494
+    defense: 1342
+    health: 2624
+  lb2:
+    power: 1573
+    attack: 1710
+    defense: 1536
+    health: 3002
 ...

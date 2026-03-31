@@ -26,4 +26,14 @@ dtReleased: "2024-11-18"
 dtModified: ""
 fancy_name: The Royal Knight Fox
 aetherPower: attack_up
+lb1:
+  power: 1228
+  attack: 1320
+  defense: 1320
+  health: 1940
+lb2:
+  power: 1387
+  attack: 1511
+  defense: 1511
+  health: 2219
 ...

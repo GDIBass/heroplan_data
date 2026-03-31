@@ -33,4 +33,14 @@ dtReleased: "2025-05-31"
 dtModified: ""
 fancy_name: Trove of Thousand Teeth
 aetherPower: bulwark
+lb1:
+  power: 1284
+  attack: 1332
+  defense: 1332
+  health: 2286
+lb2:
+  power: 1451
+  attack: 1524
+  defense: 1524
+  health: 2616
 ...

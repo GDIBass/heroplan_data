@@ -20,6 +20,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Protector of Glaceholm
 aetherPower: regen
+lb1:
+  power: 804
+  attack: 859
+  defense: 705
+  health: 1294
+lb2:
+  power: 901
+  attack: 982
+  defense: 807
+  health: 1480
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,6 +50,16 @@ costume:
   dtModified: ""
   fancy_name: Ice Witch of Glaceholm
   aetherPower: special_boost
+  lb1:
+    power: 904
+    attack: 1008
+    defense: 765
+    health: 1521
+  lb2:
+    power: 1017
+    attack: 1153
+    defense: 875
+    health: 1740
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -62,6 +82,16 @@ costume2:
   dtModified: ""
   fancy_name: Ruler of Glaceholm
   aetherPower: regen
+  lb1:
+    power: 1028
+    attack: 1131
+    defense: 887
+    health: 1854
+  lb2:
+    power: 1159
+    attack: 1294
+    defense: 1015
+    health: 2121
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -86,6 +116,16 @@ costume3:
   dtModified: ""
   fancy_name: Protector of Toons
   aetherPower: regen
+  lb1:
+    power: 1206
+    attack: 1293
+    defense: 1135
+    health: 2226
+  lb2:
+    power: 1363
+    attack: 1480
+    defense: 1299
+    health: 2547
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -110,4 +150,14 @@ costume4:
   dtModified: ""
   fancy_name: Vitrail of Glaceholm
   aetherPower: regen
+  lb1:
+    power: 1322
+    attack: 1577
+    defense: 1173
+    health: 2268
+  lb2:
+    power: 1495
+    attack: 1804
+    defense: 1342
+    health: 2595
 ...

@@ -40,4 +40,14 @@ dtReleased: "2024-01-25"
 dtModified: "2026-03-29"
 fancy_name: Future King
 aetherPower: counterattack
+lb1:
+  power: 1064
+  attack: 1061
+  defense: 1047
+  health: 1964
+lb2:
+  power: 1199
+  attack: 1214
+  defense: 1198
+  health: 2247
 ...

@@ -30,4 +30,14 @@ dtReleased: "2025-02-13"
 dtModified: ""
 fancy_name: Sword-Breaking Hell-Brute
 aetherPower: attack_up
+lb1:
+  power: 1265
+  attack: 1307
+  defense: 1287
+  health: 2308
+lb2:
+  power: 1430
+  attack: 1496
+  defense: 1473
+  health: 2641
 ...

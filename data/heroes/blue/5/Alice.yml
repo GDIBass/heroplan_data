@@ -21,4 +21,14 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Adventurer of Wonderland
 aetherPower: attack_up
+lb1:
+  power: 820
+  attack: 799
+  defense: 770
+  health: 1429
+lb2:
+  power: 920
+  attack: 914
+  defense: 881
+  health: 1635
 ...

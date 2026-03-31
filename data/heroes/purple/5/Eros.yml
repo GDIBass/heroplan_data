@@ -23,4 +23,14 @@ dtReleased: "2024-01-08"
 dtModified: ""
 fancy_name: Cupid of Desire
 aetherPower: attack_up
+lb1:
+  power: 1032
+  attack: 1087
+  defense: 1010
+  health: 1742
+lb2:
+  power: 1162
+  attack: 1244
+  defense: 1155
+  health: 1993
 ...

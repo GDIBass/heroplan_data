@@ -25,6 +25,16 @@ dtReleased: ""
 dtModified: ""
 fancy_name: Fatal Beauty
 aetherPower: special_boost
+lb1:
+  power: 825
+  attack: 750
+  defense: 783
+  health: 1562
+lb2:
+  power: 926
+  attack: 858
+  defense: 896
+  health: 1788
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +60,14 @@ costume:
   dtModified: ""
   fancy_name: Blazing Beauty
   aetherPower: attack_up
+  lb1:
+    power: 1011
+    attack: 965
+    defense: 932
+    health: 2057
+  lb2:
+    power: 1139
+    attack: 1104
+    defense: 1066
+    health: 2354
 ...

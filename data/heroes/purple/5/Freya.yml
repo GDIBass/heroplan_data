@@ -23,6 +23,16 @@ dtReleased: ""
 dtModified: "2026-03-23"
 fancy_name: Lady of the Slain
 aetherPower: regen
+lb1:
+  power: 843
+  attack: 836
+  defense: 801
+  health: 1443
+lb2:
+  power: 947
+  attack: 957
+  defense: 916
+  health: 1651
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -46,4 +56,14 @@ costume:
   dtModified: "2026-03-23"
   fancy_name: Witch of the Fallen
   aetherPower: special_armor
+  lb1:
+    power: 1059
+    attack: 1042
+    defense: 1051
+    health: 1966
+  lb2:
+    power: 1193
+    attack: 1193
+    defense: 1202
+    health: 2249
 ...

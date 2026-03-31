@@ -24,4 +24,14 @@ dtReleased: "2023-04-17"
 dtModified: ""
 fancy_name: Moonlit Fairy
 aetherPower: attack_up
+lb1:
+  power: 1032
+  attack: 904
+  defense: 1116
+  health: 1991
+lb2:
+  power: 1163
+  attack: 1035
+  defense: 1277
+  health: 2278
 ...

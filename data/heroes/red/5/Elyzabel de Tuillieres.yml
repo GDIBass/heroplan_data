@@ -34,4 +34,14 @@ dtReleased: "2025-10-08"
 dtModified: ""
 fancy_name: Sanguine Countess
 aetherPower: fiend_resist
+lb1:
+  power: 1331
+  attack: 1389
+  defense: 1354
+  health: 2437
+lb2:
+  power: 1505
+  attack: 1590
+  defense: 1549
+  health: 2788
 ...

@@ -31,4 +31,14 @@ dtReleased: "2026-02-19"
 dtModified: ""
 fancy_name: Stubborn Slime Executioner
 aetherPower: attack_up
+lb1:
+  power: 1371
+  attack: 1400
+  defense: 1465
+  health: 2470
+lb2:
+  power: 1550
+  attack: 1602
+  defense: 1676
+  health: 2827
 ...

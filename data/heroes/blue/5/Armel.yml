@@ -27,4 +27,14 @@ dtReleased: "2024-04-10"
 dtModified: ""
 fancy_name: Arctic Ambassador
 aetherPower: counterattack
+lb1:
+  power: 1100
+  attack: 1145
+  defense: 1110
+  health: 1887
+lb2:
+  power: 1241
+  attack: 1310
+  defense: 1270
+  health: 2159
 ...

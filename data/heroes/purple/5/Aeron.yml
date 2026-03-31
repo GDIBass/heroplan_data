@@ -25,6 +25,16 @@ dtReleased: "2018-04-01"
 dtModified: ""
 fancy_name: Steadfast Judge
 aetherPower: defense_up
+lb1:
+  power: 818
+  attack: 790
+  defense: 768
+  health: 1445
+lb2:
+  power: 918
+  attack: 904
+  defense: 878
+  health: 1653
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +61,14 @@ costume:
   dtModified: ""
   fancy_name: Periwig Judge
   aetherPower: special_armor
+  lb1:
+    power: 1043
+    attack: 968
+    defense: 1004
+    health: 2130
+  lb2:
+    power: 1175
+    attack: 1108
+    defense: 1148
+    health: 2438
 ...

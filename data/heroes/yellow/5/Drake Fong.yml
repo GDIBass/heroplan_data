@@ -23,6 +23,16 @@ dtReleased: "2018-08-01"
 dtModified: ""
 fancy_name: Master of Martial Arts
 aetherPower: attack_up
+lb1:
+  power: 818
+  attack: 783
+  defense: 768
+  health: 1458
+lb2:
+  power: 917
+  attack: 896
+  defense: 878
+  health: 1668
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +60,14 @@ costume:
   dtModified: ""
   fancy_name: Serene Fighter
   aetherPower: special_boost
+  lb1:
+    power: 1043
+    attack: 1017
+    defense: 959
+    health: 2098
+  lb2:
+    power: 1175
+    attack: 1163
+    defense: 1097
+    health: 2401
 ...

@@ -27,4 +27,14 @@ dtReleased: "2024-03-07"
 dtModified: ""
 fancy_name: Queen of the Astral Elves
 aetherPower: attack_up
+lb1:
+  power: 1082
+  attack: 1094
+  defense: 1143
+  health: 1820
+lb2:
+  power: 1220
+  attack: 1252
+  defense: 1308
+  health: 2082
 ...

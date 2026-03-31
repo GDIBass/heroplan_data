@@ -41,4 +41,14 @@ dtReleased: "2025-11-06"
 dtModified: ""
 fancy_name: Accursed Clergyman
 aetherPower: bulwark
+lb1:
+  power: 1339
+  attack: 1405
+  defense: 1367
+  health: 2426
+lb2:
+  power: 1514
+  attack: 1607
+  defense: 1564
+  health: 2776
 ...

@@ -27,4 +27,14 @@ dtReleased: "2020-08-01"
 dtModified: ""
 fancy_name: Master of Keys
 aetherPower: attack_up
+lb1:
+  power: 826
+  attack: 796
+  defense: 781
+  health: 1456
+lb2:
+  power: 927
+  attack: 911
+  defense: 894
+  health: 1666
 ...

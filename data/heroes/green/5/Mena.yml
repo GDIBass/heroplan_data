@@ -28,4 +28,14 @@ dtReleased: "2024-05-16"
 dtModified: ""
 fancy_name: Pedantic Gargoyle
 aetherPower: attack_up
+lb1:
+  power: 1121
+  attack: 1187
+  defense: 1132
+  health: 1887
+lb2:
+  power: 1265
+  attack: 1358
+  defense: 1295
+  health: 2159
 ...

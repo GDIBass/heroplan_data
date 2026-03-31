@@ -32,4 +32,14 @@ dtReleased: "2024-03-10"
 dtModified: "2026-03-27"
 fancy_name: Void Tank Construct
 aetherPower: defense_up
+lb1:
+  power: 1086
+  attack: 1016
+  defense: 1067
+  health: 2191
+lb2:
+  power: 1224
+  attack: 1163
+  defense: 1221
+  health: 2506
 ...

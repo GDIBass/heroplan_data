@@ -29,4 +29,14 @@ dtReleased: "2021-08-01"
 dtModified: ""
 fancy_name: Lizardfolk High Priest
 aetherPower: mana_boost
+lb1:
+  power: 845
+  attack: 803
+  defense: 841
+  health: 1460
+lb2:
+  power: 949
+  attack: 919
+  defense: 962
+  health: 1671
 ...

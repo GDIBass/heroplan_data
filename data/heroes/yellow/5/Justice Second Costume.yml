@@ -24,4 +24,14 @@ dtReleased: "2023-02-20"
 dtModified: ""
 fancy_name: Ancient of Thorns
 aetherPower: special_boost
+lb1:
+  power: 1031
+  attack: 959
+  defense: 970
+  health: 2141
+lb2:
+  power: 1162
+  attack: 1097
+  defense: 1110
+  health: 2450
 ...

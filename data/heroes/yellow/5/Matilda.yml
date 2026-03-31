@@ -31,4 +31,14 @@ dtReleased: "2022-10-03"
 dtModified: ""
 fancy_name: Unhallowed Pastry Chef
 aetherPower: defense_up
+lb1:
+  power: 906
+  attack: 881
+  defense: 888
+  health: 1605
+lb2:
+  power: 1019
+  attack: 1008
+  defense: 1016
+  health: 1836
 ...

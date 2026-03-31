@@ -27,4 +27,14 @@ dtReleased: "2025-04-14"
 dtModified: ""
 fancy_name: The Outlaw Gray Fox
 aetherPower: counterattack
+lb1:
+  power: 1255
+  attack: 1354
+  defense: 1329
+  health: 2035
+lb2:
+  power: 1419
+  attack: 1549
+  defense: 1521
+  health: 2329
 ...

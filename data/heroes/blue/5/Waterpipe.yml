@@ -33,4 +33,14 @@ dtReleased: "2022-11-12"
 dtModified: "2026-03-20"
 fancy_name: Harpoon Engineer
 aetherPower: attack_up
+lb1:
+  power: 946
+  attack: 930
+  defense: 885
+  health: 1773
+lb2:
+  power: 1065
+  attack: 1064
+  defense: 1013
+  health: 2029
 ...

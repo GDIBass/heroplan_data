@@ -33,4 +33,14 @@ dtReleased: "2023-06-28"
 dtModified: ""
 fancy_name: Pirate Construct
 aetherPower: ailment_immunity
+lb1:
+  power: 1016
+  attack: 987
+  defense: 979
+  health: 1940
+lb2:
+  power: 1144
+  attack: 1130
+  defense: 1120
+  health: 2219
 ...

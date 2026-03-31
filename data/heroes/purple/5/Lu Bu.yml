@@ -27,6 +27,16 @@ dtReleased: "2022-03-14"
 dtModified: ""
 fancy_name: Wrathful Warlord
 aetherPower: fiend_resist
+lb1:
+  power: 891
+  attack: 850
+  defense: 863
+  health: 1622
+lb2:
+  power: 1001
+  attack: 972
+  defense: 988
+  health: 1856
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +69,14 @@ costume:
   dtModified: ""
   fancy_name: Wrathful Tiger Warlord
   aetherPower: regen
+  lb1:
+    power: 1183
+    attack: 1147
+    defense: 1183
+    health: 2324
+  lb2:
+    power: 1335
+    attack: 1313
+    defense: 1354
+    health: 2659
 ...

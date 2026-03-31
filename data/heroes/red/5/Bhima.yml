@@ -38,4 +38,14 @@ dtReleased: "2025-06-16"
 dtModified: "2026-03-24"
 fancy_name: Son of Vayu
 aetherPower: heal_increase
+lb1:
+  power: 1339
+  attack: 1431
+  defense: 1332
+  health: 2437
+lb2:
+  power: 1515
+  attack: 1638
+  defense: 1524
+  health: 2788
 ...

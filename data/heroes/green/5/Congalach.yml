@@ -23,6 +23,16 @@ dtReleased: "2022-01-27"
 dtModified: ""
 fancy_name: Warrior of the Depths
 aetherPower: attack_up
+lb1:
+  power: 868
+  attack: 852
+  defense: 843
+  health: 1498
+lb2:
+  power: 976
+  attack: 975
+  defense: 965
+  health: 1714
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +59,14 @@ costume:
   dtModified: ""
   fancy_name: Warrior of Kelp
   aetherPower: regen
+  lb1:
+    power: 1102
+    attack: 1105
+    defense: 1082
+    health: 2058
+  lb2:
+    power: 1243
+    attack: 1264
+    defense: 1238
+    health: 2355
 ...

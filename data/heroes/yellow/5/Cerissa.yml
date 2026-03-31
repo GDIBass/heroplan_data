@@ -47,4 +47,14 @@ dtReleased: "2026-02-20"
 dtModified: ""
 fancy_name: Gracious Fairy of the Bewitched Castle
 aetherPower: heal_increase
+lb1:
+  power: 1371
+  attack: 1423
+  defense: 1436
+  health: 2473
+lb2:
+  power: 1550
+  attack: 1628
+  defense: 1643
+  health: 2829
 ...

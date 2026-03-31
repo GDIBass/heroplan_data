@@ -25,6 +25,16 @@ dtReleased: ""
 dtModified: "2026-03-20"
 fancy_name: Queen of Sand Empire
 aetherPower: counterattack
+lb1:
+  power: 822
+  attack: 792
+  defense: 765
+  health: 1474
+lb2:
+  power: 923
+  attack: 906
+  defense: 876
+  health: 1686
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +60,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Surfer Queen
   aetherPower: defense_up
+  lb1:
+    power: 1008
+    attack: 1004
+    defense: 979
+    health: 1841
+  lb2:
+    power: 1135
+    attack: 1149
+    defense: 1120
+    health: 2106
 ...

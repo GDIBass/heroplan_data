@@ -43,4 +43,14 @@ dtReleased: "2025-08-23"
 dtModified: ""
 fancy_name: Messenger of the Chentari
 aetherPower: fiend_resist
+lb1:
+  power: 1316
+  attack: 1474
+  defense: 1249
+  health: 2331
+lb2:
+  power: 1488
+  attack: 1686
+  defense: 1430
+  health: 2667
 ...

@@ -31,4 +31,14 @@ dtReleased: "2024-08-22"
 dtModified: ""
 fancy_name: Sceptical Patron of Arts
 aetherPower: special_armor
+lb1:
+  power: 1165
+  attack: 1165
+  defense: 1274
+  health: 1975
+lb2:
+  power: 1315
+  attack: 1333
+  defense: 1457
+  health: 2260
 ...

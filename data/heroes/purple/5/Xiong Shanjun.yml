@@ -27,4 +27,14 @@ dtReleased: "2023-04-24"
 dtModified: ""
 fancy_name: Bear Mountain Lord
 aetherPower: heal_increase
+lb1:
+  power: 932
+  attack: 825
+  defense: 979
+  health: 1747
+lb2:
+  power: 1048
+  attack: 944
+  defense: 1120
+  health: 1998
 ...

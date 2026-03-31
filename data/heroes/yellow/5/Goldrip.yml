@@ -30,4 +30,14 @@ dtReleased: "2025-06-07"
 dtModified: ""
 fancy_name: Golden Slime King
 aetherPower: bulwark
+lb1:
+  power: 1286
+  attack: 1465
+  defense: 1176
+  health: 2284
+lb2:
+  power: 1454
+  attack: 1676
+  defense: 1346
+  health: 2613
 ...

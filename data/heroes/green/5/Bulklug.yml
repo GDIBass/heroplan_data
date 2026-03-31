@@ -35,4 +35,14 @@ dtReleased: "2025-11-26"
 dtModified: ""
 fancy_name: Blob Builder Slime
 aetherPower: boosted_regen
+lb1:
+  power: 1345
+  attack: 1394
+  defense: 1398
+  health: 2437
+lb2:
+  power: 1521
+  attack: 1595
+  defense: 1600
+  health: 2788
 ...

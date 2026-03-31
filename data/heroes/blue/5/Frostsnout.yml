@@ -28,4 +28,14 @@ dtReleased: "2025-01-17"
 dtModified: ""
 fancy_name: Lizardfolk Flagbearer
 aetherPower: regen
+lb1:
+  power: 1237
+  attack: 1256
+  defense: 1252
+  health: 2299
+lb2:
+  power: 1397
+  attack: 1437
+  defense: 1432
+  health: 2631
 ...

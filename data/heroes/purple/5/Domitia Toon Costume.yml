@@ -28,4 +28,14 @@ dtReleased: "2024-03-11"
 dtModified: ""
 fancy_name: Toon Sniper
 aetherPower: attack_up
+lb1:
+  power: 1213
+  attack: 1259
+  defense: 1121
+  health: 2388
+lb2:
+  power: 1370
+  attack: 1440
+  defense: 1283
+  health: 2733
 ...

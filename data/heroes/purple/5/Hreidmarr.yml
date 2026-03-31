@@ -37,4 +37,14 @@ dtReleased: "2025-02-23"
 dtModified: ""
 fancy_name: Dwarven Mountain King
 aetherPower: counterattack
+lb1:
+  power: 1263
+  attack: 1247
+  defense: 1274
+  health: 2464
+lb2:
+  power: 1427
+  attack: 1427
+  defense: 1457
+  health: 2819
 ...

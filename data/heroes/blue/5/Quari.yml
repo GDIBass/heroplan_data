@@ -30,4 +30,14 @@ dtReleased: "2024-12-22"
 dtModified: ""
 fancy_name: Astral Dwarf Pilgrim
 aetherPower: damage_reduction
+lb1:
+  power: 1238
+  attack: 1318
+  defense: 1267
+  health: 2122
+lb2:
+  power: 1398
+  attack: 1508
+  defense: 1450
+  health: 2428
 ...

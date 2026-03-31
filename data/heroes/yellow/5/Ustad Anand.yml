@@ -36,4 +36,14 @@ dtReleased: "2025-11-17"
 dtModified: "2026-03-24"
 fancy_name: Royal Performer
 aetherPower: counterattack
+lb1:
+  power: 1344
+  attack: 1367
+  defense: 1427
+  health: 2439
+lb2:
+  power: 1520
+  attack: 1564
+  defense: 1633
+  health: 2791
 ...

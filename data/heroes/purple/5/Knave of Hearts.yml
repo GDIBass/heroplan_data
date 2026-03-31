@@ -24,4 +24,14 @@ dtReleased: "2024-04-18"
 dtModified: "2026-03-23"
 fancy_name: Thief of Wonderland
 aetherPower: dodge
+lb1:
+  power: 1108
+  attack: 1163
+  defense: 1076
+  health: 1964
+lb2:
+  power: 1249
+  attack: 1330
+  defense: 1231
+  health: 2247
 ...

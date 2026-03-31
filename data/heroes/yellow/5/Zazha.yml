@@ -35,4 +35,14 @@ dtReleased: "2025-05-29"
 dtModified: ""
 fancy_name: Magic Carpet Mender
 aetherPower: special_boost
+lb1:
+  power: 1294
+  attack: 1398
+  defense: 1258
+  health: 2346
+lb2:
+  power: 1463
+  attack: 1600
+  defense: 1440
+  health: 2684
 ...

@@ -22,6 +22,16 @@ dtReleased: "2022-03-14"
 dtModified: ""
 fancy_name: Merciless General
 aetherPower: attack_up
+lb1:
+  power: 890
+  attack: 923
+  defense: 816
+  health: 1527
+lb2:
+  power: 1000
+  attack: 1056
+  defense: 934
+  health: 1747
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +60,14 @@ costume:
   dtModified: ""
   fancy_name: Merciless Bear General
   aetherPower: rage
+  lb1:
+    power: 1181
+    attack: 1288
+    defense: 1072
+    health: 2182
+  lb2:
+    power: 1334
+    attack: 1474
+    defense: 1227
+    health: 2497
 ...

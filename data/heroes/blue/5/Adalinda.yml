@@ -33,4 +33,14 @@ dtReleased: "2022-09-18"
 dtModified: "2026-03-20"
 fancy_name: Princess of the Hunt
 aetherPower: fiend_resist
+lb1:
+  power: 948
+  attack: 865
+  defense: 945
+  health: 1827
+lb2:
+  power: 1067
+  attack: 990
+  defense: 1082
+  health: 2090
 ...

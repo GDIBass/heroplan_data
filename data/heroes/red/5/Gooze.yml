@@ -35,4 +35,14 @@ dtReleased: "2025-05-04"
 dtModified: ""
 fancy_name: Escaped Alchemy lab Goo
 aetherPower: special_armor
+lb1:
+  power: 1276
+  attack: 1227
+  defense: 1292
+  health: 2577
+lb2:
+  power: 1442
+  attack: 1404
+  defense: 1478
+  health: 2948
 ...

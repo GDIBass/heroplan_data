@@ -26,4 +26,14 @@ dtReleased: "2024-06-03"
 dtModified: ""
 fancy_name: Orc Water Gunner
 aetherPower: attack_up
+lb1:
+  power: 1087
+  attack: 1147
+  defense: 1041
+  health: 1929
+lb2:
+  power: 1227
+  attack: 1313
+  defense: 1191
+  health: 2207
 ...

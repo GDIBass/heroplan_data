@@ -33,4 +33,14 @@ dtReleased: "2025-10-23"
 dtModified: ""
 fancy_name: Astral Demon Lawmaker
 aetherPower: attack_up
+lb1:
+  power: 1335
+  attack: 1391
+  defense: 1365
+  health: 2439
+lb2:
+  power: 1510
+  attack: 1592
+  defense: 1562
+  health: 2791
 ...

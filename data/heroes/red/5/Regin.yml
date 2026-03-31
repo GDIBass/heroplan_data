@@ -34,6 +34,16 @@ dtReleased: "2024-12-03"
 dtModified: ""
 fancy_name: Dwarven Fabled Prince
 aetherPower: counterattack
+lb1:
+  power: 1246
+  attack: 1276
+  defense: 1229
+  health: 2364
+lb2:
+  power: 1408
+  attack: 1460
+  defense: 1407
+  health: 2705
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -68,4 +78,14 @@ costume:
   dtModified: ""
   fancy_name: Dwarven Fallen Prince
   aetherPower: ailment_immunity
+  lb1:
+    power: 1363
+    attack: 1416
+    defense: 1343
+    health: 2621
+  lb2:
+    power: 1541
+    attack: 1620
+    defense: 1536
+    health: 2999
 ...

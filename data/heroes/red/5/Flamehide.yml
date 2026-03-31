@@ -27,4 +27,14 @@ dtReleased: "2025-04-11"
 dtModified: ""
 fancy_name: Lizardfolk Gambler
 aetherPower: attack_up
+lb1:
+  power: 1255
+  attack: 1294
+  defense: 1252
+  health: 2333
+lb2:
+  power: 1417
+  attack: 1480
+  defense: 1432
+  health: 2669
 ...

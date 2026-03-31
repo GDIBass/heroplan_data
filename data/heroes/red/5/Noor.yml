@@ -28,4 +28,14 @@ dtReleased: "2020-07-01"
 dtModified: ""
 fancy_name: Sparrow Whisperer
 aetherPower: mana_boost
+lb1:
+  power: 824
+  attack: 759
+  defense: 843
+  health: 1416
+lb2:
+  power: 925
+  attack: 868
+  defense: 965
+  health: 1620
 ...

@@ -28,4 +28,14 @@ dtReleased: "2023-10-18"
 dtModified: ""
 fancy_name: The Pureheart
 aetherPower: ailment_immunity
+lb1:
+  power: 1047
+  attack: 1074
+  defense: 1074
+  health: 1753
+lb2:
+  power: 1180
+  attack: 1229
+  defense: 1229
+  health: 2006
 ...

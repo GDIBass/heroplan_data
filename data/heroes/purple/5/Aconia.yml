@@ -32,6 +32,16 @@ dtReleased: "2023-05-22"
 dtModified: ""
 fancy_name: Cyber Rogue
 aetherPower: fiend_resist
+lb1:
+  power: 969
+  attack: 939
+  defense: 925
+  health: 1838
+lb2:
+  power: 1091
+  attack: 1074
+  defense: 1059
+  health: 2103
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -67,4 +77,14 @@ costume:
   dtModified: ""
   fancy_name: Cyber Courier
   aetherPower: damage_reduction
+  lb1:
+    power: 1368
+    attack: 1390
+    defense: 1354
+    health: 2702
+  lb2:
+    power: 1547
+    attack: 1590
+    defense: 1549
+    health: 3091
 ...

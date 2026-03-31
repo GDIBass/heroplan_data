@@ -32,4 +32,14 @@ dtReleased: "2025-02-01"
 dtModified: "2026-03-23"
 fancy_name: Mesmerizing Enchantress
 aetherPower: ailment_immunity
+lb1:
+  power: 1136
+  attack: 1181
+  defense: 1178
+  health: 1915
+lb2:
+  power: 1282
+  attack: 1351
+  defense: 1348
+  health: 2192
 ...

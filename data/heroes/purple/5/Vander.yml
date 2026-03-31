@@ -32,4 +32,14 @@ dtReleased: "2024-08-07"
 dtModified: ""
 fancy_name: Cyborg Captain
 aetherPower: ailment_immunity
+lb1:
+  power: 1156
+  attack: 1201
+  defense: 1185
+  health: 1998
+lb2:
+  power: 1305
+  attack: 1374
+  defense: 1356
+  health: 2286
 ...

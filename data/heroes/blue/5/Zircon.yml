@@ -39,4 +39,14 @@ dtReleased: "2021-11-10"
 dtModified: ""
 fancy_name: Ninja of Silent Waves
 aetherPower: heal_increase
+lb1:
+  power: 872
+  attack: 792
+  defense: 905
+  health: 1547
+lb2:
+  power: 979
+  attack: 906
+  defense: 1036
+  health: 1770
 ...

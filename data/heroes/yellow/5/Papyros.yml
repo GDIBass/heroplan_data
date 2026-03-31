@@ -28,6 +28,16 @@ dtReleased: "2022-04-21"
 dtModified: "2026-03-20"
 fancy_name: Golem of Paper and Sand
 aetherPower: special_armor
+lb1:
+  power: 915
+  attack: 876
+  defense: 883
+  health: 1691
+lb2:
+  power: 1029
+  attack: 1003
+  defense: 1010
+  health: 1935
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -61,4 +71,14 @@ costume:
   dtModified: "2026-03-20"
   fancy_name: Colossus of Paper and Sand
   aetherPower: regen
+  lb1:
+    power: 1284
+    attack: 1223
+    defense: 1329
+    health: 2570
+  lb2:
+    power: 1452
+    attack: 1399
+    defense: 1521
+    health: 2941
 ...

@@ -25,6 +25,16 @@ dtReleased: "2022-05-23"
 dtModified: ""
 fancy_name: Warlord of Shu
 aetherPower: damage_reduction
+lb1:
+  power: 892
+  attack: 879
+  defense: 861
+  health: 1562
+lb2:
+  power: 1002
+  attack: 1005
+  defense: 985
+  health: 1788
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +65,14 @@ costume:
   dtModified: ""
   fancy_name: Warlord of Forest
   aetherPower: ailment_immunity
+  lb1:
+    power: 1184
+    attack: 1222
+    defense: 1147
+    health: 2217
+  lb2:
+    power: 1337
+    attack: 1399
+    defense: 1313
+    health: 2537
 ...

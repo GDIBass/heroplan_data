@@ -28,4 +28,14 @@ dtReleased: "2023-06-12"
 dtModified: ""
 fancy_name: Snorkeling Gnome
 aetherPower: attack_up
+lb1:
+  power: 934
+  attack: 950
+  defense: 910
+  health: 1585
+lb2:
+  power: 1050
+  attack: 1087
+  defense: 1041
+  health: 1813
 ...

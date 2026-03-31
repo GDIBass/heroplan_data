@@ -36,4 +36,14 @@ dtReleased: "2026-02-04"
 dtModified: ""
 fancy_name: Furious Mushroom Champion
 aetherPower: attack_up
+lb1:
+  power: 1368
+  attack: 1454
+  defense: 1389
+  health: 2466
+lb2:
+  power: 1547
+  attack: 1663
+  defense: 1590
+  health: 2821
 ...

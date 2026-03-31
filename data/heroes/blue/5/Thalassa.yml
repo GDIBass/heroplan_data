@@ -32,6 +32,16 @@ dtReleased: "2023-06-07"
 dtModified: "2026-03-22"
 fancy_name: Primordial Goddess of the Oceans
 aetherPower: heal_increase
+lb1:
+  power: 1016
+  attack: 965
+  defense: 1074
+  health: 1804
+lb2:
+  power: 1144
+  attack: 1104
+  defense: 1229
+  health: 2065
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -65,4 +75,14 @@ costume:
   dtModified: "2026-03-22"
   fancy_name: Primordial Goddess of the Crystals
   aetherPower: regen
+  lb1:
+    power: 1267
+    attack: 1295
+    defense: 1321
+    health: 2281
+  lb2:
+    power: 1432
+    attack: 1482
+    defense: 1511
+    health: 2610
 ...

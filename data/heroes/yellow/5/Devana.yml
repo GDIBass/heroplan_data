@@ -31,4 +31,14 @@ dtReleased: "2021-07-01"
 dtModified: "2026-03-20"
 fancy_name: Headstrong Huntress
 aetherPower: defense_up
+lb1:
+  power: 844
+  attack: 799
+  defense: 814
+  health: 1514
+lb2:
+  power: 948
+  attack: 914
+  defense: 932
+  health: 1732
 ...

@@ -38,4 +38,14 @@ dtReleased: "2025-04-17"
 dtModified: ""
 fancy_name: Magic Carpet Drifter
 aetherPower: damage_reduction
+lb1:
+  power: 1284
+  attack: 1316
+  defense: 1318
+  health: 2357
+lb2:
+  power: 1451
+  attack: 1506
+  defense: 1508
+  health: 2697
 ...

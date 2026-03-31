@@ -26,4 +26,14 @@ dtReleased: "2023-11-27"
 dtModified: ""
 fancy_name: Toon Spearmaster
 aetherPower: special_boost
+lb1:
+  power: 1213
+  attack: 1262
+  defense: 1166
+  health: 2290
+lb2:
+  power: 1370
+  attack: 1444
+  defense: 1334
+  health: 2621
 ...

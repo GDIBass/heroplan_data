@@ -35,4 +35,14 @@ dtReleased: "2024-07-12"
 dtModified: "2026-03-20"
 fancy_name: Energy Flow Construct
 aetherPower: attack_up
+lb1:
+  power: 1150
+  attack: 1167
+  defense: 1105
+  health: 2197
+lb2:
+  power: 1298
+  attack: 1336
+  defense: 1264
+  health: 2514
 ...

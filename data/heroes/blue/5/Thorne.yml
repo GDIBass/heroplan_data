@@ -18,6 +18,16 @@ dtReleased: "2017-03-01"
 dtModified: ""
 fancy_name: Wielder of Frostmorrow
 aetherPower: special_boost
+lb1:
+  power: 806
+  attack: 688
+  defense: 854
+  health: 1443
+lb2:
+  power: 905
+  attack: 787
+  defense: 977
+  health: 1651
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +48,16 @@ costume:
   dtModified: ""
   fancy_name: King Frostmorrow
   aetherPower: attack_up
+  lb1:
+    power: 909
+    attack: 842
+    defense: 913
+    health: 1675
+  lb2:
+    power: 1023
+    attack: 964
+    defense: 1044
+    health: 1917
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -60,6 +80,16 @@ costume2:
   dtModified: ""
   fancy_name: Commander Frostmorrow
   aetherPower: counterattack
+  lb1:
+    power: 1034
+    attack: 962
+    defense: 1042
+    health: 2010
+  lb2:
+    power: 1165
+    attack: 1100
+    defense: 1192
+    health: 2300
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -82,6 +112,16 @@ costume3:
   dtModified: ""
   fancy_name: Toon Frostmorrow
   aetherPower: special_boost
+  lb1:
+    power: 1213
+    attack: 1149
+    defense: 1255
+    health: 2396
+  lb2:
+    power: 1371
+    attack: 1314
+    defense: 1437
+    health: 2741
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -104,4 +144,14 @@ costume4:
   dtModified: ""
   fancy_name: Vitrail of Frostmorrow
   aetherPower: special_boost
+  lb1:
+    power: 1328
+    attack: 1313
+    defense: 1406
+    health: 2505
+  lb2:
+    power: 1502
+    attack: 1502
+    defense: 1609
+    health: 2866
 ...

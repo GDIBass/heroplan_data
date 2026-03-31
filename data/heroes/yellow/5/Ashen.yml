@@ -31,4 +31,14 @@ dtReleased: "2025-02-26"
 dtModified: ""
 fancy_name: The Silver-backed Fox
 aetherPower: fiend_resist
+lb1:
+  power: 1248
+  attack: 1305
+  defense: 1272
+  health: 2215
+lb2:
+  power: 1409
+  attack: 1493
+  defense: 1455
+  health: 2534
 ...

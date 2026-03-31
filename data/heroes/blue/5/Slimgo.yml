@@ -28,4 +28,14 @@ dtReleased: "2024-10-30"
 dtModified: ""
 fancy_name: Sneaky Rogue Slime
 aetherPower: attack_up
+lb1:
+  power: 1224
+  attack: 1298
+  defense: 1254
+  health: 2100
+lb2:
+  power: 1382
+  attack: 1485
+  defense: 1435
+  health: 2402
 ...

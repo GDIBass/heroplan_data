@@ -23,4 +23,14 @@ dtReleased: "2025-01-09"
 dtModified: "2026-03-20"
 fancy_name: Eldritch Ammunition Artisan
 aetherPower: rage
+lb1:
+  power: 1246
+  attack: 1305
+  defense: 1256
+  health: 2237
+lb2:
+  power: 1408
+  attack: 1493
+  defense: 1437
+  health: 2560
 ...

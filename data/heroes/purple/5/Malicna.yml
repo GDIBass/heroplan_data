@@ -36,4 +36,14 @@ dtReleased: "2021-03-01"
 dtModified: ""
 fancy_name: Wicked Lector
 aetherPower: special_boost
+lb1:
+  power: 839
+  attack: 825
+  defense: 799
+  health: 1443
+lb2:
+  power: 942
+  attack: 944
+  defense: 914
+  health: 1651
 ...

@@ -38,4 +38,14 @@ dtReleased: "2025-04-17"
 dtModified: ""
 fancy_name: Magic Carpet Gourmand
 aetherPower: defense_up
+lb1:
+  power: 1284
+  attack: 1254
+  defense: 1398
+  health: 2350
+lb2:
+  power: 1451
+  attack: 1435
+  defense: 1600
+  health: 2689
 ...

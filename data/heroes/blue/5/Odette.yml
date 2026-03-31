@@ -40,4 +40,14 @@ dtReleased: "2023-06-20"
 dtModified: ""
 fancy_name: The White Swan
 aetherPower: dodge
+lb1:
+  power: 1020
+  attack: 956
+  defense: 1034
+  health: 1935
+lb2:
+  power: 1149
+  attack: 1094
+  defense: 1183
+  health: 2214
 ...

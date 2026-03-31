@@ -36,4 +36,14 @@ dtReleased: "2026-02-17"
 dtModified: ""
 fancy_name: Lantern Dragon Dancer
 aetherPower: dodge
+lb1:
+  power: 1372
+  attack: 1443
+  defense: 1429
+  health: 2442
+lb2:
+  power: 1551
+  attack: 1651
+  defense: 1635
+  health: 2794
 ...

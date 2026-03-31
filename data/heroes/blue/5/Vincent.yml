@@ -30,4 +30,14 @@ dtReleased: "2024-10-17"
 dtModified: ""
 fancy_name: Frightened Gargoyle
 aetherPower: special_boost
+lb1:
+  power: 1183
+  attack: 1269
+  defense: 1163
+  health: 2064
+lb2:
+  power: 1336
+  attack: 1452
+  defense: 1330
+  health: 2362
 ...
