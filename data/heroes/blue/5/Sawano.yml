@@ -12,18 +12,21 @@ skill: Purifying Ki
 effects:
 - 1x Mana Charge
 - ' * Recovers 25% health for all allies.'
-- ' * For the next 2 turns this character recovers 300 health to all allies after an
-  enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)'
+- ' * For the next 2 turns this character recovers 300 health to all allies after
+  an enemy casts their Special Skill. (Each enemy can trigger this effect once per
+  turn.)'
 - ' * Cleanses status ailments from the caster.'
 - 2x Mana Charge
 - ' * Recovers 30% health for all allies.'
-- ' * For the next 4 turns this character recovers 350 health to all allies after an
-  enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)'
+- ' * For the next 4 turns this character recovers 350 health to all allies after
+  an enemy casts their Special Skill. (Each enemy can trigger this effect once per
+  turn.)'
 - ' * Cleanses status ailments from the caster and nearby allies.'
 - 3x Mana Charge
 - ' * Recovers 35% health for all allies.'
-- ' * For the next 6 turns this character recovers 400 health to all allies after an
-  enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)'
+- ' * For the next 6 turns this character recovers 400 health to all allies after
+  an enemy casts their Special Skill. (Each enemy can trigger this effect once per
+  turn.)'
 - ' * Cleanses status ailments from all allies.'
 types:
 - Charge
@@ -33,4 +36,6 @@ types:
 passives:
 - 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/iP6Lloh.jpg
+dtReleased: "2024-11-19"
+dtModified: ""
 ...

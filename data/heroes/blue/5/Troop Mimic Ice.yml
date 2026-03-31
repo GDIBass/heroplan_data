@@ -26,7 +26,8 @@ types:
 - Normal Attack Buff All
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
-- 'Mimic Loot: This Mimic grants a chance for the following extra loot when completing stages'
+- 'Mimic Loot: This Mimic grants a chance for the following extra loot when completing
+  stages'
 - RARE
 - ' * Imperial Elite Strikers'
 - ' * Ravager Archers'
@@ -42,4 +43,6 @@ passives:
 - ' * Imperial Strikers'
 - ' * Trainer Troop'
 image: https://imgur.com/UDfI0xR.jpg
+dtReleased: "2026-02-23"
+dtModified: ""
 ...

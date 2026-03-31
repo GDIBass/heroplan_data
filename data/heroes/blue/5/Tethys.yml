@@ -19,6 +19,8 @@ types:
 - DoT 3
 - Attack Buff All
 image: https://i.imgur.com/LPmQIgT.jpg
+dtReleased: "2022-05-30"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,4 +40,6 @@ costume:
   - DoT 3
   - Attack Buff All
   image: https://imgur.com/JHMzCNP.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

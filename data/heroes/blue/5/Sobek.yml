@@ -21,6 +21,8 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies receive 255 Sand damage over 3 turns.'
 image: https://i.imgur.com/3Y3v4bs.jpg
+dtReleased: "2022-04-21"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +51,6 @@ costume:
   - 'Increased Special Skill Damage: The first time this character casts a Special
     Skill that deals damage an additional 50% is added to its power.'
   image: https://i.imgur.com/E4kLEt9.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

@@ -1,3 +1,4 @@
+---
 name: Slimgo
 source: superelemental
 family: slime
@@ -9,16 +10,20 @@ defense: 1163
 health: 1948
 skill: Throwing Daggers
 effects:
-  - Deals 270% damage to all enemies.
-  - All enemies receive 627 Water damage over 3 turns.
-  - All enemies get -35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+- Deals 270% damage to all enemies.
+- All enemies receive 627 Water damage over 3 turns.
+- All enemies get -35% mana generation for 3 turns. (Affects only mana generated from
+  matching tiles or mana gained by the defense team at the end of their turn.)
 types:
-  - Hit All
-  - DoT All
-  - Mana Generation Debuff All
+- Hit All
+- DoT All
+- Mana Generation Debuff All
 passives:
-  - >-
-    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
-  - >-
-    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+- 'Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega
+  Minions to nearby allies with 50% HP and 40% attack inherited from this character.'
+- 'Slime Minion Split: If this character loses more than 25% of max health at once,
+  they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://i.imgur.com/TOPTa45.jpg
+dtReleased: "2024-10-30"
+dtModified: ""
+...

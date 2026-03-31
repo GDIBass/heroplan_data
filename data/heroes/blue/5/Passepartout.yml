@@ -23,6 +23,8 @@ passives:
 - 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
   Skills is increased by 1 turn.'
 image: https://i.imgur.com/6D1hJ1P.jpg
+dtReleased: "2021-12-02"
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +50,6 @@ costume:
   - 'Health Boost on Special Skill: On Special Skill cast, boosts all allies'' HP
     by 10%.'
   image: https://i.imgur.com/mcEOLvZ.jpg
+  dtReleased: ""
+  dtModified: ""
 ...

@@ -21,7 +21,7 @@ types:
 - DoT Stack All on enemy/minion defeated
 - Mana Generation Debuff Stack All on enemy/minion defeated
 image: https://i.imgur.com/MzjdnYC.jpg
-dtReleased: ""
+dtReleased: "2020-06-25"
 dtModified: "2026-03-23"
 costume:
   design: costume1
