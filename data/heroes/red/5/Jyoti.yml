@@ -8,7 +8,7 @@ power: 1268
 attack: 1303
 defense: 1314
 health: 2282
-skill: Fiery Performace
+skill: Fiery Performance
 effects:
 - Recovers 37% health for all allies.
 - 'Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum

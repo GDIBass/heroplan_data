@@ -8,7 +8,7 @@ power: 468
 attack: 491
 defense: 450
 health: 752
-skill: Explosive O'lantern
+skill: Explosive O'Lantern
 effects:
 - Deals 200% damage to the target.
 - The target receieves a Pumpkin Bomb. After 3 turns the Pumpkin Bomb explodes and

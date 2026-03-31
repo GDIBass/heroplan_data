@@ -8,7 +8,7 @@ power: 444
 attack: 464
 defense: 448
 health: 653
-skill: Slash of the Four Blades
+skill: Slash of Four Blades
 effects:
 - Deals 125% damage to all enemies.
 - Reduces the mana of all enemies by 16%.

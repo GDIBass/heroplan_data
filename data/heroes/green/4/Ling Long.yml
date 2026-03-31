@@ -8,7 +8,7 @@ power: 799
 attack: 822
 defense: 799
 health: 1449
-skill: Spirited Splash
+skill: Spirited Slash
 effects:
 - Deals 400% Spirit Slash damage to the target. Spirit Slash safely removes buffs
   before dealing damage. (Damage is reduced by -40% for each removed buff. Undispellable

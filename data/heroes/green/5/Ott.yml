@@ -41,7 +41,7 @@ costume:
   attack: 1236
   defense: 1315
   health: 2483
-  skill: Gaurding Tunes
+  skill: Guarding Tunes
   effects:
   - Boosts health of all allies by 800. Boosted health can exceed max HP.
   - All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill
