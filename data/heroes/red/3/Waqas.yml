@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/CWQ9rw6.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Pharaoh's Shield
+aetherPower: regen
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +57,6 @@ costume:
   image: https://imgur.com/W7OyLyj.jpg
   dtReleased: "2025-04-14"
   dtModified: ""
+  fancy_name: Pharaoh's Blade
+  aetherPower: rage
 ...

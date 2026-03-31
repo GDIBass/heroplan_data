@@ -20,6 +20,8 @@ types:
 image: https://i.imgur.com/5yoZu18.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Shallows Hunter
+aetherPower: counterattack
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,4 +42,6 @@ costume:
   image: https://i.imgur.com/bezss9U.jpg
   dtReleased: "2023-04-03"
   dtModified: "2026-03-20"
+  fancy_name: Shallows Pursuer
+  aetherPower: special_armor
 ...

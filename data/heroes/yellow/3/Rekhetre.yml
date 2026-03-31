@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/nkaWucV.jpg
 dtReleased: "2022-04-21"
 dtModified: "2026-03-20"
+fancy_name: Young Sphinx
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +57,6 @@ costume:
   image: https://i.imgur.com/K31ZD8P.jpg
   dtReleased: "2025-02-17"
   dtModified: "2026-03-20"
+  fancy_name: Young Artist
+  aetherPower: special_armor
 ...

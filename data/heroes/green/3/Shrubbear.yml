@@ -1,19 +1,24 @@
+---
 name: Shrubbear
-class: Monk
 source: wonderland
+family: wonderland
 speed: Slow
+class: Monk
 power: 455
 attack: 351
 defense: 512
 health: 888
 skill: Camouflage Foliage
 effects:
-  - >-
-    The caster gets Taunt that prevents enemies from using Special Skills on the
-    caster's allies for 4 turns
-  - The caster gets +63% defense for 4 turns
-  - the caster gets +74% defense against Special Skills for 4 turns
+- The caster gets Taunt that prevents enemies from using Special Skills on the caster's
+  allies for 4 turns
+- The caster gets +63% defense for 4 turns
+- the caster gets +74% defense against Special Skills for 4 turns
 types:
-  - Taunt
-family: wonderland
+- Taunt
 image: https://i.imgur.com/KcnE5Ah.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Beast of Wonderland
+aetherPower: taunt
+...

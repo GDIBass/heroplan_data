@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/35qzhpx.jpg
 dtReleased: ""
 dtModified: "2026-03-23"
+fancy_name: Ice Dwarf of Jotunheim
+aetherPower: rage
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,4 +39,6 @@ costume:
   image: https://i.imgur.com/rQEdas3.jpg
   dtReleased: "2023-04-10"
   dtModified: "2026-03-23"
+  fancy_name: Explorer Dwarf of Jotunheim
+  aetherPower: counterattack
 ...

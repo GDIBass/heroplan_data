@@ -1,6 +1,7 @@
+---
 name: Guardian Bat
 source: teltoc
-family: guardiansteltoc 
+family: guardiansteltoc
 speed: Average
 class: Wizard
 power: 455
@@ -9,8 +10,13 @@ defense: 418
 health: 862
 skill: Merciless Bite
 effects:
-  - Deals 270% damage to the target and minor damage to nearby enemies.
-  - The damage is increased by 50% per each dead ally.
+- Deals 270% damage to the target and minor damage to nearby enemies.
+- The damage is increased by 50% per each dead ally.
 types:
-  - Hit 3
+- Hit 3
 image: https://i.imgur.com/yMD2ogt.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Nightmare of Teltoc
+aetherPower: damage_reduction
+...

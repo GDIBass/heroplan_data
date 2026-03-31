@@ -29,4 +29,6 @@ passives:
 image: https://i.imgur.com/OFz97hb.jpg
 dtReleased: "2024-04-25"
 dtModified: "2026-03-20"
+fancy_name: Owl Construct
+aetherPower: ailment_immunity
 ...

@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/nprqffe.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Jovial Brother
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +38,8 @@ costume:
   image: https://i.imgur.com/ia9GSNJ.jpg
   dtReleased: "2020-05-18"
   dtModified: ""
+  fancy_name: Jovial Explorer
+  aetherPower: special_armor
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -58,6 +62,8 @@ costume2:
   image: https://i.imgur.com/yE4ht6i.jpg
   dtReleased: "2024-05-31"
   dtModified: ""
+  fancy_name: Jovial Toon
+  aetherPower: defense_up
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -82,4 +88,6 @@ costume3:
   image: https://imgur.com/lcz3509.jpg
   dtReleased: "2025-06-18"
   dtModified: ""
+  fancy_name: Jovial Vitrail
+  aetherPower: defense_up
 ...

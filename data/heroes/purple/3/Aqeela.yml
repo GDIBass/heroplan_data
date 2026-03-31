@@ -23,6 +23,8 @@ passives:
 image: https://i.imgur.com/N5k1s9j.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Street-Smart Urchin
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +53,6 @@ costume:
   image: https://i.imgur.com/kbKyRq1.jpg
   dtReleased: "2024-08-10"
   dtModified: ""
+  fancy_name: Street-Smart Sorcerer
+  aetherPower: special_boost
 ...

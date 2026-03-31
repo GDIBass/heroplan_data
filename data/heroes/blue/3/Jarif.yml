@@ -24,6 +24,8 @@ passives:
 image: https://i.imgur.com/ntCu0sS.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Stressed-Out Scribe
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -52,4 +54,6 @@ costume:
   image: https://i.imgur.com/o4H256x.jpg
   dtReleased: "2025-03-17"
   dtModified: ""
+  fancy_name: Stressed-Out Curator
+  aetherPower: defense_up
 ...

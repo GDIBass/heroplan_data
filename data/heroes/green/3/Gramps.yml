@@ -21,6 +21,8 @@ passives:
 image: https://i.imgur.com/QGwMonb.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Halfling Elder
+aetherPower: bulwark
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   image: https://i.imgur.com/8hGBh7z.jpg
   dtReleased: "2023-11-09"
   dtModified: ""
+  fancy_name: Halfling Gardener
+  aetherPower: regen
 ...

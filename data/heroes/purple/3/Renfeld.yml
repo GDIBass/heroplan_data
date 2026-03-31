@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/6HwABCg.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Unhinged Assassin
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,6 +41,8 @@ costume:
   image: https://i.imgur.com/7QkxYAf.jpg
   dtReleased: "2020-05-18"
   dtModified: ""
+  fancy_name: Unhinged Surgeon
+  aetherPower: attack_up
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -61,6 +65,8 @@ costume2:
   image: https://i.imgur.com/D4cVPMi.jpg
   dtReleased: "2024-09-08"
   dtModified: ""
+  fancy_name: Unhinged Toon
+  aetherPower: special_boost
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -83,4 +89,6 @@ costume3:
   image: https://imgur.com/LQv6YPQ.jpg
   dtReleased: "2025-11-25"
   dtModified: ""
+  fancy_name: Glass Assassin
+  aetherPower: special_boost
 ...

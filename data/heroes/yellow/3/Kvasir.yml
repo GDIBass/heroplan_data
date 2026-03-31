@@ -22,6 +22,8 @@ types:
 image: https://i.imgur.com/iXRJ2NZ.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Beekeeper of Alfheim
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +46,6 @@ costume:
   image: https://i.imgur.com/3EEFeIL.jpg
   dtReleased: "2022-07-04"
   dtModified: "2026-03-20"
+  fancy_name: Bee Captain of Alfheim
+  aetherPower: special_armor
 ...

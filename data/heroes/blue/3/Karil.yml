@@ -16,6 +16,8 @@ types:
 image: https://i.imgur.com/Upbhrq6.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: The Hotblooded
+aetherPower: rage
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +36,8 @@ costume:
   image: https://i.imgur.com/g4KxM6b.jpg
   dtReleased: "2020-05-18"
   dtModified: ""
+  fancy_name: The Heated
+  aetherPower: bulwark
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -54,6 +58,8 @@ costume2:
   image: https://i.imgur.com/BviOX1i.jpg
   dtReleased: "2024-06-28"
   dtModified: ""
+  fancy_name: The Hotblooded Toon
+  aetherPower: rage
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -74,4 +80,6 @@ costume3:
   image: https://imgur.com/RwxxvuX.jpg
   dtReleased: "2025-08-10"
   dtModified: ""
+  fancy_name: The Hotblooded Vitrail
+  aetherPower: rage
 ...

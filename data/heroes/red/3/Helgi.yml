@@ -28,6 +28,8 @@ passives:
 image: https://i.imgur.com/URDTarn.jpg
 dtReleased: "2024-12-03"
 dtModified: ""
+fancy_name: Dwarven Rage Runner
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -56,4 +58,6 @@ costume:
   image: https://imgur.com/vPctOAj.jpg
   dtReleased: "2025-10-15"
   dtModified: ""
+  fancy_name: Dwarven Replenisher
+  aetherPower: special_boost
 ...

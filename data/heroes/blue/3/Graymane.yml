@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/QFfHzlB.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: The Ferocious
+aetherPower: special_boost
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,6 +41,8 @@ costume:
   image: https://i.imgur.com/zH4VZaJ.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: Garlic Thief
+  aetherPower: dodge
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -61,6 +65,8 @@ costume2:
   image: https://i.imgur.com/Qf69vSG.jpg
   dtReleased: "2024-04-08"
   dtModified: ""
+  fancy_name: The Ferocious Toon
+  aetherPower: special_boost
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -83,4 +89,6 @@ costume3:
   image: https://imgur.com/B6cM6Ze.jpg
   dtReleased: "2025-06-18"
   dtModified: ""
+  fancy_name: The Ferocious Glass
+  aetherPower: special_boost
 ...

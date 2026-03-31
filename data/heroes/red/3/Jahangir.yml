@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/7oZTOqz.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Mage from the Sandsea
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +38,8 @@ costume:
   image: https://i.imgur.com/IPO19rX.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: Wizard from the Sandsea
+  aetherPower: regen
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -58,6 +62,8 @@ costume2:
   image: https://i.imgur.com/nGXpTVa.jpg
   dtReleased: "2023-12-25"
   dtModified: ""
+  fancy_name: Mage from the Toon Sea
+  aetherPower: defense_up
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -80,6 +86,8 @@ costume3:
   image: https://i.imgur.com/r8eT1gi.jpg
   dtReleased: "2024-12-25"
   dtModified: ""
+  fancy_name: Nomad from the Glass Sea
+  aetherPower: defense_up
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -102,4 +110,6 @@ costume4:
   image: https://imgur.com/7mjgAN4.jpg
   dtReleased: "2026-01-07"
   dtModified: ""
+  fancy_name: Stylish Mage
+  aetherPower: defense_up
 ...

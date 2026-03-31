@@ -16,6 +16,8 @@ types:
 image: https://i.imgur.com/p1FG8Av.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Ranger of Shaguad
+aetherPower: dodge
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -35,6 +37,8 @@ costume:
   image: https://i.imgur.com/4JD88JW.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: Shaguadian Guardian
+  aetherPower: rage
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -55,6 +59,8 @@ costume2:
   image: https://i.imgur.com/O05gU50.jpg
   dtReleased: "2024-08-11"
   dtModified: ""
+  fancy_name: Toon of Shaguad
+  aetherPower: dodge
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -75,4 +81,6 @@ costume3:
   image: https://imgur.com/rW9GnU7.jpg
   dtReleased: "2025-10-09"
   dtModified: ""
+  fancy_name: Vitrail of Shaguad
+  aetherPower: dodge
 ...

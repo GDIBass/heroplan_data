@@ -19,6 +19,8 @@ types:
 image: https://i.imgur.com/h7fAkgX.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Selfless Healer
+aetherPower: special_armor
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,6 +40,8 @@ costume:
   image: https://i.imgur.com/OOF8ysq.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: Magnanimous Mender
+  aetherPower: defense_up
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -62,6 +66,8 @@ costume2:
   image: https://i.imgur.com/6HNw9i7.jpg
   dtReleased: "2024-02-12"
   dtModified: ""
+  fancy_name: Toon Healer
+  aetherPower: special_armor
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -87,6 +93,8 @@ costume3:
   image: https://i.imgur.com/jRBcqpn.jpg
   dtReleased: "2025-03-11"
   dtModified: ""
+  fancy_name: Glass Healer
+  aetherPower: special_armor
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -111,4 +119,6 @@ costume4:
   image: https://imgur.com/DLbCQyk.jpg
   dtReleased: "2026-03-12"
   dtModified: ""
+  fancy_name: Stylish Healer
+  aetherPower: special_armor
 ...

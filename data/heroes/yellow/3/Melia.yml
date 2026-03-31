@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/4LFidrS.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Mermaid of Atlantis
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,4 +39,6 @@ costume:
   image: https://i.imgur.com/M7NWE48.jpg
   dtReleased: "2022-05-02"
   dtModified: "2026-03-20"
+  fancy_name: Emissary of Atlantis
+  aetherPower: special_boost
 ...

@@ -17,6 +17,8 @@ types:
 image: https://i.imgur.com/sdXIZmv.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Druid of Rathwood
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +36,8 @@ costume:
   image: https://i.imgur.com/ig1RoGx.jpg
   dtReleased: "2020-01-01"
   dtModified: ""
+  fancy_name: Shaman of Concordia
+  aetherPower: special_armor
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -55,6 +59,8 @@ costume2:
   image: https://i.imgur.com/0PzrzM8.jpg
   dtReleased: "2024-01-22"
   dtModified: ""
+  fancy_name: Toon of Rathwood
+  aetherPower: defense_up
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -78,6 +84,8 @@ costume3:
   image: https://i.imgur.com/Z7YMKIU.jpg
   dtReleased: "2025-03-11"
   dtModified: ""
+  fancy_name: Vitrail of Rathwood
+  aetherPower: defense_up
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -100,4 +108,6 @@ costume4:
   image: https://imgur.com/9fZP07k.jpg
   dtReleased: "2026-02-14"
   dtModified: ""
+  fancy_name: Stylish Druid
+  aetherPower: defense_up
 ...

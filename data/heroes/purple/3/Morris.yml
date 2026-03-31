@@ -30,6 +30,8 @@ passives:
 image: https://i.imgur.com/RXYQ548.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Mighty Moleman
+aetherPower: boosted_regen
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -61,4 +63,6 @@ costume:
   image: https://i.imgur.com/CrJaSuf.jpg
   dtReleased: "2024-05-23"
   dtModified: ""
+  fancy_name: Moleman  Potter
+  aetherPower: damage_reduction
 ...

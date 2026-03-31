@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/8fr1xWV.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: Mage of Glaceholm
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +38,8 @@ costume:
   image: https://i.imgur.com/0GakWdj.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: Hermit of Glaceholm
+  aetherPower: special_armor
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -58,6 +62,8 @@ costume2:
   image: https://i.imgur.com/7Gi7zzw.jpg
   dtReleased: "2024-07-16"
   dtModified: ""
+  fancy_name: Toon of Glaceholm
+  aetherPower: defense_up
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -80,4 +86,6 @@ costume3:
   image: https://imgur.com/mdOC2xf.jpg
   dtReleased: "2025-10-09"
   dtModified: ""
+  fancy_name: Vitrail of Glaceholm
+  aetherPower: defense_up
 ...

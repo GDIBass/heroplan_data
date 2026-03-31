@@ -21,6 +21,8 @@ passives:
 image: https://i.imgur.com/e1OFOms.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Eloi Fisherman
+aetherPower: defense_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   image: https://i.imgur.com/c9F3Wjn.jpg
   dtReleased: "2023-12-07"
   dtModified: ""
+  fancy_name: Eloi Baker
+  aetherPower: regen
 ...

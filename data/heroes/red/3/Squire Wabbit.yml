@@ -17,6 +17,8 @@ types:
 image: https://i.imgur.com/545SVXP.jpg
 dtReleased: ""
 dtModified: ""
+fancy_name: Squire of Springvale
+aetherPower: rage
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,6 +41,7 @@ costume:
   image: https://imgur.com/paSL8nL.jpg
   dtReleased: "2026-03-30"
   dtModified: ""
+  fancy_name: Junior Kinght of Springvale
   aetherPower: special_boost
   lb1:
     power: 650

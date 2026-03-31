@@ -1,3 +1,4 @@
+---
 name: Bauchan
 source: avalon
 family: avalon
@@ -9,11 +10,16 @@ defense: 453
 health: 830
 skill: Goblin Fury
 effects:
-  - Deals 105% damage to all enemies.
-  - Reduces the mana of all enemies by 20%.
-  - All allies get +24% mana generation for 4 turns.
+- Deals 105% damage to all enemies.
+- Reduces the mana of all enemies by 20%.
+- All allies get +24% mana generation for 4 turns.
 types:
-  - Hit All
-  - Mana Reduction
-  - Mana Generation Buff
+- Hit All
+- Mana Reduction
+- Mana Generation Buff
 image: https://i.imgur.com/EA1ItRL.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Imp of Avalon
+aetherPower: counterattack
+...

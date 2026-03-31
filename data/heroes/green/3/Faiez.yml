@@ -25,6 +25,8 @@ passives:
 image: https://i.imgur.com/vZiyZG9.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Fortuitous Farmer
+aetherPower: heal_increase
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +57,6 @@ costume:
   image: https://i.imgur.com/TFnsKJy.jpg
   dtReleased: "2024-09-07"
   dtModified: ""
+  fancy_name: Fortuitous Miner
+  aetherPower: special_armor
 ...

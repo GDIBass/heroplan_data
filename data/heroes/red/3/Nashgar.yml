@@ -18,6 +18,8 @@ types:
 image: https://i.imgur.com/DrsAnEe.jpg
 dtReleased: "2017-03-01"
 dtModified: ""
+fancy_name: First in Battle
+aetherPower: attack_up
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +38,8 @@ costume:
   image: https://i.imgur.com/DZd6oKm.jpg
   dtReleased: "2021-01-18"
   dtModified: ""
+  fancy_name: Last to Retreat
+  aetherPower: special_boost
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -58,6 +62,8 @@ costume2:
   image: https://i.imgur.com/SWdSWFa.jpg
   dtReleased: "2024-05-31"
   dtModified: ""
+  fancy_name: First Toon in Battle
+  aetherPower: attack_up
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -80,4 +86,6 @@ costume3:
   image: https://imgur.com/EL6besJ.jpg
   dtReleased: "2025-08-10"
   dtModified: ""
+  fancy_name: Last to Shatter
+  aetherPower: attack_up
 ...
