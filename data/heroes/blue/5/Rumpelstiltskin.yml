@@ -23,6 +23,8 @@ effects:
 types:
 - Gambler
 image: https://i.imgur.com/v7aCbsm.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +55,6 @@ costume:
   - Mana generation Debuff All
   - Buff Immunity All
   image: https://i.imgur.com/G2za8YY.jpg
+  dtReleased: "2022-06-16"
+  dtModified: ""
 ...

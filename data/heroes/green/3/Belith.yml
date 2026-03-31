@@ -34,7 +34,7 @@ costume:
   - HoT All
   - Dispell Immunity Buff All
   image: https://i.imgur.com/MHO518e.jpg
-  dtReleased: ""
+  dtReleased: "2020-05-18"
   dtModified: ""
 costume2:
   design: toon
@@ -58,7 +58,7 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/d6OTmVG.jpg
-  dtReleased: ""
+  dtReleased: "2024-04-08"
   dtModified: ""
 costume3:
   design: glass

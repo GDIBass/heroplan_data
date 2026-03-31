@@ -20,6 +20,8 @@ types:
 - Chain Hit
 - Defense Debuff on hit
 image: https://i.imgur.com/RIPu5ha.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +45,6 @@ costume:
   - 'Poison on Special Skill: When this character casts their Special Skill, all enemies
     receive 528 Poison damage over 4 turns.'
   image: https://i.imgur.com/8HdzNsi.jpg
+  dtReleased: "2022-04-14"
+  dtModified: ""
 ...

@@ -19,6 +19,8 @@ types:
 - Possible Extra Hits
 - Mana Boost All on hit
 image: https://i.imgur.com/YC2DFg3.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,4 +40,6 @@ costume:
   - Possible Extra Hits
   - Mindless Attack on hit
   image: https://i.imgur.com/ZELxM85.jpg
+  dtReleased: "2023-01-09"
+  dtModified: ""
 ...

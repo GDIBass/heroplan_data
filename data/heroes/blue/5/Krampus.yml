@@ -51,6 +51,6 @@ costume:
   - 'Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 388
     Frost damage over 4 turns.'
   image: https://i.imgur.com/fkiwdOj.jpg
-  dtReleased: ""
+  dtReleased: "2021-12-01"
   dtModified: ""
 ...

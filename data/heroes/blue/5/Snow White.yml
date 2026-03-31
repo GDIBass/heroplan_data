@@ -18,6 +18,8 @@ types:
 - Cleanser All
 - Hit All
 image: https://i.imgur.com/EVw3AO1.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,4 +38,6 @@ costume:
   - Cleanser All
   - Hit All
   image: https://i.imgur.com/ko9NEXz.jpg
+  dtReleased: "2021-12-15"
+  dtModified: ""
 ...

@@ -32,7 +32,7 @@ costume:
   - Hit 1
   - Self Mana Gen Buff
   image: https://i.imgur.com/YX5GVdv.jpg
-  dtReleased: ""
+  dtReleased: "2021-01-18"
   dtModified: ""
 costume2:
   design: costume2
@@ -52,7 +52,7 @@ costume2:
   - Mana reducer 3
   - Self MoT
   image: https://i.imgur.com/IEUFL8t.jpg
-  dtReleased: ""
+  dtReleased: "2023-07-10"
   dtModified: ""
 costume3:
   design: toon
@@ -72,7 +72,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/bBInxqX.jpg
-  dtReleased: ""
+  dtReleased: "2024-09-08"
   dtModified: ""
 costume4:
   design: glass
@@ -92,6 +92,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/jJvIunu.jpg
-  dtReleased: ""
+  dtReleased: "2025-11-25"
   dtModified: ""
 ...
