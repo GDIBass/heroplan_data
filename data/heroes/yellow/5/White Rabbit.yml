@@ -17,6 +17,8 @@ types:
 - Hit 3
 - Defense Debuff 1
 image: https://i.imgur.com/00qNGOk.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,4 +39,6 @@ costume:
   - 'Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict
     Mindless Attack on a random enemy for 3 turns.'
   image: https://i.imgur.com/qj3SAsZ.jpg
+  dtReleased: "2022-02-17"
+  dtModified: ""
 ...

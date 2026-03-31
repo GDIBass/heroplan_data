@@ -36,7 +36,7 @@ costume:
   - Hit 1
   - Blind 1
   image: https://i.imgur.com/YXbYHIl.jpg
-  dtReleased: ""
+  dtReleased: "2020-01-01"
   dtModified: ""
 costume2:
   design: costume2
@@ -57,7 +57,7 @@ costume2:
   - DoT 3
   - Blind 3
   image: https://i.imgur.com/rJxyTcK.jpg
-  dtReleased: ""
+  dtReleased: "2022-12-26"
   dtModified: ""
 costume3:
   design: toon
@@ -79,7 +79,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/6UDBHvu.jpg
-  dtReleased: ""
+  dtReleased: "2024-02-12"
   dtModified: ""
 costume4:
   design: glass
@@ -102,6 +102,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/7d9tXzA.jpg
-  dtReleased: ""
+  dtReleased: "2025-04-08"
   dtModified: ""
 ...

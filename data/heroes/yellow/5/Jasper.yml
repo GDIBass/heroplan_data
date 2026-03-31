@@ -45,6 +45,6 @@ costume:
   - 'Stack on Special: When this character casts their Special Skill, all allies get:
     Stack (Max: 10): Recovers 30 HP each turn.'
   image: https://i.imgur.com/iHZz8KB.jpg
-  dtReleased: ""
+  dtReleased: "2024-03-18"
   dtModified: "2026-03-31"
 ...

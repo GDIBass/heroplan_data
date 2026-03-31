@@ -33,7 +33,7 @@ costume:
   - Hit 1
   - Hit Random 1
   image: https://i.imgur.com/4JD88JW.jpg
-  dtReleased: ""
+  dtReleased: "2021-01-18"
   dtModified: ""
 costume2:
   design: toon
@@ -53,7 +53,7 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/O05gU50.jpg
-  dtReleased: ""
+  dtReleased: "2024-08-11"
   dtModified: ""
 costume3:
   design: glass
@@ -73,6 +73,6 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/rW9GnU7.jpg
-  dtReleased: ""
+  dtReleased: "2025-10-09"
   dtModified: ""
 ...

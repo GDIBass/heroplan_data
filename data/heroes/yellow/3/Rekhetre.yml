@@ -53,6 +53,6 @@ costume:
   - 'Health Recover on Buff Received: This character recovers 5% HP when they receive
     a buff or positive stack.'
   image: https://i.imgur.com/K31ZD8P.jpg
-  dtReleased: ""
+  dtReleased: "2025-02-17"
   dtModified: "2026-03-20"
 ...

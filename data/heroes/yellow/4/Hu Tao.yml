@@ -39,7 +39,7 @@ costume:
   - Blind All
   - Healing Debuff All
   image: https://i.imgur.com/vPJgzTp.jpg
-  dtReleased: ""
+  dtReleased: "2021-01-18"
   dtModified: ""
 costume2:
   design: costume2
@@ -60,7 +60,7 @@ costume2:
   - Blind All
   - Mana Gen Debuff All
   image: https://i.imgur.com/3xo1OZT.jpg
-  dtReleased: ""
+  dtReleased: "2023-11-27"
   dtModified: ""
 costume3:
   design: toon
@@ -82,7 +82,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/J3KLB3K.jpg
-  dtReleased: ""
+  dtReleased: "2024-05-31"
   dtModified: ""
 costume4:
   design: glass
@@ -104,6 +104,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/V32B1dq.jpg
-  dtReleased: ""
+  dtReleased: "2025-06-18"
   dtModified: ""
 ...

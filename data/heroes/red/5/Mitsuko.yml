@@ -21,6 +21,8 @@ types:
 - Elemental Reflect All
 - Elemental Counterattack All
 image: https://i.imgur.com/xMxFVwW.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +44,6 @@ costume:
   - Elemental Reflect All
   - Elemental Counterattack All
   image: https://i.imgur.com/8AHvvyw.jpg
+  dtReleased: "2023-03-06"
+  dtModified: ""
 ...

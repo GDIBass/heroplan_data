@@ -19,6 +19,8 @@ types:
 - Damage Reduction Buff 3
 - Mana Generation Buff 3
 image: https://i.imgur.com/IEuL57g.jpg
+dtReleased: ""
+dtModified: ""
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,4 +40,6 @@ costume:
   - Counterattack 3
   - Damage Reduction Buff 3
   image: https://i.imgur.com/L0IBEq2.jpg
+  dtReleased: "2022-08-29"
+  dtModified: ""
 ...

@@ -62,6 +62,6 @@ costume:
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
     is exhausted when the Core is activated.'
   image: https://imgur.com/e5fIPsA.jpg
-  dtReleased: ""
+  dtReleased: "2025-10-15"
   dtModified: ""
 ...

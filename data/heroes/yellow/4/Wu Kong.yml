@@ -33,7 +33,7 @@ costume:
   - Hit All
   - Defense Buff Self
   image: https://i.imgur.com/Xt9qUWm.jpg
-  dtReleased: ""
+  dtReleased: "2021-01-18"
   dtModified: ""
 costume2:
   design: costume2
@@ -50,7 +50,7 @@ costume2:
   types:
   - Titan Attack Buff All
   image: https://i.imgur.com/gZEff9Z.jpg
-  dtReleased: ""
+  dtReleased: "2023-10-30"
   dtModified: ""
 costume3:
   design: toon
@@ -70,7 +70,7 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/3dV4crJ.jpg
-  dtReleased: ""
+  dtReleased: "2024-07-16"
   dtModified: ""
 costume4:
   design: glass
@@ -93,6 +93,6 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/JLY9oLh.jpg
-  dtReleased: ""
+  dtReleased: "2025-08-10"
   dtModified: ""
 ...
