@@ -1,3 +1,4 @@
+---
 name: Frank
 source: morlovia
 family: morlovia
@@ -9,17 +10,33 @@ defense: 639
 health: 1292
 skill: Undead Razer
 effects:
-  - Deals 200% damage to all enemies.
-  - The damage is increased by 45% per dead enemy.
-  - All enemies get -44% defense for 4 turns.
+- Deals 200% damage to all enemies.
+- The damage is increased by 45% per dead enemy.
+- All enemies get -44% defense for 4 turns.
 types:
-  - Hit All
-  - Defense Debuff
+- Hit All
+- Defense Debuff
 passives:
-  - >-
-    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+- 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+  to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
+  has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/dQao9jX.jpg
+dtReleased: "2020-10-26"
+dtModified: ""
+fancy_name: The Monster
+aetherPower: regen
+lb1:
+  power: 717
+  attack: 690
+  defense: 695
+  health: 1403
+lb2:
+  power: 818
+  attack: 800
+  defense: 805
+  health: 1627
 costume:
+  design: costume1
   bonuses: 2/2/4/1
   class: Monk
   power: 681
@@ -28,17 +45,33 @@ costume:
   health: 1334
   skill: Undead Obliterator
   effects:
-    - Deals 170% damage to all enemies
-    - The damage is increased by 45% for each dead enemy.
-    - >-
-      Stack (Max:10): All enemies receive 20 Frost damage per each killed enemy or enemy Minion at the end of each turn.
-    - >-
-      Stack (Max: 10): All enemies get -4% mana generation per each killed enemy or enemy Minion.
+  - Deals 170% damage to all enemies
+  - The damage is increased by 45% for each dead enemy.
+  - 'Stack (Max:10): All enemies receive 20 Frost damage per each killed enemy or
+    enemy Minion at the end of each turn.'
+  - 'Stack (Max: 10): All enemies get -4% mana generation per each killed enemy or
+    enemy Minion.'
   types:
-    - Hit all
-    - DoT Stack
-    - Mana Generation Debuff Stack
+  - Hit all
+  - DoT Stack
+  - Mana Generation Debuff Stack
   passives:
-    - >-
-      Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+  - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+    to steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/HUrGPkv.jpg
+  dtReleased: "2021-10-04"
+  dtModified: ""
+  fancy_name: The Mobster
+  aetherPower: special_boost
+  lb1:
+    power: 733
+    attack: 713
+    defense: 701
+    health: 1450
+  lb2:
+    power: 837
+    attack: 827
+    defense: 813
+    health: 1681
+...

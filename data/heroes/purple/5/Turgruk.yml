@@ -23,4 +23,18 @@ passives:
 - 'Resist Blind: This character is immune to status ailments that affect accuracy.
   Doesn''t apply to original status effects from allies.'
 image: https://i.imgur.com/ktMsNKD.jpg
+dtReleased: "2023-04-01"
+dtModified: ""
+fancy_name: Vicious Tracker
+aetherPower: attack_up
+lb1:
+  power: 877
+  attack: 912
+  defense: 790
+  health: 1514
+lb2:
+  power: 985
+  attack: 1043
+  defense: 904
+  health: 1732
 ...

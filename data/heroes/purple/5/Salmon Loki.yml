@@ -19,6 +19,20 @@ types:
 - Hit All Holy
 - Weird
 image: https://i.imgur.com/fVTl018.jpg
+dtReleased: "2021-07-04"
+dtModified: "2026-03-23"
+fancy_name: Trickster Fish
+aetherPower: bulwark
+lb1:
+  power: 840
+  attack: 803
+  defense: 810
+  health: 1482
+lb2:
+  power: 943
+  attack: 919
+  defense: 927
+  health: 1696
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -33,9 +47,23 @@ costume:
   - For 4 turns, the element of all enemies is changed each turn. On the first 3 turns,
     the element is random.
   - On the last turn, enemies revert to their original element.
-  - After each element change, enemies take 736 damage if their element is Holy.
+  - After each element change, enemies take 811 damage if their element is Holy.
   types:
   - Hit All Holy
   - Weird
   image: https://i.imgur.com/mbPRCrB.jpg
+  dtReleased: "2023-07-31"
+  dtModified: "2026-03-23"
+  fancy_name: Dapper Fish
+  aetherPower: ailment_reflect
+  lb1:
+    power: 1055
+    attack: 1028
+    defense: 1091
+    health: 1894
+  lb2:
+    power: 1189
+    attack: 1176
+    defense: 1248
+    health: 2167
 ...

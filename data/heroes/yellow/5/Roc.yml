@@ -1,3 +1,4 @@
+---
 name: Roc
 source: sand
 family: sand
@@ -9,15 +10,31 @@ defense: 739
 health: 1361
 skill: Sand Cyclone
 effects:
-  - All enemies receive 324 Sand damage over 3 turns.
-  - All enemies get -50% decrease for any healing received for 2 turns. This effect can't be cleansed.
-  - Cleanses status ailments from all allies.
+- All enemies receive 324 Sand damage over 3 turns.
+- All enemies get -50% decrease for any healing received for 2 turns. This effect
+  can't be cleansed.
+- Cleanses status ailments from all allies.
 types:
-  - Dot All
-  - Healing Debuff All
-  - Cleanser All
+- DoT All
+- Healing Debuff All
+- Cleanser All
 image: https://i.imgur.com/jRrOk7n.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Protector of Sand Empire
+aetherPower: dodge
+lb1:
+  power: 840
+  attack: 821
+  defense: 796
+  health: 1467
+lb2:
+  power: 943
+  attack: 939
+  defense: 911
+  health: 1678
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 936
@@ -26,11 +43,26 @@ costume:
   health: 1683
   skill: Beach Party
   effects:
-    - All enemies receive 780 Sand damage over 4 turns.
-    - All enemies get -44% defense for 3 turns.
-    - Dispells buffs from all enemies.
+  - All enemies receive 800 Sand damage over 4 turns.
+  - All enemies get -44% defense for 3 turns.
+  - Dispels buffs from all enemies.
   types:
-    - Dot All
-    - Defense Debuff All
-    - Dispeller All
+  - DoT All
+  - Defense Debuff All
+  - Dispeller All
   image: https://i.imgur.com/wRsoDQK.jpg
+  dtReleased: "2022-05-16"
+  dtModified: "2026-03-20"
+  fancy_name: Protector of the Beach
+  aetherPower: damage_reduction
+  lb1:
+    power: 1030
+    attack: 1023
+    defense: 1010
+    health: 1887
+  lb2:
+    power: 1160
+    attack: 1171
+    defense: 1155
+    health: 2159
+...

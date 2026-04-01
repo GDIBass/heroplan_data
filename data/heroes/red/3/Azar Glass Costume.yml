@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/rj0CDGr.jpg
+dtReleased: "2025-04-23"
+dtModified: ""
+fancy_name: Seeker of Glass
+aetherPower: rage
+lb1:
+  power: 579
+  attack: 688
+  defense: 530
+  health: 898
+lb2:
+  power: 701
+  attack: 850
+  defense: 654
+  health: 1110
 ...

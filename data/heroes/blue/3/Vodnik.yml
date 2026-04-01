@@ -1,3 +1,4 @@
+---
 name: Vodnik
 source: pirates
 family: corellia
@@ -9,8 +10,23 @@ defense: 429
 health: 834
 skill: Trident Lunge
 effects:
-  - Deals 280% damage to the target
-  - The more mana the enemies have, the more damage they will receive, up to 400%.
+- Deals 280% damage to the target
+- The more mana the enemies have, the more damage they will receive, up to 400%.
 types:
-  - Hit 1
+- Hit 1
 image: https://i.imgur.com/aLr0hqV.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Fisherman of Corellia
+aetherPower: rage
+lb1:
+  power: 507
+  attack: 498
+  defense: 486
+  health: 945
+lb2:
+  power: 612
+  attack: 615
+  defense: 601
+  health: 1168
+...

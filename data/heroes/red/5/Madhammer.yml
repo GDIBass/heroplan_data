@@ -28,4 +28,18 @@ passives:
 - ' * Deals 90% damage to all enemies.'
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/dPF8ESH.jpg
+dtReleased: "2023-10-16"
+dtModified: ""
+fancy_name: Goblin Brawler
+aetherPower: attack_up
+lb1:
+  power: 1014
+  attack: 1012
+  defense: 999
+  health: 1822
+lb2:
+  power: 1142
+  attack: 1158
+  defense: 1143
+  health: 2085
 ...

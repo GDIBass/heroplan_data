@@ -1,18 +1,33 @@
+---
 name: Bertulf
-class: Monk
 source: knights
 family: raven
 speed: Average
+class: Monk
 power: 480
 attack: 491
 defense: 460
 health: 820
 skill: Magnificent Meal
 effects:
-  - >-
-    All allies get +100% normal attack for 4 turns. This effect can be active in
-    addition to effectst hat alter attack in general. Normal attacks can have a
-    total maximum of +160% increased power while this effect is active.
+- All allies get +100% normal attack for 4 turns. This effect can be active in addition
+  to effectst hat alter attack in general. Normal attacks can have a total maximum
+  of +160% increased power while this effect is active.
 types:
-  - Attack Buff
+- Titan Attack Buff All
 image: https://i.imgur.com/0zQumOG.jpg
+dtReleased: "2021-10-13"
+dtModified: "2026-03-20"
+fancy_name: Chef of the Castle
+aetherPower: counterattack
+lb1:
+  power: 536
+  attack: 557
+  defense: 522
+  health: 929
+lb2:
+  power: 647
+  attack: 688
+  defense: 645
+  health: 1148
+...

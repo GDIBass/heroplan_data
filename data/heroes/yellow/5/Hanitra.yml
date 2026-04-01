@@ -25,4 +25,18 @@ passives:
 - 'Mana on Buff Received: This character gains 5% mana when they receive a buff or
   a positive stack.'
 image: https://i.imgur.com/Q6iWdU3.jpg
+dtReleased: "2021-12-01"
+dtModified: ""
+fancy_name: Lemurian Goddess
+aetherPower: damage_reduction
+lb1:
+  power: 849
+  attack: 777
+  defense: 859
+  health: 1518
+lb2:
+  power: 954
+  attack: 889
+  defense: 982
+  health: 1737
 ...

@@ -24,4 +24,18 @@ passives:
 - 'Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85%
   damage to all enemies. This effect can activate only once per turn.'
 image: https://i.imgur.com/SMSyQXB.jpg
+dtReleased: "2022-11-03"
+dtModified: ""
+fancy_name: Puppy of Loyalty
+aetherPower: regen
+lb1:
+  power: 934
+  attack: 945
+  defense: 870
+  health: 1680
+lb2:
+  power: 1051
+  attack: 1082
+  defense: 995
+  health: 1922
 ...

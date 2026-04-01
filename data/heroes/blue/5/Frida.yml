@@ -1,6 +1,7 @@
+---
 name: Frida
 source: hotm
-family: 2019
+family: "2019"
 speed: Average
 class: Paladin
 power: 770
@@ -9,15 +10,31 @@ defense: 723
 health: 1330
 skill: Polar Bash
 effects:
-  - Deals 350% damage to the target and nearby enemies.
-  - The target and nearby enemies get -54% defense against Ice for 4 turns.
-  - Dispels buffs from the target and nearby enemies.
-  - Element Link gives all Ice allies +46% defense against Nature for 4 turns. This effect can't be cleansed.
+- Deals 350% damage to the target and nearby enemies.
+- The target and nearby enemies get -54% defense against Ice for 4 turns.
+- Dispels buffs from the target and nearby enemies.
+- Element Link gives all Ice allies +46% defense against Nature for 4 turns. This
+  effect can't be cleansed.
 types:
-  - Hit 3
-  - EDD 3
-  - Dispeller 3
+- Hit 3
+- Elemental Defense Debuff 3
+- Dispeller 3
 passives:
-  - >-
-    Resist Attack Ailments: This character has an innate resistance against status ailments that affect Attack.
+- 'Resist Attack Ailments: This character is immune to status ailments that affect
+  attack.'
 image: https://i.imgur.com/vGjHyB4.jpg
+dtReleased: "2019-03-01"
+dtModified: ""
+fancy_name: Arctic Menace
+aetherPower: attack_up
+lb1:
+  power: 820
+  attack: 790
+  defense: 779
+  health: 1434
+lb2:
+  power: 920
+  attack: 904
+  defense: 891
+  health: 1640
+...

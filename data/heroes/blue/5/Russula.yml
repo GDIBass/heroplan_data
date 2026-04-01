@@ -1,3 +1,4 @@
+---
 name: Russula
 source: season4
 family: underwild
@@ -9,18 +10,35 @@ defense: 782
 health: 1328
 skill: Vengeful Backstab
 effects:
-  - Deals 330% damage to the target.
-  - The caster goes into hiding for 2 turns.
-  - While hidden, the caster can't receive new status effects or stacks and all received damage is reduced by -30%.
-  - When the caster comes out of hiding, it deals 277 damage to all enemies that used Special SKills while it was hiding.
+- Deals 330% damage to the target.
+- The caster goes into hiding for 2 turns.
+- While hidden, the caster can't receive new status effects or stacks and all received
+  damage is reduced by -30%.
+- When the caster comes out of hiding, it deals 277 damage to all enemies that used
+  Special SKills while it was hiding.
 types:
-  - Hit 1
-  - Hiding
+- Hit 1
+- Hiding Self
 passives:
-  - >-
-    Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
+- 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
+  receives from Special Skill is decreased by 1 turn.'
 image: https://i.imgur.com/MqnrIZ3.jpg
+dtReleased: "2021-05-20"
+dtModified: ""
+fancy_name: Eloi Rogue
+aetherPower: attack_up
+lb1:
+  power: 860
+  attack: 854
+  defense: 843
+  health: 1431
+lb2:
+  power: 966
+  attack: 977
+  defense: 965
+  health: 1638
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Ranger
   power: 1021
@@ -29,16 +47,34 @@ costume:
   health: 1737
   skill: Artful Backstab
   effects:
-    - Deals 300% damage to the target.
-    - The caster goes into hiding for 2 turns.
-    - While hidden, the caster can't receive new status effects or stacks, and all received damage is reduced by -30%.
-    - When the caster comes out of hiding, it deals 411 damage to all enemies that used Special Skills while the caster was hiding.
+  - Deals 300% damage to the target.
+  - The caster goes into hiding for 2 turns.
+  - While hidden, the caster can't receive new status effects or stacks, and all received
+    damage is reduced by -30%.
+  - When the caster comes out of hiding, it deals 411 damage to all enemies that used
+    Special Skills while the caster was hiding.
   types:
-    - Hit 1
-    - Hiding
+  - Hit 1
+  - Hiding Self
   passives:
-    - >-
-      Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
-    - >-
-      Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 3 turns.
+  - 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
+    receives from Special Skill is decreased by 1 turn.'
+  - 'Increased Damage Against Boosted Health: After this character casts their Special
+    Skill cast, all allies'' normal attacks and Special Skills deal +70% damage against
+    targets with boosted health for 3 turns.'
   image: https://i.imgur.com/KzLvPms.jpg
+  dtReleased: "2024-01-04"
+  dtModified: ""
+  fancy_name: Eloi Painter
+  aetherPower: rage
+  lb1:
+    power: 1092
+    attack: 1137
+    defense: 1096
+    health: 1873
+  lb2:
+    power: 1231
+    attack: 1300
+    defense: 1254
+    health: 2143
+...

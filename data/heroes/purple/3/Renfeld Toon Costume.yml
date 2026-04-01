@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/D4cVPMi.jpg
+dtReleased: "2024-09-08"
+dtModified: ""
+fancy_name: Unhinged Toon
+aetherPower: special_boost
+lb1:
+  power: 567
+  attack: 543
+  defense: 555
+  health: 1122
+lb2:
+  power: 685
+  attack: 671
+  defense: 685
+  health: 1387
 ...

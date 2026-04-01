@@ -1,20 +1,36 @@
+---
 name: Sumle
-class: Monk
 source: season3
 family: muspelheim
 speed: Slow
+class: Monk
 power: 662
 attack: 716
 defense: 629
 health: 1077
 skill: Magma Boulders
 effects:
-  - Deals 235% damage to all enemies. Each hit has 80% accuracy.
-  - The damage is increased by 70% per each dead enemy.
+- Deals 235% damage to all enemies. Each hit has 80% accuracy.
+- The damage is increased by 70% per each dead enemy.
 types:
-  - Hit All
+- Hit All
 image: https://i.imgur.com/yxQi63p.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Burly Fire Giant
+aetherPower: counterattack
+lb1:
+  power: 712
+  attack: 778
+  defense: 683
+  health: 1170
+lb2:
+  power: 812
+  attack: 902
+  defense: 792
+  health: 1357
 costume:
+  design: costume1
   bonuses: 3/3/6/1
   class: Druid
   power: 683
@@ -23,8 +39,23 @@ costume:
   health: 1161
   skill: Volcanic Boulders
   effects:
-    - Deals 365% damage to target and nearby enemies. Each hit has 85% accuracy.
-    - The damage is increased by 25% per each dead enemy.
+  - Deals 365% damage to target and nearby enemies. Each hit has 85% accuracy.
+  - The damage is increased by 25% per each dead enemy.
   types:
-    - Hit 3
+  - Hit 3
   image: https://i.imgur.com/BBcd7nx.jpg
+  dtReleased: "2022-07-04"
+  dtModified: ""
+  fancy_name: Unhallowed Fire Giant
+  aetherPower: ailment_immunity
+  lb1:
+    power: 735
+    attack: 784
+    defense: 713
+    health: 1262
+  lb2:
+    power: 839
+    attack: 909
+    defense: 827
+    health: 1464
+...

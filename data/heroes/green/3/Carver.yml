@@ -8,7 +8,7 @@ power: 444
 attack: 464
 defense: 448
 health: 653
-skill: Slash of the Four Blades
+skill: Slash of Four Blades
 effects:
 - Deals 125% damage to all enemies.
 - Reduces the mana of all enemies by 16%.
@@ -16,6 +16,20 @@ types:
 - Hit All
 - Mana Reduction All
 image: https://i.imgur.com/DfWafQ3.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: The Cutpurse
+aetherPower: attack_up
+lb1:
+  power: 494
+  attack: 525
+  defense: 508
+  health: 740
+lb2:
+  power: 595
+  attack: 649
+  defense: 627
+  health: 915
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +46,20 @@ costume:
   - Hit All
   - Mana Generation Debuff All
   image: https://i.imgur.com/xs9Nn7b.jpg
+  dtReleased: "2020-05-18"
+  dtModified: ""
+  fancy_name: The Cutthroat
+  aetherPower: special_boost
+  lb1:
+    power: 527
+    attack: 583
+    defense: 522
+    health: 803
+  lb2:
+    power: 636
+    attack: 721
+    defense: 645
+    health: 993
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -52,6 +80,20 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/rbDQHbY.jpg
+  dtReleased: "2024-06-28"
+  dtModified: ""
+  fancy_name: The Cutpurse Toon
+  aetherPower: attack_up
+  lb1:
+    power: 565
+    attack: 609
+    defense: 584
+    health: 888
+  lb2:
+    power: 684
+    attack: 752
+    defense: 722
+    health: 1098
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -72,4 +114,18 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/1k45GDi.jpg
+  dtReleased: "2025-07-16"
+  dtModified: ""
+  fancy_name: Glass Cutpurse
+  aetherPower: attack_up
+  lb1:
+    power: 580
+    attack: 709
+    defense: 488
+    health: 932
+  lb2:
+    power: 701
+    attack: 875
+    defense: 603
+    health: 1152
 ...

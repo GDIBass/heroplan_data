@@ -1,3 +1,4 @@
+---
 name: Fergus
 source: goblinvillage
 family: garrisonguard
@@ -9,19 +10,37 @@ defense: 1178
 health: 2187
 skill: Keep the Peace
 effects:
-  - Reduces the mana of the enemy with the most mana by 70%. Reduces the mana of all other enemies by 40%.
-  - All enemies get -30% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
-  - Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.
-  - The target hit by the Sword Guard Mega Minion recieves 414 Bleed damage over 3 turns. This effect spreads to nearby enemies.
+- Reduces the mana of the enemy with the most mana by 70%. Reduces the mana of all
+  other enemies by 40%.
+- All enemies get -30% mana generation for 6 turns. (Affects only mana generated from
+  matching tiles or mana gained by the defense team at the end of their turn.)
+- Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the
+  caster.
+- The target hit by the Sword Guard Mega Minion recieves 414 Bleed damage over 3 turns.
+  This effect spreads to nearby enemies.
 types:
-  - Mana reducer
-  - Mana Generation Debuff All
-  - Sword Guard Mega Minion
+- Mana Reducer All
+- Mana Generation Debuff All
+- Sword Guard Mega Minion
+- Spreading DoT Minion
 passives:
-  - >-
-    Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
-  - >-
-    Resist Mana reduction: This character has an innate resistance against mana Reduction.
-  - >-
-    Guard Rally: Every 4 turns, removes all Growth effects from all enemies.
+- 'Mana on Status Ailment Received: This character gains 5% mana when they receive
+  a status ailment or negative stack.'
+- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Guard Rally: Every 4 turns, removes all Growth effects from all enemies.'
 image: https://i.imgur.com/kA2zCy1.jpg
+dtReleased: "2024-12-09"
+dtModified: ""
+fancy_name: Unflappable Constable
+aetherPower: defense_up
+lb1:
+  power: 1211
+  attack: 1145
+  defense: 1269
+  health: 2357
+lb2:
+  power: 1367
+  attack: 1310
+  defense: 1452
+  health: 2697
+...

@@ -1,3 +1,4 @@
+---
 name: Sir Roostley
 source: springvale
 family: springvale
@@ -9,10 +10,62 @@ defense: 727
 health: 1347
 skill: Luminous Lance
 effects:
-  - Deals 310% damage to the target.
-  - The attack chains through all enemies that are adjacent to any hit enemy.
-  - The caster gets -20% attack for 3 turns. This effect can't be cleansed.
+- Deals 310% damage to the target.
+- The attack chains through all enemies that are adjacent to any hit enemy.
+- The caster gets -20% attack for 3 turns. This effect can't be cleansed.
 types:
+- Hit 1
+- Chain Hit
+- Defense Debuff Self
+image: https://i.imgur.com/YbdZndT.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Mighty Knight of Springvale
+aetherPower: special_boost
+lb1:
+  power: 841
+  attack: 839
+  defense: 783
+  health: 1451
+lb2:
+  power: 944
+  attack: 960
+  defense: 896
+  health: 1661
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Cleric
+  power: 1290
+  attack: 1368
+  defense: 1272
+  health: 2363
+  skill: Alchemist's Lance
+  effects:
+  - Deals 430% damage to the target.
+  - The attack chains through all the enemies who are adjacent to any hit enemy.
+  - The caster gets -20% defense attack for  3 turns. This effect can't be cleansed.
+  - Deals extra damage against Dark.
+  types:
   - Hit 1
   - Chain Hit
-image: https://i.imgur.com/YbdZndT.jpg
+  - Defense Debuff Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get  Stack (Max: 10): -5% defense.'
+  image: https://imgur.com/hVpuzbz.jpg
+  dtReleased: "2026-03-30"
+  dtModified: ""
+  fancy_name: Mighty Alchemist of Springvale
+  aetherPower: attack_up
+  lb1:
+    power: 1400
+    attack: 1306
+    defense: 1213
+    health: 2257
+  lb2:
+    power: 1600
+    attack: 1495
+    defense: 1388
+    health: 2583
+...

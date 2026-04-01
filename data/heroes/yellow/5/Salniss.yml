@@ -1,3 +1,4 @@
+---
 name: Salniss
 source: astral
 family: astraldwarfs
@@ -9,20 +10,37 @@ defense: 1184
 health: 1926
 skill: Double-barreled Starstick
 effects:
-  - Deals 500% damage to the target.
-  - The target gets silenced for 3 turns.
-  - Deals 500% damage to a random enemy. (This effect target the same enemy as the first hit enemy if there are no valid targets.)
-  - The target of the second hit receives +50% increased damage for 3 turns. The effect is increased by +10% for each Minion or Mega Minion owned by all enemies, up to +100% in total.
+- Deals 500% damage to the target.
+- The target gets silenced for 3 turns.
+- Deals 500% damage to a random enemy. (This effect target the same enemy as the first
+  hit enemy if there are no valid targets.)
+- The target of the second hit receives +50% increased damage for 3 turns. The effect
+  is increased by +10% for each Minion or Mega Minion owned by all enemies, up to
+  +100% in total.
 types:
-  - Hit 1
-  - Silence 1
-  - Hit Random 1
-  - Increased Received Damage 1
+- Hit 1
+- Silence 1
+- Hit Random 1
+- Increased Received Damage 1
 passives:
-  - >-
-    Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.
-  - >-
-    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
-  - >-
-    Perfect Accuracy: This character's Special Skill never misses its targets.
+- 'Superior Bypass Minions: All damage done by this character bypasses Minions and
+  Mega Minions.'
+- 'Superior Resist Negative Minion Effects: This character is immune to incoming negative
+  effects and damage from Minions and Mega Minions.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/iWjHJHA.jpg
+dtReleased: "2024-12-22"
+dtModified: "2026-03-20"
+fancy_name: Astral Dwarf Warden
+aetherPower: attack_up
+lb1:
+  power: 1237
+  attack: 1329
+  defense: 1276
+  health: 2075
+lb2:
+  power: 1398
+  attack: 1521
+  defense: 1460
+  health: 2374
+...

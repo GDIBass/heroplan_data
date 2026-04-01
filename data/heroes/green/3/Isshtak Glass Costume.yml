@@ -20,4 +20,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/IDaamkI.jpg
+dtReleased: "2025-09-07"
+dtModified: ""
+fancy_name: Glass Fighter
+aetherPower: special_boost
+lb1:
+  power: 585
+  attack: 574
+  defense: 539
+  health: 1204
+lb2:
+  power: 707
+  attack: 709
+  defense: 666
+  health: 1487
 ...

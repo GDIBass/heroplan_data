@@ -4,7 +4,7 @@ source: harvest
 family: vegetable
 speed: Fast
 class: Paladin
-power: 1234
+power: 1277
 attack: 1332
 defense: 1303
 health: 2294
@@ -19,8 +19,8 @@ effects:
   turn. A Fiend disappears after absorbing healing. Amount of healing required depends
   on the target''s max health. The evolution of the Fiends is delayed by 1 turn each
   time they absorb healing.)'
-- The caster and neaby allies get +44% defense, and a further 10% increase every time
-  they are hit during 3 turns, up to +94% defense.
+- The caster and nearby allies get +44% defense, and a further 10% increase every
+  time they are hit during 3 turns, up to +94% defense.
 types:
 - Hit 1
 - Hit Random
@@ -38,4 +38,18 @@ passives:
 - ' 2) Sprout Fiend: 75% attack, 30% health'
 - ' 3) Blossom Mega Fiend: 250% attack, 60% health'
 image: https://imgur.com/8NPRXYy.jpg
+dtReleased: "2025-09-02"
+dtModified: "2026-03-26"
+fancy_name: Beetroot Knight
+aetherPower: knights_endurance
+lb1:
+  power: 1367
+  attack: 1436
+  defense: 1405
+  health: 2473
+lb2:
+  power: 1546
+  attack: 1643
+  defense: 1607
+  health: 2829
 ...

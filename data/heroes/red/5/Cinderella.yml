@@ -27,4 +27,18 @@ passives:
 - 'Resist Damage from Status Effects: This character is immune to incoming damage
   from status effects and stacks.'
 image: https://i.imgur.com/8MZHUmV.jpg
+dtReleased: "2024-02-22"
+dtModified: ""
+fancy_name: Housemaid of Grimforest
+aetherPower: heal_increase
+lb1:
+  power: 1076
+  attack: 1112
+  defense: 1107
+  health: 1802
+lb2:
+  power: 1213
+  attack: 1272
+  defense: 1267
+  health: 2062
 ...

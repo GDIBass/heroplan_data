@@ -27,4 +27,18 @@ passives:
   a Forest Guardian Minion for themselves. Forest Guardian Minion inherits 40% HP
   and 40% atack from this character.'
 image: https://i.imgur.com/bmUsK1J.jpg
+dtReleased: "2022-04-01"
+dtModified: ""
+fancy_name: Forest God
+aetherPower: special_boost
+lb1:
+  power: 859
+  attack: 839
+  defense: 808
+  health: 1536
+lb2:
+  power: 965
+  attack: 960
+  defense: 924
+  health: 1757
 ...

@@ -24,4 +24,18 @@ passives:
 - 'Resist Health Steal Ailments: This hero is immune to status ailments that steal
   health.'
 image: https://i.imgur.com/VIzTbRE.jpg
+dtReleased: "2022-06-01"
+dtModified: ""
+fancy_name: Shadow Assassin
+aetherPower: attack_up
+lb1:
+  power: 861
+  attack: 848
+  defense: 810
+  health: 1522
+lb2:
+  power: 967
+  attack: 970
+  defense: 927
+  health: 1742
 ...

@@ -22,4 +22,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/93INKxC.jpg
+dtReleased: "2026-01-26"
+dtModified: ""
+fancy_name: Stylish Spearmaster
+aetherPower: special_boost
+lb1:
+  power: 1393
+  attack: 1515
+  defense: 1384
+  health: 2505
+lb2:
+  power: 1576
+  attack: 1733
+  defense: 1583
+  health: 2866
 ...

@@ -19,6 +19,20 @@ types:
 passives:
 - 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/xMJYpsy.jpg
+dtReleased: "2022-02-24"
+dtModified: ""
+fancy_name: Ettin Commander
+aetherPower: rage
+lb1:
+  power: 868
+  attack: 848
+  defense: 836
+  health: 1518
+lb2:
+  power: 975
+  attack: 970
+  defense: 957
+  health: 1737
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +56,18 @@ costume:
     Skill, all allies deal +70% increased normal attack and Special Skills damage
     against targets with boosted health for 4 turns.'
   image: https://i.imgur.com/m5PtQ2l.jpg
+  dtReleased: "2024-09-26"
+  dtModified: ""
+  fancy_name: Ettin Grillmaster
+  aetherPower: attack_up
+  lb1:
+    power: 1102
+    attack: 1099
+    defense: 1070
+    health: 2094
+  lb2:
+    power: 1243
+    attack: 1258
+    defense: 1225
+    health: 2396
 ...

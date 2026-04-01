@@ -24,4 +24,18 @@ passives:
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/PmKUK6y.jpg
+dtReleased: "2023-09-25"
+dtModified: ""
+fancy_name: Vampire Blood Warrior
+aetherPower: vampire
+lb1:
+  power: 996
+  attack: 999
+  defense: 954
+  health: 1820
+lb2:
+  power: 1122
+  attack: 1143
+  defense: 1092
+  health: 2082
 ...

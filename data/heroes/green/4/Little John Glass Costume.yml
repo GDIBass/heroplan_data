@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/8scCOJR.jpg
+dtReleased: "2025-05-10"
+dtModified: ""
+fancy_name: Mighty Vitrail
+aetherPower: defense_up
+lb1:
+  power: 815
+  attack: 936
+  defense: 766
+  health: 1345
+lb2:
+  power: 932
+  attack: 1086
+  defense: 888
+  health: 1560
 ...

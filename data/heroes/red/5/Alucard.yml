@@ -26,6 +26,20 @@ passives:
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/ZDIKUNx.jpg
+dtReleased: "2022-10-03"
+dtModified: ""
+fancy_name: Vampire Scion
+aetherPower: vampire
+lb1:
+  power: 908
+  attack: 919
+  defense: 865
+  health: 1567
+lb2:
+  power: 1021
+  attack: 1051
+  defense: 990
+  health: 1793
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +65,18 @@ costume:
     to steal the newest dispellable buff from a random enemy that has buffs. If no
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/ed8i62p.jpg
+  dtReleased: "2024-09-23"
+  dtModified: ""
+  fancy_name: Vampire Kingpin
+  aetherPower: revive
+  lb1:
+    power: 1311
+    attack: 1495
+    defense: 1165
+    health: 2405
+  lb2:
+    power: 1481
+    attack: 1710
+    defense: 1333
+    health: 2751
 ...

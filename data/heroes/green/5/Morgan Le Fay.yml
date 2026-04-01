@@ -1,3 +1,4 @@
+---
 name: Morgan Le Fay
 source: avalon
 family: avalon
@@ -9,8 +10,25 @@ defense: 721
 health: 1343
 skill: Devourer of Vitality
 effects:
-  - The caster drains 772 HP from the target over 4 turns. This effect can't be cleansed, but gets removed if this caster dies
-  - The caster and nearby allies gets +94% defense against Fire for 4 turns.
+- The caster drains 772 HP from the target over 4 turns. This effect can't be cleansed,
+  but gets removed if this caster dies
+- The caster and nearby allies gets +94% defense against Fire for 4 turns.
 types:
-  - Health Drain
+- Health Drain 1
+- Elemental Defense Buff 3
 image: https://i.imgur.com/JIPoRD4.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Enchantress of Avalon
+aetherPower: bulwark
+lb1:
+  power: 815
+  attack: 772
+  defense: 777
+  health: 1447
+lb2:
+  power: 914
+  attack: 883
+  defense: 889
+  health: 1656
+...

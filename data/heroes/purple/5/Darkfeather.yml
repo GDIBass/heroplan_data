@@ -26,4 +26,18 @@ passives:
 - ' * Deals 90% damage to all enemies.'
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/9UklXhJ.jpg
+dtReleased: "2023-09-18"
+dtModified: ""
+fancy_name: Adept Eagle Trainer
+aetherPower: defense_up
+lb1:
+  power: 1004
+  attack: 976
+  defense: 1016
+  health: 1811
+lb2:
+  power: 1131
+  attack: 1117
+  defense: 1163
+  health: 2072
 ...

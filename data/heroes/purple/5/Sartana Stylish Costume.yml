@@ -22,4 +22,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/ViZ7Y7x.jpg
+dtReleased: "2026-01-07"
+dtModified: ""
+fancy_name: Stylish Executioner
+aetherPower: dodge
+lb1:
+  power: 1393
+  attack: 1412
+  defense: 1379
+  health: 2772
+lb2:
+  power: 1576
+  attack: 1616
+  defense: 1578
+  health: 3171
 ...

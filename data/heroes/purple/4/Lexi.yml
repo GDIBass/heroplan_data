@@ -1,35 +1,47 @@
+---
 name: Lexi
-class: Monk
-speed: Average
 source: superelemental
 family: superelemental
+speed: Average
+class: Monk
 power: 692
 attack: 677
 defense: 714
 health: 1219
 skill: Energy Conjunction
 effects:
-  - >-
-    The caster and nearby allies become Soul onnected for received damage with 
-    each other for 4 turns. Soul Connected allies share received damage.
-  - >-
-    The target and nearby enemies become Soul Connected for 4 turns.
-    Soul Cibbected enemies share received damage.
-  - The caster and nearby allies get +94% defense against Holy for 4 turns.
-  - The target and nearby enemies get -44% defense against Dark for 4 turns.
+- The caster and nearby allies become Soul onnected for received damage with  each
+  other for 4 turns. Soul Connected allies share received damage.
+- The target and nearby enemies become Soul Connected for 4 turns. Soul Cibbected
+  enemies share received damage.
+- The caster and nearby allies get +94% defense against Holy for 4 turns.
+- The target and nearby enemies get -44% defense against Dark for 4 turns.
 types:
-  - Ally Damage Share 3
-  - Enemy Damage Share 3
-  - Elemental Defense Buff
-  - Elemental Defense Debuff
+- Ally Damage Share 3
+- Enemy Damage Share 3
+- Elemental Defense Buff
+- Elemental Defense Debuff
 passives:
-  - 'Troop Mastery:'
-  - >-
-    Passive Skill as attacking character: This hero's Troops deal extra 
-    elemental damage against weaker element.
-  - ' - Dealt extra elemental damage: +100%'
-  - >-
-    Passive Skill as defending character: This hero receives less elemental 
-    damage from Troops of stronger element.
-  - ' - Received elemental damage: -10%'
+- 'Troop Mastery:'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
+  damage against weaker element.'
+- ' - Dealt extra elemental damage: +100%'
+- 'Passive Skill as defending character: This hero receives less elemental  damage
+  from Troops of stronger element.'
+- ' - Received elemental damage: -10%'
 image: https://i.imgur.com/Jtfysu9.jpg
+dtReleased: "2023-11-06"
+dtModified: ""
+fancy_name: Artisan of Elemental Energy
+aetherPower: damage_reduction
+lb1:
+  power: 745
+  attack: 736
+  defense: 775
+  health: 1325
+lb2:
+  power: 850
+  attack: 853
+  defense: 899
+  health: 1536
+...

@@ -1,3 +1,4 @@
+---
 name: Gadeirus
 source: season2
 family: atlantis
@@ -9,16 +10,31 @@ defense: 690
 health: 1096
 skill: Empowering Bash
 effects:
-  - Deals 165% damage to the target and minor damage to nearby enemies.
-  - The caster and nearby allies get +48% attack for 4 turns.
-  - The caster and nearby allies regenerate 617 HP over 4 turns.
+- Deals 165% damage to the target and minor damage to nearby enemies.
+- The caster and nearby allies get +48% attack for 4 turns.
+- The caster and nearby allies regenerate 617 HP over 4 turns.
 types:
-  - Hit 3
-  - Attack Buff 3
-  - HoT 3
+- Hit 3
+- Attack Buff 3
+- HoT 3
 image: https://i.imgur.com/dGtM0Hw.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Watcher of Atlantis
+aetherPower: fiend_resist
+lb1:
+  power: 696
+  attack: 671
+  defense: 750
+  health: 1191
+lb2:
+  power: 794
+  attack: 779
+  defense: 870
+  health: 1381
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Paladin
   power: 668
   attack: 612
@@ -26,11 +42,27 @@ costume:
   health: 1195
   skill: Strengthening Smash
   effects:
-    - Deals 130% damage to all enemies.
-    - All allies get +48% attack for 4 turns.
-    - All allies regenerate 480 boosted health over 4 turns. Boosted health can exceed max HP.
+  - Deals 130% damage to all enemies.
+  - All allies get +48% attack for 4 turns.
+  - All allies regenerate 480 boosted health over 4 turns. Boosted health can exceed
+    max HP.
   types:
-    - Hit All
-    - Attack Buff
-    - Boosted HoT
+  - Hit All
+  - Attack Buff All
+  - Boosted HoT All
   image: https://i.imgur.com/MAOY5JJ.jpg
+  dtReleased: "2022-05-02"
+  dtModified: "2026-03-20"
+  fancy_name: Atlantean Sentinel
+  aetherPower: heal_increase
+  lb1:
+    power: 719
+    attack: 665
+    defense: 784
+    health: 1299
+  lb2:
+    power: 820
+    attack: 772
+    defense: 909
+    health: 1506
+...

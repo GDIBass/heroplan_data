@@ -1,6 +1,7 @@
+---
 name: Neith
 source: hotm
-family: 2019
+family: "2019"
 speed: Average
 class: Ranger
 power: 770
@@ -9,15 +10,32 @@ defense: 737
 health: 1299
 skill: Sickle of Eradication
 effects:
-  - Deals 200% damage to all enemies
-  - Reduces the mana of all enemies by 20%.
-  - All enemies get -35% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills
-  - Elemental link gives +4% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled.
+- Deals 200% damage to all enemies
+- Reduces the mana of all enemies by 20%.
+- All enemies get -35% accuracy for 4 turns. Chance to miss also applies to offensive
+  Special Skills
+- Elemental link gives +4% mana generation for all Holy allies for 4 turns. This effect
+  cannot be dispelled.
 types:
-  - Hit All
-  - Mana Reduction
-  - Blind
+- Hit All
+- Mana Reduction All
+- Blind All
 passives:
-  - >-
-    Resist Mana Generation Stopping: This character has an innate resistance against status ailments that Stop Mana Generation.
+- 'Resist Mana Generation Stopping: This character is immune to status ailments that
+  stop mana generation.'
 image: https://i.imgur.com/5p5UjK8.jpg
+dtReleased: "2019-11-01"
+dtModified: ""
+fancy_name: Opener of the Ways
+aetherPower: attack_up
+lb1:
+  power: 820
+  attack: 792
+  defense: 794
+  health: 1400
+lb2:
+  power: 920
+  attack: 906
+  defense: 909
+  health: 1602
+...

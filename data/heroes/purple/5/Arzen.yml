@@ -34,4 +34,18 @@ passives:
 - ' * The Killer Bot Minion recovers 5% health for its owner at the end of each turn.'
 - ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
 image: https://imgur.com/2G4QZv9.jpg
+dtReleased: "2026-02-11"
+dtModified: ""
+fancy_name: Vicious Overseer Construct
+aetherPower: attack_up
+lb1:
+  power: 1369
+  attack: 1449
+  defense: 1429
+  health: 2406
+lb2:
+  power: 1548
+  attack: 1658
+  defense: 1635
+  health: 2753
 ...

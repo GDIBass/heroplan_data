@@ -14,7 +14,11 @@ effects:
 - The target and nearby enemies get -39% accuracy for 4 turns. The effect duration
   resets if the target is healed. (Chance to miss applies to offensive   Special Skills.)
 - All allies get Sticky Surface for 4 turns. This effect can't be dispelled.
-- 'Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)'
+- 'Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking
+  enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface
+  is activated when any damage is received from an enemy. Each character with Sticky
+  Surface can only steal one status effect buff or Growth effect per turn from normal
+  attacks.)'
 types:
 - Hit 3
 - Blind 3
@@ -25,4 +29,18 @@ passives:
 - 'Slime Minion Split: If this character loses more than 25% of max health at once,
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://imgur.com/JyJNMmV.jpg
+dtReleased: "2026-01-31"
+dtModified: ""
+fancy_name: Shadow Stalker Slime
+aetherPower: counterattack
+lb1:
+  power: 1365
+  attack: 1449
+  defense: 1391
+  health: 2457
+lb2:
+  power: 1544
+  attack: 1658
+  defense: 1592
+  health: 2811
 ...

@@ -1,3 +1,4 @@
+---
 name: Cillian
 source: slayers
 family: slayer
@@ -9,15 +10,32 @@ defense: 682
 health: 1292
 skill: Reanimated Spite
 effects:
-  - Deals 315% damage to the target and nearby enemies.
-  - If the caster dies during the next 4 turns they are resurrected in the beginning of their next turn with 27% health. All status effects and stacks are removed when the caster dies.
-  - 'Stack (Max: 10): The caster gets +5% mana generation.'
-  - 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
+- Deals 315% damage to the target and nearby enemies.
+- If the caster dies during the next 4 turns they are resurrected in the beginning
+  of their next turn with 27% health. All status effects and stacks are removed when
+  the caster dies.
+- 'Stack (Max: 10): The caster gets +5% mana generation.'
+- 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
 types:
-  - Hit 3
-  - Resurrect
-  - Stack
+- Hit 3
+- Resurrect
+- Stack
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character has innate resistance against
+  incoming damage from status effects.'
 image: https://i.imgur.com/ema4TPc.jpg
+dtReleased: "2021-08-05"
+dtModified: ""
+fancy_name: The Undying
+aetherPower: attack_up
+lb1:
+  power: 728
+  attack: 685
+  defense: 741
+  health: 1403
+lb2:
+  power: 831
+  attack: 795
+  defense: 859
+  health: 1627
+...

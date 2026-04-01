@@ -1,3 +1,4 @@
+---
 name: Vanya
 source: goblinvillage
 family: garrisonguard
@@ -9,17 +10,33 @@ defense: 1106
 health: 1759
 skill: Sense of Wonder
 effects:
-  - Recovers 54% health of all allies.
-  - Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.
-  - The Shield Guard Mega Minion cleanses the latest cleansable status ailments from all allies each turn. This does not trigger secondary effects.
+- Recovers 54% health of all allies.
+- Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the
+  caster.
+- The Shield Guard Mega Minion cleanses the latest cleansable status ailments from
+  all allies each turn. This does not trigger secondary effects.
 types:
-  - Heal All
-  - Shield Guard Mega Minion
+- Heal All
+- Shield Guard Mega Minion
+- Clean all Minion
 passives:
-  - >-
-    Resist Mana reduction: This character has an innate resistance against mana Reduction.
-  - >-
-    Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
-  - >-
-    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Mana on Status Ailment Received: This character gains 5% mana when they receive
+  a status ailment or negative stack.'
+- 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/1zUxxx9.jpg
+dtReleased: "2024-04-15"
+dtModified: ""
+fancy_name: The Steadfast Sapper
+aetherPower: regen
+lb1:
+  power: 1148
+  attack: 1214
+  defense: 1192
+  health: 1895
+lb2:
+  power: 1296
+  attack: 1389
+  defense: 1363
+  health: 2169
+...

@@ -15,11 +15,26 @@ effects:
 - If any ally except the caster is defeated in 5 turns, all enemies receive 400 damage.
 - Casting this Special Skill inflicts 50 Insanity on the caster.
 types:
-- Reviver
-- Defense buff
-- Insanity
+- Revive All with Insanity
+- SS Defense Buff All
+- Damage All if caster is defeated
+- Insanity Self
 passives:
 - 'Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/okcHBcF.jpg
+dtReleased: "2024-05-01"
+dtModified: "2026-03-22"
+fancy_name: Acolyte of the Old Ones
+aetherPower: ailment_immunity
+lb1:
+  power: 1208
+  attack: 1178
+  defense: 1245
+  health: 2302
+lb2:
+  power: 1364
+  attack: 1348
+  defense: 1424
+  health: 2633
 ...

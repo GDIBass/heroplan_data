@@ -16,7 +16,7 @@ effects:
 - Deals extra damage agianst Dark.
 types:
 - Hit 1
-- Hit Dark
+- Hit All Dark
 - Mana Generation Debuff All
 passives:
 - 'Troop Mastery:'
@@ -27,4 +27,18 @@ passives:
   from Troops of stronger element.'
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/7BkCCl9.jpg
+dtReleased: "2023-12-04"
+dtModified: ""
+fancy_name: Warlord of the Unwavering Orcs
+aetherPower: attack_up
+lb1:
+  power: 1044
+  attack: 1078
+  defense: 1041
+  health: 1789
+lb2:
+  power: 1176
+  attack: 1234
+  defense: 1191
+  health: 2047
 ...

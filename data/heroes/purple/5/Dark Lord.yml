@@ -1,3 +1,4 @@
+---
 name: Dark Lord
 source: villains
 family: villains
@@ -9,16 +10,33 @@ defense: 749
 health: 1357
 skill: Doomstrike
 effects:
-  - Deals 550% damage to the target.
-  - Reduces the duration of the target and nearby enemies buffs by 1 turn.
-  - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 144 Poison damage and lowers the target's mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.
+- Deals 550% damage to the target.
+- Reduces the duration of the target and nearby enemies buffs by 1 turn.
+- The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive
+  Poison deals 144 Poison damage and lowers the target's mana generation by -13% each
+  turn. Deals extra damage against heroes with Minions or a Mega Minion.
 types:
-  - Hit 1
-  - Reduces buffs duration 3
-  - Dot 3
-  - Mana Generation Debuff 3
+- Hit 1
+- Reduces buffs duration 3
+- DoT 3
+- Mana Generation Debuff 3
 image: https://i.imgur.com/ja50n6G.jpg
+dtReleased: "2021-02-11"
+dtModified: ""
+fancy_name: Bane of Karemdol
+aetherPower: attack_up
+lb1:
+  power: 857
+  attack: 863
+  defense: 808
+  health: 1462
+lb2:
+  power: 963
+  attack: 988
+  defense: 924
+  health: 1673
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 1205
@@ -27,15 +45,37 @@ costume:
   health: 2164
   skill: Pulsarstrike
   effects:
-    - Deals 560% damage to the target.
-    - Reduces the duration of the target and nearby enemies' buffs by 2 turns. (The duration reduction affects both dispellable and undispellable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)
-    - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 320 Poison damage and lowers the target's mana generation by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+  - Deals 560% damage to the target.
+  - Reduces the duration of the target and nearby enemies' buffs by 2 turns. (The
+    duration reduction affects both dispellable and undispellable effects. If the
+    duration of any effect is reduced to zero, the effect is considered as having
+    expired naturally.)
+  - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive
+    Poison deals 320 Poison damage and lowers the target's mana generation by -15%
+    each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects
+    only mana generated from matching tiles or mana gained by the defense team at
+    the end of their turn.)
   types:
-    - Hit 1
-    - Reduces buffs duration 3
-    - DoT 3
-    - Mana Generation Debuff 3
+  - Hit 1
+  - Reduces Buffs Duration 3
+  - DoT 3
+  - Mana Generation Debuff 3
   passives:
-    - >-
-      Curse on Special Skill: When this character casts their Special Skill, all enemies receive 473 Curse damage over 4 turns, starting low and increasing every turn.
+  - 'Curse on Special Skill: When this character casts their Special Skill, all enemies
+    receive 473 Curse damage over 4 turns, starting low and increasing every turn.'
   image: https://i.imgur.com/Mz4axni.jpg
+  dtReleased: "2024-11-14"
+  dtModified: ""
+  fancy_name: Astronomer of Karemdol
+  aetherPower: defense_up
+  lb1:
+    power: 1290
+    attack: 1439
+    defense: 1195
+    health: 2334
+  lb2:
+    power: 1457
+    attack: 1646
+    defense: 1367
+    health: 2670
+...

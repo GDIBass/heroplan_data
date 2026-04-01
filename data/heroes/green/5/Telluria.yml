@@ -23,6 +23,21 @@ types:
 - HoT All
 - Mana Generation Debuff All
 passives:
-- 'Resist Minion Removal: The Hero has innate resistance against Minion Removal.'
+- 'Resist Minion Removal: This character is immune to effects that would remove Minions
+  from them.'
 image: https://i.imgur.com/xKwfgME.jpg
+dtReleased: "2020-03-01"
+dtModified: ""
+fancy_name: Forest God
+aetherPower: bulwark
+lb1:
+  power: 822
+  attack: 661
+  defense: 896
+  health: 1536
+lb2:
+  power: 922
+  attack: 756
+  defense: 1026
+  health: 1757
 ...

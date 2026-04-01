@@ -26,4 +26,18 @@ passives:
   from Troops of stronger element.'
 - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/Hq9OxQ2.jpg
+dtReleased: "2024-03-25"
+dtModified: ""
+fancy_name: Multidimensional Hazard
+aetherPower: attack_up
+lb1:
+  power: 1094
+  attack: 1158
+  defense: 1087
+  health: 1853
+lb2:
+  power: 1233
+  attack: 1325
+  defense: 1244
+  health: 2120
 ...

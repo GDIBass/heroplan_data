@@ -1,24 +1,40 @@
+---
 name: Fosco
 source: carnivalofgods
 family: maskedgod
-class: Sorcerer
 speed: Slow
+class: Sorcerer
 power: 689
 attack: 673
 defense: 697
 health: 1238
 skill: Potions of Havoc and Healing
 effects:
-  - Destroys all Minions from all enemies.
-  - Dispels buffs from all enemies.
-  - All allies regenerate 540 HP over 3 turns.
+- Destroys all Minions from all enemies.
+- Dispels buffs from all enemies.
+- All allies regenerate 540 HP over 3 turns.
 types:
-  - Minion Destroyer All
-  - Dispeller All
-  - Healer
+- Minion Destroyer All
+- Dispeller All
+- Healer
 passives:
-  - >-
-    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
-  - >-
-    Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. 
+- 'Resist Defense Ailments: This character has innate resistance against status ailments
+  that affect defense. Applies also to status ailments that affect elemental defense.'
+- 'Cleanse on Minion Death: This character is cleansed of status ailments when Minion
+  owned by them is destroyed. '
 image: https://i.imgur.com/WV9k1vH.jpg
+dtReleased: "2023-07-13"
+dtModified: ""
+fancy_name: Follower of Februus
+aetherPower: regen
+lb1:
+  power: 741
+  attack: 731
+  defense: 757
+  health: 1346
+lb2:
+  power: 846
+  attack: 848
+  defense: 878
+  health: 1560
+...

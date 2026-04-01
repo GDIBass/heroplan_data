@@ -26,4 +26,18 @@ passives:
   a status effect buff that affects defense. This effect can activate only once per
   turn.'
 image: https://i.imgur.com/oxh0XPo.jpg
+dtReleased: "2024-02-01"
+dtModified: ""
+fancy_name: Relentless Tracker
+aetherPower: attack_up
+lb1:
+  power: 1025
+  attack: 1047
+  defense: 990
+  health: 1838
+lb2:
+  power: 1155
+  attack: 1198
+  defense: 1132
+  health: 2103
 ...

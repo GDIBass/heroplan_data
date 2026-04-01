@@ -31,4 +31,18 @@ passives:
 - 'Graceful Dancer: If any allies are Dancing when this character casts their Special
   Skill, boosts the health of all allies by 400. Boosted health can exceed max HP.'
 image: https://imgur.com/B8zoxwe.jpg
+dtReleased: "2026-02-17"
+dtModified: ""
+fancy_name: The Next Generation of Dragon Dancers
+aetherPower: special_armor
+lb1:
+  power: 605
+  attack: 591
+  defense: 616
+  health: 1148
+lb2:
+  power: 732
+  attack: 730
+  defense: 761
+  health: 1419
 ...

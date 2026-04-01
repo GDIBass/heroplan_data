@@ -27,4 +27,18 @@ passives:
 - 'Boosted Health From Dead Minion: This character recovers 50 boosted health when
   a minion owned by them is destroyed.'
 image: https://i.imgur.com/YdTKSoW.jpg
+dtReleased: "2023-12-01"
+dtModified: ""
+fancy_name: Queen of Eternal Spring
+aetherPower: defense_up
+lb1:
+  power: 959
+  attack: 896
+  defense: 987
+  health: 1749
+lb2:
+  power: 1080
+  attack: 1026
+  defense: 1130
+  health: 2001
 ...

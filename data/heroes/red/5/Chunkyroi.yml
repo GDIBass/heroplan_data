@@ -1,3 +1,4 @@
+---
 name: Chunkyroi
 source: moth
 family: moth
@@ -9,16 +10,34 @@ defense: 1299
 health: 2037
 skill: Prosperity for Domain
 effects:
-  - Recovers 45% health for all allies.
-  - For the next 4 turns, this character recovers 350 boosted health to all allies each time any other ally casts their Special Skill. (Each character an trigger this effect once per turn.)
-  - All allies get +30% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
-  - Cleanses status ailments from all allies.
+- Recovers 45% health for all allies.
+- For the next 4 turns, this character recovers 350 boosted health to all allies each
+  time any other ally casts their Special Skill. (Each character an trigger this effect
+  once per turn.)
+- All allies get +30% mana generation for 4 turns. (Affects only mana generated from
+  matching tiles or mana gained by the defense team at the end of their turn.)
+- Cleanses status ailments from all allies.
 types:
-  - Healer All
-  - Boost Health All on Allies SS
-  - Mana Generation Buff All
-  - Cleanser All
+- Healer All
+- Boost Health All on Allies SS
+- Mana Generation Buff All
+- Cleanser All
 passives:
-  - >- 
-    Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.
+- 'Dodge Special Damage: This character has a 15% chance to dodge Special Skills that
+  deal damage.'
 image: https://i.imgur.com/APgO5NR.jpg
+dtReleased: "2025-01-23"
+dtModified: ""
+fancy_name: Marquis Moth
+aetherPower: damage_reduction
+lb1:
+  power: 1260
+  attack: 1247
+  defense: 1400
+  health: 2195
+lb2:
+  power: 1424
+  attack: 1427
+  defense: 1602
+  health: 2512
+...

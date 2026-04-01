@@ -1,6 +1,7 @@
+---
 name: Seshat
 source: hotm
-family: 2019
+family: "2019"
 speed: Fast
 class: Ranger
 power: 770
@@ -9,38 +10,72 @@ defense: 683
 health: 1345
 skill: Conjuration Arrow
 effects:
-  - Deals 450% damage to the target.
-  - Summon a Replicator Minion with 20% HP and 17% attack inherited from the caster. The minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.
-  - Dispels buffs from the target and nearby enemies.
-  - Elemental Link gives +4% mana generation for all Dark allies  for 4 turns. This effect can't be cleansed
+- Deals 450% damage to the target.
+- Summon a Replicator Minion with 20% HP and 17% attack inherited from the caster.
+  The minion generates a clone of itself every 3 turns. Cloned minions inherit the
+  same amount of HP and attack as the original minion.
+- Dispels buffs from the target and nearby enemies.
+- Elemental Link gives +4% mana generation for all Dark allies  for 4 turns. This
+  effect can't be cleansed
 types:
-  - Hit 1
-  - Summoner
-  - Dispeller
+- Hit 1
+- Replicator Minion Summoner Self
+- Dispeller 3
 passives:
-  - >-
-    Resist mana reduction: This character has innate resistance against mana reduction.
+- 'Resist mana reduction: This character is immune to mana reduction.'
 image: https://i.imgur.com/FioNeBy.jpg
+dtReleased: "2019-07-01"
+dtModified: ""
+fancy_name: Reanimated Huntress
+aetherPower: attack_up
+lb1:
+  power: 820
+  attack: 819
+  defense: 737
+  health: 1449
+lb2:
+  power: 921
+  attack: 937
+  defense: 843
+  health: 1658
 costume:
-  class: Barbarian
+  design: costume1
   bonuses: 5/5/10/5
+  class: Barbarian
   power: 979
   attack: 980
   defense: 853
   health: 1947
   skill: Exorcizing Arrow
   effects:
-    - Dispels buffs from the target and nearby enemies.
-    - Deals 420% damage to the target.
-    - Summons a Replicator Minion with 20% HP and 17% attack inheried from the caster. The Replicator Minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.
-    - Element Link gives +4% mana generation for all Dark allies for 4 turns. This effect can't be dispelled.
+  - Dispels buffs from the target and nearby enemies.
+  - Deals 420% damage to the target.
+  - Summons a Replicator Minion with 20% HP and 17% attack inheried from the caster.
+    The Replicator Minion generates a clone of itself every 3 turns. Cloned minions
+    inherit the same amount of HP and attack as the original minion.
+  - Element Link gives +4% mana generation for all Dark allies for 4 turns. This effect
+    can't be dispelled.
   types:
-    - Dispeller
-    - Hit 1
-    - Summoner
+  - Dispeller 3
+  - Hit 1
+  - Replicator Minion Summoner Self
   passives:
-    - >-
-      Resist mana reduction: This character has innate resistance against mana reduction.
-    - >-
-      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
+  - 'Resist mana reduction: This character is immune to mana reduction.'
+  - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
+    the newest status ailment from all allies.'
   image: https://i.imgur.com/qNMuMVA.jpg
+  dtReleased: "2021-10-20"
+  dtModified: ""
+  fancy_name: High Revenant Archer
+  aetherPower: dodge
+  lb1:
+    power: 1046
+    attack: 1057
+    defense: 920
+    health: 2098
+  lb2:
+    power: 1178
+    attack: 1209
+    defense: 1052
+    health: 2401
+...

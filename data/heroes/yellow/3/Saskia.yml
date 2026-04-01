@@ -1,3 +1,4 @@
+---
 name: Saskia
 source: wilderness
 family: woodlandfaun
@@ -9,18 +10,34 @@ defense: 476
 health: 790
 skill: Rejuvenating Leap
 effects:
-  - Recovering 26% health for all allies.
-  - >-
-    Enhanced Dodge: All allies get +45% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 1 time.
-  - After the Enhanced Effect ends or is removed or replaced, the ally regenerates 640 HP over 4 turns.
+- Recovering 26% health for all allies.
+- 'Enhanced Dodge: All allies get +45% chance to dodge Special Skills that deal damage.
+  This effect lasts until the ally succesfully dodges 1 time.'
+- After the Enhanced Effect ends or is removed or replaced, the ally regenerates 640
+  HP over 4 turns.
 types:
-  - Heal All
-  - Enhanced Dodge
+- Heal All
+- Enhanced Dodge Chance All
+- HoT All
 passives:
-  - >-
-    Minion Blind: All enemies' Minions have -60% accuracy. All enemies' Mega Minions have -50% accuracy.
-  - >-
-    Resist Insanity: This character has innate resistance against Insanity.
-  - >-
-    Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.
+- 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
+  have -50% accuracy.'
+- 'Resist Insanity: This character is immune to Insanity.'
+- 'Resist Defense Reduction: This character is immune to status ailments, stacks and
+  Wither effects that affect defense.'
 image: https://i.imgur.com/GNLbvP6.jpg
+dtReleased: "2024-08-31"
+dtModified: "2026-03-20"
+fancy_name: Fleet-Footed Faun Dancer
+aetherPower: defense_up
+lb1:
+  power: 553
+  attack: 606
+  defense: 539
+  health: 896
+lb2:
+  power: 668
+  attack: 749
+  defense: 666
+  health: 1107
+...

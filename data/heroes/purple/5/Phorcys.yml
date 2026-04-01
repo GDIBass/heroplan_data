@@ -35,6 +35,20 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/6o3KSeL.jpg
+dtReleased: "2023-06-07"
+dtModified: "2026-03-22"
+fancy_name: Primordial God of the Depths
+aetherPower: taunt
+lb1:
+  power: 966
+  attack: 994
+  defense: 890
+  health: 1749
+lb2:
+  power: 1088
+  attack: 1137
+  defense: 1018
+  health: 2001
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -68,6 +82,20 @@ costume:
     character casts their Special Skill'
   - ' * Deals 80% damage to all enemies.'
   - ' * All allies get +21% critical chance for 2 turns.'
-  - 'Resist Insanity: This character has innate resistance against Insanity.'
+  - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/FXIdE4S.jpg
+  dtReleased: "2024-05-23"
+  dtModified: "2026-03-22"
+  fancy_name: Warrior God of the Depths
+  aetherPower: revive
+  lb1:
+    power: 1202
+    attack: 1295
+    defense: 1133
+    health: 2196
+  lb2:
+    power: 1358
+    attack: 1482
+    defense: 1297
+    health: 2513
 ...

@@ -28,4 +28,18 @@ types:
 - DoT All
 - Blind All
 image: https://i.imgur.com/lHtD195.jpg
+dtReleased: "2023-07-26"
+dtModified: ""
+fancy_name: Ninja of Fading Shadows
+aetherPower: ailment_immunity
+lb1:
+  power: 543
+  attack: 612
+  defense: 545
+  health: 795
+lb2:
+  power: 655
+  attack: 756
+  defense: 674
+  health: 983
 ...

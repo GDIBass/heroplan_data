@@ -1,3 +1,4 @@
+---
 name: Mnesseus
 source: season2
 family: atlantis
@@ -9,14 +10,29 @@ defense: 431
 health: 691
 skill: Atlantean Spear
 effects:
-  - Deals 320% damage to the target.
-  - Dispels buffs from all enemies.
+- Deals 320% damage to the target.
+- Dispels buffs from all enemies.
 types:
-  - Hit 1
-  - Dispeller
+- Hit 1
+- Dispeller All
 image: https://i.imgur.com/psLsMhk.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Merman of Atlantis
+aetherPower: attack_up
+lb1:
+  power: 499
+  attack: 537
+  defense: 488
+  health: 784
+lb2:
+  power: 601
+  attack: 664
+  defense: 603
+  health: 968
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Paladin
   power: 462
   attack: 500
@@ -24,9 +40,24 @@ costume:
   health: 716
   skill: Atlantean Charge
   effects:
-    - Deals 320% damage to the target.
-    - Cleanses status ailments from all allies.
+  - Deals 320% damage to the target.
+  - Cleanses status ailments from all allies.
   types:
-    - Hit 1
-    - Cleanser All
+  - Hit 1
+  - Cleanser All
   image: https://i.imgur.com/vAbeKFm.jpg
+  dtReleased: "2022-05-02"
+  dtModified: "2026-03-20"
+  fancy_name: Lieutenant of Atlantis
+  aetherPower: defense_up
+  lb1:
+    power: 516
+    attack: 568
+    defense: 497
+    health: 812
+  lb2:
+    power: 622
+    attack: 701
+    defense: 614
+    health: 1003
+...

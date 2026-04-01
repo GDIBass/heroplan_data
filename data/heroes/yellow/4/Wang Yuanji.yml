@@ -1,3 +1,4 @@
+---
 name: Wang Yuanji
 source: kingdom
 family: kingdom
@@ -9,13 +10,28 @@ defense: 709
 health: 1170
 skill: Noble's Empathy
 effects:
-  - Destroys all Fiends from all allies.
-  - Boosts health of all allies by 625. Boosted health can exceed max HP.
+- Destroys all Fiends from all allies and damages all Mega Fiends.
+- Boosts health of all allies by 625. Boosted health can exceed max HP.
 types:
-  - Fiend Destroyer All
-  - Health Boost
+- Fiend Destroyer All
+- Health Boost All
 image: https://i.imgur.com/SwBxlgF.jpg
+dtReleased: "2022-03-14"
+dtModified: "2026-03-20"
+fancy_name: Gentle Noblewoman
+aetherPower: heal_increase
+lb1:
+  power: 735
+  attack: 734
+  defense: 771
+  health: 1272
+lb2:
+  power: 839
+  attack: 851
+  defense: 894
+  health: 1475
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 720
@@ -24,16 +40,31 @@ costume:
   health: 1256
   skill: Calligrapher's Empathy
   effects:
-    - Destroys all Fiends from all allies. This effect damages Mega Fiends.
-    - Boosts health of all allies by 520. Boosted health can exceed max HP.
-    - All allies get +30% defense for 5 turns.
+  - Destroys all Fiends from all allies and damages all Mega Fiends.
+  - Boosts health of all allies by 520. Boosted health can exceed max HP.
+  - All allies get +30% defense for 5 turns.
   types:
-    - Fiend Destroyer All
-    - Health Boost All
-    - Defense Buff All
+  - Fiend Destroyer All
+  - Health Boost All
+  - Defense Buff All
   passives:
-    - 'Unstoppable Minions:'
-    - ' * Resistance against Minion removal.'
-    - " * Can't be prevented from receiving Minions."
-    - " * Minion attack and abilities can't be disabled."
+  - 'Unstoppable Minions:'
+  - ' * Immune to effects that remove Minions.'
+  - ' * Can''t be prevented from receiving Minions.'
+  - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/EPCCR66.jpg
+  dtReleased: "2025-01-29"
+  dtModified: "2026-03-20"
+  fancy_name: Gentle Calligrapher
+  aetherPower: regen
+  lb1:
+    power: 775
+    attack: 753
+    defense: 841
+    health: 1365
+  lb2:
+    power: 885
+    attack: 873
+    defense: 976
+    health: 1583
+...

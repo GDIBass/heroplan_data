@@ -14,6 +14,20 @@ effects:
 types:
 - Hit 1
 image: https://i.imgur.com/OSefjqG.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Dread Magician
+aetherPower: special_boost
+lb1:
+  power: 493
+  attack: 547
+  defense: 478
+  health: 734
+lb2:
+  power: 594
+  attack: 676
+  defense: 591
+  health: 907
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -30,6 +44,20 @@ costume:
   - Hit 1
   - DoT 1
   image: https://i.imgur.com/PBzwskK.jpg
+  dtReleased: "2020-05-18"
+  dtModified: ""
+  fancy_name: Undead Magician
+  aetherPower: attack_up
+  lb1:
+    power: 527
+    attack: 604
+    defense: 493
+    health: 808
+  lb2:
+    power: 636
+    attack: 747
+    defense: 609
+    health: 998
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -48,6 +76,20 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/TVzeF5e.jpg
+  dtReleased: "2024-01-22"
+  dtModified: ""
+  fancy_name: Toon Magician
+  aetherPower: special_boost
+  lb1:
+    power: 564
+    attack: 636
+    defense: 539
+    health: 900
+  lb2:
+    power: 682
+    attack: 786
+    defense: 666
+    health: 1112
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -66,6 +108,20 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/GyPOLEn.jpg
+  dtReleased: "2025-03-11"
+  dtModified: ""
+  fancy_name: Glass Magician
+  aetherPower: special_boost
+  lb1:
+    power: 577
+    attack: 671
+    defense: 543
+    health: 898
+  lb2:
+    power: 699
+    attack: 830
+    defense: 672
+    health: 1110
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -84,4 +140,18 @@ costume4:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/sAHNKFa.jpg
+  dtReleased: "2026-03-12"
+  dtModified: ""
+  fancy_name: Stylish Magician
+  aetherPower: special_boost
+  lb1:
+    power: 609
+    attack: 719
+    defense: 571
+    health: 952
+  lb2:
+    power: 737
+    attack: 888
+    defense: 705
+    health: 1177
 ...

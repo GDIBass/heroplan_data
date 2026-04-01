@@ -1,3 +1,4 @@
+---
 name: Edelaide
 source: covenant
 family: plainshunter
@@ -9,14 +10,32 @@ defense: 509
 health: 886
 skill: Nomadic Hymn
 effects:
-  - Recovers 26% health for all allies.
-  - All allies get +195% attack and -35% accuracy that only applies when the enemy has more HP than the attacker. The effect lasts for 3 turns.
+- Recovers 26% health for all allies.
+- All allies get +195% attack and -35% accuracy that only applies when the enemy has
+  more HP than the attacker. The effect lasts for 3 turns.
 types:
-  - Healer
-  - Attack buff
+- Healer All
+- Titan Attack Buff All
 passives:
-  - >-
-    When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.
-  - >-
-    Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.
+- 'Special Skill Damage Reduction: This character has a 10% chance to drop the direct
+  damage received from Special Skills to 1.'
+- 'Damage over Time on Special: When this character casts their Special Skill, they
+  give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
+  If a target already has this effect, the duration will be refreshed and the damage
+  will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/BfXS6GU.jpg
+dtReleased: "2022-10-15"
+dtModified: "2026-03-20"
+fancy_name: Nomad of the Wild
+aetherPower: defense_up
+lb1:
+  power: 540
+  attack: 494
+  defense: 577
+  health: 1004
+lb2:
+  power: 651
+  attack: 610
+  defense: 713
+  health: 1241
+...

@@ -18,8 +18,22 @@ effects:
 types:
 - Hit All
 - Healer All
-- Dodge Buff All
+- Dodge Chance Buff All
 - Insanity on dodge
 - Insanity Self
 image: https://i.imgur.com/mxewGNK.jpg
+dtReleased: "2025-02-06"
+dtModified: "2026-03-22"
+fancy_name: Fierce Ex-Librarian
+aetherPower: boosted_regen
+lb1:
+  power: 1251
+  attack: 1267
+  defense: 1260
+  health: 2362
+lb2:
+  power: 1414
+  attack: 1450
+  defense: 1442
+  health: 2702
 ...

@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/8mWGMUp.jpg
+dtReleased: "2024-05-06"
+dtModified: ""
+fancy_name: Mighty Toon
+aetherPower: defense_up
+lb1:
+  power: 801
+  attack: 915
+  defense: 756
+  health: 1318
+lb2:
+  power: 915
+  attack: 1061
+  defense: 876
+  health: 1528
 ...

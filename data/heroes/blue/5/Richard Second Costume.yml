@@ -19,4 +19,18 @@ types:
 - Hit 3
 - Attack Debuff 3
 image: https://i.imgur.com/7TMtgd4.jpg
+dtReleased: "2023-09-04"
+dtModified: ""
+fancy_name: Hammer of Injustice
+aetherPower: rage
+lb1:
+  power: 1031
+  attack: 1025
+  defense: 916
+  health: 2081
+lb2:
+  power: 1162
+  attack: 1173
+  defense: 1048
+  health: 2381
 ...

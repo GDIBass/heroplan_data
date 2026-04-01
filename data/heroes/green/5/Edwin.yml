@@ -23,6 +23,20 @@ passives:
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/NshfXdy.jpg
+dtReleased: "2023-09-25"
+dtModified: ""
+fancy_name: Cunning Butler
+aetherPower: attack_up
+lb1:
+  power: 996
+  attack: 994
+  defense: 959
+  health: 1824
+lb2:
+  power: 1122
+  attack: 1137
+  defense: 1097
+  health: 2087
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +62,18 @@ costume:
     to steal the newest dispellable buff from a random enemy that has buffs. If no
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://imgur.com/RyJ3YBO.jpg
+  dtReleased: "2025-10-08"
+  dtModified: ""
+  fancy_name: The Backstabbing Butler
+  aetherPower: attack_up
+  lb1:
+    power: 1329
+    attack: 1393
+    defense: 1302
+    health: 2518
+  lb2:
+    power: 1503
+    attack: 1594
+    defense: 1489
+    health: 2881
 ...

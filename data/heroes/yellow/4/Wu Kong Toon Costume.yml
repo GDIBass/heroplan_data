@@ -20,4 +20,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/3dV4crJ.jpg
+dtReleased: "2024-07-16"
+dtModified: ""
+fancy_name: Monkey Toon
+aetherPower: gamble
+lb1:
+  power: 806
+  attack: 810
+  defense: 864
+  health: 1402
+lb2:
+  power: 921
+  attack: 939
+  defense: 1002
+  health: 1626
 ...

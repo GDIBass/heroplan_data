@@ -1,22 +1,37 @@
+---
 name: Mist
-class: Cleric
 source: season3
+family: midgard
 speed: Fast
+class: Cleric
 power: 661
 attack: 686
 defense: 603
 health: 1196
 skill: Valkyrie Charge
 effects:
-  - Deals 175% damage to the target and nearby enemies.
-  - The target and nearby enemies are immune to new status effect buffs for 3 turns.
-  - >-
-    The target and nearby enemies get -34% defense against Special Skills for 3
-    turns.
-  - The target and nearby enemies get -64% mana generation for 3 turns.
+- Deals 175% damage to the target and nearby enemies.
+- The target and nearby enemies are immune to new status effect buffs for 3 turns.
+- The target and nearby enemies get -34% defense against Special Skills for 3 turns.
+- The target and nearby enemies get -64% mana generation for 3 turns.
 types:
-  - Hit 3
-  - Buff Immunity
-  - Mana Generation Debuff
-family: midgard
+- Hit 3
+- Buff Immunity Debuff 3
+- SS Defense Debuff 3
+- Mana Generation Debuff 3
 image: https://i.imgur.com/1FjRHHb.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
+fancy_name: Commander of Valkyries
+aetherPower: attack_up
+lb1:
+  power: 711
+  attack: 745
+  defense: 655
+  health: 1299
+lb2:
+  power: 811
+  attack: 864
+  defense: 760
+  health: 1507
+...

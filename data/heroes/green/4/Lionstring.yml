@@ -1,3 +1,4 @@
+---
 name: Lionstring
 source: astral
 family: astralelves
@@ -9,17 +10,32 @@ defense: 688
 health: 1292
 skill: Cloth of Constellations
 effects:
-  - This Special Skill never misses its targets.
-  - Deal 245% damage to the target and minor damage to nearby enemies.
-  - The caster steals 50% of any healing applied to the target and nearby enemies in 2 turns.
-  - The caster and nearby allies get +45% chance to dodge Special Skills that deal damage for 2 turns.
+- This Special Skill never misses its targets.
+- Deal 245% damage to the target and minor damage to nearby enemies.
+- The caster steals 50% of any healing applied to the target and nearby enemies in
+  2 turns.
+- The caster and nearby allies get +45% chance to dodge Special Skills that deal damage
+  for 2 turns.
 types:
-  - Hit 3
-  - Dodge 
+- Hit 3
+- Dodge
 passives:
-  - >-
-    Resist Poison: This character has innate resistance against Poison.
-  - >-
-    Share Received Damage: 20% of damage received by this character is shared 
-    with other allies.
+- 'Resist Poison: This character has innate resistance against Poison.'
+- 'Share Received Damage: 20% of damage received by this character is shared  with
+  other allies.'
 image: https://i.imgur.com/M9HK4qH.jpg
+dtReleased: "2024-03-07"
+dtModified: ""
+fancy_name: Astral Elf Dressmaker
+aetherPower: dodge
+lb1:
+  power: 750
+  attack: 743
+  defense: 748
+  health: 1403
+lb2:
+  power: 856
+  attack: 861
+  defense: 867
+  health: 1627
+...

@@ -22,4 +22,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/ur9mzPp.jpg
+dtReleased: "2026-03-12"
+dtModified: ""
+fancy_name: Stylish Ancient of Ice
+aetherPower: attack_up
+lb1:
+  power: 1387
+  attack: 1552
+  defense: 1227
+  health: 2681
+lb2:
+  power: 1569
+  attack: 1776
+  defense: 1405
+  health: 3068
 ...

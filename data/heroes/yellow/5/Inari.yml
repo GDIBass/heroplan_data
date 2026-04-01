@@ -1,3 +1,4 @@
+---
 name: Inari
 source: season2
 family: sakura
@@ -9,15 +10,33 @@ defense: 642
 health: 1312
 skill: Lucky Nine
 effects:
-  - Deals 180% damage to all enemies.
-  - All allies get +56% chance to dodge Special Skills for 3 turns. Each dodge summons a Sakura Fox minion
-  - Sakura Fox Minion has 8% HP and 30% attack inherited from the caster. It adds 7% mana to its owner at the end of each turn
+- Deals 180% damage to all enemies.
+- All allies get +56% chance to dodge Special Skills for 3 turns. Each dodge summons
+  a Sakura Fox minion
+- Sakura Fox Minion has 8% HP and 30% attack inherited from the caster. It adds 7%
+  mana to its owner at the end of each turn
 types:
-  - Hit All
-  - Dodge Buff
-  - Summon on Dodge
+- Hit All
+- Dodge Chance Buff All
+- Minion Summon on dodge
+- Mana Boost Minion each turn
 image: https://i.imgur.com/MjynoiD.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Nine-tailed Spirit
+aetherPower: attack_up
+lb1:
+  power: 823
+  attack: 876
+  defense: 692
+  health: 1414
+lb2:
+  power: 924
+  attack: 1003
+  defense: 792
+  health: 1617
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
   power: 943
@@ -26,11 +45,30 @@ costume:
   health: 1729
   skill: Blinding Spell
   effects:
-    - Deals 210% damage to all enemies.
-    - Summons a Sakura Fox Minion for the caster and nearby allies. Sakura Fox Minion has 12% HP and 30% attack inherited from the caster. The minion adds 7% mana to its owner at the end of each turn.
-    - All enemies get -40% accuracy for 3 turns. Chance to miss is also applies to offensive Special Skills.
+  - Deals 210% damage to all enemies.
+  - Summons a Sakura Fox Minion for the caster and nearby allies. Sakura Fox Minion
+    has 12% HP and 30% attack inherited from the caster. The minion adds 7% mana to
+    its owner at the end of each turn.
+  - All enemies get -40% accuracy for 3 turns. Chance to miss is also applies to offensive
+    Special Skills.
   types:
-    - Hit All
-    - Summoner
-    - Accuracy Debuff
+  - Hit All
+  - Summoner 3
+  - Mana Boost Minion each turn
+  - Blind All
   image: https://i.imgur.com/Q0YpLSK.jpg
+  dtReleased: "2022-05-02"
+  dtModified: "2026-03-20"
+  fancy_name: White Kitsune Spirit
+  aetherPower: special_boost
+  lb1:
+    power: 1007
+    attack: 1040
+    defense: 921
+    health: 1864
+  lb2:
+    power: 1135
+    attack: 1190
+    defense: 1054
+    health: 2133
+...

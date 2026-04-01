@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/yS5bHHw.jpg
+dtReleased: "2023-10-30"
+dtModified: ""
+fancy_name: Toon Leor
+aetherPower: rage
+lb1:
+  power: 1214
+  attack: 1273
+  defense: 1138
+  health: 2321
+lb2:
+  power: 1371
+  attack: 1456
+  defense: 1303
+  health: 2655
 ...

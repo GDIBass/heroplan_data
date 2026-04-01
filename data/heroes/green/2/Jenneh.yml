@@ -1,14 +1,31 @@
+---
 name: Jenneh
-class: Druid
 source: season1
+family: classic
 speed: Average
+class: Druid
 power: 335
 attack: 328
 defense: 325
 health: 602
 skill: Mark of Ivy
 effects:
-  - Deals 245% damage to the target
+- Deals 245% damage to the target
 types:
-  - Hit 1
+- Hit 1
 image: https://i.imgur.com/reFxsXr.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Plant Whisperer
+aetherPower: attack_up
+lb1:
+  power: 335
+  attack: 328
+  defense: 325
+  health: 602
+lb2:
+  power: 335
+  attack: 328
+  defense: 325
+  health: 602
+...

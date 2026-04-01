@@ -1,3 +1,4 @@
+---
 name: Starswift
 source: astral
 family: astralelves
@@ -9,16 +10,29 @@ defense: 481
 health: 787
 skill: Starplay
 effects:
-  - This Special Skill never misses its targets.
-  - Deal 265% damage to the target and nearby enemies.
-  - The caster and nearby allies get +20% mana generation for 3 turns.
+- This Special Skill never misses its targets.
+- Deal 265% damage to the target and nearby enemies.
+- The caster and nearby allies get +20% mana generation for 3 turns.
 types:
-  - Hit 3
-  - Mana generation buff 3
+- Hit 3
+- Mana generation buff 3
 passives:
-  - >-
-    Resist Poison: This character has innate resistance against Poison.
-  - >-
-    Share Received Damage: 20% of damage received by this character is shared 
-    with other allies.
+- 'Resist Poison: This character has innate resistance against Poison.'
+- 'Share Received Damage: 20% of damage received by this character is shared  with
+  other allies.'
 image: https://i.imgur.com/M18GizO.jpg
+dtReleased: "2024-03-07"
+dtModified: ""
+fancy_name: Astral Elf Youth
+aetherPower: attack_up
+lb1:
+  power: 550
+  attack: 594
+  defense: 545
+  health: 892
+lb2:
+  power: 665
+  attack: 735
+  defense: 674
+  health: 1102
+...

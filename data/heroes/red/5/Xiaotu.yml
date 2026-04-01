@@ -20,6 +20,21 @@ types:
 passives:
 - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/BFeoiOp.jpg
+dtReleased: "2023-01-19"
+dtModified: "2026-03-20"
+fancy_name: Lunar Protector Rabbit
+aetherPower: attack_up
+lb1:
+  power: 920
+  attack: 921
+  defense: 883
+  health: 1613
+lb2:
+  power: 1035
+  attack: 1054
+  defense: 1010
+  health: 1846
+zodiacAnimal: rabbit
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,4 +58,18 @@ costume:
   passives:
   - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
   image: https://imgur.com/lrCWqsO.jpg
+  dtReleased: "2026-02-17"
+  dtModified: "2026-03-20"
+  fancy_name: Lunar Lantern Rabbit
+  aetherPower: rage
+  lb1:
+    power: 1370
+    attack: 1428
+    defense: 1372
+    health: 2585
+  lb2:
+    power: 1550
+    attack: 1633
+    defense: 1570
+    health: 2958
 ...

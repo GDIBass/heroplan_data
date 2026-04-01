@@ -32,4 +32,18 @@ passives:
   to effects and status ailments that block or steal mana.'
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://imgur.com/W70kZwo.jpg
+dtReleased: "2026-02-15"
+dtModified: ""
+fancy_name: Astral Demon Voidbender
+aetherPower: dodge
+lb1:
+  power: 1370
+  attack: 1458
+  defense: 1409
+  health: 2430
+lb2:
+  power: 1549
+  attack: 1668
+  defense: 1612
+  health: 2781
 ...

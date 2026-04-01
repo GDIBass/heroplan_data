@@ -1,3 +1,4 @@
+---
 name: Noel
 source: christmas
 family: christmas
@@ -9,15 +10,32 @@ defense: 1326
 health: 2253
 skill: Sledge Bash
 effects:
-  - Boosts health for all allies by 760. Boosted health can exceed max HP.
-  - 'Enhanced Dodge: All allies get +50% chance to dodge Special Skills that deal damage. This effect lasts until the ally successfully dodge once.'
-  - After the Enhance Dodge ends or is removed or replaced, the ally gets a Snowsprite Minion.
-  - The Snowsprite Minion has 20% HP and 20% attack inherited from the caster.
+- Boosts health for all allies by 760. Boosted health can exceed max HP.
+- 'Enhanced Dodge: All allies get +50% chance to dodge Special Skills that deal damage.
+  This effect lasts until the ally successfully dodge once.'
+- After the Enhance Dodge ends or is removed or replaced, the ally gets a Snowsprite
+  Minion.
+- The Snowsprite Minion has 20% HP and 20% attack inherited from the caster.
 types:
-  - Boosted Heal All
-  - Enhanced Dodge All
-  - Summoner All
+- Boosted Heal All
+- Enhanced Dodge All
+- Summoner All
 passives:
-  - >-
-    Frost on Minion Hit: Each hit from the Minions owned by this character inflict 484 Frost damage over 4 turns.
+- 'Frost on Minion Hit: Each hit from the Minions owned by this character inflict
+  484 Frost damage over 4 turns.'
 image: https://imgur.com/vYCIB57.jpg
+dtReleased: "2025-12-01"
+dtModified: ""
+fancy_name: Joyful Sledge Kid
+aetherPower: damage_reduction
+lb1:
+  power: 1347
+  attack: 1378
+  defense: 1429
+  health: 2428
+lb2:
+  power: 1523
+  attack: 1577
+  defense: 1635
+  health: 2778
+...

@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/MBq6uJ0.jpg
+dtReleased: "2024-10-06"
+dtModified: ""
+fancy_name: Solemn Toon
+aetherPower: special_boost
+lb1:
+  power: 565
+  attack: 548
+  defense: 527
+  health: 1148
+lb2:
+  power: 683
+  attack: 677
+  defense: 652
+  health: 1419
 ...

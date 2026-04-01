@@ -1,3 +1,4 @@
+---
 name: Vlad
 source: morlovia
 family: morlovia
@@ -9,12 +10,30 @@ defense: 486
 health: 855
 skill: Dawn of Sorrow
 effects:
-  - The target receives 65 Surge Bleed damage over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 115. Max total damage 295.)
-  - The caster steals 61% of any healing applied to the target for 3 turns.
+- The target receives 65 Surge Bleed damage over 5 turns. (If a target already has
+  this effect, the duration will be refreshed and the damage will be increased by
+  115. Max total damage 295.)
+- The caster steals 61% of any healing applied to the target for 3 turns.
 types:
-  - DoT 1
-  - Healing Steal 1
+- DoT 1
+- Healing Steal 1
 passives:
-  - >-
-    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+- 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+  to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
+  has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/BKgxWVA.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Vampire Henchman
+aetherPower: vampire
+lb1:
+  power: 500
+  attack: 417
+  defense: 551
+  health: 969
+lb2:
+  power: 603
+  attack: 516
+  defense: 681
+  health: 1197
+...

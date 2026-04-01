@@ -24,6 +24,20 @@ passives:
 - 'Special Skill Damage Reduction: Received damage is reduced by -20% for the first
   3 times this character receives damage from Special Skills.'
 image: https://i.imgur.com/pr4mBGS.jpg
+dtReleased: "2022-12-08"
+dtModified: ""
+fancy_name: Heiress of the Underworld
+aetherPower: attack_up
+lb1:
+  power: 909
+  attack: 899
+  defense: 865
+  health: 1625
+lb2:
+  power: 1022
+  attack: 1028
+  defense: 990
+  health: 1859
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +64,18 @@ costume:
     Skill, all allies deal +70% increased normal attack and Special Skill damage against
     targets with boosted health for 4 turns.'
   image: https://i.imgur.com/QhwvGtU.jpg
+  dtReleased: "2024-05-23"
+  dtModified: ""
+  fancy_name: Heiress to the Flame
+  aetherPower: counterattack
+  lb1:
+    power: 1156
+    attack: 1157
+    defense: 1139
+    health: 2196
+  lb2:
+    power: 1305
+    attack: 1324
+    defense: 1304
+    health: 2513
 ...

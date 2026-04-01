@@ -1,3 +1,4 @@
+---
 name: Killhare
 source: springvale
 family: springvale
@@ -9,22 +10,59 @@ defense: 756
 health: 1382
 skill: Reckless Swing
 effects:
-  - Deals 300% damage to all enemies.
-  - All allies except the caster get -20% defense for 3 turns. This effect can't be cleansed.
+- Deals 300% damage to all enemies.
+- All allies except the caster get -20% defense for 3 turns. This effect can't be
+  cleansed.
 types:
-  - Hit All
+- Hit All
+- Defense Debuff All allies except Self
 image: https://i.imgur.com/WU18HC0.jpg
+dtReleased: ""
+dtModified: "2026-03-31"
+fancy_name: Savage Protector of Springvale
+aetherPower: attack_up
+lb1:
+  power: 841
+  attack: 799
+  defense: 814
+  health: 1489
+lb2:
+  power: 944
+  attack: 914
+  defense: 932
+  health: 1704
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
-  power: 936
-  attack: 879
-  defense: 924
-  health: 1752
+  power: 1021
+  attack: 973
+  defense: 1039
+  health: 1892
   skill: Championship Carrot
   effects:
-    - Deals 330% damage to all enemies.
-    - All allies except the caser get -20% attack for 3 turns. This effect can't be cleansed.
+  - Deals 330% damage to all enemies.
+  - All allies except the caser get -20% attack for 3 turns. This effect can't be
+    cleansed.
   types:
-    - Hit all
+  - Hit All
+  - Attack Debuff All allies except Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/vAkZp36.jpg
+  dtReleased: "2022-03-21"
+  dtModified: "2026-03-31"
+  fancy_name: Ultimate Farmer
+  aetherPower: defense_up
+  lb1:
+    power: 1091
+    attack: 1048
+    defense: 1120
+    health: 2040
+  lb2:
+    power: 1230
+    attack: 1200
+    defense: 1282
+    health: 2335
+...

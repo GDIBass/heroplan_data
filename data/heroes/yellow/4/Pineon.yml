@@ -36,4 +36,18 @@ passives:
 - ' 2) Sprout Fiend: 60% attack, 20% health'
 - ' 3) Blossom Mega Fiend: 200% attack, 45% health'
 image: https://imgur.com/NVsztPf.jpg
+dtReleased: "2026-02-04"
+dtModified: ""
+fancy_name: Pineapple Prodigy
+aetherPower: special_boost
+lb1:
+  power: 860
+  attack: 935
+  defense: 895
+  health: 1413
+lb2:
+  power: 984
+  attack: 1084
+  defense: 1038
+  health: 1638
 ...

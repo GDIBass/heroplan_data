@@ -1,6 +1,7 @@
+---
 name: Aeron
 source: hotm
-family: 2018
+family: "2018"
 speed: Average
 class: Monk
 power: 768
@@ -9,16 +10,33 @@ defense: 712
 health: 1341
 skill: Nethershield
 effects:
-  - All allies regenerate 1150 HP over 5 turns.
-  - The caster and nearby allies are immune to new status ailments for 5 turns. This effect can't be dispelled.
-  - Cleanses status ailments from the caster and nearby allies.
-  - Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns. This effect can't be dispelled.
+- All allies regenerate 1150 HP over 5 turns.
+- The caster and nearby allies are immune to new status ailments for 5 turns. This
+  effect can't be dispelled.
+- Cleanses status ailments from the caster and nearby allies.
+- Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns. This
+  effect can't be dispelled.
 types:
-  - HoT All
-  - Status Ailment Immunity 3
-  - Cleanser 3
+- HoT All
+- Status Ailment Immunity 3
+- Cleanser 3
 image: https://i.imgur.com/9AxepJ9.jpg
+dtReleased: "2018-04-01"
+dtModified: ""
+fancy_name: Steadfast Judge
+aetherPower: defense_up
+lb1:
+  power: 818
+  attack: 790
+  defense: 768
+  health: 1445
+lb2:
+  power: 918
+  attack: 904
+  defense: 878
+  health: 1653
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 976
@@ -27,13 +45,30 @@ costume:
   health: 1976
   skill: Voidshield
   effects:
-    - Recovers 47% health for all allies.
-    - Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.
-    - Element Link gives all Dark allies +5% attack and +5% defense for 6 turns. Can't be dispelled.
+  - Recovers 47% health for all allies.
+  - Lifts all cleansable status ailments from the caster and nearby allies and randomly
+    distributes them on enemies.
+  - Element Link gives all Dark allies +5% attack and +5% defense for 6 turns. Can't
+    be dispelled.
   types:
-    - Healer All
-    - Lifts Ailments 3
+  - Healer All
+  - Lifts Ailments 3
   passives:
-    - >-
-      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
+  - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
+    the newest status ailment from all allies.'
   image: https://i.imgur.com/WvBRV3O.jpg
+  dtReleased: "2023-01-23"
+  dtModified: ""
+  fancy_name: Periwig Judge
+  aetherPower: special_armor
+  lb1:
+    power: 1043
+    attack: 968
+    defense: 1004
+    health: 2130
+  lb2:
+    power: 1175
+    attack: 1108
+    defense: 1148
+    health: 2438
+...

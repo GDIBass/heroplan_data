@@ -25,4 +25,18 @@ passives:
   family bonuses and status effects by -80%. The effect applies to all enemies in
   the battle.'
 image: https://i.imgur.com/THCrCkN.jpg
+dtReleased: "2024-05-08"
+dtModified: ""
+fancy_name: Minstrel of Owl Tower
+aetherPower: fiend_resist
+lb1:
+  power: 1118
+  attack: 1192
+  defense: 1154
+  health: 1809
+lb2:
+  power: 1261
+  attack: 1363
+  defense: 1320
+  health: 2070
 ...

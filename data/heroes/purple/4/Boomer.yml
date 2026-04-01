@@ -1,3 +1,4 @@
+---
 name: Boomer
 source: pirates
 family: corellia
@@ -9,8 +10,24 @@ defense: 663
 health: 1323
 skill: Watery Grave
 effects:
-  - Deals 204% damage to all enemies
-  - The caster and nearby allies get +94% defense against Holy for 3 turns
+- Deals 204% damage to all enemies
+- The caster and nearby allies get +94% defense against Holy for 3 turns
 types:
-  - Hit All
+- Hit All
+- Elemental Defense Buff 3
 image: https://i.imgur.com/BLKBB2F.jpg
+dtReleased: ""
+dtModified: "2026-03-28"
+fancy_name: First Mate of Corellia
+aetherPower: revive
+lb1:
+  power: 693
+  attack: 588
+  defense: 720
+  health: 1438
+lb2:
+  power: 790
+  attack: 682
+  defense: 835
+  health: 1667
+...

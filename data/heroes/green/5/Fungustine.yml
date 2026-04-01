@@ -1,3 +1,4 @@
+---
 name: Fungustine
 source: solstice
 family: slime
@@ -9,19 +10,39 @@ defense: 1209
 health: 1987
 skill: Revitalizing Sludge
 effects:
-  - Boosts health of all allies by 1250. Boosted health can exceed max HP.
-  - All allies get Sticky surface for 4 turns. This effect can't be dispelled.
-  - 'Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)'
-  - All allies get +30% defense for 4 turns.
-  - All allies are immune to buff dispels and relocations for 4 turns. (This immunity also includes this effect itself.)
+- Boosts health of all allies by 1250. Boosted health can exceed max HP.
+- All allies get Sticky surface for 4 turns. This effect can't be dispelled.
+- 'Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking
+  enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface
+  is activated when any damage is received from an enemy. Each character with Sticky
+  Surface can only steal one status effect buff or Growth effect per turn from normal
+  attacks.)'
+- All allies get +30% defense for 4 turns.
+- All allies are immune to buff dispels and relocations for 4 turns. (This immunity
+  also includes this effect itself.)
 types:
-  - Health Boost All
-  - Sticky Surface Buff All
-  - Defense Buff All
-  - Buff Dispell Immunity All
+- Health Boost All
+- Sticky Surface Buff All
+- Defense Buff All
+- Buff Dispell Immunity All
 passives:
-  - >-
-    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
-  - >-
-    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+- 'Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega
+  Minions to nearby allies with 50% HP and 40% attack inherited from this character.'
+- 'Slime Minion Split: If this character loses more than 25% of max health at once,
+  they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://i.imgur.com/RTB91u9.jpg
+dtReleased: "2024-06-18"
+dtModified: ""
+fancy_name: Rejuvenating Forest Slime
+aetherPower: regen
+lb1:
+  power: 1197
+  attack: 1165
+  defense: 1303
+  health: 2142
+lb2:
+  power: 1351
+  attack: 1333
+  defense: 1490
+  health: 2451
+...

@@ -25,6 +25,20 @@ passives:
 - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
 - ' * Cleanses the latest cleansable status ailment from all allies.'
 image: https://i.imgur.com/wdaa6Lv.jpg
+dtReleased: "2023-02-16"
+dtModified: ""
+fancy_name: Cunning Sphinx
+aetherPower: defense_up
+lb1:
+  power: 927
+  attack: 828
+  defense: 952
+  health: 1756
+lb2:
+  power: 1042
+  attack: 947
+  defense: 1089
+  health: 2009
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +69,18 @@ costume:
   - 'Health Recover on Buff Received: This character recovers 5% HP when they receive
     a buff or positive stack.'
   image: https://i.imgur.com/zPZlLVD.jpg
+  dtReleased: "2024-03-04"
+  dtModified: ""
+  fancy_name: Sphinx at the Spa
+  aetherPower: heal_increase
+  lb1:
+    power: 1300
+    attack: 1197
+    defense: 1387
+    health: 2627
+  lb2:
+    power: 1469
+    attack: 1370
+    defense: 1587
+    health: 3006
 ...

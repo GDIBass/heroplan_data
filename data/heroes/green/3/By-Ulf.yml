@@ -1,28 +1,42 @@
+---
 name: By-Ulf
-class: Paladin
 source: season3
+family: niflheim
 speed: Average
+class: Paladin
 power: 463
 attack: 436
 defense: 446
 health: 865
 skill: Hollow Boast
 effects:
-  - The caster and nearby allies get +48% attack for 4 turns.
-  - The caster and nearby allies get +46% defense for 4 turns.
-  - The caster and nearby allies regenerate 612 HP over 4 turns.
-  - After 4 turns the caster gets status ailments. 
-  - ' '
-  - >-    
-    The status ailments that the caster gets after 4 turns are:
-  - The caster gets -34% attack for 4 turns. This effect can't be cleansed.
-  - The caster gets -34% defense for 4 turns. This effect can't be cleansed.
-  - >-
-    The caster gets -24% mana generation for 4 turns. This effect can't be
-    cleansed.
+- The caster and nearby allies get +48% attack for 4 turns.
+- The caster and nearby allies get +46% defense for 4 turns.
+- The caster and nearby allies regenerate 612 HP over 4 turns.
+- After 4 turns the caster gets status ailments.
+- ""
+- 'The status ailments that the caster gets after 4 turns are:'
+- The caster gets -34% attack for 4 turns. This effect can't be cleansed.
+- The caster gets -34% defense for 4 turns. This effect can't be cleansed.
+- The caster gets -24% mana generation for 4 turns. This effect can't be cleansed.
 types:
-  - Attack Buff
-  - Defense Buff
-  - HOT
-family: niflheim
+- Attack Buff 3
+- Defense Buff 3
+- HoT 3
+- Delayed Debuffs Self
 image: https://i.imgur.com/TVINRSf.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
+fancy_name: Cursed Viking Brawler
+aetherPower: special_armor
+lb1:
+  power: 516
+  attack: 494
+  defense: 506
+  health: 981
+lb2:
+  power: 623
+  attack: 610
+  defense: 625
+  health: 1212
+...

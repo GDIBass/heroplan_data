@@ -1,3 +1,4 @@
+---
 name: Mok-Arr
 source: season2
 family: lagoon
@@ -9,15 +10,31 @@ defense: 688
 health: 1400
 skill: Black Tide
 effects:
-  - Deals 270% damage to all enemies.
-  - Deals 50% damage to all allies.
-  - Deals extra damage against Holy.
-  - All Dark allies and enemies are immune to this attack.
+- Deals 270% damage to all enemies.
+- Deals 50% damage to all allies.
+- Deals extra damage against Holy.
+- All Dark allies and enemies are immune to this attack.
 types:
-  - Hit All
-  - Hits Ignore Dark
+- Hit All
+- Hit All allies
+- Hits Ignore Dark
 image: https://i.imgur.com/f9fc9eh.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Savage Butcher
+aetherPower: rage
+lb1:
+  power: 823
+  attack: 799
+  defense: 741
+  health: 1509
+lb2:
+  power: 924
+  attack: 914
+  defense: 848
+  health: 1727
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 944
@@ -26,12 +43,28 @@ costume:
   health: 1794
   skill: Emerald Tide
   effects:
-    - Deals 280% damage to all enemies.
-    - All Dark allies and enemies get +54% attack for 4 turns.
-    - All allies and enemies that are not Dark element get -44% attack for 4 turns. This effect is uncleansable for all Holy enemies.
-    - Deals extra damage against Holy.
+  - Deals 280% damage to all enemies.
+  - All Dark allies and enemies get +54% attack for 4 turns.
+  - All allies and enemies that are not Dark element get -44% attack for 4 turns.
+    This effect is uncleansable for all Holy enemies.
+  - Deals extra damage against Holy.
   types:
-    - Hit All
-    - Elemental Attack Buff
-    - Attack Debuff
+  - Hit All
+  - Attack Buff All dark
+  - Attack Debuff All not dark
   image: https://i.imgur.com/EOk0EO8.jpg
+  dtReleased: "2023-02-06"
+  dtModified: ""
+  fancy_name: Savage Blademaster
+  aetherPower: counterattack
+  lb1:
+    power: 1008
+    attack: 1012
+    defense: 924
+    health: 1933
+  lb2:
+    power: 1135
+    attack: 1158
+    defense: 1057
+    health: 2212
+...

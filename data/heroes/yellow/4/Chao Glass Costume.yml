@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/s68xCDI.jpg
+dtReleased: "2025-07-16"
+dtModified: ""
+fancy_name: Glass Tactician
+aetherPower: ailment_immunity
+lb1:
+  power: 815
+  attack: 914
+  defense: 755
+  health: 1425
+lb2:
+  power: 932
+  attack: 1060
+  defense: 876
+  health: 1653
 ...

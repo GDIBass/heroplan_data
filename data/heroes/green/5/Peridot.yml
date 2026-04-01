@@ -32,4 +32,18 @@ types:
 - DoT 1/3/All
 - Blind 1/3/All
 image: https://i.imgur.com/E1kxfPE.jpg
+dtReleased: "2022-02-02"
+dtModified: ""
+fancy_name: Ninja of Deadly Toxins
+aetherPower: attack_up
+lb1:
+  power: 872
+  attack: 879
+  defense: 796
+  health: 1547
+lb2:
+  power: 979
+  attack: 1005
+  defense: 911
+  health: 1770
 ...

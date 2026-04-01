@@ -24,4 +24,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/gv5Agq9.jpg
+dtReleased: "2025-06-18"
+dtModified: ""
+fancy_name: Chief of Vitrails
+aetherPower: special_armor
+lb1:
+  power: 1328
+  attack: 1414
+  defense: 1165
+  health: 2734
+lb2:
+  power: 1502
+  attack: 1617
+  defense: 1333
+  health: 3128
 ...

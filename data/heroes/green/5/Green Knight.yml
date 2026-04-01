@@ -21,4 +21,18 @@ types:
 - Self Resurrection
 - Damage All on resurrection
 image: https://i.imgur.com/4LKxVef.jpg
+dtReleased: "2023-04-20"
+dtModified: ""
+fancy_name: Challenger of Avalon
+aetherPower: attack_up
+lb1:
+  power: 922
+  attack: 954
+  defense: 883
+  health: 1542
+lb2:
+  power: 1037
+  attack: 1092
+  defense: 1010
+  health: 1765
 ...

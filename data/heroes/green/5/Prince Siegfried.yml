@@ -27,7 +27,7 @@ types:
 - Dance of the Heron 4
 - Counterattack 4
 - Reduced Damage 4
-- Status Effect Immunity
+- Status Effect Immunity 4
 passives:
 - 'Resist Defense Ailments: This character is immune to status ailments and negative
   stacks that affect defense. Doesn''t apply to status ailments that affect elemental
@@ -36,4 +36,18 @@ passives:
   each time a status ailment expires or is cleansed, removed or reallocated from them.
   This effect can activate only once per turn.'
 image: https://i.imgur.com/WwCBlh0.jpg
+dtReleased: "2024-01-25"
+dtModified: "2026-03-29"
+fancy_name: Future King
+aetherPower: counterattack
+lb1:
+  power: 1064
+  attack: 1061
+  defense: 1047
+  health: 1964
+lb2:
+  power: 1199
+  attack: 1214
+  defense: 1198
+  health: 2247
 ...

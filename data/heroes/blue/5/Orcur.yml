@@ -1,3 +1,4 @@
+---
 name: Orcur
 source: astral
 family: astraldwarfs
@@ -9,18 +10,34 @@ defense: 1289
 health: 2268
 skill: Lunar Bloom
 effects:
-  - Recovers 30% health for all allies.
-  - "Growth: All allies get 250 attack."
-  - Boosts health of all allies by 450 health after 3 turns, or immediatelly if the effect is removed before the duration ends. Boosted health can exceed max HP.
+- Recovers 30% health for all allies.
+- 'Growth: All allies get 250 attack.'
+- Boosts health of all allies by 450 health after 3 turns, or immediatelly if the
+  effect is removed before the duration ends. Boosted health can exceed max HP.
 types:
-  - Healer All
-  - Attack Growth All
-  - Delayed Boosted Health All
+- Healer All
+- Attack Growth All
+- Delayed Boosted Health All
 passives:
-  - >-
-    Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.
-  - >-
-    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
-  - >-
-    Resist Healing Ailments: This character has innate resistance against status ailments that affect healing.
+- 'Destroy Fiends on Special: When this character casts their Special Skill, all Fiends
+  are destroyed from them.'
+- 'Superior Resist Negative Minion Effects: This character has innate resistance against
+  incoming negative effects and damage from Minions and Mega Minions.'
+- 'Resist Healing Ailments: This character has innate resistance against status ailments
+  that affect healing.'
 image: https://imgur.com/dgeBnW2.jpg
+dtReleased: "2025-07-02"
+dtModified: ""
+fancy_name: Astral Dwarf Gardener
+aetherPower: damage_reduction
+lb1:
+  power: 1301
+  attack: 1272
+  defense: 1389
+  health: 2444
+lb2:
+  power: 1470
+  attack: 1455
+  defense: 1590
+  health: 2796
+...

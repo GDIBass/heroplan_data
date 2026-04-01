@@ -24,4 +24,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/tWvDon8.jpg
+dtReleased: "2026-01-07"
+dtModified: ""
+fancy_name: Stylish Scholar
+aetherPower: defense_up
+lb1:
+  power: 1388
+  attack: 1408
+  defense: 1437
+  health: 2628
+lb2:
+  power: 1570
+  attack: 1611
+  defense: 1644
+  health: 3007
 ...

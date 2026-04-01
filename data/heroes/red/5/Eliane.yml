@@ -20,7 +20,21 @@ types:
 - DoT All
 - Dispeller All
 passives:
-- 'Resist Burn: This character has innate resistance against Burn.'
+- 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 - 'Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage.'
 image: https://i.imgur.com/MByoToE.jpg
+dtReleased: "2025-03-01"
+dtModified: ""
+fancy_name: Senior Red Mage
+aetherPower: special_armor
+lb1:
+  power: 1139
+  attack: 1189
+  defense: 1183
+  health: 1906
+lb2:
+  power: 1285
+  attack: 1361
+  defense: 1353
+  health: 2181
 ...

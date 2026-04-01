@@ -16,6 +16,20 @@ types:
 - Hit All
 - Defense Debuff All
 image: https://i.imgur.com/IqOKah3.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Protector of Glaceholm
+aetherPower: regen
+lb1:
+  power: 804
+  attack: 859
+  defense: 705
+  health: 1294
+lb2:
+  power: 901
+  attack: 982
+  defense: 807
+  health: 1480
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +46,20 @@ costume:
   - Hit All
   - Defense Debuff All
   image: https://i.imgur.com/j8POeJ4.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Ice Witch of Glaceholm
+  aetherPower: special_boost
+  lb1:
+    power: 904
+    attack: 1008
+    defense: 765
+    health: 1521
+  lb2:
+    power: 1017
+    attack: 1153
+    defense: 875
+    health: 1740
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -50,6 +78,20 @@ costume2:
   - Hit All
   - Attack Debuff All
   image: https://i.imgur.com/wccczud.jpg
+  dtReleased: "2022-09-05"
+  dtModified: ""
+  fancy_name: Ruler of Glaceholm
+  aetherPower: regen
+  lb1:
+    power: 1028
+    attack: 1131
+    defense: 887
+    health: 1854
+  lb2:
+    power: 1159
+    attack: 1294
+    defense: 1015
+    health: 2121
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -70,6 +112,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/mFs5DrO.jpg
+  dtReleased: "2024-05-06"
+  dtModified: ""
+  fancy_name: Protector of Toons
+  aetherPower: regen
+  lb1:
+    power: 1206
+    attack: 1293
+    defense: 1135
+    health: 2226
+  lb2:
+    power: 1363
+    attack: 1480
+    defense: 1299
+    health: 2547
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -90,4 +146,18 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/mpefymk.jpg
+  dtReleased: "2025-06-18"
+  dtModified: ""
+  fancy_name: Vitrail of Glaceholm
+  aetherPower: regen
+  lb1:
+    power: 1322
+    attack: 1577
+    defense: 1173
+    health: 2268
+  lb2:
+    power: 1495
+    attack: 1804
+    defense: 1342
+    health: 2595
 ...

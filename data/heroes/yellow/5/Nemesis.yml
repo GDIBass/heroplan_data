@@ -37,4 +37,18 @@ passives:
   defense. Applies also to status ailments that affect elemental defense.'
 - 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/erwVVF0.jpg
+dtReleased: "2022-09-21"
+dtModified: ""
+fancy_name: Goddess of Divine Retribution
+aetherPower: defense_up
+lb1:
+  power: 914
+  attack: 945
+  defense: 843
+  health: 1593
+lb2:
+  power: 1029
+  attack: 1082
+  defense: 965
+  health: 1823
 ...

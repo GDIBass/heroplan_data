@@ -1,35 +1,49 @@
+---
 name: Raul
-class: Fighter
 source: solstice
 family: opera
 speed: Average
+class: Fighter
 power: 691
 attack: 750
 defense: 629
 health: 1198
 skill: Ballad of Attraction
 effects:
-  - Deals 120% damage to the target and nearby enemies.
-  - >-
-    The target and nearby enemies dance to Ballad of Attraction for 3 turns. 
-    All existing status effects will be removed when this effect is added.
-  - Ballad of Attraction
-  - "* -20% mana generation."
-  - "* -20% decrease for any healing received."
-  - "* Gives immunity to new status effects. New dance status effects will replace this effect."
-  - "* This effect cannot be dispelled. The effect is removed when the caster dies."
+- Deals 120% damage to the target and nearby enemies.
+- The target and nearby enemies dance to Ballad of Attraction for 3 turns.  All existing
+  status effects will be removed when this effect is added.
+- Ballad of Attraction
+- '* -20% mana generation.'
+- '* -20% decrease for any healing received.'
+- '* Gives immunity to new status effects. New dance status effects will replace this
+  effect.'
+- '* This effect cannot be dispelled. The effect is removed when the caster dies.'
 types:
-  - Hit 3
-  - Ballad of Attraction
-  - Mana gen debuff
-  - Healing debuff
-  - Status Effect immunity
+- Hit 3
+- Ballad of Attraction 3
+- Mana Generation Debuff while dancing
+- Healing Debuff  while dancing
+- Status Effect immunity  while dancing
 passives:
-  - >- 
-    Heal when status ailment expires or is cleared: This character receives 10% 
-    health each time a status ailment expires or is cleansed, removed or 
-    reallocated from them. This effect can activate only once per turn.
-  - >-
-    Resist Attack Ailments: This character has innate resistance against status 
-    ailments that affect attack.
+- 'Heal when status ailment expires or is cleared: This character receives 10%  health
+  each time a status ailment expires or is cleansed, removed or  reallocated from
+  them. This effect can activate only once per turn.'
+- 'Resist Attack Ailments: This character is immune to status ailments that affect
+  attack.'
 image: https://i.imgur.com/QmSXHcR.jpg
+dtReleased: "2023-11-30"
+dtModified: ""
+fancy_name: Lovesick Nobleman
+aetherPower: attack_up
+lb1:
+  power: 743
+  attack: 815
+  defense: 683
+  health: 1302
+lb2:
+  power: 848
+  attack: 944
+  defense: 792
+  health: 1509
+...

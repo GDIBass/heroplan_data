@@ -1,0 +1,43 @@
+---
+name: Justico
+source: superelemental
+family: slime
+speed: Average
+class: Paladin
+power: 1289
+attack: 1310
+defense: 1369
+health: 2303
+skill: Viscous Shield
+effects:
+- Deals 350% damage to all enemies.
+- The caster gets Taunt that prevents enemies from using Special Skills on the caster's
+  allies for 4 turns. This effect can't be dispelled.
+- The caster receive Slime Revive status effect for 4 turns. This effect can't be
+  dispelled.
+- If defeated while Slime Revive is active, the caster will be reborn as a Slime.
+types:
+- Hit All
+- Taunt
+- Slime Revive Self
+passives:
+- 'Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega
+  Minions to nearby allies with 50% HP and 40% attack inherited from this character.'
+- 'Slime Minion Split: If this character loses more than 25% of max health at once,
+  they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
+image: https://imgur.com/vWCdBcv.jpg
+dtReleased: "2026-03-17"
+dtModified: ""
+fancy_name: Protector Slime
+aetherPower: taunt
+lb1:
+  power: 1379
+  attack: 1411
+  defense: 1476
+  health: 2481
+lb2:
+  power: 1560
+  attack: 1615
+  defense: 1689
+  health: 2839
+...

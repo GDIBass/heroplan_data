@@ -1,3 +1,4 @@
+---
 name: Vollermork
 source: season4
 family: underwild
@@ -9,15 +10,31 @@ defense: 514
 health: 738
 skill: Thresher Worms
 effects:
-  - Summons a Worm Fiend for all enemies. The Fiend damages the enemy with 32% attack every turn.
-  - The Worm Fiend absorbs healing and disappears when it has absorbed health equal to 16% of the targets max health
+- Summons a Worm Fiend for all enemies. The Fiend damages the enemy with 32% attack
+  every turn.
+- The Worm Fiend absorbs healing and disappears when it has absorbed health equal
+  to 16% of the targets max health
 types:
-  - Fiend Summoner All
+- Fiend Summoner All
 passives:
-  - >-
-    Start Battle with Mana: This character receives 20% mana at the start of the battle.
+- 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/mAw3KL3.jpg
+dtReleased: "2021-03-25"
+dtModified: ""
+fancy_name: Morlock Hoarder
+aetherPower: fiend_resist
+lb1:
+  power: 534
+  attack: 539
+  defense: 583
+  health: 837
+lb2:
+  power: 644
+  attack: 666
+  defense: 720
+  health: 1034
 costume:
+  design: costume1
   bonuses: 2/2/4/1
   class: Druid
   power: 488
@@ -26,11 +43,28 @@ costume:
   health: 782
   skill: Leeching Worms
   effects:
-    - Summons a Worm Fiend for all enemies. The fiend damages the enemy with 28% attack every turn.
-    - The fiend absorbs healing. It disappears after absorbing a healing equal to 20% of the target's max health.
+  - Summons a Worm Fiend for all enemies. The fiend damages the enemy with 28% attack
+    every turn.
+  - The fiend absorbs healing. It disappears after absorbing a healing equal to 20%
+    of the target's max health.
   types:
-    - Fiend Summoner All
+  - Fiend Summoner All
   passives:
-    - >-
-      Start Battle with Mana: This character receives 20% mana at the start of the battle.
+  - 'Start Battle with Mana: This character receives 20% mana at the start of the
+    battle.'
   image: https://i.imgur.com/RK5dZz5.jpg
+  dtReleased: "2024-04-25"
+  dtModified: ""
+  fancy_name: Morlock Bartender
+  aetherPower: regen
+  lb1:
+    power: 545
+    attack: 550
+    defense: 584
+    health: 887
+  lb2:
+    power: 658
+    attack: 680
+    defense: 722
+    health: 1096
+...

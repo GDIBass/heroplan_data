@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/k4GWNzl.jpg
+dtReleased: "2024-07-16"
+dtModified: ""
+fancy_name: Toon Champion
+aetherPower: special_boost
+lb1:
+  power: 804
+  attack: 877
+  defense: 823
+  health: 1298
+lb2:
+  power: 919
+  attack: 1017
+  defense: 955
+  health: 1505
 ...

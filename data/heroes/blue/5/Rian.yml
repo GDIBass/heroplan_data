@@ -24,4 +24,18 @@ passives:
 - 'Resist Damage from Status Effects: This character is immune to incoming damage
   from status effects and stacks.'
 image: https://i.imgur.com/pgR8NJw.jpg
+dtReleased: "2021-08-05"
+dtModified: ""
+fancy_name: The Steadfast
+aetherPower: defense_up
+lb1:
+  power: 862
+  attack: 781
+  defense: 881
+  health: 1551
+lb2:
+  power: 968
+  attack: 894
+  defense: 1008
+  health: 1775
 ...

@@ -1,3 +1,4 @@
+---
 name: Gongoth
 source: astral
 family: astraldwarfs
@@ -9,18 +10,34 @@ defense: 1203
 health: 2092
 skill: Twilight Star Strike
 effects:
-  - Deals 400% damage to the target and nearby enemies.
-  - "Wither: The target and nearby enemies get -350 attack."
-  - The target and nearby enemies receive +25% increased damage for 3 turns. The effect is increased by +10% for each Minion or Mega Minion owned by all enemies, up to +85% in total.
+- Deals 400% damage to the target and nearby enemies.
+- 'Wither: The target and nearby enemies get -350 attack.'
+- The target and nearby enemies receive +25% increased damage for 3 turns. The effect
+  is increased by +10% for each Minion or Mega Minion owned by all enemies, up to
+  +85% in total.
 types:
-  - Hit 3
-  - Wither 3
-  - Increased Damage 3
+- Hit 3
+- Wither 3
+- Increased Damage 3
 passives:
-  - >-
-    Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.
-  - >-
-    Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.
-  - >-
-    Perfect Accuracy: This character's Special Skill never misses its targets.
+- 'Superior Bypass Minions: All damage done by this character bypasses Minions and
+  Mega Minions.'
+- 'Superior Resist Negative Minion Effects: This character has innate resistance against
+  incoming negative effects and damage from Minions and Mega Minions.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://imgur.com/qkGDpyg.jpg
+dtReleased: "2025-05-07"
+dtModified: ""
+fancy_name: Astral Dwarf Contender
+aetherPower: special_boost
+lb1:
+  power: 1267
+  attack: 1325
+  defense: 1296
+  health: 2255
+lb2:
+  power: 1432
+  attack: 1516
+  defense: 1483
+  health: 2580
+...

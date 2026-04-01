@@ -22,9 +22,23 @@ types:
 passives:
 - 'Hunter''s Vigor: When this character casts their Special Skill, they get +20% attack
   for 3 turns. This effect can be active in addition to other effects that alter attack.'
-- 'Damage over time on Special: When this character casts their Special Skill, they
+- 'Damage over Time on Special: When this character casts their Special Skill, they
   give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/zlwhqDy.jpg
+dtReleased: "2023-07-27"
+dtModified: "2026-03-20"
+fancy_name: Baboon Swordmaster
+aetherPower: defense_up
+lb1:
+  power: 1012
+  attack: 965
+  defense: 1027
+  health: 1873
+lb2:
+  power: 1140
+  attack: 1104
+  defense: 1176
+  health: 2143
 ...

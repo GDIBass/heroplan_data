@@ -29,4 +29,18 @@ types:
 - Mana Reduction All
 - Dodge Chance Buff 1/3/All
 image: https://i.imgur.com/tVOg6Mz.jpg
+dtReleased: "2020-10-13"
+dtModified: ""
+fancy_name: Ninja of Dancing Stars
+aetherPower: regen
+lb1:
+  power: 851
+  attack: 745
+  defense: 883
+  health: 1558
+lb2:
+  power: 955
+  attack: 853
+  defense: 1010
+  health: 1783
 ...

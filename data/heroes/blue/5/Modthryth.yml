@@ -1,3 +1,4 @@
+---
 name: Modthryth
 source: beowulf
 family: beowulf
@@ -9,23 +10,42 @@ defense: 1238
 health: 2154
 skill: Chilling Counterattack
 effects:
-  - The caster and nearby allies counterattack with 135% of the damage received for 3 turns.
-  - The caster and nearby allies decrease -10% mana from the attacker on each counterattack for 3 turns. The effect get diminished for consecutive activations during the same turn.
-  - 'Stack (Max: 10): All allies get +15% attack.'
-  - >-
-    Source of Buffs: The following effects are cast on a random ally at the start of each turn
-  - " * +100% Special Skill damage for 4 turns."
-  - " * +33% mana generation for 4 turns."
-  - " * The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation."
+- The caster and nearby allies counterattack with 135% of the damage received for
+  3 turns.
+- The caster and nearby allies decrease -10% mana from the attacker on each counterattack
+  for 3 turns. The effect get diminished for consecutive activations during the same
+  turn.
+- 'Stack (Max: 10): All allies get +15% attack.'
+- 'Source of Buffs: The following effects are cast on a random ally at the start of
+  each turn'
+- ' * +100% Special Skill damage for 4 turns.'
+- ' * +33% mana generation for 4 turns.'
+- ' * The Source of Buffs will activate 4 times. Each attempt to dispel it removes
+  one activation.'
 types:
-  - Counterattack 3
-  - Attack Stack All
-  - Source of Buffs Random 1
+- Counterattack 3
+- Attack Stack All
+- Source of Buffs Random 1
 passives:
-  - >-
-    Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.
-  - >-
-    Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.
-  - >-
-    Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs.
+- 'Mana on Buff Received: This character gains 5% mana when they receive a buff or
+  positive stack.'
+- 'Empowered Resist Mana Reduction: This character is immune to mana reduction. They
+  also gain 600 boosted health and 10% mana each time they resist.'
+- 'Resist Buff Immunity: This character has innate resistance against ailments that
+  give immunity to new buffs.'
 image: https://i.imgur.com/oiGz5nc.jpg
+dtReleased: "2025-02-13"
+dtModified: "2026-03-23"
+fancy_name: Remorseless Shieldmaiden
+aetherPower: damage_reduction
+lb1:
+  power: 1265
+  attack: 1263
+  defense: 1334
+  health: 2322
+lb2:
+  power: 1429
+  attack: 1445
+  defense: 1526
+  health: 2656
+...

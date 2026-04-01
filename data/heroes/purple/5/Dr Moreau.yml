@@ -1,3 +1,4 @@
+---
 name: Dr Moreau
 source: season4
 family: underwild
@@ -9,16 +10,33 @@ defense: 751
 health: 1439
 skill: Blinding Wisdom
 effects:
-  - Deals 270% damage to the target and nearby enemies.
-  - The target and nearby enemies get -35% accuracy for 3 turns. The effect duration is reset if the target is healed. Chance to miss also applies to offensive Special Skills. 
+- Deals 270% damage to the target and nearby enemies.
+- The target and nearby enemies get -35% accuracy for 3 turns. The effect duration
+  is reset if the target is healed. Chance to miss also applies to offensive Special
+  Skills.
 types:
-  - Hit 3
-  - Accuracy Debuff
+- Hit 3
+- Blind 3
 passives:
-  - >-
-    Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
+- 'Special Skill Damage Reduction: Received damage from Special Skills is reduced
+  by -20% for this character.'
 image: https://i.imgur.com/fpP6oo2.jpg
+dtReleased: "2021-03-25"
+dtModified: ""
+fancy_name: Devious Scientist
+aetherPower: attack_up
+lb1:
+  power: 860
+  attack: 834
+  defense: 810
+  health: 1551
+lb2:
+  power: 967
+  attack: 955
+  defense: 927
+  health: 1775
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 1022
@@ -27,15 +45,32 @@ costume:
   health: 1952
   skill: Blinding Knowledge
   effects:
-    - Deals 265% damage to the target and nearby enemies.
-    - The target and nearby enemies get -40% accuracy for 4 turns. The effect duration resets if the target is healed. Chance to miss also applies to offensive Special Skills.
+  - Deals 265% damage to the target and nearby enemies.
+  - The target and nearby enemies get -40% accuracy for 4 turns. The effect duration
+    resets if the target is healed. Chance to miss also applies to offensive Special
+    Skills.
   types:
-    - Hit 3
-    - Accuracy Debuff
+  - Hit 3
+  - Blind 3
   passives:
-    - >-
-      Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.
-    - >-
-      Increased Damage Against Boosted Health: After Special Skill cast, all 
-      allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns.
+  - 'Special Skill Damage Reduction: Received damage from Special Skills is reduced
+    by -20% for this character.'
+  - 'Increased Damage Against Boosted Health: After Special Skill cast, all  allies''
+    normal attacks and Special Skills deal +70% damage against targets with boosted
+    health for 4 turns.'
   image: https://i.imgur.com/WWxEz6I.jpg
+  dtReleased: "2023-04-27"
+  dtModified: ""
+  fancy_name: Devious Scribe
+  aetherPower: special_boost
+  lb1:
+    power: 1091
+    attack: 1064
+    defense: 1070
+    health: 2103
+  lb2:
+    power: 1231
+    attack: 1218
+    defense: 1225
+    health: 2407
+...

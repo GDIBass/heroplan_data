@@ -24,6 +24,20 @@ passives:
   Special Skills or in place of a character in Cover, there''s a 60% chance to deal
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/7DRTWTb.jpg
+dtReleased: "2022-12-14"
+dtModified: ""
+fancy_name: Romantic Musketeer
+aetherPower: heal_increase
+lb1:
+  power: 901
+  attack: 941
+  defense: 841
+  health: 1511
+lb2:
+  power: 1013
+  attack: 1076
+  defense: 962
+  health: 1729
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -43,7 +57,7 @@ costume:
   - Hit 3
   - Damage Boosted Heal All
   - Status Ailment Immunity All
-  - Self Damage Reduction Buff
+  - Damage Reduction Buff Self
   passives:
   - 'Resist Defense Ailments: This character is immune to status ailments and negative
     stacks that affect defense. Doesn''t apply to status ailments that affect elemental
@@ -52,4 +66,18 @@ costume:
     from Special Skills or in place of a character in Cover, there''s a 75% chance
     to deal 50% of the received damage on all enemies.'
   image: https://imgur.com/58shBmV.jpg
+  dtReleased: "2025-11-12"
+  dtModified: ""
+  fancy_name: Boulanger Musketeer
+  aetherPower: dodge
+  lb1:
+    power: 1342
+    attack: 1476
+    defense: 1297
+    health: 2415
+  lb2:
+    power: 1518
+    attack: 1688
+    defense: 1484
+    health: 2763
 ...

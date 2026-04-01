@@ -1,3 +1,4 @@
+---
 name: Dagr
 source: untoldtales
 family: nidavellir
@@ -9,18 +10,41 @@ defense: 1155
 health: 2125
 skill: Blazing Venom
 effects:
-  - Attacks all enemies with Firestorm Strike, dealing up to 1500 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.
-  - Damage bypasses target's Minions.
-  - All enemies receive 388 Poison damage over 4 turns.
-  - All enemies take +50% increased damage from Burn and Poison status ailments for 4 turns.
+- Attacks all enemies with Firestorm Strike, dealing up to 1500 damage. Deals 40%
+  more if the target is of the Nature element. This Special Skill never misses its
+  targets.
+- Damage bypasses target's Minions.
+- All enemies receive 388 Poison damage over 4 turns.
+- All enemies take +50% increased damage from Burn and Poison status ailments for
+  4 turns.
 types:
-  - Hit All
-  - Bypass Minions
-  - DoT All
+- Firestorm Strike All
+- Bypass Minions
+- DoT All
+- Burn and Poison Increased Damage Debuff All
 passives:
-  - >-
-    Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.
-  - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
-  - " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
-  - " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+- 'Empowered Resist Burn: This character is immune to status ailments that deals Burn
+  damage and gains 450 boosted health and 5% mana each time they resist.'
+- 'Molten Core: The Molten Core activates each time this character''s Special Skill
+  is cast:'
+- ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
+  Core, the Corrosive Burn deals 330 Burn damage, and lowers the target''s defense
+  by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+- ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
+  exhausted when the Core is activated.'
 image: https://i.imgur.com/BDzoVb0.jpg
+dtReleased: "2025-01-26"
+dtModified: ""
+fancy_name: Dwarven Mountain Shaman
+aetherPower: dodge
+lb1:
+  power: 1255
+  attack: 1318
+  defense: 1245
+  health: 2291
+lb2:
+  power: 1418
+  attack: 1508
+  defense: 1424
+  health: 2621
+...

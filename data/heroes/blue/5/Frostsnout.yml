@@ -21,7 +21,21 @@ types:
 - Reduces Ailments Duration 3
 - Critical Chance Buff 3
 passives:
-- 'Resist Mana Reduction: This character is immune to mana reductions.'
+- 'Resist mana reduction: This character is immune to mana reduction.'
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/T8J02Mj.jpg
+dtReleased: "2025-01-17"
+dtModified: ""
+fancy_name: Lizardfolk Flagbearer
+aetherPower: regen
+lb1:
+  power: 1237
+  attack: 1256
+  defense: 1252
+  health: 2299
+lb2:
+  power: 1397
+  attack: 1437
+  defense: 1432
+  health: 2631
 ...

@@ -28,4 +28,18 @@ passives:
 - 'Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/lX6ylxv.jpg
+dtReleased: "2024-04-21"
+dtModified: ""
+fancy_name: Hallowed by the Devil Reef
+aetherPower: counterattack
+lb1:
+  power: 1205
+  attack: 1267
+  defense: 1196
+  health: 2160
+lb2:
+  power: 1361
+  attack: 1450
+  defense: 1369
+  health: 2471
 ...

@@ -1,3 +1,4 @@
+---
 name: Emblem Mimic Fire
 source: secretsummon
 family: mimic
@@ -9,21 +10,37 @@ defense: 1293
 health: 2224
 skill: Savage Gobble
 effects:
-  - Deals 480% damage to the target.
-  - If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.
-  - The target receives 387 Poison damage over 3 turns. This effect spreads to nearby enemies.
-  - The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)
+- Deals 480% damage to the target.
+- If an enemy is defeated by the attack, the caster recovers +50% health and gains
+  +33% mana.
+- The target receives 387 Poison damage over 3 turns. This effect spreads to nearby
+  enemies.
+- The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status
+  ailments while closed.)
 types:
-  - Hit 1
-  - Spreading Dot 1
-  - Mimic Chest
+- Hit 1
+- Spreading Dot 1
+- Mimic Chest
 passives:
-  - >-
-    Perfect Accuracy: This character's Special Skill never misses its targets.
-  - >-
-    Mimic Loot: This Mimic gives a chance for extra loot when completing stages
-  - " * Master Fighter Emblems"
-  - " * Master Barbarian Emblems"
-  - " * Fighter Emblems"
-  - " * Barbarian Emblems"
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+- 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
+- ' * Master Fighter Emblems'
+- ' * Master Barbarian Emblems'
+- ' * Fighter Emblems'
+- ' * Barbarian Emblems'
 image: https://imgur.com/FWnI3zF.jpg
+dtReleased: "2025-09-18"
+dtModified: ""
+fancy_name: Horrifying One-Eyed Lockbox
+aetherPower: bulwark
+lb1:
+  power: 1338
+  attack: 1394
+  defense: 1394
+  health: 2397
+lb2:
+  power: 1513
+  attack: 1595
+  defense: 1595
+  health: 2743
+...

@@ -25,4 +25,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/PWTfo2c.jpg
+dtReleased: "2024-02-12"
+dtModified: ""
+fancy_name: Toon Brewer
+aetherPower: defense_up
+lb1:
+  power: 809
+  attack: 837
+  defense: 850
+  health: 1383
+lb2:
+  power: 925
+  attack: 970
+  defense: 986
+  health: 1603
 ...

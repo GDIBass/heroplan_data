@@ -1,6 +1,7 @@
+---
 name: Guardian Owl
 source: teltoc
-family: guardiansteltoc 
+family: guardiansteltoc
 speed: Very Slow
 class: Druid
 power: 765
@@ -9,12 +10,27 @@ defense: 795
 health: 1483
 skill: Stately Retribution
 effects:
-  - Deals 300% damage to all enemies.
-  - Damage is increased by 60% per each dead ally (max damage 540%).
-  - The caster gets +46% defense for 5 turns.
-  - The caster regenerates 915 HP over 5 turns.
+- Deals 300% damage to all enemies.
+- The damage is increased by 60% per each defeated ally.
+- The caster gets +46% defense for 5 turns.
+- The caster regenerates 1015 HP over 5 turns.
 types:
-  - Hit All
-  - Self Defense Buff
-  - Self HoT
+- Hit All
+- Defense Buff Self
+- HoT Self
 image: https://i.imgur.com/XO3HIxy.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Elite Guardian of Teltoc
+aetherPower: mana_boost
+lb1:
+  power: 815
+  attack: 648
+  defense: 856
+  health: 1598
+lb2:
+  power: 914
+  attack: 741
+  defense: 980
+  health: 1828
+...

@@ -1,18 +1,38 @@
+---
 name: Miss Ethel
 source: springvale
 family: springvale
 speed: Average
 class: Fighter
-power: 999 
+power: 999
 attack: 1009
 defense: 955
 health: 1816
 skill: Mooing for a Fight
 effects:
-  - Deals 600% damage to the target.
-  - If the target had more then 40% health before receiving damage targets another enemy who had over 40% health before receiving any damage from this Special Skill. If none of the other enemies have 40% health targets a random enemy. The damage is reduced on each consecutive hits. Each enemy can only be hit once.
-  - The caster gets -15% mana generation for 3 turns. This effect can't be cleansed.
+- Deals 600% damage to the target.
+- If the target had more then 40% health before receiving damage targets another enemy
+  who had over 40% health before receiving any damage from this Special Skill. If
+  none of the other enemies have 40% health targets a random enemy. The damage is
+  reduced on each consecutive hits. Each enemy can only be hit once.
+- The caster gets -15% mana generation for 3 turns. This effect can't be cleansed.
 types:
-  - Hit 2
-  - Chain hit
+- Hit 1
+- Chain hit
+- Mana Generation Debuff Self
 image: https://i.imgur.com/B15IDKf.jpg
+dtReleased: "2024-03-18"
+dtModified: "2026-03-29"
+fancy_name: Defender of Springvale
+aetherPower: attack_up
+lb1:
+  power: 1067
+  attack: 1087
+  defense: 1030
+  health: 1958
+lb2:
+  power: 1203
+  attack: 1244
+  defense: 1178
+  health: 2240
+...

@@ -1,3 +1,4 @@
+---
 name: Vanda
 source: morlovia
 family: morlovia
@@ -9,18 +10,34 @@ defense: 735
 health: 1384
 skill: Twilight of Sorrow
 effects:
-  - Deals 125% damage to all enemies.
-  - The caster steals 61% of any healing applied to all enemies for 2 turns.
-  - All allies are immune to new status ailments for 2 turns.
+- Deals 125% damage to all enemies.
+- The caster steals 61% of any healing applied to all enemies for 2 turns.
+- All allies are immune to new status ailments for 2 turns.
 types:
-  - Hit All
-  - Health Steal
-  - Status Ailment Immunity
+- Hit All
+- Health Steal All
+- Status Ailment Immunity All
 passives:
-  - >-
-    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+- 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+  to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
+  has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/FsFObHs.jpg
+dtReleased: "2020-10-26"
+dtModified: ""
+fancy_name: Vampire Queen
+aetherPower: vampire
+lb1:
+  power: 847
+  attack: 834
+  defense: 792
+  health: 1491
+lb2:
+  power: 951
+  attack: 955
+  defense: 906
+  health: 1706
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 1140
@@ -29,14 +46,30 @@ costume:
   health: 2148
   skill: Twilight of Ruin
   effects:
-    - Deals 115% damage to all enemies.
-    - The caster steals 51% of any healing applied to all enemies for 3 turns.
-    - All allies are immune to new status ailments for 3 turns.
+  - Deals 115% damage to all enemies.
+  - The caster steals 51% of any healing applied to all enemies for 3 turns.
+  - All allies are immune to new status ailments for 3 turns.
   types:
-    - Hit All
-    - Healing Steal
-    - Status Ailment Immunity All
+  - Hit All
+  - Healing Steal All
+  - Status Ailment Immunity All
   passives:
-    - >-
-      Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+  - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+    to steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/yADk9kZ.jpg
+  dtReleased: "2021-10-04"
+  dtModified: ""
+  fancy_name: Queen of Crime
+  aetherPower: damage_reduction
+  lb1:
+    power: 1219
+    attack: 1242
+    defense: 1198
+    health: 2315
+  lb2:
+    power: 1377
+    attack: 1421
+    defense: 1371
+    health: 2649
+...

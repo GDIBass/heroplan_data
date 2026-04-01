@@ -22,13 +22,27 @@ types:
 - Taunt
 - Self Boosted HoT
 - Delayed Hit All
-- Attack Stack Self
+- Elemental Attack Buff Stack Self
 passives:
-- 'Damage over time on special: When this character casts their Special Skill, they
+- 'Hunter''s Vigor: When this character casts their Special Skill, they get +20% attack
+  for 3 turns. This effect can be active in addition to other effects that alter attack.'
+- 'Damage over Time on Special: When this character casts their Special Skill, they
   give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
-- 'Hunter''s Vigor: When this character casts their Special Skill, they get +20% attack
-  for 3 turns. This effect can be active in addition to other effects that alter attack.'
 image: https://i.imgur.com/8fPiMj3.jpg
+dtReleased: "2023-05-06"
+dtModified: "2026-03-20"
+fancy_name: Enraged Gorilla
+aetherPower: taunt
+lb1:
+  power: 955
+  attack: 927
+  defense: 941
+  health: 1736
+lb2:
+  power: 1075
+  attack: 1061
+  defense: 1076
+  health: 1986
 ...

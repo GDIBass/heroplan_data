@@ -1,3 +1,4 @@
+---
 name: Craum
 source: superelemental
 family: superelemental
@@ -9,23 +10,36 @@ defense: 1079
 health: 1876
 skill: Call of the Elements
 effects:
-  - Recovers 800 boosted health for all allies.
-  - Recovers additional 50 boosted heath for each Nature shield, up to 1400.
-  - All Ice enemies receive 972 Sand damage over 4 turns.
-  - All Fire enemies receive 972 Water damage over 4 turns.
-  - All Dark enemies receive 972 Burn damage over 4 turns.
-  - All Holy enemies receive 972 Poison damage over 4 turns.
+- Recovers 800 boosted health for all allies.
+- Recovers additional 50 boosted heath for each Nature shield, up to 1400.
+- All Ice enemies receive 972 Sand damage over 4 turns.
+- All Fire enemies receive 972 Water damage over 4 turns.
+- All Dark enemies receive 972 Burn damage over 4 turns.
+- All Holy enemies receive 972 Poison damage over 4 turns.
 types:
-  - Healer
-  - DoT
+- Healer
+- DoT
 passives:
-  - 'Troop Mastery:'
-  - >-
-    Passive Skill as attacking character: This hero's Troops deal extra 
-    elemental damage against weaker element.
-  - ' - Dealt extra elemental damage: +100%'
-  - >-
-    Passive Skill as defending character: This hero receives less elemental 
-    damage from Troops of stronger element.
-  - ' - Received elemental damage: -10%'
+- 'Troop Mastery:'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
+  damage against weaker element.'
+- ' - Dealt extra elemental damage: +100%'
+- 'Passive Skill as defending character: This hero receives less elemental  damage
+  from Troops of stronger element.'
+- ' - Received elemental damage: -10%'
 image: https://i.imgur.com/GyN20JL.jpg
+dtReleased: "2024-05-20"
+dtModified: ""
+fancy_name: Elemental Shaman
+aetherPower: ailment_reflect
+lb1:
+  power: 1121
+  attack: 1107
+  defense: 1163
+  health: 2022
+lb2:
+  power: 1264
+  attack: 1267
+  defense: 1330
+  health: 2313
+...

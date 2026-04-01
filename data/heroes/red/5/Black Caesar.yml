@@ -25,4 +25,18 @@ passives:
 - 'Resist Damage from Status Effects: This character is immune to incoming damage
   from status effects and stacks.'
 image: https://i.imgur.com/5f8UOBL.jpg
+dtReleased: "2023-12-28"
+dtModified: ""
+fancy_name: Boatswain of Corellia
+aetherPower: revive
+lb1:
+  power: 1053
+  attack: 1018
+  defense: 1085
+  health: 1920
+lb2:
+  power: 1188
+  attack: 1165
+  defense: 1242
+  health: 2197
 ...

@@ -31,6 +31,20 @@ passives:
   from Troops of stronger element.'
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/sJ0rROO.jpg
+dtReleased: "2022-10-10"
+dtModified: ""
+fancy_name: The Cosmic Enigma
+aetherPower: counterattack
+lb1:
+  power: 1032
+  attack: 1025
+  defense: 912
+  health: 2097
+lb2:
+  power: 1163
+  attack: 1173
+  defense: 1043
+  health: 2400
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -60,4 +74,18 @@ costume:
     from Troops of stronger element.'
   - ' - Received elemental damage: -25%'
   image: https://imgur.com/bIp33Sf.jpg
+  dtReleased: "2025-06-20"
+  dtModified: ""
+  fancy_name: The Gilded Enigma
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1298
+    attack: 1308
+    defense: 1191
+    health: 2733
+  lb2:
+    power: 1468
+    attack: 1497
+    defense: 1363
+    health: 3126
 ...

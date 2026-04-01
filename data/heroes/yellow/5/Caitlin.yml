@@ -11,10 +11,10 @@ health: 1446
 skill: Dispelling Willpower
 effects:
 - Dispels buffs from all enemies.
-- Deals 180% damage to all enemies
+- Deals 180% damage to all enemies.
 - Deals additional 20% damage per removed status effect, up to 340% damage in total.
-- 'Stack (Max: 10): The caster gets +5% mana generation'
-- 'Stack +2 (Max: 10): The caster recovers 20 HP each turn.'
+- 'Stack (Max: 10): The caster gets +6% mana generation'
+- 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
 types:
 - Dispeller All
 - Hit All
@@ -24,6 +24,20 @@ passives:
 - 'Resist Damage from Status Effects: This character is immune to incoming damage
   from status effects and stacks.'
 image: https://i.imgur.com/ERb7z96.jpg
+dtReleased: "2021-08-05"
+dtModified: "2026-03-20"
+fancy_name: The Enlightened
+aetherPower: attack_up
+lb1:
+  power: 862
+  attack: 777
+  defense: 885
+  health: 1558
+lb2:
+  power: 969
+  attack: 889
+  defense: 1013
+  health: 1783
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,12 +56,26 @@ costume:
   types:
   - Dispeller All
   - Hit All
-  - Self Mana Generation Stacks
-  - Self HoT Stacks
+  - Mana Generation Stacks Self
+  - HoT Stacks Self
   passives:
-  - 'Resist Damage from Status Effects: This character has innate resistance against
-    incoming damage from status effects.'
+  - 'Resist Damage from Status Effects: This character is immune to incoming damage
+    from status effects and stacks.'
   - 'Bleed on Special Skill: When this character casts their Special Skill, all enemies
     receive 528 Bleed damage over 4 turns.'
   image: https://i.imgur.com/JgYBU3i.jpg
+  dtReleased: "2024-11-14"
+  dtModified: "2026-03-20"
+  fancy_name: The Justicar Crusader
+  aetherPower: defense_up
+  lb1:
+    power: 1295
+    attack: 1300
+    defense: 1286
+    health: 2542
+  lb2:
+    power: 1464
+    attack: 1487
+    defense: 1471
+    health: 2909
 ...

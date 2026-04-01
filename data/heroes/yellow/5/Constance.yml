@@ -15,9 +15,25 @@ effects:
   the attacker for 100 damage.
 types:
 - Hit All
+- Dodge Chance Buff All
+- Damage attacker on dodge
 passives:
 - 'Damage on Special Skill and Cover Damage: When this character receives damage from
   Special Skills or in place of a character in Cover, there''s a 60% chance to deal
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/MWL4e5h.jpg
+dtReleased: "2023-07-26"
+dtModified: ""
+fancy_name: Courageous Musketeer
+aetherPower: attack_up
+lb1:
+  power: 992
+  attack: 939
+  defense: 976
+  health: 1895
+lb2:
+  power: 1117
+  attack: 1074
+  defense: 1117
+  health: 2169
 ...

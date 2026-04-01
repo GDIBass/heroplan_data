@@ -16,7 +16,8 @@ effects:
   +35% mana.
 - All allies counterattack with +110% of the damage received for 4 turns.
 types:
-- Hit Random 2
+- Hit 1
+- Hit Random 1
 - Self Heal on Kill
 - Self Mana Increase on Kill
 - Counterattack All
@@ -35,4 +36,18 @@ passives:
 - ' * The Killer Bot Minion recovers 5% health for its owner at the end of each turn.'
 - ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
 image: https://imgur.com/oPQZTy5.jpg
+dtReleased: "2025-09-14"
+dtModified: ""
+fancy_name: Holy Guardian Construct
+aetherPower: damage_reduction
+lb1:
+  power: 1322
+  attack: 1443
+  defense: 1345
+  health: 2259
+lb2:
+  power: 1495
+  attack: 1651
+  defense: 1539
+  health: 2585
 ...

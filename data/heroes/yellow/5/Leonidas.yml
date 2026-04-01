@@ -18,6 +18,20 @@ types:
 - Mana Reduction 1
 - Self Heal
 image: https://i.imgur.com/SPyWzYD.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Unyielding King
+aetherPower: counterattack
+lb1:
+  power: 801
+  attack: 788
+  defense: 774
+  health: 1316
+lb2:
+  power: 899
+  attack: 901
+  defense: 886
+  health: 1506
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +50,20 @@ costume:
   - Elemental Defense Debuff 3
   - Attack Debuff All Dark
   image: https://i.imgur.com/c7cvRg8.jpg
+  dtReleased: "2021-01-18"
+  dtModified: ""
+  fancy_name: King of Sparta
+  aetherPower: damage_reduction
+  lb1:
+    power: 902
+    attack: 870
+    defense: 898
+    health: 1585
+  lb2:
+    power: 1014
+    attack: 995
+    defense: 1027
+    health: 1813
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -55,6 +83,20 @@ costume2:
   - Mana Reduction All
   - Defense Debuff All
   image: https://i.imgur.com/6haP2Yz.jpg
+  dtReleased: "2022-12-26"
+  dtModified: ""
+  fancy_name: Unyielding Mage
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1025
+    attack: 999
+    defense: 1010
+    health: 1918
+  lb2:
+    power: 1155
+    attack: 1143
+    defense: 1156
+    health: 2194
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -77,6 +119,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/PKsAK4b.jpg
+  dtReleased: "2023-12-25"
+  dtModified: ""
+  fancy_name: Unyielding Toon
+  aetherPower: counterattack
+  lb1:
+    power: 1203
+    attack: 1228
+    defense: 1187
+    health: 2260
+  lb2:
+    power: 1359
+    attack: 1405
+    defense: 1358
+    health: 2586
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -99,6 +155,20 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/7lvHaTO.jpg
+  dtReleased: "2025-02-11"
+  dtModified: ""
+  fancy_name: Unyielding Vitrail
+  aetherPower: counterattack
+  lb1:
+    power: 1318
+    attack: 1441
+    defense: 1301
+    health: 2323
+  lb2:
+    power: 1491
+    attack: 1649
+    defense: 1489
+    health: 2658
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -121,4 +191,18 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/MeT3mAW.jpg
+  dtReleased: "2026-02-14"
+  dtModified: ""
+  fancy_name: King of Style
+  aetherPower: counterattack
+  lb1:
+    power: 1383
+    attack: 1527
+    defense: 1371
+    health: 2427
+  lb2:
+    power: 1564
+    attack: 1748
+    defense: 1569
+    health: 2777
 ...

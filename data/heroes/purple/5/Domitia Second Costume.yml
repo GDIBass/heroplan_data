@@ -20,4 +20,18 @@ types:
 - Hit 3
 - Elemental Defense Debuff 3
 image: https://i.imgur.com/36NtLB6.jpg
+dtReleased: "2022-10-31"
+dtModified: ""
+fancy_name: Undead Sniper
+aetherPower: dodge
+lb1:
+  power: 1032
+  attack: 1013
+  defense: 973
+  health: 2007
+lb2:
+  power: 1164
+  attack: 1159
+  defense: 1114
+  health: 2296
 ...

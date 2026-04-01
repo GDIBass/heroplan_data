@@ -21,4 +21,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/0PzrzM8.jpg
+dtReleased: "2024-01-22"
+dtModified: ""
+fancy_name: Toon of Rathwood
+aetherPower: defense_up
+lb1:
+  power: 561
+  attack: 575
+  defense: 555
+  health: 1002
+lb2:
+  power: 678
+  attack: 710
+  defense: 685
+  health: 1238
 ...

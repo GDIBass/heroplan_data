@@ -19,4 +19,18 @@ types:
 - Hit 3
 - Mindless Attack 3
 image: https://i.imgur.com/BmY4xiU.jpg
+dtReleased: "2022-12-26"
+dtModified: ""
+fancy_name: Love Doctor
+aetherPower: ailment_immunity
+lb1:
+  power: 1035
+  attack: 1048
+  defense: 896
+  health: 2093
+lb2:
+  power: 1166
+  attack: 1199
+  defense: 1025
+  health: 2395
 ...

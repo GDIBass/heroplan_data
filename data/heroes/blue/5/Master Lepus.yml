@@ -1,3 +1,4 @@
+---
 name: Master Lepus
 source: springvale
 family: springvale
@@ -9,24 +10,57 @@ defense: 690
 health: 1194
 skill: Reckless Finisher
 effects:
-  - Deals 410% damage to the target and minor damage to nearby enemies.
-  - The caster gets -20% defense for 3 turns. This effect can't be cleansed.
+- Deals 410% damage to the target and minor damage to nearby enemies.
+- The caster gets -20% defense for 3 turns. This effect can't be cleansed.
 types:
-  - Hit 3
-  - Self Defense Debuff
+- Hit 3
+- Defense Debuff Self
 image: https://i.imgur.com/Ti2FM1v.jpg
+dtReleased: ""
+dtModified: "2026-03-31"
+fancy_name: Guardian of Springvale
+aetherPower: attack_up
+lb1:
+  power: 812
+  attack: 856
+  defense: 743
+  health: 1287
+lb2:
+  power: 912
+  attack: 980
+  defense: 850
+  health: 1473
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
-  power: 904
-  attack: 944
-  defense: 847
-  health: 1513
+  power: 986
+  attack: 1044
+  defense: 953
+  health: 1634
   skill: Rift Blade
   effects:
-    - Deals 280% damage to all enemies.
-    - The caster gets -24% mana generation for 4 turns. This effect can't be cleansed.
+  - Deals 280% damage to all enemies.
+  - The caster gets -24% mana generation for 4 turns. This effect can't be cleansed.
   types:
-    - Hit All
-    - Self Mana Generation Debuff
+  - Hit All
+  - Mana Generation Debuff Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all enemies
+    get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/aLTsGWG.jpg
+  dtReleased: "2022-03-21"
+  dtModified: "2026-03-31"
+  fancy_name: Rift Breaker
+  aetherPower: special_boost
+  lb1:
+    power: 1053
+    attack: 1126
+    defense: 1027
+    health: 1762
+  lb2:
+    power: 1187
+    attack: 1289
+    defense: 1176
+    health: 2016
+...

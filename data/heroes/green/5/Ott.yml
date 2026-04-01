@@ -1,3 +1,4 @@
+---
 name: Ott
 source: untoldtales
 family: nidavellir
@@ -9,20 +10,41 @@ defense: 1186
 health: 2235
 skill: Saga of Protection
 effects:
-  - Boosts health of all allies by 600. Boosted health can exceed max HP.
-  - All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1100. Reduces damage by additional 30% when the attacker is of the Nature element.
-  - All allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself.)
+- Boosts health of all allies by 600. Boosted health can exceed max HP.
+- All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill
+  damage by up to -1100. Reduces damage by additional 30% when the attacker is of
+  the Nature element.
+- All allies are immune to buff dispels and reallocations for 3 turns. (The immunity
+  also includes this effect itself.)
 types:
-  - Boost Health All
-  - Firestorm Ward All
-  - Buff Dispel Immunity All
+- Boost Health All
+- Firestorm Ward All
+- Buff Dispel Immunity All
 passives:
-  - >-
-    Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.
-  - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
-  - " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 305 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
-  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+- 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
+  damage and gains 450 boosted health and 5% mana each time they resist.'
+- 'Molten Core: The Molten Core activates each time this character''s Special Skill
+  is cast:'
+- ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
+  Core, the Corrosive Burn deals 305 Burn damage, and lowers the target''s defense
+  by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+- ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
+  exhausted when the Core is activated.'
 image: https://i.imgur.com/XIyQFXu.jpg
+dtReleased: "2024-12-03"
+dtModified: ""
+fancy_name: Dwarven Merry Trickster
+aetherPower: regen
+lb1:
+  power: 1246
+  attack: 1218
+  defense: 1278
+  health: 2408
+lb2:
+  power: 1408
+  attack: 1394
+  defense: 1463
+  health: 2755
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -31,19 +53,41 @@ costume:
   attack: 1236
   defense: 1315
   health: 2483
-  skill: Gaurding Tunes
+  skill: Guarding Tunes
   effects:
-    - Boosts health of all allies by 800. Boosted health can exceed max HP.
-    - All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1280. Reduces damage by additional 30% when the attacker is of the Nature element.
-    - All allies are immune to buff dispel and reallocations for 3 turns. (The immunity also includes this effect itself.)
+  - Boosts health of all allies by 800. Boosted health can exceed max HP.
+  - All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill
+    damage by up to -1280. Reduces damage by additional 30% when the attacker is of
+    the Nature element.
+  - All allies are immune to buff dispel and reallocations for 3 turns. (The immunity
+    also includes this effect itself.)
   types:
-    - Boost Health All
-    - Firestorm Ward All
-    - Buff Dispel Immunity All
+  - Boost Health All
+  - Firestorm Ward All
+  - Buff Dispel Immunity All
   passives:
-    - >-
-      Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.
-    - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
-    - " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 364 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
-    - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+  - 'Empowered Resist Burn: This character is immune to status ailments that deal
+    Burn damage and gains 600 boosted health and 10% mana each time they resist.'
+  - 'Molten Core: The Molten Core activates each time this character''s Special Skill
+    is cast:'
+  - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
+    Core, the Corrosive Burn deals 364 Burn damage, and lowers the target''s defense
+    by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
   image: https://imgur.com/xREyScg.jpg
+  dtReleased: "2025-10-15"
+  dtModified: ""
+  fancy_name: Dwarven Maestro Trickster
+  aetherPower: boosted_regen
+  lb1:
+    power: 1363
+    attack: 1333
+    defense: 1418
+    health: 2676
+  lb2:
+    power: 1541
+    attack: 1525
+    defense: 1623
+    health: 3061
+...

@@ -20,7 +20,7 @@ effects:
   the attacker for 250 damage.
 types:
 - Hit 3
-- Growth Boon
+- Hit Growth Boon
 - Dodge Buff All
 - Damage on Dodge
 passives:
@@ -31,4 +31,18 @@ passives:
 - 'Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions
   and Mega Minions.'
 image: https://imgur.com/fZFlVJW.jpg
+dtReleased: "2026-01-28"
+dtModified: "2026-03-24"
+fancy_name: Prideful Assassin
+aetherPower: special_boost
+lb1:
+  power: 1364
+  attack: 1449
+  defense: 1387
+  health: 2459
+lb2:
+  power: 1543
+  attack: 1658
+  defense: 1587
+  health: 2814
 ...

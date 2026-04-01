@@ -22,4 +22,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/9fZP07k.jpg
+dtReleased: "2026-02-14"
+dtModified: ""
+fancy_name: Stylish Druid
+aetherPower: defense_up
+lb1:
+  power: 607
+  attack: 581
+  defense: 640
+  health: 1139
+lb2:
+  power: 734
+  attack: 718
+  defense: 791
+  health: 1408
 ...

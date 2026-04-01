@@ -21,6 +21,20 @@ passives:
 - 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
   Skills is increased by 1 turn.'
 image: https://i.imgur.com/zGSnaa1.jpg
+dtReleased: "2021-10-07"
+dtModified: ""
+fancy_name: Octopod Champion
+aetherPower: counterattack
+lb1:
+  power: 863
+  attack: 821
+  defense: 859
+  health: 1505
+lb2:
+  power: 969
+  attack: 939
+  defense: 982
+  health: 1722
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +59,18 @@ costume:
     normal attacks and Special Skills deal +70% damage against targets with boosted
     health for 4 turns.'
   image: https://i.imgur.com/uAzDRXt.jpg
+  dtReleased: "2023-08-17"
+  dtModified: ""
+  fancy_name: Molluscan Suitor
+  aetherPower: attack_up
+  lb1:
+    power: 1097
+    attack: 1142
+    defense: 1119
+    health: 1855
+  lb2:
+    power: 1238
+    attack: 1307
+    defense: 1281
+    health: 2122
 ...

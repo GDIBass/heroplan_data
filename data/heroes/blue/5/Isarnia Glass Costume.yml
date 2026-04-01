@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/mpefymk.jpg
+dtReleased: "2025-06-18"
+dtModified: ""
+fancy_name: Vitrail of Glaceholm
+aetherPower: regen
+lb1:
+  power: 1322
+  attack: 1577
+  defense: 1173
+  health: 2268
+lb2:
+  power: 1495
+  attack: 1804
+  defense: 1342
+  health: 2595
 ...

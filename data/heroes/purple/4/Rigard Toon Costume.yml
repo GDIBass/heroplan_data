@@ -24,4 +24,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/rCKWMnx.jpg
+dtReleased: "2024-06-28"
+dtModified: ""
+fancy_name: Toon Cavalier
+aetherPower: defense_up
+lb1:
+  power: 807
+  attack: 875
+  defense: 794
+  health: 1385
+lb2:
+  power: 922
+  attack: 1014
+  defense: 920
+  health: 1606
 ...

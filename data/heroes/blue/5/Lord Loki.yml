@@ -17,9 +17,23 @@ effects:
 - 'Villain Swing:'
 - ' * Deals 275% damage to the target'
 types:
-- Copy Special Skill
+- Copy Special Skill 1
 - Hit 1
 image: https://i.imgur.com/eGy2uqe.jpg
+dtReleased: "2020-12-24"
+dtModified: ""
+fancy_name: Trickster God
+aetherPower: special_armor
+lb1:
+  power: 839
+  attack: 834
+  defense: 801
+  health: 1414
+lb2:
+  power: 942
+  attack: 955
+  defense: 916
+  health: 1617
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,8 +52,22 @@ costume:
   - 'Scoundrel Swing:'
   - ' * Deals 265% damage to the target.'
   types:
-  - Copy Buffs
-  - Copy Special Skill
+  - Copy Buffs 1
+  - Copy Special Skill 1
   - Hit 1
   image: https://i.imgur.com/aEGEu4Y.jpg
+  dtReleased: "2023-05-08"
+  dtModified: ""
+  fancy_name: Shapeshifter God
+  aetherPower: special_boost
+  lb1:
+    power: 1053
+    attack: 1065
+    defense: 1057
+    health: 1855
+  lb2:
+    power: 1187
+    attack: 1219
+    defense: 1209
+    health: 2122
 ...

@@ -22,4 +22,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/e0Q6Y54.jpg
+dtReleased: "2026-01-07"
+dtModified: ""
+fancy_name: Paladin of Style
+aetherPower: attack_up
+lb1:
+  power: 1385
+  attack: 1482
+  defense: 1306
+  health: 2690
+lb2:
+  power: 1567
+  attack: 1696
+  defense: 1494
+  health: 3077
 ...

@@ -1,3 +1,4 @@
+---
 name: Gefjon
 source: season3
 family: muspelheim
@@ -9,13 +10,28 @@ defense: 766
 health: 1258
 skill: Maiden's Command
 effects:
-  - Steals minions from the target.
-  - Deals 500% damage to the target.
+- Steals minions from the target.
+- Deals 500% damage to the target.
 types:
-  - Steals Minions 1
-  - Hit 1
+- Steals Minions 1
+- Hit 1
 image: https://i.imgur.com/BYGrEEN.jpg
+dtReleased: "2020-10-22"
+dtModified: ""
+fancy_name: Goddess of Harvest
+aetherPower: attack_up
+lb1:
+  power: 837
+  attack: 832
+  defense: 825
+  health: 1356
+lb2:
+  power: 939
+  attack: 952
+  defense: 944
+  health: 1551
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 983
@@ -24,9 +40,25 @@ costume:
   health: 1729
   skill: Maiden's Orders
   effects:
-    - Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.
-    - Deals 335% damage to the target and nearby enemies.
+  - Destroys all Minions from the target and nearby enemies. This effect damages Mega
+    Minions.
+  - Deals 335% damage to the target and nearby enemies.
   types:
-    - Destroys Mega/Minions
-    - Hit 3
+  - Destroys Mega/Minions 1
+  - Hit 3
   image: https://i.imgur.com/ZoOkEJb.jpg
+  dtReleased: "2022-09-26"
+  dtModified: ""
+  fancy_name: Goddess of the Wild
+  aetherPower: special_armor
+  lb1:
+    power: 1049
+    attack: 1045
+    defense: 1065
+    health: 1864
+  lb2:
+    power: 1183
+    attack: 1196
+    defense: 1219
+    health: 2132
+...

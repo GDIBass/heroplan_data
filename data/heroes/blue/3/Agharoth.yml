@@ -1,3 +1,4 @@
+---
 name: Agharoth
 source: astral
 family: astraldemons
@@ -9,20 +10,38 @@ defense: 543
 health: 990
 skill: Astral Provocation
 effects:
-  - The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 6 turns.
-  - All enemies get -24% attack for 6 turns.
-  - All enemies get -24% defense for 6 turns.
-  - All enemies get -24% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+- The caster gets Taunt that prevents enemies from using Special Skills on the caster's
+  allies for 6 turns.
+- All enemies get -24% attack for 6 turns.
+- All enemies get -24% defense for 6 turns.
+- All enemies get -24% mana generation for 6 turns. (Affects only mana generated from
+  matching tiles or mana gained by the defense team at the end of their turn.)
 types:
-  - Taunt
-  - Attack Debuff All
-  - Defense Debuff All
-  - Mana Generation Debuff All
+- Taunt
+- Attack Debuff All
+- Defense Debuff All
+- Mana Generation Debuff All
 passives:
-  - >-
-    Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by -80%. The effect applies to all enemies in battle.
-  - >-
-    Resist Negative Mana Effects: This character is immune to mana reductions, as well as status ailments and negative stacks that affect mana generation. Applies also to effects and status ailments that block or steal mana.
-  - >-
-    Perfect Accuracy: This character's Special Skill never misses its targets.
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  battle.'
+- 'Resist Negative Mana Effects: This character is immune to mana reductions, as well
+  as status ailments and negative stacks that affect mana generation. Applies also
+  to effects and status ailments that block or steal mana.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://imgur.com/eHGWzgx.jpg
+dtReleased: "2025-10-23"
+dtModified: ""
+fancy_name: Astral Demon Gatekeeper
+aetherPower: boosted_regen
+lb1:
+  power: 589
+  attack: 557
+  defense: 616
+  health: 1122
+lb2:
+  power: 713
+  attack: 688
+  defense: 761
+  health: 1387
+...

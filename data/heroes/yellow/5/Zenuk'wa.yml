@@ -1,3 +1,4 @@
+---
 name: Zenuk'wa
 source: beachparty
 family: beachparty
@@ -9,15 +10,34 @@ defense: 1001
 health: 1889
 skill: Ice Cream Smash
 effects:
-  - Deals 275% damage to target and nearby enemies.
-  - The target and nearby enemies receive 225 damage for each received status ailments for 4 turns.
-  - The caster and nearby allies are immune to new status ailments for 4 turns, and recover 225 health for each attempted status ailment.
+- Deals 275% damage to target and nearby enemies.
+- The target and nearby enemies receive 225 damage for each received status ailments
+  for 4 turns.
+- The caster and nearby allies are immune to new status ailments for 4 turns, and
+  recover 225 health for each attempted status ailment.
 types:
-  - Hit 3
-  - Status ailments immunity
+- Hit 3
+- Damage on Ailment Received 3
+- Status Ailments Immunity 3
+- Heal on attempted ailment
 passives:
-  - >-
-    Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 Water damage over 2 turns.
-  - >-
-    Resist Water Damage: This character has innate resistance against Water Damage.
+- 'Damage over time on Special: When this character casts their Special Skill, all
+  enemies receive 238 Water damage over 2 turns.'
+- 'Resist Water Damage: This character is immune to status ailments that deal Water
+  damage.'
 image: https://i.imgur.com/wpHKBfv.jpg
+dtReleased: "2024-06-03"
+dtModified: "2026-03-20"
+fancy_name: Ice Cream Enthusiast
+aetherPower: regen
+lb1:
+  power: 1086
+  attack: 1070
+  defense: 1078
+  health: 2035
+lb2:
+  power: 1224
+  attack: 1224
+  defense: 1234
+  health: 2329
+...

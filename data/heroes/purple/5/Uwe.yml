@@ -1,3 +1,4 @@
+---
 name: Uwe
 source: returntosanctuary
 family: gargoyle
@@ -9,12 +10,36 @@ defense: 1060
 health: 1792
 skill: Chain Blast Strike
 effects:
-  - Deals 850% damage to the target.
-  - If the target has less than 50% health before receiving damage, targets another enemy who had less than 50% health before receiving any damage from this Special Skill. If none of the other enemies have 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
-  - If the hit enemies use their Special Skill in the next 3 turns, they get 725 poison damage for 5 turns. This effect is uncleansable. (Status effects are added at the end of a Special Skill. Status effects will not be added if this status effects is removed during a Special Skill.)
+- Deals 850% damage to the target.
+- If the target has less than 50% health before receiving damage, targets another
+  enemy who had less than 50% health before receiving any damage from this Special
+  Skill. If none of the other enemies have 50% health, targets a random enemy. The
+  damage is reduced on each consecutive hit. Each enemy can only be hit once.
+- If the hit enemies use their Special Skill in the next 3 turns, they get 725 poison
+  damage for 5 turns. This effect is uncleansable. (Status effects are added at the
+  end of a Special Skill. Status effects will not be added if this status effects
+  is removed during a Special Skill.)
 types:
-  - Hit 1
-  - Chain
+- Hit 1
+- Chain
 passives:
-  - "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled."
+- 'Gargoyle''s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin
+  activates. The next 5 times they receive damage, it is reduced by -90%. They are
+  also immune to all status ailments, mana reductions and Insanity. This effect can''t
+  be dispelled.'
 image: https://i.imgur.com/KNSk9mz.jpg
+dtReleased: "2024-05-16"
+dtModified: ""
+fancy_name: Fluffy Gargoyle
+aetherPower: regen
+lb1:
+  power: 1121
+  attack: 1161
+  defense: 1143
+  health: 1931
+lb2:
+  power: 1265
+  attack: 1328
+  defense: 1308
+  health: 2209
+...

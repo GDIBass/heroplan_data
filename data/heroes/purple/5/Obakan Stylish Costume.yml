@@ -22,4 +22,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/hiS5mXD.jpg
+dtReleased: "2026-01-26"
+dtModified: ""
+fancy_name: Stylish Bodyguard
+aetherPower: counterattack
+lb1:
+  power: 1391
+  attack: 1494
+  defense: 1342
+  health: 2624
+lb2:
+  power: 1573
+  attack: 1710
+  defense: 1536
+  health: 3002
 ...

@@ -22,4 +22,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/2xZL7uT.jpg
+dtReleased: "2026-03-12"
+dtModified: ""
+fancy_name: Stylish Wizard
+aetherPower: special_armor
+lb1:
+  power: 871
+  attack: 960
+  defense: 891
+  health: 1437
+lb2:
+  power: 997
+  attack: 1113
+  defense: 1033
+  health: 1666
 ...

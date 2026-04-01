@@ -24,4 +24,18 @@ passives:
 - ' * Deals 90% damage to all enemies.'
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/O681MYE.jpg
+dtReleased: "2024-01-08"
+dtModified: ""
+fancy_name: Famed Goblin Flutist
+aetherPower: attack_up
+lb1:
+  power: 1056
+  attack: 1132
+  defense: 1027
+  health: 1771
+lb2:
+  power: 1191
+  attack: 1295
+  defense: 1176
+  health: 2026
 ...

@@ -25,6 +25,20 @@ passives:
   Special Skills or in place of a character in Cover, there''s a 60% chance to deal
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/BwYaSTj.jpg
+dtReleased: "2022-12-14"
+dtModified: ""
+fancy_name: Jolly Musketeer
+aetherPower: attack_up
+lb1:
+  power: 934
+  attack: 919
+  defense: 890
+  health: 1707
+lb2:
+  power: 1051
+  attack: 1051
+  defense: 1018
+  health: 1953
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,7 +59,7 @@ costume:
   types:
   - Hit All
   - Board Alterer
-  - Self Boosted HoT
+  - Boosted HoT Self
   passives:
   - 'Resist Defense Ailments: This character is immune to status ailments and negative
     stacks that affect defense. Doesn''t apply to status ailments that affect elemental
@@ -54,4 +68,18 @@ costume:
     from Special Skills or in place of a character in Cover, there''s a 75% chance
     to deal 50% of the received damage to all enemies.'
   image: https://imgur.com/ohUYwDY.jpg
+  dtReleased: "2026-01-23"
+  dtModified: ""
+  fancy_name: Merchant Musketeer
+  aetherPower: regen
+  lb1:
+    power: 1363
+    attack: 1412
+    defense: 1358
+    health: 2601
+  lb2:
+    power: 1542
+    attack: 1616
+    defense: 1554
+    health: 2976
 ...

@@ -1,6 +1,7 @@
+---
 name: Kingston
 source: hotm
-family: 2019
+family: "2019"
 speed: Fast
 class: Fighter
 power: 770
@@ -9,13 +10,29 @@ defense: 735
 health: 1266
 skill: Stiletto Cyclone
 effects:
-  - Deals 495% damage to the target.
-  - The target and nearby enemies get -31% attack, and a further -4% decrease every time they are hit during 4 turns.
-  - Element Link gives +4% mana generation for all Nature allies for 4 turns. This effect can't be cleansed.
+- Deals 495% damage to the target.
+- The target and nearby enemies get -31% attack, and a further -4% decrease every
+  time they are hit during 4 turns.
+- Element Link gives +4% mana generation for all Nature allies for 4 turns. This effect
+  can't be cleansed.
 types:
-  - Hit 1
-  - Attack Debuff
+- Hit 1
+- Attack Debuff 3
 passives:
-  - >-
-    Resist Burn: The character has an innate resistance against Burn.
+- 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 image: https://i.imgur.com/rlpoKXr.jpg
+dtReleased: "2019-10-01"
+dtModified: ""
+fancy_name: The Noble Assassin
+aetherPower: attack_up
+lb1:
+  power: 820
+  attack: 808
+  defense: 792
+  health: 1365
+lb2:
+  power: 920
+  attack: 924
+  defense: 906
+  health: 1562
+...

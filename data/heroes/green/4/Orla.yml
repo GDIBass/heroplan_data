@@ -1,3 +1,4 @@
+---
 name: Orla
 source: slayers
 family: slayer
@@ -9,16 +10,31 @@ defense: 680
 health: 1285
 skill: Graceful Shot
 effects:
-  - Deals 230% damage to the target.
-  - Deals 450% damage if the target has less than 50% health remaining.
-  - The target and nearby enemies get -24% mana generation for 3 turns.
-  - 'Stack +2 (Max: 10): The caster gets +10% mana generation.'
-  - 'Stack (Max: 10): The caster recovers 10 HP each turn.'
+- Deals 230% damage to the target.
+- Deals 450% damage if the target has less than 50% health remaining.
+- The target and nearby enemies get -24% mana generation for 3 turns.
+- 'Stack +2 (Max: 10): The caster gets +10% mana generation.'
+- 'Stack (Max: 10): The caster recovers 10 HP each turn.'
 types:
-  - Hit 1
-  - Mana generation debuff
-  - Stack
+- Hit 1
+- Mana generation debuff
+- Stack
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character has innate resistance against
+  incoming damage from status effects.'
 image: https://i.imgur.com/YWXxtDj.jpg
+dtReleased: "2021-08-05"
+dtModified: ""
+fancy_name: The Worthy
+aetherPower: attack_up
+lb1:
+  power: 728
+  attack: 690
+  defense: 738
+  health: 1396
+lb2:
+  power: 831
+  attack: 800
+  defense: 856
+  health: 1619
+...

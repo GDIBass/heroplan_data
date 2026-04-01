@@ -24,4 +24,18 @@ passives:
 - 'Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85%
   damage to all enemies. This effect can activate only once per turn.'
 image: https://i.imgur.com/jt6SH4f.jpg
+dtReleased: "2023-09-04"
+dtModified: ""
+fancy_name: Crescent Owl
+aetherPower: ailment_immunity
+lb1:
+  power: 1001
+  attack: 985
+  defense: 967
+  health: 1862
+lb2:
+  power: 1127
+  attack: 1127
+  defense: 1107
+  health: 2131
 ...

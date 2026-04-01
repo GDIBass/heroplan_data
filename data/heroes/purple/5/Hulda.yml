@@ -24,6 +24,20 @@ passives:
 - 'Increase Buff Duration: Duration of the first 3 buffs this character receives from
   Special Skill is increased by 1 turn.'
 image: https://i.imgur.com/J9OOPtS.jpg
+dtReleased: "2022-03-24"
+dtModified: ""
+fancy_name: Head of the Moles
+aetherPower: special_armor
+lb1:
+  power: 869
+  attack: 816
+  defense: 843
+  health: 1593
+lb2:
+  power: 977
+  attack: 934
+  defense: 965
+  health: 1823
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -50,4 +64,18 @@ costume:
   - 'Health Boost on Special Skill: When this characters casts their Special Skill,
     they boost the health of all their allies by 10%.'
   image: https://i.imgur.com/sPMKsgr.jpg
+  dtReleased: "2024-03-28"
+  dtModified: ""
+  fancy_name: Head Nurse
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1105
+    attack: 1059
+    defense: 1125
+    health: 2103
+  lb2:
+    power: 1246
+    attack: 1211
+    defense: 1287
+    health: 2407
 ...

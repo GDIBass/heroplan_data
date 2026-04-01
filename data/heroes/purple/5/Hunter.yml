@@ -1,7 +1,7 @@
 ---
 name: Hunter
 source: secretsummon
-family: cultist
+family: investigator
 speed: Fast
 class: Barbarian
 power: 1134
@@ -19,9 +19,24 @@ effects:
 types:
 - Defense debuff 1
 - Hit 1
-- Insanity
+- Insanity to nearby 2 on kill
+- Insanity Self
 passives:
 - 'Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/4a7tvJs.jpg
+dtReleased: "2024-06-04"
+dtModified: "2026-03-22"
+fancy_name: Descendant of the Old Ones
+aetherPower: attack_up
+lb1:
+  power: 1213
+  attack: 1276
+  defense: 1216
+  health: 2153
+lb2:
+  power: 1370
+  attack: 1460
+  defense: 1391
+  health: 2463
 ...

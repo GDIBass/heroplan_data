@@ -1,3 +1,4 @@
+---
 name: Jolly
 source: christmas
 family: christmas
@@ -9,13 +10,29 @@ defense: 464
 health: 961
 skill: Birch Blessing
 effects:
-  - Boosts health of all allies by 475. Boosted health can exceed max HP.
-  - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.
-  - All allies reduce all received damage by -45% for 6 turns.
-  - All allies get +35% mana generation for 6 turns.
+- Boosts health of all allies by 475. Boosted health can exceed max HP.
+- Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the
+  caster.
+- All allies reduce all received damage by -45% for 6 turns.
+- All allies get +35% mana generation for 6 turns.
 types:
-  - Health Boost
-  - Summoner
-  - Damage reduction
-  - Mana gen buff
+- Boost Health All
+- Summoner All
+- Damage Reduction Buff All
+- Mana Generation Buff All
 image: https://i.imgur.com/G067kns.jpg
+dtReleased: "2023-12-01"
+dtModified: "2026-03-20"
+fancy_name: Gnome Lumberjack
+aetherPower: regen
+lb1:
+  power: 543
+  attack: 512
+  defense: 525
+  health: 1089
+lb2:
+  power: 656
+  attack: 632
+  defense: 649
+  health: 1346
+...

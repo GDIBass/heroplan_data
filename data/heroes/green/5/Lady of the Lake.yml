@@ -1,3 +1,4 @@
+---
 name: Lady of the Lake
 source: avalon
 family: avalon
@@ -9,15 +10,31 @@ defense: 741
 health: 1312
 skill: Magical Sword
 effects:
-  - Recovers 42% health for all allies
-  - Summons a Magic Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster
-  - The Minion removes -10% mana from the target when it hits them
+- Recovers 42% health for all allies.
+- Summons a Magic Sword Minion for the caster and nearby allies with 14% HP and 15%
+  attack inherited from the caster.
+- The Minion removes -10% mana from the target when it hits them.
 types:
-  - Healer
-  - Summoner
-  - Mana Reduction
+- Healer
+- Summoner 3
+- Mana Reduction Minion
 image: https://i.imgur.com/hlRFlMx.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Sorceress of Avalon
+aetherPower: special_armor
+lb1:
+  power: 831
+  attack: 814
+  defense: 799
+  health: 1414
+lb2:
+  power: 933
+  attack: 932
+  defense: 914
+  health: 1617
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 977
@@ -26,11 +43,29 @@ costume:
   health: 1850
   skill: Blessed Blades
   effects:
-    - Boosts health of all allies by 550. Boosted health can exceed max HP.
-    - Summons a Magical Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster.
-    - 'Each hit from the Magical Sword Minion gives the target the following status ailment:'
-    - " * -24% mana generation for 3 turns. This effect can't be cleansed."
+  - Boosts health of all allies by 550. Boosted health can exceed max HP.
+  - Summons a Magical Sword Minion for the caster and nearby allies with 14% HP and
+    15% attack inherited from the caster.
+  - 'Each hit from the Magical Sword Minion gives the target the following status
+    ailment:'
+  - ' * -24% mana generation for 3 turns. This effect can''t be cleansed.'
   types:
-    - Health Boost
-    - Summoner
+  - Health Boost All
+  - Summoner 3
+  - Mana Generation Debuff Minion
   image: https://i.imgur.com/T9XV0yp.jpg
+  dtReleased: "2021-12-15"
+  dtModified: ""
+  fancy_name: Lady of Blades
+  aetherPower: heal_increase
+  lb1:
+    power: 1044
+    attack: 1020
+    defense: 1010
+    health: 1995
+  lb2:
+    power: 1176
+    attack: 1167
+    defense: 1155
+    health: 2282
+...

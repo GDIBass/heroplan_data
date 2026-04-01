@@ -1,3 +1,4 @@
+---
 name: Tarlak
 source: season2
 family: lagoon
@@ -9,13 +10,30 @@ defense: 667
 health: 1240
 skill: Martial Prowess
 effects:
-  - All allies get +100% normal attack for 4 turns. Stacks with similar status effects up to a maximum of +160% normal attack.
-  - All allies regenerate 324 HP over 4 turns.
+- All allies get +100% normal attack for 4 turns. This effect can be active in addition
+  to effects that alter attack in general. Normal attacks can have a total maximum
+  of +160% increased power while this effect is active.
+- All allies regenerate 324 HP over 4 turns.
 types:
-  - Titan Attack Buff
-  - HoT
+- Titan Attack Buff All
+- HoT All
 image: https://i.imgur.com/VmIENFl.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Prince of the Jungle
+aetherPower: counterattack
+lb1:
+  power: 824
+  attack: 888
+  defense: 719
+  health: 1336
+lb2:
+  power: 924
+  attack: 1016
+  defense: 822
+  health: 1529
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 944
@@ -24,9 +42,27 @@ costume:
   health: 1627
   skill: Kane Prowess
   effects:
-    - Boosts health for all allies by 470. Boosted health can exceed max HP.
-    - All allies get +80% normal attack for 5 turns. The normal attack is increased by +20% each turn. This effect can be active with addition to effect that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.
+  - Boosts health for all allies by 470. Boosted health can exceed max HP.
+  - All allies get +80% normal attack for 5 turns. The normal attack is increased
+    by +20% each turn. This effect can be active in addition to effects that alter
+    attack in general. Normal attacks can have a total maximum of +160% increased
+    power while this effect is active.
   types:
-    - Health Boost
-    - Titan Attack Buff
+  - Health Boost All
+  - Titan Attack Buff All
   image: https://i.imgur.com/UPOaKMz.jpg
+  dtReleased: "2022-12-12"
+  dtModified: "2026-03-20"
+  fancy_name: Prince of the Luʻau
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1008
+    attack: 935
+    defense: 1110
+    health: 1754
+  lb2:
+    power: 1135
+    attack: 1069
+    defense: 1270
+    health: 2007
+...

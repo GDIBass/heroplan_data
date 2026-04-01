@@ -10,12 +10,26 @@ defense: 565
 health: 1430
 skill: Ramming Pulverizer
 effects:
-- Deals 295% damage to the target and minor damage on nearby enemies.
-- The target an nearby enemies get -34% defense for 6 turns.
+- Deals 295% damage to the target and minor damage to nearby enemies.
+- The target and nearby enemies get -34% defense for 6 turns.
 types:
 - Hit 3
 - Defense Debuff 3
 image: https://i.imgur.com/A5zsfun.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: The Hungry
+aetherPower: rage
+lb1:
+  power: 690
+  attack: 618
+  defense: 614
+  health: 1553
+lb2:
+  power: 787
+  attack: 717
+  defense: 712
+  health: 1801
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +48,20 @@ costume:
   - Hit All
   - Heal All on Minion kill
   image: https://i.imgur.com/OxaIMH8.jpg
+  dtReleased: "2021-01-18"
+  dtModified: ""
+  fancy_name: The Coveteus
+  aetherPower: special_boost
+  lb1:
+    power: 741
+    attack: 676
+    defense: 672
+    health: 1658
+  lb2:
+    power: 846
+    attack: 784
+    defense: 779
+    health: 1922
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -50,6 +78,20 @@ costume2:
   - Dispeller All
   - Hit All
   image: https://i.imgur.com/6XbZQ2N.jpg
+  dtReleased: "2023-04-17"
+  dtModified: ""
+  fancy_name: The Epicurean
+  aetherPower: counterattack
+  lb1:
+    power: 792
+    attack: 796
+    defense: 685
+    health: 1690
+  lb2:
+    power: 904
+    attack: 923
+    defense: 794
+    health: 1959
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -70,6 +112,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/WFeaXms.jpg
+  dtReleased: "2024-05-06"
+  dtModified: ""
+  fancy_name: The Hungry Toon
+  aetherPower: rage
+  lb1:
+    power: 805
+    attack: 696
+    defense: 807
+    health: 1791
+  lb2:
+    power: 920
+    attack: 808
+    defense: 936
+    health: 2077
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -90,4 +146,18 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/k3y9GLJ.jpg
+  dtReleased: "2025-05-10"
+  dtModified: ""
+  fancy_name: The Hungry Vitrail
+  aetherPower: rage
+  lb1:
+    power: 819
+    attack: 714
+    defense: 818
+    health: 1826
+  lb2:
+    power: 936
+    attack: 828
+    defense: 949
+    health: 2117
 ...

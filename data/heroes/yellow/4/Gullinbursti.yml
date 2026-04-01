@@ -1,3 +1,4 @@
+---
 name: Gullinbursti
 source: season3
 family: asgard
@@ -9,13 +10,33 @@ defense: 607
 health: 1396
 skill: Angry Boar
 effects:
-  - Boosts health of all allies by 400. Boosted health can exceed max HP.
-  - The caster get +45% attack, and a further 20% increase every time they or any of their allies are hit during 3 turns. When the effect ends, all enemies receive 176 damage. Each hit on the caster or their allies during the duration increases the damage by 13 to a maximum of 332 damage.
+- Boosts health of all allies by 400. Boosted health can exceed max HP.
+- The caster get +45% attack, and a further 20% increase every time they or any of
+  their allies are hit during 3 turns, up to +285 attack. When the effect ends, all
+  enemies receive 176 damage. Each hit on the caster or their allies during the duration
+  increases the damage by 13 to a maximum of 332 damage.
 types:
-  - Health Boost
+- Boosted Heal All
+- Attack Buff Self
+- Delayed Damage All
 image: https://i.imgur.com/sx7Ooj7.jpg
+dtReleased: "2020-05-28"
+dtModified: "2026-03-20"
+fancy_name: Golden Boar
+aetherPower: heal_increase
+lb1:
+  power: 713
+  attack: 660
+  defense: 660
+  health: 1517
+lb2:
+  power: 813
+  attack: 765
+  defense: 765
+  health: 1758
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Cleric
   power: 685
   attack: 612
@@ -23,8 +44,29 @@ costume:
   health: 1486
   skill: Furious Boar
   effects:
-    - All allies regenerate 480 boosted health over 4 turns. Boosted health can exceed max HP.
-    - The caster gets +35% attack, and a further 15% increase every time they or any of their allies are hit during 4 turns. When the effect ends, all enemies receive 236 damage. Each hit on the caster or their allies during the duration increases the damage by 15 to a maximum of 416 damage.
+  - All allies regenerate 480 boosted health over 4 turns. Boosted health can exceed
+    max HP.
+  - The caster gets +35% attack, and a further 15% increase every time they or any
+    of their allies are hit during 4 turns, up to +215 attack. When the effect ends,
+    all enemies receive 236 damage. Each hit on the caster or their allies during
+    the duration increases the damage by 15 to a maximum of 416 damage.
   types:
-    - Health boost
+  - Boosted HoT All
+  - Attack Buff Self
+  - Delayed Damage All
   image: https://i.imgur.com/0fW6S7f.jpg
+  dtReleased: "2022-07-04"
+  dtModified: "2026-03-20"
+  fancy_name: Unchained Boar
+  aetherPower: defense_up
+  lb1:
+    power: 737
+    attack: 665
+    defense: 692
+    health: 1615
+  lb2:
+    power: 841
+    attack: 772
+    defense: 802
+    health: 1872
+...

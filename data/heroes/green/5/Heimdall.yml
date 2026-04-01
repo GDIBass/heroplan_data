@@ -1,3 +1,4 @@
+---
 name: Heimdall
 source: season3
 family: asgard
@@ -9,15 +10,30 @@ defense: 844
 health: 1417
 skill: Boon of Gjallarhorn
 effects:
-  - Boosts health of all allies by 500. Boosted health can exceed max HP.
-  - Each fallen ally has a 20% chance to get revived with 30% HP.
-  - All allies get +30% attack for 4 turns.
+- Boosts health of all allies by 500. Boosted health can exceed max HP.
+- Each defeated ally has a 20% chance to get revived with 30% HP.
+- All allies get +30% attack for 4 turns.
 types:
-  - Health Boost
-  - Reviver
-  - Attack Buff
+- Health Boost All
+- Reviver
+- Attack Buff All
 image: https://i.imgur.com/bjKzbra.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
+fancy_name: Vigilant Watchman
+aetherPower: heal_increase
+lb1:
+  power: 840
+  attack: 705
+  defense: 910
+  health: 1527
+lb2:
+  power: 943
+  attack: 807
+  defense: 1041
+  health: 1747
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 988
@@ -26,11 +42,27 @@ costume:
   health: 1887
   skill: Blessing of Gjallarhorn
   effects:
-    - Each fallen ally has 50% chance to get revived with 20% HP.
-    - All allies get +50% attack for 4 turns.
-    - All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.
+  - Each defeated ally has 50% chance to get revived with 20% HP.
+  - All allies get +50% attack for 4 turns.
+  - All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed
+    max HP.
   types:
-    - Revive
-    - Attack Buff
-    - Regeneration
+  - Reviver
+  - Attack Buff All
+  - Boosted HoT All
   image: https://i.imgur.com/YoTKnv0.jpg
+  dtReleased: "2022-10-24"
+  dtModified: "2026-03-23"
+  fancy_name: Dreaded Watchman
+  aetherPower: bulwark
+  lb1:
+    power: 1055
+    attack: 897
+    defense: 1184
+    health: 2034
+  lb2:
+    power: 1189
+    attack: 1027
+    defense: 1355
+    health: 2328
+...

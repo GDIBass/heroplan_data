@@ -19,10 +19,24 @@ effects:
 types:
 - Hit All
 - Cleanser
-- Attack buff
+- Attack Buff All per ailment removed
 passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
   a status ailment or negative stack.'
 image: https://i.imgur.com/wf4Kvkm.jpg
+dtReleased: "2024-01-01"
+dtModified: "2026-03-20"
+fancy_name: Knight of the Rose
+aetherPower: damage_reduction
+lb1:
+  power: 1018
+  attack: 939
+  defense: 1076
+  health: 1880
+lb2:
+  power: 1146
+  attack: 1074
+  defense: 1231
+  health: 2151
 ...

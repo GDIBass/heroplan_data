@@ -1,3 +1,4 @@
+---
 name: Agnes
 source: season3
 family: asgard
@@ -9,8 +10,24 @@ defense: 486
 health: 491
 skill: Precise Chop
 effects:
-  - Deals 320% damage to the target.
-  - The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
+- Deals 320% damage to the target.
+- The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
 types:
-  - Hit 1
+- Hit 1
+- Bypass Chance
 image: https://i.imgur.com/epjHmoJ.jpg
+dtReleased: "2020-05-28"
+dtModified: "2026-03-20"
+fancy_name: Courageous Villager
+aetherPower: attack_up
+lb1:
+  power: 517
+  attack: 630
+  defense: 551
+  health: 557
+lb2:
+  power: 624
+  attack: 778
+  defense: 681
+  health: 688
+...

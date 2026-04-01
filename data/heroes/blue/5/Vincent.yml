@@ -1,3 +1,4 @@
+---
 name: Vincent
 source: returntosanctuary
 family: gargoyle
@@ -9,16 +10,34 @@ defense: 1079
 health: 1915
 skill: Cold Fire
 effects:
-  - 'If the enemy has the Frost status ailment:'
-  - ' * All enemies get -30% defense against Ice for 5 turns.'
-  - ' * Deals 270% damage to all enemies.'
-  - 'Otherwise:'
-  - ' * Deals 200% damage to all enemies.'
-  - ' * All enemies receive 705 Frost damage over 5 turns.'
+- 'If the enemy has the Frost status ailment:'
+- ' * All enemies get -30% defense against Ice for 5 turns.'
+- ' * Deals 270% damage to all enemies.'
+- 'Otherwise:'
+- ' * Deals 200% damage to all enemies.'
+- ' * All enemies receive 705 Frost damage over 5 turns.'
 types:
-  - Elemental Defense Debuff
-  - Hit All
-  - DoT All
+- Elemental Defense Debuff
+- Hit All
+- DoT All
 passives:
-  - "Gargoyle's Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled."
+- 'Gargoyle''s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin
+  activates. The next 3 times they receive damage, it is reduced by -90%. They are
+  also immune to all status ailments, mana reductions and Insanity. This effect can''t
+  be dispelled.'
 image: https://i.imgur.com/L8aULPy.jpg
+dtReleased: "2024-10-17"
+dtModified: ""
+fancy_name: Frightened Gargoyle
+aetherPower: special_boost
+lb1:
+  power: 1183
+  attack: 1269
+  defense: 1163
+  health: 2064
+lb2:
+  power: 1336
+  attack: 1452
+  defense: 1330
+  health: 2362
+...

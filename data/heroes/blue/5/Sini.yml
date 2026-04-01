@@ -1,6 +1,7 @@
+---
 name: Sini
 source: hotm
-family: 2024
+family: "2024"
 speed: Average
 class: Wizard
 power: 999
@@ -9,16 +10,34 @@ defense: 974
 health: 1629
 skill: Conjure the Azure Spirit
 effects:
-  - Deals 280% damage to all enemies.
-  - Alters the power of all Ice shields on the board. When an attacking hero casts the special, the shields become enhanced with +54% attack. When a defending Hero casts the special, the shields becme weakened with -47% attack.
-  - Deals extra damage against Fire.
-  - Element Link gives all Ice allies +5% dodge chance for 6 turns. This effect cannot be dispelled.
+- Deals 280% damage to all enemies.
+- Alters the power of all Ice shields on the board. When an attacking hero casts the
+  special, the shields become enhanced with +54% attack. When a defending Hero casts
+  the special, the shields becme weakened with -47% attack.
+- Deals extra damage against Fire.
+- Element Link gives all Ice allies +5% dodge chance for 6 turns. This effect cannot
+  be dispelled.
 types:
-  - Hit All
-  - Board Alterer
+- Hit All
+- Board Alterer
 passives:
-  - >-
-    Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.
-  - >-
-    Status Effect on Mana Reduction: This character get +30% attack for 3 turns when their mana is reduced.
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skills.'
+- 'Status Effect on Mana Reduction: This character get +30% attack for 3 turns when
+  their mana is reduced.'
 image: https://i.imgur.com/IV4i4UQ.jpg
+dtReleased: "2024-07-01"
+dtModified: "2026-03-23"
+fancy_name: The Azure Conjurer
+aetherPower: special_boost
+lb1:
+  power: 1066
+  attack: 1149
+  defense: 1050
+  health: 1756
+lb2:
+  power: 1202
+  attack: 1315
+  defense: 1201
+  health: 2009
+...

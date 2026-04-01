@@ -14,6 +14,20 @@ effects:
 types:
 - Hit 3
 image: https://i.imgur.com/Sq218ZB.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Lizardfolk Fighter
+aetherPower: special_boost
+lb1:
+  power: 498
+  attack: 514
+  defense: 472
+  health: 866
+lb2:
+  power: 600
+  attack: 635
+  defense: 584
+  health: 1070
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -30,6 +44,20 @@ costume:
   - Hit 3
   - Defense Debuff 3
   image: https://i.imgur.com/aTgE0vq.jpg
+  dtReleased: "2020-05-18"
+  dtModified: ""
+  fancy_name: Lizardfolk Ancestor
+  aetherPower: counterattack
+  lb1:
+    power: 532
+    attack: 552
+    defense: 453
+    health: 1053
+  lb2:
+    power: 642
+    attack: 682
+    defense: 559
+    health: 1301
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -48,6 +76,20 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/DoAEWX7.jpg
+  dtReleased: "2024-07-16"
+  dtModified: ""
+  fancy_name: Toon Fighter
+  aetherPower: special_boost
+  lb1:
+    power: 570
+    attack: 548
+    defense: 530
+    health: 1182
+  lb2:
+    power: 689
+    attack: 677
+    defense: 654
+    health: 1460
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -66,4 +108,18 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/IDaamkI.jpg
+  dtReleased: "2025-09-07"
+  dtModified: ""
+  fancy_name: Glass Fighter
+  aetherPower: special_boost
+  lb1:
+    power: 585
+    attack: 574
+    defense: 539
+    health: 1204
+  lb2:
+    power: 707
+    attack: 709
+    defense: 666
+    health: 1487
 ...

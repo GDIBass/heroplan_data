@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/LQv6YPQ.jpg
+dtReleased: "2025-11-25"
+dtModified: ""
+fancy_name: Glass Assassin
+aetherPower: special_boost
+lb1:
+  power: 580
+  attack: 571
+  defense: 557
+  health: 1143
+lb2:
+  power: 702
+  attack: 706
+  defense: 689
+  health: 1413
 ...

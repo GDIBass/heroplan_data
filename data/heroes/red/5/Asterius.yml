@@ -1,3 +1,4 @@
+---
 name: Asterius
 source: villains
 family: villains
@@ -9,12 +10,29 @@ defense: 762
 health: 1355
 skill: Brutal Bull Rush
 effects:
-  - Deals 360% damage to the target and nearby enemies.
-  - Reduces the duration of the target and nearby enemies buffs by 1 turn.
-  - The target and nearby enemies receive Corrosive Burn for 3 turns. The Corrosive Burn deals 101 burn damage and lowers the targets defence by -16% each turn. Deals extra damage against heroes with Minions or Mega Minions.
+- Deals 360% damage to the target and nearby enemies.
+- Reduces the duration of the target and nearby enemies buffs by 1 turn.
+- The target and nearby enemies receive Corrosive Burn for 3 turns. The Corrosive
+  Burn deals 101 burn damage and lowers the targets defence by -16% each turn. Deals
+  extra damage against heroes with Minions or Mega Minions.
 types:
-  - Hit 3
-  - Buff Duration Reducer 3
-  - DoT 3
-  - Defense Debuff 3
+- Hit 3
+- Buff Duration Reducer 3
+- DoT 3
+- Defense Debuff 3
 image: https://i.imgur.com/i9C7vjL.jpg
+dtReleased: "2021-02-11"
+dtModified: ""
+fancy_name: Monstrous Minotaur
+aetherPower: bulwark
+lb1:
+  power: 855
+  attack: 845
+  defense: 821
+  health: 1460
+lb2:
+  power: 960
+  attack: 967
+  defense: 939
+  health: 1671
+...

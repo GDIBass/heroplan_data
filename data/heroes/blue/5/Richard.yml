@@ -16,6 +16,20 @@ types:
 - Hit 3
 - Attack Debuff 3
 image: https://i.imgur.com/G5NAe4a.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Hammer of Justice
+aetherPower: attack_up
+lb1:
+  power: 804
+  attack: 694
+  defense: 881
+  health: 1358
+lb2:
+  power: 903
+  attack: 795
+  defense: 1008
+  health: 1554
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +46,20 @@ costume:
   - Hit 3
   - Attack Debuff 3
   image: https://i.imgur.com/WKQthMP.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Axe of Justice
+  aetherPower: special_boost
+  lb1:
+    power: 906
+    attack: 792
+    defense: 1000
+    health: 1601
+  lb2:
+    power: 1019
+    attack: 906
+    defense: 1145
+    health: 1831
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -49,6 +77,20 @@ costume2:
   - Hit 3
   - Attack Debuff 3
   image: https://i.imgur.com/7TMtgd4.jpg
+  dtReleased: "2023-09-04"
+  dtModified: ""
+  fancy_name: Hammer of Injustice
+  aetherPower: rage
+  lb1:
+    power: 1031
+    attack: 1025
+    defense: 916
+    health: 2081
+  lb2:
+    power: 1162
+    attack: 1173
+    defense: 1048
+    health: 2381
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -69,6 +111,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/2rEfoQ7.jpg
+  dtReleased: "2023-10-30"
+  dtModified: ""
+  fancy_name: Hammer of Toon Power
+  aetherPower: attack_up
+  lb1:
+    power: 1209
+    attack: 1235
+    defense: 1101
+    health: 2456
+  lb2:
+    power: 1365
+    attack: 1413
+    defense: 1259
+    health: 2811
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -89,6 +145,20 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/zd4avma.jpg
+  dtReleased: "2024-12-25"
+  dtModified: ""
+  fancy_name: Hammer of Glass
+  aetherPower: attack_up
+  lb1:
+    power: 1322
+    attack: 1398
+    defense: 1239
+    health: 2580
+  lb2:
+    power: 1495
+    attack: 1600
+    defense: 1417
+    health: 2952
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -109,4 +179,18 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/e0Q6Y54.jpg
+  dtReleased: "2026-01-07"
+  dtModified: ""
+  fancy_name: Paladin of Style
+  aetherPower: attack_up
+  lb1:
+    power: 1385
+    attack: 1482
+    defense: 1306
+    health: 2690
+  lb2:
+    power: 1567
+    attack: 1696
+    defense: 1494
+    health: 3077
 ...

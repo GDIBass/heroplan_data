@@ -16,10 +16,24 @@ effects:
 - Each time a Lackey Minion hits an enemy, it steals a random dispellable buff from
   the enemy and gives it to its owner.
 types:
-- Heal All
+- Healer All
 - Summoner 3
 - Buff Stealing Minion
 image: https://i.imgur.com/PBEksgr.jpg
+dtReleased: "2022-03-14"
+dtModified: ""
+fancy_name: Brilliant Beauty
+aetherPower: attack_up
+lb1:
+  power: 890
+  attack: 868
+  defense: 859
+  health: 1580
+lb2:
+  power: 1000
+  attack: 993
+  defense: 982
+  health: 1808
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,13 +50,27 @@ costume:
   - Each time a Lackey Minion hits an enemy, it steals a random dispellable buff from
     the enemy and gives it to its owner.
   types:
-  - Healer
+  - Healer All
   - Summoner 3
   - Buff Stealing Minion
   passives:
   - 'Unstoppable Minions:'
-  - ' * Resistance against Minion removal.'
-  - ' * Can''t be prevented from receiving minions.'
+  - ' * Immune to effects that remove Minions.'
+  - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/ZWN9v1V.jpg
+  dtReleased: "2024-05-28"
+  dtModified: ""
+  fancy_name: Flower Beauty
+  aetherPower: defense_up
+  lb1:
+    power: 1181
+    attack: 1156
+    defense: 1174
+    health: 2311
+  lb2:
+    power: 1334
+    attack: 1323
+    defense: 1344
+    health: 2644
 ...

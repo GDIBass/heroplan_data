@@ -1,3 +1,4 @@
+---
 name: Aodhan
 source: slayers
 family: slayer
@@ -9,16 +10,33 @@ defense: 684
 health: 1298
 skill: Wily Wisps
 effects:
-  - Deals 210% damage to all enemies.
-  - Summons a Wisp Fiend for all enemies. The Fiend damages its target with 35% attack every turn.
-  - The Wisp Fiend absorbs healing. It disappears after absorbing a healing amount equal to 18% of its target's max health.
-  - 'Stack +2 (Max: 10): The caster gets +10% mana generation.'
-  - 'Stack (Max: 10): The caster recovers 10 HP each turn.'
+- Deals 210% damage to all enemies.
+- Summons a Wisp Fiend for all enemies. The Fiend damages its target with 35% attack
+  every turn.
+- The Wisp Fiend absorbs healing. It disappears after absorbing a healing amount equal
+  to 18% of its target's max health.
+- 'Stack +2 (Max: 10): The caster gets +10% mana generation.'
+- 'Stack (Max: 10): The caster recovers 10 HP each turn.'
 types:
-  - Hit All
-  - Fiend Summoner All
-  - Stack
+- Hit All
+- Fiend Summoner All
+- Stack
 passives:
-  - >-
-    Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.
+- 'Resist Damage from Status Effects: This character has innate resistance against
+  incoming damage from status effects.'
 image: https://i.imgur.com/81JNp9d.jpg
+dtReleased: "2021-08-05"
+dtModified: ""
+fancy_name: The Burning
+aetherPower: fiend_resist
+lb1:
+  power: 728
+  attack: 681
+  defense: 743
+  health: 1410
+lb2:
+  power: 831
+  attack: 789
+  defense: 861
+  health: 1635
+...

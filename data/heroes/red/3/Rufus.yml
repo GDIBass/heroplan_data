@@ -1,3 +1,4 @@
+---
 name: Rufus
 source: pets
 family: pets
@@ -9,16 +10,31 @@ defense: 467
 health: 808
 skill: Furry Logger's Swing
 effects:
-  - Deals 210% damage to all enemies.
-  - All enemies receive 216 Bleed damage over 4 turns.
-  - All enemies get -34% defense for 4 turns.
+- Deals 210% damage to all enemies.
+- All enemies receive 216 Bleed damage over 4 turns.
+- All enemies get -34% defense for 4 turns.
 types:
-  - Hit all
-  - Dot all
-  - Defense Debuff
+- Hit all
+- Dot all
+- Defense Debuff
 passives:
-  - >-
-    Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.
-  - >-
-    Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.
+- 'Friend of the Familiars: When a Minion is summoned to any ally, this character
+  gains 5% health and 5% mana. This effect can activate only once per turn.'
+- 'Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85%
+  damage to all enemies. This effect can activate only once per turn.'
 image: https://i.imgur.com/nTxGQkg.jpg
+dtReleased: "2022-11-03"
+dtModified: ""
+fancy_name: Furry Woodcutter
+aetherPower: regen
+lb1:
+  power: 540
+  attack: 569
+  defense: 529
+  health: 916
+lb2:
+  power: 652
+  attack: 703
+  defense: 654
+  health: 1131
+...

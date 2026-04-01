@@ -1,3 +1,4 @@
+---
 name: Li
 source: kingdom
 family: kingdom
@@ -9,10 +10,27 @@ defense: 486
 health: 813
 skill: Sickle of Wu
 effects:
-  - Deals 160% damage to all enemies.
-  - Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from the caster.
-  - The target hit by Wu Soldier Minion receives 156 Burn damage over 3 turns.
+- Deals 160% damage to all enemies.
+- Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from
+  the caster.
+- The target hit by Wu Soldier Minion receives 156 Burn damage over 3 turns.
 types:
-  - Hit All
-  - Summoner
+- Hit All
+- Summoner All
+- Minion with DoT
 image: https://i.imgur.com/6qcUvA0.jpg
+dtReleased: "2022-03-14"
+dtModified: ""
+fancy_name: Wu Footsoldier
+aetherPower: regen
+lb1:
+  power: 538
+  attack: 545
+  defense: 551
+  health: 921
+lb2:
+  power: 651
+  attack: 674
+  defense: 681
+  health: 1139
+...

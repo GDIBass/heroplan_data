@@ -10,15 +10,29 @@ defense: 704
 health: 1345
 skill: Summon Temple Guardians
 effects:
-- Recovers 42% health for all allies
+- Recovers 42% health for all allies.
 - Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from
-  the caster
+  the caster.
 - Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This
   effect can't be dispelled.
 types:
-- Healer
-- Summoner
+- Healer All
+- Summoner All
 image: https://i.imgur.com/gbHdhVI.jpg
+dtReleased: "2018-03-01"
+dtModified: "2026-03-20"
+fancy_name: Hero of the Forbidden Island
+aetherPower: defense_up
+lb1:
+  power: 818
+  attack: 794
+  defense: 759
+  health: 1449
+lb2:
+  power: 918
+  attack: 909
+  defense: 868
+  health: 1658
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -33,12 +47,26 @@ costume:
   - Summons a Guardian Minion for each ally with 25% HP and 30% attack inherited from
     the caster.
   - Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This
-    effect can't be displelled.
+    effect can't be dispelled.
   types:
-  - Healer
-  - Summoner
+  - Healer All
+  - Summoner All
   passives:
   - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
     the newest status ailment from all allies.'
   image: https://i.imgur.com/muqHGtI.jpg
+  dtReleased: "2023-05-15"
+  dtModified: "2026-03-20"
+  fancy_name: Guardian of the Celestial Temple
+  aetherPower: defense_up
+  lb1:
+    power: 1041
+    attack: 988
+    defense: 976
+    health: 2127
+  lb2:
+    power: 1174
+    attack: 1131
+    defense: 1116
+    health: 2434
 ...

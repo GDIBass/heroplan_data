@@ -1,3 +1,4 @@
+---
 name: Nibbles
 source: harvest
 family: fox
@@ -9,14 +10,30 @@ defense: 1176
 health: 2160
 skill: Paw in Every Pie
 effects:
-  - Recovers 20% health for all allies.
-  - Steals the latest dispellable buffs for all enemies and randomly distributes them on allies.
-  - All allies get lasting 310 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)
+- Recovers 20% health for all allies.
+- Steals the latest dispellable buffs for all enemies and randomly distributes them
+  on allies.
+- All allies get lasting 310 health regeneration per turn. (This effect lasts until
+  it is cleansed, replaced or removed.)
 types:
-  - Healer All
-  - Steals 1 Buff All
-  - Lasting HoT All
+- Healer All
+- Steals 1 Buff All
+- Lasting HoT All
 passives:
-  - >-
-    Decreased Healing: All enemies get -50% healing.
+- 'Decreased Healing: All enemies get -50% healing.'
 image: https://imgur.com/i6CnqeB.jpg
+dtReleased: "2025-06-03"
+dtModified: ""
+fancy_name: The Hungry Fox Kit
+aetherPower: regen
+lb1:
+  power: 1269
+  attack: 1325
+  defense: 1267
+  health: 2328
+lb2:
+  power: 1434
+  attack: 1516
+  defense: 1450
+  health: 2664
+...

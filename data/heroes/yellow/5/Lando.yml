@@ -1,3 +1,4 @@
+---
 name: Lando
 source: magic
 family: magiccarpet
@@ -9,24 +10,41 @@ defense: 1260
 health: 2311
 skill: Two-Step Swing
 effects:
-  - Safely cleanses status ailments for all allies.
-  - Deals 450% damage to all enemies.
-  - All allies deal 300-700 damage to a random enemy after 3 turns, based on the damage allies had taken while this effect was active. This effect is undispellable. (Maximum effect is achieved upon taking 50% of max health in damage.)
+- Safely cleanses status ailments for all allies.
+- Deals 450% damage to all enemies.
+- All allies deal 300-700 damage to a random enemy after 3 turns, based on the damage
+  allies had taken while this effect was active. This effect is undispellable. (Maximum
+  effect is achieved upon taking 50% of max health in damage.)
 types:
-  - Safely Cleanser All
-  - Hit All
-  - Delayed Damage All
+- Safely Cleanser All
+- Hit All
+- Delayed Damage All
 passives:
-  - >-
-     Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:
-  - " * Attack status ailments are transformed into +40% attack buffs for 3 turns."
-  - " * Defense status ailments are transformed into +40% defense buffs for 3 turns."
-  - " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns."
-  - >-
-    Flight Momentum: If this character has any amount of Flight Momentum, they receive:
-  - " * Up to +35% mana generation."
-  - " * Up to +25% extra chance to dodge."
-  - " * The effects diminish the less Flight Momentum character has."
-  - >-
-    Weaker Mega Minions: Enemy Mega Minions have -75% HP.
+- 'Transform Ailments: Each time this character casts their Special Skill, all cleansable
+  status ailments affecting attack, defense and mana generation on all allies are
+  transformed into matching undispellable buffs. Transformed effects:'
+- ' * Attack status ailments are transformed into +40% attack buffs for 3 turns.'
+- ' * Defense status ailments are transformed into +40% defense buffs for 3 turns.'
+- ' * Mana generation status ailments are transformed into +40% mana generation buffs
+  for 3 turns.'
+- 'Flight Momentum: If this character has any amount of Flight Momentum, they receive:'
+- ' * Up to +35% mana generation.'
+- ' * Up to +25% extra chance to dodge.'
+- ' * The effects diminish the less Flight Momentum character has.'
+- 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
 image: https://imgur.com/vcJysVw.jpg
+dtReleased: "2025-07-05"
+dtModified: ""
+fancy_name: Magic Carpet Charmer
+aetherPower: special_armor
+lb1:
+  power: 1302
+  attack: 1283
+  defense: 1358
+  health: 2490
+lb2:
+  power: 1472
+  attack: 1468
+  defense: 1554
+  health: 2849
+...

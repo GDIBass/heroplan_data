@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/swTTE4N.jpg
+dtReleased: "2024-03-11"
+dtModified: ""
+fancy_name: Toon Bounty Hunter
+aetherPower: attack_up
+lb1:
+  power: 804
+  attack: 915
+  defense: 707
+  health: 1436
+lb2:
+  power: 919
+  attack: 1061
+  defense: 820
+  health: 1665
 ...

@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/ufJrKaD.jpg
+dtReleased: "2023-12-25"
+dtModified: ""
+fancy_name: The Unwavering Toon
+aetherPower: defense_up
+lb1:
+  power: 806
+  attack: 759
+  defense: 910
+  health: 1439
+lb2:
+  power: 921
+  attack: 880
+  defense: 1055
+  health: 1668
 ...

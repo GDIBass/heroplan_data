@@ -1,3 +1,4 @@
+---
 name: Kageburado
 source: season2
 family: sakura
@@ -9,14 +10,29 @@ defense: 714
 health: 1248
 skill: Break Strike
 effects:
-  - Dispels buffs from the target.
-  - Deals 225% damage to the target.
-  - Deals 450% damage if the target has more than 50% health remaining.
+- Dispels buffs from the target.
+- Deals 225% damage to the target.
+- Deals 450% damage if the target has more than 50% health remaining.
 types:
-  - Dispeller 1
-  - Hit 1
+- Dispeller 1
+- Hit 1
 image: https://i.imgur.com/OUhEZUJ.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Cursed Warlord
+aetherPower: dodge
+lb1:
+  power: 823
+  attack: 841
+  defense: 770
+  health: 1345
+lb2:
+  power: 923
+  attack: 962
+  defense: 881
+  health: 1539
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 942
@@ -25,13 +41,28 @@ costume:
   health: 1643
   skill: Beetle Strike
   effects:
-    - Dispels buffs from the target.
-    - Deals 320% damage to the target.
-    - The target is immune to new status effect buffs for 2 turns.
-    - The target gets -34% defense for 2 turns.
+  - Dispels buffs from the target.
+  - Deals 320% damage to the target.
+  - The target is immune to new status effect buffs for 2 turns.
+  - The target gets -34% defense for 2 turns.
   types:
-    - Dispeller 1
-    - Hit 1
-    - Buff immunity 1
-    - Defense Debuff 1
+  - Dispeller 1
+  - Hit 1
+  - Buff Immunity 1
+  - Defense Debuff 1
   image: https://i.imgur.com/3Xk7Vld.jpg
+  dtReleased: "2021-11-15"
+  dtModified: ""
+  fancy_name: Beetle Samurai
+  aetherPower: counterattack
+  lb1:
+    power: 1006
+    attack: 1023
+    defense: 982
+    health: 1772
+  lb2:
+    power: 1133
+    attack: 1171
+    defense: 1123
+    health: 2027
+...

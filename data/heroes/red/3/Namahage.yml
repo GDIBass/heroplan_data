@@ -12,9 +12,23 @@ skill: Bloodthirst
 effects:
 - Deals 290% damage to the target.
 - The caster gets +45% attack, and a further 20% increase every time they are hit
-  during 5 turns.
+  during 5 turns, up to +145% attack.
 types:
 - Hit 1
 - Attack Buff Self
 image: https://i.imgur.com/7ovDLzi.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Straw Demon
+aetherPower: dodge
+lb1:
+  power: 501
+  attack: 596
+  defense: 474
+  health: 677
+lb2:
+  power: 604
+  attack: 737
+  defense: 586
+  health: 837
 ...

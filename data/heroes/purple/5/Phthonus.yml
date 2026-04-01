@@ -22,4 +22,18 @@ passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
   prevent the use of Special Skills.'
 image: https://i.imgur.com/OE7cx2p.jpg
+dtReleased: "2023-02-14"
+dtModified: ""
+fancy_name: Cupid of Envy
+aetherPower: mana_boost
+lb1:
+  power: 918
+  attack: 888
+  defense: 872
+  health: 1702
+lb2:
+  power: 1032
+  attack: 1016
+  defense: 998
+  health: 1948
 ...

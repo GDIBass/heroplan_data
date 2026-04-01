@@ -11,11 +11,25 @@ health: 1382
 skill: Deathstrike
 effects:
 - Deals 452% damage to the target.
-- The target receives 306 Poison damage over 6 turns.
+- The target receives 294 Poison damage over 6 turns.
 types:
 - Hit 1
 - DoT 1
 image: https://i.imgur.com/YBEHGb0.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Executioner from Descenthia
+aetherPower: dodge
+lb1:
+  power: 806
+  attack: 748
+  defense: 754
+  health: 1489
+lb2:
+  power: 904
+  attack: 855
+  defense: 863
+  health: 1704
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -30,6 +44,20 @@ costume:
   types:
   - Hit 1
   image: https://i.imgur.com/gwzMUaT.jpg
+  dtReleased: "2020-05-18"
+  dtModified: ""
+  fancy_name: Monstress of Descenthia
+  aetherPower: rage
+  lb1:
+    power: 910
+    attack: 795
+    defense: 895
+    health: 1832
+  lb2:
+    power: 1023
+    attack: 909
+    defense: 1024
+    health: 2097
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -48,6 +76,20 @@ costume2:
   - Hit 1
   - Minion Blocking 1
   image: https://i.imgur.com/I8cTetD.jpg
+  dtReleased: "2023-06-12"
+  dtModified: ""
+  fancy_name: Snake of Descenthia
+  aetherPower: damage_reduction
+  lb1:
+    power: 1037
+    attack: 970
+    defense: 933
+    health: 2224
+  lb2:
+    power: 1168
+    attack: 1110
+    defense: 1068
+    health: 2545
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -68,6 +110,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/V3r9sPS.jpg
+  dtReleased: "2023-10-30"
+  dtModified: ""
+  fancy_name: Toon Executioner
+  aetherPower: dodge
+  lb1:
+    power: 1216
+    attack: 1176
+    defense: 1163
+    health: 2528
+  lb2:
+    power: 1373
+    attack: 1346
+    defense: 1330
+    health: 2893
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -88,6 +144,20 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/fdUWQiQ.jpg
+  dtReleased: "2024-12-25"
+  dtModified: ""
+  fancy_name: Vitrail from Descenthia
+  aetherPower: dodge
+  lb1:
+    power: 1329
+    attack: 1332
+    defense: 1309
+    health: 2659
+  lb2:
+    power: 1503
+    attack: 1524
+    defense: 1497
+    health: 3042
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -108,4 +178,18 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/ViZ7Y7x.jpg
+  dtReleased: "2026-01-07"
+  dtModified: ""
+  fancy_name: Stylish Executioner
+  aetherPower: dodge
+  lb1:
+    power: 1393
+    attack: 1412
+    defense: 1379
+    health: 2772
+  lb2:
+    power: 1576
+    attack: 1616
+    defense: 1578
+    health: 3171
 ...

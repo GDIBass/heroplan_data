@@ -18,4 +18,18 @@ types:
 - Hit 3
 - Defense Debuff 3
 image: https://i.imgur.com/npmSFHz.jpg
+dtReleased: "2022-10-31"
+dtModified: ""
+fancy_name: Ancient of the Underworld
+aetherPower: rage
+lb1:
+  power: 1030
+  attack: 1030
+  defense: 893
+  health: 2109
+lb2:
+  power: 1161
+  attack: 1179
+  defense: 1022
+  health: 2414
 ...

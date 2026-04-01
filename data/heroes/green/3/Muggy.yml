@@ -1,3 +1,4 @@
+---
 name: Muggy
 source: season2
 family: lagoon
@@ -9,12 +10,28 @@ defense: 373
 health: 420
 skill: Bruiser Bros
 effects:
-  - 'All allies become Bruiser Bros for 4 turns. If an ally is defeated while being a Bruiser Bro they will be reborn as a Chameleon with:'
-  - ' * 66% health.'
-  - ' * Increased attack.'
-  - ' * Decreased defense.'
-  - ' * Devastating Special Skill: Fierce Slash.'
-  - ' * This effect cannot be dispelled.'
+- 'All allies become Bruiser Bros for 4 turns. If an ally is defeated while being
+  a Bruiser Bro they will be reborn as a Chameleon with:'
+- ' * 66% health.'
+- ' * Increased attack.'
+- ' * Decreased defense.'
+- ' * Devastating Special Skill: Fierce Slash.'
+- ' * This effect cannot be dispelled.'
 types:
-  - Zombie Buff
+- Zombie Buff
 image: https://i.imgur.com/oEhD3JD.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Chameleon Warrior
+aetherPower: attack_up
+lb1:
+  power: 501
+  attack: 719
+  defense: 423
+  health: 476
+lb2:
+  power: 604
+  attack: 888
+  defense: 523
+  health: 589
+...

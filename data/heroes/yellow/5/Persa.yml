@@ -30,15 +30,30 @@ effects:
   effect spreads to nearby enemies. (Affects only mana gained from matching tiles
   or mana gained by the defense team at the of their turn.)'
 types:
-- Buff Stealer 1/3
+- Buff Stealer 1
 - Hit 1
 - Spreading DoT  1
+- Mana Generation Debuff DoT
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
   character casts their Special Skill'
 - ' * Deals 80% damage to all enemies.'
 - ' * The caster get +19% mana generation for 2 turns.'
 image: https://i.imgur.com/XWgWbVt.jpg
+dtReleased: "2023-10-25"
+dtModified: "2026-03-20"
+fancy_name: Water Spirit of Plunder
+aetherPower: attack_up
+lb1:
+  power: 1029
+  attack: 1054
+  defense: 1105
+  health: 1618
+lb2:
+  power: 1160
+  attack: 1206
+  defense: 1264
+  health: 1851
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -69,14 +84,29 @@ costume:
     This effect spreads to nearby enemies.(Affects only mana gained from matching
     tiles or mana gained by the defense team at the of their turn.)'
   types:
-  - Buff Stealer
+  - Buff Stealer 1
   - Hit 1
-  - Spreading DoT
+  - Spreading DoT 1
+  - Mana Generation Debuff DoT
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
     character casts their Special Skill'
   - ' * Deals 80% damage to all enemies.'
   - ' * The caster get +19% mana generation for 2 turns.'
-  - 'Resist Insanity: This character has innate resistance against Insanity.'
+  - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/nKfadia.jpg
+  dtReleased: "2025-01-09"
+  dtModified: "2026-03-20"
+  fancy_name: Jellyfish Noble
+  aetherPower: special_boost
+  lb1:
+    power: 1283
+    attack: 1363
+    defense: 1400
+    health: 2071
+  lb2:
+    power: 1451
+    attack: 1560
+    defense: 1602
+    health: 2370
 ...

@@ -1,3 +1,4 @@
+---
 name: Scoratek
 source: season5
 family: moon
@@ -9,20 +10,38 @@ defense: 654
 health: 1387
 skill: Scarab Throw
 effects:
-  - Deals 190% damage to the target.
-  - Summons a Bomb Scarab Fiend for the target. The Fiend damages its target with 38% attack every turn.
-  - The Bomb Scarab Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner's max health.
-  - The Bomb Scarab Fiend explodes after 3 turns, dealing 600 damage to its target and minor damage to nearby enemies.
+- Deals 190% damage to the target.
+- Summons a Bomb Scarab Fiend for the target. The Fiend damages its target with 38%
+  attack every turn.
+- The Bomb Scarab Fiend absorbs healing and disappears when it has absorbed health
+  equal to 30% of its owner's max health.
+- The Bomb Scarab Fiend explodes after 3 turns, dealing 600 damage to its target and
+  minor damage to nearby enemies.
 types:
-  - Hit 1
-  - Exploding Fiend Summoner 1
+- Hit 1
+- Exploding Fiend Summoner 1
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * All enemies get -24% mana generation for 3 turns.'
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 70% damage to all enemies.'
+- ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/cEv4g9a.jpg
+dtReleased: "2022-04-21"
+dtModified: "2026-03-20"
+fancy_name: Scarab Guard
+aetherPower: fiend_resist
+lb1:
+  power: 735
+  attack: 688
+  defense: 711
+  health: 1507
+lb2:
+  power: 839
+  attack: 797
+  defense: 824
+  health: 1748
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 700
@@ -31,20 +50,38 @@ costume:
   health: 1420
   skill: Scarab Barrage
   effects:
-    - Deals 125% damage to the target.
-    - Summons a Scarab Bomb Fiend for the target. The Fiend damages the enemy with 38% attack every turn.
-    - The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner's max health.
-    - The Scarab Bomb Fiend explodes after 3 turns, dealing 900 damage to its target and minor damage to nearby enemies.
+  - Deals 125% damage to the target.
+  - Summons a Scarab Bomb Fiend for the target. The Fiend damages the enemy with 38%
+    attack every turn.
+  - The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed health
+    equal to 30% of its owner's max health.
+  - The Scarab Bomb Fiend explodes after 3 turns, dealing 900 damage to its target
+    and minor damage to nearby enemies.
   types:
-    - Hit 1
-    - Exploding Fiend Summoner 1
+  - Hit 1
+  - Exploding Fiend Summoner 1
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 70% damage to all enemies.'
-    - ' * Dispels the latest dispellable buff from enemies.'
-    - >-
-      Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
-    - >-
-      Resist Sand Damage: This character has innate resistance against sand damage.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * Dispels the latest dispellable buff from enemies.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  - 'Resist Sand: This character is immune to status ailments that deal Sand damage.'
   image: https://i.imgur.com/uNnOzl3.jpg
+  dtReleased: "2025-01-20"
+  dtModified: "2026-03-20"
+  fancy_name: Scarab Sentinel
+  aetherPower: boosted_regen
+  lb1:
+    power: 754
+    attack: 732
+    defense: 704
+    health: 1544
+  lb2:
+    power: 861
+    attack: 849
+    defense: 816
+    health: 1790
+...

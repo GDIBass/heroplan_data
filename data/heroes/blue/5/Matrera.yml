@@ -21,4 +21,18 @@ passives:
   hardens. The next 4 times they receive damage, it is dropped to 1. This effect can''t
   be dispelled.'
 image: https://i.imgur.com/5yPwJb7.jpg
+dtReleased: "2022-12-29"
+dtModified: ""
+fancy_name: Shadowy Gargoyle
+aetherPower: special_boost
+lb1:
+  power: 907
+  attack: 888
+  defense: 868
+  health: 1631
+lb2:
+  power: 1019
+  attack: 1016
+  defense: 993
+  health: 1866
 ...

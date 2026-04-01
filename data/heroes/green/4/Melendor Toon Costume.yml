@@ -24,4 +24,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/3swBEW4.jpg
+dtReleased: "2024-01-22"
+dtModified: ""
+fancy_name: Toon Wizard
+aetherPower: special_armor
+lb1:
+  power: 798
+  attack: 869
+  defense: 791
+  health: 1340
+lb2:
+  power: 912
+  attack: 1008
+  defense: 917
+  health: 1554
 ...

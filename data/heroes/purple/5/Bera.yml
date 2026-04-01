@@ -1,3 +1,4 @@
+---
 name: Bera
 source: season3
 family: vanaheim
@@ -9,16 +10,32 @@ defense: 749
 health: 1369
 skill: Disir of Dusk
 effects:
-  - Summons a Moth Minion for each ally. The Moth Minion inherits 20% HP and 20% attack from the caster.
-  - 'Each hit from a Moth Minon gives the target the following status ailments:'
-  - ' * The target receives 207 Poison damage over 3 turns.'
-  - ' * The target resists new Minions for 3 turns.'
+- Summons a Moth Minion for each ally. The Moth Minion inherits 20% HP and 20% attack
+  from the caster.
+- 'Each hit from a Moth Minion gives the target the following status ailments:'
+- ' * The target receives 180 Poison damage over 3 turns.'
+- ' * The target resists new Minions for 3 turns.'
 types:
-  - Summoner
-  - Minion Blocking
-  - DoT 1
+- Summoner All
+- Minion hit with DoT 1
+- Minion hit with Minion Blocking
 image: https://i.imgur.com/NBFcAXz.jpg
+dtReleased: "2020-09-24"
+dtModified: "2026-03-23"
+fancy_name: Princess of the Disir
+aetherPower: defense_up
+lb1:
+  power: 838
+  attack: 801
+  defense: 808
+  health: 1476
+lb2:
+  power: 940
+  attack: 916
+  defense: 924
+  health: 1689
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 984
@@ -27,12 +44,28 @@ costume:
   health: 1912
   skill: Disir of Dreams
   effects:
-    - Summons a Moth Minion for each ally. Moth Minion inherits 30% attack and 30% HP from the caster.
-    - 'Each hit from the Moth Minion gives the target the following status ailments:'
-    - ' * The target receives 138 Poison damage over 3 turns.'
-    - " * The target can't receive new Minions for 3 turns."
+  - Summons a Moth Minion for each ally. Moth Minion inherits 30% attack and 30% HP
+    from the caster.
+  - 'Each hit from the Moth Minion gives the target the following status ailments:'
+  - ' * The target receives 153 Poison damage over 3 turns.'
+  - ' * The target can''t receive new Minions for 3 turns.'
   types:
-    - Summoner
-    - Minion Blocking
-    - DoT 1
+  - Summoner All
+  - Minion hit with DoT 1
+  - Minion hit with Minion Blocking
   image: https://i.imgur.com/jUs21jO.jpg
+  dtReleased: "2023-06-05"
+  dtModified: "2026-03-23"
+  fancy_name: Conjurer of the Disir
+  aetherPower: bulwark
+  lb1:
+    power: 1051
+    attack: 1025
+    defense: 997
+    health: 2061
+  lb2:
+    power: 1185
+    attack: 1173
+    defense: 1141
+    health: 2359
+...

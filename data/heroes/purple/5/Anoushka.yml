@@ -28,4 +28,18 @@ passives:
 - 'Health Recovery on Status Ailment Received: This character recovers 10% health
   when they receive a status ailment or negative stack.'
 image: https://i.imgur.com/mDRIe3A.jpg
+dtReleased: "2024-03-01"
+dtModified: ""
+fancy_name: The Reclusive Seeress
+aetherPower: regen
+lb1:
+  power: 1031
+  attack: 972
+  defense: 1061
+  health: 1926
+lb2:
+  power: 1162
+  attack: 1112
+  defense: 1214
+  health: 2204
 ...

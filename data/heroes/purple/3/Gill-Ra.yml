@@ -1,3 +1,4 @@
+---
 name: Gill-Ra
 source: season2
 family: lagoon
@@ -9,16 +10,31 @@ defense: 453
 health: 747
 skill: Lament of Regression
 effects:
-  - All enemies get -34% defense for 4 turns.
-  - All enemies get -34% attack for 4 turns.
-  - Cleanses status ailments from all allies.
+- All enemies get -34% defense for 4 turns.
+- All enemies get -34% attack for 4 turns.
+- Cleanses status ailments from all allies.
 types:
-  - Defense Debuff
-  - Attack Debuff
-  - Cleanser
+- Defense Debuff All
+- Attack Debuff All
+- Cleanser All
 image: https://i.imgur.com/5yoZu18.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Shallows Hunter
+aetherPower: counterattack
+lb1:
+  power: 500
+  attack: 494
+  defense: 514
+  health: 847
+lb2:
+  power: 602
+  attack: 610
+  defense: 635
+  health: 1046
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Rogue
   power: 463
   attack: 478
@@ -26,11 +42,26 @@ costume:
   health: 767
   skill: Lament of the Hunt
   effects:
-    - All allies get +25% defense for 4 turns.
-    - All allies get +25% attack for 4 turns.
-    - Dispells buffs from all enemies.
+  - All allies get +25% defense for 4 turns.
+  - All allies get +25% attack for 4 turns.
+  - Dispells buffs from all enemies.
   types:
-    - Defense Buff
-    - Attack Buff
-    - Dispeller
+  - Defense Buff All
+  - Attack Buff All
+  - Dispeller All
   image: https://i.imgur.com/bezss9U.jpg
+  dtReleased: "2023-04-03"
+  dtModified: "2026-03-20"
+  fancy_name: Shallows Pursuer
+  aetherPower: special_armor
+  lb1:
+    power: 517
+    attack: 543
+    defense: 501
+    health: 870
+  lb2:
+    power: 623
+    attack: 671
+    defense: 619
+    health: 1075
+...

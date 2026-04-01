@@ -25,4 +25,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/jRBcqpn.jpg
+dtReleased: "2025-03-11"
+dtModified: ""
+fancy_name: Glass Healer
+aetherPower: special_armor
+lb1:
+  power: 579
+  attack: 555
+  defense: 627
+  health: 1032
+lb2:
+  power: 700
+  attack: 686
+  defense: 775
+  health: 1275
 ...

@@ -1,24 +1,43 @@
+---
 name: Sergei
-class: Druid
 source: magic
 family: magic
 speed: Magic
+class: Druid
 power: 678
 attack: 658
 defense: 620
 health: 1351
 skill: Midnight Moon
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200% mana:'
-  - '1x Mana Charge:'
-  - ' * All enemies get -54% defense against Dark for 3 turns.'
-  - '2x Mana Charge:'
-  - ' * All allies get +100% normal attack for 5 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increase power while this effect is active.'
+- 'Special Skill has a different effect when charged with 100%/200% mana:'
+- '1x Mana Charge:'
+- ' * All enemies get -54% defense against Dark for 3 turns.'
+- '2x Mana Charge:'
+- ' * All allies get +100% normal attack for 5 turns. This effect can be active in
+  addition to effects that alter attack in general. Normal attacks can have a total
+  maximum of +160% increase power while this effect is active.'
 types:
-  - Elemental Defense Debuff
-  - Normal attack buff
-  - Charge
+- Elemental Defense Debuff
+- Normal attack buff
+- Charge
 passives:
-  - >-
-    Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.
+- 'Damage on Special: When this character casts their Special Skill, they have a 50%
+  chance to deal 100% damage to all enemies. If the Special Skill is fully charged,
+  the chance is 100%.'
 image: https://i.imgur.com/2gnuaoM.jpg
+dtReleased: "2021-09-15"
+dtModified: ""
+fancy_name: Student of the Arcane
+aetherPower: special_armor
+lb1:
+  power: 729
+  attack: 715
+  defense: 674
+  health: 1468
+lb2:
+  power: 832
+  attack: 829
+  defense: 781
+  health: 1702
+...

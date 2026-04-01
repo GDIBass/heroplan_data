@@ -39,4 +39,18 @@ passives:
 - 'Beautiful Inside: Whenever this character would take damage from a status ailment
   or from a negative stack, they will recover that much health instead.'
 image: https://imgur.com/B98TRPW.jpg
+dtReleased: "2026-03-15"
+dtModified: ""
+fancy_name: Impatient Clock of the Bewitched Castle
+aetherPower: special_boost
+lb1:
+  power: 1377
+  attack: 1465
+  defense: 1400
+  health: 2486
+lb2:
+  power: 1558
+  attack: 1676
+  defense: 1602
+  health: 2844
 ...

@@ -24,14 +24,28 @@ effects:
 types:
 - Hit 3
 - Ballad of Passion 3
-- Blind 3
-- Defense Debuff 3
-- Buff Immunity 3
+- Blind 3  while dancing
+- Defense Debuff 3  while dancing
+- Buff Immunity 3  while dancing
 passives:
-- 'Resist Attack Ailments: This character has innate resistance against status ailments
-  that affect attack.'
+- 'Resist Attack Ailments: This character is immune to status ailments that affect
+  attack.'
 - 'Heal when status ailment expires or is cleared: This character receives 5% health
   each time a status ailment expires or is cleansed, removed or reallocated from them.
   This effect can activate only once per turn.'
 image: https://i.imgur.com/x8CUwhf.jpg
+dtReleased: "2023-11-30"
+dtModified: ""
+fancy_name: Songbird of the Opera
+aetherPower: counterattack
+lb1:
+  power: 1022
+  attack: 1072
+  defense: 963
+  health: 1802
+lb2:
+  power: 1151
+  attack: 1226
+  defense: 1102
+  health: 2062
 ...

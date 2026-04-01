@@ -24,4 +24,18 @@ types:
 - Hit Random
 - Debuffs if SS use on hit
 image: https://i.imgur.com/YcbkyW1.jpg
+dtReleased: "2022-10-06"
+dtModified: ""
+fancy_name: Figurehead of Corellia
+aetherPower: defense_up
+lb1:
+  power: 891
+  attack: 883
+  defense: 859
+  health: 1549
+lb2:
+  power: 1001
+  attack: 1010
+  defense: 982
+  health: 1772
 ...

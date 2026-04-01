@@ -17,6 +17,20 @@ types:
 - Hit 1
 - Blind 1
 image: https://i.imgur.com/9aCbPHu.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Noble Defender
+aetherPower: attack_up
+lb1:
+  power: 490
+  attack: 531
+  defense: 464
+  health: 786
+lb2:
+  power: 591
+  attack: 657
+  defense: 574
+  health: 971
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +48,20 @@ costume:
   - Hit 1
   - Blind 1
   image: https://i.imgur.com/oMyq8FB.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Noble Brawler
+  aetherPower: special_boost
+  lb1:
+    power: 523
+    attack: 611
+    defense: 489
+    health: 773
+  lb2:
+    power: 632
+    attack: 755
+    defense: 604
+    health: 955
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -54,6 +82,20 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/IQ13bAv.jpg
+  dtReleased: "2024-03-11"
+  dtModified: ""
+  fancy_name: Toon Brawler
+  aetherPower: attack_up
+  lb1:
+    power: 561
+    attack: 623
+    defense: 514
+    health: 964
+  lb2:
+    power: 678
+    attack: 769
+    defense: 635
+    health: 1191
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -74,4 +116,18 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/GXkDkIq.jpg
+  dtReleased: "2025-05-10"
+  dtModified: ""
+  fancy_name: Glass Brawler
+  aetherPower: attack_up
+  lb1:
+    power: 575
+    attack: 643
+    defense: 523
+    health: 993
+  lb2:
+    power: 695
+    attack: 795
+    defense: 646
+    health: 1227
 ...

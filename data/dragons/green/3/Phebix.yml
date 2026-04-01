@@ -1,0 +1,39 @@
+---
+name: Phebix
+source: ancientUnderroot
+speed: Average
+power: 7830
+attack: 9595
+defense: 9560
+health: 8750
+skill: Sticky Tongue
+effects:
+- Deals 300% damage to the target.
+- Steals 2 random dispellable buffs from the target to the caster.
+- The caster steals 50% of any healing apllied to the target for 4 turns.
+types:
+- Hit 1
+- Steal 2 Buff 1
+- Steal Healing 1
+spiritBonus:
+  spiritClass: Ranger
+  all:
+    attack: "+100"
+    defense: "+80"
+    health: "+30"
+  elementalBond:
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
+  classLink:
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
+assist:
+  name: Dampening Blaze
+  effects:
+  - Deals 370 damage to all enemies.
+  - Recovers 50 health for all allies.
+  - All enemies get -10% mana generation for 5 turns.
+image: https://imgur.com/lMcBsAM.jpg
+...

@@ -1,3 +1,4 @@
+---
 name: Jax
 source: shadow
 family: forsaken
@@ -9,10 +10,26 @@ defense: 568
 health: 908
 skill: Ravenous Pounce
 effects:
-  - Deals 175% damage to the enemies on the edges of the enemy formation and inflicts 15 Insanity on them. If there is only one enemy the damage and Insanity is doubled.
-  - Inflicts 35 Instanity to the caster.
+- Deals 175% damage to the enemies on the edges of the enemy formation and inflicts
+  15 Insanity on them. If there is only one enemy the damage and Insanity are doubled.
+- Casting this Special Skill inflicts 35 Insanity on the caster.
 types:
-  - Hit 2
-  - Insanity 2
-  - Self Insanity
+- Hit 2
+- Insanity 2
+- Insanity Self
 image: https://imgur.com/Yf9tnXF.jpg
+dtReleased: "2025-12-03"
+dtModified: "2026-03-22"
+fancy_name: Hounding Hooligan
+aetherPower: attack_up
+lb1:
+  power: 600
+  attack: 604
+  defense: 644
+  health: 1030
+lb2:
+  power: 727
+  attack: 747
+  defense: 795
+  health: 1272
+...

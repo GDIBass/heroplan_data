@@ -29,4 +29,18 @@ types:
 - Hit 1/3/All
 - Mana Boost All on Minion kill
 image: https://i.imgur.com/yKvm70P.jpg
+dtReleased: "2022-02-02"
+dtModified: ""
+fancy_name: Ninja of Perfect Precision
+aetherPower: special_boost
+lb1:
+  power: 872
+  attack: 885
+  defense: 759
+  health: 1607
+lb2:
+  power: 979
+  attack: 1013
+  defense: 868
+  health: 1838
 ...

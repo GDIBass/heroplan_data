@@ -1,3 +1,4 @@
+---
 name: Ratatoskr
 source: season3
 family: alfheim
@@ -9,13 +10,30 @@ defense: 741
 health: 1353
 skill: Nuts of Yggdrasil
 effects:
-  - Recovers 44% health for all allies.
-  - Alters the power of All Nature shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.
+- Recovers 44% health for all allies.
+- Alters the power of All Nature shields on the board. When an attacking Hero casts
+  the special, the shields become enhanced with +64% attack. When a defending Hero
+  casts the special, the shields become weakened with -57% attack.
 types:
-  - Healer
-  - Board Alterer
+- Healer All
+- Board Alterer
 image: https://i.imgur.com/IwBPUx4.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Messenger of Yggdrasil
+aetherPower: defense_up
+lb1:
+  power: 837
+  attack: 812
+  defense: 799
+  health: 1458
+lb2:
+  power: 939
+  attack: 929
+  defense: 914
+  health: 1668
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 982
@@ -24,9 +42,26 @@ costume:
   health: 1684
   skill: Roots of Yggdrasil
   effects:
-    - All allies regenerate 795 HP over 3 turns.
-    - Alters the power of all Nature shields on the board. When an attacking Hero casts the special, the shields become enhance with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.
+  - All allies regenerate 795 HP over 3 turns.
+  - Alters the power of all Nature shields on the board. When an attacking Hero casts
+    the special, the shields become enhance with +64% attack. When a defending Hero
+    casts the special, the shields become weakened with -57% attack.
   types:
-    - Healer
-    - Board Alterer
+  - HoT All
+  - Board Alterer
   image: https://i.imgur.com/AZRDhg4.jpg
+  dtReleased: "2023-09-25"
+  dtModified: ""
+  fancy_name: Architect of Yggdrasil
+  aetherPower: bulwark
+  lb1:
+    power: 1049
+    attack: 1165
+    defense: 937
+    health: 1816
+  lb2:
+    power: 1182
+    attack: 1332
+    defense: 1072
+    health: 2077
+...

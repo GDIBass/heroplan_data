@@ -1,6 +1,7 @@
+---
 name: Alasie
 source: hotm
-family: 2018
+family: "2018"
 speed: Fast
 class: Ranger
 power: 768
@@ -9,14 +10,31 @@ defense: 706
 health: 1336
 skill: Spirit Arrow
 effects:
-  - Deals 542% damage to the target
-  - The target and nearby enemies get -24% mana generation for 3 turns. This effect can't be cleansed
-  - Elemental Link gives all Ice allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed
+- Deals 542% damage to the target.
+- The target and nearby enemies get -24% mana generation for 3 turns. This effect
+  can't be cleansed.
+- Elemental Link gives all Ice allies +5% attack and +5% defense for 6 turns. This
+  effect can't be cleansed.
 types:
-  - Hit 1
-  - Mana Generation Debuff
+- Hit 1
+- Mana Generation Debuff 3
 image: https://i.imgur.com/xx3qiK5.jpg
+dtReleased: "2018-05-01"
+dtModified: ""
+fancy_name: Huntress of Ice Giants
+aetherPower: attack_up
+lb1:
+  power: 818
+  attack: 796
+  defense: 761
+  health: 1440
+lb2:
+  power: 918
+  attack: 911
+  defense: 871
+  health: 1648
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 976
@@ -25,15 +43,31 @@ costume:
   health: 1953
   skill: Arrow of Nujalik
   effects:
-    - Deals 496% damage to the target and minor damage to nearby enemies.
-    - Reduces the mana of the target and nearby enemies by 10%.
-    - The target and nearby enemies get -24% mana generation for 3 turns. 
-    - Element Link gives all Ice  allies +5% attack and +5% defense for 6 turns. This effect can't be dispelled.
+  - Deals 496% damage to the target and minor damage to nearby enemies.
+  - Reduces the mana of the target and nearby enemies by 10%.
+  - The target and nearby enemies get -24% mana generation for 3 turns.
+  - Element Link gives all Ice  allies +5% attack and +5% defense for 6 turns. This
+    effect can't be dispelled.
   types:
-    - Hit 3
-    - Mana reduction 3
-    - Mana Generation Debuff 3
+  - Hit 3
+  - Mana Reduction 3
+  - Mana Generation Debuff 3
   passives:
-    - >-
-      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
+  - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
+    the newest status ailment from all allies.'
   image: https://i.imgur.com/UQE64tc.jpg
+  dtReleased: "2021-12-23"
+  dtModified: ""
+  fancy_name: Iceberg Champion
+  aetherPower: special_boost
+  lb1:
+    power: 1043
+    attack: 1008
+    defense: 967
+    health: 2105
+  lb2:
+    power: 1175
+    attack: 1154
+    defense: 1107
+    health: 2408
+...

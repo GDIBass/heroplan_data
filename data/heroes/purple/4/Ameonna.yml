@@ -1,3 +1,4 @@
+---
 name: Ameonna
 source: season2
 family: sakura
@@ -9,15 +10,34 @@ defense: 527
 health: 1054
 skill: Ghost
 effects:
-  - Casts Full Removal on the caster.
-  - The caster shifts into Ghost Form for 4 turns.
-  - While in Ghost form the caster gains +82% attack. While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.
+- Casts Full Removal on the caster.
+- The caster shifts into Ghost Form for 4 turns.
+- While in Ghost form the caster gains +82% attack. (While in Ghost form Character
+  can't gain mana and can't be healed by Special Skills, but is immune to normal attacks,
+  Special Skill attacks, damage dealing passives, status effects and stacks. Immune
+  to new Growth, Wither and Insanity effects.)
 types:
-  - Self Full Removal
-  - Ghost
+- Self Full Removal
+- Ghost Self
+- Attack Buff Self while ghost
 image: https://i.imgur.com/VkDdipF.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Lone Ghost
+aetherPower: special_armor
+lb1:
+  power: 698
+  attack: 838
+  defense: 572
+  health: 1145
+lb2:
+  power: 796
+  attack: 971
+  defense: 663
+  health: 1327
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Wizard
   power: 671
   attack: 700
@@ -25,13 +45,31 @@ costume:
   health: 1139
   skill: Yurei
   effects:
-    - Casts Full Removal on the caster.
-    - The caster shifts into Ghost Form for 4 turns. While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.
-    - While in Ghost form, all allies except the caster have +44% defense.
-    - While in Ghost form, all allies except the caster regenerate 140 HP every turn.
+  - Casts Full Removal on the caster.
+  - The caster shifts into Ghost Form for 4 turns. (While in Ghost form Character
+    can't gain mana and can't be healed by Special Skills, but is immune to normal
+    attacks, Special Skill attacks, damage dealing passives, status effects and stacks.
+    Immune to new Growth, Wither effects and Insanity effects.)
+  - While in Ghost form, all allies except the caster have +44% defense.
+  - While in Ghost form, all allies except the caster regenerate 140 HP every turn.
   types:
-    - Self Full Removal
-    - Ghost
-    - Defense Buff All while Ghost
-    - HoT All while Ghost
+  - Self Full Removal
+  - Ghost Self
+  - Defense Buff All while Ghost
+  - HoT All while Ghost
   image: https://i.imgur.com/VZyVFDJ.jpg
+  dtReleased: "2022-05-02"
+  dtModified: "2026-03-20"
+  fancy_name: Lonesome Yurei
+  aetherPower: defense_up
+  lb1:
+    power: 722
+    attack: 761
+    defense: 708
+    health: 1238
+  lb2:
+    power: 824
+    attack: 882
+    defense: 821
+    health: 1435
+...

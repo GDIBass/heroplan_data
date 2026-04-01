@@ -32,4 +32,18 @@ types:
 - Taunt
 - Counterattack Self
 image: https://i.imgur.com/TgO9p2o.jpg
+dtReleased: "2023-01-11"
+dtModified: ""
+fancy_name: Shadow Monk of 999 Swords
+aetherPower: heal_increase
+lb1:
+  power: 923
+  attack: 796
+  defense: 961
+  health: 1795
+lb2:
+  power: 1039
+  attack: 911
+  defense: 1099
+  health: 2054
 ...

@@ -24,4 +24,18 @@ passives:
   from Troops of stronger element.'
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/kfVoysd.jpg
+dtReleased: "2023-10-09"
+dtModified: ""
+fancy_name: Three-Eyed Psychic
+aetherPower: attack_up
+lb1:
+  power: 1025
+  attack: 1076
+  defense: 1018
+  health: 1709
+lb2:
+  power: 1155
+  attack: 1231
+  defense: 1165
+  health: 1955
 ...

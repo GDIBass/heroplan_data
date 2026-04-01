@@ -11,11 +11,25 @@ health: 1094
 skill: Fire Storm
 effects:
 - Deals 180% damage to all enemies.
-- All enemies receive 348 damage over 6 turns.
+- All enemies receive 330 Burn damage over 6 turns.
 types:
 - Hit All
-- Dot All
+- DoT All
 image: https://i.imgur.com/eqgOQXS.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Brave Bounty Hunter
+aetherPower: attack_up
+lb1:
+  power: 691
+  attack: 791
+  defense: 584
+  health: 1189
+lb2:
+  power: 788
+  attack: 918
+  defense: 677
+  health: 1378
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +46,20 @@ costume:
   - Hit All
   - DoT All
   image: https://i.imgur.com/pAWbbb8.jpg
+  dtReleased: "2021-01-18"
+  dtModified: ""
+  fancy_name: Fiery Bounty Hunter
+  aetherPower: special_boost
+  lb1:
+    power: 740
+    attack: 854
+    defense: 605
+    health: 1340
+  lb2:
+    power: 845
+    attack: 991
+    defense: 701
+    health: 1554
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -49,6 +77,20 @@ costume2:
   - Hit 3
   - Elemental Defense Debuff 3
   image: https://i.imgur.com/2DIxTGe.jpg
+  dtReleased: "2023-06-12"
+  dtModified: ""
+  fancy_name: Brave Tracker
+  aetherPower: counterattack
+  lb1:
+    power: 790
+    attack: 900
+    defense: 679
+    health: 1429
+  lb2:
+    power: 902
+    attack: 1043
+    defense: 788
+    health: 1657
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -69,6 +111,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/swTTE4N.jpg
+  dtReleased: "2024-03-11"
+  dtModified: ""
+  fancy_name: Toon Bounty Hunter
+  aetherPower: attack_up
+  lb1:
+    power: 804
+    attack: 915
+    defense: 707
+    health: 1436
+  lb2:
+    power: 919
+    attack: 1061
+    defense: 820
+    health: 1665
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -89,4 +145,18 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/7dLF49j.jpg
+  dtReleased: "2025-04-08"
+  dtModified: ""
+  fancy_name: Glass Bounty hunter
+  aetherPower: attack_up
+  lb1:
+    power: 817
+    attack: 956
+    defense: 703
+    health: 1434
+  lb2:
+    power: 933
+    attack: 1108
+    defense: 815
+    health: 1663
 ...

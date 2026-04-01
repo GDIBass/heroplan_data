@@ -1,19 +1,35 @@
+---
 name: An-Windr
-class: Ranger
 source: season3
+family: niflheim
 speed: Slow
+class: Ranger
 power: 465
 attack: 424
 defense: 504
 health: 792
 skill: Tribal Rage
 effects:
-  - >-
-    The caster gets +45% attack, and a further 20% increase every time they or
-    any of their allies are hit during 3 turns. When the effect ends, all enemies
-    receive 119 damage. Each hit on the caster or their allies during the duration
-    increases the damage by 8 to a maximum of 215 damage.
+- The caster gets +45% attack, and a further 20% increase every time they or any of
+  their allies are hit during 3 turns, up to +285% attack. When the effect ends, all
+  enemies receive 119 damage. Each hit on the caster or their allies during the duration
+  increases the damage by 8 to a maximum of 215 damage.
 types:
-  - Attack Buff
-family: niflheim
+- Attack Buff Self
+- Delayed Damage All
 image: https://i.imgur.com/MSmQZNX.jpg
+dtReleased: "2020-05-28"
+dtModified: "2026-03-23"
+fancy_name: Cursed Viking Bruiser
+aetherPower: counterattack
+lb1:
+  power: 518
+  attack: 480
+  defense: 571
+  health: 898
+lb2:
+  power: 625
+  attack: 593
+  defense: 705
+  health: 1109
+...

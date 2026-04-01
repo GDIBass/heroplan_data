@@ -1,3 +1,4 @@
+---
 name: Scrollbeast
 source: goblinvillage
 family: goblin
@@ -9,16 +10,35 @@ defense: 1087
 health: 1917
 skill: Boar of Fury
 effects:
-  - Deals 365% damage to all enemies.
-  - 'Wither: All enemies get -400 attack.'
-  - Summons a White Boar Mega Minion with 65% HP and 250% attack inherited from the caster.
-  - When summoned the White Boar Mega Minion gives its owner the ability to counterattack with 100% of the received damage as long as the owner has a White Boar Mega Minion. This effect can't be dispelled.
+- Deals 365% damage to all enemies.
+- 'Wither: All enemies get -400 attack.'
+- Summons a White Boar Mega Minion with 65% HP and 250% attack inherited from the
+  caster.
+- When summoned the White Boar Mega Minion gives its owner the ability to counterattack
+  with 100% of the received damage as long as the owner has a White Boar Mega Minion.
+  This effect can't be dispelled.
 types:
-  - Hit all
-  - White Boar Mega Minion
+- Hit All
+- Attack Wither All
+- Counterattack White Boar Mega Minion
 passives:
-  - >-
-    Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.
-  - " * Deals 90% damage to all enemies."
-  - " * All enemies get -25% accuracy for 3 turns."
+- 'Effects on Special Skill: 60% chance to perform the following actions when this
+  character casts their Special Skill.'
+- ' * Deals 90% damage to all enemies.'
+- ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/oI9QMY8.jpg
+dtReleased: "2024-04-15"
+dtModified: "2026-03-20"
+fancy_name: Retired Boar Rider
+aetherPower: ailment_immunity
+lb1:
+  power: 1136
+  attack: 1125
+  defense: 1172
+  health: 2066
+lb2:
+  power: 1281
+  attack: 1287
+  defense: 1341
+  health: 2364
+...

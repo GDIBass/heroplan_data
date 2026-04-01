@@ -34,4 +34,18 @@ types:
 passives:
 - 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/y4ft1xP.jpg
+dtReleased: "2024-08-27"
+dtModified: ""
+fancy_name: Master of Kunai Storm
+aetherPower: fiend_resist
+lb1:
+  power: 1183
+  attack: 1374
+  defense: 1136
+  health: 1853
+lb2:
+  power: 1336
+  attack: 1572
+  defense: 1300
+  health: 2120
 ...

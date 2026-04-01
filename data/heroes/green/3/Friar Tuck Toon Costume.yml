@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/yE4ht6i.jpg
+dtReleased: "2024-05-31"
+dtModified: ""
+fancy_name: Jovial Toon
+aetherPower: defense_up
+lb1:
+  power: 569
+  attack: 598
+  defense: 591
+  health: 926
+lb2:
+  power: 687
+  attack: 738
+  defense: 730
+  health: 1144
 ...

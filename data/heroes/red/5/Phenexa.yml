@@ -23,4 +23,18 @@ passives:
 - 'Revival Chance Reduction: The chance of revival is reduced for all enemies in the
   battle. The chance is 20% of the original value.'
 image: https://i.imgur.com/LzmbqjK.jpg
+dtReleased: "2022-08-11"
+dtModified: ""
+fancy_name: Bard of Whispers
+aetherPower: defense_up
+lb1:
+  power: 926
+  attack: 883
+  defense: 916
+  health: 1689
+lb2:
+  power: 1042
+  attack: 1010
+  defense: 1049
+  health: 1932
 ...

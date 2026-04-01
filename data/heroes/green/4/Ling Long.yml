@@ -8,7 +8,7 @@ power: 799
 attack: 822
 defense: 799
 health: 1449
-skill: Spirited Splash
+skill: Spirited Slash
 effects:
 - Deals 400% Spirit Slash damage to the target. Spirit Slash safely removes buffs
   before dealing damage. (Damage is reduced by -40% for each removed buff. Undispellable
@@ -32,4 +32,18 @@ passives:
 - 'Fierce Dancer: If any allies are Dancing, this character''s Special Skill deals
   +30% more damage.'
 image: https://imgur.com/mKc1xR3.jpg
+dtReleased: "2026-02-17"
+dtModified: ""
+fancy_name: Junior Dragon Dancer
+aetherPower: special_boost
+lb1:
+  power: 860
+  attack: 893
+  defense: 868
+  health: 1574
+lb2:
+  power: 984
+  attack: 1035
+  defense: 1006
+  health: 1825
 ...

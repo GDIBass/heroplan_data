@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/EJome7K.jpg
+dtReleased: "2025-03-11"
+dtModified: ""
+fancy_name: Vitrail of Ice
+aetherPower: attack_up
+lb1:
+  power: 1322
+  attack: 1456
+  defense: 1165
+  health: 2584
+lb2:
+  power: 1495
+  attack: 1666
+  defense: 1333
+  health: 2956
 ...

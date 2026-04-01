@@ -23,4 +23,18 @@ passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
   prevent the use of Special Skills.'
 image: https://i.imgur.com/H1vwtsQ.jpg
+dtReleased: "2024-01-08"
+dtModified: ""
+fancy_name: Stalwart Protector of Love
+aetherPower: damage_reduction
+lb1:
+  power: 1032
+  attack: 1065
+  defense: 1021
+  health: 1776
+lb2:
+  power: 1163
+  attack: 1219
+  defense: 1168
+  health: 2032
 ...

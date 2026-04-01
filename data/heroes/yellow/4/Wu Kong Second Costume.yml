@@ -17,4 +17,18 @@ effects:
 types:
 - Titan Attack Buff All
 image: https://i.imgur.com/gZEff9Z.jpg
+dtReleased: "2023-10-30"
+dtModified: ""
+fancy_name: Monkey Reveller
+aetherPower: rage
+lb1:
+  power: 793
+  attack: 868
+  defense: 788
+  health: 1316
+lb2:
+  power: 906
+  attack: 1006
+  defense: 914
+  health: 1525
 ...

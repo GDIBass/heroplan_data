@@ -1,3 +1,4 @@
+---
 name: Garjammal
 source: season4
 family: underwild
@@ -9,17 +10,32 @@ defense: 774
 health: 1349
 skill: Flail of Destruction
 effects:
-  - Deals 430% damage to the target.
-  - The caster regenerates 675 HP over 3 turns. The effect duration is reset if the caster is hit with direct damage from a special skill.
+- Deals 430% damage to the target.
+- The caster regenerates 675 HP over 3 turns. The effect duration is reset if the
+  caster is hit with direct damage from a special skill.
 types:
-  - Hit 1
-  - Self HoT
+- Hit 1
+- HoT Self
 passives:
-  - >-
-    Decrease Ailment Duration: Duration of the first 3 status ailments this
-    character receives from Special Skill is decreased by 1 turn.
+- 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
+  receives from Special Skill is decreased by 1 turn.'
 image: https://i.imgur.com/kz19bRj.jpg
+dtReleased: "2021-04-22"
+dtModified: ""
+fancy_name: Morlock Battle Master
+aetherPower: rage
+lb1:
+  power: 860
+  attack: 852
+  defense: 834
+  health: 1454
+lb2:
+  power: 966
+  attack: 975
+  defense: 955
+  health: 1663
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 1021
@@ -28,14 +44,31 @@ costume:
   health: 1863
   skill: Kite of Endurance
   effects:
-    - Deals 410% damage to the target.
-    - The caster regenerates 800 HP over 4 turns. The duration is reset if the caster is hit with direct damage from a special skill.
+  - Deals 410% damage to the target.
+  - The caster regenerates 800 HP over 4 turns. The duration is reset if the caster
+    is hit with direct damage from a special skill.
   types:
-    - Hit 1
-    - Self HoT
+  - Hit 1
+  - Self HoT
   passives:
-    - >-
-      Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
-    - >-
-      Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns.
+  - 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
+    receives from Special Skill is decreased by 1 turn.'
+  - 'Increased Damage Against Boosted Health: After Special Skill cast, all allies''
+    normal attacks and Special Skills deal +70% damage against targets with boosted
+    health for 4 turns.'
   image: https://i.imgur.com/U99nNNm.jpg
+  dtReleased: "2023-06-22"
+  dtModified: ""
+  fancy_name: Morlock Kite Master
+  aetherPower: regen
+  lb1:
+    power: 1091
+    attack: 1082
+    defense: 1096
+    health: 2007
+  lb2:
+    power: 1231
+    attack: 1238
+    defense: 1254
+    health: 2297
+...

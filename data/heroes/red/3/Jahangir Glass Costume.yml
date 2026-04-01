@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/r8eT1gi.jpg
+dtReleased: "2024-12-25"
+dtModified: ""
+fancy_name: Nomad from the Glass Sea
+aetherPower: defense_up
+lb1:
+  power: 580
+  attack: 648
+  defense: 557
+  health: 945
+lb2:
+  power: 701
+  attack: 801
+  defense: 689
+  health: 1167
 ...

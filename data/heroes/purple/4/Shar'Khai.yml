@@ -32,6 +32,20 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/pCqXNHO.jpg
+dtReleased: "2023-06-07"
+dtModified: "2026-03-22"
+fancy_name: Great Betrayer
+aetherPower: defense_up
+lb1:
+  power: 741
+  attack: 706
+  defense: 766
+  health: 1390
+lb2:
+  power: 845
+  attack: 819
+  defense: 888
+  health: 1611
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -63,6 +77,20 @@ costume:
     character casts their Special Skill'
   - ' * Deals 80% damage to all enemies.'
   - ' * The caster gets +19% mana generation for 2 turns.'
-  - 'Resist Insanity: This character has an innate resistance against Insanity.'
+  - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/ER0xDRX.jpg
+  dtReleased: "2025-02-03"
+  dtModified: "2026-03-22"
+  fancy_name: Jagged Butcher
+  aetherPower: rage
+  lb1:
+    power: 758
+    attack: 798
+    defense: 711
+    health: 1397
+  lb2:
+    power: 866
+    attack: 925
+    defense: 824
+    health: 1620
 ...

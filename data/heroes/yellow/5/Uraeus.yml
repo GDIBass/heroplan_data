@@ -1,26 +1,42 @@
+---
 name: Uraeus
-class: Sorcerer
 source: hotm
-family: 2021
+family: "2021"
 speed: Average
+class: Sorcerer
 power: 786
 attack: 778
 defense: 727
 health: 1324
 skill: Strike of the Cobra
 effects:
-  - Deals 635% damage to the target
-  - Damage bypasses target's Minions.
-  - All enemies who own a Minion or a fiend receive 420 Sand damage over 3 turns.
-  - Element Link summons a Holy Minion for all Holy allies with 6% HP and 10% attack inherited from the caster
+- Deals 635% damage to the target
+- Damage bypasses target's Minions.
+- All enemies who own a Minion or a Fiend receive 420 Sand damage over 3 turns.
+- Element Link summons a Holy Minion for all Holy allies with 6% HP and 10% attack
+  inherited from the caster
 types:
-  - Hit 1
-  - Minion Bypass
-  - DoT on Minion
-  - DoT on Fiend
+- Hit 1
+- Bypass Minions
+- DoT on minion owner
+- DoT on fiend owner
 passives:
-  - >-
-    Resist Sand Damage: This character has an innate resistance against Sand damage.
-  - >-
-    Health from Dead Minion: This character recovers 50 health when a Minion owned by them is destroyed.
+- 'Resist Sand: This character is immune to status ailments that deal Sand damage.'
+- 'Health from Dead Minion: This character recovers 50 health when a Minion owned
+  by them is destroyed.'
 image: https://i.imgur.com/1T6P7Be.jpg
+dtReleased: "2021-02-01"
+dtModified: ""
+fancy_name: Arcane Vizier
+aetherPower: special_boost
+lb1:
+  power: 837
+  attack: 839
+  defense: 783
+  health: 1427
+lb2:
+  power: 940
+  attack: 960
+  defense: 896
+  health: 1633
+...

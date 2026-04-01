@@ -16,6 +16,20 @@ types:
 - Healer All
 - Dispeller All
 image: https://i.imgur.com/3rwM4W7.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Wisdom of the Forest
+aetherPower: ailment_immunity
+lb1:
+  power: 686
+  attack: 775
+  defense: 637
+  health: 1087
+lb2:
+  power: 782
+  attack: 899
+  defense: 738
+  health: 1260
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +48,20 @@ costume:
   - Defense Buff All
   - Dispeller All
   image: https://i.imgur.com/5gxdGVM.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Mighty Wizard
+  aetherPower: special_armor
+  lb1:
+    power: 735
+    attack: 773
+    defense: 726
+    health: 1263
+  lb2:
+    power: 839
+    attack: 896
+    defense: 842
+    health: 1464
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -52,6 +80,20 @@ costume2:
   - Attack Buff All
   - Dispeller All
   image: https://i.imgur.com/XVqcInX.jpg
+  dtReleased: "2023-10-30"
+  dtModified: ""
+  fancy_name: Party Wizard
+  aetherPower: heal_increase
+  lb1:
+    power: 784
+    attack: 743
+    defense: 902
+    health: 1338
+  lb2:
+    power: 896
+    attack: 861
+    defense: 1046
+    health: 1551
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -74,6 +116,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/3swBEW4.jpg
+  dtReleased: "2024-01-22"
+  dtModified: ""
+  fancy_name: Toon Wizard
+  aetherPower: special_armor
+  lb1:
+    power: 798
+    attack: 869
+    defense: 791
+    health: 1340
+  lb2:
+    power: 912
+    attack: 1008
+    defense: 917
+    health: 1554
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -96,6 +152,20 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/5Bt1nJk.jpg
+  dtReleased: "2025-03-11"
+  dtModified: ""
+  fancy_name: Vitrail of the Forest
+  aetherPower: special_armor
+  lb1:
+    power: 812
+    attack: 882
+    defense: 807
+    health: 1374
+  lb2:
+    power: 927
+    attack: 1022
+    defense: 936
+    health: 1593
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -116,4 +186,18 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/2xZL7uT.jpg
+  dtReleased: "2026-03-12"
+  dtModified: ""
+  fancy_name: Stylish Wizard
+  aetherPower: special_armor
+  lb1:
+    power: 871
+    attack: 960
+    defense: 891
+    health: 1437
+  lb2:
+    power: 997
+    attack: 1113
+    defense: 1033
+    health: 1666
 ...

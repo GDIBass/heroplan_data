@@ -24,6 +24,20 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies receive 243 Sand damage over 3 turns.'
 image: https://i.imgur.com/waF0HXl.jpg
+dtReleased: "2022-04-21"
+dtModified: ""
+fancy_name: Acute Androsphinx
+aetherPower: regen
+lb1:
+  power: 915
+  attack: 883
+  defense: 863
+  health: 1711
+lb2:
+  power: 1029
+  attack: 1010
+  defense: 988
+  health: 1958
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +67,18 @@ costume:
   - 'Increased Special Skill Damage: The first time this character casts a Special
     Skill that deals damage, an additional 50% is added to its power.'
   image: https://i.imgur.com/5tsbayA.jpg
+  dtReleased: "2024-11-01"
+  dtModified: ""
+  fancy_name: Aquatic Androsphinx
+  aetherPower: defense_up
+  lb1:
+    power: 1285
+    attack: 1326
+    defense: 1220
+    health: 2534
+  lb2:
+    power: 1452
+    attack: 1517
+    defense: 1395
+    health: 2899
 ...

@@ -1,3 +1,4 @@
+---
 name: Crystalis
 source: villains
 family: villains
@@ -9,12 +10,29 @@ defense: 756
 health: 1374
 skill: Freezing Crystal
 effects:
-  - Deals 190% damage to all enemies.
-  - Reduces the duration of all enemies' active buffs by 1 turn.
-  - All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 70 Frosth damage and lowers the target's attack by -11% each turn. Deals extra damage against heroes with Minions or a Mega Minion.
+- Deals 190% damage to all enemies.
+- Reduces the duration of all enemies' active buffs by 1 turn.
+- All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 70 Frosth
+  damage and lowers the target's attack by -11% each turn. Deals extra damage against
+  heroes with Minions or a Mega Minion.
 types:
-  - Hit All
-  - Buff Duration Reducer All
-  - DoT All
-  - Attack Debuff All
+- Hit All
+- Buff Duration Reducer All
+- DoT All
+- Attack Debuff All
 image: https://i.imgur.com/fA7IHzy.jpg
+dtReleased: "2021-02-11"
+dtModified: ""
+fancy_name: Crystal Empress
+aetherPower: damage_reduction
+lb1:
+  power: 853
+  attack: 839
+  defense: 814
+  health: 1480
+lb2:
+  power: 959
+  attack: 960
+  defense: 932
+  health: 1694
+...

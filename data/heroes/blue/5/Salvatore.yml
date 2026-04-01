@@ -1,7 +1,7 @@
 ---
 name: Salvatore
 source: shadow
-family: investigator
+family: cultist
 speed: Slow
 class: Fighter
 power: 1218
@@ -23,10 +23,24 @@ effects:
   to new Growth and Wither effects.)
 - Casting this Special Skill inflicts 25 Insanity on all allies except the caster.
 types:
-- Self Full Removal
-- Self Deranged Dire Ghost
-- Hit 1
-- Insanity 1
-- Insanity to allies
+- Full Removal Self
+- Deranged Dire Ghost Self
+- Hit 1 while ghost
+- Insanity 1 while ghost
+- Insanity to allies except Self
 image: https://imgur.com/kk1oySX.jpg
+dtReleased: "2025-07-08"
+dtModified: "2026-03-22"
+fancy_name: Twisted Medium
+aetherPower: ailment_immunity
+lb1:
+  power: 1303
+  attack: 1276
+  defense: 1343
+  health: 2544
+lb2:
+  power: 1473
+  attack: 1460
+  defense: 1536
+  health: 2910
 ...

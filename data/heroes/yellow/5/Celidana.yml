@@ -26,4 +26,18 @@ passives:
 - 'Boost Health on Enemy Special: When an enemy casts their Special Skill, this character
   has a 50% chance to boost this character''s health by 100.'
 image: https://i.imgur.com/fzHIBe5.jpg
+dtReleased: "2022-10-01"
+dtModified: ""
+fancy_name: Leader of the Sacred Clergy
+aetherPower: special_armor
+lb1:
+  power: 865
+  attack: 790
+  defense: 859
+  health: 1598
+lb2:
+  power: 972
+  attack: 904
+  defense: 982
+  health: 1828
 ...

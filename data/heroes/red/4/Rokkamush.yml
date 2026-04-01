@@ -1,3 +1,4 @@
+---
 name: Rokkamush
 source: season4
 family: underwild
@@ -9,16 +10,31 @@ defense: 658
 health: 1147
 skill: Blind Rage
 effects:
-  - Deals 200% damage to all enemies. Each hit has 50% accuracy.
-  - All hit enemies receive 192 Bleed damage over 4 turns. 
+- Deals 200% damage to all enemies. Each hit has 50% accuracy.
+- All hit enemies receive 192 Bleed damage over 4 turns.
 types:
-  - Hit All
-  - DoT All
+- Hit All
+- DoT All
 passives:
-  - >-
-    Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
+- 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
+  receives from Special Skill is decreased by 1 turn.'
 image: https://i.imgur.com/dOWSQgd.jpg
+dtReleased: "2021-03-25"
+dtModified: ""
+fancy_name: Ettin Smasher
+aetherPower: rage
+lb1:
+  power: 728
+  attack: 768
+  defense: 715
+  health: 1246
+lb2:
+  power: 831
+  attack: 891
+  defense: 829
+  health: 1445
 costume:
+  design: costume1
   bonuses: 2/2/4/1
   class: Fighter
   power: 692
@@ -27,12 +43,27 @@ costume:
   health: 1168
   skill: Mason's Rage
   effects:
-    - Deals 175% damage to all enemies. Each hit has 80% accuracy.
-    - All hit enemies receive 200 bleed damage over 4 turns. 
+  - Deals 175% damage to all enemies. Each hit has 80% accuracy.
+  - All hit enemies receive 200 bleed damage over 4 turns.
   types:
-    - Hit All
-    - DoT All
+  - Hit All
+  - DoT All
   passives:
-    - >-
-      Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
+  - 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
+    receives from Special Skill is decreased by 1 turn.'
   image: https://i.imgur.com/AXlFl5t.jpg
+  dtReleased: "2024-04-25"
+  dtModified: ""
+  fancy_name: Ettin Mason
+  aetherPower: attack_up
+  lb1:
+    power: 744
+    attack: 788
+    defense: 737
+    health: 1270
+  lb2:
+    power: 850
+    attack: 914
+    defense: 854
+    health: 1472
+...

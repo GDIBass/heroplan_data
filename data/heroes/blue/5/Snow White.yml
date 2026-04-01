@@ -1,3 +1,4 @@
+---
 name: Snow White
 source: fables
 family: grimforest
@@ -9,27 +10,58 @@ defense: 747
 health: 1299
 skill: Enchanted Edge
 effects:
-  - Cleanses all buffs and status ailments from all allies and enemies.
-  - Deals 180% damage to all enemies, and additional 15% damage per removed status effect, up to 420% damage in total.
+- Dispels and cleanses all buffs and status ailments from all allies and enemies.
+- Deals 180% damage to all enemies.
+- Deals additional 15% damage per removed status effect, up to 420% damage in total.
 types:
-  - Dispeller
-  - Cleanser
-  - Hit All
+- Dispeller All
+- Cleanser All
+- Hit All
 image: https://i.imgur.com/EVw3AO1.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Princess of Grimforest
+aetherPower: defense_up
+lb1:
+  power: 831
+  attack: 814
+  defense: 805
+  health: 1400
+lb2:
+  power: 933
+  attack: 932
+  defense: 922
+  health: 1602
 costume:
-  class: Ranger
+  design: costume1
   bonuses: 5/5/10/5
+  class: Ranger
   power: 976
   attack: 990
   defense: 908
   health: 1793
   skill: Slaying Stake
   effects:
-    - Dispels and cleanses all buffs and status ailments from all allies and enemies.
-    - Deals 140% damage to all enemies.
-    - Deals additional 30% damage per removed status effect, up to 500% damage in total.
+  - Dispels and cleanses all buffs and status ailments from all allies and enemies.
+  - Deals 140% damage to all enemies.
+  - Deals additional 30% damage per removed status effect, up to 500% damage in total.
   types:
-    - Dispeller All
-    - Cleanser All
-    - Hit All
+  - Dispeller All
+  - Cleanser All
+  - Hit All
   image: https://i.imgur.com/ko9NEXz.jpg
+  dtReleased: "2021-12-15"
+  dtModified: ""
+  fancy_name: Slayer White
+  aetherPower: defense_up
+  lb1:
+    power: 1043
+    attack: 1068
+    defense: 979
+    health: 1933
+  lb2:
+    power: 1175
+    attack: 1222
+    defense: 1120
+    health: 2211
+...

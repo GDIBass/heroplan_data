@@ -14,6 +14,20 @@ effects:
 types:
 - Hit 1
 image: https://i.imgur.com/uJj6MQb.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: The Noble Heart
+aetherPower: attack_up
+lb1:
+  power: 804
+  attack: 785
+  defense: 774
+  health: 1345
+lb2:
+  power: 903
+  attack: 899
+  defense: 886
+  health: 1539
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -28,8 +42,22 @@ costume:
   - The target gets -34% mana generation for 3 turns.
   types:
   - Hit 1
-  - Mana Generation Debuff
+  - Mana Generation Debuff 1
   image: https://i.imgur.com/ieaiSor.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: The Noble Guardian
+  aetherPower: special_boost
+  lb1:
+    power: 905
+    attack: 898
+    defense: 865
+    health: 1603
+  lb2:
+    power: 1018
+    attack: 1027
+    defense: 990
+    health: 1834
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -44,8 +72,22 @@ costume2:
   - The target gets silenced for 3 turns.
   types:
   - Hit 1
-  - Silencer
+  - Silencer 1
   image: https://i.imgur.com/UwDUNi0.jpg
+  dtReleased: "2023-04-17"
+  dtModified: ""
+  fancy_name: The Noble Raven
+  aetherPower: dodge
+  lb1:
+    power: 1030
+    attack: 1048
+    defense: 973
+    health: 1902
+  lb2:
+    power: 1161
+    attack: 1199
+    defense: 1114
+    health: 2176
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -64,6 +106,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/yEECSzl.jpg
+  dtReleased: "2024-02-12"
+  dtModified: ""
+  fancy_name: The Noble Toon
+  aetherPower: attack_up
+  lb1:
+    power: 1209
+    attack: 1228
+    defense: 1197
+    health: 2283
+  lb2:
+    power: 1366
+    attack: 1405
+    defense: 1370
+    health: 2612
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -82,6 +138,20 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/Ad7sIug.jpg
+  dtReleased: "2025-05-10"
+  dtModified: ""
+  fancy_name: The Noble Vitrail
+  aetherPower: attack_up
+  lb1:
+    power: 1324
+    attack: 1425
+    defense: 1320
+    health: 2363
+  lb2:
+    power: 1497
+    attack: 1631
+    defense: 1511
+    health: 2703
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -100,4 +170,18 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/AIepZxd.jpg
+  dtReleased: "2026-03-12"
+  dtModified: ""
+  fancy_name: Stylish Archer
+  aetherPower: attack_up
+  lb1:
+    power: 1387
+    attack: 1519
+    defense: 1388
+    health: 2447
+  lb2:
+    power: 1569
+    attack: 1738
+    defense: 1588
+    health: 2800
 ...

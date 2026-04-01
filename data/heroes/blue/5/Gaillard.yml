@@ -23,4 +23,18 @@ passives:
   hardens. The next 3 times they receive damage, it is dropped to 1. This effect can''t
   be dispelled.'
 image: https://i.imgur.com/ts2Grgv.jpg
+dtReleased: "2021-11-24"
+dtModified: ""
+fancy_name: Astute Gargoyle
+aetherPower: special_boost
+lb1:
+  power: 897
+  attack: 923
+  defense: 796
+  health: 1618
+lb2:
+  power: 1008
+  attack: 1056
+  defense: 911
+  health: 1851
 ...

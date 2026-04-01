@@ -23,4 +23,18 @@ types:
 - Elemental Counterattack All
 - Attack Buff All
 image: https://i.imgur.com/z0VwSFd.jpg
+dtReleased: "2021-06-10"
+dtModified: ""
+fancy_name: Knife-Throwing Miracle Bear
+aetherPower: regen
+lb1:
+  power: 856
+  attack: 792
+  defense: 865
+  health: 1514
+lb2:
+  power: 961
+  attack: 906
+  defense: 990
+  health: 1732
 ...

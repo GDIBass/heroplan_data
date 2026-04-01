@@ -17,6 +17,20 @@ types:
 - Hit 1
 - Blind 1
 image: https://i.imgur.com/d5mevmf.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Flame of the Sun
+aetherPower: dodge
+lb1:
+  power: 801
+  attack: 808
+  defense: 685
+  health: 1443
+lb2:
+  power: 899
+  attack: 924
+  defense: 784
+  health: 1651
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +48,20 @@ costume:
   - Hit 1
   - Blind 1
   image: https://i.imgur.com/YXbYHIl.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Fury of the Sun
+  aetherPower: damage_reduction
+  lb1:
+    power: 904
+    attack: 908
+    defense: 787
+    health: 1723
+  lb2:
+    power: 1017
+    attack: 1039
+    defense: 901
+    health: 1972
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -53,6 +81,20 @@ costume2:
   - DoT 3
   - Blind 3
   image: https://i.imgur.com/rJxyTcK.jpg
+  dtReleased: "2022-12-26"
+  dtModified: ""
+  fancy_name: Might of the Sun
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1027
+    attack: 1048
+    defense: 890
+    health: 2049
+  lb2:
+    power: 1158
+    attack: 1199
+    defense: 1019
+    health: 2344
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -73,6 +115,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/6UDBHvu.jpg
+  dtReleased: "2024-02-12"
+  dtModified: ""
+  fancy_name: Toon of the Sun
+  aetherPower: dodge
+  lb1:
+    power: 1206
+    attack: 1255
+    defense: 1070
+    health: 2445
+  lb2:
+    power: 1362
+    attack: 1437
+    defense: 1224
+    health: 2798
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -94,4 +150,18 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/7d9tXzA.jpg
+  dtReleased: "2025-04-08"
+  dtModified: ""
+  fancy_name: Vitrail of the Sun
+  aetherPower: dodge
+  lb1:
+    power: 1318
+    attack: 1445
+    defense: 1188
+    health: 2540
+  lb2:
+    power: 1491
+    attack: 1653
+    defense: 1360
+    health: 2907
 ...

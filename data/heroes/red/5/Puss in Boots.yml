@@ -1,3 +1,4 @@
+---
 name: Puss in Boots
 source: fables
 family: grimforest
@@ -9,16 +10,32 @@ defense: 727
 health: 1322
 skill: Three Blind Mice
 effects:
-  - All Minion Summoner allies summon a Minion for themselves
-  - Summons 3 Mouse Minions with 10% HP and 30% attack inherited from the caster. The Minions have -32% accuracy
-  - All allies regenerate 548 HP over 4 turns.
-  - All allies get +30% attack for 4 turns.
+- All Minion Summoner allies summon a Minion for themselves
+- Summons 3 Mouse Minions with 10% HP and 30% attack inherited from the caster. The
+  Minions have -32% accuracy
+- All allies regenerate 548 HP over 4 turns.
+- All allies get +30% attack for 4 turns.
 types:
-  - Summoner
-  - Hot
-  - Attack Buff
+- Summoner Self
+- HoT All
+- Attack Buff All
 image: https://i.imgur.com/H73nb1h.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Cat of Grimforest
+aetherPower: defense_up
+lb1:
+  power: 831
+  attack: 823
+  defense: 783
+  health: 1425
+lb2:
+  power: 933
+  attack: 942
+  defense: 896
+  health: 1630
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Fighter
   power: 978
@@ -27,12 +44,28 @@ costume:
   health: 1859
   skill: Three Bandit Mice
   effects:
-    - All Minion Summoner allies summon a Minion for themselves.
-    - Summons 3 Mouse Minions with 20% HP and 20% attack inherited from the caster. The Minions have -16% accuracy.
-    - All allies regenerate 324 HP over 4 turns.
-    - All allies get +50% attack for 4 turns.
+  - All Minion Summoner allies summon a Minion for themselves.
+  - Summons 3 Mouse Minions with 20% HP and 20% attack inherited from the caster.
+    The Minions have -16% accuracy.
+  - All allies regenerate 324 HP over 4 turns.
+  - All allies get +50% attack for 4 turns.
   types:
-    - Summoner
-    - Hot All
-    - Attack Buff All
+  - Summoner
+  - HoT All
+  - Attack Buff All
   image: https://i.imgur.com/emXl6nU.jpg
+  dtReleased: "2023-08-10"
+  dtModified: ""
+  fancy_name: Masked Highwaycat
+  aetherPower: special_armor
+  lb1:
+    power: 1044
+    attack: 1150
+    defense: 846
+    health: 2004
+  lb2:
+    power: 1177
+    attack: 1316
+    defense: 968
+    health: 2293
+...

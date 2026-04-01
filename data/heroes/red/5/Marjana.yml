@@ -16,6 +16,20 @@ types:
 - Hit 1
 - DoT 1
 image: https://i.imgur.com/H8u69R9.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Lady of Windemer
+aetherPower: attack_up
+lb1:
+  power: 804
+  attack: 721
+  defense: 768
+  health: 1514
+lb2:
+  power: 902
+  attack: 825
+  defense: 878
+  health: 1732
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +48,20 @@ costume:
   - Elemental Defense Debuff 3
   - Attack Debuff All Ice
   image: https://i.imgur.com/E1sWcp1.jpg
+  dtReleased: "2021-01-18"
+  dtModified: ""
+  fancy_name: Terror of Windemer
+  aetherPower: special_boost
+  lb1:
+    power: 906
+    attack: 875
+    defense: 817
+    health: 1763
+  lb2:
+    power: 1019
+    attack: 1001
+    defense: 935
+    health: 2017
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -54,6 +82,20 @@ costume2:
   - Defense Debuff 3
   - DoT 3
   image: https://i.imgur.com/onSikNW.jpg
+  dtReleased: "2023-06-12"
+  dtModified: ""
+  fancy_name: Master Thief of Windemer
+  aetherPower: dodge
+  lb1:
+    power: 1032
+    attack: 999
+    defense: 933
+    health: 2116
+  lb2:
+    power: 1163
+    attack: 1143
+    defense: 1068
+    health: 2421
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -74,6 +116,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/CuDeIo0.jpg
+  dtReleased: "2023-12-25"
+  dtModified: ""
+  fancy_name: Toon of Windemer
+  aetherPower: attack_up
+  lb1:
+    power: 1211
+    attack: 1166
+    defense: 1173
+    health: 2498
+  lb2:
+    power: 1367
+    attack: 1334
+    defense: 1342
+    health: 2858
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -94,6 +150,20 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/wWSeZW9.jpg
+  dtReleased: "2025-02-11"
+  dtModified: ""
+  fancy_name: Vitrail of Windemer
+  aetherPower: attack_up
+  lb1:
+    power: 1324
+    attack: 1414
+    defense: 1247
+    health: 2540
+  lb2:
+    power: 1497
+    attack: 1617
+    defense: 1426
+    health: 2907
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -114,4 +184,18 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/UBdZIW9.jpg
+  dtReleased: "2026-02-14"
+  dtModified: ""
+  fancy_name: Stylish Lady of Windemer
+  aetherPower: attack_up
+  lb1:
+    power: 1387
+    attack: 1499
+    defense: 1314
+    health: 2644
+  lb2:
+    power: 1569
+    attack: 1715
+    defense: 1503
+    health: 3026
 ...

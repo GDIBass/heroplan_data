@@ -23,6 +23,20 @@ passives:
   Special Skills or in place of a character in Cover, there''s a 60% chance to deal
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/cwvEsxY.jpg
+dtReleased: "2022-12-14"
+dtModified: ""
+fancy_name: Ardent Musketeer
+aetherPower: ailment_immunity
+lb1:
+  power: 936
+  attack: 934
+  defense: 899
+  health: 1665
+lb2:
+  power: 1053
+  attack: 1069
+  defense: 1028
+  health: 1905
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -41,7 +55,7 @@ costume:
   types:
   - Hit 1
   - Spreading DoT 1
-  - Self Boosted Heal
+  - Boosted Heal Self
   passives:
   - 'Resist Defense Ailments: This character is immune to status ailments and negative
     stacks that affect defense. Doesn''t apply to status ailments that affect elemental
@@ -50,4 +64,18 @@ costume:
     from Special Skills or in place of a character in Cover, there''s a 75% chance
     to deal 50% of the received damage to all enemies.'
   image: https://imgur.com/9p7hmgV.jpg
+  dtReleased: "2026-02-20"
+  dtModified: ""
+  fancy_name: Ardent Chimney-Sweeper
+  aetherPower: attack_up
+  lb1:
+    power: 1370
+    attack: 1433
+    defense: 1375
+    health: 2567
+  lb2:
+    power: 1550
+    attack: 1639
+    defense: 1573
+    health: 2937
 ...

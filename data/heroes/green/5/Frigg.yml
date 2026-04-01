@@ -1,3 +1,4 @@
+---
 name: Frigg
 source: season3
 family: alfheim
@@ -9,14 +10,31 @@ defense: 760
 health: 1320
 skill: Brittling Force
 effects:
-  - Deals 100% damage to all enemies.
-  - Deals additional 18% damage per each Nature shield on the board, up to 244% damage in total.
-  - All enemies get -8% defense, and a further -3% decrease per each Nature shield on the board for 3 turns, up to -44% defense.
+- Deals 100% damage to all enemies.
+- Deals additional 18% damage per each Nature shield on the board, up to 244% damage
+  in total.
+- All enemies get -8% defense, and a further -3% decrease per each Nature shield on
+  the board for 3 turns, up to -44% defense.
 types:
-  - Hit All
-  - Defense Debuff
+- Hit All
+- Defense Debuff All
 image: https://i.imgur.com/UMxFVGq.jpg
+dtReleased: "2020-08-27"
+dtModified: "2026-03-23"
+fancy_name: Goddess of Foresight
+aetherPower: attack_up
+lb1:
+  power: 837
+  attack: 812
+  defense: 819
+  health: 1423
+lb2:
+  power: 940
+  attack: 929
+  defense: 937
+  health: 1628
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Wizard
   power: 983
@@ -25,10 +43,27 @@ costume:
   health: 1776
   skill: Brittling Burst
   effects:
-    - Deals 90% damage to all enemies.
-    - Deals additional 18% damage per each Nature shield on the board, up to 234% damage in total.
-    - All enemies get -12% defense, and a further -3% decrease per each Nature shield on the board for 3 turns, up to -48% defense.
+  - Deals 90% damage to all enemies.
+  - Deals additional 18% damage per each Nature shield on the board, up to 234% damage
+    in total.
+  - All enemies get -12% defense, and a further -3% decrease per each Nature shield
+    on the board for 3 turns, up to -48% defense.
   types:
-    - Hit All
-    - Defense Debuff
+  - Hit All
+  - Defense Debuff All
   image: https://i.imgur.com/G0IAEBg.jpg
+  dtReleased: "2023-01-16"
+  dtModified: "2026-03-23"
+  fancy_name: Goddess of Clairvoyance
+  aetherPower: special_boost
+  lb1:
+    power: 1050
+    attack: 1045
+    defense: 1042
+    health: 1915
+  lb2:
+    power: 1184
+    attack: 1196
+    defense: 1193
+    health: 2191
+...

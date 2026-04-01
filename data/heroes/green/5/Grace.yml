@@ -23,4 +23,18 @@ passives:
 - 'Mana on Taunt: Each time an enemy receives a Taunt status effect this character''s
   mana is increased by 10%.'
 image: https://i.imgur.com/GvwTLSo.jpg
+dtReleased: "2022-09-01"
+dtModified: ""
+fancy_name: Grove Cervitaur
+aetherPower: attack_up
+lb1:
+  power: 864
+  attack: 819
+  defense: 830
+  health: 1573
+lb2:
+  power: 970
+  attack: 937
+  defense: 949
+  health: 1800
 ...

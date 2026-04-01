@@ -23,6 +23,20 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/Lc6n5Vz.jpg
+dtReleased: "2022-09-29"
+dtModified: ""
+fancy_name: Lady of Harmony
+aetherPower: defense_up
+lb1:
+  power: 923
+  attack: 896
+  defense: 901
+  health: 1660
+lb2:
+  power: 1038
+  attack: 1026
+  defense: 1031
+  health: 1899
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,4 +65,18 @@ costume:
   - 'Mana on Health Boosting Special Skill: This character gains 5% mana each time
     an enemy casts a Special Skill that directly boosts health.'
   image: https://i.imgur.com/mjmiIt0.jpg
+  dtReleased: "2024-02-05"
+  dtModified: ""
+  fancy_name: Lady of the Iteru
+  aetherPower: damage_reduction
+  lb1:
+    power: 1294
+    attack: 1290
+    defense: 1316
+    health: 2497
+  lb2:
+    power: 1463
+    attack: 1476
+    defense: 1506
+    health: 2857
 ...

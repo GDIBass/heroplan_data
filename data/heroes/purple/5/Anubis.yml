@@ -24,6 +24,20 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * Dispells the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/QQQGz6W.jpg
+dtReleased: "2023-03-16"
+dtModified: ""
+fancy_name: God of the Afterlife
+aetherPower: special_armor
+lb1:
+  power: 928
+  attack: 879
+  defense: 916
+  health: 1709
+lb2:
+  power: 1044
+  attack: 1005
+  defense: 1049
+  health: 1955
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +67,18 @@ costume:
   - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
     a status ailment or negative stack.'
   image: https://i.imgur.com/8BGU68M.jpg
+  dtReleased: "2024-02-05"
+  dtModified: ""
+  fancy_name: Arbiter of the Dancefloor
+  aetherPower: dodge
+  lb1:
+    power: 1302
+    attack: 1281
+    defense: 1316
+    health: 2577
+  lb2:
+    power: 1472
+    attack: 1465
+    defense: 1506
+    health: 2948
 ...

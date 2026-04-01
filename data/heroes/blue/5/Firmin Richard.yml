@@ -24,4 +24,18 @@ passives:
   each time a status ailment expires or is cleansed, removed or reallocated from them.
   This effect can activate only once per turn.'
 image: https://i.imgur.com/I63hfD5.jpg
+dtReleased: "2023-11-30"
+dtModified: ""
+fancy_name: Upstart Patron
+aetherPower: attack_up
+lb1:
+  power: 1021
+  attack: 1010
+  defense: 956
+  health: 1969
+lb2:
+  power: 1150
+  attack: 1155
+  defense: 1094
+  health: 2252
 ...

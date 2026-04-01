@@ -23,6 +23,20 @@ types:
 - Mercenary Fiend Summoner All
 - Buff Immunity Fiend
 image: https://i.imgur.com/pOnV8Et.jpg
+dtReleased: "2022-03-14"
+dtModified: ""
+fancy_name: Wrathful Warlord
+aetherPower: fiend_resist
+lb1:
+  power: 891
+  attack: 850
+  defense: 863
+  health: 1622
+lb2:
+  power: 1001
+  attack: 972
+  defense: 988
+  health: 1856
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,8 +61,22 @@ costume:
   - Buff Immunity Fiend
   passives:
   - 'Unstoppable Minions:'
-  - ' * Resistance against Minion removal.'
+  - ' * Immune to effects that remove Minions.'
   - ' * Can''t be prevented from receiving Minions.'
-  - ' * Minion attack and abilities can''t be disabled.'
+  - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/9cuTL09.jpg
+  dtReleased: "2024-12-28"
+  dtModified: ""
+  fancy_name: Wrathful Tiger Warlord
+  aetherPower: regen
+  lb1:
+    power: 1183
+    attack: 1147
+    defense: 1183
+    health: 2324
+  lb2:
+    power: 1335
+    attack: 1313
+    defense: 1354
+    health: 2659
 ...

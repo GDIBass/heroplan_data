@@ -1,33 +1,44 @@
+---
 name: Mielikki
-class: Druid
-speed: Average
-family: kalevala
 source: kalevala
+family: kalevala
+speed: Average
+class: Druid
 power: 682
 attack: 614
 defense: 648
 health: 1440
 skill: Sprite Ballad
 effects:
-  - >-
-    Summons a Sprite of the Forest Minion for all allies with 15% HP and 10%
-    attack inherited from the caster.
-  - >-
-    The Sprite of the Forest Minion gives +20% mana generation for its owner for
-    as long as the owner has the Sprite of the Forest Minions. This effect can't
-    be dispelled.
-  - >-
-    All enemies get -24% attack for 4 turns. Against Fire characters, this
-    status effect becomes uncleansable and lasts 2 turns.
+- Summons a Sprite of the Forest Minion for all allies with 15% HP and 10% attack
+  inherited from the caster.
+- The Sprite of the Forest Minion gives +20% mana generation for its owner for as
+  long as the owner has the Sprite of the Forest Minions. This effect can't be dispelled.
+- All enemies get -24% attack for 4 turns. Against Fire characters, this status effect
+  becomes uncleansable and lasts 2 turns.
 types:
-  - Summoner
-  - Attack debuff
+- Summoner
+- Attack debuff
 passives:
-  - >-
-    Power of Sisu - When this character starts a turn with low health for the 
-    first time during a battle, they recover 15% health and receive 15% mana.
+- Power of Sisu - When this character starts a turn with low health for the  first
+  time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/tts9FVU.jpg
+dtReleased: "2022-06-20"
+dtModified: ""
+fancy_name: Spirit of the Forest
+aetherPower: defense_up
+lb1:
+  power: 734
+  attack: 667
+  defense: 704
+  health: 1565
+lb2:
+  power: 838
+  attack: 773
+  defense: 816
+  health: 1815
 costume:
+  design: costume1
   bonuses: 3/3/6/1
   class: Paladin
   power: 706
@@ -36,17 +47,29 @@ costume:
   health: 1571
   skill: Sprite Hymn
   effects:
-    - >-
-      Summons a Sprite of the Forest Minion for all allies with 18% HP 
-      and 8% attack inherited from the caster.
-    - >-
-      When summoned, the Sprite of the Forest Minion gives +24% mana generation
-      for its owner for as long as the owner has Sprite of the Forest Minions. 
-      This effect can't be dispelled.
-    - >-
-      All enemies get -26% attack for 4 turns. Against Fire characters, 
-      this status effect becomes uncleansable and lasts 2 turns longer.
+  - Summons a Sprite of the Forest Minion for all allies with 18% HP  and 8% attack
+    inherited from the caster.
+  - When summoned, the Sprite of the Forest Minion gives +24% mana generation for
+    its owner for as long as the owner has Sprite of the Forest Minions.  This effect
+    can't be dispelled.
+  - All enemies get -26% attack for 4 turns. Against Fire characters,  this status
+    effect becomes uncleansable and lasts 2 turns longer.
   types:
-    - Summoner
-    - Attack debuff
+  - Summoner
+  - Attack debuff
   image: https://i.imgur.com/vXd3s3q.jpg
+  dtReleased: "2023-08-07"
+  dtModified: ""
+  fancy_name: Protector of the Bears
+  aetherPower: bulwark
+  lb1:
+    power: 761
+    attack: 663
+    defense: 732
+    health: 1708
+  lb2:
+    power: 869
+    attack: 769
+    defense: 849
+    health: 1980
+...

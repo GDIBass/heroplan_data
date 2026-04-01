@@ -8,7 +8,7 @@ power: 1279
 attack: 1306
 defense: 1341
 health: 2301
-skill: Ethernal Ishq
+skill: Eternal Ishq
 effects:
 - Deals 485% damage to all enemies.
 - All allies except the caster dance the Dance of Ishq.
@@ -36,4 +36,18 @@ passives:
 - ' * The effects diminish the less Flight Momentum character has.'
 - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
 image: https://imgur.com/KV0bCQc.jpg
+dtReleased: "2026-02-10"
+dtModified: ""
+fancy_name: Enchantress of Al-Layl
+aetherPower: special_boost
+lb1:
+  power: 1369
+  attack: 1407
+  defense: 1445
+  health: 2479
+lb2:
+  power: 1548
+  attack: 1610
+  defense: 1653
+  health: 2837
 ...

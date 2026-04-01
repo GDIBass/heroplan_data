@@ -18,13 +18,27 @@ types:
 - Hit 3
 - Resist Healing Debuff 3
 - Damage on each Resisted Healing 3
-- Attack Stack Self
+- Attack Buff Stack Self
 passives:
-- 'Damage Over Time on Special: When this character casts their Special Skill, they
-  give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
-  If a target already has this effect, the duration will be refreshed and the damage
-  will be increased with 150, up to 1500 damage in total.'
 - 'Hunter''s Vigor: When this character casts their Special Skill, they get +20% attack
   for 3 turns. This effect can be active in addition to other effects that alter attack.'
+- 'Damage over Time on Special: When this character casts their Special Skill, they
+  give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
+  If a target already has this effect, the duration will be refreshed and the damage
+  will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/F4ide5S.jpg
+dtReleased: "2023-03-03"
+dtModified: "2026-03-20"
+fancy_name: Orangutan Brawler
+aetherPower: defense_up
+lb1:
+  power: 954
+  attack: 954
+  defense: 950
+  health: 1642
+lb2:
+  power: 1074
+  attack: 1092
+  defense: 1087
+  health: 1879
 ...

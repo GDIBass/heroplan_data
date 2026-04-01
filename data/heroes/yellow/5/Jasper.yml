@@ -20,14 +20,28 @@ types:
 - Critical Chance Buff All
 - Mana Generation Debuff Self
 image: https://i.imgur.com/Fqmw2ti.jpg
+dtReleased: "2023-03-27"
+dtModified: "2026-03-31"
+fancy_name: Florist Bull
+aetherPower: defense_up
+lb1:
+  power: 926
+  attack: 859
+  defense: 936
+  health: 1704
+lb2:
+  power: 1041
+  attack: 982
+  defense: 1071
+  health: 1950
 costume:
   design: costume1
   bonuses: 5/5/10/5
   class: Monk
-  power: 1033
-  attack: 946
-  defense: 1047
-  health: 2033
+  power: 1128
+  attack: 1047
+  defense: 1178
+  health: 2196
   skill: Dreams of Nourishment
   effects:
   - All allies regenerate 1450 HP over 5 turns.
@@ -39,5 +53,22 @@ costume:
   - Attack Buff All
   - Critical Chance Buff All
   - Mana Generation Debuff Self
+  passives:
+  - 'Stack on Special: When this character casts their Special Skill, all allies get:
+    Stack (Max: 10): Recovers 30 HP each turn.'
   image: https://i.imgur.com/iHZz8KB.jpg
+  dtReleased: "2024-03-18"
+  dtModified: "2026-03-31"
+  fancy_name: Fisherman Bull
+  aetherPower: boosted_regen
+  lb1:
+    power: 1207
+    attack: 1129
+    defense: 1270
+    health: 2367
+  lb2:
+    power: 1363
+    attack: 1292
+    defense: 1453
+    health: 2708
 ...

@@ -21,4 +21,19 @@ types:
 passives:
 - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/PjBP5aw.jpg
+dtReleased: "2024-02-08"
+dtModified: "2026-03-20"
+fancy_name: Lunar Strategist Dragon
+aetherPower: special_boost
+lb1:
+  power: 1050
+  attack: 1078
+  defense: 1027
+  health: 1860
+lb2:
+  power: 1184
+  attack: 1234
+  defense: 1176
+  health: 2128
+zodiacAnimal: dragon
 ...

@@ -1,3 +1,4 @@
+---
 name: Steropes
 source: styx
 family: styx
@@ -7,24 +8,43 @@ power: 685
 attack: 616
 defense: 737
 health: 1272
-skill: Midnight Moon
+skill: Mending Masterpiece
 effects:
-  - >-
-    Special Skill has a different effect when charged with 100% / 200% / 300% mana:
-  - '1x Mana Charge:'
-  - '* All allies regenerate 324 boosted health over 3 turns. Boosted health can exceed max HP.'
-  - '2x Mana Charge:'
-  - '* If any ally dies during the next 3 turns they are resurrected in the beginning of their next turn with 20% health. All status effects and stacks are removed when the ally dies.'
-  - '* 3x Mana Charge:'
-  - '* All allies regenerate 584 boosted health over 4 turns. Boosted health can exceed max HP.'
-  - '* If any ally dies during the next 4 turns they are resurrected in the beginning of their next turn with 40% health. All status effects and stacks are removed when the ally dies.'
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- '1x Mana Charge:'
+- ' * All allies regenerate 324 boosted health over 3 turns. Boosted health can exceed
+  max HP.'
+- '2x Mana Charge:'
+- ' * If any ally dies during the next 3 turns they are resurrected in the beginning
+  of their next turn with 20% health. All status effects and stacks are removed when
+  the ally dies.'
+- ' * 3x Mana Charge:'
+- ' * All allies regenerate 584 boosted health over 4 turns. Boosted health can exceed
+  max HP.'
+- ' * If any ally dies during the next 4 turns they are resurrected in the beginning
+  of their next turn with 40% health. All status effects and stacks are removed when
+  the ally dies.'
 types:
-  - Charge
-  - Boosted HoT
-  - Resurrect
+- Charge
+- Boosted HoT All
+- Resurrect
 passives:
-  - >-
-    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
-  - >-
-    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+- 'Weaker Minions: Enemy Minions have -50% HP.'
+- 'Resist Defense Ailments: This character is immune to status ailments that affect
+  defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/JQkhZ6P.jpg
+dtReleased: "2022-09-21"
+dtModified: "2026-03-20"
+fancy_name: Artist Cyclops
+aetherPower: heal_increase
+lb1:
+  power: 737
+  attack: 669
+  defense: 801
+  health: 1383
+lb2:
+  power: 840
+  attack: 776
+  defense: 928
+  health: 1603
+...

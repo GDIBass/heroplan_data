@@ -1,3 +1,4 @@
+---
 name: Lamentia
 source: shadow
 family: forsaken
@@ -9,15 +10,31 @@ defense: 748
 health: 1413
 skill: Frenzied Rend
 effects:
-  - Deals 280% damage to the target and nearby enemies and inflicts 15 Insanity on them.
-  - The target and nearby enemies receive 388 Curse damage over 4 turns, starting low and increasing every turn.
-  - Inflicts 55 Insanity to the caster.
+- Deals 280% damage to the target and nearby enemies and inflicts 15 Insanity on them.
+- The target and nearby enemies receive 388 Curse damage over 4 turns, starting low
+  and increasing every turn.
+- Casting this Special Skill inflicts 55 Insanity on the caster.
 types:
-  - Hit 3
-  - Insanity 3
-  - DoT 3
-  - Self Insanity
+- Hit 3
+- Insanity 3
+- DoT 3
+- Insanity Self
 passives:
-  - >-
-    Branded by the Old Ones: All damage from normal attacks and Special Skills dealt by this character is increased by 6% per 10 Insanity on this character, up to 60%.
+- 'Branded by the Old Ones: All damage from normal attacks and Special Skills dealt
+  by this character is increased by 6% per 10 Insanity on this character, up to 60%.'
 image: https://imgur.com/g1VRcWf.jpg
+dtReleased: "2025-09-09"
+dtModified: "2026-03-22"
+fancy_name: Servant of the Abyss
+aetherPower: special_boost
+lb1:
+  power: 826
+  attack: 854
+  defense: 812
+  health: 1535
+lb2:
+  power: 944
+  attack: 990
+  defense: 942
+  health: 1780
+...

@@ -15,12 +15,26 @@ effects:
   by -700. Reduces damage by additional 30% when attacker is Holy.
 - Cleanses status ailments from all allies.
 types:
-- Healer All
-- Moonrise Ward All
+- Boost Health All
+- SS Damage Reduction Moonrise Ward All
 - Cleanser All
 passives:
 - 'Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills,
   family bonuses and status effects by -80%. The effect applies to all enemies in
   the battle.'
 image: https://i.imgur.com/NhlQa4M.jpg
+dtReleased: "2024-03-13"
+dtModified: "2026-03-29"
+fancy_name: Courtier of Owl Tower
+aetherPower: heal_increase
+lb1:
+  power: 1119
+  attack: 1143
+  defense: 1163
+  health: 1920
+lb2:
+  power: 1262
+  attack: 1308
+  defense: 1330
+  health: 2197
 ...

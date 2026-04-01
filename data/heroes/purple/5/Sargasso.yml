@@ -1,3 +1,4 @@
+---
 name: Sargasso
 source: pirates
 family: corellia
@@ -9,13 +10,28 @@ defense: 708
 health: 1334
 skill: Curse of Sargasso
 effects:
-  - Deals 415% damage to the target and minor damage to nearby enemies
-  - The target and nearby enemies get -90% increase for any healing received for 4 turns.
+- Deals 415% damage to the target and minor damage to nearby enemies.
+- The target and nearby enemies get -90% increase for any healing received for 4 turns.
 types:
-  - Hit 3
-  - Healing Debuff
+- Hit 3
+- Healing Debuff 3
 image: https://i.imgur.com/6s6FE8i.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Dread Captain of Corellia
+aetherPower: revive
+lb1:
+  power: 814
+  attack: 785
+  defense: 763
+  health: 1438
+lb2:
+  power: 914
+  attack: 899
+  defense: 873
+  health: 1645
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
   power: 957
@@ -24,14 +40,30 @@ costume:
   health: 1652
   skill: Curse of the Sea
   effects:
-    - Deals 415% damage to the target and minor damage to nearby enemies.
-    - The target and nearby enemies get -100% decrease for any healing received for 4 turns.
-    - The target and nearby enemies receive 260 Water damage over 4 turns.
+  - Deals 415% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -100% decrease for any healing received for
+    4 turns.
+  - The target and nearby enemies receive 260 Water damage over 4 turns.
   types:
-    - Hit 3
-    - Healing Debuff
-    - DoT
+  - Hit 3
+  - Healing Debuff
+  - DoT
   passives:
-    - >-
-      Poison on Special Skill: When this character casts their Special Skill, all enemies receive 476 Poison damage over 4 turns.
+  - 'Poison on Special Skill: When this character casts their Special Skill, all enemies
+    receive 476 Poison damage over 4 turns.'
   image: https://i.imgur.com/lR0HaHa.jpg
+  dtReleased: "2023-12-28"
+  dtModified: ""
+  fancy_name: Rotten Captain of Corellia
+  aetherPower: regen
+  lb1:
+    power: 1022
+    attack: 998
+    defense: 1068
+    health: 1780
+  lb2:
+    power: 1151
+    attack: 1141
+    defense: 1222
+    health: 2037
+...

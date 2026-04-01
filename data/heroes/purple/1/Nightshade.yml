@@ -1,14 +1,31 @@
+---
 name: Nightshade
-class: Ranger
 source: season1
+family: classic
 speed: Fast
+class: Ranger
 power: 212
 attack: 183
 defense: 198
 health: 416
 skill: Focused Shot
 effects:
-  - Deals 250% damage to the target
+- Deals 250% damage to the target
 types:
-  - Hit 1
+- Hit 1
 image: https://i.imgur.com/TChsKw7.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Aspiring Archer
+aetherPower: attack_up
+lb1:
+  power: 212
+  attack: 183
+  defense: 197
+  health: 416
+lb2:
+  power: 212
+  attack: 183
+  defense: 197
+  health: 416
+...

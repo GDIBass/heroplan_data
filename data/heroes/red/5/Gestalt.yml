@@ -33,6 +33,20 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/vMt41XY.jpg
+dtReleased: "2023-09-27"
+dtModified: "2026-03-22"
+fancy_name: Prince of the Eternal Deep
+aetherPower: defense_up
+lb1:
+  power: 1021
+  attack: 967
+  defense: 1023
+  health: 1940
+lb2:
+  power: 1150
+  attack: 1107
+  defense: 1170
+  health: 2219
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -69,6 +83,20 @@ costume:
     character casts their Special Skill'
   - ' * Deals 80% damage to all enemies.'
   - ' * The caster gets +19% mana generation for 2 turns.'
-  - 'Resist Insanity: This character has innate resistance against Insanity.'
+  - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/WnfoNeZ.jpg
+  dtReleased: "2024-06-20"
+  dtModified: "2026-03-22"
+  fancy_name: Prince of the Eternal Pearls
+  aetherPower: attack_up
+  lb1:
+    power: 1273
+    attack: 1309
+    defense: 1253
+    health: 2426
+  lb2:
+    power: 1439
+    attack: 1498
+    defense: 1433
+    health: 2776
 ...

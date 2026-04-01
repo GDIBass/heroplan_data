@@ -29,4 +29,18 @@ passives:
 - 'Health Boost on Enemy Health Boost: This character gets 450 boosted health  each
   time an enemy casts a Special Skill that directly boosts health.'
 image: https://i.imgur.com/CtidFGk.jpg
+dtReleased: "2024-02-09"
+dtModified: ""
+fancy_name: Javelin Throw Champion
+aetherPower: attack_up
+lb1:
+  power: 1068
+  attack: 1107
+  defense: 1076
+  health: 1820
+lb2:
+  power: 1204
+  attack: 1267
+  defense: 1231
+  health: 2082
 ...

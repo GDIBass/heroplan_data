@@ -20,4 +20,18 @@ types:
 - MoT Buff All
 - Defense Buff All
 image: https://i.imgur.com/Az13Jne.jpg
+dtReleased: "2022-09-05"
+dtModified: ""
+fancy_name: Chief of Leopards
+aetherPower: counterattack
+lb1:
+  power: 1035
+  attack: 1002
+  defense: 927
+  health: 2145
+lb2:
+  power: 1166
+  attack: 1146
+  defense: 1061
+  health: 2454
 ...

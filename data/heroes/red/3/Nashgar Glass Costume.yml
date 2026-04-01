@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/EL6besJ.jpg
+dtReleased: "2025-08-10"
+dtModified: ""
+fancy_name: Last to Shatter
+aetherPower: attack_up
+lb1:
+  power: 578
+  attack: 734
+  defense: 467
+  health: 901
+lb2:
+  power: 699
+  attack: 907
+  defense: 577
+  health: 1113
 ...

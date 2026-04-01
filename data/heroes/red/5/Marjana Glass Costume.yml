@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/wWSeZW9.jpg
+dtReleased: "2025-02-11"
+dtModified: ""
+fancy_name: Vitrail of Windemer
+aetherPower: attack_up
+lb1:
+  power: 1324
+  attack: 1414
+  defense: 1247
+  health: 2540
+lb2:
+  power: 1497
+  attack: 1617
+  defense: 1426
+  health: 2907
 ...

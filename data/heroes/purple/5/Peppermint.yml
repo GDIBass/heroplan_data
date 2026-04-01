@@ -20,4 +20,18 @@ types:
 - Summoner All
 - DoT All
 image: https://i.imgur.com/egM1t1a.jpg
+dtReleased: "2022-12-01"
+dtModified: ""
+fancy_name: Gnome Alchemist
+aetherPower: special_boost
+lb1:
+  power: 908
+  attack: 888
+  defense: 901
+  health: 1573
+lb2:
+  power: 1021
+  attack: 1016
+  defense: 1031
+  health: 1800
 ...

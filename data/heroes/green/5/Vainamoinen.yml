@@ -21,6 +21,20 @@ passives:
 - 'Power of Sisu: When this character starts a turn with low health for the first
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/gY0vQZu.jpg
+dtReleased: "2022-06-20"
+dtModified: ""
+fancy_name: Eternal Bard
+aetherPower: attack_up
+lb1:
+  power: 893
+  attack: 861
+  defense: 870
+  health: 1596
+lb2:
+  power: 1003
+  attack: 985
+  defense: 995
+  health: 1826
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +56,18 @@ costume:
   - 'Power of Sisu: When this character starts a turn with low health for the first
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://i.imgur.com/eTqe3pF.jpg
+  dtReleased: "2024-07-22"
+  dtModified: ""
+  fancy_name: Eternal Sage
+  aetherPower: special_boost
+  lb1:
+    power: 1158
+    attack: 1183
+    defense: 1148
+    health: 2127
+  lb2:
+    power: 1307
+    attack: 1354
+    defense: 1313
+    health: 2434
 ...

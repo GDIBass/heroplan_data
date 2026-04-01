@@ -15,7 +15,7 @@ effects:
   +33% mana. (After a character has received 5 direct mana additions from Special
   Skills during a single turn, all subsequent direct mana additions done by Special
   Skills will have reduced power on that character.)
-- All Ice allies get +100% normal attack for 4 turns. This effect can be active in
+- All Fire allies get +100% normal attack for 4 turns. This effect can be active in
   additional to other effects that alter attack in general. Normal attacks can have
   a total maximum of +200% increased power while this effect is active.
 - The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status
@@ -26,9 +26,10 @@ types:
 - Normal Attack Buff All
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
-- 'Mimic Loot: This Mimic grants a chance for the following extra loot when completing stages'
+- 'Mimic Loot: This Mimic grants a chance for the following extra loot when completing
+  stages'
 - RARE
-- ' * Barbaric Maluers'
+- ' * Barbaric Maulers'
 - ' * Barbaric Minotaurs'
 - ' * Firecaller Battlemages'
 - ' * Trainer Troop'
@@ -42,4 +43,18 @@ passives:
 - ' * Barbaric Fighters'
 - ' * Trainer Troop'
 image: https://imgur.com/m2ZYITu.jpg
+dtReleased: "2026-03-08"
+dtModified: "2026-03-27"
+fancy_name: Bounty of Dreadful Arsenal
+aetherPower: bulwark
+lb1:
+  power: 1372
+  attack: 1440
+  defense: 1436
+  health: 2439
+lb2:
+  power: 1552
+  attack: 1648
+  defense: 1643
+  health: 2791
 ...

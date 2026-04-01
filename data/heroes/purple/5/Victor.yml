@@ -1,3 +1,4 @@
+---
 name: Victor
 source: morlovia
 family: morlovia
@@ -9,20 +10,38 @@ defense: 671
 health: 1347
 skill: Night of Sorrow
 effects:
-  - Deals 250% damage to the target.
-  - The target receives 355 Surge Bleed over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 315, up to 985 damage in total.
-  - The caster steals 75% of any healing applied to the target for 5 turns.
-  - All allies get +30% defense for 5 turns.
+- Deals 250% damage to the target.
+- The target receives 340 Surge Bleed over 5 turns. (If a target already has this
+  effect, the duration will be refreshed and the damage will be increased by 300,
+  up to 940 damage in total.)
+- The caster steals 75% of any healing applied to the target for 5 turns.
+- All allies get +30% defense for 5 turns.
 types:
-  - Hit 1
-  - DoT 1
-  - Healing Steal
-  - Defense Buff
+- Hit 1
+- DoT 1
+- Healing Steal 1
+- Defense Buff All
 passives:
-  - >-
-    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+- 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+  to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
+  has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/Trss5zi.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Vampire King
+aetherPower: vampire
+lb1:
+  power: 824
+  attack: 839
+  defense: 723
+  health: 1451
+lb2:
+  power: 925
+  attack: 960
+  defense: 828
+  health: 1661
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 1108
@@ -31,16 +50,35 @@ costume:
   health: 2075
   skill: Legacy of Darkness
   effects:
-    - Deals 155% damage to the target and nearby enemies.
-    - The target and nearby enemies receive 330 Surge Bleed over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 450, up to 1225 damage in total.
-    - The caster steals 61% of any healing applied to the target and nearby enemies for 5 turns.
-    - The target and nearby enemies get -24% defense for 5 turns.
+  - Deals 155% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 330 Surge Bleed over 5 turns. If a target
+    already has this effect, the duration will be refreshed and the damage will be
+    increased by 450, up to 1225 damage in total.
+  - The caster steals 61% of any healing applied to the target and nearby enemies
+    for 5 turns.
+  - The target and nearby enemies get -24% defense for 5 turns.
   types:
-    - Hit 3
-    - DoT 3
-    - Health Steal
-    - Defense Debuff
+  - Hit 3
+  - DoT 3
+  - Health Steal
+  - Defense Debuff
   passives:
-    - >-
-      Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+  - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+    to steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/bKghYKS.jpg
+  dtReleased: "2021-10-04"
+  dtModified: ""
+  fancy_name: King of Crime
+  aetherPower: attack_up
+  lb1:
+    power: 1185
+    attack: 1245
+    defense: 1112
+    health: 2236
+  lb2:
+    power: 1337
+    attack: 1424
+    defense: 1272
+    health: 2559
+...

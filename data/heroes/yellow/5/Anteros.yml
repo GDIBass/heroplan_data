@@ -1,3 +1,4 @@
+---
 name: Anteros
 source: love
 family: cupid
@@ -9,14 +10,30 @@ defense: 1110
 health: 2138
 skill: Love at First Sight
 effects:
-  - This Special Skill never misses its targets.
-  - Deals 460% damage to the target.
-  - For 3 turns, the target is forced to cast Mindless Heal when at full mana.
-  - "Mindless Heal: Recovers 20% HP health for the character on the opposing side with the lowest remaining HP."
+- This Special Skill never misses its targets.
+- Deals 460% damage to the target.
+- For 3 turns, the target is forced to cast Mindless Heal when at full mana.
+- 'Mindless Heal: Recovers 20% HP health for the character on the opposing side with
+  the lowest remaining HP.'
 types:
-  - Hit 1
-  - Mindless Heal
+- Hit 1
+- Mindless Heal 1
 passives:
-  - >-
-    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skill.'
 image: https://i.imgur.com/ZH2Xuuj.jpg
+dtReleased: "2025-02-14"
+dtModified: ""
+fancy_name: Cupid of Love Returned
+aetherPower: attack_up
+lb1:
+  power: 1244
+  attack: 1320
+  defense: 1196
+  health: 2304
+lb2:
+  power: 1406
+  attack: 1511
+  defense: 1369
+  health: 2636
+...

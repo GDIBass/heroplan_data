@@ -32,4 +32,18 @@ passives:
   defense. Applies also to status ailments that affect elemental defense.'
 - 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/HPFyboz.jpg
+dtReleased: "2022-06-01"
+dtModified: ""
+fancy_name: Master of Sleep
+aetherPower: special_boost
+lb1:
+  power: 906
+  attack: 912
+  defense: 841
+  health: 1620
+lb2:
+  power: 1018
+  attack: 1043
+  defense: 962
+  health: 1854
 ...

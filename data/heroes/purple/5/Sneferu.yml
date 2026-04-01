@@ -24,6 +24,20 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * Dispels the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/xRHanch.jpg
+dtReleased: "2023-05-11"
+dtModified: ""
+fancy_name: Sphinx of the Moon
+aetherPower: regen
+lb1:
+  power: 930
+  attack: 899
+  defense: 879
+  health: 1751
+lb2:
+  power: 1046
+  attack: 1028
+  defense: 1005
+  health: 2004
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +67,18 @@ costume:
   - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
     a status ailment or negative stack.'
   image: https://imgur.com/3FfUfwE.jpg
+  dtReleased: "2025-07-10"
+  dtModified: ""
+  fancy_name: Vanquisher of the Moon
+  aetherPower: defense_up
+  lb1:
+    power: 1305
+    attack: 1303
+    defense: 1274
+    health: 2627
+  lb2:
+    power: 1475
+    attack: 1491
+    defense: 1458
+    health: 3006
 ...

@@ -1,0 +1,14 @@
+---
+code: 115
+key: rodent
+image: https://i.imgur.com/ISrZHXi.png
+description: Adventurous Rodent Family
+bonus:
+- "Heroes become stronger when teamed with other unique Heroes of the same family."
+- "Bonus for 1/2/3 Heroes:"
+- " * 6%/12%/18% extra chance to dodge Special Skills."
+- ' * Each Special Skill dodged heals this character for 100/150/200 health.'
+bonusCostume-5star: ""
+bonusCostume-4star: ""
+bonusCostume-3star: ""
+...

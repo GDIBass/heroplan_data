@@ -23,4 +23,18 @@ passives:
   prevent the use of Special Skill.'
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
 image: https://i.imgur.com/zoE3F2A.jpg
+dtReleased: "2022-07-01"
+dtModified: ""
+fancy_name: Rime Sorcerer
+aetherPower: mana_boost
+lb1:
+  power: 862
+  attack: 825
+  defense: 832
+  health: 1538
+lb2:
+  power: 968
+  attack: 944
+  defense: 952
+  health: 1760
 ...

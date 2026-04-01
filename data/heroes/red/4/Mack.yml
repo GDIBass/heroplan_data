@@ -1,3 +1,4 @@
+---
 name: Mack
 source: season4
 family: underwild
@@ -9,16 +10,32 @@ defense: 686
 health: 1247
 skill: Halfling's Wit
 effects:
-  - The caster and nearby allies counterattack with 125% of the damage received for 4 turns.
-  - The caster and nearby allies get +25% attack for 4 turns.
+- The caster and nearby allies counterattack with 125% of the damage received for
+  4 turns.
+- The caster and nearby allies get +25% attack for 4 turns.
 types:
-  - Counterattack
-  - Attack Buff
+- Counterattack
+- Attack Buff
 passives:
-  - >-
-    Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.
+- 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
+  Skills is increased by 1 turn.'
 image: https://i.imgur.com/nafpwvj.jpg
+dtReleased: "2021-03-25"
+dtModified: ""
+fancy_name: Halfling Adventurer
+aetherPower: regen
+lb1:
+  power: 728
+  attack: 701
+  defense: 745
+  health: 1355
+lb2:
+  power: 831
+  attack: 813
+  defense: 864
+  health: 1571
 costume:
+  design: costume1
   bonuses: 2/2/4/1
   class: Monk
   power: 692
@@ -27,12 +44,28 @@ costume:
   health: 1265
   skill: Halfling's Wisdom
   effects:
-    - The caster and nearby allies counterattack with 100% of the damage received for 4 turns.
-    - The caster and nearby allies get +35% attack for 4 turns.
+  - The caster and nearby allies counterattack with 100% of the damage received for
+    4 turns.
+  - The caster and nearby allies get +35% attack for 4 turns.
   types:
-    - Counterattack
-    - Attack Buff
+  - Counterattack
+  - Attack Buff
   passives:
-    - >-
-      Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.
+  - 'Increase Buff Duration: Duration of the first 3 buff this hero receives from
+    Special Skills is increased by 1 turn.'
   image: https://i.imgur.com/piqOqpg.jpg
+  dtReleased: "2024-05-23"
+  dtModified: ""
+  fancy_name: Halfling Novelist
+  aetherPower: damage_reduction
+  lb1:
+    power: 745
+    attack: 715
+    defense: 777
+    health: 1375
+  lb2:
+    power: 851
+    attack: 830
+    defense: 901
+    health: 1595
+...

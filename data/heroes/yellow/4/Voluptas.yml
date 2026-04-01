@@ -1,3 +1,4 @@
+---
 name: Voluptas
 source: love
 family: cupid
@@ -9,15 +10,30 @@ defense: 643
 health: 1387
 skill: Flat Cake for Sweethearts
 effects:
-  - Destroys all Fiends from the caster and nearby allies. This effect damages Mega Fiends.
-  - Recovers 40% health for the caster and nearby allies.
+- Destroys all Fiends from the caster and nearby allies. This effect damages Mega
+  Fiends.
+- Recovers 40% health for the caster and nearby allies.
 types:
-  - Fiend Destroyer 3
-  - Healer 3
+- Fiend Destroyer 3
+- Healer 3
 passives:
-  - >-
-    Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skills.'
 image: https://i.imgur.com/FUJWm4U.jpg
+dtReleased: "2023-02-14"
+dtModified: ""
+fancy_name: Cupid of Delights
+aetherPower: bulwark
+lb1:
+  power: 738
+  attack: 706
+  defense: 699
+  health: 1507
+lb2:
+  power: 843
+  attack: 819
+  defense: 811
+  health: 1748
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -28,14 +44,30 @@ costume:
   health: 1636
   skill: Hues of Love
   effects:
-    - Destroys all Fiends from the caster and nearby allies. This effect damages Mega Fiends.
-    - Recovers 40% health for the caster and nearby allies.
-    - The caster and nearby allies get +54% defense against Dark for 4 turns.
+  - Destroys all Fiends from the caster and nearby allies. This effect damages Mega
+    Fiends.
+  - Recovers 40% health for the caster and nearby allies.
+  - The caster and nearby allies get +54% defense against Dark for 4 turns.
   types:
-    - Fiend Destroyer 3
-    - Healer 3
-    - Elemental Defense Buff 3
+  - Fiend Destroyer 3
+  - Healer 3
+  - Elemental Defense Buff 3
   passives:
-    - >-
-      Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
+  - 'Resist Special Skill Blocking: This character is immune to status ailments that
+    prevent the use of Special Skills.'
   image: https://imgur.com/y6sMqvm.jpg
+  dtReleased: "2026-01-19"
+  dtModified: ""
+  fancy_name: Cupid of Painters
+  aetherPower: special_armor
+  lb1:
+    power: 858
+    attack: 836
+    defense: 828
+    health: 1779
+  lb2:
+    power: 981
+    attack: 969
+    defense: 960
+    health: 2062
+...

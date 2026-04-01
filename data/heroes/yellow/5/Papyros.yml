@@ -24,6 +24,20 @@ passives:
 - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
 - ' * All allies gain a small amount of mana.'
 image: https://i.imgur.com/cV84mq0.jpg
+dtReleased: "2022-04-21"
+dtModified: "2026-03-20"
+fancy_name: Golem of Paper and Sand
+aetherPower: special_armor
+lb1:
+  power: 915
+  attack: 876
+  defense: 883
+  health: 1691
+lb2:
+  power: 1029
+  attack: 1003
+  defense: 1010
+  health: 1935
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -40,8 +54,8 @@ costume:
     the attacker receives 411 Sand damage over 3 turns.
   - All allies get +40% defense for 3 turns.
   types:
-  - Summoner
-  - Defense Buff
+  - Summoner All
+  - Defense Buff All
   passives:
   - 'Effects on Special Skill: 60% chance to perform the following actions when this
     character casts their Special Skill'
@@ -50,7 +64,21 @@ costume:
   - 'Guaranteed Effect on Special Skill: When this character casts their Special Skill,
     any of their Passive Skills that grant extra effects on cast are guaranteed to
     activate.'
-  - 'Resist Mana Generation Stopping: This character has an innate resistance against
-    status ailments that affect stop mana generation.'
+  - 'Resist Mana Generation Stopping: This character is immune to status ailments
+    that stop mana generation.'
   image: https://i.imgur.com/jWPUwhw.jpg
+  dtReleased: "2024-10-05"
+  dtModified: "2026-03-20"
+  fancy_name: Colossus of Paper and Sand
+  aetherPower: regen
+  lb1:
+    power: 1284
+    attack: 1223
+    defense: 1329
+    health: 2570
+  lb2:
+    power: 1452
+    attack: 1399
+    defense: 1521
+    health: 2941
 ...

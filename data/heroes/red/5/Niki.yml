@@ -26,4 +26,18 @@ passives:
   from Troops of stronger element.'
 - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/yN68oIc.jpg
+dtReleased: "2024-02-26"
+dtModified: ""
+fancy_name: Scythe Master of the Dark Sea
+aetherPower: regen
+lb1:
+  power: 1079
+  attack: 1043
+  defense: 1116
+  health: 1975
+lb2:
+  power: 1216
+  attack: 1193
+  defense: 1277
+  health: 2260
 ...

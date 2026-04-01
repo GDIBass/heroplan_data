@@ -16,6 +16,20 @@ types:
 - Hit All
 - Attack Debuff All
 image: https://i.imgur.com/6Oucdm4.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Bog Witch
+aetherPower: mana_boost
+lb1:
+  power: 693
+  attack: 791
+  defense: 658
+  health: 1052
+lb2:
+  power: 790
+  attack: 918
+  defense: 762
+  health: 1220
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +46,20 @@ costume:
   - Hit All
   - Attack Debuff All
   image: https://i.imgur.com/9DvgVYg.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Candy Witch
+  aetherPower: boosted_regen
+  lb1:
+    power: 741
+    attack: 862
+    defense: 699
+    health: 1135
+  lb2:
+    power: 845
+    attack: 999
+    defense: 810
+    health: 1316
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -48,6 +76,20 @@ costume2:
   - Hit All
   - Defense Debuff All
   image: https://i.imgur.com/EIvqBU6.jpg
+  dtReleased: "2023-04-17"
+  dtModified: ""
+  fancy_name: Toad Witch
+  aetherPower: ailment_immunity
+  lb1:
+    power: 791
+    attack: 900
+    defense: 772
+    health: 1255
+  lb2:
+    power: 904
+    attack: 1043
+    defense: 895
+    health: 1455
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -68,6 +110,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/DQzJaMV.jpg
+  dtReleased: "2024-03-11"
+  dtModified: ""
+  fancy_name: Toon Witch
+  aetherPower: mana_boost
+  lb1:
+    power: 804
+    attack: 918
+    defense: 767
+    health: 1312
+  lb2:
+    power: 919
+    attack: 1064
+    defense: 889
+    health: 1521
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -88,4 +144,18 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/qCkUNrw.jpg
+  dtReleased: "2025-04-08"
+  dtModified: ""
+  fancy_name: Glass Witch
+  aetherPower: mana_boost
+  lb1:
+    power: 818
+    attack: 956
+    defense: 772
+    health: 1305
+  lb2:
+    power: 935
+    attack: 1108
+    defense: 895
+    health: 1513
 ...

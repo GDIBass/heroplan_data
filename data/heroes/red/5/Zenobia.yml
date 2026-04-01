@@ -22,6 +22,20 @@ passives:
 - 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
   Skills is increased by 1 turn.'
 image: https://i.imgur.com/H6eN1G6.jpg
+dtReleased: "2021-09-09"
+dtModified: ""
+fancy_name: Myriapod Queen
+aetherPower: attack_up
+lb1:
+  power: 862
+  attack: 888
+  defense: 814
+  health: 1418
+lb2:
+  power: 968
+  attack: 1016
+  defense: 932
+  health: 1623
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +61,18 @@ costume:
     Skill cast, all allies'' normal attacks and Special Skills deal +70% damage against
     targets with boosted health for 4 turns.'
   image: https://i.imgur.com/lrLa3g9.jpg
+  dtReleased: "2024-02-29"
+  dtModified: ""
+  fancy_name: Apocynacid Queen
+  aetherPower: counterattack
+  lb1:
+    power: 1094
+    attack: 1171
+    defense: 1038
+    health: 1921
+  lb2:
+    power: 1234
+    attack: 1340
+    defense: 1188
+    health: 2197
 ...

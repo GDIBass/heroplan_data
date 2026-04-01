@@ -26,4 +26,18 @@ passives:
   for each enemy inflicted with Poison at the end of each turn. Boosted health can
   exceed max HP.'
 image: https://i.imgur.com/SWrRjRX.jpg
+dtReleased: "2023-02-01"
+dtModified: ""
+fancy_name: Blightwalker Druid
+aetherPower: special_boost
+lb1:
+  power: 874
+  attack: 772
+  defense: 890
+  health: 1642
+lb2:
+  power: 982
+  attack: 883
+  defense: 1018
+  health: 1879
 ...

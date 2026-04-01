@@ -23,4 +23,18 @@ passives:
 - 'Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85%
   damage to all enemies. This effect can activate only once per turn.'
 image: https://i.imgur.com/RDVpqBy.jpg
+dtReleased: "2023-02-23"
+dtModified: ""
+fancy_name: Knight of the Arctic Circle
+aetherPower: defense_up
+lb1:
+  power: 936
+  attack: 905
+  defense: 916
+  health: 1702
+lb2:
+  power: 1054
+  attack: 1036
+  defense: 1049
+  health: 1948
 ...

@@ -1,3 +1,4 @@
+---
 name: Dolgoon
 source: magic
 family: magic
@@ -9,20 +10,38 @@ defense: 504
 health: 796
 skill: Voluminous Vigor
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200% mana:'
-  - '1x Mana Charge:'
-  - ' * All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.'
-  - ' * All allies get +63% defense for 3 turns.'
-  - '2x Mana Charge:'
-  - ' * All enemies become Soul Connected for 5 turns. Soul Connected enemies share received damage.'
-  - ' * All enemies get -56% defense for 5 turns.'
+- 'Special Skill has a different effect when charged with 100%/200% mana:'
+- '1x Mana Charge:'
+- ' * All allies become Soul Connected for 3 turns. Soul Connected allies share received
+  damage.'
+- ' * All allies get +63% defense for 3 turns.'
+- '2x Mana Charge:'
+- ' * All enemies become Soul Connected for 5 turns. Soul Connected enemies share
+  received damage.'
+- ' * All enemies get -56% defense for 5 turns.'
 types:
-  - Damage share buff
-  - Defense buff
-  - Damage share debuff
-  - Defense debuff
-  - Charge
+- Damage share buff
+- Defense buff
+- Damage share debuff
+- Defense debuff
+- Charge
 passives:
-  - >-
-    Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%.
+- 'Status effect on special: When this character casts their Special Skill, they have
+  a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special
+  Skill is fully charged, the chance is 100%.'
 image: https://i.imgur.com/vRYNJwU.jpg
+dtReleased: "2021-09-15"
+dtModified: ""
+fancy_name: Erudite Librarian
+aetherPower: special_armor
+lb1:
+  power: 534
+  attack: 524
+  defense: 571
+  health: 902
+lb2:
+  power: 644
+  attack: 647
+  defense: 705
+  health: 1114
+...

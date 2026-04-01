@@ -1,19 +1,36 @@
+---
 name: Captain of Diamonds
-class: Paladin
 source: wonderland
 family: wonderland
 speed: Fast
+class: Paladin
 power: 650
 attack: 620
 defense: 682
 health: 1126
 skill: Pest Control
 effects:
-  - Destroys all minions from the target.
-  - Deals 275% damage to hit targets.
-  - If the target had Minions, attacks another enemy who has Minions. If none of the enemies have Minions, attacks a random enemy. Each enemy can only be attacked once.
+- Destroys all minions from the target.
+- Deals 275% damage to hit targets.
+- If the target had Minions, attacks another enemy who has Minions. If none of the
+  enemies have Minions, attacks a random enemy. Each enemy can only be attacked once.
 types:
-  - Minion Destroyer 1
-  - Hit 1
-  - Chain Hit
+- Minion Destroyer 1
+- Hit 1
+- Chain Hit
 image: https://i.imgur.com/BgqqlFR.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Knave of Wonderland
+aetherPower: attack_up
+lb1:
+  power: 699
+  attack: 674
+  defense: 741
+  health: 1223
+lb2:
+  power: 797
+  attack: 781
+  defense: 859
+  health: 1418
+...

@@ -24,4 +24,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/MeT3mAW.jpg
+dtReleased: "2026-02-14"
+dtModified: ""
+fancy_name: King of Style
+aetherPower: counterattack
+lb1:
+  power: 1383
+  attack: 1527
+  defense: 1371
+  health: 2427
+lb2:
+  power: 1564
+  attack: 1748
+  defense: 1569
+  health: 2777
 ...

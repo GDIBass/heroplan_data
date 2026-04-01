@@ -1,3 +1,4 @@
+---
 name: Knave of Hearts
 source: wonderland
 family: wonderland
@@ -9,11 +10,28 @@ defense: 999
 health: 1823
 skill: Stolen Tarts
 effects:
-  - Deals 300% damage to the target and nearby enemies.
-  - The target automatically casts Mindless Attack on a random ally when the mana is full at the start of a turn during 3 turns.
-  - Summons a Tart Minion for each ally with 10% HP and 32% attack inherited from the caster. The Minion recovers 10% health for its owner when it is defeated.
+- Deals 300% damage to the target and nearby enemies.
+- The target automatically casts Mindless Attack on a random ally when the mana is
+  full at the start of a turn during 3 turns.
+- Summons a Tart Minion for each ally with 10% HP and 32% attack inherited from the
+  caster. The Minion recovers 10% health for its owner when it is defeated.
 types:
-  - Hit 3
-  - Mindless Attack
-  - Summoner All
+- Hit 3
+- Mindless Attack 1
+- Summoner All
 image: https://i.imgur.com/BQViteC.jpg
+dtReleased: "2024-04-18"
+dtModified: "2026-03-23"
+fancy_name: Thief of Wonderland
+aetherPower: dodge
+lb1:
+  power: 1108
+  attack: 1163
+  defense: 1076
+  health: 1964
+lb2:
+  power: 1249
+  attack: 1330
+  defense: 1231
+  health: 2247
+...

@@ -27,4 +27,18 @@ passives:
 - 'Mana on Buff Received: This characters has a 50% chance to recover 10% mana when
   they receive a buff or a positive stack.'
 image: https://i.imgur.com/8Uj8Jmv.jpg
+dtReleased: "2023-06-19"
+dtModified: ""
+fancy_name: Nine-Headed Prince Consort
+aetherPower: regen
+lb1:
+  power: 1002
+  attack: 965
+  defense: 1025
+  health: 1804
+lb2:
+  power: 1128
+  attack: 1104
+  defense: 1173
+  health: 2065
 ...

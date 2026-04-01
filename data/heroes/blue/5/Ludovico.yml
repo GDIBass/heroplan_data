@@ -1,3 +1,4 @@
+---
 name: Ludovico
 source: sanguine
 family: fleurdesang
@@ -9,16 +10,32 @@ defense: 1273
 health: 2263
 skill: Exquisite Victuals
 effects:
-  - Recovers 20% health for all allies.
-  - For each stack of the Blood Lily effect on enemies, boosts health of all allies by 30, up to 900 boosted health in total. Boosted health can exceed max HP.
-  - All allies are immune to new Fiends for 3 turns.
-  - Cleanses status ailments from all allies.
+- Recovers 20% health for all allies.
+- For each stack of the Blood Lily effect on enemies, boosts health of all allies
+  by 30, up to 900 boosted health in total. Boosted health can exceed max HP.
+- All allies are immune to new Fiends for 3 turns.
+- Cleanses status ailments from all allies.
 types:
-  - Healer All
-  - Boosted heal All
-  - Fiend Immunity All
-  - Cleanser All
+- Healer All
+- Boosted heal All
+- Fiend Immunity All
+- Cleanser All
 passives:
-  - >-
-    Sanguine Mark: All damage from normal attacks and Special Skill dealt by this character is increased by 5% per Blood Lily stack on target.
+- 'Sanguine Mark: All damage from normal attacks and Special Skill dealt by this character
+  is increased by 5% per Blood Lily stack on target.'
 image: https://imgur.com/jhHM18n.jpg
+dtReleased: "2025-10-08"
+dtModified: ""
+fancy_name: Sanguine Steward
+aetherPower: fiend_resist
+lb1:
+  power: 1331
+  attack: 1374
+  defense: 1371
+  health: 2439
+lb2:
+  power: 1505
+  attack: 1572
+  defense: 1569
+  health: 2791
+...

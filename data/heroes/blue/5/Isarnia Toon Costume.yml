@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/mFs5DrO.jpg
+dtReleased: "2024-05-06"
+dtModified: ""
+fancy_name: Protector of Toons
+aetherPower: regen
+lb1:
+  power: 1206
+  attack: 1293
+  defense: 1135
+  health: 2226
+lb2:
+  power: 1363
+  attack: 1480
+  defense: 1299
+  health: 2547
 ...

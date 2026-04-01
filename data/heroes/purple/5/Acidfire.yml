@@ -25,4 +25,18 @@ passives:
 - ' * Deals 90% damage to all enemies.'
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/KXpETJ0.jpg
+dtReleased: "2023-12-11"
+dtModified: ""
+fancy_name: Goblin Necromancer
+aetherPower: attack_up
+lb1:
+  power: 1046
+  attack: 1114
+  defense: 1034
+  health: 1729
+lb2:
+  power: 1179
+  attack: 1275
+  defense: 1183
+  health: 1978
 ...

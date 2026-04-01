@@ -21,4 +21,18 @@ types:
 - Insanity on hit
 - Insanity Self
 image: https://imgur.com/nHDvy8i.jpg
+dtReleased: "2025-04-03"
+dtModified: ""
+fancy_name: Trueshot
+aetherPower: attack_up
+lb1:
+  power: 1264
+  attack: 1329
+  defense: 1249
+  health: 2322
+lb2:
+  power: 1429
+  attack: 1521
+  defense: 1430
+  health: 2656
 ...

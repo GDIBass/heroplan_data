@@ -27,4 +27,18 @@ passives:
 - ' * Deals 90% damage to all enemies.'
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/tT0NNbo.jpg
+dtReleased: "2023-09-18"
+dtModified: ""
+fancy_name: Kitchen Alchemist
+aetherPower: special_armor
+lb1:
+  power: 1003
+  attack: 1023
+  defense: 970
+  health: 1780
+lb2:
+  power: 1130
+  attack: 1170
+  defense: 1109
+  health: 2037
 ...

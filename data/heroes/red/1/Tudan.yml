@@ -1,14 +1,31 @@
+---
 name: Tudan
-class: Rogue
 source: season1
+family: classic
 speed: Fast
+class: Rogue
 power: 210
 attack: 208
 defense: 200
 health: 336
 skill: Backstab
 effects:
-  - Deals 265% damage to the target
+- Deals 265% damage to the target
 types:
-  - Hit 1
+- Hit 1
 image: https://i.imgur.com/cL8WR2O.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Sly Sellsword
+aetherPower: attack_up
+lb1:
+  power: 210
+  attack: 208
+  defense: 200
+  health: 336
+lb2:
+  power: 210
+  attack: 208
+  defense: 200
+  health: 336
+...

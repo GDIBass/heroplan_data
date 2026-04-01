@@ -22,6 +22,20 @@ passives:
 - 'Power of Sisu: When this character starts a turn with low health for the first
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/RQWKyOA.jpg
+dtReleased: "2022-06-20"
+dtModified: ""
+fancy_name: Witch of the North
+aetherPower: attack_up
+lb1:
+  power: 1000
+  attack: 999
+  defense: 932
+  health: 1895
+lb2:
+  power: 1127
+  attack: 1143
+  defense: 1066
+  health: 2169
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -44,4 +58,18 @@ costume:
   - 'Power of Sisu: When this character starts a turn with low health for the first
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://imgur.com/bKgarHR.jpg
+  dtReleased: "2025-07-28"
+  dtModified: ""
+  fancy_name: Mistress of the North
+  aetherPower: rage
+  lb1:
+    power: 1306
+    attack: 1279
+    defense: 1332
+    health: 2577
+  lb2:
+    power: 1476
+    attack: 1463
+    defense: 1524
+    health: 2948
 ...

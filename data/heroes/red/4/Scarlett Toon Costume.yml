@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/uv68SUQ.jpg
+dtReleased: "2024-08-11"
+dtModified: ""
+fancy_name: Raider from the Toon Sea
+aetherPower: attack_up
+lb1:
+  power: 800
+  attack: 915
+  defense: 710
+  health: 1405
+lb2:
+  power: 914
+  attack: 1061
+  defense: 823
+  health: 1629
 ...

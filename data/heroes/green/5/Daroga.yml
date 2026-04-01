@@ -17,12 +17,26 @@ effects:
 types:
 - Hit 1
 - Spreading DoT 1
-- Attack Stack All
+- Attack Buff Stack All
 passives:
-- 'Resist Attack Ailments: This character has innate resistance against status ailments
-  that affect attack.'
+- 'Resist Attack Ailments: This character is immune to status ailments that affect
+  attack.'
 - 'Heal when status ailment expires or is cleared: This character receives 5% health
   each time a status ailment expires or is cleansed, removed or reallocated from them.
   This effect can activate only once per turn.'
 image: https://i.imgur.com/Kmtj8Eb.jpg
+dtReleased: "2024-03-21"
+dtModified: ""
+fancy_name: Jade Eyed Gentleman
+aetherPower: dodge
+lb1:
+  power: 1091
+  attack: 1147
+  defense: 1145
+  health: 1749
+lb2:
+  power: 1231
+  attack: 1313
+  defense: 1310
+  health: 2001
 ...

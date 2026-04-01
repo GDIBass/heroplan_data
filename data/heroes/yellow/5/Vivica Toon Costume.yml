@@ -24,4 +24,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/zJxvLuN.jpg
+dtReleased: "2023-10-30"
+dtModified: ""
+fancy_name: Toon Scholar
+aetherPower: defense_up
+lb1:
+  power: 1211
+  attack: 1187
+  defense: 1197
+  health: 2400
+lb2:
+  power: 1368
+  attack: 1358
+  defense: 1370
+  health: 2746
 ...

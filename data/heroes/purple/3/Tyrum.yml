@@ -16,6 +16,20 @@ types:
 - Hit 1
 - Dispeller All
 image: https://i.imgur.com/HKuMtXT.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Solemn Remnant
+aetherPower: special_boost
+lb1:
+  power: 491
+  attack: 439
+  defense: 478
+  health: 996
+lb2:
+  power: 592
+  attack: 542
+  defense: 591
+  health: 1231
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +46,20 @@ costume:
   - Hit 1
   - Cleanser All
   image: https://i.imgur.com/Rir8owz.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Roman Remnant
+  aetherPower: attack_up
+  lb1:
+    power: 525
+    attack: 480
+    defense: 516
+    health: 1059
+  lb2:
+    power: 634
+    attack: 593
+    defense: 638
+    health: 1309
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -52,6 +80,20 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/MBq6uJ0.jpg
+  dtReleased: "2024-10-06"
+  dtModified: ""
+  fancy_name: Solemn Toon
+  aetherPower: special_boost
+  lb1:
+    power: 565
+    attack: 548
+    defense: 527
+    health: 1148
+  lb2:
+    power: 683
+    attack: 677
+    defense: 652
+    health: 1419
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -72,4 +114,18 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/7TW9Ahw.jpg
+  dtReleased: "2025-12-11"
+  dtModified: ""
+  fancy_name: Glass Remnant
+  aetherPower: special_boost
+  lb1:
+    power: 579
+    attack: 574
+    defense: 534
+    health: 1170
+  lb2:
+    power: 700
+    attack: 709
+    defense: 660
+    health: 1446
 ...

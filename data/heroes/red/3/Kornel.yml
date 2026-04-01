@@ -1,23 +1,43 @@
+---
 name: Kornel
-class: Druid
 source: magic
 family: magic
 speed: Magic
+class: Druid
 power: 479
 attack: 472
 defense: 490
 health: 802
 skill: Imaginary Increments
 effects:
-  - 'Special Skill has a different effect when charged with 100%/200% mana:'
-  - '1x Mana Charge:'
-  - ' * The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.'
-  - '2x Mana Charge:'
-  - ' * The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 6 turns.'
+- 'Special Skill has a different effect when charged with 100%/200% mana:'
+- '1x Mana Charge:'
+- ' * The caster and nearby allies get +45% attack, and a further 20% increase every
+  time they are hit during 3 turns.'
+- '2x Mana Charge:'
+- ' * The target and nearby enemies get -44% defense, and a further -4% decrease every
+  time they are hit during 6 turns.'
 types:
-  - Attack Buff
-  - Defense Debuff
-  - Charge
+- Attack Buff
+- Defense Debuff
+- Charge
 passives:
-  - 'Damage on special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.'
+- 'Damage on special: When this character casts their Special Skill, they have a 50%
+  chance to deal 100% damage to all enemies. If the Special Skill is fully charged,
+  the chance is 100%.'
 image: https://i.imgur.com/mQovZC2.jpg
+dtReleased: "2021-09-15"
+dtModified: ""
+fancy_name: Veteran Caretaker
+aetherPower: defense_up
+lb1:
+  power: 535
+  attack: 535
+  defense: 555
+  health: 910
+lb2:
+  power: 646
+  attack: 662
+  defense: 686
+  health: 1124
+...

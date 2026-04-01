@@ -19,6 +19,20 @@ types:
 - Hit 1
 - Health reduction on each Minion owner
 image: https://i.imgur.com/ISxaSzG.jpg
+dtReleased: "2021-06-10"
+dtModified: ""
+fancy_name: Dynamic Duo
+aetherPower: attack_up
+lb1:
+  power: 859
+  attack: 848
+  defense: 810
+  health: 1509
+lb2:
+  power: 965
+  attack: 970
+  defense: 927
+  health: 1727
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +56,18 @@ costume:
   - 'Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a
     new copy of the cleansed ailment is applied on a random enemy.'
   image: https://imgur.com/GDnuePZ.jpg
+  dtReleased: "2025-08-08"
+  dtModified: ""
+  fancy_name: Dark Duo
+  aetherPower: defense_up
+  lb1:
+    power: 1305
+    attack: 1271
+    defense: 1371
+    health: 2513
+  lb2:
+    power: 1475
+    attack: 1454
+    defense: 1568
+    health: 2876
 ...

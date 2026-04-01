@@ -1,3 +1,4 @@
+---
 name: Hammerclang
 source: astral
 family: astralelves
@@ -9,17 +10,31 @@ defense: 1052
 health: 1678
 skill: Celestial Anvil
 effects:
-  - This Special Skill never misses its targets.
-  - Deals 400% damage to the target and minor damage to all other enemies.
-  - All damage all enemies receive is increased by 30% for 3 turns.
-  - All enemies get -30% attack for 3 turns.
+- This Special Skill never misses its targets.
+- Deals 400% damage to the target and minor damage to all other enemies.
+- All damage all enemies receive is increased by 30% for 3 turns.
+- All enemies get -30% attack for 3 turns.
 types:
-  - Hit All
-  - Damage Increased Debuff All
-  - Attack Debuff All
+- Hit All
+- Damage Increased Debuff All
+- Attack Debuff All
 passives:
-  - >-
-    Resist Poison: This character has innate resistance against Poison.
-  - >-
-    Share Received Damage: 20% of damage received by this character is shared with other allies.
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
+- 'Share Received Damage: 20% of damage received by this character is shared with
+  other allies.'
 image: https://i.imgur.com/ujdL1Bx.jpg
+dtReleased: "2024-03-28"
+dtModified: "2026-03-29"
+fancy_name: Astral Elf Blacksmith
+aetherPower: special_boost
+lb1:
+  power: 1083
+  attack: 1107
+  defense: 1134
+  health: 1809
+lb2:
+  power: 1221
+  attack: 1267
+  defense: 1297
+  health: 2070
+...

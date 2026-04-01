@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/5zN8JJz.jpg
+dtReleased: "2025-01-14"
+dtModified: ""
+fancy_name: Glass Spearmaster
+aetherPower: special_boost
+lb1:
+  power: 1329
+  attack: 1429
+  defense: 1313
+  health: 2406
+lb2:
+  power: 1503
+  attack: 1635
+  defense: 1502
+  health: 2753
 ...

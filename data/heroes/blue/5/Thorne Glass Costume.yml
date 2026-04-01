@@ -20,4 +20,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/jJvIunu.jpg
+dtReleased: "2025-11-25"
+dtModified: ""
+fancy_name: Vitrail of Frostmorrow
+aetherPower: special_boost
+lb1:
+  power: 1328
+  attack: 1313
+  defense: 1406
+  health: 2505
+lb2:
+  power: 1502
+  attack: 1502
+  defense: 1609
+  health: 2866
 ...

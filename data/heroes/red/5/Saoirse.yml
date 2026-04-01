@@ -23,6 +23,20 @@ passives:
 - 'Resist Damage from Status Effects: This character is immune to incoming damage
   from status effects and stacks.'
 image: https://i.imgur.com/pHj3rld.jpg
+dtReleased: "2021-08-05"
+dtModified: ""
+fancy_name: The Untamable
+aetherPower: attack_up
+lb1:
+  power: 863
+  attack: 794
+  defense: 872
+  health: 1545
+lb2:
+  power: 969
+  attack: 909
+  defense: 998
+  health: 1767
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +62,18 @@ costume:
   - 'Bleed on Special Skill: When this character casts their Special Skill, all enemies
     receive 452 Bleed damage over 4 turns.'
   image: https://i.imgur.com/yHVhyhO.jpg
+  dtReleased: "2024-11-14"
+  dtModified: ""
+  fancy_name: The Vanquisher
+  aetherPower: defense_up
+  lb1:
+    power: 1297
+    attack: 1108
+    defense: 1484
+    health: 2639
+  lb2:
+    power: 1467
+    attack: 1268
+    defense: 1698
+    health: 3020
 ...

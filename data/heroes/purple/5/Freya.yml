@@ -1,3 +1,4 @@
+---
 name: Freya
 source: season3
 family: vanaheim
@@ -9,14 +10,31 @@ defense: 743
 health: 1339
 skill: Ravens' Vigil
 effects:
-  - Summons a Raven Minion for each ally with 20% HP and 20% attack inherited from the caster.
-  - Raven Minion gives +120% attack to all its owner's other Minions.
-  - All allies get +30% defense for 4 turns.
+- Summons a Raven Minion for each ally with 20% HP and 20% attack inherited from the
+  caster.
+- Raven Minion gives +120% attack to all its owner's other Minions.
+- All allies get +30% defense for 4 turns.
 types:
-  - Summoner
-  - Defense Buffer
+- Summoner All
+- Minions Attack Buff All
+- Defense Buff All
 image: https://i.imgur.com/4iJaoi6.jpg
+dtReleased: ""
+dtModified: "2026-03-23"
+fancy_name: Lady of the Slain
+aetherPower: regen
+lb1:
+  power: 843
+  attack: 836
+  defense: 801
+  health: 1443
+lb2:
+  power: 947
+  attack: 957
+  defense: 916
+  health: 1651
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 991
@@ -25,10 +43,27 @@ costume:
   health: 1823
   skill: Ravens' Watch
   effects:
-    - Summons a Raven Minion for each ally with 25% HP and 15% attack inherited from the caster.
-    - Raven Minion gives +180% attack to all its owner's other Minions.
-    - All allies get +36% chance to dodge Special Skills that deal damage for 4 turns.
+  - Summons a Raven Minion for each ally with 25% HP and 15% attack inherited from
+    the caster.
+  - Raven Minion gives +180% attack to all its owner's other Minions.
+  - All allies get +36% chance to dodge Special Skills that deal damage for 4 turns.
   types:
-    - Summoner
-    - Dodge Buff
+  - Summoner All
+  - Minions Attack Buff All
+  - Dodge Chance Buff All
   image: https://i.imgur.com/Ye3Esdg.jpg
+  dtReleased: "2022-08-01"
+  dtModified: "2026-03-23"
+  fancy_name: Witch of the Fallen
+  aetherPower: special_armor
+  lb1:
+    power: 1059
+    attack: 1042
+    defense: 1051
+    health: 1966
+  lb2:
+    power: 1193
+    attack: 1193
+    defense: 1202
+    health: 2249
+...

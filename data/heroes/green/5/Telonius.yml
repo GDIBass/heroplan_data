@@ -32,6 +32,20 @@ passives:
   -5% mana generation stack. If the Special Skill is fully charged, all enemies get
   two stacks. An enemy can have up to 10 stacks.'
 image: https://i.imgur.com/WMPKV4S.jpg
+dtReleased: "2023-05-03"
+dtModified: ""
+fancy_name: Centaur of the Woodlands
+aetherPower: defense_up
+lb1:
+  power: 950
+  attack: 954
+  defense: 932
+  health: 1647
+lb2:
+  power: 1069
+  attack: 1092
+  defense: 1066
+  health: 1884
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -66,4 +80,18 @@ costume:
     get two stacks. An enemy can have up to 10 stacks.'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/oES7PTn.jpg
+  dtReleased: "2025-12-27"
+  dtModified: ""
+  fancy_name: Centaur of the Taproom
+  aetherPower: bulwark
+  lb1:
+    power: 1352
+    attack: 1425
+    defense: 1370
+    health: 2464
+  lb2:
+    power: 1529
+    attack: 1631
+    defense: 1567
+    health: 2819
 ...

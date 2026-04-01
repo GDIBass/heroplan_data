@@ -1,3 +1,4 @@
+---
 name: Bellerive
 source: gargoyle
 family: gargoyle
@@ -9,12 +10,28 @@ defense: 631
 health: 1260
 skill: Sanction for Heresy
 effects:
-  - Deals 420% damage to the target.
-  - If the target dies, the excess damage is dealt to each nearby enemy.
+- Deals 420% damage to the target.
+- If the target dies, the excess damage is dealt to each nearby enemy.
 types:
-  - Hit 1
-  - Chain
+- Hit 1
+- Chain Hit
 passives:
-  - >-
-    Gargoyle's Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can't be dispelled.
+- 'Gargoyle''s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin
+  hardens. The next 4 times they receive damage, it is dropped to 1. This effect can''t
+  be dispelled.'
 image: https://i.imgur.com/VIPkm6l.jpg
+dtReleased: "2022-05-12"
+dtModified: "2026-03-20"
+fancy_name: Wicked Gargoyle
+aetherPower: special_boost
+lb1:
+  power: 734
+  attack: 759
+  defense: 685
+  health: 1369
+lb2:
+  power: 837
+  attack: 880
+  defense: 795
+  health: 1587
+...

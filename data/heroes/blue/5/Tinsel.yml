@@ -23,4 +23,18 @@ types:
 - Defense Debuff 3
 - Blind 3
 image: https://i.imgur.com/huD8kmB.jpg
+dtReleased: "2022-12-01"
+dtModified: ""
+fancy_name: Gnome Tinkerer
+aetherPower: attack_up
+lb1:
+  power: 908
+  attack: 919
+  defense: 870
+  health: 1556
+lb2:
+  power: 1020
+  attack: 1051
+  defense: 995
+  health: 1780
 ...

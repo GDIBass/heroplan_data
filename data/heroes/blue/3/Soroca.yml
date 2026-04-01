@@ -1,3 +1,4 @@
+---
 name: Soroca
 source: gargoyle
 family: gargoyle
@@ -9,11 +10,28 @@ defense: 500
 health: 703
 skill: Faithful Force
 effects:
-  - Deals 235% damage to the target.
-  - Deals additional 10% damage per each Ice shield on the board, up to 335%  damage in total.
+- Deals 235% damage to the target.
+- Deals additional 10% damage per each Ice shield on the board, up to 335%  damage
+  in total.
 types:
-  - Hit 1
+- Hit 1
 passives:
-  - >-
-    Gargoyle's Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can't be dispelled.
+- 'Gargoyle''s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin
+  hardens. The next 4 times they receive damage, it is dropped to 1. This effect can''t
+  be dispelled.'
 image: https://i.imgur.com/m9CtBNT.jpg
+dtReleased: "2022-05-12"
+dtModified: ""
+fancy_name: Furious Gargoyle
+aetherPower: ailment_immunity
+lb1:
+  power: 538
+  attack: 581
+  defense: 567
+  health: 797
+lb2:
+  power: 650
+  attack: 718
+  defense: 700
+  health: 985
+...

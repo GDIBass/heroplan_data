@@ -1,3 +1,4 @@
+---
 name: Grevle
 source: season3
 family: alfheim
@@ -9,9 +10,24 @@ defense: 613
 health: 623
 skill: Traveler's Snack
 effects:
-  - Boosts health of all allies by 250. Boosted health can exceed max HP.
-  - All allies get +30% attack for 4 turns.
+- Boosts health of all allies by 250. Boosted health can exceed max HP.
+- All allies get +30% attack for 4 turns.
 types:
-  - Health Boost
-  - Attack Buff
+- Boost Health All
+- Attack Buff All
 image: https://i.imgur.com/7vQQwXx.jpg
+dtReleased: "2020-05-28"
+dtModified: "2026-03-23"
+fancy_name: Cunning Badger
+aetherPower: heal_increase
+lb1:
+  power: 518
+  attack: 457
+  defense: 695
+  health: 707
+lb2:
+  power: 625
+  attack: 564
+  defense: 859
+  health: 873
+...

@@ -20,4 +20,18 @@ types:
 - Defense Buff All
 - Cleanser All
 image: https://i.imgur.com/0dWPfN4.jpg
+dtReleased: "2023-04-17"
+dtModified: ""
+fancy_name: Noble Healer
+aetherPower: damage_reduction
+lb1:
+  power: 793
+  attack: 780
+  defense: 878
+  health: 1354
+lb2:
+  power: 906
+  attack: 905
+  defense: 1019
+  health: 1570
 ...

@@ -36,4 +36,18 @@ passives:
 - ' * The Killer Bot Minion recovers 5% health for its owner at the end of each turn.'
 - ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
 image: https://imgur.com/5bw98dE.jpg
+dtReleased: "2025-12-23"
+dtModified: ""
+fancy_name: Enthusiastic Chef Construct
+aetherPower: regen
+lb1:
+  power: 1353
+  attack: 1409
+  defense: 1407
+  health: 2437
+lb2:
+  power: 1530
+  attack: 1612
+  defense: 1610
+  health: 2788
 ...

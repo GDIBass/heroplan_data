@@ -23,4 +23,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/NcRhwAX.jpg
+dtReleased: "2025-04-23"
+dtModified: ""
+fancy_name: Deathbound Vitrail
+aetherPower: counterattack
+lb1:
+  power: 818
+  attack: 722
+  defense: 783
+  health: 1869
+lb2:
+  power: 935
+  attack: 837
+  defense: 907
+  health: 2167
 ...

@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/uvZCfR2.jpg
+dtReleased: "2025-03-11"
+dtModified: ""
+fancy_name: Glass General
+aetherPower: counterattack
+lb1:
+  power: 814
+  attack: 873
+  defense: 807
+  health: 1414
+lb2:
+  power: 931
+  attack: 1013
+  defense: 936
+  health: 1639
 ...

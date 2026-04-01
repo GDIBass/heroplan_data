@@ -1,3 +1,4 @@
+---
 name: Mooncure
 source: astral
 family: astralelves
@@ -9,18 +10,32 @@ defense: 1170
 health: 1868
 skill: Astral Myrrh
 effects:
-  - Recovers 55% health for all allies.
-  - All allies get +10% mana every time an enemy uses their Special skill during 5 turns.
-  - The caster steals 50% of any healing applied to all enemies for 5 turns.
-  - All enemies get -40% attack for 5 turns.
+- Recovers 55% health for all allies.
+- All allies get +10% mana every time an enemy uses their Special skill during 5 turns.
+- The caster steals 50% of any healing applied to all enemies for 5 turns.
+- All enemies get -40% attack for 5 turns.
 types:
-  - Heal All
-  - Mana on enemy SS All
-  - Heal steal All
-  - Attack Debuff All
+- Heal All
+- Mana on enemy SS All
+- Heal steal All
+- Attack Debuff All
 passives:
-  - >-
-    Resist Poison: This character has innate resistance against Poison.
-  - >-
-    Share Received Damage: 20% of damage received by this character is shared with other allies.
+- 'Resist Poison: This character has innate resistance against Poison.'
+- 'Share Received Damage: 20% of damage received by this character is shared with
+  other allies.'
 image: https://i.imgur.com/K8e9yy9.jpg
+dtReleased: "2024-08-19"
+dtModified: ""
+fancy_name: Astral Elf Incense Master
+aetherPower: heal_increase
+lb1:
+  power: 1161
+  attack: 1147
+  defense: 1260
+  health: 2013
+lb2:
+  power: 1310
+  attack: 1313
+  defense: 1442
+  health: 2303
+...

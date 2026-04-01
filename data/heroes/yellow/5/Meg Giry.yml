@@ -1,3 +1,4 @@
+---
 name: Meg Giry
 source: solstice
 family: opera
@@ -9,18 +10,37 @@ defense: 1062
 health: 2222
 skill: Deceptive Smalltalk
 effects:
-  - Recovers 60% health for all allies.
-  - Cleanses the latest status ailments from all allies and gives to a random target in the enemy team.
-  - All active status ailments are uncleansable for all enemies for the remaining turns of the status ailment.
-  - All allies get +60% defense for 4 turns.
+- Recovers 60% health for all allies.
+- Lifts the latest cleansable status ailment from all allies and randomly distributes
+  them on enemies.
+- All active status ailments are uncleansable for all enemies for the remaining turns
+  of the status ailment.
+- All allies get +60% defense for 4 turns.
 types:
-  - Healer
-  - Cleanser
-  - Force uncleansable ailments
-  - Defense Buff
+- Healer All
+- Lifts Latest Ailment All
+- Force Uncleanable Ailments
+- Defense Buff All
 passives:
-  - >-
-    Resist Defense Ailments: This character has innate resistance against status ailments that affect defense.
-  - >- 
-    Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.
+- 'Resist Defense Ailments: This character is immune to status ailments and negative
+  stacks that affect defense. Doesn''t apply to status ailments that affect elemental
+  defense.'
+- 'Heal when status ailment expires or is cleared: This character receives 10% health
+  each time a status ailment expires or is cleansed, removed or reallocated from them.
+  This effect can activate only once per turn.'
 image: https://i.imgur.com/GJH1yAl.jpg
+dtReleased: "2024-03-21"
+dtModified: "2026-03-20"
+fancy_name: Starlet Ballerina
+aetherPower: defense_up
+lb1:
+  power: 1153
+  attack: 1065
+  defense: 1145
+  health: 2395
+lb2:
+  power: 1302
+  attack: 1219
+  defense: 1310
+  health: 2740
+...

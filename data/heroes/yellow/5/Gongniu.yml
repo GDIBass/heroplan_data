@@ -25,4 +25,19 @@ passives:
   when they receive a status ailment or a negative stack.'
 - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/BDNFVzo.jpg
+dtReleased: "2024-02-08"
+dtModified: "2026-03-20"
+fancy_name: Lunar Guardian Ox
+aetherPower: boosted_regen
+lb1:
+  power: 1050
+  attack: 943
+  defense: 1123
+  health: 2009
+lb2:
+  power: 1184
+  attack: 1079
+  defense: 1285
+  health: 2298
+zodiacAnimal: ox
 ...

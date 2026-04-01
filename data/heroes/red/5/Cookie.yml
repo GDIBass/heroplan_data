@@ -21,4 +21,18 @@ types:
 - Summoner All
 - Bomb Debuff All
 image: https://i.imgur.com/n61JoD1.jpg
+dtReleased: "2023-12-01"
+dtModified: ""
+fancy_name: Gnome Scientist
+aetherPower: ailment_reflect
+lb1:
+  power: 1013
+  attack: 987
+  defense: 1043
+  health: 1795
+lb2:
+  power: 1142
+  attack: 1130
+  defense: 1193
+  health: 2054
 ...

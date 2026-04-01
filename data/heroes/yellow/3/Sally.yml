@@ -1,17 +1,33 @@
+---
 name: Sally
-class: Barbarian
 source: pirates
 family: corellia
 speed: Slow
+class: Barbarian
 power: 481
 attack: 484
 defense: 467
 health: 830
 skill: Piercing Sabre
 effects:
-  - Deals 270% damage to the target.
-  - The attack chains through all the enemies who are adjacent to any hit enemy.
+- Deals 270% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy.
 types:
-  - Hit 1
-  - Chain
+- Hit 1
+- Chain Hit
 image: https://i.imgur.com/wpH6Nrx.jpg
+dtReleased: "2021-12-15"
+dtModified: "2026-03-20"
+fancy_name: Mascot of Corellia
+aetherPower: dodge
+lb1:
+  power: 537
+  attack: 549
+  defense: 529
+  health: 941
+lb2:
+  power: 648
+  attack: 679
+  defense: 654
+  health: 1163
+...

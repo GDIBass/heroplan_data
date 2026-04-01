@@ -19,9 +19,23 @@ types:
 - Hit Random 1
 - Defense Debuff 1
 passives:
-- 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
-  Skills is increased by 1 turn.'
+- 'Increase Buff Duration: Duration of the first 3 buffs this character receives from
+  Special Skill is increased by 1 turn.'
 image: https://i.imgur.com/hsqxizP.jpg
+dtReleased: "2021-12-02"
+dtModified: "2026-03-20"
+fancy_name: Myriapod Prince
+aetherPower: dodge
+lb1:
+  power: 865
+  attack: 863
+  defense: 814
+  health: 1505
+lb2:
+  power: 972
+  attack: 988
+  defense: 932
+  health: 1722
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,10 +53,26 @@ costume:
   types:
   - Hit 1
   - Bounce
-  - Defense Debuff
+  - Defense Debuff 1
   passives:
+  - 'Increase Buff Duration: Duration of the first 3 buffs this character receives
+    from Special Skill is increased by 1 turn.'
   - 'Increased Damage Against Boosted Health: After this character casts their Special
-    Skill cast, all allies'' normal attacks and Special Skills deal +70% damage against
-    targets with boosted health for 4 turns .'
+    Skill cast, all allies deal +70% increased normal attacks and Special Skills damage
+    against targets with boosted health for 4 turns .'
   image: https://i.imgur.com/KswtgYH.jpg
+  dtReleased: "2024-06-20"
+  dtModified: "2026-03-20"
+  fancy_name: Apocynacid Prince
+  aetherPower: special_armor
+  lb1:
+    power: 1098
+    attack: 1128
+    defense: 1044
+    health: 2049
+  lb2:
+    power: 1239
+    attack: 1291
+    defense: 1195
+    health: 2345
 ...

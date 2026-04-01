@@ -19,8 +19,22 @@ effects:
 types:
 - Hit 3
 - Summoner All
-- Minion Counterattack
+- Counterattack Minion
 image: https://i.imgur.com/Uq8cKe7.jpg
+dtReleased: "2022-05-23"
+dtModified: ""
+fancy_name: Warlord of Shu
+aetherPower: damage_reduction
+lb1:
+  power: 892
+  attack: 879
+  defense: 861
+  health: 1562
+lb2:
+  power: 1002
+  attack: 1005
+  defense: 985
+  health: 1788
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,12 +53,26 @@ costume:
     This effect can't be dispelled.
   types:
   - Hit 3
-  - Summoner
-  - Minion Counterattack
+  - Summoner All
+  - Counterattack Minion
   passives:
   - 'Unstoppable Minions:'
-  - ' * Resistance against Minion removal.'
+  - ' * Immune to effects that remove Minions.'
   - ' * Can''t be prevented from receiving Minions.'
-  - ' * Minion attack and abilities can''t be disabled.'
+  - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/rjnMev7.jpg
+  dtReleased: "2025-01-29"
+  dtModified: ""
+  fancy_name: Warlord of Forest
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1184
+    attack: 1222
+    defense: 1147
+    health: 2217
+  lb2:
+    power: 1337
+    attack: 1399
+    defense: 1313
+    health: 2537
 ...

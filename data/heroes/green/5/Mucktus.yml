@@ -1,3 +1,4 @@
+---
 name: Mucktus
 source: superelemental
 family: slime
@@ -9,17 +10,35 @@ defense: 1143
 health: 2053
 skill: Insidious Goo
 effects:
-  - Deals 290% damage to all enemies.
-  - Summons a Slime Fiend for all enemies. The Fiend damage the enemy with 50% attack every turn.
-  - The Slime Fiend absorbs healing. It disappears after absorbing health equal to 40% of its target's max health.
-  - At the end of each turn the Slime Fiend steals one of the dispellable buffs or Growth effect and gives it to a random character on the opposite team.
+- Deals 290% damage to all enemies.
+- Summons a Slime Fiend for all enemies. The Fiend damage the enemy with 50% attack
+  every turn.
+- The Slime Fiend absorbs healing. It disappears after absorbing health equal to 40%
+  of its target's max health.
+- At the end of each turn the Slime Fiend steals one of the dispellable buffs or Growth
+  effect and gives it to a random character on the opposite team.
 types:
-  - Hit All
-  - Slime Fiend Summoner All
-  - Buff Stealing Fiend
+- Hit All
+- Slime Fiend Summoner All
+- Buff Stealing Fiend
 passives:
-  - >-
-    Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.
-  - >-
-    Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.
+- 'Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega
+  Minions to nearby allies with 50% HP and 40% attack inherited from this character.'
+- 'Slime Minion Split: If this character loses more than 25% of max health at once,
+  they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://i.imgur.com/eKwzh2k.jpg
+dtReleased: "2024-10-02"
+dtModified: ""
+fancy_name: Fiendish Forest Blob
+aetherPower: fiend_resist
+lb1:
+  power: 1220
+  attack: 1258
+  defense: 1232
+  health: 2213
+lb2:
+  power: 1378
+  attack: 1440
+  defense: 1409
+  health: 2532
+...

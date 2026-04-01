@@ -27,4 +27,18 @@ passives:
 - 'Health Recovery on Buff Received: This character recovers 5% health when they receive
   a buff or a positive stack.'
 image: https://i.imgur.com/En0uUcx.jpg
+dtReleased: "2023-10-18"
+dtModified: ""
+fancy_name: Guardian of the Emerald Forest
+aetherPower: ailment_immunity
+lb1:
+  power: 1046
+  attack: 1125
+  defense: 1007
+  health: 1756
+lb2:
+  power: 1179
+  attack: 1287
+  defense: 1153
+  health: 2009
 ...

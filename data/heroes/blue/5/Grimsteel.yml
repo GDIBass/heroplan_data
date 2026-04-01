@@ -25,4 +25,18 @@ passives:
 - ' * Deals 90% damage to all enemies.'
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/rkoJ3ZR.jpg
+dtReleased: "2024-02-19"
+dtModified: ""
+fancy_name: Hermit of the Frozen Mountain
+aetherPower: defense_up
+lb1:
+  power: 1136
+  attack: 1136
+  defense: 1196
+  health: 1995
+lb2:
+  power: 1282
+  attack: 1300
+  defense: 1369
+  health: 2283
 ...

@@ -1,3 +1,4 @@
+---
 name: Rosalind
 source: goblinvillage
 family: garrisonguard
@@ -9,18 +10,34 @@ defense: 1161
 health: 2012
 skill: A Moment of Joy
 effects:
-  - Recovers 30% health for all allies.
-  - >-
-    Stack (Max 10): All damage all allies receive is reduced by -5%.
-  - Summnos a Shiled Guard Mega Minion with 65% HP and 180% attack inherited from the caster.
-  - The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on remova, from the remove status ailment. External effects such as passive skills and family effects can still activate.
+- Recovers 30% health for all allies.
+- 'Stack (Max 10): All damage all allies receive is reduced by -5%.'
+- Summnos a Shiled Guard Mega Minion with 65% HP and 180% attack inherited from the
+  caster.
+- The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment
+  from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage
+  on remova, from the remove status ailment. External effects such as passive skills
+  and family effects can still activate.
 types:
-  - Healer
-  - Stack
-  - Guard Mega Minion
+- Healer All
+- Damage Reduction Buff Stack All
+- Guard Mega Minion Self
 passives:
-  - >-
-    Resist Mana reduction: This character has an innate resistance against mana Reduction.
-  - >-
-    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/founMKj.jpg
+dtReleased: "2024-10-27"
+dtModified: "2026-03-20"
+fancy_name: Cheerful Captain
+aetherPower: counterattack
+lb1:
+  power: 1187
+  attack: 1167
+  defense: 1252
+  health: 2168
+lb2:
+  power: 1340
+  attack: 1336
+  defense: 1432
+  health: 2481
+...

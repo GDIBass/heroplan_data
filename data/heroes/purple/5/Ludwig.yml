@@ -20,4 +20,18 @@ types:
 - SS Defense Buff Self
 - MoT 2
 image: https://i.imgur.com/VV20w6e.jpg
+dtReleased: "2021-10-13"
+dtModified: ""
+fancy_name: Defender of the Castle
+aetherPower: taunt
+lb1:
+  power: 870
+  attack: 779
+  defense: 910
+  health: 1554
+lb2:
+  power: 977
+  attack: 891
+  defense: 1041
+  health: 1778
 ...

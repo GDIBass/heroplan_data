@@ -1,3 +1,4 @@
+---
 name: Zhabog
 source: festival
 family: bard
@@ -9,12 +10,27 @@ defense: 603
 health: 1419
 skill: Melody of Misery
 effects:
-  - Deals 350% damage to the target.
-  - The duration of status ailments is reset for all enemies.
+- Deals 350% damage to the target.
+- The duration of status ailments is reset for all enemies.
 types:
-  - Hit 1
-  - Status Ailment Reset
+- Hit 1
+- Status Ailment Reset
 passives:
-  - >-
-    Revival chance reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value.
+- 'Revival Chance Reduction: The chance of revival is reduced for all enemies in the
+  battle. The chance is 20% of the original value.'
 image: https://i.imgur.com/GX1p5W9.jpg
+dtReleased: "2022-08-11"
+dtModified: "2026-03-23"
+fancy_name: Bard of Eloquence
+aetherPower: attack_up
+lb1:
+  power: 734
+  attack: 715
+  defense: 655
+  health: 1542
+lb2:
+  power: 838
+  attack: 829
+  defense: 760
+  health: 1788
+...

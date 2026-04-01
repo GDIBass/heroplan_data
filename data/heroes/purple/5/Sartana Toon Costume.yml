@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/V3r9sPS.jpg
+dtReleased: "2023-10-30"
+dtModified: ""
+fancy_name: Toon Executioner
+aetherPower: dodge
+lb1:
+  power: 1216
+  attack: 1176
+  defense: 1163
+  health: 2528
+lb2:
+  power: 1373
+  attack: 1346
+  defense: 1330
+  health: 2893
 ...

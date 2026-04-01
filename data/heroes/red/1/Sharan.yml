@@ -1,14 +1,31 @@
+---
 name: Sharan
-class: Ranger
 source: season1
+family: classic
 speed: Average
+class: Ranger
 power: 213
 attack: 168
 defense: 205
 health: 448
 skill: Minor Healing
 effects:
-  - Recovers 27% health for all allies
+- Recovers 27% health for all allies
 types:
-  - Healer
+- Healer
 image: https://i.imgur.com/PC7yXFg.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Talented Trapper
+aetherPower: defense_up
+lb1:
+  power: 213
+  attack: 168
+  defense: 205
+  health: 448
+lb2:
+  power: 213
+  attack: 168
+  defense: 205
+  health: 448
+...

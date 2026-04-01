@@ -14,8 +14,8 @@ effects:
   max HP.
 - All allies receive a small amount of mana over 4 turns.
 - All allies reflect status ailments for 4 turns and negative stacks for 4 turns.
-  Status effects cast by characters, Minions and Fiends on the same side cannot be
-  reflected.
+  (Status effects cast by characters, Minions and Fiends on the same side cannot be
+  reflected.)
 types:
 - Boosted HoT All
 - Mana Boost over time All
@@ -24,9 +24,23 @@ types:
 passives:
 - 'Special Skill Damage Reduction: This character has a 10% chance to drop the direct
   damage received from Special Skills to 1.'
-- 'Damage Over Time on Special: When this character casts their Special Skill, they
+- 'Damage over Time on Special: When this character casts their Special Skill, they
   give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/fbtStrK.jpg
+dtReleased: "2022-09-18"
+dtModified: "2026-03-20"
+fancy_name: Hunter Journeyman
+aetherPower: attack_up
+lb1:
+  power: 948
+  attack: 883
+  defense: 941
+  health: 1791
+lb2:
+  power: 1066
+  attack: 1010
+  defense: 1076
+  health: 2049
 ...

@@ -26,6 +26,20 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/Z6trZDL.jpg
+dtReleased: "2022-06-09"
+dtModified: ""
+fancy_name: Scarab God
+aetherPower: fiend_resist
+lb1:
+  power: 918
+  attack: 863
+  defense: 899
+  health: 1709
+lb2:
+  power: 1032
+  attack: 988
+  defense: 1028
+  health: 1955
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -56,4 +70,18 @@ costume:
     to activate.'
   - 'Resist Sand Damage: This character has innate resistance against sand damage.'
   image: https://i.imgur.com/j3u49nY.jpg
+  dtReleased: "2025-02-17"
+  dtModified: ""
+  fancy_name: Scarab Overlord
+  aetherPower: special_boost
+  lb1:
+    power: 1290
+    attack: 1313
+    defense: 1271
+    health: 2497
+  lb2:
+    power: 1457
+    attack: 1502
+    defense: 1454
+    health: 2857
 ...

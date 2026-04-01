@@ -28,4 +28,61 @@ passives:
   from Troops of stronger element.'
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/DZtGVoI.jpg
+dtReleased: "2023-07-17"
+dtModified: ""
+fancy_name: Dual Blade Specialist
+aetherPower: attack_up
+lb1:
+  power: 1003
+  attack: 1025
+  defense: 956
+  health: 1802
+lb2:
+  power: 1130
+  attack: 1173
+  defense: 1094
+  health: 2062
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Ranger
+  power: 1288
+  attack: 1361
+  defense: 1256
+  health: 2399
+  skill: Overflowing Whirlwind
+  effects:
+  - Deals 270% damage to the target.
+  - If 1 ally is of Holy element, the damage will increase to 330% and it will affect
+    nearby enemies.
+  - If 2 allies are of Holy element, the damage will increase to 360% and it will
+    affect all enemies.
+  - Reduces the mana of all hit enemies by -25%.
+  - Deals extra damage against Dark.
+  types:
+  - Hit 1,3 or All
+  - Mana Reducer All
+  passives:
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This character''s Troops deal extra damage
+    against the weaker element.'
+  - ' * Extra damage dealt: +150%'
+  - 'Passive Skill as defending character: This character receives less damage from
+    Troops of the stronger element.'
+  - ' * Received elemental damage: -25%'
+  image: https://imgur.com/diCJq7h.jpg
+  dtReleased: "2026-03-17"
+  dtModified: ""
+  fancy_name: Dual Blade Arthropod
+  aetherPower: rage
+  lb1:
+    power: 1380
+    attack: 1469
+    defense: 1355
+    health: 2586
+  lb2:
+    power: 1561
+    attack: 1680
+    defense: 1550
+    health: 2958
 ...

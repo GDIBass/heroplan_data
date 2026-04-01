@@ -26,4 +26,18 @@ passives:
 - 'Resist Attack Status Effects: This character is immune to all status effects and
   stacks that effect attack. This includes status effect buffs.'
 image: https://i.imgur.com/jTxW191.jpg
+dtReleased: "2022-03-01"
+dtModified: ""
+fancy_name: Lone Rogue
+aetherPower: regen
+lb1:
+  power: 857
+  attack: 836
+  defense: 814
+  health: 1516
+lb2:
+  power: 963
+  attack: 957
+  defense: 932
+  health: 1734
 ...

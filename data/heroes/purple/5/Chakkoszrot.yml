@@ -25,4 +25,18 @@ passives:
 - 'Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns
   when this character receives a status ailment or a negative stack.'
 image: https://i.imgur.com/tvzGcka.jpg
+dtReleased: "2021-08-01"
+dtModified: ""
+fancy_name: Lizardfolk High Priest
+aetherPower: mana_boost
+lb1:
+  power: 845
+  attack: 803
+  defense: 841
+  health: 1460
+lb2:
+  power: 949
+  attack: 919
+  defense: 962
+  health: 1671
 ...

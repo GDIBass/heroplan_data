@@ -1,3 +1,4 @@
+---
 name: Regin
 source: untoldtales
 family: nidavellir
@@ -9,20 +10,40 @@ defense: 1141
 health: 2193
 skill: Master Plan
 effects:
-  - Dispels buffs from the target and nearby enemies.
-  - Attacks the target and nearby enemies with Firestorm Strike, dealing up to 2000 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.
-  - The target and nearby enemies are immune to new status effect buffs for 3 turns.
+- Dispels buffs from the target and nearby enemies.
+- Attacks the target and nearby enemies with Firestorm Strike, dealing up to 2000
+  damage. Deals 40% more damage if the target is of the Nature element. This Special
+  Skill never misses its targets.
+- The target and nearby enemies are immune to new status effect buffs for 3 turns.
 types:
-  - Dispeler 3
-  - Hit 3
-  - Buff Immunity 3
+- Dispeler 3
+- Hit 3
+- Buff Immunity 3
 passives:
-  - >-
-    Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.
-  - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
-  - " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 319 Burn damage, and lowers the target's defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions."
-  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+- 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
+  damage and gains 450 boosted health and 5% mana each time they resist.'
+- 'Molten Core: The Molten Core activates each time this character''s Special Skill
+  is cast:'
+- ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
+  Core, the Corrosive Burn deals 319 Burn damage, and lowers the target''s defense
+  by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.'
+- ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
+  exhausted when the Core is activated.'
 image: https://i.imgur.com/IX7uDP5.jpg
+dtReleased: "2024-12-03"
+dtModified: ""
+fancy_name: Dwarven Fabled Prince
+aetherPower: counterattack
+lb1:
+  power: 1246
+  attack: 1276
+  defense: 1229
+  health: 2364
+lb2:
+  power: 1408
+  attack: 1460
+  defense: 1407
+  health: 2705
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -33,17 +54,38 @@ costume:
   health: 2438
   skill: Cursed Plan
   effects:
-    - Dispels buffs from the target and nearby enemies.
-    - Attacks the target and nearby enemies with Firestorm Strike, dealing up to 2220 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.
-    - The target and nearby enemies are immune to new status effect buffs for 3 turns.
+  - Dispels buffs from the target and nearby enemies.
+  - Attacks the target and nearby enemies with Firestorm Strike, dealing up to 2220
+    damage. Deals 40% more damage if the target is of the Nature element. This Special
+    Skill never misses its targets.
+  - The target and nearby enemies are immune to new status effect buffs for 3 turns.
   types:
-    - Dispeller 3
-    - Hit 3
-    - Buff Immunity 3
+  - Dispeller 3
+  - Hit 3
+  - Buff Immunity 3
   passives:
-    - >-
-      Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.
-    - "Molten Core: The Molten Core activates each time this character's Special Skill is cast:"
-    - " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 387 Burn damage, and lowers the target's defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
-    - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.'
+  - 'Empowered Resist Burn: This character is immune to status ailments that deal
+    Burn damage and gains 600 boosted health and 10% mana each time they resist.'
+  - 'Molten Core: The Molten Core activates each time this character''s Special Skill
+    is cast:'
+  - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
+    Core, the Corrosive Burn deals 387 Burn damage, and lowers the target''s defense
+    by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
   image: https://imgur.com/Pn28cus.jpg
+  dtReleased: "2025-10-15"
+  dtModified: ""
+  fancy_name: Dwarven Fallen Prince
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1363
+    attack: 1416
+    defense: 1343
+    health: 2621
+  lb2:
+    power: 1541
+    attack: 1620
+    defense: 1536
+    health: 2999
+...

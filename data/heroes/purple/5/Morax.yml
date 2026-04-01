@@ -28,4 +28,18 @@ passives:
 - 'Mana on Health Boosting Special Skill: This character gains 5% mana each time an
   enemy casts a Special Skill that directly boosts health.'
 image: https://i.imgur.com/9tJznmy.jpg
+dtReleased: "2022-11-01"
+dtModified: ""
+fancy_name: Bane of the Underworld
+aetherPower: special_boost
+lb1:
+  power: 865
+  attack: 828
+  defense: 830
+  health: 1560
+lb2:
+  power: 972
+  attack: 947
+  defense: 949
+  health: 1785
 ...

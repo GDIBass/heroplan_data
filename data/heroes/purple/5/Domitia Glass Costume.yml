@@ -24,4 +24,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/gwMXUDN.jpg
+dtReleased: "2025-04-23"
+dtModified: ""
+fancy_name: Glass Sniper
+aetherPower: attack_up
+lb1:
+  power: 1328
+  attack: 1441
+  defense: 1243
+  health: 2505
+lb2:
+  power: 1501
+  attack: 1649
+  defense: 1422
+  health: 2866
 ...

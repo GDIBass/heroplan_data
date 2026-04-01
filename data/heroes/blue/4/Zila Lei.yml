@@ -1,3 +1,4 @@
+---
 name: Zila Lei
 source: season4
 family: underwild
@@ -9,16 +10,32 @@ defense: 652
 health: 1234
 skill: Fishbone Blades
 effects:
-  - Deals 185% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.
-  - The enemies on the edges of the enemy formation get -34% defense for 3 turns.
+- Deals 185% damage to the enemies on the edges of the enemy formation. If there is
+  only one enemy alive, the damage is doubled.
+- The enemies on the edges of the enemy formation get -34% defense for 3 turns.
 types:
-  - Hit 2
-  - Defense Down
+- Hit 2
+- Defense Down
 passives:
-  - >-
-    Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power.
+- 'Increased Special Skill Damage: The first time this character casts a Special Skill
+  that deals damage, an additional 30% is added to its power.'
 image: https://i.imgur.com/AZ3KQGe.jpg
+dtReleased: "2021-03-25"
+dtModified: ""
+fancy_name: Octropod Assassin
+aetherPower: attack_up
+lb1:
+  power: 728
+  attack: 736
+  defense: 708
+  health: 1341
+lb2:
+  power: 831
+  attack: 853
+  defense: 821
+  health: 1555
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Monk
   power: 692
@@ -27,12 +44,28 @@ costume:
   health: 1255
   skill: Aquatic Dance
   effects:
-    - Deals 215% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.
-    - The enemies on the edges of the enemy formation get -30% defence for 3 turns.
+  - Deals 215% damage to the enemies on the edges of the enemy formation. If there
+    is only one enemy alive, the damage is doubled.
+  - The enemies on the edges of the enemy formation get -30% defence for 3 turns.
   types:
-    - Hit 2
-    - Defense Down
+  - Hit 2
+  - Defense Down
   passives:
-    - >-
-      Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power.
+  - 'Increased Special Skill Damage: The first time this character casts a Special
+    Skill that deals damage, an additional 30% is added to its power.'
   image: https://i.imgur.com/uA3g8LR.jpg
+  dtReleased: "2024-01-04"
+  dtModified: ""
+  fancy_name: Octopod Dancer
+  aetherPower: counterattack
+  lb1:
+    power: 745
+    attack: 763
+    defense: 725
+    health: 1363
+  lb2:
+    power: 851
+    attack: 884
+    defense: 841
+    health: 1581
+...

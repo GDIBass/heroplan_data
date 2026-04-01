@@ -21,4 +21,18 @@ passives:
 - 'Cleanse on Minion Death: This character is cleansed of status ailments when Minion
   owned by them is destroyed.'
 image: https://i.imgur.com/YFCeTvj.jpg
+dtReleased: "2022-11-22"
+dtModified: ""
+fancy_name: Masked God of the Sky
+aetherPower: special_armor
+lb1:
+  power: 893
+  attack: 907
+  defense: 854
+  health: 1516
+lb2:
+  power: 1004
+  attack: 1038
+  defense: 977
+  health: 1734
 ...

@@ -1,0 +1,40 @@
+---
+name: Froastyx
+source: ancientUnderroot
+speed: Very_fast
+power: 11205
+attack: 14424
+defense: 13744
+health: 11993
+skill: Claws of the North
+effects:
+- Deals 300% damage to the target.
+- The target gets -35% mana generation for 3 turns. (Affect only mana generated from
+  matching tiles or mana gained by the defense team at the end of their turn. )
+- The target receives 4500 Frost damage over 3 turns.
+types:
+- Hit 1
+- Mana Generation Debuff 1
+- DoT 1
+spiritBonus:
+  spiritClass: Fighter
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Wounding Blaze
+  effects:
+  - Deals 910 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies get -30% decrease of any healing received for 5 turns.
+image: https://imgur.com/Ns9ubC4.jpg
+...

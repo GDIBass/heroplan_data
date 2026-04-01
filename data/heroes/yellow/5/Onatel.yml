@@ -1,6 +1,7 @@
+---
 name: Onatel
 source: hotm
-family: 2019
+family: "2019"
 speed: Average
 class: Wizard
 power: 770
@@ -9,13 +10,31 @@ defense: 815
 health: 1437
 skill: Eye of the Prophet
 effects:
-  - Deals 330% damage to the target and nearby enemies
-  - The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but gets removed if the caster dies.
-  - Element Link recovers 4% health for all Holy allies for 6 turns. This effect can't be cleansed
+- Deals 330% damage to the target and nearby enemies
+- The caster steals generated mana of the target and the nearby enemies over 4 turns
+  starting low and increasing every turn until on the last turn all the generated
+  mana is stolen. This effect can't be cleansed, but gets removed if the caster dies.
+- Element Link recovers 4% health for all Holy allies for 6 turns. This effect can't
+  be cleansed
 types:
-  - Hit 3
-  - Mana Steal
+- Hit 3
+- Mana Steal 3
 passives:
-  - >-
-    Resist Blind: This character has an innate ability to resist status ailments that affect Accuracy. Doesn't apply to status effects from allies.
+- 'Resist Blind: This character is immune to status ailments that affect accuracy.
+  Doesn''t apply to original status effects from allies.'
 image: https://i.imgur.com/wCLflfr.jpg
+dtReleased: "2019-01-01"
+dtModified: ""
+fancy_name: Blind Seer
+aetherPower: damage_reduction
+lb1:
+  power: 821
+  attack: 666
+  defense: 879
+  health: 1549
+lb2:
+  power: 921
+  attack: 762
+  defense: 1005
+  health: 1772
+...

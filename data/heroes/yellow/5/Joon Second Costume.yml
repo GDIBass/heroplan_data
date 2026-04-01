@@ -21,4 +21,18 @@ types:
 - DoT 3
 - Blind 3
 image: https://i.imgur.com/rJxyTcK.jpg
+dtReleased: "2022-12-26"
+dtModified: ""
+fancy_name: Might of the Sun
+aetherPower: ailment_immunity
+lb1:
+  power: 1027
+  attack: 1048
+  defense: 890
+  health: 2049
+lb2:
+  power: 1158
+  attack: 1199
+  defense: 1019
+  health: 2344
 ...

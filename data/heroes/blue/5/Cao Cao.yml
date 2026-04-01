@@ -18,8 +18,23 @@ effects:
 types:
 - Hit All
 - Summoner All
+- Minion Dispels on hit
 - Defense Buff All
 image: https://i.imgur.com/U1AQZ8U.jpg
+dtReleased: "2022-07-18"
+dtModified: ""
+fancy_name: Warlord of Wei
+aetherPower: regen
+lb1:
+  power: 893
+  attack: 861
+  defense: 876
+  health: 1582
+lb2:
+  power: 1004
+  attack: 985
+  defense: 1003
+  health: 1811
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -37,12 +52,27 @@ costume:
   - All allies get +40% defense for 5 turns.
   types:
   - Hit All
-  - Summoner
-  - Defense buff
+  - Summoner All
+  - Minion Dispels on hit
+  - Defense Buff All
   passives:
   - 'Unstoppable Minions:'
-  - ' * Resistance against Minion removal.'
+  - ' * Immune to effects that remove Minions.'
   - ' * Can''t be prevented from receiving Minions.'
-  - ' * Minion attack and abilities can''t be disabled.'
+  - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/zsLpVZ2.jpg
+  dtReleased: "2024-08-02"
+  dtModified: ""
+  fancy_name: Warlord of Ice
+  aetherPower: special_armor
+  lb1:
+    power: 1184
+    attack: 1150
+    defense: 1207
+    health: 2282
+  lb2:
+    power: 1337
+    attack: 1316
+    defense: 1381
+    health: 2611
 ...

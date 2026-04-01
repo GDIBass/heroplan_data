@@ -17,6 +17,20 @@ types:
 - Ally Damage Share
 - Defense Buff All
 image: https://i.imgur.com/h7fAkgX.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Selfless Healer
+aetherPower: special_armor
+lb1:
+  power: 494
+  attack: 486
+  defense: 514
+  health: 827
+lb2:
+  power: 596
+  attack: 601
+  defense: 635
+  health: 1022
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +48,20 @@ costume:
   - Ally Damage Share
   - Attack Buff All
   image: https://i.imgur.com/OOF8ysq.jpg
+  dtReleased: "2021-01-18"
+  dtModified: ""
+  fancy_name: Magnanimous Mender
+  aetherPower: defense_up
+  lb1:
+    power: 528
+    attack: 489
+    defense: 575
+    health: 936
+  lb2:
+    power: 637
+    attack: 604
+    defense: 710
+    health: 1156
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -56,6 +84,20 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/6HNw9i7.jpg
+  dtReleased: "2024-02-12"
+  dtModified: ""
+  fancy_name: Toon Healer
+  aetherPower: special_armor
+  lb1:
+    power: 565
+    attack: 557
+    defense: 595
+    health: 995
+  lb2:
+    power: 683
+    attack: 688
+    defense: 736
+    health: 1229
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -79,6 +121,20 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/jRBcqpn.jpg
+  dtReleased: "2025-03-11"
+  dtModified: ""
+  fancy_name: Glass Healer
+  aetherPower: special_armor
+  lb1:
+    power: 579
+    attack: 555
+    defense: 627
+    health: 1032
+  lb2:
+    power: 700
+    attack: 686
+    defense: 775
+    health: 1275
 costume4:
   design: stylish
   bonuses: 5/5/10/5
@@ -101,4 +157,18 @@ costume4:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/DLbCQyk.jpg
+  dtReleased: "2026-03-12"
+  dtModified: ""
+  fancy_name: Stylish Healer
+  aetherPower: special_armor
+  lb1:
+    power: 610
+    attack: 583
+    defense: 674
+    health: 1093
+  lb2:
+    power: 739
+    attack: 721
+    defense: 833
+    health: 1351
 ...

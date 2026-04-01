@@ -1,3 +1,4 @@
+---
 name: Jarvur
 source: season3
 family: svartalfheim
@@ -9,9 +10,24 @@ defense: 422
 health: 775
 skill: Jab and Hook
 effects:
-  - Deals 285% damage to the target.
-  - 'Stack (Max: 10): The caster gets +10% attack.'
+- Deals 285% damage to the target.
+- 'Stack (Max: 10): The caster gets +10% attack.'
 types:
-  - Hit 1
-  - Stacking
+- Hit 1
+- Attack Buff Stack Self
 image: https://i.imgur.com/eZV4meS.jpg
+dtReleased: "2020-05-28"
+dtModified: "2026-03-23"
+fancy_name: Wolverine Pugilist
+aetherPower: special_boost
+lb1:
+  power: 520
+  attack: 567
+  defense: 478
+  health: 878
+lb2:
+  power: 627
+  attack: 700
+  defense: 591
+  health: 1085
+...

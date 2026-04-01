@@ -20,4 +20,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/RwxxvuX.jpg
+dtReleased: "2025-08-10"
+dtModified: ""
+fancy_name: The Hotblooded Vitrail
+aetherPower: rage
+lb1:
+  power: 578
+  attack: 685
+  defense: 478
+  health: 998
+lb2:
+  power: 699
+  attack: 847
+  defense: 591
+  health: 1233
 ...

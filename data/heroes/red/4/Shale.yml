@@ -24,4 +24,18 @@ types:
 - HoT Self/3/All
 - Cleanser Self/3/All
 image: https://i.imgur.com/MtPyEOT.jpg
+dtReleased: "2020-10-13"
+dtModified: ""
+fancy_name: Ninja of Flying Vigor
+aetherPower: damage_reduction
+lb1:
+  power: 721
+  attack: 655
+  defense: 681
+  health: 1547
+lb2:
+  power: 822
+  attack: 760
+  defense: 789
+  health: 1793
 ...

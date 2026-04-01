@@ -16,6 +16,20 @@ types:
 - Hit 1
 - Defense Buff 3
 image: https://i.imgur.com/JpMZ0xh.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Ancient of Ice
+aetherPower: attack_up
+lb1:
+  power: 803
+  attack: 854
+  defense: 637
+  health: 1438
+lb2:
+  power: 901
+  attack: 977
+  defense: 728
+  health: 1645
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +46,20 @@ costume:
   - Hit 1
   - Defense Debuff 3
   image: https://i.imgur.com/A0jPrh9.jpg
+  dtReleased: "2020-05-18"
+  dtModified: ""
+  fancy_name: Monolith of Ice
+  aetherPower: special_boost
+  lb1:
+    power: 906
+    attack: 862
+    defense: 850
+    health: 1726
+  lb2:
+    power: 1019
+    attack: 987
+    defense: 972
+    health: 1975
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -48,6 +76,20 @@ costume2:
   - Hit 3
   - Defense Debuff 3
   image: https://i.imgur.com/npmSFHz.jpg
+  dtReleased: "2022-10-31"
+  dtModified: ""
+  fancy_name: Ancient of the Underworld
+  aetherPower: rage
+  lb1:
+    power: 1030
+    attack: 1030
+    defense: 893
+    health: 2109
+  lb2:
+    power: 1161
+    attack: 1179
+    defense: 1022
+    health: 2414
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -68,6 +110,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/bakqHYB.jpg
+  dtReleased: "2024-01-22"
+  dtModified: ""
+  fancy_name: Toon of Ice
+  aetherPower: attack_up
+  lb1:
+    power: 1208
+    attack: 1269
+    defense: 1042
+    health: 2483
+  lb2:
+    power: 1364
+    attack: 1452
+    defense: 1192
+    health: 2841
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -88,6 +144,20 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/EJome7K.jpg
+  dtReleased: "2025-03-11"
+  dtModified: ""
+  fancy_name: Vitrail of Ice
+  aetherPower: attack_up
+  lb1:
+    power: 1322
+    attack: 1456
+    defense: 1165
+    health: 2584
+  lb2:
+    power: 1495
+    attack: 1666
+    defense: 1333
+    health: 2956
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -108,4 +178,18 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/ur9mzPp.jpg
+  dtReleased: "2026-03-12"
+  dtModified: ""
+  fancy_name: Stylish Ancient of Ice
+  aetherPower: attack_up
+  lb1:
+    power: 1387
+    attack: 1552
+    defense: 1227
+    health: 2681
+  lb2:
+    power: 1569
+    attack: 1776
+    defense: 1405
+    health: 3068
 ...

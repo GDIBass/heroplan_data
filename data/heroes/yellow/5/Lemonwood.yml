@@ -24,4 +24,18 @@ passives:
 - 'Share Received Damage: 20% of damage received by this character is shared with
   other allies.'
 image: https://i.imgur.com/P0rxyPZ.jpg
+dtReleased: "2024-03-07"
+dtModified: ""
+fancy_name: Astral Elf Marksman
+aetherPower: dodge
+lb1:
+  power: 1082
+  attack: 1123
+  defense: 1116
+  health: 1798
+lb2:
+  power: 1220
+  attack: 1285
+  defense: 1277
+  health: 2057
 ...

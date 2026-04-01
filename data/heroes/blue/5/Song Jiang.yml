@@ -1,3 +1,4 @@
+---
 name: Song Jiang
 source: kingdom
 family: outlaws
@@ -9,25 +10,45 @@ defense: 1207
 health: 2202
 skill: Righteous Strike
 effects:
-  - This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero's overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies' max health on PVP battles. This effect is stronger against boosted health.)
-  - Deals 450% damage to the target and nearby enemies.
-  - Heals the caster and nearby allies for 20% of damage dealt.
-  - The target and nearby enemies get silenced for 4 turns.
-  - The target and nearby enemies get -30% defense for 4 turns.
+- This Special Skill has a chance to deal Critical hits. (The chance of dealing a
+  Critical hit is based on Hero's overall critical chance when the damage is dealt.
+  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
+  reduces enemies' max health on PVP battles. This effect is stronger against boosted
+  health.)
+- Deals 450% damage to the target and nearby enemies.
+- Heals the caster and nearby allies for 20% of damage dealt.
+- The target and nearby enemies get silenced for 4 turns.
+- The target and nearby enemies get -30% defense for 4 turns.
 types:
-  - Chance of Critical hits
-  - Hit 3
-  - Damage Heal 3
-  - Silence 3
-  - Defense Debuff 3
+- Chance of Critical hits
+- Hit 3
+- Damage Heal 3
+- Silence 3
+- Defense Debuff 3
 passives:
-  - >-
-    Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.
-  - >-
-    Righteous Rebellion: 
-  - " * When this character's Special Skill hits a character that had higher current HP, gain +20% boosted health."
-  - " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana."
-  - " * Each of these effects can activate once per turn."
-  - >-
-    Resist Bleed: This character is immune to status ailments that deal Bleed damage.
+- 'Cleanse on Critical Special Attack: When this character scores a critical hit with
+  their Special Skill, they safely cleanse the latest cleansable status ailment from
+  all allies. This effect can activate once per turn.'
+- 'Righteous Rebellion:'
+- ' * When this character''s Special Skill hits a character that had higher current
+  HP, gain +20% boosted health.'
+- ' * When this character is hit by the Special Skill of a character that had higher
+  current HP, gain +20% mana.'
+- ' * Each of these effects can activate once per turn.'
+- 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://imgur.com/ASg7ZAz.jpg
+dtReleased: "2025-05-22"
+dtModified: "2026-03-28"
+fancy_name: Timely Rain of Water Margin
+aetherPower: ailment_immunity
+lb1:
+  power: 1287
+  attack: 1332
+  defense: 1300
+  health: 2373
+lb2:
+  power: 1455
+  attack: 1524
+  defense: 1488
+  health: 2715
+...

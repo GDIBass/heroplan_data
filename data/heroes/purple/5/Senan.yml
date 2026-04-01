@@ -26,6 +26,20 @@ passives:
 - 'Resist Damage from Status Effects: This character is immune to incoming damage
   from status effects and stacks.'
 image: https://i.imgur.com/PYhKsHp.jpg
+dtReleased: "2021-08-05"
+dtModified: ""
+fancy_name: The Accursed
+aetherPower: fiend_resist
+lb1:
+  power: 860
+  attack: 788
+  defense: 876
+  health: 1531
+lb2:
+  power: 966
+  attack: 901
+  defense: 1003
+  health: 1752
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -55,4 +69,18 @@ costume:
   - 'Bleed on Special Skill: When this character casts their Special Skill, all enemies
     receive 544 Bleed damage over 4 turns.'
   image: https://imgur.com/CNY72vk.jpg
+  dtReleased: "2025-04-09"
+  dtModified: ""
+  fancy_name: The Cephaloid Servant
+  aetherPower: damage_reduction
+  lb1:
+    power: 1291
+    attack: 1341
+    defense: 1237
+    health: 2506
+  lb2:
+    power: 1459
+    attack: 1535
+    defense: 1415
+    health: 2868
 ...

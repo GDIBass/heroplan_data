@@ -16,6 +16,20 @@ effects:
 - The target gets silenced for 3 turns.
 types:
 - Hit 1
-- Silencer
+- Silencer 1
 image: https://i.imgur.com/UwDUNi0.jpg
+dtReleased: "2023-04-17"
+dtModified: ""
+fancy_name: The Noble Raven
+aetherPower: dodge
+lb1:
+  power: 1030
+  attack: 1048
+  defense: 973
+  health: 1902
+lb2:
+  power: 1161
+  attack: 1199
+  defense: 1114
+  health: 2176
 ...

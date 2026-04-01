@@ -1,3 +1,4 @@
+---
 name: Yunan
 source: sand
 family: sand
@@ -9,17 +10,33 @@ defense: 815
 health: 1437
 skill: Sand Storm
 effects:
-  - Deals 200% damage to all enemies
-  - All enemies receive 381 damage over 3 turns
-  - All enemies get -50% decrease for any healing received for 3 turns.  This effect can't be cleansed.
-  - Cleanses status ailments from all allies.
+- Deals 200% damage to all enemies
+- All enemies receive 381 damage over 3 turns
+- All enemies get -50% decrease for any healing received for 3 turns.  This effect
+  can't be cleansed.
+- Cleanses status ailments from all allies.
 types:
-  - Hit All
-  - DOT All
-  - Healing Debuff
-  - Cleanser All
+- Hit All
+- DoT All
+- Healing Debuff All
+- Cleanser All
 image: https://i.imgur.com/jUayUm6.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: King of Sand Empire
+aetherPower: mana_boost
+lb1:
+  power: 821
+  attack: 666
+  defense: 879
+  health: 1549
+lb2:
+  power: 921
+  attack: 762
+  defense: 1005
+  health: 1772
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 913
@@ -28,13 +45,28 @@ costume:
   health: 1776
   skill: Wipeout
   effects:
-    - Deals 215% damage to all enemies.
-    - All enemies receive 815 Sand damage over 5 turns.
-    - All allies get +33% mana generation for 5 turns.
-    - Cleanses status ailments from all allies.
+  - Deals 215% damage to all enemies.
+  - All enemies receive 815 Sand damage over 5 turns.
+  - All allies get +33% mana generation for 5 turns.
+  - Cleanses status ailments from all allies.
   types:
-    - Hit All
-    - Dot all
-    - Mana Generation Buff All
-    - Cleanser All
+  - Hit All
+  - DoT All
+  - Mana Generation Buff All
+  - Cleanser All
   image: https://i.imgur.com/vpqf6zq.jpg
+  dtReleased: "2021-06-21"
+  dtModified: ""
+  fancy_name: King of Lifeguards
+  aetherPower: boosted_regen
+  lb1:
+    power: 1005
+    attack: 863
+    defense: 1071
+    health: 1991
+  lb2:
+    power: 1132
+    attack: 987
+    defense: 1225
+    health: 2278
+...

@@ -1,0 +1,42 @@
+---
+name: Berit
+source: monsterisland
+family: plainshunter
+speed: Slow
+class: Monk
+power: 1289
+attack: 1341
+defense: 1334
+health: 2296
+skill: Staggering Blows
+effects:
+- Deals 500% damage to the enemy with the lowest remaining HP.
+- Deals 750% damage to the enemy with highest remaining HP. Deals 300% damage to all
+  other enemies.
+- The enemy that had the highest remaining HP is unable to gain mana for 4 turns.
+types:
+- Hit All
+- Mana Gain Freeze 1
+passives:
+- 'Special Skill Damage Reduction: This character has a 10% chance to drop the direct
+  damage received from Special Skills to 1.'
+- 'Damage over Time on Special: When this character casts their Special Skill, they
+  give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
+  If a target already has this effect, the duration will be refreshed and the damage
+  will be increased by 150, up to 1500 damage in total.'
+image: https://imgur.com/ZYtPylm.jpg
+dtReleased: "2026-03-20"
+dtModified: "2026-03-20"
+fancy_name: Berylline Bruiser
+aetherPower: boosted_regen
+lb1:
+  power: 1379
+  attack: 1445
+  defense: 1438
+  health: 2475
+lb2:
+  power: 1560
+  attack: 1653
+  defense: 1645
+  health: 2832
+...

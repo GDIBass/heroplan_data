@@ -39,4 +39,18 @@ passives:
 - ' * The attacker receives 400% damage.'
 - ' * The attacker receives 1200 Bleed damage over 3 turns.'
 image: https://imgur.com/mI380TJ.jpg
+dtReleased: "2026-03-10"
+dtModified: ""
+fancy_name: Cold Blooded Ronin
+aetherPower: attack_up
+lb1:
+  power: 862
+  attack: 969
+  defense: 863
+  health: 1406
+lb2:
+  power: 986
+  attack: 1124
+  defense: 1001
+  health: 1630
 ...

@@ -20,4 +20,18 @@ types:
 - Status Effect Immunity Debuff 3
 - Dispels Buffs 3
 image: https://i.imgur.com/0FiXuyI.jpg
+dtReleased: "2022-12-26"
+dtModified: ""
+fancy_name: Elven Cavalier
+aetherPower: dodge
+lb1:
+  power: 791
+  attack: 809
+  defense: 783
+  health: 1457
+lb2:
+  power: 904
+  attack: 938
+  defense: 908
+  health: 1689
 ...

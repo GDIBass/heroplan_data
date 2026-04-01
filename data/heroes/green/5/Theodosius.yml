@@ -1,3 +1,4 @@
+---
 name: Theodosius
 source: goblinvillage
 family: garrisonguard
@@ -9,22 +10,39 @@ defense: 1157
 health: 1936
 skill: Reporting for Duty
 effects:
-  - Deals 450% damage to all enemies.
-  - Reduces the duration of all allies' active status ailments by 3 turn. (The duration reduction affects both cleansable and uncleansable status ailments. If the duration on any ailment is reduced to zero, the effect is considered as having expired naturally.)
-  - Reduces the duration of all enemies' active buffs by 3 turns.(The duration reduction affects both dispellable and undispellable status effect buffs. If the duration on any buff is reduced to zero, the effect is considered as having expired naturally.)
-  - All allies get +35% defense for 5 turns.
-  - All enemies get -35% defense for 5 turns.
+- Deals 450% damage to all enemies.
+- Reduces the duration of all allies' active status ailments by 3 turn. (The duration
+  reduction affects both cleansable and uncleansable status ailments. If the duration
+  on any ailment is reduced to zero, the effect is considered as having expired naturally.)
+- Reduces the duration of all enemies' active buffs by 3 turns.(The duration reduction
+  affects both dispellable and undispellable status effect buffs. If the duration
+  on any buff is reduced to zero, the effect is considered as having expired naturally.)
+- All allies get +35% defense for 5 turns.
+- All enemies get -35% defense for 5 turns.
 types:
-  - Hit All
-  - Reduce Ailments duration 3
-  - Reduce Buff duration 3
-  - Defense Buff
-  - Defense Debuff
+- Hit All
+- Reduce Ailments duration by 3 All
+- Reduce Buff duration by 3 All
+- Defense Buff All
+- Defense Debuff All
 passives:
-  - >-
-    Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.
-  - >-
-    Resist Mana reduction: This character has an innate resistance against mana Reduction.
-  - >-
-    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+- 'Mana on Status Ailment Received: This character gains 5% mana when they receive
+  a status ailment or negative stack.'
+- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/tr0BEoG.jpg
+dtReleased: "2024-07-07"
+dtModified: ""
+fancy_name: Courageous Corporal
+aetherPower: defense_up
+lb1:
+  power: 1177
+  attack: 1174
+  defense: 1247
+  health: 2086
+lb2:
+  power: 1328
+  attack: 1343
+  defense: 1427
+  health: 2387
+...

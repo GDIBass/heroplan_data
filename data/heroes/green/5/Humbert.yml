@@ -1,3 +1,4 @@
+---
 name: Humbert
 source: knights
 family: bear
@@ -9,14 +10,30 @@ defense: 1110
 health: 1975
 skill: Mending Bronze Axe
 effects:
-  - Deals 350% damage to all enemies.
-  - Boosts all allies' health by 25% of damage dealt.
-  - All allies get +30% defense for 4 turns. The defense increases by 10% each turn up to 60%.
+- Deals 350% damage to all enemies.
+- Boosts all allies' health by 25% of damage dealt.
+- All allies get +30% defense for 4 turns. The defense increases by 10% each turn
+  up to 60%.
 types:
-  - Hit All
-  - Health Boost All
-  - Defense Buff
+- Hit All
+- Health Boost All
+- Defense Buff
 passives:
-  - >-
-    Health Recovery on Buff Received: This character recovers 5% health when  they receive a buff or a positive stack.
+- 'Health Recovery on Buff Received: This character recovers 5% health when  they
+  receive a buff or a positive stack.'
 image: https://i.imgur.com/wk8es22.jpg
+dtReleased: "2024-06-05"
+dtModified: ""
+fancy_name: Defender of the Highlands
+aetherPower: damage_reduction
+lb1:
+  power: 1154
+  attack: 1132
+  defense: 1196
+  health: 2128
+lb2:
+  power: 1302
+  attack: 1295
+  defense: 1369
+  health: 2435
+...

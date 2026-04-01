@@ -1,14 +1,31 @@
+---
 name: Ragnhild
-class: Fighter
 source: season1
+family: classic
 speed: Average
+class: Fighter
 power: 334
 attack: 369
 defense: 305
 health: 538
 skill: Fierce Slash
 effects:
-  - Deals 115% damage to all enemies
+- Deals 115% damage to all enemies
 types:
-  - Hit All
+- Hit All
 image: https://i.imgur.com/safl82B.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Exiled Warrior
+aetherPower: attack_up
+lb1:
+  power: 334
+  attack: 369
+  defense: 305
+  health: 538
+lb2:
+  power: 334
+  attack: 369
+  defense: 305
+  health: 538
+...

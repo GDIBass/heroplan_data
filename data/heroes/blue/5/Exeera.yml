@@ -19,6 +19,20 @@ types:
 passives:
 - 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/UnO1gz8.jpg
+dtReleased: "2021-12-30"
+dtModified: ""
+fancy_name: Octopod Priest
+aetherPower: boosted_regen
+lb1:
+  power: 867
+  attack: 852
+  defense: 836
+  health: 1498
+lb2:
+  power: 974
+  attack: 975
+  defense: 957
+  health: 1714
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -42,4 +56,18 @@ costume:
     Skill, all allies deal +70% increased normal attack and Special Skills damage
     against targets with boosted health for 4 turns.'
   image: https://i.imgur.com/4y90uTW.jpg
+  dtReleased: "2024-09-26"
+  dtModified: ""
+  fancy_name: Octopod Hierophant
+  aetherPower: special_armor
+  lb1:
+    power: 1101
+    attack: 1131
+    defense: 1070
+    health: 2004
+  lb2:
+    power: 1242
+    attack: 1294
+    defense: 1225
+    health: 2294
 ...

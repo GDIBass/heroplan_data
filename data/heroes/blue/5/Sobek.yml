@@ -21,6 +21,20 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies receive 255 Sand damage over 3 turns.'
 image: https://i.imgur.com/3Y3v4bs.jpg
+dtReleased: "2022-04-21"
+dtModified: ""
+fancy_name: God of the River
+aetherPower: defense_up
+lb1:
+  power: 915
+  attack: 925
+  defense: 805
+  health: 1724
+lb2:
+  power: 1030
+  attack: 1059
+  defense: 922
+  health: 1973
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,4 +63,18 @@ costume:
   - 'Increased Special Skill Damage: The first time this character casts a Special
     Skill that deals damage an additional 50% is added to its power.'
   image: https://i.imgur.com/E4kLEt9.jpg
+  dtReleased: "2024-07-13"
+  dtModified: ""
+  fancy_name: Guardian of the River
+  aetherPower: attack_up
+  lb1:
+    power: 1285
+    attack: 1306
+    defense: 1197
+    health: 2627
+  lb2:
+    power: 1452
+    attack: 1495
+    defense: 1370
+    health: 3006
 ...

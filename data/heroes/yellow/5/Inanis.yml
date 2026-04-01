@@ -30,4 +30,18 @@ passives:
 - 'Branded by the Old Ones: All damage from normal attacks and Special Skills dealt
   by this character is increased by 6% per 10 Insanity on this character, up to 60%.'
 image: https://imgur.com/nOztQOp.jpg
+dtReleased: "2025-12-28"
+dtModified: ""
+fancy_name: The Untethered
+aetherPower: dodge
+lb1:
+  power: 1354
+  attack: 1449
+  defense: 1394
+  health: 2373
+lb2:
+  power: 1532
+  attack: 1658
+  defense: 1595
+  health: 2715
 ...

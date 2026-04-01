@@ -24,4 +24,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/d6OTmVG.jpg
+dtReleased: "2024-04-08"
+dtModified: ""
+fancy_name: Toon Spirit
+aetherPower: defense_up
+lb1:
+  power: 563
+  attack: 577
+  defense: 564
+  health: 992
+lb2:
+  power: 681
+  attack: 713
+  defense: 696
+  health: 1226
 ...

@@ -24,4 +24,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/Y4Gu3iU.jpg
+dtReleased: "2025-04-23"
+dtModified: ""
+fancy_name: Glass Spirit
+aetherPower: defense_up
+lb1:
+  power: 578
+  attack: 597
+  defense: 576
+  health: 1022
+lb2:
+  power: 699
+  attack: 738
+  defense: 712
+  health: 1263
 ...

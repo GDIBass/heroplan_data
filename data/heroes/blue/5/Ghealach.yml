@@ -30,4 +30,18 @@ passives:
 - ' * The damage is scaled by the amount of charge in the Core. All charge is exhausted
   when the Core is activated.'
 image: https://i.imgur.com/KrLttV5.jpg
+dtReleased: "2023-09-21"
+dtModified: ""
+fancy_name: Starborne Mage Construct
+aetherPower: dodge
+lb1:
+  power: 1046
+  attack: 1074
+  defense: 1025
+  health: 1849
+lb2:
+  power: 1179
+  attack: 1229
+  defense: 1173
+  health: 2115
 ...

@@ -1,6 +1,7 @@
+---
 name: Ares
 source: hotm
-family: 2017
+family: "2017"
 speed: Average
 class: Paladin
 power: 765
@@ -9,16 +10,32 @@ defense: 741
 health: 1442
 skill: Might of Ares
 effects:
-  - The caster and nearby allies get +54% attack for 4 turns.
-  - The caster and nearby allies get +46% critical chance for 4 turns.
-  - The caster and nearby allies regenerate 1000 HP over 4 turns.
-  - Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled.
+- The caster and nearby allies get +54% attack for 4 turns.
+- The caster and nearby allies get +46% critical chance for 4 turns.
+- The caster and nearby allies regenerate 1000 HP over 4 turns.
+- Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This
+  effect can't be dispelled.
 types:
-  - Attack Buff 3
-  - Crit Buff 3
-  - Hot 3
+- Attack Buff 3
+- Critical Chance Buff 3
+- HoT 3
 image: https://i.imgur.com/KvZBThZ.jpg
+dtReleased: "2017-08-01"
+dtModified: ""
+fancy_name: Deity of War
+aetherPower: defense_up
+lb1:
+  power: 814
+  attack: 710
+  defense: 799
+  health: 1554
+lb2:
+  power: 914
+  attack: 812
+  defense: 914
+  health: 1778
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Druid
   power: 974
@@ -27,15 +44,34 @@ costume:
   health: 2093
   skill: Seal of Ares
   effects:
-    - The caster and nearby allies get +45% attack for 4 turns. The attack increases by 5% each turn, up to +60%.
-    - The caster and nearby allies counterattack with 110% of the damage received for 4 turns. The counterattack damage increases by 10% each turn, up to 140%.
-    - The caster and nearby allies regenerate 900 boosted health over 4 turns. Boosted health can exceed max HP.
-    - Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled.
+  - The caster and nearby allies get +45% attack for 4 turns. The attack increases
+    by 5% each turn, up to +60%.
+  - The caster and nearby allies counterattack with 110% of the damage received for
+    4 turns. The counterattack damage increases by 10% each turn, up to 140%.
+  - The caster and nearby allies regenerate 900 boosted health over 4 turns. Boosted
+    health can exceed max HP.
+  - Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This
+    effect can't be dispelled.
   types:
-    - Attack Buff 3
-    - Counterattack 3
-    - Health Boost 3
+  - Attack Buff 3
+  - Counterattack 3
+  - Boosted Heal 3
   passives:
-    - >-
-      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
+  - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
+    the newest status ailment from all allies.'
   image: https://i.imgur.com/Pf1h54r.jpg
+  dtReleased: "2023-03-20"
+  dtModified: ""
+  fancy_name: Keymaster of War
+  aetherPower: heal_increase
+  lb1:
+    power: 1041
+    attack: 943
+    defense: 965
+    health: 2256
+  lb2:
+    power: 1173
+    attack: 1079
+    defense: 1104
+    health: 2581
+...

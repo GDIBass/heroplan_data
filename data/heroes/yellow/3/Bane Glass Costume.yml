@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/GXkDkIq.jpg
+dtReleased: "2025-05-10"
+dtModified: ""
+fancy_name: Glass Brawler
+aetherPower: attack_up
+lb1:
+  power: 575
+  attack: 643
+  defense: 523
+  health: 993
+lb2:
+  power: 695
+  attack: 795
+  defense: 646
+  health: 1227
 ...

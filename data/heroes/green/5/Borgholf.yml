@@ -32,4 +32,18 @@ passives:
   a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting
   Flare receives additional 150 damage when they receive a critical hit.'
 image: https://imgur.com/QlpsKs5.jpg
+dtReleased: "2026-02-16"
+dtModified: ""
+fancy_name: Trapper from the Grove
+aetherPower: regen
+lb1:
+  power: 1370
+  attack: 1445
+  defense: 1407
+  health: 2473
+lb2:
+  power: 1550
+  attack: 1653
+  defense: 1610
+  health: 2829
 ...

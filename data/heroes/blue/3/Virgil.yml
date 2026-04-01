@@ -1,3 +1,4 @@
+---
 name: Virgil
 source: styx
 family: styx
@@ -7,27 +8,40 @@ power: 484
 attack: 413
 defense: 495
 health: 976
-skill: Imaginary Increments
+skill: Poet's Protection
 effects:
-  - >-
-    Special Skill has a different effect when charged with 100% / 200% / 300% mana:
-  - '1x Mana Charge:'
-  - '* Recovers 15% health for all allies.'
-  - '* All allies get +40% defense against Nature for 2 turns.'
-  - '2x Mana Charge:'
-  - '* Recovers 25% health for all allies.'
-  - '* All allies get +54% defense against Special Skills for 3 turns.'
-  - '3x Mana Charge:'
-  - '* Recovers 45% health for all allies.'
-  - '* All allies get +94% defense against Nature for 2 turns.'
-  - '* All allies get +74% defense against Special Skills for 3 turns.'
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- '1x Mana Charge:'
+- '* Recovers 15% health for all allies.'
+- '* All allies get +40% defense against Nature for 2 turns.'
+- '2x Mana Charge:'
+- '* Recovers 25% health for all allies.'
+- '* All allies get +54% defense against Special Skills for 3 turns.'
+- '3x Mana Charge:'
+- '* Recovers 45% health for all allies.'
+- '* All allies get +94% defense against Nature for 2 turns.'
+- '* All allies get +74% defense against Special Skills for 3 turns.'
 types:
-  - Charge
-  - Healer
-  - Elemental Defense Buff
+- Charge
+- Healer
+- Elemental Defense Buff
 passives:
-  - >-
-    Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.
-  - >-
-    Resist defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.
+- 'Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.'
+- 'Resist defense Ailments: This character has innate resistance against status ailments
+  that affect defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/lXHaox1.jpg
+dtReleased: "2022-09-21"
+dtModified: ""
+fancy_name: Guide to the Underworld
+aetherPower: defense_up
+lb1:
+  power: 540
+  attack: 468
+  defense: 561
+  health: 1107
+lb2:
+  power: 653
+  attack: 579
+  defense: 693
+  health: 1367
+...

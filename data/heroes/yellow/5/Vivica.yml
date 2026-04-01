@@ -18,6 +18,20 @@ types:
 - Defense Buff All
 - Cleanser All
 image: https://i.imgur.com/aHsNbej.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Scholar Supreme
+aetherPower: defense_up
+lb1:
+  power: 804
+  attack: 770
+  defense: 748
+  health: 1431
+lb2:
+  power: 902
+  attack: 881
+  defense: 855
+  health: 1638
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +50,20 @@ costume:
   - Defense Debuff All
   - Dispeller All
   image: https://i.imgur.com/pm7wcbP.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Magician Supreme
+  aetherPower: special_armor
+  lb1:
+    power: 907
+    attack: 860
+    defense: 852
+    health: 1734
+  lb2:
+    power: 1020
+    attack: 984
+    defense: 975
+    health: 1984
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -54,6 +82,20 @@ costume2:
   - Attack Debuff All
   - Dispeller All
   image: https://i.imgur.com/J8lGs8A.jpg
+  dtReleased: "2022-09-05"
+  dtModified: ""
+  fancy_name: Scribe Supreme
+  aetherPower: heal_increase
+  lb1:
+    power: 1031
+    attack: 967
+    defense: 976
+    health: 2109
+  lb2:
+    power: 1163
+    attack: 1107
+    defense: 1117
+    health: 2414
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -76,6 +118,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/zJxvLuN.jpg
+  dtReleased: "2023-10-30"
+  dtModified: ""
+  fancy_name: Toon Scholar
+  aetherPower: defense_up
+  lb1:
+    power: 1211
+    attack: 1187
+    defense: 1197
+    health: 2400
+  lb2:
+    power: 1368
+    attack: 1358
+    defense: 1370
+    health: 2746
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -100,6 +156,20 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/Vcxpsu2.jpg
+  dtReleased: "2024-12-25"
+  dtModified: ""
+  fancy_name: Glass Scholar
+  aetherPower: defense_up
+  lb1:
+    power: 1325
+    attack: 1336
+    defense: 1355
+    health: 2525
+  lb2:
+    power: 1498
+    attack: 1529
+    defense: 1551
+    health: 2889
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -122,4 +192,18 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/tWvDon8.jpg
+  dtReleased: "2026-01-07"
+  dtModified: ""
+  fancy_name: Stylish Scholar
+  aetherPower: defense_up
+  lb1:
+    power: 1388
+    attack: 1408
+    defense: 1437
+    health: 2628
+  lb2:
+    power: 1570
+    attack: 1611
+    defense: 1644
+    health: 3007
 ...

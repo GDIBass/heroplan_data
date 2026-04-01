@@ -1,19 +1,35 @@
+---
 name: Boss Wolf
-class: Druid
 source: fables
 family: grimforest
 speed: Very Slow
+class: Druid
 power: 767
 attack: 566
 defense: 826
 health: 1524
 skill: Unstoppable Growl
 effects:
-  - All allies get +24% mana generation for 4 turns. This effect can't be dispelled.
-  - All enemies get -34% mana generation for 4 turns.
-  - All allies counterattack with 115% of the damage received for 4 turns.
+- All allies get +24% mana generation for 4 turns. This effect can't be dispelled.
+- All enemies get -34% mana generation for 4 turns.
+- All allies counterattack with 115% of the damage received for 4 turns.
 types:
-  - Mana Generation Buff
-  - Mana Generation Debuff
-  - Counterattack
+- Mana Generation Buff All
+- Mana Generation Debuff All
+- Counterattack All
 image: https://i.imgur.com/iVvmOFs.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Governor of Grimforest
+aetherPower: mana_boost
+lb1:
+  power: 817
+  attack: 610
+  defense: 890
+  health: 1642
+lb2:
+  power: 917
+  attack: 698
+  defense: 1018
+  health: 1879
+...

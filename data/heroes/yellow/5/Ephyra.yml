@@ -22,7 +22,7 @@ effects:
 - ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
 types:
 - Minion Summoner All
-- Increased Minion HP Stack All
+- Minion HP Buff Stack All
 - Fiend Replacement All
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
@@ -30,6 +30,20 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/nL4nDAx.jpg
+dtReleased: "2023-06-07"
+dtModified: ""
+fancy_name: Nereid Princess
+aetherPower: dodge
+lb1:
+  power: 996
+  attack: 976
+  defense: 992
+  health: 1804
+lb2:
+  power: 1122
+  attack: 1117
+  defense: 1135
+  health: 2065
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,13 +66,27 @@ costume:
   - ' * Stack (Max 10): All allies get +7% inherited HP for new Minions they summon.'
   types:
   - Minion Summoner All
-  - Stack
+  - Minion HP Buff Stack All
   - Fiend Replacement All
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
     character casts their Special Skill'
   - ' * Deals 80% damage to all enemies.'
   - ' * All allies get +21% critical chance for 2 turns.'
-  - 'Resist Insanity: This character has innate resistance against Insanity.'
+  - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/CAlgEAJ.jpg
+  dtReleased: "2025-03-31"
+  dtModified: ""
+  fancy_name: Princess of the Reef
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1242
+    attack: 1227
+    defense: 1290
+    health: 2335
+  lb2:
+    power: 1403
+    attack: 1404
+    defense: 1476
+    health: 2672
 ...

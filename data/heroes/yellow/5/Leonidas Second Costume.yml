@@ -21,4 +21,18 @@ types:
 - Mana Reduction All
 - Defense Debuff All
 image: https://i.imgur.com/6haP2Yz.jpg
+dtReleased: "2022-12-26"
+dtModified: ""
+fancy_name: Unyielding Mage
+aetherPower: ailment_immunity
+lb1:
+  power: 1025
+  attack: 999
+  defense: 1010
+  health: 1918
+lb2:
+  power: 1155
+  attack: 1143
+  defense: 1156
+  health: 2194
 ...

@@ -25,4 +25,18 @@ passives:
 - 'Cleanse on Minion Death: This character is cleansed of status ailments when Minion
   owned by them is destroyed.'
 image: https://i.imgur.com/uBNXICu.jpg
+dtReleased: "2023-11-02"
+dtModified: ""
+fancy_name: Masked God of Purification
+aetherPower: regen
+lb1:
+  power: 1017
+  attack: 954
+  defense: 983
+  health: 2022
+lb2:
+  power: 1146
+  attack: 1092
+  defense: 1125
+  health: 2313
 ...

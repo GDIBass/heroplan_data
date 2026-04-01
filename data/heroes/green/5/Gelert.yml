@@ -31,6 +31,20 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/WjoVn5I.jpg
+dtReleased: "2023-08-30"
+dtModified: "2026-03-22"
+fancy_name: Treasure Hunter of the Deep
+aetherPower: attack_up
+lb1:
+  power: 1043
+  attack: 1101
+  defense: 943
+  health: 1920
+lb2:
+  power: 1175
+  attack: 1259
+  defense: 1079
+  health: 2197
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -39,7 +53,7 @@ costume:
   attack: 1331
   defense: 1095
   health: 2264
-  skill: ""
+  skill: Scavenging Dash
   effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'
@@ -63,6 +77,20 @@ costume:
     character casts their Special Skill'
   - ' * Deals 80% damage to all enemies.'
   - ' * All allies get +21% critical chance for 2 turns.'
-  - 'Resist Insanity: This character has an innate resistance against Insanity.'
+  - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/A9Yjffb.jpg
+  dtReleased: "2025-06-26"
+  dtModified: "2026-03-22"
+  fancy_name: Scavenger of the Deep
+  aetherPower: dodge
+  lb1:
+    power: 1299
+    attack: 1435
+    defense: 1182
+    health: 2440
+  lb2:
+    power: 1468
+    attack: 1641
+    defense: 1352
+    health: 2792
 ...

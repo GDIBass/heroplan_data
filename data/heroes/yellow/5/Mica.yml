@@ -31,4 +31,18 @@ types:
 - Defense Buff All
 - Mana Generation Buff All
 image: https://i.imgur.com/T4WxYxG.jpg
+dtReleased: "2020-10-13"
+dtModified: ""
+fancy_name: Ninja of Silent Screams
+aetherPower: special_armor
+lb1:
+  power: 851
+  attack: 772
+  defense: 885
+  health: 1487
+lb2:
+  power: 955
+  attack: 883
+  defense: 1013
+  health: 1701
 ...

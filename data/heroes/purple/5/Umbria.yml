@@ -25,4 +25,18 @@ passives:
 - 'Cleanse on Minion Death: This character is cleansed of status ailments when Minion
   owned by them is destroyed.'
 image: https://i.imgur.com/3VyJcT7.jpg
+dtReleased: "2023-11-02"
+dtModified: ""
+fancy_name: Masked Goddess of Shadows
+aetherPower: fiend_resist
+lb1:
+  power: 1016
+  attack: 990
+  defense: 974
+  health: 1944
+lb2:
+  power: 1144
+  attack: 1132
+  defense: 1115
+  health: 2225
 ...

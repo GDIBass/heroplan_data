@@ -1,3 +1,4 @@
+---
 name: Proteus
 source: season2
 family: atlantis
@@ -9,14 +10,29 @@ defense: 595
 health: 1079
 skill: Scar of the Depths
 effects:
-  - The target and nearby enemies receive 327 Poison damage over 3 turns.
-  - The target and nearby enemies can't gain mana for 3 turns.
+- The target and nearby enemies receive 327 Poison damage over 3 turns.
+- The target and nearby enemies can't gain mana for 3 turns.
 types:
-  - DoT 3
-  - Mana Gain Freeze
+- DoT 3
+- Mana Gain Freeze 3
 image: https://i.imgur.com/m2PmJmo.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Mage of Atlantis
+aetherPower: damage_reduction
+lb1:
+  power: 698
+  attack: 768
+  defense: 646
+  health: 1172
+lb2:
+  power: 796
+  attack: 891
+  defense: 749
+  health: 1359
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Sorcerer
   power: 671
   attack: 774
@@ -24,9 +40,24 @@ costume:
   health: 1145
   skill: Curse of the Depths
   effects:
-    - All enemies receive 324 Poison damage over 2 turns.
-    - All enemies get -50% mana generation for 4 turns.
+  - All enemies receive 324 Poison damage over 2 turns.
+  - All enemies get -50% mana generation for 4 turns.
   types:
-    - DoT All
-    - Mana Debuff All
+  - DoT All
+  - Mana Generation Debuff All
   image: https://i.imgur.com/5sfSAJC.jpg
+  dtReleased: "2023-04-03"
+  dtModified: "2026-03-20"
+  fancy_name: Farseer of Atlantis
+  aetherPower: ailment_immunity
+  lb1:
+    power: 722
+    attack: 841
+    defense: 604
+    health: 1245
+  lb2:
+    power: 824
+    attack: 976
+    defense: 700
+    health: 1444
+...

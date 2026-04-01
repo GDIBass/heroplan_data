@@ -1,3 +1,4 @@
+---
 name: Dolores
 source: secretsummon
 family: investigator
@@ -9,17 +10,34 @@ defense: 1104
 health: 1911
 skill: Yellow Signs
 effects:
-  - For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity to a random target and nearby enemies each time any other ally casts their Special Skill.
-  - "Stack (Max: 10): All allies get +20% attack"
-  - "Stack (Max: 10): All allies get +5% mana generation"
-  - Inflicts 50 Insanity to the caster.
+- For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity
+  to a random target and nearby enemies each time any other ally casts their Special
+  Skill.
+- 'Stack (Max: 10): All allies get +20% attack.'
+- 'Stack (Max: 10): All allies get +5% mana generation.'
+- Inflicts 50 Insanity to the caster.
 types:
-  - Hit 1
-  - Insanity 1
-  - Attack buff stack
-  - Mana gen buff stack
-  - Self Insanity
+- Hit Random 3 on ally SS cast
+- Insanity 3
+- Attack Buff Stack All
+- Mana Generation Buff Stack All
+- Insanity Self
 passives:
-  - >-
-    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
+- 'Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character
+  up to a maximum reduction of 50%.'
 image: https://i.imgur.com/sAavBEB.jpg
+dtReleased: "2024-05-17"
+dtModified: "2026-03-22"
+fancy_name: Reckless Private Investigator
+aetherPower: attack_up
+lb1:
+  power: 1174
+  attack: 1223
+  defense: 1189
+  health: 2060
+lb2:
+  power: 1325
+  attack: 1399
+  defense: 1361
+  health: 2357
+...

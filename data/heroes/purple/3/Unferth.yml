@@ -1,3 +1,4 @@
+---
 name: Unferth
 source: beowulf
 family: beowulf
@@ -9,18 +10,33 @@ defense: 521
 health: 759
 skill: Tempered Blade
 effects:
-  - Deals 250% damage to the target.
-  - Deals 300% damage if the target has more than 70% health remaining.
-  - >-
-    Source of Ailments: The following effects are cast on a random enemy at the start of each turn
-  - " * -50% defense against Special Skill for 3 turns."
-  - " * The Source of Ailments will activate 3 times. Each attempt to dispel it removes one activation."
+- Deals 250% damage to the target.
+- Deals 300% damage if the target has more than 70% health remaining.
+- 'Source of Ailments: The following effects are cast on a random enemy at the start
+  of each turn'
+- ' * -50% defense against Special Skill for 3 turns.'
+- ' * The Source of Ailments will activate 3 times. Each attempt to dispel it removes
+  one activation.'
 types:
-  - Hit 1
-  - Source of Ailments Random 1
+- Hit 1
+- Source of Ailments Random 1
 passives:
-  - >-
-    Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.
-  - >-
-    Perfect Accuracy: This character's Special Skill never mises its target.
+- 'Empowered Resist Mana Reductions: This character has innate resistance against
+  mana reduction. They also gain 600 boosted health and 10% mana each time they resist.'
+- 'Perfect Accuracy: This character''s Special Skill never mises its target.'
 image: https://i.imgur.com/EwK86qB.jpg
+dtReleased: "2025-02-13"
+dtModified: ""
+fancy_name: Hrunting's Bearer
+aetherPower: attack_up
+lb1:
+  power: 563
+  attack: 608
+  defense: 591
+  health: 860
+lb2:
+  power: 681
+  attack: 752
+  defense: 730
+  health: 1063
+...

@@ -33,6 +33,20 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/7xKKQnM.jpg
+dtReleased: "2023-08-02"
+dtModified: "2026-03-22"
+fancy_name: Temple Keeper of the Deep
+aetherPower: damage_reduction
+lb1:
+  power: 1016
+  attack: 1063
+  defense: 956
+  health: 1798
+lb2:
+  power: 1144
+  attack: 1216
+  defense: 1094
+  health: 2057
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -65,6 +79,20 @@ costume:
     character casts their Special Skill'
   - ' * Deals 80% damage to all enemies.'
   - ' * The caster gets +19% mana generation for 2 turns.'
-  - 'Resist Insanity: This character has innate resistance against Insanity.'
+  - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/p30NrpJ.jpg
+  dtReleased: "2025-05-28"
+  dtModified: "2026-03-22"
+  fancy_name: Siphoner of the Deep
+  aetherPower: attack_up
+  lb1:
+    power: 1266
+    attack: 1386
+    defense: 1201
+    health: 2290
+  lb2:
+    power: 1431
+    attack: 1586
+    defense: 1375
+    health: 2620
 ...

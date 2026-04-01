@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/VkOyyRt.jpg
+dtReleased: "2024-07-16"
+dtModified: ""
+fancy_name: Toon of the Woods
+aetherPower: defense_up
+lb1:
+  power: 1211
+  attack: 1015
+  defense: 1176
+  health: 2868
+lb2:
+  power: 1367
+  attack: 1161
+  defense: 1346
+  health: 3281
 ...

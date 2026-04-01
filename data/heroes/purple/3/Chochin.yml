@@ -1,3 +1,4 @@
+---
 name: Chochin
 source: season2
 family: sakura
@@ -9,9 +10,24 @@ defense: 512
 health: 684
 skill: Unholy Light
 effects:
-  - Deals 215% damage to the target and nearby enemies.
-  - The target and nearby enemies get -24% mana generation for 3 turns.
+- Deals 215% damage to the target and nearby enemies.
+- The target and nearby enemies get -24% mana generation for 3 turns.
 types:
-  - Hit 3
-  - Mana Generation Debuff
+- Hit 3
+- Mana Generation Debuff 3
 image: https://i.imgur.com/L668UQC.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Lantern Yokai
+aetherPower: special_boost
+lb1:
+  power: 500
+  attack: 468
+  defense: 581
+  health: 776
+lb2:
+  power: 602
+  attack: 579
+  defense: 718
+  health: 958
+...

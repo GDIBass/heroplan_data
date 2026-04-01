@@ -29,4 +29,18 @@ passives:
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/TiOunHw.jpg
+dtReleased: "2022-10-15"
+dtModified: "2026-03-20"
+fancy_name: Hunter Mercenary
+aetherPower: regen
+lb1:
+  power: 947
+  attack: 914
+  defense: 923
+  health: 1742
+lb2:
+  power: 1065
+  attack: 1046
+  defense: 1056
+  health: 1993
 ...

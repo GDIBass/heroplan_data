@@ -25,4 +25,18 @@ passives:
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/tBoxHA4.jpg
+dtReleased: "2023-09-25"
+dtModified: ""
+fancy_name: Wielder of Excalibroom
+aetherPower: regen
+lb1:
+  power: 996
+  attack: 932
+  defense: 1003
+  health: 1887
+lb2:
+  power: 1121
+  attack: 1066
+  defense: 1148
+  health: 2159
 ...

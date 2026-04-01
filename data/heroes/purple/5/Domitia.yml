@@ -18,6 +18,20 @@ types:
 - Elemental Defense Buff 3
 - Dispeller 3
 image: https://i.imgur.com/t244Fcr.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Magitech Sniper
+aetherPower: attack_up
+lb1:
+  power: 806
+  attack: 781
+  defense: 730
+  health: 1454
+lb2:
+  power: 904
+  attack: 894
+  defense: 835
+  health: 1663
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -36,6 +50,20 @@ costume:
   - DoT 3
   - Cleanser 3
   image: https://i.imgur.com/mpRxFeU.jpg
+  dtReleased: "2020-05-18"
+  dtModified: ""
+  fancy_name: Steampunk Sniper
+  aetherPower: special_boost
+  lb1:
+    power: 908
+    attack: 903
+    defense: 840
+    health: 1659
+  lb2:
+    power: 1021
+    attack: 1033
+    defense: 961
+    health: 1898
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -54,6 +82,20 @@ costume2:
   - Hit 3
   - Elemental Defense Debuff 3
   image: https://i.imgur.com/36NtLB6.jpg
+  dtReleased: "2022-10-31"
+  dtModified: ""
+  fancy_name: Undead Sniper
+  aetherPower: dodge
+  lb1:
+    power: 1032
+    attack: 1013
+    defense: 973
+    health: 2007
+  lb2:
+    power: 1164
+    attack: 1159
+    defense: 1114
+    health: 2296
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -76,6 +118,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/q7quKlm.jpg
+  dtReleased: "2024-03-11"
+  dtModified: ""
+  fancy_name: Toon Sniper
+  aetherPower: attack_up
+  lb1:
+    power: 1213
+    attack: 1259
+    defense: 1121
+    health: 2388
+  lb2:
+    power: 1370
+    attack: 1440
+    defense: 1283
+    health: 2733
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -98,4 +154,18 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/gwMXUDN.jpg
+  dtReleased: "2025-04-23"
+  dtModified: ""
+  fancy_name: Glass Sniper
+  aetherPower: attack_up
+  lb1:
+    power: 1328
+    attack: 1441
+    defense: 1243
+    health: 2505
+  lb2:
+    power: 1501
+    attack: 1649
+    defense: 1422
+    health: 2866
 ...

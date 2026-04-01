@@ -1,22 +1,38 @@
+---
 name: Cheshire Cat
-class: Sorcerer
 source: wonderland
 family: wonderland
 speed: Fast
+class: Sorcerer
 power: 649
 attack: 658
 defense: 641
 health: 1105
 skill: Dazzling Grin
 effects:
-  - Rearranges the enemy positions randomly
-  - All holy enemies get -44% defense for 4 turns
-  - All enemies receive 276 damage over 4 turns. This effect can't be cleansed
+- Rearranges the enemy positions randomly
+- All holy enemies get -44% defense for 4 turns
+- All enemies receive 276 damage over 4 turns. This effect can't be cleansed
 types:
-  - Reposition
-  - DoT All
+- Reposition
+- DoT All
 image: https://i.imgur.com/Js5mqAr.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Mischievous Kitty Cat
+aetherPower: special_armor
+lb1:
+  power: 698
+  attack: 715
+  defense: 697
+  health: 1200
+lb2:
+  power: 796
+  attack: 829
+  defense: 808
+  health: 1392
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 684
@@ -25,10 +41,25 @@ costume:
   health: 1122
   skill: Razor Smile
   effects:
-    - Rearranges the enemy positions randomly.
-    - All Holy enemies get -34% defense for 4 turns.
-    - All enemies receive 364 Bleed damage over 4 turns.
+  - Rearranges the enemy positions randomly.
+  - All Holy enemies get -34% defense for 4 turns.
+  - All enemies receive 364 Bleed damage over 4 turns.
   types:
-    - Reposition
-    - DoT All
+  - Reposition
+  - DoT All
   image: https://i.imgur.com/ImaCQvI.jpg
+  dtReleased: "2023-10-05"
+  dtModified: ""
+  fancy_name: Malicious Kitty Cat
+  aetherPower: ailment_immunity
+  lb1:
+    power: 736
+    attack: 814
+    defense: 700
+    health: 1219
+  lb2:
+    power: 840
+    attack: 944
+    defense: 812
+    health: 1413
+...

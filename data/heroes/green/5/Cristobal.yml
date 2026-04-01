@@ -26,6 +26,20 @@ passives:
   a 50% chance to give -25% mana generation for 3 turns to all their enemies. If the
   Special Skill is fully charged, the chance is 100%.'
 image: https://i.imgur.com/H1Awz0g.jpg
+dtReleased: "2021-09-15"
+dtModified: ""
+fancy_name: Charms Professor
+aetherPower: special_boost
+lb1:
+  power: 866
+  attack: 852
+  defense: 819
+  health: 1527
+lb2:
+  power: 973
+  attack: 975
+  defense: 937
+  health: 1747
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,4 +67,18 @@ costume:
     If the Special Skill is fully charged, the chance is 100%.'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/1pcXfJf.jpg
+  dtReleased: "2025-11-03"
+  dtModified: ""
+  fancy_name: Enchantments Professor
+  aetherPower: counterattack
+  lb1:
+    power: 1337
+    attack: 1404
+    defense: 1320
+    health: 2508
+  lb2:
+    power: 1511
+    attack: 1606
+    defense: 1511
+    health: 2870
 ...

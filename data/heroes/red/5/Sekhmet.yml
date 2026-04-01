@@ -21,6 +21,20 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/8oISZes.jpg
+dtReleased: "2022-09-01"
+dtModified: ""
+fancy_name: Eye of the Sun
+aetherPower: counterattack
+lb1:
+  power: 920
+  attack: 959
+  defense: 843
+  health: 1602
+lb2:
+  power: 1035
+  attack: 1097
+  defense: 965
+  health: 1833
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,4 +61,18 @@ costume:
   - 'Mana on Health Boosting Special Skill: This character gains 5% mana each time
     an enemy casts a Special Skill that directly boosts health.'
   image: https://i.imgur.com/ykQVLB2.jpg
+  dtReleased: "2025-03-17"
+  dtModified: ""
+  fancy_name: Warden of the Sun
+  aetherPower: special_boost
+  lb1:
+    power: 1291
+    attack: 1432
+    defense: 1191
+    health: 2370
+  lb2:
+    power: 1459
+    attack: 1638
+    defense: 1362
+    health: 2712
 ...

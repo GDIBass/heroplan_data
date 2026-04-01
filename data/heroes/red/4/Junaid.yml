@@ -1,3 +1,4 @@
+---
 name: Junaid
 source: season5
 family: moon
@@ -9,18 +10,33 @@ defense: 573
 health: 1260
 skill: Slash and Support
 effects:
-  - Deals 400% damage to the target.
-  - Heals all allies for 30% of the damage dealt
+- Deals 400% damage to the target.
+- Heals all allies for 30% of the damage dealt
 types:
-  - Hit 1
-  - Damage Heal
+- Hit 1
+- Damage Heal
 passives:
-  - >-
-    Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-  - ' * Deals 70% damage to all enemies.'
-  - ' * All enemies get -24% mana generation for 3 turns.'
+- 'Effects on Special Skill: 50% chance to perform the following actions when this
+  character casts their Special Skill'
+- ' * Deals 70% damage to all enemies.'
+- ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/9XxU54s.jpg
+dtReleased: "2022-04-21"
+dtModified: ""
+fancy_name: Sworn Soldier
+aetherPower: special_boost
+lb1:
+  power: 735
+  attack: 812
+  defense: 623
+  health: 1369
+lb2:
+  power: 839
+  attack: 942
+  defense: 722
+  health: 1587
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 700
@@ -29,18 +45,33 @@ costume:
   health: 1332
   skill: Strike and Support
   effects:
-    - Deals 370% damage to the target.
-    - Heals all allies for 40% of damage dealt.
+  - Deals 370% damage to the target.
+  - Heals all allies for 40% of damage dealt.
   types:
-    - Hit 1
-    - Damage Heal
+  - Hit 1
+  - Damage Heal
   passives:
-    - >-
-      Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill
-    - ' * Deals 70% damage to all enemies.'
-    - ' * All enemies get -24% mana generation for 3 turns.'
-    - >-
-      Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.
-    - >-
-      Resist Sand Damage: This character has innate resistance against sand damage.
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * All enemies get -24% mana generation for 3 turns.'
+  - 'Extra Chance for Effects On Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  - 'Resist Sand Damage: This character has innate resistance against sand damage.'
   image: https://i.imgur.com/4PhQKkZ.jpg
+  dtReleased: "2024-11-01"
+  dtModified: ""
+  fancy_name: Sworn Champion
+  aetherPower: attack_up
+  lb1:
+    power: 753
+    attack: 781
+    defense: 687
+    health: 1448
+  lb2:
+    power: 860
+    attack: 906
+    defense: 797
+    health: 1678
+...

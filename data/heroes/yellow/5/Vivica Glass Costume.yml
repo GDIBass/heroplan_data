@@ -26,4 +26,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/Vcxpsu2.jpg
+dtReleased: "2024-12-25"
+dtModified: ""
+fancy_name: Glass Scholar
+aetherPower: defense_up
+lb1:
+  power: 1325
+  attack: 1336
+  defense: 1355
+  health: 2525
+lb2:
+  power: 1498
+  attack: 1529
+  defense: 1551
+  health: 2889
 ...

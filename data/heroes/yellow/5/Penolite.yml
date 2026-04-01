@@ -21,4 +21,18 @@ passives:
   hardens. The next 4 times they receive damage, it is dropped to 1. This effect can''t
   be dispelled.'
 image: https://i.imgur.com/ifFiCU7.jpg
+dtReleased: "2021-11-24"
+dtModified: ""
+fancy_name: Relentless Gargoyle
+aetherPower: attack_up
+lb1:
+  power: 897
+  attack: 896
+  defense: 821
+  health: 1633
+lb2:
+  power: 1008
+  attack: 1026
+  defense: 939
+  health: 1869
 ...

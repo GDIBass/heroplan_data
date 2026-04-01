@@ -1,3 +1,4 @@
+---
 name: Karnov
 source: villains
 family: villains
@@ -9,12 +10,28 @@ defense: 745
 health: 1444
 skill: Total Beatdown
 effects:
-  - Deals 290% damage to all enemies.
-  - Alters the power of all Dark shields on the board. When an attacking hero casts the special, the shields become enhanced with +64% attack. When a defending hero casts the special, the shields become weakened with -57% attack.
+- Deals 290% damage to all enemies.
+- Alters the power of all Dark shields on the board. When an attacking hero casts
+  the special, the shields become enhanced with +64% attack. When a defending hero
+  casts the special, the shields become weakened with -57% attack.
 types:
-  - Hit All
-  - Board Alterer
+- Hit All
+- Board Alterer
 image: https://i.imgur.com/uCM3DQT.jpg
+dtReleased: "2021-02-11"
+dtModified: ""
+fancy_name: Champion Bruiser
+aetherPower: counterattack
+lb1:
+  power: 856
+  attack: 825
+  defense: 803
+  health: 1556
+lb2:
+  power: 961
+  attack: 944
+  defense: 919
+  health: 1780
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -25,13 +42,30 @@ costume:
   health: 2258
   skill: Slumbering Beatdown
   effects:
-    - Deals 340% damage to all enemies.
-    - Alters the power of all Dark shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.
-    - Deals extra damage against Holy.
+  - Deals 340% damage to all enemies.
+  - Alters the power of all Dark shields on the board. When an attacking Hero casts
+    the special, the shields become enhanced with +64% attack. When a defending Hero
+    casts the special, the shields become weakened with -57% attack.
+  - Deals extra damage against Holy.
   types:
-    - Hit All
-    - Board Alterer
+  - Hit All
+  - Board Alterer
   passives:
-    - >-
-      Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn.      
+  - 'Curse on Special Skill: When this character casts their Special Skill, all enemies
+    receive 461 Curse damage over 4 turns, starting low and increasing every turn.'
   image: https://imgur.com/atHtLfK.jpg
+  dtReleased: "2025-06-15"
+  dtModified: ""
+  fancy_name: Bedtime Bruiser
+  aetherPower: damage_reduction
+  lb1:
+    power: 1286
+    attack: 1387
+    defense: 1198
+    health: 2434
+  lb2:
+    power: 1454
+    attack: 1587
+    defense: 1371
+    health: 2785
+...

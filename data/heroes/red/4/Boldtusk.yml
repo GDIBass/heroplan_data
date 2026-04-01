@@ -16,6 +16,20 @@ types:
 - Healer All
 - Attack Buff All
 image: https://i.imgur.com/K7cfOtS.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: The Unwavering
+aetherPower: defense_up
+lb1:
+  power: 693
+  attack: 639
+  defense: 773
+  health: 1202
+lb2:
+  power: 790
+  attack: 741
+  defense: 896
+  health: 1394
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +46,20 @@ costume:
   - Healer All
   - Attack Buff All
   image: https://i.imgur.com/ZFrdT4t.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Cast Iron Chef
+  aetherPower: counterattack
+  lb1:
+    power: 743
+    attack: 689
+    defense: 815
+    health: 1350
+  lb2:
+    power: 848
+    attack: 799
+    defense: 945
+    health: 1565
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -50,6 +78,20 @@ costume2:
   - Boosted HoT All
   - Attack Buff All
   image: https://i.imgur.com/T4p2FAB.jpg
+  dtReleased: "2023-06-12"
+  dtModified: ""
+  fancy_name: The Feral Sage
+  aetherPower: special_armor
+  lb1:
+    power: 792
+    attack: 748
+    defense: 902
+    health: 1382
+  lb2:
+    power: 905
+    attack: 868
+    defense: 1046
+    health: 1602
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -70,6 +112,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/ufJrKaD.jpg
+  dtReleased: "2023-12-25"
+  dtModified: ""
+  fancy_name: The Unwavering Toon
+  aetherPower: defense_up
+  lb1:
+    power: 806
+    attack: 759
+    defense: 910
+    health: 1439
+  lb2:
+    power: 921
+    attack: 880
+    defense: 1055
+    health: 1668
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -92,6 +148,20 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/lVwUo5n.jpg
+  dtReleased: "2024-12-25"
+  dtModified: ""
+  fancy_name: The Reflecting
+  aetherPower: heal_increase
+  lb1:
+    power: 819
+    attack: 769
+    defense: 928
+    health: 1468
+  lb2:
+    power: 936
+    attack: 891
+    defense: 1076
+    health: 1702
 costume5:
   design: stylish
   bonuses: 5/5/10/5
@@ -112,4 +182,18 @@ costume5:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
   image: https://imgur.com/tGz74NL.jpg
+  dtReleased: "2026-01-07"
+  dtModified: ""
+  fancy_name: The Fancy
+  aetherPower: defense_up
+  lb1:
+    power: 879
+    attack: 837
+    defense: 1017
+    health: 1551
+  lb2:
+    power: 1006
+    attack: 970
+    defense: 1179
+    health: 1799
 ...

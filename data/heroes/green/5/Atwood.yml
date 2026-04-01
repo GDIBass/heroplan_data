@@ -1,3 +1,4 @@
+---
 name: Atwood
 source: secretsummon
 family: investigator
@@ -9,17 +10,32 @@ defense: 1110
 health: 1979
 skill: Jewel of the Deep
 effects:
-  - Dispels buffs from the target and nearby enemies.
-  - Deals 380% damage to the target and nearby enemies and inflicts 45 Insanity on them.
-  - All allies are immune to damage from status ailments for 4 turns.
-  - Inflicts 50 Insanity to the caster.
+- Dispels buffs from the target and nearby enemies.
+- Deals 380% damage to the target and nearby enemies and inflicts 45 Insanity on them.
+- All allies are immune to damage from status ailments for 4 turns.
+- Inflicts 50 Insanity to the caster.
 types:
-  - Dispeller 3
-  - Hit 3
-  - Insanity 3
-  - Damage from Ailments Immunity All
-  - Self Insanity
+- Dispeller 3
+- Hit 3
+- Insanity 3
+- Damage from Ailments Immunity All
+- Insanity Self
 passives:
-  - >-
-    Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%.
+- 'Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character
+  up to a maximum reduction of 50%.'
 image: https://i.imgur.com/Cwe6431.jpg
+dtReleased: "2024-04-11"
+dtModified: "2026-03-22"
+fancy_name: Captivated by the Unknown
+aetherPower: defense_up
+lb1:
+  power: 1181
+  attack: 1209
+  defense: 1196
+  health: 2133
+lb2:
+  power: 1334
+  attack: 1384
+  defense: 1369
+  health: 2440
+...

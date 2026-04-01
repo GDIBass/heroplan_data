@@ -24,4 +24,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/3o76oi9.jpg
+dtReleased: "2025-07-16"
+dtModified: ""
+fancy_name: Glass Cavalier
+aetherPower: defense_up
+lb1:
+  power: 820
+  attack: 906
+  defense: 829
+  health: 1334
+lb2:
+  power: 938
+  attack: 1051
+  defense: 962
+  health: 1546
 ...

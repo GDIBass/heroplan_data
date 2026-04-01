@@ -21,6 +21,20 @@ types:
 - Healing Debuff 1
 - Elemental Defense Buff 3
 image: https://i.imgur.com/AMhR92j.jpg
+dtReleased: "2017-12-01"
+dtModified: ""
+fancy_name: Son of Zeus
+aetherPower: attack_up
+lb1:
+  power: 815
+  attack: 781
+  defense: 752
+  health: 1474
+lb2:
+  power: 915
+  attack: 894
+  defense: 861
+  health: 1686
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,4 +59,18 @@ costume:
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/nzVNwio.jpg
+  dtReleased: "2022-11-28"
+  dtModified: ""
+  fancy_name: Challenger of Boreas
+  aetherPower: defense_up
+  lb1:
+    power: 1039
+    attack: 1000
+    defense: 948
+    health: 2137
+  lb2:
+    power: 1171
+    attack: 1144
+    defense: 1084
+    health: 2445
 ...

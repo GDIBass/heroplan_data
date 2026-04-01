@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/hDOgs06.jpg
+dtReleased: "2024-05-06"
+dtModified: ""
+fancy_name: Ascendant Toon
+aetherPower: defense_up
+lb1:
+  power: 567
+  attack: 618
+  defense: 589
+  health: 867
+lb2:
+  power: 685
+  attack: 764
+  defense: 727
+  health: 1071
 ...

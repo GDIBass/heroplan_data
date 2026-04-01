@@ -28,6 +28,20 @@ passives:
   chance to give 10% mana to all allies. If the Special Skill is fully charged, the
   chance is 100%.'
 image: https://i.imgur.com/30AXxJs.jpg
+dtReleased: "2021-09-15"
+dtModified: ""
+fancy_name: Teacher of the Arcane Arts
+aetherPower: damage_reduction
+lb1:
+  power: 866
+  attack: 845
+  defense: 834
+  health: 1518
+lb2:
+  power: 974
+  attack: 967
+  defense: 955
+  health: 1737
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -59,4 +73,18 @@ costume:
     the chance is 100%.'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/hwGD9H1.jpg
+  dtReleased: "2025-04-17"
+  dtModified: ""
+  fancy_name: Teacher of Arctic Spells
+  aetherPower: dodge
+  lb1:
+    power: 1291
+    attack: 1338
+    defense: 1307
+    health: 2370
+  lb2:
+    power: 1458
+    attack: 1531
+    defense: 1495
+    health: 2711
 ...

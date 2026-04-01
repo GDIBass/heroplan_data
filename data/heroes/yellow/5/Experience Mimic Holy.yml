@@ -1,3 +1,4 @@
+---
 name: Experience Mimic Holy
 source: secretsummon
 family: mimic
@@ -9,22 +10,37 @@ defense: 1236
 health: 2121
 skill: Greedy Devour
 effects:
-  - Destroys all Minions from the target. This effect damages Mega Minions.
-  - Deals 530% damage to the target.
-  - If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.
-  - The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)
+- Destroys all Minions from the target. This effect damages Mega Minions.
+- Deals 530% damage to the target.
+- If the target is defeated by the attack, the caster recovers +50% health and gains
+  33% mana.
+- The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status
+  ailments while closed.)
 types:
-  - Minion Destroyer 1
-  - Hit 1
-  - Mimic Chest
+- Minion Destroyer 1
+- Hit 1
+- Mimic Chest
 passives:
-  - >-
-    Perfect Accuracy: This character's Special Skill never misses its targets.
-  - >-
-    Mimic Loot: This Mimic gives a chance for extra loot when completing stages
-  - " * Common Ice Trainer Heroes"
-  - " * Uncommon Ice Trainer Heroes"
-  - " * Rare Ice Trainer Heroes"
-  - " * Common Ice Heroes"
-  - " * Uncommon Ice Heroes"
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+- 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
+- ' * Rare Holy Trainer Heroes'
+- ' * Uncommon Holy Trainer Heroes'
+- ' * Uncommon Holy Heroes'
+- ' * Common Holy Trainer Heroes'
+- ' * Common Holy Heroes'
 image: https://imgur.com/WAwhfFp.jpg
+dtReleased: "2025-05-31"
+dtModified: ""
+fancy_name: Trove of Thousand Teeth
+aetherPower: bulwark
+lb1:
+  power: 1284
+  attack: 1332
+  defense: 1332
+  health: 2286
+lb2:
+  power: 1451
+  attack: 1524
+  defense: 1524
+  health: 2616
+...

@@ -1,3 +1,4 @@
+---
 name: Danzaburo
 source: season2
 family: sakura
@@ -9,20 +10,36 @@ defense: 637
 health: 1224
 skill: Trickster's Gambit
 effects:
-  - 'Perform a trick for a special effect:'
-  - 'Swords: '
-  - ' * Deals 255% damage to all enemies.'
-  - ' * All enemies get -54% accuracy for 3 turns and chance to miss also applies to offensive Special Skills.'
-  - 'Bottle: '
-  - ' * All allies get +24% mana generation for 4 turns.'
-  - ' * All allies get +63% defense for 4 turns.'
-  - 'Freeze:'
-  - " * The caster can't gain mana for 2 turns."
-  - " * This effect can't be cleansed."
+- 'Perform a trick for a special effect:'
+- 'Swords: '
+- ' * Deals 255% damage to all enemies.'
+- ' * All enemies get -54% accuracy for 3 turns and chance to miss also applies to
+  offensive Special Skills.'
+- 'Bottle: '
+- ' * All allies get +24% mana generation for 4 turns.'
+- ' * All allies get +63% defense for 4 turns.'
+- 'Freeze:'
+- ' * The caster can''t gain mana for 2 turns.'
+- ' * This effect can''t be cleansed.'
 types:
-  - Gambler
+- Gambler
 image: https://i.imgur.com/jP1BF2A.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Dauntless Deceiver
+aetherPower: gamble
+lb1:
+  power: 701
+  attack: 676
+  defense: 692
+  health: 1329
+lb2:
+  power: 799
+  attack: 784
+  defense: 803
+  health: 1541
 costume:
+  design: costume1
   bonuses: 3/3/6/1
   class: Sorcerer
   power: 674
@@ -31,16 +48,31 @@ costume:
   health: 1351
   skill: Amazing Deals
   effects:
-    - 'Sell junk for a specific effect:'
-    - Dull Swords
-    - ' * Deals 270% damage to all enemies.'
-    - ' * All enemies get -39% attack for 3 turns.'
-    - Questionable Snake Oil
-    - ' * All enemies get -24% mana generation for 3 turns.'
-    - ' * All enemies get -44% defense for 3 turns.'
-    - Clearance Sale
-    - " * Increases the mana of all allies except the caster's by 3%."
-    - " * The caster can't gain mana for 2 turns. This effect can't be cleansed."
+  - 'Sell junk for a specific effect:'
+  - Dull Swords
+  - ' * Deals 270% damage to all enemies.'
+  - ' * All enemies get -39% attack for 3 turns.'
+  - Questionable Snake Oil
+  - ' * All enemies get -24% mana generation for 3 turns.'
+  - ' * All enemies get -44% defense for 3 turns.'
+  - Clearance Sale
+  - ' * Increases the mana of all allies except the caster''s by 3%.'
+  - ' * The caster can''t gain mana for 2 turns. This effect can''t be cleansed.'
   types:
-    - Gambler
+  - Gambler
   image: https://i.imgur.com/HppFUSU.jpg
+  dtReleased: "2023-02-06"
+  dtModified: ""
+  fancy_name: Fearless Merchant
+  aetherPower: special_armor
+  lb1:
+    power: 725
+    attack: 663
+    defense: 725
+    health: 1468
+  lb2:
+    power: 827
+    attack: 769
+    defense: 840
+    health: 1702
+...

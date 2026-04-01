@@ -26,4 +26,18 @@ passives:
   from receiving new status effect buffs.'
 - 'Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage.'
 image: https://imgur.com/1H7NBTN.jpg
+dtReleased: "2026-02-01"
+dtModified: ""
+fancy_name: Frost Wielder
+aetherPower: special_boost
+lb1:
+  power: 1257
+  attack: 1316
+  defense: 1278
+  health: 2246
+lb2:
+  power: 1421
+  attack: 1506
+  defense: 1463
+  health: 2570
 ...

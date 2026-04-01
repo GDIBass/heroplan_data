@@ -20,4 +20,18 @@ types:
 - Defense Debuff 1
 - Attack Debuff 1
 image: https://i.imgur.com/9wspOnr.jpg
+dtReleased: "2021-06-10"
+dtModified: ""
+fancy_name: Yeti with the Warmest Heart
+aetherPower: rage
+lb1:
+  power: 858
+  attack: 810
+  defense: 863
+  health: 1487
+lb2:
+  power: 964
+  attack: 927
+  defense: 988
+  health: 1701
 ...

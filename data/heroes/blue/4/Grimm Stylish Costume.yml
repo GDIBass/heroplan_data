@@ -22,4 +22,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/570BQPZ.jpg
+dtReleased: "2026-01-07"
+dtModified: ""
+fancy_name: Heir of Evil Style
+aetherPower: rage
+lb1:
+  power: 877
+  attack: 1005
+  defense: 765
+  health: 1617
+lb2:
+  power: 1003
+  attack: 1165
+  defense: 887
+  health: 1875
 ...

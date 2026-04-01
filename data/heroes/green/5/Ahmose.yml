@@ -25,6 +25,20 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/4zzp1TD.jpg
+dtReleased: "2022-11-24"
+dtModified: ""
+fancy_name: Mummy Pharaoh
+aetherPower: revive
+lb1:
+  power: 924
+  attack: 865
+  defense: 927
+  health: 1691
+lb2:
+  power: 1039
+  attack: 990
+  defense: 1061
+  health: 1935
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -54,4 +68,18 @@ costume:
     to activate.'
   - 'Resist Sand Damage: This character has innate resistance against Sand damage.'
   image: https://i.imgur.com/hOov8Aa.jpg
+  dtReleased: "2024-03-04"
+  dtModified: ""
+  fancy_name: Pharaoh Reborn
+  aetherPower: boosted_regen
+  lb1:
+    power: 1296
+    attack: 1258
+    defense: 1319
+    health: 2584
+  lb2:
+    power: 1465
+    attack: 1440
+    defense: 1510
+    health: 2956
 ...

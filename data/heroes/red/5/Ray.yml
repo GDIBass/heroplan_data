@@ -35,6 +35,20 @@ passives:
   chance to give 10% mana to all allies. If the Special Skill is fully charged, the
   chance is 100%.'
 image: https://i.imgur.com/0vSBWSh.jpg
+dtReleased: "2023-05-03"
+dtModified: ""
+fancy_name: Champion of the Court
+aetherPower: ailment_immunity
+lb1:
+  power: 950
+  attack: 934
+  defense: 979
+  health: 1602
+lb2:
+  power: 1069
+  attack: 1069
+  defense: 1120
+  health: 1833
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -73,4 +87,18 @@ costume:
     get two stacks. An enemy can have up to 10 stacks.'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/QG8aRPS.jpg
+  dtReleased: "2025-07-23"
+  dtModified: ""
+  fancy_name: Champion of the Bramble
+  aetherPower: dodge
+  lb1:
+    power: 1308
+    attack: 1346
+    defense: 1393
+    health: 2301
+  lb2:
+    power: 1478
+    attack: 1540
+    defense: 1594
+    health: 2633
 ...

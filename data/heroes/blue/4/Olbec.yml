@@ -21,4 +21,18 @@ passives:
   family bonuses and status effects by -80%. The effect applies to all enemies in
   the battle.'
 image: https://i.imgur.com/ZzxqlQV.jpg
+dtReleased: "2023-12-20"
+dtModified: ""
+fancy_name: Alchemist of Owl Tower
+aetherPower: attack_up
+lb1:
+  power: 746
+  attack: 787
+  defense: 697
+  health: 1362
+lb2:
+  power: 851
+  attack: 912
+  defense: 808
+  health: 1579
 ...

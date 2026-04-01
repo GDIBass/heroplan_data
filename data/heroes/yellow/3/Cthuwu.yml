@@ -1,3 +1,4 @@
+---
 name: Cthuwu
 source: shadow
 family: cultist
@@ -9,10 +10,30 @@ defense: 467
 health: 966
 skill: Brain-link
 effects:
-  - Deals 250% damage to the target.
-  - All allies have 50% chance to deal 100% damage toa random enemy and inflicts 20 Insanity on them after any subsequent alied Special Skill is cast for 3 turns. (Damage and Insanity are dealt on the first Special Skill cast of each character per turn. The damage and Insanity dealt by this effect is not affected by Insanity.)
-  - Inflicts 40 Instanity to the caster.
+- Deals 250% damage to the target.
+- All allies have 50% chance to deal 100% damage to a random enemy and inflicts 20
+  Insanity on them after any subsequent allied Special Skill is cast for 3 turns.
+  (Damage and Insanity are dealt on the first Special Skill cast of each character
+  per turn. The damage and Insanity dealt by this effect is not affected by Insanity.)
+- Inflicts 40 Insanity to the caster.
 types:
-  - Hit 1
-  - Self Insanity
+- Hit 1
+- Chance to Hit random 1 All
+- Chance to inflict Insanity random 1 All
+- Insanity Self
 image: https://i.imgur.com/I6zT7jd.jpg
+dtReleased: "2025-01-09"
+dtModified: "2026-03-20"
+fancy_name: Spawn of the Old Ones
+aetherPower: attack_up
+lb1:
+  power: 559
+  attack: 551
+  defense: 529
+  health: 1095
+lb2:
+  power: 675
+  attack: 681
+  defense: 654
+  health: 1353
+...

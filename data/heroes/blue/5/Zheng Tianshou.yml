@@ -25,7 +25,7 @@ types:
 - Chance for Critical hit
 - Hit All
 - Safely Dispels All
-- Damage Reduction All
+- Damage Reduction Buff All
 passives:
 - 'Health Boost on Critical Special Attack: When this character scores a critical
   hit with their Special Skill, they boost the health of all their allies by 10%.
@@ -38,4 +38,18 @@ passives:
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://imgur.com/b7rZLXf.jpg
+dtReleased: "2026-02-01"
+dtModified: "2026-03-28"
+fancy_name: Fair-Faced Gentleman of Water Margin
+aetherPower: regen
+lb1:
+  power: 1366
+  attack: 1411
+  defense: 1429
+  health: 2479
+lb2:
+  power: 1545
+  attack: 1615
+  defense: 1635
+  health: 2837
 ...

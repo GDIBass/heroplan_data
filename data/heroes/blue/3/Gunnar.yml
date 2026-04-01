@@ -17,6 +17,20 @@ types:
 - Ally Damage Share
 - Defense Buff All
 image: https://i.imgur.com/ra4Iv0M.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Protector Knight
+aetherPower: special_armor
+lb1:
+  power: 491
+  attack: 439
+  defense: 604
+  health: 744
+lb2:
+  power: 592
+  attack: 542
+  defense: 747
+  health: 920
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -34,6 +48,20 @@ costume:
   - Enemy Damage Share
   - Defense Debuff All
   image: https://i.imgur.com/MxDScRN.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Brave Blacksmith
+  aetherPower: defense_up
+  lb1:
+    power: 525
+    attack: 480
+    defense: 630
+    health: 827
+  lb2:
+    power: 633
+    attack: 593
+    defense: 778
+    health: 1022
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -55,6 +83,20 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/F5oS2LZ.jpg
+  dtReleased: "2024-09-08"
+  dtModified: ""
+  fancy_name: Toon Knight
+  aetherPower: special_armor
+  lb1:
+    power: 561
+    attack: 566
+    defense: 604
+    health: 926
+  lb2:
+    power: 678
+    attack: 699
+    defense: 747
+    health: 1144
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -77,4 +119,18 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/le2bIzh.jpg
+  dtReleased: "2025-11-25"
+  dtModified: ""
+  fancy_name: Glass Knight
+  aetherPower: special_armor
+  lb1:
+    power: 575
+    attack: 592
+    defense: 611
+    health: 945
+  lb2:
+    power: 695
+    attack: 732
+    defense: 755
+    health: 1167
 ...

@@ -1,3 +1,4 @@
+---
 name: Gobbler
 source: season2
 family: lagoon
@@ -9,15 +10,31 @@ defense: 614
 health: 1215
 skill: Minion Eater
 effects:
-  - Destroys all Minions from all enemies and damages all Mega Minions.
-  - Deals 170% damage to all enemies.
-  - All allies recover 80 HP for each destroyed Minion.
+- Destroys all Minions from all enemies and damages all Mega Minions.
+- Deals 170% damage to all enemies.
+- All allies recover 80 HP for each destroyed Minion.
 types:
-  - Minion Destroyer All
-  - Hit All
+- Minion Destroyer All
+- Hit All
+- Heal All on minion destroyed
 image: https://i.imgur.com/Sc5af8g.jpg
+dtReleased: ""
+dtModified: "2026-03-20"
+fancy_name: Chameleon General
+aetherPower: fiend_resist
+lb1:
+  power: 700
+  attack: 697
+  defense: 667
+  health: 1320
+lb2:
+  power: 798
+  attack: 808
+  defense: 773
+  health: 1531
 costume:
-  bonuses: 3/3/6/1
+  design: costume1
+  bonuses: 5/5/10/5
   class: Paladin
   power: 673
   attack: 586
@@ -25,11 +42,27 @@ costume:
   health: 1420
   skill: Protein Eater
   effects:
-    - Steals Minions from the target.
-    - Deals 310% damage to the target.
-    - The target receives 213 Sand damage over 3 turns. This effect spreads to nearby enemies.
+  - Steals Minions from the target.
+  - Deals 310% damage to the target.
+  - The target receives 213 Sand damage over 3 turns. This effect spreads to nearby
+    enemies.
   types:
-    - Steals Minions 1
-    - Hit 1
-    - Spreading DoT 1
+  - Steals Minions 1
+  - Hit 1
+  - Spreading DoT 1
   image: https://i.imgur.com/ZFJ0073.jpg
+  dtReleased: "2023-04-03"
+  dtModified: "2026-03-20"
+  fancy_name: World Heavyweight Champion
+  aetherPower: ailment_immunity
+  lb1:
+    power: 725
+    attack: 637
+    defense: 718
+    health: 1544
+  lb2:
+    power: 826
+    attack: 738
+    defense: 832
+    health: 1790
+...

@@ -20,4 +20,18 @@ types:
 - Hit 1
 - Minion Blocking 1
 image: https://i.imgur.com/I8cTetD.jpg
+dtReleased: "2023-06-12"
+dtModified: ""
+fancy_name: Snake of Descenthia
+aetherPower: damage_reduction
+lb1:
+  power: 1037
+  attack: 970
+  defense: 933
+  health: 2224
+lb2:
+  power: 1168
+  attack: 1110
+  defense: 1068
+  health: 2545
 ...

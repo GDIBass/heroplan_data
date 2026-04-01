@@ -1,6 +1,7 @@
+---
 name: Guardian Kong
 source: teltoc
-family: guardiansteltoc 
+family: guardiansteltoc
 speed: Average
 class: Barbarian
 power: 765
@@ -9,15 +10,30 @@ defense: 587
 health: 1433
 skill: Lord of the Jungle
 effects:
-  - Deals 250% damage to all enemies.
-  - All allies get +94% defense against Ice for 4 turns.
-  - Cleanses status ailments from all allies.
+- Deals 250% damage to all enemies.
+- All allies get +94% defense against Ice for 4 turns.
+- Cleanses status ailments from all allies.
 types:
-  - Hit All
-  - Elemental Defense Buff All
-  - Cleanser All
+- Hit All
+- Elemental Defense Buff All
+- Cleanser All
 image: https://i.imgur.com/4n0L387.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Chieftain of Teltoc
+aetherPower: rage
+lb1:
+  power: 815
+  attack: 848
+  defense: 632
+  health: 1545
+lb2:
+  power: 914
+  attack: 970
+  defense: 723
+  health: 1767
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Monk
   power: 960
@@ -26,12 +42,29 @@ costume:
   health: 1962
   skill: Kong Smash
   effects:
-    - Deals 300% damage to all enemies.
-    - All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.
-    - Dispells buffs from all enemies.
+  - Deals 300% damage to all enemies.
+  - All allies reflect all status effects and 115% damage back to the attacker and
+    block other negative effects from enemies' Ice Special Skills for 4 turns. Status
+    effects cast by characters, Minions and Fiends on the same side cannot be reflected.
+  - Dispells buffs from all enemies.
   types:
-    - Hit All
-    - Elemental Reflect All
-    - Elemental Counterattack All
-    - Dispeller All
+  - Hit All
+  - Elemental Reflect All
+  - Elemental Counterattack All
+  - Dispeller All
   image: https://i.imgur.com/cXwWGpL.jpg
+  dtReleased: "2022-04-14"
+  dtModified: ""
+  fancy_name: Conqueror Kong
+  aetherPower: regen
+  lb1:
+    power: 1025
+    attack: 1085
+    defense: 801
+    health: 2116
+  lb2:
+    power: 1155
+    attack: 1241
+    defense: 917
+    health: 2421
+...

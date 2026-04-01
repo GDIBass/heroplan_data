@@ -1,3 +1,4 @@
+---
 name: Starlass
 source: astral
 family: astralelves
@@ -9,15 +10,30 @@ defense: 1165
 health: 1788
 skill: Power Wave
 effects:
-  - This Special Skill never misses its targets.
-  - Deals 550% damage to target and nearby enemies
-  - Automatically does 701 damage to the hit enemy and consumes 75% mana from hit enemy every time when the hit enemy's mana gets full for 3 tuns.
+- This Special Skill never misses its targets.
+- Deals 550% damage to target and nearby enemies
+- Automatically does 701 damage to the hit enemy and consumes 75% mana from hit enemy
+  every time when the hit enemy's mana gets full for 3 tuns.
 types:
-  - Hit 3
-  - Mindless Attack
+- Hit 3
+- Mindless Attack
 passives:
-  - >-
-    Resist Poison: This character has innate resistance against Poison.
-  - >-
-    Share Received Damage: 20% of damage received by this character is shared with other allies.
+- 'Resist Poison: This character has innate resistance against Poison.'
+- 'Share Received Damage: 20% of damage received by this character is shared with
+  other allies.'
 image: https://i.imgur.com/VtRf87E.jpg
+dtReleased: "2024-06-12"
+dtModified: ""
+fancy_name: Astral Elf Arbalist
+aetherPower: damage_reduction
+lb1:
+  power: 1135
+  attack: 1112
+  defense: 1256
+  health: 1926
+lb2:
+  power: 1281
+  attack: 1272
+  defense: 1437
+  health: 2204
+...

@@ -1,6 +1,7 @@
+---
 name: Aegir
 source: hotm
-family: 2018
+family: "2018"
 speed: Average
 class: Paladin
 power: 768
@@ -9,16 +10,33 @@ defense: 805
 health: 1446
 skill: Icy Resilience
 effects:
-  - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
-  - All allies get +40% defense for 4 turns.
-  - All allies heal 100% of dealt normal damage for 4 turns.
-  - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't be cleansed.
+- All allies become Soul Connected for 4 turns. Soul Connected allies share received
+  damage.
+- All allies get +40% defense for 4 turns.
+- All allies heal 100% of dealt normal damage for 4 turns.
+- Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't
+  be cleansed.
 types:
-  - Ally Damage Share
-  - Defense Buff All
-  - Heal on damage All
+- Ally Damage Share
+- Defense Buff All
+- Heal on damage dealt All
 image: https://i.imgur.com/BzRTcqJ.jpg
+dtReleased: "2018-10-01"
+dtModified: ""
+fancy_name: Frozen Highlander
+aetherPower: special_armor
+lb1:
+  power: 818
+  attack: 663
+  defense: 868
+  health: 1558
+lb2:
+  power: 918
+  attack: 759
+  defense: 993
+  health: 1783
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Monk
   power: 978
@@ -27,15 +45,33 @@ costume:
   health: 2128
   skill: Glacial Resilience
   effects:
-    - All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.
-    - All allies get +35% defense, and a further 5% increase every time they are hit during 4 turns up to +60%.
-    - All allies regenerate 732 HP over 4 turns.
-    - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't be dispelled.
+  - All allies become Soul Connected for 4 turns. Soul Connected allies share received
+    damage.
+  - All allies get +35% defense, and a further 5% increase every time they are hit
+    during 4 turns up to +60%.
+  - All allies regenerate 732 HP over 4 turns.
+  - Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't
+    be dispelled.
   types:
-    - Share Damage All
-    - Defense Buff All
-    - HoT All
+  - Share Damage All
+  - Defense Buff All
+  - HoT All
   passives:
-    - >-
-      Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies.
+  - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
+    the newest status ailment from all allies.'
   image: https://i.imgur.com/JN0Ddwo.jpg
+  dtReleased: "2023-01-23"
+  dtModified: ""
+  fancy_name: Frozen Farmer
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1045
+    attack: 875
+    defense: 1046
+    health: 2295
+  lb2:
+    power: 1177
+    attack: 1001
+    defense: 1196
+    health: 2625
+...

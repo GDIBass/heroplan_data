@@ -27,4 +27,18 @@ passives:
   from Troops of stronger element.'
 - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/Vb0jBsm.jpg
+dtReleased: "2024-07-14"
+dtModified: ""
+fancy_name: Fierce Bounty Hunter
+aetherPower: special_boost
+lb1:
+  power: 1151
+  attack: 1221
+  defense: 1152
+  health: 1978
+lb2:
+  power: 1299
+  attack: 1397
+  defense: 1318
+  health: 2263
 ...

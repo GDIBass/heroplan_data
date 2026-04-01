@@ -1,3 +1,4 @@
+---
 name: Shadowfang
 source: covenant
 family: fox
@@ -9,16 +10,32 @@ defense: 1139
 health: 2208
 skill: Flying Bones
 effects:
-  - Deals 390% damage to all enemies.
-  - At the end of each turn, the caster cast a Bone Toss at a random enemy for 5 turns.
-  - Each Bone Toss deals 230% damage.
-  - Each Bone Toss summons a Skeleton Fox Fiend to the target. The Fiend damages its target with 100% attack every turn.
-  - The Skeleton Fox Fiend absorbs healing. It disappears after receiving a healing amount equal to 30% of its target's max health.
+- Deals 390% damage to all enemies.
+- At the end of each turn, the caster cast a Bone Toss at a random enemy for 5 turns.
+- Each Bone Toss deals 230% damage.
+- Each Bone Toss summons a Skeleton Fox Fiend to the target. The Fiend damages its
+  target with 100% attack every turn.
+- The Skeleton Fox Fiend absorbs healing. It disappears after receiving a healing
+  amount equal to 30% of its target's max health.
 types:
-  - Hit All
-  - Bone Toss Hit 1
-  - Bone Toss Fiend Summoner 1
+- Hit All
+- Bone Toss Hit 1
+- Bone Toss Fiend Summoner 1
 passives:
-  - >-
-    Decreased Healing: All enemies get -50% healing.
+- 'Decreased Healing: All enemies get -50% healing.'
 image: https://i.imgur.com/WRT0fPv.jpg
+dtReleased: "2024-12-23"
+dtModified: ""
+fancy_name: The Bone Collector Sand Fox
+aetherPower: mana_boost
+lb1:
+  power: 1232
+  attack: 1232
+  defense: 1227
+  health: 2379
+lb2:
+  power: 1392
+  attack: 1409
+  defense: 1404
+  health: 2722
+...

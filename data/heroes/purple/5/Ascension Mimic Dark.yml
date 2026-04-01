@@ -1,3 +1,4 @@
+---
 name: Ascension Mimic Dark
 source: secretsummon
 family: mimic
@@ -9,30 +10,45 @@ defense: 1268
 health: 2152
 skill: Gorging Chew
 effects:
-  - Deals 380% damage to the target and nearby enemies.
-  - If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.
-  - The target and nearby enemies receive 668 Bleed damage over 4 turns.
-  - The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)
+- Deals 380% damage to the target and nearby enemies.
+- If an enemy is defeated by the attack, the caster recovers +50% health and gains
+  +33% mana.
+- The target and nearby enemies receive 668 Bleed damage over 4 turns.
+- The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status
+  ailments while closed.)
 types:
-  - Hit 3
-  - DoT 3
-  - Mimic Chest
+- Hit 3
+- DoT 3
+- Mimic Chest
 passives:
-  - >-
-    Perfect Accuracy: This character's Special Skill never misses its targets.
-  - >-
-    Mimic Loot: This Mimic gives a chance for extra loot when completing stages
-  - " ****"
-  - " - Damascus Blade"
-  - " - Tome Of Tactics"
-  - " - Royal Tabard"
-  - " ***"
-  - " - Fine Gloves"
-  - " - Compass"
-  - " - Trap Tools"
-  - " - Tall Boots"
-  - " - Scabbard"
-  - " **"
-  - " - Strong Rope"
-  - " - Dagger"
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+- 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
+- ' ****'
+- ' - Damascus Blade'
+- ' - Tome Of Tactics'
+- ' - Royal Tabard'
+- ' ***'
+- ' - Fine Gloves'
+- ' - Compass'
+- ' - Trap Tools'
+- ' - Tall Boots'
+- ' - Scabbard'
+- ' **'
+- ' - Strong Rope'
+- ' - Dagger'
 image: https://imgur.com/64b24ta.jpg
+dtReleased: "2025-08-29"
+dtModified: ""
+fancy_name: Grinning Cache of Evil
+aetherPower: bulwark
+lb1:
+  power: 1310
+  attack: 1367
+  defense: 1367
+  health: 2319
+lb2:
+  power: 1481
+  attack: 1564
+  defense: 1564
+  health: 2654
+...

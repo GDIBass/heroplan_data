@@ -31,6 +31,20 @@ passives:
 - 'Special Skill Damage Reduction: Received damage from Special Skills is  reduced
   by -20% for this character.'
 image: https://i.imgur.com/RFjr7Fi.jpg
+dtReleased: "2021-11-04"
+dtModified: ""
+fancy_name: King of the Depths
+aetherPower: special_armor
+lb1:
+  power: 864
+  attack: 777
+  defense: 896
+  health: 1545
+lb2:
+  power: 970
+  attack: 889
+  defense: 1026
+  health: 1767
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -62,4 +76,18 @@ costume:
   - 'Boost Health on Special Skill: When this characters casts their Special Skill,
     they boost the health of all their allies by 10%.'
   image: https://i.imgur.com/EAwYCZr.jpg
+  dtReleased: "2024-08-29"
+  dtModified: ""
+  fancy_name: The Deathless King
+  aetherPower: boosted_regen
+  lb1:
+    power: 1097
+    attack: 1001
+    defense: 1186
+    health: 2073
+  lb2:
+    power: 1237
+    attack: 1145
+    defense: 1357
+    health: 2372
 ...

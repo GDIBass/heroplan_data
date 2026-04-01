@@ -16,7 +16,7 @@ effects:
 - All enemies can't get their status ailments cleansed or reallocated by Special Skills
   for 4 turns. (This effect also prevents cleansing and reallocating of itself.)
 types:
-- Safely Cleanser All
+- Safely Clean All
 - Hit All
 - Healing Decrease All
 - Cleanse Immunity All
@@ -29,4 +29,18 @@ passives:
 - 'Damage on Attempted Enemy Cleanse: When an enemy attempts to cleanse by using Special
   Skill, all enemies receive 300 damage. This effect can activate only once per turn.'
 image: https://i.imgur.com/mxOSRGe.jpg
+dtReleased: "2024-03-08"
+dtModified: "2026-03-20"
+fancy_name: Baseball Champion
+aetherPower: dodge
+lb1:
+  power: 1085
+  attack: 1121
+  defense: 1096
+  health: 1864
+lb2:
+  power: 1223
+  attack: 1282
+  defense: 1254
+  health: 2133
 ...

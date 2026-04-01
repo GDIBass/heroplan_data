@@ -1,3 +1,4 @@
+---
 name: Zhou Yu
 source: kingdom
 family: kingdom
@@ -9,15 +10,31 @@ defense: 671
 health: 1336
 skill: Scion Sword
 effects:
-  - Deals 355% damage to the target.
-  - Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from the caster.
-  - The target hit by Wu Soldier Minion receives 207 Burn damage over 3 turns.
+- Deals 355% damage to the target.
+- Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from
+  the caster.
+- The target hit by Wu Soldier Minion receives 207 Burn damage over 3 turns.
 types:
-  - Hit 1
-  - Summoner
-  - Minion DoT
+- Hit 1
+- Summoner All
+- Minion with DoT
 image: https://i.imgur.com/KiDn1jL.jpg
+dtReleased: "2022-03-14"
+dtModified: ""
+fancy_name: Young Commander
+aetherPower: attack_up
+lb1:
+  power: 735
+  attack: 695
+  defense: 729
+  health: 1452
+lb2:
+  power: 838
+  attack: 805
+  defense: 845
+  health: 1683
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Rogue
   power: 719
@@ -26,16 +43,32 @@ costume:
   health: 1393
   skill: Scion Blade
   effects:
-    - Deals 345% damage to the target.
-    - Summons a Wu Soldier Minion for each ally with 22% HP and 30% attack inherited from the caster.
-    - The target hit by Wu Soldier Minion receives 339 Burn damage over 3 turns.
+  - Deals 345% damage to the target.
+  - Summons a Wu Soldier Minion for each ally with 22% HP and 30% attack inherited
+    from the caster.
+  - The target hit by Wu Soldier Minion receives 339 Burn damage over 3 turns.
   types:
-    - Hit 1
-    - Summoner 1
-    - Minion DoT
+  - Hit 1
+  - Summoner All
+  - Minion with DoT
   passives:
-    - 'Unstoppable Minions:'
-    - ' * Resistance against Minion removal.'
-    - " * Can't be prevented from receiving Minions."
-    - " * Minion attack and abilities can't be disabled."
+  - 'Unstoppable Minions:'
+  - ' * Immune to effects that remove Minions.'
+  - ' * Can''t be prevented from receiving Minions.'
+  - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/Uiw1osb.jpg
+  dtReleased: "2025-01-29"
+  dtModified: ""
+  fancy_name: Raven Commander
+  aetherPower: special_boost
+  lb1:
+    power: 774
+    attack: 766
+    defense: 748
+    health: 1515
+  lb2:
+    power: 884
+    attack: 888
+    defense: 868
+    health: 1756
+...

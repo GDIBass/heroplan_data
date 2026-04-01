@@ -25,4 +25,18 @@ passives:
 - 'Health Recovery on Buff Received: This character recovers 5% health when they receive
   a buff or a positive stack.'
 image: https://i.imgur.com/Dx6MykQ.jpg
+dtReleased: "2024-01-10"
+dtModified: ""
+fancy_name: Ursine Armorer
+aetherPower: defense_up
+lb1:
+  power: 1097
+  attack: 1036
+  defense: 1132
+  health: 2093
+lb2:
+  power: 1238
+  attack: 1186
+  defense: 1295
+  health: 2395
 ...

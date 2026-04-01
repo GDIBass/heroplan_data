@@ -1,3 +1,4 @@
+---
 name: Tettukh
 source: season4
 family: underwild
@@ -9,19 +10,33 @@ defense: 667
 health: 1241
 skill: Crippling Grapple
 effects:
-  - Deals 320% damage to the target
-  - The target gets silenced for 4 turns
-  - The target receives 100 Poison damage over 4 turns
+- Deals 320% damage to the target
+- The target gets silenced for 4 turns
+- The target receives 100 Poison damage over 4 turns
 types:
-  - Hit 1
-  - Silence
-  - Dot 1
+- Hit 1
+- Silence
+- Dot 1
 passives:
-  - >-
-    Special Skill Damage Reduction: Received damage from Special Skills is 
-    reduced by -20% for this character.
+- 'Special Skill Damage Reduction: Received damage from Special Skills is  reduced
+  by -20% for this character.'
 image: https://i.imgur.com/OZiH56V.jpg
+dtReleased: "2021-03-25"
+dtModified: ""
+fancy_name: Morlock Brute
+aetherPower: regen
+lb1:
+  power: 728
+  attack: 720
+  defense: 725
+  health: 1348
+lb2:
+  power: 831
+  attack: 835
+  defense: 840
+  health: 1563
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
   power: 692
@@ -30,15 +45,29 @@ costume:
   health: 1184
   skill: Demoralizing Banter
   effects:
-    - Deals 280% damage to the target.
-    - The target gets silence for 4 turns.
-    - The target receives 228 Poison damage over 4 turns.
+  - Deals 280% damage to the target.
+  - The target gets silence for 4 turns.
+  - The target receives 228 Poison damage over 4 turns.
   types:
-    - Hit 1
-    - Silence
-    - DoT 1
+  - Hit 1
+  - Silence
+  - DoT 1
   passives:
-    - >-
-      Special Skill Damage Reduction: Received damage from Special Skills is 
-      reduced by -20% for this character.
+  - 'Special Skill Damage Reduction: Received damage from Special Skills is  reduced
+    by -20% for this character.'
   image: https://i.imgur.com/Upmqcxi.jpg
+  dtReleased: "2023-12-07"
+  dtModified: ""
+  fancy_name: Morlock Cheerleader
+  aetherPower: attack_up
+  lb1:
+    power: 745
+    attack: 803
+    defense: 713
+    health: 1287
+  lb2:
+    power: 851
+    attack: 931
+    defense: 827
+    health: 1492
+...

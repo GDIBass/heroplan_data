@@ -28,4 +28,18 @@ passives:
   from Troops of stronger element.'
 - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/ciEXCLt.jpg
+dtReleased: "2023-11-06"
+dtModified: ""
+fancy_name: Supersonic Blade Master
+aetherPower: dodge
+lb1:
+  power: 1037
+  attack: 1085
+  defense: 1036
+  health: 1731
+lb2:
+  power: 1169
+  attack: 1242
+  defense: 1186
+  health: 1981
 ...

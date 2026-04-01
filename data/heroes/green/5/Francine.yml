@@ -1,3 +1,4 @@
+---
 name: Francine
 source: morlovia
 family: morlovia
@@ -9,17 +10,33 @@ defense: 743
 health: 1353
 skill: Electric Cut
 effects:
-  - Deals 225% damage to the target and nearby enemies.
-  - Cleanses status ailments from all allies at the end of each turn for 3 turns.
-  - Deals extra damage against Ice.
+- Deals 225% damage to the target and nearby enemies.
+- Cleanses status ailments from all allies at the end of each turn for 3 turns.
+- Deals extra damage against Ice.
 types:
-  - Hit 3
-  - Cleanser
+- Hit 3
+- Cleanser All
 passives:
-  - >-
-    Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+- 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+  to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
+  has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/jBtXWpz.jpg
+dtReleased: "2020-10-26"
+dtModified: ""
+fancy_name: The Monstress
+aetherPower: attack_up
+lb1:
+  power: 847
+  attack: 841
+  defense: 801
+  health: 1458
+lb2:
+  power: 951
+  attack: 962
+  defense: 916
+  health: 1668
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 1140
@@ -28,14 +45,31 @@ costume:
   health: 2058
   skill: Electric Stab
   effects:
-    - Deals 225% damage to the target and nearby enemies.
-    - Cleanses status ailments from all allies at the end of each turn for 3 turns. This effect can't be dispelled.
-    - All Ice enemies get -54% defense against Nature for 3 turns.
+  - Deals 225% damage to the target and nearby enemies.
+  - Cleanses status ailments from all allies at the end of each turn for 3 turns.
+    This effect can't be dispelled.
+  - All Ice enemies get -54% defense against Nature for 3 turns.
   types:
-    - Hit 3
-    - Cleanser
-    - Elemental Defense Debuff All Ice
+  - Hit 3
+  - Cleanser All
+  - Elemental Defense Debuff All Ice
   passives:
-    - >-
-      Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
+  - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+    to steal the newest dispellable buff from a random enemy that has buffs. If no
+    enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/ObnUcTT.jpg
+  dtReleased: "2021-10-04"
+  dtModified: ""
+  fancy_name: The Mobstress
+  aetherPower: special_boost
+  lb1:
+    power: 1220
+    attack: 1272
+    defense: 1212
+    health: 2219
+  lb2:
+    power: 1377
+    attack: 1455
+    defense: 1386
+    health: 2539
+...

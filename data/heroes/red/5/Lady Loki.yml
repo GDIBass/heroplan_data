@@ -1,22 +1,40 @@
+---
 name: Lady Loki
-class: Fighter
 source: season3
 family: helheim
 speed: Average
+class: Fighter
 power: 787
 attack: 747
 defense: 776
 health: 1312
 skill: Trickster's Malice
 effects:
-  - Lifts all cleansable status ailments  from all allies and randomly distributes them on enemies.
-  - Deals 170% damage to all enemies
-  - Deals additional 8% damage per transferred status ailment, up to 298% damage in total.
+- Lifts all cleansable status ailments  from all allies and randomly distributes them
+  on enemies.
+- Deals 170% damage to all enemies
+- Deals additional 8% damage per transferred status ailment, up to 298% damage in
+  total.
 types:
-  - Lifts Ailments
-  - Hit All
+- Lifts Ailments All
+- Hit All
 image: https://i.imgur.com/NzRPKjE.jpg
+dtReleased: "2020-07-23"
+dtModified: ""
+fancy_name: Trickster Goddess
+aetherPower: defense_up
+lb1:
+  power: 838
+  attack: 805
+  defense: 836
+  health: 1414
+lb2:
+  power: 942
+  attack: 922
+  defense: 957
+  health: 1617
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Cleric
   power: 985
@@ -25,10 +43,27 @@ costume:
   health: 1771
   skill: Trickster's Lullaby
   effects:
-    - Lifts all cleansable status ailments from all allies and randomly distributes them on enemies.
-    - Deals 135% damage to all enemies.
-    - Deals additional 15% damage per allocated status effect, up to 375% damage in total.
+  - Lifts all cleansable status ailments from all allies and randomly distributes
+    them on enemies.
+  - Deals 135% damage to all enemies.
+  - Deals additional 15% damage per allocated status effect, up to 375% damage in
+    total.
   types:
-    - Lifts Ailments
-    - Hit All
+  - Lifts Ailments All
+  - Hit All
   image: https://i.imgur.com/R89Eh1b.jpg
+  dtReleased: "2023-10-23"
+  dtModified: ""
+  fancy_name: Trickster Mother
+  aetherPower: damage_reduction
+  lb1:
+    power: 1053
+    attack: 946
+    defense: 1179
+    health: 1909
+  lb2:
+    power: 1187
+    attack: 1082
+    defense: 1349
+    health: 2184
+...

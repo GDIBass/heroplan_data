@@ -20,4 +20,18 @@ types:
 - Boosted HoT All
 - Attack Buff All
 image: https://i.imgur.com/T4p2FAB.jpg
+dtReleased: "2023-06-12"
+dtModified: ""
+fancy_name: The Feral Sage
+aetherPower: special_armor
+lb1:
+  power: 792
+  attack: 748
+  defense: 902
+  health: 1382
+lb2:
+  power: 905
+  attack: 868
+  defense: 1046
+  health: 1602
 ...

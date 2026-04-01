@@ -18,8 +18,8 @@ effects:
   Ice characters, this status effect becomes uncleasable and lasts 2 turns longer.
 types:
 - Hit 2
-- Health boost for 3
-- Silencer 2
+- Boost Health on damage dealt 3
+- Silence 2
 passives:
 - 'Troop Mastery:'
 - 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
@@ -29,4 +29,18 @@ passives:
   from Troops of stronger element.'
 - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/oyCoXcq.jpg
+dtReleased: "2024-01-01"
+dtModified: "2026-03-29"
+fancy_name: Blade Alchemist
+aetherPower: boosted_regen
+lb1:
+  power: 1056
+  attack: 1085
+  defense: 1050
+  health: 1838
+lb2:
+  power: 1190
+  attack: 1242
+  defense: 1201
+  health: 2103
 ...

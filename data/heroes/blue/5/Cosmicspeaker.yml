@@ -1,3 +1,4 @@
+---
 name: Cosmicspeaker
 source: astral
 family: astralelves
@@ -9,17 +10,31 @@ defense: 1130
 health: 1829
 skill: Constellation Crush
 effects:
-  - This Special Skill never misses its targets.
-  - Deals 350% damage to all enemies.
-  - Dispels buffs from all enemies at the end of each turn for 4 turns.
-  - Cleanses status ailments from all allies at the end of each turn for 4 turns.
+- This Special Skill never misses its targets.
+- Deals 350% damage to all enemies.
+- Dispels buffs from all enemies at the end of each turn for 4 turns.
+- Cleanses status ailments from all allies at the end of each turn for 4 turns.
 types:
-  - Hit All
-  - Dispeller All
-  - Cleanser All
+- Hit All
+- Dispeller All
+- Cleanser All
 passives:
-  - >-
-    Resist Poison: This character has innate resistance against Poison.
-  - >-
-    Share Received Damage: 20% of damage received by this character is shared with other allies.
+- 'Resist Poison: This character has innate resistance against Poison.'
+- 'Share Received Damage: 20% of damage received by this character is shared with
+  other allies.'
 image: https://i.imgur.com/X5hiGNw.jpg
+dtReleased: "2024-10-14"
+dtModified: ""
+fancy_name: Astral Elf Astronomer
+aetherPower: attack_up
+lb1:
+  power: 1182
+  attack: 1260
+  defense: 1218
+  health: 1971
+lb2:
+  power: 1335
+  attack: 1442
+  defense: 1394
+  health: 2255
+...

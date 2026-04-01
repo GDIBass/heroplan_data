@@ -29,4 +29,18 @@ types:
 - Mana reduction 1/3/All
 - Mana Generation Debuff 1/3/All
 image: https://i.imgur.com/LIQiSIc.jpg
+dtReleased: "2021-11-10"
+dtModified: ""
+fancy_name: The Red Oni Ninja
+aetherPower: defense_up
+lb1:
+  power: 872
+  attack: 883
+  defense: 788
+  health: 1554
+lb2:
+  power: 979
+  attack: 1010
+  defense: 901
+  health: 1778
 ...

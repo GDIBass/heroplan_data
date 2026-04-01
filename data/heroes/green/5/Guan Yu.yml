@@ -20,6 +20,20 @@ types:
 - Bypass Minions
 - Defense Debuff 3
 image: https://i.imgur.com/nDiRoqi.jpg
+dtReleased: "2022-03-14"
+dtModified: ""
+fancy_name: Valiant General
+aetherPower: special_boost
+lb1:
+  power: 890
+  attack: 890
+  defense: 834
+  health: 1578
+lb2:
+  power: 1001
+  attack: 1018
+  defense: 955
+  health: 1805
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -38,11 +52,25 @@ costume:
   types:
   - Hit 3
   - Bypass Minions
-  - Defense Debuff
+  - Defense Debuff 3
   passives:
   - 'Unstoppable Minions:'
-  - ' * Resistance against Minion removal.'
+  - ' * Immune to effects that remove Minions.'
   - ' * Can''t be prevented from receiving Minions.'
-  - ' * Minion attack and abilities can''t be disabled.'
+  - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/GP4J8r3.jpg
+  dtReleased: "2024-10-01"
+  dtModified: ""
+  fancy_name: Inferno General
+  aetherPower: attack_up
+  lb1:
+    power: 1181
+    attack: 1234
+    defense: 1171
+    health: 2118
+  lb2:
+    power: 1333
+    attack: 1412
+    defense: 1340
+    health: 2423
 ...

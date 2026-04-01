@@ -24,4 +24,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/5Bt1nJk.jpg
+dtReleased: "2025-03-11"
+dtModified: ""
+fancy_name: Vitrail of the Forest
+aetherPower: special_armor
+lb1:
+  power: 812
+  attack: 882
+  defense: 807
+  health: 1374
+lb2:
+  power: 927
+  attack: 1022
+  defense: 936
+  health: 1593
 ...

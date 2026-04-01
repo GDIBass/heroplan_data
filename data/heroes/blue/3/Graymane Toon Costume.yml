@@ -22,4 +22,18 @@ passives:
 - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
   dispels.'
 image: https://i.imgur.com/Qf69vSG.jpg
+dtReleased: "2024-04-08"
+dtModified: ""
+fancy_name: The Ferocious Toon
+aetherPower: special_boost
+lb1:
+  power: 563
+  attack: 634
+  defense: 453
+  health: 1073
+lb2:
+  power: 681
+  attack: 783
+  defense: 559
+  health: 1326
 ...

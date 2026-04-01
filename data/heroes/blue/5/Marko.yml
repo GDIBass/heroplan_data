@@ -1,0 +1,42 @@
+---
+name: Marko
+source: springvale
+family: springvale
+speed: Average
+class: Monk
+power: 1293
+attack: 1328
+defense: 1361
+health: 2307
+skill: Globetrotting Gifts
+effects:
+- Recovers 50% health for all allies.
+- Cleanses status ailments from all allies at the end of each turn for 4 turns.
+- All allies get +40% chance to dodge Special Skills that deal damage for 4 turns.
+- The caster gets -10% mana generation for 4 turns. This effect can't be cleansed.
+  (Affects only mana generated from matching tiles or mana gained by the defense team
+  at the end of their turn.)
+types:
+- Healer All
+- Cleanser All each turn
+- Dodge Chance Buff All
+- Mana Generation Debuff Self
+passives:
+- 'Stack on Special: When this character casts their Special Skill, all allies get:
+  Stack (Max: 10): Recovers 30 HP each turn.'
+image: https://imgur.com/I71luP2.jpg
+dtReleased: "2026-03-30"
+dtModified: ""
+fancy_name: Wayfarer of Springvale
+aetherPower: heal_increase
+lb1:
+  power: 1400
+  attack: 1403
+  defense: 1436
+  health: 2497
+lb2:
+  power: 1600
+  attack: 1605
+  defense: 1643
+  health: 2857
+...

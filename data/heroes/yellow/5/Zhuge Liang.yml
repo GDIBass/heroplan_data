@@ -12,10 +12,10 @@ skill: Martial Masterstroke
 effects:
 - Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack inherited
   from the caster.
-- Shu Soldier Minion gives it's owner the ability to counterattack with 60% of the
-  damage received as long as the owner has a Shu Soldier Minion. This effect can't
-  be dispelled.
-- Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages its target with
+- When summoned, the Shu Soldier Minion gives its owner the ability to counterattack
+  with 60% of the damage received as long as the owner has a Shu Soldier Minion. This
+  effect can't be dispelled.
+- Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages the enemies with
   75% attack every turn.
 - The Shu Guerrilla Fiend absorbs healing and disappears when it has absorbed 50%
   of its targets health.
@@ -23,6 +23,20 @@ types:
 - Counterattack Minion Summoner All
 - Fiend Summoner All
 image: https://i.imgur.com/jjSBiGT.jpg
+dtReleased: "2022-03-14"
+dtModified: "2026-03-20"
+fancy_name: Master Strategist
+aetherPower: fiend_resist
+lb1:
+  power: 891
+  attack: 765
+  defense: 947
+  health: 1665
+lb2:
+  power: 1001
+  attack: 876
+  defense: 1084
+  health: 1905
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,8 +61,22 @@ costume:
   - Fiend Summoner All
   passives:
   - 'Unstoppable Minions:'
-  - ' * Resistance against Minion removal.'
-  - ' * Can''t be prevented from receiving minions.'
+  - ' * Immune to effects that remove Minions.'
+  - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/zdjoPv7.jpg
+  dtReleased: "2024-05-28"
+  dtModified: "2026-03-20"
+  fancy_name: Strategist Supreme
+  aetherPower: mana_boost
+  lb1:
+    power: 1181
+    attack: 1024
+    defense: 1282
+    health: 2423
+  lb2:
+    power: 1334
+    attack: 1172
+    defense: 1467
+    health: 2773
 ...

@@ -15,6 +15,7 @@ effects:
 - Target and nearby enemies receive 936 Poison damage over 3 turns. This effect can't
   be cleansed.
 types:
+- SS Ignores Dodge
 - Dispeller 3
 - DoT 3
 passives:
@@ -23,4 +24,18 @@ passives:
 - 'Health Recovery on Buff Received: This character has a 50% chance to recover 10%
   health when they receive a buff or possitve stack.'
 image: https://i.imgur.com/jJUezPr.jpg
+dtReleased: "2024-02-06"
+dtModified: ""
+fancy_name: Scorpion Demoness
+aetherPower: counterattack
+lb1:
+  power: 1067
+  attack: 1105
+  defense: 1052
+  health: 1864
+lb2:
+  power: 1202
+  attack: 1264
+  defense: 1203
+  health: 2133
 ...

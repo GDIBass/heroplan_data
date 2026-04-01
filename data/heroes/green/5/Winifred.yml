@@ -24,4 +24,18 @@ passives:
 - 'Defense ailment reduction: Reduces the effect of defense ailments by 80%. The effect
   applies to this character and all its allies in the battle.'
 image: https://i.imgur.com/keg45a3.jpg
+dtReleased: "2022-08-11"
+dtModified: ""
+fancy_name: Bard of Creation
+aetherPower: regen
+lb1:
+  power: 927
+  attack: 894
+  defense: 896
+  health: 1704
+lb2:
+  power: 1043
+  attack: 1023
+  defense: 1026
+  health: 1950
 ...

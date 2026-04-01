@@ -22,4 +22,18 @@ passives:
 - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
   ones.'
 image: https://imgur.com/rpOw1wa.jpg
+dtReleased: "2026-01-26"
+dtModified: ""
+fancy_name: Stylish Elf
+aetherPower: special_boost
+lb1:
+  power: 877
+  attack: 924
+  defense: 891
+  health: 1569
+lb2:
+  power: 1003
+  attack: 1071
+  defense: 1033
+  health: 1820
 ...

@@ -21,4 +21,18 @@ types:
 - DoT All
 - Mana Generation Debuff All
 image: https://i.imgur.com/b7feuiD.jpg
+dtReleased: "2023-08-10"
+dtModified: ""
+fancy_name: Heir to the Throne
+aetherPower: regen
+lb1:
+  power: 994
+  attack: 990
+  defense: 1023
+  health: 1689
+lb2:
+  power: 1119
+  attack: 1132
+  defense: 1170
+  health: 1932
 ...

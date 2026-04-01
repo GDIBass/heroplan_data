@@ -19,4 +19,18 @@ passives:
   hardens. The next 5 times they receive damage, it is dropped to 1. This effect can''t
   be dispelled.'
 image: https://i.imgur.com/OKV9H3h.jpg
+dtReleased: "2022-05-12"
+dtModified: ""
+fancy_name: Insidious Gargoyle
+aetherPower: regen
+lb1:
+  power: 897
+  attack: 888
+  defense: 863
+  health: 1571
+lb2:
+  power: 1008
+  attack: 1016
+  defense: 988
+  health: 1798
 ...

@@ -1,3 +1,4 @@
+---
 name: Kolya
 source: goblinvillage
 family: garrisonguard
@@ -9,18 +10,36 @@ defense: 1116
 health: 2047
 skill: Laundry Day
 effects:
-  - Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)
-  - Deals 300% damage to all enemies.
-  - Deals additional 6% damage per removed status effect, up to 330% damage in total.
-  - Summnos a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.
-  - The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)
+- Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)
+- Deals 300% damage to all enemies.
+- Deals additional 6% damage per removed status effect, up to 330% damage in total.
+- Summnos a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the
+  caster.
+- The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment
+  from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage
+  on removal, from the remove status ailment. External effects such as passive skills
+  and family effects can still activate.)
 types:
-  - Dispel latest buff
-  - Hit All
-  - Shield Guard Mega Minion
+- Dispel latest buff All
+- Hit All
+- Shield Guard Mega Minion
+- Safely clean all allies Minion
 passives:
-  - >-
-    Resist Mana reduction: This character has an innate resistance against mana Reduction.
-  - >-
-    Guard Rally: Every 4 turns, removes all Wither effects from all allies.
+- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/joEtnuS.jpg
+dtReleased: "2024-11-24"
+dtModified: ""
+fancy_name: Stolid Sentry
+aetherPower: attack_up
+lb1:
+  power: 1196
+  attack: 1216
+  defense: 1203
+  health: 2206
+lb2:
+  power: 1350
+  attack: 1391
+  defense: 1376
+  health: 2524
+...

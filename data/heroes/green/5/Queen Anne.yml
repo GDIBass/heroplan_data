@@ -17,7 +17,7 @@ effects:
 - All allies get +44% mana generation for 6 turns.
 types:
 - Taunt
-- Self HoT
+- HoT Self
 - Defense Buff All
 - Mana Generation Buff All
 passives:
@@ -25,4 +25,18 @@ passives:
   Special Skills or in place of a character in Cover, there''s a 60% chance to deal
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/BoTIbhq.jpg
+dtReleased: "2022-12-14"
+dtModified: ""
+fancy_name: Elegant Monarch
+aetherPower: taunt
+lb1:
+  power: 935
+  attack: 799
+  defense: 994
+  health: 1807
+lb2:
+  power: 1052
+  attack: 914
+  defense: 1137
+  health: 2067
 ...

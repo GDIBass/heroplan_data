@@ -23,4 +23,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://imgur.com/x1sFOfC.jpg
+dtReleased: "2025-10-09"
+dtModified: ""
+fancy_name: Glass Defender
+aetherPower: regen
+lb1:
+  power: 818
+  attack: 730
+  defense: 934
+  health: 1543
+lb2:
+  power: 935
+  attack: 847
+  defense: 1083
+  health: 1789
 ...

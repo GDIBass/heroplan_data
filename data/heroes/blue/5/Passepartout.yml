@@ -23,6 +23,20 @@ passives:
 - 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
   Skills is increased by 1 turn.'
 image: https://i.imgur.com/6D1hJ1P.jpg
+dtReleased: "2021-12-02"
+dtModified: ""
+fancy_name: Clever Voyager
+aetherPower: special_armor
+lb1:
+  power: 864
+  attack: 814
+  defense: 865
+  health: 1520
+lb2:
+  power: 971
+  attack: 932
+  defense: 990
+  health: 1739
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -48,4 +62,18 @@ costume:
   - 'Health Boost on Special Skill: On Special Skill cast, boosts all allies'' HP
     by 10%.'
   image: https://i.imgur.com/mcEOLvZ.jpg
+  dtReleased: "2023-10-12"
+  dtModified: ""
+  fancy_name: Elegant Artist
+  aetherPower: defense_up
+  lb1:
+    power: 1096
+    attack: 952
+    defense: 1255
+    health: 2052
+  lb2:
+    power: 1236
+    attack: 1089
+    defense: 1436
+    health: 2348
 ...

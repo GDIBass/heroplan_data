@@ -18,4 +18,18 @@ types:
 - Hit all
 - Mana Generation Buff All
 image: https://i.imgur.com/pBSZGi6.jpg
+dtReleased: "2023-10-30"
+dtModified: ""
+fancy_name: Mighty Highlander
+aetherPower: regen
+lb1:
+  power: 788
+  attack: 913
+  defense: 693
+  health: 1360
+lb2:
+  power: 901
+  attack: 1059
+  defense: 803
+  health: 1577
 ...

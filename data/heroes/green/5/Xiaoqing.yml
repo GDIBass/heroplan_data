@@ -1,3 +1,4 @@
+---
 name: Xiaoqing
 source: lunaryear
 family: lunaryear
@@ -9,15 +10,32 @@ defense: 1182
 health: 2193
 skill: Warding Off Evil
 effects:
-  - Recovers 40% health for all allies.
-  - Lifts the latest cleansable status ailment from all allies and randomly distributes them on enemies.
-  - All allies have a 60% chance to reflect any status ailment to a random character on the opposing team for 3 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
+- Recovers 40% health for all allies.
+- Lifts the latest cleansable status ailment from all allies and randomly distributes
+  them on enemies.
+- All allies have a 60% chance to reflect any status ailment to a random character
+  on the opposing team for 3 turns. (Status effects cast by characters, Minions and
+  Fiends on the same side cannot be reflected.)
 types:
-  - Heal All
-  - Lifts 1 Ailment All
-  - Debuff Reflecting Chance All
+- Heal All
+- Lifts 1 Ailment All
+- Debuff Reflecting Chance All
 passives:
-  - >-
-    Disable Minion Abilities: Attacks and abilities of all Minions owned by
-    enemies are disabled.
+- 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/XmTf3zL.jpg
+dtReleased: "2025-01-27"
+dtModified: "2026-03-20"
+fancy_name: Lunar Musician Snake
+aetherPower: damage_reduction
+lb1:
+  power: 1235
+  attack: 1207
+  defense: 1274
+  health: 2364
+lb2:
+  power: 1395
+  attack: 1381
+  defense: 1457
+  health: 2705
+zodiacAnimal: snake
+...

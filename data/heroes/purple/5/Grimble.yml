@@ -1,6 +1,7 @@
+---
 name: Grimble
 source: hotm
-family: 2019
+family: "2019"
 speed: Average
 class: Cleric
 power: 770
@@ -9,14 +10,31 @@ defense: 824
 health: 1425
 skill: Gnomish Carnage
 effects:
-  - Destroys all minions from all enemies.
-  - Deals 315% damage to all enemies.
-  - All allies get a small amount of mana for each destroyed minion
-  - Element Link gives all Dark allies +10% critical chance for 6 turns. This effect can't be dispelled.
+- Destroys all minions from all enemies.
+- Deals 315% damage to all enemies.
+- All allies get a small amount of mana for each destroyed minion
+- Element Link gives all Dark allies +10% critical chance for 6 turns. This effect
+  can't be dispelled.
 types:
-  - Minion Destroyer All
-  - Hit All
+- Minion Destroyer All
+- Hit All
+- Mana Boost All on minion kill
 passives:
-  - >-
-    Resist Blind: This character has an innate resistance against status ailments that affect Accuracy. Doesn't apply to status effects from allies.
+- 'Resist Blind: This character is immune to status ailments that affect accuracy.
+  Doesn''t apply to original status effects from allies.'
 image: https://i.imgur.com/1sMnXH3.jpg
+dtReleased: "2019-12-01"
+dtModified: ""
+fancy_name: The Goat-Riding Gnome
+aetherPower: special_boost
+lb1:
+  power: 820
+  attack: 663
+  defense: 888
+  health: 1536
+lb2:
+  power: 921
+  attack: 759
+  defense: 1016
+  health: 1757
+...

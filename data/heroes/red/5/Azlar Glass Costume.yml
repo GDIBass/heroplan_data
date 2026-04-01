@@ -22,4 +22,18 @@ types:
 passives:
 - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
 image: https://i.imgur.com/S5acyh9.jpg
+dtReleased: "2024-12-25"
+dtModified: ""
+fancy_name: Glass Leor
+aetherPower: rage
+lb1:
+  power: 1329
+  attack: 1441
+  defense: 1282
+  health: 2438
+lb2:
+  power: 1503
+  attack: 1649
+  defense: 1466
+  health: 2789
 ...

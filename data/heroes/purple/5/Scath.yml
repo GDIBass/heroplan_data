@@ -20,12 +20,26 @@ types:
 - Counterattack Self
 - Stored Damage Hit All
 passives:
-- 'Resist Special Skill Blocking: This character has innate resistance against status
-  ailments that block Special Skill.'
+- 'Resist Special Skill Blocking: This character is immune to status ailments that
+  prevent the use of Special Skills.'
 - 'Repair Core: The Construct Core of this character is Repair Core. The Repair Core
   activates each time this character''s Special Skill is cast:'
 - ' * With fully charged Repair Core, boosts the health of all allies by 25%.'
 - ' * The healing is scaled by the amount of charge in the Core. All charge is exhausted
   when the Core is activated.'
 image: https://i.imgur.com/pX4j62c.jpg
+dtReleased: "2024-03-10"
+dtModified: "2026-03-27"
+fancy_name: Void Tank Construct
+aetherPower: defense_up
+lb1:
+  power: 1086
+  attack: 1016
+  defense: 1067
+  health: 2191
+lb2:
+  power: 1224
+  attack: 1163
+  defense: 1221
+  health: 2506
 ...

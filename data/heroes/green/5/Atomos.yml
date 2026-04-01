@@ -1,22 +1,40 @@
+---
 name: Atomos
 source: season2
 family: atlantis
-class: Barbarian
 speed: Average
+class: Barbarian
 power: 772
 attack: 733
 defense: 727
 health: 1336
 skill: Immortal Annihilator
 effects:
-  - Deals 170% damage to all enemies.
-  - The more mana the enemies have, the more damage they will receive, up to 290%.
-  - If the caster is defeated during the next 5 turns they are resurrected in the beginning of their next turn with 32% health. All status effects are removed when the caster is defeated.
+- Deals 170% damage to all enemies.
+- The more mana the enemies have, the more damage they will receive, up to 290%.
+- If the caster is defeated during the next 5 turns they are resurrected in the beginning
+  of their next turn with 32% health. All status effects are removed when the caster
+  is defeated.
 types:
-  - Hit All
-  - Self Resurrection
+- Hit All
+- Self Resurrection
 image: https://i.imgur.com/DAUb4SR.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Guardian of Atlantis
+aetherPower: rage
+lb1:
+  power: 822
+  attack: 790
+  defense: 783
+  health: 1440
+lb2:
+  power: 923
+  attack: 904
+  defense: 896
+  health: 1648
 costume:
+  design: costume1
   bonuses: 5/5/10/5
   class: Paladin
   power: 942
@@ -25,10 +43,27 @@ costume:
   health: 1736
   skill: Immortal Punisher
   effects:
-    - Deals 160% damage to all enemies.
-    - The less mana the enemies have, the more damage they will receive, up to 310%.
-    - If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stacks are removed when the caster is defeated.
+  - Deals 160% damage to all enemies.
+  - The less mana the enemies have, the more damage they will receive, up to 310%.
+  - If the caster is defeated during the next 5 turns, they are resurrected in the
+    beginning of their next turn with 40% health. All status effects and stacks are
+    removed when the caster is defeated.
   types:
-    - Hit All
-    - Self Resurrection
+  - Hit All
+  - Self Resurrection
   image: https://i.imgur.com/Mrpkkq0.jpg
+  dtReleased: "2023-04-03"
+  dtModified: ""
+  fancy_name: Guardian of the Reef
+  aetherPower: bulwark
+  lb1:
+    power: 1006
+    attack: 987
+    defense: 979
+    health: 1873
+  lb2:
+    power: 1133
+    attack: 1130
+    defense: 1120
+    health: 2142
+...

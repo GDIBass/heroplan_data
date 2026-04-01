@@ -29,4 +29,18 @@ passives:
   from Troops of stronger element.'
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/RzzDstN.jpg
+dtReleased: "2024-01-29"
+dtModified: ""
+fancy_name: Electric Navigator
+aetherPower: dodge
+lb1:
+  power: 1064
+  attack: 1154
+  defense: 1054
+  health: 1720
+lb2:
+  power: 1200
+  attack: 1320
+  defense: 1206
+  health: 1968
 ...

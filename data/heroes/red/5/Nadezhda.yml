@@ -32,6 +32,20 @@ passives:
   have a 50% chance to recover 15% health for all allies. If the Special Skill is
   fully charged, the chance is 100%.'
 image: https://i.imgur.com/i5g8Fr0.jpg
+dtReleased: "2021-09-15"
+dtModified: ""
+fancy_name: Tower Headmaster
+aetherPower: defense_up
+lb1:
+  power: 871
+  attack: 836
+  defense: 843
+  health: 1558
+lb2:
+  power: 979
+  attack: 957
+  defense: 965
+  health: 1783
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -67,4 +81,18 @@ costume:
     charged, the chance is 100%.'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/bdS7gtT.jpg
+  dtReleased: "2025-07-05"
+  dtModified: ""
+  fancy_name: Tower Postmaster
+  aetherPower: special_armor
+  lb1:
+    power: 1300
+    attack: 1341
+    defense: 1310
+    health: 2425
+  lb2:
+    power: 1470
+    attack: 1535
+    defense: 1499
+    health: 2775
 ...

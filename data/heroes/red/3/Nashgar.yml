@@ -11,11 +11,25 @@ health: 684
 skill: Burning Strike
 effects:
 - Deals 290% damage to the target.
-- The target receives 126 Burn damage over 6 turns.
+- The target receives 120 Burn damage over 6 turns.
 types:
 - Hit 1
-- Dot 1
+- DoT 1
 image: https://i.imgur.com/DrsAnEe.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: First in Battle
+aetherPower: attack_up
+lb1:
+  power: 493
+  attack: 583
+  defense: 415
+  health: 776
+lb2:
+  power: 594
+  attack: 720
+  defense: 513
+  health: 958
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -32,6 +46,20 @@ costume:
   - Hit 1
   - DoT 1
   image: https://i.imgur.com/DZd6oKm.jpg
+  dtReleased: "2021-01-18"
+  dtModified: ""
+  fancy_name: Last to Retreat
+  aetherPower: special_boost
+  lb1:
+    power: 527
+    attack: 655
+    defense: 427
+    health: 810
+  lb2:
+    power: 636
+    attack: 809
+    defense: 528
+    health: 1001
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -52,6 +80,20 @@ costume2:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/SWdSWFa.jpg
+  dtReleased: "2024-05-31"
+  dtModified: ""
+  fancy_name: First Toon in Battle
+  aetherPower: attack_up
+  lb1:
+    power: 564
+    attack: 706
+    defense: 459
+    health: 884
+  lb2:
+    power: 682
+    attack: 873
+    defense: 568
+    health: 1092
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -72,4 +114,18 @@ costume3:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/EL6besJ.jpg
+  dtReleased: "2025-08-10"
+  dtModified: ""
+  fancy_name: Last to Shatter
+  aetherPower: attack_up
+  lb1:
+    power: 578
+    attack: 734
+    defense: 467
+    health: 901
+  lb2:
+    power: 699
+    attack: 907
+    defense: 577
+    health: 1113
 ...
