@@ -1,5 +1,5 @@
 ---
-name: Ascension Mimic Green
+name: Ascension Mimic Ice
 source: secretsummon
 family: mimic
 speed: Average
@@ -26,18 +26,18 @@ passives:
 - ' ****'
 - ' - Damascus Blade'
 - ' - Tome Of Tactics'
-- ' - Mysterious Tonic'
+- ' - Farsight Telescope'
 - ' ***'
 - ' - Fine Gloves'
 - ' - Compass'
-- ' - Sturdy Shield'
+- ' - Warm Cape'
+- ' - Battle Manual'
 - ' - Tall Boots'
-- ' - Scabbard'
+- ' - Chainmail Shirt'
 - ' **'
 - ' - Strong Rope'
-- ' - Dagger'
-image: https://imgur.com/EoVWZyy.jpg
-dtReleased: "2025-08-05"
+image: https://imgur.com/Spg5FLa.jpg
+dtReleased: "2025-07-26"
 dtModified: ""
 fancy_name: Grinning Cache of Evil
 aetherPower: bulwark
