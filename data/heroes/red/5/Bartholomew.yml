@@ -4,7 +4,7 @@ source: harvest
 family: vegetable
 speed: Average
 class: Barbarian
-power: 1234
+power: 1277
 attack: 1336
 defense: 1306
 health: 2278
@@ -39,7 +39,7 @@ passives:
 - ' 3) Blossom Mega Fiend: 250% attack, 60% health'
 image: https://imgur.com/jASZVDz.jpg
 dtReleased: "2025-09-02"
-dtModified: ""
+dtModified: "2026-04-02"
 fancy_name: Bell Pepper Barbarian
 aetherPower: rage
 lb1:
