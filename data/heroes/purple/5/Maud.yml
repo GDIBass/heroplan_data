@@ -17,16 +17,16 @@ effects:
 - After the Enhanced Dodge ends or is removed or replaced, the caster gains 10% mana.
 types:
 - Hit All
-- Enhanced Dodge
+- Enhanced Dodge Self
 passives:
 - 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
   have -50% accuracy.'
 - 'Resist Insanity: This character is immune to Insanity.'
-- 'Resist Attack Reduction: This character has innate resistance against status ailments,
-  stacks and Wither effects that affect attack.'
+- 'Resist Attack Reduction: This character is immune to status ailments, stacks and
+  Wither effects that affect attack.'
 image: https://imgur.com/eOKRXit.jpg
 dtReleased: "2025-03-26"
-dtModified: "2026-03-22"
+dtModified: "2026-04-02"
 fancy_name: Ambitious Faun Alchemist
 aetherPower: special_boost
 lb1:

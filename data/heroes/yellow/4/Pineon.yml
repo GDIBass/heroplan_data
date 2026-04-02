@@ -23,7 +23,7 @@ effects:
 types:
 - Hit 1
 - Harvest Buffs 1
-- Self Mana Gen Buff Stack
+- Mana Gen Buff Stack Self
 passives:
 - 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
   that prevent the use of Special Skills. They also gain 450 boosted health and 5%
@@ -37,7 +37,7 @@ passives:
 - ' 3) Blossom Mega Fiend: 200% attack, 45% health'
 image: https://imgur.com/NVsztPf.jpg
 dtReleased: "2026-02-04"
-dtModified: ""
+dtModified: "2026-04-02"
 fancy_name: Pineapple Prodigy
 aetherPower: special_boost
 lb1:

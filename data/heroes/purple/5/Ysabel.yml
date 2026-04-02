@@ -18,17 +18,17 @@ effects:
   on the enemy.
 types:
 - Hit 3
-- Enhanced Defense Ailment
-- Delayed Dispeller
+- Enhanced Defense Ailment 3
+- Delayed Dispeller 3
 passives:
 - 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
   have -50% accuracy.'
 - 'Resist Insanity: This character is immune to Insanity.'
-- 'Resist Attack Reduction: This character has innate resistance against status ailments,
-  stacks and Wither effects that affect attack.'
+- 'Resist Attack Reduction: This character is immune to status ailments, stacks and
+  Wither effects that affect attack.'
 image: https://i.imgur.com/jhCBaUo.jpg
 dtReleased: "2024-11-05"
-dtModified: "2026-03-22"
+dtModified: "2026-04-02"
 fancy_name: Dauntless Faun Gladiator
 aetherPower: rage
 lb1:

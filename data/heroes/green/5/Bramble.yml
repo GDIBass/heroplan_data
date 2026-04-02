@@ -18,16 +18,18 @@ effects:
   such as passive skills and family effects can still activate.)
 types:
 - Heal All
-- Safely Cleanses
+- Delayed Mana Boost All
+- Safely Cleanser All
 passives:
 - 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
   have -50% accuracy.'
-- 'Resist Defense Reduction: This character has innate resistance against status ailments,
-  stacks and Wither effects that affect defense.'
+- 'Resist Defense Reduction: This character is immune to status ailments, stacks and
+  Wither effects that affect defense.'
+- resist insa
 - 'Resist Insanity: This character is immune to Insanity.'
 image: https://i.imgur.com/BA1yyNs.jpg
 dtReleased: "2025-01-22"
-dtModified: "2026-03-22"
+dtModified: "2026-04-02"
 fancy_name: Gentle Faun Gardener
 aetherPower: regen
 lb1:

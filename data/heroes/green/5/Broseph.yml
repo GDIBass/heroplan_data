@@ -22,7 +22,8 @@ effects:
 types:
 - Healer 3
 - Uproots Cleanse 3
-- Growth All
+- Attack Growth All
+- Defense Growth All
 passives:
 - 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
   that prevent the use of Special Skills. They also gain 450 boosted health and 5%
@@ -36,7 +37,7 @@ passives:
 - ' 3) Blossom Mega Fiend: 250% attack, 60% health'
 image: https://imgur.com/xolMwFa.jpg
 dtReleased: "2026-02-04"
-dtModified: ""
+dtModified: "2026-04-02"
 fancy_name: Broccoli Shaman
 aetherPower: ailment_immunity
 lb1:
