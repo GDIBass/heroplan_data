@@ -17,17 +17,17 @@ effects:
   for 5 turns.
 types:
 - Hit 3
-- Enhanced Dodge 3
+- Enhanced Dodge Buff 3
 - Delayed Attack Buff 3
 passives:
 - 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
   have -50% accuracy.'
 - 'Resist Insanity: This character is immune to Insanity.'
-- 'Resist Attack Reduction: This character has innate resistance against status ailments,
-  stacks and Wither effects that affect attack.'
+- 'Resist Attack Reduction: This character is immune to status ailments, stacks and
+  Wither effects that affect attack.'
 image: https://i.imgur.com/1bOrH83.jpg
 dtReleased: "2024-08-31"
-dtModified: "2026-03-22"
+dtModified: "2026-04-02"
 fancy_name: Reckless Faun Scout
 aetherPower: attack_up
 lb1:

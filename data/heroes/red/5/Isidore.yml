@@ -25,11 +25,11 @@ passives:
 - 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
   have -50% accuracy.'
 - 'Resist Insanity: This character is immune to Insanity.'
-- 'Resist Attack Ailments: This character is immune to status ailments that affect
-  attack.'
+- 'Resist Attack Reduction: This character is immune to status ailments, stacks and
+  Wither effects that affect attack.'
 image: https://i.imgur.com/sj8AKxx.jpg
 dtReleased: "2024-12-31"
-dtModified: ""
+dtModified: "2026-04-02"
 fancy_name: Charismatic Faun Champion
 aetherPower: defense_up
 lb1:

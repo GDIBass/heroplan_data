@@ -2,7 +2,7 @@
 name: Ferni
 source: wilderness
 family: wildcat
-speed: Fast
+speed: Average
 class: Rogue
 power: 524
 attack: 575
@@ -33,7 +33,7 @@ passives:
 - ' * - Growth and Wither effects.'
 image: https://imgur.com/V2ZgFUZ.jpg
 dtReleased: "2025-10-20"
-dtModified: ""
+dtModified: "2026-04-02"
 fancy_name: Adventurous Rainforest Cat
 aetherPower: special_boost
 lb1:

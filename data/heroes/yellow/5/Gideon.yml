@@ -27,10 +27,10 @@ passives:
   Wither effects that affect defense.'
 - 'Resist Insanity: This character is immune to Insanity.'
 - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
-  a status ailment or a negative stacks.'
+  a status ailment or a negative stack.'
 image: https://i.imgur.com/5Tx3rNq.jpg
 dtReleased: "2024-12-07"
-dtModified: "2026-03-20"
+dtModified: "2026-04-02"
 fancy_name: Courageous Faun Commander
 aetherPower: boosted_regen
 lb1:

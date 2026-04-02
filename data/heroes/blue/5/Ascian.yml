@@ -19,18 +19,18 @@ effects:
   the duration ends.
 types:
 - Hit All
-- Enhanced Defense Ailment
+- Enhanced Defense Ailment All
 - Mana Reduction All
-- Delayed Mana Boost
+- Delayed Mana Boost All
 passives:
 - 'Minion Blind: All enemies'' Minions have -60% accuracy. All enemies'' Mega Minions
   have -50% accuracy.'
 - 'Resist Insanity: This character is immune to Insanity.'
-- 'Resist Attack Reduction: This character has innate resistance against status ailments,
-  stacks and Wither effects that affect attack.'
+- 'Resist Attack Reduction: This character is immune to status ailments, stacks and
+  Wither effects that affect attack.'
 image: https://i.imgur.com/t1rtMC8.jpg
 dtReleased: "2025-02-21"
-dtModified: "2026-03-22"
+dtModified: "2026-04-02"
 fancy_name: All-Seeing Faun Augur
 aetherPower: ailment_immunity
 lb1:
