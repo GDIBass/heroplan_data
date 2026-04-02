@@ -1,0 +1,56 @@
+---
+name: Auberguy
+source: valiant
+family: vegetable
+speed: Very Slow
+class: Wizard
+power: 1294
+attack: 1334
+defense: 1351
+health: 2317
+skill: Bitter Wilting
+effects:
+- Deals 500% damage to all enemies.
+- Reduces max health for all enemies by 700. The effect is stronger against targets
+  with boosted health. (Max health can't get lower than 30% of the original max health.
+  Any boosted health is reduced by an additional 700.)
+- Harvests buffs from all enemies. (Harvest safely removes 2 buffs, positive Stacks
+  or Growth effects from each target. This includes uncleansable buffs and dance effects.
+  The caster receives 7% boosted health for each effect removed. Boosted health can
+  exceed max HP. Safe removal bypasses secondary effects, such as damage on removal,
+  from the removed status effect buffs. External effects such as passive skills and
+  family effects can still activate. Growth effects are removed first. Other effects,
+  the latest is removed first.)
+- 'Wither: All enemies get -400 defense.'
+types:
+- Hit All
+- Max Health Reduction All
+- Harvest Buffs All
+- Boost Health Self
+- Defense Debuff Wither All
+passives:
+- 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
+  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
+  mana each time they resist.'
+- 'Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.'
+- '* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.'
+- '* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.'
+- '* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.'
+- '1) Seedling Fiend: 50% attack, 20% health'
+- '2) Sprout Fiend: 75% attack, 30% health'
+- '3) Blossom Mega Fiend: 250% attack, 60% health.'
+image: https://imgur.com/STxIDPc.jpg
+dtReleased: "2026-04-02"
+dtModified: ""
+aetherPower: special_armor
+lb1:
+  power: 1400
+  attack: 1438
+  defense: 1456
+  health: 2497
+lb2:
+  power: 1600
+  attack: 1645
+  defense: 1666
+  health: 2857
+...
