@@ -20,7 +20,7 @@ effects:
 - ' * All allies are immune to new status ailments for 3 turns.'
 types:
 - Heal All
-- Status Ailments Immunity All
+- Status Ailment Immunity Buff All
 - Status Ailments Reset All
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
@@ -29,7 +29,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/aKuc2pB.jpg
 dtReleased: "2023-06-07"
-dtModified: "2026-03-22"
+dtModified: "2026-04-03"
 fancy_name: Primordial Goddess of the Oceans
 aetherPower: heal_increase
 lb1:
@@ -44,7 +44,7 @@ lb2:
   health: 2065
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/28/5
   class: Sorcerer
   power: 1184
   attack: 1201
@@ -61,9 +61,9 @@ costume:
   - ' * The duration of status ailments is reset for all enemies.'
   - ' * All allies are immune to new status ailments for 4 turns.'
   types:
-  - Heal all
-  - Status Ailment Reset
-  - Status Ailment Immunity
+  - Heal All
+  - Status Ailment Immunity Buff All
+  - Status Ailment Reset All
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
     character casts their Special Skill'
@@ -72,7 +72,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/EE7MEpv.jpg
   dtReleased: "2024-08-24"
-  dtModified: "2026-03-22"
+  dtModified: "2026-04-03"
   fancy_name: Primordial Goddess of the Crystals
   aetherPower: regen
   lb1:

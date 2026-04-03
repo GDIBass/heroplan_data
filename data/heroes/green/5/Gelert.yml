@@ -32,7 +32,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/WjoVn5I.jpg
 dtReleased: "2023-08-30"
-dtModified: "2026-03-22"
+dtModified: "2026-04-03"
 fancy_name: Treasure Hunter of the Deep
 aetherPower: attack_up
 lb1:
@@ -47,7 +47,7 @@ lb2:
   health: 2197
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/28/5
   class: Fighter
   power: 1214
   attack: 1331
@@ -80,7 +80,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/A9Yjffb.jpg
   dtReleased: "2025-06-26"
-  dtModified: "2026-03-22"
+  dtModified: "2026-04-03"
   fancy_name: Scavenger of the Deep
   aetherPower: dodge
   lb1:

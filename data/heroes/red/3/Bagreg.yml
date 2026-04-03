@@ -19,7 +19,7 @@ effects:
 - ' * The target and nearby enemies get -54% defense against Fire for 3 turns.'
 types:
 - Hit 3
-- Elemental Defense Debuff
+- Elemental Defense Debuff 3
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
   character casts their Special Skill'
@@ -27,7 +27,7 @@ passives:
 - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/rzvavLk.jpg
 dtReleased: "2023-06-07"
-dtModified: "2026-03-22"
+dtModified: "2026-04-03"
 fancy_name: Fishman Skirmish Leader
 aetherPower: dodge
 lb1:
@@ -42,7 +42,7 @@ lb2:
   health: 1092
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 2/2/4/1
   class: Rogue
   power: 498
   attack: 512
@@ -59,7 +59,7 @@ costume:
   - ' * The target and nearby enemies get -55% defense against Fire for 3 turns.'
   types:
   - Hit 3
-  - Elemental Defense Debuff
+  - Elemental Defense Debuff 3
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
     character casts their Special Skill'
@@ -68,7 +68,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/ZuRts32.jpg
   dtReleased: "2025-04-29"
-  dtModified: "2026-03-22"
+  dtModified: "2026-04-03"
   fancy_name: Fishboy Scout
   aetherPower: damage_reduction
   lb1:

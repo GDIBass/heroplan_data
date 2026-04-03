@@ -39,7 +39,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/bpyUqBe.jpg
 dtReleased: "2023-06-07"
-dtModified: "2026-03-22"
+dtModified: "2026-04-03"
 fancy_name: Flamboyant Hussar of Atlantis
 aetherPower: counterattack
 lb1:
@@ -54,7 +54,7 @@ lb2:
   health: 1976
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/28/5
   class: Rogue
   power: 1163
   attack: 1246
@@ -92,7 +92,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/SU2agg6.jpg
   dtReleased: "2024-09-21"
-  dtModified: "2026-03-22"
+  dtModified: "2026-04-03"
   fancy_name: Flamboyant Jockey of Atlantis
   aetherPower: damage_reduction
   lb1:

@@ -17,7 +17,7 @@ types:
 - Healing Buff
 image: https://i.imgur.com/nJsozVv.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-03"
 fancy_name: Captain of Atlantis
 aetherPower: regen
 lb1:
@@ -32,7 +32,7 @@ lb2:
   health: 1322
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/5
   class: Barbarian
   power: 673
   attack: 689
@@ -47,7 +47,7 @@ costume:
   - Attack Buff All
   image: https://i.imgur.com/Gjfgtlh.jpg
   dtReleased: "2023-04-03"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-03"
   fancy_name: Champion of Atlantis
   aetherPower: counterattack
   lb1:

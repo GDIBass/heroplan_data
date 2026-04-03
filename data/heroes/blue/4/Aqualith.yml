@@ -25,7 +25,7 @@ effects:
   50% of max health in damage.'
 types:
 - Taunt
-- Hit all
+- Delayed Damage All
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
   character casts their Special Skill'
@@ -33,7 +33,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/3R1f8Vh.jpg
 dtReleased: "2023-09-27"
-dtModified: "2026-03-22"
+dtModified: "2026-04-03"
 fancy_name: Elemental Hoplite
 aetherPower: damage_reduction
 lb1:
@@ -48,7 +48,7 @@ lb2:
   health: 1574
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 2/2/4/1
   class: Barbarian
   power: 704
   attack: 676
@@ -71,7 +71,7 @@ costume:
     taking 50% of max health in damage.'
   types:
   - Taunt
-  - Hit all
+  - Delayed Damage All
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
     character casts their Special Skill'
@@ -80,7 +80,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/Dkny5By.jpg
   dtReleased: "2025-05-28"
-  dtModified: "2026-03-22"
+  dtModified: "2026-04-03"
   fancy_name: Elemental Colossus
   aetherPower: dodge
   lb1:

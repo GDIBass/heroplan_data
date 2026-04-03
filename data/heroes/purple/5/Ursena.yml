@@ -22,7 +22,7 @@ types:
 - Elemental Counterattack All
 image: https://i.imgur.com/OQ8iQcf.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-03"
 fancy_name: Empress of the Depths
 aetherPower: bulwark
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1582
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Druid
   power: 946
   attack: 936
@@ -55,10 +55,10 @@ costume:
   - Hit All
   - Elemental Reflect All
   - Elemental Counterattack All
-  - Elemental Defense Debuff All dark
+  - Elemental Defense Debuff All holy
   image: https://i.imgur.com/HefSfvM.jpg
   dtReleased: "2021-11-15"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-03"
   fancy_name: Deadly Reef Queen
   aetherPower: rage
   lb1:

@@ -27,7 +27,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/ne5YJve.jpg
 dtReleased: "2023-07-05"
-dtModified: "2026-03-20"
+dtModified: "2026-04-03"
 fancy_name: Dodgy Merchant of the Deep
 aetherPower: defense_up
 lb1:
@@ -42,7 +42,7 @@ lb2:
   health: 1109
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 2/2/4/1
   class: Wizard
   power: 497
   attack: 449
@@ -68,7 +68,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/frMuxcb.jpg
   dtReleased: "2025-02-03"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-03"
   fancy_name: Dodgy Alchemist of the Deep
   aetherPower: special_armor
   lb1:

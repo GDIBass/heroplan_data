@@ -19,7 +19,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/WWzsu8l.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-04-03"
 fancy_name: Princess of Atlantis
 aetherPower: defense_up
 lb1:
@@ -34,7 +34,7 @@ lb2:
   health: 1554
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Sorcerer
   power: 942
   attack: 928
@@ -46,12 +46,12 @@ costume:
   - All allies regenerate a moderate amount of mana over 4 turns.
   - Cleanses status ailments from all allies.
   types:
-  - Boosted Health All
+  - Boost Health All
   - MoT All
   - Cleanser All
   image: https://i.imgur.com/gRSAJUL.jpg
   dtReleased: "2021-11-15"
-  dtModified: ""
+  dtModified: "2026-04-03"
   fancy_name: Enchanter of Atlantis
   aetherPower: attack_up
   lb1:

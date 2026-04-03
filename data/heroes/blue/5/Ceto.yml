@@ -27,7 +27,7 @@ effects:
   the dealt Water damage as health.'
 types:
 - Hit All
-- Debuffs on SS use
+- Debuffs on SS use All
 - DoT All
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
@@ -36,7 +36,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/eqqisr9.jpg
 dtReleased: "2023-07-05"
-dtModified: "2026-03-22"
+dtModified: "2026-04-03"
 fancy_name: Primordial Goddess of Sea Monsters
 aetherPower: attack_up
 lb1:
@@ -51,7 +51,7 @@ lb2:
   health: 2014
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/28/5
   class: Fighter
   power: 1164
   attack: 1281
@@ -76,6 +76,7 @@ costume:
     of the dealt Water damage as health.'
   types:
   - Hit All
+  - Debuffs on SS use All
   - DoT All
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
@@ -85,7 +86,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/wMfcpZk.jpg
   dtReleased: "2025-03-03"
-  dtModified: "2026-03-22"
+  dtModified: "2026-04-03"
   fancy_name: Primordial Queen of Sea Monsters
   aetherPower: special_boost
   lb1:
