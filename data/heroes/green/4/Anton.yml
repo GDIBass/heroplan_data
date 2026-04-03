@@ -18,7 +18,7 @@ effects:
 - ' * Each fallen ally has a 44% chance to get revived with 40% HP.'
 - ' * All allies regenerate 405 HP over 5 turns'
 types:
-- Hit all
+- Hit All
 - Poison
 - Reviver
 - HoT All

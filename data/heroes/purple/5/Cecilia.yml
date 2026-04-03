@@ -14,7 +14,7 @@ effects:
 - All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge boosts
   health by 250. Boosted health can exceed max HP.
 types:
-- Hit all
+- Hit All
 - Dodge to All
 passives:
 - 'Health Recovery on Buff Received: This character recovers 5% health when they receive

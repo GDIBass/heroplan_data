@@ -14,7 +14,7 @@ effects:
 - All enemies receive 216 Bleed damage over 4 turns.
 - All enemies get -34% defense for 4 turns.
 types:
-- Hit all
+- Hit All
 - Dot all
 - Defense Debuff
 passives:

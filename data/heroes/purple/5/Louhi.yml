@@ -52,7 +52,7 @@ costume:
     effect becomes uncleansable and lasts 2 turns longer.
   types:
   - Dispeler all
-  - Hit all
+  - Hit All
   - Defense Debuff All
   passives:
   - 'Power of Sisu: When this character starts a turn with low health for the first

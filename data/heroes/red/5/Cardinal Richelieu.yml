@@ -18,7 +18,7 @@ effects:
 - At the end of each turn, the Spy Fiend steals one of its target's dispellable buffs
   and gives it to one character on the opposite team.
 types:
-- Hit all
+- Hit All
 - Fiend Summoner All
 - Buff Stealing Fiend
 passives:

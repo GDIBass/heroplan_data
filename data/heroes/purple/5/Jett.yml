@@ -23,7 +23,7 @@ types:
 - Charge
 - Hit 1
 - DoT 1
-- Hit all
+- Hit All
 - DoT All
 passives:
 - 'Health Recovery on Special: When this character casts their Special Skill, they
@@ -70,7 +70,7 @@ costume:
   - Charge
   - Hit 1
   - DoT 1
-  - Hit all
+  - Hit All
   - Dot All
   passives:
   - 'Health Recovery on Special: When this character casts their Special Skill, they

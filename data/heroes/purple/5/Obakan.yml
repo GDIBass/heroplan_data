@@ -44,7 +44,7 @@ costume:
   - The caster and nearby allies counterattack with 85% of the damage receied for
     4 turns.
   types:
-  - Hit all
+  - Hit All
   - Counterattack 3
   image: https://i.imgur.com/SB2N0Vj.jpg
   dtReleased: "2021-01-18"

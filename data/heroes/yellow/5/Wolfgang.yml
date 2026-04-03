@@ -15,7 +15,7 @@ effects:
 - All allies regenerate 720 boosted health over 4 turns. Boosted health can exceed
   max HP.
 types:
-- Hit all
+- Hit All
 - Damage Reduction Self
 - Boosted HoT All
 image: https://i.imgur.com/8Qu4qUF.jpg

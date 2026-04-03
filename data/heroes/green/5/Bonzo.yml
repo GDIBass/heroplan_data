@@ -16,7 +16,7 @@ effects:
 - The attack bypasses defensive buffs. (This includes counterattacks)
 types:
 - Reposition
-- Hit all
+- Hit All
 - Bypass Minions
 - Bypass defensive buffs
 passives:

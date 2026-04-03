@@ -43,7 +43,7 @@ costume:
   - Deals 115% damage to all enemies.
   - All enemies receive 156 Burn damage over 4 turns.
   types:
-  - Hit all
+  - Hit All
   - DoT All
   image: https://i.imgur.com/IPO19rX.jpg
   dtReleased: "2021-01-18"

@@ -16,7 +16,7 @@ effects:
 - All enemies get -35% defense for 3 turns. If the effect is removed before the duration
   ends, the target with effect suffers 577 damage.
 types:
-- Hit all
+- Hit All
 - Defense debuff
 passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'

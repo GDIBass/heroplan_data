@@ -57,7 +57,7 @@ costume:
   - When summoned, the Spider Fiend gives -28% mana generation for its owner for as
     long as the owner has Spider Fiends. This effect can't be cleansed.
   types:
-  - Hit all
+  - Hit All
   - Fiend Summoner All
   - Mana Generation Debuff Fiend
   passives:

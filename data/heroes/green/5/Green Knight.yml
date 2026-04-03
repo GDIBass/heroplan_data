@@ -17,7 +17,7 @@ effects:
   effects and stacks are removed when the caster dies.
 types:
 - Defense debuff
-- Hit all
+- Hit All
 - Self Resurrection
 - Damage All on resurrection
 image: https://i.imgur.com/4LKxVef.jpg
