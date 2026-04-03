@@ -18,13 +18,11 @@ effects:
 types:
 - Hit All
 - Buff Immunity Debuff All
-- Damage on each attempted buff
+- Damage on each attempted buff All
 - Blind Self
-passives:
-- ""
 image: https://i.imgur.com/LIKBIhe.jpg
 dtReleased: "2023-03-27"
-dtModified: "2026-03-31"
+dtModified: "2026-04-03"
 fancy_name: Traveling Llama Troubadour
 aetherPower: attack_up
 lb1:
@@ -39,7 +37,7 @@ lb2:
   health: 1798
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 35/35/35/5
   class: Druid
   power: 1124
   attack: 1175
@@ -54,7 +52,7 @@ costume:
     to miss also applies to offensive Special Skills.
   types:
   - Hit All
-  - Buff Immunity Debuff
+  - Buff Immunity Debuff All
   - Damage on each attempted buff
   - Blind Self
   passives:
@@ -62,7 +60,7 @@ costume:
     get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/NhdULEq.jpg
   dtReleased: "2024-03-18"
-  dtModified: "2026-03-31"
+  dtModified: "2026-04-03"
   fancy_name: Gallant Llama Troubadour
   aetherPower: special_boost
   lb1:

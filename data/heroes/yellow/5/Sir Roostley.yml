@@ -19,7 +19,7 @@ types:
 - Defense Debuff Self
 image: https://i.imgur.com/YbdZndT.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-04-03"
 fancy_name: Mighty Knight of Springvale
 aetherPower: special_boost
 lb1:
@@ -34,7 +34,7 @@ lb2:
   health: 1661
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 75/75/76/5
   class: Cleric
   power: 1290
   attack: 1368
@@ -55,7 +55,7 @@ costume:
     get  Stack (Max: 10): -5% defense.'
   image: https://imgur.com/hVpuzbz.jpg
   dtReleased: "2026-03-30"
-  dtModified: ""
+  dtModified: "2026-04-03"
   fancy_name: Mighty Alchemist of Springvale
   aetherPower: attack_up
   lb1:
