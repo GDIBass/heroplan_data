@@ -15,7 +15,7 @@ effects:
 - All enemies get -44% defense for 4 turns.
 types:
 - Hit All
-- Defense Debuff
+- Defense Debuff All
 passives:
 - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
@@ -52,9 +52,9 @@ costume:
   - 'Stack (Max: 10): All enemies get -4% mana generation per each killed enemy or
     enemy Minion.'
   types:
-  - Hit all
-  - DoT Stack
-  - Mana Generation Debuff Stack
+  - Hit All
+  - DoT Stack All
+  - Mana Generation Debuff Stack All
   passives:
   - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
     to steal the newest dispellable buff from a random enemy that has buffs. If no

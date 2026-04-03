@@ -17,7 +17,7 @@ types:
 - Critical Chance Buff All
 image: https://i.imgur.com/4LFidrS.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-03"
 fancy_name: Mermaid of Atlantis
 aetherPower: attack_up
 lb1:
@@ -32,7 +32,7 @@ lb2:
   health: 958
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/5
   class: Fighter
   power: 464
   attack: 534
@@ -48,7 +48,7 @@ costume:
   - Blind All
   image: https://i.imgur.com/M7NWE48.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-03"
   fancy_name: Emissary of Atlantis
   aetherPower: special_boost
   lb1:

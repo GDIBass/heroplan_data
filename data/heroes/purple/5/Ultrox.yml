@@ -34,7 +34,7 @@ passives:
 - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/7xKKQnM.jpg
 dtReleased: "2023-08-02"
-dtModified: "2026-03-22"
+dtModified: "2026-04-03"
 fancy_name: Temple Keeper of the Deep
 aetherPower: damage_reduction
 lb1:
@@ -49,7 +49,7 @@ lb2:
   health: 2057
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/28/5
   class: Wizard
   power: 1184
   attack: 1286
@@ -73,7 +73,7 @@ costume:
   types:
   - Hit All
   - Counterattack 3
-  - Damage reduction 3
+  - Damage Reduction Buff 3
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
     character casts their Special Skill'
@@ -82,7 +82,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/p30NrpJ.jpg
   dtReleased: "2025-05-28"
-  dtModified: "2026-03-22"
+  dtModified: "2026-04-03"
   fancy_name: Siphoner of the Deep
   aetherPower: attack_up
   lb1:

@@ -21,7 +21,7 @@ types:
 - Defense Buff All
 image: https://i.imgur.com/BZVWKzM.jpg
 dtReleased: "2022-06-27"
-dtModified: ""
+dtModified: "2026-04-03"
 fancy_name: Titan of Sea
 aetherPower: attack_up
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1724
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Barbarian
   power: 1024
   attack: 1117
@@ -55,7 +55,7 @@ costume:
   - Defense Buff All
   image: https://imgur.com/0rCfFEu.jpg
   dtReleased: "2025-10-25"
-  dtModified: ""
+  dtModified: "2026-04-03"
   fancy_name: Titan of Magma
   aetherPower: rage
   lb1:

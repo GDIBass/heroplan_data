@@ -17,7 +17,7 @@ types:
 - Defense Debuff Self
 image: https://i.imgur.com/Ti2FM1v.jpg
 dtReleased: ""
-dtModified: "2026-03-31"
+dtModified: "2026-04-03"
 fancy_name: Guardian of Springvale
 aetherPower: attack_up
 lb1:
@@ -32,7 +32,7 @@ lb2:
   health: 1473
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 35/35/35/5
   class: Barbarian
   power: 986
   attack: 1044
@@ -50,7 +50,7 @@ costume:
     get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/aLTsGWG.jpg
   dtReleased: "2022-03-21"
-  dtModified: "2026-03-31"
+  dtModified: "2026-04-03"
   fancy_name: Rift Breaker
   aetherPower: special_boost
   lb1:

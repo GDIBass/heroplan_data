@@ -20,7 +20,7 @@ types:
 - SS Block Immunity All
 image: https://i.imgur.com/4yAjxl7.jpg
 dtReleased: ""
-dtModified: "2026-03-28"
+dtModified: "2026-04-03"
 fancy_name: Ruler of Atlantis
 aetherPower: attack_up
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1663
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Ranger
   power: 947
   attack: 918
@@ -50,7 +50,7 @@ costume:
   - Status Ailments Immunity All
   image: https://i.imgur.com/jU6Z8JO.jpg
   dtReleased: "2021-11-15"
-  dtModified: "2026-03-28"
+  dtModified: "2026-04-03"
   fancy_name: Slayer of Atlantis
   aetherPower: special_boost
   lb1:

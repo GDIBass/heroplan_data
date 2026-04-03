@@ -17,7 +17,7 @@ types:
 - Defense Debuff Self
 image: https://i.imgur.com/KJoqPtw.jpg
 dtReleased: ""
-dtModified: "2026-03-31"
+dtModified: "2026-04-03"
 fancy_name: Champion of Springvale
 aetherPower: attack_up
 lb1:
@@ -32,7 +32,7 @@ lb2:
   health: 1210
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 24/24/24/5
   class: Paladin
   power: 783
   attack: 853
@@ -45,7 +45,7 @@ costume:
   - All allies except the caster get -20% attack for 3 turns. This effect can't be
     dispelled.
   types:
-  - Hit All
+  - Hit 1
   - Chain hit
   - Attack Debuff All allies except Self
   passives:
@@ -53,7 +53,7 @@ costume:
     get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/mwBA0kR.jpg
   dtReleased: "2022-03-21"
-  dtModified: "2026-03-31"
+  dtModified: "2026-04-03"
   fancy_name: Egg Hunter of Springvale
   aetherPower: special_boost
   lb1:

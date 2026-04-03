@@ -21,8 +21,8 @@ effects:
   dealt Posion damage as health.'
 types:
 - Hit 3
-- Mana Reduction
-- DoT all
+- Mana Reduction 3
+- DoT All
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
   character casts their Special Skill'
@@ -30,7 +30,7 @@ passives:
 - ' * All allies get +19% mana generation for 2 turns.'
 image: https://i.imgur.com/b7HL0wq.jpg
 dtReleased: "2023-06-07"
-dtModified: "2026-03-22"
+dtModified: "2026-04-03"
 fancy_name: Fishman Marauder
 aetherPower: attack_up
 lb1:
@@ -45,7 +45,7 @@ lb2:
   health: 1547
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 2/2/4/1
   class: Monk
   power: 704
   attack: 667
@@ -64,8 +64,8 @@ costume:
     of dealt Posion damage as health.'
   types:
   - Hit 3
-  - Mana Reduction
-  - DoT all
+  - Mana Reduction 3
+  - DoT All
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
     character casts their Special Skill'
@@ -74,7 +74,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/X5IVjtR.jpg
   dtReleased: "2025-03-31"
-  dtModified: "2026-03-22"
+  dtModified: "2026-04-03"
   fancy_name: Fishman Bard
   aetherPower: defense_up
   lb1:

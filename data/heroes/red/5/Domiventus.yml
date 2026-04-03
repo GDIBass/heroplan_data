@@ -32,7 +32,7 @@ passives:
 - ' * The caster get +19% mana generation for 2 turns.'
 image: https://i.imgur.com/kgTv3pm.jpg
 dtReleased: "2023-12-13"
-dtModified: "2026-03-22"
+dtModified: "2026-04-03"
 fancy_name: The Eternal Hadal Being
 aetherPower: attack_up
 lb1:
@@ -47,7 +47,7 @@ lb2:
   health: 2225
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/28/5
   class: Sorcerer
   power: 1245
   attack: 1231
@@ -78,7 +78,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/Bwbja0V.jpg
   dtReleased: "2024-12-14"
-  dtModified: "2026-03-22"
+  dtModified: "2026-04-03"
   fancy_name: The Supreme Hadal Being
   aetherPower: special_boost
   lb1:

@@ -24,7 +24,7 @@ types:
 - Minion Destroyer All
 - Hit All
 - Defense Buff All
-- Heal Stack on minion destroyed
+- Heal Stack Self on minion destroyed
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
   character casts their Special Skill'
@@ -32,7 +32,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/pxAZGoS.jpg
 dtReleased: "2023-06-07"
-dtModified: "2026-03-22"
+dtModified: "2026-04-03"
 fancy_name: Wise Sage of the Oceans
 aetherPower: defense_up
 lb1:
@@ -47,7 +47,7 @@ lb2:
   health: 2288
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/28/5
   class: Paladin
   power: 1161
   attack: 1059
@@ -66,9 +66,10 @@ costume:
   - ' * Stack (Max 10): The caster recovers 30 HP each turn for each destroyed Minion.'
   - ' * All allies get +55% defense for 3 turns.'
   types:
-  - Destroy Minions
-  - Hit all
-  - Defense Buffer
+  - Destroy Minions All
+  - Hit All
+  - Defense Buff All
+  - Heal Stack Self on minion destroyed
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
     character casts their Special Skill'
@@ -77,7 +78,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/hvltSu6.jpg
   dtReleased: "2024-07-27"
-  dtModified: "2026-03-22"
+  dtModified: "2026-04-03"
   fancy_name: Wise Roller of the Quarry
   aetherPower: special_armor
   lb1:
