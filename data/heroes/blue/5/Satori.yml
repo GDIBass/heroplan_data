@@ -17,7 +17,7 @@ effects:
 - The caster and nearby allies have 55% chance to drop any received damage to 1 for
   4 turns. If this effect is dispelled, it dispels buffs from all enemies.
 types:
-- Hit all
+- Hit All
 - Drop to 1 Damage 3
 - Dispeller all on dispelled effect
 passives:

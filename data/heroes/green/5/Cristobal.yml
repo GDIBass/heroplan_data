@@ -20,7 +20,7 @@ effects:
 types:
 - Charge
 - Hit 1
-- Hit all
+- Hit All
 passives:
 - 'Status effect on special: When this character casts their Special Skill, they have
   a 50% chance to give -25% mana generation for 3 turns to all their enemies. If the
@@ -60,7 +60,7 @@ costume:
   types:
   - Charge
   - Hit 1
-  - Hit all
+  - Hit All
   passives:
   - 'Status effect on special: When this character casts their Special Skill, they
     have a 60% chance to give -45% mana generation for 3 turns to all their enemies.

@@ -17,7 +17,7 @@ effects:
   Special Skills.
 - All enemies get -24% mana generation for 4 turns.
 types:
-- Hit all
+- Hit All
 - Blind All
 - Mana Gen Debuff All
 image: https://i.imgur.com/3xo1OZT.jpg

@@ -17,7 +17,7 @@ effects:
   reset if the status effect owner is hit with direct damage from a Special Skill.
 - The caster and nearby allies are immune to buff dispels for 3 turns.
 types:
-- Hit all
+- Hit All
 - Attack Debuff All
 - HoT 3
 - Dispel Immunity Buff 3

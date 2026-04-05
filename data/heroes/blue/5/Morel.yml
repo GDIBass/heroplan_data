@@ -47,7 +47,7 @@ costume:
   - All enemies get -34% defense for 3 turns.
   - All allies regenerate 411 HP over 3 turns.
   types:
-  - Hit all
+  - Hit All
   - Defense Debuff All
   - HoT All
   passives:

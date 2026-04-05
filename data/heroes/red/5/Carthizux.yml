@@ -1,0 +1,47 @@
+---
+name: Carthizux
+source: astral
+family: astraldemons
+speed: Fast
+class: Rogue
+power: 1294
+attack: 1382
+defense: 1320
+health: 2261
+skill: Astral Madness Unleashed
+effects:
+- Deals 400% damage to the target.
+- Has a 75% chance for additional hits on random enemies up to 4 times. Additional
+  hits deal minor damage.
+- Hit enemies receive Resonance for 3 turns. Each turn, Resonance deals 255 damage
+  to the afflicted enemies and 127 damage to nearby enemies.
+- The caster steals 20% of generated mana from hit enemies over 3 turns. This effect
+  gets removed if the caster is defeated.
+types:
+- Hit 1
+- Chance to Hit random 4
+- Resonance Damage on hit
+- Steal Mana on hit
+passives:
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  battle.'
+- 'Resist Negative Mana Effects: This character is immune to mana reductions, as well
+  as status ailments and negative stacks that affect mana generation. Applies also
+  to effects and status ailments that block or steal mana.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+image: https://imgur.com/4BpHVXP.jpg
+dtReleased: "2026-04-06"
+dtModified: ""
+aetherPower: rage
+lb1:
+  power: 1400
+  attack: 1489
+  defense: 1423
+  health: 2437
+lb2:
+  power: 1600
+  attack: 1704
+  defense: 1628
+  health: 2788
+...

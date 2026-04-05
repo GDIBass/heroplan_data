@@ -76,7 +76,7 @@ costume2:
   - Deals 185% damage to all enemies.
   - All allies get +33% mana generation for 3 turns.
   types:
-  - Hit all
+  - Hit All
   - Mana Generation Buff All
   image: https://i.imgur.com/pBSZGi6.jpg
   dtReleased: "2023-10-30"

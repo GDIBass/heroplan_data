@@ -1,0 +1,43 @@
+---
+name: Qillix
+source: ancientUnderroot
+speed: Fast
+power: 11208
+attack: 14271
+defense: 13843
+health: 12199
+skill: Acorn Bombardment
+effects:
+- Deals 200% damage to 4 random enemies.
+- The caster gets an additional +40% attack power of the next Special Skill they cast.
+  The additional attack power increases +20% each turn, up to a maximum of +100% in
+  total.
+- The caster get +35% chance to dodge Special Skills that deal damage for 3 turns.
+types:
+- Hit Random 4
+- SS Attack Buff Self
+- Dodge Chance Self
+spiritBonus:
+  spiritClass: Druid
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Shocking Blaze
+  effects:
+  - Deals 410 damage to all enemies.
+  - Recovers 210 health for all allies.
+  - Reduces max health of all enemies by 450. The effect is stronger against targets
+    with boosted health.
+  - All enemies get -20% defense for 5 turns.
+image: https://imgur.com/zxM4hEc.jpg
+...
