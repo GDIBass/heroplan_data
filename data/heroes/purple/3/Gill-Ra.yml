@@ -19,7 +19,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/5yoZu18.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-05"
 fancy_name: Shallows Hunter
 aetherPower: counterattack
 lb1:
@@ -34,7 +34,7 @@ lb2:
   health: 1046
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/5
   class: Rogue
   power: 463
   attack: 478
@@ -51,7 +51,7 @@ costume:
   - Dispeller All
   image: https://i.imgur.com/bezss9U.jpg
   dtReleased: "2023-04-03"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-05"
   fancy_name: Shallows Pursuer
   aetherPower: special_armor
   lb1:

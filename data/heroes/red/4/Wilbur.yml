@@ -23,7 +23,7 @@ types:
 - Defense Debuff All
 image: https://i.imgur.com/EjclF3b.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-05"
 fancy_name: Valiant Fisherman
 aetherPower: regen
 lb1:
@@ -38,7 +38,7 @@ lb2:
   health: 1440
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/5
   class: Cleric
   power: 671
   attack: 656
@@ -55,7 +55,7 @@ costume:
   - HoT All
   image: https://i.imgur.com/BehrpwT.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-05"
   fancy_name: Bold Brewmaster
   aetherPower: defense_up
   lb1:
