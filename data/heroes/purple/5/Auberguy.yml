@@ -45,12 +45,12 @@ dtModified: ""
 fancy_name: Aubergine Wizard
 aetherPower: special_armor
 lb1:
-  power: 1400
+  power: 1385
   attack: 1438
   defense: 1456
   health: 2497
 lb2:
-  power: 1600
+  power: 1567
   attack: 1645
   defense: 1666
   health: 2857

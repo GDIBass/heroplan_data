@@ -30,13 +30,13 @@ dtModified: ""
 fancy_name: Wayfarer of Springvale
 aetherPower: heal_increase
 lb1:
-  power: 1400
-  attack: 1403
-  defense: 1436
-  health: 2497
+  power: 1384
+  attack: 1431
+  defense: 1467
+  health: 2486
 lb2:
-  power: 1600
-  attack: 1605
-  defense: 1643
-  health: 2857
+  power: 1566
+  attack: 1638
+  defense: 1678
+  health: 2844
 ...

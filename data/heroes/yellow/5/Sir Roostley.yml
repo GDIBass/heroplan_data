@@ -59,13 +59,13 @@ costume:
   fancy_name: Mighty Alchemist of Springvale
   aetherPower: attack_up
   lb1:
-    power: 1400
-    attack: 1306
-    defense: 1213
-    health: 2257
+    power: 1382
+    attack: 1476
+    defense: 1371
+    health: 2547
   lb2:
-    power: 1600
-    attack: 1495
-    defense: 1388
-    health: 2583
+    power: 1563
+    attack: 1689
+    defense: 1569
+    health: 2914
 ...

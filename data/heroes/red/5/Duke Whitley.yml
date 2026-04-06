@@ -30,13 +30,13 @@ dtModified: ""
 fancy_name: High Mage of Springvale
 aetherPower: special_boost
 lb1:
-  power: 1400
-  attack: 1454
-  defense: 1389
-  health: 2466
+  power: 1384
+  attack: 1476
+  defense: 1414
+  health: 2479
 lb2:
-  power: 1600
-  attack: 1663
-  defense: 1590
-  health: 2821
+  power: 1566
+  attack: 1689
+  defense: 1617
+  health: 2837
 ...

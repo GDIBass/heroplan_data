@@ -34,5 +34,16 @@ passives:
 image: https://imgur.com/5QYP9u1.jpg
 dtReleased: "2026-03-30"
 dtModified: ""
+fancy_name: Ruthless Frontline Lynx
 aetherPower: special_boost
+lb1:
+  power: 1384
+  attack: 1540
+  defense: 1318
+  health: 2510
+lb2:
+  power: 1566
+  attack: 1762
+  defense: 1508
+  health: 2872
 ...

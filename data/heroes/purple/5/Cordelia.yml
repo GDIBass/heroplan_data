@@ -24,16 +24,17 @@ passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 image: https://imgur.com/HtIXZy1.jpg
-dtReleased: "2026-04-02"
+dtReleased: "2026-04-01"
 dtModified: "2026-04-02"
+fancy_name: Queen of Curses
 aetherPower: damage_reduction
 lb1:
-  power: 1350
+  power: 1275
   attack: 1258
   defense: 1323
   health: 2430
 lb2:
-  power: 1500
+  power: 1441
   attack: 1440
   defense: 1513
   health: 2781

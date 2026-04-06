@@ -54,13 +54,13 @@ costume:
   fancy_name: Junior Kinght of Springvale
   aetherPower: special_boost
   lb1:
-    power: 650
-    attack: 751
-    defense: 516
+    power: 604
+    attack: 770
+    defense: 529
     health: 871
   lb2:
-    power: 750
-    attack: 928
-    defense: 638
-    health: 1076
+    power: 732
+    attack: 952
+    defense: 654
+    health: 1077
 ...
