@@ -56,13 +56,13 @@ costume:
   fancy_name: Coiffeuse of Springvale
   aetherPower: boosted_regen
   lb1:
-    power: 850
+    power: 863
     attack: 838
-    defense: 906
-    health: 1647
+    defense: 907
+    health: 1649
   lb2:
-    power: 900
+    power: 987
     attack: 972
-    defense: 1051
-    health: 1910
+    defense: 1052
+    health: 1912
 ...
