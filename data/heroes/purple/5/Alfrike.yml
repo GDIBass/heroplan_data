@@ -23,7 +23,7 @@ types:
 - Mindless Attack on hit
 image: https://i.imgur.com/O54lA6V.jpg
 dtReleased: "2020-04-23"
-dtModified: "2026-03-23"
+dtModified: "2026-04-07"
 fancy_name: Queen of Svartalfheim
 aetherPower: damage_reduction
 lb1:
@@ -38,7 +38,7 @@ lb2:
   health: 1752
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Paladin
   power: 991
   attack: 779
@@ -59,7 +59,7 @@ costume:
   - Mindless Attack on hit
   image: https://i.imgur.com/2AJeAry.jpg
   dtReleased: "2023-07-03"
-  dtModified: "2026-03-23"
+  dtModified: "2026-04-07"
   fancy_name: Hatter of Svartalfheim
   aetherPower: ailment_immunity
   lb1:

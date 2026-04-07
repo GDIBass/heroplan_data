@@ -21,7 +21,7 @@ types:
 - Healing Debuff All
 image: https://i.imgur.com/RvN7nUK.jpg
 dtReleased: "2020-05-28"
-dtModified: "2026-03-23"
+dtModified: "2026-04-07"
 fancy_name: Poisoner of Svartalfheim
 aetherPower: attack_up
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1365
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/1
   class: Druid
   power: 681
   attack: 749
@@ -54,7 +54,7 @@ costume:
   - Healing Debuff 3
   image: https://i.imgur.com/ibwrmzt.jpg
   dtReleased: "2023-01-16"
-  dtModified: "2026-03-23"
+  dtModified: "2026-04-07"
   fancy_name: Herbalist of Svartalfheim
   aetherPower: special_boost
   lb1:

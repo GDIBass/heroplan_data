@@ -34,7 +34,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/MVPiXPz.jpg
 dtReleased: "2024-12-28"
-dtModified: ""
+dtModified: "2026-04-07"
 fancy_name: Dwarven Oracle
 aetherPower: defense_up
 lb1:
@@ -49,7 +49,7 @@ lb2:
   health: 2766
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 11/11/12/5
   class: Cleric
   power: 1287
   attack: 1257
@@ -82,7 +82,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/MIeBXAK.jpg
   dtReleased: "2026-03-14"
-  dtModified: ""
+  dtModified: "2026-04-07"
   fancy_name: Dwarven Restorer
   aetherPower: bulwark
   lb1:

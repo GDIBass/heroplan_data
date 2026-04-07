@@ -23,7 +23,7 @@ types:
 - Hit 1 random each turn if boosted HP
 image: https://i.imgur.com/bmdaK3F.jpg
 dtReleased: "2020-05-28"
-dtModified: ""
+dtModified: "2026-04-07"
 fancy_name: Luminous God
 aetherPower: heal_increase
 lb1:
@@ -38,7 +38,7 @@ lb2:
   health: 1635
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Monk
   power: 986
   attack: 988
@@ -59,7 +59,7 @@ costume:
   - Hit 1 random each turn if boosted HP
   image: https://i.imgur.com/oTqqeuM.jpg
   dtReleased: "2022-11-21"
-  dtModified: ""
+  dtModified: "2026-04-07"
   fancy_name: Fiery God
   aetherPower: boosted_regen
   lb1:

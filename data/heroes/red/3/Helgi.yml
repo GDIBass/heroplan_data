@@ -27,7 +27,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/URDTarn.jpg
 dtReleased: "2024-12-03"
-dtModified: ""
+dtModified: "2026-04-07"
 fancy_name: Dwarven Rage Runner
 aetherPower: attack_up
 lb1:
@@ -42,7 +42,7 @@ lb2:
   health: 939
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 5/5/5/1
   class: Paladin
   power: 521
   attack: 579
@@ -67,7 +67,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/vPctOAj.jpg
   dtReleased: "2025-10-15"
-  dtModified: ""
+  dtModified: "2026-04-07"
   fancy_name: Dwarven Replenisher
   aetherPower: special_boost
   lb1:

@@ -31,7 +31,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/IX7uDP5.jpg
 dtReleased: "2024-12-03"
-dtModified: ""
+dtModified: "2026-04-07"
 fancy_name: Dwarven Fabled Prince
 aetherPower: counterattack
 lb1:
@@ -46,12 +46,12 @@ lb2:
   health: 2705
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 10/10/11/5
   class: Rogue
   power: 1273
   attack: 1313
   defense: 1246
-  health: 2438
+  health: 2432
   skill: Cursed Plan
   effects:
   - Dispels buffs from the target and nearby enemies.
@@ -75,7 +75,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/Pn28cus.jpg
   dtReleased: "2025-10-15"
-  dtModified: ""
+  dtModified: "2026-04-07"
   fancy_name: Dwarven Fallen Prince
   aetherPower: ailment_immunity
   lb1:
