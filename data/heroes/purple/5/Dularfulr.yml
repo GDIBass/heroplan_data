@@ -44,4 +44,49 @@ lb2:
   attack: 1409
   defense: 1457
   health: 2727
+costume:
+  design: costume1
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 1294
+  attack: 1282
+  defense: 1323
+  health: 2504
+  skill: Night's Calibration
+  effects:
+  - All allies regenerate 1300 HP over 4 turns.
+  - All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill
+    damage by up to -1400. Reduces damage by additional 30% when the attacker is of
+    the Nature element.
+  - All allies are immune to new status ailments for 4 turns, and recover 300 health
+    for each attempted status ailment.
+  types:
+  - HoT All
+  - Firestorm Ward All
+  - Status Ailments Immunity All
+  - Heal on attempted ailment
+  passives:
+  - 'Empowered Resist Burn: This character is immune to status ailments that deal
+    Burn damage and gains 600 boosted health and 10% mana each time they resist.'
+  - 'Molten Core: The Molten Core activates each time this character''s Special Skill
+    is cast:'
+  - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
+    Core, the Corrosive Burn deals 378 Burn damage, and lowers the target''s defense
+    by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
+  image: https://imgur.com/FfGsve9.jpg
+  dtReleased: "2026-04-07"
+  dtModified: ""
+  aetherPower: defense_up
+  lb1:
+    power: 1400
+    attack: 1382
+    defense: 1426
+    health: 2698
+  lb2:
+    power: 1600
+    attack: 1581
+    defense: 1631
+    health: 3088
 ...
