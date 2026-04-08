@@ -17,7 +17,7 @@ types:
 - Hit 1
 image: https://i.imgur.com/BYGrEEN.jpg
 dtReleased: "2020-10-22"
-dtModified: ""
+dtModified: "2026-04-07"
 fancy_name: Goddess of Harvest
 aetherPower: attack_up
 lb1:
@@ -32,7 +32,7 @@ lb2:
   health: 1551
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Fighter
   power: 983
   attack: 970
@@ -48,7 +48,7 @@ costume:
   - Hit 3
   image: https://i.imgur.com/ZoOkEJb.jpg
   dtReleased: "2022-09-26"
-  dtModified: ""
+  dtModified: "2026-04-07"
   fancy_name: Goddess of the Wild
   aetherPower: special_armor
   lb1:

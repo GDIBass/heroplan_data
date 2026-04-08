@@ -31,7 +31,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/iXEEsKX.jpg
 dtReleased: "2024-12-03"
-dtModified: ""
+dtModified: "2026-04-07"
 fancy_name: Dwarven Golden Skald
 aetherPower: defense_up
 lb1:
@@ -46,7 +46,7 @@ lb2:
   health: 1587
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 12/12/12/1
   class: Fighter
   power: 782
   attack: 808
@@ -75,7 +75,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/e5fIPsA.jpg
   dtReleased: "2025-10-15"
-  dtModified: ""
+  dtModified: "2026-04-07"
   fancy_name: Dwarven Ghostly Skald
   aetherPower: special_armor
   lb1:

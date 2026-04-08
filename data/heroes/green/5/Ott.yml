@@ -32,7 +32,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/XIyQFXu.jpg
 dtReleased: "2024-12-03"
-dtModified: ""
+dtModified: "2026-04-07"
 fancy_name: Dwarven Merry Trickster
 aetherPower: regen
 lb1:
@@ -47,7 +47,7 @@ lb2:
   health: 2755
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 10/10/11/5
   class: Monk
   power: 1273
   attack: 1236
@@ -77,7 +77,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/xREyScg.jpg
   dtReleased: "2025-10-15"
-  dtModified: ""
+  dtModified: "2026-04-07"
   fancy_name: Dwarven Maestro Trickster
   aetherPower: boosted_regen
   lb1:
