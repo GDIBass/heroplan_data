@@ -78,6 +78,7 @@ costume:
   image: https://imgur.com/FfGsve9.jpg
   dtReleased: "2026-04-07"
   dtModified: "2026-04-07"
+  fancy_name: Dwarven Dark Engineer
   aetherPower: defense_up
   lb1:
     power: 1400
