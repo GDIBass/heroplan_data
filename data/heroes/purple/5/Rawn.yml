@@ -1,0 +1,53 @@
+---
+name: Rawn
+source: wilderness
+family: wildcat
+speed: Slow
+class: Barbarian
+power: 1296
+attack: 1417
+defense: 1273
+health: 2276
+skill: Caught and Vicious
+effects:
+- Deals 400% Clawing damage to all enemies. (Deals 600% damage against enemies with
+  any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs,
+  Minions or Mega Minions receive -35% defense for 6 turns.)
+- The caster gets Taunt that prevents enemies from using Special Skills on the caster's
+  allies for 5 turns.
+- Knocks down enemies. This has different effect based on the team of this character.
+- 'Attack Team:'
+- All enemies have their normal attack delayed by 3 turns.
+- 'Defense Team:'
+- All enemies don't contribute to Troop damage for 3 turns.
+types:
+- Hit All
+- Taunt
+- Knocks Down All
+passives:
+- 'Nine Lives:'
+- ' * When defeated this character has 80% chance to revive at the beginning of their
+  next turn with 50% health and 80% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
+  be prevented with status ailments or Passive Skills.'
+- 'Trait: Lithe Frame'
+- This character is not affected by effects that increase or reduce defense.
+- 'This includes:'
+- ' * - Status effect buffs and ailments.'
+- ' * - Positive and negative stacks.'
+- ' * - Growth and Wither effects.'
+image: https://imgur.com/11Mvel1.jpg
+dtReleased: "2026-04-09"
+dtModified: ""
+aetherPower: taunt
+lb1:
+  power: 1386
+  attack: 1527
+  defense: 1371
+  health: 2453
+lb2:
+  power: 1568
+  attack: 1747
+  defense: 1569
+  health: 2806
+...
