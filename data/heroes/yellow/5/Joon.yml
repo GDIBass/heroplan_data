@@ -164,4 +164,37 @@ costume4:
     attack: 1653
     defense: 1360
     health: 2907
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: Monk
+  power: 1291
+  attack: 1443
+  defense: 1143
+  health: 2438
+  skill: Stylish Beam
+  effects:
+  - Deals 568% damage to the target.
+  - If the target has less than 50% health remaining, deals 668% damage instead.
+  - The target gets -39% accuracy for 6 turns.
+  types:
+  - Hit 1
+  - Blind 1
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/uvRw5hV.jpg
+  dtReleased: "2026-04-10"
+  dtModified: ""
+  aetherPower: dodge
+  lb1:
+    power: 1381
+    attack: 1555
+    defense: 1232
+    health: 2627
+  lb2:
+    power: 1563
+    attack: 1779
+    defense: 1409
+    health: 3006
 ...

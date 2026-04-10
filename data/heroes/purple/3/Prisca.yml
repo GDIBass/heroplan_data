@@ -128,4 +128,37 @@ costume3:
     attack: 712
     defense: 746
     health: 1314
+costume4:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: Paladin
+  power: 550
+  attack: 542
+  defense: 562
+  health: 989
+  skill: Stylish Stab
+  effects:
+  - Deals 285% damage to the target.
+  - If the target has less than 50% health remaining, deals 360% damage instead.
+  - Heals the caster for 50% of damage dealt.
+  types:
+  - Hit 1
+  - Heal Self
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/daab7dm.jpg
+  dtReleased: "2026-04-10"
+  dtModified: ""
+  aetherPower: special_boost
+  lb1:
+    power: 615
+    attack: 615
+    defense: 637
+    health: 1120
+  lb2:
+    power: 745
+    attack: 760
+    defense: 787
+    health: 1385
 ...
