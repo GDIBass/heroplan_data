@@ -158,4 +158,37 @@ costume4:
     attack: 1108
     defense: 895
     health: 1513
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: Sorcerer
+  power: 815
+  attack: 972
+  defense: 767
+  health: 1253
+  skill: Stylish Vines
+  effects:
+  - Deals 235% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 315% damage instead.
+  - All enemies get -32% attack for 6 turns.
+  types:
+  - Hit All
+  - Attack Debuff All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/ERrTkQ3.jpg
+  dtReleased: "2026-04-10"
+  dtModified: ""
+  aetherPower: mana_boost
+  lb1:
+    power: 878
+    attack: 1055
+    defense: 833
+    health: 1362
+  lb2:
+    power: 1005
+    attack: 1224
+    defense: 967
+    health: 1579
 ...

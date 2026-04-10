@@ -159,4 +159,37 @@ costume4:
     attack: 1108
     defense: 815
     health: 1663
+costume5:
+  design: stylish
+  bonuses: 5/5/10/5
+  class: Fighter
+  power: 813
+  attack: 968
+  defense: 700
+  health: 1380
+  skill: Stylish Flames
+  effects:
+  - Deals 230% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 310% damage instead.
+  - All enemies receive 219 Burn damage over 3 turns.
+  types:
+  - Hit All
+  - DoT All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/4yp4cWs.jpg
+  dtReleased: "2026-04-10"
+  dtModified: ""
+  aetherPower: attack_up
+  lb1:
+    power: 876
+    attack: 1053
+    defense: 761
+    health: 1500
+  lb2:
+    power: 1002
+    attack: 1220
+    defense: 882
+    health: 1739
 ...
