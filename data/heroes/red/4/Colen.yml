@@ -181,6 +181,7 @@ costume5:
   image: https://imgur.com/4yp4cWs.jpg
   dtReleased: "2026-04-10"
   dtModified: ""
+  fancy_name: Stylish Bounty Hunter
   aetherPower: attack_up
   lb1:
     power: 876

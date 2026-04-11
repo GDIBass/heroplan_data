@@ -22,7 +22,7 @@ types:
 - Counterattack Minion
 image: https://i.imgur.com/Uq8cKe7.jpg
 dtReleased: "2022-05-23"
-dtModified: ""
+dtModified: "2026-04-11"
 fancy_name: Warlord of Shu
 aetherPower: damage_reduction
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1788
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 35/35/45/5
   class: Monk
   power: 1107
   attack: 1134
@@ -62,7 +62,7 @@ costume:
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/rjnMev7.jpg
   dtReleased: "2025-01-29"
-  dtModified: ""
+  dtModified: "2026-04-11"
   fancy_name: Warlord of Forest
   aetherPower: ailment_immunity
   lb1:

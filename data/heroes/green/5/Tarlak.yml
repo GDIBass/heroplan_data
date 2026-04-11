@@ -19,7 +19,7 @@ types:
 - HoT All
 image: https://i.imgur.com/VmIENFl.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-11"
 fancy_name: Prince of the Jungle
 aetherPower: counterattack
 lb1:
@@ -34,7 +34,7 @@ lb2:
   health: 1529
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Paladin
   power: 944
   attack: 867
@@ -52,7 +52,7 @@ costume:
   - Titan Attack Buff All
   image: https://i.imgur.com/UPOaKMz.jpg
   dtReleased: "2022-12-12"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-11"
   fancy_name: Prince of the Luʻau
   aetherPower: ailment_immunity
   lb1:

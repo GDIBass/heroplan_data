@@ -17,7 +17,7 @@ types:
 - Health Boost All
 image: https://i.imgur.com/SwBxlgF.jpg
 dtReleased: "2022-03-14"
-dtModified: "2026-03-20"
+dtModified: "2026-04-11"
 fancy_name: Gentle Noblewoman
 aetherPower: heal_increase
 lb1:
@@ -32,7 +32,7 @@ lb2:
   health: 1475
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 6/6/6/5
   class: Cleric
   power: 720
   attack: 693
@@ -54,7 +54,7 @@ costume:
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/EPCCR66.jpg
   dtReleased: "2025-01-29"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-11"
   fancy_name: Gentle Calligrapher
   aetherPower: regen
   lb1:

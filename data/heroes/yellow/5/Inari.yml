@@ -22,7 +22,7 @@ types:
 - Mana Boost Minion each turn
 image: https://i.imgur.com/MjynoiD.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-11"
 fancy_name: Nine-tailed Spirit
 aetherPower: attack_up
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1617
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Druid
   power: 943
   attack: 965
@@ -58,7 +58,7 @@ costume:
   - Blind All
   image: https://i.imgur.com/Q0YpLSK.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-11"
   fancy_name: White Kitsune Spirit
   aetherPower: special_boost
   lb1:

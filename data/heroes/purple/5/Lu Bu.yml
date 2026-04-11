@@ -24,7 +24,7 @@ types:
 - Buff Immunity Fiend
 image: https://i.imgur.com/pOnV8Et.jpg
 dtReleased: "2022-03-14"
-dtModified: ""
+dtModified: "2026-04-11"
 fancy_name: Wrathful Warlord
 aetherPower: fiend_resist
 lb1:
@@ -39,7 +39,7 @@ lb2:
   health: 1856
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 35/35/45/5
   class: Fighter
   power: 1106
   attack: 1063
@@ -66,7 +66,7 @@ costume:
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/9cuTL09.jpg
   dtReleased: "2024-12-28"
-  dtModified: ""
+  dtModified: "2026-04-11"
   fancy_name: Wrathful Tiger Warlord
   aetherPower: regen
   lb1:

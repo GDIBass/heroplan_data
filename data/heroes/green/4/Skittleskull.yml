@@ -180,6 +180,7 @@ costume5:
   image: https://imgur.com/ERrTkQ3.jpg
   dtReleased: "2026-04-10"
   dtModified: ""
+  fancy_name: Stylish Witch
   aetherPower: mana_boost
   lb1:
     power: 878

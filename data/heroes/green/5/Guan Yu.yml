@@ -21,7 +21,7 @@ types:
 - Defense Debuff 3
 image: https://i.imgur.com/nDiRoqi.jpg
 dtReleased: "2022-03-14"
-dtModified: ""
+dtModified: "2026-04-11"
 fancy_name: Valiant General
 aetherPower: special_boost
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1805
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 35/35/45/5
   class: Barbarian
   power: 1104
   attack: 1144
@@ -60,7 +60,7 @@ costume:
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/GP4J8r3.jpg
   dtReleased: "2024-10-01"
-  dtModified: ""
+  dtModified: "2026-04-11"
   fancy_name: Inferno General
   aetherPower: attack_up
   lb1:

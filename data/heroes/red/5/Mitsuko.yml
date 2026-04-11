@@ -22,7 +22,7 @@ types:
 - Elemental Counterattack All
 image: https://i.imgur.com/xMxFVwW.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-04-11"
 fancy_name: Fatal Beauty
 aetherPower: special_boost
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1788
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Fighter
   power: 947
   attack: 895
@@ -57,7 +57,7 @@ costume:
   - Elemental Counterattack All
   image: https://i.imgur.com/8AHvvyw.jpg
   dtReleased: "2023-03-06"
-  dtModified: ""
+  dtModified: "2026-04-11"
   fancy_name: Blazing Beauty
   aetherPower: attack_up
   lb1:
