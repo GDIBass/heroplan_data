@@ -29,7 +29,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/DZtGVoI.jpg
 dtReleased: "2023-07-17"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Dual Blade Specialist
 aetherPower: attack_up
 lb1:
@@ -70,9 +70,11 @@ costume:
   - 'Passive Skill as defending character: This character receives less damage from
     Troops of the stronger element.'
   - ' * Received elemental damage: -25%'
+  - 'Resist Dark Ailments: This character is immune to status ailments and negative
+    stacks cast by Dark characters.'
   image: https://imgur.com/diCJq7h.jpg
   dtReleased: "2026-03-17"
-  dtModified: ""
+  dtModified: "2026-04-13"
   fancy_name: Dual Blade Arthropod
   aetherPower: rage
   lb1:

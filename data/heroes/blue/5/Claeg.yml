@@ -11,7 +11,7 @@ health: 1940
 skill: Strength of the Accursed
 effects:
 - Recovers 20% health for all allies. Recovers extra 5% for each status ailment the
-  ally has, up to 35% health in total.
+  ally has, up to 40% health in total.
 - Cleanses 3 status ailments from all allies. (Status ailments are cleansed in the
   order they have been received. The latest status ailments are cleansed first.)
 - Elemental Link gives all Ice allies +30% defense against Special Skills for 4 turns.
@@ -25,7 +25,7 @@ passives:
 - 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 image: https://imgur.com/O5qyXg7.jpg
 dtReleased: "2025-04-01"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Curse-Touched Healer
 aetherPower: defense_up
 lb1:

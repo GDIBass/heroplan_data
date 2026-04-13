@@ -10,7 +10,7 @@ defense: 731
 health: 1347
 skill: Cold Command
 effects:
-- Summons a Frost Sprite Minion for each ally with 18% HP and 20% attack inherited
+- Summons a Frost Sprite Minion for each ally with 20% HP and 20% attack inherited
   from the caster.
 - All allies' Minions get +40% HP and +40% attack. This special can increase HP and
   attack up to +200% of the Minion's original HP and attack.
@@ -26,7 +26,7 @@ passives:
   owned by them is destroyed.'
 image: https://i.imgur.com/ux7vLKs.jpg
 dtReleased: "2021-04-01"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Winter Bringer
 aetherPower: defense_up
 lb1:

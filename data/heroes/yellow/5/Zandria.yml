@@ -29,7 +29,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/h5xLq71.jpg
 dtReleased: "2022-10-10"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Defender of Space-Time
 aetherPower: regen
 lb1:
@@ -70,9 +70,11 @@ costume:
   - 'Passive Skill as defending character: This hero receives less elemental damage
     from Troops of stronger element.'
   - ' - Received elemental damage: -25%'
+  - 'Resist Dark Ailments: This character is immune to status ailments and negative
+    stacks cast by Dark characters.'
   image: https://imgur.com/sbozpVC.jpg
   dtReleased: "2025-11-10"
-  dtModified: ""
+  dtModified: "2026-04-13"
   fancy_name: Defender of Galaxies
   aetherPower: bulwark
   lb1:

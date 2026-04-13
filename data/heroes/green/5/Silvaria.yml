@@ -11,7 +11,7 @@ health: 1425
 skill: Power of Flora
 effects:
 - The target and nearby enemies get -34% defense for 3 turns.
-- Deals 380% damage to the target.
+- Deals 390% damage to the target.
 - Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited
   from the caster.
 - Element Link gives all Nature allies +10% atack for 4 turns. This effect can't be
@@ -28,7 +28,7 @@ passives:
   and 40% atack from this character.'
 image: https://i.imgur.com/bmUsK1J.jpg
 dtReleased: "2022-04-01"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Forest God
 aetherPower: special_boost
 lb1:

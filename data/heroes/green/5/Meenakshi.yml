@@ -10,7 +10,7 @@ defense: 1363
 health: 2296
 skill: Coastal Recharge
 effects:
-- Recovers 10% health for the caster and nearby allies.
+- Recovers 20% health for the caster and nearby allies.
 - 'Growth Boon: Deals 2x extra health for each point of modified defense. (Extra health
   is based on the modified defense on the caster when healing is applied. Up to a
   maximum 800 of additional healing. Status effects affecting healing received do
@@ -34,7 +34,7 @@ passives:
   effects and damage from Minions and Mega Minions.'
 image: https://imgur.com/ncLhZOI.jpg
 dtReleased: "2026-02-25"
-dtModified: "2026-03-24"
+dtModified: "2026-04-13"
 fancy_name: Coconut Chechi
 aetherPower: special_armor
 lb1:
