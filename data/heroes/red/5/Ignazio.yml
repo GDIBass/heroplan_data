@@ -70,8 +70,8 @@ costume:
   - 'Passive Skill as defending character: This hero receives less elemental damage
     from Troops of stronger element.'
   - ' - Received elemental damage: -25%'
-  - 'Resist Ice Ailments: This character is immune to status ailments and negative
-    stacks cast by Ice characters.'
+  - 'Resist Nature Ailments: This character is immune to status ailments and negative
+    stacks cast by Nature characters.'
   image: https://imgur.com/jf9JtOu.jpg
   dtReleased: "2025-05-24"
   dtModified: "2026-04-13"
