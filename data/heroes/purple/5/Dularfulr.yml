@@ -81,12 +81,12 @@ costume:
   fancy_name: Dwarven Dark Engineer
   aetherPower: defense_up
   lb1:
-    power: 1400
+    power: 1386
     attack: 1382
     defense: 1426
     health: 2698
   lb2:
-    power: 1600
+    power: 1567
     attack: 1581
     defense: 1631
     health: 3088

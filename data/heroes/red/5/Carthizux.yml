@@ -36,12 +36,12 @@ dtModified: ""
 fancy_name: Astral Demon Maniac
 aetherPower: rage
 lb1:
-  power: 1400
+  power: 1385
   attack: 1489
   defense: 1423
   health: 2437
 lb2:
-  power: 1600
+  power: 1567
   attack: 1704
   defense: 1628
   health: 2788

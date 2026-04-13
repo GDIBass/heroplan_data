@@ -45,12 +45,12 @@ dtModified: ""
 fancy_name: Thief-Shuriken Ronin
 aetherPower: attack_up
 lb1:
-  power: 1400
+  power: 1386
   attack: 1476
   defense: 1414
   health: 2495
 lb2:
-  power: 1600
+  power: 1568
   attack: 1689
   defense: 1617
   health: 2854
