@@ -22,7 +22,7 @@ types:
 - Attack Buff Self while ghost
 image: https://i.imgur.com/VkDdipF.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-11"
 fancy_name: Lone Ghost
 aetherPower: special_armor
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1327
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/5
   class: Wizard
   power: 671
   attack: 700
@@ -59,7 +59,7 @@ costume:
   - HoT All while Ghost
   image: https://i.imgur.com/VZyVFDJ.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-11"
   fancy_name: Lonesome Yurei
   aetherPower: defense_up
   lb1:

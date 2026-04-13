@@ -19,7 +19,7 @@ types:
 - Heal All on minion destroyed
 image: https://i.imgur.com/Sc5af8g.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-11"
 fancy_name: Chameleon General
 aetherPower: fiend_resist
 lb1:
@@ -34,7 +34,7 @@ lb2:
   health: 1531
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/5
   class: Paladin
   power: 673
   attack: 586
@@ -52,7 +52,7 @@ costume:
   - Spreading DoT 1
   image: https://i.imgur.com/ZFJ0073.jpg
   dtReleased: "2023-04-03"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-11"
   fancy_name: World Heavyweight Champion
   aetherPower: ailment_immunity
   lb1:

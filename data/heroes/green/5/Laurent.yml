@@ -10,7 +10,7 @@ defense: 1324
 health: 2282
 skill: Unyielding Stance
 effects:
-- 'If the caster has 50 or more Humility:'
+- 'If the caster has 60 or more Humility:'
 - Deals 600% damage to the target and minor damage to nearby enemies.
 - The attack bypasses defensive buffs. (This includes counterattacks.)
 - The caster gets Taunt that prevents enemies from using Special Skills on the caster's
@@ -39,7 +39,7 @@ passives:
   they will recover that much health instead.'
 image: https://imgur.com/w9K0HkI.jpg
 dtReleased: "2026-01-23"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Petrified Guard of the Bewitched Castle
 aetherPower: taunt
 lb1:

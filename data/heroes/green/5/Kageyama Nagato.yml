@@ -37,11 +37,11 @@ passives:
 - 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
 - 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
   the following actions'
-- ' * The attacker receives 400% damage.'
-- ' * The attacker receives 1200 Bleed damage over 3 turns.'
+- ' * The attacker receives 450% damage.'
+- ' * The attacker receives 1500 Bleed damage over 3 turns.'
 image: https://imgur.com/YLXKgil.jpg
 dtReleased: "2026-04-06"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Thief-Shuriken Ronin
 aetherPower: attack_up
 lb1:

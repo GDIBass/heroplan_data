@@ -22,7 +22,7 @@ types:
 - Defense Buff All
 image: https://i.imgur.com/U1AQZ8U.jpg
 dtReleased: "2022-07-18"
-dtModified: ""
+dtModified: "2026-04-11"
 fancy_name: Warlord of Wei
 aetherPower: regen
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1811
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 35/35/45/5
   class: Ranger
   power: 1108
   attack: 1067
@@ -62,7 +62,7 @@ costume:
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/zsLpVZ2.jpg
   dtReleased: "2024-08-02"
-  dtModified: ""
+  dtModified: "2026-04-11"
   fancy_name: Warlord of Ice
   aetherPower: special_armor
   lb1:

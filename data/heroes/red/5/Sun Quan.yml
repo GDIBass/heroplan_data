@@ -20,7 +20,7 @@ types:
 - Minions with DoT
 image: https://i.imgur.com/EShG44Z.jpg
 dtReleased: "2022-09-12"
-dtModified: ""
+dtModified: "2026-04-11"
 fancy_name: Warlord of Wu
 aetherPower: defense_up
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1884
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 35/35/45/5
   class: Rogue
   power: 1110
   attack: 1125
@@ -58,7 +58,7 @@ costume:
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/FrxOT5n.jpg
   dtReleased: "2024-11-30"
-  dtModified: ""
+  dtModified: "2026-04-11"
   fancy_name: Warlord of Fortune
   aetherPower: attack_up
   lb1:

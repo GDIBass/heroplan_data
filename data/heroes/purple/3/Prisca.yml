@@ -150,6 +150,7 @@ costume4:
   image: https://imgur.com/daab7dm.jpg
   dtReleased: "2026-04-10"
   dtModified: ""
+  fancy_name: Stylish Warden
   aetherPower: special_boost
   lb1:
     power: 615

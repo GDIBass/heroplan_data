@@ -29,7 +29,7 @@ passives:
 - ' * Received elemental damage -10%'
 image: https://i.imgur.com/VT78aoB.jpg
 dtReleased: "2023-05-22"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Cyber Rogue
 aetherPower: fiend_resist
 lb1:
@@ -72,9 +72,11 @@ costume:
   - 'Passive Skill as defending character: This hero receives less elemental damage
     from Troops of stronger element.'
   - ' * Received elemental damage -25%'
+  - 'Resist Holy Ailments: This character is immune to status ailments and negative
+    stacks cast by Holy characters.'
   image: https://imgur.com/cjiqk4D.jpg
   dtReleased: "2026-02-19"
-  dtModified: ""
+  dtModified: "2026-04-13"
   fancy_name: Cyber Courier
   aetherPower: damage_reduction
   lb1:

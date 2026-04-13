@@ -32,7 +32,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/KaW9HIP.jpg
 dtReleased: "2022-12-05"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Master of Elemental Creations
 aetherPower: defense_up
 lb1:
@@ -77,9 +77,11 @@ costume:
   - 'Passive Skill as defending character: This hero receives less elemental  damage
     from Troops of stronger element.'
   - ' - Received elemental damage: -25%'
+  - 'Resist Ice Ailments: This character is immune to status ailments and negative
+    stacks cast by Ice characters.'
   image: https://imgur.com/qGN516v.jpg
   dtReleased: "2025-12-07"
-  dtModified: ""
+  dtModified: "2026-04-13"
   fancy_name: Idol of Elemental Creations
   aetherPower: special_armor
   lb1:

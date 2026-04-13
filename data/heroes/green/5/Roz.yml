@@ -27,7 +27,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/5xvOFq1.jpg
 dtReleased: "2022-12-05"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Natural Sharpshooter
 aetherPower: defense_up
 lb1:
@@ -65,9 +65,11 @@ costume:
   - 'Passive Skill as defending character: This hero receives less elemental  damage
     from Troops of stronger element.'
   - ' * Received elemental damage: -25%'
+  - 'Resist Ice Ailments: This character is immune to status ailments and negative
+    stacks cast by Ice characters.'
   image: https://imgur.com/iob8I3P.jpg
   dtReleased: "2025-07-18"
-  dtModified: ""
+  dtModified: "2026-04-13"
   fancy_name: Disco Sharpshooter
   aetherPower: attack_up
   lb1:

@@ -11,11 +11,11 @@ health: 1224
 skill: Trickster's Gambit
 effects:
 - 'Perform a trick for a special effect:'
-- 'Swords: '
+- 'Swords:'
 - ' * Deals 255% damage to all enemies.'
 - ' * All enemies get -54% accuracy for 3 turns and chance to miss also applies to
   offensive Special Skills.'
-- 'Bottle: '
+- 'Bottle:'
 - ' * All allies get +24% mana generation for 4 turns.'
 - ' * All allies get +63% defense for 4 turns.'
 - 'Freeze:'
@@ -25,7 +25,7 @@ types:
 - Gambler
 image: https://i.imgur.com/jP1BF2A.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-04-11"
 fancy_name: Dauntless Deceiver
 aetherPower: gamble
 lb1:
@@ -40,7 +40,7 @@ lb2:
   health: 1541
 costume:
   design: costume1
-  bonuses: 3/3/6/1
+  bonuses: 3/3/6/5
   class: Sorcerer
   power: 674
   attack: 609
@@ -62,7 +62,7 @@ costume:
   - Gambler
   image: https://i.imgur.com/HppFUSU.jpg
   dtReleased: "2023-02-06"
-  dtModified: ""
+  dtModified: "2026-04-11"
   fancy_name: Fearless Merchant
   aetherPower: special_armor
   lb1:
