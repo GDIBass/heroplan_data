@@ -10,7 +10,7 @@ defense: 775
 health: 1374
 skill: Engulfing Candlelight
 effects:
-- 'If the caster has 35 or more Humility:'
+- 'If the caster has 40 or more Humility:'
 - ' * Deals 300% damage to the enemies on the edges of the enemy formation. If there
   is only one enemy, the damage is doubled.'
 - ' * Reduces max health of the enemies on the edges of the enemy formation by 500.
@@ -34,7 +34,7 @@ passives:
   they will recover that much health instead.'
 image: https://imgur.com/PNJlXav.jpg
 dtReleased: "2025-11-12"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Illuminator of the Bewitched Castle
 aetherPower: attack_up
 lb1:

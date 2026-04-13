@@ -10,7 +10,7 @@ defense: 1332
 health: 2294
 skill: Spell of Camaraderie
 effects:
-- 'If the caster has 50 or more Humility:'
+- 'If the caster has 60 or more Humility:'
 - Boosts health of the caster and nearby allies by 1450. Boosted health can exceed
   max HP.
 - 'Stack +2(Max: 10): All damage the caster and nearby allies receive is reduced by
@@ -44,7 +44,7 @@ passives:
   or from a negative stack, they will recover that much health instead.'
 image: https://imgur.com/tJa3U9O.jpg
 dtReleased: "2026-02-20"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Gracious Fairy of the Bewitched Castle
 aetherPower: heal_increase
 lb1:

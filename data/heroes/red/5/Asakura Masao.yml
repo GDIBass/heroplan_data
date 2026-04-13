@@ -14,11 +14,11 @@ effects:
 - 'x1 Mana Charge:'
 - Deals 250% damage to the target.
 - The attack chains through all the enemies who are adjacent to any hit enemy.
-- 'Growth: The caster gets 100 attack and 100 defense.'
+- 'Growth: All allies get 75 attack and 75 defense.'
 - 'x2 Mana Charge:'
 - Deals 400% damage to the target.
 - The attack chains through all the enemies who are adjacent to any hit enemy.
-- 'Growth: The caster and nearby allies get 250 attack and 250 defense.'
+- 'Growth: All allies get 150 attack and 150 defense.'
 - 'x3 Mana Charge:'
 - Deals 600% damage to the target.
 - The attack chains through all the enemies who are adjacent to any hit enemy.
@@ -27,16 +27,17 @@ types:
 - Charge
 - Hit 1
 - Chain Hit
-- Growth Self / 3 / All
+- Attack Growth All
+- Defense Growth All
 passives:
 - 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
 - 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
   the following actions'
-- ' * The attacker receives 400% damage.'
-- ' * The attacker receives 1200 Bleed damage over 3 turns.'
+- ' * The attacker receives 450% damage.'
+- ' * The attacker receives 1500 Bleed damage over 3 turns.'
 image: https://imgur.com/z1SbTyh.jpg
 dtReleased: "2026-03-10"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Enraged Ronin
 aetherPower: damage_reduction
 lb1:

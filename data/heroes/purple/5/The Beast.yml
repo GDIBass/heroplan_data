@@ -10,7 +10,7 @@ defense: 1281
 health: 2263
 skill: Dinner with the Beast
 effects:
-- 'If the caster has 35 or more Humility:'
+- 'If the caster has 40 or more Humility:'
 - ' * Deals 460% damage to 6 random enemies.'
 - ' * All hit targets get -54% defense against Dark for 4 turns.'
 - ' * Enemies hit automatically cast Mindless Attack on a random ally when mana is
@@ -38,7 +38,7 @@ passives:
   they will recover that much health instead.'
 image: https://imgur.com/ILZDSqW.jpg
 dtReleased: "2025-11-12"
-dtModified: ""
+dtModified: "2026-04-13"
 fancy_name: Lonely Prince of the Bewitched Castle
 aetherPower: rage
 lb1:
