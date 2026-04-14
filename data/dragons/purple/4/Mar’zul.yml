@@ -1,0 +1,41 @@
+---
+name: Mar’zul
+source: ancientUnderroot
+speed: Fast
+power: 9532
+attack: 11970
+defense: 11819
+health: 10309
+skill: Calcifying Breath
+effects:
+- Deals 230% damage to the target and 120% damage to nearby enemies.
+- Dispels 1 buff from the target. (The latest buff is dispelled first.)
+- After 1 turn the target gets Paralyzed for 2 turns. (Paralyzed enemies can't attack
+  or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't
+  be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
+types:
+- Hit 3
+- Dispel latest 1
+- Delayed Paralyze 1
+spiritBonus:
+  spiritClass: Cleric
+  all:
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
+  elementalBond:
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
+  classLink:
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
+assist:
+  name: Blaze of Torment
+  effects:
+  - Deals 550 damage to all enemies.
+  - Recovers 100 health for all allies.
+  - Reduces the mana of all enemies by 15%.
+image: https://i.imgur.com/GW254Jd.jpg
+...

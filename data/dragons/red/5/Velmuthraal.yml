@@ -1,0 +1,43 @@
+---
+name: Velmuthraal
+source: ancientUnderroot
+speed: Average
+power: 11210
+attack: 13639
+defense: 14424
+health: 12627
+skill: Rite of Protection
+effects:
+- Deals 300% damage to the target and nearby enemies.
+- Heals the caster for 35% of damage dealt.
+- The caster gets Taunt that prevents enemies from using Special Skills on the caster's
+  allies for 4 turns.
+- The caster reduces all received damage by -50% for 4 turns.
+types:
+- Hit 3
+- Heal Self
+- Taunt
+- Damage Reduction Self
+spiritBonus:
+  spiritClass: Monk
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Sacred Flame
+  effects:
+  - Deals 780 damage to all enemies.
+  - Recovers 210 health for all allies.
+  - All allies heal 40% of dealt normal damage for 5 turns.
+  - Cleanses status ailments from all allies.
+image: https://i.imgur.com/ope6Lo0.jpg
+...
