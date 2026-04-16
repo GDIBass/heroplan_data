@@ -20,7 +20,7 @@ types:
 - Defense Debuff All
 image: https://i.imgur.com/UMxFVGq.jpg
 dtReleased: "2020-08-27"
-dtModified: "2026-03-23"
+dtModified: "2026-04-16"
 fancy_name: Goddess of Foresight
 aetherPower: attack_up
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1628
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Wizard
   power: 983
   attack: 970
@@ -53,7 +53,7 @@ costume:
   - Defense Debuff All
   image: https://i.imgur.com/G0IAEBg.jpg
   dtReleased: "2023-01-16"
-  dtModified: "2026-03-23"
+  dtModified: "2026-04-16"
   fancy_name: Goddess of Clairvoyance
   aetherPower: special_boost
   lb1:

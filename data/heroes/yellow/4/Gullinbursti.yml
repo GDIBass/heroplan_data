@@ -21,7 +21,7 @@ types:
 - Delayed Damage All
 image: https://i.imgur.com/sx7Ooj7.jpg
 dtReleased: "2020-05-28"
-dtModified: "2026-03-20"
+dtModified: "2026-04-16"
 fancy_name: Golden Boar
 aetherPower: heal_increase
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1758
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/1
   class: Cleric
   power: 685
   attack: 612
@@ -56,7 +56,7 @@ costume:
   - Delayed Damage All
   image: https://i.imgur.com/0fW6S7f.jpg
   dtReleased: "2022-07-04"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-16"
   fancy_name: Unchained Boar
   aetherPower: defense_up
   lb1:

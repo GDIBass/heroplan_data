@@ -19,7 +19,7 @@ types:
 - Board Alterer
 image: https://i.imgur.com/IwBPUx4.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Messenger of Yggdrasil
 aetherPower: defense_up
 lb1:
@@ -34,7 +34,7 @@ lb2:
   health: 1668
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Wizard
   power: 982
   attack: 1080
@@ -51,7 +51,7 @@ costume:
   - Board Alterer
   image: https://i.imgur.com/AZRDhg4.jpg
   dtReleased: "2023-09-25"
-  dtModified: ""
+  dtModified: "2026-04-16"
   fancy_name: Architect of Yggdrasil
   aetherPower: bulwark
   lb1:

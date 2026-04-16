@@ -20,7 +20,7 @@ types:
 - Weird
 image: https://i.imgur.com/fVTl018.jpg
 dtReleased: "2021-07-04"
-dtModified: "2026-03-23"
+dtModified: "2026-04-16"
 fancy_name: Trickster Fish
 aetherPower: bulwark
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1696
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Paladin
   power: 987
   attack: 953
@@ -53,7 +53,7 @@ costume:
   - Weird
   image: https://i.imgur.com/mbPRCrB.jpg
   dtReleased: "2023-07-31"
-  dtModified: "2026-03-23"
+  dtModified: "2026-04-16"
   fancy_name: Dapper Fish
   aetherPower: ailment_reflect
   lb1:

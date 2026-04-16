@@ -18,7 +18,7 @@ types:
 - Weaker Defense 3
 image: https://i.imgur.com/evikfGP.jpg
 dtReleased: "2020-03-26"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Weavers of Destiny
 aetherPower: special_boost
 lb1:
@@ -33,7 +33,7 @@ lb2:
   health: 1689
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Wizard
   power: 986
   attack: 1062
@@ -50,7 +50,7 @@ costume:
   - Weaker Defense 3
   image: https://i.imgur.com/aH5vllh.jpg
   dtReleased: "2023-08-28"
-  dtModified: ""
+  dtModified: "2026-04-16"
   fancy_name: Puppeteers of Destiny
   aetherPower: ailment_immunity
   lb1:
