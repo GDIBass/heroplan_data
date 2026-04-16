@@ -19,12 +19,12 @@ types:
 - Hit 1
 - Block Status Effects Cast 1
 passives:
-- 'Resist Defense Ailments: The character is immune to status ailments and negative
+- 'Resist Defense Ailments: This character is immune to status ailments and negative
   stacks that affect defense. Doesn''t apply to status ailments that affect elemental
   defense.'
 image: https://i.imgur.com/ttNHqjc.jpg
 dtReleased: "2020-04-01"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Reigning Champion
 aetherPower: rage
 lb1:

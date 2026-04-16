@@ -26,11 +26,11 @@ types:
 - Charge
 passives:
 - 'Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.'
-- 'Resist defense ailments: This character has innate resistance against status ailments
-  that affect defense. Applies also to status ailments that affect elemental defense.'
+- 'Resist Defense Ailments: This character is immune to status ailments that affect
+  defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/FNkLC6z.jpg
 dtReleased: "2022-09-21"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Adventurer of the Underworld
 aetherPower: special_boost
 lb1:

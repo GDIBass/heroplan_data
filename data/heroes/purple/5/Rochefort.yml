@@ -53,7 +53,7 @@ costume:
   - Damage All if target defeated
   - Boosted HoT Self
   passives:
-  - 'Resist Defense Ailments: The character is immune to status ailments and negative
+  - 'Resist Defense Ailments: This character is immune to status ailments and negative
     stacks that affect defense. Doesn''t apply to status ailments that affect elemental
     defense.'
   - 'Damage on Special Skill and Cover Damage: When this character receives damage

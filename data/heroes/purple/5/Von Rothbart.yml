@@ -12,11 +12,9 @@ skill: Ballad of Pain
 effects:
 - Deals 550% damage to the target.
 - The target dances to Ballad of Pain for 4 turns. The dance spreads to nearby enemies.
-- ' '
 - 'Ballad of Pain:'
 - The dancer gets silenced.
 - When the dance ends, the target suffers 1700 damage.
-- ' '
 - All existing status effects will be removed a dance status effect is added.
 - Dance gives immunity to new status effects. New dance status effect will replace
   this effect.
@@ -25,14 +23,15 @@ types:
 - Hit 1
 - Spreading dance Ballad of Pain
 passives:
-- 'Resist Defense Ailments: This character has innate resistance against status ailments
-  that affect defense. Doesn''t apply to status ailments that affect elemental defense.'
+- 'Resist Defense Ailments: This character is immune to status ailments and negative
+  stacks that affect defense. Doesn''t apply to status ailments that affect elemental
+  defense.'
 - 'Heal when status ailment expires or is cleared: This character receives 10% health
   each time a status ailment expires or is cleansed, removed or reallocated from them.
   This effect can activate only once per turn.'
 image: https://i.imgur.com/DZgjbkS.jpg
 dtReleased: "2024-08-22"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Feared Magician
 aetherPower: special_boost
 lb1:
