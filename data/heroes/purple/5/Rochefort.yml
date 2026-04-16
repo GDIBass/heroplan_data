@@ -36,7 +36,7 @@ lb2:
   health: 2263
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 45/45/47/5
   class: Rogue
   power: 1296
   attack: 1313

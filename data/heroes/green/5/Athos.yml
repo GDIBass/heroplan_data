@@ -27,7 +27,7 @@ passives:
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/HvsiBgn.jpg
 dtReleased: "2022-12-14"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Veteran Musketeer
 aetherPower: defense_up
 lb1:
@@ -42,7 +42,7 @@ lb2:
   health: 2001
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 53/53/53/5
   class: Fighter
   power: 1258
   attack: 1332
@@ -71,7 +71,7 @@ costume:
     to deal 50% of the received damage on all enemies.'
   image: https://imgur.com/hJqKdo0.jpg
   dtReleased: "2025-12-19"
-  dtModified: ""
+  dtModified: "2026-04-16"
   fancy_name: Farrier Musketeer
   aetherPower: special_boost
   lb1:

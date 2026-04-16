@@ -25,7 +25,7 @@ passives:
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/7DRTWTb.jpg
 dtReleased: "2022-12-14"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Romantic Musketeer
 aetherPower: heal_increase
 lb1:
@@ -40,7 +40,7 @@ lb2:
   health: 1729
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 55/55/60/5
   class: Paladin
   power: 1253
   attack: 1368
@@ -67,7 +67,7 @@ costume:
     to deal 50% of the received damage on all enemies.'
   image: https://imgur.com/58shBmV.jpg
   dtReleased: "2025-11-12"
-  dtModified: ""
+  dtModified: "2026-04-16"
   fancy_name: Boulanger Musketeer
   aetherPower: dodge
   lb1:
