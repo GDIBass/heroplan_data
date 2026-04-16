@@ -1,0 +1,45 @@
+---
+name: Amarosa
+source: shadow
+family: forsaken
+speed: Average
+class: Paladin
+power: 1297
+attack: 1374
+defense: 1314
+health: 2315
+skill: Sword of Xu'Vhosh
+effects:
+- Deals 525% damage to the enemy with the lowest remaining HP. Deals 300% damage to
+  all other enemies.
+- Inflicts 20 Insanity on all enemies.
+- The caster steals 70% of any healing applied to all enemies for 4 turns.
+- Casting this Special Skill inflicts 45 Insanity on the caster.
+types:
+- Hit All
+- Insanity All
+- Healing Steal All
+- Insanity Self
+passives:
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+- 'Branded by the Old Ones: All damage from normal attacks and Special Skills dealt
+  by this character is increased by 6% per 10 Insanity on this character, up to 60%.'
+image: https://imgur.com/oNPbjwJ.jpg
+dtReleased: "2026-04-14"
+dtModified: ""
+aetherPower: vampire
+lb1:
+  power: 1388
+  attack: 1480
+  defense: 1416
+  health: 2495
+lb2:
+  power: 1571
+  attack: 1694
+  defense: 1620
+  health: 2854
+...

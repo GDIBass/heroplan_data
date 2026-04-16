@@ -1,0 +1,54 @@
+---
+name: Ivete
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Slow
+class: Wizard
+power: 1298
+attack: 1361
+defense: 1336
+health: 2309
+skill: Bewitching Blast
+effects:
+- 'If the caster has 40 or more Humility:'
+- Deals 550% damage to all enemies.
+- After 1 turn all enemies get Paralyzed for 2 turns. (Paralyzed enemies can't attack
+  or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't
+  be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
+- All enemies receive 745 Poison damage over 5 turns.
+- All enemies receive 738 Curse damage over 6 turns, starting low and increasing every
+  turn.
+- 'Otherwise:'
+- Deals 485% damage to all enemies.
+- After 1 turn the target and nearby enemies get Paralyzed for 2 turns.
+- (Paralyzed enemies can't attack or gain mana and receive +50% increased damage.
+  Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are
+  not affected by this status effect.)
+- All enemies receive 745 Poison damage over 5 turns.
+types:
+- Hit All
+- Delayed Paralyze All
+- DoT All
+passives:
+- 'Revival Health Reduction: All enemies have -80% health when revived. Boss enemies
+  are not affected.'
+- 'Heal when Status Ailment Expires or Is Cleared: This character''s receives 10%
+  health each time a status ailment expires or is cleansed, removed or reallocated
+  from them. This effect can activate only once per turn.'
+- 'Beautiful Inside: Whenever this character would take damage from a status ailment
+  or from a negative stack, they will recover that much health instead.'
+image: https://imgur.com/qtnsAeQ.jpg
+dtReleased: "2026-04-16"
+dtModified: ""
+aetherPower: counterattack
+lb1:
+  power: 1389
+  attack: 1467
+  defense: 1440
+  health: 2488
+lb2:
+  power: 1572
+  attack: 1678
+  defense: 1648
+  health: 2847
+...

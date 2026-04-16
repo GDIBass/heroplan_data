@@ -25,11 +25,11 @@ types:
 - Charge
 passives:
 - 'Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.'
-- 'Resist Defense Ailments: This character has innate resistance against status ailments
-  that affect defense. Applies also to status ailments that affect elemental defense.'
+- 'Resist Defense Ailments: This character is immune to status ailments that affect
+  defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/yK7UFvQ.jpg
 dtReleased: "2022-09-21"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Potion Merchant Cyclops
 aetherPower: damage_reduction
 lb1:

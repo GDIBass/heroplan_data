@@ -24,7 +24,7 @@ passives:
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/cwvEsxY.jpg
 dtReleased: "2022-12-14"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Ardent Musketeer
 aetherPower: ailment_immunity
 lb1:
@@ -39,7 +39,7 @@ lb2:
   health: 1905
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 53/53/53/5
   class: Wizard
   power: 1280
   attack: 1329
@@ -65,7 +65,7 @@ costume:
     to deal 50% of the received damage to all enemies.'
   image: https://imgur.com/9p7hmgV.jpg
   dtReleased: "2026-02-20"
-  dtModified: ""
+  dtModified: "2026-04-16"
   fancy_name: Ardent Chimney-Sweeper
   aetherPower: attack_up
   lb1:

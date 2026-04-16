@@ -25,7 +25,7 @@ types:
 - Hit 1 random while dancing
 - Ailments Immunity while dancing
 passives:
-- 'Resist Defense Ailments: The character is immune to status ailments and negative
+- 'Resist Defense Ailments: This character is immune to status ailments and negative
   stacks that affect defense. Doesn''t apply to status ailments that affect elemental
   defense.'
 - 'Heal when status ailment expires or is cleared: This character receives 5% health
@@ -33,7 +33,7 @@ passives:
   This effect can activate only once per turn.'
 image: https://i.imgur.com/4D2V5En.jpg
 dtReleased: "2024-03-21"
-dtModified: "2026-03-23"
+dtModified: "2026-04-16"
 fancy_name: Black Swan
 aetherPower: defense_up
 lb1:
