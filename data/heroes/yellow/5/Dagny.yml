@@ -12,7 +12,7 @@ skill: Desert Hunt
 effects:
 - Deals 600% damage to the target.
 - Against Titans, deals 700% damage.
-- The attack bypasses defensive buffs.
+- The attack bypasses defensive buffs. (This includes counterattacks)
 - The target gets -40% defense for 3 turns. Against Dark Titans, the target gets -60%
   defense and the status effect lasts 2 turns longer.
 types:
@@ -30,7 +30,7 @@ passives:
   Flare receives additional 150 damage when they receive a critical hit.'
 image: https://imgur.com/MQqbtl5.jpg
 dtReleased: "2026-04-18"
-dtModified: ""
+dtModified: "2026-04-19"
 aetherPower: attack_up
 lb1:
   power: 1389
