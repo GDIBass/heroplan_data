@@ -20,7 +20,7 @@ types:
 - Hit All
 image: https://i.imgur.com/NzRPKjE.jpg
 dtReleased: "2020-07-23"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Trickster Goddess
 aetherPower: defense_up
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1617
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Cleric
   power: 985
   attack: 876
@@ -53,7 +53,7 @@ costume:
   - Hit All
   image: https://i.imgur.com/R89Eh1b.jpg
   dtReleased: "2023-10-23"
-  dtModified: ""
+  dtModified: "2026-04-16"
   fancy_name: Trickster Mother
   aetherPower: damage_reduction
   lb1:

@@ -28,7 +28,7 @@ types:
 - Blind 1/3/All
 image: https://i.imgur.com/Cls9o26.jpg
 dtReleased: "2021-01-28"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: God of Thunder
 aetherPower: attack_up
 lb1:
@@ -43,7 +43,7 @@ lb2:
   health: 1719
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Paladin
   power: 986
   attack: 935
@@ -69,7 +69,7 @@ costume:
   - Blind All
   image: https://i.imgur.com/LYyDsUh.jpg
   dtReleased: "2022-12-19"
-  dtModified: ""
+  dtModified: "2026-04-16"
   fancy_name: Conduit of Thunder
   aetherPower: special_boost
   lb1:

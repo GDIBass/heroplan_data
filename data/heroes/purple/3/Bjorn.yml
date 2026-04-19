@@ -19,7 +19,7 @@ types:
 - Hit Random 1
 image: https://i.imgur.com/vOaNkHC.jpg
 dtReleased: ""
-dtModified: "2026-03-23"
+dtModified: "2026-04-16"
 fancy_name: Brave Villager
 aetherPower: attack_up
 lb1:
@@ -34,7 +34,7 @@ lb2:
   health: 1158
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/1
   class: Rogue
   power: 478
   attack: 464
@@ -52,7 +52,7 @@ costume:
   - Mana Generation Debuff on hit
   image: https://i.imgur.com/KuvURzu.jpg
   dtReleased: "2022-07-04"
-  dtModified: "2026-03-23"
+  dtModified: "2026-04-16"
   fancy_name: Brave Soldier
   aetherPower: special_boost
   lb1:

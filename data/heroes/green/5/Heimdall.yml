@@ -19,7 +19,7 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/bjKzbra.jpg
 dtReleased: ""
-dtModified: "2026-03-23"
+dtModified: "2026-04-16"
 fancy_name: Vigilant Watchman
 aetherPower: heal_increase
 lb1:
@@ -34,7 +34,7 @@ lb2:
   health: 1747
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Wizard
   power: 988
   attack: 832
@@ -52,7 +52,7 @@ costume:
   - Boosted HoT All
   image: https://i.imgur.com/YoTKnv0.jpg
   dtReleased: "2022-10-24"
-  dtModified: "2026-03-23"
+  dtModified: "2026-04-16"
   fancy_name: Dreaded Watchman
   aetherPower: bulwark
   lb1:

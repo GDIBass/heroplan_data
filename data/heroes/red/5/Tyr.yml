@@ -25,7 +25,7 @@ types:
 - Self Resurrection
 image: https://i.imgur.com/tjoH1nb.jpg
 dtReleased: ""
-dtModified: "2026-03-23"
+dtModified: "2026-04-16"
 fancy_name: Relentless Justice
 aetherPower: attack_up
 lb1:
@@ -40,7 +40,7 @@ lb2:
   health: 1617
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Barbarian
   power: 989
   attack: 988
@@ -63,7 +63,7 @@ costume:
   - Self Resurrection
   image: https://i.imgur.com/7UO34fo.jpg
   dtReleased: "2023-02-13"
-  dtModified: "2026-03-23"
+  dtModified: "2026-04-16"
   fancy_name: Savage Justice
   aetherPower: dodge
   lb1:

@@ -21,7 +21,7 @@ types:
 - Heal Self
 image: https://i.imgur.com/jTbJkeI.jpg
 dtReleased: "2020-02-27"
-dtModified: "2026-03-23"
+dtModified: "2026-04-16"
 fancy_name: Leader of Niflheim
 aetherPower: rage
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1600
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/28/35/5
   class: Barbarian
   power: 982
   attack: 1015
@@ -55,7 +55,7 @@ costume:
   - Boost Mana Self
   image: https://i.imgur.com/ZPobGZa.jpg
   dtReleased: "2023-04-10"
-  dtModified: "2026-03-23"
+  dtModified: "2026-04-16"
   fancy_name: Guardian of Niflheim
   aetherPower: special_boost
   lb1:
