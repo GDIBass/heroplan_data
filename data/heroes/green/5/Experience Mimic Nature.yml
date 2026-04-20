@@ -23,14 +23,14 @@ types:
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 - 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
-- ' * Common Ice Trainer Heroes'
-- ' * Uncommon Ice Trainer Heroes'
-- ' * Rare Ice Trainer Heroes'
-- ' * Common Ice Heroes'
-- ' * Uncommon Ice Heroes'
+- ' * Rare Nature Trainer Hero'
+- ' * Uncommon Nature Trainer Hero'
+- ' * Uncommon Nature Heroes'
+- ' * Common Nature Trainer Hero'
+- ' * Common Nature Heroes'
 image: https://imgur.com/5HAwmjg.jpg
 dtReleased: "2025-05-15"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Trove of Thousand Teeth
 aetherPower: bulwark
 lb1:
