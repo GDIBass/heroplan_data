@@ -26,7 +26,7 @@ passives:
   Skills is increased by 1 turn'
 image: https://i.imgur.com/5redygr.jpg
 dtReleased: "2021-03-25"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Arachnid Aristocrat
 aetherPower: fiend_resist
 lb1:
@@ -41,7 +41,7 @@ lb2:
   health: 1785
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Wizard
   power: 1021
   attack: 1016
@@ -68,7 +68,7 @@ costume:
     health for 4 turns.'
   image: https://i.imgur.com/aGoeueo.jpg
   dtReleased: "2023-04-27"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Bridal Aristocrat
   aetherPower: counterattack
   lb1:

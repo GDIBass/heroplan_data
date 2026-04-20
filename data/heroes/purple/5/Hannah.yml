@@ -25,7 +25,7 @@ passives:
 - 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/adxVUbU.jpg
 dtReleased: "2021-06-17"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Adventurous Archaeologist
 aetherPower: fiend_resist
 lb1:
@@ -40,7 +40,7 @@ lb2:
   health: 1767
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Rogue
   power: 1022
   attack: 1030
@@ -57,7 +57,8 @@ costume:
     as the owner has Golden Idol Fiends. This effect can't be cleansed.
   types:
   - Hit 3
-  - Fiends 3
+  - Fiend Summoner 3
+  - Attack Debuff Fiend
   passives:
   - 'Start Battle With Mana: This Hero receives 20% mana at the start of the battle.'
   - 'Increased Damage Against Boosted Health: After this character casts their Special
@@ -65,7 +66,7 @@ costume:
     against targets with boosted health for 4 turns.'
   image: https://i.imgur.com/uhuj4Z5.jpg
   dtReleased: "2024-04-25"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Adventurous Drover
   aetherPower: attack_up
   lb1:

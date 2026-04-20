@@ -14,13 +14,13 @@ effects:
 - All allies receive a small ammount of mana over 4 turns.
 types:
 - Reviver
-- Mana regen
+- MoT All
 passives:
 - 'Special Skill Damage Reduction: Received damage from Special Skills is  reduced
   by -20% for this character.'
 image: https://i.imgur.com/QGwMonb.jpg
 dtReleased: "2021-03-25"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Halfling Elder
 aetherPower: bulwark
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1126
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 2/2/4/1
   class: Druid
   power: 488
   attack: 459
@@ -47,13 +47,13 @@ costume:
   - All allies regenerate 324 HP over 4 turns.
   types:
   - Reviver
-  - HoT
+  - HoT All
   passives:
   - 'Special Skill Damage Reduction: Received damage from Special Skills is  reduced
     by -20% for this character.'
   image: https://i.imgur.com/8hGBh7z.jpg
   dtReleased: "2023-11-09"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Halfling Gardener
   aetherPower: regen
   lb1:

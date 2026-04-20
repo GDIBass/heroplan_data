@@ -18,7 +18,7 @@ passives:
 - This character receives 20% mana at the start of the battle.
 image: https://i.imgur.com/lNl4PPg.jpg
 dtReleased: "2021-08-12"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Enigmatic Explorer
 aetherPower: attack_up
 lb1:
@@ -33,7 +33,7 @@ lb2:
   health: 1645
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Wizard
   power: 1024
   attack: 1081
@@ -53,7 +53,7 @@ costume:
     health for 4 turns.'
   image: https://i.imgur.com/UjiSmNx.jpg
   dtReleased: "2023-12-07"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Enigmatic Machinist
   aetherPower: special_boost
   lb1:

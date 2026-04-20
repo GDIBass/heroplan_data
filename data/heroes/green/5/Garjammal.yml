@@ -21,7 +21,7 @@ passives:
   receives from Special Skill is decreased by 1 turn.'
 image: https://i.imgur.com/kz19bRj.jpg
 dtReleased: "2021-04-22"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Morlock Battle Master
 aetherPower: rage
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1663
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Paladin
   power: 1021
   attack: 1003
@@ -49,7 +49,7 @@ costume:
     is hit with direct damage from a special skill.
   types:
   - Hit 1
-  - Self HoT
+  - HoT Self
   passives:
   - 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
     receives from Special Skill is decreased by 1 turn.'
@@ -58,7 +58,7 @@ costume:
     health for 4 turns.'
   image: https://i.imgur.com/U99nNNm.jpg
   dtReleased: "2023-06-22"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Morlock Kite Master
   aetherPower: regen
   lb1:

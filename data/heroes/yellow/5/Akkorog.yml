@@ -20,7 +20,7 @@ passives:
   that deals damage, an additional 30% is added to its power.'
 image: https://i.imgur.com/gMyh86R.jpg
 dtReleased: "2021-03-25"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Morlock Chieftain
 aetherPower: attack_up
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1691
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Barbarian
   power: 1021
   attack: 985
@@ -60,7 +60,7 @@ costume:
     targets with boosted health for 3 turns.'
   image: https://i.imgur.com/VvDq081.jpg
   dtReleased: "2024-02-01"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Morlock Running Back
   aetherPower: damage_reduction
   lb1:

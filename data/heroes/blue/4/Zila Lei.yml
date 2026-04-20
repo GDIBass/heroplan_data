@@ -15,13 +15,13 @@ effects:
 - The enemies on the edges of the enemy formation get -34% defense for 3 turns.
 types:
 - Hit 2
-- Defense Down
+- Defense Debuff 2
 passives:
 - 'Increased Special Skill Damage: The first time this character casts a Special Skill
   that deals damage, an additional 30% is added to its power.'
 image: https://i.imgur.com/AZ3KQGe.jpg
 dtReleased: "2021-03-25"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Octropod Assassin
 aetherPower: attack_up
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1555
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 2/2/4/1
   class: Monk
   power: 692
   attack: 701
@@ -49,13 +49,13 @@ costume:
   - The enemies on the edges of the enemy formation get -30% defence for 3 turns.
   types:
   - Hit 2
-  - Defense Down
+  - Defense Debuff 2
   passives:
   - 'Increased Special Skill Damage: The first time this character casts a Special
     Skill that deals damage, an additional 30% is added to its power.'
   image: https://i.imgur.com/uA3g8LR.jpg
   dtReleased: "2024-01-04"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Octopod Dancer
   aetherPower: counterattack
   lb1:

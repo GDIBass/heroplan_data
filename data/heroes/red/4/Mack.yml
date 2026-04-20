@@ -14,14 +14,14 @@ effects:
   4 turns.
 - The caster and nearby allies get +25% attack for 4 turns.
 types:
-- Counterattack
-- Attack Buff
+- Counterattack 3
+- Attack Buff 3
 passives:
 - 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
   Skills is increased by 1 turn.'
 image: https://i.imgur.com/nafpwvj.jpg
 dtReleased: "2021-03-25"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Halfling Adventurer
 aetherPower: regen
 lb1:
@@ -48,14 +48,14 @@ costume:
     4 turns.
   - The caster and nearby allies get +35% attack for 4 turns.
   types:
-  - Counterattack
-  - Attack Buff
+  - Counterattack 3
+  - Attack Buff 3
   passives:
   - 'Increase Buff Duration: Duration of the first 3 buff this hero receives from
     Special Skills is increased by 1 turn.'
   image: https://i.imgur.com/piqOqpg.jpg
   dtReleased: "2024-05-23"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Halfling Novelist
   aetherPower: damage_reduction
   lb1:

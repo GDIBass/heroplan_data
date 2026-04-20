@@ -23,7 +23,7 @@ effects:
 - While in Ghost form, all allies' except the caster's HP is boosted by 180 HP every
   turn.
 types:
-- Self Full Removal
+- Full Cleanser Self
 - Ghost
 - Defense Buff 4 while Ghost
 - Boosted HoT 4 while Ghost
@@ -32,7 +32,7 @@ passives:
   by -20% for this character.'
 image: https://i.imgur.com/RFjr7Fi.jpg
 dtReleased: "2021-11-04"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: King of the Depths
 aetherPower: special_armor
 lb1:
@@ -47,7 +47,7 @@ lb2:
   health: 1767
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Cleric
   power: 1026
   attack: 928
@@ -66,7 +66,7 @@ costume:
   - While in Ghost form, all allies except the caster regenerate 300 boosted health
     every turn. Boosted health can exceed max HP.
   types:
-  - Self Full Removal
+  - Full Cleanser Self
   - Ghost
   - Defense Buff 4 while Ghost
   - Boosted HoT 4 while Ghost
@@ -77,7 +77,7 @@ costume:
     they boost the health of all their allies by 10%.'
   image: https://i.imgur.com/EAwYCZr.jpg
   dtReleased: "2024-08-29"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: The Deathless King
   aetherPower: boosted_regen
   lb1:

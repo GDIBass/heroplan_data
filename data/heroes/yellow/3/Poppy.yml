@@ -15,13 +15,13 @@ effects:
   hits deal minor damage.
 types:
 - Hit 1
-- Additional Hit Random 1 Chance
+- Hit Random 1 Chance
 passives:
 - 'Increased Specail Skill Damage: This first time this character cast a  Special
   Skill that deals damage an additional 30% is added to its power.'
 image: https://i.imgur.com/pxiscDG.jpg
 dtReleased: "2021-03-25"
-dtModified: "2026-03-20"
+dtModified: "2026-04-20"
 fancy_name: Halfling Arbalist
 aetherPower: attack_up
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1126
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 2/2/4/1
   class: Rogue
   power: 488
   attack: 510
@@ -49,13 +49,13 @@ costume:
     hits deal minor damage.
   types:
   - Hit 1
-  - Additional Hit Random 1 Chance
+  - Hit Random 1 Chance
   passives:
   - 'Increased Special Skill Damage: The first time this character casts a Special
     Skill that deals damage, an additional 30% is added to its power.'
   image: https://i.imgur.com/nCfovhZ.jpg
   dtReleased: "2024-02-29"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-20"
   fancy_name: Halfling Lodger
   aetherPower: damage_reduction
   lb1:

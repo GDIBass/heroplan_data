@@ -24,7 +24,7 @@ passives:
   Skills is increased by 1 turn.'
 image: https://i.imgur.com/6D1hJ1P.jpg
 dtReleased: "2021-12-02"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Clever Voyager
 aetherPower: special_armor
 lb1:
@@ -39,7 +39,7 @@ lb2:
   health: 1739
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Cleric
   power: 1026
   attack: 882
@@ -63,7 +63,7 @@ costume:
     by 10%.'
   image: https://i.imgur.com/mcEOLvZ.jpg
   dtReleased: "2023-10-12"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Elegant Artist
   aetherPower: defense_up
   lb1:
