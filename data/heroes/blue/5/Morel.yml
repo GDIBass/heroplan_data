@@ -20,7 +20,7 @@ passives:
   that does damage, an additional 30% is added to its power.'
 image: https://i.imgur.com/BbpdvD9.jpg
 dtReleased: "2021-06-17"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Eloi Hunter
 aetherPower: defense_up
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1790
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Fighter
   power: 1021
   attack: 1071
@@ -58,7 +58,7 @@ costume:
     health for 4 turns.'
   image: https://i.imgur.com/MAsmJsS.jpg
   dtReleased: "2023-07-20"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Eloi Sage
   aetherPower: bulwark
   lb1:

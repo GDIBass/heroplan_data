@@ -22,7 +22,7 @@ passives:
   Skills is increased by 1 turn.'
 image: https://i.imgur.com/zGSnaa1.jpg
 dtReleased: "2021-10-07"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Octopod Champion
 aetherPower: counterattack
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1722
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Rogue
   power: 1027
   attack: 1059
@@ -60,7 +60,7 @@ costume:
     health for 4 turns.'
   image: https://i.imgur.com/uAzDRXt.jpg
   dtReleased: "2023-08-17"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Molluscan Suitor
   aetherPower: attack_up
   lb1:

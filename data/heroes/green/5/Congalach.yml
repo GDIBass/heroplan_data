@@ -20,7 +20,7 @@ passives:
   by -20% for this character.'
 image: https://i.imgur.com/FKztylV.jpg
 dtReleased: "2022-01-27"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Warrior of the Depths
 aetherPower: attack_up
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1714
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Barbarian
   power: 1031
   attack: 1024
@@ -47,7 +47,7 @@ costume:
   - 'Stack (Max: 10): Each hit gives its target -8% attack.'
   types:
   - Hit 5 random
-  - Attack Debuff stack
+  - Attack Debuff stack on hit
   passives:
   - 'Special Skill Damage Reduction: Received damage from Special Skills is reduced
     by -20% for this character.'
@@ -56,7 +56,7 @@ costume:
     targets with boosted health for 4 turns.'
   image: https://i.imgur.com/llQVrNB.jpg
   dtReleased: "2024-08-01"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Warrior of Kelp
   aetherPower: regen
   lb1:

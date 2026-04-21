@@ -1,27 +1,28 @@
 ---
-name: Devyani
+name: Ajay
 source: temple
 family: mahayoddha
-speed: Very Fast
-class: Ranger
-power: 1261
-attack: 1328
-defense: 1268
-health: 2261
-skill: Righteous Stance
+speed: Fast
+class: Barbarian
+power: 1299
+attack: 1369
+defense: 1324
+health: 2317
+skill: Urumi Lashings
 effects:
-- This Special Skill never misses its targets.
-- Deals 500% damage to the target.
+- Deals 310% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy.
+- All hit targets receive 882 Bleed damage over 3 turns.
 - 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage
   is based on the modified attack on the caster when damage is dealt. Up to maximum
   800 additional extra damage. Status effects affecting damage dealt do affect the
   extra damage. Defense stat does not affect the extra damage. Status effects affecting
   attack stat do not affect the extra damage.)'
-- 'Wither: The target gets -350 defense.'
 types:
 - Hit 1
+- Chain Attack
+- DoT on hit
 - Hit Growth Boon
-- Defense Debuff Wither 1
 passives:
 - 'Mana on Damage Received:'
 - ' * When this character receives direct damage from Special Skills or Normal Attacks
@@ -29,19 +30,18 @@ passives:
 - ' * Maximum of 10% mana gained per turn.'
 - 'Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions
   and Mega Minions.'
-image: https://imgur.com/EHCDuod.jpg
-dtReleased: "2025-12-10"
-dtModified: "2026-04-21"
-fancy_name: Fierce Warrior Princess
-aetherPower: special_boost
+image: https://imgur.com/c2yWZe5.jpg
+dtReleased: "2026-04-21"
+dtModified: ""
+aetherPower: attack_up
 lb1:
-  power: 1349
-  attack: 1431
-  defense: 1367
-  health: 2437
+  power: 1390
+  attack: 1476
+  defense: 1427
+  health: 2497
 lb2:
-  power: 1526
-  attack: 1638
-  defense: 1564
-  health: 2788
+  power: 1573
+  attack: 1689
+  defense: 1633
+  health: 2857
 ...

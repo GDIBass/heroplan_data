@@ -23,14 +23,14 @@ types:
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 - 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
-- ' * Rare Holy Trainer Heroes'
-- ' * Uncommon Holy Trainer Heroes'
+- ' * Rare Holy Trainer Hero'
+- ' * Uncommon Holy Trainer Hero'
 - ' * Uncommon Holy Heroes'
-- ' * Common Holy Trainer Heroes'
+- ' * Common Holy Trainer Hero'
 - ' * Common Holy Heroes'
 image: https://imgur.com/WAwhfFp.jpg
 dtReleased: "2025-05-31"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Trove of Thousand Teeth
 aetherPower: bulwark
 lb1:

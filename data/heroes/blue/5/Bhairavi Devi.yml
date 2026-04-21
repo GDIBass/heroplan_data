@@ -11,10 +11,10 @@ health: 2296
 skill: Thandai Trance
 effects:
 - Recovers 44% health for all allies.
-- 'Growth Boon: Deals 2x extra health for each point of modified defense. (Extra health
-  is based on the modified defense on the caster when healing is applied. Up to maximum
-  800 of additional healing. Status effects affecting healing received do affect the
-  healing scaling.)'
+- 'Growth Boon: Recovers 2x extra health for each point of modified defense. (Extra
+  health is based on the modified defense on the caster when healing is applied. Up
+  to maximum 800 of additional healing. Status effects affecting healing received
+  do affect the healing scaling.)'
 - Cleanses status ailments from all allies.
 - All enemies fall into Deep Sleep and receive +80% increased damage while in Deep
   Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in
@@ -22,7 +22,7 @@ effects:
 types:
 - Healer All
 - Heal Growth Boon
-- Cleanse All
+- Clean All
 - Deep Sleep All
 passives:
 - 'Mana on Damage Received:'
@@ -33,7 +33,7 @@ passives:
   effects and damage from Minions and Mega Minions.'
 image: https://imgur.com/evg5S2S.jpg
 dtReleased: "2026-03-24"
-dtModified: ""
+dtModified: "2026-04-21"
 fancy_name: Jestful Thakurain
 aetherPower: heal_increase
 lb1:

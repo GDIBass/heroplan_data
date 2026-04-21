@@ -23,14 +23,14 @@ types:
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 - 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
-- ' * Common Fire Trainer Heroes'
-- ' * Uncommon Fire Trainer Heroes'
-- ' * Rare Fire Trainer Heroes'
-- ' * Common Fire Heroes'
+- ' * Rare Fire Trainer Hero'
+- ' * Uncommon Fire Trainer Hero'
 - ' * Uncommon Fire Heroes'
+- ' * Common Fire Trainer Hero'
+- ' * Common Fire Heroes'
 image: https://imgur.com/RRFijVL.jpg
 dtReleased: "2025-04-22"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Trove of Thousand Teeth
 aetherPower: bulwark
 lb1:

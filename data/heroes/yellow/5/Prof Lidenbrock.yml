@@ -15,14 +15,14 @@ effects:
 - All allies regenerate 600 boosted health over 4 turns. Boosted health can exceed
   max HP. The effect duration is reset if the target receives status ailments.
 types:
-- Cleanse All
+- Cleanser All
 - Health Boost All
 - Boosted HoT All
 passives:
 - 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/1q7ZFV3.jpg
 dtReleased: "2021-03-25"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Sagacious Scientist
 aetherPower: heal_increase
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1719
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Monk
   power: 1020
   attack: 963
@@ -50,7 +50,7 @@ costume:
   - All allies regenerate 400 boosted health over 4 turns. Boosted health can exceed
     max HP. The effect duration is reset if the target receives status ailments.
   types:
-  - Cleanse All
+  - Cleanser All
   - Boosted Heal All
   - Boosted HoT All
   passives:
@@ -60,7 +60,7 @@ costume:
     by 10%.'
   image: https://i.imgur.com/CwQ3ejX.jpg
   dtReleased: "2023-04-27"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Sagacious Jeweler
   aetherPower: special_armor
   lb1:

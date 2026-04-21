@@ -23,7 +23,7 @@ passives:
   Skills is increased by 1 turn.'
 image: https://i.imgur.com/H6eN1G6.jpg
 dtReleased: "2021-09-09"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Myriapod Queen
 aetherPower: attack_up
 lb1:
@@ -38,7 +38,7 @@ lb2:
   health: 1623
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Sorcerer
   power: 1024
   attack: 1086
@@ -62,7 +62,7 @@ costume:
     targets with boosted health for 4 turns.'
   image: https://i.imgur.com/lrLa3g9.jpg
   dtReleased: "2024-02-29"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Apocynacid Queen
   aetherPower: counterattack
   lb1:

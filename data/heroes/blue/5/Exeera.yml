@@ -15,12 +15,12 @@ effects:
   for all Fire enemies.
 - All Ice enemies are immune to this attack.
 types:
-- DoT All
+- DoT All except Ice
 passives:
 - 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/UnO1gz8.jpg
 dtReleased: "2021-12-30"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Octopod Priest
 aetherPower: boosted_regen
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1714
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Wizard
   power: 1030
   attack: 1049
@@ -48,7 +48,7 @@ costume:
     for all Fire enemies.
   - All Ice enemies are immune to this attack.
   types:
-  - DoT All
+  - DoT All except Ice
   passives:
   - 'Start Battle with Mana: This character receives 20% mana at the start of the
     battle.'
@@ -57,7 +57,7 @@ costume:
     against targets with boosted health for 4 turns.'
   image: https://i.imgur.com/4y90uTW.jpg
   dtReleased: "2024-09-26"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Octopod Hierophant
   aetherPower: special_armor
   lb1:

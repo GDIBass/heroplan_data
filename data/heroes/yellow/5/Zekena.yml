@@ -23,7 +23,7 @@ passives:
   Special Skill is increased by 1 turn.'
 image: https://i.imgur.com/hsqxizP.jpg
 dtReleased: "2021-12-02"
-dtModified: "2026-03-20"
+dtModified: "2026-04-20"
 fancy_name: Myriapod Prince
 aetherPower: dodge
 lb1:
@@ -38,7 +38,7 @@ lb2:
   health: 1722
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Fighter
   power: 1028
   attack: 1046
@@ -52,7 +52,7 @@ costume:
   - The target of the second hit gets -56% defense for 3 turns.
   types:
   - Hit 1
-  - Bounce
+  - Hit Random 1
   - Defense Debuff 1
   passives:
   - 'Increase Buff Duration: Duration of the first 3 buffs this character receives
@@ -62,7 +62,7 @@ costume:
     against targets with boosted health for 4 turns .'
   image: https://i.imgur.com/KswtgYH.jpg
   dtReleased: "2024-06-20"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-20"
   fancy_name: Apocynacid Prince
   aetherPower: special_armor
   lb1:

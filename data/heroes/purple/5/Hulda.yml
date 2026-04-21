@@ -25,7 +25,7 @@ passives:
   Special Skill is increased by 1 turn.'
 image: https://i.imgur.com/J9OOPtS.jpg
 dtReleased: "2022-03-24"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Head of the Moles
 aetherPower: special_armor
 lb1:
@@ -40,7 +40,7 @@ lb2:
   health: 1823
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Paladin
   power: 1034
   attack: 982
@@ -65,7 +65,7 @@ costume:
     they boost the health of all their allies by 10%.'
   image: https://i.imgur.com/sPMKsgr.jpg
   dtReleased: "2024-03-28"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Head Nurse
   aetherPower: ailment_immunity
   lb1:

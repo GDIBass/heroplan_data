@@ -25,7 +25,7 @@ passives:
   3 times this character receives damage from Special Skills.'
 image: https://i.imgur.com/pr4mBGS.jpg
 dtReleased: "2022-12-08"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Heiress of the Underworld
 aetherPower: attack_up
 lb1:
@@ -40,7 +40,7 @@ lb2:
   health: 1859
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Monk
   power: 1081
   attack: 1073
@@ -55,8 +55,9 @@ costume:
     increasing every turn until on the last turn all the generated mana is stolen.
   types:
   - Hit All
-  - Dot All
-  - Mana steal All
+  - DoT All
+  - Heal Self on burn
+  - Mana Steal All
   passives:
   - 'Special Skill Damage Reduction: Received damage is reduced by -20% for the first
     3 times this character receives damage from Special Skills'
@@ -65,7 +66,7 @@ costume:
     targets with boosted health for 4 turns.'
   image: https://i.imgur.com/QhwvGtU.jpg
   dtReleased: "2024-05-23"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Heiress to the Flame
   aetherPower: counterattack
   lb1:

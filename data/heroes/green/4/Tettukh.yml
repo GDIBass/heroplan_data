@@ -10,19 +10,19 @@ defense: 667
 health: 1241
 skill: Crippling Grapple
 effects:
-- Deals 320% damage to the target
-- The target gets silenced for 4 turns
-- The target receives 100 Poison damage over 4 turns
+- Deals 320% damage to the target.
+- The target gets silenced for 4 turns.
+- The target receives 100 Poison damage over 4 turns.
 types:
 - Hit 1
-- Silence
-- Dot 1
+- Silence 1
+- DoT 1
 passives:
-- 'Special Skill Damage Reduction: Received damage from Special Skills is  reduced
+- 'Special Skill Damage Reduction: Received damage from Special Skills is reduced
   by -20% for this character.'
 image: https://i.imgur.com/OZiH56V.jpg
 dtReleased: "2021-03-25"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Morlock Brute
 aetherPower: regen
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1563
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 2/2/4/1
   class: Barbarian
   power: 692
   attack: 738
@@ -50,14 +50,14 @@ costume:
   - The target receives 228 Poison damage over 4 turns.
   types:
   - Hit 1
-  - Silence
+  - Silence 1
   - DoT 1
   passives:
-  - 'Special Skill Damage Reduction: Received damage from Special Skills is  reduced
+  - 'Special Skill Damage Reduction: Received damage from Special Skills is reduced
     by -20% for this character.'
   image: https://i.imgur.com/Upmqcxi.jpg
   dtReleased: "2023-12-07"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Morlock Cheerleader
   aetherPower: attack_up
   lb1:
