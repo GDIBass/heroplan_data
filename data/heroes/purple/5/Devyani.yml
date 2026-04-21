@@ -12,8 +12,11 @@ skill: Righteous Stance
 effects:
 - This Special Skill never misses its targets.
 - Deals 500% damage to the target.
-- 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Wither and
-  Growth modify character''s Ability Scores.)'
+- 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage
+  is based on the modified attack on the caster when damage is dealt. Up to maximum
+  800 additional extra damage. Status effects affecting damage dealt do affect the
+  extra damage. Defense stat does not affect the extra damage. Status effects affecting
+  attack stat do not affect the extra damage.)'
 - 'Wither: The target gets -350 defense.'
 types:
 - Hit 1
@@ -28,7 +31,7 @@ passives:
   and Mega Minions.'
 image: https://imgur.com/EHCDuod.jpg
 dtReleased: "2025-12-10"
-dtModified: "2026-03-24"
+dtModified: "2026-04-21"
 fancy_name: Fierce Warrior Princess
 aetherPower: special_boost
 lb1:
