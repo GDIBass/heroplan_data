@@ -1,0 +1,49 @@
+---
+name: Big Barry
+source: valiant
+family: vegetable
+speed: Fast
+class: Barbarian
+power: 1300
+attack: 1369
+defense: 1328
+health: 2317
+skill: Spiked Bat Thrashing
+effects:
+- Deals 560% damage to the target.
+- Deals additional 15% damage for each Fiend or Mega Fiend owned by the enemies, up
+  to 710% damage in total.
+- The target receives lasting 320 Bleed damage per turn. (This effect lasts until
+  it is cleansed, replaced or removed.)
+- The caster gets +40% attack, and a further 20% increase every time they are hit
+  during 4 turns, up to 140% attack.
+types:
+- Hit 1
+- Lasting DoT 1
+- Attack Buff Self
+passives:
+- 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
+  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
+  mana each time they resist.'
+- 'Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.'
+- '* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.'
+- '* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.'
+- '* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.'
+- '1) Seedling Fiend: 50% attack, 20% health'
+- '2) Sprout Fiend: 75% attack, 30% health'
+- '3) Blossom Mega Fiend: 250% attack, 60% health.'
+image: https://imgur.com/bVjv5D4.jpg
+dtReleased: "2026-04-25"
+dtModified: ""
+aetherPower: rage
+lb1:
+  power: 1391
+  attack: 1476
+  defense: 1431
+  health: 2497
+lb2:
+  power: 1574
+  attack: 1689
+  defense: 1638
+  health: 2857
+...
