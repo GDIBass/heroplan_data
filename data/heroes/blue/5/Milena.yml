@@ -29,7 +29,7 @@ passives:
   chance is 100%.'
 image: https://i.imgur.com/30AXxJs.jpg
 dtReleased: "2021-09-15"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Teacher of the Arcane Arts
 aetherPower: damage_reduction
 lb1:
@@ -44,7 +44,7 @@ lb2:
   health: 1737
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 57/57/57/1
   class: Cleric
   power: 1206
   attack: 1241
@@ -58,15 +58,15 @@ costume:
   - ' * Cleanses status ailments from all allies.'
   - '2x Mana Charge:'
   - ' * Deals 440% damage to all enemies.'
-  - ' * Dispels buffs from all enemies.'
   - ' * All enemies receive 340 Frost damage over 5 turns.'
+  - ' * Dispels buffs from all enemies.'
   types:
   - Charge
   - Heal All
   - Cleanser All
   - Hit All
-  - Dispeller All
   - DoT All
+  - Dispeller All
   passives:
   - 'Mana on Special: When this character casts their Special Skill, they have a 60%
     chance to give 10% mana to all allies. If the Special Skill is fully charged,
@@ -74,7 +74,7 @@ costume:
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/hwGD9H1.jpg
   dtReleased: "2025-04-17"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: Teacher of Arctic Spells
   aetherPower: dodge
   lb1:

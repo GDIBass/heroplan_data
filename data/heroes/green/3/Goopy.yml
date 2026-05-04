@@ -17,14 +17,14 @@ effects:
   shield on the board for 3 turns, up to -40% mana generation.
 types:
 - Hit All
-- Mana gen debuff
+- Mana Generation Debuff All
 passives:
 - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/WJOazL8.jpg
 dtReleased: "2022-10-03"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Gelatinous Goo
 aetherPower: attack_up
 lb1:

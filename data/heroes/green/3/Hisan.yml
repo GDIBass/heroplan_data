@@ -17,12 +17,12 @@ effects:
 - Cleanses status ailments from the caster.
 types:
 - Hit 1
-- Dot 1
-- Healing Debuff
-- Self Clean
+- DoT 1
+- Healing Debuff 1
+- Clean Self
 image: https://i.imgur.com/YmBbafl.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Trusted Steed of Sand Empire
 aetherPower: rage
 lb1:

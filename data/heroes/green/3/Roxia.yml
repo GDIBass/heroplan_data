@@ -23,7 +23,7 @@ types:
 - Hit 1
 - Damage Link 1
 - Bypass Chance All
-- Critical Chance All
+- Critical Chance Buff All
 passives:
 - 'Mana on Special: When this character casts their Special Skill, they have a 50%
   chance to give 10% mana to all allies. If the Special Skill is fully charged, the
@@ -33,7 +33,7 @@ passives:
   two stacks. An enemy can have up to 10 stacks.'
 image: https://i.imgur.com/M3v3YrZ.jpg
 dtReleased: "2023-05-03"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Ancient Scribble Enthusiast
 aetherPower: ailment_immunity
 lb1:

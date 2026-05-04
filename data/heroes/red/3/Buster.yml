@@ -18,11 +18,11 @@ effects:
   damage.
 types:
 - Hit 3
-- Summoner
-- Damage Debuff
+- Summoner Self
+- Increased Received Damage Debuff 3
 image: https://i.imgur.com/LgUJQa9.jpg
 dtReleased: "2022-12-01"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Grumpy Garden Gnome
 aetherPower: dodge
 lb1:

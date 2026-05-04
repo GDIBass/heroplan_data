@@ -22,7 +22,7 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/dQao9jX.jpg
 dtReleased: "2020-10-26"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: The Monster
 aetherPower: regen
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1627
 costume:
   design: costume1
-  bonuses: 2/2/4/1
+  bonuses: 2/2/4/5
   class: Monk
   power: 681
   attack: 655
@@ -61,7 +61,7 @@ costume:
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/HUrGPkv.jpg
   dtReleased: "2021-10-04"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: The Mobster
   aetherPower: special_boost
   lb1:

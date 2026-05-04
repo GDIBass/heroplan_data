@@ -23,7 +23,7 @@ passives:
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/MfQu0Jd.jpg
 dtReleased: "2022-06-20"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Ferocious Hunter
 aetherPower: counterattack
 lb1:
@@ -38,7 +38,7 @@ lb2:
   health: 1229
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/1
   class: Rogue
   power: 499
   attack: 484
@@ -59,7 +59,7 @@ costume:
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://imgur.com/xrbGPND.jpg
   dtReleased: "2025-07-28"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: Frozen Hunter
   aetherPower: special_boost
   lb1:

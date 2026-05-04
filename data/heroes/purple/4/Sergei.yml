@@ -18,16 +18,16 @@ effects:
   addition to effects that alter attack in general. Normal attacks can have a total
   maximum of +160% increase power while this effect is active.'
 types:
-- Elemental Defense Debuff
-- Normal attack buff
 - Charge
+- Elemental Defense Debuff All
+- Normal Attack Buff All
 passives:
 - 'Damage on Special: When this character casts their Special Skill, they have a 50%
   chance to deal 100% damage to all enemies. If the Special Skill is fully charged,
   the chance is 100%.'
 image: https://i.imgur.com/2gnuaoM.jpg
 dtReleased: "2021-09-15"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Student of the Arcane
 aetherPower: special_armor
 lb1:

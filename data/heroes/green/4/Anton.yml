@@ -18,18 +18,18 @@ effects:
 - ' * Each fallen ally has a 44% chance to get revived with 40% HP.'
 - ' * All allies regenerate 405 HP over 5 turns'
 types:
+- Charge
 - Hit All
-- Poison
+- DoT All
 - Reviver
 - HoT All
-- Charge
 passives:
 - 'Healt recovery on special: When this character casts their Special Skill, they
   have a 50% chance to recover 15% health for all allies. If the Special Skill is
   fully charged, the chance is 100%.'
 image: https://i.imgur.com/P0bT6Vn.jpg
 dtReleased: "2021-09-15"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Young Scholar
 aetherPower: defense_up
 lb1:

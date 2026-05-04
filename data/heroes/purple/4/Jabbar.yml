@@ -17,12 +17,12 @@ effects:
 - Dispels status ailments from the caster.
 types:
 - Hit 3
-- Dot 3
-- Healing Debuff
-- Self Clean
+- DoT 3
+- Healing Debuff 3
+- Clean Self
 image: https://i.imgur.com/3RqMEeN.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Brute of Sand Empire
 aetherPower: counterattack
 lb1:

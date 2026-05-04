@@ -36,7 +36,7 @@ passives:
   chance is 100%.'
 image: https://i.imgur.com/Ssu3ay2.jpg
 dtReleased: "2023-11-15"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Mystic Chess Master
 aetherPower: damage_reduction
 lb1:
@@ -51,7 +51,7 @@ lb2:
   health: 2103
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 32/32/32/1
   class: Wizard
   power: 1224
   attack: 1239
@@ -88,7 +88,7 @@ costume:
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/l0NBwwH.jpg
   dtReleased: "2025-08-20"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: Mystic Pie Master
   aetherPower: ailment_immunity
   lb1:
