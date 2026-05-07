@@ -1,3 +1,4 @@
+---
 elements:
   dark: https://imgur.com/z09a2B5.png
   holy: https://imgur.com/bulJfMu.png
@@ -61,4 +62,57 @@ badge-ascension:
     4: https://imgur.com/wVO6TOe.png
     485: https://imgur.com/ofGhwxA.png
     490: https://imgur.com/c721ksx.png
-    
+talent-nodes:
+  attackbonus: https://imgur.com/OX3Ny2W.png
+  attackbonuspercent: https://imgur.com/GCAEASe.png
+  criticalbonus: https://imgur.com/B47BSAb.png
+  defensebonus: https://imgur.com/QZPbQty.png
+  defensebonuspercent: https://imgur.com/Lpe5YyJ.png
+  healthbonus: https://imgur.com/4DD2VoQ.png
+  healthbonuspercent: https://imgur.com/Rfofz1M.png
+  healingbonus: https://imgur.com/PeJQyJW.png
+  manabonus: https://imgur.com/4jc5uNX.png
+  node: https://imgur.com/gAZoNgK.png
+  node_locked: https://imgur.com/2VnKdgK.png
+  node_master: https://imgur.com/c7vvkbw.png
+  node_notches: https://imgur.com/xzvblXW.png
+  node_reachable: https://imgur.com/dC0UGzR.png
+  node_reachable_master: https://imgur.com/BzoFdF6.png
+  node-bg: https://imgur.com/qpQCLt9.png
+  companion: https://imgur.com/pAy4UFp.png
+  companionmaxed: https://imgur.com/MXk68Co.png
+  companionmaster: https://imgur.com/yJODqS5.png
+  delay: https://imgur.com/AKUlkWV.png
+  delaymaxed: https://imgur.com/kad6Hvf.png
+  delaymaster: https://imgur.com/caWTHhv.png
+  evade: https://imgur.com/l6ScP0s.png
+  evademaxed: https://imgur.com/WTKhVni.png
+  evademaster: https://imgur.com/3abu0c5.png
+  jinx: https://imgur.com/W9buYzy.png
+  jinxmaxed: https://imgur.com/Pz7VvKK.png
+  jinxmaster: https://imgur.com/FqA7OwC.png
+  manashield: https://imgur.com/T8iRyLF.png
+  manashieldmaxed: https://imgur.com/rIdtQoH.png
+  manashieldmaster: https://imgur.com/dv5us3S.png
+  pierce: https://imgur.com/whTG0HH.png
+  piercemaxed: https://imgur.com/iBYkAr2.png
+  piercemaster: https://imgur.com/hdOyqyQ.png
+  protect: https://imgur.com/HoVkESa.png
+  protectmaxed: https://imgur.com/Au6No7r.png
+  protectmaster: https://imgur.com/K5tnzV5.png
+  revive: https://imgur.com/cr5kdad.png
+  revivemaxed: https://imgur.com/boF84AW.png
+  revivemaster: https://imgur.com/gLyzc4k.png
+  withstand: https://imgur.com/4JYj5ZN.png
+  withstandmaxed: https://imgur.com/Aeu5yh4.png
+  withstandmaster: https://imgur.com/tl1jaUZ.png
+  wound: https://imgur.com/5zyCGIG.png
+  woundmaxed: https://imgur.com/8Wnd9M3.png
+  woundmaster: https://imgur.com/vfHaxgf.png
+  masternodeattack: https://imgur.com/3ECkhmZ.png
+  masternodedefense: https://imgur.com/hJnTvzg.png
+  masternodehealth: https://imgur.com/BdObF0p.png
+resources:
+  gem: https://imgur.com/A89uOhX.png
+
+...

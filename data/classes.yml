@@ -1,51 +1,1758 @@
+---
 classes:
   barbarian:
     code: 0
     key: barbarian
     description: Barbarian
     image: https://i.imgur.com/SWoQzpg.png
+    talents:
+      title: Wound
+      talentSkill:
+        desc: |-
+          After any normal attack, +%d%% chance to activate the following effects:
+          ** Deal %d%% of the damage done by the normal attack over 5 turns. If target already has this ailment, the previous ailment's remaining damage is added to the new ailment as additional damage.
+        descMaster: |-
+          After any normal attack, +%d%% chance to activate the following effects:
+          ** Deal %d%% of the damage done by the normal attack over 5 turns. If target already has this ailment, the previous ailment's remaining damage is added to the new ailment as additional damage.
+        talentImage: wound
+        maxedTalentImage: woundmaxed
+        masterTalentImage: woundmaster
+      superior:
+        talentSkill:
+          desc: |-
+            After any normal attack, +%d%% chance to activate the following effects:
+            ** Deal %d%% of the damage done by the normal attack over 5 turns. If target already has this ailment, the previous ailment's remaining damage is added to the new ailment as additional damage.
+            ** This character gets +%d%% attack for 3 turns.
+          descMaster: |-
+            After any normal attack, +%d%% chance to activate the following effects:
+            ** Deal %d%% of the damage done by the normal attack over 5 turns. If target already has this ailment, the previous ailment's remaining damage is added to the new ailment as additional damage.
+            ** This character gets +%d%% attack for 3 turns.
+        skill:
+        - 50
+        - 60
+        - 30
+        skillMaster:
+        - 50
+        - 80
+        - 30
+      talentGrid:
+        1:
+          a:
+            skill:
+            - 6
+            - 60
+        2:
+          a:
+            att: 15
+          b:
+            health: 36
+        3:
+          a:
+            health: 36
+          b:
+            def: 18
+        4:
+          a:
+            skill:
+            - 12
+            - 60
+        5:
+          a:
+            def: 18
+          b:
+            att: 15
+        6:
+          a:
+            health: 36
+          b:
+            def: 18
+        7:
+          a:
+            skill:
+            - 18
+            - 60
+        8:
+          a:
+            healingP: 2
+          b:
+            attP: 3
+        9:
+          a:
+            att: 15
+          b:
+            def: 18
+        10:
+          a:
+            critP: 2
+        11:
+          a:
+            health: 36
+          b:
+            att: 15
+        12:
+          a:
+            skill:
+            - 24
+            - 60
+        13:
+          a:
+            att: 15
+          b:
+            def: 18
+        14:
+          a:
+            def: 18
+          b:
+            health: 36
+        15:
+          a:
+            skill:
+            - 30
+            - 60
+        16:
+          a:
+            health: 36
+          b:
+            def: 18
+        17:
+          a:
+            att: 15
+          b:
+            health: 36
+        18:
+          a:
+            att: 15
+        19:
+          a:
+            manaP: 2
+          b:
+            defP: 3
+        20:
+          a:
+            healthP: 4
+        21:
+          a:
+            att: 50
+          b:
+            def: 60
+        22:
+          a:
+            att: 50
+          b:
+            def: 60
+        23:
+          a:
+            health: 50
+        24:
+          a:
+            att: 50
+          b:
+            def: 60
+        25:
+          a:
+            health: 50
+          skillMaster:
+          - 30
+          - 80
+      predefinedRoutes:
+        att-def: 0aaaabbabbabaaaaaaabaaabaa
+        att-def-mana: 0aaaabbabbabaaaaaaaaaaabaa
+        att-health: 0aaaabbaaaaaaaaaaaabaaabaa
+        att-health-mana: 0aaaabbaaaaaaaaaaaaaaaabaa
+        def-att: 0abbabbabbabaaaabbababbaba
+        def-att-mana: 0abbabbabbabaaaabbaaabbaba
+        def-health: 0abbaaaabbaaabbabbababbaba
+        def-health-mana: 0abbaaaabbaaabbabbaaabbaba
+        health-att: 0aaaaaaaaaaaabbaaaabaaaaaa
+        health-att-mana: 0aaaaaaaaaaaabbaaaaaaaaaaa
+        health-def: 0abbaaaaaaaaabbaabababbaba
+        health-def-mana: 0abbaaaaaaaaabbaabaaabbaba
   cleric:
     code: 1
     key: cleric
     description: Cleric
     image: https://i.imgur.com/YkaRPK3.png
+    talents:
+      title: Manashield
+      talentSkill:
+        desc: +%d%% chance to resist negative mana effects and effects that prevent
+          the use of Special Skills.
+        descMaster: |-
+          +%d%% chance to resist negative mana effects and effects that prevent the use of Special Skills. If effects were resisted, the following effects are also activated:
+          ** This character recovers %d%% health.
+        talentImage: manashield
+        maxedTalentImage: manashieldmaxed
+        masterTalentImage: manashieldmaster
+      superior:
+        talentSkill:
+          desc: +%d%% chance to resist direct mana reductions and reflect negative
+            mana effects and effects that prevent use of Special Skills.
+          descMaster: |-
+            +%d%% chance to resist direct mana reductions and reflect negative mana effects and effects that prevent use of Special Skills. If effects were resisted or reflected, the following effects are also activated:
+            ** This character recovers %d%% health.
+        skill:
+        - 60
+        skillMaster:
+        - 60
+        - 10
+      talentGrid:
+        1:
+          a:
+            skill:
+            - 7
+        2:
+          a:
+            health: 36
+          b:
+            def: 18
+        3:
+          a:
+            def: 18
+          b:
+            att: 15
+        4:
+          a:
+            skill:
+            - 14
+        5:
+          a:
+            att: 15
+          b:
+            health: 36
+        6:
+          a:
+            def: 18
+          b:
+            att: 15
+        7:
+          a:
+            skill:
+            - 21
+        8:
+          a:
+            attP: 3
+          b:
+            defP: 3
+        9:
+          a:
+            health: 36
+          b:
+            att: 15
+        10:
+          a:
+            healthP: 3
+        11:
+          a:
+            def: 18
+          b:
+            health: 36
+        12:
+          a:
+            skill:
+            - 28
+        13:
+          a:
+            health: 36
+          b:
+            att: 15
+        14:
+          a:
+            att: 15
+          b:
+            def: 18
+        15:
+          a:
+            skill:
+            - 35
+        16:
+          a:
+            def: 18
+          b:
+            att: 15
+        17:
+          a:
+            health: 36
+          b:
+            def: 18
+        18:
+          a:
+            health: 36
+        19:
+          a:
+            critP: 2
+          b:
+            manaP: 2
+        20:
+          a:
+            healingP: 4
+        21:
+          a:
+            att: 50
+          b:
+            def: 60
+        22:
+          a:
+            att: 50
+          b:
+            def: 60
+        23:
+          a:
+            health: 50
+        24:
+          a:
+            att: 50
+          b:
+            def: 60
+        25:
+          a:
+            health: 50
+          skillMaster:
+          - 35
+          - 10
+      predefinedRoutes:
+        att-def: 0abbaaaabbaaabbabbaaaaaaaa
+        att-def-mana: 0abbaaaabbaaabbabbabaaaaaa
+        att-health: 0abbabbaaaabaaaabbaaaaaaaa
+        att-health-mana: 0abbabbaaaabaaaabbabaaaaaa
+        def-att: 0abbaaaabbaaabbabbaaabbaba
+        def-att-mana: 0abbaaaabbaaabbabbababbaba
+        def-health: 0aaaaaaabbaaabbaaaaaabbaba
+        def-health-mana: 0aaaaaaabbaaabbaaaababbaba
+        health-def: 0aaaabbaaaabaaaaaaaaabbaba
+        health-def-mana: 0aaaabbaaaabaaaaaaababbaba
+        health-att: 0aaaabbaaaabaaaaaaaaaaaaaa
+        health-att-mana: 0aaaabbaaaabaaaaaaabaaaaaa
   druid:
     code: 2
     key: druid
     description: Druid
     image: https://i.imgur.com/vViZn74.png
+    talents:
+      title: Companion
+      talentSkill:
+        desc: |-
+          If this character received any damage by the end of enemy turn, +%d%% chance to activate the following effects:
+          ** Summon a Thorn Minion with %d%% health and %d%% attack.
+        descMaster: |-
+          If this character received any damage by the end of enemy turn, +%d%% chance to activate the following effects:
+          ** Summon a Thorn Minion with %d%% health and %d%% attack.
+        talentImage: companion
+        maxedTalentImage: companionmaxed
+        masterTalentImage: companionmaster
+      superior:
+        talentSkill:
+          desc: |-
+            If this character received any damage by the end of enemy turn, +%d%% chance to activate the following effects:
+            ** Summon a Thorn Minion with %d%% health and %d%% attack.
+          descMaster: |-
+            If this character received any damage by the end of enemy turn, +20% chance to activate the following effects:
+            ** Summon a Thorn Minion with %d%% health and %d%% attack.
+        skill:
+        - 20
+        - 20
+        - 20
+        skillMaster:
+        - 20
+        - 30
+        - 30
+      talentGrid:
+        1:
+          a:
+            skill:
+            - 3
+            - 15
+            - 15
+        2:
+          a:
+            health: 36
+          b:
+            att: 15
+        3:
+          a:
+            att: 15
+          b:
+            def: 18
+        4:
+          a:
+            skill:
+            - 6
+            - 15
+            - 15
+        5:
+          a:
+            def: 18
+          b:
+            health: 36
+        6:
+          a:
+            att: 15
+          b:
+            def: 18
+        7:
+          a:
+            skill:
+            - 9
+            - 15
+            - 15
+        8:
+          a:
+            healingP: 2
+          b:
+            attP: 3
+        9:
+          a:
+            health: 36
+          b:
+            def: 18
+        10:
+          a:
+            healthP: 3
+        11:
+          a:
+            att: 15
+          b:
+            health: 36
+        12:
+          a:
+            skill:
+            - 12
+            - 15
+            - 15
+        13:
+          a:
+            health: 36
+          b:
+            def: 18
+        14:
+          a:
+            def: 18
+          b:
+            att: 15
+        15:
+          a:
+            skill:
+            - 15
+            - 15
+            - 15
+        16:
+          a:
+            att: 15
+          b:
+            def: 18
+        17:
+          a:
+            health: 36
+          b:
+            att: 15
+        18:
+          a:
+            health: 36
+        19:
+          a:
+            critP: 2
+          b:
+            defP: 3
+        20:
+          a:
+            manaP: 4
+        21:
+          a:
+            att: 50
+          b:
+            def: 60
+        22:
+          a:
+            att: 50
+          b:
+            def: 60
+        23:
+          a:
+            health: 50
+        24:
+          a:
+            att: 50
+          b:
+            def: 60
+        25:
+          a:
+            health: 50
+          skillMaster:
+          - 15
+          - 25
+          - 25
+      predefinedRoutes:
+        att-def: 0abbaaaabbaaabbabbabaaaaaa
+        att-def-mana: 0abbaaaabbaaabbabbabaaaaaa
+        att-health: 0aaaaaaabbaaabbaaaaaaaaaaa
+        att-health-mana: 0aaaaaaabbaaabbaaaaaaaaaaa
+        def-att: 0abbaaaabbaaabbabbababbaba
+        def-att-mana: 0abbaaaabbaaabbabbababbaba
+        def-health: 0abbabbabbabaaaabbababbaba
+        def-health-mana: 0abbabbabbabaaaabbababbaba
+        health-att: 0aaaabbaaaabaaaaaaaaaaaaaa
+        health-att-mana: 0aaaabbaaaabaaaaaaaaaaaaaa
+        health-def: 0aaaabbaaaabaaaaaaababbaba
+        health-def-mana: 0aaaabbaaaabaaaaaaababbaba
   fighter:
     code: 3
     key: fighter
     description: Fighter
     image: https://i.imgur.com/szH1t2i.png
+    talents:
+      title: Talent Skill
+      talentSkill:
+        desc: When receiving a fatal attack, +%d%% chance to revive at the end of
+          the turn.
+        descMaster: |-
+          When receiving a fatal attack, +%d%% chance to revive at the end of the turn. If revived, the following effects are also activated:
+          ** This character gets %d%% attack for 2 turns.
+        talentImage: revive
+        maxedTalentImage: revivemaxed
+        masterTalentImage: revivemaster
+      superior:
+        talentSkill:
+          desc: |-
+            When receiving a fatal attack, +%d%% chance to revive at the end of the turn. If revived, the following effects are also activated:
+            ** This character gains %d%% mana.
+          descMaster: |-
+            When receiving a fatal attack, +%d%% chance to revive at the end of the turn. If revived, the following effects are also activated:
+            ** This character gains %d%% mana. ** This character gets %d%% attack for 2 turns.
+        skill:
+        - 35
+        - 50
+        skillMaster:
+        - 35
+        - 50
+        - 25
+      talentGrid:
+        1:
+          a:
+            skill:
+            - 6
+        2:
+          a:
+            def: 18
+          b:
+            att: 15
+        3:
+          a:
+            att: 15
+          b:
+            health: 36
+        4:
+          a:
+            skill:
+            - 12
+        5:
+          a:
+            health: 36
+          b:
+            def: 18
+        6:
+          a:
+            att: 15
+          b:
+            health: 36
+        7:
+          a:
+            skill:
+            - 18
+        8:
+          a:
+            healthP: 3
+          b:
+            healingP: 2
+        9:
+          a:
+            def: 18
+          b:
+            health: 36
+        10:
+          a:
+            defP: 3
+        11:
+          a:
+            att: 15
+          b:
+            def: 18
+        12:
+          a:
+            skill:
+            - 24
+        13:
+          a:
+            def: 18
+          b:
+            health: 36
+        14:
+          a:
+            health: 36
+          b:
+            att: 15
+        15:
+          a:
+            skill:
+            - 30
+        16:
+          a:
+            att: 15
+          b:
+            health: 36
+        17:
+          a:
+            def: 18
+          b:
+            att: 15
+        18:
+          a:
+            def: 18
+        19:
+          a:
+            manaP: 2
+          b:
+            critP: 2
+        20:
+          a:
+            attP: 4
+        21:
+          a:
+            att: 50
+          b:
+            def: 60
+        22:
+          a:
+            att: 50
+          b:
+            def: 60
+        23:
+          a:
+            health: 50
+        24:
+          a:
+            att: 50
+          b:
+            def: 60
+        25:
+          a:
+            health: 50
+          skillMaster:
+          - 30
+          - 25
+      predefinedRoutes:
+        att-def: 0aaaaaaaaaaaabbaaaabaaaaaa
+        att-def-mana: 0aaaaaaaaaaaabbaaaaaaaaaaa
+        att-health: 0abbaaaabbaaabbabbabaaaaaa
+        att-health-mana: 0abbaaaabbaaabbabbaaaaaaaa
+        def-att: 0aaaabbaaaabaaaaaaababbaba
+        def-att-mana: 0aaaabbaaaabaaaaaaaaabbaba
+        def-health: 0aaaabbaaaabaaaaaaababbaba
+        def-health-mana: 0aaaabbaaaabaaaaaaaaabbaba
+        health-att: 0abbaaaabbaaabbabbabaaaaaa
+        health-att-mana: 0abbaaaabbaaabbabbaaaaaaaa
+        health-def: 0abbabbabbabaaaabbababbaba
+        health-def-mana: 0abbabbabbabaaaabbababbaba
   monk:
     code: 4
     key: monk
     description: Monk
     image: https://i.imgur.com/e02kC14.png
+    talents:
+      title: Talent Skill
+      talentSkill:
+        desc: +%d%% chance to resist status ailments.
+        descMaster: '+%d%% chance to resist status ailments. If status ailments were
+          resisted, the following effects are also activated: ** Cleanses the newest
+          status ailment from this character.'
+        talentImage: withstand
+        maxedTalentImage: withstandmaxed
+        masterTalentImage: withstandmaster
+      superior:
+        talentSkill:
+          desc: '+%d%% chance to resist status ailments. If status ailments were resisted,
+            the following effects are also activated: ** This character deals %d%%
+            damage to the attacker.'
+          descMaster: |-
+            +%d%% chance to resist status ailments. If status ailments were resisted, the following effects are also activated:
+            This character deals %d%% damage to the attacker. ** Cleanses the newest status ailment from this character.
+        skill:
+        - 50
+        - 100
+        skillMaster:
+        - 50
+        - 100
+      talentGrid:
+        1:
+          a:
+            skill:
+            - 6
+        2:
+          a:
+            health: 36
+          b:
+            def: 18
+        3:
+          a:
+            def: 18
+          b:
+            att: 15
+        4:
+          a:
+            skill:
+            - 12
+        5:
+          a:
+            att: 15
+          b:
+            health: 36
+        6:
+          a:
+            def: 18
+          b:
+            att: 15
+        7:
+          a:
+            skill:
+            - 18
+        8:
+          a:
+            defP: 3
+          b:
+            healthP: 3
+        9:
+          a:
+            health: 36
+          b:
+            att: 15
+        10:
+          a:
+            critP: 2
+        11:
+          a:
+            def: 18
+          b:
+            health: 36
+        12:
+          a:
+            skill:
+            - 24
+        13:
+          a:
+            health: 36
+          b:
+            att: 15
+        14:
+          a:
+            att: 15
+          b:
+            def: 18
+        15:
+          a:
+            skill:
+            - 30
+        16:
+          a:
+            def: 18
+          b:
+            att: 15
+        17:
+          a:
+            health: 36
+          b:
+            def: 18
+        18:
+          a:
+            health: 36
+        19:
+          a:
+            healing: 2
+          b:
+            attP: 3
+        20:
+          a:
+            manaP: 4
+        21:
+          a:
+            att: 50
+          b:
+            def: 60
+        22:
+          a:
+            att: 50
+          b:
+            def: 60
+        23:
+          a:
+            health: 50
+        24:
+          a:
+            att: 50
+          b:
+            def: 60
+        25:
+          a:
+            health: 50
+          skillMaster:
+          - 30
+      predefinedRoutes:
+        att-def: 0abbaaaabbaaabbabbabaaaaaa
+        att-def-mana: 0abbaaaabbaaabbabbabaaaaaa
+        att-health: 0abbabbabbabaaaabbabaaaaaa
+        att-health-mana: 0abbabbabbabaaaabbabaaaaaa
+        def-att: 0abbaaaaaaaaabbabbababbaba
+        def-att-mana: 0abbaaaaaaaaabbabbababbaba
+        def-health: 0aaaaaaaaaaaabbaaaaaabbaba
+        def-health-mana: 0aaaaaaaaaaaabbaaaaaabbaba
+        health-att: 0aaaabbabbabaaaaaaaaaaaaaa
+        health-att-mana: 0aaaabbabbabaaaaaaaaaaaaaa
+        health-def: 0aaaabbaaaabaaaaaaaaabbaba
+        health-def-mana: 0aaaabbaaaabaaaaaaaaabbaba
   paladin:
     code: 5
     key: paladin
     description: Paladin
     image: https://i.imgur.com/hWsWNEu.png
+    talents:
+      title: Talent Skill
+      talentSkill:
+        desc: |-
+          If this character received any damage by the end of enemy turn, +%d%% chance to activate the following affect:
+          ** This character get +%d%% defense for 2 turns.
+        descMaster: |-
+          If this character received any damage by the end of enemy turn, +%d%% chance to activate the following affect:
+          ** This character and nearby allies get +%d%% defense for 2 turns.
+        talentImage: protect
+        maxedTalentImage: protectmaxed
+        masterTalentImage: protectmaster
+      superior:
+        talentSkill:
+          desc: |-
+            If this character received any damage by the end of enemy turn, +%d%% chance to activate the following affect:
+            ** This character get +%d%% defense for 2 turns.
+            ** This character and nearby allies recover 10% health.
+          descMaster: |-
+            If this character received any damage by the end of enemy turn, +%d%% chance to activate the following affect:
+            ** This character and nearby allies get +%d%% defense for 2 turns.
+            ** This character and nearby allies recover %d%% health.
+        skill:
+        - 50
+        - 25
+        skillMaster:
+        - 50
+        - 25
+        - 10
+      talentGrid:
+        1:
+          a:
+            skill:
+            - 5
+            - 25
+        2:
+          a:
+            def: 18
+          b:
+            att: 15
+        3:
+          a:
+            att: 15
+          b:
+            health: 36
+        4:
+          a:
+            skill:
+            - 10
+            - 25
+        5:
+          a:
+            health: 36
+          b:
+            def: 18
+        6:
+          a:
+            att: 15
+          b:
+            health: 36
+        7:
+          a:
+            skill:
+            - 15
+            - 25
+        8:
+          a:
+            healthP: 3
+          b:
+            healingP: 2
+        9:
+          a:
+            def: 18
+          b:
+            health: 36
+        10:
+          a:
+            healthP: 3
+        11:
+          a:
+            att: 15
+          b:
+            def: 18
+        12:
+          a:
+            skill:
+            - 20
+            - 25
+        13:
+          a:
+            def: 18
+          b:
+            health: 36
+        14:
+          a:
+            health: 36
+          b:
+            att: 15
+        15:
+          a:
+            skill:
+            - 25
+            - 25
+        16:
+          a:
+            att: 15
+          b:
+            health: 36
+        17:
+          a:
+            def: 18
+          b:
+            att: 15
+        18:
+          a:
+            def: 18
+        19:
+          a:
+            manaP: 2
+          b:
+            critP: 2
+        20:
+          a:
+            defP: 4
+        21:
+          a:
+            att: 50
+          b:
+            def: 60
+        22:
+          a:
+            att: 50
+          b:
+            def: 60
+        23:
+          a:
+            health: 50
+        24:
+          a:
+            att: 50
+          b:
+            def: 60
+        25:
+          a:
+            health: 50
+          skillMaster:
+          - 25
+          - 25
+      predefinedRoutes:
+        att-def: 0aaaaaaaaaaaabbaaaabaaaaaa
+        att-def-mana: 0aaaaaaaaaaaabbaaaaaaaaaaa
+        att-health: 0abbaaaabbaaabbabbabaaaaaa
+        att-health-mana: 0abbaaaabbaaabbabbaaaaaaaa
+        def-att: 0aaaabbaaaabaaaaaaababbaba
+        def-att-mana: 0aaaabbaaaabaaaaaaaaabbaba
+        def-health: 0aaaabbaaaabaaaaaaababbaba
+        def-health-mana: 0aaaabbaaaabaaaaaaaaabbaba
+        health-att: 0abbaaaabbaaabbabbabaaaaaa
+        health-att-mana: 0abbaaaabbaaabbabbaaaaaaaa
+        health-def: 0abbabbaaaabaaaabbababbaba
+        health-def-mana: 0abbabbaaaabaaaabbaaabbaba
   ranger:
     code: 6
     key: ranger
     description: Ranger
     image: https://i.imgur.com/HFl3B4Z.png
+    talents:
+      title: Pierce
+      talentSkill:
+        desc: +%d%% chance to bypass defensive buffs including counterattacks.
+        descMaster: |-
+          +%d%% chance to bypass defensive buffs including counterattacks. If buffs were bypassed, the following effects are also activated:
+          ** The target gets -%d%% defense for 3 turns.
+        talentImage: pierce
+        maxedTalentImage: piercemaxed
+        masterTalentImage: piercemaster
+      superior:
+        talentSkill:
+          desc: |-
+            +%d%% chance to bypass defensive buffs including counterattacks. If buffs were bypassed, the following effects are also activated:
+            ** The target gets %s bleed damage over 3 turns .
+          descMaster: |-
+            +%d%% chance to bypass defensive buffs including counterattacks. If buffs were bypassed, the following effects are also activated:
+            ** The target gets %s bleed damage over 3 turns .
+            ** The target gets -%d%% defense for 3 turns.
+        skill:
+        - 60
+        - 28.4% of attack as
+        skillMaster:
+        - 60
+        - 28.4% of attack as
+        - 20
+      talentGrid:
+        1:
+          a:
+            skill:
+            - 5
+        2:
+          a:
+            att: 15
+          b:
+            def: 18
+        3:
+          a:
+            def: 18
+          b:
+            health: 36
+        4:
+          a:
+            skill:
+            - 10
+        5:
+          a:
+            health: 36
+          b:
+            att: 15
+        6:
+          a:
+            def: 18
+          b:
+            health: 36
+        7:
+          a:
+            skill:
+            - 15
+        8:
+          a:
+            defP: 3
+          b:
+            manaP: 2
+        9:
+          a:
+            att: 15
+          b:
+            health: 36
+        10:
+          a:
+            attP: 3
+        11:
+          a:
+            def: 18
+          b:
+            att: 15
+        12:
+          a:
+            skill:
+            - 20
+        13:
+          a:
+            att: 15
+          b:
+            health: 36
+        14:
+          a:
+            health: 36
+          b:
+            def: 18
+        15:
+          a:
+            skill:
+            - 25
+        16:
+          a:
+            def: 18
+          b:
+            health: 36
+        17:
+          a:
+            att: 15
+          b:
+            def: 18
+        18:
+          a:
+            att: 15
+        19:
+          a:
+            healthP: 3
+          b:
+            healingP: 2
+        20:
+          a:
+            critP: 4
+        21:
+          a:
+            att: 50
+          b:
+            def: 60
+        22:
+          a:
+            att: 50
+          b:
+            def: 60
+        23:
+          a:
+            health: 50
+        24:
+          a:
+            att: 50
+          b:
+            def: 60
+        25:
+          a:
+            health: 50
+          skillMaster:
+          - 25
+          - 20
+      predefinedRoutes:
+        att-def: 0aaaabbaaaabaaaaaaaaaaaaaa
+        att-def-mana: 0aaaabbabbabaaaaaaaaaaaaaa
+        att-health: 0aaaabbaaaabaaaaaaaaaaaaaa
+        att-health-mana: 0aaaabbabbabaaaaaaaaaaaaaa
+        def-att: 0aaaaaaaaaaaabbaaaaaabbaba
+        def-att-mana: 0aaaaaaabbaaabbaaaaaabbaba
+        def-health: 0abbaaaaaaaaabbabbaaabbaba
+        def-health-mana: 0abbaaaabbaaabbabbaaabbaba
+        health-att: 0abbabbabbabaaaabbaaaaaaaa
+        health-att-mana: 0abbabbabbabaaaabbaaaaaaaa
+        health-def: 0abbaaaabbaaabbabbaaabbaba
+        health-def-mana: 0abbaaaabbaaabbabbaaabbaba
   rogue:
     code: 7
     key: rogue
     description: Rogue
     image: https://i.imgur.com/KNMzKgc.png
+    talents:
+      title: Evade
+      talentSkill:
+        desc: +%d%% chance to dodge Special Skill damage.
+        descMaster: |-
+          +%d%% chance to dodge Special Skill damage. If damage was dodged, the following effects are also activated:
+          ** This character deals %d%% damage to the attacker.
+        talentImage: evade
+        maxedTalentImage: evademaxed
+        masterTalentImage: evademaster
+      superior:
+        talentSkill:
+          desc: |-
+            +%d%% chance to dodge Special Skill damage. If damage was dodged, the following effects are also activated:
+            ** This character and nearby allies get +%d%% chance to dodge Special Skills for 3 turns.
+          descMaster: |-
+            +%d%% chance to dodge Special Skill damage. If damage was dodged, the following effects are also activated:
+            ** This character and nearby allies get +%d%% chance to dodge Special Skills for 3 turns.
+            ** This character deals %d%% damage to the attacker.
+        skill:
+        - 30
+        - 15
+        skillMaster:
+        - 30
+        - 15
+        - 50
+      talentGrid:
+        1:
+          a:
+            skill:
+            - 4
+        2:
+          a:
+            att: 15
+          b:
+            health: 36
+        3:
+          a:
+            health: 36
+          b:
+            def: 18
+        4:
+          a:
+            skill:
+            - 8
+        5:
+          a:
+            def: 18
+          b:
+            att: 15
+        6:
+          a:
+            health: 36
+          b:
+            def: 18
+        7:
+          a:
+            skill:
+            - 12
+        8:
+          a:
+            healthP: 3
+          b:
+            manaP: 2
+        9:
+          a:
+            att: 15
+          b:
+            def: 18
+        10:
+          a:
+            attP: 3
+        11:
+          a:
+            health: 36
+          b:
+            att: 15
+        12:
+          a:
+            skill:
+            - 16
+        13:
+          a:
+            att: 15
+          b:
+            def: 18
+        14:
+          a:
+            def: 18
+          b:
+            health: 36
+        15:
+          a:
+            skill:
+            - 20
+        16:
+          a:
+            health: 36
+          b:
+            def: 18
+        17:
+          a:
+            att: 15
+          b:
+            health: 36
+        18:
+          a:
+            att: 15
+        19:
+          a:
+            defP: 3
+          b:
+            healingP: 2
+        20:
+          a:
+            critP: 4
+        21:
+          a:
+            att: 50
+          b:
+            def: 60
+        22:
+          a:
+            att: 50
+          b:
+            def: 60
+        23:
+          a:
+            health: 50
+        24:
+          a:
+            att: 50
+          b:
+            def: 60
+        25:
+          a:
+            health: 50
+          skillMaster:
+          - 20
+          - 50
+      predefinedRoutes:
+        att-def: 0aaaabbaaaabaaaaaaaaaaaaaa
+        att-def-mana: 0aaaabbababbaaaaaaaaaaaaaa
+        att-health: 0aaaabbaaaabaaaaaaaaaaaaaa
+        att-health-mana: 0aaaabbabbabaaaaaaaaaaaaaa
+        def-att: 0abbabbabbabaaaabbaaabbaba
+        def-att-mana: 0abbabbabbabaaaabbaaabbaba
+        def-health: 0abbaaaabbaaabbabbaaabbaba
+        def-health-mana: 0abbaaaabbaaabbabbaaabbaba
+        health-att: 0aaaaaaaaaaaabbaaaaaaaaaaa
+        health-att-mana: 0aaaaaaabbaaabbaaaaaaaaaaa
+        health-def: 0abbaaaaaaaaabbaaaaaabbaba
+        health-def-mana: 0abbaaaabbaaabbaaaaaabbaba
   sorcerer:
     code: 8
     key: sorcerer
     description: Sorcerer
     image: https://i.imgur.com/87dMkjo.png
+    talents:
+      title: Delay
+      talentSkill:
+        desc: |-
+          If this character dealt any damage by the end of its turn, +%d%% chance to activate the following effects:
+          ** Drop the mana generation of the target by -%d%% for 2 turns.
+        descMaster: |-
+          If this character dealt any damage by the end of its turn, +%d%% chance to activate the following effects:
+          ** Drop the mana generation of the target by -%d%% for 2 turns.
+          ** The target gets -%d%% attack for 2 turns.
+        talentImage: delay
+        maxedTalentImage: delaymaxed
+        masterTalentImage: delaymaster
+      superior:
+        talentSkill:
+          desc: |-
+            If this character dealt any damage by the end of its turn, +%d%% chance to activate the following effects:
+            ** Drop the mana generation of the target by -%d%% for 2 turns.
+          descMaster: |-
+            If this character dealt any damage by the end of its turn, +%d%% chance to activate the following effects:
+            ** Drop the mana generation of the target by -%d%% for 2 turns.
+            ** The target gets -%d%% attack for 2 turns.
+        skill:
+        - 60
+        - 50
+        skillMaster:
+        - 60
+        - 50
+        - 20
+      talentGrid:
+        1:
+          a:
+            skill:
+            - 3
+            - 50
+        2:
+          a:
+            def: 18
+          b:
+            health: 36
+        3:
+          a:
+            health: 36
+          b:
+            att: 15
+        4:
+          a:
+            skill:
+            - 6
+            - 50
+        5:
+          a:
+            att: 15
+          b:
+            def: 18
+        6:
+          a:
+            health: 36
+          b:
+            att: 15
+        7:
+          a:
+            skill:
+            - 9
+            - 50
+        8:
+          a:
+            healingP: 2
+          b:
+            critP: 2
+        9:
+          a:
+            def: 18
+          b:
+            att: 15
+        10:
+          a:
+            healthP: 3
+        11:
+          a:
+            health: 36
+          b:
+            def: 18
+        12:
+          a:
+            skill:
+            - 12
+            - 50
+        13:
+          a:
+            def: 18
+          b:
+            att: 15
+        14:
+          a:
+            att: 15
+          b:
+            health: 36
+        15:
+          a:
+            skill:
+            - 15
+            - 50
+        16:
+          a:
+            health: 36
+          b:
+            att: 15
+        17:
+          a:
+            def: 18
+          b:
+            health: 36
+        18:
+          a:
+            def: 18
+        19:
+          a:
+            attP: 3
+          b:
+            defP: 3
+        20:
+          a:
+            manaP: 4
+        21:
+          a:
+            att: 50
+          b:
+            def: 60
+        22:
+          a:
+            att: 50
+          b:
+            def: 60
+        23:
+          a:
+            health: 50
+        24:
+          a:
+            att: 50
+          b:
+            def: 60
+        25:
+          a:
+            health: 50
+          skillMaster:
+          - 15
+          - 50
+          - 20
+      predefinedRoutes:
+        att-def: 0abbabbabbabaaaabbaaaaaaaa
+        att-def-mana: 0abbabbabbabaaaabbaaaaaaaa
+        att-health: 0abbaaaabbaaabbabbaaaaaaaa
+        att-health-mana: 0abbaaaabbaaabbabbaaaaaaaa
+        def-att: 0aaaabbaaaabaaaaaaababbaba
+        def-att-mana: 0aaaabbaaaabaaaaaaababbaba
+        def-health: 0aaaabbaaaabaaaaaaababbaba
+        def-health-mana: 0aaaabbaaaabaaaaaaababbaba
+        health-att: 0abbaaaaaaaaabbabbaaaaaaaa
+        health-att-mana: 0abbaaaaaaaaabbabbaaaaaaaa
+        health-def: 0aaaaaaaaaaaabbaaaababbaba
+        health-def-mana: 0aaaaaaaaaaaabbaaaababbaba
   wizard:
     code: 9
     key: wizard
     description: Wizard
     image: https://i.imgur.com/FexXXRS.png
+    talents:
+      title: Jinx
+      talentSkill:
+        desc: When dealing damage through normal attacks and Special Skills, +%d%%
+          chance to deal +%d%% extra damage per each active buff.
+        descMaster: When dealing damage through normal attacks and Special Skills,
+          +%d%% chance to deal +%d%% extra damage per each active buff.
+        talentImage: jinx
+        maxedTalentImage: jinxmaxed
+        masterTalentImage: jinxmaster
+      superior:
+        talentSkill:
+          desc: |-
+            When dealing damage through normal attacks and Special Skills, +%d%% chance to deal +%d%% extra damage per each active buff. Before dealing the extra damage, the following effects are also activated:
+            ** Dispel all active buffs from the target before damage is dealt.
+          descMaster: |-
+            When dealing damage through normal attacks and Special Skills, +%d%% chance to deal +%d%% extra damage per each active buff. Before dealing the extra damage, the following effects are also activated:
+            ** Dispel all active buffs from the target before damage is dealt.
+        skill:
+        - 50
+        - 15
+        skillMaster:
+        - 50
+        - 25
+      talentGrid:
+        1:
+          a:
+            skill:
+            - 5
+            - 15
+        2:
+          a:
+            att: 15
+          b:
+            def: 18
+        3:
+          a:
+            def: 18
+          b:
+            health: 36
+        4:
+          a:
+            skill:
+            - 10
+            - 15
+        5:
+          a:
+            health: 36
+          b:
+            att: 15
+        6:
+          a:
+            def: 18
+          b:
+            health: 36
+        7:
+          a:
+            skill:
+            - 15
+            - 15
+        8:
+          a:
+            healthP: 3
+          b:
+            defP: 3
+        9:
+          a:
+            att: 15
+          b:
+            health: 36
+        10:
+          a:
+            critP: 2
+        11:
+          a:
+            def: 18
+          b:
+            att: 15
+        12:
+          a:
+            skill:
+            - 20
+            - 15
+        13:
+          a:
+            att: 15
+          b:
+            health: 36
+        14:
+          a:
+            health: 36
+          b:
+            def: 18
+        15:
+          a:
+            skill:
+            - 25
+            - 15
+        16:
+          a:
+            def: 18
+          b:
+            health: 36
+        17:
+          a:
+            att: 15
+          b:
+            def: 18
+        18:
+          a:
+            att: 15
+        19:
+          a:
+            healingP: 2
+          b:
+            manaP: 2
+        20:
+          a:
+            attP: 4
+        21:
+          a:
+            att: 50
+          b:
+            def: 60
+        22:
+          a:
+            att: 50
+          b:
+            def: 60
+        23:
+          a:
+            health: 50
+        24:
+          a:
+            att: 50
+          b:
+            def: 60
+        25:
+          a:
+            health: 50
+          skillMaster:
+          - 25
+          - 25
+      predefinedRoutes:
+        att-def: 0aaaabbaaaabaaaaaaabaaaaaa
+        att-def-mana: 0aaaabbaaaabaaaaaaabaaaaaa
+        att-health: 0aaaabbaaaabaaaaaaabaaaaaa
+        att-health-mana: 0aaaabbaaaabaaaaaaabaaaaaa
+        def-att: 0aaaaaaabbaaabbaaaabaaaaaa
+        def-att-mana: 0aaaaaaabbaaabbaaaabaaaaaa
+        def-health: 0abbaaaabbaaabbabbababbaba
+        def-health-mana: 0abbaaaabbaaabbabbababbaba
+        health-att: 0abbabbaaaabaaaabbabaaaaaa
+        health-att-mana: 0abbabbaaaabaaaabbabaaaaaa
+        health-def: 0abbaaaaaaaaabbabbababbaba
+        health-def-mana: 0abbaaaaaaaaabbabbababbaba
+talentNodes:
+  att:
+    title: Attack Bonus
+    desc: Increases attack by %d points.
+    image: attackbonus
+  attP:
+    title: Attack Bonus
+    desc: Increases attack by %d%%.
+    image: attackbonuspercent
+  critP:
+    title: Critical Bonus
+    desc: Increases the chance for critical hits that deal increased damage by %d%%.
+    image: criticalbonus
+  def:
+    title: Defense Bonus
+    desc: Increases defense by %d points.
+    image: defensebonus
+  defP:
+    title: Defense Bonus
+    desc: Increases defense by %d%%.
+    image: defensebonuspercent
+  health:
+    title: Health Bonus
+    desc: Increases health by %d points.
+    image: healthbonus
+  healthP:
+    title: Health Bonus
+    desc: Increases health by %d%%.
+    image: healthbonuspercent
+  healingP:
+    title: Healing Bonus
+    desc: Increases healing received from Items and Special Skills by %d%%.
+    image: healingbonus
+  manaP:
+    title: Mana Bonus
+    desc: Increases the speed of mana recovery by %d%%.
+    image: manabonus
+talentGrid:
+  21:
+    a:
+      image: masternodeattack
+    b:
+      image: masternodedefense
+    emblems:
+      3: 30
+      4: 50
+      5: 100
+    masterEmblems:
+      3: 3
+      4: 5
+      5: 10
+    food:
+      3: 80000
+      4: 200000
+      5: 600000
+    iron:
+      3: 80000
+      4: 200000
+      5: 600000
+  22:
+    a:
+      image: masternodeattack
+    b:
+      image: masternodedefense
+    emblems:
+      3: 30
+      4: 50
+      5: 100
+    masterEmblems:
+      3: 3
+      4: 5
+      5: 10
+    food:
+      3: 80000
+      4: 200000
+      5: 600000
+    iron:
+      3: 80000
+      4: 200000
+      5: 600000
+  23:
+    a:
+      image: masternodehealth
+    emblems:
+      3: 30
+      4: 50
+      5: 100
+    masterEmblems:
+      3: 3
+      4: 5
+      5: 10
+    food:
+      3: 80000
+      4: 200000
+      5: 600000
+    iron:
+      3: 80000
+      4: 200000
+      5: 600000
+  24:
+    a:
+      image: masternodeattack
+    b:
+      image: masternodedefense
+    emblems:
+      3: 30
+      4: 50
+      5: 100
+    masterEmblems:
+      3: 3
+      4: 5
+      5: 10
+    food:
+      3: 80000
+      4: 200000
+      5: 600000
+    iron:
+      3: 80000
+      4: 200000
+      5: 600000
+  25:
+    a:
+      image: masternodehealth
+    emblems:
+      3: 30
+      4: 50
+      5: 100
+    masterEmblems:
+      3: 0
+      4: 0
+      5: 0
+    food:
+      3: 80000
+      4: 200000
+      5: 600000
+    iron:
+      3: 80000
+      4: 200000
+      5: 600000
+...
