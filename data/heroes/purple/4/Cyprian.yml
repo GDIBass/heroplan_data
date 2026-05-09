@@ -160,4 +160,37 @@ costume4:
     attack: 837
     defense: 907
     health: 2167
+costume5:
+  design: stylish
+  bonuses: 30/30/30/5
+  class: Paladin
+  power: 812
+  attack: 722
+  defense: 791
+  health: 1808
+  skill: Stylish Riposte
+  effects:
+  - The caster and nearby allies counterattack with 125% of the damage received for
+    5 turns.
+  - All allies regenerate 500 HP over 5 turns.
+  types:
+  - Counterattack 3
+  - HoT All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/VmUpmq7.jpg
+  dtReleased: "2026-05-09"
+  dtModified: ""
+  aetherPower: counterattack
+  lb1:
+    power: 874
+    attack: 784
+    defense: 859
+    health: 1964
+  lb2:
+    power: 1001
+    attack: 910
+    defense: 997
+    health: 2278
 ...

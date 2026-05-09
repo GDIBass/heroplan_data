@@ -132,4 +132,37 @@ costume3:
     attack: 738
     defense: 712
     health: 1263
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Druid
+  power: 544
+  attack: 553
+  defense: 542
+  health: 959
+  skill: Stylish Mist
+  effects:
+  - Recovers 44% health for the ally with the lowest remaining HP. All other allies
+    recover 37% health.
+  - Dispels buffs from all enemies.
+  types:
+  - Healer All
+  - Dispeller All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/q0mnmfU.jpg
+  dtReleased: "2026-05-09"
+  dtModified: ""
+  aetherPower: defense_up
+  lb1:
+    power: 608
+    attack: 626
+    defense: 614
+    health: 1086
+  lb2:
+    power: 736
+    attack: 774
+    defense: 759
+    health: 1343
 ...
