@@ -11,7 +11,7 @@ health: 2263
 skill: Gluttonous Chomp
 effects:
 - Deals 480% damage to the target.
-- If an enemy is defeated by the attack, the caster recovers +50% health and gains
+- If the target is defeated by the attack, the caster recovers +50% health and gains
   +33% mana. (After a character has received 5 direct mana additions from Special
   Skills during a single turn, all subsequent direct mana additions done by Special
   Skills will have reduced power on that character.)
@@ -26,8 +26,7 @@ types:
 - Normal Attack Buff All
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
-- 'Mimic Loot: This Mimic grants a chance for the following extra loot when completing
-  stages'
+- 'Mimic Loot: This Mimic grants a chance for the following extra loot.'
 - RARE
 - ' * Imperial Elite Strikers'
 - ' * Ravager Archers'
@@ -44,7 +43,7 @@ passives:
 - ' * Trainer Troop'
 image: https://imgur.com/UDfI0xR.jpg
 dtReleased: "2026-02-23"
-dtModified: ""
+dtModified: "2026-05-10"
 fancy_name: Bounty of Dreadful Arsenal
 aetherPower: bulwark
 lb1:
