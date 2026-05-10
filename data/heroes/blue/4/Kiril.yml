@@ -198,13 +198,13 @@ costume5:
   fancy_name: Stylish Taster
   aetherPower: defense_up
   lb1:
-    power: 883
-    attack: 894
-    defense: 978
-    health: 1509
+    power: 881
+    attack: 893
+    defense: 976
+    health: 1508
   lb2:
-    power: 1010
-    attack: 1037
-    defense: 1134
-    health: 1750
+    power: 1009
+    attack: 1036
+    defense: 1133
+    health: 1749
 ...

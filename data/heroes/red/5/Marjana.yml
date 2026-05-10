@@ -17,7 +17,7 @@ types:
 - DoT 1
 image: https://i.imgur.com/H8u69R9.jpg
 dtReleased: "2017-03-01"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Lady of Windemer
 aetherPower: attack_up
 lb1:
@@ -49,7 +49,7 @@ costume:
   - Attack Debuff All Ice
   image: https://i.imgur.com/E1sWcp1.jpg
   dtReleased: "2021-01-18"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Terror of Windemer
   aetherPower: special_boost
   lb1:
@@ -83,7 +83,7 @@ costume2:
   - DoT 3
   image: https://i.imgur.com/onSikNW.jpg
   dtReleased: "2023-06-12"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Master Thief of Windemer
   aetherPower: dodge
   lb1:
@@ -117,7 +117,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/CuDeIo0.jpg
   dtReleased: "2023-12-25"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Toon of Windemer
   aetherPower: attack_up
   lb1:
@@ -151,7 +151,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/wWSeZW9.jpg
   dtReleased: "2025-02-11"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Vitrail of Windemer
   aetherPower: attack_up
   lb1:
@@ -168,15 +168,15 @@ costume5:
   design: stylish
   bonuses: 90/90/95/5
   class: Rogue
-  power: 1295
-  attack: 1389
-  defense: 1219
-  health: 2453
+  power: 1336
+  attack: 1426
+  defense: 1252
+  health: 2585
   skill: Stylish Smash
   effects:
   - Deals 558% damage to the target.
   - If the target has less than 50% health remaining, deals 658% damage instead.
-  - The target receives 729 Burn damage over 3 turns.
+  - The target receives 747 Burn damage over 3 turns.
   types:
   - Hit 1
   - DoT 1
@@ -185,17 +185,17 @@ costume5:
     ones.'
   image: https://imgur.com/UBdZIW9.jpg
   dtReleased: "2026-02-14"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Stylish Lady of Windemer
   aetherPower: attack_up
   lb1:
-    power: 1387
-    attack: 1499
-    defense: 1314
-    health: 2644
+    power: 1430
+    attack: 1537
+    defense: 1349
+    health: 2786
   lb2:
-    power: 1569
-    attack: 1715
-    defense: 1503
-    health: 3026
+    power: 1618
+    attack: 1758
+    defense: 1544
+    health: 3188
 ...

@@ -153,13 +153,13 @@ costume4:
   fancy_name: Stylish Mage
   aetherPower: defense_up
   lb1:
-    power: 611
-    attack: 689
-    defense: 588
-    health: 1006
+    power: 610
+    attack: 687
+    defense: 587
+    health: 1005
   lb2:
-    power: 740
-    attack: 851
-    defense: 727
-    health: 1243
+    power: 739
+    attack: 850
+    defense: 725
+    health: 1242
 ...

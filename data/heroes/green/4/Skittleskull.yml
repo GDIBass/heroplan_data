@@ -184,12 +184,12 @@ costume5:
   aetherPower: mana_boost
   lb1:
     power: 878
-    attack: 1055
+    attack: 1056
     defense: 833
-    health: 1362
+    health: 1361
   lb2:
     power: 1005
-    attack: 1224
-    defense: 967
+    attack: 1225
+    defense: 966
     health: 1579
 ...

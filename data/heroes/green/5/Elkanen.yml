@@ -17,7 +17,7 @@ types:
 - Self Heal
 image: https://i.imgur.com/gkqoNuc.jpg
 dtReleased: "2017-03-01"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Spearmaster of Moonlight
 aetherPower: special_boost
 lb1:
@@ -48,7 +48,7 @@ costume:
   - Healing Steal 3
   image: https://i.imgur.com/r8h2KIN.jpg
   dtReleased: "2020-05-18"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Moonlit Conqueror
   aetherPower: attack_up
   lb1:
@@ -79,7 +79,7 @@ costume2:
   - Healing Decrease All
   image: https://i.imgur.com/45ULmYn.jpg
   dtReleased: "2022-09-05"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Moonlit King
   aetherPower: counterattack
   lb1:
@@ -113,7 +113,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/6SvyBu6.jpg
   dtReleased: "2023-11-27"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Toon Spearmaster
   aetherPower: special_boost
   lb1:
@@ -147,7 +147,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/5zN8JJz.jpg
   dtReleased: "2025-01-14"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Glass Spearmaster
   aetherPower: special_boost
   lb1:
@@ -164,10 +164,10 @@ costume5:
   design: stylish
   bonuses: 90/90/95/5
   class: Cleric
-  power: 1301
-  attack: 1406
-  defense: 1283
-  health: 2323
+  power: 1342
+  attack: 1444
+  defense: 1318
+  health: 2449
   skill: Stylish Spear
   effects:
   - Deals 430% damage to the target and minor damage to nearby enemies.
@@ -181,17 +181,17 @@ costume5:
     ones.'
   image: https://imgur.com/93INKxC.jpg
   dtReleased: "2026-01-26"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Stylish Spearmaster
   aetherPower: special_boost
   lb1:
-    power: 1393
-    attack: 1515
-    defense: 1384
-    health: 2505
+    power: 1436
+    attack: 1556
+    defense: 1420
+    health: 2640
   lb2:
-    power: 1576
-    attack: 1733
-    defense: 1583
-    health: 2866
+    power: 1626
+    attack: 1781
+    defense: 1625
+    health: 3020
 ...

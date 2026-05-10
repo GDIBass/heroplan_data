@@ -145,13 +145,13 @@ costume4:
   fancy_name: Stylish Magician
   aetherPower: special_boost
   lb1:
-    power: 609
-    attack: 719
-    defense: 571
-    health: 952
+    power: 608
+    attack: 717
+    defense: 570
+    health: 950
   lb2:
-    power: 737
-    attack: 888
-    defense: 705
-    health: 1177
+    power: 736
+    attack: 886
+    defense: 704
+    health: 1175
 ...

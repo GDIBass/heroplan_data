@@ -19,7 +19,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/aHsNbej.jpg
 dtReleased: "2017-03-01"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Scholar Supreme
 aetherPower: defense_up
 lb1:
@@ -51,7 +51,7 @@ costume:
   - Dispeller All
   image: https://i.imgur.com/pm7wcbP.jpg
   dtReleased: "2020-01-01"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Magician Supreme
   aetherPower: special_armor
   lb1:
@@ -83,7 +83,7 @@ costume2:
   - Dispeller All
   image: https://i.imgur.com/J8lGs8A.jpg
   dtReleased: "2022-09-05"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Scribe Supreme
   aetherPower: heal_increase
   lb1:
@@ -119,7 +119,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/zJxvLuN.jpg
   dtReleased: "2023-10-30"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Toon Scholar
   aetherPower: defense_up
   lb1:
@@ -157,7 +157,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/Vcxpsu2.jpg
   dtReleased: "2024-12-25"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Glass Scholar
   aetherPower: defense_up
   lb1:
@@ -174,10 +174,10 @@ costume5:
   design: stylish
   bonuses: 90/90/95/5
   class: Cleric
-  power: 1296
-  attack: 1306
-  defense: 1333
-  health: 2438
+  power: 1337
+  attack: 1341
+  defense: 1369
+  health: 2570
   skill: Stylish Heal
   effects:
   - Recovers 65% health for the ally with lowest remaining HP. All other allies recover
@@ -193,17 +193,17 @@ costume5:
     ones.'
   image: https://imgur.com/tWvDon8.jpg
   dtReleased: "2026-01-07"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Stylish Scholar
   aetherPower: defense_up
   lb1:
-    power: 1388
-    attack: 1408
-    defense: 1437
-    health: 2628
+    power: 1431
+    attack: 1445
+    defense: 1475
+    health: 2770
   lb2:
-    power: 1570
-    attack: 1611
-    defense: 1644
-    health: 3007
+    power: 1620
+    attack: 1654
+    defense: 1688
+    health: 3169
 ...
