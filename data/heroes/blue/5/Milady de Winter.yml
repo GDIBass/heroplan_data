@@ -75,13 +75,13 @@ costume:
   fancy_name: Machiavellian Herbalist
   aetherPower: special_armor
   lb1:
-    power: 1375
-    attack: 1379
-    defense: 1397
-    health: 2692
+    power: 1403
+    attack: 1424
+    defense: 1441
+    health: 2691
   lb2:
-    power: 1555
-    attack: 1578
-    defense: 1598
-    health: 3080
+    power: 1587
+    attack: 1629
+    defense: 1649
+    health: 3079
 ...

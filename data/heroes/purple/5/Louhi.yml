@@ -23,7 +23,7 @@ passives:
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/RQWKyOA.jpg
 dtReleased: "2022-06-20"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Witch of the North
 aetherPower: attack_up
 lb1:
@@ -38,7 +38,7 @@ lb2:
   health: 2169
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 34/34/35/5
   class: Sorcerer
   power: 1220
   attack: 1185
@@ -51,7 +51,7 @@ costume:
   - All enemies get -30% defense for 4 turns. Against Holy characters, this status
     effect becomes uncleansable and lasts 2 turns longer.
   types:
-  - Dispeler all
+  - Dispeler All
   - Hit All
   - Defense Debuff All
   passives:
@@ -59,7 +59,7 @@ costume:
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://imgur.com/bKgarHR.jpg
   dtReleased: "2025-07-28"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: Mistress of the North
   aetherPower: rage
   lb1:

@@ -15,14 +15,14 @@ effects:
 - All enemies can't get their status ailments cleansed from Special Skill for 5 turns.
 types:
 - Hit All
-- Attack Debuff
-- Cleanse Block
+- Attack Debuff All
+- Cleanse Immunity All
 passives:
 - 'Defense ailment reduction: Reduces the effect of defense ailments by -80%. The
   effect applies to this character and all its allies in the battle.'
 image: https://i.imgur.com/UoxW1c2.jpg
 dtReleased: "2022-12-01"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Bard of Lore
 aetherPower: regen
 lb1:

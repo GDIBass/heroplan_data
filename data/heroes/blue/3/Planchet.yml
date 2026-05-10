@@ -27,14 +27,14 @@ dtModified: "2026-04-16"
 fancy_name: Valiant Valet
 aetherPower: special_boost
 lb1:
-  power: 543
-  attack: 587
-  defense: 514
+  power: 542
+  attack: 585
+  defense: 513
   health: 919
 lb2:
-  power: 655
-  attack: 725
-  defense: 635
+  power: 654
+  attack: 724
+  defense: 634
   health: 1136
 costume:
   design: costume1
@@ -67,13 +67,13 @@ costume:
   fancy_name: Valiant Adventurer
   aetherPower: fiend_resist
   lb1:
-    power: 605
-    attack: 670
-    defense: 576
-    health: 1032
+    power: 604
+    attack: 668
+    defense: 575
+    health: 1031
   lb2:
-    power: 732
-    attack: 827
-    defense: 712
-    health: 1276
+    power: 731
+    attack: 826
+    defense: 711
+    health: 1275
 ...

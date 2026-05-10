@@ -1,0 +1,54 @@
+---
+name: Séraphine
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Average
+class: Sorcerer
+power: 1324
+attack: 1398
+defense: 1343
+health: 2385
+skill: Ruthless Derision
+effects:
+- 'If the caster has 40 or more Humility:'
+- Deals 400% damage to all enemies.
+- Enemies with less than 50% health remaining resist healing and receive 400 damage
+  per each resisted healing for 4 turns.
+- 'Stack +2 (Max: 10): All damage all enemies receive is increased by +10%.'
+- All enemies get -34% mana generation for 4 turns. (Affects only mana generated from
+  matching tiles or mana gained by the defense team at the end of their turn.)
+- 'Otherwise:'
+- Deals 350% damage to all enemies.
+- Enemies with less than 50% health remaining resist healing and receive 300 damage
+  per each resisted healing for 4 turns.
+- 'Stack (Max: 10): All damage all enemies receive is increased by +5%.'
+types:
+- Humility
+- Hit All
+- Healing Resist Debuff All
+- Damage on each Resisted Healing All
+- Damage Increase Debuff Stack All
+- Mana Generation Debuff All
+passives:
+- 'Revival Health Reduction: All enemies have -80% health when revived. Boss enemies
+  are not affected.'
+- 'Heal when status ailment expires or is cleared: This character receives 15% health
+  each time a status ailment expires or is cleansed, removed or reallocated from them.
+  This effect can activate only once per turn.'
+- 'Beautiful Inside: Whenever this character would take damage from a status ailment
+  or from a negative stack, they will recover that much health instead.'
+image: https://imgur.com/DcgeSYq.jpg
+dtReleased: "2026-05-08"
+dtModified: ""
+aetherPower: damage_reduction
+lb1:
+  power: 1417
+  attack: 1507
+  defense: 1447
+  health: 2571
+lb2:
+  power: 1603
+  attack: 1724
+  defense: 1656
+  health: 2941
+...

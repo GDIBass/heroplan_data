@@ -184,13 +184,13 @@ costume5:
   fancy_name: Heir of Evil Style
   aetherPower: rage
   lb1:
-    power: 877
-    attack: 1005
-    defense: 765
-    health: 1617
+    power: 876
+    attack: 1004
+    defense: 763
+    health: 1616
   lb2:
-    power: 1003
-    attack: 1165
-    defense: 887
+    power: 1002
+    attack: 1164
+    defense: 886
     health: 1875
 ...

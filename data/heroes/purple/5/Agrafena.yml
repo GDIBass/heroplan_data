@@ -35,7 +35,7 @@ passives:
   the chance is 100%.'
 image: https://i.imgur.com/19jbbwr.jpg
 dtReleased: "2021-09-15"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Superintendent Supreme
 aetherPower: defense_up
 lb1:
@@ -50,7 +50,7 @@ lb2:
   health: 1793
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 57/57/57/1
   class: Sorcerer
   power: 1208
   attack: 1190
@@ -86,7 +86,7 @@ costume:
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/QIlXtnC.jpg
   dtReleased: "2025-05-29"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: Supreme Dark Sorceress
   aetherPower: special_armor
   lb1:

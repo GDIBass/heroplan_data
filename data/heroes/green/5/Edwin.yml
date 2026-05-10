@@ -24,7 +24,7 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/NshfXdy.jpg
 dtReleased: "2023-09-25"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Cunning Butler
 aetherPower: attack_up
 lb1:
@@ -39,7 +39,7 @@ lb2:
   health: 2087
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 38/38/38/5
   class: Cleric
   power: 1242
   attack: 1293
@@ -63,7 +63,7 @@ costume:
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://imgur.com/RyJ3YBO.jpg
   dtReleased: "2025-10-08"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: The Backstabbing Butler
   aetherPower: attack_up
   lb1:

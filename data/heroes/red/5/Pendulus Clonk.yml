@@ -44,13 +44,13 @@ dtModified: "2026-04-28"
 fancy_name: Impatient Clock of the Bewitched Castle
 aetherPower: special_boost
 lb1:
-  power: 1377
-  attack: 1465
-  defense: 1400
-  health: 2486
+  power: 1398
+  attack: 1485
+  defense: 1420
+  health: 2546
 lb2:
-  power: 1558
-  attack: 1676
-  defense: 1602
-  health: 2844
+  power: 1582
+  attack: 1699
+  defense: 1625
+  health: 2913
 ...

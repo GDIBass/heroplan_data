@@ -27,7 +27,7 @@ passives:
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/HvsiBgn.jpg
 dtReleased: "2022-12-14"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Veteran Musketeer
 aetherPower: defense_up
 lb1:
@@ -38,16 +38,16 @@ lb1:
 lb2:
   power: 1036
   attack: 1066
-  defense: 922
+  defense: 921
   health: 2001
 costume:
   design: costume1
   bonuses: 55/55/60/5
   class: Fighter
-  power: 1258
-  attack: 1332
-  defense: 1142
-  health: 2483
+  power: 1284
+  attack: 1350
+  defense: 1157
+  health: 2596
   skill: Artisan's Shot
   effects:
   - Destroys all Minions from the target. This effect damages Mega Minions.
@@ -71,17 +71,17 @@ costume:
     to deal 50% of the received damage on all enemies.'
   image: https://imgur.com/hJqKdo0.jpg
   dtReleased: "2025-12-19"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Farrier Musketeer
   aetherPower: special_boost
   lb1:
-    power: 1347
-    attack: 1436
-    defense: 1232
-    health: 2676
+    power: 1375
+    attack: 1455
+    defense: 1247
+    health: 2798
   lb2:
-    power: 1523
-    attack: 1643
-    defense: 1410
-    health: 3062
+    power: 1555
+    attack: 1665
+    defense: 1427
+    health: 3202
 ...

@@ -153,13 +153,13 @@ costume4:
   fancy_name: Stylish Warden
   aetherPower: special_boost
   lb1:
-    power: 615
-    attack: 615
-    defense: 637
+    power: 614
+    attack: 614
+    defense: 636
     health: 1120
   lb2:
-    power: 745
-    attack: 760
+    power: 744
+    attack: 759
     defense: 787
     health: 1385
 ...

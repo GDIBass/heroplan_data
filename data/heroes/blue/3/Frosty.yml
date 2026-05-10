@@ -14,11 +14,11 @@ effects:
 - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the
   caster.
 types:
-- Heal All
-- Summoner
+- Healer All
+- Summoner All
 image: https://i.imgur.com/33YbQ2h.jpg
 dtReleased: "2020-12-01"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Northern Sentinel
 aetherPower: defense_up
 lb1:

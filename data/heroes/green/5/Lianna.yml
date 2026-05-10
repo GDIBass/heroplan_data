@@ -15,7 +15,7 @@ types:
 - Hit 1
 image: https://i.imgur.com/uJj6MQb.jpg
 dtReleased: "2017-03-01"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: The Noble Heart
 aetherPower: attack_up
 lb1:
@@ -45,7 +45,7 @@ costume:
   - Mana Generation Debuff 1
   image: https://i.imgur.com/ieaiSor.jpg
   dtReleased: "2020-01-01"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: The Noble Guardian
   aetherPower: special_boost
   lb1:
@@ -75,7 +75,7 @@ costume2:
   - Silencer 1
   image: https://i.imgur.com/UwDUNi0.jpg
   dtReleased: "2023-04-17"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: The Noble Raven
   aetherPower: dodge
   lb1:
@@ -107,7 +107,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/yEECSzl.jpg
   dtReleased: "2024-02-12"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: The Noble Toon
   aetherPower: attack_up
   lb1:
@@ -139,7 +139,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/Ad7sIug.jpg
   dtReleased: "2025-05-10"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: The Noble Vitrail
   aetherPower: attack_up
   lb1:
@@ -156,10 +156,10 @@ costume5:
   design: stylish
   bonuses: 90/90/95/5
   class: Ranger
-  power: 1296
-  attack: 1409
-  defense: 1287
-  health: 2269
+  power: 1336
+  attack: 1447
+  defense: 1322
+  health: 2392
   skill: Stylish Arrow
   effects:
   - Deals 612% damage to the target.
@@ -171,17 +171,17 @@ costume5:
     ones.'
   image: https://imgur.com/AIepZxd.jpg
   dtReleased: "2026-03-12"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Stylish Archer
   aetherPower: attack_up
   lb1:
-    power: 1387
-    attack: 1519
-    defense: 1388
-    health: 2447
+    power: 1430
+    attack: 1559
+    defense: 1425
+    health: 2578
   lb2:
-    power: 1569
-    attack: 1738
-    defense: 1588
-    health: 2800
+    power: 1618
+    attack: 1784
+    defense: 1630
+    health: 2950
 ...

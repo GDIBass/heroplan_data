@@ -10,16 +10,16 @@ defense: 391
 health: 608
 skill: Antler Attack
 effects:
-- Deals 285% damage to the target
+- Deals 285% damage to the target.
 - Reduces the mana of the target by 20%.
-- Summons an Elf Minion with 10% HP and 10% attack inherited from the caster
+- Summons an Elf Minion with 10% HP and 10% attack inherited from the caster.
 types:
 - Hit 1
-- Mana Reduction
-- Summoner
+- Mana Reduction 1
+- Summoner Self
 image: https://i.imgur.com/mEYb8Ac.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Santa's Loyal Steed
 aetherPower: attack_up
 lb1:
@@ -49,14 +49,14 @@ costume:
   types:
   - Hit 1
   - Mana Reduction 1
-  - Summoner
-  - Self Defense Buff
+  - Summoner Self
+  - Defense Buff Self
   passives:
   - 'Frost on Minion Hit: Each hit from the Minions owned by this character inflict
     244 Frost damage over 4 turns.'
   image: https://imgur.com/1zUQ99W.jpg
   dtReleased: "2025-12-01"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: Santa's Knightly Steed
   aetherPower: defense_up
   lb1:

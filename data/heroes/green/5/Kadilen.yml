@@ -17,7 +17,7 @@ types:
 - SS Defense Buff All
 image: https://i.imgur.com/Gjh3PRB.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-05-10"
 fancy_name: Shieldmaster of Moonlight
 aetherPower: defense_up
 lb1:
@@ -49,7 +49,7 @@ costume:
   - SS Dodge Chance Buff All
   image: https://i.imgur.com/N7LZ2EP.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-05-10"
   fancy_name: Priestess of Moonlight
   aetherPower: special_armor
   lb1:
@@ -81,7 +81,7 @@ costume2:
   - SS Dodge Chance Buff All
   image: https://i.imgur.com/hEckaC5.jpg
   dtReleased: "2023-04-17"
-  dtModified: ""
+  dtModified: "2026-05-10"
   fancy_name: Moonlit Fairy
   aetherPower: attack_up
   lb1:
@@ -115,7 +115,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/I1ETLXX.jpg
   dtReleased: "2024-10-06"
-  dtModified: ""
+  dtModified: "2026-05-10"
   fancy_name: Toon Shieldmaster
   aetherPower: defense_up
   lb1:
@@ -130,7 +130,7 @@ costume3:
     health: 2612
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 75/75/78/5
   class: Druid
   power: 1240
   attack: 1340
@@ -149,7 +149,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/DLZ7RRq.jpg
   dtReleased: "2025-12-11"
-  dtModified: ""
+  dtModified: "2026-05-10"
   fancy_name: Shieldmaster of Glass
   aetherPower: defense_up
   lb1:

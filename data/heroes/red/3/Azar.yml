@@ -128,4 +128,37 @@ costume3:
     attack: 850
     defense: 654
     health: 1110
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Barbarian
+  power: 546
+  attack: 651
+  defense: 488
+  health: 833
+  skill: Stylish Cut
+  effects:
+  - Deals 305% damage to the target.
+  - Reduces the mana of the target by 25%.
+  - If the target has less than 50% health remaining, deals 355% damage instead.
+  types:
+  - Hit 1
+  - Mana Reducer 1
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/ckC3Tmx.jpg
+  dtReleased: "2026-05-09"
+  dtModified: ""
+  aetherPower: rage
+  lb1:
+    power: 609
+    attack: 737
+    defense: 553
+    health: 944
+  lb2:
+    power: 738
+    attack: 912
+    defense: 683
+    health: 1167
 ...

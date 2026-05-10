@@ -33,7 +33,7 @@ passives:
   fully charged, the chance is 100%.'
 image: https://i.imgur.com/i5g8Fr0.jpg
 dtReleased: "2021-09-15"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Tower Headmaster
 aetherPower: defense_up
 lb1:
@@ -48,7 +48,7 @@ lb2:
   health: 1783
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 57/57/57/1
   class: Monk
   power: 1215
   attack: 1245
@@ -58,8 +58,8 @@ costume:
   effects:
   - 'Special Skill has a different effect when charged with 100% / 200% mana:'
   - '1x Mana Charge:'
-  - ' * All enemies receive 350 Burn damage over 2 turns. The caster absorbs 10% of
-    dealt Burn damage as health.'
+  - ' * The target and nearby enemies receive 350 Burn damage over 2 turns. The caster
+    absorbs 10% of dealt Burn damage as health.'
   - ' * If the caster is defeated during the next 2 turns, they are resurrected in
     the beginning of their next turn with 40% health. All status effects and stack
     are removed when the caster is defeated.'
@@ -70,7 +70,7 @@ costume:
   - ' * All allies reduce all received damage by -60% for 3 turns.'
   types:
   - Charge
-  - DoT All
+  - DoT 3
   - Self resurrection
   - Reviver
   - Boosted HoT All
@@ -82,7 +82,7 @@ costume:
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/bdS7gtT.jpg
   dtReleased: "2025-07-05"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: Tower Postmaster
   aetherPower: special_armor
   lb1:

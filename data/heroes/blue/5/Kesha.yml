@@ -13,12 +13,12 @@ effects:
 - Deals 485% damage to all enemies.
 - All allies except the caster dance the Dance of Ishq.
 - 'Dance of Ishq:'
-- +44% mana generation.
-- Received damage is reduced by -47%. (Affects only mana generation from matching
+- ' * +44% mana generation.'
+- ' * Received damage is reduced by -47%. (Affects only mana generation from matching
   tiles or mana gained by the defense team at the end of their turn. All existing
   status effects will be removed when a dance status effect is added. Dance gives
   immunity to new status effects. New dance status effect will replace this effect.
-  The effect is removed when the caster is defeated.)
+  The effect is removed when the caster is defeated.)'
 types:
 - Hit All
 - Dance of Ishq 4
@@ -37,7 +37,7 @@ passives:
 - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
 image: https://imgur.com/KV0bCQc.jpg
 dtReleased: "2026-02-10"
-dtModified: "2026-04-28"
+dtModified: "2026-05-05"
 fancy_name: Enchantress of Al-Layl
 aetherPower: special_boost
 lb1:

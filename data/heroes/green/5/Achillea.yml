@@ -33,13 +33,13 @@ dtModified: "2026-04-28"
 fancy_name: Fearless Gladiator Slime
 aetherPower: rage
 lb1:
-  power: 1391
-  attack: 1485
-  defense: 1420
-  health: 2495
+  power: 1407
+  attack: 1500
+  defense: 1435
+  health: 2541
 lb2:
-  power: 1574
-  attack: 1699
-  defense: 1625
-  health: 2854
+  power: 1592
+  attack: 1716
+  defense: 1642
+  health: 2908
 ...

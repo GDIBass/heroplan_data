@@ -168,4 +168,39 @@ costume4:
     attack: 1649
     defense: 1422
     health: 2866
+costume5:
+  design: stylish
+  bonuses: 90/90/95/5
+  class: Rogue
+  power: 1341
+  attack: 1466
+  defense: 1244
+  health: 2533
+  skill: Stylish Bolt
+  effects:
+  - Deals 610% damage to the target.
+  - If the target has less than 50% health remaining, deals 755% damage instead.
+  - The caster and nearby allies get +84% defense against Holy for 4 turns.
+  - Dispels buffs from the target and nearby enemies.
+  types:
+  - Hit 1
+  - Elemental Defense Buff 3
+  - Dispeller 3
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/s0aigVU.jpg
+  dtReleased: "2026-05-09"
+  dtModified: ""
+  aetherPower: attack_up
+  lb1:
+    power: 1329
+    attack: 1456
+    defense: 1235
+    health: 2492
+  lb2:
+    power: 1502
+    attack: 1666
+    defense: 1413
+    health: 2851
 ...

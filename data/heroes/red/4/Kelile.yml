@@ -158,4 +158,37 @@ costume4:
     attack: 1057
     defense: 968
     health: 1490
+costume5:
+  design: stylish
+  bonuses: 30/30/30/5
+  class: Rogue
+  power: 815
+  attack: 928
+  defense: 830
+  health: 1237
+  skill: Stylish Dance
+  effects:
+  - Deals 345% damage to the target.
+  - If the target has less than 50% health remaining, deals 395% damage instead.
+  - The target receives 279 Burn damage over 3 turns.
+  types:
+  - Hit 1
+  - DoT 1
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/FNbktxI.jpg
+  dtReleased: "2026-05-09"
+  dtModified: ""
+  aetherPower: attack_up
+  lb1:
+    power: 878
+    attack: 1008
+    defense: 901
+    health: 1344
+  lb2:
+    power: 1005
+    attack: 1169
+    defense: 1046
+    health: 1559
 ...

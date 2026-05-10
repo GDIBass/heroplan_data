@@ -184,10 +184,10 @@ costume5:
   fancy_name: Stylish Bounty Hunter
   aetherPower: attack_up
   lb1:
-    power: 876
-    attack: 1053
-    defense: 761
-    health: 1500
+    power: 875
+    attack: 1051
+    defense: 760
+    health: 1499
   lb2:
     power: 1002
     attack: 1220

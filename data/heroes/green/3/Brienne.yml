@@ -151,13 +151,13 @@ costume4:
   fancy_name: Stylish Druid
   aetherPower: defense_up
   lb1:
-    power: 607
-    attack: 581
-    defense: 640
-    health: 1139
+    power: 605
+    attack: 580
+    defense: 638
+    health: 1137
   lb2:
-    power: 734
-    attack: 718
-    defense: 791
-    health: 1408
+    power: 733
+    attack: 717
+    defense: 788
+    health: 1406
 ...

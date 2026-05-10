@@ -36,13 +36,13 @@ dtModified: "2026-04-28"
 fancy_name: Urumi Warrior
 aetherPower: attack_up
 lb1:
-  power: 1390
-  attack: 1476
-  defense: 1427
-  health: 2497
+  power: 1407
+  attack: 1491
+  defense: 1443
+  health: 2544
 lb2:
-  power: 1573
-  attack: 1689
-  defense: 1633
-  health: 2857
+  power: 1592
+  attack: 1707
+  defense: 1651
+  health: 2910
 ...

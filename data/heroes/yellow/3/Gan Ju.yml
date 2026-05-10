@@ -153,13 +153,13 @@ costume4:
   fancy_name: Vibrant Bamboo
   aetherPower: attack_up
   lb1:
-    power: 613
-    attack: 672
-    defense: 514
-    health: 1211
+    power: 612
+    attack: 670
+    defense: 513
+    health: 1210
   lb2:
     power: 742
-    attack: 830
-    defense: 635
+    attack: 829
+    defense: 634
     health: 1496
 ...

@@ -17,7 +17,7 @@ types:
 - Attack Debuff 3
 image: https://i.imgur.com/G5NAe4a.jpg
 dtReleased: "2017-03-01"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Hammer of Justice
 aetherPower: attack_up
 lb1:
@@ -47,7 +47,7 @@ costume:
   - Attack Debuff 3
   image: https://i.imgur.com/WKQthMP.jpg
   dtReleased: "2020-01-01"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Axe of Justice
   aetherPower: special_boost
   lb1:
@@ -78,7 +78,7 @@ costume2:
   - Attack Debuff 3
   image: https://i.imgur.com/7TMtgd4.jpg
   dtReleased: "2023-09-04"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Hammer of Injustice
   aetherPower: rage
   lb1:
@@ -112,7 +112,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/2rEfoQ7.jpg
   dtReleased: "2023-10-30"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Hammer of Toon Power
   aetherPower: attack_up
   lb1:
@@ -146,7 +146,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/zd4avma.jpg
   dtReleased: "2024-12-25"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Hammer of Glass
   aetherPower: attack_up
   lb1:
@@ -163,10 +163,10 @@ costume5:
   design: stylish
   bonuses: 90/90/95/5
   class: Paladin
-  power: 1294
-  attack: 1374
-  defense: 1211
-  health: 2495
+  power: 1335
+  attack: 1411
+  defense: 1244
+  health: 2630
   skill: Bottle Hammer
   effects:
   - Deals 585% damage to the target and minor damage to nearby enemies.
@@ -180,17 +180,17 @@ costume5:
     ones.'
   image: https://imgur.com/e0Q6Y54.jpg
   dtReleased: "2026-01-07"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Paladin of Style
   aetherPower: attack_up
   lb1:
-    power: 1385
-    attack: 1482
-    defense: 1306
-    health: 2690
+    power: 1429
+    attack: 1521
+    defense: 1341
+    health: 2835
   lb2:
-    power: 1567
-    attack: 1696
-    defense: 1494
-    health: 3077
+    power: 1617
+    attack: 1740
+    defense: 1534
+    health: 3243
 ...

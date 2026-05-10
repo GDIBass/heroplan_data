@@ -17,7 +17,7 @@ types:
 - Counterattack 1
 image: https://i.imgur.com/0JU9Ii1.jpg
 dtReleased: "2017-03-01"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Praetorian Bodyguard
 aetherPower: counterattack
 lb1:
@@ -48,7 +48,7 @@ costume:
   - Counterattack 3
   image: https://i.imgur.com/SB2N0Vj.jpg
   dtReleased: "2021-01-18"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Praetorian Gladiator
   aetherPower: damage_reduction
   lb1:
@@ -82,7 +82,7 @@ costume2:
   - Mana on Counterattack
   image: https://i.imgur.com/jA79vt4.jpg
   dtReleased: "2022-09-05"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Praetorian Vampire
   aetherPower: vampire
   lb1:
@@ -116,7 +116,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/YICnCq4.jpg
   dtReleased: "2023-11-27"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Praetorian Toon
   aetherPower: counterattack
   lb1:
@@ -150,7 +150,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/pN1Axne.jpg
   dtReleased: "2025-01-14"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Praetorian Vitrail
   aetherPower: counterattack
   lb1:
@@ -167,10 +167,10 @@ costume5:
   design: stylish
   bonuses: 90/90/95/5
   class: Barbarian
-  power: 1299
-  attack: 1385
-  defense: 1245
-  health: 2434
+  power: 1340
+  attack: 1423
+  defense: 1278
+  health: 2566
   skill: Stylish Counterattack
   effects:
   - Deals 410% damage to the target and minor damage to nearby enemies.
@@ -184,17 +184,17 @@ costume5:
     ones.'
   image: https://imgur.com/hiS5mXD.jpg
   dtReleased: "2026-01-26"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Stylish Bodyguard
   aetherPower: counterattack
   lb1:
-    power: 1391
-    attack: 1494
-    defense: 1342
-    health: 2624
+    power: 1434
+    attack: 1533
+    defense: 1377
+    health: 2766
   lb2:
-    power: 1573
-    attack: 1710
-    defense: 1536
-    health: 3002
+    power: 1623
+    attack: 1755
+    defense: 1576
+    health: 3165
 ...

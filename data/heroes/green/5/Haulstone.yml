@@ -22,11 +22,12 @@ effects:
 - ' * The ally gets +50% defense for 3 turns.'
 - ' * The ally counterattacks with 130% of the damage received for 3 turns.'
 types:
-- Attack Buff
-- Defense Buff
-- Mana Generation Buff
-- HoT
-- Counterattack
+- Attack Buff All
+- Defense Buff All
+- Mana Generation Buff All
+- HoT All
+- Counter
+- Counterattack All
 passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
   prevent the use of Special Skill.'
@@ -37,7 +38,7 @@ passives:
   when the Core is activated.'
 image: https://i.imgur.com/nDQGLk9.jpg
 dtReleased: "2023-06-28"
-dtModified: "2026-03-27"
+dtModified: "2026-05-05"
 fancy_name: Carry-It-All Construct
 aetherPower: defense_up
 lb1:

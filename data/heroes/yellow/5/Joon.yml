@@ -18,7 +18,7 @@ types:
 - Blind 1
 image: https://i.imgur.com/d5mevmf.jpg
 dtReleased: "2017-03-01"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Flame of the Sun
 aetherPower: dodge
 lb1:
@@ -49,7 +49,7 @@ costume:
   - Blind 1
   image: https://i.imgur.com/YXbYHIl.jpg
   dtReleased: "2020-01-01"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Fury of the Sun
   aetherPower: damage_reduction
   lb1:
@@ -82,7 +82,7 @@ costume2:
   - Blind 3
   image: https://i.imgur.com/rJxyTcK.jpg
   dtReleased: "2022-12-26"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Might of the Sun
   aetherPower: ailment_immunity
   lb1:
@@ -116,7 +116,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/6UDBHvu.jpg
   dtReleased: "2024-02-12"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Toon of the Sun
   aetherPower: dodge
   lb1:
@@ -151,7 +151,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/7d9tXzA.jpg
   dtReleased: "2025-04-08"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Vitrail of the Sun
   aetherPower: dodge
   lb1:
@@ -168,10 +168,10 @@ costume5:
   design: stylish
   bonuses: 90/90/95/5
   class: Monk
-  power: 1291
-  attack: 1443
-  defense: 1143
-  health: 2438
+  power: 1332
+  attack: 1482
+  defense: 1174
+  health: 2570
   skill: Stylish Beam
   effects:
   - Deals 568% damage to the target.
@@ -185,17 +185,17 @@ costume5:
     ones.'
   image: https://imgur.com/uvRw5hV.jpg
   dtReleased: "2026-04-10"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Stylish Sun Monk
   aetherPower: dodge
   lb1:
-    power: 1381
-    attack: 1555
-    defense: 1232
-    health: 2627
+    power: 1425
+    attack: 1597
+    defense: 1265
+    health: 2770
   lb2:
-    power: 1563
-    attack: 1779
-    defense: 1409
-    health: 3006
+    power: 1613
+    attack: 1827
+    defense: 1448
+    health: 3169
 ...

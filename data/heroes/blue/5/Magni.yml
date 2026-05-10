@@ -17,7 +17,7 @@ types:
 - Defense Buff 3
 image: https://i.imgur.com/JpMZ0xh.jpg
 dtReleased: "2017-03-01"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Ancient of Ice
 aetherPower: attack_up
 lb1:
@@ -47,7 +47,7 @@ costume:
   - Defense Debuff 3
   image: https://i.imgur.com/A0jPrh9.jpg
   dtReleased: "2020-05-18"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Monolith of Ice
   aetherPower: special_boost
   lb1:
@@ -77,7 +77,7 @@ costume2:
   - Defense Debuff 3
   image: https://i.imgur.com/npmSFHz.jpg
   dtReleased: "2022-10-31"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Ancient of the Underworld
   aetherPower: rage
   lb1:
@@ -111,7 +111,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/bakqHYB.jpg
   dtReleased: "2024-01-22"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Toon of Ice
   aetherPower: attack_up
   lb1:
@@ -145,7 +145,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/EJome7K.jpg
   dtReleased: "2025-03-11"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Vitrail of Ice
   aetherPower: attack_up
   lb1:
@@ -162,10 +162,10 @@ costume5:
   design: stylish
   bonuses: 90/90/95/5
   class: Fighter
-  power: 1295
-  attack: 1439
-  defense: 1137
-  health: 2488
+  power: 1336
+  attack: 1478
+  defense: 1168
+  health: 2622
   skill: Stylish Strike
   effects:
   - Deals 520% damage to the target.
@@ -179,17 +179,17 @@ costume5:
     ones.'
   image: https://imgur.com/ur9mzPp.jpg
   dtReleased: "2026-03-12"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Stylish Ancient of Ice
   aetherPower: attack_up
   lb1:
-    power: 1387
-    attack: 1552
-    defense: 1227
-    health: 2681
+    power: 1430
+    attack: 1593
+    defense: 1259
+    health: 2826
   lb2:
-    power: 1569
-    attack: 1776
-    defense: 1405
-    health: 3068
+    power: 1619
+    attack: 1823
+    defense: 1440
+    health: 3234
 ...

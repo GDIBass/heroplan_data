@@ -42,13 +42,13 @@ dtModified: "2026-04-28"
 fancy_name: Lonely Prince of the Bewitched Castle
 aetherPower: rage
 lb1:
-  power: 1342
-  attack: 1398
-  defense: 1380
-  health: 2439
+  power: 1363
+  attack: 1418
+  defense: 1402
+  health: 2499
 lb2:
-  power: 1517
-  attack: 1600
-  defense: 1579
-  health: 2791
+  power: 1542
+  attack: 1623
+  defense: 1604
+  health: 2860
 ...

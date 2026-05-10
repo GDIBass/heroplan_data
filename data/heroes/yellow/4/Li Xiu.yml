@@ -183,13 +183,13 @@ costume5:
   fancy_name: Stylish General
   aetherPower: counterattack
   lb1:
-    power: 875
+    power: 874
     attack: 960
-    defense: 879
-    health: 1485
+    defense: 877
+    health: 1484
   lb2:
     power: 1000
-    attack: 1113
-    defense: 1019
-    health: 1722
+    attack: 1114
+    defense: 1018
+    health: 1721
 ...

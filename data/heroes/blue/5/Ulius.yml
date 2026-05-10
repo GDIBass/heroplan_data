@@ -27,8 +27,9 @@ effects:
 types:
 - Charge
 - Minion Summoner All
+- Mana Generation Buff Minion
 - Fiend Summoner All
-- Mana Generation Debuff Fiend
+- Mana Generation Debuff Minion
 passives:
 - 'Damage on Special: When this character casts their Special Skill, they have a 50%
   chance to deal 100% damage to all enemies. If the Special Skill is fully charged,
@@ -38,7 +39,7 @@ passives:
   two stacks. An enemy can have up to 10 stacks.'
 image: https://i.imgur.com/rdw7YpR.jpg
 dtReleased: "2023-08-23"
-dtModified: "2026-04-28"
+dtModified: "2026-05-04"
 fancy_name: Peculiar Inventor Wizard
 aetherPower: fiend_resist
 lb1:
@@ -55,10 +56,10 @@ costume:
   design: costume1
   bonuses: 40/40/44/1
   class: Cleric
-  power: 1256
-  attack: 1236
-  defense: 1266
-  health: 2459
+  power: 1272
+  attack: 1254
+  defense: 1285
+  health: 2494
   skill: Scroll of Navigation
   effects:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
@@ -79,7 +80,9 @@ costume:
   types:
   - Charge
   - Minion Summoner All
+  - Mana Boost Minion
   - Fiend Summoner All
+  - Mana Steal Fiend
   passives:
   - 'Damage on Special: When this character casts their Special Skill, they have a
     60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged,
@@ -90,7 +93,7 @@ costume:
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/4u9xwFi.jpg
   dtReleased: "2025-11-30"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-04"
   fancy_name: Peculiar Arcane Buccaneer
   aetherPower: damage_reduction
   lb1:

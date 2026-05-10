@@ -15,13 +15,13 @@ effects:
   characters, this status effect becomes uncleansable and lasts 2 turns longer.
 types:
 - Hit 3
-- Dot 3
+- DoT 3
 passives:
 - 'Power of Sisu: When this character starts a turn with low health for the first
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/f4cHfqp.jpg
 dtReleased: "2022-06-20"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Undying Champion
 aetherPower: dodge
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1790
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/1
   class: Fighter
   power: 707
   attack: 671
@@ -55,7 +55,7 @@ costume:
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://imgur.com/Dbr4leC.jpg
   dtReleased: "2025-07-28"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: Fading Champion
   aetherPower: attack_up
   lb1:

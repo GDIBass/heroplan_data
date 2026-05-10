@@ -162,13 +162,13 @@ costume4:
   fancy_name: Stylish Healer
   aetherPower: special_armor
   lb1:
-    power: 610
-    attack: 583
+    power: 609
+    attack: 581
     defense: 674
-    health: 1093
+    health: 1092
   lb2:
-    power: 739
-    attack: 721
+    power: 738
+    attack: 718
     defense: 833
-    health: 1351
+    health: 1350
 ...

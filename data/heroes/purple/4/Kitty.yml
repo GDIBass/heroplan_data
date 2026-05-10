@@ -29,15 +29,15 @@ dtModified: "2026-04-16"
 fancy_name: Friendly Florist
 aetherPower: defense_up
 lb1:
-  power: 738
-  attack: 699
+  power: 737
+  attack: 698
   defense: 720
-  health: 1480
+  health: 1479
 lb2:
   power: 842
-  attack: 811
+  attack: 810
   defense: 835
-  health: 1715
+  health: 1716
 costume:
   design: costume1
   bonuses: 18/18/20/5
@@ -70,13 +70,13 @@ costume:
   fancy_name: Friendly Fruit Harvester
   aetherPower: heal_increase
   lb1:
-    power: 861
-    attack: 817
-    defense: 863
-    health: 1778
+    power: 860
+    attack: 816
+    defense: 862
+    health: 1777
   lb2:
-    power: 985
-    attack: 947
-    defense: 1001
+    power: 984
+    attack: 946
+    defense: 1000
     health: 2062
 ...

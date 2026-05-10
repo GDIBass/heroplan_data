@@ -23,7 +23,7 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/FvJxtPO.jpg
 dtReleased: "2022-10-03"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Charlady of Morlovia
 aetherPower: defense_up
 lb1:
@@ -38,7 +38,7 @@ lb2:
   health: 1659
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 15/15/15/5
   class: Sorcerer
   power: 774
   attack: 732
@@ -59,7 +59,7 @@ costume:
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://imgur.com/CXL7UK8.jpg
   dtReleased: "2025-10-08"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: Baroness of Dust
   aetherPower: defense_up
   lb1:

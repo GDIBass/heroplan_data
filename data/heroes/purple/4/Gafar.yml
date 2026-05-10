@@ -18,11 +18,11 @@ effects:
 types:
 - Hit 1
 - DoT 1
-- Healing Debuff
-- Self Clean
+- Healing Debuff 1
+- Clean Self
 image: https://i.imgur.com/xyMaVfi.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Vizier of Sand Empire
 aetherPower: attack_up
 lb1:
