@@ -31,12 +31,12 @@ aetherPower: attack_up
 lb1:
   power: 542
   attack: 608
-  defense: 579
+  defense: 578
   health: 734
 lb2:
   power: 655
   attack: 752
-  defense: 715
+  defense: 714
   health: 907
 costume:
   design: costume1
@@ -70,13 +70,13 @@ costume:
   fancy_name: Callous Pirate
   aetherPower: counterattack
   lb1:
-    power: 616
-    attack: 709
+    power: 615
+    attack: 707
     defense: 663
-    health: 840
+    health: 838
   lb2:
-    power: 746
-    attack: 876
-    defense: 820
-    health: 1038
+    power: 745
+    attack: 874
+    defense: 819
+    health: 1036
 ...

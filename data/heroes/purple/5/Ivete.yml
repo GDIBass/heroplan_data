@@ -15,8 +15,8 @@ effects:
 - After 1 turn all enemies get Paralyzed for 2 turns. (Paralyzed enemies can't attack
   or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't
   be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
-- All enemies receive 745 Poison damage over 5 turns.
-- All enemies receive 738 Curse damage over 6 turns, starting low and increasing every
+- All enemies receive 755 Poison damage over 5 turns.
+- All enemies receive 749 Curse damage over 6 turns, starting low and increasing every
   turn.
 - 'Otherwise:'
 - Deals 485% damage to all enemies.
@@ -24,7 +24,7 @@ effects:
 - (Paralyzed enemies can't attack or gain mana and receive +50% increased damage.
   Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are
   not affected by this status effect.)
-- All enemies receive 745 Poison damage over 5 turns.
+- All enemies receive 755 Poison damage over 5 turns.
 types:
 - Hit All
 - Delayed Paralyze All
@@ -39,17 +39,17 @@ passives:
   or from a negative stack, they will recover that much health instead.'
 image: https://imgur.com/qtnsAeQ.jpg
 dtReleased: "2026-04-16"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Jealous Fairy of the Bewitched Castle
 aetherPower: counterattack
 lb1:
-  power: 1389
-  attack: 1467
-  defense: 1440
-  health: 2488
+  power: 1410
+  attack: 1487
+  defense: 1460
+  health: 2548
 lb2:
-  power: 1572
-  attack: 1678
-  defense: 1648
-  health: 2847
+  power: 1596
+  attack: 1702
+  defense: 1671
+  health: 2915
 ...

@@ -43,13 +43,13 @@ dtModified: "2026-04-28"
 fancy_name: Bloom of the Bewitched Castle
 aetherPower: fiend_resist
 lb1:
-  power: 1342
-  attack: 1389
-  defense: 1394
-  health: 2433
+  power: 1364
+  attack: 1410
+  defense: 1416
+  health: 2493
 lb2:
-  power: 1517
-  attack: 1590
-  defense: 1595
-  health: 2783
+  power: 1542
+  attack: 1613
+  defense: 1620
+  health: 2852
 ...

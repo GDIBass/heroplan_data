@@ -24,7 +24,7 @@ passives:
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/cwvEsxY.jpg
 dtReleased: "2022-12-14"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Ardent Musketeer
 aetherPower: ailment_immunity
 lb1:
@@ -41,14 +41,14 @@ costume:
   design: costume1
   bonuses: 55/55/60/5
   class: Wizard
-  power: 1280
-  attack: 1329
-  defense: 1276
-  health: 2382
+  power: 1306
+  attack: 1346
+  defense: 1292
+  health: 2491
   skill: Sweep the Soot
   effects:
   - Deals 570% damage to the target.
-  - The target receives 1692 Burn damage over 3 turns. This effect spreads to nearby
+  - The target receives 1716 Burn damage over 3 turns. This effect spreads to nearby
     enemies.
   - The caster regenerates 1005 boosted health over 3 turns. Boosted health can exceed
     max HP.
@@ -65,17 +65,17 @@ costume:
     to deal 50% of the received damage to all enemies.'
   image: https://imgur.com/9p7hmgV.jpg
   dtReleased: "2026-02-20"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Ardent Chimney-Sweeper
   aetherPower: attack_up
   lb1:
-    power: 1370
-    attack: 1433
-    defense: 1375
-    health: 2567
+    power: 1398
+    attack: 1450
+    defense: 1392
+    health: 2685
   lb2:
-    power: 1550
-    attack: 1639
-    defense: 1573
-    health: 2937
+    power: 1582
+    attack: 1660
+    defense: 1593
+    health: 3072
 ...

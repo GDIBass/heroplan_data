@@ -37,13 +37,13 @@ dtModified: "2026-04-28"
 fancy_name: The Faithful Protector
 aetherPower: regen
 lb1:
-  power: 1351
-  attack: 1434
-  defense: 1369
-  health: 2439
+  power: 1373
+  attack: 1454
+  defense: 1389
+  health: 2502
 lb2:
-  power: 1528
-  attack: 1640
-  defense: 1567
-  health: 2791
+  power: 1552
+  attack: 1663
+  defense: 1589
+  health: 2862
 ...

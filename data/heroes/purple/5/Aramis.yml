@@ -25,13 +25,13 @@ passives:
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/7DRTWTb.jpg
 dtReleased: "2022-12-14"
-dtModified: "2026-04-28"
+dtModified: "2026-05-10"
 fancy_name: Romantic Musketeer
 aetherPower: heal_increase
 lb1:
   power: 901
   attack: 941
-  defense: 841
+  defense: 840
   health: 1511
 lb2:
   power: 1013
@@ -42,9 +42,9 @@ costume:
   design: costume1
   bonuses: 60/60/60/5
   class: Paladin
-  power: 1253
-  attack: 1368
-  defense: 1202
+  power: 1280
+  attack: 1412
+  defense: 1241
   health: 2240
   skill: Baker's Baguettes
   effects:
@@ -67,17 +67,17 @@ costume:
     to deal 50% of the received damage on all enemies.'
   image: https://imgur.com/58shBmV.jpg
   dtReleased: "2025-11-12"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-10"
   fancy_name: Boulanger Musketeer
   aetherPower: dodge
   lb1:
-    power: 1342
-    attack: 1476
-    defense: 1297
-    health: 2415
+    power: 1370
+    attack: 1522
+    defense: 1337
+    health: 2414
   lb2:
-    power: 1518
-    attack: 1688
-    defense: 1484
-    health: 2763
+    power: 1549
+    attack: 1741
+    defense: 1530
+    health: 2762
 ...
