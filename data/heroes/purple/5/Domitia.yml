@@ -192,6 +192,7 @@ costume5:
   image: https://imgur.com/s0aigVU.jpg
   dtReleased: "2026-05-09"
   dtModified: ""
+  fancy_name: Stylish Sniper
   aetherPower: attack_up
   lb1:
     power: 1329
