@@ -5,7 +5,7 @@ family: starfall
 speed: Very Fast
 class: Druid
 power: 809
-attack: 745
+attack: 751
 defense: 803
 health: 1406
 skill: Flames and Rejuvenation
@@ -26,7 +26,7 @@ types:
 - Status Ailments Immunity All
 image: https://i.imgur.com/iAnFGWC.jpg
 dtReleased: "2021-06-10"
-dtModified: ""
+dtModified: "2026-05-11"
 fancy_name: The Great Phoenix Tamer
 aetherPower: defense_up
 lb1:
@@ -68,17 +68,17 @@ costume:
     new copy of the cleansed ailment is applied on a random enemy.'
   image: https://imgur.com/Jiz6BXT.jpg
   dtReleased: "2025-04-09"
-  dtModified: ""
+  dtModified: "2026-05-11"
   fancy_name: The Great Frog Tamer
   aetherPower: attack_up
   lb1:
-    power: 1295
-    attack: 1334
-    defense: 1254
-    health: 2517
+    power: 1294
+    attack: 1333
+    defense: 1253
+    health: 2518
   lb2:
-    power: 1464
-    attack: 1527
-    defense: 1435
-    health: 2880
+    power: 1463
+    attack: 1525
+    defense: 1434
+    health: 2881
 ...

@@ -12,11 +12,11 @@ skill: Testudo Roll
 effects:
 - 'Special Skill need consecutive uses to reach full power, the following order:'
 - '1st:'
-- ' * Destroys all Minions from all enemies.'
+- ' * Destroys all Minions from all enemies and damages Mega Minions.'
 - ' * Deals 280% damage to all enemies.'
 - ' * All allies get +30% defense for 3 turns.'
 - '2nd:'
-- ' * Destroys all Minions from all enemies.'
+- ' * Destroys all Minions from all enemies and damages Mega Minions.'
 - ' * Deals 370% damage to all enemies.'
 - ' * Stack (Max 10): The caster recovers 24 HP each turn for each destroyed Minion.'
 - ' * All allies get +50% defense for 3 turns.'
@@ -32,19 +32,19 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/pxAZGoS.jpg
 dtReleased: "2023-06-07"
-dtModified: "2026-04-03"
+dtModified: "2026-05-11"
 fancy_name: Wise Sage of the Oceans
 aetherPower: defense_up
 lb1:
   power: 996
   attack: 865
-  defense: 1032
+  defense: 1031
   health: 2000
 lb2:
   power: 1122
   attack: 990
-  defense: 1181
-  health: 2288
+  defense: 1180
+  health: 2289
 costume:
   design: costume1
   bonuses: 28/28/28/5
@@ -78,17 +78,17 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/hvltSu6.jpg
   dtReleased: "2024-07-27"
-  dtModified: "2026-04-03"
+  dtModified: "2026-05-11"
   fancy_name: Wise Roller of the Quarry
   aetherPower: special_armor
   lb1:
-    power: 1242
-    attack: 1142
-    defense: 1307
+    power: 1241
+    attack: 1141
+    defense: 1306
     health: 2511
   lb2:
-    power: 1403
+    power: 1402
     attack: 1306
-    defense: 1495
-    health: 2874
+    defense: 1494
+    health: 2873
 ...
