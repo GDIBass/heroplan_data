@@ -1,0 +1,38 @@
+---
+name: Wingmane
+source: ancientUnderroot
+speed: Fast
+power: 12900
+attack: 16362
+defense: 16131
+health: 14481
+skill: Aerial Revenge
+effects:
+- Deals 185% damage to all enemies.
+- The damage is increased by 70% per each defeated ally.
+- The attack bypasses counterattacks and reflection.
+types:
+- Hit All
+- Bypass
+spiritBonus:
+  spiritClass: Ranger
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Corrosive Blaze
+  effects:
+  - Deals 810 damage to all enemies.
+  - Recovers 210 health for all allies.
+  - All enemies get -20% defense for 5 turns.
+image: https://imgur.com/HnYwX8m.jpg
+...

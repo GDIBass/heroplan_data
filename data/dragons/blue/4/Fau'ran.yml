@@ -1,0 +1,38 @@
+---
+name: Fau'ran
+source: ancientUnderroot
+speed: Average
+power: 9533
+attack: 12068
+defense: 11876
+health: 9963
+skill: Celestial Balance
+effects:
+- Deals 270% damage to the enemy with the highest remaining HP. Deals 140% damage
+  to all other enemies.
+- Heals all allies for 15% of damage dealt.
+types:
+- Hit All
+- Heal All
+spiritBonus:
+  spiritClass: Sorcerer
+  all:
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
+  elementalBond:
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
+  classLink:
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
+assist:
+  name: Weakening Blaze
+  effects:
+  - Deals 550 damage to all enemies.
+  - Recovers 100 health for all allies.
+  - All enemies get -15% attack for 5 turns.
+image: https://imgur.com/iru1C2n.jpg
+...
