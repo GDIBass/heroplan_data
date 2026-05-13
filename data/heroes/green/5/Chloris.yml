@@ -21,13 +21,13 @@ types:
 - Health Boost All
 - HoT All
 passives:
-- 'Resist Healing Ailments: This character has innate resistance against ailments
-  that affect healing.'
+- 'Resist Healing Ailments: This character is immune to status ailments that affect
+  healing.'
 - 'Boost Health on Enemy Special: When an enemy casts their Special Skill, this character
   has a 50% chance to boost this character''s health by 100.'
 image: https://i.imgur.com/3NHTm5Y.jpg
 dtReleased: "2024-09-01"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Floral Spirit
 aetherPower: heal_increase
 lb1:

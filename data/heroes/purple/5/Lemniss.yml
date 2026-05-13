@@ -21,13 +21,13 @@ types:
 passives:
 - 'Destroy Fiends on Special: When this character casts their Special Skill, all Fiends
   are destroyed from them.'
-- 'Superior Resist Negative Minion Effects: This character has innate resistance against
-  incoming negative effects and damage from Minions and Mega Minions.'
+- 'Superior Resist Negative Minion Effects: This character is immune to incoming negative
+  effects and damage from Minions and Mega Minions.'
 - 'Resist Healing Ailments: This character is immune to status ailments that affect
   healing.'
 image: https://imgur.com/gnD2Rl7.jpg
 dtReleased: "2025-09-21"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Astral Dwarf Miner
 aetherPower: ailment_immunity
 lb1:

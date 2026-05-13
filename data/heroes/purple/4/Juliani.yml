@@ -19,12 +19,12 @@ types:
 - Hit 3
 - Dot 3
 passives:
-- 'Hinder Mana: Reduces the amount of mana increased by Special Skill, Passive Skills,
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
   family bonuses and status effects by -80%. The effect applies to all enemies in
   the battle.'
 image: https://i.imgur.com/UhbZaxw.jpg
 dtReleased: "2024-02-14"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Justiciar of Owl Tower
 aetherPower: attack_up
 lb1:
