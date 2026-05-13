@@ -18,21 +18,21 @@ types:
 - Mana Generation Buff All
 passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
-- 'Share Received Damage: 20% of damage received by this character is shared with
-  other allies.'
+- 'Share Received Damage: 20% of damage received by this character is shared  with
+  all other allies.'
 image: https://i.imgur.com/0xgP0mx.jpg
 dtReleased: "2024-03-07"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Astral Elf Botanist
 aetherPower: damage_reduction
 lb1:
   power: 1083
-  attack: 1072
+  attack: 1071
   defense: 1156
-  health: 1853
+  health: 1854
 lb2:
   power: 1221
   attack: 1226
   defense: 1323
-  health: 2120
+  health: 2121
 ...

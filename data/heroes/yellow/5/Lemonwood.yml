@@ -21,11 +21,11 @@ types:
 - Mana Reduction on Hit
 passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage'
-- 'Share Received Damage: 20% of damage received by this character is shared with
-  other allies.'
+- 'Share Received Damage: 20% of damage received by this character is shared  with
+  all other allies.'
 image: https://i.imgur.com/P0rxyPZ.jpg
 dtReleased: "2024-03-07"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Astral Elf Marksman
 aetherPower: dodge
 lb1:

@@ -37,13 +37,13 @@ dtModified: "2026-04-28"
 fancy_name: Trapper from the Grove
 aetherPower: regen
 lb1:
-  power: 1370
-  attack: 1445
-  defense: 1407
-  health: 2473
+  power: 1382
+  attack: 1456
+  defense: 1418
+  health: 2506
 lb2:
-  power: 1550
-  attack: 1653
-  defense: 1610
-  health: 2829
+  power: 1563
+  attack: 1666
+  defense: 1623
+  health: 2867
 ...

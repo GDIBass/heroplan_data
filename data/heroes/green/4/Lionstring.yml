@@ -18,24 +18,25 @@ effects:
   for 2 turns.
 types:
 - Hit 3
-- Dodge
+- Healing Steal 3
+- Dodge Chance 3
 passives:
-- 'Resist Poison: This character has innate resistance against Poison.'
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 - 'Share Received Damage: 20% of damage received by this character is shared  with
-  other allies.'
+  all other allies.'
 image: https://i.imgur.com/M9HK4qH.jpg
 dtReleased: "2024-03-07"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Astral Elf Dressmaker
 aetherPower: dodge
 lb1:
   power: 750
   attack: 743
-  defense: 748
+  defense: 747
   health: 1403
 lb2:
-  power: 856
-  attack: 861
+  power: 857
+  attack: 862
   defense: 867
-  health: 1627
+  health: 1628
 ...

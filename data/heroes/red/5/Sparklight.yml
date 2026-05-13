@@ -23,21 +23,21 @@ types:
 - Reflect Buffs 3
 passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
-- 'Share Received Damage: 20% of damage received by this character is shared with
-  other allies.'
+- 'Share Received Damage: 20% of damage received by this character is shared  with
+  all other allies.'
 image: https://i.imgur.com/wnVpRMp.jpg
 dtReleased: "2023-11-21"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Astral Elf Champion
 aetherPower: attack_up
 lb1:
   power: 1081
-  attack: 1143
-  defense: 1078
+  attack: 1142
+  defense: 1079
   health: 1818
 lb2:
   power: 1219
-  attack: 1308
+  attack: 1307
   defense: 1234
   health: 2080
 ...

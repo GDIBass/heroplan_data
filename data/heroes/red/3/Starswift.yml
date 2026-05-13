@@ -17,22 +17,22 @@ types:
 - Hit 3
 - Mana generation buff 3
 passives:
-- 'Resist Poison: This character has innate resistance against Poison.'
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 - 'Share Received Damage: 20% of damage received by this character is shared  with
-  other allies.'
+  all other allies.'
 image: https://i.imgur.com/M18GizO.jpg
 dtReleased: "2024-03-07"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Astral Elf Youth
 aetherPower: attack_up
 lb1:
-  power: 550
-  attack: 594
+  power: 549
+  attack: 593
   defense: 545
-  health: 892
+  health: 891
 lb2:
-  power: 665
-  attack: 735
-  defense: 674
+  power: 664
+  attack: 734
+  defense: 673
   health: 1102
 ...

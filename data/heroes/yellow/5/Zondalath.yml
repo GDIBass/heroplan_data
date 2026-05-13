@@ -22,25 +22,23 @@ types:
 passives:
 - 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
   family bonuses and status effects by -80%. The effect applies to all enemies in
-  battle.'
+  the battle.'
 - 'Resist Negative Mana Effects: This character is immune to mana reductions, as well
   as status ailments and negative stacks that affect mana generation. Applies also
   to effects and status ailments that block or steal mana.'
-- 'Resist Healing Ailments: This character is immune to status ailments that affect
-  healing.'
 image: https://imgur.com/s4AyFHC.jpg
 dtReleased: "2026-03-07"
-dtModified: "2026-04-28"
+dtModified: "2026-05-13"
 fancy_name: Astral Demon Sun-Wielder
 aetherPower: fiend_resist
 lb1:
-  power: 1377
-  attack: 1414
-  defense: 1465
-  health: 2479
+  power: 1387
+  attack: 1425
+  defense: 1473
+  health: 2508
 lb2:
-  power: 1557
-  attack: 1617
-  defense: 1676
-  health: 2837
+  power: 1569
+  attack: 1630
+  defense: 1686
+  health: 2870
 ...
