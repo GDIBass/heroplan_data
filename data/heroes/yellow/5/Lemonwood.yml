@@ -20,7 +20,7 @@ types:
 - Chain Hit
 - Mana Reduction on Hit
 passives:
-- 'Resist Poison: This character is immune to status ailments that deal Poison damage'
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 - 'Share Received Damage: 20% of damage received by this character is shared  with
   all other allies.'
 image: https://i.imgur.com/P0rxyPZ.jpg
