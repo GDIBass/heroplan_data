@@ -154,6 +154,7 @@ costume4:
   image: https://imgur.com/q0mnmfU.jpg
   dtReleased: "2026-05-09"
   dtModified: ""
+  fancy_name: Stylish Spirit
   aetherPower: defense_up
   lb1:
     power: 608

@@ -66,6 +66,7 @@ costume:
   image: https://imgur.com/vFtucgd.jpg
   dtReleased: "2026-05-08"
   dtModified: ""
+  fancy_name: Courageous Fusilier
   aetherPower: regen
   lb1:
     power: 1414

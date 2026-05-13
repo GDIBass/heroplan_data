@@ -34,13 +34,13 @@ dtModified: "2026-04-28"
 fancy_name: Vanguard of the Wilds
 aetherPower: attack_up
 lb1:
-  power: 1389
-  attack: 1460
-  defense: 1445
-  health: 2495
+  power: 1400
+  attack: 1471
+  defense: 1454
+  health: 2522
 lb2:
-  power: 1572
-  attack: 1671
-  defense: 1653
-  health: 2854
+  power: 1583
+  attack: 1683
+  defense: 1663
+  health: 2886
 ...

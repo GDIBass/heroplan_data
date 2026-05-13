@@ -20,22 +20,22 @@ types:
 - Heal steal All
 - Attack Debuff All
 passives:
-- 'Resist Poison: This character has innate resistance against Poison.'
-- 'Share Received Damage: 20% of damage received by this character is shared with
-  other allies.'
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
+- 'Share Received Damage: 20% of damage received by this character is shared  with
+  all other allies.'
 image: https://i.imgur.com/K8e9yy9.jpg
 dtReleased: "2024-08-19"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Astral Elf Incense Master
 aetherPower: heal_increase
 lb1:
   power: 1161
-  attack: 1147
-  defense: 1260
+  attack: 1148
+  defense: 1261
   health: 2013
 lb2:
-  power: 1310
+  power: 1311
   attack: 1313
-  defense: 1442
-  health: 2303
+  defense: 1443
+  health: 2304
 ...

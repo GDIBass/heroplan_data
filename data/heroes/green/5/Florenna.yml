@@ -24,10 +24,10 @@ types:
 passives:
 - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
   a status ailment or a negative stack.'
-- 'Resist Poison: This character has innate resistance against Poison.'
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 image: https://imgur.com/5IV59yi.jpg
 dtReleased: "2025-07-01"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Graceful Elaphocentaur
 aetherPower: attack_up
 lb1:

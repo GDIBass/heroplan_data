@@ -35,13 +35,13 @@ dtModified: "2026-04-28"
 fancy_name: Vanguard of the Rainforest
 aetherPower: attack_up
 lb1:
-  power: 1352
-  attack: 1414
-  defense: 1398
-  health: 2439
+  power: 1363
+  attack: 1425
+  defense: 1410
+  health: 2466
 lb2:
-  power: 1529
-  attack: 1617
-  defense: 1600
-  health: 2791
+  power: 1542
+  attack: 1630
+  defense: 1613
+  health: 2822
 ...

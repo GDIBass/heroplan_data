@@ -26,11 +26,11 @@ types:
 - Attack Buff All against boosted HP
 passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
-- 'Share Received Damage: 20% of damage received by this character is shared with
-  other allies.'
+- 'Share Received Damage: 20% of damage received by this character is shared  with
+  all other allies.'
 image: https://i.imgur.com/EiBBCez.jpg
 dtReleased: "2024-07-10"
-dtModified: "2026-03-20"
+dtModified: "2026-05-13"
 fancy_name: Astral Elf Summoner
 aetherPower: dodge
 lb1:
@@ -41,6 +41,6 @@ lb1:
 lb2:
   power: 1308
   attack: 1272
-  defense: 1485
-  health: 2303
+  defense: 1486
+  health: 2304
 ...

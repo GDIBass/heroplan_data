@@ -22,12 +22,12 @@ types:
 passives:
 - 'Superior Bypass Minions: All damage done by this character bypasses Minions and
   Mega Minions.'
-- 'Superior Resist Negative Minion Effects: This character has innate resistance against
-  incoming negative effects and damage from Minions and Mega Minions.'
+- 'Superior Resist Negative Minion Effects: This character is immune to incoming negative
+  effects and damage from Minions and Mega Minions.'
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/OSAvxSD.jpg
 dtReleased: "2025-02-28"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Astral Dwarf Tinkerer
 aetherPower: special_boost
 lb1:
@@ -38,6 +38,6 @@ lb1:
 lb2:
   power: 1415
   attack: 1536
-  defense: 1526
+  defense: 1527
   health: 2326
 ...

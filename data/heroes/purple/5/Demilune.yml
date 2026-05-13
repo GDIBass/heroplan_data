@@ -20,22 +20,22 @@ types:
 - Buff steal 3
 - Attack Growth 3
 passives:
-- 'Resist Poison: This character has innate resistance against Poison.'
+- 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 - 'Share Received Damage: 20% of damage received by this character is shared  with
-  other allies.'
+  all other allies.'
 image: https://i.imgur.com/h0XJ3CG.jpg
 dtReleased: "2024-05-20"
-dtModified: ""
+dtModified: "2026-05-13"
 fancy_name: Astral Elf Oracle
 aetherPower: attack_up
 lb1:
-  power: 1124
-  attack: 1181
+  power: 1123
+  attack: 1180
   defense: 1152
   health: 1880
 lb2:
-  power: 1268
-  attack: 1351
+  power: 1267
+  attack: 1350
   defense: 1318
   health: 2151
 ...
