@@ -26,15 +26,15 @@ types:
 - Attack Debuff All Nature enemies
 passives:
 - 'Troop Mastery:'
-- 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
-  damage against weaker element.'
-- ' * Dealt extra elemental damage: +100%'
-- 'Passive Skill as defending character: This hero receives less elemental  damage
-  from Troops of stronger element.'
-- ' * Received elemental damage: -10%'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra  damage against
+  weaker element.'
+- ' * Extra damage dealt: +100%'
+- 'Passive Skill as defending character: This hero receives less  damage from Troops
+  of stronger element.'
+- ' * Received damage: -10%'
 image: https://i.imgur.com/deN3GU2.jpg
 dtReleased: "2023-09-11"
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Cosmic Chef
 aetherPower: counterattack
 lb1:
@@ -73,17 +73,17 @@ costume:
   - Attack Debuff All Nature enemies
   passives:
   - 'Troop Mastery:'
-  - 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
-    damage against weaker element.'
+  - 'Passive Skill as attacking character: This hero''s Troops deal extra  damage
+    against weaker element.'
   - ' * Extra damage dealt: +150%'
-  - 'Passive Skill as defending character: This hero receives less elemental  damage
-    from Troops of stronger element.'
+  - 'Passive Skill as defending character: This hero receives less  damage from Troops
+    of stronger element.'
   - ' * Received damage: -25%'
   - 'Resist Fire Ailments: This character is immune to status ailments and negative
     stacks cast by Fire characters.'
   image: https://imgur.com/VjwLyaa.jpg
   dtReleased: "2026-05-15"
-  dtModified: ""
+  dtModified: "2026-05-15"
   aetherPower: defense_up
   lb1:
     power: 1414

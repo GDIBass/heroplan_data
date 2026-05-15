@@ -38,13 +38,13 @@ dtModified: "2026-04-28"
 fancy_name: Icy Overseer Construct
 aetherPower: defense_up
 lb1:
-  power: 1328
-  attack: 1371
-  defense: 1376
-  health: 2419
+  power: 1350
+  attack: 1391
+  defense: 1396
+  health: 2484
 lb2:
-  power: 1502
-  attack: 1569
-  defense: 1574
-  health: 2768
+  power: 1527
+  attack: 1592
+  defense: 1597
+  health: 2843
 ...

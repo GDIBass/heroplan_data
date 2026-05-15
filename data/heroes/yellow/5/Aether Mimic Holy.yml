@@ -21,24 +21,27 @@ types:
 - Mimic Chest
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
-- 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
+- 'Mimic Loot: This Mimic gives a chance for the following extra loot'
+- 'Legendary:'
 - ' * Alpha Aether'
 - ' * Holy Aether III'
+- 'Epic:'
 - ' * Holy Aether II'
+- 'Rare:'
 - ' * Holy Aether I'
 image: https://imgur.com/8CZSXOw.jpg
 dtReleased: "2026-01-06"
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Starved Storage of Rods
 aetherPower: bulwark
 lb1:
-  power: 1370
-  attack: 1436
-  defense: 1436
+  power: 1369
+  attack: 1435
+  defense: 1435
   health: 2435
 lb2:
-  power: 1550
-  attack: 1643
-  defense: 1643
+  power: 1549
+  attack: 1642
+  defense: 1642
   health: 2786
 ...

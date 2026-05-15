@@ -86,13 +86,13 @@ costume:
   fancy_name: Dwarven Restorer
   aetherPower: bulwark
   lb1:
-    power: 1378
-    attack: 1355
-    defense: 1424
-    health: 2715
+    power: 1396
+    attack: 1379
+    defense: 1448
+    health: 2739
   lb2:
-    power: 1558
-    attack: 1550
-    defense: 1629
-    health: 3106
+    power: 1580
+    attack: 1578
+    defense: 1657
+    health: 3134
 ...

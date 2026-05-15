@@ -10,8 +10,8 @@ defense: 1030
 health: 1833
 skill: Ice and Slice
 effects:
-- Targets element is changed to Fire for 3 turns. (Titans and Mythic Titans are not
-  affected by Element Swap)
+- Target's element is changed to Fire for 3 turns. (Titans and Mythic Titans are not
+  affected by this status effect.)
 - Deals 550% damage to the target.
 - The target get -68% defense against Ice for 3 turns.
 types:
@@ -20,20 +20,20 @@ types:
 - Elemental Defense Debuff 1
 passives:
 - 'Troop Mastery:'
-- 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
-  damage against weaker element.'
-- ' - Dealt extra elemental damage: +100%'
-- 'Passive Skill as defending character: This hero receives less elemental  damage
-  from Troops of stronger element.'
-- ' - Received elemental damage: -10%'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra  damage against
+  weaker element.'
+- ' * Extra damage dealt: +100%'
+- 'Passive Skill as defending character: This hero receives less  damage from Troops
+  of stronger element.'
+- ' * Received damage: -10%'
 image: https://i.imgur.com/NBQDloj.jpg
 dtReleased: "2024-06-17"
-dtModified: "2026-05-01"
+dtModified: "2026-05-15"
 fancy_name: Cold Blooded Assassin
 aetherPower: attack_up
 lb1:
   power: 1137
-  attack: 1216
+  attack: 1215
   defense: 1110
   health: 1975
 lb2:

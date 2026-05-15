@@ -23,22 +23,22 @@ passives:
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/VkKPr4n.jpg
 dtReleased: "2022-06-20"
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Summer Maiden
 aetherPower: defense_up
 lb1:
-  power: 891
-  attack: 850
+  power: 890
+  attack: 849
   defense: 874
   health: 1600
 lb2:
   power: 1001
-  attack: 972
+  attack: 971
   defense: 1000
   health: 1831
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 34/34/35/5
   class: Monk
   power: 941
   attack: 875
@@ -59,17 +59,17 @@ costume:
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://i.imgur.com/GoxPKHf.jpg
   dtReleased: "2023-08-07"
-  dtModified: ""
+  dtModified: "2026-05-15"
   fancy_name: Lake Maiden
   aetherPower: bulwark
   lb1:
-    power: 1153
-    attack: 1109
-    defense: 1210
-    health: 2154
+    power: 1004
+    attack: 943
+    defense: 1029
+    health: 1867
   lb2:
-    power: 1302
-    attack: 1269
-    defense: 1385
-    health: 2465
+    power: 1131
+    attack: 1079
+    defense: 1177
+    health: 2136
 ...

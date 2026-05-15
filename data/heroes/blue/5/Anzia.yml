@@ -19,15 +19,15 @@ types:
 - Mana on Counterattack All Ice
 passives:
 - 'Troop Mastery:'
-- 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
-  damage against weaker element.'
-- ' * Dealt extra elemental damage: +100%'
-- 'Passive Skill as defending character: This hero receives less elemental  damage
-  from Troops of stronger element.'
-- ' * Received elemental damage: -10%'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra  damage against
+  weaker element.'
+- ' * Extra damage dealt: +100%'
+- 'Passive Skill as defending character: This hero receives less  damage from Troops
+  of stronger element.'
+- ' * Received damage: -10%'
 image: https://i.imgur.com/9igBdFq.jpg
 dtReleased: "2023-01-30"
-dtModified: "2026-04-28"
+dtModified: "2026-05-15"
 fancy_name: Galactic Savior
 aetherPower: damage_reduction
 lb1:
@@ -44,10 +44,10 @@ costume:
   design: costume1
   bonuses: 49/49/50/5
   class: Monk
-  power: 1264
-  attack: 1198
-  defense: 1235
-  health: 2676
+  power: 1288
+  attack: 1223
+  defense: 1260
+  health: 2731
   skill: Radiant Shackles
   effects:
   - All allies counterattack with 75% of the damage received, and a further 8% increase
@@ -62,27 +62,27 @@ costume:
   - Damage Reduction All
   passives:
   - 'Troop Mastery:'
-  - 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
-    damage against weaker element.'
-  - ' - Dealt extra elemental damage: +150%'
-  - 'Passive Skill as defending character: This hero receives less elemental  damage
-    from Troops of stronger element.'
-  - ' - Received elemental damage: -25%'
+  - 'Passive Skill as attacking character: This hero''s Troops deal extra  damage
+    against weaker element.'
+  - ' * Extra damage dealt: +150%'
+  - 'Passive Skill as defending character: This hero receives less  damage from Troops
+    of stronger element.'
+  - ' * Received damage: -25%'
   - 'Resist Fire Ailments: This character is immune to status ailments and negative
     stacks cast by Fire characters.'
   image: https://imgur.com/m04qRmx.jpg
   dtReleased: "2026-01-02"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-15"
   fancy_name: Galactic Jailer
   aetherPower: regen
   lb1:
-    power: 1354
-    attack: 1293
-    defense: 1332
-    health: 2884
+    power: 1378
+    attack: 1318
+    defense: 1358
+    health: 2944
   lb2:
-    power: 1531
-    attack: 1479
-    defense: 1524
-    health: 3300
+    power: 1559
+    attack: 1508
+    defense: 1554
+    health: 3368
 ...

@@ -43,13 +43,13 @@ dtModified: "2026-04-28"
 fancy_name: Unlucky Tigris Fisher
 aetherPower: boosted_regen
 lb1:
-  power: 1362
-  attack: 1487
-  defense: 1332
-  health: 2457
+  power: 1378
+  attack: 1491
+  defense: 1360
+  health: 2506
 lb2:
-  power: 1540
-  attack: 1701
-  defense: 1524
-  health: 2811
+  power: 1559
+  attack: 1707
+  defense: 1556
+  health: 2867
 ...

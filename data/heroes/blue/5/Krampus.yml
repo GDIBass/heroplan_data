@@ -24,22 +24,22 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/9L71cZ8.jpg
 dtReleased: "2020-12-01"
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Holiday Ghoul
 aetherPower: taunt
 lb1:
   power: 855
   attack: 719
-  defense: 919
+  defense: 918
   health: 1582
 lb2:
   power: 960
   attack: 822
-  defense: 1051
-  health: 1811
+  defense: 1050
+  health: 1810
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 37/37/38/5
   class: Barbarian
   power: 1055
   attack: 1028
@@ -64,17 +64,17 @@ costume:
     Frost damage over 4 turns.'
   image: https://i.imgur.com/fkiwdOj.jpg
   dtReleased: "2021-12-01"
-  dtModified: ""
+  dtModified: "2026-05-15"
   fancy_name: Holiday Prankster
   aetherPower: dodge
   lb1:
-    power: 1128
-    attack: 1110
-    defense: 1158
-    health: 2077
+    power: 1127
+    attack: 1108
+    defense: 1157
+    health: 2076
   lb2:
-    power: 1273
-    attack: 1270
-    defense: 1325
-    health: 2376
+    power: 1271
+    attack: 1267
+    defense: 1324
+    health: 2375
 ...

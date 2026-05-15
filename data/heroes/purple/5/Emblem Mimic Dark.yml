@@ -23,24 +23,26 @@ types:
 - Mimic Chest
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
-- 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
-- ' * Master Rogue Emblems'
-- ' * Master Ranger Emblems'
-- ' * Rogue Emblems'
-- ' * Ranger Emblems'
+- 'Mimic Loot: This Mimic grants a chance for the following extra loot'
+- Legendary
+- ' * Master Rogue Emblem'
+- ' * Master Ranger Emblem'
+- Epic
+- ' * Rogue Emblem'
+- ' * Ranger Emblem'
 image: https://imgur.com/T6zgQ9K.jpg
 dtReleased: "2025-11-09"
-dtModified: "2026-05-10"
+dtModified: "2026-05-15"
 fancy_name: Horrifying One-Eyed Lockbox
 aetherPower: bulwark
 lb1:
   power: 1338
-  attack: 1394
-  defense: 1394
+  attack: 1393
+  defense: 1393
   health: 2397
 lb2:
   power: 1513
-  attack: 1595
-  defense: 1595
+  attack: 1594
+  defense: 1594
   health: 2743
 ...

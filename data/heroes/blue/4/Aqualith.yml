@@ -37,13 +37,13 @@ dtModified: "2026-04-03"
 fancy_name: Elemental Hoplite
 aetherPower: damage_reduction
 lb1:
-  power: 741
-  attack: 734
-  defense: 748
+  power: 740
+  attack: 733
+  defense: 747
   health: 1357
 lb2:
   power: 845
-  attack: 851
+  attack: 850
   defense: 867
   health: 1574
 costume:
@@ -86,11 +86,11 @@ costume:
   lb1:
     power: 758
     attack: 734
-    defense: 777
+    defense: 776
     health: 1421
   lb2:
-    power: 865
-    attack: 851
+    power: 866
+    attack: 852
     defense: 901
     health: 1648
 ...

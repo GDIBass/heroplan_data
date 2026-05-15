@@ -20,7 +20,7 @@ types:
 - Mana Generation Debuff 3
 image: https://i.imgur.com/xx3qiK5.jpg
 dtReleased: "2018-05-01"
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Huntress of Ice Giants
 aetherPower: attack_up
 lb1:
@@ -31,11 +31,11 @@ lb1:
 lb2:
   power: 918
   attack: 911
-  defense: 871
-  health: 1648
+  defense: 870
+  health: 1647
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/26/45/5
   class: Rogue
   power: 976
   attack: 935
@@ -57,17 +57,17 @@ costume:
     the newest status ailment from all allies.'
   image: https://i.imgur.com/UQE64tc.jpg
   dtReleased: "2021-12-23"
-  dtModified: ""
+  dtModified: "2026-05-15"
   fancy_name: Iceberg Champion
   aetherPower: special_boost
   lb1:
-    power: 1043
-    attack: 1008
-    defense: 967
+    power: 1042
+    attack: 1007
+    defense: 966
     health: 2105
   lb2:
     power: 1175
-    attack: 1154
-    defense: 1107
+    attack: 1153
+    defense: 1106
     health: 2408
 ...

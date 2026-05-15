@@ -20,8 +20,8 @@ types:
 - Mimic Chest
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
-- 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
-- '***'
+- 'Mimic Loot: This Mimic grants a chance for the following extra loot'
+- Rare
 - '  - Hidden Blade'
 - '  - Orb of Magic'
 - '  - Sturdy Shield'
@@ -31,27 +31,27 @@ passives:
 - '  - Chainmail Shirt'
 - '  - Scabbard'
 - '  - Tall Boots'
-- '**'
+- Uncommon
 - '  - Arcane Scripts'
 - '  - Dagger'
 - '  - Leather Armor'
 - '  - Sharpening Stone'
 - '  - Strong Rope'
 - '  - Wooden Shield'
-- '*'
-- '  - Advanturer''s Kit'
+- Common
+- '  - Adventurer''s Kit'
 - '  - Practice Sword'
 - '  - Rugged Clothes'
 image: https://imgur.com/faWYctK.jpg
 dtReleased: "2026-01-16"
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Grinning Cache of Lesser Evil
 aetherPower: bulwark
 lb1:
-  power: 859
-  attack: 865
-  defense: 865
-  health: 1639
+  power: 858
+  attack: 864
+  defense: 864
+  health: 1638
 lb2:
   power: 982
   attack: 1003

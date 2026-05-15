@@ -48,9 +48,9 @@ lb1:
   defense: 987
   health: 1860
 lb2:
-  power: 1125
+  power: 1124
   attack: 1102
-  defense: 1130
+  defense: 1129
   health: 2128
 costume:
   design: costume1
@@ -97,13 +97,13 @@ costume:
   fancy_name: Peculiar Arcane Buccaneer
   aetherPower: damage_reduction
   lb1:
-    power: 1344
-    attack: 1332
-    defense: 1366
-    health: 2651
+    power: 1361
+    attack: 1351
+    defense: 1385
+    health: 2688
   lb2:
-    power: 1520
-    attack: 1524
-    defense: 1563
-    health: 3033
+    power: 1540
+    attack: 1546
+    defense: 1584
+    health: 3076
 ...
