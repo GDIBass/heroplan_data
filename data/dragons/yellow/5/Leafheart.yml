@@ -1,3 +1,4 @@
+---
 name: Leafheart
 source: season1
 speed: Average
@@ -7,32 +8,36 @@ defense: 13742
 health: 11970
 skill: Wings of Thorn
 effects:
-  - Deals 300% damage to the target and 175% damage to nearby enemies.
-  - For the next 4 turns, each time the caster and nearby allies take damage from an enemy's Special Skill, they deal 2000 damage to the attacker.　
-  - The caster and nearby allies reduce all received damage by -35% for 4 turns.
+- Deals 300% damage to the target and 175% damage to nearby enemies.
+- For the next 4 turns, each time the caster and nearby allies take damage from an
+  enemy's Special Skill, they deal 2000 damage to the attacker.　
+- The caster and nearby allies reduce all received damage by -35% for 4 turns.
 types:
-  - Hit 3
-  - SS Damage Reply 3
-  - Damage Reduce 3
+- Hit 3
+- SS Damage Reply 3
+- Damage Reduce 3
 spiritBonus:
   spiritClass: Monk
   all:
-    attack: +225
-    defense: +180
-    health: +80
+    attack: "+225"
+    defense: "+180"
+    health: "+80"
   elementalBond:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
   classLink:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
 assist:
   name: Sacred Flame
   effects:
-    - Deals 750 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All allies heal 40% of dealt normal damage for 5 turns.
-    - Cleanses status ailments from all allies.
+  - Deals 750 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All allies heal 40% of dealt normal damage for 5 turns.
+  - Cleanses status ailments from all allies.
 image: https://imgur.com/ggBegTz.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

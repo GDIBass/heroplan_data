@@ -1,35 +1,40 @@
+---
 name: Ombro
 source: ancientUnderroot
 speed: Fast
 power: 11450
-attack: 14438 
+attack: 14438
 defense: 14261
 health: 12669
 skill: Fracturing Shards
 effects:
-  - Deals 300% damage to the target.
-  - The target gets -4400 defense, and a further -150 defense every time they are hit for 3 turns, up to -5900 defense.
+- Deals 300% damage to the target.
+- The target gets -4400 defense, and a further -150 defense every time they are hit
+  for 3 turns, up to -5900 defense.
 types:
-  - Hit 1
-  - Defense Debuff 1
+- Hit 1
+- Defense Debuff 1
 spiritBonus:
   spiritClass: Druid
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Crashing Blaze
   effects:
-    - Deals 800 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies receive 500 Burn damage over 5 turns.
+  - Deals 800 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies receive 500 Burn damage over 5 turns.
 image: https://imgur.com/s7skzN4.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

@@ -1,3 +1,4 @@
+---
 name: Blaze
 source: ancientUnderroot
 speed: Average
@@ -7,29 +8,33 @@ defense: 14014
 health: 12351
 skill: Will of Fire
 effects:
-  - Deals 315% damage to the target and nearby enemies.
-  - The target and nearby enemies get -4200 attack for 4 turns.
+- Deals 315% damage to the target and nearby enemies.
+- The target and nearby enemies get -4200 attack for 4 turns.
 types:
-  - Hit 3
-  - Attack Debuff 3
+- Hit 3
+- Attack Debuff 3
 spiritBonus:
   spiritClass: Sorcerer
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Volcanic Blaze
   effects:
-    - Deals 900 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies get -10% defense, and a further -1% decrease every time they are hit for 5 turns.
+  - Deals 900 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies get -10% defense, and a further -1% decrease every time they are hit
+    for 5 turns.
 image: https://imgur.com/J8ssiWz.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

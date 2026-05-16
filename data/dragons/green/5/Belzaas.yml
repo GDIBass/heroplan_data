@@ -1,3 +1,4 @@
+---
 name: Belzaas
 source: ancientUnderroot
 speed: Average
@@ -7,33 +8,36 @@ defense: 15841
 health: 14090
 skill: Deafening Parade
 effects:
-  - Deals 300% damage to the enemy with the highest remaining HP. Deals 130% damage to all other enemies
-  - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - Reduces the mana of all enemies by 10%.
+- Deals 300% damage to the enemy with the highest remaining HP. Deals 130% damage
+  to all other enemies
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- Reduces the mana of all enemies by 10%.
 types:
-  - Hit All
-  - Bypass
-  - Mana Reducer All
+- Hit All
+- Bypass
+- Mana Reducer All
 spiritBonus:
   spiritClass: Druid
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Crippling Blaze
   effects:
-    - Deals 400 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies receive 1100 Burn damage over 5 turns.
-    - All enemies get -10% mana generation for 5 turns.
+  - Deals 400 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies receive 1100 Burn damage over 5 turns.
+  - All enemies get -10% mana generation for 5 turns.
 image: https://imgur.com/lryn7XD.jpg
 dtReleased: "2026-02-03"
+dtModified: ""
+...

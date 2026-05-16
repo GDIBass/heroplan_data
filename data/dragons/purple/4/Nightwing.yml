@@ -1,35 +1,39 @@
+---
 name: Nightwing
 source: season1
 speed: Average
+power: 9422
 attack: 11664
 defense: 11810
 health: 10311
-power: 9422
 skill: Crescent Moon Strike
 effects:
-  - Deals 350% damage to the target.
-  - Cleanses 1 status ailment from all allies.
+- Deals 350% damage to the target.
+- Cleanses 1 status ailment from all allies.
 types:
-  - Hit 1
-  - Cleanser All
+- Hit 1
+- Cleanser All
 spiritBonus:
   spiritClass: Wizard
   all:
-    attack: +160
-    defense: +120
-    health: +45
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
   elementalBond:
-    attack: +20
-    defense: +15
-    health: +15
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
   classLink:
-    attack: +20
-    defense: +15
-    health: +15 
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
 assist:
   name: Fiery Blaze
   effects:
-    - Deals 550 damage to all enemies.
-    - Recovers 100 health for all allies.
-    - All enemies receive 150 Burn damage over 5 turns.
+  - Deals 550 damage to all enemies.
+  - Recovers 100 health for all allies.
+  - All enemies receive 150 Burn damage over 5 turns.
 image: https://imgur.com/l950PqG.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

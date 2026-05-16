@@ -1,3 +1,4 @@
+---
 name: Mordoth
 source: ancientUnderroot
 speed: Average
@@ -7,30 +8,34 @@ defense: 11816
 health: 10301
 skill: Chaos Bolt Volley
 effects:
-  - Deals 130% damage to 5 random enemies.
-  - All enemies get -30% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)
+- Deals 130% damage to 5 random enemies.
+- All enemies get -30% accuracy for 4 turns. (Chance to miss also applies to offensive
+  Special Skills.)
 types:
-  - Hit random 5
-  - Blind All
+- Hit random 5
+- Blind All
 spiritBonus:
   spiritClass: Druid
   all:
-    attack: +160
-    defense: +120
-    health: +45
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
   elementalBond:
-    attack: +20
-    defense: +15
-    health: +15
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
   classLink:
-    attack: +20
-    defense: +15
-    health: +15
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
 assist:
   name: Destabilizing Blaze
   effects:
-    - Deals 200 damage to all enemies.
-    - Recovers 100 health for all allies.
-    - All enemies receive 350 Burn damage over 5 turns.
-    - Dispels buffs from all enemies.
+  - Deals 200 damage to all enemies.
+  - Recovers 100 health for all allies.
+  - All enemies receive 350 Burn damage over 5 turns.
+  - Dispels buffs from all enemies.
 image: https://i.imgur.com/TjLBNjw.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

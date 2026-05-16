@@ -1,3 +1,4 @@
+---
 name: Decoris
 source: ancientUnderroot
 speed: Fast
@@ -7,29 +8,34 @@ defense: 14696
 health: 13052
 skill: Rose Bouqet Blast
 effects:
-  - Deals 200% damage to the target and 150% damage to all other enemies.
-  - The target gets -40% healing received and all other enemies get -30% healing received for 3 turns.
+- Deals 200% damage to the target and 150% damage to all other enemies.
+- The target gets -40% healing received and all other enemies get -30% healing received
+  for 3 turns.
 types:
-  - Hit All
-  - Healing Debuff All
+- Hit All
+- Healing Debuff All
 spiritBonus:
   spiritClass: Wizard
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Summer Blaze
   effects:
-    - Deals 850 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies get -15% attack , and a further -1% decrease every time they are hit during 5 turns, down to -25% attack.
+  - Deals 850 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies get -15% attack , and a further -1% decrease every time they are hit
+    during 5 turns, down to -25% attack.
 image: https://imgur.com/Ioq1VcP.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

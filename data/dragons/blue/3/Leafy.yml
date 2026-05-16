@@ -1,35 +1,39 @@
+---
 name: Leafy
 source: season1
 speed: Fast
+power: 7624
 attack: 9280
 defense: 9300
 health: 8592
-power: 7624
 skill: Arctic Veil
 effects:
-  - Recovers 2500 health for all allies.
-  - All alllies get +1500 defense for 3 turns.
+- Recovers 2500 health for all allies.
+- All alllies get +1500 defense for 3 turns.
 types:
-  - Healer All
-  - Defense Buff All
+- Healer All
+- Defense Buff All
 spiritBonus:
   spiritClass: Monk
   all:
-    attack: +100
-    defense: +80
-    health: +30
+    attack: "+100"
+    defense: "+80"
+    health: "+30"
   elementalBond:
-    attack: +15
-    defense: +10
-    health: +12
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
   classLink:
-    attack: +15
-    defense: +10
-    health: +12 
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
 assist:
   name: Resuscitating Breath
   effects:
-    - Recovers 300 health for all allies.
-    - Deals 100 damage to all enemies.
-    - All allies regenerate 100 HP over 5 turns.
+  - Recovers 300 health for all allies.
+  - Deals 100 damage to all enemies.
+  - All allies regenerate 100 HP over 5 turns.
 image: https://imgur.com/cHoYAXL.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

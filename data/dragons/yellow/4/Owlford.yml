@@ -1,35 +1,39 @@
+---
 name: Owlford
 source: season1
 speed: Average
+power: 9524
 attack: 11734
 defense: 12085
 health: 10313
-power: 9524
 skill: Wings of Recovery
 effects:
-  - Recovers 5500 health for all allies.
-  - Dispels 2 buffs from all enemies.
+- Recovers 5500 health for all allies.
+- Dispels 2 buffs from all enemies.
 types:
-  - Healer All
-  - Dispeller All
+- Healer All
+- Dispeller All
 spiritBonus:
   spiritClass: Cleric
   all:
-    attack: +160
-    defense: +120
-    health: +45
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
   elementalBond:
-    attack: +20
-    defense: +15
-    health: +15
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
   classLink:
-    attack: +20
-    defense: +15
-    health: +15 
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
 assist:
   name: Revitalizing Breath
   effects:
-    - Recovers 500 health for all allies.
-    - Deals 200 damage to all enemies.
-    - All allies regenerate 150 HP over 5 turns.
+  - Recovers 500 health for all allies.
+  - Deals 200 damage to all enemies.
+  - All allies regenerate 150 HP over 5 turns.
 image: https://imgur.com/B4bebKJ.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

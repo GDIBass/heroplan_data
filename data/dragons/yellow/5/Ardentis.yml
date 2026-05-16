@@ -1,3 +1,4 @@
+---
 name: Ardentis
 source: ancientUnderroot
 speed: Average
@@ -7,33 +8,36 @@ defense: 14135
 health: 12201
 skill: Electric Dragonfire
 effects:
-  - Deals 350% damage to all enemies.
-  - 'Randomly casts one of the following alternatives:'
-  - 'Alternative1:'
-  - ' * The target receives 4800 Burn damage over 4 turns.'
-  - 'Alternative2:'
-  - ' * The target receives 700-2100 Lightning damage each turn for 4 turns.'
+- Deals 350% damage to all enemies.
+- 'Randomly casts one of the following alternatives:'
+- 'Alternative1:'
+- ' * The target receives 4800 Burn damage over 4 turns.'
+- 'Alternative2:'
+- ' * The target receives 700-2100 Lightning damage each turn for 4 turns.'
 types:
-  - Hit All
-  - DoT All
+- Hit All
+- DoT All
 spiritBonus:
   spiritClass: Wizard
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Crushing Blaze
   effects:
-    - Deals 850 damage to all enemies,
-    - Recovers 200 health for all allies.
-    - All damage all enemies receive is increased by 20% for 5 turns.
+  - Deals 850 damage to all enemies,
+  - Recovers 200 health for all allies.
+  - All damage all enemies receive is increased by 20% for 5 turns.
 image: https://imgur.com/KgfCHxa.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

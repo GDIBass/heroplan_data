@@ -1,35 +1,39 @@
+---
 name: Forto
 source: season1
 speed: Slow
+power: 9421
 attack: 11717
 defense: 11688
 health: 10412
-power: 9421
 skill: Concussive Charge
 effects:
-  - Deals 225% damage to all enemies.
-  - All enemies get -1500 attack for 6 turns.
+- Deals 225% damage to all enemies.
+- All enemies get -1500 attack for 6 turns.
 types:
-  - Hit All
-  - Attack Debuff All
+- Hit All
+- Attack Debuff All
 spiritBonus:
   spiritClass: Fighter
   all:
-    attack: +160
-    defense: +120
-    health: +45
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
   elementalBond:
-    attack: +20
-    defense: +15
-    health: +15
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
   classLink:
-    attack: +20
-    defense: +15
-    health: +15 
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
 assist:
   name: Fiery Blaze
   effects:
-    - Deals 550 damage to all enemies.
-    - Recovers 100 health for all allies.
-    - All enemies receive 150 Burn damage over 5 turns.
+  - Deals 550 damage to all enemies.
+  - Recovers 100 health for all allies.
+  - All enemies receive 150 Burn damage over 5 turns.
 image: https://imgur.com/sVxFUbO.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...
