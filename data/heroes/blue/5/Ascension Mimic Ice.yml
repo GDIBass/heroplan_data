@@ -22,29 +22,29 @@ types:
 - Mimic Chest
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
-- 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
-- ' ****'
+- 'Mimic Loot: This Mimic grants a chance for the following extra loot'
+- Epic
 - ' - Damascus Blade'
 - ' - Tome Of Tactics'
 - ' - Farsight Telescope'
-- ' ***'
+- Rare
 - ' - Fine Gloves'
 - ' - Compass'
 - ' - Warm Cape'
 - ' - Battle Manual'
 - ' - Tall Boots'
 - ' - Chainmail Shirt'
-- ' **'
+- Uncommon
 - ' - Strong Rope'
 image: https://imgur.com/Spg5FLa.jpg
 dtReleased: "2025-07-26"
-dtModified: "2026-05-10"
+dtModified: "2026-05-15"
 fancy_name: Grinning Cache of Evil
 aetherPower: bulwark
 lb1:
   power: 1310
-  attack: 1367
-  defense: 1367
+  attack: 1366
+  defense: 1366
   health: 2319
 lb2:
   power: 1481

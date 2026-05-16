@@ -26,15 +26,15 @@ types:
 - Attack Debuff All Nature enemies
 passives:
 - 'Troop Mastery:'
-- 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
-  damage against weaker element.'
-- ' * Dealt extra elemental damage: +100%'
-- 'Passive Skill as defending character: This hero receives less elemental  damage
-  from Troops of stronger element.'
-- ' * Received elemental damage: -10%'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra  damage against
+  weaker element.'
+- ' * Extra damage dealt: +100%'
+- 'Passive Skill as defending character: This hero receives less  damage from Troops
+  of stronger element.'
+- ' * Received damage: -10%'
 image: https://i.imgur.com/deN3GU2.jpg
 dtReleased: "2023-09-11"
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Cosmic Chef
 aetherPower: counterattack
 lb1:
@@ -47,4 +47,52 @@ lb2:
   attack: 1112
   defense: 1193
   health: 2136
+costume:
+  design: costume1
+  bonuses: 44/44/45/5
+  class: Monk
+  power: 1322
+  attack: 1304
+  defense: 1391
+  health: 2508
+  skill: Pineapple Alchemist
+  effects:
+  - Boosts health of all allies by 850. Boosted health can exceed max HP.
+  - All enemies are immune to new status effect buffs for 3 turns. This status effect
+    is undispellable and lasts 2 turns longer on Fire characters.
+  - All Fire enemies get -44% accuracy for 3 turns.
+  - All Dark enemies get -44% mana generation for 3 turns.
+  - All Holy enemies get -44% defense for 3 turns.
+  - All Nature enemies get -44% attack for 3 turns.
+  types:
+  - Boosted Heal All
+  - Buff Immunity Debuff All
+  - Blind All Fire enemies
+  - Mana Gen Debuff All Dark enemies
+  - Defense Debuff All Holy enemies
+  - Attack Debuff All Nature enemies
+  passives:
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This hero''s Troops deal extra  damage
+    against weaker element.'
+  - ' * Extra damage dealt: +150%'
+  - 'Passive Skill as defending character: This hero receives less  damage from Troops
+    of stronger element.'
+  - ' * Received damage: -25%'
+  - 'Resist Fire Ailments: This character is immune to status ailments and negative
+    stacks cast by Fire characters.'
+  image: https://imgur.com/VjwLyaa.jpg
+  dtReleased: "2026-05-15"
+  dtModified: "2026-05-15"
+  aetherPower: defense_up
+  lb1:
+    power: 1414
+    attack: 1405
+    defense: 1499
+    health: 2703
+  lb2:
+    power: 1601
+    attack: 1608
+    defense: 1715
+    health: 3093
 ...

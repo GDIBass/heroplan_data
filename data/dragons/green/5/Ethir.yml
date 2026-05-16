@@ -1,4 +1,6 @@
+---
 name: Ethir
+fancy_name: Dragon of the Toxic Wastes
 source: ancientUnderroot
 speed: Slow
 power: 11850
@@ -7,32 +9,36 @@ defense: 14918
 health: 13214
 skill: Toxic Gas Clound
 effects:
-  - Deals 200% damage to all enemies.
-  - All enemies get -3000 defense until they are healed by a Special Skill.
-  - All enemies receive 1500 Poison damage each turn until they are healed by a Special Skill.
+- Deals 200% damage to all enemies.
+- All enemies get -3000 defense until they are healed by a Special Skill.
+- All enemies receive 1500 Poison damage each turn until they are healed by a Special
+  Skill.
 types:
-  - Hit All
-  - Lasting Defense Debuff All
-  - Lasting DoT All
+- Hit All
+- Lasting Defense Debuff All
+- Lasting DoT All
 spiritBonus:
   spiritClass: Wizard
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Cracking Blaze
   effects:
-    - Deals 400 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies receive 1100 Burn damage over 5 turns.
-    - All enemies get -20% defense for 5 turns.
+  - Deals 400 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies receive 1100 Burn damage over 5 turns.
+  - All enemies get -20% defense for 5 turns.
 image: https://imgur.com/QQRIXGj.jpg
+dtReleased: "2025-08-05"
+dtModified: ""
+...

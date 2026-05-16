@@ -1,37 +1,44 @@
+---
 name: Snowy
+fancy_name: Ice Dragonling
 source: season1
 speed: Slow
+power: 7725
 attack: 9463
 defense: 9463
 health: 8530
-power: 7725
 skill: Wings of Frost
 effects:
-  - Deals 250% damage to the target and nearby enemies.
-  - The target and nearby enemies get -1500 attack until they are healed by a Special Skill.
-  - The target and nearby enemies receive 500 Frost damage each turn until they are healed by a Special Skill.
+- Deals 250% damage to the target and nearby enemies.
+- The target and nearby enemies get -1500 attack until they are healed by a Special
+  Skill.
+- The target and nearby enemies receive 500 Frost damage each turn until they are
+  healed by a Special Skill.
 types:
-  - Hit 3
-  - Attack Debuff 3
-  - DoT 3
+- Hit 3
+- Attack Debuff 3
+- DoT 3
 spiritBonus:
   spiritClass: Ranger
   all:
-    attack: +100
-    defense: +80
-    health: +30
+    attack: "+100"
+    defense: "+80"
+    health: "+30"
   elementalBond:
-    attack: +15
-    defense: +10
-    health: +12
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
   classLink:
-    attack: +15
-    defense: +10
-    health: +12 
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
 assist:
   name: Charring Blaze
   effects:
-    - Deals 350 damage to all enemies.
-    - Recovers 50 health for all allies.
-    - All enemies receive 100 Burn damage over 5 turns.
+  - Deals 350 damage to all enemies.
+  - Recovers 50 health for all allies.
+  - All enemies receive 100 Burn damage over 5 turns.
 image: https://imgur.com/abIYDoH.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

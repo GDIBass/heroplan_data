@@ -22,15 +22,15 @@ types:
 - Attack Buff All Ice
 passives:
 - 'Troop Mastery:'
-- 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
-  damage against weaker element.'
-- ' * Dealt extra elemental damage: +100%'
-- 'Passive Skill as defending character: This hero receives less elemental  damage
-  from Troops of stronger element.'
-- ' * Received elemental damage: -10%'
+- 'Passive Skill as attacking character: This hero''s Troops deal extra  damage against
+  weaker element.'
+- ' * Extra damage dealt: +100%'
+- 'Passive Skill as defending character: This hero receives less  damage from Troops
+  of stronger element.'
+- ' * Received damage: -10%'
 image: https://i.imgur.com/RzzDstN.jpg
 dtReleased: "2024-01-29"
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Electric Navigator
 aetherPower: dodge
 lb1:
@@ -40,7 +40,7 @@ lb1:
   health: 1720
 lb2:
   power: 1200
-  attack: 1320
+  attack: 1321
   defense: 1206
   health: 1968
 ...

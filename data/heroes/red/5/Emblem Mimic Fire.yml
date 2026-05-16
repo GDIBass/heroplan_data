@@ -23,14 +23,16 @@ types:
 - Mimic Chest
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
-- 'Mimic Loot: This Mimic gives a chance for extra loot when completing stages'
-- ' * Master Fighter Emblems'
-- ' * Master Barbarian Emblems'
-- ' * Fighter Emblems'
-- ' * Barbarian Emblems'
+- 'Mimic Loot: This Mimic grants a chance for the following extra loot'
+- Legendary
+- ' * Master Fighter Emblem'
+- ' * Master Barbarian Emblem'
+- Epic
+- ' * Fighter Emblem'
+- ' * Barbarian Emblem'
 image: https://imgur.com/FWnI3zF.jpg
 dtReleased: "2025-09-18"
-dtModified: "2026-05-10"
+dtModified: "2026-05-15"
 fancy_name: Horrifying One-Eyed Lockbox
 aetherPower: bulwark
 lb1:

@@ -1,4 +1,6 @@
+---
 name: Pearlwing
+fancy_name: Pearl Harvester
 source: ancientUnderroot
 speed: Fast
 power: 11800
@@ -7,29 +9,34 @@ defense: 14838
 health: 13048
 skill: Pearls of Rejuvenation
 effects:
-  - Recovers 3500 health for all allies.
-  - All allies get +25% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)
+- Recovers 3500 health for all allies.
+- All allies get +25% mana generation for 3 turns. (Affects only mana generated from
+  matching tiles or mana gained by the defense team at the end of their turn.)
 types:
-  - Healer All
-  - Mana Generation Buff All
+- Healer All
+- Mana Generation Buff All
 spiritBonus:
   spiritClass: Monk
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Shielding Breath
   effects:
-    - Recovers 850 health for all allies.
-    - Deals 400 damage to all enemies.
-    - All allies get +15% defense, and a further 1% increase every time they are hit during 5 turns, up to +25% defense.
+  - Recovers 850 health for all allies.
+  - Deals 400 damage to all enemies.
+  - All allies get +15% defense, and a further 1% increase every time they are hit
+    during 5 turns, up to +25% defense.
 image: https://imgur.com/ieo5rph.jpg
+dtReleased: "2025-07-22"
+dtModified: ""
+...

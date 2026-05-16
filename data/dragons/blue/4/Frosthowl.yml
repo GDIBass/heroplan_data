@@ -1,4 +1,6 @@
+---
 name: Frosthowl
+fancy_name: Protector of Glaciers
 source: ancientUnderroot
 speed: Fast
 power: 9527
@@ -7,30 +9,33 @@ defense: 12125
 health: 10203
 skill: Wall of Ice
 effects:
-  - Recovers 2600 health for all allies.
-  - All allies get +1800 attack for 3 turns.
+- Recovers 2600 health for all allies.
+- All allies get +1800 attack for 3 turns.
 types:
-  - Healer All
-  - Attack Buff All
+- Healer All
+- Attack Buff All
 spiritBonus:
   spiritClass: Monk
   all:
-    attack: +160
-    defense: +120
-    health: +45
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
   elementalBond:
-    attack: +20
-    defense: +15
-    health: +15
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
   classLink:
-    attack: +20
-    defense: +15
-    health: +15
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
 assist:
   name: Breath of Nourishment
   effects:
-    - Deals 200 damage to all enemies.
-    - Recovers 100 health for all allies.
-    - All allies regenerate 400 HP over 5 turns.
-    - Cleanses status ailments from all allies.
+  - Deals 200 damage to all enemies.
+  - Recovers 100 health for all allies.
+  - All allies regenerate 400 HP over 5 turns.
+  - Cleanses status ailments from all allies.
 image: https://i.imgur.com/MDmiMo1.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

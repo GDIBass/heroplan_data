@@ -1,5 +1,6 @@
 ---
 name: Qillix
+fancy_name: Forager Wyvern of the Spring
 source: ancientUnderroot
 speed: Fast
 power: 12750
@@ -41,4 +42,5 @@ assist:
   - All enemies get -20% defense for 5 turns.
 image: https://imgur.com/zxM4hEc.jpg
 dtReleased: "2026-03-31"
+dtModified: ""
 ...

@@ -38,13 +38,13 @@ aetherPower: defense_up
 lb1:
   power: 924
   attack: 905
-  defense: 925
+  defense: 926
   health: 1598
 lb2:
   power: 1040
   attack: 1036
   defense: 1059
-  health: 1828
+  health: 1829
 costume:
   design: costume1
   bonuses: 53/53/53/1
@@ -85,13 +85,13 @@ costume:
   fancy_name: Floral Tinkerer
   aetherPower: special_armor
   lb1:
-    power: 1333
-    attack: 1357
-    defense: 1404
-    health: 2430
+    power: 1349
+    attack: 1375
+    defense: 1422
+    health: 2462
   lb2:
-    power: 1507
-    attack: 1553
-    defense: 1607
-    health: 2780
+    power: 1525
+    attack: 1573
+    defense: 1628
+    health: 2817
 ...

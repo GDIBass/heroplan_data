@@ -1,5 +1,6 @@
 ---
 name: Preenakh
+fancy_name: Wyrmbird Soulmender
 source: ancientUnderroot
 speed: Average
 power: 12650
@@ -18,24 +19,25 @@ types:
 spiritBonus:
   spiritClass: Druid
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Blazing Storm
   effects:
-    - Deals 400 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies receive 1300 Burn damage over 5 turns.
-    - Dispels buffs from all enemies.
+  - Deals 400 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies receive 1300 Burn damage over 5 turns.
+  - Dispels buffs from all enemies.
 image: https://imgur.com/jx8wFUH.jpg
 dtReleased: "2026-03-03"
+dtModified: ""
 ...

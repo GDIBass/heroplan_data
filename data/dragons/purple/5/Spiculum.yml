@@ -1,4 +1,6 @@
+---
 name: Spiculum
+fancy_name: Spikeskin Dragon
 source: ancientUnderroot
 speed: Slow
 power: 11500
@@ -7,33 +9,37 @@ defense: 14508
 health: 12844
 skill: Aggravating Gaze
 effects:
-  - Recovers 5000 health for the caster.
-  - The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 5 turns.
-  - The caster counterattacks with 170% of the damage received for 5 turns.
-  - The caster regenerates 4500 HP over 5 turns.
+- Recovers 5000 health for the caster.
+- The caster gets Taunt that prevents enemies from using Special Skills on the caster’s
+  allies for 5 turns.
+- The caster counterattacks with 170% of the damage received for 5 turns.
+- The caster regenerates 4500 HP over 5 turns.
 types:
-  - Self heal
-  - Taunt
-  - Counterattack
-  - Self HoT
+- Self heal
+- Taunt
+- Counterattack
+- Self HoT
 spiritBonus:
   spiritClass: Fighter
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Breath of Retribution
   effects:
-    - Recovers 800 health for all allies.
-    - Deals 400 damage to all enemies.
-    - All allies counterattack with 30% of the damage received for 5 turns.
+  - Recovers 800 health for all allies.
+  - Deals 400 damage to all enemies.
+  - All allies counterattack with 30% of the damage received for 5 turns.
 image: https://imgur.com/uOtcl71.jpg
+dtReleased: "2025-04-28"
+dtModified: ""
+...

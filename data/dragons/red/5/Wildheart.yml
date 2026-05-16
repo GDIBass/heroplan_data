@@ -1,4 +1,6 @@
+---
 name: Wildheart
+fancy_name: Shaman Dragon of Doom
 source: ancientUnderroot
 speed: Average
 power: 12300
@@ -7,30 +9,34 @@ defense: 15501
 health: 13754
 skill: Doomrend
 effects:
-  - Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.
-  - The enemies on the edges of the enemy formation receive 5600 Bleed damage over 4 turns. This effect spreads to nearby enemies.
+- Deals 300% damage to the enemies on the edges of the enemy formation. If there is
+  only one enemy, the damage is doubled.
+- The enemies on the edges of the enemy formation receive 5600 Bleed damage over 4
+  turns. This effect spreads to nearby enemies.
 types:
-  - Hit 2
-  - Spreading DoT 2
+- Hit 2
+- Spreading DoT 2
 spiritBonus:
   spiritClass: Paladin
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Blinding Blaze
   effects:
-    - Deals 820 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies get -20% accuracy for  5 turns.
+  - Deals 820 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies get -20% accuracy for  5 turns.
 image: https://imgur.com/DES0Py0.jpg
 dtReleased: "2025-11-28"
+dtModified: ""
+...

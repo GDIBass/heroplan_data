@@ -1,4 +1,6 @@
+---
 name: Elderclaw
+fancy_name: Caretaker of Kittens
 source: ancientUnderroot
 speed: Average
 power: 11900
@@ -7,32 +9,39 @@ defense: 14920
 health: 13237
 skill: Kitten Stampede
 effects:
-  - Deals 230% damage to the target and nearby enemies.
-  - Summons an Angry Kitten Fiend to the target and nearby enemies. The Fiend damage the enemies with 80% attack every turn.
-  - The Angry Kitten Fiend absorbs healing. It disappers after absorbing a healing amount equal to 40% of its target’s max health.
-  - When summoned, the Angry Kitten Fiend gives -35% accuracy for its owner as long as the target has Angry Kitten Fiends. This effect can’t be cleansed. (Chance to miss also applies to offensive Special Skills.)
+- Deals 230% damage to the target and nearby enemies.
+- Summons an Angry Kitten Fiend to the target and nearby enemies. The Fiend damage
+  the enemies with 80% attack every turn.
+- The Angry Kitten Fiend absorbs healing. It disappers after absorbing a healing amount
+  equal to 40% of its target’s max health.
+- When summoned, the Angry Kitten Fiend gives -35% accuracy for its owner as long
+  as the target has Angry Kitten Fiends. This effect can’t be cleansed. (Chance to
+  miss also applies to offensive Special Skills.)
 types:
-  - Hit 3
-  - Fiend Summoner 3
-  - Accuracy Debuff Fiend
+- Hit 3
+- Fiend Summoner 3
+- Accuracy Debuff Fiend
 spiritBonus:
   spiritClass: Monk
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Wrecking Blaze
   effects:
-    - Deals 850 damage to all enemies.
-    - Recovers 200 health for all allies.s
-    - All enemies resist new Minions for 5 turns.
+  - Deals 850 damage to all enemies.
+  - Recovers 200 health for all allies.s
+  - All enemies resist new Minions for 5 turns.
 image: https://imgur.com/90uJLRA.jpg
+dtReleased: "2025-08-19"
+dtModified: ""
+...

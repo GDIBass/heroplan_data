@@ -14,7 +14,7 @@ effects:
 - Summons a Xulu Minion for each ally with 15% HP and 20% attack inherited from the
   caster.
 - 'Each hit from a Xulu Minion gives the target the following status ailments:'
-- ' * The target receives 340 Bleed damage over 4 turns.'
+- ' * The target receives 344 Bleed damage over 4 turns.'
 - ' * Inflicts 5 Insanity on the target.'
 - Casting this Special Skill inflicts 50 Insanity on the caster.
 types:
@@ -28,17 +28,17 @@ passives:
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/dHcPPcr.jpg
 dtReleased: "2024-05-26"
-dtModified: "2026-03-22"
+dtModified: "2026-05-14"
 fancy_name: Investigative Journalist
 aetherPower: defense_up
 lb1:
   power: 1212
   attack: 1227
-  defense: 1254
+  defense: 1253
   health: 2191
 lb2:
-  power: 1369
+  power: 1368
   attack: 1404
-  defense: 1435
-  health: 2506
+  defense: 1434
+  health: 2507
 ...

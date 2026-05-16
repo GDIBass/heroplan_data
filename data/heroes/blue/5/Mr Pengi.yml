@@ -23,22 +23,22 @@ types:
 - Summoner 3
 image: https://i.imgur.com/BbxUIy4.jpg
 dtReleased: "2021-12-01"
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Captain of Santa's Guards
 aetherPower: defense_up
 lb1:
-  power: 875
+  power: 874
   attack: 865
-  defense: 841
-  health: 1514
+  defense: 840
+  health: 1513
 lb2:
   power: 983
   attack: 990
   defense: 962
-  health: 1732
+  health: 1731
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 37/37/38/5
   class: Rogue
   power: 1080
   attack: 1100
@@ -62,17 +62,17 @@ costume:
     Frost damage over 4 turns.'
   image: https://i.imgur.com/kNrkptI.jpg
   dtReleased: "2024-12-01"
-  dtModified: ""
+  dtModified: "2026-05-15"
   fancy_name: Captain of Snowboard Team
   aetherPower: attack_up
   lb1:
-    power: 1155
-    attack: 1186
-    defense: 1152
-    health: 2089
+    power: 1154
+    attack: 1185
+    defense: 1151
+    health: 2088
   lb2:
-    power: 1303
-    attack: 1357
-    defense: 1318
-    health: 2390
+    power: 1302
+    attack: 1356
+    defense: 1317
+    health: 2389
 ...

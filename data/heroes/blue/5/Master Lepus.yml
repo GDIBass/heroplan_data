@@ -21,15 +21,15 @@ dtModified: "2026-04-03"
 fancy_name: Guardian of Springvale
 aetherPower: attack_up
 lb1:
-  power: 812
-  attack: 856
+  power: 813
+  attack: 857
   defense: 743
   health: 1287
 lb2:
   power: 912
   attack: 980
-  defense: 850
-  health: 1473
+  defense: 851
+  health: 1472
 costume:
   design: costume1
   bonuses: 35/35/35/5
@@ -54,13 +54,13 @@ costume:
   fancy_name: Rift Breaker
   aetherPower: special_boost
   lb1:
-    power: 1053
-    attack: 1126
+    power: 1052
+    attack: 1125
     defense: 1027
-    health: 1762
+    health: 1761
   lb2:
-    power: 1187
-    attack: 1289
-    defense: 1176
-    health: 2016
+    power: 1186
+    attack: 1287
+    defense: 1175
+    health: 2015
 ...

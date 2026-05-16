@@ -35,13 +35,13 @@ dtModified: "2026-04-28"
 fancy_name: Warrior Princess of Manipura
 aetherPower: dodge
 lb1:
-  power: 1339
-  attack: 1347
-  defense: 1436
-  health: 2439
+  power: 1356
+  attack: 1362
+  defense: 1452
+  health: 2486
 lb2:
-  power: 1515
-  attack: 1541
-  defense: 1643
-  health: 2791
+  power: 1534
+  attack: 1559
+  defense: 1661
+  health: 2845
 ...

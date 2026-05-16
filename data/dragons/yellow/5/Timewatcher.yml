@@ -1,4 +1,6 @@
+---
 name: Timewatcher
+fancy_name: Ambassador of Time
 source: ancientUnderroot
 speed: Slow
 power: 11700
@@ -7,30 +9,32 @@ defense: 14755
 health: 13048
 skill: Time Rewind
 effects:
-  - Recovers 8000 health for all allies.
-  - Each defeated ally has a 35% chance to get revived with 4000 HP.
+- Recovers 8000 health for all allies.
+- Each defeated ally has a 35% chance to get revived with 4000 HP.
 types:
-  - Healer All
-  - Reviver
+- Healer All
+- Reviver
 spiritBonus:
   spiritClass: Druid
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Breath of Revival
   effects:
-    - Recovers 850 health for all allies.
-    - Deals 400 damage to all enemies.
-    - Each defeated ally has a 15% chance to get revived with 15% HP.
+  - Recovers 850 health for all allies.
+  - Deals 400 damage to all enemies.
+  - Each defeated ally has a 15% chance to get revived with 15% HP.
 image: https://i.imgur.com/vS5tZC9.jpg
-dtReleased: "2026-02-17"
+dtReleased: "2025-06-25"
+dtModified: ""
+...

@@ -1,37 +1,43 @@
+---
 name: Xondar
+fancy_name: Abyssal Red Dragon
 source: season1
 speed: Average
+power: 9325
 attack: 11628
 defense: 11603
 health: 10119
-power: 9325
 skill: Breath of the Abyss
 effects:
-  - Deals 130% damage to all enemies.
-  - All enemies receive 800 Burn damage each turn until they are healed by a Special Skill.
-  - All enemies get -2000 defense until they are healed by a Special Skill.
+- Deals 130% damage to all enemies.
+- All enemies receive 800 Burn damage each turn until they are healed by a Special
+  Skill.
+- All enemies get -2000 defense until they are healed by a Special Skill.
 types:
-  - Hit All
-  - DoT All
-  - Defense Debuff All
+- Hit All
+- DoT All
+- Defense Debuff All
 spiritBonus:
   spiritClass: Rogue
   all:
-    attack: +160
-    defense: +120
-    health: +45
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
   elementalBond:
-    attack: +20
-    defense: +15
-    health: +15
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
   classLink:
-    attack: +20
-    defense: +15
-    health: +15 
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
 assist:
   name: Fiery Blaze
   effects:
-    - Deals 550 damage to all enemies.
-    - Recovers 100 health for all allies.
-    - All enemies receive 150 Burn damage over 5 turns.
+  - Deals 550 damage to all enemies.
+  - Recovers 100 health for all allies.
+  - All enemies receive 150 Burn damage over 5 turns.
 image: https://imgur.com/ptnIH6v.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

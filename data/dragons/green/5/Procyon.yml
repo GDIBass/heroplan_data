@@ -1,4 +1,6 @@
+---
 name: Procyon
+fancy_name: Trash Collector
 source: ancientUnderroot
 speed: Average
 power: 12050
@@ -7,30 +9,37 @@ defense: 15169
 health: 13398
 skill: Garbage Shock Wave
 effects:
-  - Reduces max health of all enemies by 3800. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 3800.)
-  - All enemies cannot cast any new status effects on enemies or allies for 4 turns. (This includes stacks. This only includes status effects cast with Special Skills.)
+- Reduces max health of all enemies by 3800. The effect is stronger against targets
+  with boosted health. (Max health can’t get lower than 30% of the original max health.
+  Any boosted health is reduced by an additional 3800.)
+- All enemies cannot cast any new status effects on enemies or allies for 4 turns.
+  (This includes stacks. This only includes status effects cast with Special Skills.)
 types:
-  - Max Healt reduction All
-  - Status Effect Blocker All
+- Max Healt reduction All
+- Status Effect Blocker All
 spiritBonus:
   spiritClass: Paladin
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Shocking Blaze
   effects:
-    - Deals 400 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - Reduces max health of all enemies by 450. This effect is stronger against targets with boosted health.
-    - All enemies get -20% defense for 5 turns.
+  - Deals 400 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - Reduces max health of all enemies by 450. This effect is stronger against targets
+    with boosted health.
+  - All enemies get -20% defense for 5 turns.
 image: https://imgur.com/g79hPaU.jpg
+dtReleased: "2025-09-30"
+dtModified: ""
+...

@@ -1,4 +1,6 @@
+---
 name: Zostrasz
+fancy_name: Wildwood Moss Dragon
 source: season1
 speed: Slow
 power: 10925
@@ -7,31 +9,34 @@ defense: 13651
 health: 12131
 skill: Nature's Fury
 effects:
-  - Deals 275% damage to the target and 200% damage to nearby enemies.
-  - Heals the caster for 30% of damage dealt and nearby allies for 15% of damage dealt.
-  - The caster gets +4000 defense and nearby allies get +2000 defense for 5 turns.
+- Deals 275% damage to the target and 200% damage to nearby enemies.
+- Heals the caster for 30% of damage dealt and nearby allies for 15% of damage dealt.
+- The caster gets +4000 defense and nearby allies get +2000 defense for 5 turns.
 types:
-  - Hit All
-  - Heal 3
-  - Defense Buff 3
+- Hit All
+- Heal 3
+- Defense Buff 3
 spiritBonus:
   spiritClass: Paladin
   all:
-    attack: +225
-    defense: +180
-    health: +80
+    attack: "+225"
+    defense: "+180"
+    health: "+80"
   elementalBond:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
   classLink:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
 assist:
   name: Wounding Blaze
   effects:
-    - Deals 900 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies get -30% decrease for any healing received for 5 turns.
+  - Deals 900 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies get -30% decrease for any healing received for 5 turns.
 image: https://imgur.com/Y14RfyW.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

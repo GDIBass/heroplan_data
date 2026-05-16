@@ -1,4 +1,6 @@
+---
 name: Primula
+fancy_name: Cheerful Spring Dragon
 source: ancientUnderroot
 speed: Slow
 power: 11400
@@ -7,31 +9,35 @@ defense: 14347
 health: 12685
 skill: Pie of Protection
 effects:
-  - Recovers 8800 health for all allies.
-  - All allies get +3600 defense for 5 turns.
-  - All allies are immune to buff dispels and reallocations for 5 turns. (The immunity also includes this effect itself.)
+- Recovers 8800 health for all allies.
+- All allies get +3600 defense for 5 turns.
+- All allies are immune to buff dispels and reallocations for 5 turns. (The immunity
+  also includes this effect itself.)
 types:
-  - Healer All
-  - Defense Buff All
-  - Dispell Immunity All
+- Healer All
+- Defense Buff All
+- Dispell Immunity All
 spiritBonus:
   spiritClass: Cleric
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Spring Breath
   effects:
-    - Recovers 850 health for all allies.
-    - Deals 400 damage to all enemies.
-    - All allies get +10% mana generation for 5 turns.
+  - Recovers 850 health for all allies.
+  - Deals 400 damage to all enemies.
+  - All allies get +10% mana generation for 5 turns.
 image: https://imgur.com/fNgNi9V.jpg
+dtReleased: "2025-04-01"
+dtModified: ""
+...

@@ -50,13 +50,13 @@ dtModified: "2026-04-30"
 fancy_name: Frenzied Archpriestess
 aetherPower: counterattack
 lb1:
-  power: 1373
-  attack: 1429
-  defense: 1440
-  health: 2466
+  power: 1400
+  attack: 1456
+  defense: 1465
+  health: 2539
 lb2:
-  power: 1553
-  attack: 1635
-  defense: 1648
-  health: 2821
+  power: 1584
+  attack: 1666
+  defense: 1676
+  health: 2906
 ...

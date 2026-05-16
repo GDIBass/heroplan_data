@@ -1,4 +1,6 @@
+---
 name: Stormcaller
+fancy_name: Fury of the Skies
 source: ancientUnderroot
 speed: Fast
 power: 11300
@@ -7,30 +9,35 @@ defense: 14226
 health: 12353
 skill: Eye of the Storm
 effects:
-  - Deals 280% damage to the target.
-  - The target receives 750-2250 Lightning damage each turn for 3 turns. If the target is defeated by Lightning damage, all enemies receive 3500 damage.　(The amount of damage dealt is randomized each turn.)
+- Deals 280% damage to the target.
+- The target receives 750-2250 Lightning damage each turn for 3 turns. If the target
+  is defeated by Lightning damage, all enemies receive 3500 damage.　(The amount of
+  damage dealt is randomized each turn.)
 types:
-  - Hit 1
-  - Random Damage 1
+- Hit 1
+- Random Damage 1
 spiritBonus:
   spiritClass: Ranger
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Blazing Storm
   effects:
-    - Deals 400 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies receive 1250 Burn damage over 5 turns.
-    - Dispels buffs from all enemies.
+  - Deals 400 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies receive 1250 Burn damage over 5 turns.
+  - Dispels buffs from all enemies.
 image: https://imgur.com/fQ0UGp8.jpg
+dtReleased: "2025-03-04"
+dtModified: ""
+...

@@ -1,4 +1,6 @@
+---
 name: Marmora
+fancy_name: Sentinel of Serpent Mountain
 source: season1
 speed: Average
 power: 11105
@@ -7,32 +9,35 @@ defense: 14016
 health: 12123
 skill: Emerald Wind
 effects:
-  - Recovers 6500 health for all allies.
-  - Cleanses 2 status ailments from all allies.　
-  - All allies get +3400 defense against Special Skills for 4 turns.
+- Recovers 6500 health for all allies.
+- Cleanses 2 status ailments from all allies.　
+- All allies get +3400 defense against Special Skills for 4 turns.
 types:
-  - Healer
-  - Cleanser
-  - SS Defense Buff
+- Healer
+- Cleanser
+- SS Defense Buff
 spiritBonus:
   spiritClass: Monk
   all:
-    attack: +225
-    defense: +180
-    health: +80
+    attack: "+225"
+    defense: "+180"
+    health: "+80"
   elementalBond:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
   classLink:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
 assist:
   name: Cleansing Flame
   effects:
-    - Deals 400 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All allies regenerate 500 HP over 5 turns.
-    - Cleanses status ailments from all allies.
+  - Deals 400 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All allies regenerate 500 HP over 5 turns.
+  - Cleanses status ailments from all allies.
 image: https://imgur.com/t30UdIc.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

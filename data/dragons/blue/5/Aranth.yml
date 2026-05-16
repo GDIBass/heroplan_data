@@ -1,4 +1,6 @@
+---
 name: Aranth
+fancy_name: Dragon Lorekeeper
 source: season1
 speed: Average
 power: 10921
@@ -7,31 +9,35 @@ defense: 13497
 health: 12125
 skill: Frozen Orb
 effects:
-  - Deals 150% damage to all enemies.
-  - All enemies get -2200 attack until they are healed by a Special Skill.
-  - All enemies receive 1000 Frost damage each turn until they are healed by a Special Skill.
+- Deals 150% damage to all enemies.
+- All enemies get -2200 attack until they are healed by a Special Skill.
+- All enemies receive 1000 Frost damage each turn until they are healed by a Special
+  Skill.
 types:
-  - Hit All
-  - Attack Debuff All
-  - DoT All
+- Hit All
+- Attack Debuff All
+- DoT All
 spiritBonus:
   spiritClass: Fighter
   all:
-    attack: +225
-    defense: +180
-    health: +80
+    attack: "+225"
+    defense: "+180"
+    health: "+80"
   elementalBond:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
   classLink:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
 assist:
   name: Protective Breath
   effects:
-    - Recovers 200 health for all allies.
-    - Deals 400 damage to all enemies.
-    - All enemies get +20% defense for 5 turns.
+  - Recovers 200 health for all allies.
+  - Deals 400 damage to all enemies.
+  - All enemies get +20% defense for 5 turns.
 image: https://imgur.com/BURocSy.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

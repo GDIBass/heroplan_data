@@ -1,4 +1,6 @@
+---
 name: Ignis
+fancy_name: Keeper of Draconic Artifacts
 source: season1
 speed: Fast
 power: 11101
@@ -7,31 +9,34 @@ defense: 14010
 health: 11978
 skill: Blinding Orb
 effects:
-  - Deals 300% damage to the target.
-  - Dispels 1 buff from the target.　
-  - The target gets -40% accuracy for 3 turns.
+- Deals 300% damage to the target.
+- Dispels 1 buff from the target.　
+- The target gets -40% accuracy for 3 turns.
 types:
-  - Hit 1
-  - Dispeller 1
-  - Blind 1
+- Hit 1
+- Dispeller 1
+- Blind 1
 spiritBonus:
   spiritClass: Rogue
   all:
-    attack: +225
-    defense: +180
-    health: +80
+    attack: "+225"
+    defense: "+180"
+    health: "+80"
   elementalBond:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
   classLink:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
 assist:
   name: Blinding Blaze
   effects:
-    - Deals 800 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies get -20% accuracy for 5 turns.
+  - Deals 800 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies get -20% accuracy for 5 turns.
 image: https://imgur.com/4bUmcjn.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...

@@ -19,7 +19,7 @@ types:
 - Hit All
 image: https://i.imgur.com/EVw3AO1.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Princess of Grimforest
 aetherPower: defense_up
 lb1:
@@ -30,11 +30,11 @@ lb1:
 lb2:
   power: 933
   attack: 932
-  defense: 922
+  defense: 921
   health: 1602
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Ranger
   power: 976
   attack: 990
@@ -51,17 +51,17 @@ costume:
   - Hit All
   image: https://i.imgur.com/ko9NEXz.jpg
   dtReleased: "2021-12-15"
-  dtModified: ""
+  dtModified: "2026-05-15"
   fancy_name: Slayer White
   aetherPower: defense_up
   lb1:
-    power: 1043
-    attack: 1068
-    defense: 979
-    health: 1933
+    power: 1042
+    attack: 1067
+    defense: 978
+    health: 1932
   lb2:
     power: 1175
-    attack: 1222
-    defense: 1120
+    attack: 1221
+    defense: 1119
     health: 2211
 ...

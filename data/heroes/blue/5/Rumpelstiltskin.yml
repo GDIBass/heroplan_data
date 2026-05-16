@@ -24,7 +24,7 @@ types:
 - Gambler
 image: https://i.imgur.com/v7aCbsm.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-05-15"
 fancy_name: Jester of Grimforest
 aetherPower: gamble
 lb1:
@@ -33,13 +33,13 @@ lb1:
   defense: 752
   health: 1465
 lb2:
-  power: 917
+  power: 916
   attack: 904
-  defense: 861
+  defense: 860
   health: 1676
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Monk
   power: 961
   attack: 918
@@ -52,7 +52,7 @@ costume:
   - ' * Reduces max health of all enemies by 550. Max health can''t get lower than
     30% of the original max health.'
   - ' * All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals
-    69 Poison damage and lowers the target''s mana generation by -9% each turn. Deals
+    73 Poison damage and lowers the target''s mana generation by -9% each turn. Deals
     extra damage against heroes with Minions or a Mega Minion.'
   - Cross
   - ' * Boosts health of all allies by 620. Boosted health can exceed max HP.'
@@ -68,17 +68,17 @@ costume:
   - Buff Immunity All
   image: https://i.imgur.com/G2za8YY.jpg
   dtReleased: "2022-06-16"
-  dtModified: ""
+  dtModified: "2026-05-15"
   fancy_name: Eternal Trickster
   aetherPower: counterattack
   lb1:
-    power: 1026
+    power: 1025
     attack: 989
-    defense: 951
-    health: 2063
+    defense: 950
+    health: 2062
   lb2:
-    power: 1156
+    power: 1155
     attack: 1132
-    defense: 1089
-    health: 2361
+    defense: 1087
+    health: 2359
 ...

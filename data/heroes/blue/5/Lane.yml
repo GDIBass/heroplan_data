@@ -38,13 +38,13 @@ dtModified: "2026-04-28"
 fancy_name: The Road Bandit
 aetherPower: counterattack
 lb1:
-  power: 1346
-  attack: 1371
-  defense: 1418
-  health: 2461
+  power: 1357
+  attack: 1383
+  defense: 1427
+  health: 2495
 lb2:
-  power: 1522
-  attack: 1569
-  defense: 1623
-  health: 2816
+  power: 1535
+  attack: 1582
+  defense: 1633
+  health: 2855
 ...

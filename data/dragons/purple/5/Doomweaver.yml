@@ -1,4 +1,6 @@
+---
 name: Doomweaver
+fancy_name: Artisan of the Dark Arts
 source: ancientUnderroot
 speed: Average
 power: 11600
@@ -7,30 +9,33 @@ defense: 14492
 health: 12899
 skill: Loom of Destruction
 effects:
-  - Deals 200% damage to all enemies.
-  - All damage all enemies receive is increased by +35% for 4 turns.
+- Deals 200% damage to all enemies.
+- All damage all enemies receive is increased by +35% for 4 turns.
 types:
-  - Hit All
-  - Damage Increased Debuff All
+- Hit All
+- Damage Increased Debuff All
 spiritBonus:
   spiritClass: Sorcerer
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30 
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Crippling Blaze
   effects:
-    - Deals 400 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies receive 1100 Burn damage over 5 turns.
-    - All enemies get -10% mana generation for 5 turns.
+  - Deals 400 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies receive 1100 Burn damage over 5 turns.
+  - All enemies get -10% mana generation for 5 turns.
 image: https://i.imgur.com/fHBvBrq.jpg
+dtReleased: "2025-05-26"
+dtModified: ""
+...

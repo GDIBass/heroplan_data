@@ -1,5 +1,6 @@
 ---
 name: Mar’zul
+fancy_name: Ungraved Marrowdrake
 source: ancientUnderroot
 speed: Fast
 power: 9532
@@ -39,4 +40,5 @@ assist:
   - Reduces the mana of all enemies by 15%.
 image: https://i.imgur.com/GW254Jd.jpg
 dtReleased: "2026-04-14"
+dtModified: ""
 ...

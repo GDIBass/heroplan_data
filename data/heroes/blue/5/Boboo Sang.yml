@@ -35,13 +35,13 @@ dtModified: "2026-04-28"
 fancy_name: Elder Peddler Slime
 aetherPower: ailment_immunity
 lb1:
-  power: 1352
-  attack: 1400
-  defense: 1414
-  health: 2437
+  power: 1368
+  attack: 1416
+  defense: 1429
+  health: 2484
 lb2:
-  power: 1528
-  attack: 1602
-  defense: 1617
-  health: 2788
+  power: 1547
+  attack: 1620
+  defense: 1635
+  health: 2843
 ...

@@ -1,5 +1,6 @@
 ---
 name: Froastyx
+fancy_name: Tiger Dragon of the Boreal Peaks
 source: ancientUnderroot
 speed: Very_fast
 power: 12700
@@ -38,4 +39,5 @@ assist:
   - All enemies get -30% decrease of any healing received for 5 turns.
 image: https://imgur.com/Ns9ubC4.jpg
 dtReleased: "2026-03-17"
+dtModified: ""
 ...

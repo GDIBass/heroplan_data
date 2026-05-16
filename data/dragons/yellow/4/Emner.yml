@@ -1,5 +1,7 @@
+---
 name: Emner
-source: season1
+fancy_name: Flamboyant Performer
+source: ancientUnderroot
 speed: Average
 power: 9529
 attack: 11954
@@ -7,33 +9,36 @@ defense: 11825
 health: 10320
 skill: Spectacular Bite
 effects:
-  - Deals 320% damage to the target.
-  - Dispels 2 buffs from the target. (The latest buffs are dispelled first.)
-  - "The target can't get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevents cleansing and reallocating itself.)"
+- Deals 320% damage to the target.
+- Dispels 2 buffs from the target. (The latest buffs are dispelled first.)
+- The target can't get their status ailments cleansed or reallocated by Special Skills
+  for 3 turns. (This effect also prevents cleansing and reallocating itself.)
 types:
-  - Hit 1
-  - Dispels 2 Buff 1
-  - Cleanse Immunity 1
+- Hit 1
+- Dispels 2 Buff 1
+- Cleanse Immunity 1
 spiritBonus:
   spiritClass: Wizard
   all:
-    attack: +160
-    defense: +120
-    health: +45
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
   elementalBond:
-    attack: +20
-    defense: +15
-    health: +15
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
   classLink:
-    attack: +20
-    defense: +15
-    health: +15 
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
 assist:
   name: Pacifying Breath
   effects:
-    - Deals 200 damage to all enemies.
-    - Recovers 100 health for all allies.
-    - All allies regenerate 400 HP over 5 turns.
-    - All allies get +15% defense for 5 turns.
+  - Deals 200 damage to all enemies.
+  - Recovers 100 health for all allies.
+  - All allies regenerate 400 HP over 5 turns.
+  - All allies get +15% defense for 5 turns.
 image: https://imgur.com/guUUsYc.jpg
 dtReleased: "2026-02-03"
+dtModified: ""
+...

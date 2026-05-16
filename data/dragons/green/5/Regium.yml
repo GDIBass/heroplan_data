@@ -1,4 +1,6 @@
+---
 name: Regium
+fancy_name: Regent of the Draconic Order
 source: ancientUnderroot
 speed: Slow
 power: 11550
@@ -7,29 +9,33 @@ defense: 14549
 health: 12837
 skill: Bites of Disorientation
 effects:
-  - Deals 180% damage 6 random enemies.
-  - All enemies get -35% accuracy for 5 turns. (Chance to miss also applies to offensive Special Skills.)
+- Deals 180% damage 6 random enemies.
+- All enemies get -35% accuracy for 5 turns. (Chance to miss also applies to offensive
+  Special Skills.)
 types:
-  - Hit Random 6
-  - Blind All
+- Hit Random 6
+- Blind All
 spiritBonus:
   spiritClass: Paladin
   all:
-    attack: +250
-    defense: +200
-    health: +100
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
   elementalBond:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
   classLink:
-    attack: +35
-    defense: +30
-    health: +30
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
 assist:
   name: Breath of Bulwark
   effects:
-    - Recovers 850 health for all allies.
-    - Deals 400 damage to all enemies.
-    - All allies are immune to buff dispels and reallocations for 5 turns.
+  - Recovers 850 health for all allies.
+  - Deals 400 damage to all enemies.
+  - All allies are immune to buff dispels and reallocations for 5 turns.
 image: https://imgur.com/iYFdj4k.jpg
+dtReleased: "2025-05-15"
+dtModified: ""
+...

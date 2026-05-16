@@ -1,4 +1,6 @@
+---
 name: Doombringer
+fancy_name: Dragon of Mount Fury
 source: season1
 speed: Average
 power: 10924
@@ -7,31 +9,34 @@ defense: 13637
 health: 11989
 skill: Rain of Fire
 effects:
-  - Deals 150% damage to all enemies.
-  - All enemies receive 4000 Burn damage over 4 turns.
-  - All enemies get -2200 defense for 4 turns.
+- Deals 150% damage to all enemies.
+- All enemies receive 4000 Burn damage over 4 turns.
+- All enemies get -2200 defense for 4 turns.
 types:
-  - Hit All
-  - DoT All
-  - Defense Debuff All
+- Hit All
+- DoT All
+- Defense Debuff All
 spiritBonus:
   spiritClass: Sorcerer
   all:
-    attack: +225
-    defense: +180
-    health: +80
+    attack: "+225"
+    defense: "+180"
+    health: "+80"
   elementalBond:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
   classLink:
-    attack: +30
-    defense: +25
-    health: +25
+    attack: "+30"
+    defense: "+25"
+    health: "+25"
 assist:
   name: Corrosive Blaze
   effects:
-    - Deals 800 damage to all enemies.
-    - Recovers 200 health for all allies.
-    - All enemies get -20% defense for 5 turns.
+  - Deals 800 damage to all enemies.
+  - Recovers 200 health for all allies.
+  - All enemies get -20% defense for 5 turns.
 image: https://imgur.com/5nW8kRq.jpg
+dtReleased: "2024-09-17"
+dtModified: ""
+...
