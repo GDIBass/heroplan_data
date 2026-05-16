@@ -1,5 +1,6 @@
 ---
 name: Wingmane
+fancy_name: Leonine Vigilante Dragon
 source: ancientUnderroot
 speed: Fast
 power: 12900
@@ -35,6 +36,6 @@ assist:
   - Recovers 210 health for all allies.
   - All enemies get -20% defense for 5 turns.
 image: https://imgur.com/HnYwX8m.jpg
-dtReleased: "2024-09-17"
+dtReleased: "2026-05-12"
 dtModified: ""
 ...
