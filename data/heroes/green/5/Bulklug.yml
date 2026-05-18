@@ -11,7 +11,7 @@ health: 2305
 skill: Building Blocks
 effects:
 - Deals 450% damage to target and nearby enemies.
-- The caster and nearby allies get 200 attack.
+- 'Growth: The caster and nearby allies get 200 attack.'
 - The caster and the nearby allies reflects all status ailments and 160% damage back
   to the attacker and block other negative effects from enemies' Fire Special Skills
   for 4 turns. This effect can't be dispelled. (Status effects cast by characters,
@@ -21,7 +21,7 @@ effects:
 - If defeated while Slime Revive is active, the caster will be reborn as a Slime.
 types:
 - Hit 3
-- Attack Buff 3
+- Attack Growth 3
 - Elemental Reflect 3
 - Elemental Counterattack 3
 - Self Slime Revive
@@ -32,7 +32,7 @@ passives:
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://imgur.com/xGYesJO.jpg
 dtReleased: "2025-11-26"
-dtModified: "2026-04-28"
+dtModified: "2026-05-18"
 fancy_name: Blob Builder Slime
 aetherPower: boosted_regen
 lb1:
