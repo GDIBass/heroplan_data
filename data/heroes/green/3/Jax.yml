@@ -11,7 +11,7 @@ health: 908
 skill: Ravenous Pounce
 effects:
 - Deals 175% damage to the enemies on the edges of the enemy formation and inflicts
-  15 Insanity on them. If there is only one enemy the damage and Insanity are doubled.
+  15 Insanity on them. If there is only one enemy, the damage and Insanity are doubled.
 - Casting this Special Skill inflicts 35 Insanity on the caster.
 types:
 - Hit 2
@@ -19,17 +19,17 @@ types:
 - Insanity Self
 image: https://imgur.com/Yf9tnXF.jpg
 dtReleased: "2025-12-03"
-dtModified: "2026-03-22"
+dtModified: "2026-05-19"
 fancy_name: Hounding Hooligan
 aetherPower: attack_up
 lb1:
   power: 600
   attack: 604
-  defense: 644
-  health: 1030
+  defense: 643
+  health: 1029
 lb2:
-  power: 727
-  attack: 747
+  power: 726
+  attack: 746
   defense: 795
   health: 1272
 ...

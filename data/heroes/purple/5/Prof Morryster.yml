@@ -17,7 +17,7 @@ types:
 - Hit 3
 - Insanity 3
 - Defense Debuff 3
-- Self Insanity
+- Insanity Self
 passives:
 - 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
   to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
@@ -28,17 +28,17 @@ passives:
   by this character is increased by 6% per 10 Insanity on this character, up to 60%.'
 image: https://imgur.com/s7DzSc0.jpg
 dtReleased: "2025-09-09"
-dtModified: ""
+dtModified: "2026-05-19"
 fancy_name: The Masked Savant
 aetherPower: counterattack
 lb1:
   power: 1321
-  attack: 1325
-  defense: 1409
+  attack: 1324
+  defense: 1410
   health: 2417
 lb2:
   power: 1494
-  attack: 1516
-  defense: 1612
+  attack: 1515
+  defense: 1613
   health: 2766
 ...

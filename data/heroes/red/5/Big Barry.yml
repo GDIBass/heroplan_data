@@ -34,17 +34,17 @@ passives:
 - '3) Blossom Mega Fiend: 250% attack, 60% health.'
 image: https://imgur.com/bVjv5D4.jpg
 dtReleased: "2026-04-25"
-dtModified: "2026-04-28"
+dtModified: "2026-05-19"
 fancy_name: Strawberry Thug
 aetherPower: rage
 lb1:
-  power: 1391
-  attack: 1476
-  defense: 1431
-  health: 2497
+  power: 1396
+  attack: 1481
+  defense: 1435
+  health: 2512
 lb2:
-  power: 1574
-  attack: 1689
-  defense: 1638
-  health: 2857
+  power: 1580
+  attack: 1694
+  defense: 1642
+  health: 2875
 ...

@@ -16,8 +16,9 @@ effects:
   each turn:'
 - ' * +100% Special Skill damage for 5 turns.'
 - ' * +44% mana generation for 5 turns.'
-- The Source of Buffs will activate 6 times. Each attempt to dispel it removes one
-  activation.
+- The Source of Buffs will activate 6 times. This effect is Stubborn. (Each attempt
+  to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn  or
+  decreases activations left by 1.)
 types:
 - Hit All
 - Drop to 1 Damage All
@@ -30,17 +31,17 @@ passives:
   Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.'
 image: https://imgur.com/MXIFsEd.jpg
 dtReleased: "2025-12-06"
-dtModified: "2026-04-28"
+dtModified: "2026-05-19"
 fancy_name: Skillful Smith
 aetherPower: bulwark
 lb1:
-  power: 1348
-  attack: 1391
-  defense: 1414
-  health: 2437
+  power: 1365
+  attack: 1407
+  defense: 1429
+  health: 2482
 lb2:
-  power: 1525
-  attack: 1592
-  defense: 1617
-  health: 2788
+  power: 1543
+  attack: 1610
+  defense: 1635
+  health: 2840
 ...

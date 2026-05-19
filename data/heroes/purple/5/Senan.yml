@@ -27,7 +27,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/PYhKsHp.jpg
 dtReleased: "2021-08-05"
-dtModified: ""
+dtModified: "2026-05-19"
 fancy_name: The Accursed
 aetherPower: fiend_resist
 lb1:
@@ -38,11 +38,11 @@ lb1:
 lb2:
   power: 966
   attack: 901
-  defense: 1003
+  defense: 1002
   health: 1752
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 57/57/62/5
   class: Wizard
   power: 1207
   attack: 1245
@@ -70,17 +70,17 @@ costume:
     receive 544 Bleed damage over 4 turns.'
   image: https://imgur.com/CNY72vk.jpg
   dtReleased: "2025-04-09"
-  dtModified: ""
+  dtModified: "2026-05-19"
   fancy_name: The Cephaloid Servant
   aetherPower: damage_reduction
   lb1:
     power: 1291
-    attack: 1341
-    defense: 1237
-    health: 2506
+    attack: 1342
+    defense: 1236
+    health: 2505
   lb2:
     power: 1459
     attack: 1535
-    defense: 1415
-    health: 2868
+    defense: 1414
+    health: 2866
 ...

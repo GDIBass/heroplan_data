@@ -11,8 +11,9 @@ health: 1775
 skill: Horrifying Wail
 effects:
 - Deals 440% damage to the target and nearby enemies.
-- The target and nearby enemies receive 730 Curse damage over 5 turns, starting low
-  and increasing every turn.
+- The target and nearby enemies receive 60-269 increasing Curse damage each turn for
+  5 turns. (On the first turn, 60 damage is dealt. The damage increases by +45% each
+  turn, up to 269 damage per turn.)
 - The target and nearby enemies get silenced for 5 turns.
 types:
 - Hit 3
@@ -24,17 +25,17 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/X53djGM.jpg
 dtReleased: "2024-09-23"
-dtModified: ""
+dtModified: "2026-05-18"
 fancy_name: The Unfriendly Ghost
 aetherPower: revive
 lb1:
   power: 1124
   attack: 999
-  defense: 1365
+  defense: 1364
   health: 1913
 lb2:
   power: 1268
   attack: 1143
-  defense: 1562
+  defense: 1561
   health: 2189
 ...

@@ -10,14 +10,15 @@ defense: 1266
 health: 2315
 skill: Cherry Pudding Served!
 effects:
-- Increases the mana of nearby allies by 30%.
 - Recovers 25% health for the caster and nearby allies.
+- Increases the mana of nearby allies by 30%.
 - 'Growth: Nearby allies gets 300 attack and 300 defense.'
 - Summon a Slime Mega Minion with 50% HP and 40% attack inherited from the caster.
 types:
-- Mana Increase 2
 - Healer 3
-- Growth 2
+- Mana Increase 2
+- Attack Growth 2
+- Defense Growth 2
 - Slime Mega Minion Self
 passives:
 - 'Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega
@@ -26,17 +27,17 @@ passives:
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://imgur.com/FGAb5D6.jpg
 dtReleased: "2025-10-11"
-dtModified: "2026-04-28"
+dtModified: "2026-05-19"
 fancy_name: Sweet Blushing Slime
 aetherPower: dodge
 lb1:
-  power: 1330
-  attack: 1389
-  defense: 1351
-  health: 2437
+  power: 1346
+  attack: 1402
+  defense: 1364
+  health: 2495
 lb2:
-  power: 1504
-  attack: 1590
-  defense: 1546
-  health: 2788
+  power: 1523
+  attack: 1604
+  defense: 1561
+  health: 2855
 ...

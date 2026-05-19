@@ -28,15 +28,15 @@ dtModified: "2026-04-20"
 fancy_name: Octopod Sorcerer
 aetherPower: special_armor
 lb1:
-  power: 862
-  attack: 828
+  power: 861
+  attack: 827
   defense: 854
   health: 1487
 lb2:
   power: 968
   attack: 947
-  defense: 977
-  health: 1701
+  defense: 978
+  health: 1702
 costume:
   design: costume1
   bonuses: 30/30/35/5
@@ -67,13 +67,13 @@ costume:
   fancy_name: Octopod Jailer
   aetherPower: defense_up
   lb1:
-    power: 1094
-    attack: 1076
-    defense: 1160
-    health: 1915
+    power: 1093
+    attack: 1075
+    defense: 1159
+    health: 1914
   lb2:
-    power: 1234
-    attack: 1231
+    power: 1233
+    attack: 1230
     defense: 1327
-    health: 2191
+    health: 2190
 ...

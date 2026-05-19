@@ -30,13 +30,13 @@ dtModified: "2026-04-28"
 fancy_name: Son of Weohstan
 aetherPower: attack_up
 lb1:
-  power: 1339
-  attack: 1411
-  defense: 1354
-  health: 2439
+  power: 1356
+  attack: 1427
+  defense: 1370
+  health: 2486
 lb2:
-  power: 1514
-  attack: 1615
-  defense: 1549
-  health: 2791
+  power: 1533
+  attack: 1633
+  defense: 1567
+  health: 2845
 ...
