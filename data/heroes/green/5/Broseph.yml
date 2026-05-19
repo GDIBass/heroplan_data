@@ -37,17 +37,17 @@ passives:
 - ' 3) Blossom Mega Fiend: 250% attack, 60% health'
 image: https://imgur.com/xolMwFa.jpg
 dtReleased: "2026-02-04"
-dtModified: "2026-04-28"
+dtModified: "2026-05-19"
 fancy_name: Broccoli Shaman
 aetherPower: ailment_immunity
 lb1:
-  power: 1368
-  attack: 1423
-  defense: 1425
-  health: 2473
+  power: 1373
+  attack: 1427
+  defense: 1431
+  health: 2486
 lb2:
-  power: 1547
-  attack: 1628
-  defense: 1630
-  health: 2829
+  power: 1553
+  attack: 1633
+  defense: 1638
+  health: 2845
 ...

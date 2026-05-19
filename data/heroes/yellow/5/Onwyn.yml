@@ -38,17 +38,17 @@ passives:
 - '3) Blossom Mega Fiend: 250% attack, 60% health.'
 image: https://imgur.com/ePndCAl.jpg
 dtReleased: "2026-03-06"
-dtModified: "2026-04-28"
+dtModified: "2026-05-19"
 fancy_name: Onion Bandit
 aetherPower: counterattack
 lb1:
-  power: 1375
-  attack: 1440
-  defense: 1425
-  health: 2484
+  power: 1380
+  attack: 1445
+  defense: 1429
+  health: 2497
 lb2:
-  power: 1556
-  attack: 1648
-  defense: 1630
-  health: 2842
+  power: 1561
+  attack: 1654
+  defense: 1635
+  health: 2857
 ...

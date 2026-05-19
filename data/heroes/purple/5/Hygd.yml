@@ -16,32 +16,33 @@ effects:
   turn:'
 - +40% defense against Special Skills for 2 turns.
 - +40% increase for all healing received for 2 turns.
-- The Source of Buffs will activate 3 times. Each attempt to dispel it removes one
-  activation.
+- The Source of Buffs will activate 3 times. This effect is Stubborn. (Each attempt
+  to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn
+  or decreases activations left by 1.)
 types:
 - Cleanser All
 - Healer All
 - Source of Buffs All
 passives:
 - 'Mana of Buff Received: This character gains 5% mana when they receive a buff or
-  possive stack.'
+  positive stack.'
 - 'Empowered Resist Mana Reductions: This character has innate resistance against
   mana reduction. They also gain 600 boosted health and 10% mana each time they resist.'
 - 'Resist Buff Blocking: This character is immune to effects that would block them
   from receiving new status effect buffs.'
 image: https://imgur.com/KK21TKX.jpg
 dtReleased: "2026-01-09"
-dtModified: "2026-04-28"
+dtModified: "2026-05-19"
 fancy_name: Queen of the Geats
 aetherPower: defense_up
 lb1:
-  power: 1360
-  attack: 1391
-  defense: 1440
-  health: 2464
+  power: 1375
+  attack: 1407
+  defense: 1454
+  health: 2510
 lb2:
-  power: 1538
-  attack: 1592
-  defense: 1648
-  health: 2819
+  power: 1556
+  attack: 1610
+  defense: 1663
+  health: 2872
 ...

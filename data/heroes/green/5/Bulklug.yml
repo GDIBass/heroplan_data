@@ -16,8 +16,7 @@ effects:
   to the attacker and block other negative effects from enemies' Fire Special Skills
   for 4 turns. This effect can't be dispelled. (Status effects cast by characters,
   Minions and Fiends on the same side cannot be reflected.)
-- The caster receive Slime Revive status effect for 4 turns. This effect can't be
-  dispelled.
+- The caster receive Slime Revive for 4 turns. This effect can't be dispelled.
 - If defeated while Slime Revive is active, the caster will be reborn as a Slime.
 types:
 - Hit 3
@@ -32,17 +31,17 @@ passives:
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://imgur.com/xGYesJO.jpg
 dtReleased: "2025-11-26"
-dtModified: "2026-05-18"
+dtModified: "2026-05-19"
 fancy_name: Blob Builder Slime
 aetherPower: boosted_regen
 lb1:
-  power: 1345
-  attack: 1394
-  defense: 1398
-  health: 2437
+  power: 1362
+  attack: 1410
+  defense: 1414
+  health: 2484
 lb2:
-  power: 1521
-  attack: 1595
-  defense: 1600
-  health: 2788
+  power: 1540
+  attack: 1613
+  defense: 1618
+  health: 2843
 ...

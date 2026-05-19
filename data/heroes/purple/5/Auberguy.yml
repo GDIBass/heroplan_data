@@ -41,17 +41,17 @@ passives:
 - '3) Blossom Mega Fiend: 250% attack, 60% health.'
 image: https://imgur.com/STxIDPc.jpg
 dtReleased: "2026-04-02"
-dtModified: "2026-04-28"
+dtModified: "2026-05-19"
 fancy_name: Aubergine Wizard
 aetherPower: special_armor
 lb1:
-  power: 1385
-  attack: 1438
-  defense: 1456
-  health: 2497
+  power: 1390
+  attack: 1443
+  defense: 1460
+  health: 2510
 lb2:
-  power: 1567
-  attack: 1645
-  defense: 1666
-  health: 2857
+  power: 1572
+  attack: 1651
+  defense: 1671
+  health: 2872
 ...

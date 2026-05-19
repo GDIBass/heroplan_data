@@ -11,14 +11,16 @@ health: 2212
 skill: Harrow the Heart
 effects:
 - Deals 410% damage to all enemies.
-- All enemies receive 1230 Curse damage over 6 turns, starting low and increasing
-  every turn.
+- All enemies receive 124-308 increasing Curse damage each turn for 6 turns. (On the
+  first turn, 124 damage is dealt. The damage increases by +20% each turn, up to 308
+  damage per turn.)
 - 'Source of Ailments: The following effects are cast on a random enemy at the start
   of each turn'
 - ' * +60% damage from status ailments for 5 turns.'
 - ' * -60% for all healing received for 5 turns.'
-- The Source of Ailments will activate 6 times. Each attempt to dispel it removes
-  one activation.
+- The Source of Ailments will activate 6 times. This effect is Stubborn. (Each attempt
+  to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn  or
+  decreases activations left by 1.)
 types:
 - Hit All
 - DoT All
@@ -32,17 +34,17 @@ passives:
   Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.'
 image: https://imgur.com/gAwcLIi.jpg
 dtReleased: "2025-07-13"
-dtModified: ""
+dtModified: "2026-05-19"
 fancy_name: Terror-Spreading Tarn-Hag
 aetherPower: fiend_resist
 lb1:
-  power: 1306
+  power: 1305
   attack: 1329
-  defense: 1365
+  defense: 1364
   health: 2384
 lb2:
   power: 1476
-  attack: 1521
-  defense: 1562
-  health: 2727
+  attack: 1520
+  defense: 1561
+  health: 2728
 ...

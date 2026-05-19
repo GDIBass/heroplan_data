@@ -15,9 +15,11 @@ effects:
 - All allies get 5% mana for each destroyed Minion.
 - All allies are immune to new negative mana effects for 4 turns, and their mana is
   increased by 20% for each resisted effect.
-- All enemies receive Devouring Goo for 4 turns. Removes all dispellable buffs and
-  Growth effects and deals 200 damage each turn. If effects are removed, 50 more damage
-  is dealt for each removed effect.
+- All enemies receive Devouring Goo for 4 turns.
+- 'Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage
+  per turn and 50 damage per each removed effect. (If the target already has this
+  effect, the duration will be refreshed and an extra damage from the removed effects
+  will be added to the new effect. Damage per turn can''t exceed 700.)'
 types:
 - Minion Destroyer All
 - Hit All
@@ -32,17 +34,17 @@ passives:
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://imgur.com/izJsbny.jpg
 dtReleased: "2025-10-27"
-dtModified: "2026-04-28"
+dtModified: "2026-05-19"
 fancy_name: Curious Scientist Slime
 aetherPower: ailment_immunity
 lb1:
-  power: 1336
-  attack: 1351
-  defense: 1418
-  health: 2439
+  power: 1352
+  attack: 1366
+  defense: 1433
+  health: 2486
 lb2:
-  power: 1511
-  attack: 1546
-  defense: 1623
-  health: 2791
+  power: 1529
+  attack: 1564
+  defense: 1640
+  health: 2845
 ...

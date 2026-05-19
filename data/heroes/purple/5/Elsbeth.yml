@@ -39,17 +39,17 @@ passives:
 - ' 3) Blossom Mega Fiend: 250% attack, 60% health'
 image: https://imgur.com/8NPRXYy.jpg
 dtReleased: "2025-09-02"
-dtModified: "2026-04-28"
+dtModified: "2026-05-19"
 fancy_name: Beetroot Knight
 aetherPower: knights_endurance
 lb1:
-  power: 1367
-  attack: 1436
-  defense: 1405
-  health: 2473
+  power: 1372
+  attack: 1440
+  defense: 1410
+  health: 2489
 lb2:
-  power: 1546
-  attack: 1643
-  defense: 1607
-  health: 2829
+  power: 1551
+  attack: 1647
+  defense: 1613
+  health: 2848
 ...
