@@ -48,13 +48,13 @@ dtModified: "2026-04-28"
 fancy_name: Hotshot Physicist
 aetherPower: special_boost
 lb1:
-  power: 1359
-  attack: 1447
-  defense: 1394
-  health: 2415
+  power: 1385
+  attack: 1471
+  defense: 1420
+  health: 2489
 lb2:
-  power: 1538
-  attack: 1656
-  defense: 1595
-  health: 2763
+  power: 1567
+  attack: 1683
+  defense: 1625
+  health: 2848
 ...

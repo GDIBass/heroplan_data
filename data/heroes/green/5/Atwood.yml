@@ -13,7 +13,8 @@ effects:
 - Dispels buffs from the target and nearby enemies.
 - Deals 380% damage to the target and nearby enemies and inflicts 45 Insanity on them.
 - All allies are immune to damage from status ailments for 4 turns.
-- Inflicts 50 Insanity to the caster.
+- Casting this Special Skill inflicts 50 Insanity on the caster.
+- ""
 types:
 - Dispeller 3
 - Hit 3
@@ -25,7 +26,7 @@ passives:
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/Cwe6431.jpg
 dtReleased: "2024-04-11"
-dtModified: "2026-03-22"
+dtModified: "2026-05-19"
 fancy_name: Captivated by the Unknown
 aetherPower: defense_up
 lb1:
@@ -34,8 +35,8 @@ lb1:
   defense: 1196
   health: 2133
 lb2:
-  power: 1334
-  attack: 1384
+  power: 1333
+  attack: 1383
   defense: 1369
   health: 2440
 ...

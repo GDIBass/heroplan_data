@@ -11,7 +11,7 @@ health: 1994
 skill: Cuts of Hulu
 effects:
 - Deals 330% damage to the enemies on the edges of the enemy formation and inflicts
-  25 Insanity on them. If only one enemy alive, the damage and Insanity is doubled.
+  25 Insanity on them. If there is only one enemy, the damage and Insanity are doubled.
 - The enemies on the edges of the enemy formation resist healing and receive 250 damage
   per each resisted healing for 3 turns.
 - Casting this Special Skill inflicts 40 Insanity on the caster.
@@ -25,17 +25,17 @@ passives:
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/WJH09pj.jpg
 dtReleased: "2024-07-18"
-dtModified: "2026-03-22"
+dtModified: "2026-05-19"
 fancy_name: Hulu-Metal User
 aetherPower: special_boost
 lb1:
   power: 1220
   attack: 1298
-  defense: 1216
-  health: 2148
+  defense: 1215
+  health: 2149
 lb2:
   power: 1378
-  attack: 1485
+  attack: 1486
   defense: 1391
-  health: 2458
+  health: 2459
 ...

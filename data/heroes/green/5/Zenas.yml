@@ -47,13 +47,13 @@ dtModified: "2026-04-28"
 fancy_name: Expert Mineralogist
 aetherPower: fiend_resist
 lb1:
-  power: 1367
-  attack: 1436
-  defense: 1405
-  health: 2473
+  power: 1393
+  attack: 1462
+  defense: 1431
+  health: 2546
 lb2:
-  power: 1546
-  attack: 1643
-  defense: 1607
-  health: 2829
+  power: 1577
+  attack: 1673
+  defense: 1638
+  health: 2913
 ...

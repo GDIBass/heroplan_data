@@ -35,13 +35,13 @@ dtModified: "2026-04-30"
 fancy_name: The Untethered
 aetherPower: dodge
 lb1:
-  power: 1354
-  attack: 1449
-  defense: 1394
-  health: 2373
+  power: 1382
+  attack: 1475
+  defense: 1420
+  health: 2453
 lb2:
-  power: 1532
-  attack: 1658
-  defense: 1595
-  health: 2715
+  power: 1563
+  attack: 1688
+  defense: 1625
+  health: 2807
 ...
