@@ -13,8 +13,8 @@ effects:
 - Deals 600% damage to the target.
 - Against Titans, deals 700% damage.
 - The attack bypasses defensive buffs. (This includes counterattacks.)
-- The target gets -40% defense for 3 turns. Against Nature Titans, the targets -60%
-  defense and the status effect lasts 2 turns longer.
+- The target gets -40% defense for 3 turns. Against Nature Titans, the target gets
+  -60% defense and the status effect lasts 2 turns longer.
 types:
 - Hit 1
 - Bypass
@@ -31,7 +31,7 @@ passives:
   Flare receives additional 150 damage when they receive a critical hit.'
 image: https://imgur.com/bUEdChh.jpg
 dtReleased: "2025-12-16"
-dtModified: "2026-04-28"
+dtModified: "2026-05-20"
 fancy_name: Vanguard of the Rainforest
 aetherPower: attack_up
 lb1:
