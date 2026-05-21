@@ -1,0 +1,54 @@
+---
+name: Kuang Nao
+source: kingdom
+family: ghosts
+speed: Average
+class: Monk
+power: 801
+attack: 871
+defense: 837
+health: 1264
+skill: Spiteful Curse
+effects:
+- Reduces max health of all enemies by 550. This effect is stronger against targets
+  with boosted health. (Max health can't get lower than 30% of the original max health.
+  Any boosted health is reduced by an additional 550.).
+- All enemies get -55% decrease for any healing received for 4 turns. This effect
+  is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces
+  the duration by 1 turn or decreases activations left by 1.)
+- All enemies receive 85-148 increasing Curse damage each turn for 4 turns. This effect
+  is Stubborn. (On the first turn, 85 damage is dealt. The damage increases by +20%
+  each turn, up to 148 damage per turn. Each attempt to dispel, cleanse or reallocate
+  a Stubborn effect reduces the duration by 1 turn or decreases activations left by
+  1.)
+types:
+- Max Health Reduction All
+- Healing Debuff All
+- DoT All
+passives:
+- 'Vengeful Haunting: When this character loses more than 25% of max health at once,
+  the following effects activate.'
+- '- This character casts Full Removal on themselves. (Full Removal removes all status
+  effects, stacks and Growth and Wither effects. Removes even status effects and stacks
+  that are otherwise Stubborn, undispellable or uncleansable.)'
+- '- This character shifts into Vengeful Ghost form for 2 turns. At the end of each
+  turn, Vengeful Ghost deals 250% damage to a random enemy and dispels buffs from
+  them. This effect is undispellable. (While in a Ghost form, character can''t gain
+  mana and can''t be healed by Special Skills, but is immune to normal attacks, Special
+  Skill attacks, damage dealing passives, status effects and stacks. Immune to new
+  Growth, Wither and Insanity effects.)'
+image: https://imgur.com/sYEbPAu.jpg
+dtReleased: "2026-05-21"
+dtModified: ""
+aetherPower: attack_up
+lb1:
+  power: 862
+  attack: 946
+  defense: 909
+  health: 1373
+lb2:
+  power: 987
+  attack: 1097
+  defense: 1055
+  health: 1593
+...

@@ -25,12 +25,12 @@ fancy_name: One-Eyed Commander
 aetherPower: attack_up
 lb1:
   power: 735
-  attack: 697
+  attack: 696
   defense: 812
   health: 1281
 lb2:
   power: 839
-  attack: 808
+  attack: 807
   defense: 942
-  health: 1485
+  health: 1486
 ...

@@ -24,12 +24,12 @@ fancy_name: Merciless General
 aetherPower: attack_up
 lb1:
   power: 890
-  attack: 923
-  defense: 816
+  attack: 922
+  defense: 817
   health: 1527
 lb2:
   power: 1000
-  attack: 1056
+  attack: 1055
   defense: 934
   health: 1747
 costume:
@@ -61,13 +61,13 @@ costume:
   fancy_name: Merciless Bear General
   aetherPower: rage
   lb1:
-    power: 1181
-    attack: 1288
-    defense: 1072
-    health: 2182
+    power: 1180
+    attack: 1287
+    defense: 1071
+    health: 2181
   lb2:
-    power: 1334
-    attack: 1474
-    defense: 1227
-    health: 2497
+    power: 1332
+    attack: 1472
+    defense: 1226
+    health: 2496
 ...

@@ -20,14 +20,14 @@ types:
 - Minion with DoT
 image: https://i.imgur.com/KiDn1jL.jpg
 dtReleased: "2022-03-14"
-dtModified: ""
+dtModified: "2026-05-21"
 fancy_name: Young Commander
 aetherPower: attack_up
 lb1:
   power: 735
-  attack: 695
+  attack: 694
   defense: 729
-  health: 1452
+  health: 1451
 lb2:
   power: 838
   attack: 805
@@ -35,7 +35,7 @@ lb2:
   health: 1683
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 6/6/6/5
   class: Rogue
   power: 719
   attack: 704
@@ -58,17 +58,17 @@ costume:
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/Uiw1osb.jpg
   dtReleased: "2025-01-29"
-  dtModified: ""
+  dtModified: "2026-05-21"
   fancy_name: Raven Commander
   aetherPower: special_boost
   lb1:
-    power: 774
-    attack: 766
+    power: 773
+    attack: 764
     defense: 748
-    health: 1515
+    health: 1513
   lb2:
     power: 884
-    attack: 888
+    attack: 887
     defense: 868
-    health: 1756
+    health: 1755
 ...

@@ -23,13 +23,13 @@ dtModified: ""
 fancy_name: Black Wind Demon
 aetherPower: attack_up
 lb1:
-  power: 739
-  attack: 727
+  power: 738
+  attack: 726
   defense: 678
   health: 1498
 lb2:
   power: 843
   attack: 843
-  defense: 787
-  health: 1737
+  defense: 786
+  health: 1738
 ...

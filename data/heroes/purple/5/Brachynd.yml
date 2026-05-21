@@ -21,17 +21,18 @@ types:
 - Attack Buff All
 - Allies Damage Share
 passives:
-- 'Enhanced Shields on Special:'
-- 'Passive Skill as attacking character: Dark shields on the board become enhanced
-  with +54% critical chance when this character casts their Special Skill.'
-- 'Passive Skill as defending character: Dark shields on the board become weakened
-  with -47% accuracy when this character casts their Special Skill.'
+- 'Enhanced Shields on Special: Passive Skill as attacking character'
+- ' * Dark shields on the board become enhanced with +54% critical chance when this
+  character casts their Special Skill.'
+- Passive Skill as defending character
+- ' * Dark shields on the board become weakened with -47% accuracy when this character
+  casts their Special Skill.'
 - 'Mark of the Titan Hunter: When this character casts their Special Skill, they mark
   a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting
   Flare receives additional 150 damage when they receive a critical hit.'
 image: https://imgur.com/sN4V5j6.jpg
 dtReleased: "2026-03-09"
-dtModified: "2026-04-28"
+dtModified: "2026-05-20"
 fancy_name: Warden of the Cove
 aetherPower: defense_up
 lb1:

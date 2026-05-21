@@ -26,13 +26,13 @@ fancy_name: Brilliant Beauty
 aetherPower: attack_up
 lb1:
   power: 890
-  attack: 868
+  attack: 867
   defense: 859
   health: 1580
 lb2:
   power: 1000
-  attack: 993
-  defense: 982
+  attack: 992
+  defense: 983
   health: 1808
 costume:
   design: costume1
@@ -66,11 +66,11 @@ costume:
   lb1:
     power: 1181
     attack: 1156
-    defense: 1174
+    defense: 1173
     health: 2311
   lb2:
     power: 1334
     attack: 1323
-    defense: 1344
+    defense: 1343
     health: 2644
 ...

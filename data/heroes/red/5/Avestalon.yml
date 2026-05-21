@@ -1,0 +1,48 @@
+---
+name: Avestalon
+source: titanhunter
+family: titanhunter
+speed: Fast
+class: Sorcerer
+power: 1327
+attack: 1394
+defense: 1357
+health: 2387
+skill: Crimson Trap
+effects:
+- Deals 275% damage to 3 random  enemies.
+- Hit enemies become afflicted with Spike Trap.
+- The Spike Trap gives its target -42% defense against Fire. Against Nature Titans,
+  the Spike Trap gives its target -65% defense against Fire.
+- Spike Traps explode in 3 turns dealing 300 damage to their owner. (If Spike Trap
+  is replaced by a new Spike Trap of the same element, it explodes. This can happen
+  up to 2 times per turn.)
+types:
+- Hit Random 3
+- SExploding Spike Trap on hit
+- Elemental Defense Debuff on hit
+passives:
+- 'Enhanced Shields on Special: Passive Skill as attacking character'
+- ' * Fire shields on the board become enhanced with +54% critical chance when this
+  character casts their Special Skill.'
+- Passive Skill as defending character
+- ' * Fire shields on the board become weakened with -47% accuracy when this character
+  casts their Special Skill.'
+- 'Mark of the Titan Hunter: When this character casts their Special Skill, they mark
+  a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting
+  Flare receives additional 150 damage when they receive a critical hit.'
+image: https://imgur.com/WVKF58q.jpg
+dtReleased: "2026-05-20"
+dtModified: ""
+aetherPower: regen
+lb1:
+  power: 1420
+  attack: 1502
+  defense: 1462
+  health: 2573
+lb2:
+  power: 1607
+  attack: 1719
+  defense: 1673
+  health: 2944
+...

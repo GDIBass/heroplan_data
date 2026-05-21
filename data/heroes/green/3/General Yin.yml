@@ -22,9 +22,9 @@ dtModified: ""
 fancy_name: Shapeshifting Demon General
 aetherPower: regen
 lb1:
-  power: 543
-  attack: 589
-  defense: 575
+  power: 542
+  attack: 588
+  defense: 574
   health: 793
 lb2:
   power: 655

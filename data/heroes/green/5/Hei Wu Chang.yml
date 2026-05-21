@@ -1,0 +1,55 @@
+---
+name: Hei Wu Chang
+source: kingdom
+family: ghosts
+speed: Average
+class: Monk
+power: 1328
+attack: 1384
+defense: 1374
+health: 2387
+skill: Cursed Judgement
+effects:
+- Deals 430% damage to the target and nearby enemies.
+- The damage is increased by 50% per each defeated enemy.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- The target and nearby enemies receive 148-408 increasing Curse damage each turn
+  for 4 turns. This effect is Stubborn. (On the first turn, 148 damage is dealt. The
+  damage increases by +40% each turn, up to 408 damage per turn. Each attempt to dispel,
+  cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases
+  activations left by 1.)
+- The target and nearby enemies can't revive their allies or themselves for 4 turns.
+  This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn
+  effect reduces the duration by 1 turn or decreases activations left by 1.)
+types:
+- Hit 3
+- Bypass
+- DoT 3
+- Revive Block 3
+passives:
+- 'Vengeful Haunting: When this character loses more than 25% of max health at once,
+  the following effects activate.'
+- '- This character casts Full Removal on themselves. (Full Removal removes all status
+  effects, stacks and Growth and Wither effects. Removes even status effects and stacks
+  that are otherwise Stubborn, undispellable or uncleansable.)'
+- '- This character shifts into Vengeful Ghost form for 2 turns. At the end of each
+  turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from
+  them. This effect is undispellable. (While in a Ghost form, character can''t gain
+  mana and can''t be healed by Special Skills, but is immune to normal attacks, Special
+  Skill attacks, damage dealing passives, status effects and stacks. Immune to new
+  Growth, Wither and Insanity effects.)'
+image: https://imgur.com/cSAOb7c.jpg
+dtReleased: "2026-05-21"
+dtModified: ""
+aetherPower: attack_up
+lb1:
+  power: 1421
+  attack: 1491
+  defense: 1481
+  health: 2573
+lb2:
+  power: 1608
+  attack: 1707
+  defense: 1694
+  health: 2944
+...

@@ -23,12 +23,12 @@ fancy_name: Warrior God of Heaven
 aetherPower: attack_up
 lb1:
   power: 918
-  attack: 910
+  attack: 909
   defense: 859
-  health: 1673
+  health: 1674
 lb2:
   power: 1032
   attack: 1041
-  defense: 982
+  defense: 983
   health: 1915
 ...

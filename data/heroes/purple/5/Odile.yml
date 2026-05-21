@@ -11,14 +11,15 @@ health: 1849
 skill: Dance of the Black Swan
 effects:
 - Boosts health for all allies by 475. Boosted health can exceed max HP.
-- Casts Dance of the Black Swan to all allies but caster for 4 turns. All existing
-  status effects will be removed when this effect is added.
+- All allies except the caster dance the Dance of the Black Swan for 4 turns.
 - 'Dance of the Black Swan:'
 - ' * At the end of each turn each dancer deal 155% damage to a random enemy and boosts
   health for themselves with 25% of total damage dealt.'
-- ' * Gives immunity to new status effects. New dance status effects will replace
+- ' * Each character can trigger this effect once per turn.'
+- ' * All existing status effects will be removed when a dance status effect is added.'
+- ' * Dance gives immunity to new status effects. New dance status effects will replace
   this effect.'
-- ' * This effect cannot be dispelled. The effect is removed when the caster is defeated.'
+- ' * Dance effect cannot be dispelled. The effect is removed when the caster is defeated.'
 types:
 - Healer All
 - Dance of the Black Swan 4
@@ -33,17 +34,17 @@ passives:
   This effect can activate only once per turn.'
 image: https://i.imgur.com/4D2V5En.jpg
 dtReleased: "2024-03-21"
-dtModified: "2026-04-16"
+dtModified: "2026-05-20"
 fancy_name: Black Swan
 aetherPower: defense_up
 lb1:
   power: 1093
-  attack: 1147
+  attack: 1148
   defense: 1027
   health: 1993
 lb2:
-  power: 1233
+  power: 1232
   attack: 1313
-  defense: 1176
+  defense: 1175
   health: 2280
 ...
