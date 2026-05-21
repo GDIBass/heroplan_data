@@ -84,6 +84,7 @@ costume:
   image: https://imgur.com/VjwLyaa.jpg
   dtReleased: "2026-05-15"
   dtModified: "2026-05-15"
+  fancy_name: Cosmic Alchemist
   aetherPower: defense_up
   lb1:
     power: 1414
