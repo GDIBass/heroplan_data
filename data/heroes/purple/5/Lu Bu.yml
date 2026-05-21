@@ -70,13 +70,13 @@ costume:
   fancy_name: Wrathful Tiger Warlord
   aetherPower: regen
   lb1:
-    power: 1183
-    attack: 1147
-    defense: 1183
+    power: 1182
+    attack: 1145
+    defense: 1182
     health: 2324
   lb2:
-    power: 1335
-    attack: 1313
-    defense: 1354
+    power: 1334
+    attack: 1311
+    defense: 1353
     health: 2659
 ...

@@ -32,7 +32,7 @@ lb1:
 lb2:
   power: 1001
   attack: 1018
-  defense: 955
+  defense: 954
   health: 1805
 costume:
   design: costume1
@@ -64,13 +64,13 @@ costume:
   fancy_name: Inferno General
   aetherPower: attack_up
   lb1:
-    power: 1181
-    attack: 1234
-    defense: 1171
-    health: 2118
+    power: 1180
+    attack: 1233
+    defense: 1170
+    health: 2117
   lb2:
-    power: 1333
-    attack: 1412
-    defense: 1340
-    health: 2423
+    power: 1332
+    attack: 1411
+    defense: 1339
+    health: 2422
 ...

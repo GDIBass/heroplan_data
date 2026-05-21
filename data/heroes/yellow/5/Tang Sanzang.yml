@@ -11,7 +11,8 @@ health: 1757
 skill: Golden Cicada
 effects:
 - Boosts health of all allies by 500. Boosted health can exceed max HP.
-- Cleanses the latest cleansable status ailments from all allies.
+- Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the
+  order they have been received. The latest status ailments are cleansed first.)
 - All allies get +20% defense for 2 turns.
 types:
 - Boosted Heal All
@@ -24,17 +25,17 @@ passives:
   health when they receive a buff or positive stack.'
 image: https://i.imgur.com/y2EYio1.jpg
 dtReleased: "2024-04-02"
-dtModified: "2026-03-20"
+dtModified: "2026-05-21"
 fancy_name: Great Mystery of the River
 aetherPower: damage_reduction
 lb1:
-  power: 1095
-  attack: 1090
+  power: 1094
+  attack: 1089
   defense: 1156
-  health: 1893
+  health: 1894
 lb2:
   power: 1235
   attack: 1247
   defense: 1323
-  health: 2166
+  health: 2167
 ...

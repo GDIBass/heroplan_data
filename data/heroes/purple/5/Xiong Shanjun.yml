@@ -30,11 +30,11 @@ aetherPower: heal_increase
 lb1:
   power: 932
   attack: 825
-  defense: 979
+  defense: 978
   health: 1747
 lb2:
   power: 1048
   attack: 944
-  defense: 1120
-  health: 1998
+  defense: 1119
+  health: 1999
 ...

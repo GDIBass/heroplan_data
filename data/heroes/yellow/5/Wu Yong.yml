@@ -43,13 +43,13 @@ dtModified: "2026-04-28"
 fancy_name: Knowledge Star of Water Margin
 aetherPower: ailment_immunity
 lb1:
-  power: 1337
-  attack: 1354
-  defense: 1418
-  health: 2439
+  power: 1353
+  attack: 1370
+  defense: 1433
+  health: 2484
 lb2:
-  power: 1512
-  attack: 1549
-  defense: 1623
-  health: 2791
+  power: 1530
+  attack: 1567
+  defense: 1640
+  health: 2843
 ...

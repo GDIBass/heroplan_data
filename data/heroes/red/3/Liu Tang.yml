@@ -41,8 +41,8 @@ aetherPower: taunt
 lb1:
   power: 566
   attack: 563
-  defense: 634
-  health: 908
+  defense: 633
+  health: 907
 lb2:
   power: 684
   attack: 696

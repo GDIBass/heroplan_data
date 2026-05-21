@@ -26,11 +26,11 @@ aetherPower: regen
 lb1:
   power: 538
   attack: 545
-  defense: 551
+  defense: 550
   health: 921
 lb2:
-  power: 651
-  attack: 674
-  defense: 681
+  power: 650
+  attack: 673
+  defense: 680
   health: 1139
 ...
