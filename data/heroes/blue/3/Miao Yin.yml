@@ -1,0 +1,53 @@
+---
+name: Miao Yin
+source: kingdom
+family: ghosts
+speed: Average
+class: Druid
+power: 543
+attack: 573
+defense: 540
+health: 903
+skill: Bolanggu Blessing
+effects:
+- Recovers 45% health for the nearby allies.
+- Casts Full Removal on the caster. (Full Removal removes all status effects, stacks
+  and Growth and Wither effects. Removes even status effects and stacks that are otherwise
+  Stubborn, undispellable or uncleansable.)
+- The caster shifts into Vengeful Ghost form for 2 turns.
+- At the end of each turn, Vengeful Ghost deals 250% damage to a random enemy and
+  dispels buffs from them. This effect is undispellable. (While in a Ghost form, character
+  can't gain mana and can't be healed by Special Skills, but is immune to normal attacks,
+  Special Skill attacks, damage dealing passives, status effects and stacks. Immune
+  to new Growth, Wither and Insanity effects.)
+types:
+- Healer Nearby
+- Full Removal Self
+- Vengeful Ghost Self
+passives:
+- 'Vengeful Haunting: When this character loses more than 25% of max health at once,
+  the following effects activate.'
+- '- This character casts Full Removal on themselves. (Full Removal removes all status
+  effects, stacks and Growth and Wither effects. Removes even status effects and stacks
+  that are otherwise Stubborn, undispellable or uncleansable.)'
+- '- This character shifts into Vengeful Ghost form for 2 turns. At the end of each
+  turn, Vengeful Ghost deals 250% damage to a random enemy and dispels buffs from
+  them. This effect is undispellable. (While in a Ghost form, character can''t gain
+  mana and can''t be healed by Special Skills, but is immune to normal attacks, Special
+  Skill attacks, damage dealing passives, status effects and stacks. Immune to new
+  Growth, Wither and Insanity effects.)'
+image: https://imgur.com/Kw1QPCp.jpg
+dtReleased: "2026-05-21"
+dtModified: ""
+aetherPower: regen
+lb1:
+  power: 606
+  attack: 649
+  defense: 612
+  health: 1023
+lb2:
+  power: 734
+  attack: 802
+  defense: 756
+  health: 1265
+...
