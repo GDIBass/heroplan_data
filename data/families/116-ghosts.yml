@@ -1,0 +1,16 @@
+---
+code: 116
+key: ghosts
+image: https://i.imgur.com/ca7joou.jpg
+description: Ghosts of Yang Jian family
+bonus:
+- 'Bonus for 1/2 Heroes:'
+- ' * Gain 40%/45% mana when a Ghost form on this character expires.'
+- 'Morale Boost:'
+- ' * Heroes belonging to this family as well as Heroes fighting alongside them receive
+  the following perks in War of the Three Kingdoms'
+- ' * +10% attack, +3% defense, +7% health.'
+bonusCostume-5star: ""
+bonusCostume-4star: ""
+bonusCostume-3star: ""
+...
