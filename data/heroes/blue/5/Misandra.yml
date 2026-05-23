@@ -98,13 +98,13 @@ costume2:
   fancy_name: Magnificent Toon
   aetherPower: attack_up
   lb1:
-    power: 1441
+    power: 1442
     attack: 1488
-    defense: 1484
-    health: 2718
+    defense: 1485
+    health: 2719
   lb2:
     power: 1632
     attack: 1703
     defense: 1699
-    health: 3112
+    health: 3111
 ...

@@ -29,7 +29,7 @@ lb1:
   power: 825
   attack: 750
   defense: 783
-  health: 1562
+  health: 1563
 lb2:
   power: 926
   attack: 858
@@ -62,14 +62,14 @@ costume:
   aetherPower: attack_up
   lb1:
     power: 1011
-    attack: 965
+    attack: 964
     defense: 932
-    health: 2057
+    health: 2056
   lb2:
-    power: 1139
-    attack: 1104
+    power: 1138
+    attack: 1103
     defense: 1066
-    health: 2354
+    health: 2353
 costume2:
   design: toon
   bonuses: 87/87/90/5
@@ -100,13 +100,13 @@ costume2:
   fancy_name: Toon Beauty
   aetherPower: special_boost
   lb1:
-    power: 1442
-    attack: 1419
-    defense: 1447
-    health: 2967
+    power: 1441
+    attack: 1418
+    defense: 1446
+    health: 2969
   lb2:
     power: 1632
     attack: 1623
-    defense: 1656
-    health: 3397
+    defense: 1655
+    health: 3398
 ...

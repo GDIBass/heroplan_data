@@ -25,12 +25,12 @@ lb1:
   power: 838
   attack: 830
   defense: 774
-  health: 1476
+  health: 1475
 lb2:
   power: 941
   attack: 949
-  defense: 886
-  health: 1689
+  defense: 885
+  health: 1688
 costume:
   design: costume1
   bonuses: 28/28/35/5
@@ -54,15 +54,15 @@ costume:
   fancy_name: Puppeteers of Destiny
   aetherPower: ailment_immunity
   lb1:
-    power: 1054
-    attack: 1145
-    defense: 991
-    health: 1792
+    power: 1053
+    attack: 1144
+    defense: 990
+    health: 1790
   lb2:
-    power: 1188
-    attack: 1310
-    defense: 1134
-    health: 2050
+    power: 1187
+    attack: 1309
+    defense: 1133
+    health: 2048
 costume2:
   design: toon
   bonuses: 84/84/84/5
@@ -90,13 +90,13 @@ costume2:
   fancy_name: Weavers of Toon Destiny
   aetherPower: special_boost
   lb1:
-    power: 1442
+    power: 1441
     attack: 1530
-    defense: 1420
-    health: 2743
+    defense: 1419
+    health: 2744
   lb2:
     power: 1632
     attack: 1751
     defense: 1624
-    health: 3139
+    health: 3140
 ...

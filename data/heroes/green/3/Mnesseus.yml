@@ -24,7 +24,7 @@ lb1:
   power: 499
   attack: 537
   defense: 488
-  health: 784
+  health: 783
 lb2:
   power: 601
   attack: 664
@@ -51,14 +51,14 @@ costume:
   fancy_name: Lieutenant of Atlantis
   aetherPower: defense_up
   lb1:
-    power: 516
-    attack: 568
-    defense: 497
-    health: 812
+    power: 515
+    attack: 566
+    defense: 495
+    health: 811
   lb2:
-    power: 622
-    attack: 701
-    defense: 614
+    power: 621
+    attack: 700
+    defense: 612
     health: 1003
 costume2:
   design: toon
@@ -86,12 +86,12 @@ costume2:
   aetherPower: attack_up
   lb1:
     power: 624
-    attack: 702
-    defense: 611
-    health: 1019
+    attack: 701
+    defense: 612
+    health: 1017
   lb2:
     power: 756
-    attack: 869
+    attack: 867
     defense: 756
     health: 1258
 ...

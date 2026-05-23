@@ -26,11 +26,11 @@ aetherPower: attack_up
 lb1:
   power: 699
   attack: 722
-  defense: 688
+  defense: 687
   health: 1209
 lb2:
   power: 797
-  attack: 837
+  attack: 838
   defense: 797
   health: 1402
 costume:
@@ -58,14 +58,14 @@ costume:
   fancy_name: Khevtuul of Guile
   aetherPower: special_boost
   lb1:
-    power: 723
-    attack: 706
+    power: 722
+    attack: 705
     defense: 753
-    health: 1287
+    health: 1286
   lb2:
     power: 824
     attack: 818
-    defense: 874
+    defense: 873
     health: 1492
 costume2:
   design: toon
@@ -98,11 +98,11 @@ costume2:
   lb1:
     power: 893
     attack: 956
-    defense: 876
+    defense: 875
     health: 1632
   lb2:
-    power: 1021
-    attack: 1108
+    power: 1022
+    attack: 1109
     defense: 1015
-    health: 1892
+    health: 1893
 ...

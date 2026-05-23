@@ -33,8 +33,8 @@ dtModified: "2026-03-26"
 fancy_name: Balefrost Construct
 aetherPower: special_boost
 lb1:
-  power: 1158
-  attack: 1183
+  power: 1157
+  attack: 1182
   defense: 1110
   health: 2202
 lb2:

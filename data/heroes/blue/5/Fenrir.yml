@@ -26,14 +26,14 @@ fancy_name: Leader of Niflheim
 aetherPower: rage
 lb1:
   power: 837
-  attack: 841
+  attack: 840
   defense: 794
   health: 1398
 lb2:
   power: 940
   attack: 962
   defense: 909
-  health: 1600
+  health: 1599
 costume:
   design: costume1
   bonuses: 28/28/35/5
@@ -62,12 +62,12 @@ costume:
     power: 1049
     attack: 1094
     defense: 1000
-    health: 1870
+    health: 1869
   lb2:
     power: 1182
     attack: 1251
     defense: 1144
-    health: 2139
+    health: 2138
 costume2:
   design: toon
   bonuses: 84/84/84/5
@@ -100,12 +100,12 @@ costume2:
   aetherPower: rage
   lb1:
     power: 1436
-    attack: 1551
+    attack: 1550
     defense: 1457
     health: 2576
   lb2:
-    power: 1625
-    attack: 1775
+    power: 1624
+    attack: 1773
     defense: 1667
     health: 2947
 ...

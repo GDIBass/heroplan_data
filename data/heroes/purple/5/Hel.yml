@@ -20,7 +20,7 @@ types:
 - Mana Gain Freeze 3
 image: https://i.imgur.com/5oaRVxv.jpg
 dtReleased: "2017-06-01"
-dtModified: ""
+dtModified: "2026-05-23"
 fancy_name: Celestial of Darkness
 aetherPower: attack_up
 lb1:
@@ -30,12 +30,12 @@ lb1:
   health: 1431
 lb2:
   power: 914
-  attack: 919
+  attack: 918
   defense: 853
   health: 1638
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 26/26/45/5
   class: Cleric
   power: 971
   attack: 953
@@ -58,19 +58,19 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/8SUbwUY.jpg
   dtReleased: "2022-11-28"
-  dtModified: ""
+  dtModified: "2026-05-23"
   fancy_name: Omen of Darkness
   aetherPower: special_boost
   lb1:
-    power: 1038
-    attack: 1028
-    defense: 939
-    health: 2076
+    power: 1037
+    attack: 1027
+    defense: 938
+    health: 2075
   lb2:
-    power: 1170
-    attack: 1176
-    defense: 1075
-    health: 2375
+    power: 1169
+    attack: 1175
+    defense: 1074
+    health: 2374
 costume2:
   design: toon
   bonuses: 90/90/90/5
@@ -98,17 +98,17 @@ costume2:
     dispel the newest status effect buff from all enemies.'
   image: https://imgur.com/Zy1oEal.jpg
   dtReleased: "2026-04-29"
-  dtModified: ""
+  dtModified: "2026-05-23"
   fancy_name: Toon Celestial of Darkness
   aetherPower: attack_up
   lb1:
-    power: 1436
+    power: 1437
     attack: 1529
-    defense: 1411
+    defense: 1413
     health: 2724
   lb2:
     power: 1626
-    attack: 1751
-    defense: 1615
+    attack: 1750
+    defense: 1617
     health: 3116
 ...

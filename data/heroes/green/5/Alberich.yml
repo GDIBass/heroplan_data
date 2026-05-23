@@ -21,22 +21,22 @@ types:
 - MoT All
 image: https://i.imgur.com/0IebpZg.jpg
 dtReleased: "2017-10-01"
-dtModified: ""
+dtModified: "2026-05-23"
 fancy_name: Seelie Champion
 aetherPower: defense_up
 lb1:
   power: 814
   attack: 781
-  defense: 799
+  defense: 798
   health: 1376
 lb2:
   power: 914
   attack: 894
-  defense: 914
-  health: 1574
+  defense: 913
+  health: 1575
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 26/26/45/5
   class: Cleric
   power: 970
   attack: 911
@@ -59,17 +59,17 @@ costume:
     the newest status ailment from all allies.'
   image: https://i.imgur.com/qgThGvZ.jpg
   dtReleased: "2021-10-20"
-  dtModified: ""
+  dtModified: "2026-05-23"
   fancy_name: Everoak Knight
   aetherPower: special_armor
   lb1:
-    power: 1037
-    attack: 983
-    defense: 1020
-    health: 2018
+    power: 1036
+    attack: 982
+    defense: 1019
+    health: 2016
   lb2:
-    power: 1168
-    attack: 1124
-    defense: 1168
-    health: 2309
+    power: 1167
+    attack: 1123
+    defense: 1166
+    health: 2307
 ...

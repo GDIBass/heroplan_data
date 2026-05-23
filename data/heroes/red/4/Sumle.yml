@@ -51,13 +51,13 @@ costume:
   lb1:
     power: 735
     attack: 784
-    defense: 713
-    health: 1262
+    defense: 712
+    health: 1261
   lb2:
     power: 839
-    attack: 909
-    defense: 827
-    health: 1464
+    attack: 910
+    defense: 826
+    health: 1463
 costume2:
   design: toon
   bonuses: 30/30/30/5
@@ -82,13 +82,13 @@ costume2:
   fancy_name: Toon Fire Giant
   aetherPower: counterattack
   lb1:
-    power: 901
-    attack: 1014
-    defense: 885
-    health: 1530
+    power: 900
+    attack: 1013
+    defense: 883
+    health: 1528
   lb2:
     power: 1031
-    attack: 1175
-    defense: 1025
-    health: 1774
+    attack: 1176
+    defense: 1024
+    health: 1773
 ...

@@ -28,11 +28,11 @@ lb1:
   power: 514
   attack: 486
   defense: 480
-  health: 1038
+  health: 1037
 lb2:
-  power: 620
+  power: 621
   attack: 601
-  defense: 593
+  defense: 594
   health: 1282
 costume:
   design: costume1
@@ -61,13 +61,13 @@ costume:
   lb1:
     power: 532
     attack: 486
-    defense: 503
-    health: 1119
+    defense: 502
+    health: 1117
   lb2:
     power: 642
     attack: 601
-    defense: 621
-    health: 1382
+    defense: 620
+    health: 1381
 costume2:
   design: toon
   bonuses: 25/25/25/5
@@ -98,13 +98,13 @@ costume2:
   fancy_name: Toon Beekeeper
   aetherPower: defense_up
   lb1:
-    power: 629
+    power: 628
     attack: 607
-    defense: 605
-    health: 1302
+    defense: 604
+    health: 1301
   lb2:
-    power: 762
+    power: 761
     attack: 751
-    defense: 747
+    defense: 746
     health: 1608
 ...

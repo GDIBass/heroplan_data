@@ -28,7 +28,7 @@ lb1:
 lb2:
   power: 623
   attack: 683
-  defense: 569
+  defense: 568
   health: 1146
 costume:
   design: costume1
@@ -52,15 +52,15 @@ costume:
   fancy_name: Explorer Dwarf of Jotunheim
   aetherPower: counterattack
   lb1:
-    power: 535
-    attack: 541
-    defense: 491
-    health: 1023
+    power: 534
+    attack: 540
+    defense: 489
+    health: 1022
   lb2:
     power: 645
-    attack: 669
-    defense: 606
-    health: 1264
+    attack: 668
+    defense: 605
+    health: 1263
 costume2:
   design: toon
   bonuses: 25/25/25/5
@@ -88,11 +88,11 @@ costume2:
   lb1:
     power: 630
     attack: 693
-    defense: 573
+    defense: 572
     health: 1161
   lb2:
-    power: 764
+    power: 763
     attack: 857
-    defense: 708
-    health: 1435
+    defense: 707
+    health: 1436
 ...

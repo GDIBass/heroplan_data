@@ -24,7 +24,7 @@ lb1:
   power: 701
   attack: 782
   defense: 653
-  health: 1140
+  health: 1139
 lb2:
   power: 799
   attack: 907
@@ -51,14 +51,14 @@ costume:
   fancy_name: Champion of Atlantis
   aetherPower: counterattack
   lb1:
-    power: 725
-    attack: 749
-    defense: 742
-    health: 1216
+    power: 724
+    attack: 748
+    defense: 741
+    health: 1215
   lb2:
     power: 826
     attack: 868
-    defense: 860
+    defense: 859
     health: 1410
 costume2:
   design: toon
@@ -85,13 +85,13 @@ costume2:
   fancy_name: Toon Captain of Atlantis
   aetherPower: regen
   lb1:
-    power: 895
-    attack: 954
+    power: 894
+    attack: 952
     defense: 929
     health: 1545
   lb2:
     power: 1024
-    attack: 1106
+    attack: 1105
     defense: 1077
-    health: 1791
+    health: 1792
 ...
