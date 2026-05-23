@@ -22,14 +22,14 @@ dtModified: "2026-04-11"
 fancy_name: Cursed Warlord
 aetherPower: dodge
 lb1:
-  power: 823
-  attack: 841
-  defense: 770
+  power: 822
+  attack: 840
+  defense: 769
   health: 1345
 lb2:
   power: 923
   attack: 962
-  defense: 881
+  defense: 880
   health: 1539
 costume:
   design: costume1
@@ -57,14 +57,14 @@ costume:
   aetherPower: counterattack
   lb1:
     power: 1006
-    attack: 1023
+    attack: 1024
     defense: 982
-    health: 1772
+    health: 1771
   lb2:
-    power: 1133
+    power: 1132
     attack: 1171
     defense: 1123
-    health: 2027
+    health: 2026
 costume2:
   design: toon
   bonuses: 87/87/90/5
@@ -92,12 +92,12 @@ costume2:
   aetherPower: dodge
   lb1:
     power: 1437
-    attack: 1593
-    defense: 1415
-    health: 2559
+    attack: 1594
+    defense: 1414
+    health: 2560
   lb2:
     power: 1626
-    attack: 1823
-    defense: 1619
-    health: 2927
+    attack: 1824
+    defense: 1618
+    health: 2929
 ...

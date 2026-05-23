@@ -21,15 +21,15 @@ dtModified: "2026-04-11"
 fancy_name: Chameleon Shaman
 aetherPower: boosted_regen
 lb1:
-  power: 697
-  attack: 745
-  defense: 669
-  health: 1172
+  power: 719
+  attack: 767
+  defense: 688
+  health: 1241
 lb2:
-  power: 794
-  attack: 864
-  defense: 776
-  health: 1359
+  power: 821
+  attack: 889
+  defense: 799
+  health: 1440
 costume:
   design: costume1
   bonuses: 3/3/6/5
@@ -52,14 +52,14 @@ costume:
   aetherPower: damage_reduction
   lb1:
     power: 719
-    attack: 715
-    defense: 772
-    health: 1204
+    attack: 714
+    defense: 771
+    health: 1202
   lb2:
-    power: 821
+    power: 820
     attack: 829
-    defense: 896
-    health: 1396
+    defense: 894
+    health: 1395
 costume2:
   design: toon
   bonuses: 30/30/35/5
@@ -85,13 +85,13 @@ costume2:
   fancy_name: Toon Chameleon Shaman
   aetherPower: boosted_regen
   lb1:
-    power: 890
-    attack: 981
-    defense: 855
+    power: 889
+    attack: 980
+    defense: 854
     health: 1588
   lb2:
-    power: 1018
-    attack: 1137
+    power: 1017
+    attack: 1136
     defense: 990
     health: 1842
 ...

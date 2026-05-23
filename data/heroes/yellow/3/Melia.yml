@@ -21,14 +21,14 @@ dtModified: "2026-04-03"
 fancy_name: Mermaid of Atlantis
 aetherPower: attack_up
 lb1:
-  power: 502
-  attack: 573
-  defense: 459
-  health: 776
+  power: 501
+  attack: 572
+  defense: 457
+  health: 775
 lb2:
   power: 605
-  attack: 708
-  defense: 567
+  attack: 707
+  defense: 566
   health: 958
 costume:
   design: costume1
@@ -52,14 +52,14 @@ costume:
   fancy_name: Emissary of Atlantis
   aetherPower: special_boost
   lb1:
-    power: 518
-    attack: 606
-    defense: 460
+    power: 517
+    attack: 605
+    defense: 459
     health: 803
   lb2:
-    power: 625
-    attack: 749
-    defense: 569
+    power: 624
+    attack: 748
+    defense: 567
     health: 993
 costume2:
   design: toon
@@ -86,13 +86,13 @@ costume2:
   fancy_name: Toon Mermaid
   aetherPower: attack_up
   lb1:
-    power: 627
-    attack: 746
-    defense: 574
-    health: 1008
+    power: 626
+    attack: 744
+    defense: 573
+    health: 1007
   lb2:
-    power: 760
-    attack: 921
+    power: 759
+    attack: 920
     defense: 709
     health: 1245
 ...

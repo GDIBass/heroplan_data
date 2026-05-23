@@ -26,7 +26,7 @@ fancy_name: Shadowblade of Svartalfheim
 aetherPower: special_boost
 lb1:
   power: 712
-  attack: 681
+  attack: 680
   defense: 704
   health: 1371
 lb2:
@@ -58,9 +58,9 @@ costume:
   aetherPower: dodge
   lb1:
     power: 736
-    attack: 725
-    defense: 689
-    health: 1466
+    attack: 724
+    defense: 688
+    health: 1464
   lb2:
     power: 840
     attack: 840
@@ -97,11 +97,11 @@ costume2:
   lb1:
     power: 900
     attack: 881
-    defense: 917
-    health: 1791
+    defense: 918
+    health: 1790
   lb2:
     power: 1031
-    attack: 1023
-    defense: 1064
+    attack: 1022
+    defense: 1065
     health: 2077
 ...

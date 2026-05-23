@@ -24,12 +24,12 @@ fancy_name: Brave Villager
 aetherPower: attack_up
 lb1:
   power: 516
-  attack: 520
+  attack: 519
   defense: 494
   health: 937
 lb2:
   power: 622
-  attack: 642
+  attack: 641
   defense: 610
   health: 1158
 costume:
@@ -56,14 +56,14 @@ costume:
   fancy_name: Brave Soldier
   aetherPower: special_boost
   lb1:
-    power: 533
-    attack: 527
-    defense: 517
-    health: 996
+    power: 532
+    attack: 525
+    defense: 516
+    health: 995
   lb2:
     power: 643
-    attack: 651
-    defense: 639
+    attack: 650
+    defense: 638
     health: 1230
 costume2:
   design: toon
@@ -93,12 +93,12 @@ costume2:
   aetherPower: attack_up
   lb1:
     power: 629
-    attack: 652
-    defense: 615
-    health: 1173
+    attack: 651
+    defense: 614
+    health: 1174
   lb2:
-    power: 763
-    attack: 806
-    defense: 760
+    power: 762
+    attack: 805
+    defense: 759
     health: 1451
 ...

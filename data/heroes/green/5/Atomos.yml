@@ -29,10 +29,10 @@ lb1:
   defense: 783
   health: 1440
 lb2:
-  power: 923
+  power: 922
   attack: 904
   defense: 896
-  health: 1648
+  health: 1647
 costume:
   design: costume1
   bonuses: 25/25/30/5
@@ -59,13 +59,13 @@ costume:
   lb1:
     power: 1006
     attack: 987
-    defense: 979
-    health: 1873
+    defense: 978
+    health: 1871
   lb2:
     power: 1133
-    attack: 1130
-    defense: 1120
-    health: 2142
+    attack: 1129
+    defense: 1119
+    health: 2141
 costume2:
   design: toon
   bonuses: 87/87/90/5
@@ -94,13 +94,13 @@ costume2:
   fancy_name: Toon Guardian of Atlantis
   aetherPower: rage
   lb1:
-    power: 1436
+    power: 1435
     attack: 1497
-    defense: 1443
-    health: 2736
+    defense: 1442
+    health: 2735
   lb2:
     power: 1624
-    attack: 1712
-    defense: 1651
-    health: 3131
+    attack: 1713
+    defense: 1650
+    health: 3130
 ...

@@ -28,7 +28,7 @@ lb1:
   power: 709
   attack: 768
   defense: 683
-  health: 1177
+  health: 1176
 lb2:
   power: 809
   attack: 891
@@ -58,14 +58,14 @@ costume:
   fancy_name: Herbalist of Svartalfheim
   aetherPower: special_boost
   lb1:
-    power: 733
-    attack: 815
-    defense: 680
-    health: 1238
+    power: 732
+    attack: 813
+    defense: 679
+    health: 1237
   lb2:
-    power: 837
-    attack: 945
-    defense: 788
+    power: 836
+    attack: 944
+    defense: 787
     health: 1435
 costume2:
   design: toon
@@ -98,11 +98,11 @@ costume2:
   lb1:
     power: 898
     attack: 995
-    defense: 890
+    defense: 891
     health: 1541
   lb2:
     power: 1028
     attack: 1154
     defense: 1033
-    health: 1787
+    health: 1788
 ...

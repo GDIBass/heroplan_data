@@ -29,7 +29,7 @@ lb2:
   power: 796
   attack: 891
   defense: 749
-  health: 1359
+  health: 1360
 costume:
   design: costume1
   bonuses: 3/3/6/5
@@ -53,13 +53,13 @@ costume:
   lb1:
     power: 722
     attack: 841
-    defense: 604
-    health: 1245
+    defense: 603
+    health: 1244
   lb2:
-    power: 824
-    attack: 976
-    defense: 700
-    health: 1444
+    power: 823
+    attack: 975
+    defense: 699
+    health: 1443
 costume2:
   design: toon
   bonuses: 30/30/35/5
@@ -87,11 +87,11 @@ costume2:
   lb1:
     power: 892
     attack: 986
-    defense: 860
+    defense: 859
     health: 1582
   lb2:
     power: 1021
     attack: 1144
-    defense: 998
-    health: 1834
+    defense: 997
+    health: 1835
 ...

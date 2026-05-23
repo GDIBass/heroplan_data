@@ -24,14 +24,14 @@ fancy_name: Savage Butcher
 aetherPower: rage
 lb1:
   power: 823
-  attack: 799
+  attack: 798
   defense: 741
   health: 1509
 lb2:
-  power: 924
-  attack: 914
+  power: 923
+  attack: 913
   defense: 848
-  health: 1727
+  health: 1726
 costume:
   design: costume1
   bonuses: 25/25/30/5
@@ -59,14 +59,14 @@ costume:
   fancy_name: Savage Blademaster
   aetherPower: counterattack
   lb1:
-    power: 1008
-    attack: 1012
-    defense: 924
+    power: 1007
+    attack: 1011
+    defense: 922
     health: 1933
   lb2:
-    power: 1135
-    attack: 1158
-    defense: 1057
+    power: 1134
+    attack: 1156
+    defense: 1055
     health: 2212
 costume2:
   design: toon
@@ -99,11 +99,11 @@ costume2:
   lb1:
     power: 1438
     attack: 1481
-    defense: 1365
+    defense: 1363
     health: 2952
   lb2:
     power: 1627
     attack: 1694
-    defense: 1561
+    defense: 1560
     health: 3378
 ...

@@ -25,12 +25,12 @@ aetherPower: fiend_resist
 lb1:
   power: 696
   attack: 671
-  defense: 750
-  health: 1191
+  defense: 749
+  health: 1190
 lb2:
-  power: 794
-  attack: 779
-  defense: 870
+  power: 793
+  attack: 778
+  defense: 869
   health: 1381
 costume:
   design: costume1
@@ -56,14 +56,14 @@ costume:
   fancy_name: Atlantean Sentinel
   aetherPower: heal_increase
   lb1:
-    power: 719
-    attack: 665
+    power: 718
+    attack: 664
     defense: 784
-    health: 1299
+    health: 1298
   lb2:
     power: 820
-    attack: 772
-    defense: 909
+    attack: 771
+    defense: 910
     health: 1506
 costume2:
   design: toon
@@ -93,12 +93,12 @@ costume2:
   aetherPower: fiend_resist
   lb1:
     power: 889
-    attack: 890
-    defense: 959
+    attack: 891
+    defense: 960
     health: 1601
   lb2:
-    power: 1017
+    power: 1018
     attack: 1033
-    defense: 1112
-    health: 1856
+    defense: 1114
+    health: 1857
 ...

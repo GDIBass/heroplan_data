@@ -20,7 +20,7 @@ types:
 - Summoner 3
 image: https://i.imgur.com/qJmJu2G.jpg
 dtReleased: "2017-11-01"
-dtModified: ""
+dtModified: "2026-05-23"
 fancy_name: Master of Crypts
 aetherPower: revive
 lb1:
@@ -31,11 +31,11 @@ lb1:
 lb2:
   power: 914
   attack: 901
-  defense: 855
+  defense: 856
   health: 1678
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 26/26/45/5
   class: Wizard
   power: 973
   attack: 911
@@ -56,19 +56,19 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/3rXphxC.jpg
   dtReleased: "2024-01-11"
-  dtModified: ""
+  dtModified: "2026-05-23"
   fancy_name: Cosmic Conjurer
   aetherPower: bulwark
   lb1:
-    power: 1040
-    attack: 983
-    defense: 962
-    health: 2156
+    power: 1039
+    attack: 982
+    defense: 961
+    health: 2157
   lb2:
     power: 1171
-    attack: 1124
+    attack: 1123
     defense: 1100
-    health: 2467
+    health: 2468
 costume2:
   design: toon
   bonuses: 90/90/90/5
@@ -95,14 +95,14 @@ costume2:
     dispel the newest status effect buff from all enemies.'
   image: https://imgur.com/1XooKHj.jpg
   dtReleased: "2026-04-29"
-  dtModified: ""
+  dtModified: "2026-05-23"
   fancy_name: Master of Toon Crypts
   aetherPower: revive
   lb1:
-    power: 1437
-    attack: 1491
+    power: 1438
+    attack: 1493
     defense: 1425
-    health: 2800
+    health: 2799
   lb2:
     power: 1627
     attack: 1708
