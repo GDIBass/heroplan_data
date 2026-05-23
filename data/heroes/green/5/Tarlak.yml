@@ -65,4 +65,40 @@ costume:
     attack: 1069
     defense: 1270
     health: 2007
+costume2:
+  design: toon
+  bonuses: 87/87/90/5
+  class: Monk
+  power: 1344
+  attack: 1559
+  defense: 1232
+  health: 2348
+  skill: Toon Prowess
+  effects:
+  - All allies get +150% normal attack for 4 turns. This status effect is undispellable
+    and lasts 2 turns longer on Nature characters. (If additional effects increase
+    attack in general, normal attacks can have a total maximum of +200% increased
+    power.)
+  - All allies regenerate 800 HP over 4 turns. This status effect is undispellable
+    and lasts 2 turns longer on Nature characters.
+  types:
+  - Titan Attack Buff All
+  - HoT All
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  image: https://imgur.com/gd2zgzQ.jpg
+  dtReleased: "2026-05-23"
+  dtModified: ""
+  aetherPower: counterattack
+  lb1:
+    power: 1439
+    attack: 1680
+    defense: 1328
+    health: 2531
+  lb2:
+    power: 1628
+    attack: 1922
+    defense: 1519
+    health: 2896
 ...

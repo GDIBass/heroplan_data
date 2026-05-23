@@ -72,4 +72,42 @@ costume:
     attack: 1150
     defense: 1084
     health: 2422
+costume2:
+  design: toon
+  bonuses: 90/90/90/5
+  class: Ranger
+  power: 1342
+  attack: 1400
+  defense: 1314
+  health: 2566
+  skill: Toon Athena's Bow
+  effects:
+  - Deals 560% damage to the target and minor damage to nearby enemies.
+  - The target and nearby enemies get -41% defense, and a further -4% decrease every
+    time they are hit for 2 turns, down to -65% defense.
+  - Deals extra damage against Fire.
+  - Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This
+    effect can't be dispelled.
+  types:
+  - Hit 3
+  - Defense Debuff 3
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Dispel on Special Skill: When this character casts their Special Skill, they
+    dispel the newest status effect buff from all enemies.'
+  image: https://imgur.com/C6YUhG9.jpg
+  dtReleased: "2026-05-23"
+  dtModified: ""
+  aetherPower: attack_up
+  lb1:
+    power: 1436
+    attack: 1509
+    defense: 1416
+    health: 2766
+  lb2:
+    power: 1625
+    attack: 1726
+    defense: 1620
+    health: 3165
 ...
