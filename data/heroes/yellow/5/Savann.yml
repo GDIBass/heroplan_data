@@ -21,7 +21,7 @@ types:
 - Attack Growth 2
 passives:
 - 'Nine Lives:'
-- ' * When defeated this character has 80% chance to revive at the begining of their
+- ' * When defeated this character has 80% chance to revive at the beginning of their
   next turn with 50% health and 80% mana.'
 - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
   be prevented with status ailments on Passive Skills.'
@@ -33,17 +33,17 @@ passives:
 - ' * Growth and Wither effects.'
 image: https://imgur.com/VCijAQe.jpg
 dtReleased: "2026-03-04"
-dtModified: "2026-04-28"
+dtModified: "2026-05-24"
 fancy_name: Cat of the Sun-Blessed Valley
 aetherPower: regen
 lb1:
-  power: 1375
-  attack: 1500
-  defense: 1349
-  health: 2486
+  power: 1391
+  attack: 1515
+  defense: 1364
+  health: 2533
 lb2:
-  power: 1556
-  attack: 1717
-  defense: 1544
-  health: 2844
+  power: 1574
+  attack: 1734
+  defense: 1561
+  health: 2898
 ...

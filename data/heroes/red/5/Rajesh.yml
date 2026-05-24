@@ -19,13 +19,13 @@ effects:
   by 20% for each resisted effect.
 - 'Stack (Max: 10): All allies get +35% attack.'
 types:
-- Cleaser
+- Cleanser
 - Bypass All
 - Debuff Resist All
 - Attack Stack All
 passives:
 - 'Nine Lives:'
-- ' * When defeated this character has 80% chance to revive at the begining of their
+- ' * When defeated this character has 80% chance to revive at the beginning of their
   next turn with 50% health and 80% mana.'
 - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
   be prevented with status ailments on Passive Skills.'
@@ -37,12 +37,12 @@ passives:
 - ' * - Growth and Wither effects.'
 image: https://i.imgur.com/8rK2qLv.jpg
 dtReleased: "2025-03-17"
-dtModified: ""
+dtModified: "2026-05-24"
 fancy_name: Gourmand Tigris Chief
 aetherPower: fiend_resist
 lb1:
-  power: 1299
-  attack: 1423
+  power: 1298
+  attack: 1422
   defense: 1272
   health: 2286
 lb2:
