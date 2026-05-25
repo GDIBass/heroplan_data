@@ -1,5 +1,5 @@
 ---
-name: Food Mimic Fire
+name: Food Mimic Dark
 source: secretsummon
 family: mimic
 speed: Average
@@ -35,10 +35,9 @@ passives:
 - Common
 - ' * Tiny Food Bundle'
 - ' * Trainer Hero'
-image: https://imgur.com/TFre1d1.jpg
-dtReleased: "2026-05-10"
-dtModified: "2026-05-25"
-fancy_name: Flesh-eating Chest
+image: https://imgur.com/JzWdMLE.jpg
+dtReleased: "2026-05-25"
+dtModified: ""
 aetherPower: bulwark
 lb1:
   power: 1450
