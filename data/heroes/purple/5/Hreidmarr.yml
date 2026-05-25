@@ -23,7 +23,7 @@ types:
 - Mana Steal All
 - Buff Steal each turn All
 passives:
-- 'Empowered Resist Burn: This character is immune to status ailments that deals Burn
+- 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
   damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
@@ -34,7 +34,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/UInCnGF.jpg
 dtReleased: "2025-02-23"
-dtModified: "2026-05-01"
+dtModified: "2026-05-25"
 fancy_name: Dwarven Mountain King
 aetherPower: counterattack
 lb1:
@@ -81,7 +81,7 @@ costume:
     exhausted when the Core is activated.'
   image: https://imgur.com/3FaztF9.jpg
   dtReleased: "2026-05-25"
-  dtModified: ""
+  dtModified: "2026-05-25"
   aetherPower: boosted_regen
   lb1:
     power: 1420
