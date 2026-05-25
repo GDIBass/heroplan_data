@@ -47,4 +47,50 @@ lb2:
   attack: 1427
   defense: 1457
   health: 2819
+costume:
+  design: costume1
+  bonuses: 13/13/15/5
+  class: Sorcerer
+  power: 1327
+  attack: 1316
+  defense: 1333
+  health: 2635
+  skill: Dwarven Trader's Deal
+  effects:
+  - Attacks all enemies with Firestorm Strike, dealing up to 2500 damage. Deals 40%
+    more damage if the target is of the Nature element. This Special Skill never misses
+    its targets.
+  - Reduces the mana of all enemies by 35%.
+  - After the Special Skill has been cast, increases the mana of the caster by 35%.
+  - At the end of each turn, steals the latest dispellable buff from all enemies and
+    distributes them randomly among allies for 5 turns.
+  types:
+  - Hit All
+  - Mana Reducer All
+  - Boost Mana Self
+  - Steal Latest Buff each turn All
+  passives:
+  - 'Empowered Resist Burn: This character is immune to status ailments that deal
+    Burn damage and gains 600 boosted health and 10% mana each time they resist.'
+  - 'Molten Core: The Molten Core activates each time this character''s Special Skill
+    is cast:'
+  - '* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
+    Core, the Corrosive Burn deals 388 Burn damage and lowers the target''s defense
+    by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - '* The Burn damage is scaled by the amount of charge in the Core. All charge is
+    exhausted when the Core is activated.'
+  image: https://imgur.com/3FaztF9.jpg
+  dtReleased: "2026-05-25"
+  dtModified: ""
+  aetherPower: boosted_regen
+  lb1:
+    power: 1420
+    attack: 1418
+    defense: 1436
+    health: 2840
+  lb2:
+    power: 1608
+    attack: 1623
+    defense: 1644
+    health: 3250
 ...
