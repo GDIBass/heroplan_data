@@ -21,8 +21,8 @@ types:
 - Received Damage Debuff 3
 - Reflect Buffs 3
 passives:
-- 'Empowered Resist Frost: This character is immune to status ailments that deals
-  Frost damage and gains 450 boosted health and 5% mana each time they resist.'
+- 'Empowered Resist Frost: This character is immune to status ailments that deal Frost
+  damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
   is cast'
 - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core,
@@ -32,7 +32,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://imgur.com/4ndmZBW.jpg
 dtReleased: "2025-06-13"
-dtModified: "2026-05-01"
+dtModified: "2026-05-25"
 fancy_name: Dwarven Lord of Myrkheim
 aetherPower: counterattack
 lb1:
@@ -43,6 +43,6 @@ lb1:
 lb2:
   power: 1464
   attack: 1541
-  defense: 1447
-  health: 2821
+  defense: 1448
+  health: 2822
 ...

@@ -20,7 +20,7 @@ types:
 - Firestorm Ward Buff All
 - Status Ailments Immunity All
 passives:
-- 'Empowered Resist Burn: This character is immune to status ailments that deals Burn
+- 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
   damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
@@ -31,7 +31,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/mO16Dj6.jpg
 dtReleased: "2024-12-03"
-dtModified: "2026-05-01"
+dtModified: "2026-05-25"
 fancy_name: Dwarven Dark Seer
 aetherPower: special_armor
 lb1:
@@ -40,10 +40,10 @@ lb1:
   defense: 1274
   health: 2384
 lb2:
-  power: 1407
+  power: 1408
   attack: 1409
   defense: 1457
-  health: 2727
+  health: 2728
 costume:
   design: costume1
   bonuses: 14/14/15/5
@@ -77,17 +77,17 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/FfGsve9.jpg
   dtReleased: "2026-04-07"
-  dtModified: "2026-05-01"
+  dtModified: "2026-05-25"
   fancy_name: Dwarven Dark Engineer
   aetherPower: defense_up
   lb1:
-    power: 1386
-    attack: 1382
-    defense: 1426
-    health: 2698
+    power: 1408
+    attack: 1406
+    defense: 1452
+    health: 2746
   lb2:
-    power: 1567
-    attack: 1581
-    defense: 1631
-    health: 3088
+    power: 1593
+    attack: 1609
+    defense: 1661
+    health: 3142
 ...

@@ -31,15 +31,15 @@ dtModified: "2026-05-01"
 fancy_name: Dwarven Rage Runner
 aetherPower: attack_up
 lb1:
-  power: 557
-  attack: 618
+  power: 556
+  attack: 617
   defense: 606
-  health: 760
+  health: 759
 lb2:
   power: 673
-  attack: 764
+  attack: 763
   defense: 749
-  health: 939
+  health: 938
 costume:
   design: costume1
   bonuses: 5/5/5/1
@@ -71,13 +71,13 @@ costume:
   fancy_name: Dwarven Replenisher
   aetherPower: special_boost
   lb1:
-    power: 583
-    attack: 657
-    defense: 641
-    health: 781
+    power: 582
+    attack: 656
+    defense: 639
+    health: 779
   lb2:
-    power: 706
-    attack: 812
-    defense: 792
-    health: 966
+    power: 705
+    attack: 811
+    defense: 790
+    health: 964
 ...

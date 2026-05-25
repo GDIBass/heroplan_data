@@ -23,7 +23,7 @@ types:
 - DoT All
 - Burn and Poison Increased Damage Debuff All
 passives:
-- 'Empowered Resist Burn: This character is immune to status ailments that deals Burn
+- 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
   damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
@@ -34,14 +34,14 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/BDzoVb0.jpg
 dtReleased: "2025-01-26"
-dtModified: "2026-05-01"
+dtModified: "2026-05-25"
 fancy_name: Dwarven Mountain Shaman
 aetherPower: dodge
 lb1:
   power: 1255
   attack: 1318
   defense: 1245
-  health: 2291
+  health: 2290
 lb2:
   power: 1418
   attack: 1508
@@ -71,7 +71,7 @@ costume:
   - DoT All
   - Burn and Poison Increased Damage Debuff All
   passives:
-  - 'Empowered Resist Burn: This character is immune to status ailments that deals
+  - 'Empowered Resist Burn: This character is immune to status ailments that deal
     Burn damage and gains 600 boosted health and 10% mana each time they resist.'
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
     is cast:'
@@ -82,17 +82,17 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/RP6dYzm.jpg
   dtReleased: "2026-05-01"
-  dtModified: "2026-05-01"
+  dtModified: "2026-05-25"
   fancy_name: Dwarven Plague Shaman
   aetherPower: fiend_resist
   lb1:
     power: 1414
     attack: 1518
     defense: 1406
-    health: 2606
+    health: 2605
   lb2:
     power: 1600
     attack: 1737
     defense: 1609
-    health: 2982
+    health: 2981
 ...
