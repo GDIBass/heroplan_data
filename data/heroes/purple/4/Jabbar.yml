@@ -26,13 +26,13 @@ dtModified: "2026-05-04"
 fancy_name: Brute of Sand Empire
 aetherPower: counterattack
 lb1:
-  power: 698
-  attack: 577
-  defense: 750
-  health: 1438
+  power: 697
+  attack: 576
+  defense: 749
+  health: 1437
 lb2:
-  power: 796
+  power: 795
   attack: 669
-  defense: 870
+  defense: 869
   health: 1667
 ...

@@ -28,14 +28,14 @@ fancy_name: Charlady of Morlovia
 aetherPower: defense_up
 lb1:
   power: 735
-  attack: 681
+  attack: 680
   defense: 757
   health: 1431
 lb2:
   power: 839
   attack: 789
   defense: 878
-  health: 1659
+  health: 1660
 costume:
   design: costume1
   bonuses: 15/15/15/5
@@ -63,13 +63,13 @@ costume:
   fancy_name: Baroness of Dust
   aetherPower: defense_up
   lb1:
-    power: 835
-    attack: 796
-    defense: 860
-    health: 1648
+    power: 834
+    attack: 795
+    defense: 859
+    health: 1647
   lb2:
     power: 954
-    attack: 923
+    attack: 922
     defense: 997
-    health: 1911
+    health: 1910
 ...

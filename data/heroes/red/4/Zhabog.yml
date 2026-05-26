@@ -25,9 +25,9 @@ fancy_name: Bard of Eloquence
 aetherPower: attack_up
 lb1:
   power: 734
-  attack: 715
+  attack: 714
   defense: 655
-  health: 1542
+  health: 1541
 lb2:
   power: 838
   attack: 829

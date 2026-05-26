@@ -26,15 +26,15 @@ dtModified: "2026-05-04"
 fancy_name: The Monster
 aetherPower: regen
 lb1:
-  power: 717
-  attack: 690
-  defense: 695
+  power: 716
+  attack: 689
+  defense: 694
   health: 1403
 lb2:
   power: 818
   attack: 800
   defense: 805
-  health: 1627
+  health: 1628
 costume:
   design: costume1
   bonuses: 2/2/4/5
@@ -65,13 +65,13 @@ costume:
   fancy_name: The Mobster
   aetherPower: special_boost
   lb1:
-    power: 733
-    attack: 713
-    defense: 701
-    health: 1450
+    power: 732
+    attack: 711
+    defense: 700
+    health: 1449
   lb2:
-    power: 837
-    attack: 827
-    defense: 813
+    power: 836
+    attack: 825
+    defense: 812
     health: 1681
 ...

@@ -70,10 +70,10 @@ costume:
     power: 1306
     attack: 1240
     defense: 1347
-    health: 2643
+    health: 2642
   lb2:
     power: 1476
     attack: 1419
     defense: 1541
-    health: 3024
+    health: 3023
 ...

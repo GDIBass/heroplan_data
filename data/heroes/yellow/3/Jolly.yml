@@ -27,12 +27,12 @@ fancy_name: Gnome Lumberjack
 aetherPower: regen
 lb1:
   power: 543
-  attack: 512
+  attack: 511
   defense: 525
   health: 1089
 lb2:
   power: 656
-  attack: 632
-  defense: 649
+  attack: 631
+  defense: 650
   health: 1346
 ...

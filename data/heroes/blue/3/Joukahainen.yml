@@ -27,15 +27,15 @@ dtModified: "2026-05-04"
 fancy_name: Ferocious Hunter
 aetherPower: counterattack
 lb1:
-  power: 538
+  power: 537
   attack: 527
-  defense: 535
-  health: 994
+  defense: 534
+  health: 993
 lb2:
-  power: 650
-  attack: 652
-  defense: 662
-  health: 1229
+  power: 649
+  attack: 651
+  defense: 661
+  health: 1228
 costume:
   design: costume1
   bonuses: 3/3/6/1
@@ -63,13 +63,13 @@ costume:
   fancy_name: Frozen Hunter
   aetherPower: special_boost
   lb1:
-    power: 557
-    attack: 549
+    power: 556
+    attack: 548
     defense: 547
-    health: 1052
+    health: 1050
   lb2:
     power: 673
-    attack: 679
+    attack: 678
     defense: 676
-    health: 1300
+    health: 1298
 ...

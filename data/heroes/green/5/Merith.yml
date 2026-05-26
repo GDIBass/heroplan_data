@@ -33,11 +33,11 @@ aetherPower: dodge
 lb1:
   power: 1312
   attack: 1334
-  defense: 1363
-  health: 2419
+  defense: 1362
+  health: 2420
 lb2:
   power: 1483
-  attack: 1526
+  attack: 1527
   defense: 1559
-  health: 2768
+  health: 2769
 ...

@@ -35,13 +35,13 @@ dtModified: ""
 fancy_name: Fosterer of Flytraps
 aetherPower: fiend_resist
 lb1:
-  power: 1330
+  power: 1331
   attack: 1398
-  defense: 1369
-  health: 2379
+  defense: 1370
+  health: 2380
 lb2:
   power: 1504
-  attack: 1600
+  attack: 1599
   defense: 1567
-  health: 2722
+  health: 2723
 ...

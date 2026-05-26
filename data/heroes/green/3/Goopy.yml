@@ -29,12 +29,12 @@ fancy_name: Gelatinous Goo
 aetherPower: attack_up
 lb1:
   power: 539
-  attack: 567
+  attack: 566
   defense: 529
-  health: 916
+  health: 915
 lb2:
   power: 651
   attack: 700
   defense: 654
-  health: 1131
+  health: 1132
 ...

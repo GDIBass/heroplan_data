@@ -28,12 +28,12 @@ fancy_name: Gnome Head Chef
 aetherPower: defense_up
 lb1:
   power: 736
-  attack: 676
+  attack: 675
   defense: 778
   health: 1410
 lb2:
-  power: 840
+  power: 841
   attack: 784
   defense: 902
-  health: 1635
+  health: 1636
 ...

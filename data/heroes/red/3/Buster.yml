@@ -26,13 +26,13 @@ dtModified: "2026-05-04"
 fancy_name: Grumpy Garden Gnome
 aetherPower: dodge
 lb1:
-  power: 541
-  attack: 577
-  defense: 512
+  power: 540
+  attack: 576
+  defense: 511
   health: 935
 lb2:
   power: 653
   attack: 713
-  defense: 632
+  defense: 631
   health: 1156
 ...
