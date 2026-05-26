@@ -14,7 +14,7 @@ effects:
 - 'Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum
   600 additional  healing. Status effects affecting healing received do affect the
   healing scaling.)'
-- All allies are immune to new status ailments for 4 turns, and recovers 205 health
+- All allies are immune to new status ailments for 4 turns, and recovers 250 health
   for each attempted status ailment.
 - Alters the power of all Fire shields on the board. When an attacking Hero casts
   the special, the shields become enhanced and give +37% more mana. When a defending
@@ -34,17 +34,17 @@ passives:
   effects and damage from Minions and Mega Minions.'
 image: https://imgur.com/vK0I9hS.jpg
 dtReleased: "2026-01-01"
-dtModified: "2026-04-28"
+dtModified: "2026-05-26"
 fancy_name: Chari Dancer
 aetherPower: special_armor
 lb1:
-  power: 1357
-  attack: 1405
-  defense: 1416
-  health: 2459
+  power: 1373
+  attack: 1420
+  defense: 1431
+  health: 2506
 lb2:
-  power: 1535
-  attack: 1607
-  defense: 1620
-  health: 2814
+  power: 1553
+  attack: 1625
+  defense: 1638
+  health: 2867
 ...

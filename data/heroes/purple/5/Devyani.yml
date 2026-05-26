@@ -35,13 +35,13 @@ dtModified: "2026-04-28"
 fancy_name: Fierce Warrior Princess
 aetherPower: special_boost
 lb1:
-  power: 1349
-  attack: 1431
-  defense: 1367
-  health: 2437
+  power: 1366
+  attack: 1447
+  defense: 1383
+  health: 2484
 lb2:
-  power: 1526
-  attack: 1638
-  defense: 1564
-  health: 2788
+  power: 1545
+  attack: 1656
+  defense: 1582
+  health: 2843
 ...
