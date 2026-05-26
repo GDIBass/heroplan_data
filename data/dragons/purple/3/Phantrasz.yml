@@ -1,0 +1,43 @@
+---
+name: Phantrasz
+fancy_name: ""
+source: ancientUnderroot
+speed: Slow
+power: 7832
+attack: 9280
+defense: 9889
+health: 8898
+skill: Drowsy Hallows
+effects:
+- Recovers 4100 health for all allies.
+- All allies regenerate 2000 boosted health over 5 turns. Boosted health can exceed
+  max HP.
+- All allies get +1800 defense for 5 turns.
+types:
+- Healer All
+- Boosted HoT All
+- Defense Buff All
+spiritBonus:
+  spiritClass: Wizard
+  all:
+    attack: "+100"
+    defense: "+80"
+    health: "+30"
+  elementalBond:
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
+  classLink:
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
+assist:
+  name: Cauterizing Blaze
+  effects:
+  - Deals 360  damage to all enemies.
+  - Recovers 60 health for all allies.
+  - All enemies get -10% defense for 5 turns.
+image: https://imgur.com/SwXJV1e.jpg
+dtReleased: "2026-05-26"
+dtModified: ""
+...

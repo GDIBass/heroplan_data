@@ -1,0 +1,43 @@
+---
+name: Zoostrog
+fancy_name: ""
+source: ancientUnderroot
+speed: Average
+power: 12950
+attack: 16133
+defense: 16527
+health: 14617
+skill: Rise for a New Day
+effects:
+- Recovers 10000 health for the caster and nearby allies.
+- Revives a random defeated ally with 6000 HP.
+- The caster and nearby allies reflect 70% of the damage received from their status
+  ailments and negative stacks to all enemies for 4 turns.
+types:
+- Healer 3
+- Reviver Random 1
+- Damage Reflect 3
+spiritBonus:
+  spiritClass: Paladin
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Breath of Revival
+  effects:
+  - Recovers 860 health for all allies.
+  - Deals 410 damage to all enemies.
+  - Each defeated ally has  a15% chance to get revived with 15% HP.
+image: https://imgur.com/dX5NUK4.jpg
+dtReleased: "2026-05-26"
+dtModified: ""
+...
