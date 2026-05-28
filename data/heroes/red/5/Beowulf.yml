@@ -31,13 +31,13 @@ dtModified: ""
 fancy_name: Sword of the Geats
 aetherPower: attack_up
 lb1:
-  power: 1267
-  attack: 1394
+  power: 1266
+  attack: 1393
   defense: 1194
   health: 2286
 lb2:
   power: 1431
-  attack: 1595
+  attack: 1594
   defense: 1366
   health: 2616
 ...
