@@ -43,13 +43,13 @@ dtModified: "2026-04-28"
 fancy_name: Demon Ronin
 aetherPower: attack_up
 lb1:
-  power: 1378
-  attack: 1456
-  defense: 1420
-  health: 2475
+  power: 1405
+  attack: 1481
+  defense: 1447
+  health: 2550
 lb2:
-  power: 1559
-  attack: 1666
-  defense: 1625
-  health: 2832
+  power: 1590
+  attack: 1694
+  defense: 1656
+  health: 2918
 ...

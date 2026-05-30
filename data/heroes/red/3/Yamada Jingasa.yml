@@ -39,13 +39,13 @@ dtModified: ""
 fancy_name: Karate Champion
 aetherPower: attack_up
 lb1:
-  power: 606
-  attack: 650
-  defense: 610
-  health: 1024
+  power: 605
+  attack: 649
+  defense: 609
+  health: 1023
 lb2:
-  power: 734
-  attack: 803
-  defense: 754
+  power: 733
+  attack: 802
+  defense: 753
   health: 1265
 ...
