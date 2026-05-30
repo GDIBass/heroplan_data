@@ -32,12 +32,12 @@ fancy_name: Eerie Faun Flautist
 aetherPower: regen
 lb1:
   power: 1218
-  attack: 1214
+  attack: 1213
   defense: 1218
-  health: 2339
+  health: 2340
 lb2:
-  power: 1376
-  attack: 1389
-  defense: 1394
+  power: 1375
+  attack: 1388
+  defense: 1393
   health: 2677
 ...

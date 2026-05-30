@@ -31,9 +31,9 @@ lb1:
   health: 1544
 lb2:
   power: 837
-  attack: 813
+  attack: 814
   defense: 776
-  health: 1790
+  health: 1791
 costume:
   design: costume1
   bonuses: 3/3/6/1
@@ -59,13 +59,13 @@ costume:
   fancy_name: Fading Champion
   aetherPower: attack_up
   lb1:
-    power: 761
-    attack: 730
-    defense: 687
+    power: 760
+    attack: 729
+    defense: 686
     health: 1632
   lb2:
     power: 868
-    attack: 846
+    attack: 845
     defense: 796
-    health: 1892
+    health: 1893
 ...

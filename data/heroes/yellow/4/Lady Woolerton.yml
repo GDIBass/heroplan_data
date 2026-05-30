@@ -21,10 +21,10 @@ dtModified: "2026-04-03"
 fancy_name: Mender of Springvale
 aetherPower: defense_up
 lb1:
-  power: 711
-  attack: 681
-  defense: 725
-  health: 1323
+  power: 710
+  attack: 680
+  defense: 724
+  health: 1322
 lb2:
   power: 810
   attack: 789
@@ -56,13 +56,13 @@ costume:
   fancy_name: Coiffeuse of Springvale
   aetherPower: boosted_regen
   lb1:
-    power: 863
-    attack: 838
-    defense: 907
-    health: 1649
+    power: 862
+    attack: 837
+    defense: 906
+    health: 1648
   lb2:
-    power: 987
-    attack: 972
-    defense: 1052
+    power: 986
+    attack: 971
+    defense: 1051
     health: 1912
 ...

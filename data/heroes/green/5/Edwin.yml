@@ -29,14 +29,14 @@ fancy_name: Cunning Butler
 aetherPower: attack_up
 lb1:
   power: 996
-  attack: 994
-  defense: 959
-  health: 1824
+  attack: 993
+  defense: 958
+  health: 1825
 lb2:
   power: 1122
   attack: 1137
-  defense: 1097
-  health: 2087
+  defense: 1096
+  health: 2088
 costume:
   design: costume1
   bonuses: 38/38/38/5
@@ -69,11 +69,11 @@ costume:
   lb1:
     power: 1329
     attack: 1393
-    defense: 1302
+    defense: 1301
     health: 2518
   lb2:
-    power: 1503
+    power: 1502
     attack: 1594
-    defense: 1489
+    defense: 1488
     health: 2881
 ...

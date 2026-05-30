@@ -18,8 +18,8 @@ types:
 - Hit 3
 - Mana Increase 3
 passives:
-- 'Empowered Resist Frost: This character is immune to status ailments that deals
-  Frost damage and gains 450 boosted health and 5% mana each time they resist.'
+- 'Empowered Resist Frost: This character is immune to status ailments that deal Frost
+  damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
   is cast'
 - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core,
@@ -29,17 +29,17 @@ passives:
   exhausted when the Core is activated.'
 image: https://imgur.com/vdreiVK.jpg
 dtReleased: "2025-08-26"
-dtModified: "2026-05-01"
+dtModified: "2026-05-25"
 fancy_name: Dwarven Goat Rider
 aetherPower: dodge
 lb1:
   power: 575
   attack: 646
-  defense: 626
-  health: 782
+  defense: 625
+  health: 780
 lb2:
-  power: 696
+  power: 695
   attack: 798
-  defense: 774
-  health: 966
+  defense: 773
+  health: 965
 ...

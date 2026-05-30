@@ -1,0 +1,56 @@
+---
+name: Kitou Sayomi
+source: ninja
+family: ronin
+speed: Charge
+class: Rogue
+power: 1329
+attack: 1369
+defense: 1390
+health: 2399
+skill: Piercing Kurozuki Katana
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- x1 Mana Charge
+- ' * Deals 410% damage to the target.'
+- ' * The target receives 396 Poison damage over 2 turns.'
+- x2 Mana Charge
+- ' * Deals 420% damage to the target and nearby enemies.'
+- ' * The target and nearby enemies receives 549 Poison damage over 3 turns.'
+- ' * After 1 turn the target and nearby enemies get Paralyzed for 2 turns. (Paralyzed
+  enemies can''t attack or gain mana and receive +50% increased damage. Once Paralyzed,
+  the effect can''t be cleansed. Bosses, Titans and Mythic Titans are not affected
+  by this status effect.)'
+- x3 Mana Charge
+- ' * Deals 430% damage to all  enemies.'
+- ' * All enemies receives 1044 Poison damage over 4 turns.'
+- ' * After 1 turn all enemies get Paralyzed for 3 turns. (Paralyzed enemies can''t
+  attack or gain mana and receive +50% increased damage. Once Paralyzed, the effect
+  can''t be cleansed. Bosses, Titans and Mythic Titans are not affected by this status
+  effect.)'
+types:
+- Charge
+- Hit 1/3/All
+- DoT 1/3/All
+- Delayed Paralyze 3/All
+passives:
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 450% damage.'
+- ' * The attacker receives 1500 Bleed damage over 3 turns.'
+image: https://imgur.com/bgQoOwE.jpg
+dtReleased: "2026-05-30"
+dtModified: ""
+aetherPower: rage
+lb1:
+  power: 1422
+  attack: 1475
+  defense: 1498
+  health: 2586
+lb2:
+  power: 1609
+  attack: 1688
+  defense: 1714
+  health: 2959
+...

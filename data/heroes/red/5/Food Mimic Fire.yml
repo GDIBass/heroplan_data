@@ -16,7 +16,8 @@ effects:
 - The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status
   ailments while closed.)
 types:
-- Hit 3
+- Hit 1
+- Mana Boost on kill
 - Healer All on damage dealt
 - Mimic Chest
 passives:
@@ -36,7 +37,7 @@ passives:
 - ' * Trainer Hero'
 image: https://imgur.com/TFre1d1.jpg
 dtReleased: "2026-05-10"
-dtModified: ""
+dtModified: "2026-05-25"
 fancy_name: Flesh-eating Chest
 aetherPower: bulwark
 lb1:

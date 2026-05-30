@@ -20,7 +20,7 @@ types:
 - Healer All
 - Counterattack All
 passives:
-- 'Empowered Resist Burn: This character is immune to status ailments that deals Burn
+- 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
   damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
@@ -31,19 +31,19 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/hNiWYCE.jpg
 dtReleased: "2024-12-03"
-dtModified: "2026-05-01"
+dtModified: "2026-05-25"
 fancy_name: Dwarven Wind Warrior
 aetherPower: ailment_immunity
 lb1:
   power: 1246
-  attack: 1258
-  defense: 1252
+  attack: 1259
+  defense: 1251
   health: 2364
 lb2:
   power: 1408
   attack: 1440
   defense: 1432
-  health: 2705
+  health: 2704
 costume:
   design: costume1
   bonuses: 12/12/13/5
@@ -64,7 +64,7 @@ costume:
   - Boosted Heal All
   - Counterattack All
   passives:
-  - 'Empowered Resist Burn: This character is immune to status ailments that deals
+  - 'Empowered Resist Burn: This character is immune to status ailments that deal
     Burn damage and gains 600 boosted health and 10% mana each time they resist.'
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
     is cast:'
@@ -75,17 +75,17 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/mgjd5V3.jpg
   dtReleased: "2026-02-18"
-  dtModified: "2026-05-01"
+  dtModified: "2026-05-25"
   fancy_name: Dwarven Regal Soldier
   aetherPower: mana_boost
   lb1:
-    power: 1366
-    attack: 1391
-    defense: 1379
-    health: 2635
+    power: 1385
+    attack: 1416
+    defense: 1403
+    health: 2658
   lb2:
-    power: 1546
-    attack: 1592
-    defense: 1578
-    health: 3015
+    power: 1567
+    attack: 1620
+    defense: 1605
+    health: 3041
 ...

@@ -29,12 +29,12 @@ fancy_name: Overly Tanned Dwarf
 aetherPower: attack_up
 lb1:
   power: 542
-  attack: 594
+  attack: 593
   defense: 555
   health: 819
 lb2:
-  power: 656
-  attack: 735
+  power: 655
+  attack: 734
   defense: 686
-  health: 1012
+  health: 1013
 ...

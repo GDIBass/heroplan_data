@@ -42,13 +42,13 @@ dtModified: "2026-04-28"
 fancy_name: Cougar Burglar
 aetherPower: taunt
 lb1:
-  power: 1386
-  attack: 1527
-  defense: 1371
-  health: 2453
+  power: 1403
+  attack: 1542
+  defense: 1387
+  health: 2502
 lb2:
-  power: 1568
-  attack: 1747
-  defense: 1569
-  health: 2806
+  power: 1587
+  attack: 1765
+  defense: 1587
+  health: 2862
 ...

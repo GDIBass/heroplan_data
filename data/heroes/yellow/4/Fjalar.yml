@@ -35,15 +35,15 @@ dtModified: "2026-05-01"
 fancy_name: Dwarven Golden Skald
 aetherPower: defense_up
 lb1:
-  power: 761
+  power: 760
   attack: 780
-  defense: 755
+  defense: 754
   health: 1369
 lb2:
   power: 868
-  attack: 904
-  defense: 875
-  health: 1587
+  attack: 905
+  defense: 874
+  health: 1588
 costume:
   design: costume1
   bonuses: 12/12/12/1
@@ -79,13 +79,13 @@ costume:
   fancy_name: Dwarven Ghostly Skald
   aetherPower: special_armor
   lb1:
-    power: 843
-    attack: 879
-    defense: 840
-    health: 1538
+    power: 841
+    attack: 877
+    defense: 838
+    health: 1537
   lb2:
     power: 963
-    attack: 1019
-    defense: 974
+    attack: 1018
+    defense: 973
     health: 1783
 ...

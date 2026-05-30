@@ -27,12 +27,12 @@ aetherPower: bulwark
 lb1:
   power: 738
   attack: 706
-  defense: 699
+  defense: 698
   health: 1507
 lb2:
   power: 843
   attack: 819
-  defense: 811
+  defense: 810
   health: 1748
 costume:
   design: costume1
@@ -61,10 +61,10 @@ costume:
   fancy_name: Cupid of Painters
   aetherPower: special_armor
   lb1:
-    power: 858
-    attack: 836
-    defense: 828
-    health: 1779
+    power: 857
+    attack: 835
+    defense: 827
+    health: 1777
   lb2:
     power: 981
     attack: 969

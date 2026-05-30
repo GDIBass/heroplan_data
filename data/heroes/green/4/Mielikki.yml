@@ -32,7 +32,7 @@ lb1:
   power: 734
   attack: 667
   defense: 704
-  health: 1565
+  health: 1564
 lb2:
   power: 838
   attack: 773
@@ -68,13 +68,13 @@ costume:
   fancy_name: Protector of the Bears
   aetherPower: bulwark
   lb1:
-    power: 761
-    attack: 663
-    defense: 732
-    health: 1708
+    power: 760
+    attack: 661
+    defense: 731
+    health: 1707
   lb2:
-    power: 869
-    attack: 769
-    defense: 849
+    power: 868
+    attack: 767
+    defense: 848
     health: 1980
 ...

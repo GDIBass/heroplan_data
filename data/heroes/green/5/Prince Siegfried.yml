@@ -42,12 +42,12 @@ fancy_name: Future King
 aetherPower: counterattack
 lb1:
   power: 1064
-  attack: 1061
+  attack: 1060
   defense: 1047
-  health: 1964
+  health: 1965
 lb2:
   power: 1199
-  attack: 1214
+  attack: 1213
   defense: 1198
-  health: 2247
+  health: 2248
 ...

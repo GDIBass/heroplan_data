@@ -12,12 +12,12 @@ skill: Bagh Nakh Thrust
 effects:
 - Deals 370% damage to the target and nearby enemies.
 - 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage
-  is based on the modified attack on caster when damage is dealt. Up to maximum 800
+  is based on the modified attack on caster when damage is dealt. Up to maximum 600
   additional extra damage. Status effects affecting damage dealt do affect the extra
   damage. Defense stats does not affect the extra damage. Status effect affecting
   attack stat do not affect the extra damage.)'
 - All allies get +45% chance to dodge Special Skills for 3 turns. Each Dodge damages
-  the attacker for 300 damage.
+  the attacker for 350 damage.
 types:
 - Hit 3
 - Hit Growth Boon
@@ -32,17 +32,17 @@ passives:
   and Mega Minions.'
 image: https://imgur.com/fZFlVJW.jpg
 dtReleased: "2026-01-28"
-dtModified: "2026-04-28"
+dtModified: "2026-05-26"
 fancy_name: Prideful Assassin
 aetherPower: special_boost
 lb1:
-  power: 1364
-  attack: 1449
-  defense: 1387
-  health: 2459
+  power: 1381
+  attack: 1465
+  defense: 1402
+  health: 2506
 lb2:
-  power: 1543
-  attack: 1658
-  defense: 1587
-  health: 2814
+  power: 1562
+  attack: 1676
+  defense: 1604
+  health: 2867
 ...

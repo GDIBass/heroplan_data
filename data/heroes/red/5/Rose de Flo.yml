@@ -10,18 +10,18 @@ defense: 1314
 health: 2313
 skill: Beautiful Petals
 effects:
-- 'If the caster has 60 or more Humility:'
-- ' * Recovers 32% health for all allies.'
-- ' * Cleanses status ailments from all allies.'
-- ' * Growth: All allies get 200 attack.'
-- ' * All allies regenerate 1440 HP over 3 turns.'
-- ' * The caster gets +84% defense against Special Skills for 3 turns.'
-- 'Otherwise:'
+- 'Less than 60 Humility:'
 - ' * Recovers 25% health for all allies.'
 - ' * Cleanses 1 status ailment from all allies. (Status ailments are cleansed in
   the order they have been received. The latest status ailments are cleansed first.)'
 - ' * Growth: All allies get 150 attack.'
 - ' * All allies regenerate 1005 HP over 3 turns.'
+- '60 or more Humility:'
+- ' * Recovers 32% health for all allies.'
+- ' * Cleanses status ailments from all allies.'
+- ' * Growth: All allies get 200 attack.'
+- ' * All allies regenerate 1440 HP over 3 turns.'
+- ' * The caster gets +84% defense against Special Skills for 3 turns.'
 types:
 - Humility
 - Healer All
@@ -39,7 +39,7 @@ passives:
   they will recover that much health instead.'
 image: https://imgur.com/XgPwLFu.jpg
 dtReleased: "2025-11-12"
-dtModified: "2026-04-28"
+dtModified: "2026-05-28"
 fancy_name: Bloom of the Bewitched Castle
 aetherPower: fiend_resist
 lb1:

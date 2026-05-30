@@ -24,7 +24,7 @@ types:
 - Damage on each Resisted Healing 1
 passives:
 - 'Nine Lives:'
-- ' * When defeated this character has 80% chance to revive at the begining of their
+- ' * When defeated this character has 80% chance to revive at the beginning of their
   next turn with 50% health and 80% mana.'
 - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
   be prevented with status ailments or Passive Skills.'
@@ -36,7 +36,7 @@ passives:
 - ' * - Growth and Wither effects.'
 image: https://imgur.com/yQl1QjJ.jpg
 dtReleased: "2025-06-28"
-dtModified: ""
+dtModified: "2026-05-24"
 fancy_name: Sharp-Eyed Bobcat
 aetherPower: ailment_immunity
 lb1:

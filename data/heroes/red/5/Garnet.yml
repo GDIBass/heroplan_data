@@ -38,4 +38,48 @@ lb2:
   attack: 901
   defense: 927
   health: 1826
+costume:
+  design: costume1
+  bonuses: 79/79/78/1
+  class: Cleric
+  power: 1329
+  attack: 1297
+  defense: 1360
+  health: 2643
+  skill: Restorative Ki
+  effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300%:'
+  - 1x Mana Charge
+  - ' * Boosts health of all allies by 300. Boosted health can exceed max HP.'
+  - ' * All allies are immune to new status ailments for 2 turns, and recover 100
+    health for each attempted status ailment.'
+  - 2x Mana Charge
+  - ' * Boosts health of all allies by 600. Boosted health can exceed max HP.'
+  - ' * All allies are immune to new status ailments for 3 turns, and recover 200
+    health for each attempted status ailment.'
+  - 3x Mana Charge
+  - ' * Boosts health of all allies by 2000. Boosted health can exceed max HP.'
+  - ' * All allies are immune to new status ailments for 4 turns, and recover 550
+    health for each attempted status ailment.'
+  types:
+  - Charge
+  - Health Boost All
+  - Status Ailment Immunity Buff All
+  passives:
+  - 'Rending Touch: Each time this character counterattacks an enemy, the attacker
+    receives 544 Bleed damage over 4 turns.'
+  image: https://imgur.com/v4HyBJH.jpg
+  dtReleased: "2026-05-30"
+  dtModified: ""
+  aetherPower: defense_up
+  lb1:
+    power: 1423
+    attack: 1398
+    defense: 1466
+    health: 2849
+  lb2:
+    power: 1610
+    attack: 1599
+    defense: 1677
+    health: 3260
 ...

@@ -24,8 +24,8 @@ types:
 - Attack Buff All
 - Critical Chance All
 passives:
-- 'Empowered Resist Frost: This character is immune to status ailments that deals
-  Frost damage and gains 450 boosted health and 5% mana each time they resist.'
+- 'Empowered Resist Frost: This character is immune to status ailments that deal Frost
+  damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
   is cast'
 - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core,
@@ -35,7 +35,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://imgur.com/393CAV1.jpg
 dtReleased: "2025-08-06"
-dtModified: "2026-05-01"
+dtModified: "2026-05-25"
 fancy_name: Dwarven Frontier Wildman
 aetherPower: regen
 lb1:
@@ -44,8 +44,8 @@ lb1:
   defense: 1316
   health: 2688
 lb2:
-  power: 1483
-  attack: 1447
+  power: 1484
+  attack: 1448
   defense: 1506
-  health: 3075
+  health: 3076
 ...

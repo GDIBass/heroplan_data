@@ -38,13 +38,13 @@ dtModified: "2026-04-28"
 fancy_name: Coconut Chechi
 aetherPower: special_armor
 lb1:
-  power: 1373
-  attack: 1403
-  defense: 1469
-  health: 2475
+  power: 1389
+  attack: 1418
+  defense: 1485
+  health: 2520
 lb2:
-  power: 1553
-  attack: 1605
-  defense: 1681
-  health: 2832
+  power: 1572
+  attack: 1623
+  defense: 1699
+  health: 2883
 ...

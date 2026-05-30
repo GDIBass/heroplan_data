@@ -29,12 +29,12 @@ fancy_name: Gnome Entertainer
 aetherPower: attack_up
 lb1:
   power: 739
-  attack: 734
+  attack: 733
   defense: 743
   health: 1357
 lb2:
   power: 844
-  attack: 851
-  defense: 861
+  attack: 850
+  defense: 862
   health: 1574
 ...

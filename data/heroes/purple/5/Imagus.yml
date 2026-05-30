@@ -23,7 +23,7 @@ types:
 - Cleanser
 passives:
 - 'Nine Lives:'
-- ' * When defeated this character has 80% chance to revive at the begining of their
+- ' * When defeated this character has 80% chance to revive at the beginning of their
   next turn with 50% health and 80% mana.'
 - ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
   be prevented with status ailments on Passive Skills.'
@@ -35,17 +35,17 @@ passives:
 - ' * Growth and Wither effects.'
 image: https://imgur.com/JT91nLv.jpg
 dtReleased: "2025-07-18"
-dtModified: ""
+dtModified: "2026-05-24"
 fancy_name: Fluffy Constellationist
 aetherPower: boosted_regen
 lb1:
-  power: 1307
-  attack: 1323
+  power: 1306
+  attack: 1322
   defense: 1414
-  health: 2308
+  health: 2309
 lb2:
   power: 1477
   attack: 1513
-  defense: 1617
-  health: 2641
+  defense: 1618
+  health: 2642
 ...

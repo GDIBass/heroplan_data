@@ -35,12 +35,12 @@ fancy_name: Shrewd Politician
 aetherPower: special_boost
 lb1:
   power: 853
-  attack: 861
+  attack: 860
   defense: 888
   health: 1560
 lb2:
-  power: 975
+  power: 976
   attack: 998
-  defense: 1030
-  health: 1809
+  defense: 1031
+  health: 1810
 ...

@@ -1,0 +1,51 @@
+---
+name: Zarek
+source: wilderness
+family: wildcat
+speed: Very Fast
+class: Ranger
+power: 1327
+attack: 1472
+defense: 1264
+health: 2383
+skill: Whirling Stone Storm
+effects:
+- Deals 350% damage to the target.
+- Deals additional 150% damage to as many random enemies as there are Nature shields
+  on the board, up to maximum of 12 hits. The damage is reduced on each consecutive
+  hit.
+- 'All hit targets receive 1000 Surge Bleed damage over 5 turns. (If the target already
+  has this effect, the duration will be refreshed and the damage will be increased
+  by 250. Max total damage: 3750.)'
+types:
+- Hit 1
+- Hit Random
+- DoT on hit
+passives:
+- 'Nine Lives:'
+- ' * When defeated this character has 80% chance to revive at the beginning of their
+  next turn with 50% health and 80% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
+  be prevented with status ailments or Passive Skills.'
+- 'Trait: Lithe Frame'
+- This character is not affected by effects that increase or reduce defense.
+- 'This includes:'
+- ' * - Status effect buffs and ailments.'
+- ' * - Positive and negative stacks.'
+- ' * - Growth and Wither effects.'
+image: https://imgur.com/IaZYblY.jpg
+dtReleased: "2026-05-24"
+dtModified: ""
+fancy_name: Stone-Weaving Caracal
+aetherPower: attack_up
+lb1:
+  power: 1420
+  attack: 1586
+  defense: 1362
+  health: 2568
+lb2:
+  power: 1608
+  attack: 1815
+  defense: 1559
+  health: 2939
+...

@@ -36,11 +36,11 @@ aetherPower: boosted_regen
 lb1:
   power: 1230
   attack: 1209
-  defense: 1256
+  defense: 1255
   health: 2364
 lb2:
-  power: 1390
-  attack: 1384
-  defense: 1437
-  health: 2705
+  power: 1389
+  attack: 1383
+  defense: 1436
+  health: 2704
 ...

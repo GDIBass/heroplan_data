@@ -10,7 +10,7 @@ defense: 1330
 health: 2305
 skill: Tokri of Resources
 effects:
-- Deals 415% damage to all enemies.
+- Deals 410% damage to all enemies.
 - 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage
   is based on the modified attack on caster, when damage is dealt. Up to maximum 600
   additional extra damage. Status effects affecting damage dealt do affect the extra
@@ -34,17 +34,17 @@ passives:
   and Mega Minions.'
 image: https://imgur.com/nEmD2VS.jpg
 dtReleased: "2025-11-17"
-dtModified: "2026-04-28"
+dtModified: "2026-05-26"
 fancy_name: Basket Maker
 aetherPower: special_armor
 lb1:
-  power: 1344
-  attack: 1376
-  defense: 1418
-  health: 2437
+  power: 1360
+  attack: 1391
+  defense: 1433
+  health: 2484
 lb2:
-  power: 1520
-  attack: 1574
-  defense: 1623
-  health: 2788
+  power: 1539
+  attack: 1592
+  defense: 1640
+  health: 2843
 ...
