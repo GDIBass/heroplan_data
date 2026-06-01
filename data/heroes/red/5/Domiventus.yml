@@ -36,13 +36,13 @@ dtModified: "2026-04-03"
 fancy_name: The Eternal Hadal Being
 aetherPower: attack_up
 lb1:
-  power: 1067
-  attack: 1061
+  power: 1066
+  attack: 1060
   defense: 1067
   health: 1944
 lb2:
-  power: 1203
-  attack: 1214
+  power: 1202
+  attack: 1213
   defense: 1221
   health: 2225
 costume:
@@ -84,11 +84,11 @@ costume:
   lb1:
     power: 1332
     attack: 1327
-    defense: 1395
-    health: 2517
+    defense: 1394
+    health: 2518
   lb2:
     power: 1506
     attack: 1518
     defense: 1596
-    health: 2880
+    health: 2881
 ...

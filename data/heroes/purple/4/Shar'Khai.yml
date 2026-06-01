@@ -33,19 +33,19 @@ passives:
 - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/pCqXNHO.jpg
 dtReleased: "2023-06-07"
-dtModified: "2026-04-03"
+dtModified: "2026-06-01"
 fancy_name: Great Betrayer
 aetherPower: defense_up
 lb1:
   power: 741
   attack: 706
   defense: 766
-  health: 1390
+  health: 1389
 lb2:
   power: 845
   attack: 819
   defense: 888
-  health: 1611
+  health: 1612
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -80,17 +80,17 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/ER0xDRX.jpg
   dtReleased: "2025-02-03"
-  dtModified: "2026-04-03"
+  dtModified: "2026-06-01"
   fancy_name: Jagged Butcher
   aetherPower: rage
   lb1:
-    power: 758
-    attack: 798
-    defense: 711
-    health: 1397
+    power: 757
+    attack: 797
+    defense: 709
+    health: 1396
   lb2:
-    power: 866
+    power: 865
     attack: 925
-    defense: 824
-    health: 1620
+    defense: 823
+    health: 1619
 ...

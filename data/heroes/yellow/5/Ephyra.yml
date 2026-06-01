@@ -37,13 +37,13 @@ aetherPower: dodge
 lb1:
   power: 996
   attack: 976
-  defense: 992
+  defense: 991
   health: 1804
 lb2:
   power: 1122
   attack: 1117
-  defense: 1135
-  health: 2065
+  defense: 1134
+  health: 2064
 costume:
   design: costume1
   bonuses: 28/28/28/5
@@ -80,13 +80,13 @@ costume:
   fancy_name: Princess of the Reef
   aetherPower: ailment_immunity
   lb1:
-    power: 1242
-    attack: 1227
-    defense: 1290
-    health: 2335
+    power: 1241
+    attack: 1225
+    defense: 1289
+    health: 2336
   lb2:
-    power: 1403
-    attack: 1404
-    defense: 1476
+    power: 1402
+    attack: 1402
+    defense: 1475
     health: 2672
 ...

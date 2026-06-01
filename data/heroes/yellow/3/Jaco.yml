@@ -31,14 +31,14 @@ dtModified: "2026-04-03"
 fancy_name: Dodgy Merchant of the Deep
 aetherPower: defense_up
 lb1:
-  power: 543
-  attack: 579
-  defense: 535
-  health: 898
+  power: 542
+  attack: 578
+  defense: 534
+  health: 897
 lb2:
   power: 655
-  attack: 715
-  defense: 662
+  attack: 714
+  defense: 661
   health: 1109
 costume:
   design: costume1
@@ -72,13 +72,13 @@ costume:
   fancy_name: Dodgy Alchemist of the Deep
   aetherPower: special_armor
   lb1:
-    power: 555
-    attack: 510
+    power: 554
+    attack: 508
     defense: 638
-    health: 954
+    health: 953
   lb2:
-    power: 671
-    attack: 630
-    defense: 789
-    health: 1179
+    power: 670
+    attack: 629
+    defense: 788
+    health: 1178
 ...
