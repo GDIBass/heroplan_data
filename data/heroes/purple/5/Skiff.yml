@@ -1,0 +1,43 @@
+---
+name: Skiff
+source: beachparty
+family: beachparty
+speed: Very Fast
+class: Rogue
+power: 1330
+attack: 1369
+defense: 1409
+health: 2369
+skill: Kite Driving
+effects:
+- All allies get +45% chance to dodge Special Skills for 2 turns. Each dodge gives
+  10% mana to the ally.
+- All allies are immune to new status ailments for 2 turns.
+- All allies are immune to buff dispels and reallocations for 2 turns. (This immunity
+  also includes this effect itself. Also includes Ransack.)
+types:
+- Dodge Chance Buff All
+- Mana Boost on dodge
+- Debuff Immunity All
+- Buff Dispel Immunity All
+passives:
+- 'Damage over time on Special: When this character casts their Special Skill, all
+  enemies receive 328 Water damage over 2 turns.'
+- 'Empowered Resist Water: This character is immune to status ailments that deal Water
+  damage and gains 450 boosted health and 5% mana each time they resist.'
+image: https://imgur.com/eUyQ3OH.jpg
+dtReleased: "2026-06-01"
+dtModified: ""
+fancy_name: Party-Kite Goblin
+aetherPower: special_armor
+lb1:
+  power: 1423
+  attack: 1475
+  defense: 1518
+  health: 2553
+lb2:
+  power: 1611
+  attack: 1688
+  defense: 1737
+  health: 2922
+...

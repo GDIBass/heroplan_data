@@ -37,4 +37,43 @@ lb2:
   attack: 734
   defense: 686
   health: 1013
+costume:
+  design: costume1
+  bonuses: 13/14/14/5
+  class: Monk
+  power: 544
+  attack: 594
+  defense: 559
+  health: 819
+  skill: Tattoo Ink Blast
+  effects:
+  - Deals 300% damage to the target.
+  - The target gets -35% defense for 4 turns. The effect duration resets if the target
+    is healed.
+  - The target gets -45% decrease of any healing for 4 turns. The effect duration
+    is reset if the target is healed.
+  types:
+  - Hit 1
+  - Defense Debuff 1
+  - Healing Debuff 1
+  passives:
+  - 'Damage over time on Special: When this character casts their Special Skill, all
+    enemies receive 142 Water damage over 2 turns.'
+  - 'Empowered Resist Water: This character is immune to status ailments that deal
+    Water damage and gains 450 boosted health and 5% mana each time they resist.'
+  image: https://imgur.com/z3TujbT.jpg
+  dtReleased: "2026-06-01"
+  dtModified: ""
+  fancy_name: Overly Tattooed Dwarf
+  aetherPower: special_boost
+  lb1:
+    power: 607
+    attack: 673
+    defense: 633
+    health: 928
+  lb2:
+    power: 736
+    attack: 832
+    defense: 783
+    health: 1147
 ...

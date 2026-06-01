@@ -38,4 +38,45 @@ lb2:
   attack: 1087
   defense: 1041
   health: 1813
+costume:
+  design: costume1
+  bonuses: 60/61/61/5
+  class: Fighter
+  power: 1330
+  attack: 1416
+  defense: 1355
+  health: 2363
+  skill: Seastar Decoy
+  effects:
+  - Boosts health of all allies by 500. Boosted health can exceed max HP.
+  - Reduces the max health of all enemies by 500. This effect is stronger against
+    targets with boosted health. (Max health can't get lower than 30% of the original
+    max health. Any boosted health is reduced by an additional 500.)
+  - Deals 275% damage to all enemies.
+  - All enemies get -75% decrease of any healing received for 3 turns.
+  types:
+  - Boosted Heal All
+  - Max Health Reduction All
+  - Hit All
+  - Healing Debuff All
+  passives:
+  - 'Damage over time on Special: When this character casts their Special Skill, all
+    enemies receive 338 Water damage over 2 turns.'
+  - 'Empowered Resist Water: This character is immune to status ailments that deal
+    Water damage and gains 450 boosted health and 5% mana each time they resist.'
+  image: https://imgur.com/OGUfptj.jpg
+  dtReleased: "2026-06-01"
+  dtModified: ""
+  fancy_name: Stealthy Beach Gnome
+  aetherPower: special_armor
+  lb1:
+    power: 1424
+    attack: 1526
+    defense: 1460
+    health: 2547
+  lb2:
+    power: 1612
+    attack: 1747
+    defense: 1671
+    health: 2915
 ...

@@ -41,13 +41,13 @@ dtModified: ""
 fancy_name: Faithful Kunoichi
 aetherPower: counterattack
 lb1:
-  power: 1193
+  power: 1192
   attack: 1198
   defense: 1398
-  health: 1838
+  health: 1837
 lb2:
-  power: 1347
+  power: 1346
   attack: 1371
-  defense: 1600
+  defense: 1599
   health: 2103
 ...
