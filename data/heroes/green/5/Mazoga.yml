@@ -16,19 +16,19 @@ effects:
 - Deals extra damage against Ice.
 types:
 - Hit 3
-- Defense debuff
+- Defense Debuff 3
 passives:
-- 'Resist Water Damage: This character has innate resistance against Water Damage.'
 - 'Damage over time on Special: When this character casts their Special Skill, all
   enemies receive 254 Water damage over 2 turns.'
+- 'Resist Water: This character is immune to status ailments that deal Water damage.'
 image: https://i.imgur.com/1FUEzbL.jpg
 dtReleased: "2024-06-03"
-dtModified: ""
+dtModified: "2026-06-01"
 fancy_name: Orc Water Gunner
 aetherPower: attack_up
 lb1:
-  power: 1087
-  attack: 1147
+  power: 1088
+  attack: 1148
   defense: 1041
   health: 1929
 lb2:

@@ -22,7 +22,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/jUayUm6.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-06-01"
 fancy_name: King of Sand Empire
 aetherPower: mana_boost
 lb1:
@@ -37,17 +37,18 @@ lb2:
   health: 1772
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Paladin
-  power: 913
-  attack: 780
-  defense: 954
-  health: 1776
+  power: 941
+  attack: 800
+  defense: 993
+  health: 1847
   skill: Wipeout
   effects:
   - Deals 215% damage to all enemies.
-  - All enemies receive 815 Sand damage over 5 turns.
-  - All allies get +33% mana generation for 5 turns.
+  - All enemies receive 835 Sand damage over 5 turns.
+  - All allies get +33% mana generation for 5 turns. (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)
   - Cleanses status ailments from all allies.
   types:
   - Hit All
@@ -56,17 +57,17 @@ costume:
   - Cleanser All
   image: https://i.imgur.com/vpqf6zq.jpg
   dtReleased: "2021-06-21"
-  dtModified: ""
+  dtModified: "2026-06-01"
   fancy_name: King of Lifeguards
   aetherPower: boosted_regen
   lb1:
     power: 1005
-    attack: 863
-    defense: 1071
+    attack: 862
+    defense: 1070
     health: 1991
   lb2:
-    power: 1132
-    attack: 987
-    defense: 1225
+    power: 1131
+    attack: 986
+    defense: 1224
     health: 2278
 ...

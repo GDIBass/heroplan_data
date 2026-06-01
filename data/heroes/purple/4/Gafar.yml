@@ -14,7 +14,8 @@ effects:
 - The target receives 228 damage over 4 turns.
 - The target gets -100% increase for any healing received for 2 turns. This effect
   can't be cleansed.
-- Dispels status ailments from the caster.
+- Cleanses status ailments from the caster.
+- ""
 types:
 - Hit 1
 - DoT 1
@@ -22,7 +23,7 @@ types:
 - Clean Self
 image: https://i.imgur.com/xyMaVfi.jpg
 dtReleased: ""
-dtModified: "2026-05-04"
+dtModified: "2026-06-01"
 fancy_name: Vizier of Sand Empire
 aetherPower: attack_up
 lb1:
