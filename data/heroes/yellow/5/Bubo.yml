@@ -1,0 +1,43 @@
+---
+name: Bubo
+source: beachparty
+family: beachparty
+speed: Slow
+class: Cleric
+power: 1330
+attack: 1318
+defense: 1421
+health: 2472
+skill: Terrycloth Shake-Off
+effects:
+- Destroys all Fiends from all allies and damages all Mega Fiends.
+- Cleanses status ailments from all allies.
+- Boosts heath of all allies by 1550. Boosted health can exceed max HP.
+- 'Growth: All allies get 400 attack and 400 defense.'
+types:
+- Fiend Destroyer All
+- Cleanser All
+- Boosted Heal All
+- Attack Growth All
+- Defense Growth All
+passives:
+- 'Damage over time on Special: When this character casts their Special Skill, all
+  enemies receive 316 Water damage over 2 turns.'
+- 'Empowered Resist Water: This character is immune to status ailments that deal Water
+  damage and gains 450 boosted health and 5% mana each time they resist.'
+image: https://imgur.com/gSTmQnR.jpg
+dtReleased: "2026-06-01"
+dtModified: ""
+fancy_name: Bathing Owl of Grizzly Reef
+aetherPower: boosted_regen
+lb1:
+  power: 1423
+  attack: 1420
+  defense: 1531
+  health: 2664
+lb2:
+  power: 1611
+  attack: 1625
+  defense: 1752
+  health: 3049
+...
