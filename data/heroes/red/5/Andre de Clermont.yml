@@ -33,13 +33,13 @@ dtModified: ""
 fancy_name: The Betrayed Templar
 aetherPower: regen
 lb1:
-  power: 1250
+  power: 1249
   attack: 1329
-  defense: 1363
-  health: 1989
+  defense: 1362
+  health: 1988
 lb2:
   power: 1412
-  attack: 1521
+  attack: 1520
   defense: 1559
   health: 2275
 ...
