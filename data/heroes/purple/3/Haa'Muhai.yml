@@ -1,0 +1,44 @@
+---
+name: Haa'Muhai
+source: sunbay
+family: sunbayshark
+speed: Average
+class: Sorcerer
+power: 544
+attack: 582
+defense: 538
+health: 895
+skill: Scare from Beneath
+effects:
+- Dispels buffs from all enemies.
+- Deals 355% damage to the target.
+- 'The target receives 660 Surge Water damage over 6 turns. (If a target already has
+  this effect, the duration will be refreshed and the damage will be increased by
+  300. Max total damage: 1260.)'
+types:
+- Dispeler All
+- Hit 1
+- DoT 1
+passives:
+- 'Shark''s Might: This character''s Special Skill, Minions and Mega Minions deal
+  increased damage against enemies with any ailment that deals Water damage.'
+- ' * Damage increased for Special Skills 30%.'
+- ' * Damage increased for Minions and Mega Minions 50%.'
+- 'Empowered Resist Water: This character is immune to status ailments that deal Water
+  damage and gains 450 boosted health and 5% mana each time they resist.'
+image: https://imgur.com/lKB3QGC.jpg
+dtReleased: "2026-06-01"
+dtModified: ""
+fancy_name: The Mysterious Masked Shark
+aetherPower: regen
+lb1:
+  power: 608
+  attack: 659
+  defense: 609
+  health: 1014
+lb2:
+  power: 736
+  attack: 815
+  defense: 753
+  health: 1254
+...
