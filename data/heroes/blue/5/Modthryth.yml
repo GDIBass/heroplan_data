@@ -29,7 +29,7 @@ types:
 passives:
 - 'Mana on Buff Received: This character gains 5% mana when they receive a buff or
   positive stack.'
-- 'Empowered Resist Mana Reduction: This character is immune to mana reduction. They
+- 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
   also gain 600 boosted health and 10% mana each time they resist.'
 - 'Resist Buff Immunity: This character has innate resistance against ailments that
   give immunity to new buffs.'

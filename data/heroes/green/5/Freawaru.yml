@@ -27,7 +27,7 @@ types:
 passives:
 - 'Mana Per Enemy Buff: Gains a small amount of mana for every active status effect
   buff that the enemy team has at the start of each turn (maximum of 20 buffs).'
-- 'Empowered Resist Mana Reduction: This character is immune to mana reduction. They
+- 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
   also gain 600 boosted health and 10% mana each time they resist.'
 - 'Resist Buff Blocking: This character is immune to effects that would block them
   from receiving new status effect buffs.'

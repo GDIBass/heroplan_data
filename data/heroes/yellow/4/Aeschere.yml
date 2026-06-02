@@ -23,7 +23,7 @@ types:
 - Source of Buffs Random 1 each turn
 - HoT All
 passives:
-- 'Empowered Resist Mana Reduction: This character is immune to mana reduction. They
+- 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
   also gain 600 boosted health and 10% mana each time they resist.'
 - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
   a status ailment or a negative stack.'
