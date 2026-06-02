@@ -60,7 +60,7 @@ costume:
   - Hit 1
   - Replicator Minion Summoner Self
   passives:
-  - 'Resist mana reduction: This character is immune to mana reduction.'
+  - 'Resist Mana Reduction: This character is immune to mana reductions.'
   - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
     the newest status ailment from all allies.'
   image: https://i.imgur.com/qNMuMVA.jpg
