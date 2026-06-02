@@ -22,7 +22,7 @@ types:
 - Replicator Minion Summoner Self
 - Dispeller 3
 passives:
-- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
 image: https://i.imgur.com/FioNeBy.jpg
 dtReleased: "2019-07-01"
 dtModified: ""

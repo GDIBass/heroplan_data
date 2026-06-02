@@ -20,7 +20,7 @@ types:
 - Sword Guard Mega Minion
 - Spreading DoT Minion
 passives:
-- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Guard Rally: Every 4 turns, removes all Growth effects from all enemies.'
 image: https://imgur.com/6fcJPYy.jpg
 dtReleased: "2025-04-11"

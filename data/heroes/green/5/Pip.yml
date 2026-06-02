@@ -20,7 +20,7 @@ types:
 - DoT on hit
 - Increased Bleed DoT on hit
 passives:
-- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/ExQF65A.jpg
 dtReleased: "2024-09-01"
