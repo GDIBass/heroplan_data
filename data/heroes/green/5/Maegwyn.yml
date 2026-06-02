@@ -19,7 +19,7 @@ types:
 - Boosted HoT
 - Damage Reduction All
 passives:
-- 'Destroy Fiends on Special: When this character casts their Special Skill, all fiends
+- 'Destroy Fiends on Special: When this character casts their Special Skill, all Fiends
   are destroyed from them.'
 - 'Superior Resist Negative Minion Effects: This character is immune to incoming negative
   effects and damage from Minions and Mega Minions.'
