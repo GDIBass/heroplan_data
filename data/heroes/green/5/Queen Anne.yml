@@ -31,12 +31,12 @@ fancy_name: Elegant Monarch
 aetherPower: taunt
 lb1:
   power: 935
-  attack: 799
-  defense: 994
-  health: 1807
+  attack: 798
+  defense: 993
+  health: 1806
 lb2:
   power: 1052
-  attack: 914
+  attack: 913
   defense: 1137
   health: 2067
 ...

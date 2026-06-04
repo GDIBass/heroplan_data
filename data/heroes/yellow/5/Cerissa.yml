@@ -10,7 +10,15 @@ defense: 1351
 health: 2350
 skill: Spell of Camaraderie
 effects:
-- 'If the caster has 60 or more Humility:'
+- 'Less than 60 Humility:'
+- Boosts health of the caster and nearby allies by 1200. Boosted health can exceed
+  max HP.
+- 'Stack (Max: 10): All damage the caster and nearby allies receive is reduced by
+  -5%.'
+- For the next 4 turns, this character recovers 650 boosted health to the caster and
+  nearby allies each time any other ally casts their Special Skill. (Each character
+  can trigger this effect once per turn.)
+- '60 or more Humility:'
 - Boosts health of the caster and nearby allies by 1550. Boosted health can exceed
   max HP.
 - 'Stack +2(Max: 10): All damage the caster and nearby allies receive is reduced by
@@ -21,14 +29,6 @@ effects:
 - The caster and nearby allies get +35% mana generation for 4 turns. (Affects only
   mana generated from matching tiles or mana gained by the defense team at the end
   of their turn.)
-- 'Otherwise:'
-- Boosts health of the caster and nearby allies by 1200. Boosted health can exceed
-  max HP.
-- 'Stack (Max: 10): All damage the caster and nearby allies receive is reduced by
-  -5%.'
-- For the next 4 turns, this character recovers 650 boosted health to the caster and
-  nearby allies each time any other ally casts their Special Skill. (Each character
-  can trigger this effect once per turn.)
 types:
 - Humility
 - Boosted Heal 3
@@ -44,7 +44,7 @@ passives:
   or from a negative stack, they will recover that much health instead.'
 image: https://imgur.com/tJa3U9O.jpg
 dtReleased: "2026-02-20"
-dtModified: "2026-04-28"
+dtModified: "2026-06-04"
 fancy_name: Gracious Fairy of the Bewitched Castle
 aetherPower: heal_increase
 lb1:

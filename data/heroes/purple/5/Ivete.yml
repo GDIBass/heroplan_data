@@ -10,21 +10,22 @@ defense: 1355
 health: 2364
 skill: Bewitching Blast
 effects:
-- 'If the caster has 40 or more Humility:'
+- 'Less than 40 Humility:'
+- Deals 485% damage to all enemies.
+- After 1 turn all enemies get Paralyzed for 2 turns.
+- (Paralyzed enemies can't attack or gain mana and receive +50% increased damage.
+  Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are
+  not affected by this status effect.)
+- All enemies receive 755 Poison damage over 5 turns.
+- '40 or more Humility:'
 - Deals 550% damage to all enemies.
 - After 1 turn all enemies get Paralyzed for 2 turns. (Paralyzed enemies can't attack
   or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't
   be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
 - All enemies receive 755 Poison damage over 5 turns.
-- All enemies receive 749 Curse damage over 6 turns, starting low and increasing every
-  turn.
-- 'Otherwise:'
-- Deals 485% damage to all enemies.
-- After 1 turn the target and nearby enemies get Paralyzed for 2 turns.
-- (Paralyzed enemies can't attack or gain mana and receive +50% increased damage.
-  Once Paralyzed, the effect can't be cleansed. Bosses, Titans and Mythic Titans are
-  not affected by this status effect.)
-- All enemies receive 755 Poison damage over 5 turns.
+- All enemies receive 75-188 increasing Curse damage each turn for 6 turns. (On the
+  first turn, 75 damage is dealt. The damage increases by +20% each turn, up to 188
+  damage per turn.)
 types:
 - Hit All
 - Delayed Paralyze All
@@ -39,7 +40,7 @@ passives:
   or from a negative stack, they will recover that much health instead.'
 image: https://imgur.com/qtnsAeQ.jpg
 dtReleased: "2026-04-16"
-dtModified: "2026-05-10"
+dtModified: "2026-06-04"
 fancy_name: Jealous Fairy of the Bewitched Castle
 aetherPower: counterattack
 lb1:

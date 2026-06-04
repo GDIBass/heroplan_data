@@ -10,14 +10,14 @@ defense: 1289
 health: 2321
 skill: Righteous Revenge
 effects:
-- 'If the caster has 40 or more Humility:'
+- 'Less than 40 Humility:'
+- Deals 415% damage to the target and nearby enemies.
+- The target and nearby enemies receive 1060 Bleed damage over 4 turns.
+- '40 or more Humility:'
 - Deals 460% damage to the target and nearby enemies.
 - The target and nearby enemies receive 1260 Bleed damage over 4 turns.
 - The caster and nearby allies counterattack with 150% of the damage received for
   4 turns.
-- 'Otherwise:'
-- Deals 415% damage to the target and nearby enemies.
-- The target and nearby enemies receive 1060 Bleed damage over 4 turns.
 types:
 - Humility
 - Hit 3
@@ -33,7 +33,7 @@ passives:
   they will recover that much health instead.'
 image: https://imgur.com/q6O7NPM.jpg
 dtReleased: "2025-12-19"
-dtModified: "2026-04-28"
+dtModified: "2026-06-04"
 fancy_name: The Faithful Protector
 aetherPower: regen
 lb1:

@@ -10,24 +10,24 @@ defense: 1301
 health: 2319
 skill: Dinner with the Beast
 effects:
-- 'If the caster has 40 or more Humility:'
+- 'Less than 40 Humility:'
+- ' * Deals 440% damage to 5 random enemies.'
+- ' * All hit targets get -45% defense against Dark for 4 turns.'
+- ' * The caster regenerates 1100 boosted health over 4 turns. Boosted health can
+  exceed max HP.'
+- '40 or more Humility:'
 - ' * Deals 470% damage to 6 random enemies.'
 - ' * All hit targets get -54% defense against Dark for 4 turns.'
 - ' * Enemies hit automatically cast Mindless Attack on a random ally when mana is
   full at the start of a turn during 4 turns.'
 - ' * The caster regenerates 1300 boosted health over 4 turns. Boosted health can
   exceed max HP.'
-- 'Otherwise:'
-- ' * Deals 440% damage to 5 random enemies.'
-- ' * All hit targets get -45% defense against Dark for 4 turns.'
-- ' * The caster regenerates 1100 boosted health over 4 turns. Boosted health can
-  exceed max HP.'
 types:
 - Humility
-- Hit random 6 or 5
+- Hit random 5/6
 - Elemental Defense Debuff on hit
-- Mindless Attack on hit
 - Self Boosted HoT
+- Mindless Attack on hit
 passives:
 - 'Revival Health Reduction: All enemies have -80% health when revived. Boss enemies
   are not affected.'
@@ -38,7 +38,7 @@ passives:
   they will recover that much health instead.'
 image: https://imgur.com/ILZDSqW.jpg
 dtReleased: "2025-11-12"
-dtModified: "2026-04-28"
+dtModified: "2026-06-04"
 fancy_name: Lonely Prince of the Bewitched Castle
 aetherPower: rage
 lb1:
