@@ -41,7 +41,7 @@ fancy_name: Primordial God of the Depths
 aetherPower: taunt
 lb1:
   power: 966
-  attack: 994
+  attack: 993
   defense: 890
   health: 1749
 lb2:
@@ -90,13 +90,13 @@ costume:
   fancy_name: Warrior God of the Depths
   aetherPower: revive
   lb1:
-    power: 1202
-    attack: 1295
-    defense: 1133
-    health: 2196
+    power: 1201
+    attack: 1294
+    defense: 1131
+    health: 2195
   lb2:
-    power: 1358
-    attack: 1482
-    defense: 1297
-    health: 2513
+    power: 1357
+    attack: 1481
+    defense: 1295
+    health: 2512
 ...

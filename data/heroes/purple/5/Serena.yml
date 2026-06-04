@@ -23,14 +23,15 @@ effects:
   already have the maximum amount of Fiends or Minions.)
 types:
 - Hit 1
-- Spreading Fiend 1
+- Cloning Fiend Summoner 1
+- Blind Debuff Fiend
 passives:
 - 'Damage over time on Special: When this character casts their Special Skill, all
-  enemies receive 278 Water damage over 2 turns.'
-- 'Resist Water Damage: This character has innate resistance against Water Damage.'
+  enemies receive 280 Water damage over 2 turns.'
+- 'Resist Water: This character is immune to status ailments that deal Water damage.'
 image: https://imgur.com/ebdt5jw.jpg
 dtReleased: "2025-06-03"
-dtModified: ""
+dtModified: "2026-06-01"
 fancy_name: Shoreside Socialite
 aetherPower: counterattack
 lb1:
@@ -39,8 +40,8 @@ lb1:
   defense: 1309
   health: 2470
 lb2:
-  power: 1446
-  attack: 1447
+  power: 1447
+  attack: 1448
   defense: 1498
   health: 2827
 ...

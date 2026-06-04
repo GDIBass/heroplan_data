@@ -24,7 +24,7 @@ types:
 - Shield Guard Mega Minion
 - Safely Clean all allies Minion
 passives:
-- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/aJDM9qb.jpg
 dtReleased: "2025-02-14"

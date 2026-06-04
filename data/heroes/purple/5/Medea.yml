@@ -46,7 +46,7 @@ lb1:
   health: 1862
 lb2:
   power: 1202
-  attack: 1231
+  attack: 1232
   defense: 1244
   health: 2131
 costume:
@@ -90,13 +90,13 @@ costume:
   fancy_name: Naga Goddess of the Deep
   aetherPower: special_boost
   lb1:
-    power: 1332
-    attack: 1415
-    defense: 1363
-    health: 2358
+    power: 1331
+    attack: 1414
+    defense: 1362
+    health: 2357
   lb2:
-    power: 1506
-    attack: 1619
-    defense: 1560
-    health: 2698
+    power: 1505
+    attack: 1618
+    defense: 1559
+    health: 2697
 ...

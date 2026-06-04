@@ -39,7 +39,7 @@ fancy_name: Temple Keeper of the Deep
 aetherPower: damage_reduction
 lb1:
   power: 1016
-  attack: 1063
+  attack: 1062
   defense: 956
   health: 1798
 lb2:
@@ -88,11 +88,11 @@ costume:
   lb1:
     power: 1266
     attack: 1386
-    defense: 1201
-    health: 2290
+    defense: 1200
+    health: 2289
   lb2:
     power: 1431
     attack: 1586
-    defense: 1375
-    health: 2620
+    defense: 1374
+    health: 2619
 ...

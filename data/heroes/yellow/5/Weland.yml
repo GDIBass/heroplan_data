@@ -25,7 +25,7 @@ types:
 - Source of Buffs Random 1
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never mises its target.'
-- 'Empowered Resist Mana Reduction: This character is immune to mana reduction. They
+- 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
   also gain 600 boosted health and 10% mana each time they resist.'
 - 'Stacking Attack On Damage Received: When this character receives damage from Special
   Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.'

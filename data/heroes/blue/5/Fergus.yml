@@ -26,7 +26,7 @@ types:
 passives:
 - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
   a status ailment or negative stack.'
-- 'Resist mana reduction: This character is immune to mana reduction.'
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Guard Rally: Every 4 turns, removes all Growth effects from all enemies.'
 image: https://i.imgur.com/kA2zCy1.jpg
 dtReleased: "2024-12-09"

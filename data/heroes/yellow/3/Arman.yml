@@ -26,13 +26,13 @@ dtModified: "2026-03-20"
 fancy_name: Soldier of Sand Empire
 aetherPower: rage
 lb1:
-  power: 500
-  attack: 541
-  defense: 474
-  health: 807
+  power: 499
+  attack: 540
+  defense: 473
+  health: 806
 lb2:
   power: 602
-  attack: 669
-  defense: 586
+  attack: 668
+  defense: 585
   health: 997
 ...

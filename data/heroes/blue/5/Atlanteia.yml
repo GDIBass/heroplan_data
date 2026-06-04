@@ -85,13 +85,13 @@ costume:
   fancy_name: Glacial Siren of the Deep
   aetherPower: damage_reduction
   lb1:
-    power: 1332
-    attack: 1432
+    power: 1331
+    attack: 1431
     defense: 1480
-    health: 2082
+    health: 2081
   lb2:
     power: 1505
     attack: 1638
     defense: 1693
-    health: 2383
+    health: 2381
 ...

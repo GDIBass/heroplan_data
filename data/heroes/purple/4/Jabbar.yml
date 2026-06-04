@@ -14,7 +14,7 @@ effects:
 - The target and nearby enemies receive 172 damage over 4 turns.
 - The target and nearby enemies get -75% increase for any healing received for 2 turns.
   This effect can't be cleansed.
-- Dispels status ailments from the caster.
+- Cleanses status ailments from the caster.
 types:
 - Hit 3
 - DoT 3
@@ -22,7 +22,7 @@ types:
 - Clean Self
 image: https://i.imgur.com/3RqMEeN.jpg
 dtReleased: ""
-dtModified: "2026-05-04"
+dtModified: "2026-06-01"
 fancy_name: Brute of Sand Empire
 aetherPower: counterattack
 lb1:

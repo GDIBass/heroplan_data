@@ -38,8 +38,8 @@ fancy_name: Naga Berserker
 aetherPower: fiend_resist
 lb1:
   power: 1065
-  attack: 1050
-  defense: 1147
+  attack: 1049
+  defense: 1148
   health: 1802
 lb2:
   power: 1201
@@ -84,13 +84,13 @@ costume:
   fancy_name: Naga Guard
   aetherPower: ailment_immunity
   lb1:
-    power: 1334
+    power: 1333
     attack: 1292
     defense: 1528
-    health: 2350
+    health: 2348
   lb2:
     power: 1508
-    attack: 1479
+    attack: 1478
     defense: 1749
-    health: 2688
+    health: 2687
 ...

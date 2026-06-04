@@ -17,16 +17,16 @@ effects:
 - All allies get +20% mana generation for 4 turns. (Affects only mana generated from
   matching tiles or mana gained by the defense team at the end of their turn.
 types:
-- HoT
-- Defense buff
-- Mana generation buff
+- Boosted HoT All
+- Defense Buff All
+- Mana Generation Buff All
 passives:
 - 'Damage over time on Special: When this character casts their Special Skill, all
   enemies receive 238 Water damage over 2 turns.'
-- 'Resist Water Damage: This character has innate resistance against Water Damage.'
+- 'Resist Water: This character is immune to status ailments that deal Water damage.'
 image: https://i.imgur.com/CndsCrE.jpg
 dtReleased: "2024-06-03"
-dtModified: ""
+dtModified: "2026-06-01"
 fancy_name: Shark in Training
 aetherPower: defense_up
 lb1:
@@ -36,7 +36,7 @@ lb1:
   health: 2066
 lb2:
   power: 1224
-  attack: 1231
+  attack: 1232
   defense: 1206
   health: 2364
 ...

@@ -22,7 +22,7 @@ types:
 - Self Clean
 image: https://i.imgur.com/XCRwmmP.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-06-01"
 fancy_name: Queen of Sand Empire
 aetherPower: counterattack
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1686
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Cleric
   power: 944
   attack: 931
@@ -57,17 +57,17 @@ costume:
   - Cleanser 3
   image: https://i.imgur.com/ETB8w9H.jpg
   dtReleased: "2021-06-21"
-  dtModified: "2026-03-20"
+  dtModified: "2026-06-01"
   fancy_name: Surfer Queen
   aetherPower: defense_up
   lb1:
-    power: 1008
-    attack: 1004
-    defense: 979
+    power: 1007
+    attack: 1003
+    defense: 978
     health: 1841
   lb2:
-    power: 1135
-    attack: 1149
-    defense: 1120
+    power: 1134
+    attack: 1148
+    defense: 1119
     health: 2106
 ...

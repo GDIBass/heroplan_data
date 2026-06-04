@@ -39,9 +39,9 @@ lb1:
   health: 1804
 lb2:
   power: 1144
-  attack: 1104
+  attack: 1105
   defense: 1229
-  health: 2065
+  health: 2064
 costume:
   design: costume1
   bonuses: 28/28/28/5
@@ -76,13 +76,13 @@ costume:
   fancy_name: Primordial Goddess of the Crystals
   aetherPower: regen
   lb1:
-    power: 1267
-    attack: 1295
-    defense: 1321
-    health: 2281
+    power: 1266
+    attack: 1294
+    defense: 1319
+    health: 2282
   lb2:
-    power: 1432
-    attack: 1482
-    defense: 1511
-    health: 2610
+    power: 1431
+    attack: 1481
+    defense: 1509
+    health: 2611
 ...
