@@ -27,7 +27,7 @@ lb1:
   health: 1438
 lb2:
   power: 901
-  attack: 977
+  attack: 978
   defense: 728
   health: 1645
 costume:
@@ -51,15 +51,15 @@ costume:
   fancy_name: Monolith of Ice
   aetherPower: special_boost
   lb1:
-    power: 906
-    attack: 862
-    defense: 850
-    health: 1726
+    power: 847
+    attack: 800
+    defense: 789
+    health: 1581
   lb2:
-    power: 1019
-    attack: 987
-    defense: 972
-    health: 1975
+    power: 951
+    attack: 916
+    defense: 902
+    health: 1809
 costume2:
   design: costume2
   bonuses: 25/25/25/5
@@ -81,15 +81,15 @@ costume2:
   fancy_name: Ancient of the Underworld
   aetherPower: rage
   lb1:
-    power: 1030
-    attack: 1030
-    defense: 893
-    health: 2109
+    power: 914
+    attack: 918
+    defense: 795
+    health: 1757
   lb2:
-    power: 1161
-    attack: 1179
-    defense: 1022
-    health: 2414
+    power: 1028
+    attack: 1050
+    defense: 910
+    health: 2010
 costume3:
   design: toon
   bonuses: 55/55/70/5
@@ -115,15 +115,15 @@ costume3:
   fancy_name: Toon of Ice
   aetherPower: attack_up
   lb1:
-    power: 1208
-    attack: 1269
-    defense: 1042
-    health: 2483
+    power: 1184
+    attack: 1228
+    defense: 1009
+    health: 2482
   lb2:
-    power: 1364
-    attack: 1452
-    defense: 1192
-    health: 2841
+    power: 1337
+    attack: 1406
+    defense: 1154
+    health: 2840
 costume4:
   design: glass
   bonuses: 75/75/78/5
@@ -152,7 +152,7 @@ costume4:
     power: 1322
     attack: 1456
     defense: 1165
-    health: 2584
+    health: 2583
   lb2:
     power: 1495
     attack: 1666

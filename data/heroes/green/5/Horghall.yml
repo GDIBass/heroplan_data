@@ -17,18 +17,18 @@ types:
 - Attack Debuff All
 image: https://i.imgur.com/6787feX.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Ancient of the Woods
 aetherPower: defense_up
 lb1:
-  power: 802
+  power: 801
   attack: 708
-  defense: 701
+  defense: 700
   health: 1665
 lb2:
   power: 899
   attack: 810
-  defense: 802
+  defense: 801
   health: 1905
 costume:
   design: costume1
@@ -47,19 +47,19 @@ costume:
   - Attack Debuff All
   image: https://i.imgur.com/AffGFoZ.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Wooden Jester
   aetherPower: special_armor
   lb1:
-    power: 905
-    attack: 802
-    defense: 805
-    health: 1963
+    power: 846
+    attack: 744
+    defense: 748
+    health: 1799
   lb2:
-    power: 1018
-    attack: 918
-    defense: 921
-    health: 2246
+    power: 951
+    attack: 852
+    defense: 856
+    health: 2058
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -82,19 +82,19 @@ costume2:
   - DoT All
   image: https://i.imgur.com/IfQ1lHo.jpg
   dtReleased: "2022-10-31"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Nightmare of the Woods
   aetherPower: damage_reduction
   lb1:
-    power: 1032
-    attack: 907
-    defense: 953
-    health: 2308
+    power: 971
+    attack: 879
+    defense: 922
+    health: 2002
   lb2:
-    power: 1163
-    attack: 1038
-    defense: 1091
-    health: 2640
+    power: 1093
+    attack: 1006
+    defense: 1055
+    health: 2291
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -116,22 +116,22 @@ costume3:
     dispels.'
   image: https://i.imgur.com/VkOyyRt.jpg
   dtReleased: "2024-07-16"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon of the Woods
   aetherPower: defense_up
   lb1:
-    power: 1211
-    attack: 1015
+    power: 1210
+    attack: 1013
     defense: 1176
-    health: 2868
+    health: 2867
   lb2:
-    power: 1367
-    attack: 1161
-    defense: 1346
-    health: 3281
+    power: 1366
+    attack: 1159
+    defense: 1345
+    health: 3280
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 75/75/78/5
   class: Druid
   power: 1235
   attack: 1085
@@ -150,17 +150,17 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/VFeCPg6.jpg
   dtReleased: "2025-09-07"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Vitrail of the Woods
   aetherPower: defense_up
   lb1:
     power: 1321
     attack: 1169
     defense: 1313
-    health: 2999
+    health: 2998
   lb2:
-    power: 1493
-    attack: 1337
+    power: 1494
+    attack: 1338
     defense: 1502
     health: 3431
 ...

@@ -17,17 +17,17 @@ types:
 - DoT All
 image: https://i.imgur.com/7oZTOqz.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Mage from the Sandsea
 aetherPower: defense_up
 lb1:
-  power: 496
-  attack: 565
+  power: 495
+  attack: 564
   defense: 494
-  health: 679
+  health: 678
 lb2:
   power: 597
-  attack: 698
+  attack: 697
   defense: 610
   health: 839
 costume:
@@ -47,18 +47,18 @@ costume:
   - DoT All
   image: https://i.imgur.com/IPO19rX.jpg
   dtReleased: "2021-01-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Wizard from the Sandsea
   aetherPower: regen
   lb1:
-    power: 528
-    attack: 594
-    defense: 512
+    power: 521
+    attack: 582
+    defense: 502
     health: 799
   lb2:
-    power: 637
-    attack: 734
-    defense: 632
+    power: 628
+    attack: 720
+    defense: 620
     health: 987
 costume2:
   design: toon
@@ -81,19 +81,19 @@ costume2:
     dispels.'
   image: https://i.imgur.com/nGXpTVa.jpg
   dtReleased: "2023-12-25"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Mage from the Toon Sea
   aetherPower: defense_up
   lb1:
     power: 565
     attack: 629
-    defense: 545
-    health: 914
+    defense: 544
+    health: 913
   lb2:
-    power: 684
-    attack: 778
-    defense: 674
-    health: 1130
+    power: 683
+    attack: 777
+    defense: 672
+    health: 1129
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -115,22 +115,22 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/r8eT1gi.jpg
   dtReleased: "2024-12-25"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Nomad from the Glass Sea
   aetherPower: defense_up
   lb1:
-    power: 580
-    attack: 648
-    defense: 557
-    health: 945
+    power: 574
+    attack: 641
+    defense: 551
+    health: 935
   lb2:
-    power: 701
-    attack: 801
-    defense: 689
-    health: 1167
+    power: 695
+    attack: 793
+    defense: 682
+    health: 1156
 costume4:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Sorcerer
   power: 546
   attack: 607
@@ -149,7 +149,7 @@ costume4:
     ones.'
   image: https://imgur.com/7mjgAN4.jpg
   dtReleased: "2026-01-07"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Stylish Mage
   aetherPower: defense_up
   lb1:

@@ -53,15 +53,15 @@ costume:
   fancy_name: Priestess of Moonlight
   aetherPower: special_armor
   lb1:
-    power: 908
-    attack: 810
-    defense: 963
-    health: 1643
+    power: 849
+    attack: 752
+    defense: 894
+    health: 1507
   lb2:
-    power: 1021
-    attack: 927
-    defense: 1102
-    health: 1880
+    power: 953
+    attack: 860
+    defense: 1023
+    health: 1724
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -85,15 +85,15 @@ costume2:
   fancy_name: Moonlit Fairy
   aetherPower: attack_up
   lb1:
-    power: 1032
-    attack: 904
-    defense: 1116
-    health: 1991
+    power: 975
+    attack: 875
+    defense: 1081
+    health: 1728
   lb2:
-    power: 1163
-    attack: 1035
-    defense: 1277
-    health: 2278
+    power: 1098
+    attack: 1001
+    defense: 1237
+    health: 1977
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -119,14 +119,14 @@ costume3:
   fancy_name: Toon Shieldmaster
   aetherPower: defense_up
   lb1:
-    power: 1212
-    attack: 1266
-    defense: 1159
+    power: 1211
+    attack: 1265
+    defense: 1158
     health: 2283
   lb2:
     power: 1368
     attack: 1448
-    defense: 1326
+    defense: 1325
     health: 2612
 costume4:
   design: glass
@@ -154,12 +154,12 @@ costume4:
   aetherPower: defense_up
   lb1:
     power: 1327
-    attack: 1445
+    attack: 1444
     defense: 1297
     health: 2382
   lb2:
     power: 1500
-    attack: 1653
-    defense: 1484
-    health: 2726
+    attack: 1652
+    defense: 1485
+    health: 2725
 ...

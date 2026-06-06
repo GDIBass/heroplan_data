@@ -17,14 +17,14 @@ types:
 - Cleanser All
 image: https://i.imgur.com/epzxGwy.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Noble Cavalier
 aetherPower: defense_up
 lb1:
   power: 693
   attack: 646
   defense: 731
-  health: 1267
+  health: 1266
 lb2:
   power: 790
   attack: 749
@@ -49,19 +49,19 @@ costume:
   - Cleanser All
   image: https://i.imgur.com/9nzkBMP.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Dapper Noble
   aetherPower: special_armor
   lb1:
-    power: 743
-    attack: 701
-    defense: 778
-    health: 1394
+    power: 732
+    attack: 687
+    defense: 762
+    health: 1381
   lb2:
-    power: 848
-    attack: 813
-    defense: 902
-    health: 1616
+    power: 835
+    attack: 797
+    defense: 884
+    health: 1602
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -81,18 +81,18 @@ costume2:
   - Cleanser All
   image: https://i.imgur.com/0dWPfN4.jpg
   dtReleased: "2023-04-17"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Noble Healer
   aetherPower: damage_reduction
   lb1:
-    power: 793
-    attack: 780
-    defense: 878
-    health: 1354
+    power: 792
+    attack: 779
+    defense: 877
+    health: 1353
   lb2:
-    power: 906
-    attack: 905
-    defense: 1019
+    power: 905
+    attack: 903
+    defense: 1018
     health: 1570
 costume3:
   design: toon
@@ -117,22 +117,22 @@ costume3:
     dispels.'
   image: https://i.imgur.com/rCKWMnx.jpg
   dtReleased: "2024-06-28"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon Cavalier
   aetherPower: defense_up
   lb1:
-    power: 807
-    attack: 875
-    defense: 794
-    health: 1385
+    power: 806
+    attack: 873
+    defense: 793
+    health: 1384
   lb2:
-    power: 922
-    attack: 1014
+    power: 921
+    attack: 1013
     defense: 920
-    health: 1606
+    health: 1605
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Cleric
   power: 762
   attack: 834
@@ -153,17 +153,17 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/3o76oi9.jpg
   dtReleased: "2025-07-16"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Glass Cavalier
   aetherPower: defense_up
   lb1:
     power: 820
     attack: 906
-    defense: 829
-    health: 1334
+    defense: 827
+    health: 1333
   lb2:
     power: 938
     attack: 1051
-    defense: 962
+    defense: 960
     health: 1546
 ...

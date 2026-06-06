@@ -17,18 +17,18 @@ types:
 - DoT All
 image: https://i.imgur.com/FkvOQpS.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Relentless Remnant
 aetherPower: mana_boost
 lb1:
   power: 495
   attack: 478
-  defense: 466
-  health: 951
+  defense: 465
+  health: 950
 lb2:
   power: 597
   attack: 591
-  defense: 576
+  defense: 575
   health: 1175
 costume:
   design: costume1
@@ -45,19 +45,19 @@ costume:
   - DoT All
   image: https://i.imgur.com/4wjqw3M.jpg
   dtReleased: "2021-01-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Jester Remnant
   aetherPower: boosted_regen
   lb1:
-    power: 530
-    attack: 478
-    defense: 535
-    health: 1059
+    power: 523
+    attack: 468
+    defense: 524
+    health: 1057
   lb2:
-    power: 640
-    attack: 591
-    defense: 661
-    health: 1309
+    power: 631
+    attack: 578
+    defense: 648
+    health: 1307
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -79,22 +79,22 @@ costume2:
     dispels.'
   image: https://i.imgur.com/z96lxl3.jpg
   dtReleased: "2024-08-11"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Relentless Toon
   aetherPower: mana_boost
   lb1:
-    power: 569
-    attack: 582
-    defense: 530
-    health: 1085
+    power: 567
+    attack: 580
+    defense: 528
+    health: 1083
   lb2:
-    power: 687
-    attack: 719
-    defense: 654
-    health: 1340
+    power: 685
+    attack: 717
+    defense: 652
+    health: 1339
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Fighter
   power: 521
   attack: 536
@@ -104,7 +104,7 @@ costume3:
   effects:
   - Deals 161% damage to all enemies.
   - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - All enemies receive 148 Poison damage over 4 turns.
+  - All enemies receive 152 Poison damage over 4 turns.
   types:
   - Hit All
   - Bypass
@@ -113,17 +113,17 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/BaV6ZoB.jpg
   dtReleased: "2025-09-07"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Relentless Vitrail
   aetherPower: mana_boost
   lb1:
-    power: 583
-    attack: 609
-    defense: 539
-    health: 1102
+    power: 582
+    attack: 607
+    defense: 538
+    health: 1100
   lb2:
-    power: 705
-    attack: 752
-    defense: 666
-    health: 1362
+    power: 704
+    attack: 751
+    defense: 665
+    health: 1360
 ...

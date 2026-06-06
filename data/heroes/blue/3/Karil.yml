@@ -15,18 +15,18 @@ types:
 - Hit 3
 image: https://i.imgur.com/Upbhrq6.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: The Hotblooded
 aetherPower: rage
 lb1:
-  power: 493
-  attack: 549
-  defense: 429
-  health: 831
+  power: 492
+  attack: 548
+  defense: 428
+  health: 830
 lb2:
   power: 594
-  attack: 679
-  defense: 530
+  attack: 678
+  defense: 529
   health: 1027
 costume:
   design: costume1
@@ -45,18 +45,18 @@ costume:
   - DoT 3
   image: https://i.imgur.com/g4KxM6b.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: The Heated
   aetherPower: bulwark
   lb1:
-    power: 526
-    attack: 609
-    defense: 438
-    health: 899
+    power: 519
+    attack: 597
+    defense: 429
+    health: 898
   lb2:
-    power: 635
-    attack: 752
-    defense: 541
+    power: 627
+    attack: 738
+    defense: 531
     health: 1111
 costume2:
   design: toon
@@ -77,22 +77,22 @@ costume2:
     dispels.'
   image: https://i.imgur.com/BviOX1i.jpg
   dtReleased: "2024-06-28"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: The Hotblooded Toon
   aetherPower: rage
   lb1:
-    power: 564
-    attack: 659
-    defense: 471
-    health: 981
+    power: 563
+    attack: 657
+    defense: 470
+    health: 980
   lb2:
-    power: 682
-    attack: 814
-    defense: 582
+    power: 681
+    attack: 812
+    defense: 581
     health: 1212
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Barbarian
   power: 517
   attack: 604
@@ -109,17 +109,17 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/RwxxvuX.jpg
   dtReleased: "2025-08-10"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: The Hotblooded Vitrail
   aetherPower: rage
   lb1:
-    power: 578
-    attack: 685
+    power: 577
+    attack: 684
     defense: 478
-    health: 998
+    health: 997
   lb2:
     power: 699
-    attack: 847
+    attack: 846
     defense: 591
     health: 1233
 ...

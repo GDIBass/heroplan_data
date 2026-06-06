@@ -25,7 +25,7 @@ aetherPower: attack_up
 lb1:
   power: 806
   attack: 781
-  defense: 730
+  defense: 729
   health: 1454
 lb2:
   power: 904
@@ -55,15 +55,15 @@ costume:
   fancy_name: Steampunk Sniper
   aetherPower: special_boost
   lb1:
-    power: 908
-    attack: 903
-    defense: 840
-    health: 1659
+    power: 849
+    attack: 838
+    defense: 780
+    health: 1521
   lb2:
-    power: 1021
-    attack: 1033
-    defense: 961
-    health: 1898
+    power: 954
+    attack: 959
+    defense: 893
+    health: 1740
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -87,15 +87,15 @@ costume2:
   fancy_name: Undead Sniper
   aetherPower: dodge
   lb1:
-    power: 1032
-    attack: 1013
-    defense: 973
-    health: 2007
+    power: 917
+    attack: 903
+    defense: 867
+    health: 1671
   lb2:
-    power: 1164
-    attack: 1159
-    defense: 1114
-    health: 2296
+    power: 1032
+    attack: 1033
+    defense: 992
+    health: 1913
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -123,15 +123,15 @@ costume3:
   fancy_name: Toon Sniper
   aetherPower: attack_up
   lb1:
-    power: 1213
-    attack: 1259
-    defense: 1121
-    health: 2388
+    power: 1188
+    attack: 1217
+    defense: 1084
+    health: 2387
   lb2:
-    power: 1370
-    attack: 1440
-    defense: 1283
-    health: 2733
+    power: 1341
+    attack: 1392
+    defense: 1240
+    health: 2732
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -159,9 +159,9 @@ costume4:
   fancy_name: Glass Sniper
   aetherPower: attack_up
   lb1:
-    power: 1328
+    power: 1327
     attack: 1441
-    defense: 1243
+    defense: 1242
     health: 2505
   lb2:
     power: 1501
@@ -195,13 +195,13 @@ costume5:
   fancy_name: Stylish Sniper
   aetherPower: attack_up
   lb1:
-    power: 1329
-    attack: 1456
-    defense: 1235
-    health: 2492
+    power: 1435
+    attack: 1580
+    defense: 1341
+    health: 2730
   lb2:
-    power: 1502
-    attack: 1666
-    defense: 1413
-    health: 2851
+    power: 1624
+    attack: 1808
+    defense: 1534
+    health: 3124
 ...

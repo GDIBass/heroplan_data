@@ -17,18 +17,18 @@ types:
 - Dispeller All
 image: https://i.imgur.com/jv6lywZ.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Elven Veteran
 aetherPower: special_boost
 lb1:
   power: 691
-  attack: 690
+  attack: 689
   defense: 692
-  health: 1226
+  health: 1225
 lb2:
   power: 788
   attack: 800
-  defense: 803
+  defense: 802
   health: 1421
 costume:
   design: costume1
@@ -47,19 +47,19 @@ costume:
   - Cleanser All
   image: https://i.imgur.com/zrZ4p5y.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Elven Avenger
   aetherPower: special_armor
   lb1:
-    power: 740
-    attack: 743
-    defense: 736
-    health: 1355
+    power: 729
+    attack: 728
+    defense: 721
+    health: 1343
   lb2:
-    power: 845
-    attack: 862
-    defense: 853
-    health: 1571
+    power: 832
+    attack: 844
+    defense: 836
+    health: 1557
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -79,18 +79,18 @@ costume2:
   - Dispels Buffs 3
   image: https://i.imgur.com/0FiXuyI.jpg
   dtReleased: "2022-12-26"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Elven Cavalier
   aetherPower: dodge
   lb1:
-    power: 791
+    power: 790
     attack: 809
-    defense: 783
-    health: 1457
+    defense: 781
+    health: 1456
   lb2:
-    power: 904
-    attack: 938
-    defense: 908
+    power: 903
+    attack: 939
+    defense: 906
     health: 1689
 costume3:
   design: toon
@@ -113,19 +113,19 @@ costume3:
     dispels.'
   image: https://i.imgur.com/DR6bDUS.jpg
   dtReleased: "2024-01-22"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Elven Toon
   aetherPower: special_boost
   lb1:
-    power: 804
-    attack: 826
-    defense: 807
-    health: 1462
+    power: 803
+    attack: 825
+    defense: 806
+    health: 1460
   lb2:
-    power: 919
-    attack: 958
-    defense: 936
-    health: 1695
+    power: 918
+    attack: 957
+    defense: 935
+    health: 1694
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -148,22 +148,22 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/evExc3q.jpg
   dtReleased: "2025-01-14"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Elven Vitrail
   aetherPower: special_boost
   lb1:
     power: 817
-    attack: 843
+    attack: 842
     defense: 818
-    health: 1491
+    health: 1490
   lb2:
     power: 934
-    attack: 977
+    attack: 976
     defense: 949
     health: 1729
 costume5:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 30/30/30/5
   class: Druid
   power: 814
   attack: 850
@@ -182,12 +182,12 @@ costume5:
     ones.'
   image: https://imgur.com/rpOw1wa.jpg
   dtReleased: "2026-01-26"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Stylish Elf
   aetherPower: special_boost
   lb1:
     power: 877
-    attack: 924
+    attack: 923
     defense: 891
     health: 1569
   lb2:

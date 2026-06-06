@@ -22,14 +22,14 @@ fancy_name: Spearmaster of Moonlight
 aetherPower: special_boost
 lb1:
   power: 807
-  attack: 728
+  attack: 727
   defense: 845
-  health: 1365
+  health: 1364
 lb2:
   power: 905
-  attack: 833
+  attack: 832
   defense: 967
-  health: 1562
+  health: 1561
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -52,15 +52,15 @@ costume:
   fancy_name: Moonlit Conqueror
   aetherPower: attack_up
   lb1:
-    power: 909
-    attack: 797
-    defense: 1000
-    health: 1611
+    power: 850
+    attack: 740
+    defense: 929
+    health: 1476
   lb2:
-    power: 1022
-    attack: 912
-    defense: 1145
-    health: 1844
+    power: 955
+    attack: 847
+    defense: 1063
+    health: 1689
 costume2:
   design: costume2
   bonuses: 25/25/25/5
@@ -83,15 +83,15 @@ costume2:
   fancy_name: Moonlit King
   aetherPower: counterattack
   lb1:
-    power: 1034
-    attack: 973
-    defense: 1053
-    health: 1959
+    power: 919
+    attack: 867
+    defense: 938
+    health: 1632
   lb2:
-    power: 1166
-    attack: 1114
-    defense: 1205
-    health: 2242
+    power: 1034
+    attack: 992
+    defense: 1074
+    health: 1867
 costume3:
   design: toon
   bonuses: 55/55/70/5
@@ -117,14 +117,14 @@ costume3:
   fancy_name: Toon Spearmaster
   aetherPower: special_boost
   lb1:
-    power: 1213
-    attack: 1262
-    defense: 1166
+    power: 1189
+    attack: 1222
+    defense: 1128
     health: 2290
   lb2:
-    power: 1370
-    attack: 1444
-    defense: 1334
+    power: 1342
+    attack: 1398
+    defense: 1291
     health: 2621
 costume4:
   design: glass

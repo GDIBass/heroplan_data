@@ -17,7 +17,7 @@ types:
 - Heal Self
 image: https://i.imgur.com/IoRPZNA.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Resolute Warden
 aetherPower: special_boost
 lb1:
@@ -27,8 +27,8 @@ lb1:
   health: 862
 lb2:
   power: 598
-  attack: 579
-  defense: 649
+  attack: 578
+  defense: 650
   health: 1066
 costume:
   design: costume1
@@ -47,18 +47,18 @@ costume:
   - Heal Self
   image: https://i.imgur.com/q3Ddqi6.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Resolute Overseer
   aetherPower: attack_up
   lb1:
-    power: 531
-    attack: 480
-    defense: 539
-    health: 1055
+    power: 524
+    attack: 470
+    defense: 528
+    health: 1054
   lb2:
-    power: 641
-    attack: 593
-    defense: 666
+    power: 633
+    attack: 581
+    defense: 652
     health: 1303
 costume2:
   design: toon
@@ -81,19 +81,19 @@ costume2:
     dispels.'
   image: https://i.imgur.com/6mcArhg.jpg
   dtReleased: "2024-02-12"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Resolute Toon
   aetherPower: special_boost
   lb1:
     power: 570
-    attack: 541
+    attack: 540
     defense: 604
-    health: 1051
+    health: 1050
   lb2:
     power: 689
     attack: 668
-    defense: 747
-    health: 1299
+    defense: 746
+    health: 1298
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -115,22 +115,22 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/SdXnKqi.jpg
   dtReleased: "2025-04-08"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Resolute Vitrail
   aetherPower: special_boost
   lb1:
-    power: 584
-    attack: 576
-    defense: 604
-    health: 1063
+    power: 583
+    attack: 575
+    defense: 602
+    health: 1061
   lb2:
-    power: 707
-    attack: 712
-    defense: 746
-    health: 1314
+    power: 706
+    attack: 711
+    defense: 745
+    health: 1312
 costume4:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Paladin
   power: 550
   attack: 542
@@ -149,7 +149,7 @@ costume4:
     ones.'
   image: https://imgur.com/daab7dm.jpg
   dtReleased: "2026-04-10"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Stylish Warden
   aetherPower: special_boost
   lb1:

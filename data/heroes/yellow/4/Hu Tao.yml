@@ -18,14 +18,14 @@ types:
 - Blind All
 image: https://i.imgur.com/uyASMQ6.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Blade of Bamboo
 aetherPower: defense_up
 lb1:
-  power: 686
+  power: 685
   attack: 655
   defense: 685
-  health: 1286
+  health: 1285
 lb2:
   power: 782
   attack: 760
@@ -52,19 +52,19 @@ costume:
   - Healing Debuff All
   image: https://i.imgur.com/vPJgzTp.jpg
   dtReleased: "2021-01-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Bark of Bamboo
   aetherPower: special_armor
   lb1:
-    power: 736
-    attack: 644
-    defense: 825
-    health: 1391
+    power: 724
+    attack: 631
+    defense: 808
+    health: 1377
   lb2:
-    power: 839
-    attack: 747
-    defense: 956
-    health: 1613
+    power: 827
+    attack: 732
+    defense: 937
+    health: 1598
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -85,19 +85,19 @@ costume2:
   - Mana Gen Debuff All
   image: https://i.imgur.com/3xo1OZT.jpg
   dtReleased: "2023-11-27"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Bamboo Dueller
   aetherPower: regen
   lb1:
-    power: 785
-    attack: 716
-    defense: 868
-    health: 1479
+    power: 784
+    attack: 714
+    defense: 867
+    health: 1477
   lb2:
-    power: 897
-    attack: 831
-    defense: 1006
-    health: 1715
+    power: 896
+    attack: 829
+    defense: 1005
+    health: 1714
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -119,14 +119,14 @@ costume3:
     dispels.'
   image: https://i.imgur.com/J3KLB3K.jpg
   dtReleased: "2024-05-31"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon of Bamboo
   aetherPower: defense_up
   lb1:
-    power: 799
-    attack: 810
+    power: 798
+    attack: 809
     defense: 780
-    health: 1515
+    health: 1514
   lb2:
     power: 913
     attack: 939
@@ -134,7 +134,7 @@ costume3:
     health: 1757
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Fighter
   power: 753
   attack: 813
@@ -153,17 +153,17 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/V32B1dq.jpg
   dtReleased: "2025-06-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Blade of Glass
   aetherPower: defense_up
   lb1:
-    power: 812
-    attack: 884
-    defense: 741
-    health: 1503
+    power: 811
+    attack: 883
+    defense: 739
+    health: 1501
   lb2:
-    power: 928
-    attack: 1025
-    defense: 860
-    health: 1742
+    power: 927
+    attack: 1024
+    defense: 858
+    health: 1741
 ...

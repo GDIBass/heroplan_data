@@ -27,8 +27,8 @@ lb1:
   health: 1425
 lb2:
   power: 904
-  attack: 977
-  defense: 749
+  attack: 978
+  defense: 748
   health: 1630
 costume:
   design: costume1
@@ -53,15 +53,15 @@ costume:
   fancy_name: King of the Leors
   aetherPower: bulwark
   lb1:
-    power: 909
-    attack: 953
-    defense: 770
-    health: 1683
+    power: 850
+    attack: 885
+    defense: 714
+    health: 1542
   lb2:
-    power: 1022
-    attack: 1090
-    defense: 881
-    health: 1926
+    power: 955
+    attack: 1012
+    defense: 817
+    health: 1765
 costume2:
   design: costume2
   bonuses: 25/25/25/5
@@ -85,15 +85,15 @@ costume2:
   fancy_name: Leor Babysitter
   aetherPower: boosted_regen
   lb1:
-    power: 1033
-    attack: 1116
-    defense: 873
-    health: 1950
+    power: 918
+    attack: 994
+    defense: 778
+    health: 1624
   lb2:
-    power: 1164
-    attack: 1277
-    defense: 999
-    health: 2231
+    power: 1032
+    attack: 1138
+    defense: 890
+    health: 1858
 costume3:
   design: toon
   bonuses: 55/55/70/5
@@ -119,15 +119,15 @@ costume3:
   fancy_name: Toon Leor
   aetherPower: rage
   lb1:
-    power: 1214
-    attack: 1273
-    defense: 1138
-    health: 2321
+    power: 1188
+    attack: 1232
+    defense: 1100
+    health: 2319
   lb2:
-    power: 1371
-    attack: 1456
-    defense: 1303
-    health: 2655
+    power: 1342
+    attack: 1409
+    defense: 1259
+    health: 2654
 costume4:
   design: glass
   bonuses: 75/75/78/5
@@ -155,13 +155,13 @@ costume4:
   lb1:
     power: 1329
     attack: 1441
-    defense: 1282
+    defense: 1280
     health: 2438
   lb2:
-    power: 1503
+    power: 1502
     attack: 1649
-    defense: 1466
-    health: 2789
+    defense: 1465
+    health: 2790
 costume5:
   design: stylish
   bonuses: 90/90/95/5

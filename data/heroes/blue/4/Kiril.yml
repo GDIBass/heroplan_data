@@ -19,17 +19,17 @@ types:
 - Defense Buff All
 image: https://i.imgur.com/OnjIJvT.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Master Brewer
 aetherPower: ailment_immunity
 lb1:
   power: 696
-  attack: 713
+  attack: 712
   defense: 731
-  health: 1124
+  health: 1123
 lb2:
-  power: 794
-  attack: 827
+  power: 793
+  attack: 826
   defense: 848
   health: 1303
 costume:
@@ -51,19 +51,19 @@ costume:
   - Defense Debuff All
   image: https://i.imgur.com/BwPG5qR.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Master Shredder
   aetherPower: defense_up
   lb1:
-    power: 745
-    attack: 778
-    defense: 753
-    health: 1266
+    power: 733
+    attack: 762
+    defense: 738
+    health: 1252
   lb2:
-    power: 850
-    attack: 902
-    defense: 873
-    health: 1467
+    power: 837
+    attack: 884
+    defense: 857
+    health: 1453
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -83,17 +83,17 @@ costume2:
   - Attack Debuff All
   image: https://i.imgur.com/s7WIRC3.jpg
   dtReleased: "2022-10-31"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Master Wood Carver
   aetherPower: heal_increase
   lb1:
     power: 795
-    attack: 796
+    attack: 795
     defense: 849
-    health: 1390
+    health: 1389
   lb2:
     power: 909
-    attack: 923
+    attack: 922
     defense: 985
     health: 1612
 costume3:
@@ -120,18 +120,18 @@ costume3:
     dispels.'
   image: https://i.imgur.com/PWTfo2c.jpg
   dtReleased: "2024-02-12"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon Brewer
   aetherPower: defense_up
   lb1:
-    power: 809
-    attack: 837
-    defense: 850
-    health: 1383
+    power: 808
+    attack: 835
+    defense: 849
+    health: 1382
   lb2:
-    power: 925
-    attack: 970
-    defense: 986
+    power: 924
+    attack: 969
+    defense: 985
     health: 1603
 costume4:
   design: glass
@@ -158,22 +158,22 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/gArugbH.jpg
   dtReleased: "2025-03-11"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Brewer Vitrail
   aetherPower: defense_up
   lb1:
     power: 822
-    attack: 824
-    defense: 884
+    attack: 823
+    defense: 883
     health: 1443
   lb2:
     power: 940
     attack: 955
-    defense: 1025
+    defense: 1024
     health: 1673
 costume5:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 30/30/30/5
   class: Wizard
   power: 818
   attack: 822
@@ -194,7 +194,7 @@ costume5:
     ones.'
   image: https://imgur.com/2F6uZCQ.jpg
   dtReleased: "2026-03-12"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Stylish Taster
   aetherPower: defense_up
   lb1:

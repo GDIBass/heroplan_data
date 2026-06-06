@@ -17,18 +17,18 @@ types:
 - Dispeller All
 image: https://i.imgur.com/zE5VVll.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Willful Champion
 aetherPower: special_boost
 lb1:
-  power: 692
-  attack: 660
+  power: 691
+  attack: 659
   defense: 794
-  health: 1099
+  health: 1098
 lb2:
   power: 788
   attack: 765
-  defense: 920
+  defense: 921
   health: 1274
 costume:
   design: costume1
@@ -47,19 +47,19 @@ costume:
   - Cleanser All
   image: https://i.imgur.com/R1MhQgF.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Viking Champion
   aetherPower: special_armor
   lb1:
-    power: 741
-    attack: 716
-    defense: 844
-    health: 1209
+    power: 729
+    attack: 701
+    defense: 827
+    health: 1198
   lb2:
-    power: 845
-    attack: 830
-    defense: 979
-    health: 1402
+    power: 833
+    attack: 814
+    defense: 960
+    health: 1390
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -77,19 +77,19 @@ costume2:
   - Buff Immunity Debuff All
   image: https://i.imgur.com/9fhb23h.jpg
   dtReleased: "2023-11-27"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Willful Prospector
   aetherPower: attack_up
   lb1:
-    power: 791
-    attack: 889
-    defense: 770
-    health: 1282
+    power: 790
+    attack: 887
+    defense: 769
+    health: 1281
   lb2:
-    power: 903
-    attack: 1031
+    power: 902
+    attack: 1029
     defense: 892
-    health: 1487
+    health: 1486
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -111,22 +111,22 @@ costume3:
     dispels.'
   image: https://i.imgur.com/k4GWNzl.jpg
   dtReleased: "2024-07-16"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon Champion
   aetherPower: special_boost
   lb1:
-    power: 804
-    attack: 877
+    power: 803
+    attack: 876
     defense: 823
-    health: 1298
+    health: 1297
   lb2:
-    power: 919
+    power: 918
     attack: 1017
     defense: 955
-    health: 1505
+    health: 1504
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Paladin
   power: 759
   attack: 836
@@ -145,17 +145,17 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/eehQrS3.jpg
   dtReleased: "2025-08-10"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Glass Champion
   aetherPower: special_boost
   lb1:
-    power: 818
-    attack: 909
-    defense: 824
-    health: 1317
+    power: 817
+    attack: 908
+    defense: 823
+    health: 1315
   lb2:
     power: 934
-    attack: 1054
+    attack: 1053
     defense: 955
     health: 1526
 ...

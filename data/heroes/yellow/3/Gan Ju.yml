@@ -17,7 +17,7 @@ types:
 - Mana Reduction 1
 image: https://i.imgur.com/Eor4cBc.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Branch of Bamboo
 aetherPower: attack_up
 lb1:
@@ -47,19 +47,19 @@ costume:
   - Mana Reduction 1
   image: https://i.imgur.com/UfGiJQd.jpg
   dtReleased: "2021-01-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Root of Bamboo
   aetherPower: special_boost
   lb1:
-    power: 529
-    attack: 600
-    defense: 430
-    health: 957
+    power: 522
+    attack: 588
+    defense: 420
+    health: 956
   lb2:
-    power: 639
-    attack: 742
-    defense: 531
-    health: 1183
+    power: 630
+    attack: 727
+    defense: 519
+    health: 1182
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -81,19 +81,19 @@ costume2:
     dispels.'
   image: https://i.imgur.com/IOY3xaA.jpg
   dtReleased: "2023-12-25"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Branch of Toons
   aetherPower: attack_up
   lb1:
-    power: 567
-    attack: 611
-    defense: 478
-    health: 1103
+    power: 566
+    attack: 610
+    defense: 476
+    health: 1102
   lb2:
-    power: 685
+    power: 684
     attack: 755
-    defense: 590
-    health: 1364
+    defense: 588
+    health: 1363
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -115,22 +115,22 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/yqqbcRa.jpg
   dtReleased: "2024-12-25"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Branch of Glass
   aetherPower: attack_up
   lb1:
-    power: 582
-    attack: 632
-    defense: 488
-    health: 1138
+    power: 576
+    attack: 625
+    defense: 481
+    health: 1127
   lb2:
-    power: 704
-    attack: 781
-    defense: 603
-    health: 1407
+    power: 697
+    attack: 773
+    defense: 595
+    health: 1394
 costume4:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Monk
   power: 548
   attack: 592
@@ -149,7 +149,7 @@ costume4:
     ones.'
   image: https://imgur.com/MFKBiWG.jpg
   dtReleased: "2026-01-07"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Vibrant Bamboo
   aetherPower: attack_up
   lb1:

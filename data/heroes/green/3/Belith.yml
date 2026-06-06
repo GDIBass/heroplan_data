@@ -21,15 +21,15 @@ dtModified: ""
 fancy_name: Glade Spirit
 aetherPower: defense_up
 lb1:
-  power: 492
-  attack: 482
+  power: 491
+  attack: 481
   defense: 510
-  health: 827
+  health: 826
 lb2:
-  power: 593
-  attack: 596
+  power: 592
+  attack: 595
   defense: 630
-  health: 1022
+  health: 1021
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -51,20 +51,20 @@ costume:
   fancy_name: Grove Spirit
   aetherPower: special_armor
   lb1:
-    power: 525
-    attack: 505
-    defense: 533
-    health: 962
+    power: 518
+    attack: 495
+    defense: 521
+    health: 961
   lb2:
-    power: 634
-    attack: 625
-    defense: 658
+    power: 625
+    attack: 612
+    defense: 644
     health: 1188
 costume2:
   design: toon
   bonuses: 5/5/10/5
   class: Druid
-  power: 804
+  power: 504
   attack: 509
   defense: 496
   health: 874
@@ -87,15 +87,15 @@ costume2:
   fancy_name: Toon Spirit
   aetherPower: defense_up
   lb1:
-    power: 563
-    attack: 577
-    defense: 564
-    health: 992
+    power: 562
+    attack: 576
+    defense: 562
+    health: 990
   lb2:
-    power: 681
+    power: 680
     attack: 713
-    defense: 696
-    health: 1226
+    defense: 695
+    health: 1224
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -123,15 +123,15 @@ costume3:
   fancy_name: Glass Spirit
   aetherPower: defense_up
   lb1:
-    power: 578
-    attack: 597
-    defense: 576
-    health: 1022
+    power: 577
+    attack: 596
+    defense: 575
+    health: 1021
   lb2:
-    power: 699
-    attack: 738
-    defense: 712
-    health: 1263
+    power: 698
+    attack: 737
+    defense: 711
+    health: 1262
 costume4:
   design: stylish
   bonuses: 25/25/30/5

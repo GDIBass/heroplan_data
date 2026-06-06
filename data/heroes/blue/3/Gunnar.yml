@@ -18,19 +18,19 @@ types:
 - Defense Buff All
 image: https://i.imgur.com/ra4Iv0M.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Protector Knight
 aetherPower: special_armor
 lb1:
   power: 491
-  attack: 439
+  attack: 438
   defense: 604
-  health: 744
+  health: 743
 lb2:
   power: 592
   attack: 542
-  defense: 747
-  health: 920
+  defense: 746
+  health: 919
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,19 +49,19 @@ costume:
   - Defense Debuff All
   image: https://i.imgur.com/MxDScRN.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Brave Blacksmith
   aetherPower: defense_up
   lb1:
-    power: 525
-    attack: 480
-    defense: 630
-    health: 827
+    power: 517
+    attack: 470
+    defense: 616
+    health: 826
   lb2:
-    power: 633
-    attack: 593
-    defense: 778
-    health: 1022
+    power: 624
+    attack: 581
+    defense: 762
+    health: 1021
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -84,22 +84,22 @@ costume2:
     dispels.'
   image: https://i.imgur.com/F5oS2LZ.jpg
   dtReleased: "2024-09-08"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon Knight
   aetherPower: special_armor
   lb1:
     power: 561
-    attack: 566
+    attack: 565
     defense: 604
-    health: 926
+    health: 925
   lb2:
     power: 678
     attack: 699
-    defense: 747
+    defense: 746
     health: 1144
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Paladin
   power: 515
   attack: 522
@@ -120,17 +120,17 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/le2bIzh.jpg
   dtReleased: "2025-11-25"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Glass Knight
   aetherPower: special_armor
   lb1:
-    power: 575
-    attack: 592
-    defense: 611
-    health: 945
+    power: 574
+    attack: 591
+    defense: 610
+    health: 942
   lb2:
     power: 695
-    attack: 732
+    attack: 731
     defense: 755
-    health: 1167
+    health: 1165
 ...

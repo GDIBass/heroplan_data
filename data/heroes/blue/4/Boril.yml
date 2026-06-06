@@ -16,14 +16,14 @@ types:
 - Counterattack 3
 image: https://i.imgur.com/jFkMrWZ.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Stout Defender
 aetherPower: regen
 lb1:
   power: 691
   attack: 544
-  defense: 861
-  health: 1251
+  defense: 860
+  health: 1250
 lb2:
   power: 788
   attack: 631
@@ -44,19 +44,19 @@ costume:
   - Counterattack All
   image: https://i.imgur.com/p8PKYHQ.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Heavyweight Defender
   aetherPower: ailment_immunity
   lb1:
-    power: 742
-    attack: 558
-    defense: 943
-    health: 1412
+    power: 730
+    attack: 547
+    defense: 924
+    health: 1398
   lb2:
-    power: 846
-    attack: 647
-    defense: 1094
-    health: 1637
+    power: 834
+    attack: 635
+    defense: 1072
+    health: 1622
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -73,19 +73,19 @@ costume2:
   - Counterattack All
   image: https://i.imgur.com/9wlyamA.jpg
   dtReleased: "2023-11-27"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Tavern Defender
   aetherPower: damage_reduction
   lb1:
     power: 792
     attack: 642
-    defense: 961
-    health: 1526
+    defense: 960
+    health: 1525
   lb2:
-    power: 905
-    attack: 745
+    power: 904
+    attack: 744
     defense: 1114
-    health: 1770
+    health: 1769
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -105,22 +105,22 @@ costume3:
     dispels.'
   image: https://i.imgur.com/FCxtmOB.jpg
   dtReleased: "2024-09-08"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon Defender
   aetherPower: regen
   lb1:
-    power: 805
-    attack: 705
+    power: 804
+    attack: 704
     defense: 929
-    health: 1523
+    health: 1522
   lb2:
     power: 919
-    attack: 817
+    attack: 816
     defense: 1077
-    health: 1766
+    health: 1765
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Cleric
   power: 759
   attack: 672
@@ -140,17 +140,17 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/x1sFOfC.jpg
   dtReleased: "2025-10-09"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Glass Defender
   aetherPower: regen
   lb1:
-    power: 818
+    power: 817
     attack: 730
-    defense: 934
-    health: 1543
+    defense: 933
+    health: 1541
   lb2:
-    power: 935
+    power: 934
     attack: 847
-    defense: 1083
-    health: 1789
+    defense: 1082
+    health: 1788
 ...

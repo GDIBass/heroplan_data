@@ -15,14 +15,14 @@ types:
 - Hit 3
 image: https://i.imgur.com/p1FG8Av.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Ranger of Shaguad
 aetherPower: dodge
 lb1:
   power: 490
   attack: 553
   defense: 443
-  health: 770
+  health: 769
 lb2:
   power: 590
   attack: 683
@@ -46,18 +46,18 @@ costume:
   - Hit Random 1
   image: https://i.imgur.com/4JD88JW.jpg
   dtReleased: "2021-01-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Shaguadian Guardian
   aetherPower: rage
   lb1:
-    power: 523
-    attack: 609
-    defense: 489
+    power: 516
+    attack: 597
+    defense: 479
     health: 775
   lb2:
-    power: 631
-    attack: 752
-    defense: 604
+    power: 623
+    attack: 738
+    defense: 592
     health: 958
 costume2:
   design: toon
@@ -78,22 +78,22 @@ costume2:
     dispels.'
   image: https://i.imgur.com/O05gU50.jpg
   dtReleased: "2024-08-11"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon of Shaguad
   aetherPower: dodge
   lb1:
-    power: 561
-    attack: 609
-    defense: 582
-    health: 862
+    power: 560
+    attack: 608
+    defense: 580
+    health: 861
   lb2:
-    power: 678
+    power: 677
     attack: 752
-    defense: 719
-    health: 1066
+    defense: 717
+    health: 1064
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Rogue
   power: 515
   attack: 561
@@ -110,17 +110,17 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/rW9GnU7.jpg
   dtReleased: "2025-10-09"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Vitrail of Shaguad
   aetherPower: dodge
   lb1:
-    power: 575
-    attack: 636
-    defense: 590
-    health: 879
+    power: 574
+    attack: 635
+    defense: 589
+    health: 877
   lb2:
-    power: 696
+    power: 695
     attack: 786
-    defense: 729
-    health: 1086
+    defense: 728
+    health: 1084
 ...
