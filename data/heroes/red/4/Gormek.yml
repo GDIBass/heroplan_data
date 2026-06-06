@@ -160,4 +160,37 @@ costume4:
     attack: 828
     defense: 949
     health: 2117
+costume5:
+  design: stylish
+  bonuses: 30/30/30/5
+  class: Barbarian
+  power: 813
+  attack: 731
+  defense: 813
+  health: 1753
+  skill: Stylish Pulverizer
+  effects:
+  - Deals 345% damage to the target and minor damage to nearby enemies.
+  - Deals extra damage to enemies with less than 50% health remaining.
+  - The target and nearby enemies get -32% defense for 6 turns.
+  types:
+  - Hit 3
+  - Defense Debuff 3
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/Ix6M830.jpg
+  dtReleased: "2026-06-06"
+  dtModified: ""
+  aetherPower: rage
+  lb1:
+    power: 876
+    attack: 794
+    defense: 883
+    health: 1904
+  lb2:
+    power: 1003
+    attack: 921
+    defense: 1024
+    health: 2209
 ...

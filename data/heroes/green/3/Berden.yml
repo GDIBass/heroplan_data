@@ -128,4 +128,37 @@ costume3:
     attack: 786
     defense: 697
     health: 1191
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Ranger
+  power: 547
+  attack: 601
+  defense: 525
+  health: 894
+  skill: Stylish Shot
+  effects:
+  - Deals 350% damage to the target.
+  - If the target has less than 50% health remaining, deals 420% damage instead.
+  - The target gets -32% attack for 6 turns.
+  types:
+  - Hit 1
+  - Attack Debuff 1
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/SLdlVF4.jpg
+  dtReleased: "2026-06-06"
+  dtModified: ""
+  aetherPower: attack_up
+  lb1:
+    power: 611
+    attack: 681
+    defense: 595
+    health: 1013
+  lb2:
+    power: 740
+    attack: 842
+    defense: 735
+    health: 1252
 ...

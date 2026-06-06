@@ -161,4 +161,37 @@ costume4:
     attack: 1086
     defense: 888
     health: 1560
+costume5:
+  design: stylish
+  bonuses: 30/30/30/5
+  class: Barbarian
+  power: 812
+  attack: 950
+  defense: 764
+  health: 1294
+  skill: Stylish Swing
+  effects:
+  - Deals 235% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 280% damage instead.
+  - All enemies get -62% mana generation for 3 turns.
+  types:
+  - Hit All
+  - Mana Generation Debuff All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/EWTcfUC.jpg
+  dtReleased: "2026-06-06"
+  dtModified: ""
+  aetherPower: defense_up
+  lb1:
+    power: 875
+    attack: 1032
+    defense: 830
+    health: 1406
+  lb2:
+    power: 1001
+    attack: 1197
+    defense: 962
+    health: 1631
 ...

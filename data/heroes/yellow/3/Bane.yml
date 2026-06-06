@@ -130,4 +130,38 @@ costume3:
     attack: 795
     defense: 646
     health: 1227
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Monk
+  power: 542
+  attack: 607
+  defense: 486
+  health: 919
+  skill: Stylish Slam
+  effects:
+  - Deals 325% damage to the target.
+  - If the target has less than 50% health remaining, deals 390% damage instead.
+  - The target gets -34% accuracy for 4 turns. (Chance to miss also applies to offensive
+    Special Skills.)
+  types:
+  - Hit 1
+  - Blind 1
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/RH7BCqq.jpg
+  dtReleased: "2026-06-06"
+  dtModified: ""
+  aetherPower: attack_up
+  lb1:
+    power: 605
+    attack: 687
+    defense: 550
+    health: 1041
+  lb2:
+    power: 733
+    attack: 850
+    defense: 680
+    health: 1287
 ...
