@@ -30,15 +30,15 @@ types:
 - Counterattack All
 passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
-  prevent the use of Special Skill.'
-- 'Repair Core: The Construct Core of this character is Repair Core. The Repair Core
-  activates each time this character''s Special Skill is cast:'
-- ' * With fully charged Repair Core, boosts the health of all allies by 25%.'
-- ' * The healing is scaled by the amount of charge in the Core, All charge is exhausted
+  prevent the use of Special Skills.'
+- 'Repair Core: The Construct Core of this character is a Repair Core. The Repair
+  Core activates each time this character''s Special Skill is cast'
+- ' * With a fully charged Repair Core, boosts the health of all allies by 25%.'
+- ' * The healing is scaled by the amount of charge in the Core. All charge is exhausted
   when the Core is activated.'
 image: https://i.imgur.com/nDQGLk9.jpg
 dtReleased: "2023-06-28"
-dtModified: "2026-05-05"
+dtModified: "2026-06-07"
 fancy_name: Carry-It-All Construct
 aetherPower: defense_up
 lb1:
