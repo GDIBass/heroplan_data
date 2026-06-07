@@ -153,6 +153,7 @@ costume4:
   image: https://imgur.com/RH7BCqq.jpg
   dtReleased: "2026-06-06"
   dtModified: ""
+  fancy_name: Stylish Brawler
   aetherPower: attack_up
   lb1:
     power: 605

@@ -150,6 +150,7 @@ costume4:
   image: https://imgur.com/SLdlVF4.jpg
   dtReleased: "2026-06-06"
   dtModified: ""
+  fancy_name: Stylish Archer
   aetherPower: attack_up
   lb1:
     power: 611
