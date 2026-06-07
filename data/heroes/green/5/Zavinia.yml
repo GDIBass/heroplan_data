@@ -15,7 +15,7 @@ effects:
   on the board, up to a maximum of 12 hits. The damage is reduced on each consecutive
   hit.
 - All hit targets get 10 Insanity every time they are hit.
-- Inflicts 50 Insanity on the caster.
+- Casting this Special Skill inflicts 50 Insanity on the caster.
 types:
 - Hit 1
 - Random Extra Hits
@@ -26,17 +26,17 @@ passives:
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/F1mKhpD.jpg
 dtReleased: "2024-06-30"
-dtModified: "2026-03-22"
+dtModified: "2026-06-04"
 fancy_name: Hybrid of the Deep
 aetherPower: attack_up
 lb1:
   power: 1186
   attack: 1272
-  defense: 1172
+  defense: 1171
   health: 2057
 lb2:
   power: 1339
   attack: 1455
-  defense: 1341
+  defense: 1340
   health: 2354
 ...

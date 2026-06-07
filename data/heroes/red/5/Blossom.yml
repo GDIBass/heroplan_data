@@ -21,24 +21,24 @@ types:
 passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
   prevent the use of Special Skills.'
-- 'Repair Core: The Construct Core of this character is Repair Core. The Repair Core
-  activates each time this character''s Special Skill is cast:'
-- ' * With fully charged Repair Core, boosts the health of all allies by 25%.'
+- 'Repair Core: The Construct Core of this character is a Repair Core. The Repair
+  Core activates each time this character''s Special Skill is cast'
+- ' * With a fully charged Repair Core, boosts the health of all allies by 25%.'
 - ' * The healing is scaled by the amount of charge in the Core. All charge is exhausted
   when the Core is activated.'
 image: https://i.imgur.com/4805acd.jpg
 dtReleased: "2023-08-24"
-dtModified: ""
+dtModified: "2026-06-07"
 fancy_name: Porcelain Doll Construct
 aetherPower: regen
 lb1:
   power: 1046
   attack: 954
   defense: 1081
-  health: 2035
+  health: 2036
 lb2:
   power: 1179
-  attack: 1092
-  defense: 1236
+  attack: 1091
+  defense: 1237
   health: 2329
 ...

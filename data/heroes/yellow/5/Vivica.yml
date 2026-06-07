@@ -23,14 +23,14 @@ dtModified: "2026-05-10"
 fancy_name: Scholar Supreme
 aetherPower: defense_up
 lb1:
-  power: 804
-  attack: 770
+  power: 803
+  attack: 769
   defense: 748
   health: 1431
 lb2:
   power: 902
-  attack: 881
-  defense: 855
+  attack: 880
+  defense: 856
   health: 1638
 costume:
   design: costume1
@@ -55,15 +55,15 @@ costume:
   fancy_name: Magician Supreme
   aetherPower: special_armor
   lb1:
-    power: 907
-    attack: 860
-    defense: 852
-    health: 1734
+    power: 848
+    attack: 798
+    defense: 792
+    health: 1590
   lb2:
-    power: 1020
-    attack: 984
-    defense: 975
-    health: 1984
+    power: 952
+    attack: 913
+    defense: 906
+    health: 1819
 costume2:
   design: costume2
   bonuses: 25/25/25/5
@@ -87,15 +87,15 @@ costume2:
   fancy_name: Scribe Supreme
   aetherPower: heal_increase
   lb1:
-    power: 1031
-    attack: 967
-    defense: 976
-    health: 2109
+    power: 916
+    attack: 862
+    defense: 869
+    health: 1757
   lb2:
-    power: 1163
-    attack: 1107
-    defense: 1117
-    health: 2414
+    power: 1030
+    attack: 986
+    defense: 995
+    health: 2010
 costume3:
   design: toon
   bonuses: 55/55/70/5
@@ -123,14 +123,14 @@ costume3:
   fancy_name: Toon Scholar
   aetherPower: defense_up
   lb1:
-    power: 1211
-    attack: 1187
-    defense: 1197
+    power: 1186
+    attack: 1148
+    defense: 1157
     health: 2400
   lb2:
-    power: 1368
-    attack: 1358
-    defense: 1370
+    power: 1339
+    attack: 1313
+    defense: 1324
     health: 2746
 costume4:
   design: glass
@@ -161,15 +161,15 @@ costume4:
   fancy_name: Glass Scholar
   aetherPower: defense_up
   lb1:
-    power: 1325
-    attack: 1336
-    defense: 1355
-    health: 2525
+    power: 1324
+    attack: 1335
+    defense: 1353
+    health: 2524
   lb2:
-    power: 1498
-    attack: 1529
-    defense: 1551
-    health: 2889
+    power: 1497
+    attack: 1528
+    defense: 1549
+    health: 2888
 costume5:
   design: stylish
   bonuses: 90/90/95/5

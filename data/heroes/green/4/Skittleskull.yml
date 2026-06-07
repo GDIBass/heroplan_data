@@ -17,19 +17,19 @@ types:
 - Attack Debuff All
 image: https://i.imgur.com/6Oucdm4.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Bog Witch
 aetherPower: mana_boost
 lb1:
   power: 693
   attack: 791
-  defense: 658
+  defense: 657
   health: 1052
 lb2:
   power: 790
-  attack: 918
+  attack: 917
   defense: 762
-  health: 1220
+  health: 1221
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,19 +47,19 @@ costume:
   - Attack Debuff All
   image: https://i.imgur.com/9DvgVYg.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Candy Witch
   aetherPower: boosted_regen
   lb1:
-    power: 741
-    attack: 862
-    defense: 699
-    health: 1135
+    power: 729
+    attack: 845
+    defense: 685
+    health: 1124
   lb2:
-    power: 845
-    attack: 999
-    defense: 810
-    health: 1316
+    power: 833
+    attack: 980
+    defense: 795
+    health: 1304
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -77,19 +77,19 @@ costume2:
   - Defense Debuff All
   image: https://i.imgur.com/EIvqBU6.jpg
   dtReleased: "2023-04-17"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toad Witch
   aetherPower: ailment_immunity
   lb1:
-    power: 791
-    attack: 900
-    defense: 772
-    health: 1255
+    power: 790
+    attack: 899
+    defense: 771
+    health: 1253
   lb2:
-    power: 904
+    power: 903
     attack: 1043
-    defense: 895
-    health: 1455
+    defense: 894
+    health: 1454
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -111,18 +111,18 @@ costume3:
     dispels.'
   image: https://i.imgur.com/DQzJaMV.jpg
   dtReleased: "2024-03-11"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon Witch
   aetherPower: mana_boost
   lb1:
-    power: 804
-    attack: 918
-    defense: 767
-    health: 1312
+    power: 803
+    attack: 917
+    defense: 766
+    health: 1311
   lb2:
-    power: 919
-    attack: 1064
-    defense: 889
+    power: 918
+    attack: 1063
+    defense: 888
     health: 1521
 costume4:
   design: glass
@@ -145,22 +145,22 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/qCkUNrw.jpg
   dtReleased: "2025-04-08"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Glass Witch
   aetherPower: mana_boost
   lb1:
-    power: 818
-    attack: 956
-    defense: 772
+    power: 817
+    attack: 955
+    defense: 771
     health: 1305
   lb2:
-    power: 935
-    attack: 1108
-    defense: 895
+    power: 934
+    attack: 1107
+    defense: 894
     health: 1513
 costume5:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 30/30/30/5
   class: Sorcerer
   power: 815
   attack: 972
@@ -179,7 +179,7 @@ costume5:
     ones.'
   image: https://imgur.com/ERrTkQ3.jpg
   dtReleased: "2026-04-10"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Stylish Witch
   aetherPower: mana_boost
   lb1:

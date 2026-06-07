@@ -10,18 +10,18 @@ defense: 1343
 health: 2385
 skill: Ruthless Derision
 effects:
-- 'If the caster has 40 or more Humility:'
+- 'Less than 40 Humility:'
+- Deals 350% damage to all enemies.
+- Enemies with less than 50% health remaining resist healing and receive 300 damage
+  per each resisted healing for 4 turns.
+- 'Stack (Max: 10): All damage all enemies receive is increased by +5%.'
+- '40 or more Humility:'
 - Deals 400% damage to all enemies.
 - Enemies with less than 50% health remaining resist healing and receive 400 damage
   per each resisted healing for 4 turns.
 - 'Stack +2 (Max: 10): All damage all enemies receive is increased by +10%.'
 - All enemies get -34% mana generation for 4 turns. (Affects only mana generated from
   matching tiles or mana gained by the defense team at the end of their turn.)
-- 'Otherwise:'
-- Deals 350% damage to all enemies.
-- Enemies with less than 50% health remaining resist healing and receive 300 damage
-  per each resisted healing for 4 turns.
-- 'Stack (Max: 10): All damage all enemies receive is increased by +5%.'
 types:
 - Humility
 - Hit All
@@ -39,7 +39,7 @@ passives:
   or from a negative stack, they will recover that much health instead.'
 image: https://imgur.com/DcgeSYq.jpg
 dtReleased: "2026-05-08"
-dtModified: ""
+dtModified: "2026-06-04"
 fancy_name: Beauty's Spiteful Sister
 aetherPower: damage_reduction
 lb1:

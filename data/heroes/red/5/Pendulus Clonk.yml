@@ -10,7 +10,13 @@ defense: 1318
 health: 2362
 skill: Always on Time
 effects:
-- 'If the caster has 40 or more Humility:'
+- 'Less than 40 Humility:'
+- Deals 630% damage to the target.
+- For the next 3 turns, this character deals 530% damage to a random enemy after an
+  enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)
+- The caster recovers 900 health after 3 turns. If the effect is removed or replaced
+  before the duration ends, recovers 1300 health instead.
+- '40 or more Humility:'
 - Deals 780% damage to the target.
 - If the target is defeated by the attack, the caster gains +55% mana. (After a character
   receives 5 direct mana additions from Special Skills during a single turn, all subsequent
@@ -19,12 +25,6 @@ effects:
   enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)
 - The caster recovers 1100 health after 3 turns. If the effect is removed or replaced
   before the duration ends, recovers 1500 health instead.
-- 'Otherwise:'
-- Deals 630% damage to the target.
-- For the next 3 turns, this character deals 530% damage to a random enemy after an
-  enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)
-- The caster recovers 900 health after 3 turns. If the effect is removed or replaced
-  before the duration ends, recovers 1300 health instead.
 types:
 - Humility
 - Hit 1
@@ -40,7 +40,7 @@ passives:
   or from a negative stack, they will recover that much health instead.'
 image: https://imgur.com/B98TRPW.jpg
 dtReleased: "2026-03-15"
-dtModified: "2026-04-28"
+dtModified: "2026-06-04"
 fancy_name: Impatient Clock of the Bewitched Castle
 aetherPower: special_boost
 lb1:

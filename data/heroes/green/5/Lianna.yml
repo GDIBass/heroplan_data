@@ -24,9 +24,9 @@ lb1:
   defense: 774
   health: 1345
 lb2:
-  power: 903
+  power: 902
   attack: 899
-  defense: 886
+  defense: 885
   health: 1539
 costume:
   design: costume1
@@ -49,15 +49,15 @@ costume:
   fancy_name: The Noble Guardian
   aetherPower: special_boost
   lb1:
-    power: 905
-    attack: 898
-    defense: 865
-    health: 1603
+    power: 847
+    attack: 833
+    defense: 803
+    health: 1470
   lb2:
-    power: 1018
-    attack: 1027
-    defense: 990
-    health: 1834
+    power: 951
+    attack: 953
+    defense: 918
+    health: 1682
 costume2:
   design: costume2
   bonuses: 25/25/25/5
@@ -79,15 +79,15 @@ costume2:
   fancy_name: The Noble Raven
   aetherPower: dodge
   lb1:
-    power: 1030
-    attack: 1048
-    defense: 973
-    health: 1902
+    power: 915
+    attack: 932
+    defense: 867
+    health: 1584
   lb2:
-    power: 1161
-    attack: 1199
-    defense: 1114
-    health: 2176
+    power: 1029
+    attack: 1066
+    defense: 992
+    health: 1813
 costume3:
   design: toon
   bonuses: 55/55/70/5
@@ -111,14 +111,14 @@ costume3:
   fancy_name: The Noble Toon
   aetherPower: attack_up
   lb1:
-    power: 1209
-    attack: 1228
-    defense: 1197
+    power: 1184
+    attack: 1187
+    defense: 1157
     health: 2283
   lb2:
-    power: 1366
-    attack: 1405
-    defense: 1370
+    power: 1337
+    attack: 1359
+    defense: 1324
     health: 2612
 costume4:
   design: glass
@@ -144,14 +144,14 @@ costume4:
   aetherPower: attack_up
   lb1:
     power: 1324
-    attack: 1425
+    attack: 1426
     defense: 1320
-    health: 2363
+    health: 2361
   lb2:
-    power: 1497
+    power: 1496
     attack: 1631
-    defense: 1511
-    health: 2703
+    defense: 1510
+    health: 2702
 costume5:
   design: stylish
   bonuses: 90/90/95/5

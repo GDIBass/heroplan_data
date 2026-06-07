@@ -17,19 +17,19 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/K7cfOtS.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: The Unwavering
 aetherPower: defense_up
 lb1:
-  power: 693
-  attack: 639
-  defense: 773
+  power: 692
+  attack: 638
+  defense: 772
   health: 1202
 lb2:
   power: 790
   attack: 741
   defense: 896
-  health: 1394
+  health: 1395
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,19 +47,19 @@ costume:
   - Attack Buff All
   image: https://i.imgur.com/ZFrdT4t.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Cast Iron Chef
   aetherPower: counterattack
   lb1:
-    power: 743
-    attack: 689
-    defense: 815
-    health: 1350
+    power: 731
+    attack: 674
+    defense: 799
+    health: 1336
   lb2:
-    power: 848
-    attack: 799
-    defense: 945
-    health: 1565
+    power: 835
+    attack: 782
+    defense: 927
+    health: 1550
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -79,19 +79,19 @@ costume2:
   - Attack Buff All
   image: https://i.imgur.com/T4p2FAB.jpg
   dtReleased: "2023-06-12"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: The Feral Sage
   aetherPower: special_armor
   lb1:
     power: 792
-    attack: 748
-    defense: 902
+    attack: 747
+    defense: 901
     health: 1382
   lb2:
     power: 905
-    attack: 868
+    attack: 867
     defense: 1046
-    health: 1602
+    health: 1603
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -113,19 +113,19 @@ costume3:
     dispels.'
   image: https://i.imgur.com/ufJrKaD.jpg
   dtReleased: "2023-12-25"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: The Unwavering Toon
   aetherPower: defense_up
   lb1:
     power: 806
-    attack: 759
-    defense: 910
-    health: 1439
+    attack: 758
+    defense: 909
+    health: 1437
   lb2:
     power: 921
-    attack: 880
+    attack: 879
     defense: 1055
-    health: 1668
+    health: 1667
 costume4:
   design: glass
   bonuses: 5/5/10/5
@@ -149,22 +149,22 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/lVwUo5n.jpg
   dtReleased: "2024-12-25"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: The Reflecting
   aetherPower: heal_increase
   lb1:
     power: 819
     attack: 769
-    defense: 928
-    health: 1468
+    defense: 927
+    health: 1467
   lb2:
     power: 936
-    attack: 891
+    attack: 892
     defense: 1076
     health: 1702
 costume5:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 30/30/30/5
   class: Fighter
   power: 816
   attack: 769
@@ -183,7 +183,7 @@ costume5:
     ones.'
   image: https://imgur.com/tGz74NL.jpg
   dtReleased: "2026-01-07"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: The Fancy
   aetherPower: defense_up
   lb1:

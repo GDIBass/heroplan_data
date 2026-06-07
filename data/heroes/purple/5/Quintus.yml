@@ -15,7 +15,7 @@ types:
 - Hit All
 image: https://i.imgur.com/250UPh4.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Mad Scientist
 aetherPower: mana_boost
 lb1:
@@ -25,9 +25,9 @@ lb1:
   health: 1487
 lb2:
   power: 905
-  attack: 922
+  attack: 921
   defense: 784
-  health: 1701
+  health: 1702
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,19 +45,19 @@ costume:
   - Attack Debuff All
   image: https://i.imgur.com/TBwlwOC.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Electro Scientist
   aetherPower: special_boost
   lb1:
-    power: 909
-    attack: 933
-    defense: 770
-    health: 1731
+    power: 850
+    attack: 866
+    defense: 714
+    health: 1586
   lb2:
-    power: 1022
-    attack: 1067
-    defense: 881
-    health: 1981
+    power: 954
+    attack: 991
+    defense: 817
+    health: 1815
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -76,19 +76,19 @@ costume2:
   - Mindless Attack 3
   image: https://i.imgur.com/BmY4xiU.jpg
   dtReleased: "2022-12-26"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Love Doctor
   aetherPower: ailment_immunity
   lb1:
-    power: 1035
-    attack: 1048
-    defense: 896
-    health: 2093
+    power: 977
+    attack: 1014
+    defense: 867
+    health: 1817
   lb2:
-    power: 1166
-    attack: 1199
-    defense: 1025
-    health: 2395
+    power: 1099
+    attack: 1160
+    defense: 992
+    health: 2079
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -108,22 +108,22 @@ costume3:
     dispels.'
   image: https://i.imgur.com/ff1uvHj.jpg
   dtReleased: "2024-08-11"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon Scientist
   aetherPower: mana_boost
   lb1:
-    power: 1214
+    power: 1213
     attack: 1152
-    defense: 1180
+    defense: 1179
     health: 2539
   lb2:
-    power: 1371
+    power: 1370
     attack: 1318
-    defense: 1350
+    defense: 1349
     health: 2906
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 75/75/78/5
   class: Sorcerer
   power: 1240
   attack: 1225
@@ -140,7 +140,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/5v62w6I.jpg
   dtReleased: "2025-10-09"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Glass Scientist
   aetherPower: mana_boost
   lb1:
@@ -150,7 +150,7 @@ costume4:
     health: 2647
   lb2:
     power: 1500
-    attack: 1511
-    defense: 1511
+    attack: 1510
+    defense: 1510
     health: 3029
 ...

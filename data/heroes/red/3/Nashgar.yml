@@ -17,18 +17,18 @@ types:
 - DoT 1
 image: https://i.imgur.com/DrsAnEe.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: First in Battle
 aetherPower: attack_up
 lb1:
   power: 493
-  attack: 583
-  defense: 415
-  health: 776
+  attack: 582
+  defense: 414
+  health: 775
 lb2:
   power: 594
   attack: 720
-  defense: 513
+  defense: 512
   health: 958
 costume:
   design: costume1
@@ -47,18 +47,18 @@ costume:
   - DoT 1
   image: https://i.imgur.com/DZd6oKm.jpg
   dtReleased: "2021-01-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Last to Retreat
   aetherPower: special_boost
   lb1:
-    power: 527
-    attack: 655
-    defense: 427
+    power: 520
+    attack: 642
+    defense: 418
     health: 810
   lb2:
-    power: 636
-    attack: 809
-    defense: 528
+    power: 627
+    attack: 794
+    defense: 517
     health: 1001
 costume2:
   design: toon
@@ -81,22 +81,22 @@ costume2:
     dispels.'
   image: https://i.imgur.com/SWdSWFa.jpg
   dtReleased: "2024-05-31"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: First Toon in Battle
   aetherPower: attack_up
   lb1:
-    power: 564
+    power: 563
     attack: 706
-    defense: 459
+    defense: 457
     health: 884
   lb2:
-    power: 682
-    attack: 873
-    defense: 568
+    power: 681
+    attack: 872
+    defense: 566
     health: 1092
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Barbarian
   power: 517
   attack: 647
@@ -115,17 +115,17 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/EL6besJ.jpg
   dtReleased: "2025-08-10"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Last to Shatter
   aetherPower: attack_up
   lb1:
-    power: 578
-    attack: 734
-    defense: 467
-    health: 901
+    power: 577
+    attack: 733
+    defense: 465
+    health: 899
   lb2:
-    power: 699
-    attack: 907
-    defense: 577
-    health: 1113
+    power: 698
+    attack: 906
+    defense: 575
+    health: 1112
 ...

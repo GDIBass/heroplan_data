@@ -15,7 +15,7 @@ types:
 - Hit 1
 image: https://i.imgur.com/OSefjqG.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Dread Magician
 aetherPower: special_boost
 lb1:
@@ -45,19 +45,19 @@ costume:
   - DoT 1
   image: https://i.imgur.com/PBzwskK.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Undead Magician
   aetherPower: attack_up
   lb1:
-    power: 527
-    attack: 604
-    defense: 493
-    health: 808
+    power: 519
+    attack: 591
+    defense: 482
+    health: 806
   lb2:
-    power: 636
-    attack: 747
-    defense: 609
-    health: 998
+    power: 627
+    attack: 731
+    defense: 596
+    health: 997
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -77,18 +77,18 @@ costume2:
     dispels.'
   image: https://i.imgur.com/TVzeF5e.jpg
   dtReleased: "2024-01-22"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon Magician
   aetherPower: special_boost
   lb1:
-    power: 564
-    attack: 636
-    defense: 539
-    health: 900
+    power: 563
+    attack: 635
+    defense: 537
+    health: 899
   lb2:
-    power: 682
+    power: 681
     attack: 786
-    defense: 666
+    defense: 664
     health: 1112
 costume3:
   design: glass
@@ -109,22 +109,22 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/GyPOLEn.jpg
   dtReleased: "2025-03-11"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Glass Magician
   aetherPower: special_boost
   lb1:
-    power: 577
-    attack: 671
-    defense: 543
-    health: 898
+    power: 572
+    attack: 665
+    defense: 538
+    health: 889
   lb2:
-    power: 699
-    attack: 830
-    defense: 672
-    health: 1110
+    power: 692
+    attack: 822
+    defense: 665
+    health: 1099
 costume4:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Wizard
   power: 544
   attack: 633
@@ -141,7 +141,7 @@ costume4:
     ones.'
   image: https://imgur.com/sAHNKFa.jpg
   dtReleased: "2026-03-12"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Stylish Magician
   aetherPower: special_boost
   lb1:

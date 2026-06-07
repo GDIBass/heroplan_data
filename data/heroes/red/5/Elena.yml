@@ -18,7 +18,7 @@ types:
 - Counterattack 3
 image: https://i.imgur.com/DJkMDg0.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Captain of the Royal Guard
 aetherPower: regen
 lb1:
@@ -27,10 +27,10 @@ lb1:
   defense: 623
   health: 1414
 lb2:
-  power: 900
-  attack: 998
-  defense: 713
-  health: 1617
+  power: 899
+  attack: 997
+  defense: 712
+  health: 1618
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,19 +49,19 @@ costume:
   - Counterattack 3
   image: https://i.imgur.com/rs8S0na.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Captain of Fire
   aetherPower: damage_reduction
   lb1:
-    power: 905
-    attack: 980
-    defense: 682
-    health: 1758
+    power: 846
+    attack: 910
+    defense: 633
+    health: 1610
   lb2:
-    power: 1017
-    attack: 1122
-    defense: 780
-    health: 2011
+    power: 950
+    attack: 1042
+    defense: 725
+    health: 1842
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -80,24 +80,24 @@ costume2:
   - Counterattack 3
   image: https://i.imgur.com/mKIsd5g.jpg
   dtReleased: "2023-08-07"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Captain of the Wicked
   aetherPower: ailment_immunity
   lb1:
-    power: 1030
-    attack: 996
-    defense: 916
-    health: 2148
+    power: 914
+    attack: 887
+    defense: 816
+    health: 1789
   lb2:
-    power: 1161
-    attack: 1140
-    defense: 1048
-    health: 2457
+    power: 1028
+    attack: 1015
+    defense: 933
+    health: 2047
 costume3:
   design: toon
   bonuses: 5/5/10/5
   class: Fighter
-  power: 1131
+  power: 1129
   attack: 1021
   defense: 1123
   health: 2376
@@ -115,22 +115,22 @@ costume3:
     dispels.'
   image: https://i.imgur.com/6Zu6Ag7.jpg
   dtReleased: "2024-05-31"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Captain of the Royal Toons
   aetherPower: regen
   lb1:
-    power: 1208
-    attack: 1101
-    defense: 1211
-    health: 2562
+    power: 1207
+    attack: 1100
+    defense: 1210
+    health: 2561
   lb2:
     power: 1363
     attack: 1259
     defense: 1385
-    health: 2931
+    health: 2930
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 75/75/78/5
   class: Fighter
   power: 1235
   attack: 1211
@@ -150,17 +150,17 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/ttrlvih.jpg
   dtReleased: "2025-07-16"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Captain of the Glass Guard
   aetherPower: regen
   lb1:
-    power: 1322
+    power: 1321
     attack: 1305
     defense: 1297
-    health: 2694
+    health: 2693
   lb2:
     power: 1494
     attack: 1493
-    defense: 1484
-    health: 3083
+    defense: 1485
+    health: 3082
 ...

@@ -17,14 +17,14 @@ types:
 - Dispeller All
 image: https://i.imgur.com/3rwM4W7.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Wisdom of the Forest
 aetherPower: ailment_immunity
 lb1:
   power: 686
   attack: 775
-  defense: 637
-  health: 1087
+  defense: 636
+  health: 1086
 lb2:
   power: 782
   attack: 899
@@ -49,19 +49,19 @@ costume:
   - Dispeller All
   image: https://i.imgur.com/5gxdGVM.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Mighty Wizard
   aetherPower: special_armor
   lb1:
-    power: 735
-    attack: 773
-    defense: 726
-    health: 1263
+    power: 724
+    attack: 758
+    defense: 711
+    health: 1250
   lb2:
-    power: 839
-    attack: 896
-    defense: 842
-    health: 1464
+    power: 826
+    attack: 879
+    defense: 825
+    health: 1450
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -81,17 +81,17 @@ costume2:
   - Dispeller All
   image: https://i.imgur.com/XVqcInX.jpg
   dtReleased: "2023-10-30"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Party Wizard
   aetherPower: heal_increase
   lb1:
     power: 784
     attack: 743
-    defense: 902
-    health: 1338
+    defense: 901
+    health: 1337
   lb2:
     power: 896
-    attack: 861
+    attack: 862
     defense: 1046
     health: 1551
 costume3:
@@ -117,18 +117,18 @@ costume3:
     dispels.'
   image: https://i.imgur.com/3swBEW4.jpg
   dtReleased: "2024-01-22"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon Wizard
   aetherPower: special_armor
   lb1:
-    power: 798
+    power: 797
     attack: 869
-    defense: 791
-    health: 1340
+    defense: 789
+    health: 1339
   lb2:
-    power: 912
+    power: 911
     attack: 1008
-    defense: 917
+    defense: 916
     health: 1554
 costume4:
   design: glass
@@ -153,22 +153,22 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/5Bt1nJk.jpg
   dtReleased: "2025-03-11"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Vitrail of the Forest
   aetherPower: special_armor
   lb1:
-    power: 812
-    attack: 882
-    defense: 807
-    health: 1374
+    power: 811
+    attack: 881
+    defense: 806
+    health: 1373
   lb2:
     power: 927
     attack: 1022
-    defense: 936
+    defense: 935
     health: 1593
 costume5:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 30/30/30/5
   class: Druid
   power: 809
   attack: 884
@@ -187,17 +187,17 @@ costume5:
     ones.'
   image: https://imgur.com/2xZL7uT.jpg
   dtReleased: "2026-03-12"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Stylish Wizard
   aetherPower: special_armor
   lb1:
     power: 871
     attack: 960
     defense: 891
-    health: 1437
+    health: 1436
   lb2:
     power: 997
-    attack: 1113
+    attack: 1114
     defense: 1033
     health: 1666
 ...

@@ -21,8 +21,8 @@ types:
 passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
   prevent the use of Special Skills.'
-- 'Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive
-  Core activates each time this character''s Special Skill is cast:'
+- 'Corrosive Core: The Construct Core of this character is a Corrosive Core. The Corrosive
+  Core activates each time this character''s Special Skill is cast'
 - ' * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive
   Core, the Corrosive Poison deals 146 Poison damage and lowers the target''s mana
   generation by -13% each turn. Deals extra damage against heroes with Minions or
@@ -31,7 +31,7 @@ passives:
   is exhausted when the Core is activated.'
 image: https://i.imgur.com/wqf6SNR.jpg
 dtReleased: "2024-05-19"
-dtModified: "2026-03-27"
+dtModified: "2026-06-07"
 fancy_name: Everburning Construct
 aetherPower: attack_up
 lb1:

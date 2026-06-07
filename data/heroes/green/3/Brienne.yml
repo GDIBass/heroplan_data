@@ -16,17 +16,17 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/sdXIZmv.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Druid of Rathwood
 aetherPower: defense_up
 lb1:
-  power: 491
-  attack: 506
-  defense: 508
-  health: 764
+  power: 490
+  attack: 505
+  defense: 507
+  health: 763
 lb2:
   power: 591
-  attack: 625
+  attack: 624
   defense: 627
   health: 944
 costume:
@@ -45,18 +45,18 @@ costume:
   - Defense Debuff All
   image: https://i.imgur.com/ig1RoGx.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Shaman of Concordia
   aetherPower: special_armor
   lb1:
-    power: 524
-    attack: 539
-    defense: 541
+    power: 517
+    attack: 528
+    defense: 530
     health: 851
   lb2:
-    power: 632
-    attack: 666
-    defense: 669
+    power: 623
+    attack: 652
+    defense: 655
     health: 1052
 costume2:
   design: toon
@@ -78,19 +78,19 @@ costume2:
     dispels.'
   image: https://i.imgur.com/0PzrzM8.jpg
   dtReleased: "2024-01-22"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Toon of Rathwood
   aetherPower: defense_up
   lb1:
-    power: 561
-    attack: 575
-    defense: 555
-    health: 1002
+    power: 560
+    attack: 574
+    defense: 553
+    health: 1000
   lb2:
-    power: 678
+    power: 677
     attack: 710
-    defense: 685
-    health: 1238
+    defense: 683
+    health: 1237
 costume3:
   design: glass
   bonuses: 5/5/10/5
@@ -113,22 +113,22 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/Z7YMKIU.jpg
   dtReleased: "2025-03-11"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Vitrail of Rathwood
   aetherPower: defense_up
   lb1:
-    power: 575
-    attack: 541
-    defense: 609
-    health: 1075
+    power: 569
+    attack: 534
+    defense: 602
+    health: 1065
   lb2:
-    power: 695
-    attack: 669
-    defense: 752
-    health: 1329
+    power: 689
+    attack: 661
+    defense: 745
+    health: 1317
 costume4:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 25/25/30/5
   class: Druid
   power: 542
   attack: 512
@@ -147,7 +147,7 @@ costume4:
     ones.'
   image: https://imgur.com/9fZP07k.jpg
   dtReleased: "2026-02-14"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Stylish Druid
   aetherPower: defense_up
   lb1:

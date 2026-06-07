@@ -10,11 +10,11 @@ defense: 561
 health: 975
 skill: Gentleman's Cane
 effects:
-- 'If the caster has 40 or more Humility:'
+- 'Less than 40 Humility:'
+- ' * Deals 250% damage to the target and minor damage to nearby enemies.'
+- '40 or more Humility:'
 - ' * Deals 270% damage to the target and minor damage to nearby enemies.'
 - ' * The caster counterattacks with 90% of the damage received for 4 turns.'
-- 'Otherwise:'
-- ' * Deals 250% damage to the target and minor damage to nearby enemies.'
 types:
 - Humility
 - Hit 3
@@ -29,17 +29,17 @@ passives:
   they will recover that much health instead.'
 image: https://imgur.com/7J167VG.jpg
 dtReleased: "2025-11-12"
-dtModified: "2026-04-13"
+dtModified: "2026-06-04"
 fancy_name: Dominique's Younger Brother
 aetherPower: regen
 lb1:
   power: 618
   attack: 630
-  defense: 636
+  defense: 635
   health: 1105
 lb2:
   power: 748
-  attack: 778
+  attack: 779
   defense: 786
-  health: 1365
+  health: 1366
 ...

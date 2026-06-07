@@ -15,19 +15,19 @@ types:
 - Healer All
 image: https://i.imgur.com/6ZyfSsX.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Ascendant Shaman
 aetherPower: defense_up
 lb1:
   power: 495
   attack: 537
-  defense: 506
-  health: 722
+  defense: 505
+  health: 721
 lb2:
   power: 597
   attack: 664
-  defense: 625
-  health: 893
+  defense: 624
+  health: 892
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -45,18 +45,18 @@ costume:
   - Attack Buff All
   image: https://i.imgur.com/FY7tylo.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Ascendant Mender
   aetherPower: special_armor
   lb1:
-    power: 528
-    attack: 569
-    defense: 545
+    power: 521
+    attack: 557
+    defense: 534
     health: 801
   lb2:
-    power: 638
-    attack: 703
-    defense: 674
+    power: 629
+    attack: 689
+    defense: 661
     health: 990
 costume2:
   design: toon
@@ -79,22 +79,22 @@ costume2:
     dispels.'
   image: https://i.imgur.com/hDOgs06.jpg
   dtReleased: "2024-05-06"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Ascendant Toon
   aetherPower: defense_up
   lb1:
-    power: 567
-    attack: 618
-    defense: 589
-    health: 867
+    power: 544
+    attack: 590
+    defense: 562
+    health: 829
   lb2:
-    power: 685
-    attack: 764
-    defense: 727
-    health: 1071
+    power: 658
+    attack: 730
+    defense: 695
+    health: 1025
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Cleric
   power: 521
   attack: 590
@@ -113,17 +113,17 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/4UQcx05.jpg
   dtReleased: "2025-07-16"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Ascendant Vitrail
   aetherPower: defense_up
   lb1:
-    power: 582
-    attack: 669
-    defense: 592
-    health: 838
+    power: 581
+    attack: 668
+    defense: 591
+    health: 837
   lb2:
-    power: 704
-    attack: 827
-    defense: 732
+    power: 703
+    attack: 826
+    defense: 731
     health: 1035
 ...

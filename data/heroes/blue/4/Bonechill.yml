@@ -19,24 +19,24 @@ types:
 passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
   prevent the use of Special Skills.'
-- 'Destructive Core: The Construct Core of this character is Destructive Core.'
-- The Destructive Core activates each time this character's Special Skill is cast
-- ' * With fully charged Destructive Core, deals 180% damage to all enemies.'
+- 'Destructive Core: The Construct Core of this character is a Destructive Core. The
+  Destructive Core activates each time this character''s Special Skill is cast'
+- ' * With a fully charged Destructive Core, deals 180% damage to all enemies.'
 - ' * The damage is scaled by the amount of charge in the Core. All charge is exhausted
   when the Core is activated.'
 image: https://i.imgur.com/3Pho2hm.jpg
 dtReleased: "2024-04-25"
-dtModified: "2026-03-28"
+dtModified: "2026-06-07"
 fancy_name: Frost Construct
 aetherPower: attack_up
 lb1:
   power: 752
   attack: 708
-  defense: 826
+  defense: 825
   health: 1348
 lb2:
   power: 859
   attack: 821
-  defense: 958
-  health: 1563
+  defense: 957
+  health: 1564
 ...

@@ -17,19 +17,19 @@ types:
 - Dispeller All
 image: https://i.imgur.com/G6mmZNN.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Deathbound Lady
 aetherPower: special_armor
 lb1:
   power: 687
   attack: 759
   defense: 628
-  health: 1152
+  health: 1151
 lb2:
-  power: 783
-  attack: 880
+  power: 784
+  attack: 881
   defense: 728
-  health: 1335
+  health: 1336
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -49,19 +49,19 @@ costume:
   - Dispeller All
   image: https://i.imgur.com/flsZEGB.jpg
   dtReleased: "2021-01-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Deathless Princess
   aetherPower: defense_up
   lb1:
-    power: 736
-    attack: 822
-    defense: 711
-    health: 1178
+    power: 725
+    attack: 806
+    defense: 697
+    health: 1167
   lb2:
-    power: 840
-    attack: 953
-    defense: 824
-    health: 1366
+    power: 828
+    attack: 935
+    defense: 809
+    health: 1353
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -81,19 +81,19 @@ costume2:
   - Cleanser All
   image: https://i.imgur.com/EBmu86N.jpg
   dtReleased: "2023-11-27"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Deathbound Princess
   aetherPower: counterattack
   lb1:
-    power: 787
-    attack: 801
-    defense: 884
-    health: 1244
+    power: 786
+    attack: 800
+    defense: 883
+    health: 1243
   lb2:
-    power: 899
-    attack: 929
-    defense: 1025
-    health: 1442
+    power: 898
+    attack: 928
+    defense: 1024
+    health: 1441
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -117,22 +117,22 @@ costume3:
     dispels.'
   image: https://i.imgur.com/8kaUg4T.jpg
   dtReleased: "2024-10-06"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Deathless Toon
   aetherPower: special_armor
   lb1:
-    power: 799
-    attack: 872
+    power: 798
+    attack: 871
     defense: 845
-    health: 1233
+    health: 1232
   lb2:
-    power: 913
-    attack: 1011
+    power: 912
+    attack: 1010
     defense: 980
-    health: 1430
+    health: 1429
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Sorcerer
   power: 754
   attack: 829
@@ -152,17 +152,17 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/4SC7QDU.jpg
   dtReleased: "2025-11-25"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Deathbound Vitrail
   aetherPower: special_armor
   lb1:
-    power: 812
-    attack: 901
-    defense: 849
-    health: 1248
+    power: 811
+    attack: 900
+    defense: 847
+    health: 1247
   lb2:
     power: 928
     attack: 1044
-    defense: 984
+    defense: 983
     health: 1447
 ...

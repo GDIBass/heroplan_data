@@ -23,12 +23,12 @@ fancy_name: Flame of the Sun
 aetherPower: dodge
 lb1:
   power: 801
-  attack: 808
+  attack: 807
   defense: 685
   health: 1443
 lb2:
-  power: 899
-  attack: 924
+  power: 898
+  attack: 923
   defense: 784
   health: 1651
 costume:
@@ -53,15 +53,15 @@ costume:
   fancy_name: Fury of the Sun
   aetherPower: damage_reduction
   lb1:
-    power: 904
-    attack: 908
-    defense: 787
-    health: 1723
+    power: 845
+    attack: 842
+    defense: 730
+    health: 1579
   lb2:
-    power: 1017
-    attack: 1039
-    defense: 901
-    health: 1972
+    power: 949
+    attack: 964
+    defense: 836
+    health: 1807
 costume2:
   design: costume2
   bonuses: 25/25/25/5
@@ -86,15 +86,15 @@ costume2:
   fancy_name: Might of the Sun
   aetherPower: ailment_immunity
   lb1:
-    power: 1027
-    attack: 1048
-    defense: 890
-    health: 2049
+    power: 912
+    attack: 932
+    defense: 793
+    health: 1707
   lb2:
-    power: 1158
-    attack: 1199
-    defense: 1019
-    health: 2344
+    power: 1025
+    attack: 1066
+    defense: 907
+    health: 1953
 costume3:
   design: toon
   bonuses: 55/55/70/5
@@ -120,15 +120,15 @@ costume3:
   fancy_name: Toon of the Sun
   aetherPower: dodge
   lb1:
-    power: 1206
-    attack: 1255
-    defense: 1070
-    health: 2445
+    power: 1181
+    attack: 1213
+    defense: 1034
+    health: 2443
   lb2:
-    power: 1362
-    attack: 1437
-    defense: 1224
-    health: 2798
+    power: 1333
+    attack: 1388
+    defense: 1184
+    health: 2796
 costume4:
   design: glass
   bonuses: 75/75/78/5
@@ -156,14 +156,14 @@ costume4:
   aetherPower: dodge
   lb1:
     power: 1318
-    attack: 1445
-    defense: 1188
-    health: 2540
+    attack: 1444
+    defense: 1187
+    health: 2539
   lb2:
-    power: 1491
-    attack: 1653
-    defense: 1360
-    health: 2907
+    power: 1490
+    attack: 1652
+    defense: 1359
+    health: 2906
 costume5:
   design: stylish
   bonuses: 90/90/95/5

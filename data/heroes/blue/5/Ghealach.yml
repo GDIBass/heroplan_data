@@ -24,21 +24,21 @@ types:
 passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
   prevent the use of Special Skills.'
-- 'Destructive Core: The Construct Core of this character is Destructive Core.'
-- The Destructive Core activates each time this character's Special Skill is cast
-- ' * With fully charged Destructive Core, deals 180% damage to all enemies.'
+- 'Destructive Core: The Construct Core of this character is a Destructive Core. The
+  Destructive Core activates each time this character''s Special Skill is cast'
+- ' * With a fully charged Destructive Core, deals 180% damage to all enemies.'
 - ' * The damage is scaled by the amount of charge in the Core. All charge is exhausted
   when the Core is activated.'
 image: https://i.imgur.com/KrLttV5.jpg
 dtReleased: "2023-09-21"
-dtModified: ""
+dtModified: "2026-06-07"
 fancy_name: Starborne Mage Construct
 aetherPower: dodge
 lb1:
   power: 1046
   attack: 1074
   defense: 1025
-  health: 1849
+  health: 1848
 lb2:
   power: 1179
   attack: 1229

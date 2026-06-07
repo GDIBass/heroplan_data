@@ -17,18 +17,18 @@ types:
 - Defense Debuff 1
 image: https://i.imgur.com/8iWG7cB.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Dashing Duelist
 aetherPower: attack_up
 lb1:
-  power: 493
-  attack: 543
-  defense: 466
-  health: 770
+  power: 492
+  attack: 542
+  defense: 465
+  health: 769
 lb2:
-  power: 594
+  power: 593
   attack: 671
-  defense: 576
+  defense: 575
   health: 951
 costume:
   design: costume1
@@ -47,19 +47,19 @@ costume:
   - Attack Buff Self
   image: https://i.imgur.com/V2ztXVp.jpg
   dtReleased: "2021-01-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Clean-Cut Climber
   aetherPower: special_boost
   lb1:
-    power: 526
-    attack: 564
-    defense: 512
-    health: 860
+    power: 519
+    attack: 553
+    defense: 502
+    health: 857
   lb2:
-    power: 634
-    attack: 697
-    defense: 632
-    health: 1062
+    power: 626
+    attack: 683
+    defense: 620
+    health: 1060
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -81,22 +81,22 @@ costume2:
     dispels.'
   image: https://i.imgur.com/ARB96xu.jpg
   dtReleased: "2023-12-25"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Talented Toon
   aetherPower: attack_up
   lb1:
-    power: 563
-    attack: 616
-    defense: 545
-    health: 929
+    power: 562
+    attack: 614
+    defense: 544
+    health: 928
   lb2:
-    power: 680
-    attack: 761
-    defense: 674
+    power: 679
+    attack: 759
+    defense: 672
     health: 1147
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Fighter
   power: 516
   attack: 559
@@ -115,17 +115,17 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/ApzDafa.jpg
   dtReleased: "2025-12-11"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Glass Duelist
   aetherPower: attack_up
   lb1:
-    power: 577
-    attack: 634
+    power: 576
+    attack: 633
     defense: 557
-    health: 959
+    health: 958
   lb2:
-    power: 698
-    attack: 784
+    power: 697
+    attack: 783
     defense: 689
     health: 1185
 ...

@@ -17,7 +17,7 @@ types:
 - Heal Self
 image: https://i.imgur.com/6HwABCg.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Unhinged Assassin
 aetherPower: special_boost
 lb1:
@@ -50,18 +50,18 @@ costume:
   - Mana Steal 3
   image: https://i.imgur.com/7QkxYAf.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Unhinged Surgeon
   aetherPower: attack_up
   lb1:
-    power: 528
-    attack: 495
-    defense: 526
+    power: 522
+    attack: 485
+    defense: 515
     health: 1024
   lb2:
-    power: 638
-    attack: 612
-    defense: 651
+    power: 630
+    attack: 599
+    defense: 637
     health: 1266
 costume2:
   design: toon
@@ -84,22 +84,22 @@ costume2:
     dispels.'
   image: https://i.imgur.com/D4cVPMi.jpg
   dtReleased: "2024-09-08"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Unhinged Toon
   aetherPower: special_boost
   lb1:
-    power: 567
-    attack: 543
-    defense: 555
+    power: 566
+    attack: 542
+    defense: 553
     health: 1122
   lb2:
     power: 685
     attack: 671
-    defense: 685
+    defense: 683
     health: 1387
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Fighter
   power: 519
   attack: 503
@@ -118,17 +118,17 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/LQv6YPQ.jpg
   dtReleased: "2025-11-25"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Glass Assassin
   aetherPower: special_boost
   lb1:
     power: 580
-    attack: 571
+    attack: 570
     defense: 557
-    health: 1143
+    health: 1142
   lb2:
     power: 702
-    attack: 706
+    attack: 704
     defense: 689
-    health: 1413
+    health: 1412
 ...

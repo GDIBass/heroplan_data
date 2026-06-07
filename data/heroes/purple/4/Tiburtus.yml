@@ -17,17 +17,17 @@ types:
 - Defense Debuff 3
 image: https://i.imgur.com/XQUgnc6.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Mournful Duke
 aetherPower: attack_up
 lb1:
   power: 687
-  attack: 718
-  defense: 688
-  health: 1136
+  attack: 717
+  defense: 687
+  health: 1135
 lb2:
   power: 783
-  attack: 832
+  attack: 831
   defense: 797
   health: 1317
 costume:
@@ -47,19 +47,19 @@ costume:
   - Defense Debuff All
   image: https://i.imgur.com/IyFUCM0.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Duke of Rock
   aetherPower: rage
   lb1:
-    power: 736
-    attack: 763
-    defense: 748
-    health: 1250
+    power: 725
+    attack: 747
+    defense: 733
+    health: 1238
   lb2:
-    power: 840
-    attack: 885
-    defense: 867
-    health: 1450
+    power: 827
+    attack: 867
+    defense: 850
+    health: 1436
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -80,18 +80,18 @@ costume2:
   - Max Health Reduction over Time 3
   image: https://i.imgur.com/Yc1tBJ1.jpg
   dtReleased: "2023-10-30"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Lamenting Duke
   aetherPower: special_boost
   lb1:
     power: 785
     attack: 793
-    defense: 825
-    health: 1374
+    defense: 824
+    health: 1373
   lb2:
     power: 897
     attack: 920
-    defense: 957
+    defense: 956
     health: 1593
 costume3:
   design: toon
@@ -114,22 +114,22 @@ costume3:
     dispels.'
   image: https://i.imgur.com/XlVXDYe.jpg
   dtReleased: "2024-08-11"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Mournful Toon
   aetherPower: attack_up
   lb1:
-    power: 799
-    attack: 821
-    defense: 861
-    health: 1329
+    power: 798
+    attack: 820
+    defense: 860
+    health: 1328
   lb2:
     power: 913
-    attack: 952
-    defense: 999
+    attack: 951
+    defense: 998
     health: 1541
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Ranger
   power: 754
   attack: 778
@@ -148,17 +148,17 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/F6l6LRd.jpg
   dtReleased: "2025-09-07"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Mournful Vitrail
   aetherPower: attack_up
   lb1:
-    power: 813
-    attack: 846
-    defense: 871
-    health: 1345
+    power: 812
+    attack: 845
+    defense: 869
+    health: 1344
   lb2:
-    power: 929
-    attack: 981
-    defense: 1009
-    health: 1560
+    power: 928
+    attack: 980
+    defense: 1008
+    health: 1559
 ...

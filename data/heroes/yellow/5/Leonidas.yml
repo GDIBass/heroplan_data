@@ -28,9 +28,9 @@ lb1:
   defense: 774
   health: 1316
 lb2:
-  power: 899
+  power: 898
   attack: 901
-  defense: 886
+  defense: 885
   health: 1506
 costume:
   design: costume1
@@ -55,20 +55,20 @@ costume:
   fancy_name: King of Sparta
   aetherPower: damage_reduction
   lb1:
-    power: 902
-    attack: 870
-    defense: 898
-    health: 1585
+    power: 843
+    attack: 807
+    defense: 833
+    health: 1452
   lb2:
-    power: 1014
-    attack: 995
-    defense: 1027
-    health: 1813
+    power: 947
+    attack: 923
+    defense: 953
+    health: 1661
 costume2:
   design: costume2
   bonuses: 25/25/25/5
   class: Ranger
-  power: 792
+  power: 793
   attack: 753
   defense: 763
   health: 1369
@@ -88,15 +88,15 @@ costume2:
   fancy_name: Unyielding Mage
   aetherPower: ailment_immunity
   lb1:
-    power: 1025
-    attack: 999
-    defense: 1010
-    health: 1918
+    power: 845
+    attack: 811
+    defense: 822
+    health: 1475
   lb2:
-    power: 1155
-    attack: 1143
-    defense: 1156
-    health: 2194
+    power: 949
+    attack: 928
+    defense: 941
+    health: 1688
 costume3:
   design: toon
   bonuses: 55/55/70/5
@@ -124,15 +124,15 @@ costume3:
   fancy_name: Unyielding Toon
   aetherPower: counterattack
   lb1:
-    power: 1203
-    attack: 1228
-    defense: 1187
-    health: 2260
+    power: 1178
+    attack: 1187
+    defense: 1148
+    health: 2259
   lb2:
-    power: 1359
-    attack: 1405
-    defense: 1358
-    health: 2586
+    power: 1330
+    attack: 1359
+    defense: 1313
+    health: 2585
 costume4:
   design: glass
   bonuses: 75/75/78/5
@@ -165,9 +165,9 @@ costume4:
     defense: 1301
     health: 2323
   lb2:
-    power: 1491
+    power: 1490
     attack: 1649
-    defense: 1489
+    defense: 1488
     health: 2658
 costume5:
   design: stylish

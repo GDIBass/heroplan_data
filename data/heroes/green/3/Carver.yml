@@ -17,19 +17,19 @@ types:
 - Mana Reduction All
 image: https://i.imgur.com/DfWafQ3.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: The Cutpurse
 aetherPower: attack_up
 lb1:
   power: 494
   attack: 525
-  defense: 508
+  defense: 507
   health: 740
 lb2:
-  power: 595
-  attack: 649
+  power: 596
+  attack: 650
   defense: 627
-  health: 915
+  health: 914
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -47,19 +47,19 @@ costume:
   - Mana Generation Debuff All
   image: https://i.imgur.com/xs9Nn7b.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: The Cutthroat
   aetherPower: special_boost
   lb1:
-    power: 527
-    attack: 583
-    defense: 522
-    health: 803
+    power: 520
+    attack: 572
+    defense: 512
+    health: 802
   lb2:
-    power: 636
-    attack: 721
-    defense: 645
-    health: 993
+    power: 628
+    attack: 707
+    defense: 633
+    health: 992
 costume2:
   design: toon
   bonuses: 5/5/10/5
@@ -81,22 +81,22 @@ costume2:
     dispels.'
   image: https://i.imgur.com/rbDQHbY.jpg
   dtReleased: "2024-06-28"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: The Cutpurse Toon
   aetherPower: attack_up
   lb1:
     power: 565
-    attack: 609
-    defense: 584
-    health: 888
+    attack: 608
+    defense: 583
+    health: 887
   lb2:
-    power: 684
+    power: 683
     attack: 752
-    defense: 722
-    health: 1098
+    defense: 721
+    health: 1097
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Rogue
   power: 518
   attack: 625
@@ -106,7 +106,7 @@ costume3:
   effects:
   - Deals 165% damage to all enemies.
   - The attack bypasses defensive buffs. (This includes counterattacks.)
-  - Reduces the mana of all enemies by -15%.
+  - Reduces the mana of all enemies by 15%.
   types:
   - Hit All
   - Bypass
@@ -115,17 +115,17 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/1k45GDi.jpg
   dtReleased: "2025-07-16"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Glass Cutpurse
   aetherPower: attack_up
   lb1:
-    power: 580
-    attack: 709
-    defense: 488
-    health: 932
+    power: 579
+    attack: 708
+    defense: 486
+    health: 931
   lb2:
-    power: 701
+    power: 700
     attack: 875
-    defense: 603
-    health: 1152
+    defense: 601
+    health: 1151
 ...

@@ -33,10 +33,10 @@ dtModified: "2026-03-20"
 fancy_name: Clumsy Skeleton
 aetherPower: regen
 lb1:
-  power: 739
+  power: 738
   attack: 729
-  defense: 725
-  health: 1401
+  defense: 724
+  health: 1400
 lb2:
   power: 843
   attack: 845

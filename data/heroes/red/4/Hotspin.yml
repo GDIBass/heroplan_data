@@ -24,9 +24,9 @@ passives:
 - 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
   that prevent the use of Special Skills. They also gain 450 boosted health and 5%
   mana each time they resist.'
-- 'Minion Core: The Construct Core of this character is Minion Core.'
-- 'The Minion Core activates each time this character''s Special Skill is cast:'
-- ' * With a fully charged Minion Core, summons a Killer Bot Minion with 27% HP and
+- 'Minion Core: The Construct Core of this character is Minion Core. The Minion Core
+  activates each time this character''s Special Skill is cast.'
+- ' * With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and
   55% attack inherited from the caster on all allies.'
 - ' * The HP and attack inherited from the caster are scaled by the amount of charge
   in the Core. All charge is exhausted when the Core is activated.'
@@ -36,17 +36,17 @@ passives:
 - ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
 image: https://imgur.com/v7E3Y8c.jpg
 dtReleased: "2025-12-23"
-dtModified: ""
+dtModified: "2026-06-07"
 fancy_name: Flame Cyclone Construct
 aetherPower: counterattack
 lb1:
-  power: 857
+  power: 856
   attack: 886
-  defense: 865
+  defense: 864
   health: 1570
 lb2:
   power: 980
-  attack: 1027
+  attack: 1028
   defense: 1003
-  health: 1820
+  health: 1821
 ...

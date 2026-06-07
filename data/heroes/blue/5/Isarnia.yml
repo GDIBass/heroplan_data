@@ -17,17 +17,17 @@ types:
 - Defense Debuff All
 image: https://i.imgur.com/IqOKah3.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-06"
 fancy_name: Protector of Glaceholm
 aetherPower: regen
 lb1:
   power: 804
   attack: 859
-  defense: 705
-  health: 1294
+  defense: 706
+  health: 1293
 lb2:
-  power: 901
-  attack: 982
+  power: 902
+  attack: 983
   defense: 807
   health: 1480
 costume:
@@ -47,19 +47,19 @@ costume:
   - Defense Debuff All
   image: https://i.imgur.com/j8POeJ4.jpg
   dtReleased: "2020-01-01"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Ice Witch of Glaceholm
   aetherPower: special_boost
   lb1:
-    power: 904
-    attack: 1008
-    defense: 765
-    health: 1521
+    power: 846
+    attack: 936
+    defense: 710
+    health: 1393
   lb2:
-    power: 1017
-    attack: 1153
-    defense: 875
-    health: 1740
+    power: 950
+    attack: 1071
+    defense: 812
+    health: 1594
 costume2:
   design: costume2
   bonuses: 5/5/10/5
@@ -79,19 +79,19 @@ costume2:
   - Attack Debuff All
   image: https://i.imgur.com/wccczud.jpg
   dtReleased: "2022-09-05"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Ruler of Glaceholm
   aetherPower: regen
   lb1:
-    power: 1028
-    attack: 1131
-    defense: 887
-    health: 1854
+    power: 914
+    attack: 1006
+    defense: 790
+    health: 1543
   lb2:
-    power: 1159
-    attack: 1294
-    defense: 1015
-    health: 2121
+    power: 1028
+    attack: 1152
+    defense: 904
+    health: 1766
 costume3:
   design: toon
   bonuses: 5/5/10/5
@@ -113,22 +113,22 @@ costume3:
     dispels.'
   image: https://i.imgur.com/mFs5DrO.jpg
   dtReleased: "2024-05-06"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Protector of Toons
   aetherPower: regen
   lb1:
-    power: 1206
-    attack: 1293
-    defense: 1135
+    power: 1181
+    attack: 1251
+    defense: 1097
     health: 2226
   lb2:
-    power: 1363
-    attack: 1480
-    defense: 1299
+    power: 1334
+    attack: 1432
+    defense: 1255
     health: 2547
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 75/75/78/5
   class: Wizard
   power: 1236
   attack: 1463
@@ -147,17 +147,17 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/mpefymk.jpg
   dtReleased: "2025-06-18"
-  dtModified: ""
+  dtModified: "2026-06-06"
   fancy_name: Vitrail of Glaceholm
   aetherPower: regen
   lb1:
     power: 1322
     attack: 1577
-    defense: 1173
-    health: 2268
+    defense: 1172
+    health: 2267
   lb2:
-    power: 1495
+    power: 1494
     attack: 1804
-    defense: 1342
-    health: 2595
+    defense: 1341
+    health: 2593
 ...

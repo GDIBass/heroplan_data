@@ -13,7 +13,7 @@ effects:
 - Deals 500% damage to all enemies.
 - All enemies receive Corrosive Burn for 5 turns. The Corrosive Burn deals 322 Burn
   damage and lowers the target's defense by -13% each turn. Deals extra damage against
-  heroes with Minions and Mega Minion.
+  heroes with Minions or a Mega Minion.
 - The caster regenerate 1480 boosted health over 4 turns. Boosted health can exceed
   max HP.
 - The caster gets +50% mana generation for 4 turns. (Affects only mana generated from
@@ -29,17 +29,17 @@ passives:
   battle. The chance is 20% of the original value.'
 image: https://imgur.com/Yf46q7H.jpg
 dtReleased: "2025-06-15"
-dtModified: ""
+dtModified: "2026-06-05"
 fancy_name: The Magmatic Drummer
 aetherPower: ailment_immunity
 lb1:
-  power: 1296
-  attack: 1312
+  power: 1295
+  attack: 1311
   defense: 1336
   health: 2413
 lb2:
-  power: 1464
+  power: 1465
   attack: 1501
   defense: 1529
-  health: 2760
+  health: 2761
 ...
