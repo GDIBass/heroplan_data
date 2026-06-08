@@ -19,6 +19,7 @@ types:
 - Defense Buff All
 - Ailments Damage Immunity All
 passives:
+- 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Frost: This character is immune to status ailments that deal Frost
   damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
@@ -30,7 +31,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://imgur.com/GPSIC9I.jpg
 dtReleased: "2025-05-16"
-dtModified: "2026-05-25"
+dtModified: "2026-06-08"
 fancy_name: Dwarven Frost Seeker
 aetherPower: defense_up
 lb1:

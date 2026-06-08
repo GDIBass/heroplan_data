@@ -21,6 +21,7 @@ types:
 - Dodge Chance All
 - Mark of Immolation Stack Self
 passives:
+- 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
   damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
@@ -32,7 +33,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/rCRyftg.jpg
 dtReleased: "2025-03-23"
-dtModified: "2026-05-25"
+dtModified: "2026-06-08"
 fancy_name: Dwarven Fire Seeker
 aetherPower: regen
 lb1:
