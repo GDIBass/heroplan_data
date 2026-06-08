@@ -12,7 +12,7 @@ skill: Grimoire Fatalis
 effects:
 - Deals 180% damage to 6 random enemies.
 - All enemies get -45% defense against Fire for 3 turns.
-- For 3 turns, the element of all enemies is change each turn. On the first 2 turns,
+- For 3 turns, the element of all enemies is changed each turn. On the first 2 turns,
   the element is random.
 - On the last turn, enemies revert to their original element.
 - After each element change, enemies take 846 damage if their element is Nature.
@@ -37,7 +37,7 @@ passives:
 - ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
 image: https://imgur.com/5rDKpV1.jpg
 dtReleased: "2026-06-07"
-dtModified: ""
+dtModified: "2026-06-08"
 fancy_name: Mage's Vessel Construct
 aetherPower: special_boost
 lb1:
