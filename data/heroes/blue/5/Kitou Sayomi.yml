@@ -34,6 +34,7 @@ types:
 - DoT 1/3/All
 - Delayed Paralyze 3/All
 passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 - 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
 - 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
   the following actions'
@@ -41,7 +42,7 @@ passives:
 - ' * The attacker receives 1500 Bleed damage over 3 turns.'
 image: https://imgur.com/bgQoOwE.jpg
 dtReleased: "2026-05-30"
-dtModified: ""
+dtModified: "2026-06-08"
 fancy_name: Midnight Hunter Ronin
 aetherPower: rage
 lb1:
