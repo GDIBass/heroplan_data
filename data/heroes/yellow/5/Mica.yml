@@ -30,19 +30,21 @@ types:
 - Ally Damage Share
 - Defense Buff All
 - Mana Generation Buff All
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/T4WxYxG.jpg
 dtReleased: "2020-10-13"
-dtModified: ""
+dtModified: "2026-06-08"
 fancy_name: Ninja of Silent Screams
 aetherPower: special_armor
 lb1:
-  power: 851
-  attack: 772
+  power: 850
+  attack: 771
   defense: 885
   health: 1487
 lb2:
   power: 955
   attack: 883
-  defense: 1013
-  health: 1701
+  defense: 1012
+  health: 1702
 ...

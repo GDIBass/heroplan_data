@@ -29,9 +29,11 @@ effects:
 types:
 - Charge
 - Hit 3
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/QuMcU9O.jpg
 dtReleased: "2023-07-26"
-dtModified: ""
+dtModified: "2026-06-08"
 fancy_name: Greatbow Saboteur
 aetherPower: attack_up
 lb1:
@@ -42,6 +44,6 @@ lb1:
 lb2:
   power: 1211
   attack: 1290
-  defense: 1092
+  defense: 1091
   health: 2354
 ...

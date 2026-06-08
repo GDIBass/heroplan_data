@@ -33,19 +33,21 @@ types:
 - Charge
 - Hit All
 - Fiend Summoner All
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/OBE1Glz.jpg
 dtReleased: "2023-01-11"
-dtModified: ""
+dtModified: "2026-06-08"
 fancy_name: Hidden Assassin
 aetherPower: fiend_resist
 lb1:
-  power: 925
+  power: 924
   attack: 936
-  defense: 870
+  defense: 869
   health: 1636
 lb2:
   power: 1040
   attack: 1071
   defense: 995
-  health: 1871
+  health: 1872
 ...

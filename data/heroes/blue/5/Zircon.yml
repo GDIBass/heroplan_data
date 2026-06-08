@@ -34,19 +34,21 @@ types:
 - Boosted HoT All
 - Defense Buff All
 - Buff Dispel Immunity All
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/3XPQv8U.jpg
 dtReleased: "2021-11-10"
-dtModified: ""
+dtModified: "2026-06-08"
 fancy_name: Ninja of Silent Waves
 aetherPower: heal_increase
 lb1:
   power: 872
   attack: 792
   defense: 905
-  health: 1547
+  health: 1546
 lb2:
   power: 979
   attack: 906
   defense: 1036
-  health: 1770
+  health: 1769
 ...

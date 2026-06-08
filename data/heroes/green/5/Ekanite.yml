@@ -36,9 +36,11 @@ types:
 - Charge
 - Hit All
 - Counterattack Minion Summoner All
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/YQskc4O.jpg
 dtReleased: "2023-01-11"
-dtModified: ""
+dtModified: "2026-06-08"
 fancy_name: Shinobi Squad Leader
 aetherPower: attack_up
 lb1:
@@ -47,8 +49,8 @@ lb1:
   defense: 865
   health: 1684
 lb2:
-  power: 1039
-  attack: 1049
+  power: 1038
+  attack: 1048
   defense: 990
   health: 1927
 ...
