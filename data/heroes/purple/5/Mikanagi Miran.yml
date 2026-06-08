@@ -14,6 +14,7 @@ effects:
 - 'x1 Mana Charge:'
 - Deals 320% damage to the target.
 - Deals additional 320% damage to 1 random enemies.
+- 'Stack (Max: 10): Each hit gives its target -5% defense.'
 - Dispel 1 buffs from each hit enemy.
 - 'x2 Mana Charge:'
 - Deals 330% damage to the target.
