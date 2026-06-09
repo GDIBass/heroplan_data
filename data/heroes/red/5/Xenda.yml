@@ -32,12 +32,12 @@ lb1:
   power: 909
   attack: 899
   defense: 865
-  health: 1625
+  health: 1624
 lb2:
   power: 1022
   attack: 1028
   defense: 990
-  health: 1859
+  health: 1858
 costume:
   design: costume1
   bonuses: 30/30/35/5
@@ -70,13 +70,13 @@ costume:
   fancy_name: Heiress to the Flame
   aetherPower: counterattack
   lb1:
-    power: 1156
-    attack: 1157
-    defense: 1139
-    health: 2196
+    power: 1155
+    attack: 1156
+    defense: 1138
+    health: 2195
   lb2:
-    power: 1305
-    attack: 1324
-    defense: 1304
-    health: 2513
+    power: 1304
+    attack: 1323
+    defense: 1302
+    health: 2512
 ...

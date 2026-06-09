@@ -26,9 +26,9 @@ fancy_name: Octropod Assassin
 aetherPower: attack_up
 lb1:
   power: 728
-  attack: 736
+  attack: 735
   defense: 708
-  health: 1341
+  health: 1340
 lb2:
   power: 831
   attack: 853
@@ -59,13 +59,13 @@ costume:
   fancy_name: Octopod Dancer
   aetherPower: counterattack
   lb1:
-    power: 745
-    attack: 763
-    defense: 725
+    power: 744
+    attack: 761
+    defense: 724
     health: 1363
   lb2:
-    power: 851
-    attack: 884
-    defense: 841
+    power: 850
+    attack: 883
+    defense: 840
     health: 1581
 ...

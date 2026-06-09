@@ -28,10 +28,10 @@ lb1:
   power: 728
   attack: 701
   defense: 745
-  health: 1355
+  health: 1354
 lb2:
   power: 831
-  attack: 813
+  attack: 814
   defense: 864
   health: 1571
 costume:
@@ -59,13 +59,13 @@ costume:
   fancy_name: Halfling Novelist
   aetherPower: damage_reduction
   lb1:
-    power: 745
-    attack: 715
-    defense: 777
-    health: 1375
+    power: 744
+    attack: 714
+    defense: 776
+    health: 1374
   lb2:
-    power: 851
-    attack: 830
+    power: 850
+    attack: 829
     defense: 901
-    health: 1595
+    health: 1594
 ...

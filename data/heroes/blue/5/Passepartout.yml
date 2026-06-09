@@ -28,15 +28,15 @@ dtModified: "2026-04-20"
 fancy_name: Clever Voyager
 aetherPower: special_armor
 lb1:
-  power: 864
+  power: 865
   attack: 814
   defense: 865
-  health: 1520
+  health: 1521
 lb2:
-  power: 971
+  power: 972
   attack: 932
   defense: 990
-  health: 1739
+  health: 1740
 costume:
   design: costume1
   bonuses: 30/30/35/5
@@ -67,13 +67,13 @@ costume:
   fancy_name: Elegant Artist
   aetherPower: defense_up
   lb1:
-    power: 1096
-    attack: 952
-    defense: 1255
+    power: 1095
+    attack: 950
+    defense: 1254
     health: 2052
   lb2:
-    power: 1236
-    attack: 1089
-    defense: 1436
+    power: 1235
+    attack: 1087
+    defense: 1435
     health: 2348
 ...

@@ -61,13 +61,13 @@ costume:
   fancy_name: Octopod Hierophant
   aetherPower: special_armor
   lb1:
-    power: 1101
-    attack: 1131
+    power: 1100
+    attack: 1130
     defense: 1070
-    health: 2004
+    health: 2005
   lb2:
-    power: 1242
-    attack: 1294
-    defense: 1225
+    power: 1241
+    attack: 1293
+    defense: 1224
     health: 2294
 ...

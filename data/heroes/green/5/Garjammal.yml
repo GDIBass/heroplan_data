@@ -32,7 +32,7 @@ lb1:
 lb2:
   power: 966
   attack: 975
-  defense: 955
+  defense: 954
   health: 1663
 costume:
   design: costume1
@@ -63,12 +63,12 @@ costume:
   aetherPower: regen
   lb1:
     power: 1091
-    attack: 1082
-    defense: 1096
-    health: 2007
+    attack: 1081
+    defense: 1095
+    health: 2008
   lb2:
-    power: 1231
-    attack: 1238
-    defense: 1254
+    power: 1230
+    attack: 1237
+    defense: 1253
     health: 2297
 ...

@@ -30,14 +30,14 @@ fancy_name: Head of the Moles
 aetherPower: special_armor
 lb1:
   power: 869
-  attack: 816
-  defense: 843
-  health: 1593
+  attack: 817
+  defense: 842
+  health: 1594
 lb2:
   power: 977
   attack: 934
-  defense: 965
-  health: 1823
+  defense: 964
+  health: 1824
 costume:
   design: costume1
   bonuses: 30/30/35/5
@@ -69,13 +69,13 @@ costume:
   fancy_name: Head Nurse
   aetherPower: ailment_immunity
   lb1:
-    power: 1105
-    attack: 1059
-    defense: 1125
-    health: 2103
+    power: 1104
+    attack: 1058
+    defense: 1124
+    health: 2104
   lb2:
-    power: 1246
+    power: 1245
     attack: 1211
-    defense: 1287
+    defense: 1286
     health: 2407
 ...

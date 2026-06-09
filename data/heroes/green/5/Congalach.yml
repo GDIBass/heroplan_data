@@ -26,12 +26,12 @@ aetherPower: attack_up
 lb1:
   power: 868
   attack: 852
-  defense: 843
+  defense: 842
   health: 1498
 lb2:
   power: 976
   attack: 975
-  defense: 965
+  defense: 964
   health: 1714
 costume:
   design: costume1
@@ -60,13 +60,13 @@ costume:
   fancy_name: Warrior of Kelp
   aetherPower: regen
   lb1:
-    power: 1102
-    attack: 1105
-    defense: 1082
+    power: 1101
+    attack: 1103
+    defense: 1081
     health: 2058
   lb2:
     power: 1243
-    attack: 1264
-    defense: 1238
+    attack: 1263
+    defense: 1237
     health: 2355
 ...
