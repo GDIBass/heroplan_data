@@ -1,0 +1,56 @@
+---
+name: Pepo
+source: valiant
+family: vegetable
+speed: Average
+class: Barbarian
+power: 1332
+attack: 1363
+defense: 1411
+health: 2395
+skill: Survival of the Plumpest
+effects:
+- Deals 600% damage to the target.
+- If the target has Fiends or Mega Fiends, deals 300% damage to 2 random different
+  enemies.
+- 'Summons a Seedling Fiend to each hit enemy. (The Seeding Fiend evolves into a Sprout
+  Fiend after 2 turns. The Sprout Fiend evolves into a Blossom Mega Fiend after 2
+  turns. Seedling Fiend: 50% attack, 20% health, Sprout Fiend: 75% attack, 30% health,
+  Blossom Mega Fiend: 250% attack, 60% health. A Fiend damages their target every
+  turn. A Fiend disappears after absorbing healing. Amount of healing required depends
+  on the target''s max health. The evolution of the Fiends is delayed by 1 turn each
+  time they absorb healing.)'
+- All allies get +55% defense for 4 turns. The effect duration is reset if the status
+  effect owner is hit with direct damage from a Special Skills.
+types:
+- Hit 1
+- Hit Random 2
+- Fiend Summoner on hit
+- Defense Debuff All
+passives:
+- 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
+  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
+  mana each time they resist.'
+- 'Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.'
+- ' * The Seedling Fiend evolves into a Sprout Fiend after 2 turns.'
+- ' * The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.'
+- ' * The evolution of the Fiends is delayed by 1 turn each time they absorb healing.'
+- ' 1) Seedling Fiend: 50% attack, 20% health'
+- ' 2) Sprout Fiend: 75% attack, 30% health'
+- ' 3) Blossom Mega Fiend: 250% attack, 60% health'
+image: https://imgur.com/QUZtGNE.jpg
+dtReleased: "2026-06-09"
+dtModified: ""
+fancy_name: Survivalist Pumpkin
+aetherPower: bulwark
+lb1:
+  power: 1426
+  attack: 1469
+  defense: 1521
+  health: 2581
+lb2:
+  power: 1614
+  attack: 1681
+  defense: 1740
+  health: 2954
+...
