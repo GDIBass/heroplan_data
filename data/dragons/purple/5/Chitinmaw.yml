@@ -1,0 +1,43 @@
+---
+name: Chitinmaw
+fancy_name: "Scale-Eating, Chitinous Wyrm"
+source: ancientUnderroot
+speed: Fast
+power: 13000
+attack: 16640
+defense: 16109
+health: 14543
+skill: Dreadbite
+effects:
+- This Special Skill never misses its targets.
+- Deals 340% damage to the target.
+- After 1 turn the target gets Paralyzed for 2 turns. (Paralyzed enemies can't attack
+  or gain mana and receive +50% increased damage. Once Paralyzed, the effect can't
+  be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)
+types:
+- Hit 1
+- Delayed Paralyze 1
+spiritBonus:
+  spiritClass: Druid
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Crushing Blaze
+  effects:
+  - Deals 860 damage to all enemies.
+  - Recovers 210 health for all allies.
+  - All damage all enemies receive is increased by +20% for 5 turns.
+image: https://imgur.com/QhtyteZ.jpg
+dtReleased: "2026-06-09"
+dtModified: ""
+...

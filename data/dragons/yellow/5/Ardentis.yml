@@ -35,7 +35,7 @@ spiritBonus:
 assist:
   name: Crushing Blaze
   effects:
-  - Deals 850 damage to all enemies,
+  - Deals 850 damage to all enemies.
   - Recovers 200 health for all allies.
   - All damage all enemies receive is increased by 20% for 5 turns.
 image: https://imgur.com/KgfCHxa.jpg
