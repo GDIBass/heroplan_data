@@ -28,19 +28,21 @@ types:
 - Boosted Heal All
 - Mana Generation Buff All
 - Defense Buff All
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/tXk6QNw.jpg
 dtReleased: "2023-04-05"
-dtModified: ""
+dtModified: "2026-06-08"
 fancy_name: The Strongest Bannerlord
 aetherPower: heal_increase
 lb1:
   power: 931
-  attack: 881
+  attack: 880
   defense: 963
-  health: 1633
+  health: 1634
 lb2:
-  power: 1048
-  attack: 1008
+  power: 1047
+  attack: 1007
   defense: 1102
   health: 1869
 ...

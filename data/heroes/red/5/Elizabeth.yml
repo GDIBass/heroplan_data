@@ -30,15 +30,15 @@ dtModified: "2026-04-20"
 fancy_name: Arachnid Aristocrat
 aetherPower: fiend_resist
 lb1:
-  power: 860
-  attack: 828
-  defense: 812
+  power: 859
+  attack: 827
+  defense: 811
   health: 1560
 lb2:
   power: 966
   attack: 947
-  defense: 929
-  health: 1785
+  defense: 928
+  health: 1786
 costume:
   design: costume1
   bonuses: 30/30/35/5
@@ -73,12 +73,12 @@ costume:
   aetherPower: counterattack
   lb1:
     power: 1091
-    attack: 1096
-    defense: 1064
+    attack: 1095
+    defense: 1065
     health: 2037
   lb2:
-    power: 1231
-    attack: 1254
+    power: 1230
+    attack: 1253
     defense: 1218
     health: 2331
 ...

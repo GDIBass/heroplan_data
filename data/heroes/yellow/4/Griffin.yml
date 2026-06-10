@@ -24,9 +24,9 @@ dtModified: "2026-04-20"
 fancy_name: Invisible Man
 aetherPower: special_boost
 lb1:
-  power: 729
-  attack: 803
-  defense: 695
+  power: 728
+  attack: 802
+  defense: 694
   health: 1205
 lb2:
   power: 831
@@ -58,13 +58,13 @@ costume:
   fancy_name: Invisible Priest
   aetherPower: attack_up
   lb1:
-    power: 745
-    attack: 824
-    defense: 727
-    health: 1207
+    power: 744
+    attack: 822
+    defense: 726
+    health: 1206
   lb2:
-    power: 851
-    attack: 955
+    power: 850
+    attack: 954
     defense: 843
-    health: 1400
+    health: 1399
 ...

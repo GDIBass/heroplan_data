@@ -66,13 +66,13 @@ costume:
   fancy_name: Apocynacid Queen
   aetherPower: counterattack
   lb1:
-    power: 1094
-    attack: 1171
+    power: 1093
+    attack: 1170
     defense: 1038
-    health: 1921
+    health: 1920
   lb2:
-    power: 1234
-    attack: 1340
-    defense: 1188
-    health: 2197
+    power: 1233
+    attack: 1339
+    defense: 1187
+    health: 2198
 ...

@@ -23,15 +23,15 @@ dtModified: "2026-04-20"
 fancy_name: Kind-hearted Princess
 aetherPower: attack_up
 lb1:
-  power: 862
+  power: 861
   attack: 874
-  defense: 843
-  health: 1394
+  defense: 842
+  health: 1393
 lb2:
   power: 968
   attack: 1000
-  defense: 965
-  health: 1595
+  defense: 964
+  health: 1594
 costume:
   design: costume1
   bonuses: 30/30/35/5
@@ -60,11 +60,11 @@ costume:
   lb1:
     power: 1094
     attack: 1220
-    defense: 1096
-    health: 1684
+    defense: 1095
+    health: 1682
   lb2:
-    power: 1234
+    power: 1233
     attack: 1396
-    defense: 1254
-    health: 1927
+    defense: 1253
+    health: 1925
 ...

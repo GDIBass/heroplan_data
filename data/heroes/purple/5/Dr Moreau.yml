@@ -28,13 +28,13 @@ aetherPower: attack_up
 lb1:
   power: 860
   attack: 834
-  defense: 810
+  defense: 809
   health: 1551
 lb2:
-  power: 967
-  attack: 955
-  defense: 927
-  health: 1775
+  power: 966
+  attack: 954
+  defense: 926
+  health: 1774
 costume:
   design: costume1
   bonuses: 30/30/35/5
@@ -65,12 +65,12 @@ costume:
   aetherPower: special_boost
   lb1:
     power: 1091
-    attack: 1064
+    attack: 1065
     defense: 1070
-    health: 2103
+    health: 2104
   lb2:
     power: 1231
     attack: 1218
-    defense: 1225
+    defense: 1224
     health: 2407
 ...

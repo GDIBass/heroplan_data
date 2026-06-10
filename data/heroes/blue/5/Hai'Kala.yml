@@ -10,6 +10,8 @@ defense: 1409
 health: 2533
 skill: Mending High Tide
 effects:
+- Cleanses status ailments from all allies.
+- Destroys all Fiends from all allies and damages all Mega Fiends.
 - Recovers 60% health for the caster.
 - The healing chains through all the allies who are adjacent to any healed ally.
 - All healed allies get +50% mana generation for 5 turns (Affects only mana generated
@@ -28,13 +30,13 @@ types:
 passives:
 - 'Shark''s Might: This character''s Special Skill, Minions and Mega Minions deal
   increased damage against enemies with any ailment that deals Water damage.'
-- ' * Damage increased for Special Skills 30%.'
-- ' * Damage increased for Minions and Mega Minions 50%.'
+- ' * Damage increased for Special Skills 35%.'
+- ' * Damage increased for Minions and Mega Minions 60%.'
 - 'Empowered Resist Water: This character is immune to status ailments that deal Water
   damage and gains 450 boosted health and 5% mana each time they resist.'
 image: https://imgur.com/OApybZ4.jpg
 dtReleased: "2026-06-01"
-dtModified: ""
+dtModified: "2026-06-10"
 fancy_name: The Tiki Shark Enchantress
 aetherPower: heal_increase
 lb1:

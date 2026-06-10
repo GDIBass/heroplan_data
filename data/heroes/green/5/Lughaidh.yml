@@ -36,10 +36,10 @@ dtModified: "2026-04-20"
 fancy_name: King of the Depths
 aetherPower: special_armor
 lb1:
-  power: 864
+  power: 863
   attack: 777
   defense: 896
-  health: 1545
+  health: 1544
 lb2:
   power: 970
   attack: 889
@@ -81,13 +81,13 @@ costume:
   fancy_name: The Deathless King
   aetherPower: boosted_regen
   lb1:
-    power: 1097
-    attack: 1001
-    defense: 1186
-    health: 2073
+    power: 1096
+    attack: 1000
+    defense: 1184
+    health: 2072
   lb2:
-    power: 1237
-    attack: 1145
-    defense: 1357
-    health: 2372
+    power: 1236
+    attack: 1144
+    defense: 1355
+    health: 2371
 ...

@@ -26,12 +26,12 @@ fancy_name: Ettin Commander
 aetherPower: rage
 lb1:
   power: 868
-  attack: 848
+  attack: 847
   defense: 836
   health: 1518
 lb2:
   power: 975
-  attack: 970
+  attack: 969
   defense: 957
   health: 1737
 costume:
@@ -63,13 +63,13 @@ costume:
   fancy_name: Ettin Grillmaster
   aetherPower: attack_up
   lb1:
-    power: 1102
-    attack: 1099
+    power: 1101
+    attack: 1098
     defense: 1070
-    health: 2094
+    health: 2093
   lb2:
-    power: 1243
-    attack: 1258
-    defense: 1225
-    health: 2396
+    power: 1242
+    attack: 1256
+    defense: 1224
+    health: 2395
 ...

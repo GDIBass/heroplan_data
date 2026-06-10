@@ -26,7 +26,7 @@ aetherPower: rage
 lb1:
   power: 728
   attack: 768
-  defense: 715
+  defense: 714
   health: 1246
 lb2:
   power: 831
@@ -58,12 +58,12 @@ costume:
   aetherPower: attack_up
   lb1:
     power: 744
-    attack: 788
-    defense: 737
-    health: 1270
+    attack: 787
+    defense: 736
+    health: 1269
   lb2:
-    power: 850
-    attack: 914
+    power: 849
+    attack: 913
     defense: 854
     health: 1472
 ...

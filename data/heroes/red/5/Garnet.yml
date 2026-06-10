@@ -23,20 +23,22 @@ types:
 - Charge
 - Health Boost All
 - Status Ailment Immunity Buff All
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/Vxe7UpD.jpg
 dtReleased: "2020-10-13"
-dtModified: ""
+dtModified: "2026-06-08"
 fancy_name: Ninja of Soaring Vitality
 aetherPower: attack_up
 lb1:
-  power: 851
+  power: 850
   attack: 788
-  defense: 810
+  defense: 809
   health: 1596
 lb2:
   power: 955
   attack: 901
-  defense: 927
+  defense: 926
   health: 1826
 costume:
   design: costume1
@@ -66,11 +68,12 @@ costume:
   - Health Boost All
   - Status Ailment Immunity Buff All
   passives:
+  - 'Weaker Minions: Enemy Minions have -50% HP.'
   - 'Rending Touch: Each time this character counterattacks an enemy, the attacker
     receives 544 Bleed damage over 4 turns.'
   image: https://imgur.com/v4HyBJH.jpg
   dtReleased: "2026-05-30"
-  dtModified: ""
+  dtModified: "2026-06-08"
   fancy_name: Ninja of Flaming Vigor
   aetherPower: defense_up
   lb1:

@@ -25,12 +25,12 @@ fancy_name: Morlock Chieftain
 aetherPower: attack_up
 lb1:
   power: 859
-  attack: 843
+  attack: 842
   defense: 832
-  health: 1478
+  health: 1477
 lb2:
-  power: 966
-  attack: 965
+  power: 965
+  attack: 964
   defense: 952
   health: 1691
 costume:
@@ -64,13 +64,13 @@ costume:
   fancy_name: Morlock Running Back
   aetherPower: damage_reduction
   lb1:
-    power: 1091
-    attack: 1062
-    defense: 1105
+    power: 1090
+    attack: 1061
+    defense: 1103
     health: 2037
   lb2:
-    power: 1230
-    attack: 1215
-    defense: 1264
+    power: 1229
+    attack: 1214
+    defense: 1263
     health: 2331
 ...

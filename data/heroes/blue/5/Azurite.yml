@@ -34,19 +34,21 @@ types:
 - Hit 3
 - Blind 3
 - Damage Random Ally Debuff on miss 3
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/bzEzdnP.jpg
 dtReleased: "2023-05-31"
-dtModified: ""
+dtModified: "2026-06-08"
 fancy_name: Ninja Outlook
 aetherPower: attack_up
 lb1:
   power: 935
   attack: 1012
   defense: 834
-  health: 1591
+  health: 1592
 lb2:
   power: 1052
   attack: 1158
-  defense: 955
+  defense: 954
   health: 1821
 ...

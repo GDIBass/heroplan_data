@@ -27,12 +27,12 @@ aetherPower: attack_up
 lb1:
   power: 533
   attack: 563
-  defense: 514
-  health: 912
+  defense: 513
+  health: 911
 lb2:
-  power: 644
+  power: 643
   attack: 696
-  defense: 635
+  defense: 634
   health: 1126
 costume:
   design: costume1
@@ -61,11 +61,11 @@ costume:
   lb1:
     power: 545
     attack: 578
-    defense: 522
+    defense: 521
     health: 944
   lb2:
-    power: 659
-    attack: 715
-    defense: 645
-    health: 1166
+    power: 658
+    attack: 714
+    defense: 644
+    health: 1167
 ...

@@ -30,6 +30,7 @@ types:
 - Attack Growth All
 - Defense Growth All
 passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 - 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
 - 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
   the following actions'
@@ -37,7 +38,7 @@ passives:
 - ' * The attacker receives 1500 Bleed damage over 3 turns.'
 image: https://imgur.com/z1SbTyh.jpg
 dtReleased: "2026-03-10"
-dtModified: "2026-04-28"
+dtModified: "2026-06-08"
 fancy_name: Enraged Ronin
 aetherPower: damage_reduction
 lb1:

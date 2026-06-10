@@ -29,9 +29,9 @@ lb1:
   defense: 803
   health: 1565
 lb2:
-  power: 966
+  power: 965
   attack: 952
-  defense: 919
+  defense: 918
   health: 1790
 costume:
   design: costume1
@@ -64,11 +64,11 @@ costume:
   lb1:
     power: 1091
     attack: 1154
-    defense: 955
+    defense: 954
     health: 2109
   lb2:
     power: 1230
-    attack: 1320
-    defense: 1092
-    health: 2414
+    attack: 1321
+    defense: 1091
+    health: 2413
 ...

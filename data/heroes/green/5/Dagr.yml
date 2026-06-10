@@ -23,6 +23,7 @@ types:
 - DoT All
 - Burn and Poison Increased Damage Debuff All
 passives:
+- 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
   damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
@@ -34,7 +35,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/BDzoVb0.jpg
 dtReleased: "2025-01-26"
-dtModified: "2026-05-25"
+dtModified: "2026-06-08"
 fancy_name: Dwarven Mountain Shaman
 aetherPower: dodge
 lb1:
@@ -71,6 +72,7 @@ costume:
   - DoT All
   - Burn and Poison Increased Damage Debuff All
   passives:
+  - 'Resist Stealing: This character is immune to stealing and Ransacking.'
   - 'Empowered Resist Burn: This character is immune to status ailments that deal
     Burn damage and gains 600 boosted health and 10% mana each time they resist.'
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
@@ -82,7 +84,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/RP6dYzm.jpg
   dtReleased: "2026-05-01"
-  dtModified: "2026-05-25"
+  dtModified: "2026-06-08"
   fancy_name: Dwarven Plague Shaman
   aetherPower: fiend_resist
   lb1:

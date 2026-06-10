@@ -24,10 +24,10 @@ dtModified: "2026-04-20"
 fancy_name: Halfling Elder
 aetherPower: bulwark
 lb1:
-  power: 533
-  attack: 508
-  defense: 583
-  health: 912
+  power: 532
+  attack: 507
+  defense: 582
+  health: 911
 lb2:
   power: 643
   attack: 627
@@ -59,11 +59,11 @@ costume:
   lb1:
     power: 545
     attack: 520
-    defense: 584
-    health: 964
+    defense: 583
+    health: 963
   lb2:
-    power: 659
+    power: 658
     attack: 643
-    defense: 722
-    health: 1192
+    defense: 721
+    health: 1191
 ...

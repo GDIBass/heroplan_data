@@ -33,14 +33,14 @@ types:
 passives:
 - 'Revival Health Reduction: All enemies have -80% health when revived. Boss enemies
   are not affected.'
-- 'Heal when Status Ailment Expires or Is Cleared: This character''s receives 10%
+- 'Heal when Status Ailment Expires or Is Cleared: This character''s receives 15%
   health each time a status ailment expires or is cleansed, removed or reallocated
   from them. This effect can activate only once per turn.'
 - 'Beautiful Inside: Whenever this character would take damage from a status ailment
   or from a negative stack, they will recover that much health instead.'
 image: https://imgur.com/qtnsAeQ.jpg
 dtReleased: "2026-04-16"
-dtModified: "2026-06-04"
+dtModified: "2026-06-08"
 fancy_name: Jealous Fairy of the Bewitched Castle
 aetherPower: counterattack
 lb1:

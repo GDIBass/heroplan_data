@@ -24,10 +24,10 @@ dtModified: ""
 fancy_name: Morlock Hoarder
 aetherPower: fiend_resist
 lb1:
-  power: 534
+  power: 533
   attack: 539
-  defense: 583
-  health: 837
+  defense: 582
+  health: 836
 lb2:
   power: 644
   attack: 666
@@ -58,13 +58,13 @@ costume:
   fancy_name: Morlock Bartender
   aetherPower: regen
   lb1:
-    power: 545
-    attack: 550
-    defense: 584
-    health: 887
+    power: 544
+    attack: 549
+    defense: 583
+    health: 886
   lb2:
-    power: 658
-    attack: 680
-    defense: 722
-    health: 1096
+    power: 657
+    attack: 679
+    defense: 721
+    health: 1095
 ...

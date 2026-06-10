@@ -34,7 +34,7 @@ fancy_name: Mighty Moleman
 aetherPower: boosted_regen
 lb1:
   power: 533
-  attack: 575
+  attack: 574
   defense: 547
   health: 817
 lb2:
@@ -75,13 +75,13 @@ costume:
   fancy_name: Moleman  Potter
   aetherPower: damage_reduction
   lb1:
-    power: 545
-    attack: 558
+    power: 544
+    attack: 557
     defense: 580
-    health: 874
+    health: 873
   lb2:
     power: 658
-    attack: 690
+    attack: 689
     defense: 717
     health: 1080
 ...
