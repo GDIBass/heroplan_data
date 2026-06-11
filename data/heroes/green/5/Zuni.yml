@@ -37,7 +37,7 @@ aetherPower: attack_up
 lb1:
   power: 1010
   attack: 1016
-  defense: 994
+  defense: 993
   health: 1800
 lb2:
   power: 1138
@@ -84,12 +84,12 @@ costume:
   aetherPower: dodge
   lb1:
     power: 1388
-    attack: 1449
-    defense: 1408
-    health: 2589
+    attack: 1448
+    defense: 1407
+    health: 2588
   lb2:
-    power: 1571
-    attack: 1658
-    defense: 1611
-    health: 2962
+    power: 1570
+    attack: 1657
+    defense: 1610
+    health: 2961
 ...

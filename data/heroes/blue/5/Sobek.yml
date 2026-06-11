@@ -27,13 +27,13 @@ fancy_name: God of the River
 aetherPower: defense_up
 lb1:
   power: 915
-  attack: 925
+  attack: 926
   defense: 805
   health: 1724
 lb2:
-  power: 1030
+  power: 1029
   attack: 1059
-  defense: 922
+  defense: 921
   health: 1973
 costume:
   design: costume1
@@ -68,13 +68,13 @@ costume:
   fancy_name: Guardian of the River
   aetherPower: attack_up
   lb1:
-    power: 1285
+    power: 1284
     attack: 1306
-    defense: 1197
+    defense: 1196
     health: 2627
   lb2:
-    power: 1452
-    attack: 1495
-    defense: 1370
-    health: 3006
+    power: 1451
+    attack: 1494
+    defense: 1369
+    health: 3005
 ...

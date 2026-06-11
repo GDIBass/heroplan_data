@@ -32,8 +32,8 @@ fancy_name: Scarab Guard
 aetherPower: fiend_resist
 lb1:
   power: 735
-  attack: 688
-  defense: 711
+  attack: 687
+  defense: 710
   health: 1507
 lb2:
   power: 839
@@ -75,13 +75,13 @@ costume:
   fancy_name: Scarab Sentinel
   aetherPower: boosted_regen
   lb1:
-    power: 754
-    attack: 732
-    defense: 704
-    health: 1544
+    power: 753
+    attack: 731
+    defense: 703
+    health: 1542
   lb2:
-    power: 861
-    attack: 849
-    defense: 816
-    health: 1790
+    power: 860
+    attack: 848
+    defense: 815
+    health: 1789
 ...

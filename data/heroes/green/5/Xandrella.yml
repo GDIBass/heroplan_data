@@ -36,15 +36,15 @@ dtModified: "2026-04-28"
 fancy_name: Master of Elemental Creations
 aetherPower: defense_up
 lb1:
-  power: 961
-  attack: 910
-  defense: 921
+  power: 960
+  attack: 909
+  defense: 920
   health: 1858
 lb2:
   power: 1081
   attack: 1041
-  defense: 1054
-  health: 2125
+  defense: 1053
+  health: 2126
 costume:
   design: costume1
   bonuses: 49/49/50/5
@@ -86,12 +86,12 @@ costume:
   aetherPower: special_armor
   lb1:
     power: 1349
-    attack: 1332
+    attack: 1331
     defense: 1351
-    health: 2715
+    health: 2714
   lb2:
-    power: 1526
-    attack: 1524
+    power: 1525
+    attack: 1523
     defense: 1546
-    health: 3106
+    health: 3105
 ...

@@ -34,7 +34,7 @@ fancy_name: Defender of Space-Time
 aetherPower: regen
 lb1:
   power: 955
-  attack: 879
+  attack: 878
   defense: 947
   health: 1844
 lb2:
@@ -80,11 +80,11 @@ costume:
   lb1:
     power: 1341
     attack: 1296
-    defense: 1374
-    health: 2702
+    defense: 1373
+    health: 2701
   lb2:
     power: 1516
     attack: 1483
-    defense: 1572
+    defense: 1571
     health: 3091
 ...

@@ -27,14 +27,14 @@ fancy_name: Eye of the Sun
 aetherPower: counterattack
 lb1:
   power: 920
-  attack: 959
-  defense: 843
+  attack: 958
+  defense: 842
   health: 1602
 lb2:
   power: 1035
-  attack: 1097
-  defense: 965
-  health: 1833
+  attack: 1096
+  defense: 964
+  health: 1834
 costume:
   design: costume1
   bonuses: 45/45/50/5
@@ -66,13 +66,13 @@ costume:
   fancy_name: Warden of the Sun
   aetherPower: special_boost
   lb1:
-    power: 1291
-    attack: 1432
-    defense: 1191
+    power: 1290
+    attack: 1431
+    defense: 1190
     health: 2370
   lb2:
     power: 1459
     attack: 1638
-    defense: 1362
+    defense: 1361
     health: 2712
 ...

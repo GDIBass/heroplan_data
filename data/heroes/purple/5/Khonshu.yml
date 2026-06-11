@@ -64,13 +64,13 @@ costume:
   fancy_name: Knight of the Moon
   aetherPower: counterattack
   lb1:
-    power: 1283
-    attack: 1371
-    defense: 1191
+    power: 1282
+    attack: 1370
+    defense: 1190
     health: 2464
   lb2:
     power: 1449
-    attack: 1568
-    defense: 1362
+    attack: 1567
+    defense: 1361
     health: 2819
 ...

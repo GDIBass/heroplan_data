@@ -32,7 +32,7 @@ aetherPower: revive
 lb1:
   power: 924
   attack: 865
-  defense: 927
+  defense: 928
   health: 1691
 lb2:
   power: 1039
@@ -73,13 +73,13 @@ costume:
   fancy_name: Pharaoh Reborn
   aetherPower: boosted_regen
   lb1:
-    power: 1296
+    power: 1295
     attack: 1258
-    defense: 1319
-    health: 2584
+    defense: 1318
+    health: 2583
   lb2:
-    power: 1465
-    attack: 1440
-    defense: 1510
+    power: 1464
+    attack: 1439
+    defense: 1508
     health: 2956
 ...

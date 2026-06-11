@@ -29,13 +29,13 @@ fancy_name: Young Sphinx
 aetherPower: defense_up
 lb1:
   power: 538
-  attack: 533
-  defense: 559
+  attack: 532
+  defense: 558
   health: 935
 lb2:
   power: 650
-  attack: 659
-  defense: 691
+  attack: 658
+  defense: 690
   health: 1156
 costume:
   design: costume1
@@ -70,13 +70,13 @@ costume:
   fancy_name: Young Artist
   aetherPower: special_armor
   lb1:
-    power: 552
-    attack: 558
-    defense: 562
-    health: 962
+    power: 551
+    attack: 557
+    defense: 561
+    health: 961
   lb2:
-    power: 667
-    attack: 690
-    defense: 695
-    health: 1189
+    power: 666
+    attack: 689
+    defense: 693
+    health: 1188
 ...

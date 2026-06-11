@@ -28,13 +28,13 @@ aetherPower: attack_up
 lb1:
   power: 899
   attack: 834
-  defense: 856
-  health: 1736
+  defense: 857
+  health: 1735
 lb2:
   power: 1011
-  attack: 955
+  attack: 954
   defense: 980
-  health: 1986
+  health: 1985
 costume:
   design: costume1
   bonuses: 45/45/50/5
@@ -67,13 +67,13 @@ costume:
   fancy_name: Starlit Mother
   aetherPower: defense_up
   lb1:
-    power: 1261
+    power: 1260
     attack: 1203
-    defense: 1255
-    health: 2597
+    defense: 1254
+    health: 2596
   lb2:
     power: 1424
-    attack: 1377
-    defense: 1436
+    attack: 1376
+    defense: 1435
     health: 2971
 ...

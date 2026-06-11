@@ -78,13 +78,13 @@ costume:
   fancy_name: Dual Blade Arthropod
   aetherPower: rage
   lb1:
-    power: 1380
-    attack: 1469
-    defense: 1355
+    power: 1379
+    attack: 1467
+    defense: 1353
     health: 2586
   lb2:
-    power: 1561
-    attack: 1680
-    defense: 1550
-    health: 2958
+    power: 1560
+    attack: 1678
+    defense: 1549
+    health: 2959
 ...

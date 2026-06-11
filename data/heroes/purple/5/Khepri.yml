@@ -37,9 +37,9 @@ lb1:
   health: 1709
 lb2:
   power: 1032
-  attack: 988
+  attack: 987
   defense: 1028
-  health: 1955
+  health: 1956
 costume:
   design: costume1
   bonuses: 45/45/50/5
@@ -75,13 +75,13 @@ costume:
   fancy_name: Scarab Overlord
   aetherPower: special_boost
   lb1:
-    power: 1290
+    power: 1289
     attack: 1313
-    defense: 1271
+    defense: 1269
     health: 2497
   lb2:
     power: 1457
     attack: 1502
-    defense: 1454
+    defense: 1453
     health: 2857
 ...

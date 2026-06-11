@@ -27,9 +27,9 @@ fancy_name: Mummy Warrior
 aetherPower: revive
 lb1:
   power: 735
-  attack: 752
-  defense: 715
-  health: 1339
+  attack: 751
+  defense: 714
+  health: 1338
 lb2:
   power: 839
   attack: 872
@@ -67,12 +67,12 @@ costume:
   aetherPower: boosted_regen
   lb1:
     power: 752
-    attack: 718
-    defense: 767
+    attack: 717
+    defense: 766
     health: 1440
   lb2:
-    power: 859
-    attack: 832
-    defense: 890
-    health: 1670
+    power: 858
+    attack: 831
+    defense: 888
+    health: 1671
 ...

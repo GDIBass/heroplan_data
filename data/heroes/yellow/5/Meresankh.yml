@@ -74,11 +74,11 @@ costume:
   lb1:
     power: 1304
     attack: 1287
-    defense: 1310
+    defense: 1309
     health: 2590
   lb2:
     power: 1474
-    attack: 1473
+    attack: 1472
     defense: 1498
-    health: 2964
+    health: 2963
 ...

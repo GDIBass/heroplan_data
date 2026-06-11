@@ -34,9 +34,9 @@ fancy_name: Cyber Rogue
 aetherPower: fiend_resist
 lb1:
   power: 969
-  attack: 939
-  defense: 925
-  health: 1838
+  attack: 938
+  defense: 926
+  health: 1837
 lb2:
   power: 1091
   attack: 1074
@@ -80,13 +80,13 @@ costume:
   fancy_name: Cyber Courier
   aetherPower: damage_reduction
   lb1:
-    power: 1368
-    attack: 1390
-    defense: 1354
-    health: 2702
+    power: 1367
+    attack: 1389
+    defense: 1352
+    health: 2701
   lb2:
     power: 1547
-    attack: 1590
-    defense: 1549
+    attack: 1589
+    defense: 1547
     health: 3091
 ...

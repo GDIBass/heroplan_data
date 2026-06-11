@@ -31,12 +31,12 @@ fancy_name: Master-at-Arms
 aetherPower: special_boost
 lb1:
   power: 1178
-  attack: 1260
+  attack: 1261
   defense: 1163
-  health: 2046
+  health: 2047
 lb2:
-  power: 1329
-  attack: 1442
+  power: 1330
+  attack: 1443
   defense: 1330
-  health: 2341
+  health: 2342
 ...
