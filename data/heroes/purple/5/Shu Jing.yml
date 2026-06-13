@@ -1,0 +1,52 @@
+---
+name: Shu Jing
+source: kingdom
+family: ghosts
+speed: Average
+class: Cleric
+power: 1333
+attack: 1392
+defense: 1378
+health: 2393
+skill: Blinding Debates
+effects:
+- Deals 355% damage to all enemies.
+- All enemies get -50% accuracy for 4 turns. This effect is Stubborn. (Chance to miss
+  also applies to offensive Special Skills. Each attempt to dispel, cleanse or reallocate
+  a Stubborn effect reduces the duration by 1 turn or decreases activations left by
+  1.)
+- All allies are immune to damage from status ailments and negative stacks for 4 turns.
+  This effect is Stubborn. (Each attempt to dispel, cleanse or reallocate a Stubborn
+  effect reduces the duration by 1 turn or decreases activations left by 1.)
+types:
+- Hit All
+- Blind All
+- Damage from Ailments Immunity All
+passives:
+- 'Vengeful Haunting: When this character loses more than 25% of max health at once,
+  the following effects activate.'
+- '- This character casts Full Removal on themselves. (Full Removal removes all status
+  effects, stacks and Growth and Wither effects. Removes even status effects and stacks
+  that are otherwise Stubborn, undispellable or uncleansable.)'
+- '- This character shifts into Vengeful Ghost form for 2 turns. At the end of each
+  turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from
+  them. This effect is undispellable. (While in a Ghost form, character can''t gain
+  mana and can''t be healed by Special Skills, but is immune to normal attacks, Special
+  Skill attacks, damage dealing passives, status effects and stacks. Immune to new
+  Growth, Wither and Insanity effects.)'
+image: https://imgur.com/MIBxx9N.jpg
+dtReleased: "2026-06-13"
+dtModified: ""
+fancy_name: Scholarly Ghost Officer
+aetherPower: counterattack
+lb1:
+  power: 1426
+  attack: 1500
+  defense: 1485
+  health: 2579
+lb2:
+  power: 1614
+  attack: 1716
+  defense: 1699
+  health: 2951
+...
