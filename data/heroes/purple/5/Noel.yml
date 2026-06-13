@@ -8,7 +8,7 @@ power: 1259
 attack: 1279
 defense: 1326
 health: 2253
-skill: Sledge Bash
+skill: Sledge Slide
 effects:
 - Boosts health for all allies by 760. Boosted health can exceed max HP.
 - 'Enhanced Dodge: All allies get +50% chance to dodge Special Skills that deal damage.
@@ -25,7 +25,7 @@ passives:
   484 Frost damage over 4 turns.'
 image: https://imgur.com/vYCIB57.jpg
 dtReleased: "2025-12-01"
-dtModified: ""
+dtModified: "2026-06-13"
 fancy_name: Joyful Sledge Kid
 aetherPower: damage_reduction
 lb1:
