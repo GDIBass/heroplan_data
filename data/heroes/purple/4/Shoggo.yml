@@ -24,10 +24,10 @@ dtModified: "2026-03-22"
 fancy_name: Shapeshifting Guide
 aetherPower: defense_up
 lb1:
-  power: 766
-  attack: 773
+  power: 765
+  attack: 772
   defense: 761
-  health: 1413
+  health: 1412
 lb2:
   power: 875
   attack: 896

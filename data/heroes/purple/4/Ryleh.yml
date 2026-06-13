@@ -31,10 +31,10 @@ dtModified: "2026-03-22"
 fancy_name: Assistant Archivist
 aetherPower: defense_up
 lb1:
-  power: 855
-  attack: 861
+  power: 854
+  attack: 860
   defense: 891
-  health: 1567
+  health: 1566
 lb2:
   power: 977
   attack: 998

@@ -8,7 +8,7 @@ power: 1330
 attack: 1369
 defense: 1409
 health: 2369
-skill: Kite Driving
+skill: Kite Diving
 effects:
 - All allies get +45% chance to dodge Special Skills for 2 turns. Each dodge gives
   10% mana to the ally.
@@ -27,7 +27,7 @@ passives:
   damage and gains 450 boosted health and 5% mana each time they resist.'
 image: https://imgur.com/eUyQ3OH.jpg
 dtReleased: "2026-06-01"
-dtModified: ""
+dtModified: "2026-06-13"
 fancy_name: Party-Kite Goblin
 aetherPower: special_armor
 lb1:
