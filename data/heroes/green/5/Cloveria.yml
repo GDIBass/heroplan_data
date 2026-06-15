@@ -1,0 +1,52 @@
+---
+name: Cloveria
+source: solstice
+family: dryads
+speed: Fast
+class: Paladin
+power: 1335
+attack: 1390
+defense: 1390
+health: 2391
+skill: Four-Leaf Fortune
+effects:
+- Deals 600% damage to the target.
+- The target is Mesmerized for 3 turns. This effect can’t be cleansed. (The Mesmerized
+  enemy has -40% defense against Special Skills and takes +40% increased damage from
+  status ailments. Against Dryads the enemy has -60% defense against Special Skills
+  and takes +60% increased damage from status ailments.)
+- All allies have a 40% chance to drop any received damage to 1 for 3 turns.
+types:
+- Hit 1
+- Mesmerize 1
+- Damage Drop to 1 Chance All
+passives:
+- 'Whispering Petal Rain: Every 4 turns, one random enemy is Mesmerized for 4 turns.
+  This effect can’t be cleansed. (The Mesmerized enemy has -40% defense against Special
+  Skills and takes +40% increased damage from status ailments. Against Dryads the
+  enemy has -60% defense against Special Skills and takes +60% increased damage from
+  status ailments.)'
+- 'Ethereal Petal Veil: After casting a Special Skill this character is Camouflaged
+  and can’t be directly targeted by enemy Special Skills for 5 turns. This effect
+  can’t be dispelled or reallocated. (Selecting the character as a target on defense
+  is prevented. On attack the character will not be targeted. Special Skills that
+  hit specific positions such as edges of the formation bypass Camouflage. If the
+  last character in the battle is Camouflaged, they will be hit automatically. A Camouflaged
+  character can be healed and damaged by Special Skills, status effects and normal
+  attacks.)'
+image: https://imgur.com/PW7SJG5.jpg
+dtReleased: "2026-06-15"
+dtModified: ""
+fancy_name: Vanguard of the Ancient Bloom
+aetherPower: knights_endurance
+lb1:
+  power: 1429
+  attack: 1498
+  defense: 1498
+  health: 2577
+lb2:
+  power: 1617
+  attack: 1714
+  defense: 1714
+  health: 2949
+...
