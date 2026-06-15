@@ -39,13 +39,13 @@ dtModified: "2026-05-24"
 fancy_name: The Crown of the Jungle
 aetherPower: attack_up
 lb1:
-  power: 1356
-  attack: 1511
-  defense: 1289
-  health: 2439
+  power: 1372
+  attack: 1527
+  defense: 1305
+  health: 2484
 lb2:
-  power: 1533
-  attack: 1729
-  defense: 1475
-  health: 2791
+  power: 1552
+  attack: 1747
+  defense: 1493
+  health: 2843
 ...

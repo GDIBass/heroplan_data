@@ -29,7 +29,7 @@ passives:
 - ' * Received elemental damage -10%'
 image: https://i.imgur.com/VT78aoB.jpg
 dtReleased: "2023-05-22"
-dtModified: "2026-04-28"
+dtModified: "2026-06-15"
 fancy_name: Cyber Rogue
 aetherPower: fiend_resist
 lb1:
@@ -46,10 +46,10 @@ costume:
   design: costume1
   bonuses: 50/50/50/5
   class: Barbarian
-  power: 1278
-  attack: 1289
-  defense: 1255
-  health: 2506
+  power: 1301
+  attack: 1315
+  defense: 1281
+  health: 2557
   skill: Lacerating Letters
   effects:
   - Summons a Dagger Fiend for the target and Holy enemies. The Fiend damages its
@@ -76,17 +76,17 @@ costume:
     stacks cast by Holy characters.'
   image: https://imgur.com/cjiqk4D.jpg
   dtReleased: "2026-02-19"
-  dtModified: "2026-04-28"
+  dtModified: "2026-06-15"
   fancy_name: Cyber Courier
   aetherPower: damage_reduction
   lb1:
-    power: 1367
-    attack: 1389
-    defense: 1352
-    health: 2701
+    power: 1393
+    attack: 1417
+    defense: 1380
+    health: 2756
   lb2:
-    power: 1547
-    attack: 1589
-    defense: 1547
-    health: 3091
+    power: 1576
+    attack: 1621
+    defense: 1580
+    health: 3153
 ...

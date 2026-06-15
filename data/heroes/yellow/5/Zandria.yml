@@ -29,7 +29,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/h5xLq71.jpg
 dtReleased: "2022-10-10"
-dtModified: "2026-04-28"
+dtModified: "2026-06-15"
 fancy_name: Defender of Space-Time
 aetherPower: regen
 lb1:
@@ -46,10 +46,10 @@ costume:
   design: costume1
   bonuses: 49/49/50/5
   class: Fighter
-  power: 1253
-  attack: 1203
-  defense: 1274
-  health: 2506
+  power: 1276
+  attack: 1227
+  defense: 1300
+  health: 2557
   skill: Cosmic Devotion
   effects:
   - Deals 260% damage to all enemies.
@@ -74,17 +74,17 @@ costume:
     stacks cast by Dark characters.'
   image: https://imgur.com/sbozpVC.jpg
   dtReleased: "2025-11-10"
-  dtModified: "2026-04-28"
+  dtModified: "2026-06-15"
   fancy_name: Defender of Galaxies
   aetherPower: bulwark
   lb1:
-    power: 1341
-    attack: 1296
-    defense: 1373
-    health: 2701
+    power: 1365
+    attack: 1322
+    defense: 1401
+    health: 2756
   lb2:
-    power: 1516
-    attack: 1483
-    defense: 1571
-    health: 3091
+    power: 1544
+    attack: 1513
+    defense: 1603
+    health: 3153
 ...

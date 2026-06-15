@@ -39,13 +39,13 @@ dtModified: "2026-04-28"
 fancy_name: Unstoppable Wizard
 aetherPower: defense_up
 lb1:
-  power: 1338
-  attack: 1440
-  defense: 1367
-  health: 2335
+  power: 1355
+  attack: 1456
+  defense: 1383
+  health: 2382
 lb2:
-  power: 1513
-  attack: 1648
-  defense: 1564
-  health: 2672
+  power: 1532
+  attack: 1666
+  defense: 1582
+  health: 2725
 ...

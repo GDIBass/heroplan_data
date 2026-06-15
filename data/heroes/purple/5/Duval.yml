@@ -15,7 +15,7 @@ effects:
   and Dance effects. Safe stealing bypasses secondary effects, such as damage on removal,
   from the removed buffs. Passive skills and family effects can still activate.)
 - Deals 560% damage to the target.
-- The target receives 1413 Poison damage over 3 turns. This effect spreads to nearby
+- The target receives 1425 Poison damage over 3 turns. This effect spreads to nearby
   enemies.
 types:
 - Ransack 1
@@ -35,17 +35,17 @@ passives:
   is refreshed at the beginning of each wave.'
 image: https://imgur.com/EoQT7A5.jpg
 dtReleased: "2025-11-24"
-dtModified: "2026-04-28"
+dtModified: "2026-06-15"
 fancy_name: The Deceitful Marksman
 aetherPower: dodge
 lb1:
-  power: 1346
-  attack: 1396
-  defense: 1394
-  health: 2446
+  power: 1357
+  attack: 1407
+  defense: 1404
+  health: 2477
 lb2:
-  power: 1522
-  attack: 1597
-  defense: 1595
-  health: 2799
+  power: 1535
+  attack: 1610
+  defense: 1607
+  health: 2834
 ...

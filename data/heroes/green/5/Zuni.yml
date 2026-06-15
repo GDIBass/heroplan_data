@@ -31,7 +31,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/cAdigcK.jpg
 dtReleased: "2023-08-14"
-dtModified: "2026-04-28"
+dtModified: "2026-06-15"
 fancy_name: Hoverboarding Elf
 aetherPower: attack_up
 lb1:
@@ -48,10 +48,10 @@ costume:
   design: costume1
   bonuses: 45/45/47/5
   class: Sorcerer
-  power: 1297
-  attack: 1344
-  defense: 1306
-  health: 2401
+  power: 1322
+  attack: 1373
+  defense: 1334
+  health: 2451
   skill: Hoverboard Crash
   effects:
   - Deals 500% damage to the target.
@@ -79,17 +79,17 @@ costume:
     stacks cast by Ice characters.'
   image: https://imgur.com/w17wpuh.jpg
   dtReleased: "2026-04-24"
-  dtModified: "2026-04-28"
+  dtModified: "2026-06-15"
   fancy_name: Hoverboard Mage
   aetherPower: dodge
   lb1:
-    power: 1388
-    attack: 1448
-    defense: 1407
-    health: 2588
+    power: 1415
+    attack: 1480
+    defense: 1438
+    health: 2642
   lb2:
-    power: 1570
-    attack: 1657
-    defense: 1610
-    health: 2961
+    power: 1601
+    attack: 1693
+    defense: 1645
+    health: 3023
 ...
