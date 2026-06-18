@@ -38,13 +38,13 @@ dtModified: ""
 fancy_name: Relentless Battle Blob
 aetherPower: rage
 lb1:
-  power: 1212
-  attack: 1283
+  power: 1211
+  attack: 1282
   defense: 1221
-  health: 2115
+  health: 2116
 lb2:
   power: 1368
-  attack: 1468
+  attack: 1467
   defense: 1397
-  health: 2420
+  health: 2421
 ...

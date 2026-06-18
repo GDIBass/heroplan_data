@@ -29,13 +29,13 @@ dtModified: ""
 fancy_name: Snorkeling Gnome
 aetherPower: attack_up
 lb1:
-  power: 934
-  attack: 950
-  defense: 910
-  health: 1585
+  power: 933
+  attack: 949
+  defense: 909
+  health: 1584
 lb2:
   power: 1050
-  attack: 1087
+  attack: 1086
   defense: 1041
   health: 1813
 costume:
@@ -75,8 +75,8 @@ costume:
     defense: 1460
     health: 2547
   lb2:
-    power: 1612
-    attack: 1747
+    power: 1611
+    attack: 1746
     defense: 1671
-    health: 2915
+    health: 2914
 ...

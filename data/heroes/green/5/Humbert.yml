@@ -27,13 +27,13 @@ dtModified: ""
 fancy_name: Defender of the Highlands
 aetherPower: damage_reduction
 lb1:
-  power: 1154
-  attack: 1132
+  power: 1153
+  attack: 1131
   defense: 1196
-  health: 2128
+  health: 2129
 lb2:
   power: 1302
   attack: 1295
   defense: 1369
-  health: 2435
+  health: 2436
 ...

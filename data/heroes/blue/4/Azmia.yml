@@ -30,13 +30,13 @@ aetherPower: damage_reduction
 lb1:
   power: 735
   attack: 634
-  defense: 810
+  defense: 809
   health: 1440
 lb2:
   power: 839
   attack: 736
   defense: 939
-  health: 1670
+  health: 1671
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -70,12 +70,12 @@ costume:
   aetherPower: special_armor
   lb1:
     power: 752
-    attack: 690
+    attack: 688
     defense: 779
-    health: 1488
+    health: 1487
   lb2:
-    power: 859
-    attack: 800
+    power: 858
+    attack: 799
     defense: 903
-    health: 1726
+    health: 1725
 ...

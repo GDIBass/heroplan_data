@@ -41,13 +41,13 @@ dtModified: "2026-04-28"
 fancy_name: Enthusiastic Chef Construct
 aetherPower: regen
 lb1:
-  power: 1353
-  attack: 1409
-  defense: 1407
-  health: 2437
+  power: 1375
+  attack: 1431
+  defense: 1429
+  health: 2497
 lb2:
-  power: 1530
-  attack: 1612
-  defense: 1610
-  health: 2788
+  power: 1556
+  attack: 1638
+  defense: 1635
+  health: 2857
 ...

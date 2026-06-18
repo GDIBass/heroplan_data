@@ -32,14 +32,14 @@ fancy_name: Duplicitous Duke
 aetherPower: fiend_resist
 lb1:
   power: 990
-  attack: 950
+  attack: 949
   defense: 936
-  health: 1935
+  health: 1936
 lb2:
   power: 1115
-  attack: 1087
+  attack: 1086
   defense: 1071
-  health: 2214
+  health: 2215
 costume:
   design: costume1
   bonuses: 50/50/50/5

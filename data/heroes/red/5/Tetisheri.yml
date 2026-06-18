@@ -30,7 +30,7 @@ aetherPower: revive
 lb1:
   power: 921
   attack: 894
-  defense: 870
+  defense: 869
   health: 1716
 lb2:
   power: 1036
@@ -70,13 +70,13 @@ costume:
   fancy_name: Molten Queen
   aetherPower: rage
   lb1:
-    power: 1292
+    power: 1291
     attack: 1351
-    defense: 1213
-    health: 2534
+    defense: 1212
+    health: 2533
   lb2:
     power: 1460
     attack: 1546
-    defense: 1388
-    health: 2899
+    defense: 1387
+    health: 2898
 ...

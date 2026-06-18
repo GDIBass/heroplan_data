@@ -32,11 +32,11 @@ aetherPower: damage_reduction
 lb1:
   power: 1260
   attack: 1320
-  defense: 1354
+  defense: 1353
   health: 2106
 lb2:
   power: 1424
-  attack: 1511
+  attack: 1510
   defense: 1549
   health: 2410
 ...

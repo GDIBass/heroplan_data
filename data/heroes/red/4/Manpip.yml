@@ -35,13 +35,13 @@ dtModified: ""
 fancy_name: Nervous Magic Carpet Flier
 aetherPower: attack_up
 lb1:
-  power: 783
-  attack: 810
+  power: 782
+  attack: 809
   defense: 780
-  health: 1401
+  health: 1400
 lb2:
   power: 894
   attack: 939
-  defense: 904
+  defense: 905
   health: 1624
 ...

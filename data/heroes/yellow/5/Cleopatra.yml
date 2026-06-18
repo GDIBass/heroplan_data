@@ -28,14 +28,14 @@ dtModified: "2026-04-26"
 fancy_name: Divine Pharaoh
 aetherPower: attack_up
 lb1:
-  power: 923
-  attack: 828
+  power: 922
+  attack: 827
   defense: 916
   health: 1800
 lb2:
   power: 1038
   attack: 947
-  defense: 1049
+  defense: 1048
   health: 2059
 costume:
   design: costume1
@@ -70,12 +70,12 @@ costume:
   aetherPower: special_armor
   lb1:
     power: 1294
-    attack: 1171
+    attack: 1170
     defense: 1348
     health: 2733
   lb2:
     power: 1463
-    attack: 1340
+    attack: 1339
     defense: 1543
     health: 3128
 ...

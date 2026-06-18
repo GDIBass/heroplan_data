@@ -33,7 +33,7 @@ lb1:
   health: 1682
 lb2:
   power: 1034
-  attack: 998
+  attack: 997
   defense: 1038
   health: 1925
 costume:
@@ -68,13 +68,13 @@ costume:
   fancy_name: Eye of the Forest
   aetherPower: special_armor
   lb1:
-    power: 1291
-    attack: 1236
-    defense: 1368
+    power: 1290
+    attack: 1235
+    defense: 1366
     health: 2504
   lb2:
-    power: 1459
-    attack: 1414
-    defense: 1565
+    power: 1458
+    attack: 1413
+    defense: 1564
     health: 2865
 ...

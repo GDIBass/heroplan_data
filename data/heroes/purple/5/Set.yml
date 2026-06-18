@@ -30,15 +30,15 @@ dtModified: "2026-04-26"
 fancy_name: Dark Usurper
 aetherPower: mana_boost
 lb1:
-  power: 922
-  attack: 870
+  power: 921
+  attack: 869
   defense: 907
-  health: 1704
+  health: 1705
 lb2:
-  power: 1036
+  power: 1037
   attack: 995
   defense: 1038
-  health: 1950
+  health: 1951
 costume:
   design: costume1
   bonuses: 45/45/50/5
@@ -75,11 +75,11 @@ costume:
   lb1:
     power: 1294
     attack: 1306
-    defense: 1284
-    health: 2524
+    defense: 1282
+    health: 2523
   lb2:
-    power: 1463
-    attack: 1495
-    defense: 1469
+    power: 1462
+    attack: 1494
+    defense: 1467
     health: 2887
 ...

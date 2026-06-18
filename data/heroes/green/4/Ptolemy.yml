@@ -28,14 +28,14 @@ fancy_name: Elder Pharaoh
 aetherPower: defense_up
 lb1:
   power: 734
-  attack: 637
+  attack: 636
   defense: 745
   health: 1560
 lb2:
   power: 838
   attack: 738
   defense: 864
-  health: 1809
+  health: 1810
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -68,13 +68,13 @@ costume:
   fancy_name: Elder Log
   aetherPower: special_armor
   lb1:
-    power: 753
-    attack: 626
-    defense: 784
-    health: 1640
+    power: 752
+    attack: 625
+    defense: 783
+    health: 1639
   lb2:
     power: 859
     attack: 726
-    defense: 909
-    health: 1901
+    defense: 908
+    health: 1902
 ...

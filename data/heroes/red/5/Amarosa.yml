@@ -34,13 +34,13 @@ dtModified: "2026-04-28"
 fancy_name: Empress from the Outer Domain
 aetherPower: vampire
 lb1:
-  power: 1388
-  attack: 1480
-  defense: 1416
-  health: 2495
+  power: 1414
+  attack: 1504
+  defense: 1443
+  health: 2568
 lb2:
-  power: 1571
-  attack: 1694
-  defense: 1620
-  health: 2854
+  power: 1601
+  attack: 1721
+  defense: 1651
+  health: 2939
 ...

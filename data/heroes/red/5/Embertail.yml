@@ -36,13 +36,13 @@ dtModified: "2026-04-28"
 fancy_name: The Pyromouse
 aetherPower: damage_reduction
 lb1:
-  power: 1381
-  attack: 1471
-  defense: 1425
-  health: 2444
+  power: 1402
+  attack: 1491
+  defense: 1445
+  health: 2504
 lb2:
-  power: 1562
-  attack: 1684
-  defense: 1630
-  health: 2796
+  power: 1586
+  attack: 1707
+  defense: 1654
+  health: 2865
 ...

@@ -40,13 +40,13 @@ dtModified: "2026-04-28"
 fancy_name: Magic Lab Genius
 aetherPower: special_boost
 lb1:
-  power: 1361
-  attack: 1420
-  defense: 1423
-  health: 2439
+  power: 1377
+  attack: 1435
+  defense: 1438
+  health: 2486
 lb2:
-  power: 1540
-  attack: 1625
-  defense: 1628
-  health: 2791
+  power: 1558
+  attack: 1642
+  defense: 1645
+  health: 2845
 ...

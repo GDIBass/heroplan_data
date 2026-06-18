@@ -31,12 +31,12 @@ lb1:
   power: 539
   attack: 527
   defense: 555
-  health: 963
+  health: 962
 lb2:
   power: 651
-  attack: 652
+  attack: 651
   defense: 686
-  health: 1190
+  health: 1189
 costume:
   design: costume1
   bonuses: 2/2/4/1
@@ -70,13 +70,13 @@ costume:
   fancy_name: Fortuitous Miner
   aetherPower: special_armor
   lb1:
-    power: 553
-    attack: 518
-    defense: 586
-    health: 1020
+    power: 551
+    attack: 516
+    defense: 585
+    health: 1018
   lb2:
-    power: 668
-    attack: 640
+    power: 667
+    attack: 638
     defense: 724
-    health: 1260
+    health: 1259
 ...

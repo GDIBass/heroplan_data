@@ -29,9 +29,9 @@ fancy_name: Stressed-Out Scribe
 aetherPower: attack_up
 lb1:
   power: 539
-  attack: 575
+  attack: 574
   defense: 462
-  health: 1030
+  health: 1029
 lb2:
   power: 651
   attack: 710
@@ -69,13 +69,13 @@ costume:
   fancy_name: Stressed-Out Curator
   aetherPower: defense_up
   lb1:
-    power: 553
-    attack: 624
-    defense: 452
-    health: 1022
+    power: 552
+    attack: 623
+    defense: 451
+    health: 1021
   lb2:
-    power: 668
-    attack: 772
-    defense: 558
-    health: 1263
+    power: 667
+    attack: 770
+    defense: 557
+    health: 1262
 ...

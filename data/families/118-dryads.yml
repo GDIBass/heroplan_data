@@ -1,0 +1,13 @@
+---
+code: 118
+key: dryads
+image: https://i.imgur.com/Ei1gNjo.png
+description: Dryads of the Ancient Bloom Family
+bonus:
+- 'Bonus for 1/2/3 Heroes:'
+- ' * All allies get +50/+60/+70 health regeneration stack each time this character
+  attempts to Mesmerize an enemy. (Max stacks: 10)'
+bonusCostume-5star: ""
+bonusCostume-4star: ""
+bonusCostume-3star: ""
+...
