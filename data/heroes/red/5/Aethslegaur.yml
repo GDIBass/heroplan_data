@@ -83,6 +83,7 @@ costume:
   image: https://imgur.com/bE5pHtK.jpg
   dtReleased: "2026-06-18"
   dtModified: ""
+  fancy_name: Eldritch Ammunition Artisan
   aetherPower: mana_boost
   lb1:
     power: 1427
