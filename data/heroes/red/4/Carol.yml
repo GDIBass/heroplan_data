@@ -18,10 +18,10 @@ effects:
 types:
 - Mana Reduction
 - Summoner 1
-- Bomb
+- Delayed Bomb 1
 image: https://i.imgur.com/rj2dz3k.jpg
 dtReleased: "2020-12-01"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Santa's Little Helper
 aetherPower: special_armor
 lb1:

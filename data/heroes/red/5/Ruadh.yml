@@ -38,9 +38,9 @@ dtModified: ""
 fancy_name: Abyssal Huntsman
 aetherPower: regen
 lb1:
-  power: 1206
-  attack: 1174
-  defense: 1201
+  power: 1205
+  attack: 1173
+  defense: 1200
   health: 2386
 lb2:
   power: 1361

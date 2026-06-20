@@ -1,10 +1,26 @@
 ---
+resources:
+  gem: https://imgur.com/A89uOhX.png
+  adventurerKit: https://imgur.com/W9TqoRG.png
+  recuits: https://imgur.com/O7JEDaN.png
+  star: https://imgur.com/zHmxhF6.png
 elements:
   dark: https://imgur.com/z09a2B5.png
   holy: https://imgur.com/bulJfMu.png
   fire: https://imgur.com/XAMmvPf.png
   ice: https://imgur.com/fVGW2te.png
   nature: https://imgur.com/o7iH7Rp.png
+classes:
+  barbarian: https://i.imgur.com/SWoQzpg.png
+  cleric: https://i.imgur.com/YkaRPK3.png
+  druid: https://i.imgur.com/vViZn74.png
+  fighter: https://i.imgur.com/szH1t2i.png
+  monk: https://i.imgur.com/e02kC14.png
+  paladin: https://i.imgur.com/hWsWNEu.png
+  ranger: https://i.imgur.com/HFl3B4Z.png
+  rogue: https://i.imgur.com/KNMzKgc.png
+  sorcerer: https://i.imgur.com/87dMkjo.png
+  wizard: https://i.imgur.com/FexXXRS.png
 missions:
   64x64: https://imgur.com/CipxsRl.png
   256x270: https://imgur.com/rKbbCcc.png
@@ -112,8 +128,4 @@ talent-nodes:
   masternodeattack: https://imgur.com/3ECkhmZ.png
   masternodedefense: https://imgur.com/hJnTvzg.png
   masternodehealth: https://imgur.com/BdObF0p.png
-resources:
-  gem: https://imgur.com/A89uOhX.png
-  adventurerKit: https://imgur.com/W9TqoRG.png
-  recuits: https://imgur.com/O7JEDaN.png
 ...

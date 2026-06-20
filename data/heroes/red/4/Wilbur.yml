@@ -23,18 +23,18 @@ types:
 - Defense Debuff All
 image: https://i.imgur.com/EjclF3b.jpg
 dtReleased: ""
-dtModified: "2026-04-05"
+dtModified: "2026-06-20"
 fancy_name: Valiant Fisherman
 aetherPower: regen
 lb1:
-  power: 699
-  attack: 658
-  defense: 750
-  health: 1242
+  power: 698
+  attack: 657
+  defense: 749
+  health: 1241
 lb2:
   power: 796
   attack: 762
-  defense: 870
+  defense: 869
   health: 1440
 costume:
   design: costume1
@@ -46,26 +46,26 @@ costume:
   health: 1197
   skill: Brilliant Brew
   effects:
-  - All allies get +100% normal attack for 4 turns. This effect can be active in addition
-    to effects that alter attack in general. Normal attacks can have a total maximum
-    of +140% increased power while this effect is active.
+  - All allies get +100% normal attack for 4 turns. (If additional effects increase
+    attack in general, normal attacks can have a total maximum of +140% increased
+    power.)
   - All allies regenerate 280 HP over 4 turns.
   types:
   - Titan Attack Buff All
   - HoT All
   image: https://i.imgur.com/BehrpwT.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-04-05"
+  dtModified: "2026-06-20"
   fancy_name: Bold Brewmaster
   aetherPower: defense_up
   lb1:
-    power: 723
-    attack: 713
-    defense: 737
-    health: 1302
+    power: 722
+    attack: 712
+    defense: 735
+    health: 1300
   lb2:
     power: 824
-    attack: 827
-    defense: 854
-    health: 1509
+    attack: 826
+    defense: 853
+    health: 1508
 ...

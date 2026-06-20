@@ -23,22 +23,22 @@ passives:
   prevent the use of Special Skills.'
 image: https://i.imgur.com/4hhCXCA.jpg
 dtReleased: "2023-02-14"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Cupid of Affection
 aetherPower: attack_up
 lb1:
   power: 919
-  attack: 910
-  defense: 868
+  attack: 909
+  defense: 867
   health: 1665
 lb2:
-  power: 1034
+  power: 1033
   attack: 1041
-  defense: 993
+  defense: 992
   health: 1905
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 55/55/56/5
   class: Fighter
   power: 1271
   attack: 1311
@@ -61,17 +61,17 @@ costume:
     prevent the use of Special Skills.'
   image: https://imgur.com/8v59FIZ.jpg
   dtReleased: "2026-01-19"
-  dtModified: ""
+  dtModified: "2026-06-20"
   fancy_name: Cupid of Fiery Passion
   aetherPower: rage
   lb1:
     power: 1360
-    attack: 1414
-    defense: 1348
+    attack: 1413
+    defense: 1347
     health: 2597
   lb2:
-    power: 1539
-    attack: 1618
-    defense: 1543
-    health: 2971
+    power: 1538
+    attack: 1617
+    defense: 1541
+    health: 2972
 ...

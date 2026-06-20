@@ -16,8 +16,9 @@ effects:
   before the duration ends, the target with the effect suffers  124 damage.
 types:
 - Hit 3
-- Attack debuff
-- Defense debuff
+- Attack Wither 3
+- Defense Wither 3
+- Defense Debuff 3
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
   character casts their Special Skill.'
@@ -25,17 +26,17 @@ passives:
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/JAko0SJ.jpg
 dtReleased: "2023-09-18"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Oblivious Guard
 aetherPower: attack_up
 lb1:
-  power: 543
-  attack: 516
-  defense: 520
-  health: 1087
+  power: 542
+  attack: 515
+  defense: 519
+  health: 1086
 lb2:
   power: 655
   attack: 637
-  defense: 642
+  defense: 641
   health: 1343
 ...

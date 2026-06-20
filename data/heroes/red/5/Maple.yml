@@ -19,23 +19,23 @@ types:
 - Hit Random 3
 - Dodge Buff All
 passives:
-- 'Resist Buff Immunity: This character has innate resistance against status ailments
-  that give immunity to new buffs.'
+- 'Resist Buff Blocking: This character is immune to effects that would block them
+  from receiving new status effect buffs.'
 - 'Health Recovery on Buff Received: This character recover 5% health when they receive
   a buff or positive stack.'
 image: https://imgur.com/R97TCxU.jpg
 dtReleased: "2025-08-01"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Fairy of Auburn Woods
 aetherPower: damage_reduction
 lb1:
-  power: 1203
+  power: 1202
   attack: 1192
-  defense: 1252
+  defense: 1251
   health: 2217
 lb2:
   power: 1358
-  attack: 1363
+  attack: 1364
   defense: 1432
   health: 2537
 ...

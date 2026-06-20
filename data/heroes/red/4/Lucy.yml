@@ -38,10 +38,10 @@ dtModified: "2026-05-04"
 fancy_name: Mageball Prodigy
 aetherPower: attack_up
 lb1:
-  power: 739
-  attack: 715
-  defense: 736
-  health: 1413
+  power: 738
+  attack: 714
+  defense: 735
+  health: 1412
 lb2:
   power: 843
   attack: 829

@@ -16,7 +16,7 @@ effects:
 - All enemies receive 744 Burn damage over 4 turns.
 - All enemies get -75% decrease of any boosted health received for 4 turns.
 types:
-- Max Health Reduction
+- Max Health Reduction All
 - DoT All
 - Boosted Heal Decrease Debuff All
 passives:
@@ -24,13 +24,13 @@ passives:
   owned by them is destroyed.'
 image: https://i.imgur.com/KU4YzVK.jpg
 dtReleased: "2023-07-13"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Masked Goddess of Witchcraft
 aetherPower: counterattack
 lb1:
-  power: 998
+  power: 999
   attack: 956
-  defense: 925
+  defense: 926
   health: 2002
 lb2:
   power: 1125

@@ -14,7 +14,7 @@ effects:
 - All allies recover additional 8% health for each Fiend owned by the allies.
 - All allies get +54% attack for 4 turns.
 - All allies are immune to buff dispels and reallocations for 4 turns. (The immunity
-  also includes this effect itself.)
+  also includes this effect itself. Also includes Ransack.)
 types:
 - Heal All
 - Attack Buff All
@@ -25,17 +25,17 @@ passives:
   all enemies in the battle.'
 image: https://i.imgur.com/sGuDCiH.jpg
 dtReleased: "2023-03-23"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Bard of Supernatural
 aetherPower: defense_up
 lb1:
   power: 939
-  attack: 925
+  attack: 926
   defense: 916
-  health: 1673
+  health: 1674
 lb2:
   power: 1057
   attack: 1059
-  defense: 1049
+  defense: 1048
   health: 1915
 ...

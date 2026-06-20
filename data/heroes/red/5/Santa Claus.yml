@@ -22,7 +22,7 @@ types:
 - Defense Debuff All
 image: https://i.imgur.com/gDDhARF.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: The Gift-Bringer
 aetherPower: mana_boost
 lb1:
@@ -37,7 +37,7 @@ lb2:
   health: 1772
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 37/37/38/5
   class: Sorcerer
   power: 1017
   attack: 874
@@ -60,17 +60,17 @@ costume:
     Frost damage over 4 turns.'
   image: https://i.imgur.com/3zbVEXc.jpg
   dtReleased: "2021-12-01"
-  dtModified: ""
+  dtModified: "2026-06-20"
   fancy_name: Hard Rock Santa
   aetherPower: regen
   lb1:
-    power: 1087
+    power: 1086
     attack: 942
-    defense: 1210
+    defense: 1209
     health: 2098
   lb2:
     power: 1225
     attack: 1078
-    defense: 1384
+    defense: 1383
     health: 2401
 ...

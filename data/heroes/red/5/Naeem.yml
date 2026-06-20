@@ -14,7 +14,7 @@ effects:
 - The caster and nearby allies counterattack with 145% of the damage received for
   4 turns.
 - 'Caster and nearby allies get Sand Touch for 4 turns. (Sand Touch: Each time the
-  owner of this status effect counterattacks an enemy the attacker receives 452 Sand
+  owner of this status effect counterattacks an enemy the attacker receives 460 Sand
   damage over 4 turns.)'
 types:
 - Hit 3
@@ -35,7 +35,7 @@ passives:
 - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
 image: https://imgur.com/F7qBR0P.jpg
 dtReleased: "2025-04-17"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Magic Carpet Drifter
 aetherPower: damage_reduction
 lb1:

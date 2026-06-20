@@ -26,9 +26,9 @@ fancy_name: Doomed Jarl
 aetherPower: ailment_immunity
 lb1:
   power: 857
-  attack: 816
-  defense: 828
-  health: 1534
+  attack: 817
+  defense: 827
+  health: 1533
 lb2:
   power: 962
   attack: 934

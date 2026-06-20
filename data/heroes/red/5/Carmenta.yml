@@ -26,13 +26,13 @@ dtModified: ""
 fancy_name: Masked Goddess of Spells
 aetherPower: ailment_immunity
 lb1:
-  power: 1004
+  power: 1003
   attack: 976
-  defense: 950
+  defense: 949
   health: 1940
 lb2:
   power: 1130
   attack: 1117
-  defense: 1087
-  health: 2219
+  defense: 1086
+  health: 2220
 ...

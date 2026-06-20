@@ -22,13 +22,13 @@ dtModified: "2026-03-20"
 fancy_name: Straw Demon
 aetherPower: dodge
 lb1:
-  power: 501
+  power: 500
   attack: 596
-  defense: 474
-  health: 677
+  defense: 473
+  health: 676
 lb2:
-  power: 604
+  power: 603
   attack: 737
-  defense: 586
-  health: 837
+  defense: 585
+  health: 836
 ...

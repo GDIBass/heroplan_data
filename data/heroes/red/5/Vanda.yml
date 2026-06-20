@@ -23,7 +23,7 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/FsFObHs.jpg
 dtReleased: "2020-10-26"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Vampire Queen
 aetherPower: vampire
 lb1:
@@ -33,12 +33,12 @@ lb1:
   health: 1491
 lb2:
   power: 951
-  attack: 955
+  attack: 954
   defense: 906
-  health: 1706
+  health: 1707
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 50/50/55/5
   class: Wizard
   power: 1140
   attack: 1152
@@ -59,17 +59,17 @@ costume:
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/yADk9kZ.jpg
   dtReleased: "2021-10-04"
-  dtModified: ""
+  dtModified: "2026-06-20"
   fancy_name: Queen of Crime
   aetherPower: damage_reduction
   lb1:
-    power: 1219
-    attack: 1242
-    defense: 1198
+    power: 1218
+    attack: 1241
+    defense: 1197
     health: 2315
   lb2:
-    power: 1377
-    attack: 1421
-    defense: 1371
+    power: 1376
+    attack: 1420
+    defense: 1370
     health: 2649
 ...

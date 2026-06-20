@@ -29,12 +29,12 @@ fancy_name: Bard of Whispers
 aetherPower: defense_up
 lb1:
   power: 926
-  attack: 883
+  attack: 882
   defense: 916
   health: 1689
 lb2:
   power: 1042
   attack: 1010
-  defense: 1049
+  defense: 1048
   health: 1932
 ...

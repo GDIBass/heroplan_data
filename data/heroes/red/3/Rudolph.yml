@@ -19,7 +19,7 @@ types:
 - Summoner Self
 image: https://i.imgur.com/mEYb8Ac.jpg
 dtReleased: ""
-dtModified: "2026-05-04"
+dtModified: "2026-06-20"
 fancy_name: Santa's Loyal Steed
 aetherPower: attack_up
 lb1:
@@ -34,7 +34,7 @@ lb2:
   health: 851
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 20/20/25/5
   class: Barbarian
   power: 531
   attack: 648
@@ -56,17 +56,17 @@ costume:
     244 Frost damage over 4 turns.'
   image: https://imgur.com/1zUQ99W.jpg
   dtReleased: "2025-12-01"
-  dtModified: "2026-05-04"
+  dtModified: "2026-06-20"
   fancy_name: Santa's Knightly Steed
   aetherPower: defense_up
   lb1:
-    power: 593
-    attack: 735
-    defense: 541
-    health: 856
+    power: 592
+    attack: 734
+    defense: 540
+    health: 855
   lb2:
     power: 717
-    attack: 908
+    attack: 907
     defense: 668
-    health: 1058
+    health: 1057
 ...

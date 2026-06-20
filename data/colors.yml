@@ -6,6 +6,8 @@ colors:
     description: Purple
     avatarImage: https://i.imgur.com/xiPH2Zc.png
     badgeImage: https://i.imgur.com/K8e75Cc.png
+    elementImage: https://imgur.com/z09a2B5.png
+    localImage: /img/badges/purple-large.png
   yellow:
     code: 2
     key: yellow
@@ -13,6 +15,8 @@ colors:
     description: Yellow
     avatarImage: https://i.imgur.com/9bzM9KP.png
     badgeImage: https://i.imgur.com/L7dC1my.png
+    elementImage: https://imgur.com/bulJfMu.png
+    localImage: /img/badges/yellow-large.png
   blue:
     code: 3
     key: blue
@@ -20,6 +24,8 @@ colors:
     description: Blue
     avatarImage: https://i.imgur.com/v04zcUN.png
     badgeImage: https://i.imgur.com/l7guZyH.png
+    elementImage: https://imgur.com/fVGW2te.png
+    localImage: /img/badges/blue-large.png
   green:
     code: 4
     key: green
@@ -27,6 +33,8 @@ colors:
     description: Green
     avatarImage: https://i.imgur.com/txwdzeB.png
     badgeImage: https://i.imgur.com/9DNpPI8.png
+    elementImage: https://imgur.com/o7iH7Rp.png
+    localImage: /img/badges/green-large.png
   red:
     code: 5
     key: red
@@ -34,6 +42,8 @@ colors:
     description: Red
     avatarImage: https://i.imgur.com/sfUwjbW.png
     badgeImage: https://i.imgur.com/OwdTZRf.png
+    elementImage: https://imgur.com/XAMmvPf.png
+    localImage: /img/badges/red-large.png
 
 open_color:
   avatarImage: https://i.imgur.com/3pq6sfa.jpg

@@ -28,12 +28,12 @@ fancy_name: The Hungry Fox Kit
 aetherPower: regen
 lb1:
   power: 1269
-  attack: 1325
+  attack: 1324
   defense: 1267
   health: 2328
 lb2:
   power: 1434
-  attack: 1516
+  attack: 1515
   defense: 1450
   health: 2664
 ...

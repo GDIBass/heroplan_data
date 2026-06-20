@@ -30,8 +30,8 @@ aetherPower: mana_boost
 lb1:
   power: 710
   attack: 646
-  defense: 690
-  health: 1475
+  defense: 689
+  health: 1474
 lb2:
   power: 810
   attack: 749

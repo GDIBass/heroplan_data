@@ -37,13 +37,13 @@ dtModified: ""
 fancy_name: Master of Sleep
 aetherPower: special_boost
 lb1:
-  power: 906
-  attack: 912
-  defense: 841
+  power: 905
+  attack: 911
+  defense: 840
   health: 1620
 lb2:
   power: 1018
   attack: 1043
   defense: 962
-  health: 1854
+  health: 1853
 ...

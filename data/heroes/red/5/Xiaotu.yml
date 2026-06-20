@@ -25,13 +25,13 @@ dtModified: "2026-03-20"
 fancy_name: Lunar Protector Rabbit
 aetherPower: attack_up
 lb1:
-  power: 920
-  attack: 921
-  defense: 883
+  power: 919
+  attack: 920
+  defense: 882
   health: 1613
 lb2:
-  power: 1035
-  attack: 1054
+  power: 1034
+  attack: 1053
   defense: 1010
   health: 1846
 zodiacAnimal: rabbit
@@ -63,13 +63,13 @@ costume:
   fancy_name: Lunar Lantern Rabbit
   aetherPower: rage
   lb1:
-    power: 1370
-    attack: 1428
-    defense: 1372
+    power: 1369
+    attack: 1426
+    defense: 1371
     health: 2585
   lb2:
-    power: 1550
-    attack: 1633
-    defense: 1570
-    health: 2958
+    power: 1548
+    attack: 1631
+    defense: 1568
+    health: 2957
 ...

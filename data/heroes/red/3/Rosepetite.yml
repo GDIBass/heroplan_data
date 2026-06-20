@@ -29,12 +29,12 @@ fancy_name: Young Moth Painter
 aetherPower: attack_up
 lb1:
   power: 562
-  attack: 581
+  attack: 580
   defense: 612
   health: 876
 lb2:
   power: 679
-  attack: 718
+  attack: 717
   defense: 756
   health: 1083
 ...

@@ -46,12 +46,12 @@ fancy_name: Ruthless Shinobi
 aetherPower: rage
 lb1:
   power: 1183
-  attack: 1411
+  attack: 1412
   defense: 1192
   health: 1649
 lb2:
   power: 1336
   attack: 1615
-  defense: 1363
+  defense: 1364
   health: 1887
 ...

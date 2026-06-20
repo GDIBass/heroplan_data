@@ -26,27 +26,27 @@ passives:
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/tAIchka.jpg
 dtReleased: "2023-08-07"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Cursed Kin of Vainamoinen
 aetherPower: regen
 lb1:
   power: 978
-  attack: 912
+  attack: 911
   defense: 1007
   health: 1804
 lb2:
   power: 1101
   attack: 1043
   defense: 1153
-  health: 2065
+  health: 2064
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 34/34/35/5
   class: Sorcerer
-  power: 1035
-  attack: 986
-  defense: 1044
-  health: 1951
+  power: 1189
+  attack: 1159
+  defense: 1227
+  health: 2251
   skill: Chords of Inferno
   effects:
   - Deals 260% damage to all enemies.
@@ -55,7 +55,7 @@ costume:
   - The caster and nearby allies recover 717 HP over 3 turns. The effect duration
     is reset if the status effect owner is hit with direct damage from a Special Skill.
   - The caster and nearby allies are immune to buff dispels and reallocations for
-    3 turns. (The immunity also includes this effect itself)
+    3 turns. (The immunity also includes this effect itself. Also includes Ransack.)
   types:
   - Hit All
   - Attack Debuff
@@ -66,17 +66,17 @@ costume:
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://i.imgur.com/0QCrvIl.jpg
   dtReleased: "2024-07-22"
-  dtModified: ""
+  dtModified: "2026-06-20"
   fancy_name: Infernal Kin of Vainamoinen
   aetherPower: rage
   lb1:
-    power: 1272
+    power: 1271
     attack: 1249
-    defense: 1323
-    health: 2427
+    defense: 1322
+    health: 2426
   lb2:
     power: 1437
     attack: 1429
-    defense: 1514
-    health: 2777
+    defense: 1513
+    health: 2776
 ...

@@ -17,8 +17,8 @@ effects:
 - All allies counterattack with 70% of the damage received for 4 turns. The counterattack
   damage increases by +10% each turn, up to +100%.
 types:
-- Defense Buff All
 - Ally Damage Share
+- Defense Buff All
 - Counterattack All
 passives:
 - 'Hunter''s Sense: When this character casts their Special Skill, they transfer the
@@ -31,17 +31,17 @@ passives:
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/WxAALcm.jpg
 dtReleased: "2022-12-24"
-dtModified: "2026-03-20"
+dtModified: "2026-06-20"
 fancy_name: Mouse of the Hunt
 aetherPower: damage_reduction
 lb1:
-  power: 542
-  attack: 522
-  defense: 610
+  power: 541
+  attack: 521
+  defense: 609
   health: 886
 lb2:
-  power: 655
-  attack: 645
-  defense: 754
+  power: 654
+  attack: 644
+  defense: 753
   health: 1095
 ...

@@ -25,13 +25,13 @@ dtModified: ""
 fancy_name: Gnome Decorator
 aetherPower: attack_up
 lb1:
-  power: 1202
-  attack: 1256
+  power: 1201
+  attack: 1255
   defense: 1185
-  health: 2184
+  health: 2185
 lb2:
   power: 1357
-  attack: 1437
+  attack: 1436
   defense: 1356
-  health: 2499
+  health: 2500
 ...

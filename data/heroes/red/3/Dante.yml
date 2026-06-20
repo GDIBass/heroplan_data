@@ -24,23 +24,26 @@ effects:
 - '* All enemies receive 160 Burn damage over 4 turns.'
 types:
 - Charge
+- Hit All
+- Bypass
+- DoT All
 passives:
-- 'Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.'
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 - 'Resist Defense Ailments: This character is immune to status ailments that affect
   defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/FNkLC6z.jpg
 dtReleased: "2022-09-21"
-dtModified: "2026-04-16"
+dtModified: "2026-06-20"
 fancy_name: Adventurer of the Underworld
 aetherPower: special_boost
 lb1:
-  power: 540
+  power: 539
   attack: 608
-  defense: 535
+  defense: 534
   health: 803
 lb2:
   power: 652
   attack: 752
-  defense: 662
+  defense: 661
   health: 993
 ...

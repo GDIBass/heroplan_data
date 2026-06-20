@@ -21,22 +21,22 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/6so0gHz.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Terror of Avalon
 aetherPower: knights_endurance
 lb1:
   power: 830
-  attack: 659
-  defense: 912
+  attack: 658
+  defense: 911
   health: 1571
 lb2:
   power: 932
-  attack: 754
+  attack: 753
   defense: 1043
   health: 1798
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Wizard
   power: 978
   attack: 792
@@ -54,17 +54,17 @@ costume:
   - Attack Buff All
   image: https://i.imgur.com/BH9J6dC.jpg
   dtReleased: "2022-06-16"
-  dtModified: ""
+  dtModified: "2026-06-20"
   fancy_name: Negative Knight
   aetherPower: taunt
   lb1:
     power: 1044
-    attack: 854
+    attack: 853
     defense: 1126
-    health: 2184
+    health: 2185
   lb2:
     power: 1177
-    attack: 977
-    defense: 1289
-    health: 2499
+    attack: 976
+    defense: 1288
+    health: 2500
 ...

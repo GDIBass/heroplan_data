@@ -36,13 +36,13 @@ dtModified: ""
 fancy_name: The Next Generation of Dragon Dancers
 aetherPower: special_armor
 lb1:
-  power: 605
-  attack: 591
-  defense: 616
+  power: 604
+  attack: 590
+  defense: 615
   health: 1148
 lb2:
-  power: 732
+  power: 731
   attack: 730
-  defense: 761
+  defense: 760
   health: 1419
 ...

@@ -11,10 +11,12 @@ health: 1355
 skill: Brutal Bull Rush
 effects:
 - Deals 360% damage to the target and nearby enemies.
-- Reduces the duration of the target and nearby enemies buffs by 1 turn.
+- Reduces the duration of the target and nearby enemies' buffs by 1 turn. (The duration
+  modification affects Stubborn, dispellable and undispellable effects. If the duration
+  of any effect is reduced to zero, the effect is considered as having expired naturally.)
 - The target and nearby enemies receive Corrosive Burn for 3 turns. The Corrosive
   Burn deals 101 burn damage and lowers the targets defence by -16% each turn. Deals
-  extra damage against heroes with Minions or Mega Minions.
+  extra damage against heroes with Minions or a Mega Minions.
 types:
 - Hit 3
 - Buff Duration Reducer 3
@@ -22,7 +24,7 @@ types:
 - Defense Debuff 3
 image: https://i.imgur.com/i9C7vjL.jpg
 dtReleased: "2021-02-11"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Monstrous Minotaur
 aetherPower: bulwark
 lb1:
