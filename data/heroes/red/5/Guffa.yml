@@ -36,12 +36,12 @@ fancy_name: Stoic Gargoyle
 aetherPower: damage_reduction
 lb1:
   power: 1154
-  attack: 1061
+  attack: 1060
   defense: 1198
-  health: 2308
+  health: 2309
 lb2:
   power: 1303
-  attack: 1214
+  attack: 1213
   defense: 1371
-  health: 2641
+  health: 2642
 ...

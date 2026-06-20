@@ -10,7 +10,7 @@ defense: 1322
 health: 2263
 skill: Astral Assistance
 effects:
-- Destroys all Fiends from all allies. The effect damages Mega Fiends.
+- Destroys all Fiends from all allies and damages all Mega Fiends.
 - Recovers 50% health for all allies.
 - At the end of each turn, all allies shot an Astral Beam at a random enemy for 4
   turns.
@@ -31,7 +31,7 @@ passives:
   healing.'
 image: https://imgur.com/KuucEcX.jpg
 dtReleased: "2025-11-29"
-dtModified: "2026-05-13"
+dtModified: "2026-06-20"
 fancy_name: Astral Demon Socialite
 aetherPower: regen
 lb1:

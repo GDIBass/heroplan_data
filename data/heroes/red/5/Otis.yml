@@ -11,8 +11,9 @@ health: 1561
 skill: Dauntless Bladestorm
 effects:
 - Deals 370% damage to all enemies.
-- All enemies receive 575 Bleed damage over 4 turns, starting low, and increasing
-  with every turn.
+- All enemies receive 81-222 increasing Bleed damage each turn for 4 turns. (On the
+  first turn, 81 damage is dealt. The damage increases by +40% each turn, up to 222
+  damage per turn.)
 - All enemies get -70% decrease for any healing received for 4 turns. The healing
   received decreases by -10% each turn, up to -100%.
 types:
@@ -30,12 +31,12 @@ passives:
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/z2xqRCU.jpg
 dtReleased: "2022-12-24"
-dtModified: "2026-03-20"
+dtModified: "2026-06-20"
 fancy_name: Hunter Blademaster
 aetherPower: rage
 lb1:
   power: 947
-  attack: 927
+  attack: 928
   defense: 936
   health: 1682
 lb2:

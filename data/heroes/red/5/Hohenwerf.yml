@@ -32,12 +32,12 @@ fancy_name: Ferocious Gargoyle
 aetherPower: rage
 lb1:
   power: 896
-  attack: 868
+  attack: 867
   defense: 863
   health: 1618
 lb2:
-  power: 1008
-  attack: 993
-  defense: 988
+  power: 1007
+  attack: 992
+  defense: 987
   health: 1851
 ...

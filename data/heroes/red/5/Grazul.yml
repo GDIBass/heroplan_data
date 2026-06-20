@@ -27,12 +27,12 @@ fancy_name: The Fiery Healer
 aetherPower: defense_up
 lb1:
   power: 820
-  attack: 677
-  defense: 881
-  health: 1516
+  attack: 676
+  defense: 880
+  health: 1515
 lb2:
   power: 920
   attack: 774
-  defense: 1008
+  defense: 1007
   health: 1734
 ...

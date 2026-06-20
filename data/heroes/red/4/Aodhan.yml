@@ -15,28 +15,30 @@ effects:
   every turn.
 - The Wisp Fiend absorbs healing. It disappears after absorbing a healing amount equal
   to 18% of its target's max health.
-- 'Stack +2 (Max: 10): The caster gets +10% mana generation.'
-- 'Stack (Max: 10): The caster recovers 10 HP each turn.'
+- 'Stack +2 (Max: 10): The caster gets +12% mana generation. (Affects only mana generated
+  from matching shields or mana gained by defense at the end of their turn.)'
+- 'Stack (Max: 10): The caster recovers 15 HP each turn.'
 types:
 - Hit All
 - Fiend Summoner All
-- Stack
+- Mana Generation Stack Self
+- Heal Stack Self
 passives:
-- 'Resist Damage from Status Effects: This character has innate resistance against
-  incoming damage from status effects.'
+- 'Resist Damage from Status Effects: This character is immune to incoming damage
+  from status effects and stacks.'
 image: https://i.imgur.com/81JNp9d.jpg
 dtReleased: "2021-08-05"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: The Burning
 aetherPower: fiend_resist
 lb1:
   power: 728
-  attack: 681
+  attack: 680
   defense: 743
   health: 1410
 lb2:
   power: 831
   attack: 789
-  defense: 861
-  health: 1635
+  defense: 862
+  health: 1636
 ...

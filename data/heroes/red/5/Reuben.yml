@@ -11,7 +11,8 @@ health: 1310
 skill: Occult Redemption
 effects:
 - Deals 340% damage to the target and nearby enemies.
-- All allies get -80% reduction to damage received from status ailments for 4 turns.
+- All allies get -80% reduction to damage received from status ailments and negative
+  stacks for 4 turns.
 - Element Link summons a Fire Minion for all Fire allies with 6% HP and 10% attack
   inherited from the caster.
 types:
@@ -23,14 +24,14 @@ passives:
   stop mana generation or steal mana.'
 image: https://i.imgur.com/0xyk3F5.jpg
 dtReleased: "2020-12-01"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Sworn Occultist
 aetherPower: rage
 lb1:
   power: 833
   attack: 825
   defense: 794
-  health: 1411
+  health: 1412
 lb2:
   power: 936
   attack: 944

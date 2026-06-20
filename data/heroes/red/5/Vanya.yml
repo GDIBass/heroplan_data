@@ -18,7 +18,7 @@ effects:
 types:
 - Heal All
 - Shield Guard Mega Minion
-- Clean all Minion
+- Clean All Minion
 passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
@@ -26,17 +26,17 @@ passives:
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/1zUxxx9.jpg
 dtReleased: "2024-04-15"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: The Steadfast Sapper
 aetherPower: regen
 lb1:
   power: 1148
-  attack: 1214
+  attack: 1213
   defense: 1192
-  health: 1895
+  health: 1896
 lb2:
   power: 1296
-  attack: 1389
-  defense: 1363
+  attack: 1388
+  defense: 1364
   health: 2169
 ...

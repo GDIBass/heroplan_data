@@ -23,12 +23,12 @@ types:
 - Generated mana steal 3
 passives:
 - 'Gargoyle''s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin
-  activates. The next 4 times they receive damage, it is reduced by -90%. They are
+  activates. (The next 4 times they receive damage, it is reduced by -90%. They are
   also immune to all status ailments, mana reductions and Insanity. This effect can''t
-  be dispelled.'
+  be dispelled.)'
 image: https://i.imgur.com/rPeRNSA.jpg
 dtReleased: "2024-10-17"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Fiery Gargoyle
 aetherPower: fiend_resist
 lb1:
@@ -39,6 +39,6 @@ lb1:
 lb2:
   power: 863
   attack: 891
-  defense: 856
+  defense: 857
   health: 1619
 ...

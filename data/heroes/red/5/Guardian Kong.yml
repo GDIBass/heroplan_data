@@ -19,22 +19,22 @@ types:
 - Cleanser All
 image: https://i.imgur.com/4n0L387.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Chieftain of Teltoc
 aetherPower: rage
 lb1:
-  power: 815
-  attack: 848
+  power: 814
+  attack: 847
   defense: 632
-  health: 1545
+  health: 1544
 lb2:
   power: 914
-  attack: 970
-  defense: 723
+  attack: 969
+  defense: 724
   health: 1767
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Monk
   power: 960
   attack: 1007
@@ -54,17 +54,17 @@ costume:
   - Dispeller All
   image: https://i.imgur.com/cXwWGpL.jpg
   dtReleased: "2022-04-14"
-  dtModified: ""
+  dtModified: "2026-06-20"
   fancy_name: Conqueror Kong
   aetherPower: regen
   lb1:
-    power: 1025
+    power: 1024
     attack: 1085
-    defense: 801
-    health: 2116
+    defense: 800
+    health: 2115
   lb2:
-    power: 1155
-    attack: 1241
-    defense: 917
-    health: 2421
+    power: 1154
+    attack: 1242
+    defense: 916
+    health: 2420
 ...

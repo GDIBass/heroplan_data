@@ -22,13 +22,13 @@ dtModified: ""
 fancy_name: Ratman Scoundrel
 aetherPower: special_boost
 lb1:
-  power: 531
-  attack: 559
-  defense: 535
-  health: 864
+  power: 530
+  attack: 558
+  defense: 534
+  health: 863
 lb2:
-  power: 641
-  attack: 691
-  defense: 662
-  health: 1068
+  power: 640
+  attack: 690
+  defense: 661
+  health: 1067
 ...

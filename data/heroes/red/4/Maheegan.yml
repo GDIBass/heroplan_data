@@ -33,12 +33,12 @@ fancy_name: Wolf Tracker
 aetherPower: fiend_resist
 lb1:
   power: 736
-  attack: 713
+  attack: 712
   defense: 731
   health: 1410
 lb2:
   power: 840
-  attack: 827
+  attack: 826
   defense: 848
-  health: 1635
+  health: 1636
 ...

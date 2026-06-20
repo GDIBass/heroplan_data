@@ -42,13 +42,13 @@ aetherPower: ailment_immunity
 lb1:
   power: 950
   attack: 934
-  defense: 979
+  defense: 978
   health: 1602
 lb2:
   power: 1069
   attack: 1069
-  defense: 1120
-  health: 1833
+  defense: 1119
+  health: 1834
 costume:
   design: costume1
   bonuses: 43/43/43/1
@@ -92,13 +92,13 @@ costume:
   fancy_name: Champion of the Bramble
   aetherPower: dodge
   lb1:
-    power: 1308
-    attack: 1346
-    defense: 1393
-    health: 2301
+    power: 1307
+    attack: 1345
+    defense: 1392
+    health: 2300
   lb2:
     power: 1478
-    attack: 1540
-    defense: 1594
-    health: 2633
+    attack: 1539
+    defense: 1593
+    health: 2632
 ...

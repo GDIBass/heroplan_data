@@ -21,7 +21,7 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/H73nb1h.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Cat of Grimforest
 aetherPower: defense_up
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1630
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Fighter
   power: 978
   attack: 1066
@@ -55,17 +55,17 @@ costume:
   - Attack Buff All
   image: https://i.imgur.com/emXl6nU.jpg
   dtReleased: "2023-08-10"
-  dtModified: ""
+  dtModified: "2026-06-20"
   fancy_name: Masked Highwaycat
   aetherPower: special_armor
   lb1:
     power: 1044
-    attack: 1150
+    attack: 1149
     defense: 846
     health: 2004
   lb2:
-    power: 1177
-    attack: 1316
+    power: 1176
+    attack: 1314
     defense: 968
-    health: 2293
+    health: 2292
 ...

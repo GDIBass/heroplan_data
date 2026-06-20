@@ -18,7 +18,7 @@ effects:
   affects both cleansable and uncleasable effects. If the duration of any effect is
   reduced to zero the effect is considered as having expired naturally.)
 - All allies are immune to buff dispels and reallocations for 4 turns. (The immunity
-  also includes this effect itself.)
+  also includes this effect itself. Also includes Ransack.)
 types:
 - Hit All
 - Reduce Ailments Duration by 2
@@ -29,17 +29,17 @@ passives:
   battle. The chance is 20% of the original value.'
 image: https://imgur.com/ypDGkpC.jpg
 dtReleased: "2025-04-09"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Mosh Pit Maestro
 aetherPower: counterattack
 lb1:
   power: 1271
-  attack: 1285
+  attack: 1284
   defense: 1314
-  health: 2350
+  health: 2351
 lb2:
   power: 1436
   attack: 1470
   defense: 1503
-  health: 2689
+  health: 2690
 ...

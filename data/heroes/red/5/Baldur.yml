@@ -28,7 +28,7 @@ fancy_name: Luminous God
 aetherPower: heal_increase
 lb1:
   power: 839
-  attack: 870
+  attack: 869
   defense: 750
   health: 1429
 lb2:
@@ -66,10 +66,10 @@ costume:
     power: 1053
     attack: 1065
     defense: 1000
-    health: 1969
+    health: 1968
   lb2:
-    power: 1187
-    attack: 1219
+    power: 1186
+    attack: 1218
     defense: 1144
     health: 2252
 ...

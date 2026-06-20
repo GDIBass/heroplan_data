@@ -21,13 +21,13 @@ dtModified: ""
 fancy_name: Boastful Bodybuilder
 aetherPower: counterattack
 lb1:
-  power: 727
+  power: 726
   attack: 692
-  defense: 713
+  defense: 712
   health: 1431
 lb2:
   power: 829
-  attack: 803
-  defense: 827
-  health: 1659
+  attack: 802
+  defense: 826
+  health: 1660
 ...

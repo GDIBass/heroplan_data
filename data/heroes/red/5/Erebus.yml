@@ -12,15 +12,15 @@ skill: Dark Orb
 effects:
 - 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
 - '1x Mana Charge:'
-- ' * Destroys all Minions from the target.'
+- ' * Destroys all Minions from the target. This effect damages Mega Minions.'
 - ' * Deals 520% damage to the target.'
 - '2x Mana Charge:'
-- ' * Destroys all Minions from the target.'
+- ' * Destroys all Minions from the target. This effect damages Mega Minions.'
 - ' * Deals 610% damage to the target.'
 - ' * The target can''t summon new Minions with Special Skill and receives 200 damage
   for each Minion they attempt to summon for 3 turns.'
 - '3x Mana Charge:'
-- ' * Destroys all Minions from the target.'
+- ' * Destroys all Minions from the target. This effect damages Mega Minions.'
 - ' * Deals 675% damage to the target.'
 - ' * The target can''t summon new Minions with Special Skill and receives 200 damage
   for each Minion they attempt to summon for 4 turns.'
@@ -36,17 +36,17 @@ passives:
 - 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/gnNXm6f.jpg
 dtReleased: "2022-09-21"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: God of Deep Darkness
 aetherPower: special_boost
 lb1:
   power: 914
   attack: 896
-  defense: 881
+  defense: 880
   health: 1638
 lb2:
   power: 1028
   attack: 1026
-  defense: 1008
+  defense: 1007
   health: 1874
 ...

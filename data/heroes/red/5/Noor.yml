@@ -19,7 +19,6 @@ effects:
 types:
 - Healer All
 - Minion Destroyer Summoner All
-- ""
 passives:
 - 'Sparrow Summoner: Summons a Sparrow Minion for self when an enemy summons any Minions
   by Special Skill.'
@@ -30,12 +29,12 @@ fancy_name: Sparrow Whisperer
 aetherPower: mana_boost
 lb1:
   power: 824
-  attack: 759
-  defense: 843
+  attack: 758
+  defense: 842
   health: 1416
 lb2:
   power: 925
   attack: 868
-  defense: 965
+  defense: 964
   health: 1620
 ...

@@ -31,13 +31,13 @@ dtModified: "2026-05-04"
 fancy_name: Veteran Caretaker
 aetherPower: defense_up
 lb1:
-  power: 535
-  attack: 535
+  power: 534
+  attack: 534
   defense: 555
-  health: 910
+  health: 908
 lb2:
-  power: 646
-  attack: 662
+  power: 645
+  attack: 661
   defense: 686
-  health: 1124
+  health: 1123
 ...

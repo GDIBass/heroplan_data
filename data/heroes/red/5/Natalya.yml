@@ -20,22 +20,22 @@ types:
 - Mana Generation Debuff 1
 image: https://i.imgur.com/vuOEJDC.jpg
 dtReleased: "2018-01-01"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Fireborn Enchantress
 aetherPower: dodge
 lb1:
   power: 814
   attack: 774
-  defense: 732
+  defense: 731
   health: 1529
 lb2:
   power: 914
-  attack: 886
-  defense: 838
+  attack: 885
+  defense: 837
   health: 1750
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/26/45/5
   class: Wizard
   power: 973
   attack: 935
@@ -56,17 +56,17 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/IO9WHYd.jpg
   dtReleased: "2023-05-15"
-  dtModified: ""
+  dtModified: "2026-06-20"
   fancy_name: Fireborn Seamstress
   aetherPower: attack_up
   lb1:
-    power: 1040
-    attack: 1008
-    defense: 917
-    health: 2182
+    power: 1039
+    attack: 1007
+    defense: 916
+    health: 2181
   lb2:
-    power: 1172
-    attack: 1154
-    defense: 1049
-    health: 2497
+    power: 1171
+    attack: 1153
+    defense: 1048
+    health: 2496
 ...

@@ -26,22 +26,22 @@ types:
 - Status Ailments Immunity All
 image: https://i.imgur.com/iAnFGWC.jpg
 dtReleased: "2021-06-10"
-dtModified: "2026-05-11"
+dtModified: "2026-06-20"
 fancy_name: The Great Phoenix Tamer
 aetherPower: defense_up
 lb1:
   power: 862
-  attack: 810
+  attack: 809
   defense: 865
-  health: 1516
+  health: 1515
 lb2:
   power: 969
-  attack: 927
+  attack: 926
   defense: 990
   health: 1734
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 57/57/62/5
   class: Wizard
   power: 1210
   attack: 1237
@@ -68,7 +68,7 @@ costume:
     new copy of the cleansed ailment is applied on a random enemy.'
   image: https://imgur.com/Jiz6BXT.jpg
   dtReleased: "2025-04-09"
-  dtModified: "2026-05-11"
+  dtModified: "2026-06-20"
   fancy_name: The Great Frog Tamer
   aetherPower: attack_up
   lb1:

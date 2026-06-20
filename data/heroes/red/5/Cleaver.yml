@@ -35,12 +35,12 @@ fancy_name: Hunting Chieftain
 aetherPower: rage
 lb1:
   power: 948
-  attack: 919
+  attack: 918
   defense: 930
   health: 1724
 lb2:
   power: 1066
-  attack: 1051
+  attack: 1050
   defense: 1064
   health: 1973
 ...

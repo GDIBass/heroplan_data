@@ -27,14 +27,14 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/aM5vSU2.jpg
 dtReleased: "2023-03-27"
-dtModified: "2026-04-13"
+dtModified: "2026-06-20"
 fancy_name: Exiled Plasma Blade
 aetherPower: attack_up
 lb1:
   power: 966
   attack: 956
   defense: 892
-  health: 1838
+  health: 1837
 lb2:
   power: 1088
   attack: 1094
@@ -42,7 +42,7 @@ lb2:
   health: 2103
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 40/40/45/5
   class: Rogue
   power: 1232
   attack: 1239
@@ -71,17 +71,17 @@ costume:
     stacks cast by Nature characters.'
   image: https://imgur.com/2BXA5Mj.jpg
   dtReleased: "2025-09-04"
-  dtModified: "2026-04-13"
+  dtModified: "2026-06-20"
   fancy_name: Exiled Plasma Hacker
   aetherPower: special_boost
   lb1:
     power: 1318
-    attack: 1336
-    defense: 1255
-    health: 2678
+    attack: 1335
+    defense: 1254
+    health: 2676
   lb2:
-    power: 1491
-    attack: 1529
-    defense: 1436
-    health: 3064
+    power: 1490
+    attack: 1528
+    defense: 1435
+    health: 3062
 ...

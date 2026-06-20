@@ -15,9 +15,8 @@ effects:
   in total.
 - Cleanses status ailments from all allies.
 types:
-- Heal all
-- Elemental Heal Fire
-- Cleanser
+- Heal All
+- Cleanser All
 passives:
 - 'Troop Mastery:'
 - 'Passive Skill as attacking character: This hero''s Troops deal extra elemental
@@ -28,17 +27,17 @@ passives:
 - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/bsearKJ.jpg
 dtReleased: "2023-10-09"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Fire Spirit Collector
 aetherPower: defense_up
 lb1:
-  power: 744
-  attack: 699
-  defense: 785
-  health: 1392
+  power: 743
+  attack: 698
+  defense: 784
+  health: 1391
 lb2:
   power: 849
-  attack: 811
+  attack: 810
   defense: 910
   health: 1614
 ...

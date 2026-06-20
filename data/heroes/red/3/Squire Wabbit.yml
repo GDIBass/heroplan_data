@@ -21,13 +21,13 @@ dtModified: "2026-05-04"
 fancy_name: Squire of Springvale
 aetherPower: rage
 lb1:
-  power: 496
-  attack: 610
-  defense: 433
+  power: 495
+  attack: 609
+  defense: 432
   health: 689
 lb2:
   power: 597
-  attack: 754
+  attack: 753
   defense: 535
   health: 851
 costume:
@@ -55,13 +55,13 @@ costume:
   fancy_name: Junior Knight of Springvale
   aetherPower: special_boost
   lb1:
-    power: 604
-    attack: 770
-    defense: 529
-    health: 871
+    power: 603
+    attack: 768
+    defense: 528
+    health: 870
   lb2:
-    power: 732
-    attack: 952
-    defense: 654
-    health: 1077
+    power: 730
+    attack: 950
+    defense: 652
+    health: 1076
 ...

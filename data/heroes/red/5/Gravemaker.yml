@@ -20,7 +20,7 @@ types:
 - DoT 3
 image: https://i.imgur.com/pPTSbFy.jpg
 dtReleased: "2018-06-01"
-dtModified: ""
+dtModified: "2026-06-20"
 fancy_name: Blood-Stained Druid
 aetherPower: dodge
 lb1:
@@ -35,7 +35,7 @@ lb2:
   health: 1681
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/26/45/5
   class: Paladin
   power: 976
   attack: 922
@@ -55,17 +55,17 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/qMb0Vgk.jpg
   dtReleased: "2021-10-20"
-  dtModified: ""
+  dtModified: "2026-06-20"
   fancy_name: Burning Avenger
   aetherPower: counterattack
   lb1:
-    power: 1043
-    attack: 994
-    defense: 951
+    power: 1042
+    attack: 993
+    defense: 950
     health: 2172
   lb2:
     power: 1175
     attack: 1137
-    defense: 1088
-    health: 2486
+    defense: 1087
+    health: 2485
 ...
