@@ -45,4 +45,54 @@ lb2:
   attack: 926
   defense: 954
   health: 1882
+costume:
+  design: costume1
+  bonuses: 74/74/74/1
+  class: Monk
+  power: 1332
+  attack: 1310
+  defense: 1346
+  health: 2655
+  skill: Investigate Ki
+  effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - ' - All allies regenerate 600 HP over 2 turns.'
+  - ' - All allies get +40% attack, and a further +20% increase every time they are
+    hit during 2 turns, up to +100% attack.'
+  - ' - Cleanses status ailments from all allies.'
+  - 'x2 Mana Charge:'
+  - ' - All allies regenerate 900 HP over 3 turns.'
+  - ' - All allies get +50% attack, and a further +20% increase every time they are
+    hit during 3 turns, up to +150% attack.'
+  - ' - Cleanses status ailments from all allies.'
+  - 'x3 Mana Charge:'
+  - ' - All allies regenerate 1500 HP over 4 turns. This effect can''t be dispelled.'
+  - ' - All allies get +60% attack, and a further +20% increase every time they are
+    hit during 4 turns, up to +200% attack.'
+  - ' - Cleanses status ailments from all allies.'
+  types:
+  - Charge
+  - HoT All
+  - Attack Buff All
+  - Cleanser All
+  passives:
+  - 'Weaker Minions: Enemy Minions have -50% HP.'
+  - 'Rending Touch: Each time this character counterattacks an enemy, the attacker
+    receives 548 Bleed damage over 4 turns.'
+  image: https://imgur.com/7yEetHx.jpg
+  dtReleased: "2026-06-22"
+  dtModified: ""
+  fancy_name: Ninja of Ancient Graves
+  aetherPower: boosted_regen
+  lb1:
+    power: 1425
+    attack: 1412
+    defense: 1450
+    health: 2862
+  lb2:
+    power: 1613
+    attack: 1615
+    defense: 1660
+    health: 3274
 ...
