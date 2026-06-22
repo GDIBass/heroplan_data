@@ -1,0 +1,59 @@
+---
+name: Mizuno Seiko
+source: ninja
+family: ronin
+speed: Charge
+class: Monk
+power: 1336
+attack: 1417
+defense: 1359
+health: 2391
+skill: Spiritual Stance
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- 'x1 Mana Charge:'
+- Dispels 2 buffs from the target. (The latest buffs are dispelled first.)
+- Deals 430% damage to the target.
+- The target is immune to new status effect buffs for 2 turns, and receives 300 damage
+  for each attempted buff.
+- 'x2 Mana Charge:'
+- Dispels  buffs from the target and nearby enemies.
+- Deals 440% damage to the target and nearby enemies.
+- The target and nearby enemies are immune to new status effect buffs for 3 turns,
+  and receives 600 damage for each attempted buff.
+- 'x3 Mana Charge:'
+- Safely dispels status effect buffs from all enemies. (Safe dispel bypasses secondary
+  effects, suchs as damage on removal, from the removed status effect buffs. External
+  effects such as passive skills and family effects can still activate.)
+- Deals 540% damage to all enemies.
+- All enemies are immune to new status effect buffs for 5 turns, and receives 1200
+  damage for each attempted buff.
+types:
+- Charge
+- Dispeller 2 buffs 1 / all buffs 3 / Safely Dispels All
+- Hit 1/3/All
+- Buff Immunity 1/3/All
+- Damage on each attempted buff
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 450% damage.'
+- ' * The attacker receives 1500 Bleed damage over 3 turns.'
+image: https://imgur.com/l6LXnyz.jpg
+dtReleased: "2026-06-22"
+dtModified: ""
+fancy_name: Shaman Ronin
+aetherPower: special_boost
+lb1:
+  power: 1430
+  attack: 1527
+  defense: 1465
+  health: 2577
+lb2:
+  power: 1618
+  attack: 1747
+  defense: 1676
+  health: 2949
+...

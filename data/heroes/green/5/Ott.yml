@@ -14,7 +14,7 @@ effects:
 - All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill
   damage by up to -1100. Reduces damage by additional 30% when the attacker is of
   the Nature element.
-- All allies are immune to buff dispel and reallocations for 3 turns. (The immunity
+- All allies are immune to buff dispels and reallocations for 3 turns. (The immunity
   also includes this effect itself. Also includes Ransack.)
 types:
 - Boost Health All
@@ -60,7 +60,7 @@ costume:
   - All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill
     damage by up to -1350. Reduces damage by additional 30% when the attacker is of
     the Nature element.
-  - All allies are immune to buff dispel and reallocations for 3 turns. (The immunity
+  - All allies are immune to buff dispels and reallocations for 3 turns. (The immunity
     also includes this effect itself. Also includes Ransack.)
   types:
   - Boost Health All
