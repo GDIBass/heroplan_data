@@ -1,0 +1,44 @@
+---
+name: Konradus
+source: titanhunter
+family: titanhunter
+speed: Fast
+class: Monk
+power: 1334
+attack: 1404
+defense: 1369
+health: 2391
+skill: Artic Hunt
+effects:
+- Deals 600% damage to the target.
+- Against Titans, deals 700% damage.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- The target gets -40% defense for 3 turns. Against Fire Titans, the target get -60%
+  defense and the status effect lasts 2 turns longer.
+types:
+- Hit 1
+- Bypass
+- Defense Debuff 1
+passives:
+- 'Enhanced Shields on Special: Passive Skill as attacking character'
+- ' * Ice shields on the board become enhanced with +54% critical chance when this
+  character casts their Special Skill.'
+- Passive Skill as defending character
+- ' * Ice shields on the board become weakened with -47% accuracy when this character
+  casts their Special Skill.'
+image: https://imgur.com/JZ1y6Tb.jpg
+dtReleased: "2026-06-21"
+dtModified: ""
+fancy_name: Vanguard of the Tundra
+aetherPower: attack_up
+lb1:
+  power: 1428
+  attack: 1513
+  defense: 1475
+  health: 2577
+lb2:
+  power: 1616
+  attack: 1731
+  defense: 1688
+  health: 2949
+...
