@@ -21,7 +21,7 @@ effects:
   effects such as passives skills and family effects can still activate.
 - Deals 500% damage to a random target.
 - Increases the duration of the target's active status ailments by 5 turns. (The duration
-  increase affect both cleansable and uncleansable status ailments.)
+  increase affects cleansable, Stubborn and uncleansable status ailments.)
 types:
 - Chance for Critical hit
 - Hit 1
@@ -41,7 +41,7 @@ passives:
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://imgur.com/BtiEGep.jpg
 dtReleased: "2026-01-13"
-dtModified: "2026-04-28"
+dtModified: "2026-06-22"
 fancy_name: Bright Star of Water Margin
 aetherPower: attack_up
 lb1:
