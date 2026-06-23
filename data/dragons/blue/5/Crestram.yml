@@ -1,0 +1,46 @@
+---
+name: Crestram
+fancy_name: "Serpent Selenomancer"
+source: ancientUnderroot
+speed: Average
+power: 13050
+attack: 16648
+defense: 16228
+health: 14640
+skill: Moonfury
+effects:
+- Deals 320% damage to the target and 260% damage to nearby enemies.
+- The target can't revive their allies or themself for 4 turns.
+- The target gets Soul Bound for 4 turns. This effect can't be cleansed. (This effect
+  will always bypass reflection.)
+- All damage received by the caster is also dealt to all Soul Bound enemies. (Damage
+  is shared between all Soul Bound enemies. This effect will not share damage coming
+  from other shared damage sources or counterattacks.)
+types:
+- Hit 3
+- Revive Block 1
+- Soul Bond 1
+spiritBonus:
+  spiritClass: Wizard
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Blaze of Torment
+  effects:
+  - Deals 810 damage to all enemies.
+  - Recovers 210 health for all allies.
+  - Reduces the mana of all enemies by 20%.
+image: https://imgur.com/grQTsxe.jpg
+dtReleased: "2026-06-23"
+dtModified: ""
+...
