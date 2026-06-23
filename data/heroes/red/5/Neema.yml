@@ -2,7 +2,7 @@
 name: Neema
 source: hotm
 family: "2023"
-speed: Fast
+speed: Average
 class: Druid
 power: 891
 attack: 824
@@ -29,7 +29,7 @@ passives:
   prevent the use of Special Skills.'
 image: https://i.imgur.com/hih0AUp.jpg
 dtReleased: "2023-11-01"
-dtModified: ""
+dtModified: "2026-06-23"
 fancy_name: Fire Wizard
 aetherPower: ailment_immunity
 lb1:
@@ -41,5 +41,5 @@ lb2:
   power: 1070
   attack: 1016
   defense: 1117
-  health: 1981
+  health: 1980
 ...
