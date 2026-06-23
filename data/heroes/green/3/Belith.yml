@@ -17,7 +17,7 @@ types:
 - Dispeller All
 image: https://i.imgur.com/aLWFiS9.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-06-22"
 fancy_name: Glade Spirit
 aetherPower: defense_up
 lb1:
@@ -41,13 +41,14 @@ costume:
   skill: Tranquil Mist
   effects:
   - All allies regenerate 459 HP over 3 turns.
-  - All allies are immune to buff dispells for 3 turns.
+  - All allies are immune to buff dispels and reallocations  for 3 turns. (The immunity
+    also includes this effect itself. Also includes Ransack.)
   types:
   - HoT All
   - Dispell Immunity Buff All
   image: https://i.imgur.com/MHO518e.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-06-22"
   fancy_name: Grove Spirit
   aetherPower: special_armor
   lb1:
@@ -83,7 +84,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/d6OTmVG.jpg
   dtReleased: "2024-04-08"
-  dtModified: ""
+  dtModified: "2026-06-22"
   fancy_name: Toon Spirit
   aetherPower: defense_up
   lb1:
@@ -119,7 +120,7 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/Y4Gu3iU.jpg
   dtReleased: "2025-04-23"
-  dtModified: ""
+  dtModified: "2026-06-22"
   fancy_name: Glass Spirit
   aetherPower: defense_up
   lb1:
@@ -153,7 +154,7 @@ costume4:
     ones.'
   image: https://imgur.com/q0mnmfU.jpg
   dtReleased: "2026-05-09"
-  dtModified: ""
+  dtModified: "2026-06-22"
   fancy_name: Stylish Spirit
   aetherPower: defense_up
   lb1:

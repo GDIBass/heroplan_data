@@ -2,7 +2,7 @@
 name: Orla
 source: slayers
 family: slayer
-speed: Slow
+speed: Slayer
 class: Ranger
 power: 677
 attack: 635
@@ -24,17 +24,17 @@ passives:
   incoming damage from status effects.'
 image: https://i.imgur.com/YWXxtDj.jpg
 dtReleased: "2021-08-05"
-dtModified: ""
+dtModified: "2026-06-23"
 fancy_name: The Worthy
 aetherPower: attack_up
 lb1:
   power: 728
-  attack: 690
+  attack: 689
   defense: 738
   health: 1396
 lb2:
   power: 831
   attack: 800
-  defense: 856
+  defense: 857
   health: 1619
 ...

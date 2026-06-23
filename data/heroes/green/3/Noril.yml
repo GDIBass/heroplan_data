@@ -2,7 +2,7 @@
 name: Noril
 source: slayers
 family: slayer
-speed: Slow
+speed: Slayer
 class: Barbarian
 power: 478
 attack: 455
@@ -23,17 +23,17 @@ passives:
   incoming damage from status effects.'
 image: https://i.imgur.com/sPxC3Un.jpg
 dtReleased: "2021-08-05"
-dtModified: ""
+dtModified: "2026-06-23"
 fancy_name: The Fierce
 aetherPower: rage
 lb1:
-  power: 534
-  attack: 516
-  defense: 579
-  health: 906
+  power: 533
+  attack: 515
+  defense: 578
+  health: 905
 lb2:
   power: 644
   attack: 637
-  defense: 715
+  defense: 714
   health: 1119
 ...

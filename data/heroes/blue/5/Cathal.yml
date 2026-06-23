@@ -2,7 +2,7 @@
 name: Cathal
 source: slayers
 family: slayer
-speed: Slow
+speed: Slayer
 class: Barbarian
 power: 811
 attack: 747
@@ -24,7 +24,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/T6kV2Hh.jpg
 dtReleased: "2021-08-05"
-dtModified: ""
+dtModified: "2026-06-23"
 fancy_name: The Bravehearted
 aetherPower: attack_up
 lb1:
@@ -33,8 +33,8 @@ lb1:
   defense: 865
   health: 1538
 lb2:
-  power: 971
-  attack: 922
+  power: 970
+  attack: 921
   defense: 990
   health: 1760
 ...
