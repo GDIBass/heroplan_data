@@ -12,22 +12,22 @@ skill: Lunar Bloom
 effects:
 - Recovers 30% health for all allies.
 - 'Growth: All allies get 250 attack.'
-- Boosts health of all allies by 450 health after 3 turns, or immediatelly if the
-  effect is removed before the duration ends. Boosted health can exceed max HP.
+- Boosts health of all allies by 450 after 3 turns, or immediately if the effect is
+  removed before the duration ends. Boosted health can exceed max HP.
 types:
 - Healer All
 - Attack Growth All
 - Delayed Boosted Health All
 passives:
 - 'Destroy Fiends on Special: When this character casts their Special Skill, all Fiends
-  are destroyed from them.'
+  are destroyed from them. This effect deals damage to Mega Fiends.'
 - 'Superior Resist Negative Minion Effects: This character is immune to incoming negative
   effects and damage from Minions and Mega Minions.'
 - 'Resist Healing Ailments: This character is immune to status ailments that affect
   healing.'
 image: https://imgur.com/dgeBnW2.jpg
 dtReleased: "2025-07-02"
-dtModified: "2026-05-13"
+dtModified: "2026-06-22"
 fancy_name: Astral Dwarf Gardener
 aetherPower: damage_reduction
 lb1:

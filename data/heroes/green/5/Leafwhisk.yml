@@ -15,7 +15,7 @@ effects:
   caster.
 - When summoned the Spotted Boar Mega Minion gives its owner immunity to buff dispels
   and reallocation for as long as the owner has a Spotted Boar Mega Minion. (This
-  immunity also includes this effect itself.)
+  immunity also includes this effect itself. Also includes Ransack.)
 types:
 - Defense Growth All
 - Spotted Boar Mega Minion
@@ -26,13 +26,13 @@ passives:
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/Y6zioBg.jpg
 dtReleased: "2023-12-11"
-dtModified: ""
+dtModified: "2026-06-22"
 fancy_name: Enchanter of Beasts
 aetherPower: defense_up
 lb1:
-  power: 1047
-  attack: 1072
-  defense: 1101
+  power: 1046
+  attack: 1071
+  defense: 1100
   health: 1707
 lb2:
   power: 1180

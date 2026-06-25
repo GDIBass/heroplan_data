@@ -12,8 +12,9 @@ skill: Reporting for Duty
 effects:
 - Deals 450% damage to all enemies.
 - Reduces the duration of all allies' active status ailments by 3 turn. (The duration
-  reduction affects both cleansable and uncleansable status ailments. If the duration
-  on any ailment is reduced to zero, the effect is considered as having expired naturally.)
+  modification affects cleansable, Stubborn and uncleansable status ailments. If the
+  duration on any ailment is reduced to zero, the effect is considered as having expired
+  naturally.)
 - Reduces the duration of all enemies' active buffs by 3 turns.(The duration reduction
   affects both dispellable and undispellable status effect buffs. If the duration
   on any buff is reduced to zero, the effect is considered as having expired naturally.)
@@ -32,14 +33,14 @@ passives:
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/tr0BEoG.jpg
 dtReleased: "2024-07-07"
-dtModified: ""
+dtModified: "2026-06-22"
 fancy_name: Courageous Corporal
 aetherPower: defense_up
 lb1:
-  power: 1177
-  attack: 1174
+  power: 1176
+  attack: 1173
   defense: 1247
-  health: 2086
+  health: 2087
 lb2:
   power: 1328
   attack: 1343

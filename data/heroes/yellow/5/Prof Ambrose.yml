@@ -30,11 +30,12 @@ passives:
   automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
   inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
   Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
-- 'Branded by the Old Ones: All damage from normal attacks and Special Skills dealt
-  by this character is increased by 6% per 10 Insanity on this character, up to 60%.'
+- 'Branded by the Old Ones: All damage done to enemies by normal attacks and Special
+  Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not
+  include damage dealt to self or allies when activating Insanity.'
 image: https://imgur.com/QhHCnui.jpg
 dtReleased: "2026-03-22"
-dtModified: "2026-04-30"
+dtModified: "2026-06-22"
 fancy_name: Director of the Institute
 aetherPower: bulwark
 lb1:

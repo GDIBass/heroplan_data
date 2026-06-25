@@ -2,7 +2,7 @@
 name: Saoirse
 source: slayers
 family: slayer
-speed: Slow
+speed: Slayer
 class: Fighter
 power: 810
 attack: 737
@@ -24,7 +24,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/pHj3rld.jpg
 dtReleased: "2021-08-05"
-dtModified: ""
+dtModified: "2026-06-23"
 fancy_name: The Untamable
 aetherPower: attack_up
 lb1:
@@ -63,7 +63,7 @@ costume:
     receive 452 Bleed damage over 4 turns.'
   image: https://i.imgur.com/yHVhyhO.jpg
   dtReleased: "2024-11-14"
-  dtModified: ""
+  dtModified: "2026-06-23"
   fancy_name: The Vanquisher
   aetherPower: defense_up
   lb1:

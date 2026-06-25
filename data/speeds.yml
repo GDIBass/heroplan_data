@@ -1,113 +1,223 @@
+---
 speeds:
   very_fast:
     key: very_fast
     code: 1
     shortName: VF
     description: Very Fast
-    tiles: [6.5]
+    descriptionLong: Very Fast
+    tiles:
+      - 7
+    tilesFloat:
+      - 6.5
     breakPoints:
-      9: [6]
+      "9":
+        - 6
+      "30":
+        - 5
+      "63":
+        - 4
   fast:
     key: fast
     code: 2
     shortName: F
     description: Fast
-    tiles: [8]
+    descriptionLong: Fast
+    tiles:
+      - 8
+    tilesFloat:
+      - 8
     breakPoints:
-      15: [7]
+      "15":
+        - 7
+      "34":
+        - 6
+      "60":
+        - 5
   average:
     key: average
     code: 3
     shortName: A
     description: Average
-    tiles: [10]
+    descriptionLong: Average
+    tiles:
+      - 10
+    tilesFloat:
+      - 10
     breakPoints:
-      12: [9]
+      "12":
+        - 9
+      "25":
+        - 8
+      "43":
+        - 7
   slow:
     key: slow
     code: 4
     shortName: S
     description: Slow
-    tiles: [12]
+    descriptionLong: Slow
+    tiles:
+      - 12
+    tilesFloat:
+      - 12
     breakPoints:
-      10: [11]
-      20: [10]
+      "10":
+        - 11
+      "20":
+        - 10
+      "34":
+        - 9
   very_slow:
     key: very_slow
     code: 5
     shortName: VS
     description: Very Slow
-    tiles: [13.5]
+    descriptionLong: Very Slow
+    tiles:
+      - 14
+    tilesFloat:
+      - 13.5
     breakPoints:
-      4: [13]
-      13: [12]
+      "4":
+        - 13
+      "13":
+        - 12
+      "23":
+        - 11
   charge:
     key: charge
     code: 6
     shortName: C
     description: Charge
+    descriptionLong: Ninja Charge
+    tiles:
+      - 5
+      - 10
+      - 15
+    tilesFloat:
+      - 4.9
+      - 9.8
+      - 14.7
+    breakPoints:
+      "6":
+        - 5
+        - 10
+        - 14
+      "9":
+        - 5
+        - 9
+        - 14
+      "14":
+        - 5
+        - 9
+        - 13
+      "23":
+        - 4
+        - 8
+        - 12
+  styx:
+    key: styx
+    code: 11
+    shortName: ST
+    description: Styx Charge
+    descriptionLong: The Hero's mana bar can be filled up to 3 times before casting the Special Skill. The Skill's effects varies based in the amount of times the mana bar has been filled.
     tiles:
       - 6
       - 9
       - 12
+    tilesFloat:
+      - 6
+      - 9
+      - 12
     breakPoints:
-      10:
+      "10":
         - 6
         - 9
         - 11
-      13:
+      "13":
         - 6
         - 8
         - 11
-      20:
+      "20":
         - 5
-        - 9
+        - 8
         - 10
   magic:
     key: magic
     code: 7
     shortName: M
     description: Magic
+    descriptionLong: Magic speed
     tiles:
       - 6
       - 13
+    tilesFloat:
+      - 5.5
+      - 12.3
     breakPoints:
-      5:
+      "3":
         - 6
         - 12
-      13:
+      "11":
+        - 5
+        - 12
+      "12":
         - 5
         - 11
+      "23":
+        - 5
+        - 10
+      "39":
+        - 4
+        - 10
   slayer:
     key: slayer
     code: 8
     shortName: SL
     description: Slayer
-    tiles: [11]
+    descriptionLong: Slayer mana speed is below average, but the mana generation speed of this Hero increases when the family effect activates.
+    tiles:
+      - 11
+    tilesFloat:
+      - 11
     breakPoints:
-      10: [10]
-      22: [9]
+      "10":
+        - 10
+      "23":
+        - 9
   changing_tides:
     key: changing_tides
     code: 9
     shortName: CT
     description: Changing Tides
-    tiles: 
+    descriptionLong: The mana speed alternates between fast and average every time the Hero casts the Special Skill.
+    tiles:
+      - 8
+      - 18
+    tilesFloat:
       - 8
       - 18
     breakPoints:
-      12:
+      "12":
         - 8
         - 17
-      15:
+      "15":
         - 7
         - 16
+      "25":
+        - 7
+        - 15
   dancer:
     key: dancer
     code: 10
     shortName: D
     description: Dancer
-    descriptionLong: Dancer mana speed is faster than Fast, but becomes Slow for 3 turns after each Special Skill cast.
-    tiles: [7]
+    descriptionLong: Dancer mana speed is faster than Fast, but becomes Slow for 3
+      turns after each Special Skill cast.
+    tiles:
+      - 7
+    tilesFloat: -7
     breakPoints:
-      17: [6]
+      "17":
+        - 6

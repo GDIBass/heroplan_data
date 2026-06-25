@@ -33,7 +33,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/XIyQFXu.jpg
 dtReleased: "2024-12-03"
-dtModified: "2026-06-20"
+dtModified: "2026-06-22"
 fancy_name: Dwarven Merry Trickster
 aetherPower: regen
 lb1:
@@ -60,8 +60,8 @@ costume:
   - All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill
     damage by up to -1350. Reduces damage by additional 30% when the attacker is of
     the Nature element.
-  - All allies are immune to buff dispel and reallocations for 3 turns. (The immunity
-    also includes this effect itself.)
+  - All allies are immune to buff dispels and reallocations for 3 turns. (The immunity
+    also includes this effect itself. Also includes Ransack.)
   types:
   - Boost Health All
   - Firestorm Ward All
@@ -79,7 +79,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/xREyScg.jpg
   dtReleased: "2025-10-15"
-  dtModified: "2026-06-20"
+  dtModified: "2026-06-22"
   fancy_name: Dwarven Maestro Trickster
   aetherPower: boosted_regen
   lb1:

@@ -2,7 +2,7 @@
 name: Aodhan
 source: slayers
 family: slayer
-speed: Slow
+speed: Slayer
 class: Wizard
 power: 677
 attack: 626
@@ -28,7 +28,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/81JNp9d.jpg
 dtReleased: "2021-08-05"
-dtModified: "2026-06-20"
+dtModified: "2026-06-23"
 fancy_name: The Burning
 aetherPower: fiend_resist
 lb1:

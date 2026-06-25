@@ -2,7 +2,7 @@
 name: Cillian
 source: slayers
 family: slayer
-speed: Slow
+speed: Slayer
 class: Fighter
 power: 677
 attack: 631
@@ -25,7 +25,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/ema4TPc.jpg
 dtReleased: "2021-08-05"
-dtModified: "2026-06-20"
+dtModified: "2026-06-23"
 fancy_name: The Undying
 aetherPower: attack_up
 lb1:

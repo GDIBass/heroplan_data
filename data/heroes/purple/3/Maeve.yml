@@ -2,7 +2,7 @@
 name: Maeve
 source: slayers
 family: slayer
-speed: Slow
+speed: Slayer
 class: Rogue
 power: 478
 attack: 458
@@ -23,17 +23,17 @@ passives:
   incoming damage from status effects.'
 image: https://i.imgur.com/vEp3yLs.jpg
 dtReleased: "2021-08-05"
-dtModified: ""
+dtModified: "2026-06-23"
 fancy_name: The Unseen
 aetherPower: attack_up
 lb1:
-  power: 534
-  attack: 520
-  defense: 577
-  health: 900
+  power: 533
+  attack: 519
+  defense: 576
+  health: 899
 lb2:
-  power: 645
-  attack: 642
+  power: 644
+  attack: 641
   defense: 713
   health: 1112
 ...

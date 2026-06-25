@@ -2,7 +2,7 @@
 name: Caitlin
 source: slayers
 family: slayer
-speed: Slow
+speed: Slayer
 class: Wizard
 power: 809
 attack: 721
@@ -25,7 +25,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/ERb7z96.jpg
 dtReleased: "2021-08-05"
-dtModified: "2026-03-20"
+dtModified: "2026-06-23"
 fancy_name: The Enlightened
 aetherPower: attack_up
 lb1:
@@ -36,7 +36,7 @@ lb1:
 lb2:
   power: 969
   attack: 889
-  defense: 1013
+  defense: 1012
   health: 1783
 costume:
   design: costume1
@@ -65,17 +65,17 @@ costume:
     receive 528 Bleed damage over 4 turns.'
   image: https://i.imgur.com/JgYBU3i.jpg
   dtReleased: "2024-11-14"
-  dtModified: "2026-03-20"
+  dtModified: "2026-06-23"
   fancy_name: The Justicar Crusader
   aetherPower: defense_up
   lb1:
     power: 1295
-    attack: 1300
+    attack: 1298
     defense: 1286
-    health: 2542
+    health: 2541
   lb2:
     power: 1464
-    attack: 1487
+    attack: 1486
     defense: 1471
-    health: 2909
+    health: 2908
 ...
