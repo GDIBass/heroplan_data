@@ -1,0 +1,52 @@
+---
+name: Mina
+source: wilderness
+family: wildcat
+speed: Slow
+class: Sorcerer
+power: 1337
+attack: 1487
+defense: 1281
+health: 2383
+skill: Ocarina of Sorrow
+effects:
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- Deals 500% damage to the target.
+- The target receives 2970 Poison damage over 5 turns. This effect spreads to nearby
+  enemies and can't be cleansed.
+- The target automatically casts Shifting Mindless Attack on a random ally when mana
+  is full at the start of a turn during 5 turns. When this effect is triggered, it
+  shifts to the hit ally, and the duration is refreshed.
+types:
+- Bypass
+- Hit 1
+- Spreading DoT 1
+- Shifting Mindless Attack 1
+passives:
+- 'Nine Lives:'
+- ' * When defeated this character has 80% chance to revive at the beginning of their
+  next turn with 50% health and 80% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
+  be prevented with status ailments or Passive Skills.'
+- 'Trait: Lithe Frame'
+- This character is not affected by effects that increase or reduce defense.
+- 'This includes:'
+- ' * Status effect buffs and ailments.'
+- ' * Positive and negative stacks.'
+- ' * Growth and Wither effects.'
+image: https://imgur.com/q5S08GS.jpg
+dtReleased: "2026-06-25"
+dtModified: ""
+fancy_name: Lonely Mountain Cat
+aetherPower: boosted_regen
+lb1:
+  power: 1431
+  attack: 1602
+  defense: 1380
+  health: 2568
+lb2:
+  power: 1620
+  attack: 1834
+  defense: 1580
+  health: 2939
+...
