@@ -27,7 +27,7 @@ effects:
   4 turns.'
 types:
 - Hit 3
-- Mindless Attack 1
+- Shifting Mindless Attack 1
 - Healing Debuff 3
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
@@ -36,7 +36,7 @@ passives:
 - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/RtOVjbp.jpg
 dtReleased: "2024-01-17"
-dtModified: "2026-04-03"
+dtModified: "2026-06-25"
 fancy_name: Naga Queen of the Deep
 aetherPower: attack_up
 lb1:
@@ -76,7 +76,7 @@ costume:
     4 turns.'
   types:
   - Hit 3
-  - Mindless Attack 1
+  - Shifting Mindless Attack 1
   - Healing Debuff 3
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
@@ -86,7 +86,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/CadXjHa.jpg
   dtReleased: "2024-10-19"
-  dtModified: "2026-04-03"
+  dtModified: "2026-06-25"
   fancy_name: Naga Goddess of the Deep
   aetherPower: special_boost
   lb1:

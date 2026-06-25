@@ -16,7 +16,7 @@ effects:
   shifts to the hit ally, and the duration is refreshed.
 types:
 - Hit 1
-- Mindless Attack 1
+- Shifting Mindless Attack 1
 passives:
 - 'Friend of the Familiars: When a Minion is summoned to any ally, this character
   gains 5% health and 5% mana. This effect can activate only once per turn.'
@@ -24,17 +24,17 @@ passives:
   damage to all enemies. This effect can activate only once per turn.'
 image: https://i.imgur.com/acvvh6o.jpg
 dtReleased: "2022-11-03"
-dtModified: "2026-03-20"
+dtModified: "2026-06-25"
 fancy_name: Captain of the Duck's Guard
 aetherPower: attack_up
 lb1:
-  power: 736
-  attack: 681
+  power: 735
+  attack: 680
   defense: 759
   health: 1431
 lb2:
-  power: 839
+  power: 840
   attack: 789
-  defense: 880
-  health: 1659
+  defense: 881
+  health: 1660
 ...
