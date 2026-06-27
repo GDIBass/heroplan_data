@@ -4,10 +4,10 @@ source: blackfriday
 family: shadyscoundrel
 speed: Fast
 class: Ranger
-power: 1268
-attack: 1306
-defense: 1303
-health: 2298
+power: 1335
+attack: 1392
+defense: 1388
+health: 2391
 skill: Thieving Shot
 effects:
 - Ransacks the target, stealing health and buffs. (Steals 400 health. Safely steals
@@ -35,17 +35,17 @@ passives:
   is refreshed at the beginning of each wave.'
 image: https://imgur.com/EoQT7A5.jpg
 dtReleased: "2025-11-24"
-dtModified: "2026-06-15"
+dtModified: "2026-06-27"
 fancy_name: The Deceitful Marksman
 aetherPower: dodge
 lb1:
-  power: 1357
-  attack: 1407
-  defense: 1404
-  health: 2477
+  power: 1429
+  attack: 1500
+  defense: 1496
+  health: 2577
 lb2:
-  power: 1535
-  attack: 1610
-  defense: 1607
-  health: 2834
+  power: 1617
+  attack: 1716
+  defense: 1712
+  health: 2949
 ...

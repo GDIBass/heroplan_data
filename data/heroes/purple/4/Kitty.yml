@@ -22,10 +22,10 @@ types:
 passives:
 - 'Damage on Special Skill: When this character receives damage from Special Skills
   or in place of a character in Cover, there''s a 60% chance to deal 20% of the received
-  damage to all enemies.'
+  damage to all enemies. (Max damage: 600)'
 image: https://i.imgur.com/2nOJ3dV.jpg
 dtReleased: "2023-03-08"
-dtModified: "2026-04-16"
+dtModified: "2026-06-27"
 fancy_name: Friendly Florist
 aetherPower: defense_up
 lb1:
@@ -63,10 +63,10 @@ costume:
     defense.'
   - 'Damage on Special Skill and Cover Damage: When this character receives damage
     from Special Skills or in place of a character in Cover, there''s a 75% chance
-    to deal 50% of the received damage on all enemies.'
+    to deal 50% of the received damage on all enemies. (Max damage: 600)'
   image: https://imgur.com/1AcPs4U.jpg
   dtReleased: "2026-02-20"
-  dtModified: "2026-04-16"
+  dtModified: "2026-06-27"
   fancy_name: Friendly Fruit Harvester
   aetherPower: heal_increase
   lb1:
