@@ -19,22 +19,20 @@ effects:
 - Deals extra damage against Fire.
 types:
 - Hit All
-- Self Ambush
+- Ambush Self
 passives:
-- 'Thief''s Opportunity: At the start of each turn this character has a 100% chance
-  to Ransack a random enemy'
+- 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
+  enemy'
 - 'Ransack:'
 - ' * Steals 100 health.'
-- ' * Safely steals one random status effect buff from the enemy. This includes undispellable
+- ' * Safely steals a buff from the enemy. This includes Stubborn effects, undispellable
   buffs and Dance effects.'
-- ' * Safe stealing bypasses secondary effects, such as damage on removal, from the
-  removed buffs. Passive skills and family effects can still activate.'
 - 'Cheat Death: The first time this character would receive fatal damage, they instead
   redirect that damage to a random enemy. In battles with multiple waves, the effect
   is refreshed at the beginning of each wave.'
 image: https://imgur.com/Nm1tuWv.jpg
 dtReleased: "2025-11-24"
-dtModified: "2026-06-27"
+dtModified: "2026-06-29"
 fancy_name: The Road Bandit
 aetherPower: counterattack
 lb1:

@@ -31,12 +31,12 @@ fancy_name: The Master Marksmoth
 aetherPower: special_boost
 lb1:
   power: 1281
-  attack: 1434
+  attack: 1433
   defense: 1203
-  health: 2268
+  health: 2269
 lb2:
   power: 1447
   attack: 1640
   defense: 1376
-  health: 2595
+  health: 2596
 ...

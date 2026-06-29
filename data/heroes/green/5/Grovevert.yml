@@ -19,14 +19,15 @@ effects:
   for as long as the owner has Moss Mothling Mega Fiend. (Affects only mana generated
   from matching tiles or mana gained by the defense team at the end of their turn.)
 types:
-- Delayed Self Mana Boost
-- Moss Mothling Mega Fiend
+- Delayed Mana Boost Self
+- Moss Mothling Mega Fiend 1
+- Mana Generation Debuff Fiend
 passives:
 - 'Dodge Special Damage: This character has a 15% chance to dodge Special Skills that
   deal damage.'
 image: https://i.imgur.com/0Q3pYS0.jpg
 dtReleased: "2025-01-23"
-dtModified: ""
+dtModified: "2026-06-29"
 fancy_name: Mothling Breeder
 aetherPower: damage_reduction
 lb1:
