@@ -194,20 +194,20 @@ speeds:
     descriptionLong: The mana speed alternates between fast and average every time the Hero casts the Special Skill.
     tiles:
       - 8
-      - 18
+      - 10
     tilesFloat:
       - 8
-      - 18
+      - 10
     breakPoints:
       "12":
         - 8
-        - 17
+        - 9
       "15":
         - 7
-        - 16
+        - 9
       "25":
         - 7
-        - 15
+        - 8
   dancer:
     key: dancer
     code: 10
@@ -217,7 +217,8 @@ speeds:
       turns after each Special Skill cast.
     tiles:
       - 7
-    tilesFloat: -7
+    tilesFloat:
+      - 7
     breakPoints:
       "17":
         - 6
