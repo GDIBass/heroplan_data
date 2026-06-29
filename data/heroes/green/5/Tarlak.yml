@@ -57,14 +57,14 @@ costume:
   aetherPower: ailment_immunity
   lb1:
     power: 1008
-    attack: 935
+    attack: 934
     defense: 1110
-    health: 1754
+    health: 1753
   lb2:
     power: 1135
     attack: 1069
     defense: 1270
-    health: 2007
+    health: 2006
 costume2:
   design: toon
   bonuses: 87/87/90/5

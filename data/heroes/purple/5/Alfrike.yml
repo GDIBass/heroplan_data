@@ -29,7 +29,7 @@ aetherPower: damage_reduction
 lb1:
   power: 842
   attack: 710
-  defense: 910
+  defense: 909
   health: 1531
 lb2:
   power: 945
@@ -63,13 +63,13 @@ costume:
   fancy_name: Hatter of Svartalfheim
   aetherPower: ailment_immunity
   lb1:
-    power: 1059
-    attack: 841
-    defense: 1250
+    power: 1058
+    attack: 839
+    defense: 1249
     health: 2070
   lb2:
-    power: 1193
-    attack: 962
-    defense: 1430
+    power: 1192
+    attack: 960
+    defense: 1429
     health: 2369
 ...

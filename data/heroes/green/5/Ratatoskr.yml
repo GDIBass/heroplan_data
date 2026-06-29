@@ -23,14 +23,14 @@ dtModified: "2026-04-16"
 fancy_name: Messenger of Yggdrasil
 aetherPower: defense_up
 lb1:
-  power: 837
-  attack: 812
-  defense: 799
+  power: 836
+  attack: 811
+  defense: 798
   health: 1458
 lb2:
-  power: 939
-  attack: 929
-  defense: 914
+  power: 938
+  attack: 928
+  defense: 913
   health: 1668
 costume:
   design: costume1
@@ -55,13 +55,13 @@ costume:
   fancy_name: Architect of Yggdrasil
   aetherPower: bulwark
   lb1:
-    power: 1049
-    attack: 1165
-    defense: 937
-    health: 1816
+    power: 1048
+    attack: 1164
+    defense: 936
+    health: 1815
   lb2:
-    power: 1182
+    power: 1181
     attack: 1332
-    defense: 1072
+    defense: 1071
     health: 2077
 ...

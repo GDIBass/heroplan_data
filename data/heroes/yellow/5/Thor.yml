@@ -33,12 +33,12 @@ fancy_name: God of Thunder
 aetherPower: attack_up
 lb1:
   power: 839
-  attack: 808
+  attack: 807
   defense: 792
   health: 1502
 lb2:
   power: 942
-  attack: 924
+  attack: 923
   defense: 906
   health: 1719
 costume:
@@ -73,13 +73,13 @@ costume:
   fancy_name: Conduit of Thunder
   aetherPower: special_boost
   lb1:
-    power: 1054
-    attack: 1008
-    defense: 1020
+    power: 1053
+    attack: 1007
+    defense: 1018
     health: 2079
   lb2:
-    power: 1188
-    attack: 1154
-    defense: 1167
+    power: 1187
+    attack: 1153
+    defense: 1165
     health: 2379
 ...
