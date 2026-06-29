@@ -11,7 +11,7 @@ health: 1402
 skill: Ice Treatment
 effects:
 - Heals all allies who have less than 50% HP left to 50% health.
-- All allies regenerate 1080 HP over 4 turns.
+- All allies regenerate 1200 HP over 4 turns.
 - Cleanses status ailments from all allies.
 - Element Link gives all Ice allies +30% defense against Special Skills for 4 turns.
   This effect can't be cleansed.
@@ -24,17 +24,17 @@ passives:
   attack.'
 image: https://i.imgur.com/O0p11HF.jpg
 dtReleased: "2020-06-01"
-dtModified: ""
+dtModified: "2026-06-27"
 fancy_name: Tranquil Channeler
 aetherPower: defense_up
 lb1:
-  power: 824
-  attack: 701
+  power: 823
+  attack: 700
   defense: 865
   health: 1511
 lb2:
   power: 924
-  attack: 802
+  attack: 801
   defense: 990
   health: 1729
 ...

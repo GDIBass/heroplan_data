@@ -25,10 +25,10 @@ types:
 passives:
 - 'Damage on Special Skill: When this character receives damage from Special Skills
   or in place of a character in Cover, there''s a 60% chance to deal 20% of the received
-  damage on all enemies.'
+  damage on all enemies. (Max damage: 600)'
 image: https://i.imgur.com/bq60wfg.jpg
 dtReleased: "2022-12-14"
-dtModified: "2026-04-16"
+dtModified: "2026-06-27"
 fancy_name: Pompous Duke
 aetherPower: fiend_resist
 lb1:
@@ -71,10 +71,10 @@ costume:
     defense.'
   - 'Damage on Special Skill and Cover Damage: When this character receives damage
     from Special Skills or in place of a character in Cover, there''s a 75% chance
-    to deal 50% of the received damage on all enemies.'
+    to deal 50% of the received damage on all enemies. (Max damage: 600)'
   image: https://imgur.com/IiNjIeR.jpg
   dtReleased: "2025-11-12"
-  dtModified: "2026-04-16"
+  dtModified: "2026-06-27"
   fancy_name: Pompous Jester
   aetherPower: damage_reduction
   lb1:

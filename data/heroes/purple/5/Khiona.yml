@@ -29,10 +29,10 @@ lb1:
   defense: 763
   health: 1440
 lb2:
-  power: 919
+  power: 918
   attack: 911
   defense: 873
-  health: 1648
+  health: 1647
 costume:
   design: costume1
   bonuses: 5/5/10/5
@@ -53,20 +53,20 @@ costume:
   - Attack Buff 3
   passives:
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
-    dispel the newest status efect buff from all enemies.'
+    dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/mLc9HWv.jpg
   dtReleased: "2024-02-09"
-  dtModified: ""
+  dtModified: "2026-06-28"
   fancy_name: Mirage Engineer
   aetherPower: special_armor
   lb1:
-    power: 1043
-    attack: 1040
-    defense: 951
+    power: 1042
+    attack: 1038
+    defense: 950
     health: 2060
   lb2:
-    power: 1175
-    attack: 1189
-    defense: 1088
+    power: 1174
+    attack: 1187
+    defense: 1087
     health: 2357
 ...

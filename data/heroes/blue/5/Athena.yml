@@ -84,7 +84,7 @@ costume2:
   effects:
   - Deals 560% damage to the target and minor damage to nearby enemies.
   - The target and nearby enemies get -41% defense, and a further -4% decrease every
-    time they are hit for 2 turns, down to -65% defense.
+    time they are hit for 4 turns, down to -65% defense.
   - Deals extra damage against Fire.
   - Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This
     effect can't be dispelled.
@@ -98,7 +98,7 @@ costume2:
     dispel the newest status effect buff from all enemies.'
   image: https://imgur.com/C6YUhG9.jpg
   dtReleased: "2026-05-23"
-  dtModified: ""
+  dtModified: "2026-06-27"
   fancy_name: Toon Celestial of Ice
   aetherPower: attack_up
   lb1:

@@ -1,0 +1,47 @@
+---
+name: Shaurya
+source: temple
+family: mahayoddha
+speed: Very Fast
+class: Rogue
+power: 1337
+attack: 1409
+defense: 1374
+health: 2393
+skill: Thrusting Bhuj
+effects:
+- Deals 300% damage to the target and nearby enemies.
+- 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage
+  is based on the modified attack on the caster when damage is dealt. Up to a maximum
+  600 of additional damage. Status effects affecting damage dealt do affect the extra
+  damage. Defense stat does not affect the extra damage. Status effects affecting
+  attack stat do not affect the extra damage.)'
+- The target and nearby enemies receive 436 Bleed damage over 2 turns. Against Dark
+  characters, this status effect becomes uncleansable and lasts 2 turns longer.
+types:
+- Hit 3
+- Hit Growth Boon
+- DoT 3
+passives:
+- 'Mana on Damage Received:'
+- ' * When this character receives direct damage from Special Skills or Normal Attacks
+  they receive a small amount of mana.'
+- ' * Maximum of 10% mana gained per turn.'
+- 'Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions
+  and Mega Minions.'
+image: https://imgur.com/dXrZg7B.jpg
+dtReleased: "2026-06-27"
+dtModified: ""
+fancy_name: White Desert Warrior
+aetherPower: rage
+lb1:
+  power: 1432
+  attack: 1518
+  defense: 1481
+  health: 2579
+lb2:
+  power: 1620
+  attack: 1737
+  defense: 1694
+  health: 2951
+...

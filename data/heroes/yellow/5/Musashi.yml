@@ -67,4 +67,42 @@ costume:
     attack: 1219
     defense: 1075
     health: 2246
+costume2:
+  design: toon
+  bonuses: 90/90/90/5
+  class: Rogue
+  power: 1344
+  attack: 1497
+  defense: 1293
+  health: 2382
+  skill: Toon Blade
+  effects:
+  - Deals 575% damage to the target and minor damage to nearby enemies.
+  - All allies heal 50% of dealt normal damage for 5 turns.
+  - Deals extra damage against Dark.
+  - Element Link gives all Holy allies +15% attack and +15% defense for 6 turns. This
+    effect can't be dispelled.
+  types:
+  - Hit 3
+  - Damage Heal All
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Dispel on Special Skill: When this character casts their Special Skill, they
+    dispel the newest status effect buff from all enemies.'
+  image: https://imgur.com/E0APzWt.jpg
+  dtReleased: "2026-06-28"
+  dtModified: ""
+  fancy_name: Toon Ronin
+  aetherPower: attack_up
+  lb1:
+    power: 1438
+    attack: 1613
+    defense: 1393
+    health: 2567
+  lb2:
+    power: 1628
+    attack: 1846
+    defense: 1594
+    health: 2938
 ...
