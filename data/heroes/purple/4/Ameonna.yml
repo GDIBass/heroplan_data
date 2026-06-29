@@ -72,4 +72,45 @@ costume:
     attack: 882
     defense: 821
     health: 1435
+costume2:
+  design: toon
+  bonuses: 30/30/35/5
+  class: Sorcerer
+  power: 828
+  attack: 889
+  defense: 820
+  health: 1448
+  skill: Toon Ghost
+  effects:
+  - Casts Full Removal on the caster. (Full Removal removes all status effects, stacks
+    and Growth and Wither effects. Removes even status effects and stacks that are
+    otherwise Stubborn, undispellable or uncleansable.)
+  - The caster shifts into Ghost Form for 4 turns.
+  - While in Ghost form the caster gains +90% attack. (While in Ghost form Character
+    can't gain mana and can't be healed by Special Skills, but is immune to normal
+    attacks, Special Skill attacks, damage dealing passives, status effects and stacks.
+    Immune to new Growth, Wither and Insanity effects.)
+  - All allies except the caster get +54% defense against Holy for 4 turns.
+  types:
+  - Full Removal Self
+  - Ghost Self
+  - Elemental Defense Buff 4
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  image: https://imgur.com/ZzDvGTw.jpg
+  dtReleased: "2026-06-28"
+  dtModified: ""
+  fancy_name: Lone Toon Ghost
+  aetherPower: special_armor
+  lb1:
+    power: 892
+    attack: 965
+    defense: 891
+    health: 1573
+  lb2:
+    power: 1021
+    attack: 1120
+    defense: 1033
+    health: 1825
 ...
