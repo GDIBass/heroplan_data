@@ -31,11 +31,11 @@ passives:
   positive stack.'
 - 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
   also gain 600 boosted health and 10% mana each time they resist.'
-- 'Resist Buff Immunity: This character has innate resistance against ailments that
-  give immunity to new buffs.'
+- 'Resist Buff Blocking: This character is immune to effects that would block them
+  from receiving new status effect buffs.'
 image: https://i.imgur.com/oiGz5nc.jpg
 dtReleased: "2025-02-13"
-dtModified: "2026-03-23"
+dtModified: "2026-06-30"
 fancy_name: Remorseless Shieldmaiden
 aetherPower: damage_reduction
 lb1:

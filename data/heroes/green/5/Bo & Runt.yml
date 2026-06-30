@@ -23,12 +23,13 @@ types:
 - Hit 1
 - Summoner 1
 passives:
-- 'Resist Minion Removal: This character has innate resistance against Minion removal.'
+- 'Resist Minion Removal: This character is immune to effects that would remove Minions
+  from them.'
 - 'Mana on Minion Summon: When a Minion is summoned to an ally, this character gains
   5% mana. This effect can activate only once per turn.'
 image: https://i.imgur.com/6gRA2M6.jpg
 dtReleased: "2024-05-01"
-dtModified: ""
+dtModified: "2026-06-30"
 fancy_name: Leaders of the Pack
 aetherPower: attack_up
 lb1:

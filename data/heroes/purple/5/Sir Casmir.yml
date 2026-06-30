@@ -25,14 +25,14 @@ types:
 - Reflect Ailments 3
 - Reflect Stacks 3
 passives:
-- 'Resist Mana Generation Ailments: This character has innate resistance against ailments
-  and negative stacks that affect mana generation. Doesn''t apply to status ailments
-  that stop mana generation or steal mana.'
+- 'Resist Mana Generation Ailments: This character is immune to status ailments and
+  negative stacks that affect mana generation. Doesn''t apply to status ailments that
+  stop mana generation or steal mana.'
 - 'Mana on Health Recovery: This character receives 5% mana each time its health is
   recovered.'
 image: https://i.imgur.com/7f9DRkN.jpg
 dtReleased: "2024-08-01"
-dtModified: ""
+dtModified: "2026-06-30"
 fancy_name: The Vagabond Guardian
 aetherPower: knights_endurance
 lb1:
@@ -42,7 +42,7 @@ lb1:
   health: 1882
 lb2:
   power: 1214
-  attack: 1219
+  attack: 1218
   defense: 1292
   health: 2153
 ...
