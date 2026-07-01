@@ -42,4 +42,50 @@ lb2:
   attack: 1242
   defense: 1186
   health: 1981
+costume:
+  design: costume1
+  bonuses: 42/42/45/5
+  class: Fighter
+  power: 1334
+  attack: 1438
+  defense: 1361
+  health: 2325
+  skill: Turquoise Falcon
+  effects:
+  - Deals 510% damage to the target.
+  - Deals additional 250% damage to as many random enemies as there are Dark shields
+    on the board, up to a maximum of 12 hits. The damage is reduced on each consecutive
+    hit.
+  - All hit targets get -40% defense against Dark, and a further -5% decrease every
+    time they are hit during 4 turns, down to -60% defense.
+  - Deals extra damage against Holy.
+  types:
+  - Hit 1
+  - Hit Random
+  - Elemental Defense Debuff on hit
+  passives:
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
+    damage against weaker element.'
+  - ' - Dealt extra elemental damage: +150%'
+  - 'Passive Skill as defending character: This hero receives less elemental  damage
+    from Troops of stronger element.'
+  - ' - Received elemental damage: -25%'
+  - 'Resist Holy Ailments: This character is immune to status ailments and negative
+    stacks cast by Holy characters.'
+  image: https://imgur.com/MOUr7GR.jpg
+  dtReleased: "2026-07-01"
+  dtModified: ""
+  fancy_name: Cyber Blade Master
+  aetherPower: attack_up
+  lb1:
+    power: 1429
+    attack: 1550
+    defense: 1467
+    health: 2506
+  lb2:
+    power: 1616
+    attack: 1773
+    defense: 1678
+    health: 2867
 ...
