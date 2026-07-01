@@ -17,7 +17,7 @@ effects:
 - The caster regenerate 1480 boosted health over 4 turns. Boosted health can exceed
   max HP.
 - The caster gets +50% mana generation for 4 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Hit All
 - DoT All
@@ -29,7 +29,7 @@ passives:
   battle. The chance is 20% of the original value.'
 image: https://imgur.com/Yf46q7H.jpg
 dtReleased: "2025-06-15"
-dtModified: "2026-06-05"
+dtModified: "2026-07-01"
 fancy_name: The Magmatic Drummer
 aetherPower: ailment_immunity
 lb1:

@@ -17,7 +17,7 @@ effects:
   is reduced by 25% each turn. (Reduction is applied to owned minions and to any received
   minions while the effect is active. Reduction only affects minions'' current health.)'
 - All allies get +40% mana generation for 5 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Hit All
 - Healer All
@@ -28,17 +28,17 @@ passives:
 - 'Quick Tempo: Dance. All Dances cast by enemies only last for 1 turn.'
 image: https://i.imgur.com/SRmxHwo.jpg
 dtReleased: "2025-01-16"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: One-dwarf Band
 aetherPower: special_armor
 lb1:
-  power: 1253
-  attack: 1216
-  defense: 1436
-  health: 2148
+  power: 1252
+  attack: 1215
+  defense: 1435
+  health: 2149
 lb2:
-  power: 1416
+  power: 1415
   attack: 1391
-  defense: 1643
-  health: 2458
+  defense: 1642
+  health: 2459
 ...

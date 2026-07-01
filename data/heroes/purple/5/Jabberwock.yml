@@ -49,8 +49,8 @@ costume:
   - The enemies on the edges of the enemy formation receive Corrosive Poison for 3
     turns. The Corrosive Poison deals 162 Poison damage and lower the target's mana
     generation by -12% each turn. This effect can't be cleansed. (Affects only mana
-    generated from matching tiles or mana gained by the defense team at the end of
-    their turn.)
+    generated from matching shields or mana gained by the defense team at the end
+    of their turn.)
   types:
   - Hit 2
   - DoT 2

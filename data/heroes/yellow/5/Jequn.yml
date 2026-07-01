@@ -38,7 +38,7 @@ aetherPower: counterattack
 lb1:
   power: 1032
   attack: 1025
-  defense: 912
+  defense: 911
   health: 2097
 lb2:
   power: 1163
@@ -60,7 +60,7 @@ costume:
     offensive Special Skills.)
   - All Ice enemies get -39% defense for 3 turns.
   - All Nature enemies get -39% mana generation for 3 turns. (Affects only mana generated
-    from matching tiles or mana gained by the defense team at the end of their turn.)
+    from matching shields or mana gained by the defense team at the end of their turn.)
   - All Fire enemies get -39% attack for 3 turns.
   types:
   - Hit All
@@ -77,17 +77,17 @@ costume:
     stacks cast by Dark characters.'
   image: https://imgur.com/bIp33Sf.jpg
   dtReleased: "2025-06-20"
-  dtModified: "2026-04-13"
+  dtModified: "2026-07-01"
   fancy_name: The Gilded Enigma
   aetherPower: ailment_immunity
   lb1:
     power: 1298
-    attack: 1308
-    defense: 1191
-    health: 2733
+    attack: 1307
+    defense: 1190
+    health: 2732
   lb2:
-    power: 1468
-    attack: 1497
-    defense: 1363
+    power: 1467
+    attack: 1496
+    defense: 1361
     health: 3126
 ...

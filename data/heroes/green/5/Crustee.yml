@@ -13,14 +13,14 @@ effects:
 - Rearranges the enemy positions randomly.
 - Deals 350% damage to all enemies.
 - All enemies get -32% mana generation for 4 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 - The caster gets additional +50% power for the next Special Skill they cast. The
-  additional power increaases +30% each turn, up to a maximum of 140% in total.
+  additional power increases +30% each turn, up to a maximum of 140% in total.
 types:
 - Reposition All
 - Hit All
 - Mana Gen Debuff All
-- Self Power Boost
+- Power Boost Self
 passives:
 - 'Transform Buffs: Each time this character casts their Special Skill, all dispellable
   buffs affecting attack, defense and mana generation on all enemies are transformed
@@ -36,7 +36,7 @@ passives:
 - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
 image: https://imgur.com/hwMIKuX.jpg
 dtReleased: "2026-01-18"
-dtModified: "2026-04-28"
+dtModified: "2026-07-01"
 fancy_name: Magic Lab Genius
 aetherPower: special_boost
 lb1:

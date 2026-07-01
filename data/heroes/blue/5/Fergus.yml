@@ -13,7 +13,7 @@ effects:
 - Reduces the mana of the enemy with the most mana by 70%. Reduces the mana of all
   other enemies by 40%.
 - All enemies get -30% mana generation for 6 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 - Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the
   caster.
 - The target hit by the Sword Guard Mega Minion recieves 414 Bleed damage over 3 turns.
@@ -30,17 +30,17 @@ passives:
 - 'Guard Rally: Every 4 turns, removes all Growth effects from all enemies.'
 image: https://i.imgur.com/kA2zCy1.jpg
 dtReleased: "2024-12-09"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Unflappable Constable
 aetherPower: defense_up
 lb1:
-  power: 1211
-  attack: 1145
+  power: 1210
+  attack: 1144
   defense: 1269
   health: 2357
 lb2:
   power: 1367
-  attack: 1310
-  defense: 1452
+  attack: 1309
+  defense: 1453
   health: 2697
 ...

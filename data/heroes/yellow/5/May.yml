@@ -14,7 +14,7 @@ effects:
 - Summon a Carrot Minion for each ally with 25% HP inherited from the caster.
 - When summoned, the Carrot Minion gives +20% mana generation for its owner for as
   long as the owner has Carrot Minions. This effect can't be dispelled. (Affects only
-  mana generated from matching tiles or mana gained by the defense team at the end
+  mana generated from matching shields or mana gained by the defense team at the end
   of their turn.)
 - Elemental Link gives all Holy allies +30% defense against Special Skills for 4 turns.
   This effect can't be dispelled.
@@ -30,7 +30,7 @@ passives:
   a positive stack.'
 image: https://imgur.com/KK6zHLN.jpg
 dtReleased: "2025-05-01"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: The Blissful Harvester
 aetherPower: defense_up
 lb1:
@@ -39,8 +39,8 @@ lb1:
   defense: 1165
   health: 2113
 lb2:
-  power: 1298
-  attack: 1320
+  power: 1299
+  attack: 1321
   defense: 1333
   health: 2418
 ...

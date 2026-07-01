@@ -42,7 +42,7 @@ costume:
   effects:
   - All enemies receive 324 Poison damage over 2 turns.
   - All enemies get -50% mana generation for 4 turns. (Affects only mana generated
-    from matching tiles or mana gained by the defense team at the end of their turn.)
+    from matching shields or mana gained by the defense team at the end of their turn.)
   types:
   - DoT All
   - Mana Generation Debuff All

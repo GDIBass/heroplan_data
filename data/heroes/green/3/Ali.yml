@@ -17,7 +17,7 @@ effects:
   damage. Defense stats does not affect the extra damage. Status effect affecting
   attack stat do not affect the extra damage.)'
 - The target gets -44% mana generation for 3 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Hit 1
 - Hit Growth Boon
@@ -31,7 +31,7 @@ passives:
   and Mega Minions.'
 image: https://imgur.com/LydfuSl.jpg
 dtReleased: "2025-11-17"
-dtModified: "2026-03-24"
+dtModified: "2026-07-01"
 fancy_name: Gifted Errand Boy
 aetherPower: rage
 lb1:

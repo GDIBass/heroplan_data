@@ -16,7 +16,7 @@ effects:
 - Ballad of Obsession
 - ' * -40% mana generation.'
 - ' * -40% decrease for any healing received.'
-- ' * Affects only mana generated from matching tiles or mana gained by the defense
+- ' * Affects only mana generated from matching shields or mana gained by the defense
   team at the end of their turn.'
 - ' * All existing status effects will be removed when a dance status effect is added.'
 - ' * Dance gives immunity to new status effects. New dance status effects will replace

@@ -15,7 +15,7 @@ effects:
   with boosted health. (Max health can't get lower than 30% of the original max health.
   Any boosted health is reduced by an additional 500.)
 - All enemies get -44% mana generation for 4 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Dispels 2 buffs All
 - Max Health Reduction All
@@ -34,7 +34,7 @@ passives:
 - ' * - Growth and Wither effects.'
 image: https://imgur.com/FUgQh3k.jpg
 dtReleased: "2025-12-30"
-dtModified: "2026-05-24"
+dtModified: "2026-07-01"
 fancy_name: Mountain Cat Musician
 aetherPower: regen
 lb1:

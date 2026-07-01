@@ -13,7 +13,7 @@ effects:
 - The caster gets Taunt that prevents enemies from using Special Skills on the caster's
   allies for 4 turns.
 - The caster gets +40% mana generation for 4 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 - All allies except the caster receive Softskin. (The next time they receive damage,
   it is reduced by -90%. They are also immune to all status ailments, mana reductions
   and Insanity. This effect can't be dispelled.)
@@ -31,7 +31,7 @@ passives:
   be dispelled.'
 image: https://i.imgur.com/i3PGL4o.jpg
 dtReleased: "2024-07-25"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Stoic Gargoyle
 aetherPower: damage_reduction
 lb1:
