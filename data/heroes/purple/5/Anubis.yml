@@ -10,8 +10,10 @@ defense: 850
 health: 1586
 skill: Mark of Anubis
 effects:
-- Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other
-  enemies from receiving friendly effects of their allies Special Skills.
+- Inflicts the target with Greed for 3 turns. Friendly effects from ally Special Skills
+  only affect characters with Greed. (Greed prevents all other heroes in the same
+  team from receiving friendly effects from allies. This includes all buffs, healing
+  and Growth effects.)
 - All enemies receive 501 Poison damage over 3 turns.
 - All enemies get -34% defense for 3 turns.
 types:
@@ -25,7 +27,7 @@ passives:
 - ' * Dispells the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/QQQGz6W.jpg
 dtReleased: "2023-03-16"
-dtModified: "2026-04-26"
+dtModified: "2026-07-01"
 fancy_name: God of the Afterlife
 aetherPower: special_armor
 lb1:
@@ -48,8 +50,10 @@ costume:
   health: 2391
   skill: Mark of the Jackal
   effects:
-  - Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other
-    enemies from receiving friendly effects of their allies' Special Skills.
+  - Inflicts the target with Greed for 3 turns. Friendly effects from ally Special
+    Skills only affect characters with Greed. (Greed prevents all other heroes in
+    the same team from receiving friendly effects from allies. This includes all buffs,
+    healing and Growth effects.)
   - All enemies receive 888 Poison damage over 3 turns.
   - All enemies get -28% defense for 3 turns.
   types:
@@ -68,7 +72,7 @@ costume:
     a status ailment or negative stack.'
   image: https://i.imgur.com/8BGU68M.jpg
   dtReleased: "2024-02-05"
-  dtModified: "2026-04-26"
+  dtModified: "2026-07-01"
   fancy_name: Arbiter of the Dancefloor
   aetherPower: dodge
   lb1:

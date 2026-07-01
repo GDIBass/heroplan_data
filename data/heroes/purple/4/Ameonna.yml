@@ -17,24 +17,24 @@ effects:
   Special Skill attacks, damage dealing passives, status effects and stacks. Immune
   to new Growth, Wither and Insanity effects.)
 types:
-- Self Full Removal
+- Full Removal Self
 - Ghost Self
 - Attack Buff Self while ghost
 image: https://i.imgur.com/VkDdipF.jpg
 dtReleased: ""
-dtModified: "2026-04-11"
+dtModified: "2026-06-29"
 fancy_name: Lone Ghost
 aetherPower: special_armor
 lb1:
   power: 698
-  attack: 838
+  attack: 837
   defense: 572
   health: 1145
 lb2:
   power: 796
   attack: 971
-  defense: 663
-  health: 1327
+  defense: 664
+  health: 1328
 costume:
   design: costume1
   bonuses: 3/3/6/5
@@ -53,24 +53,24 @@ costume:
   - While in Ghost form, all allies except the caster have +44% defense.
   - While in Ghost form, all allies except the caster regenerate 140 HP every turn.
   types:
-  - Self Full Removal
+  - Full Removal Self
   - Ghost Self
-  - Defense Buff All while Ghost
-  - HoT All while Ghost
+  - Defense Buff 4 while Ghost
+  - HoT 4 while Ghost
   image: https://i.imgur.com/VZyVFDJ.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-04-11"
+  dtModified: "2026-07-01"
   fancy_name: Lonesome Yurei
   aetherPower: defense_up
   lb1:
     power: 722
-    attack: 761
-    defense: 708
-    health: 1238
+    attack: 760
+    defense: 707
+    health: 1237
   lb2:
     power: 824
     attack: 882
-    defense: 821
+    defense: 820
     health: 1435
 costume2:
   design: toon
@@ -94,13 +94,14 @@ costume2:
   types:
   - Full Removal Self
   - Ghost Self
+  - Attack Buff Self while ghost
   - Elemental Defense Buff 4
   passives:
   - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
     and buff dispels. Gain 5% mana on each successful resist.'
   image: https://imgur.com/ZzDvGTw.jpg
   dtReleased: "2026-06-28"
-  dtModified: ""
+  dtModified: "2026-07-01"
   fancy_name: Lone Toon Ghost
   aetherPower: special_armor
   lb1:

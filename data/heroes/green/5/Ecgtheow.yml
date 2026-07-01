@@ -30,12 +30,12 @@ fancy_name: Fierce War-Leader
 aetherPower: regen
 lb1:
   power: 1271
-  attack: 1365
+  attack: 1364
   defense: 1227
   health: 2324
 lb2:
-  power: 1437
-  attack: 1562
+  power: 1436
+  attack: 1561
   defense: 1404
   health: 2659
 ...

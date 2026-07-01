@@ -11,8 +11,9 @@ health: 2255
 skill: Destined Curse
 effects:
 - Deals 385% damage to the target and nearby enemies.
-- The target and nearby enemies receive 1165 Curse damage over 5 turns, starting low
-  and increasing every turn.
+- The target and nearby enemies receive 106-409 increasing Curse damage each turn
+  for 5 turns. (On the first turn, 106 damage is dealt. The damage increases by +40%
+  each turn, up to 409 damage per turn.)
 - If the target is defeated in 4 turns, all enemies receive 1027 damage.
 - Elemental Link gives all Dark  allies +20% critical chance for 4 turns. This effect
   can’t be dispelled.
@@ -25,13 +26,13 @@ passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 image: https://imgur.com/HtIXZy1.jpg
 dtReleased: "2026-04-01"
-dtModified: "2026-04-02"
+dtModified: "2026-07-01"
 fancy_name: Queen of Curses
 aetherPower: damage_reduction
 lb1:
-  power: 1275
-  attack: 1258
-  defense: 1323
+  power: 1276
+  attack: 1259
+  defense: 1322
   health: 2430
 lb2:
   power: 1441

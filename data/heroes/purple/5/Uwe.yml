@@ -16,12 +16,12 @@ effects:
   Skill. If none of the other enemies have 50% health, targets a random enemy. The
   damage is reduced on each consecutive hit. Each enemy can only be hit once.
 - If the hit enemies use their Special Skill in the next 3 turns, they get 725 poison
-  damage for 5 turns. This effect is uncleansable. (Status effects are added at the
-  end of a Special Skill. Status effects will not be added if this status effects
+  damage for 5 turns. This effect can't be cleansed. (Status effects are added at
+  the end of a Special Skill. Status effects will not be added if this status effects
   is removed during a Special Skill.)
 types:
 - Hit 1
-- Chain
+- Chain hit
 passives:
 - 'Gargoyle''s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin
   activates. The next 5 times they receive damage, it is reduced by -90%. They are
@@ -29,17 +29,17 @@ passives:
   be dispelled.'
 image: https://i.imgur.com/KNSk9mz.jpg
 dtReleased: "2024-05-16"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Fluffy Gargoyle
 aetherPower: regen
 lb1:
   power: 1121
   attack: 1161
-  defense: 1143
+  defense: 1142
   health: 1931
 lb2:
   power: 1265
   attack: 1328
-  defense: 1308
-  health: 2209
+  defense: 1307
+  health: 2210
 ...

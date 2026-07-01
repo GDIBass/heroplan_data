@@ -14,10 +14,14 @@ effects:
 - The target and nearby enemies dance to Ballad of Obsession for 4 turns.  All existing
   status effects will be removed when this effect is added.
 - Ballad of Obsession
-- '* -40% mana generation.'
-- '* -40% decrease for any healing received.'
-- '* Gives immunity to new status effects.'
-- '* This effect cannot be dispelled. The effect is removed when the caster dies.'
+- ' * -40% mana generation.'
+- ' * -40% decrease for any healing received.'
+- ' * Affects only mana generated from matching tiles or mana gained by the defense
+  team at the end of their turn.'
+- ' * All existing status effects will be removed when a dance status effect is added.'
+- ' * Dance gives immunity to new status effects. New dance status effects will replace
+  this effect.'
+- ' * Dance effect cannot be dispelled. The effect is removed when the caster dies.'
 types:
 - Hit 3
 - Ballad of Obsession 3
@@ -33,7 +37,7 @@ passives:
   attack.'
 image: https://i.imgur.com/7nuGOll.jpg
 dtReleased: "2023-06-20"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Mysterious Mastermind
 aetherPower: attack_up
 lb1:

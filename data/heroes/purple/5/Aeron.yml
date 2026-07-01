@@ -28,16 +28,16 @@ aetherPower: defense_up
 lb1:
   power: 818
   attack: 790
-  defense: 768
+  defense: 767
   health: 1445
 lb2:
   power: 918
   attack: 904
   defense: 878
-  health: 1653
+  health: 1654
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/26/45/5
   class: Cleric
   power: 976
   attack: 898
@@ -58,17 +58,17 @@ costume:
     the newest status ailment from all allies.'
   image: https://i.imgur.com/WvBRV3O.jpg
   dtReleased: "2023-01-23"
-  dtModified: ""
+  dtModified: "2026-07-01"
   fancy_name: Periwig Judge
   aetherPower: special_armor
   lb1:
-    power: 1043
+    power: 1042
     attack: 968
-    defense: 1004
+    defense: 1003
     health: 2130
   lb2:
     power: 1175
-    attack: 1108
+    attack: 1107
     defense: 1148
-    health: 2438
+    health: 2437
 ...

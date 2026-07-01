@@ -22,18 +22,18 @@ effects:
 types:
 - Boost Health All
 - Shield Guard Mega Minion
-- Safely Clean all allies Minion
+- Safely Clean All allies Minion
 passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/aJDM9qb.jpg
 dtReleased: "2025-02-14"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: The Merry Mason
 aetherPower: special_armor
 lb1:
-  power: 1244
-  attack: 1212
+  power: 1243
+  attack: 1211
   defense: 1318
   health: 2328
 lb2:

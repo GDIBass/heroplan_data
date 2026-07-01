@@ -18,7 +18,7 @@ effects:
   are dealt to the all enemies instead.
 types:
 - Hit 1
-- Silence
+- Silence 1
 passives:
 - 'Troop Mastery:'
 - 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
@@ -29,12 +29,12 @@ passives:
 - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/4cx1DT9.jpg
 dtReleased: "2024-08-07"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Cyborg Captain
 aetherPower: ailment_immunity
 lb1:
   power: 1156
-  attack: 1201
+  attack: 1200
   defense: 1185
   health: 1998
 lb2:

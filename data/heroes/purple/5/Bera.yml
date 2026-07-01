@@ -25,15 +25,15 @@ dtModified: "2026-04-16"
 fancy_name: Princess of the Disir
 aetherPower: defense_up
 lb1:
-  power: 838
-  attack: 801
-  defense: 808
-  health: 1476
+  power: 837
+  attack: 800
+  defense: 807
+  health: 1475
 lb2:
   power: 940
   attack: 916
-  defense: 924
-  health: 1689
+  defense: 923
+  health: 1688
 costume:
   design: costume1
   bonuses: 28/28/35/5
@@ -64,8 +64,8 @@ costume:
     defense: 997
     health: 2061
   lb2:
-    power: 1185
+    power: 1184
     attack: 1173
-    defense: 1141
-    health: 2359
+    defense: 1140
+    health: 2358
 ...

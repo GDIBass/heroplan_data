@@ -12,14 +12,14 @@ skill: Dual Slash
 effects:
 - Deals 200% damage to the target.
 - Deals 350% damage to a random different enemy. Deals extra damage if the target
-  is Holy. This effect targets the same enemy as the first hit if there are no other
-  valid targets.
+  is Holy. (This effect targets the same enemy as the first hit if there are no other
+  valid targets.)
 types:
 - Hit 1
 - Hit Random 1
 image: https://i.imgur.com/vOaNkHC.jpg
 dtReleased: ""
-dtModified: "2026-04-16"
+dtModified: "2026-07-01"
 fancy_name: Brave Villager
 aetherPower: attack_up
 lb1:
@@ -43,16 +43,19 @@ costume:
   skill: Empowered Slash
   effects:
   - Deals 180% damage to the target.
-  - Deals 380% damage to a random different enemy.
+  - Deals 380% damage to a random different enemy. (This effect targets the same enemy
+    as the first hit if there are no other valid targets.)
   - Enemies hit get -24% mana generation for 3 turns. Against Holy characters, this
-    status effect becomes uncleansable and lasts 2 turns longer.
+    status effect becomes uncleansable and lasts 2 turns longer. (Affects only mana
+    generated from matching tiles or mana gained by the defense team at the end of
+    their turn.)
   types:
   - Hit 1
   - Hit Random 1
   - Mana Generation Debuff on hit
   image: https://i.imgur.com/KuvURzu.jpg
   dtReleased: "2022-07-04"
-  dtModified: "2026-04-16"
+  dtModified: "2026-07-01"
   fancy_name: Brave Soldier
   aetherPower: special_boost
   lb1:

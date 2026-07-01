@@ -13,21 +13,21 @@ effects:
 - Recovers 32% health for all allies.
 - All enemies get -50% decrease for any healing received for 4 turns.
 types:
-- Heal all
-- Healing Debuff
+- Heal All
+- Healing Debuff All
 image: https://i.imgur.com/7kv6ZGx.jpg
 dtReleased: "2021-10-13"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Medic of the Castle
 aetherPower: defense_up
 lb1:
   power: 535
-  attack: 512
+  attack: 511
   defense: 563
-  health: 957
+  health: 956
 lb2:
   power: 646
-  attack: 632
+  attack: 631
   defense: 696
   health: 1182
 ...

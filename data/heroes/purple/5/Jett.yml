@@ -38,12 +38,12 @@ fancy_name: Herald of Sacrifice
 aetherPower: attack_up
 lb1:
   power: 1019
-  attack: 1034
+  attack: 1033
   defense: 1003
   health: 1798
 lb2:
   power: 1148
-  attack: 1183
+  attack: 1182
   defense: 1148
   health: 2057
 costume:
@@ -63,7 +63,7 @@ costume:
     of dealt Poison damage as boosted health.'
   - 'x2 Mana Charge:'
   - ' * Deals 300% damage to all enemies.'
-  - ' * All enemies receive 1085 Poison damage over 5 turns. The caster and all their
+  - ' * All enemies receive 1100 Poison damage over 5 turns. The caster and all their
     allies absorb 30% of dealt Poison damage as boosted health.'
   types:
   - Charge
@@ -80,17 +80,17 @@ costume:
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/byXCjvP.jpg
   dtReleased: "2026-02-10"
-  dtModified: "2026-05-04"
+  dtModified: "2026-07-01"
   fancy_name: Herald of Judgment
   aetherPower: counterattack
   lb1:
-    power: 1366
-    attack: 1436
-    defense: 1381
-    health: 2514
+    power: 1384
+    attack: 1457
+    defense: 1401
+    health: 2549
   lb2:
-    power: 1545
-    attack: 1643
-    defense: 1580
-    health: 2877
+    power: 1565
+    attack: 1667
+    defense: 1603
+    health: 2917
 ...

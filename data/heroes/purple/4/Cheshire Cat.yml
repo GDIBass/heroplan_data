@@ -10,26 +10,27 @@ defense: 641
 health: 1105
 skill: Dazzling Grin
 effects:
-- Rearranges the enemy positions randomly
-- All holy enemies get -44% defense for 4 turns
-- All enemies receive 276 damage over 4 turns. This effect can't be cleansed
+- Rearranges the enemy positions randomly.
+- All holy enemies get -44% defense for 4 turns.
+- All enemies receive 276 damage over 4 turns. This effect can't be cleansed.
 types:
-- Reposition
+- Reposition All
+- Defense Debuff All holy
 - DoT All
 image: https://i.imgur.com/Js5mqAr.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Mischievous Kitty Cat
 aetherPower: special_armor
 lb1:
-  power: 698
-  attack: 715
-  defense: 697
+  power: 697
+  attack: 714
+  defense: 696
   health: 1200
 lb2:
-  power: 796
+  power: 795
   attack: 829
-  defense: 808
+  defense: 807
   health: 1392
 costume:
   design: costume1
@@ -43,23 +44,24 @@ costume:
   effects:
   - Rearranges the enemy positions randomly.
   - All Holy enemies get -34% defense for 4 turns.
-  - All enemies receive 364 Bleed damage over 4 turns.
+  - All enemies receive 368 Bleed damage over 4 turns.
   types:
-  - Reposition
+  - Reposition All
+  - Defense Debuff All holy
   - DoT All
   image: https://i.imgur.com/ImaCQvI.jpg
   dtReleased: "2023-10-05"
-  dtModified: ""
+  dtModified: "2026-07-01"
   fancy_name: Malicious Kitty Cat
   aetherPower: ailment_immunity
   lb1:
-    power: 736
-    attack: 814
-    defense: 700
+    power: 735
+    attack: 813
+    defense: 699
     health: 1219
   lb2:
     power: 840
     attack: 944
-    defense: 812
-    health: 1413
+    defense: 811
+    health: 1414
 ...

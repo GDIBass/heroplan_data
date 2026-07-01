@@ -34,12 +34,12 @@ fancy_name: Savage Hunter
 aetherPower: attack_up
 lb1:
   power: 949
-  attack: 979
+  attack: 978
   defense: 903
   health: 1636
 lb2:
-  power: 1068
-  attack: 1120
+  power: 1067
+  attack: 1119
   defense: 1033
-  health: 1871
+  health: 1872
 ...

@@ -10,9 +10,12 @@ defense: 824
 health: 1425
 skill: Gnomish Carnage
 effects:
-- Destroys all minions from all enemies.
+- Destroys all minions from all enemies and damages Mega Minions.
 - Deals 315% damage to all enemies.
-- All allies get a small amount of mana for each destroyed minion
+- All allies get a small amount of mana for each destroyed minion. (After a character
+  has received 5 direct mana additions from Special Skill during a single turn, all
+  subsequent direct mana additions done by Special Skills will have reduced power
+  on that character.)
 - Element Link gives all Dark allies +10% critical chance for 6 turns. This effect
   can't be dispelled.
 types:
@@ -24,17 +27,17 @@ passives:
   Doesn''t apply to original status effects from allies.'
 image: https://i.imgur.com/1sMnXH3.jpg
 dtReleased: "2019-12-01"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: The Goat-Riding Gnome
 aetherPower: special_boost
 lb1:
   power: 820
-  attack: 663
+  attack: 662
   defense: 888
   health: 1536
 lb2:
-  power: 921
-  attack: 759
+  power: 920
+  attack: 758
   defense: 1016
   health: 1757
 ...

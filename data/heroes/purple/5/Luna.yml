@@ -31,7 +31,7 @@ aetherPower: ailment_immunity
 lb1:
   power: 1001
   attack: 985
-  defense: 967
+  defense: 968
   health: 1862
 lb2:
   power: 1127

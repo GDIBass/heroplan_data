@@ -30,11 +30,11 @@ lb1:
 lb2:
   power: 961
   attack: 944
-  defense: 919
-  health: 1780
+  defense: 918
+  health: 1781
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 57/57/62/5
   class: Fighter
   power: 1201
   attack: 1285
@@ -52,20 +52,20 @@ costume:
   - Board Alterer
   passives:
   - 'Curse on Special Skill: When this character casts their Special Skill, all enemies
-    receive 461 Curse damage over 4 turns, starting low and increasing every turn.'
+    receive 67-206 increasing Curse damage each turn for 4 turns.'
   image: https://imgur.com/atHtLfK.jpg
   dtReleased: "2025-06-15"
-  dtModified: ""
+  dtModified: "2026-07-01"
   fancy_name: Bedtime Bruiser
   aetherPower: damage_reduction
   lb1:
-    power: 1286
-    attack: 1387
-    defense: 1198
+    power: 1285
+    attack: 1385
+    defense: 1197
     health: 2434
   lb2:
-    power: 1454
-    attack: 1587
-    defense: 1371
+    power: 1452
+    attack: 1584
+    defense: 1370
     health: 2785
 ...

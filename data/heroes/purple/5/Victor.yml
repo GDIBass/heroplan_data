@@ -32,17 +32,17 @@ fancy_name: Vampire King
 aetherPower: vampire
 lb1:
   power: 824
-  attack: 839
+  attack: 838
   defense: 723
-  health: 1451
+  health: 1452
 lb2:
-  power: 925
-  attack: 960
-  defense: 828
+  power: 924
+  attack: 959
+  defense: 827
   health: 1661
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 50/50/55/5
   class: Rogue
   power: 1108
   attack: 1155
@@ -68,7 +68,7 @@ costume:
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/bKghYKS.jpg
   dtReleased: "2021-10-04"
-  dtModified: ""
+  dtModified: "2026-07-01"
   fancy_name: King of Crime
   aetherPower: attack_up
   lb1:

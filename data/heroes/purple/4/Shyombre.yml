@@ -13,19 +13,19 @@ effects:
 - Deals 250% damage to the enemies on the edges of the enemy formation. If there is
   only one enemy, the damage is doubled.
 - The enemies on the edges of the enemy formation receives 220 Toxin damage over 4
-  turns. If Toxin is cast on a target with boosted health, Minions or Mega Minion,
-  the Toxin damage received is increased. (The Toxin damage is increased by +100%
-  against targets with boosted health. Each Minion or Mega Minion owned by the target
-  increases the damage by additional +33%, up to total +199%.)
+  turns. Damage is increased against targets with boosted health, Minions or a Mega
+  Minion. (The Toxin damage is increased by +100% against targets with boosted health.
+  The Toxin damage is increased by +33% per Minion or Mega Minion owned by target.
+  Maximum increased damage is +199%.)
 types:
 - Hit 2
-- Dot 2
+- DoT 2
 passives:
 - 'Dodge Special Damage: This character has a 15% chance to dodge Special Skills that
   deal damage.'
 image: https://i.imgur.com/Gn8sJfi.jpg
 dtReleased: "2025-01-23"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Shadow Moth
 aetherPower: attack_up
 lb1:
@@ -34,8 +34,8 @@ lb1:
   defense: 761
   health: 1281
 lb2:
-  power: 882
-  attack: 977
+  power: 881
+  attack: 976
   defense: 883
-  health: 1485
+  health: 1486
 ...

@@ -29,11 +29,11 @@ aetherPower: vampire
 lb1:
   power: 500
   attack: 417
-  defense: 551
+  defense: 550
   health: 969
 lb2:
   power: 603
-  attack: 516
-  defense: 681
-  health: 1197
+  attack: 515
+  defense: 680
+  health: 1198
 ...

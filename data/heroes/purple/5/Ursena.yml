@@ -62,15 +62,15 @@ costume:
   fancy_name: Deadly Reef Queen
   aetherPower: rage
   lb1:
-    power: 1011
-    attack: 1010
-    defense: 996
-    health: 1812
+    power: 1010
+    attack: 1009
+    defense: 994
+    health: 1811
   lb2:
-    power: 1138
-    attack: 1155
-    defense: 1139
-    health: 2073
+    power: 1137
+    attack: 1154
+    defense: 1138
+    health: 2072
 costume2:
   design: toon
   bonuses: 87/87/90/5

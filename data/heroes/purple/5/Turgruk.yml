@@ -28,13 +28,13 @@ dtModified: ""
 fancy_name: Vicious Tracker
 aetherPower: attack_up
 lb1:
-  power: 877
-  attack: 912
+  power: 876
+  attack: 911
   defense: 790
-  health: 1514
+  health: 1513
 lb2:
   power: 985
   attack: 1043
   defense: 904
-  health: 1732
+  health: 1731
 ...

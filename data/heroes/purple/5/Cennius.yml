@@ -10,23 +10,23 @@ defense: 1100
 health: 1794
 skill: Blade Wings
 effects:
-- This Special Skill never misses its targets.
-- Attacks the target with Moonrise Strike, dealing up to 1100 damage. Deals 40% more
-  damage if the target is Holy.
+- Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1100 damage.
+  Deals 40% more damage if the target is of the Holy element. This Special Skill never
+  misses its targets.
 - After a successful cast, has 100% chance to recast Blade Wings again on a random
   target.
 - Can recast up to 3 times and chance to recast is reduced by -35% after every successful
   cast.
 types:
-- Hit 1
-- Chain Hit
+- Moonrise Strike Hit 3
+- Recast Chance
 passives:
 - 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
   family bonuses and status effects by -80%. The effect applies to all enemies in
   the battle.'
 image: https://i.imgur.com/FJtndTk.jpg
 dtReleased: "2024-07-02"
-dtModified: "2026-05-13"
+dtModified: "2026-07-01"
 fancy_name: Hidden Claw of Owl Tower
 aetherPower: fiend_resist
 lb1:
@@ -35,8 +35,8 @@ lb1:
   defense: 1185
   health: 1933
 lb2:
-  power: 1302
-  attack: 1394
+  power: 1301
+  attack: 1393
   defense: 1356
   health: 2212
 ...

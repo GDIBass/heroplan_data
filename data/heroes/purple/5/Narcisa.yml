@@ -18,21 +18,22 @@ types:
 - Status Ailments Duration Reset All
 - Attack Debuff All
 passives:
-- 'Mana increase reduction: Reduces the amount of mana increased by Special Skill
-  by -80%. The effect applies to all enemies in the battle.'
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
 image: https://i.imgur.com/ZW5xxnu.jpg
 dtReleased: "2022-08-11"
-dtModified: ""
+dtModified: "2026-06-30"
 fancy_name: Bard of Glamour
 aetherPower: special_armor
 lb1:
-  power: 906
-  attack: 910
-  defense: 850
+  power: 905
+  attack: 909
+  defense: 849
   health: 1607
 lb2:
   power: 1018
   attack: 1041
-  defense: 972
-  health: 1838
+  defense: 971
+  health: 1839
 ...

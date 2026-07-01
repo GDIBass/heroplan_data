@@ -33,12 +33,12 @@ fancy_name: The Mothician
 aetherPower: ailment_immunity
 lb1:
   power: 1268
-  attack: 1325
+  attack: 1324
   defense: 1320
   health: 2215
 lb2:
-  power: 1433
-  attack: 1516
-  defense: 1511
+  power: 1432
+  attack: 1515
+  defense: 1510
   health: 2534
 ...

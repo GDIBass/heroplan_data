@@ -11,22 +11,22 @@ health: 862
 skill: Merciless Bite
 effects:
 - Deals 270% damage to the target and minor damage to nearby enemies.
-- The damage is increased by 50% per each dead ally.
+- The damage is increased by 50% per each defeated ally.
 types:
 - Hit 3
 image: https://i.imgur.com/yMD2ogt.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Nightmare of Teltoc
 aetherPower: damage_reduction
 lb1:
-  power: 508
-  attack: 496
-  defense: 474
-  health: 977
+  power: 507
+  attack: 495
+  defense: 473
+  health: 976
 lb2:
-  power: 612
-  attack: 613
-  defense: 586
+  power: 611
+  attack: 612
+  defense: 585
   health: 1207
 ...

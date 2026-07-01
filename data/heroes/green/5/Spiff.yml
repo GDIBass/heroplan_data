@@ -16,14 +16,14 @@ effects:
 - The caster gets lasting +50% chance to dodge Special Skills. (This effect lasts
   until it is cleansed, replaced or removed.)
 types:
-- Lasting Bypass
+- Lasting Bypass Self
 - Hit 1
-- Lasting Dodge
+- Lasting Dodge Self
 passives:
 - 'Decreased Healing: All enemies get -50% healing.'
 image: https://i.imgur.com/XnfQKGA.jpg
 dtReleased: "2024-11-18"
-dtModified: ""
+dtModified: "2026-06-29"
 fancy_name: The Royal Knight Fox
 aetherPower: attack_up
 lb1:
@@ -33,7 +33,7 @@ lb1:
   health: 1940
 lb2:
   power: 1387
-  attack: 1511
-  defense: 1511
-  health: 2219
+  attack: 1510
+  defense: 1510
+  health: 2220
 ...

@@ -23,23 +23,26 @@ effects:
 - '* The target and nearby enemies get -44% defense for 3 turns.'
 types:
 - Charge
+- Hit 3
+- Attack Buff 3
+- Defense Debuff 3
 passives:
-- 'Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.'
+- 'Weaker Minions: Enemy Minions have -50% HP.'
 - 'Resist Defense Ailments: This character is immune to status ailments that affect
   defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/yK7UFvQ.jpg
 dtReleased: "2022-09-21"
-dtModified: "2026-04-16"
+dtModified: "2026-07-01"
 fancy_name: Potion Merchant Cyclops
 aetherPower: damage_reduction
 lb1:
   power: 737
   attack: 720
   defense: 692
-  health: 1475
+  health: 1474
 lb2:
   power: 841
   attack: 835
-  defense: 803
+  defense: 802
   health: 1710
 ...

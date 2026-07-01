@@ -25,12 +25,12 @@ fancy_name: Goddess of Foresight
 aetherPower: attack_up
 lb1:
   power: 837
-  attack: 812
+  attack: 811
   defense: 819
-  health: 1423
+  health: 1422
 lb2:
   power: 940
-  attack: 929
+  attack: 928
   defense: 937
   health: 1628
 costume:
@@ -60,10 +60,10 @@ costume:
     power: 1050
     attack: 1045
     defense: 1042
-    health: 1915
+    health: 1914
   lb2:
-    power: 1184
+    power: 1183
     attack: 1196
-    defense: 1193
-    health: 2191
+    defense: 1192
+    health: 2190
 ...

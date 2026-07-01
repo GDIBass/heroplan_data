@@ -25,12 +25,12 @@ fancy_name: Fair-Haired Deity
 aetherPower: ailment_immunity
 lb1:
   power: 840
-  attack: 850
-  defense: 772
+  attack: 849
+  defense: 771
   health: 1443
 lb2:
   power: 943
-  attack: 972
+  attack: 971
   defense: 883
   health: 1651
 costume:
@@ -57,13 +57,13 @@ costume:
   fancy_name: Golden Deity
   aetherPower: damage_reduction
   lb1:
-    power: 1055
-    attack: 1037
-    defense: 1031
-    health: 1990
+    power: 1053
+    attack: 1035
+    defense: 1030
+    health: 1988
   lb2:
-    power: 1189
-    attack: 1186
-    defense: 1180
-    health: 2276
+    power: 1188
+    attack: 1185
+    defense: 1179
+    health: 2275
 ...

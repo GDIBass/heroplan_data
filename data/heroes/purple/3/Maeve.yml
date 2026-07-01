@@ -11,19 +11,20 @@ health: 794
 skill: Assassin's Blades
 effects:
 - Deals 260% damage to the target and nearby enemies.
-- The target and nearby enemies get -44% defenese for 4 turns.
-- 'Stack (Max: 10): The caster gets +5% mana generation'
-- 'Stack (Max: 10): The caster recovers 5 HP each turn'
+- The target and nearby enemies get -44% defense for 3 turns.
+- 'Stack (Max: 10): The caster gets +6% mana generation. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
+- 'Stack (Max: 10): The caster recovers 15 HP each turn.'
 types:
 - Hit 3
-- Defense debuff
-- Stack
+- Defense Debuff 3
+- Heal Stack Self
 passives:
-- 'Resist Damage from Status Effects: This character has innate resistance against
-  incoming damage from status effects.'
+- 'Resist Damage from Status Effects: This character is immune to incoming damage
+  from status effects and stacks.'
 image: https://i.imgur.com/vEp3yLs.jpg
 dtReleased: "2021-08-05"
-dtModified: "2026-06-23"
+dtModified: "2026-07-01"
 fancy_name: The Unseen
 aetherPower: attack_up
 lb1:

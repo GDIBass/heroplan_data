@@ -25,15 +25,15 @@ dtModified: "2026-04-07"
 fancy_name: Trickster God
 aetherPower: special_armor
 lb1:
-  power: 839
+  power: 838
   attack: 834
-  defense: 801
+  defense: 800
   health: 1414
 lb2:
-  power: 942
-  attack: 955
+  power: 941
+  attack: 954
   defense: 916
-  health: 1617
+  health: 1618
 costume:
   design: costume1
   bonuses: 28/28/35/5
@@ -63,11 +63,11 @@ costume:
   lb1:
     power: 1053
     attack: 1065
-    defense: 1057
+    defense: 1056
     health: 1855
   lb2:
-    power: 1187
-    attack: 1219
-    defense: 1209
+    power: 1186
+    attack: 1218
+    defense: 1208
     health: 2122
 ...

@@ -36,12 +36,12 @@ fancy_name: The Storm God's Chosen
 aetherPower: special_boost
 lb1:
   power: 1199
-  attack: 1181
+  attack: 1180
   defense: 1165
   health: 2395
 lb2:
   power: 1354
-  attack: 1351
+  attack: 1350
   defense: 1333
   health: 2740
 ...

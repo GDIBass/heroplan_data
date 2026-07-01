@@ -10,28 +10,29 @@ defense: 692
 health: 1289
 skill: Scroll of Spite
 effects:
-- This Special Skill never misses its targets.
 - Attacks the target and nearby enemies with Moonrise Strike dealing up to 860 damage.
-  Deals 30% more damage if the target is Holy.
+  Deals 30% more damage if the target is of the Holy element. This Special Skill never
+  misses its targets.
 - The target and nearby enemies receive 900 Poison damage over 5 turns. The caster
   and all allies absorb 35% of the dealt Poison damage as health.
 types:
-- Hit 3
-- Dot 3
+- Moonrise Strike Hit 3
+- DoT 3
+- Heal All on DoT
 passives:
 - 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
   family bonuses and status effects by -80%. The effect applies to all enemies in
   the battle.'
 image: https://i.imgur.com/UhbZaxw.jpg
 dtReleased: "2024-02-14"
-dtModified: "2026-05-13"
+dtModified: "2026-07-01"
 fancy_name: Justiciar of Owl Tower
 aetherPower: attack_up
 lb1:
-  power: 749
-  attack: 736
-  defense: 752
-  health: 1401
+  power: 748
+  attack: 735
+  defense: 751
+  health: 1400
 lb2:
   power: 855
   attack: 853

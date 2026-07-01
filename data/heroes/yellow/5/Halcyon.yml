@@ -34,9 +34,9 @@ fancy_name: The Sentinel Gray Fox
 aetherPower: regen
 lb1:
   power: 1302
-  attack: 1363
+  attack: 1362
   defense: 1307
-  health: 2390
+  health: 2391
 lb2:
   power: 1472
   attack: 1559

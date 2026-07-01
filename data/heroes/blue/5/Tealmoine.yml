@@ -30,11 +30,11 @@ aetherPower: bulwark
 lb1:
   power: 1272
   attack: 1265
-  defense: 1394
+  defense: 1393
   health: 2246
 lb2:
   power: 1437
-  attack: 1447
-  defense: 1595
+  attack: 1448
+  defense: 1594
   health: 2570
 ...

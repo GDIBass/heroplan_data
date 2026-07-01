@@ -32,11 +32,11 @@ aetherPower: special_armor
 lb1:
   power: 516
   attack: 494
-  defense: 506
-  health: 981
+  defense: 505
+  health: 980
 lb2:
-  power: 623
+  power: 622
   attack: 610
-  defense: 625
+  defense: 624
   health: 1212
 ...

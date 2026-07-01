@@ -33,13 +33,13 @@ dtModified: ""
 fancy_name: Nerdy Cauldron Slime
 aetherPower: fiend_resist
 lb1:
-  power: 1229
+  power: 1228
   attack: 1289
-  defense: 1214
+  defense: 1213
   health: 2237
 lb2:
   power: 1388
   attack: 1475
-  defense: 1389
+  defense: 1388
   health: 2560
 ...

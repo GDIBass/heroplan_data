@@ -15,13 +15,13 @@ effects:
   health by 250. Boosted health can exceed max HP.
 types:
 - Hit All
-- Dodge to All
+- Dodge Chance All
 passives:
 - 'Health Recovery on Buff Received: This character recovers 5% health when they receive
   a buff or a positive stack.'
 image: https://i.imgur.com/FjOt9jJ.jpg
 dtReleased: "2024-04-10"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Blessed by Twilight
 aetherPower: attack_up
 lb1:

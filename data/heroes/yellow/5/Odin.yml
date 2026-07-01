@@ -26,12 +26,12 @@ aetherPower: attack_up
 lb1:
   power: 839
   attack: 821
-  defense: 810
-  health: 1434
+  defense: 809
+  health: 1433
 lb2:
   power: 942
   attack: 939
-  defense: 927
+  defense: 926
   health: 1640
 costume:
   design: costume1
@@ -57,13 +57,13 @@ costume:
   fancy_name: Valiant All-Father
   aetherPower: special_boost
   lb1:
-    power: 1054
-    attack: 1031
-    defense: 1054
+    power: 1053
+    attack: 1030
+    defense: 1053
     health: 1951
   lb2:
-    power: 1188
-    attack: 1180
-    defense: 1206
+    power: 1187
+    attack: 1179
+    defense: 1205
     health: 2232
 ...

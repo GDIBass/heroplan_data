@@ -31,13 +31,13 @@ dtModified: ""
 fancy_name: Goblin Cultist
 aetherPower: attack_up
 lb1:
-  power: 1003
-  attack: 1038
-  defense: 967
+  power: 1004
+  attack: 1039
+  defense: 968
   health: 1747
 lb2:
   power: 1130
-  attack: 1188
+  attack: 1189
   defense: 1107
-  health: 1998
+  health: 1999
 ...

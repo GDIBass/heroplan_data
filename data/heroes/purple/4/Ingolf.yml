@@ -10,27 +10,31 @@ defense: 684
 health: 1268
 skill: Impairing Blade
 effects:
-- Deals 280% damage to all enemies
-- Reduces the duration of all enemies active buffs by 1 turn.
-- All enemies get corrosive poison for 4 turns. Corrosive Poison deals 50 damage and
-  lowers the target's mana generation by -9% each turn. Deals extra damage against
-  heroes with Minions or Mega Minions.
+- Deals 280% damage to all enemies.
+- Reduces the duration of all enemies' active buffs by 1 turn. (The duration modification
+  affects Stubborn, dispellable and undispellable effects. If the duration of any
+  effect is reduced to zero, the effect is considered as having expired naturally.)
+- All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 50
+  Poison damage and lowers the target's mana generation by -9% each turn. Deals extra
+  damage against heroes with Minions or a Mega Minion. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)
 types:
-- Hit 3
-- Dot 3
+- Hit All
+- Reduce Buff duration by 1 All
+- DoT All
 image: https://i.imgur.com/EjtbILF.jpg
 dtReleased: "2021-02-11"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Doomed Hersir
 aetherPower: regen
 lb1:
   power: 726
-  attack: 688
+  attack: 687
   defense: 743
-  health: 1378
+  health: 1377
 lb2:
-  power: 828
+  power: 829
   attack: 797
-  defense: 861
+  defense: 862
   health: 1598
 ...

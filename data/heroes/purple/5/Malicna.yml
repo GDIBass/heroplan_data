@@ -39,11 +39,11 @@ aetherPower: special_boost
 lb1:
   power: 839
   attack: 825
-  defense: 799
+  defense: 798
   health: 1443
 lb2:
   power: 942
   attack: 944
-  defense: 914
+  defense: 913
   health: 1651
 ...

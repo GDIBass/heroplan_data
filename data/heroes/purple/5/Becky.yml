@@ -39,14 +39,14 @@ fancy_name: Starlight Conjurer
 aetherPower: attack_up
 lb1:
   power: 968
-  attack: 950
+  attack: 949
   defense: 963
-  health: 1727
+  health: 1726
 lb2:
   power: 1090
-  attack: 1087
+  attack: 1086
   defense: 1102
-  health: 1976
+  health: 1975
 costume:
   design: costume1
   bonuses: 41/41/43/1
@@ -63,17 +63,19 @@ costume:
   - ' * Each time the target activate their Special Skill during 3 turns mana of all
     other enemies is reduced by -15%.'
   - '2x Mana Charge:'
-  - ' * The caster and nearby allies get +45% defense against Holy for 5 turns.'
-  - ' * Increase the mana of all allies by 10%.'
+  - ' * Increase the mana of all allies by 10%. (After a character has received 5
+    direct mana additions from Special Skill during a single turn, all subsequent
+    direct mana additions done by Special Skills will have reduced power on that character.)'
   - ' * For the next 5 turns, this character deals 265% damage to all enemies each
     time any other ally casts their Special Skill. (Each character can trigger this
     effect once per turn.)'
+  - ' * The caster and nearby allies get +45% defense against Holy for 5 turns.'
   types:
   - Hit 1
   - Mana Reduce 4 on Enemy SS
-  - Elemental Defense Buff 3
   - Mana Increase All
   - Hit All on Ally SS
+  - Elemental Defense Buff 3
   passives:
   - 'Health Recovery on Special: When this character casts their Special Skill, they
     have a 60% chance to recover 20% health for all allies. If the Special Skill is
@@ -84,17 +86,17 @@ costume:
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/zrbo7zD.jpg
   dtReleased: "2025-09-17"
-  dtModified: "2026-05-04"
+  dtModified: "2026-07-01"
   fancy_name: Twilight Conjurer
   aetherPower: special_boost
   lb1:
-    power: 1321
-    attack: 1345
+    power: 1320
+    attack: 1344
     defense: 1358
     health: 2466
   lb2:
-    power: 1494
-    attack: 1540
+    power: 1493
+    attack: 1538
     defense: 1554
     health: 2822
 ...
