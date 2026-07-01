@@ -32,7 +32,7 @@ lb2:
   health: 1645
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Druid
   power: 957
   attack: 925
@@ -46,24 +46,24 @@ costume:
   - The target and nearby enemies receive 260 Water damage over 4 turns.
   types:
   - Hit 3
-  - Healing Debuff
-  - DoT
+  - Healing Debuff 3
+  - DoT 3
   passives:
   - 'Poison on Special Skill: When this character casts their Special Skill, all enemies
-    receive 476 Poison damage over 4 turns.'
+    receive 516 Poison damage over 4 turns.'
   image: https://i.imgur.com/lR0HaHa.jpg
   dtReleased: "2023-12-28"
-  dtModified: ""
+  dtModified: "2026-07-01"
   fancy_name: Rotten Captain of Corellia
   aetherPower: regen
   lb1:
     power: 1022
-    attack: 998
+    attack: 997
     defense: 1068
     health: 1780
   lb2:
     power: 1151
-    attack: 1141
+    attack: 1140
     defense: 1222
     health: 2037
 ...

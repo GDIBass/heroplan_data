@@ -41,13 +41,14 @@ costume:
   skill: Curse of the Depths
   effects:
   - All enemies receive 324 Poison damage over 2 turns.
-  - All enemies get -50% mana generation for 4 turns.
+  - All enemies get -50% mana generation for 4 turns. (Affects only mana generated
+    from matching tiles or mana gained by the defense team at the end of their turn.)
   types:
   - DoT All
   - Mana Generation Debuff All
   image: https://i.imgur.com/5sfSAJC.jpg
   dtReleased: "2023-04-03"
-  dtModified: "2026-04-03"
+  dtModified: "2026-07-01"
   fancy_name: Farseer of Atlantis
   aetherPower: ailment_immunity
   lb1:

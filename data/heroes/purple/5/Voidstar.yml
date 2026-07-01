@@ -16,15 +16,15 @@ effects:
 - All allies get +74% defense against Special Skills for 4 turns.
 types:
 - Hit 1
-- Healer
-- Special Skill Defense Buff
+- Healer All
+- Special Skill Defense Buff All
 passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 - 'Share Received Damage: 20% of damage received by this character is shared  with
   all other allies.'
 image: https://i.imgur.com/ry0GZRR.jpg
 dtReleased: "2024-04-22"
-dtModified: "2026-05-13"
+dtModified: "2026-07-01"
 fancy_name: Astral Elf Great Knight
 aetherPower: defense_up
 lb1:

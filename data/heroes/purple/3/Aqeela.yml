@@ -53,8 +53,9 @@ costume:
   - Dodge Chance Buff 3
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
-    character casts their Special Skill: * Deals 70% damage to all enemies. * Dispells
-    the latest dispellable buff from all enemies.'
+    character casts their Special Skill:'
+  - ' * Deals 70% damage to all enemies.'
+  - ' * Dispels the latest dispellable buff from all enemies.'
   - 'Extra Chance for Effects On Special Skill: When this character casts their Special
     Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
     to activate.'
@@ -62,7 +63,7 @@ costume:
     a status ailment or negative stack.'
   image: https://i.imgur.com/kbKyRq1.jpg
   dtReleased: "2024-08-10"
-  dtModified: "2026-04-26"
+  dtModified: "2026-07-01"
   fancy_name: Street-Smart Sorcerer
   aetherPower: special_boost
   lb1:

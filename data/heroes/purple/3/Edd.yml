@@ -14,9 +14,10 @@ effects:
 - The target is immune to new status effect buffs for 3 turns.
 types:
 - Hit 1
+- Buff Immunity 1
 image: https://i.imgur.com/OuUgvKY.jpg
 dtReleased: "2021-02-11"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Thick-Headed Thug
 aetherPower: attack_up
 lb1:
@@ -28,5 +29,5 @@ lb2:
   power: 641
   attack: 737
   defense: 630
-  health: 1012
+  health: 1013
 ...

@@ -22,12 +22,12 @@ fancy_name: First Mate of Corellia
 aetherPower: revive
 lb1:
   power: 693
-  attack: 588
+  attack: 587
   defense: 720
-  health: 1438
+  health: 1437
 lb2:
   power: 790
-  attack: 682
+  attack: 681
   defense: 835
   health: 1667
 ...

@@ -35,7 +35,7 @@ lb2:
   health: 1647
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 28/26/45/5
   class: Fighter
   power: 976
   attack: 963
@@ -45,7 +45,7 @@ costume:
   effects:
   - Deals 350% damage to the target.
   - The caster and nearby allies get +45% attack, and a further 20% increase every
-    time they are hit during 4 turns.
+    time they are hit during 4 turns, up to +145% attack.
   - Element Link recovers 4% health for all Dark allies for 6 turns. This effect can't
     be dispelled.
   types:
@@ -56,7 +56,7 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/mLc9HWv.jpg
   dtReleased: "2024-02-09"
-  dtModified: "2026-06-28"
+  dtModified: "2026-07-01"
   fancy_name: Mirage Engineer
   aetherPower: special_armor
   lb1:

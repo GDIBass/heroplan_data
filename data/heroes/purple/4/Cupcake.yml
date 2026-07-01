@@ -12,7 +12,7 @@ skill: Grand Heist
 effects:
 - Steals Minions from the target.
 - Deals 400% damage to the target.
-- The target can't receive new Minions for 4 turns.
+- The target resist new Minions for 4 turns.
 types:
 - Steals Minions 1
 - Hit 1
@@ -24,17 +24,17 @@ passives:
   damage to all enemies. This effect can activate only once per turn.'
 image: https://i.imgur.com/p15TPST.jpg
 dtReleased: "2022-11-03"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Clawsome Bandit
 aetherPower: special_boost
 lb1:
-  power: 736
-  attack: 750
-  defense: 674
+  power: 735
+  attack: 749
+  defense: 673
   health: 1431
 lb2:
   power: 840
-  attack: 870
+  attack: 869
   defense: 781
-  health: 1659
+  health: 1660
 ...

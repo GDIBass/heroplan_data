@@ -28,12 +28,12 @@ aetherPower: attack_up
 lb1:
   power: 857
   attack: 863
-  defense: 808
+  defense: 807
   health: 1462
 lb2:
   power: 963
-  attack: 988
-  defense: 924
+  attack: 987
+  defense: 923
   health: 1673
 costume:
   design: costume1
@@ -62,20 +62,20 @@ costume:
   - Mana Generation Debuff 3
   passives:
   - 'Curse on Special Skill: When this character casts their Special Skill, all enemies
-    receive 531 Curse damage over 4 turns, starting low and increasing every turn.'
+    receive 70-213 increasing Curse damage each turn for 4 turns.'
   image: https://i.imgur.com/Mz4axni.jpg
   dtReleased: "2024-11-14"
-  dtModified: "2026-05-01"
+  dtModified: "2026-07-01"
   fancy_name: Astronomer of Karemdol
   aetherPower: defense_up
   lb1:
-    power: 1290
-    attack: 1439
-    defense: 1195
-    health: 2334
+    power: 1289
+    attack: 1438
+    defense: 1194
+    health: 2332
   lb2:
-    power: 1457
-    attack: 1646
-    defense: 1367
-    health: 2670
+    power: 1456
+    attack: 1645
+    defense: 1366
+    health: 2669
 ...

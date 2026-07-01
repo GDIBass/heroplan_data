@@ -41,12 +41,12 @@ aetherPower: defense_up
 lb1:
   power: 867
   attack: 814
-  defense: 850
+  defense: 849
   health: 1567
 lb2:
   power: 974
   attack: 932
-  defense: 972
+  defense: 971
   health: 1793
 costume:
   design: costume1
@@ -90,13 +90,13 @@ costume:
   fancy_name: Supreme Dark Sorceress
   aetherPower: special_armor
   lb1:
-    power: 1292
+    power: 1291
     attack: 1282
-    defense: 1338
-    health: 2457
+    defense: 1337
+    health: 2456
   lb2:
     power: 1460
     attack: 1467
-    defense: 1531
+    defense: 1530
     health: 2811
 ...

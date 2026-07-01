@@ -40,13 +40,13 @@ dtModified: ""
 fancy_name: Magic Carpet Cat Lady
 aetherPower: damage_reduction
 lb1:
-  power: 1314
+  power: 1315
   attack: 1298
-  defense: 1409
+  defense: 1410
   health: 2435
 lb2:
   power: 1486
-  attack: 1485
-  defense: 1612
+  attack: 1486
+  defense: 1613
   health: 2786
 ...

@@ -24,17 +24,17 @@ fancy_name: Warrior of Teltoc
 aetherPower: attack_up
 lb1:
   power: 815
-  attack: 848
+  attack: 847
   defense: 679
   health: 1454
 lb2:
   power: 914
-  attack: 970
+  attack: 969
   defense: 777
   health: 1663
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Paladin
   power: 958
   attack: 972
@@ -47,21 +47,21 @@ costume:
   - All enemies are immune to new status effect buffs for 3 turns.
   types:
   - Hit All
-  - Defense Debuff All
+  - Elemental Defense Debuff All
   - Buff Immunity Debuff All
   image: https://i.imgur.com/ZdPyBw5.jpg
   dtReleased: "2022-06-16"
-  dtModified: ""
+  dtModified: "2026-07-01"
   fancy_name: Fierce Panther
   aetherPower: special_armor
   lb1:
-    power: 1024
-    attack: 1048
-    defense: 868
-    health: 2066
+    power: 1023
+    attack: 1047
+    defense: 867
+    health: 2065
   lb2:
-    power: 1153
-    attack: 1199
-    defense: 993
-    health: 2364
+    power: 1152
+    attack: 1198
+    defense: 992
+    health: 2363
 ...

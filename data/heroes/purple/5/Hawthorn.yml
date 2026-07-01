@@ -12,7 +12,7 @@ skill: Medicinal Fumes
 effects:
 - All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed
   max HP.
-- All allies receive a small amount of mana over 4 turns.
+- All allies receive a moderate amount of mana over 4 turns.
 - All allies reflect status ailments for 4 turns and negative stacks for 4 turns.
   (Status effects cast by characters, Minions and Fiends on the same side cannot be
   reflected.)
@@ -30,12 +30,12 @@ passives:
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/fbtStrK.jpg
 dtReleased: "2022-09-18"
-dtModified: "2026-03-20"
+dtModified: "2026-07-01"
 fancy_name: Hunter Journeyman
 aetherPower: attack_up
 lb1:
-  power: 948
-  attack: 883
+  power: 947
+  attack: 882
   defense: 941
   health: 1791
 lb2:

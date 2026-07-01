@@ -25,9 +25,9 @@ dtModified: ""
 fancy_name: Defender of the Castle
 aetherPower: taunt
 lb1:
-  power: 870
+  power: 869
   attack: 779
-  defense: 910
+  defense: 909
   health: 1554
 lb2:
   power: 977

@@ -10,8 +10,11 @@ defense: 776
 health: 1532
 skill: Midnight Strike
 effects:
-- 425% damage to the target
-- If it attack defeats the target, the caster gains +50% mana.
+- Deals 425% damage to the target
+- If the target is defeated by the attack, the caster gains +50% mana. (After a character
+  has received 5 direct mana addition from Special Skill during a single turn, all
+  subsequent direct mana addition done by Special Skills will have reduced power on
+  that character.)
 types:
 - Hit 1
 - Mana boost Self on kill
@@ -22,7 +25,7 @@ passives:
 - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/qiCq8Jo.jpg
 dtReleased: "2022-04-21"
-dtModified: "2026-04-26"
+dtModified: "2026-07-01"
 fancy_name: God of the Moon
 aetherPower: special_boost
 lb1:
@@ -45,10 +48,14 @@ costume:
   health: 2286
   skill: Midnight Smite
   effects:
-  - 450% damage to the target.
-  - If it attack defeats the target, the caster gains +45% mana.
+  - Deals 450% damage to the target.
+  - If the target is defeated by the attack, the caster gains +45% mana. (After a
+    character has received 5 direct mana additions from Special Skill during a single
+    turn, all subsequent direct mana additions done by Special Skills will have reduced
+    power on that character.)
   types:
   - Hit 1
+  - Mana boost Self on kill
   passives:
   - 'Effects on Special Skill: 40% chance to perform the following actions when this
     character casts their Special Skill'
@@ -60,7 +67,7 @@ costume:
   - 'Resist Sand: This character is immune to status ailments that deal Sand damage.'
   image: https://i.imgur.com/dLlMk1f.jpg
   dtReleased: "2024-09-07"
-  dtModified: "2026-04-26"
+  dtModified: "2026-07-01"
   fancy_name: Knight of the Moon
   aetherPower: counterattack
   lb1:

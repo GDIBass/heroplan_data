@@ -35,13 +35,13 @@ dtModified: ""
 fancy_name: Ferryman of Styx
 aetherPower: attack_up
 lb1:
-  power: 916
-  attack: 799
-  defense: 923
-  health: 1809
+  power: 915
+  attack: 798
+  defense: 922
+  health: 1808
 lb2:
-  power: 1030
-  attack: 914
-  defense: 1056
-  health: 2070
+  power: 1029
+  attack: 913
+  defense: 1055
+  health: 2069
 ...

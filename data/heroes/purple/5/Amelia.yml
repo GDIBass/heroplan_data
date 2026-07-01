@@ -16,8 +16,8 @@ effects:
   Each dodge gives +27% attack stack(Max: 10).'
 types:
 - Healer All
-- Dispeller 1 Buff All
-- Dodge Buff
+- Dispel latest buff All
+- Dodge Chance Buff 4
 passives:
 - 'Transform Ailments: Each time this character casts their Special Skill, all cleansable
   status ailments affecting attack, defense and mana generation on all allies are
@@ -33,7 +33,7 @@ passives:
 - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
 image: https://imgur.com/XsBc2Vs.jpg
 dtReleased: "2025-11-30"
-dtModified: "2026-04-28"
+dtModified: "2026-07-01"
 fancy_name: Magical Aviator
 aetherPower: regen
 lb1:

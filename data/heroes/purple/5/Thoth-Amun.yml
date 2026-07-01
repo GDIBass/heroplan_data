@@ -35,7 +35,7 @@ lb2:
   health: 1678
 costume:
   design: costume1
-  bonuses: 26/26/45/5
+  bonuses: 28/26/45/5
   class: Wizard
   power: 973
   attack: 911
@@ -56,7 +56,7 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/3rXphxC.jpg
   dtReleased: "2024-01-11"
-  dtModified: "2026-05-23"
+  dtModified: "2026-07-01"
   fancy_name: Cosmic Conjurer
   aetherPower: bulwark
   lb1:

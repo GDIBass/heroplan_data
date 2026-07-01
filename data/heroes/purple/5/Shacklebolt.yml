@@ -12,7 +12,9 @@ skill: Ironbound Fury
 effects:
 - Deals 370% damage to the target and nearby enemies.
 - Steals 25% mana from the target and nearby enemies and distributes it to the caster
-  and nearby allies.
+  and nearby allies. (After a character has received 5 direct mana additions from
+  Special Skill during a single turn, all subsequent direct mana additions done by
+  Special Skills will have reduced power on that character.)
 - Copies all dispellable buffs from the target and nearby enemies, and randomly distributes
   them on allies.
 types:
@@ -29,7 +31,7 @@ passives:
   when the Core is activated.'
 image: https://i.imgur.com/kHFYa2T.jpg
 dtReleased: "2023-12-24"
-dtModified: "2026-06-07"
+dtModified: "2026-07-01"
 fancy_name: Imprisoned Construct
 aetherPower: attack_up
 lb1:

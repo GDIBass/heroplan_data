@@ -31,18 +31,18 @@ dtModified: "2026-04-13"
 fancy_name: Modifier of Reality
 aetherPower: regen
 lb1:
-  power: 968
-  attack: 925
+  power: 969
+  attack: 926
   defense: 943
   health: 1829
 lb2:
   power: 1090
   attack: 1059
   defense: 1079
-  health: 2092
+  health: 2093
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 40/40/43/5
   class: Monk
   power: 1230
   attack: 1190
@@ -53,7 +53,10 @@ costume:
   - Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies
     by 55%.
   - Increases the mana of all Dark allies except the caster by 30%. Increases the
-    mana of all other allies by 15%. (This has no effect on other Griffex characters.)
+    mana of all other allies by 15%. (This has no effect on other Griffex characters.
+    After a character has received 5 direct mana additions from Special Skill during
+    a single turn, all subsequent direct mana additions done by Special Skills will
+    have reduced power on that character.)
   - All allies are immune to new negative mana effects for 5 turns.
   types:
   - Mana Reducer All
@@ -71,17 +74,17 @@ costume:
     stacks cast by Holy characters.'
   image: https://imgur.com/QbtVKOI.jpg
   dtReleased: "2025-08-28"
-  dtModified: "2026-04-13"
+  dtModified: "2026-07-01"
   fancy_name: Modifier of Obscura
   aetherPower: damage_reduction
   lb1:
-    power: 1317
-    attack: 1283
-    defense: 1339
+    power: 1316
+    attack: 1282
+    defense: 1337
     health: 2631
   lb2:
-    power: 1489
-    attack: 1468
-    defense: 1532
-    health: 3011
+    power: 1488
+    attack: 1467
+    defense: 1530
+    health: 3010
 ...

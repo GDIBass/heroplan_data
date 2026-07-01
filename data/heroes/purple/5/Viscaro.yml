@@ -24,13 +24,13 @@ types:
 - Minion Bypass
 - Fiend Summoner All
 passives:
-- 'Cursed sapling summoner: When an enemy summons any minions by special skill, this
+- 'Cursed Sapling Summoner: When an enemy summons any minions by special skill, this
   character summons a Cursed Sapling Fiend for that enemy.'
-- 'Resist negative minion effects: This character is immune to incoming negative effects
+- 'Resist Negative Minion Effects: This character is immune to incoming negative effects
   and damage from Minions.'
 image: https://i.imgur.com/tgvzp56.jpg
 dtReleased: "2022-01-01"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Corrupted Druid
 aetherPower: fiend_resist
 lb1:
@@ -39,8 +39,8 @@ lb1:
   defense: 872
   health: 1507
 lb2:
-  power: 961
+  power: 960
   attack: 901
-  defense: 998
+  defense: 997
   health: 1724
 ...

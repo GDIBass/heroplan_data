@@ -26,13 +26,13 @@ dtModified: ""
 fancy_name: Sanguine Assassin
 aetherPower: attack_up
 lb1:
-  power: 837
-  attack: 861
+  power: 836
+  attack: 860
   defense: 831
   health: 1558
 lb2:
-  power: 956
+  power: 957
   attack: 998
-  defense: 963
-  health: 1806
+  defense: 964
+  health: 1807
 ...

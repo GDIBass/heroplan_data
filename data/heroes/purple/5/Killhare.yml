@@ -22,13 +22,13 @@ dtModified: "2026-04-03"
 fancy_name: Savage Protector of Springvale
 aetherPower: attack_up
 lb1:
-  power: 841
-  attack: 799
+  power: 840
+  attack: 798
   defense: 814
   health: 1489
 lb2:
   power: 944
-  attack: 914
+  attack: 913
   defense: 932
   health: 1704
 costume:
@@ -56,13 +56,13 @@ costume:
   fancy_name: Ultimate Farmer
   aetherPower: defense_up
   lb1:
-    power: 1091
+    power: 1090
     attack: 1048
     defense: 1120
-    health: 2040
+    health: 2039
   lb2:
     power: 1230
     attack: 1200
-    defense: 1282
-    health: 2335
+    defense: 1281
+    health: 2333
 ...

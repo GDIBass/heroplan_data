@@ -10,12 +10,11 @@ defense: 1009
 health: 1720
 skill: Elemental Corruption
 effects:
-- All allies get +150% normal attack for 4 turns. This effect can be active in addition
-  to effects that alter attack in general. Normal attacks can have a total maximum
-  of 200% increased power while this effect is active.
+- All allies get +150% normal attack for 4 turns. (If additional effects increase
+  attack in general, normal attacks can have a total maximum of 200% increased power.)
 - All damage all enemies receive is increased by +55% for 4 turns.
 types:
-- Titan Attack buff
+- Titan Attack Buff
 - Damage Increase Debuff All
 passives:
 - 'Troop Mastery:'
@@ -27,17 +26,17 @@ passives:
 - ' - Received elemental damage: -10%'
 image: https://i.imgur.com/Hq9OxQ2.jpg
 dtReleased: "2024-03-25"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Multidimensional Hazard
 aetherPower: attack_up
 lb1:
   power: 1094
   attack: 1158
   defense: 1087
-  health: 1853
+  health: 1854
 lb2:
-  power: 1233
+  power: 1234
   attack: 1325
   defense: 1244
-  health: 2120
+  health: 2121
 ...

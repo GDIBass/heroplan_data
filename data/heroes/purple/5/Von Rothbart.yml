@@ -13,12 +13,11 @@ effects:
 - Deals 550% damage to the target.
 - The target dances to Ballad of Pain for 4 turns. The dance spreads to nearby enemies.
 - 'Ballad of Pain:'
-- The dancer gets silenced.
-- When the dance ends, the target suffers 1700 damage.
-- All existing status effects will be removed a dance status effect is added.
-- Dance gives immunity to new status effects. New dance status effect will replace
-  this effect.
-- Dance effect cannot be dispelled. This effect is removed when the caster is defeated.
+- ' * The dancer gets silenced.'
+- ' * When the dance ends, the target suffers 1700 damage. (All existing status effects
+  will be removed a dance status effect is added. Dance gives immunity to new status
+  effects. New dance status effect will replace this effect. Dance effect cannot be
+  dispelled. This effect is removed when the caster is defeated.)'
 types:
 - Hit 1
 - Spreading dance Ballad of Pain
@@ -31,7 +30,7 @@ passives:
   This effect can activate only once per turn.'
 image: https://i.imgur.com/DZgjbkS.jpg
 dtReleased: "2024-08-22"
-dtModified: "2026-04-16"
+dtModified: "2026-07-01"
 fancy_name: Feared Magician
 aetherPower: special_boost
 lb1:
@@ -41,7 +40,7 @@ lb1:
   health: 2020
 lb2:
   power: 1318
-  attack: 1447
+  attack: 1448
   defense: 1297
   health: 2311
 ...

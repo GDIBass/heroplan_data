@@ -13,21 +13,22 @@ effects:
 - Deals 280% damage to all enemies.
 - All enemies get -34% attack for 6 turns.
 - All enemies get -34% defense for 6 turns.
-- All enemies get -34% mana generation for 6 turns.
+- All enemies get -34% mana generation for 6 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Hit All
-- Attack Debuff
-- Defense Debuff
-- Mana Generation Debuff
+- Attack Debuff All
+- Defense Debuff All
+- Mana Generation Debuff All
 image: https://i.imgur.com/8ZDDLNG.jpg
 dtReleased: "2021-12-15"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Evil of Avalon
 aetherPower: damage_reduction
 lb1:
   power: 536
-  attack: 492
-  defense: 577
+  attack: 491
+  defense: 576
   health: 986
 lb2:
   power: 648

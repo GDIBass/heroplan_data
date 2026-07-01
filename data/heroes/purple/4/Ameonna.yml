@@ -55,11 +55,11 @@ costume:
   types:
   - Full Removal Self
   - Ghost Self
-  - Defense Buff All while Ghost
-  - HoT All while Ghost
+  - Defense Buff 4 while Ghost
+  - HoT 4 while Ghost
   image: https://i.imgur.com/VZyVFDJ.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-06-29"
+  dtModified: "2026-07-01"
   fancy_name: Lonesome Yurei
   aetherPower: defense_up
   lb1:
@@ -94,13 +94,14 @@ costume2:
   types:
   - Full Removal Self
   - Ghost Self
+  - Attack Buff Self while ghost
   - Elemental Defense Buff 4
   passives:
   - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
     and buff dispels. Gain 5% mana on each successful resist.'
   image: https://imgur.com/ZzDvGTw.jpg
   dtReleased: "2026-06-28"
-  dtModified: ""
+  dtModified: "2026-07-01"
   fancy_name: Lone Toon Ghost
   aetherPower: special_armor
   lb1:
