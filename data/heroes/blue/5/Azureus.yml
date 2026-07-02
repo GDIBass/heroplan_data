@@ -1,0 +1,56 @@
+---
+name: Azureus
+source: shadow
+family: theinstitute
+speed: Average
+class: Paladin
+power: 1338
+attack: 1374
+defense: 1419
+health: 2397
+skill: Aetheric Transmutation
+effects:
+- Changes the element of all enemies to Fire for 4 turns. (Titans and Mythic Titans
+  are not affected by this status effect.)
+- Deals 300% damage to all enemies and inflicts 20 Insanity of them.
+- The caster gets Taunt that prevents enemies from using Special Skills on the caster's
+  allies for 4 turns.
+- The caster reflects all status ailments and 165% damage back to the attacker and
+  block other negative effects from enemies' Fire Special Skills for 4 turns. (Status
+  effects cast by characters, Minions and Fiends on the same side cannot be reflected.
+  )
+- Casting this Special Skill inflicts 45 Insanity on the caster.
+types:
+- Element Change to Fire All
+- Hit All
+- Insanity All
+- Taunt
+- Elemental Reflect Self
+- Elemental Counterattack Self
+passives:
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+- 'Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch
+  Host. The chance is 10% per 10 Insanity on this character, up to maximum chance
+  of 100%.'
+- If this character defeats themself when activating Insanity, the chance to be reborn
+  is always 100%.
+image: https://imgur.com/JcMgpGS.jpg
+dtReleased: "2026-07-02"
+dtModified: ""
+fancy_name: Aetheric Strategist
+aetherPower: taunt
+lb1:
+  power: 1433
+  attack: 1481
+  defense: 1529
+  health: 2583
+lb2:
+  power: 1621
+  attack: 1694
+  defense: 1750
+  health: 2956
+...
