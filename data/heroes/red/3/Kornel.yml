@@ -13,10 +13,10 @@ effects:
 - 'Special Skill has a different effect when charged with 100%/200% mana:'
 - '1x Mana Charge:'
 - ' * The caster and nearby allies get +45% attack, and a further 20% increase every
-  time they are hit during 3 turns.'
+  time they are hit during 3 turns, up to +145% attack.'
 - '2x Mana Charge:'
 - ' * The target and nearby enemies get -44% defense, and a further -4% decrease every
-  time they are hit during 6 turns.'
+  time they are hit during 6 turns, down to -68% defense.'
 types:
 - Charge
 - Attack Buff 3
@@ -27,7 +27,7 @@ passives:
   the chance is 100%.'
 image: https://i.imgur.com/mQovZC2.jpg
 dtReleased: "2021-09-15"
-dtModified: "2026-05-04"
+dtModified: "2026-07-03"
 fancy_name: Veteran Caretaker
 aetherPower: defense_up
 lb1:

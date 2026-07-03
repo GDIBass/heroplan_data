@@ -16,8 +16,9 @@ effects:
 - The Spreading Shadow Fiend absorbs healing and disappears when it has absorbed health
   equal to 40% of its owner's max health.
 - The Spreading Shadow Fiend generates a clone of itself to nearby enemies every 2
-  turns. Cloned fiends absorb the same amount of healing and deal the same amount
-  of damage as the original Fiend.
+  turns. (Cloned Fiends absorb the same amount of healing and deal the same amount
+  of damage as the original Fiend. The Fiend will only clone if the target does not
+  already have the maximum number of Fiends or Minions.)
 types:
 - Hit 1
 - Spreading Fiend Summoner 1
@@ -26,7 +27,7 @@ passives:
   owned by them is destroyed.'
 image: https://i.imgur.com/3VyJcT7.jpg
 dtReleased: "2023-11-02"
-dtModified: "2026-07-01"
+dtModified: "2026-07-03"
 fancy_name: Masked Goddess of Shadows
 aetherPower: fiend_resist
 lb1:

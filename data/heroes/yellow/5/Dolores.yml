@@ -10,12 +10,14 @@ defense: 1104
 health: 1911
 skill: Yellow Signs
 effects:
-- For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity
-  to a random target and nearby enemies each time any other ally casts their Special
-  Skill.
+- For the next 4 turns, this character deals 220% damage to a random target and nearby
+  enemies and inflicts 15 Insanity to them each time any other ally casts their Special
+  Skill. (Damage and Insanity are dealt on the first Special Skill cast of each character
+  per turn. The damage and Insanity dealt by this effect are not affected by Insanity.)
 - 'Stack (Max: 10): All allies get +20% attack.'
-- 'Stack (Max: 10): All allies get +5% mana generation.'
-- Inflicts 50 Insanity to the caster.
+- 'Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
+- Casting this Special Skill inflicts 50 Insanity on the caster.
 types:
 - Hit Random 3 on ally SS cast
 - Insanity 3
@@ -27,13 +29,13 @@ passives:
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/sAavBEB.jpg
 dtReleased: "2024-05-17"
-dtModified: "2026-03-22"
+dtModified: "2026-07-02"
 fancy_name: Reckless Private Investigator
 aetherPower: attack_up
 lb1:
   power: 1174
   attack: 1223
-  defense: 1189
+  defense: 1190
   health: 2060
 lb2:
   power: 1325

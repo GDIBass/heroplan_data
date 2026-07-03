@@ -13,10 +13,10 @@ effects:
 - 'Special Skill has a different effect when charged with 100%/200% mana:'
 - '1x Mana Charge:'
 - ' * Deals 250% damage to the target.'
-- ' * Deals 500% damage if the target has less than 50% health remaining.'
+- ' * If the target has less than 50% health remaining, deals 500% damage instead.'
 - '2x Mana Charge:'
 - ' * Deals 215% damage to all enemies.'
-- ' * Deals 430% damage to enemies with more than 50% health remaining.'
+- ' * If the enemies have more than 50% health remaining, deals 430% damage instead.'
 types:
 - Charge
 - Hit 1
@@ -24,10 +24,11 @@ types:
 passives:
 - 'Status effect on special: When this character casts their Special Skill, they have
   a 50% chance to give -25% mana generation for 3 turns to all their enemies. If the
-  Special Skill is fully charged, the chance is 100%.'
+  Special Skill is fully charged, the chance is 100%. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 image: https://i.imgur.com/H1Awz0g.jpg
 dtReleased: "2021-09-15"
-dtModified: "2026-04-30"
+dtModified: "2026-07-03"
 fancy_name: Charms Professor
 aetherPower: special_boost
 lb1:
@@ -53,10 +54,10 @@ costume:
   - 'Special Skill has a different effect when charged with 100%/200% mana:'
   - '1x Mana Charge:'
   - ' * Deals 300% damage to the target.'
-  - ' * Deals 600% damage if the target has more than 50% health remaining.'
+  - ' * If the target has more than 50% health remaining, deals 600% damage instead.'
   - '2x Mana Charge:'
   - ' * Deals 250% damage to all enemies.'
-  - ' * Deals 500% damage to enemies with less than 50% health remaining.'
+  - ' * If the enemies have less than 50% health remaining, deals 500% damage instead.'
   types:
   - Charge
   - Hit 1
@@ -64,21 +65,23 @@ costume:
   passives:
   - 'Status effect on special: When this character casts their Special Skill, they
     have a 60% chance to give -45% mana generation for 3 turns to all their enemies.
-    If the Special Skill is fully charged, the chance is 100%.'
+    If the Special Skill is fully charged, the chance is 100%. (Affects only mana
+    generated from matching shields or mana gained by the defense team at the end
+    of their turn.)'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/1pcXfJf.jpg
   dtReleased: "2025-11-03"
-  dtModified: "2026-04-30"
+  dtModified: "2026-07-03"
   fancy_name: Enchantments Professor
   aetherPower: counterattack
   lb1:
-    power: 1337
-    attack: 1404
-    defense: 1320
-    health: 2508
+    power: 1351
+    attack: 1420
+    defense: 1335
+    health: 2538
   lb2:
-    power: 1511
-    attack: 1606
-    defense: 1511
-    health: 2870
+    power: 1528
+    attack: 1625
+    defense: 1528
+    health: 2904
 ...

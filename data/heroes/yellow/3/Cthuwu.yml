@@ -15,7 +15,7 @@ effects:
   Insanity on them after any subsequent allied Special Skill is cast for 3 turns.
   (Damage and Insanity are dealt on the first Special Skill cast of each character
   per turn. The damage and Insanity dealt by this effect is not affected by Insanity.)
-- Inflicts 40 Insanity to the caster.
+- Casting this Special Skill inflicts 40 Insanity on the caster.
 types:
 - Hit 1
 - Chance to Hit random 1 All
@@ -23,17 +23,17 @@ types:
 - Insanity Self
 image: https://i.imgur.com/I6zT7jd.jpg
 dtReleased: "2025-01-09"
-dtModified: "2026-03-20"
+dtModified: "2026-07-03"
 fancy_name: Spawn of the Old Ones
 aetherPower: attack_up
 lb1:
-  power: 559
-  attack: 551
+  power: 558
+  attack: 550
   defense: 529
-  health: 1095
+  health: 1094
 lb2:
   power: 675
-  attack: 681
+  attack: 680
   defense: 654
   health: 1353
 ...

@@ -15,7 +15,7 @@ effects:
 - Deals 530% damage to the target.
 - If the target is defeated by the attack, then nearby enemies are inflicted with
   100 Insanity.
-- Casting this Special Skill inflicts 45 Insanity to the caster.
+- Casting this Special Skill inflicts 45 Insanity on the caster.
 types:
 - Defense Debuff 1
 - Hit 1
@@ -26,7 +26,7 @@ passives:
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/4a7tvJs.jpg
 dtReleased: "2024-06-04"
-dtModified: "2026-07-01"
+dtModified: "2026-07-02"
 fancy_name: Descendant of the Old Ones
 aetherPower: attack_up
 lb1:
