@@ -20,7 +20,7 @@ effects:
 types:
 - Hit 3
 - Fiend Summoner 3
-- Generated mana steal 3
+- Mana Steal Fiend
 passives:
 - 'Gargoyle''s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin
   activates. (The next 4 times they receive damage, it is reduced by -90%. They are
@@ -28,7 +28,7 @@ passives:
   be dispelled.)'
 image: https://i.imgur.com/rPeRNSA.jpg
 dtReleased: "2024-10-17"
-dtModified: "2026-06-20"
+dtModified: "2026-07-03"
 fancy_name: Fiery Gargoyle
 aetherPower: fiend_resist
 lb1:

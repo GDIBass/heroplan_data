@@ -22,12 +22,12 @@ types:
 - Cleanser All
 passives:
 - 'Gargoyle''s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin
-  activates. The next 5 times they receive damage, it is reduced by -90%. They are
+  activates. (The next 5 times they receive damage, it is reduced by -90%. They are
   also immune to all status ailments, mana reductions and Insanity. This effect can''t
-  be dispelled.'
+  be dispelled.)'
 image: https://i.imgur.com/h0Gvv51.jpg
 dtReleased: "2024-05-16"
-dtModified: ""
+dtModified: "2026-07-03"
 fancy_name: Wise Gargoyle
 aetherPower: regen
 lb1:
@@ -36,8 +36,8 @@ lb1:
   defense: 743
   health: 1408
 lb2:
-  power: 861
+  power: 862
   attack: 878
-  defense: 861
-  health: 1632
+  defense: 862
+  health: 1633
 ...
