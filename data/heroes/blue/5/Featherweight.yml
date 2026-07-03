@@ -1,0 +1,55 @@
+---
+name: Featherweight
+source: covenant
+family: construct
+speed: Slow
+class: Paladin
+power: 1339
+attack: 1369
+defense: 1427
+health: 2399
+skill: Heavy Drain
+effects:
+- Deals 400% damage to the target and nearby enemies.
+- Steals all dispellable buffs from the target and nearby enemies and randomly distributes
+  them on allies.
+- The caster steals 85% of any healing applied to the target and nearby enemies for
+  5 turns.
+- The caster steals generated mana of the target and nearby enemies over 5 turns starting
+  low and increasing every turn until the on the last turn all generated mana is stolen.
+  This effect can't be cleansed, but gets removed if the caster is defeated.
+types:
+- Hit 3
+- Buff Steal 3
+- Healing Steal 3
+- Mana Steal 3
+passives:
+- 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
+  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
+  mana each time they resist.'
+- 'Minion Core: The Construct Core of this character is Minion Core. The Minion Core
+  activates each time this character''s Special Skill is cast.'
+- ' * With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and
+  55% attack inherited from the caster on all allies.'
+- ' * The HP and attack inherited from the caster are scaled by the amount of charge
+  in the Core. All charge is exhausted when the Core is activated.'
+- ' * Before the Killer Bot Minion hits a target, it destroys all Minions from the
+  target and damages Mega Minions.'
+- ' * The Killer Bot Minion recovers 5% health for its owner at the end of each turn.'
+- ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
+image: https://imgur.com/Rqxx3zI.jpg
+dtReleased: "2026-07-03"
+dtModified: ""
+fancy_name: Bipedal Reservoir Construct
+aetherPower: defense_up
+lb1:
+  power: 1433
+  attack: 1475
+  defense: 1538
+  health: 2586
+lb2:
+  power: 1622
+  attack: 1688
+  defense: 1760
+  health: 2959
+...
