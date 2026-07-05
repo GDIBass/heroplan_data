@@ -31,10 +31,10 @@ lb1:
   defense: 876
   health: 1582
 lb2:
-  power: 1004
+  power: 1003
   attack: 985
-  defense: 1003
-  health: 1811
+  defense: 1002
+  health: 1810
 costume:
   design: costume1
   bonuses: 35/35/45/5
