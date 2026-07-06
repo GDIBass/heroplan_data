@@ -32,7 +32,7 @@ lb2:
   health: 1105
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Barbarian
   power: 465
   attack: 457
@@ -65,7 +65,7 @@ costume:
     health: 1255
 costume2:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Sorcerer
   power: 504
   attack: 558

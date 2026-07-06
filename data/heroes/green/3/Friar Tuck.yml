@@ -32,7 +32,7 @@ lb2:
   health: 954
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Druid
   power: 470
   attack: 473
@@ -62,7 +62,7 @@ costume:
     health: 1091
 costume2:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Monk
   power: 509
   attack: 526

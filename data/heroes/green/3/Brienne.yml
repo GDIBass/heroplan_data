@@ -31,7 +31,7 @@ lb2:
   health: 944
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Cleric
   power: 464
   attack: 466
@@ -60,7 +60,7 @@ costume:
     health: 1052
 costume2:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Druid
   power: 502
   attack: 507
@@ -93,7 +93,7 @@ costume2:
     health: 1237
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Druid
   power: 510
   attack: 472
