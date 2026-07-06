@@ -33,7 +33,7 @@ lb2:
   health: 1757
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Wizard
   power: 795
   attack: 706
@@ -64,7 +64,7 @@ costume:
     health: 1863
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 29/29/44/5
   class: Sorcerer
   power: 858
   attack: 793
@@ -96,7 +96,7 @@ costume2:
     health: 2042
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 55/55/70/5
   class: Paladin
   power: 1132
   attack: 1178

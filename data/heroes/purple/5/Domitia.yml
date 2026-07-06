@@ -34,7 +34,7 @@ lb2:
   health: 1663
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Ranger
   power: 797
   attack: 778
@@ -66,7 +66,7 @@ costume:
     health: 1740
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 29/29/44/5
   class: Barbarian
   power: 860
   attack: 838
@@ -98,7 +98,7 @@ costume2:
     health: 1913
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 55/55/70/5
   class: Rogue
   power: 1111
   attack: 1129
@@ -134,7 +134,7 @@ costume3:
     health: 2732
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 75/75/78/5
   class: Rogue
   power: 1241
   attack: 1337

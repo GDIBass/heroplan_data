@@ -32,7 +32,7 @@ lb2:
   health: 1731
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Wizard
   power: 795
   attack: 753
@@ -64,7 +64,7 @@ costume:
     health: 1848
 costume2:
   design: costume2
-  bonuses: 25/25/25/5
+  bonuses: 29/29/44/5
   class: Ranger
   power: 858
   attack: 825

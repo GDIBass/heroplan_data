@@ -33,7 +33,7 @@ lb2:
   health: 1651
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Fighter
   power: 793
   attack: 782
@@ -64,7 +64,7 @@ costume:
     health: 1807
 costume2:
   design: costume2
-  bonuses: 25/25/25/5
+  bonuses: 29/29/44/5
   class: Barbarian
   power: 855
   attack: 865
