@@ -32,7 +32,7 @@ lb2:
   health: 1395
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Monk
   power: 680
   attack: 621
@@ -62,7 +62,7 @@ costume:
     health: 1550
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Cleric
   power: 736
   attack: 688
@@ -94,7 +94,7 @@ costume2:
     health: 1603
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Fighter
   power: 748
   attack: 698
@@ -128,7 +128,7 @@ costume3:
     health: 1667
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Fighter
   power: 761
   attack: 708

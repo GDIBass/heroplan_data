@@ -32,7 +32,7 @@ lb2:
   health: 1383
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Rogue
   power: 675
   attack: 660
@@ -62,7 +62,7 @@ costume:
     health: 1498
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Wizard
   power: 731
   attack: 725
@@ -92,7 +92,7 @@ costume2:
     health: 1637
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Monk
   power: 743
   attack: 725
@@ -126,7 +126,7 @@ costume3:
     health: 1678
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Monk
   power: 755
   attack: 803
