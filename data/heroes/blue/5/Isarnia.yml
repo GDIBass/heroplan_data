@@ -160,4 +160,38 @@ costume4:
     attack: 1804
     defense: 1341
     health: 2593
+costume5:
+  design: stylish
+  bonuses: 90/90/95/5
+  class: Wizard
+  power: 1335
+  attack: 1603
+  defense: 1174
+  health: 2293
+  skill: Stylish Shatter
+  effects:
+  - Deals 405% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 555% damage instead.
+  - All enemies get -42% defense for 6 turns.
+  types:
+  - Hit All
+  - Defense Debuff All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/uO7LU2l.jpg
+  dtReleased: "2026-07-07"
+  dtModified: ""
+  fancy_name: Stylish Ice Wizard
+  aetherPower: regen
+  lb1:
+    power: 1429
+    attack: 1728
+    defense: 1265
+    health: 2471
+  lb2:
+    power: 1618
+    attack: 1977
+    defense: 1448
+    health: 2828
 ...
