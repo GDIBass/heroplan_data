@@ -24,9 +24,9 @@ dtModified: ""
 fancy_name: The Northern Chef
 aetherPower: defense_up
 lb1:
-  power: 821
+  power: 820
   attack: 652
-  defense: 883
+  defense: 882
   health: 1576
 lb2:
   power: 921
@@ -35,7 +35,7 @@ lb2:
   health: 1803
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 37/37/38/5
   class: Monk
   power: 1012
   attack: 801
@@ -56,17 +56,17 @@ costume:
     Frost damage over 4 turns.'
   image: https://i.imgur.com/0QsTiw8.jpg
   dtReleased: "2021-12-01"
-  dtModified: ""
+  dtModified: "2026-07-06"
   fancy_name: Holiday Sweater Enthusiast
   aetherPower: special_armor
   lb1:
     power: 1080
     attack: 863
     defense: 1225
-    health: 2221
+    health: 2220
   lb2:
-    power: 1219
-    attack: 988
+    power: 1218
+    attack: 987
     defense: 1402
-    health: 2541
+    health: 2540
 ...
