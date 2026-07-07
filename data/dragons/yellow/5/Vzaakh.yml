@@ -1,0 +1,45 @@
+---
+name: Vzaakh
+fancy_name: "Ravenous Bat-Drake"
+source: ancientUnderroot
+speed: Fast
+power: 13100
+attack: 16908
+defense: 16109
+health: 14584
+skill: Frenzied Swoop
+effects:
+- Deals 340% to the target.
+- The less HP the caster has before dealing damage, the more damage they will deal,
+  up to 440%.
+- The target receives 5100 Bleed damage over 3 turns.
+- The target gets -5000 defense against Holy for 3 turns.
+types:
+- Hit 1
+- DoT 1
+- Elemental Defense Debuff 1
+spiritBonus:
+  spiritClass: Barbarian
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Esoteric Flame
+  effects:
+  - Deals 410 damage to all enemies.
+  - Recovers 210 health for all allies.
+  - Increases the mana of all allies by 20%.
+  - All allies regenerate 255 HP over 5 turns.
+image: https://imgur.com/Uvxed2u.jpg
+dtReleased: "2026-07-07"
+dtModified: ""
+...
