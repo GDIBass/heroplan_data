@@ -1,5 +1,5 @@
 ---
-name: Food Mimic Ice
+name: Food Mimic Holy
 source: secretsummon
 family: mimic
 speed: Average
@@ -35,8 +35,8 @@ passives:
 - Common
 - ' * Tiny Food Bundle'
 - ' * Trainer Hero'
-image: https://imgur.com/3k8fYdl.jpg
-dtReleased: "2026-06-30"
+image: https://imgur.com/odISirI.jpg
+dtReleased: "2026-07-09"
 dtModified: ""
 fancy_name: Flesh-eating Chest
 aetherPower: bulwark
