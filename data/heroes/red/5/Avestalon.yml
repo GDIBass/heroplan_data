@@ -19,7 +19,7 @@ effects:
   up to 2 times per turn.)
 types:
 - Hit Random 3
-- SExploding Spike Trap on hit
+- Exploding Spike Trap on hit
 - Elemental Defense Debuff on hit
 passives:
 - 'Enhanced Shields on Special: Passive Skill as attacking character'
@@ -33,7 +33,7 @@ passives:
   Flare receives additional 150 damage when they receive a critical hit.'
 image: https://imgur.com/WVKF58q.jpg
 dtReleased: "2026-05-20"
-dtModified: ""
+dtModified: "2026-07-08"
 fancy_name: Trapper from the Rainforest
 aetherPower: regen
 lb1:

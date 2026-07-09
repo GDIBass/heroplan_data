@@ -23,7 +23,7 @@ effects:
 types:
 - Attack Buff All
 - Mana Generation Buff All
-- Slime Revive
+- Slime Revive Buff All
 passives:
 - 'Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega
   Minions to nearby allies with 50% HP and 40% attack inherited from this character.'
@@ -31,17 +31,17 @@ passives:
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://i.imgur.com/QoTjDm5.jpg
 dtReleased: "2025-01-20"
-dtModified: ""
+dtModified: "2026-07-08"
 fancy_name: Wise Sanctuary Goo
 aetherPower: damage_reduction
 lb1:
   power: 1254
   attack: 1343
   defense: 1249
-  health: 2211
+  health: 2210
 lb2:
-  power: 1417
+  power: 1416
   attack: 1536
-  defense: 1430
+  defense: 1429
   health: 2529
 ...
