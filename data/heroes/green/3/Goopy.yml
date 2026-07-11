@@ -14,7 +14,9 @@ effects:
 - Deals additional 12% damage per each Nature shield on the board, up to 221% damage
   in total.
 - All enemies get -24% mana generation, and a further 2% decrease per each Nature
-  shield on the board for 3 turns, up to -40% mana generation.
+  shield on the board for 3 turns, up to -40% mana generation. (Affects only mana
+  generated from matching shields or mana gained by the defense team at the end of
+  their turn.)
 types:
 - Hit All
 - Mana Generation Debuff All
@@ -24,7 +26,7 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/WJOazL8.jpg
 dtReleased: "2022-10-03"
-dtModified: "2026-05-04"
+dtModified: "2026-07-03"
 fancy_name: Gelatinous Goo
 aetherPower: attack_up
 lb1:

@@ -1,0 +1,43 @@
+---
+name: Cappix
+fancy_name: "Equadraco of the Reef"
+source: ancientUnderroot
+speed: Average
+power: 7835
+attack: 9777
+defense: 9395
+health: 8663
+skill: Draconic Tide
+effects:
+- Deals 180% damage to all enemies.
+- All enemies receive 2240 Water damage over 4 turns.
+- The caster steals 10% of generated mana from all enemies over 4 turns. This effect
+  gets removed if the caster is defeated.
+types:
+- Hit All
+- DoT All
+- Mana Steal All
+spiritBonus:
+  spiritClass: Cleric
+  all:
+    attack: "+100"
+    defense: "+80"
+    health: "+30"
+  elementalBond:
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
+  classLink:
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
+assist:
+  name: Blaze of Torment
+  effects:
+  - Deals 350  damage to all enemies.
+  - Recovers 50 health for all allies.
+  - Reduces the mana of all enemies by 10%.
+image: https://imgur.com/AAkewhx.jpg
+dtReleased: "2026-07-07"
+dtModified: ""
+...

@@ -11,10 +11,11 @@ health: 1292
 skill: Reanimated Spite
 effects:
 - Deals 315% damage to the target and nearby enemies.
-- If the caster dies during the next 4 turns they are resurrected in the beginning
+- If the caster is defeated during the next 4 turns, they are resurrected in the beginning
   of their next turn with 27% health. All status effects and stacks are removed when
-  the caster dies.
-- 'Stack (Max: 10): The caster gets +6% mana generation.'
+  the caster is defeated.
+- 'Stack (Max: 10): The caster gets +6% mana generation. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 - 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
 types:
 - Hit 3
@@ -25,7 +26,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/ema4TPc.jpg
 dtReleased: "2021-08-05"
-dtModified: "2026-06-23"
+dtModified: "2026-07-03"
 fancy_name: The Undying
 aetherPower: attack_up
 lb1:

@@ -32,7 +32,7 @@ lb2:
   health: 1801
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Wizard
   power: 680
   attack: 611
@@ -64,7 +64,7 @@ costume:
     health: 1922
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Cleric
   power: 735
   attack: 732
@@ -94,7 +94,7 @@ costume2:
     health: 1959
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Barbarian
   power: 747
   attack: 641
@@ -128,7 +128,7 @@ costume3:
     health: 2077
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Barbarian
   power: 760
   attack: 656

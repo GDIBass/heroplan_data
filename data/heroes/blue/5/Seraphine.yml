@@ -21,7 +21,7 @@ effects:
   per each resisted healing for 4 turns.
 - 'Stack +2 (Max: 10): All damage all enemies receive is increased by +10%.'
 - All enemies get -34% mana generation for 4 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Humility
 - Hit All
@@ -39,7 +39,7 @@ passives:
   or from a negative stack, they will recover that much health instead.'
 image: https://imgur.com/DcgeSYq.jpg
 dtReleased: "2026-05-08"
-dtModified: "2026-06-04"
+dtModified: "2026-07-01"
 fancy_name: Beauty's Spiteful Sister
 aetherPower: damage_reduction
 lb1:

@@ -22,7 +22,7 @@ effects:
   Growth effects for the duration. Target with Fear deals 160% damage to random ally
   each time any other ally casts their Special Skill. Each character can trigger this
   effect once per turn.)
-- Casting this Special Skill inflicts 40 Insanity to the caster.
+- Casting this Special Skill inflicts 40 Insanity on the caster.
 types:
 - Fear Debuff 1
 - Hit 1
@@ -40,7 +40,7 @@ passives:
   include damage dealt to self or allies when activating Insanity.'
 image: https://imgur.com/yyiYX5p.jpg
 dtReleased: "2025-11-06"
-dtModified: "2026-06-22"
+dtModified: "2026-07-02"
 fancy_name: Accursed Clergyman
 aetherPower: bulwark
 lb1:

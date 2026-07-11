@@ -17,7 +17,7 @@ effects:
   damage. Defense stat does not affect the extra damage. Status effect affecting attack
   stat do not affect the extra damage.)'
 - All enemies get -34% mana generation for 4 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 - All enemies are immune to new status effect buffs for 4 turns.
 types:
 - Hit All
@@ -33,7 +33,7 @@ passives:
   and Mega Minions.'
 image: https://imgur.com/By7yIAE.jpg
 dtReleased: "2025-11-17"
-dtModified: "2026-04-28"
+dtModified: "2026-07-01"
 fancy_name: Royal Performer
 aetherPower: counterattack
 lb1:

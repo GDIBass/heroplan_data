@@ -19,7 +19,7 @@ effects:
   dispelled.
 types:
 - Taunt
-- HoT All
+- Boosted HoT All
 - Stored Damage Hit All
 passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
@@ -31,7 +31,7 @@ passives:
   when the Core is activated.'
 image: https://i.imgur.com/SQkVr8H.jpg
 dtReleased: "2024-06-06"
-dtModified: "2026-06-07"
+dtModified: "2026-07-03"
 fancy_name: Supercapacitor Construct
 aetherPower: taunt
 lb1:

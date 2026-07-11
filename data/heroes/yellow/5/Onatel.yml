@@ -10,12 +10,13 @@ defense: 815
 health: 1437
 skill: Eye of the Prophet
 effects:
-- Deals 330% damage to the target and nearby enemies
+- Deals 330% damage to the target and nearby enemies.
 - The caster steals generated mana of the target and the nearby enemies over 4 turns
   starting low and increasing every turn until on the last turn all the generated
-  mana is stolen. This effect can't be cleansed, but gets removed if the caster dies.
+  mana is stolen. This effect can't be cleansed, but gets removed if the caster is
+  defeated.
 - Element Link recovers 4% health for all Holy allies for 6 turns. This effect can't
-  be cleansed
+  be dispelled.
 types:
 - Hit 3
 - Mana Steal 3
@@ -24,13 +25,13 @@ passives:
   Doesn''t apply to original status effects from allies.'
 image: https://i.imgur.com/wCLflfr.jpg
 dtReleased: "2019-01-01"
-dtModified: ""
+dtModified: "2026-07-03"
 fancy_name: Blind Seer
 aetherPower: damage_reduction
 lb1:
-  power: 821
+  power: 820
   attack: 666
-  defense: 879
+  defense: 878
   health: 1549
 lb2:
   power: 921

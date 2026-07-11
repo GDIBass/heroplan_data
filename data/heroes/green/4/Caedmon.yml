@@ -32,7 +32,7 @@ lb2:
   health: 1421
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Fighter
   power: 678
   attack: 670
@@ -62,7 +62,7 @@ costume:
     health: 1557
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Paladin
   power: 734
   attack: 745
@@ -94,7 +94,7 @@ costume2:
     health: 1689
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Druid
   power: 746
   attack: 760
@@ -128,7 +128,7 @@ costume3:
     health: 1694
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Druid
   power: 759
   attack: 775

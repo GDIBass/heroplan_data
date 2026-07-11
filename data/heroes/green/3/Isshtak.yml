@@ -30,7 +30,7 @@ lb2:
   health: 1070
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Monk
   power: 471
   attack: 477
@@ -60,7 +60,7 @@ costume:
     health: 1300
 costume2:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Ranger
   power: 510
   attack: 483

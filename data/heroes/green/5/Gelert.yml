@@ -12,15 +12,20 @@ skill: Whirlpool Dash
 effects:
 - 'Special Skill need consecutive uses to reach full power, the following order:'
 - '1st:'
-- ' * Caster steals 10% mana from the target.'
+- ' * Caster steals 10% mana from the target. (After a character has received 5 direct
+  mana additions from Special Skill during a single turn, all subsequent direct mana
+  additions done by Special Skills will have reduced power on that character.)'
 - ' * Deals 460% damage to the target.'
 - ' * The less mana the enemies have, the more damage they will receive, up to 600%.'
 - ' * All allies get +25% mana generation for 3 turns.'
 - '2nd:'
-- ' * Caster steals 20% mana from the target.'
+- ' * Caster steals 20% mana from the target. (After a character has received 5 direct
+  mana additions from Special Skill during a single turn, all subsequent direct mana
+  additions done by Special Skills will have reduced power on that character.)'
 - ' * Deals 530% damage to the target.'
 - ' * The less mana the enemies have, the more damage they will receive, up to 700%.'
-- ' * All allies get +30% mana generation for 3 turns.'
+- ' * All allies get +30% mana generation for 3 turns. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 types:
 - Mana steal 1
 - Hit 1
@@ -32,7 +37,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/WjoVn5I.jpg
 dtReleased: "2023-08-30"
-dtModified: "2026-04-03"
+dtModified: "2026-07-01"
 fancy_name: Treasure Hunter of the Deep
 aetherPower: attack_up
 lb1:
@@ -67,11 +72,11 @@ costume:
   - ' * Deals 550% damage to the target.'
   - ' * The less mana the enemies have, the more damage they will receive, up to 720%.'
   - ' * All allies get +35% mana generation for 3 turns. (Affects only mana generated
-    from matching tiles or mana gained by the defense team at the end of their turn.)'
+    from matching shields or mana gained by the defense team at the end of their turn.)'
   types:
   - Mana steal 1
   - Hit 1
-  - Mana gen Buff All
+  - Mana Generation Buff All
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
     character casts their Special Skill'
@@ -80,7 +85,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/A9Yjffb.jpg
   dtReleased: "2025-06-26"
-  dtModified: "2026-04-03"
+  dtModified: "2026-07-01"
   fancy_name: Scavenger of the Deep
   aetherPower: dodge
   lb1:

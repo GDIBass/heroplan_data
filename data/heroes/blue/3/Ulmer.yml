@@ -32,7 +32,7 @@ lb2:
   health: 948
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Monk
   power: 468
   attack: 522
@@ -62,7 +62,7 @@ costume:
     health: 1081
 costume2:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Wizard
   power: 507
   attack: 533

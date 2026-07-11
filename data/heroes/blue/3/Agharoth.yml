@@ -15,7 +15,7 @@ effects:
 - All enemies get -24% attack for 6 turns.
 - All enemies get -24% defense for 6 turns.
 - All enemies get -24% mana generation for 6 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Taunt
 - Attack Debuff All
@@ -31,7 +31,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://imgur.com/eHGWzgx.jpg
 dtReleased: "2025-10-23"
-dtModified: "2026-05-13"
+dtModified: "2026-07-01"
 fancy_name: Astral Demon Gatekeeper
 aetherPower: boosted_regen
 lb1:

@@ -1,0 +1,50 @@
+---
+name: Baji
+source: temple
+family: mahayoddha
+speed: Average
+class: Barbarian
+power: 1341
+attack: 1413
+defense: 1380
+health: 2397
+skill: Double Bichuwa Slashes
+effects:
+- Deals 500% damage to the enemies on the edges of the enemy formation. If there is
+  only one enemy, the damage is doubled.
+- 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage
+  is based on the modified attack on caster, when damage is dealt. Up to maximum 600
+  additional extra damage. Status effects affecting damage dealt do affect the extra
+  damage. Defense stat does not affect the extra damage. Status effect affecting attack
+  stat do not affect the extra damage.)'
+- The enemies on the edges of the enemy formation receive 744 Poison damage over 4
+  turns. This effect spreads to nearby enemies.
+- The enemies on the edges of the enemy formation get silenced for 4 turns.
+types:
+- Hit 2
+- Hit Growth Boon
+- DoT 2
+- Silence 2
+passives:
+- 'Mana on Damage Received:'
+- ' * When this character receives direct damage from Special Skills or Normal Attacks
+  they receive a small amount of mana.'
+- ' * Maximum of 10% mana gained per turn.'
+- 'Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions
+  and Mega Minions.'
+image: https://imgur.com/n4cRsFe.jpg
+dtReleased: "2026-07-10"
+dtModified: ""
+fancy_name: Bichuwa Assassin
+aetherPower: counterattack
+lb1:
+  power: 1436
+  attack: 1523
+  defense: 1487
+  health: 2583
+lb2:
+  power: 1625
+  attack: 1742
+  defense: 1702
+  health: 2956
+...

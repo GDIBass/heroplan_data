@@ -32,7 +32,7 @@ lb2:
   health: 954
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Druid
   power: 470
   attack: 473
@@ -62,7 +62,7 @@ costume:
     health: 1091
 costume2:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Monk
   power: 509
   attack: 526
@@ -130,4 +130,41 @@ costume3:
     attack: 774
     defense: 739
     health: 1151
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Monk
+  power: 549
+  attack: 580
+  defense: 566
+  health: 880
+  skill: Faith In Disco
+  effects:
+  - Recovers 43% health for the caster and nearby allies.
+  - The caster and nearby allies get +20% mana generation for 4 turns. (Affects only
+    mana generated from matching shields or mana gained by the defense team at the
+    end of their turn.)
+  - The caster and nearby allies regenerate 240 HP over 4 turns.
+  types:
+  - Healer 3
+  - Mana Generation Buff 3
+  - HoT 3
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/3FDs2nh.jpg
+  dtReleased: "2026-07-07"
+  dtModified: ""
+  fancy_name: Jovial Disco Artist
+  aetherPower: defense_up
+  lb1:
+    power: 614
+    attack: 657
+    defense: 641
+    health: 997
+  lb2:
+    power: 743
+    attack: 812
+    defense: 793
+    health: 1233
 ...

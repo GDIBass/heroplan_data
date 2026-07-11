@@ -32,7 +32,7 @@ lb2:
   health: 1221
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Cleric
   power: 678
   attack: 778
@@ -62,7 +62,7 @@ costume:
     health: 1304
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Wizard
   power: 735
   attack: 828
@@ -92,7 +92,7 @@ costume2:
     health: 1454
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Sorcerer
   power: 746
   attack: 844
@@ -126,7 +126,7 @@ costume3:
     health: 1521
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Sorcerer
   power: 759
   attack: 879

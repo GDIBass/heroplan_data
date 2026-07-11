@@ -16,7 +16,8 @@ effects:
   equal to 15% of its owner's max health.
 - The Ominous Tentacle Fiend generates clone of itself to nearby enemies after every
   turn. (Cloned Fiends absorb the same amount of healing and deal the same amount
-  of damage as the original fiend)
+  of damage as the original fiend. The Fiend will only clone if the target does not
+  already have the maximum number of Fiends or Minions.)
 - The Ominous Tentacle Fiend inflicts 5 Insanity on the owner on every turn.
 - Casting this Special Skill inflicts 45 Insanity on the caster.
 types:
@@ -29,7 +30,7 @@ passives:
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/lX6ylxv.jpg
 dtReleased: "2024-04-21"
-dtModified: "2026-04-09"
+dtModified: "2026-07-03"
 fancy_name: Hallowed by the Devil Reef
 aetherPower: counterattack
 lb1:

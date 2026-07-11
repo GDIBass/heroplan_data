@@ -11,7 +11,7 @@ health: 703
 skill: Faithful Force
 effects:
 - Deals 235% damage to the target.
-- Deals additional 10% damage per each Ice shield on the board, up to 335%  damage
+- Deals additional 10% damage per each Ice shield on the board, up to 335% damage
   in total.
 types:
 - Hit 1
@@ -21,17 +21,17 @@ passives:
   be dispelled.'
 image: https://i.imgur.com/m9CtBNT.jpg
 dtReleased: "2022-05-12"
-dtModified: ""
+dtModified: "2026-07-03"
 fancy_name: Furious Gargoyle
 aetherPower: ailment_immunity
 lb1:
-  power: 538
-  attack: 581
-  defense: 567
-  health: 797
+  power: 537
+  attack: 580
+  defense: 566
+  health: 796
 lb2:
-  power: 650
-  attack: 718
+  power: 649
+  attack: 717
   defense: 700
   health: 985
 ...

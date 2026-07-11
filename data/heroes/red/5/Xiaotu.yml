@@ -37,7 +37,7 @@ lb2:
 zodiacAnimal: rabbit
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 55/55/60/5
   class: Sorcerer
   power: 1279
   attack: 1323
@@ -59,7 +59,7 @@ costume:
   - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
   image: https://imgur.com/lrCWqsO.jpg
   dtReleased: "2026-02-17"
-  dtModified: "2026-03-20"
+  dtModified: "2026-07-06"
   fancy_name: Lunar Lantern Rabbit
   aetherPower: rage
   lb1:

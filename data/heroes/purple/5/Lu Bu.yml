@@ -28,14 +28,14 @@ dtModified: "2026-04-11"
 fancy_name: Wrathful Warlord
 aetherPower: fiend_resist
 lb1:
-  power: 891
-  attack: 850
+  power: 890
+  attack: 849
   defense: 863
   health: 1622
 lb2:
   power: 1001
-  attack: 972
-  defense: 988
+  attack: 971
+  defense: 987
   health: 1856
 costume:
   design: costume1

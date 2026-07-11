@@ -10,25 +10,26 @@ defense: 665
 health: 1231
 skill: Moonlight Serenade
 effects:
-- The target and nearby enemies receive 932 damage over 4 turns, starting low and
-  increasing with every turn.
+- The target and nearby enemies receive 131-360 increasing Curse damage each turn
+  for 4 turns. (On the first turn, 131 damage is dealt. The damage increases by +40%
+  each turn, up to 360 damage per turn.)
 - Cleanses status ailments from all allies.
 types:
 - DoT 3
 - Cleanser All
 image: https://i.imgur.com/rSEO0Xi.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-07-03"
 fancy_name: Lady of Corellia
 aetherPower: revive
 lb1:
-  power: 815
-  attack: 868
-  defense: 717
+  power: 814
+  attack: 867
+  defense: 716
   health: 1327
 lb2:
   power: 914
-  attack: 993
+  attack: 992
   defense: 820
   health: 1518
 costume:
@@ -58,13 +59,13 @@ costume:
   fancy_name: Rebel Queen
   aetherPower: attack_up
   lb1:
-    power: 1021
-    attack: 1102
-    defense: 896
-    health: 1858
+    power: 1020
+    attack: 1101
+    defense: 895
+    health: 1857
   lb2:
     power: 1150
-    attack: 1261
-    defense: 1025
-    health: 2126
+    attack: 1260
+    defense: 1024
+    health: 2125
 ...

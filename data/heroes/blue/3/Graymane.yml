@@ -32,7 +32,7 @@ lb2:
   health: 1105
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Barbarian
   power: 465
   attack: 457
@@ -65,7 +65,7 @@ costume:
     health: 1255
 costume2:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Sorcerer
   power: 504
   attack: 558
@@ -131,4 +131,38 @@ costume3:
     attack: 751
     defense: 630
     health: 1384
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Sorcerer
+  power: 544
+  attack: 563
+  defense: 480
+  health: 1054
+  skill: Stylish Bite
+  effects:
+  - Deals 275% damage to the target.
+  - If the target has less than 50% health remaining, deals 350% damage instead.
+  - Heals the caster for 49% of damage dealt.
+  types:
+  - Hit 1
+  - Heal Self of damage dealt
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/1Br6EYP.jpg
+  dtReleased: "2026-07-07"
+  dtModified: ""
+  fancy_name: Stylish Werewolf
+  aetherPower: special_boost
+  lb1:
+    power: 607
+    attack: 638
+    defense: 544
+    health: 1194
+  lb2:
+    power: 735
+    attack: 788
+    defense: 672
+    health: 1476
 ...

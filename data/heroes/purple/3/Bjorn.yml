@@ -47,8 +47,8 @@ costume:
     as the first hit if there are no other valid targets.)
   - Enemies hit get -24% mana generation for 3 turns. Against Holy characters, this
     status effect becomes uncleansable and lasts 2 turns longer. (Affects only mana
-    generated from matching tiles or mana gained by the defense team at the end of
-    their turn.)
+    generated from matching shields or mana gained by the defense team at the end
+    of their turn.)
   types:
   - Hit 1
   - Hit Random 1

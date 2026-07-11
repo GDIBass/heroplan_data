@@ -14,7 +14,7 @@ effects:
 - Has a 80% chance for additional hits on random enemies up to 4 times. Additional
   hits deal minor damage.
 - All hit targets get 20 Insanity every time they are hit.
-- Casting this Special Skill inflicts 40 Insanity to the caster.
+- Casting this Special Skill inflicts 40 Insanity on the caster.
 types:
 - Hit 1
 - Possible Extra Hits
@@ -22,7 +22,7 @@ types:
 - Insanity Self
 image: https://imgur.com/nHDvy8i.jpg
 dtReleased: "2025-04-03"
-dtModified: ""
+dtModified: "2026-07-02"
 fancy_name: Trueshot
 aetherPower: attack_up
 lb1:

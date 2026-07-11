@@ -32,7 +32,7 @@ lb2:
   health: 1260
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Wizard
   power: 673
   attack: 698
@@ -64,7 +64,7 @@ costume:
     health: 1450
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Sorcerer
   power: 729
   attack: 684
@@ -96,7 +96,7 @@ costume2:
     health: 1551
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Druid
   power: 741
   attack: 800
@@ -132,7 +132,7 @@ costume3:
     health: 1554
 costume4:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Druid
   power: 753
   attack: 811

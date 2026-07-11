@@ -32,7 +32,7 @@ lb2:
   health: 1175
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Sorcerer
   power: 469
   attack: 413
@@ -60,7 +60,7 @@ costume:
     health: 1307
 costume2:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Fighter
   power: 508
   attack: 512

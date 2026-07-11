@@ -27,7 +27,7 @@ passives:
   mana each time they resist.'
 - 'Minion Core: The Construct Core of this character is Minion Core. The Minion Core
   activates each time this character''s Special Skill is cast.'
-- ' * With fully charged Minion Core, summons a Killer Bot Minion with 27% HP and
+- ' * With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and
   55% attack inherited from the caster on all allies.'
 - ' * The HP and attack inherited from the caster are scaled by the amount of charge
   in the Core. All charge is exhausted when the Core is activated.'
@@ -37,7 +37,7 @@ passives:
 - ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
 image: https://imgur.com/5rDKpV1.jpg
 dtReleased: "2026-06-07"
-dtModified: "2026-06-08"
+dtModified: "2026-07-03"
 fancy_name: Mage's Vessel Construct
 aetherPower: special_boost
 lb1:

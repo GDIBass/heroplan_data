@@ -32,7 +32,7 @@ lb2:
   health: 1665
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Sorcerer
   power: 680
   attack: 585
@@ -63,7 +63,7 @@ costume:
     health: 1775
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Druid
   power: 736
   attack: 598
@@ -93,7 +93,7 @@ costume2:
     health: 2057
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Wizard
   power: 748
   attack: 680
@@ -162,4 +162,39 @@ costume4:
     attack: 928
     defense: 853
     health: 2058
+costume5:
+  design: stylish
+  bonuses: 30/30/30/5
+  class: Wizard
+  power: 814
+  attack: 808
+  defense: 744
+  health: 1701
+  skill: Graceful Skin
+  effects:
+  - Recovers 50% health for the caster and nearby allies.
+  - The caster and nearby allies get +90% defense against Fire for 4 turns.
+  - The caster and nearby allies regenerate 400 HP over 4 turns.
+  types:
+  - Healer 3
+  - Elemental Defense Buff 3
+  - HoT 3
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/EFErBXT.jpg
+  dtReleased: "2026-07-07"
+  dtModified: ""
+  fancy_name: Stylish Chieftain
+  aetherPower: defense_up
+  lb1:
+    power: 876
+    attack: 877
+    defense: 808
+    health: 1848
+  lb2:
+    power: 1003
+    attack: 1018
+    defense: 937
+    health: 2144
 ...

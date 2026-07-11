@@ -17,25 +17,26 @@ effects:
   reduced on each consecutive hit. Each enemy can only be hit once.
 - If hit enemies use their Special Skill in the next 4 turns, they get -34% attack,
   -34% defense and -24% mana generation for 4 turns. Status effects are added at the
-  end of a Special Skill. Status effects will not be added if the status effect is
-  removed during Special Skill.
+  end of a Special Skill. (Status effects are added at the end of a Special Skill.
+  Status effects will not be added if the status effect is removed during Special
+  Skill.)
 types:
 - Hit 1
 - Hit Random
-- Debuffs if SS use on hit
+- Debuffs on SS use on hit
 image: https://i.imgur.com/YcbkyW1.jpg
 dtReleased: "2022-10-06"
-dtModified: ""
+dtModified: "2026-07-03"
 fancy_name: Figurehead of Corellia
 aetherPower: defense_up
 lb1:
   power: 891
-  attack: 883
+  attack: 882
   defense: 859
   health: 1549
 lb2:
   power: 1001
   attack: 1010
-  defense: 982
+  defense: 983
   health: 1772
 ...

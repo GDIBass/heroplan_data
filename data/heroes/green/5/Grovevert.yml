@@ -17,7 +17,7 @@ effects:
   health equal to 70% of its owner's max health.
 - When summoned, the Moss Mothling Mega Fiend gives -50% mana generation for its owner
   for as long as the owner has Moss Mothling Mega Fiend. (Affects only mana generated
-  from matching tiles or mana gained by the defense team at the end of their turn.)
+  from matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Delayed Mana Boost Self
 - Moss Mothling Mega Fiend 1
@@ -27,7 +27,7 @@ passives:
   deal damage.'
 image: https://i.imgur.com/0Q3pYS0.jpg
 dtReleased: "2025-01-23"
-dtModified: "2026-06-29"
+dtModified: "2026-07-01"
 fancy_name: Mothling Breeder
 aetherPower: damage_reduction
 lb1:

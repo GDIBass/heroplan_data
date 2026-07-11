@@ -53,7 +53,7 @@ costume:
   - The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive
     Poison deals 320 Poison damage and lowers the target's mana generation by -15%
     each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects
-    only mana generated from matching tiles or mana gained by the defense team at
+    only mana generated from matching shields or mana gained by the defense team at
     the end of their turn.)
   types:
   - Hit 1

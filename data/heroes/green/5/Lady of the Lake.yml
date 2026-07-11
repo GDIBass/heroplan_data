@@ -26,16 +26,16 @@ aetherPower: special_armor
 lb1:
   power: 831
   attack: 814
-  defense: 799
+  defense: 798
   health: 1414
 lb2:
   power: 933
   attack: 932
-  defense: 914
-  health: 1617
+  defense: 913
+  health: 1618
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/50/5
   class: Fighter
   power: 977
   attack: 946
@@ -48,24 +48,26 @@ costume:
     15% attack inherited from the caster.
   - 'Each hit from the Magical Sword Minion gives the target the following status
     ailment:'
-  - ' * -24% mana generation for 3 turns. This effect can''t be cleansed.'
+  - ' * -24% mana generation for 3 turns. This effect can''t be cleansed. (Affects
+    only mana generated from matching shields or mana gained by the defense team at
+    the end of their turn.)'
   types:
   - Health Boost All
   - Summoner 3
   - Mana Generation Debuff Minion
   image: https://i.imgur.com/T9XV0yp.jpg
   dtReleased: "2021-12-15"
-  dtModified: ""
+  dtModified: "2026-07-06"
   fancy_name: Lady of Blades
   aetherPower: heal_increase
   lb1:
-    power: 1044
-    attack: 1020
-    defense: 1010
-    health: 1995
+    power: 1043
+    attack: 1019
+    defense: 1009
+    health: 1994
   lb2:
-    power: 1176
-    attack: 1167
-    defense: 1155
-    health: 2282
+    power: 1175
+    attack: 1166
+    defense: 1154
+    health: 2281
 ...

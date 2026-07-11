@@ -13,7 +13,7 @@ effects:
 - This Special Skill never misses its targets.
 - Deals 340% damage to all enemies.
 - All enemies get -35% mana generation for 4 turns. (Affects only mana generated from
-  matching tiles or mana gained by the defense team at the end of their turn.)
+  matching shields or mana gained by the defense team at the end of their turn.)
 - All enemies get -85% decrease of any healing received for 4 turns.
 types:
 - Hit All

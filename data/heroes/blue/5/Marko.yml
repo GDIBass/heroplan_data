@@ -14,8 +14,8 @@ effects:
 - Cleanses status ailments from all allies at the end of each turn for 4 turns.
 - All allies get +40% chance to dodge Special Skills that deal damage for 4 turns.
 - The caster gets -10% mana generation for 4 turns. This effect can't be cleansed.
-  (Affects only mana generated from matching tiles or mana gained by the defense team
-  at the end of their turn.)
+  (Affects only mana generated from matching shields or mana gained by the defense
+  team at the end of their turn.)
 types:
 - Healer All
 - Cleanser All each turn
@@ -26,7 +26,7 @@ passives:
   Stack (Max: 10): Recovers 30 HP each turn.'
 image: https://imgur.com/I71luP2.jpg
 dtReleased: "2026-03-30"
-dtModified: ""
+dtModified: "2026-07-01"
 fancy_name: Wayfarer of Springvale
 aetherPower: heal_increase
 lb1:
@@ -38,5 +38,5 @@ lb2:
   power: 1566
   attack: 1638
   defense: 1678
-  health: 2844
+  health: 2845
 ...

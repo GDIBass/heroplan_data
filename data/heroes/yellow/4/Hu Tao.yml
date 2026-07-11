@@ -33,7 +33,7 @@ lb2:
   health: 1491
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Paladin
   power: 674
   attack: 581
@@ -67,7 +67,7 @@ costume:
     health: 1598
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Monk
   power: 729
   attack: 658
@@ -100,7 +100,7 @@ costume2:
     health: 1714
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Fighter
   power: 741
   attack: 745
@@ -166,4 +166,39 @@ costume4:
     attack: 1024
     defense: 858
     health: 1741
+costume5:
+  design: stylish
+  bonuses: 30/30/30/5
+  class: Fighter
+  power: 808
+  attack: 897
+  defense: 742
+  health: 1441
+  skill: Style Wall
+  effects:
+  - Deals 255% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 335% damage instead.
+  - All enemies get -39% accuracy for 4 turns. (Chance to miss also applies to offensive
+    Special Skills.)
+  types:
+  - Hit All
+  - Blind All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://imgur.com/uIqKue0.jpg
+  dtReleased: "2026-07-07"
+  dtModified: ""
+  fancy_name: Gilded Bamboo
+  aetherPower: defense_up
+  lb1:
+    power: 870
+    attack: 974
+    defense: 806
+    health: 1565
+  lb2:
+    power: 996
+    attack: 1130
+    defense: 935
+    health: 1816
 ...

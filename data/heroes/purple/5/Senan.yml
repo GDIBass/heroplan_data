@@ -56,7 +56,7 @@ costume:
   - The Specter Fiend absorbs healing. It disappears after absorbing a healing amount
     equal to 35% of its target's max health.
   - 'Stack +2 (Max 10): The caster gets +12% mana generation. (Affects only mana generated
-    from matching tiles or mana gained by the defense team at the end of their turn.)'
+    from matching shields or mana gained by the defense team at the end of their turn.)'
   - 'Stack +3 (Max 10): The caster recovers 45 HP each turn.'
   types:
   - Hit All
@@ -70,7 +70,7 @@ costume:
     receive 544 Bleed damage over 4 turns.'
   image: https://imgur.com/CNY72vk.jpg
   dtReleased: "2025-04-09"
-  dtModified: "2026-06-23"
+  dtModified: "2026-07-01"
   fancy_name: The Cephaloid Servant
   aetherPower: damage_reduction
   lb1:

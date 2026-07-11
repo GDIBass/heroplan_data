@@ -1,0 +1,53 @@
+---
+name: Hua Pi Gui
+source: kingdom
+family: ghosts
+speed: Slow
+class: Sorcerer
+power: 1340
+attack: 1413
+defense: 1376
+health: 2397
+skill: Surrender Your Heart
+effects:
+- After the Special Skill has been cast, increases the mana of the caster by 25%.
+  (After a character has received 5 direct mana additions from Special Skills during
+  a single turn, all subsequent direct mana additions done by Special Skills will
+  have reduced power on that character.)
+- Deals 500% damage to 5 random enemies.
+- For 5 turns, all hit enemies are forced to cast Mindless Heal when at full mana.
+- 'Mindless Heal:'
+- ' * Recovers 60% health for the character on the opposing side with the lowest remaining
+  HP.'
+types:
+- Boost Mana Self
+- Hit random 5
+- Mindless Heal on Hit
+passives:
+- 'Vengeful Haunting: When this character loses more than 25% of max health at once,
+  the following effects activate.'
+- ' * This character casts Full Removal on themselves. (Full Removal removes all status
+  effects, stacks and Growth and Wither effects. Removes even status effects and stacks
+  that are otherwise Stubborn, undispellable or uncleansable.)'
+- ' * This character shifts into Vengeful Ghost form for 2 turns. At the end of each
+  turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from
+  them. This effect is undispellable. (While in a Ghost form, character can''t gain
+  mana and can''t be healed by Special Skills, but is immune to normal attacks, Special
+  Skill attacks, damage dealing passives, status effects and stacks. Immune to new
+  Growth, Wither and Insanity effects.)'
+image: https://imgur.com/5EzmS6P.jpg
+dtReleased: "2026-07-05"
+dtModified: ""
+fancy_name: Ghost with Painted Skin
+aetherPower: regen
+lb1:
+  power: 1434
+  attack: 1522
+  defense: 1482
+  health: 2584
+lb2:
+  power: 1623
+  attack: 1742
+  defense: 1696
+  health: 2956
+...

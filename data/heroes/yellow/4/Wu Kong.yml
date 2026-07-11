@@ -31,7 +31,7 @@ lb2:
   health: 1250
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Paladin
   power: 680
   attack: 728
@@ -61,7 +61,7 @@ costume:
     health: 1327
 costume2:
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Rogue
   power: 736
   attack: 798
@@ -90,7 +90,7 @@ costume2:
     health: 1525
 costume3:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Monk
   power: 748
   attack: 745

@@ -14,7 +14,7 @@ effects:
 - Heals all allies for 35% of the damage dealt.
 - All allies get +45% chance to dodge Special Skills for 5 turns. Each dodge inflicts
   15 Insanity on the attacker.
-- Casting this Special Skill inflicts 50 Insanity to the caster.
+- Casting this Special Skill inflicts 50 Insanity on the caster.
 types:
 - Hit All
 - Healer All
@@ -23,7 +23,7 @@ types:
 - Insanity Self
 image: https://i.imgur.com/mxewGNK.jpg
 dtReleased: "2025-02-06"
-dtModified: "2026-03-22"
+dtModified: "2026-07-02"
 fancy_name: Fierce Ex-Librarian
 aetherPower: boosted_regen
 lb1:

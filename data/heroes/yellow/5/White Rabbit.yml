@@ -11,25 +11,25 @@ health: 1353
 skill: Rabbit's Watch
 effects:
 - Deals 280% Damage to the target and nearby enemies
-- The target gets -34% defense for 4 turns. The effect duration is reset if the target
+- The target gets -34% defense for 4 turns. The effect duration resets if the target
   is healed. This effect can't be cleansed.
 types:
 - Hit 3
 - Defense Debuff 1
 image: https://i.imgur.com/00qNGOk.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-07-03"
 fancy_name: Guide of Wonderland
 aetherPower: attack_up
 lb1:
-  power: 831
+  power: 830
   attack: 788
-  defense: 808
+  defense: 807
   health: 1458
 lb2:
   power: 932
   attack: 901
-  defense: 924
+  defense: 923
   health: 1668
 costume:
   design: costume1
@@ -61,8 +61,8 @@ costume:
     defense: 998
     health: 2029
   lb2:
-    power: 1176
-    attack: 1161
-    defense: 1143
+    power: 1175
+    attack: 1160
+    defense: 1142
     health: 2322
 ...

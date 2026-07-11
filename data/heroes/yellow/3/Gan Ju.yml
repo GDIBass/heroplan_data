@@ -32,7 +32,7 @@ lb2:
   health: 1136
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Barbarian
   power: 468
   attack: 519
@@ -62,7 +62,7 @@ costume:
     health: 1182
 costume2:
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Monk
   power: 507
   attack: 539
@@ -96,7 +96,7 @@ costume2:
     health: 1363
 costume3:
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Monk
   power: 516
   attack: 552

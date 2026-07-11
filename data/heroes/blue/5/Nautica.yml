@@ -11,8 +11,12 @@ health: 1730
 skill: Pathfinder's Compass
 effects:
 - Recovers 45% health for all allies.
-- Increases the mana of nearby allies by 33%.
-- Nearby allies get +40% mana generation for 4 turns.
+- Increases the mana of nearby allies by 33%. (This has no effect on other Nautica
+  characters. After a character has received 5 direct mana additions from Special
+  Skill during a single turn, all subsequent direct mana additions done by Special
+  Skills will have reduced power on that character.)
+- Nearby allies get +40% mana generation for 4 turns. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)
 - The caster and nearby allies get +50% critical chance for 4 turns.
 types:
 - Healer All
@@ -29,7 +33,7 @@ passives:
   when the Core is activated.'
 image: https://i.imgur.com/iuMlpaP.jpg
 dtReleased: "2024-02-08"
-dtModified: "2026-06-07"
+dtModified: "2026-07-03"
 fancy_name: Navigator Construct
 aetherPower: dodge
 lb1:

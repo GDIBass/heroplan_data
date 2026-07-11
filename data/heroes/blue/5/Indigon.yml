@@ -15,7 +15,7 @@ effects:
   to 350% damage in total.
 - 'Stack (Max: 10): All damage all enemies receive is increased by 6%.'
 - 'Stack (Max: 10): All allies get +4% mana generation. (Affects only mana generated
-  from matching tiles or mana gained by the defense team at the end of their turn.)'
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 types:
 - Hit All
 - Damage Increase Stack All
@@ -33,7 +33,7 @@ passives:
 - ' 3) Blossom Mega Fiend: 250% attack, 60% health'
 image: https://imgur.com/sr4g80Y.jpg
 dtReleased: "2026-02-04"
-dtModified: "2026-04-28"
+dtModified: "2026-07-01"
 fancy_name: Furious Mushroom Champion
 aetherPower: attack_up
 lb1:

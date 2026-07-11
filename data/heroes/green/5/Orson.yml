@@ -1,0 +1,48 @@
+---
+name: Orson
+source: titanhunter
+family: titanhunter
+speed: Average
+class: Paladin
+power: 1341
+attack: 1419
+defense: 1374
+health: 2395
+skill: Verdant Guard
+effects:
+- Deals 250% damage to all enemies.
+- Against Titans, deals 500% damage.
+- All allies get +50% attack for 4 turns. Against Ice Titans, all allies get +60%
+  attack.
+- All allies become Soul Connected for 4 turns. Soul Connected allies share received
+  damage.
+types:
+- Hit All
+- Attack Buff All
+- Allies Damage Share
+passives:
+- 'Enhanced Shields on Special: Passive Skill as attacking character:'
+- '* Nature shields on the board become enhanced with +54% critical chance when this
+  character casts their Special Skill.'
+- 'Passive Skill as defending character:'
+- '* Nature shields on the board become weakened with -47% accuracy when this character
+  casts their Special Skill.'
+- 'Mark of the Titan Hunter: When this character casts their Special Skill, they mark
+  a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting
+  Flare receives additional 150 damage when they receive a critical hit.'
+image: https://imgur.com/dO44Viv.jpg
+dtReleased: "2026-07-08"
+dtModified: ""
+fancy_name: Warden of the Grove
+aetherPower: defense_up
+lb1:
+  power: 1436
+  attack: 1529
+  defense: 1481
+  health: 2581
+lb2:
+  power: 1625
+  attack: 1750
+  defense: 1694
+  health: 2954
+...

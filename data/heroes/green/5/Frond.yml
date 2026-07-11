@@ -16,6 +16,8 @@ effects:
   with boosted health for 3 turns.
 types:
 - Hit 3
+- Extra damage if boosted health
+- Attack Buff All against boosted HP
 passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
   prevent the use of Special Skills.'
@@ -26,7 +28,7 @@ passives:
   when the Core is activated.'
 image: https://i.imgur.com/ThTeBHZ.jpg
 dtReleased: "2023-10-28"
-dtModified: "2026-06-07"
+dtModified: "2026-07-03"
 fancy_name: Elven Construct
 aetherPower: regen
 lb1:
