@@ -47,4 +47,54 @@ lb2:
   attack: 1443
   defense: 1480
   health: 2852
+costume:
+  design: costume1
+  bonuses: 13/13/15/5
+  class: Cleric
+  power: 1342
+  attack: 1328
+  defense: 1356
+  health: 2664
+  skill: Lunar Fissure Cleave
+  effects:
+  - Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2500
+    damage. Deals 40% more damage if the target is of the Fire element. This Special
+    Skill never misses its targets.
+  - Reduces max health of the target and nearby enemies by 1000 over 4 turns. The
+    effect is stronger against targets with boosted health. (Max health can't get
+    lower than 30% of the original max health. Any boosted health is reduced by an
+    additional 250 per turn.)
+  - The target and nearby enemies resist healing and receive 280 damage per each resisted
+    healing for 4 turns.
+  types:
+  - Frostfall Strike 3
+  - Max Health Reduction over time 3
+  - Resist Healing Debuff 3
+  - Damage on each attempted heal
+  passives:
+  - 'Resist Stealing: This character is immune to stealing and Ransacking.'
+  - 'Empowered Resist Frost: This character is immune to status ailments that deal
+    Frost damage and gains 600 boosted health and 10% mana each time they resist.'
+  - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
+    is cast'
+  - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
+    Core, the Corrosive Frost deals 391 Frost damage and lowers the target''s attack
+    by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Frost damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
+  image: https://imgur.com/cEY4DFZ.jpg
+  dtReleased: "2026-07-12"
+  dtModified: ""
+  fancy_name: Dwarven Moon Knight
+  aetherPower: special_armor
+  lb1:
+    power: 1436
+    attack: 1431
+    defense: 1461
+    health: 2871
+  lb2:
+    power: 1626
+    attack: 1638
+    defense: 1672
+    health: 3285
 ...
