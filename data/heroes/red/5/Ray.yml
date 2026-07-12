@@ -33,10 +33,11 @@ passives:
   two stacks. An enemy can have up to 10 stacks.'
 - 'Stack on Special: When this character casts their Special Skill, they have a 50%
   chance to give 10% mana to all allies. If the Special Skill is fully charged, the
-  chance is 100%.'
+  chance is 100%. (Affects only mana generated from matching shields or mana gained
+  by the defense team at the end of their turn.)'
 image: https://i.imgur.com/0vSBWSh.jpg
 dtReleased: "2023-05-03"
-dtModified: "2026-04-29"
+dtModified: "2026-07-12"
 fancy_name: Champion of the Court
 aetherPower: ailment_immunity
 lb1:
@@ -84,11 +85,12 @@ costume:
     the chance is 100%.'
   - 'Stack on Special: When this character casts their Special Skill, all enemies
     get -7% mana generation stack. If the Special Skill is fully charged, all enemies
-    get two stacks. An enemy can have up to 10 stacks.'
+    get two stacks. An enemy can have up to 10 stacks. (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/QG8aRPS.jpg
   dtReleased: "2025-07-23"
-  dtModified: "2026-04-29"
+  dtModified: "2026-07-12"
   fancy_name: Champion of the Bramble
   aetherPower: dodge
   lb1:

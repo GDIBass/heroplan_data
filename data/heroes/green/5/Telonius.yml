@@ -43,7 +43,7 @@ lb1:
   health: 1647
 lb2:
   power: 1069
-  attack: 1092
+  attack: 1091
   defense: 1066
   health: 1884
 costume:
@@ -79,21 +79,22 @@ costume:
     the chance is 100%.'
   - 'Stack on Special: When this character casts their Special Skill, all enemies
     get -7% mana generation stack. If the Special Skill is fully charged, all enemies
-    get two stacks. An enemy can have up to 10 stacks.'
+    get two stacks. An enemy can have up to 10 stacks. (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/oES7PTn.jpg
   dtReleased: "2025-12-27"
-  dtModified: "2026-05-04"
+  dtModified: "2026-07-12"
   fancy_name: Centaur of the Taproom
   aetherPower: bulwark
   lb1:
-    power: 1352
-    attack: 1425
-    defense: 1370
-    health: 2464
+    power: 1368
+    attack: 1445
+    defense: 1388
+    health: 2496
   lb2:
-    power: 1529
-    attack: 1631
-    defense: 1567
-    health: 2819
+    power: 1548
+    attack: 1654
+    defense: 1588
+    health: 2856
 ...

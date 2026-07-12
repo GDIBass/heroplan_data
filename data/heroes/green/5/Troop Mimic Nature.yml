@@ -15,9 +15,8 @@ effects:
   +33% mana. (After a character has received 5 direct mana additions from Special
   Skills during a single turn, all subsequent direct mana additions done by Special
   Skills will have reduced power on that character.)
-- All Nature allies get +100% normal attack for 4 turns. This effect can be active
-  in additional to other effects that alter attack in general. Normal attacks can
-  have a total maximum of +200% increased power while this effect is active.
+- All Nature allies get +100% normal attack for 4 turns. (If additional effect increase
+  attack in general, normal attacks can have a total maximum of +200% increased power.)
 - The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status
   ailments while closed.)
 types:
@@ -43,17 +42,17 @@ passives:
 - ' * Trainer Troop'
 image: https://imgur.com/wp6oP8U.jpg
 dtReleased: "2026-05-02"
-dtModified: "2026-05-10"
+dtModified: "2026-07-12"
 fancy_name: Bounty of Dreadful Arsenal
 aetherPower: bulwark
 lb1:
   power: 1372
   attack: 1440
-  defense: 1436
+  defense: 1435
   health: 2439
 lb2:
-  power: 1552
-  attack: 1648
-  defense: 1643
+  power: 1551
+  attack: 1647
+  defense: 1642
   health: 2791
 ...

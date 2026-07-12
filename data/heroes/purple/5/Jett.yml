@@ -30,10 +30,11 @@ passives:
   fully changed, the chance is 100%.'
 - 'Stack on Special: When this character casts their Special Skill, all enemies get
   -5% mana generation stack. If the Special Skill is fully changed, all enemies get
-  two stacks. An enemy can have up to 10 stacks.'
+  two stacks. An enemy can have up to 10 stacks. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)'
 image: https://i.imgur.com/bHuMYnz.jpg
 dtReleased: "2023-11-15"
-dtModified: "2026-05-04"
+dtModified: "2026-07-12"
 fancy_name: Herald of Sacrifice
 aetherPower: attack_up
 lb1:
@@ -76,11 +77,12 @@ costume:
     fully changed, the chance is 100%.'
   - 'Stack on Special: When this character casts their Special Skill, all enemies
     get -7% mana generation stack. If the Special Skill is fully changed, all enemies
-    get two stacks. An enemy can have up to 10 stacks.'
+    get two stacks. An enemy can have up to 10 stacks. (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/byXCjvP.jpg
   dtReleased: "2026-02-10"
-  dtModified: "2026-07-01"
+  dtModified: "2026-07-12"
   fancy_name: Herald of Judgment
   aetherPower: counterattack
   lb1:

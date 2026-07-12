@@ -30,20 +30,21 @@ types:
 passives:
 - 'Stack on Special: When this character casts their Special Skill, all enemies get
   -5% mana generation stack. If the Special Skill is fully changed, all enemies get
-  two stacks. An enemy can have up to 10 stacks.'
+  two stacks. An enemy can have up to 10 stacks. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)'
 - 'Mana on Special: When this character casts their Special Skill, they have a 50%
   chance to give 10% mana to all allies. If the Special Skill is fully changed, the
   chance is 100%.'
 image: https://i.imgur.com/Ssu3ay2.jpg
 dtReleased: "2023-11-15"
-dtModified: "2026-05-04"
+dtModified: "2026-07-12"
 fancy_name: Mystic Chess Master
 aetherPower: damage_reduction
 lb1:
   power: 1021
   attack: 1012
   defense: 1018
-  health: 1838
+  health: 1837
 lb2:
   power: 1150
   attack: 1158
@@ -84,21 +85,22 @@ costume:
     the chance is 100%.'
   - 'Stack on Special: When this character casts their Special Skill, all enemies
     get -5% mana generation stack. If the Special Skill is fully changed, all enemies
-    get two stacks. An enemy can have up to 10 stacks.'
+    get two stacks. An enemy can have up to 10 stacks. (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/l0NBwwH.jpg
   dtReleased: "2025-08-20"
-  dtModified: "2026-05-04"
+  dtModified: "2026-07-12"
   fancy_name: Mystic Pie Master
   aetherPower: ailment_immunity
   lb1:
-    power: 1310
-    attack: 1336
-    defense: 1353
-    health: 2423
+    power: 1309
+    attack: 1335
+    defense: 1352
+    health: 2422
   lb2:
-    power: 1481
+    power: 1480
     attack: 1528
-    defense: 1548
-    health: 2772
+    defense: 1547
+    health: 2771
 ...
