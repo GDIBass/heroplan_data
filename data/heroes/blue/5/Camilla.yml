@@ -29,10 +29,11 @@ passives:
   the chance is 100%.'
 - 'Stack on Special: When this character casts their Special Skill, all enemies get
   -5% mana generation stack. If the Special Skill is fully charged, all enemies get
-  two stacks. An enemy can have up to 10 stacks.'
+  two stacks. An enemy can have up to 10 stacks. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)'
 image: https://i.imgur.com/IZ0ZIwf.jpg
 dtReleased: "2023-05-03"
-dtModified: "2026-05-04"
+dtModified: "2026-07-12"
 fancy_name: Arcanist Tinkerer
 aetherPower: defense_up
 lb1:
