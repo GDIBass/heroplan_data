@@ -28,8 +28,8 @@ dtModified: "2026-03-20"
 fancy_name: Vengeful Son
 aetherPower: attack_up
 lb1:
-  power: 891
-  attack: 879
+  power: 890
+  attack: 878
   defense: 852
   health: 1571
 lb2:
@@ -39,7 +39,7 @@ lb2:
   health: 1798
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 34/34/35/5
   class: Fighter
   power: 1078
   attack: 1062
@@ -61,17 +61,17 @@ costume:
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://i.imgur.com/llU8XwL.jpg
   dtReleased: "2023-08-07"
-  dtModified: "2026-03-20"
+  dtModified: "2026-07-13"
   fancy_name: Battle-Scarred Son
   aetherPower: rage
   lb1:
-    power: 1153
-    attack: 1145
+    power: 1152
+    attack: 1144
     defense: 1207
     health: 2067
   lb2:
-    power: 1301
-    attack: 1310
+    power: 1300
+    attack: 1309
     defense: 1381
-    health: 2366
+    health: 2365
 ...

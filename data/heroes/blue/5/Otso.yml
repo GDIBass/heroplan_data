@@ -11,7 +11,7 @@ health: 2016
 skill: Boreal Bash
 effects:
 - Deals 380% damage to all enemies.
-- The caster regenerates 870 HP over 6 turns.
+- The caster regenerates 1590 HP over 6 turns.
 - All enemies get a Special Skill mark for 6 turns. Whenever marked target casts their
   Special Skill, they gain a Stack (Max 10). Each stack increases all damage the target
   receives by +5%. Against Nature characters, this status effect becomes uncleansable
@@ -25,7 +25,7 @@ passives:
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/lO11H6h.jpg
 dtReleased: "2024-07-22"
-dtModified: ""
+dtModified: "2026-07-13"
 fancy_name: Wanderer of the Steppes
 aetherPower: defense_up
 lb1:
