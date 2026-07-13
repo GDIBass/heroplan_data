@@ -1,0 +1,48 @@
+---
+name: Ajatar
+source: kalevala
+family: kalevala
+speed: Average
+class: Sorcerer
+power: 1343
+attack: 1425
+defense: 1374
+health: 2393
+skill: Alluring Whispers
+effects:
+- Deals 450% damage to enemies on the edges of the enemy formation. If there is only
+  one enemy, the damage doubled.
+- Casts Full Removal on the enemies on the edges of the enemy formation. (Full Removal
+  removes all status effects, stacks and Growth and Wither effects. Removes even status
+  effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)
+- Enemies on the edges of the enemy formation shift into Abyss Ghost form for 4 turns.
+- While in Abyss Ghost form the targets receive 313 damage each turn. Against Holy
+  characters, this status effect lasts 2 turns longer. (While in Ghost form, character
+  can't gain mana and can't be healed by Special Skills, but is immune to normal attacks,
+  Special Skill attacks, damage dealing passives, status effects and stacks. Immune
+  to new Growth, Wither and Insanity effects. Can't be cast if there's only one enemy
+  left in the battle. Titans and Mythic Titans are not affected by this status effect.)
+types:
+- Hit 2
+- Full Removal 2
+- Abyss Ghost 2
+- DoT while ghost
+passives:
+- 'Power of Sisu: When this character starts a turn with low health for the first
+  time during a battle, they recover 15% health and receive 15% mana.'
+image: https://imgur.com/3Go2bYG.jpg
+dtReleased: "2026-07-13"
+dtModified: ""
+fancy_name: Nightmare Goddess of Korpi
+aetherPower: special_armor
+lb1:
+  power: 1438
+  attack: 1536
+  defense: 1481
+  health: 2579
+lb2:
+  power: 1627
+  attack: 1757
+  defense: 1694
+  health: 2951
+...

@@ -1,0 +1,42 @@
+---
+name: Kaski
+source: kalevala
+family: kalevala
+speed: Fast
+class: Druid
+power: 1343
+attack: 1427
+defense: 1369
+health: 2397
+skill: Slash-And-Burn
+effects:
+- Deals 270% damage to all enemies.
+- 'Wither: All enemies get -200 attack and -200 defense.'
+- All enemies receive 405 Burn damage over 3 turns. The caster absorbs 50% of dealt
+  Burn damage as boosted health. Against Ice characters, this status effect becomes
+  uncleansable and lasts 2 turns longer.
+types:
+- Hit All
+- Attack Wither All
+- Defense Wither All
+- DoT All
+- Boosted Heal Self on DoT
+passives:
+- 'Power of Sisu: When this character starts a turn with low health for the first
+  time during a battle, they recover 15% health and receive 15% mana.'
+image: https://imgur.com/yEZuDAp.jpg
+dtReleased: "2026-07-13"
+dtModified: ""
+fancy_name: Maiden of Smoldering Swidden
+aetherPower: special_boost
+lb1:
+  power: 1438
+  attack: 1538
+  defense: 1476
+  health: 2584
+lb2:
+  power: 1627
+  attack: 1760
+  defense: 1689
+  health: 2956
+...
