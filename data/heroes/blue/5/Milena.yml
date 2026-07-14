@@ -38,9 +38,9 @@ lb1:
   defense: 834
   health: 1518
 lb2:
-  power: 974
+  power: 973
   attack: 967
-  defense: 955
+  defense: 954
   health: 1737
 costume:
   design: costume1
@@ -78,13 +78,13 @@ costume:
   fancy_name: Teacher of Arctic Spells
   aetherPower: dodge
   lb1:
-    power: 1291
-    attack: 1338
-    defense: 1307
-    health: 2370
+    power: 1290
+    attack: 1337
+    defense: 1306
+    health: 2369
   lb2:
     power: 1458
-    attack: 1531
-    defense: 1495
+    attack: 1530
+    defense: 1494
     health: 2711
 ...

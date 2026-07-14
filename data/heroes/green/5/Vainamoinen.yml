@@ -12,8 +12,8 @@ skill: Song of the Morass
 effects:
 - Deals 270% damage to the target and nearby enemies.
 - All enemies get -30% accuracy for 3 turns. Against Fire characters, this status
-  effect becomes uncleansable and lasts 2 turns longer. Chance to miss also applies
-  to offensive Special Skills.
+  effect becomes uncleansable and lasts 2 turns longer. (Chance to miss also applies
+  to offensive Special Skills.)
 types:
 - Hit 3
 - Blind All
@@ -22,13 +22,13 @@ passives:
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/gY0vQZu.jpg
 dtReleased: "2022-06-20"
-dtModified: ""
+dtModified: "2026-07-13"
 fancy_name: Eternal Bard
 aetherPower: attack_up
 lb1:
   power: 893
   attack: 861
-  defense: 870
+  defense: 869
   health: 1596
 lb2:
   power: 1003
@@ -37,7 +37,7 @@ lb2:
   health: 1826
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 34/34/35/5
   class: Wizard
   power: 944
   attack: 933
@@ -47,8 +47,8 @@ costume:
   effects:
   - Deals 300% damage to the target and nearby enemies.
   - All enemies get -25% accuracy for 3 turns. Against Fire characters, this status
-    effect becomes uncleansable and lasts 2 turns longer. Chance to miss also applies
-    to offensive Special Skills.
+    effect becomes uncleansable and lasts 2 turns longer. (Chance to miss also applies
+    to offensive Special Skills.)
   types:
   - Hit 3
   - Blind All
@@ -57,17 +57,17 @@ costume:
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://i.imgur.com/eTqe3pF.jpg
   dtReleased: "2024-07-22"
-  dtModified: ""
+  dtModified: "2026-07-13"
   fancy_name: Eternal Sage
   aetherPower: special_boost
   lb1:
-    power: 1158
-    attack: 1183
-    defense: 1148
-    health: 2127
+    power: 1008
+    attack: 1005
+    defense: 976
+    health: 1843
   lb2:
-    power: 1307
-    attack: 1354
-    defense: 1313
-    health: 2434
+    power: 1135
+    attack: 1150
+    defense: 1117
+    health: 2109
 ...

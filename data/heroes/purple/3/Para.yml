@@ -34,4 +34,40 @@ lb2:
   attack: 640
   defense: 668
   health: 1238
+costume:
+  design: costume1
+  bonuses: 14/14/15/5
+  class: Sorcerer
+  power: 542
+  attack: 518
+  defense: 548
+  health: 1021
+  skill: Familiar Sorcery
+  effects:
+  - Recovers 35% health for all allies.
+  - Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the
+    order they have been received. The latest status ailments are cleansed first.)
+  - All enemies get -30% attack for 4 turns. Against Holy characters, this status
+    effect becomes uncleansable and lasts 2 turns longer.
+  types:
+  - Healer All
+  - Cleanse Latest Ailment All
+  - Attack Debuff All
+  passives:
+  - 'Power of Sisu: When this character starts a turn with low health for the first
+    time during a battle, they recover 15% health and receive 15% mana.'
+  image: https://imgur.com/ilVdVwZ.jpg
+  dtReleased: "2026-07-13"
+  dtModified: ""
+  aetherPower: bulwark
+  lb1:
+    power: 606
+    attack: 587
+    defense: 621
+    health: 1157
+  lb2:
+    power: 733
+    attack: 725
+    defense: 767
+    health: 1430
 ...

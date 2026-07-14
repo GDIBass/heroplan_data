@@ -22,12 +22,12 @@ types:
 - Attack Buff 3
 - Defense Debuff 3
 passives:
-- 'Damage on special: When this character casts their Special Skill, they have a 50%
+- 'Damage on Special: When this character casts their Special Skill, they have a 50%
   chance to deal 100% damage to all enemies. If the Special Skill is fully charged,
   the chance is 100%.'
 image: https://i.imgur.com/mQovZC2.jpg
 dtReleased: "2021-09-15"
-dtModified: "2026-07-03"
+dtModified: "2026-07-12"
 fancy_name: Veteran Caretaker
 aetherPower: defense_up
 lb1:

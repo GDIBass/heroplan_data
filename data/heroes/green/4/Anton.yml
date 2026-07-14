@@ -24,19 +24,19 @@ types:
 - Reviver
 - HoT All
 passives:
-- 'Healt recovery on special: When this character casts their Special Skill, they
+- 'Health Recovery on Special: When this character casts their Special Skill, they
   have a 50% chance to recover 15% health for all allies. If the Special Skill is
   fully charged, the chance is 100%.'
 image: https://i.imgur.com/P0bT6Vn.jpg
 dtReleased: "2021-09-15"
-dtModified: "2026-05-04"
+dtModified: "2026-07-12"
 fancy_name: Young Scholar
 aetherPower: defense_up
 lb1:
   power: 729
   attack: 706
-  defense: 695
-  health: 1450
+  defense: 694
+  health: 1449
 lb2:
   power: 832
   attack: 819

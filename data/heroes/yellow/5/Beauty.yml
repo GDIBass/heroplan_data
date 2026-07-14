@@ -1,0 +1,58 @@
+---
+name: Beauty
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Average
+class: Paladin
+power: 1343
+attack: 1400
+defense: 1376
+health: 2455
+skill: Book of Beautiful Tales
+effects:
+- 'Less than 40  Humility:'
+- Deals 450% damage to the target and nearby enemies.
+- Heals the caster for 25% of damage dealt.
+- The target and nearby enemies get Soul Bound for 4 turns. (This effect will always
+  bypass reflection.)
+- All damage received by the caster is dealt to all Soul Bound enemies. (Damage is
+  shared between al Soul Bound enemies. This effect will not share damage coming from
+  other shared damage sources or counterattacks.)
+- Deals extra damage against Dark.
+- '40 or more Humility:'
+- Deals 550% damage to the target and nearby enemies.
+- Heals the caster for 30% of damage dealt.
+- The target and nearby enemies get Soul Bound for 4 turns. (This effect will always
+  bypass reflection.)
+- All damage received by the caster is dealt to all Soul Bound enemies. (Damage is
+  shared between al Soul Bound enemies. This effect will not share damage coming from
+  other shared damage sources or counterattacks.)
+- Deals extra damage against Dark.
+types:
+- Hit 3
+- Heal Self of damage dealt
+- Soul Bound 3
+passives:
+- 'Revival Health Reduction: All enemies have -80% health when revived. Boss enemies
+  are not affected.'
+- 'Heal when status ailment expires or is cleared: This character receives 15% health
+  each time a status ailment expires or is cleansed, removed or reallocated from them.
+  This effect can activate only once per turn.'
+- 'Beautiful Inside: Whenever this character would take damage from a status ailment,
+  they will recover that much health instead.'
+image: https://imgur.com/yKXPMvw.jpg
+dtReleased: "2026-07-14"
+dtModified: ""
+fancy_name: Cursebreaker of the Bewitched Castle
+aetherPower: boosted_regen
+lb1:
+  power: 1438
+  attack: 1509
+  defense: 1483
+  health: 2646
+lb2:
+  power: 1628
+  attack: 1726
+  defense: 1697
+  health: 3028
+...

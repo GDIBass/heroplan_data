@@ -19,7 +19,7 @@ effects:
   from other shared damage sources or counterattacks.)
 types:
 - Hit 1
-- Soul Bond 1
+- Soul Bound 1
 passives:
 - 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Frost: This character is immune to status ailments that deal Frost
@@ -33,7 +33,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://imgur.com/Mit6blW.jpg
 dtReleased: "2025-08-06"
-dtModified: "2026-06-08"
+dtModified: "2026-07-14"
 fancy_name: Dwarven Storyteller
 aetherPower: fiend_resist
 lb1:

@@ -27,21 +27,22 @@ types:
 - Defense Debuff All
 passives:
 - 'Status effect on special: When this character casts their Special Skill, they have
-  a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special
-  Skill is fully charged, the chance is 100%.'
+  a 50% chance to give -25% mana generation for 3 turns to all their enemies. If the
+  Special Skill is fully charged, the chance is 100%. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 image: https://i.imgur.com/vRYNJwU.jpg
 dtReleased: "2021-09-15"
-dtModified: "2026-05-04"
+dtModified: "2026-07-12"
 fancy_name: Erudite Librarian
 aetherPower: special_armor
 lb1:
   power: 534
-  attack: 524
+  attack: 523
   defense: 571
   health: 902
 lb2:
-  power: 644
+  power: 645
   attack: 647
-  defense: 705
-  health: 1114
+  defense: 706
+  health: 1115
 ...
