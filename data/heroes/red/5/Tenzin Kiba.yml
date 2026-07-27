@@ -1,0 +1,58 @@
+---
+name: Tenzin Kiba
+source: ninja
+family: ronin
+speed: Charge
+class: Barbarian
+power: 1349
+attack: 1392
+defense: 1435
+health: 2397
+skill: Bring it On!
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- 'x1 Mana Charge:'
+- Deals 250% damage to all enemies.
+- The attack bypasses counterattacks and reflection.
+- The caster gets Taunt that prevents enemies from using Special Skill on the caster's
+  allies for 2 turns.
+- 'x2 Mana Charge:'
+- Deals 350% damage to all enemies.
+- The attack bypasses counterattacks and reflection.
+- The caster has a 50% chance to drop any received damage to 1 from 3 turns.
+- The caster gets Taunt that prevents enemies from using Special Skill on the caster's
+  allies for 3 turns.
+- 'x3 Mana Charge:'
+- Deals 500% damage to all enemies.
+- The caster has a 50% chance to drop any received damage to 1 from 5 turns.
+- The caster gets Taunt that prevents enemies from using Special Skill on the caster's
+  allies for 5 turns. This effect can't be dispelled.
+types:
+- Charge
+- Hit All
+- Bypass
+- Taunt
+- Damage Drop to 1 Chance Self
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 450% damage.'
+- ' * The attacker receives 1500 Bleed damage over 3 turns.'
+image: https://i.imgur.com/741snSl.jpg
+dtReleased: "2026-07-27"
+dtModified: ""
+fancy_name: Intimidator Ronin
+aetherPower: taunt
+lb1:
+  power: 1444
+  attack: 1500
+  defense: 1546
+  health: 2583
+lb2:
+  power: 1634
+  attack: 1716
+  defense: 1769
+  health: 2956
+...
