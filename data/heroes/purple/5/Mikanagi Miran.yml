@@ -25,7 +25,9 @@ effects:
 - Deals 340% damage to the target.
 - Deals additional 340% damage to 10 random enemies.
 - 'Stack (Max: 10): Each hit gives its target -5% defense.'
-- Safely Dispels 1 buff from each hit enemy.
+- Safely Dispels 1 buff from each hit enemy. (Safe dispel bypasses secondary effects,
+  such as damage on removal, from the removed status effect buffs. External effects
+  such as passives skills and family effects can still activate.)
 types:
 - Charge
 - Hit 1
@@ -41,7 +43,7 @@ passives:
 - ' * The attacker receives 1500 Bleed damage over 3 turns.'
 image: https://i.imgur.com/Qq5yN3I.jpg
 dtReleased: "2026-03-10"
-dtModified: "2026-06-08"
+dtModified: "2026-07-27"
 fancy_name: Demon Ronin
 aetherPower: attack_up
 lb1:

@@ -54,15 +54,24 @@ costume:
   - 'x1 Mana Charge:'
   - Deals 420% damage to the target.
   - The attack has a 65% chance to bypass defensive buffs. (This includes counterattacks.)
-  - The caster gains 15% mana if any defensive buffs were bypassed.
+  - The caster gains 15% mana if any defensive buffs were bypassed. (After a character
+    has received 5 direct mana additions from Special Skill during a single turn,
+    all subsequent direct mana additions done by Special Skills will have reduced
+    power on that character.)
   - 'x2 Mana Charge:'
   - Deals 430% damage to the target and nearby enemies.
   - The attack has a 85% chance to bypass defensive buffs. (This includes counterattacks.)
-  - The caster gains 25% mana if any defensive buffs were bypassed.
+  - The caster gains 25% mana if any defensive buffs were bypassed. (After a character
+    has received 5 direct mana additions from Special Skill during a single turn,
+    all subsequent direct mana additions done by Special Skills will have reduced
+    power on that character.)
   - 'x3 Mana Charge:'
   - Deals 440% damage to all enemies.
   - The attack bypasses defensive buffs. (This includes counterattacks.)
   - After the Special Skill has been cast, increases the mana of the caster by 50%.
+    (After a character has received 5 direct mana additions from Special Skill during
+    a single turn, all subsequent direct mana additions done by Special Skills will
+    have reduced power on that character.)
   types:
   - Charge
   - Hit 1/3/All
@@ -74,7 +83,7 @@ costume:
     receives 596 Bleed damage over 4 turns.'
   image: https://i.imgur.com/HxhmhK3.jpg
   dtReleased: "2026-05-03"
-  dtModified: "2026-06-08"
+  dtModified: "2026-07-27"
   fancy_name: Ninja of Turbulent Seas
   aetherPower: attack_up
   lb1:
