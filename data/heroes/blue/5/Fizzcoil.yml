@@ -14,6 +14,8 @@ effects:
 - 'Wither: All enemies get -200 attack and -200 defense.'
 - All enemies get -30% mana generation for 3 turns. If the effect is removed before
   the duration ends, the mana of the target with the effect is reduced by -5% mana.
+  (Affects only mana generated from matching shields or mana gained by the defense
+  team at the end of their turn.)
 types:
 - Hit All
 - Attack Wither All
@@ -26,7 +28,7 @@ passives:
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/VpPwqgQ.jpg
 dtReleased: "2023-11-13"
-dtModified: ""
+dtModified: "2026-07-21"
 fancy_name: Goblin Troupe Violinist
 aetherPower: attack_up
 lb1:
@@ -36,7 +38,7 @@ lb1:
   health: 1684
 lb2:
   power: 1147
-  attack: 1231
+  attack: 1232
   defense: 1148
   health: 1927
 ...

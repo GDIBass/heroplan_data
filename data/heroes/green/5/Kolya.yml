@@ -33,8 +33,8 @@ dtModified: ""
 fancy_name: Stolid Sentry
 aetherPower: attack_up
 lb1:
-  power: 1196
-  attack: 1216
+  power: 1195
+  attack: 1215
   defense: 1203
   health: 2206
 lb2:

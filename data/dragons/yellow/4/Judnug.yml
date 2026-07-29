@@ -1,0 +1,44 @@
+---
+name: Judnug
+fancy_name: "Gluttonous Connoisseur Dragon"
+source: ancientUnderroot
+speed: Slow
+power: 9540
+attack: 11745
+defense: 12198
+health: 10174
+skill: Bad Breath Day
+effects:
+- Deals 230% damage to the all enemies.
+- Heals the caster and nearby allies for 15% of damage dealt.
+- All enemies receive 4000 Poison damage over 5 turns.
+- The caster and nearby allies reduce all received damage by -28% for 5 turns.
+types:
+- Hit All
+- Heal 3
+- DoT All
+- Damage Reduction 3
+spiritBonus:
+  spiritClass: Monk
+  all:
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
+  elementalBond:
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
+  classLink:
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
+assist:
+  name: Weakening Blaze
+  effects:
+  - Deals 560 damage to all enemies.
+  - Recovers 110 health for all allies.
+  - All enemies get -15% attack for 5 turns.
+image: https://i.imgur.com/7SSvBrU.jpg
+dtReleased: "2026-07-21"
+dtModified: ""
+...

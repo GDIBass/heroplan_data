@@ -72,4 +72,45 @@ costume:
     attack: 1123
     defense: 1166
     health: 2307
+costume2:
+  design: toon
+  bonuses: 90/90/90/5
+  class: Druid
+  power: 1342
+  attack: 1349
+  defense: 1440
+  health: 2445
+  skill: Toonsummer's Dream
+  effects:
+  - Each defeated ally has a 60% chance to get revived with 30% HP.
+  - All allies regenerate 1424 HP over 4 turns. This status effect is undispellable
+    and lasts 2 turns longer on Nature characters.
+  - For the next 4 turns, all allies receive 10% mana at the end of the turn. This
+    status effect is undispellable and lasts 2 turns longer on Nature characters.
+  - Element Link gives all Nature allies +15% attack and +15% defense for 6 turns.
+    This effect can't be dispelled.
+  types:
+  - Reviver
+  - HoT All
+  - MoT All
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Cleanse on Special Skill: When this character casts their Special Skill, they
+    cleanse the newest status ailment from all allies.'
+  image: https://i.imgur.com/I5pyCJU.jpg
+  dtReleased: "2026-07-20"
+  dtModified: ""
+  fancy_name: Seelie Toon
+  aetherPower: defense_up
+  lb1:
+    power: 1437
+    attack: 1454
+    defense: 1552
+    health: 2635
+  lb2:
+    power: 1626
+    attack: 1663
+    defense: 1776
+    health: 3015
 ...

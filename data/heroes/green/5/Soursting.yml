@@ -25,7 +25,7 @@ passives:
   character casts their Special Skill.'
 - ' * Deals 90% damage to all enemies.'
 - ' * All enemies get -25% accuracy for 3 turns.'
-image: https://imgur.com/laAJZLq.jpg
+image: https://i.imgur.com/laAJZLq.jpg
 dtReleased: "2025-10-18"
 dtModified: ""
 fancy_name: Arrogant Goblin Assassin
@@ -33,11 +33,11 @@ aetherPower: attack_up
 lb1:
   power: 1333
   attack: 1425
-  defense: 1369
+  defense: 1370
   health: 2333
 lb2:
-  power: 1507
+  power: 1508
   attack: 1630
   defense: 1567
-  health: 2669
+  health: 2670
 ...

@@ -37,13 +37,13 @@ dtModified: "2026-04-03"
 fancy_name: Glacial Nereid of the Deep
 aetherPower: dodge
 lb1:
-  power: 1067
-  attack: 1141
+  power: 1066
+  attack: 1140
   defense: 1114
   health: 1649
 lb2:
   power: 1202
-  attack: 1305
+  attack: 1304
   defense: 1275
   health: 1887
 costume:

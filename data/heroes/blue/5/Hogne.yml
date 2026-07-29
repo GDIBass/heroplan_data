@@ -32,7 +32,7 @@ passives:
   each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
 - ' * The Frost damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
-image: https://imgur.com/adOyVFt.jpg
+image: https://i.imgur.com/adOyVFt.jpg
 dtReleased: "2025-04-14"
 dtModified: "2026-06-08"
 fancy_name: Dwarven Great Knight
@@ -82,7 +82,7 @@ costume:
     by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
   - ' * The Frost damage is scaled by the amount of charge in the Core. All charge
     is exhausted when the Core is activated.'
-  image: https://imgur.com/cEY4DFZ.jpg
+  image: https://i.imgur.com/cEY4DFZ.jpg
   dtReleased: "2026-07-12"
   dtModified: ""
   fancy_name: Dwarven Moon Knight

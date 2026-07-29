@@ -1,0 +1,47 @@
+---
+name: Ketch
+source: goblinvillage
+family: shadyscoundrel
+speed: Slow
+class: Barbarian
+power: 545
+attack: 571
+defense: 549
+health: 905
+skill: Haphazard Chop
+effects:
+- Deals 300% damage to the target and nearby enemies.
+- The caster goes into Ambush. Damage dealt by the caster is increased by +40%, and
+  damage received by them is decreased by -30%. (When the character goes into Ambush,
+  all existing cleansable ailments and Wither effects are removed. The character can't
+  gain new ailments or Wither effects while in Ambush. This effect is uncleasable.
+  Ambush ends once the character has received 500 damage.)
+types:
+- Hit 3
+- Ambush Self
+passives:
+- 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
+  enemy'
+- 'Ransack:'
+- ' * Steals 50 health.'
+- ' * Safely steals a buff from the enemy. This includes Stubborn effects, undispellable
+  buffs and Dance effects.'
+- 'Cheat Death: The first time this character would receive fatal damage, they instead
+  redirect 50% of that damage to a random enemy. In battles with multiple waves, the
+  effect is refreshed at the beginning of each wave.'
+image: https://i.imgur.com/IQJgulE.jpg
+dtReleased: "2026-07-23"
+dtModified: ""
+fancy_name: Unprofessional Executioner
+aetherPower: special_armor
+lb1:
+  power: 609
+  attack: 647
+  defense: 622
+  health: 1025
+lb2:
+  power: 737
+  attack: 800
+  defense: 769
+  health: 1268
+...

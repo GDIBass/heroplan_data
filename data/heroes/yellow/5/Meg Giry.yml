@@ -36,11 +36,11 @@ aetherPower: defense_up
 lb1:
   power: 1153
   attack: 1065
-  defense: 1145
+  defense: 1144
   health: 2395
 lb2:
-  power: 1302
-  attack: 1219
-  defense: 1310
+  power: 1301
+  attack: 1218
+  defense: 1309
   health: 2740
 ...

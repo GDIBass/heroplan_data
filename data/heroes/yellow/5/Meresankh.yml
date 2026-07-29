@@ -13,7 +13,8 @@ effects:
 - Deals 130% damage to all enemies.
 - The more mana the enemies have,the more damage they will receive,up to 250%
 - Reduces the mana of all enemies by 20%.
-- All enemies get -14% mana generation for 3 turns.
+- All enemies get -14% mana generation for 3 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Hit All
 - Mana Reduction All
@@ -25,7 +26,7 @@ passives:
 - ' * All enemies receive 231 Sand damage over 3 turns.'
 image: https://i.imgur.com/PIgKmeD.jpg
 dtReleased: "2023-04-13"
-dtModified: "2026-04-26"
+dtModified: "2026-07-28"
 fancy_name: Sphinx of the Sun
 aetherPower: attack_up
 lb1:
@@ -51,7 +52,8 @@ costume:
   - Deals 180% damage to all enemies.
   - The more mana the enemies have, the more damage they will receive, up to 300%.
   - Reduces the mana of all enemies by 15%.
-  - All enemies get -10% mana generation for 3 turns.
+  - All enemies get -10% mana generation for 3 turns. (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)
   types:
   - Hit All
   - Mana Reduction All
@@ -68,7 +70,7 @@ costume:
     Skill that deals damage an additional 50% is added to its power.'
   image: https://i.imgur.com/4IURwj4.jpg
   dtReleased: "2024-06-24"
-  dtModified: "2026-04-26"
+  dtModified: "2026-07-28"
   fancy_name: Sphinx of the Disco
   aetherPower: special_boost
   lb1:

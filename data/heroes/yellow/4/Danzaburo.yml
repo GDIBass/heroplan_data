@@ -13,10 +13,11 @@ effects:
 - 'Perform a trick for a special effect:'
 - 'Swords:'
 - ' * Deals 255% damage to all enemies.'
-- ' * All enemies get -54% accuracy for 3 turns and chance to miss also applies to
-  offensive Special Skills.'
+- ' * All enemies get -54% accuracy for 3 turns( Chance to miss also applies to offensive
+  Special Skills.)'
 - 'Bottle:'
-- ' * All allies get +24% mana generation for 4 turns.'
+- ' * All allies get +24% mana generation for 4 turns. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 - ' * All allies get +63% defense for 4 turns.'
 - 'Freeze:'
 - ' * The caster can''t gain mana for 2 turns.'
@@ -25,19 +26,19 @@ types:
 - Gambler
 image: https://i.imgur.com/jP1BF2A.jpg
 dtReleased: ""
-dtModified: "2026-04-11"
+dtModified: "2026-07-16"
 fancy_name: Dauntless Deceiver
 aetherPower: gamble
 lb1:
   power: 701
-  attack: 676
+  attack: 675
   defense: 692
   health: 1329
 lb2:
   power: 799
   attack: 784
-  defense: 803
-  health: 1541
+  defense: 802
+  health: 1542
 costume:
   design: costume1
   bonuses: 3/3/6/5
@@ -53,26 +54,30 @@ costume:
   - ' * Deals 270% damage to all enemies.'
   - ' * All enemies get -39% attack for 3 turns.'
   - Questionable Snake Oil
-  - ' * All enemies get -24% mana generation for 3 turns.'
+  - ' * All enemies get -24% mana generation for 3 turns. (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)'
   - ' * All enemies get -44% defense for 3 turns.'
   - Clearance Sale
-  - ' * Increases the mana of all allies except the caster''s by 3%.'
+  - ' * Increases the mana of all allies except the caster''s by 3%. (After a character
+    has received 5 direct mana additions from Special Skill during a single turn,
+    all subsequent direct mana additions done by Special Skills will have reduced
+    power on that character.)'
   - ' * The caster can''t gain mana for 2 turns. This effect can''t be cleansed.'
   types:
   - Gambler
   image: https://i.imgur.com/HppFUSU.jpg
   dtReleased: "2023-02-06"
-  dtModified: "2026-04-11"
+  dtModified: "2026-07-16"
   fancy_name: Fearless Merchant
   aetherPower: special_armor
   lb1:
-    power: 725
-    attack: 663
-    defense: 725
-    health: 1468
+    power: 724
+    attack: 661
+    defense: 724
+    health: 1467
   lb2:
-    power: 827
-    attack: 769
+    power: 826
+    attack: 767
     defense: 840
     health: 1702
 ...

@@ -11,8 +11,9 @@ health: 1720
 skill: Leafglow Bloom
 effects:
 - For the next 3 turns, this character deals 235% damage to all enemies after an enemy
-  casts their Special Skill.
-- All allies get +35% mana generation for 3 turns.
+  casts their Special Skill. (Each enemy can trigger this effect once per turn.)
+- All allies get +35% mana generation for 3 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Hit All after Enemy SS
 - Mana Generation Buff All
@@ -22,7 +23,7 @@ passives:
   all other allies.'
 image: https://i.imgur.com/0xgP0mx.jpg
 dtReleased: "2024-03-07"
-dtModified: "2026-05-13"
+dtModified: "2026-07-21"
 fancy_name: Astral Elf Botanist
 aetherPower: damage_reduction
 lb1:

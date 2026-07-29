@@ -145,7 +145,7 @@ costume4:
   - Defense Debuff All
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/mpefymk.jpg
+  image: https://i.imgur.com/mpefymk.jpg
   dtReleased: "2025-06-18"
   dtModified: "2026-06-06"
   fancy_name: Vitrail of Glaceholm
@@ -179,7 +179,7 @@ costume5:
   passives:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
-  image: https://imgur.com/uO7LU2l.jpg
+  image: https://i.imgur.com/uO7LU2l.jpg
   dtReleased: "2026-07-07"
   dtModified: ""
   fancy_name: Stylish Ice Wizard

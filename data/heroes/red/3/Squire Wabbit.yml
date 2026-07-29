@@ -49,7 +49,7 @@ costume:
   passives:
   - 'Stack on Special: When this character casts their Special Skill, all enemies
     get: Stack (Max: 10): -5% defense.'
-  image: https://imgur.com/paSL8nL.jpg
+  image: https://i.imgur.com/paSL8nL.jpg
   dtReleased: "2026-03-30"
   dtModified: "2026-05-04"
   fancy_name: Junior Knight of Springvale

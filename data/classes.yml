@@ -888,7 +888,7 @@ classes:
             health: 36
         10:
           a:
-            healthP: 3
+            attP: 3
         11:
           a:
             att: 15

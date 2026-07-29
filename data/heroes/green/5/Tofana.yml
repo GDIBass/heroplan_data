@@ -1,0 +1,53 @@
+---
+name: Tofana
+source: goblinvillage
+family: shadyscoundrel
+speed: Average
+class: Sorcerer
+power: 1348
+attack: 1402
+defense: 1419
+health: 2395
+skill: Aqua Tofana
+effects:
+- Deals 250% damage to all enemies.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- All enemies receive 728 Poison damage over 4 turns. The caster and all their allies
+  absorb 30% of dealt Poison damage as boosted health.
+- The caster and nearby allies go into Ambush. Damage dealt by the caster and nearby
+  allies is increased by +40%, and damage received by them is decreased by -25%. (When
+  the character goes into Ambush, all existing cleansable ailments and Wither effects
+  are removed. The character can't gain new ailments or Wither effects while in Ambush.
+  This effect is uncleasable. Ambush ends once the character has received 1200 damage.)
+types:
+- Hit All
+- Bypass
+- DoT All
+- Boosted Heal All on DoT
+- Ambush 3
+passives:
+- 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
+  enemy:'
+- 'Ransack:'
+- ' * Steals 100 health.'
+- ' * Safely steals a buff from the enemy. This includes Stubborn effects, undispellable
+  buffs and Dance effects.'
+- 'Cheat Death: The first time this character would receive fatal damage, they instead
+  redirect that damage to a random enemy. In battles with multiple waves, the effect
+  is refreshed at the beginning of each wave.'
+image: https://i.imgur.com/sbOhk72.jpg
+dtReleased: "2026-07-23"
+dtModified: ""
+fancy_name: Merchant from Shady Inn
+aetherPower: special_armor
+lb1:
+  power: 1443
+  attack: 1511
+  defense: 1529
+  health: 2581
+lb2:
+  power: 1633
+  attack: 1729
+  defense: 1750
+  health: 2954
+...

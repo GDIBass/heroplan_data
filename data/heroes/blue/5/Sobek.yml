@@ -11,7 +11,7 @@ health: 1600
 skill: Jaws of the River
 effects:
 - Deals 290% damage to all enemies.
-- The attack bypasses defensive buffs. This includes counterattacks.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
 types:
 - Hit All
 - Bypass
@@ -22,7 +22,7 @@ passives:
 - ' * All enemies receive 255 Sand damage over 3 turns.'
 image: https://i.imgur.com/3Y3v4bs.jpg
 dtReleased: "2022-04-21"
-dtModified: "2026-04-26"
+dtModified: "2026-07-28"
 fancy_name: God of the River
 aetherPower: defense_up
 lb1:

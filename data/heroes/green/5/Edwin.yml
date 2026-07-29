@@ -13,7 +13,7 @@ effects:
 - Deals 250% damage to all enemies.
 - The attack bypasses defensive buffs. (This includes counterattacks.)
 - All enemies can't get their status ailments cleansed or reallocated by Special Skills
-  for 3 turns.
+  for 3 turns. (This effect also prevent cleansing and reallocating of itself.)
 types:
 - Hit All
 - Bypass
@@ -24,7 +24,7 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/NshfXdy.jpg
 dtReleased: "2023-09-25"
-dtModified: "2026-05-04"
+dtModified: "2026-07-21"
 fancy_name: Cunning Butler
 aetherPower: attack_up
 lb1:
@@ -61,7 +61,7 @@ costume:
   - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
     to steal the newest dispellable buff from a random enemy that has buffs. If no
     enemy has buffs, deals 150% damage to all enemies.'
-  image: https://imgur.com/RyJ3YBO.jpg
+  image: https://i.imgur.com/RyJ3YBO.jpg
   dtReleased: "2025-10-08"
   dtModified: "2026-05-04"
   fancy_name: The Backstabbing Butler

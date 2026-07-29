@@ -31,10 +31,10 @@ lb1:
   defense: 692
   health: 1414
 lb2:
-  power: 924
-  attack: 1003
-  defense: 792
-  health: 1617
+  power: 923
+  attack: 1002
+  defense: 791
+  health: 1618
 costume:
   design: costume1
   bonuses: 25/25/30/5
@@ -71,4 +71,44 @@ costume:
     attack: 1190
     defense: 1052
     health: 2132
+costume2:
+  design: toon
+  bonuses: 87/87/90/5
+  class: Rogue
+  power: 1343
+  attack: 1548
+  defense: 1170
+  health: 2492
+  skill: Toon's Luck
+  effects:
+  - Deals 240% damage to all enemies.
+  - All enemies get -34% defense against Holy for 3 turns.
+  - All allies get +56% chance to dodge Special Skills for 3 turns. Each dodge summons
+    a Sakura Fox Minion.
+  - Sakura Fox Minion has 20% HP and 30% attack inherited from the caster. The Minion
+    adds 7% mana to its owner at the end of each turn.
+  types:
+  - Hit All
+  - Elemental Defense Debuff All
+  - Dodge Chance Buff All
+  - Minion Summon on dodge
+  - Mana Boost Minion each turn
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  image: https://i.imgur.com/ryflzkR.jpg
+  dtReleased: "2026-07-20"
+  dtModified: ""
+  fancy_name: Nine-tailed Toon
+  aetherPower: attack_up
+  lb1:
+    power: 1437
+    attack: 1668
+    defense: 1261
+    health: 2686
+  lb2:
+    power: 1627
+    attack: 1909
+    defense: 1443
+    health: 3073
 ...

@@ -13,7 +13,8 @@ effects:
 - Deals 230% damage to all enemies.
 - All enemies receive 1285 Poison damage over 5 turns. The caster receives  a small
   amount of mana each time Poison damage is applied.
-- All enemies get -34% mana generation for 5 turns.
+- All enemies get -34% mana generation for 5 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 - Allies share the damage this character would receive from Special Skill  attacks
   and normal attacks for 5 turns.
 types:
@@ -22,12 +23,12 @@ types:
 - Mana Generation Debuff All
 image: https://i.imgur.com/b7feuiD.jpg
 dtReleased: "2023-08-10"
-dtModified: ""
+dtModified: "2026-07-21"
 fancy_name: Heir to the Throne
 aetherPower: regen
 lb1:
   power: 994
-  attack: 990
+  attack: 989
   defense: 1023
   health: 1689
 lb2:

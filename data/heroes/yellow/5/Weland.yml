@@ -29,7 +29,7 @@ passives:
   also gain 600 boosted health and 10% mana each time they resist.'
 - 'Stacking Attack On Damage Received: When this character receives damage from Special
   Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.'
-image: https://imgur.com/MXIFsEd.jpg
+image: https://i.imgur.com/MXIFsEd.jpg
 dtReleased: "2025-12-06"
 dtModified: "2026-05-19"
 fancy_name: Skillful Smith

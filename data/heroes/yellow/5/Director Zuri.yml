@@ -56,7 +56,7 @@ costume:
   passives:
   - 'Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a
     new copy of the cleansed ailment is applied on a random enemy.'
-  image: https://imgur.com/9J7qQSS.jpg
+  image: https://i.imgur.com/9J7qQSS.jpg
   dtReleased: "2025-08-08"
   dtModified: ""
   fancy_name: Master of Clowns

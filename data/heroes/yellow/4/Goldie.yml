@@ -13,7 +13,7 @@ effects:
 - Recover 38% health for all allies.
 - 'Growth: All allies get 100 attack.'
 - All allies reflect ailments to a random character on the opposing team for 3 turns.
-  (Only cleansable status ailments are reflected)
+  (Only cleansable status ailments are reflected.)
 types:
 - Healer All
 - Attack Growth All
@@ -25,17 +25,61 @@ passives:
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/9Zjrelm.jpg
 dtReleased: "2023-09-18"
-dtModified: ""
+dtModified: "2026-07-23"
 fancy_name: Goblin Beauty
 aetherPower: ailment_immunity
 lb1:
-  power: 741
-  attack: 699
+  power: 740
+  attack: 698
   defense: 778
-  health: 1383
+  health: 1382
 lb2:
   power: 845
-  attack: 811
+  attack: 810
   defense: 902
   health: 1603
+costume:
+  design: costume1
+  bonuses: 19/19/19/5
+  class: Druid
+  power: 802
+  attack: 761
+  defense: 857
+  health: 1506
+  skill: Magic Perfume of Power
+  effects:
+  - All allies regenerate 1080 HP over 3 turns.
+  - 'Growth: All allies get 110 attack.'
+  - Lifts the latest cleansable status ailment from all allies and randomly distributes
+    them on enemies.
+  - All allies reflect ailments to a random character on the opposing team for 3 turns.
+    (Only cleansable status ailments are reflected.)
+  types:
+  - HoT All
+  - Attack Growth All
+  - Lifts Latest Ailment All
+  - Reflect Ailments All
+  passives:
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill.'
+  - ' * Deals 90% damage to all enemies.'
+  - ' * All enemies get -25% accuracy for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  image: https://i.imgur.com/XogGobY.jpg
+  dtReleased: "2026-07-23"
+  dtModified: ""
+  fancy_name: Goblin Perfumer
+  aetherPower: special_armor
+  lb1:
+    power: 863
+    attack: 826
+    defense: 931
+    health: 1636
+  lb2:
+    power: 988
+    attack: 959
+    defense: 1080
+    health: 1898
 ...

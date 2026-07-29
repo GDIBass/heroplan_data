@@ -24,12 +24,12 @@ fancy_name: Chameleon General
 aetherPower: fiend_resist
 lb1:
   power: 700
-  attack: 697
+  attack: 696
   defense: 667
   health: 1320
 lb2:
   power: 798
-  attack: 808
+  attack: 807
   defense: 773
   health: 1531
 costume:
@@ -56,13 +56,49 @@ costume:
   fancy_name: World Heavyweight Champion
   aetherPower: ailment_immunity
   lb1:
-    power: 725
-    attack: 637
-    defense: 718
-    health: 1544
+    power: 724
+    attack: 636
+    defense: 717
+    health: 1542
   lb2:
     power: 826
     attack: 738
-    defense: 832
-    health: 1790
+    defense: 831
+    health: 1789
+costume2:
+  design: toon
+  bonuses: 30/30/35/5
+  class: Druid
+  power: 831
+  attack: 747
+  defense: 830
+  health: 1803
+  skill: Toon Jaws
+  effects:
+  - Destroys all Minions from all enemies and damages Mega Minions.
+  - Deals 200% damage to all enemies.
+  - All allies recover 100 HP for each destroyed Minion.
+  - Deals extra damage against Ice.
+  types:
+  - Minion Destroyer All
+  - Hit All
+  - Heal All on minion destroyed
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  image: https://i.imgur.com/HZNXohn.jpg
+  dtReleased: "2026-07-20"
+  dtModified: ""
+  fancy_name: Toon Chameleon General
+  aetherPower: fiend_resist
+  lb1:
+    power: 895
+    attack: 811
+    defense: 901
+    health: 1959
+  lb2:
+    power: 1025
+    attack: 941
+    defense: 1046
+    health: 2272
 ...

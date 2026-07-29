@@ -41,14 +41,14 @@ costume:
   skill: Atlantean Blade
   effects:
   - Deals 120% damage to all enemies.
-  - All enemies get -25% accuracy for 3 turns. Chance to miss also applies too offensive
-    Special Skills.
+  - All enemies get -25% accuracy for 3 turns. (Chance to miss also applies to offensive
+    Special Skills.)
   types:
   - Hit All
   - Blind All
   image: https://i.imgur.com/M7NWE48.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-04-03"
+  dtModified: "2026-07-16"
   fancy_name: Emissary of Atlantis
   aetherPower: special_boost
   lb1:
@@ -80,7 +80,7 @@ costume2:
   passives:
   - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
     and buff dispels. Gain 5% mana on each successful resist.'
-  image: https://imgur.com/qL8cAYd.jpg
+  image: https://i.imgur.com/qL8cAYd.jpg
   dtReleased: "2026-04-29"
   dtModified: ""
   fancy_name: Toon Mermaid

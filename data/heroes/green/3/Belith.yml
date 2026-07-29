@@ -118,7 +118,7 @@ costume3:
   - Dispeller All
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/Y4Gu3iU.jpg
+  image: https://i.imgur.com/Y4Gu3iU.jpg
   dtReleased: "2025-04-23"
   dtModified: "2026-06-22"
   fancy_name: Glass Spirit
@@ -152,7 +152,7 @@ costume4:
   passives:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
-  image: https://imgur.com/q0mnmfU.jpg
+  image: https://i.imgur.com/q0mnmfU.jpg
   dtReleased: "2026-05-09"
   dtModified: "2026-06-22"
   fancy_name: Stylish Spirit

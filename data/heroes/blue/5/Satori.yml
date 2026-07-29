@@ -35,12 +35,12 @@ fancy_name: Sumo Champion
 aetherPower: damage_reduction
 lb1:
   power: 1049
-  attack: 1070
+  attack: 1069
   defense: 1067
   health: 1795
 lb2:
   power: 1182
-  attack: 1224
+  attack: 1223
   defense: 1221
   health: 2054
 ...

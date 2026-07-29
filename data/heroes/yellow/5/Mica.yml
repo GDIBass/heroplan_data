@@ -13,18 +13,21 @@ effects:
 - 1x Mana Charge
 - ' * All allies become Soul Connected for 2 turns. Soul Connected allies share received
   damage.'
-- ' * All allies get +25% defense for 2 turns'
-- ' * All allies get +24% mana generation for 2 turns'
+- ' * All allies get +25% defense for 2 turns.'
+- ' * All allies get +24% mana generation for 2 turns. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 - 2x Mana Charge
 - ' * All allies become Soul Connected for 4 turns. Soul Connected allies share received
   damage.'
-- ' * All allies get +50% defense for 4 turns'
-- ' * All allies get +33% mana generation for 4 turns'
+- ' * All allies get +50% defense for 4 turns.'
+- ' * All allies get +33% mana generation for 4 turns. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 - 3x Mana Charge
 - ' * All allies become Soul Connected for 5 turns. Soul Connected allies share received
   damage.'
-- ' * All allies get +73% defense for 5 turns'
-- ' * All allies get +38% mana generation for 5 turns'
+- ' * All allies get +73% defense for 5 turns.'
+- ' * All allies get +38% mana generation for 5 turns. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 types:
 - Charge
 - Ally Damage Share
@@ -34,7 +37,7 @@ passives:
 - 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/T4WxYxG.jpg
 dtReleased: "2020-10-13"
-dtModified: "2026-06-08"
+dtModified: "2026-07-27"
 fancy_name: Ninja of Silent Screams
 aetherPower: special_armor
 lb1:

@@ -24,13 +24,13 @@ dtModified: ""
 fancy_name: Gnome Wizard
 aetherPower: dodge
 lb1:
-  power: 1014
+  power: 1013
   attack: 1065
-  defense: 990
+  defense: 989
   health: 1709
 lb2:
   power: 1142
-  attack: 1219
+  attack: 1218
   defense: 1132
-  health: 1955
+  health: 1956
 ...

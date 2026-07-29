@@ -12,8 +12,8 @@ skill: Seastar Burst
 effects:
 - Boosts health of all allies by 180. Boosted health can exceed max HP.
 - Reduces the max health of all enemies by 180. This effect is stronger against targets
-  with boosted health. Max health can't get lower than 30% of the original max health.
-  Any boosted health is reduced by an additional 180.
+  with boosted health. (Max health can't get lower than 30% of the original max health.
+  Any boosted health is reduced by an additional 180.)
 - Deals 180% damage to all enemies.
 types:
 - Boosted Heal All
@@ -25,7 +25,7 @@ passives:
   enemies receive 210 Water damage over 2 turns.'
 image: https://i.imgur.com/qRuu0M1.jpg
 dtReleased: "2023-06-12"
-dtModified: ""
+dtModified: "2026-07-21"
 fancy_name: Snorkeling Gnome
 aetherPower: attack_up
 lb1:
@@ -64,7 +64,7 @@ costume:
     enemies receive 338 Water damage over 2 turns.'
   - 'Empowered Resist Water: This character is immune to status ailments that deal
     Water damage and gains 450 boosted health and 5% mana each time they resist.'
-  image: https://imgur.com/OGUfptj.jpg
+  image: https://i.imgur.com/OGUfptj.jpg
   dtReleased: "2026-06-01"
   dtModified: ""
   fancy_name: Stealthy Beach Gnome

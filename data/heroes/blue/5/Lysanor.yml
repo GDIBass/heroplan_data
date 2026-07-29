@@ -31,12 +31,12 @@ fancy_name: Seer of the Sapphire Dream
 aetherPower: heal_increase
 lb1:
   power: 1047
-  attack: 981
+  attack: 980
   defense: 1094
   health: 1949
 lb2:
   power: 1180
   attack: 1122
-  defense: 1252
+  defense: 1251
   health: 2230
 ...

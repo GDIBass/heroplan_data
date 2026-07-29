@@ -16,7 +16,7 @@ effects:
 - The Ram Fiend absorbs healing and disappears when it has absorbed health equal to
   45% of its owner's max health.
 - The healing absorbed is transferred to the summoner and their allies and distributed
-  evenly. (Ignores heal steal, healing modifers and fiends)
+  evenly. (Ignores heal steal, healing modifiers and Fiends.)
 types:
 - Hit 1
 - 3 Fiend Summoner 1
@@ -30,7 +30,7 @@ passives:
   5% mana. This effect can activate only once per turn.'
 image: https://i.imgur.com/ZBNdURG.jpg
 dtReleased: "2024-04-05"
-dtModified: ""
+dtModified: "2026-07-21"
 fancy_name: Ram Turismo Champion
 aetherPower: attack_up
 lb1:

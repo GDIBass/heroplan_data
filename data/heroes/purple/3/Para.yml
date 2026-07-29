@@ -56,9 +56,10 @@ costume:
   passives:
   - 'Power of Sisu: When this character starts a turn with low health for the first
     time during a battle, they recover 15% health and receive 15% mana.'
-  image: https://imgur.com/ilVdVwZ.jpg
+  image: https://i.imgur.com/ilVdVwZ.jpg
   dtReleased: "2026-07-13"
   dtModified: ""
+  fancy_name: Chantry Familiar
   aetherPower: bulwark
   lb1:
     power: 606

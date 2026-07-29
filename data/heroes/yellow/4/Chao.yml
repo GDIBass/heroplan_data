@@ -145,7 +145,7 @@ costume4:
   - Bypass
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/s68xCDI.jpg
+  image: https://i.imgur.com/s68xCDI.jpg
   dtReleased: "2025-07-16"
   dtModified: "2026-06-06"
   fancy_name: Glass Tactician

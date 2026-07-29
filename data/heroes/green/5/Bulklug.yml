@@ -29,7 +29,7 @@ passives:
   Minions to nearby allies with 50% HP and 40% attack inherited from this character.'
 - 'Slime Minion Split: If this character loses more than 25% of max health at once,
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
-image: https://imgur.com/xGYesJO.jpg
+image: https://i.imgur.com/xGYesJO.jpg
 dtReleased: "2025-11-26"
 dtModified: "2026-05-19"
 fancy_name: Blob Builder Slime

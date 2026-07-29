@@ -15,7 +15,8 @@ effects:
 - All allies recover 1000 health after 3 turns. If the effect is removed or replaced
   before the duration ends, recovers 1400 health instead.
 - All allies gain 25% mana after 3 turns. If the effect is removed or replaced before
-  the duration ends, gains 35% mana instead. (This effect cannot replaced with itself.)
+  the duration ends, gains 35% mana instead. (This effect cannot be replaced with
+  itself.)
 types:
 - Defense Buff All
 - Delayed Heal All
@@ -26,7 +27,7 @@ passives:
 - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
 image: https://i.imgur.com/BDNFVzo.jpg
 dtReleased: "2024-02-08"
-dtModified: "2026-03-20"
+dtModified: "2026-07-21"
 fancy_name: Lunar Guardian Ox
 aetherPower: boosted_regen
 lb1:
@@ -38,6 +39,6 @@ lb2:
   power: 1184
   attack: 1079
   defense: 1285
-  health: 2298
+  health: 2299
 zodiacAnimal: ox
 ...

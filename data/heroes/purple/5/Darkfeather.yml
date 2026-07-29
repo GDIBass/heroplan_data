@@ -19,7 +19,7 @@ types:
 - Healer All
 - Attack Growth All
 - Defense Growth All
-- Extra hit change after ally SS All
+- Extra hit chance after ally SS All
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
   character casts their Special Skill.'
@@ -27,7 +27,7 @@ passives:
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/9UklXhJ.jpg
 dtReleased: "2023-09-18"
-dtModified: "2026-07-01"
+dtModified: "2026-07-23"
 fancy_name: Adept Eagle Trainer
 aetherPower: defense_up
 lb1:
@@ -40,4 +40,48 @@ lb2:
   attack: 1117
   defense: 1163
   health: 2072
+costume:
+  design: costume1
+  bonuses: 49/49/51/5
+  class: Wizard
+  power: 1346
+  attack: 1346
+  defense: 1414
+  health: 2530
+  skill: The Eagle's Enchantment
+  effects:
+  - All allies regenerate 1200 boosted health over 3 turns. Boosted heath can exceed
+    max HP.
+  - 'Growth: All allies get 200 attack and 200 defense.'
+  - All allies have 50% chance to deal 280% damage to a random enemy after any subsequent
+    allied Special Skill is cast for 3 turns. (Each character can trigger this effect
+    once per turn.)
+  types:
+  - Boosted Heal All
+  - Attack Growth All
+  - Defense Growth All
+  - Extra hit chance after ally SS All
+  passives:
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill.'
+  - ' * Deals 90% damage to all enemies.'
+  - ' * All enemies get -25% accuracy for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  image: https://i.imgur.com/jGw59w5.jpg
+  dtReleased: "2026-07-23"
+  dtModified: ""
+  fancy_name: Adept Eagle Enchanter
+  aetherPower: bulwark
+  lb1:
+    power: 1441
+    attack: 1450
+    defense: 1524
+    health: 2727
+  lb2:
+    power: 1631
+    attack: 1660
+    defense: 1744
+    health: 3120
 ...

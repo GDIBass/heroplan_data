@@ -12,9 +12,10 @@ skill: Pineapple Barbeque
 effects:
 - Boosts health of all allies by 400. Boosted health can be exceed max HP.
 - All enemies are immune to new status effect buffs for 3 turns.
-- All Fire enemies get -38 accuracy for 3 turns. Chance to miss applies to offensive
-  Special Skills.
-- All Dark enemies get -38% mana generation for 3 turns.
+- All Fire enemies get -38 accuracy for 3 turns. (Chance to miss applies to offensive
+  Special Skills.)
+- All Dark enemies get -38% mana generation for 3 turns. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)
 - All Holy enemies get -38% defense for 3 turns.
 - All Nature enemies get -38% attack for 3 turns.
 types:
@@ -34,7 +35,7 @@ passives:
 - ' * Received damage: -10%'
 image: https://i.imgur.com/deN3GU2.jpg
 dtReleased: "2023-09-11"
-dtModified: "2026-05-15"
+dtModified: "2026-07-21"
 fancy_name: Cosmic Chef
 aetherPower: counterattack
 lb1:
@@ -60,8 +61,10 @@ costume:
   - Boosts health of all allies by 850. Boosted health can exceed max HP.
   - All enemies are immune to new status effect buffs for 3 turns. This status effect
     is undispellable and lasts 2 turns longer on Fire characters.
-  - All Fire enemies get -44% accuracy for 3 turns.
-  - All Dark enemies get -44% mana generation for 3 turns.
+  - All Fire enemies get -44% accuracy for 3 turns. (Chance to miss applies to offensive
+    Special Skills.)
+  - All Dark enemies get -44% mana generation for 3 turns. (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)
   - All Holy enemies get -44% defense for 3 turns.
   - All Nature enemies get -44% attack for 3 turns.
   types:
@@ -81,9 +84,9 @@ costume:
   - ' * Received damage: -25%'
   - 'Resist Fire Ailments: This character is immune to status ailments and negative
     stacks cast by Fire characters.'
-  image: https://imgur.com/VjwLyaa.jpg
+  image: https://i.imgur.com/VjwLyaa.jpg
   dtReleased: "2026-05-15"
-  dtModified: "2026-05-15"
+  dtModified: "2026-07-21"
   fancy_name: Cosmic Alchemist
   aetherPower: defense_up
   lb1:

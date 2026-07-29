@@ -14,11 +14,10 @@ effects:
 - The caster gets additional +100% power for the next Special Skill they cast. The
   additional power increases +25% each turn, up to a maximum of +200% in total.
 - All enemies receive Mana Corruption for 4 turns. Each time an afflicted enemy receives
-  mana from an additional source, they receive 400 damage. Additional sources include
-  direct mana addition from Special Skills, status effects, level properties, passive
-  skills, family effects, tile effects and Minions. Mana added for defense team at
-  the end of their turn or from matching tiles is included only if the target has
-  a mana generation bufff or a posive mana generation stack.
+  mana from an additional source, they receive 400 damage. (Mana added for defense
+  team at the end of their turn or from matching shields activates Mana Corruption
+  only if the target has a mana generation buff or a positive mana generation stack.
+  Mana additions from other sources always activate Mana Corruption.)
 types:
 - Hit All
 - Power Boost Self
@@ -28,7 +27,7 @@ passives:
   a buff or a positive stack.'
 image: https://i.imgur.com/En0uUcx.jpg
 dtReleased: "2023-10-18"
-dtModified: ""
+dtModified: "2026-07-21"
 fancy_name: Guardian of the Emerald Forest
 aetherPower: ailment_immunity
 lb1:

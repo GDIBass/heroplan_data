@@ -16,13 +16,17 @@ effects:
 - ' * Hit enemies became afflicted with Underwater Magma Cube.'
 - ' * While afflicted with Magma Cube the owner get -34% defense.'
 - ' * Magma Cube explode in 3 turns doing 300 damage to their owner.'
-- ' * If Magma Cube is cleansed, the owner get -34% mana generation for 3 turns.'
+- ' * If Magma Cube is cleansed, the owner get -34% mana generation for 3 turns. (If
+  a Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to
+  2 times per cast.)'
 - '2nd:'
 - ' * Deals 350% damage to 5 random enemies.'
 - ' * Hit enemies became afflicted with Underwater Magma Cube.'
 - ' * While afflicted with Magma Cube the owner get -44% defense.'
 - ' * Magma Cube explode in 3 turns doing 450 damage to their owner.'
-- ' * If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns.'
+- ' * If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns. (If
+  a Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to
+  2 times per cast.)'
 types:
 - Hit Random 3/5
 - Exploding Magma Cube on hit
@@ -34,7 +38,7 @@ passives:
 - ' * The caster gets +19% mana generation for 2 turns.'
 image: https://i.imgur.com/vMt41XY.jpg
 dtReleased: "2023-09-27"
-dtModified: "2026-04-03"
+dtModified: "2026-07-21"
 fancy_name: Prince of the Eternal Deep
 aetherPower: defense_up
 lb1:

@@ -14,7 +14,9 @@ effects:
 - The caster and nearby allies are immune to buff dispels and reallocations for 3
   turns. (The immunity also includes this effect itself. Also includes Ransack.)
 - The caster and nearby allies get +74% defense against Special Skills for 3 turns.
-- The caster and nearby allies get +24% mana generation for 3 turns.
+- The caster and nearby allies get +24% mana generation for 3 turns. (Affects only
+  mana generated from matching shields or mana gained by the defense team at the end
+  of their turn.)
 types:
 - Healer 3
 - Dispel Immunity 3
@@ -22,7 +24,7 @@ types:
 - Mana Generation Buff 3
 image: https://i.imgur.com/igNkAbf.jpg
 dtReleased: ""
-dtModified: "2026-06-22"
+dtModified: "2026-07-20"
 fancy_name: Shieldmaiden of Valkyries
 aetherPower: ailment_immunity
 lb1:

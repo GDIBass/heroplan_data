@@ -18,8 +18,9 @@ effects:
   each turn'
 - ' * +70% attack for 5 turns.'
 - ' * +50% defense for 5 turns.'
-- ' * The Source of Buffs will activate 4 times. Each attempt to dispel it removes
-  one activation.'
+- ' * The Source of Buffs will activate 4 times. This effect is Stubborn. (Each attempt
+  to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn
+  or decreases activations left by 1.)'
 types:
 - Hit All
 - Mana Reduction All
@@ -34,7 +35,7 @@ passives:
   Skill damage, gain 30% attack Stack (max: 10). One Stack can be gained per turn.'
 image: https://i.imgur.com/RbbKSQ5.jpg
 dtReleased: "2024-11-25"
-dtModified: "2026-07-01"
+dtModified: "2026-07-21"
 fancy_name: Master of the Mead-Hall
 aetherPower: attack_up
 lb1:

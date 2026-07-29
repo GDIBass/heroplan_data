@@ -1,0 +1,49 @@
+---
+name: Zhakiturion
+source: astral
+family: astraldemons
+speed: Average
+class: Monk
+power: 1344
+attack: 1398
+defense: 1411
+health: 2393
+skill: Book of Judgement
+effects:
+- Destroys all Fiends from all allies and damages all Mega Fiends.
+- All allies get 5% mana for each destroyed Fiend. (After the character has received
+  5 direct mana additions from Special Skills during a single turn, all subsequent
+  direct mana additions done by Special Skills will have reduced power on the character.)
+- 'Stack (Max: 10): All allies get an additional +10% attack for each destroyed Fiend.'
+- Deals 575% damage to the target and minor damage to all other enemies.
+- Heals all allies for 20% of damage dealt.
+types:
+- Fiend Destroyer All
+- Mana Increase All on Fiend Destroyed
+- Attack Buff Stack All on Fiend Destroyed
+- Hit All
+- Heal All
+passives:
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
+- 'Resist Negative Mana Effects: This character is immune to mana reductions, as well
+  as status ailments and negative stacks that affect mana generation. Applies also
+  to effects and status ailments that block or steal mana.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+image: https://i.imgur.com/uMwUSP5.jpg
+dtReleased: "2026-07-15"
+dtModified: ""
+fancy_name: Astral Demon Chief Justiciar
+aetherPower: attack_up
+lb1:
+  power: 1439
+  attack: 1507
+  defense: 1521
+  health: 2579
+lb2:
+  power: 1628
+  attack: 1724
+  defense: 1740
+  health: 2951
+...

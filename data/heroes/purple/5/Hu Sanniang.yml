@@ -18,7 +18,7 @@ effects:
 - Deals 500% damage to the target.
 - Safely dispels status effect buffs from the target. (Safe dispel bypasses secondary
   effects, such as damage on removal, from the removed status effect buffs. External
-  effects such as passives skills and family effects can still activate.
+  effects such as passives skills and family effects can still activate.)
 - Deals 500% damage to a random target.
 - Increases the duration of the target's active status ailments by 5 turns. (The duration
   increase affects cleansable, Stubborn and uncleansable status ailments.)
@@ -39,9 +39,9 @@ passives:
   current HP, gain +20% mana.'
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
-image: https://imgur.com/BtiEGep.jpg
+image: https://i.imgur.com/BtiEGep.jpg
 dtReleased: "2026-01-13"
-dtModified: "2026-06-22"
+dtModified: "2026-07-21"
 fancy_name: Bright Star of Water Margin
 aetherPower: attack_up
 lb1:

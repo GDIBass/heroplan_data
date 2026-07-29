@@ -16,7 +16,7 @@ effects:
   this effect, the duration will be refreshed and the damage will be increased by
   300. Max total damage: 1260.)'
 types:
-- Dispeler All
+- Dispeller All
 - Hit 1
 - DoT 1
 passives:
@@ -26,9 +26,9 @@ passives:
 - ' * Damage increased for Minions and Mega Minions 60%.'
 - 'Empowered Resist Water: This character is immune to status ailments that deal Water
   damage and gains 450 boosted health and 5% mana each time they resist.'
-image: https://imgur.com/lKB3QGC.jpg
+image: https://i.imgur.com/lKB3QGC.jpg
 dtReleased: "2026-06-01"
-dtModified: "2026-06-10"
+dtModified: "2026-07-21"
 fancy_name: The Mysterious Masked Shark
 aetherPower: regen
 lb1:

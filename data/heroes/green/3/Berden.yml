@@ -113,7 +113,7 @@ costume3:
   - Attack Debuff 1
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/lvzA5b8.jpg
+  image: https://i.imgur.com/lvzA5b8.jpg
   dtReleased: "2025-05-10"
   dtModified: ""
   fancy_name: Glass Archer
@@ -147,7 +147,7 @@ costume4:
   passives:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
-  image: https://imgur.com/SLdlVF4.jpg
+  image: https://i.imgur.com/SLdlVF4.jpg
   dtReleased: "2026-06-06"
   dtModified: ""
   fancy_name: Stylish Archer

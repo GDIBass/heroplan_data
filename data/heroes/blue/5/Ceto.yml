@@ -14,15 +14,15 @@ effects:
 - '1st:'
 - ' * Deals 350% damage to the target and minor damage to all other enemies.'
 - ' * If hit enemies use their Special Skill in the next 4 turns, they get -34% attack,
-  -34% defense and -24% mana generation for 4 turns. Status effects are added at the
-  end of a Special Skill. Status effects will not be added if this status effect is
-  removed during a Special Skill.'
+  -34% defense and -24% mana generation for 4 turns. (Status effects are added at
+  the end of a Special Skill. Status effects will not be added if this status effect
+  is removed during a Special Skill.)'
 - '2nd:'
 - ' * Deals 470% damage to the target and minor damage to all other enemies.'
 - ' * If hit enemies use their Special Skill in the next 4 turns, they get -34% attack,
-  -34% defense and -24% mana generation for 4 turns. Status effects are added at the
-  end of a Special Skill. Status effects will not be added if this status effect is
-  removed during a Special Skill.'
+  -34% defense and -24% mana generation for 4 turns. (Status effects are added at
+  the end of a Special Skill. Status effects will not be added if this status effect
+  is removed during a Special Skill.)'
 - ' * All enemies receive 436 Water damage over 4 turns. The caster absorbs 50% of
   the dealt Water damage as health.'
 types:
@@ -36,12 +36,12 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/eqqisr9.jpg
 dtReleased: "2023-07-05"
-dtModified: "2026-04-03"
+dtModified: "2026-07-21"
 fancy_name: Primordial Goddess of Sea Monsters
 aetherPower: attack_up
 lb1:
-  power: 1000
-  attack: 1072
+  power: 999
+  attack: 1071
   defense: 905
   health: 1760
 lb2:
@@ -63,15 +63,15 @@ costume:
   - '1st:'
   - ' * Deals 340% damage to the target and minor damage to all other enemies.'
   - ' * If hit enemies use their Special Skill in the next 4 turns, they get -24%
-    attack, -24% defense and -14% mana generation for 4 turns. Status effects are
+    attack, -24% defense and -14% mana generation for 4 turns. (Status effects are
     added at the end of a Special Skill. Status effects will not be added if this
-    status effect is removed during a Special Skill.'
+    status effect is removed during a Special Skill.)'
   - '2nd:'
   - ' * Deals 500% damage to the target and minor damage to all other enemies.'
   - ' * If hit enemies use their Special Skill in the next 5 turns, they get -39%
-    attack, -44% defense and -24% mana generation for 5 turns. Status effects are
+    attack, -44% defense and -24% mana generation for 5 turns. (Status effects are
     added at the end of a Special Skill. Status effects will not be added if this
-    status effect is removed during a Special Skill.'
+    status effect is removed during a Special Skill.)'
   - ' * All enemies receive 735 Water damage over 5 turns. The caster absorbs 50%
     of the dealt Water damage as health.'
   types:
@@ -86,12 +86,12 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/wMfcpZk.jpg
   dtReleased: "2025-03-03"
-  dtModified: "2026-04-03"
+  dtModified: "2026-07-21"
   fancy_name: Primordial Queen of Sea Monsters
   aetherPower: special_boost
   lb1:
     power: 1244
-    attack: 1381
+    attack: 1380
     defense: 1150
     health: 2247
   lb2:

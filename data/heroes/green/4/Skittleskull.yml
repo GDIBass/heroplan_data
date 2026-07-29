@@ -143,7 +143,7 @@ costume4:
   - Attack Debuff All
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/qCkUNrw.jpg
+  image: https://i.imgur.com/qCkUNrw.jpg
   dtReleased: "2025-04-08"
   dtModified: "2026-06-06"
   fancy_name: Glass Witch
@@ -177,7 +177,7 @@ costume5:
   passives:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
-  image: https://imgur.com/ERrTkQ3.jpg
+  image: https://i.imgur.com/ERrTkQ3.jpg
   dtReleased: "2026-04-10"
   dtModified: "2026-06-06"
   fancy_name: Stylish Witch

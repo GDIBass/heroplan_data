@@ -26,7 +26,7 @@ passives:
   give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
-image: https://imgur.com/EbNjXYR.jpg
+image: https://i.imgur.com/EbNjXYR.jpg
 dtReleased: "2025-11-20"
 dtModified: "2026-03-20"
 fancy_name: Persistent Hunter

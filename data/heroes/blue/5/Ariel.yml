@@ -11,7 +11,8 @@ health: 1260
 skill: Divine Protection
 effects:
 - Recovers 40% health for all allies.
-- All allies get +24% mana generation for 4 turns.
+- All allies get +24% mana generation for 4 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 - Cleanses status ailments from all allies.
 types:
 - Healer All
@@ -19,7 +20,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/WWzsu8l.jpg
 dtReleased: ""
-dtModified: "2026-04-03"
+dtModified: "2026-07-16"
 fancy_name: Princess of Atlantis
 aetherPower: defense_up
 lb1:
@@ -86,7 +87,7 @@ costume2:
   passives:
   - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
     and buff dispels. Gain 5% mana on each successful resist.'
-  image: https://imgur.com/tXTk2O8.jpg
+  image: https://i.imgur.com/tXTk2O8.jpg
   dtReleased: "2026-04-29"
   dtModified: ""
   fancy_name: Toon Princess of Atlantis

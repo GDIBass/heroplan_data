@@ -1,0 +1,48 @@
+---
+name: Cade
+source: goblinvillage
+family: shadyscoundrel
+speed: Average
+class: Cleric
+power: 803
+attack: 869
+defense: 841
+health: 1281
+skill: Vengeful Mob
+effects:
+- Ransacks the target, stealing 200 health and a buff. (Safely steals one status effect
+  buff from the target. This includes Stubborn effects, undispellable buffs and Dance
+  effects. Safe stealing bypasses secondary effects, such as damage on removal, from
+  the removed buffs. Passive skills and family effects can still activate.)
+- Deals 420% damage to the target.
+- The target receives 276 Burn damage over 4 turns.
+types:
+- Ransack 1
+- Hit 1
+- DoT 1
+passives:
+- 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
+  enemy'
+- 'Ransack:'
+- ' * Steals 100 health.'
+- ' * Safely steals a buff from the enemy. This includes Stubborn effects, undispellable
+  buffs and Dance effects.'
+- 'Cheat Death: The first time this character would receive fatal damage, they instead
+  redirect 50% of that damage to a random enemy. In battles with multiple waves, the effect
+  is refreshed at the beginning of each wave.'
+image: https://i.imgur.com/aBjjwRs.jpg
+dtReleased: "2026-07-23"
+dtModified: ""
+fancy_name: The Unruly Peasant
+aetherPower: attack_up
+lb1:
+  power: 865
+  attack: 944
+  defense: 913
+  health: 1391
+lb2:
+  power: 991
+  attack: 1095
+  defense: 1060
+  health: 1614
+...

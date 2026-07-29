@@ -15,9 +15,9 @@ effects:
   misses its targets
 - Summon Owlkyrie Minion for the caster and nearby allies. The minion inherits 25%
   HP and 45% attack from the caster.
-- If the Owlkyrie Minion is defeated, Full Removal is cast on the attacker (Full Removal
-  removes all status effects, stack, Growth and Wither effects. Removes even status
-  effects and stacks that are otherwise undispellable or uncleansable.).
+- If the Owlkyrie Minion is defeated, Full Removal is cast on the attacker. (Full
+  Removal removes all status effects, stacks and Growth and Wither effects. Removes
+  even status effects and stacks that are otherwise Stubborn, undispellable or uncleansable.)
 - After the Full Removal is cast, the attacker shifts into Owlhalla Ghost form for
   3 turns.
 - While in Owlhalla the target receives 360 damage each turn. (While in Ghost form,
@@ -34,17 +34,17 @@ passives:
   the battle.'
 image: https://i.imgur.com/LyzgS9S.jpg
 dtReleased: "2025-02-05"
-dtModified: "2026-05-13"
+dtModified: "2026-07-16"
 fancy_name: Knight Guardian of Owl Tower
 aetherPower: counterattack
 lb1:
   power: 1240
-  attack: 1252
+  attack: 1251
   defense: 1278
   health: 2282
 lb2:
   power: 1401
   attack: 1432
-  defense: 1463
+  defense: 1462
   health: 2611
 ...

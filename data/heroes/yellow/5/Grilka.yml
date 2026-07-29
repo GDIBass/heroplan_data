@@ -12,11 +12,12 @@ skill: Holy Hibiscus Ale
 effects:
 - If there's 8 or more Holy shields on the board, then all effects cast in this Special
   Skill are undispellable.
-- The caster get Taunt that prevents enemies from using Special Skils on the caster's
+- The caster get Taunt that prevents enemies from using Special Skills on the caster's
   allies for 5 turns.
 - All allies regenerate 1300 boosted health over 5 turns. Boosted health can exceed
   max HP.
-- All allies get +44% mana generation for 5 turns.
+- All allies get +44% mana generation for 5 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Taunt
 - Boosted HoT All
@@ -31,7 +32,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/71dNXYj.jpg
 dtReleased: "2024-04-22"
-dtModified: ""
+dtModified: "2026-07-21"
 fancy_name: Hospitable Quartermaster
 aetherPower: taunt
 lb1:

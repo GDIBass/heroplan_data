@@ -11,9 +11,8 @@ health: 1398
 skill: Strength of the Behemoth
 effects:
 - Deals 220% damage to all enemies.
-- All allies get +120% normal attack for 4 turns. This effect can be active in addition
-  to effects that alter attack in general. Normal attacks can have a total maximum
-  of +170% increased power while this effect is active.
+- All allies get +120% normal attack for 4 turns. (If additional effect increase attack
+  in general, normal attacks can have a total maximum of +170% increased power.)
 - All allies get +46% defense for 4 turns.
 types:
 - Hit All
@@ -21,12 +20,12 @@ types:
 - Defense Buff All
 image: https://i.imgur.com/BZVWKzM.jpg
 dtReleased: "2022-06-27"
-dtModified: "2026-04-03"
+dtModified: "2026-07-16"
 fancy_name: Titan of Sea
 aetherPower: attack_up
 lb1:
   power: 890
-  attack: 952
+  attack: 951
   defense: 792
   health: 1507
 lb2:
@@ -45,17 +44,17 @@ costume:
   skill: Strength of the Volcano
   effects:
   - Deals 270% damage to all enemies.
-  - All allies get +125% normal attack for 4 turns. This effect can be active in addition
-    to effects that alter attack in general. Normal attacks can have a total maximum
-    of +180% increased power while this effect is active.
+  - All allies get +125% normal attack for 4 turns. (If additional effect increase
+    attack in general, normal attacks can have a total maximum of +180% increased
+    power.)
   - All allies get +50% defense for 4 turns.
   types:
   - Hit All
   - Titan Attack Buff All
   - Defense Buff All
-  image: https://imgur.com/0rCfFEu.jpg
+  image: https://i.imgur.com/0rCfFEu.jpg
   dtReleased: "2025-10-25"
-  dtModified: "2026-04-03"
+  dtModified: "2026-07-16"
   fancy_name: Titan of Magma
   aetherPower: rage
   lb1:
@@ -67,5 +66,5 @@ costume:
     power: 1233
     attack: 1377
     defense: 1123
-    health: 2232
+    health: 2231
 ...

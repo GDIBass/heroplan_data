@@ -24,7 +24,7 @@ types:
 passives:
 - 'Stack on Special: When this character casts their Special Skill, all allies get:
   Stack (Max: 10): Recovers 30 HP each turn.'
-image: https://imgur.com/I71luP2.jpg
+image: https://i.imgur.com/I71luP2.jpg
 dtReleased: "2026-03-30"
 dtModified: "2026-07-01"
 fancy_name: Wayfarer of Springvale

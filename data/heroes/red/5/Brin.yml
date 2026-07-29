@@ -1,0 +1,53 @@
+---
+name: Brin
+source: goblinvillage
+family: shadyscoundrel
+speed: Slow
+class: Paladin
+power: 1348
+attack: 1390
+defense: 1444
+health: 2375
+skill: Come-Hither
+effects:
+- This Special Skill never misses its targets.
+- Ransacks all enemies, stealing 400 health and a buff from each, and randomly distributes
+  stolen buffs on allies. (Safely steals one status effect buff from the target. This
+  includes Stubborn effects, undispellable buffs and Dance effects. Safe stealing
+  bypasses secondary effects, such as damage on removal, from the removed buffs. Passive
+  skills and family effects can still activate.)
+- Deals 400% damage to all enemies.
+- The damage is increased by 75% per each defeated enemy.
+- All enemies fall asleep and receive +60 increased damage while in sleeping. (A sleeping
+  character cannot gain mana or attack. The sleeping target is woken once it takes
+  damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends.
+  This effect is uncleansable.)
+types:
+- Ransack All
+- Hit All
+- Sleep All
+passives:
+- 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
+  enemy:'
+- ' * Steals 100 health.'
+- ' * Safely steals a buff from the enemy. This includes Stubborn effects, undispellable
+  buffs and Dance effects.'
+- 'Cheat Death: The first time this character would receive fatal damage, they instead
+  redirect that damage to a random enemy. In battles with multiple waves, the effect
+  is refreshed at the beginning of each wave.'
+image: https://i.imgur.com/bc3QqCW.jpg
+dtReleased: "2026-07-23"
+dtModified: ""
+fancy_name: Fatal Seducer
+aetherPower: damage_reduction
+lb1:
+  power: 1443
+  attack: 1498
+  defense: 1556
+  health: 2560
+lb2:
+  power: 1633
+  attack: 1714
+  defense: 1781
+  health: 2929
+...

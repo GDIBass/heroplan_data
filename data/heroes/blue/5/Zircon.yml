@@ -54,4 +54,57 @@ lb2:
   attack: 906
   defense: 1036
   health: 1769
+costume:
+  design: costume1
+  bonuses: 76/76/76/1
+  class: Paladin
+  power: 1346
+  attack: 1297
+  defense: 1478
+  health: 2525
+  skill: Defensive Ki
+  effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - Boosts health of all allies by 300. Boosted health can exceed max HP.
+  - All allies get +30% defense, and a further +5% increase every time they are hit
+    during 2 turns, up to +50% defense.
+  - All allies are immune to buff dispels and reallocations for 2 turns. (The immunity
+    also includes this effect itself. Also includes Ransack.)
+  - 'x2 Mana Charge:'
+  - Boosts health of all allies by 600. Boosted health can exceed max HP.
+  - All allies get +50% defense, and a further +5% increase every time they are hit
+    during 3 turns, up to +75% defense.
+  - All allies are immune to buff dispels and reallocations for 3 turns. (The immunity
+    also includes this effect itself. Also includes Ransack.)
+  - 'x3 Mana Charge:'
+  - Boosts health of all allies by 2000. Boosted health can exceed max HP.
+  - All allies get +65% defense, and a further +5% increase every time they are hit
+    during 4 turns, up to +90% defense.
+  - All allies are immune to buff dispels and reallocations for 4 turns. (The immunity
+    also includes this effect itself. Also includes Ransack.)
+  types:
+  - Charge
+  - Boosted Heal All
+  - Defense Buff All
+  - Buff Dispel Immunity All
+  passives:
+  - 'Weaker Minions: Enemy Minions have -50% HP.'
+  - 'Rending Touch: Each time this character counterattacks an enemy, the attacker
+    receives 544 Bleed damage over 4 turns.'
+  image: https://i.imgur.com/AzyLq2u.jpg
+  dtReleased: "2026-07-27"
+  dtModified: ""
+  fancy_name: Ninja of Iron Waves
+  aetherPower: defense_up
+  lb1:
+    power: 1441
+    attack: 1398
+    defense: 1593
+    health: 2721
+  lb2:
+    power: 1631
+    attack: 1599
+    defense: 1823
+    health: 3114
 ...

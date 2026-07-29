@@ -36,7 +36,7 @@ assist:
   - Recovers 200 health for all allies.
   - All enemies get -15% attack , and a further -1% decrease every time they are hit
     during 5 turns, down to -25% attack.
-image: https://imgur.com/Ioq1VcP.jpg
+image: https://i.imgur.com/Ioq1VcP.jpg
 dtReleased: "2025-07-08"
 dtModified: ""
 ...

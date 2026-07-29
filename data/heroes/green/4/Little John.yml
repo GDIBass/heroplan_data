@@ -146,7 +146,7 @@ costume4:
   - Mana Generation Debuff All
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/8scCOJR.jpg
+  image: https://i.imgur.com/8scCOJR.jpg
   dtReleased: "2025-05-10"
   dtModified: ""
   fancy_name: Mighty Vitrail
@@ -180,7 +180,7 @@ costume5:
   passives:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
-  image: https://imgur.com/EWTcfUC.jpg
+  image: https://i.imgur.com/EWTcfUC.jpg
   dtReleased: "2026-06-06"
   dtModified: ""
   fancy_name: Stylish Brother

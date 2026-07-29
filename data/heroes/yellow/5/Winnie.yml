@@ -31,8 +31,8 @@ fancy_name: Ursine Armorer
 aetherPower: defense_up
 lb1:
   power: 1097
-  attack: 1036
-  defense: 1132
+  attack: 1037
+  defense: 1131
   health: 2093
 lb2:
   power: 1238

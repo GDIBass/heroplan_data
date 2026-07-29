@@ -25,14 +25,14 @@ passives:
   Mega Minions.'
 - 'Resist Blind: This character is immune to status ailments that affect accuracy.
   Doesn''t apply to original status effects from allies.'
-image: https://imgur.com/19s6gxd.jpg
+image: https://i.imgur.com/19s6gxd.jpg
 dtReleased: "2026-03-01"
 dtModified: ""
 fancy_name: Dwarven Guider of Light
 aetherPower: damage_reduction
 lb1:
   power: 1266
-  attack: 1367
+  attack: 1366
   defense: 1358
   health: 2022
 lb2:

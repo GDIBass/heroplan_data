@@ -12,9 +12,9 @@ skill: Unrelenting Hunter
 effects:
 - Deals 250% damage to target and nearby enemies.
 - Reduces max health of the target and nearby enemies by 450 over 3 turns. The effect
-  is stronger against targets with boosted health. Max health can't get lower than
+  is stronger against targets with boosted health. (Max health can't get lower than
   30% of the original health. Any boosted health is reduced by an additional 150 per
-  turn.
+  turn.)
 types:
 - Hit 3
 - Health Reduction over time 3
@@ -25,7 +25,7 @@ passives:
 - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/0Yedhet.jpg
 dtReleased: "2022-05-19"
-dtModified: "2026-04-26"
+dtModified: "2026-07-28"
 fancy_name: God of the Hunt
 aetherPower: dodge
 lb1:
@@ -50,9 +50,9 @@ costume:
   effects:
   - Deals 230% damage to the target and nearby enemies.
   - Reduces max health of the target and nearby enemies by 600 over 3 turns. The effect
-    is stronger against targets with boosted health. Max health can't get lower than
+    is stronger against targets with boosted health. (Max health can't get lower than
     30% of the original health. Any boosted health is reduced by an additional 200
-    per turn.
+    per turn.)
   types:
   - Hit 3
   - Health Reduction over Time 3
@@ -68,7 +68,7 @@ costume:
     an enemy casts a Special Skill that directly boosts health.'
   image: https://i.imgur.com/fLHpPl2.jpg
   dtReleased: "2024-04-01"
-  dtModified: "2026-04-26"
+  dtModified: "2026-07-28"
   fancy_name: Golden Hunter
   aetherPower: special_boost
   lb1:

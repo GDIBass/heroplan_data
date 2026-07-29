@@ -14,7 +14,8 @@ effects:
 - All Dark enemies get -34% accuracy for 3 turns. (Chance to miss also applies to
   offensive Special Skills.)
 - All Ice enemies get -34% defense for 3 turns.
-- All Nature enemies get -34% mana generation for 3 turns.
+- All Nature enemies get -34% mana generation for 3 turns. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)
 - All Fire enemies get -34% attack for 3 turns.
 types:
 - Hit All
@@ -32,7 +33,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/sJ0rROO.jpg
 dtReleased: "2022-10-10"
-dtModified: "2026-04-13"
+dtModified: "2026-07-16"
 fancy_name: The Cosmic Enigma
 aetherPower: counterattack
 lb1:
@@ -75,7 +76,7 @@ costume:
   - ' - Received elemental damage: -25%'
   - 'Resist Dark Ailments: This character is immune to status ailments and negative
     stacks cast by Dark characters.'
-  image: https://imgur.com/bIp33Sf.jpg
+  image: https://i.imgur.com/bIp33Sf.jpg
   dtReleased: "2025-06-20"
   dtModified: "2026-07-01"
   fancy_name: The Gilded Enigma

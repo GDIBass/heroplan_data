@@ -29,13 +29,13 @@ dtModified: ""
 fancy_name: Reckless Duo
 aetherPower: damage_reduction
 lb1:
-  power: 1014
-  attack: 961
-  defense: 1034
+  power: 1013
+  attack: 960
+  defense: 1033
   health: 1882
 lb2:
   power: 1142
   attack: 1099
-  defense: 1183
+  defense: 1182
   health: 2153
 ...

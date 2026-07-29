@@ -31,7 +31,7 @@ passives:
   prevent the use of Special Skills.'
 - 'Stacking Attack On Damage Received: When this character receives damage from Special
   Skills, they gain +15% attack Stack (Max: 10). One Stack can be gained per turn.'
-image: https://imgur.com/28K5lmr.jpg
+image: https://i.imgur.com/28K5lmr.jpg
 dtReleased: "2026-07-01"
 dtModified: ""
 fancy_name: Battle Wolf

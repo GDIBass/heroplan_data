@@ -1,0 +1,44 @@
+---
+name: Nuyza
+fancy_name: "Spellbreaking Fae-Dragon"
+source: ancientUnderroot
+speed: Fast
+power: 13150
+attack: 16673
+defense: 16552
+health: 14646
+skill: Disenchanting Breath
+effects:
+- Dispels buffs from the target and nearby enemies.
+- Deals 250% damage to the target and nearby enemies.
+- The target and nearby enemies get -40% accuracy for 3 turns. (Chance to miss also
+  applies to offensive Special Skills.)
+types:
+- Dispeller 3
+- Hit 3
+- Blind 3
+spiritBonus:
+  spiritClass: Sorcerer
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Sacred Flame
+  effects:
+  - Deals 790 damage to all enemies.
+  - Recovers 220 health for all allies.
+  - All allies heal 40% of dealt normal damage for 5 turns.
+  - Cleanses status ailments from all allies.
+image: https://i.imgur.com/n4aWqnm.jpg
+dtReleased: "2026-07-21"
+dtModified: ""
+...

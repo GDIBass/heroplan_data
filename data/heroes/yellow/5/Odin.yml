@@ -14,13 +14,14 @@ effects:
 - Deals additional 18% damage per each Holy shield on the board, up to 244% damage
   in total
 - All allies get +8% mana generation, and a further 2% increase per each Holy shield
-  on the board for 3 turns, up to +28% mana generation
+  on the board for 3 turns, up to +28% mana generation. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Hit All
 - Mana Generation Buff All
 image: https://i.imgur.com/WpdZnYI.jpg
 dtReleased: "2020-11-26"
-dtModified: "2026-04-16"
+dtModified: "2026-07-20"
 fancy_name: Wise All-Father
 aetherPower: attack_up
 lb1:
@@ -47,13 +48,14 @@ costume:
   - Deals additional 25% damage per each Holy shield on the board, up to 290% damage
     in total
   - All allies get +8% mana generation, and a further 3% increase per each Holy shield
-    on the board for 3 turns, up to +38% mana generation
+    on the board for 3 turns, up to +38% mana generation. (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)
   types:
   - Hit All
   - Mana Generation Buff All
   image: https://i.imgur.com/guLxDJt.jpg
   dtReleased: "2023-03-13"
-  dtModified: "2026-04-16"
+  dtModified: "2026-07-20"
   fancy_name: Valiant All-Father
   aetherPower: special_boost
   lb1:

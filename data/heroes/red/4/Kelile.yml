@@ -143,7 +143,7 @@ costume4:
   - DoT 1
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/yqIwVAP.jpg
+  image: https://i.imgur.com/yqIwVAP.jpg
   dtReleased: "2025-04-23"
   dtModified: ""
   fancy_name: Vitrail of Dragonia
@@ -177,7 +177,7 @@ costume5:
   passives:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
-  image: https://imgur.com/FNbktxI.jpg
+  image: https://i.imgur.com/FNbktxI.jpg
   dtReleased: "2026-05-09"
   dtModified: ""
   fancy_name: Stylish Priestess

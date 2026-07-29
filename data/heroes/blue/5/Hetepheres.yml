@@ -11,10 +11,10 @@ health: 1629
 skill: Bewildering Riddle
 effects:
 - Recovers 50% health for all allies.
-- All allies get +84% defense agains Nature, and a further 2% increase every time
+- All allies get +84% defense against Nature, and a further 2% increase every time
   they are hit during 4 turns.
-- All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive
-  Special Skill.
+- All enemies get -40% accuracy for 4 turns. (Chance to miss also applies to offensive
+  Special Skill.)
 types:
 - Healer All
 - Elemental Defense Buff All
@@ -26,7 +26,7 @@ passives:
 - ' * Cleanses the latest cleansable status ailment from all allies.'
 image: https://i.imgur.com/wdaa6Lv.jpg
 dtReleased: "2023-02-16"
-dtModified: "2026-04-26"
+dtModified: "2026-07-28"
 fancy_name: Cunning Sphinx
 aetherPower: defense_up
 lb1:
@@ -52,8 +52,8 @@ costume:
   - Recovers 54% health for all allies.
   - All allies get +64% defense against Nature, and a further 3% increase every time
     they are hit during 4 turns.
-  - All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive
-    Special Skills.
+  - All enemies get -45% accuracy for 4 turns. (Chance to miss also applies to offensive
+    Special Skills.)
   types:
   - Healer All
   - Elemental Defense Buff All
@@ -70,7 +70,7 @@ costume:
     a buff or positive stack.'
   image: https://i.imgur.com/zPZlLVD.jpg
   dtReleased: "2024-03-04"
-  dtModified: "2026-04-26"
+  dtModified: "2026-07-28"
   fancy_name: Sphinx at the Spa
   aetherPower: heal_increase
   lb1:

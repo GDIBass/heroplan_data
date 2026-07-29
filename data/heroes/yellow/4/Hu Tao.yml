@@ -151,7 +151,7 @@ costume4:
   - Blind All
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/V32B1dq.jpg
+  image: https://i.imgur.com/V32B1dq.jpg
   dtReleased: "2025-06-18"
   dtModified: "2026-06-06"
   fancy_name: Blade of Glass
@@ -186,7 +186,7 @@ costume5:
   passives:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
-  image: https://imgur.com/uIqKue0.jpg
+  image: https://i.imgur.com/uIqKue0.jpg
   dtReleased: "2026-07-07"
   dtModified: ""
   fancy_name: Gilded Bamboo

@@ -113,7 +113,7 @@ costume3:
   - Heal Self
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/SdXnKqi.jpg
+  image: https://i.imgur.com/SdXnKqi.jpg
   dtReleased: "2025-04-08"
   dtModified: "2026-06-06"
   fancy_name: Resolute Vitrail
@@ -147,7 +147,7 @@ costume4:
   passives:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
-  image: https://imgur.com/daab7dm.jpg
+  image: https://i.imgur.com/daab7dm.jpg
   dtReleased: "2026-04-10"
   dtModified: "2026-06-06"
   fancy_name: Stylish Warden

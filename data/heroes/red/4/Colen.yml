@@ -144,7 +144,7 @@ costume4:
   - DoT All
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/7dLF49j.jpg
+  image: https://i.imgur.com/7dLF49j.jpg
   dtReleased: "2025-04-08"
   dtModified: "2026-06-06"
   fancy_name: Glass Bounty hunter
@@ -178,7 +178,7 @@ costume5:
   passives:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
-  image: https://imgur.com/4yp4cWs.jpg
+  image: https://i.imgur.com/4yp4cWs.jpg
   dtReleased: "2026-04-10"
   dtModified: "2026-06-06"
   fancy_name: Stylish Bounty Hunter

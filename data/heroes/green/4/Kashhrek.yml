@@ -147,7 +147,7 @@ costume4:
   - Elemental Defense Buff 3
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
-  image: https://imgur.com/WEPgm0c.jpg
+  image: https://i.imgur.com/WEPgm0c.jpg
   dtReleased: "2025-06-18"
   dtModified: "2026-06-06"
   fancy_name: Glass Chieftain
@@ -182,7 +182,7 @@ costume5:
   passives:
   - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
     ones.'
-  image: https://imgur.com/EFErBXT.jpg
+  image: https://i.imgur.com/EFErBXT.jpg
   dtReleased: "2026-07-07"
   dtModified: ""
   fancy_name: Stylish Chieftain

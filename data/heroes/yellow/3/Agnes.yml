@@ -11,13 +11,13 @@ health: 491
 skill: Precise Chop
 effects:
 - Deals 320% damage to the target.
-- The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.
+- The attack has a 60% chance to bypass defensive buffs. (This includes counterattacks.)
 types:
 - Hit 1
 - Bypass Chance
 image: https://i.imgur.com/epjHmoJ.jpg
 dtReleased: "2020-05-28"
-dtModified: "2026-03-20"
+dtModified: "2026-07-20"
 fancy_name: Courageous Villager
 aetherPower: attack_up
 lb1:

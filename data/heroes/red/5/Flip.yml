@@ -11,8 +11,8 @@ health: 1528
 skill: To the Rescue!
 effects:
 - Recovers 45% health for all allies.
-- All allies bypass defensive buffs with their attacks for 4 turns. Defensive buffs
-  include counterattacks.
+- All allies bypass defensive buffs with their attacks for 4 turns. (Defensive buffs
+  include counterattacks.)
 - All allies get +50% critical chance for 4 turns.
 types:
 - Healer
@@ -24,7 +24,7 @@ passives:
   enemies receive 200 Water damage over 2 turns.'
 image: https://i.imgur.com/VLECZaD.jpg
 dtReleased: "2023-06-12"
-dtModified: "2026-06-08"
+dtModified: "2026-07-21"
 fancy_name: Seal Lifeguard
 aetherPower: defense_up
 lb1:
@@ -60,7 +60,7 @@ costume:
     enemies receive 272 Water damage over 2 turns.'
   - 'Empowered Resist Water: This character is immune to status ailments that deal
     Water damage and gains 450 boosted health and 5% mana each time they resist.'
-  image: https://imgur.com/r5YqJOC.jpg
+  image: https://i.imgur.com/r5YqJOC.jpg
   dtReleased: "2025-06-03"
   dtModified: "2026-06-08"
   fancy_name: Seal Donut Vendor

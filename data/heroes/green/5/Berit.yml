@@ -24,7 +24,7 @@ passives:
   give a Hunter''s Mark on a random enemy. The target receives 150 damage over 3 turns.
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
-image: https://imgur.com/ZYtPylm.jpg
+image: https://i.imgur.com/ZYtPylm.jpg
 dtReleased: "2026-03-20"
 dtModified: "2026-03-20"
 fancy_name: Berylline Bruiser
@@ -36,7 +36,7 @@ lb1:
   health: 2475
 lb2:
   power: 1560
-  attack: 1653
+  attack: 1654
   defense: 1645
-  health: 2832
+  health: 2831
 ...

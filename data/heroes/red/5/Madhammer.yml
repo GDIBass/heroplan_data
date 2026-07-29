@@ -16,8 +16,8 @@ effects:
 - Summons a Black Boar Mega Minion with 62% HP and 230% attack inherited from the
   caster.
 - The target hit by Black Boar Mega Minion can't get their status ailments cleansed
-  or rellocated from Special Skills for 4 turns. This effect also prevents cleansing
-  and rellocating of itself.
+  or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing
+  and reallocating of itself.)
 types:
 - Hit 1
 - Extra Hit 1 Chance
@@ -29,7 +29,7 @@ passives:
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/dPF8ESH.jpg
 dtReleased: "2023-10-16"
-dtModified: ""
+dtModified: "2026-07-21"
 fancy_name: Goblin Brawler
 aetherPower: attack_up
 lb1:

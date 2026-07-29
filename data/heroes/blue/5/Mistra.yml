@@ -14,8 +14,8 @@ effects:
 - If the target is Average mana speed, deals an additional 50% damage.
 - If the target is Fast mana speed, deals an additional 100% damage.
 - If the target is Very Fast mana speed, deals an additional 150% damage. (In Rush
-  Attack tournaments and wars enemies are considered as Very Fast mana speed. All
-  monsters are considered as Average mana speed.
+  Attack tournaments and wars, enemies are considered as Very Fast mana speed. All
+  monsters are considered as Average mana speed.)
 - Heals all allies for 10% of damage dealt.
 types:
 - Hit All
@@ -29,7 +29,7 @@ passives:
   attack.'
 image: https://i.imgur.com/NaHaaPY.jpg
 dtReleased: "2024-05-03"
-dtModified: ""
+dtModified: "2026-07-21"
 fancy_name: Discus Throw Champion
 aetherPower: defense_up
 lb1:
@@ -39,7 +39,7 @@ lb1:
   health: 1998
 lb2:
   power: 1256
-  attack: 1231
-  defense: 1358
+  attack: 1232
+  defense: 1359
   health: 2286
 ...

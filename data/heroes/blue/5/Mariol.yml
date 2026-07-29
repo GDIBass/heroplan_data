@@ -29,12 +29,12 @@ fancy_name: Courtier of Owl Tower
 aetherPower: heal_increase
 lb1:
   power: 1119
-  attack: 1143
+  attack: 1142
   defense: 1163
-  health: 1920
+  health: 1919
 lb2:
   power: 1262
-  attack: 1308
+  attack: 1307
   defense: 1330
-  health: 2197
+  health: 2196
 ...

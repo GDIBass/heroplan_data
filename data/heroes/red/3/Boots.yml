@@ -39,4 +39,45 @@ lb2:
   attack: 637
   defense: 641
   health: 1343
+costume:
+  design: costume1
+  bonuses: 14/14/14/5
+  class: Cleric
+  power: 543
+  attack: 519
+  defense: 518
+  health: 1083
+  skill: Candle Thump
+  effects:
+  - Deals 210% damage to the target and nearby enemies.
+  - 'Wither: The target and nearby enemies get -45 attack and -45 defense.'
+  - All damage the target and nearby enemies is increased by +40% for 3 turns.
+  types:
+  - Hit 3
+  - Attack Wither 3
+  - Defense Wither 3
+  - Increased Received Damage Debuff 3
+  passives:
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill.'
+  - ' * Deals 90% damage to all enemies.'
+  - ' * All enemies get -25% accuracy for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  image: https://i.imgur.com/n81c7ZI.jpg
+  dtReleased: "2026-07-23"
+  dtModified: ""
+  fancy_name: Oblivious Explorer
+  aetherPower: special_boost
+  lb1:
+    power: 606
+    attack: 588
+    defense: 587
+    health: 1227
+  lb2:
+    power: 734
+    attack: 727
+    defense: 725
+    health: 1517
 ...

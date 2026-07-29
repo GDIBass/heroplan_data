@@ -2,7 +2,7 @@
 ailment_immunity:
   key: ailment_immunity
   image: aether/ailment_immunity.png
-  imageImgur: https://imgur.com/yao2wuI.png
+  imageImgur: https://i.imgur.com/yao2wuI.png
   description: Ailment Immunity
   descriptionLong:
     - At the start of each battle, this Hero is immune to new status ailments for 6
@@ -12,7 +12,7 @@ ailment_immunity:
 ailment_reflect:
   key: ailment_reflect
   image: aether/ailment_reflect.png
-  imageImgur: https://imgur.com/75Ha8N4.png
+  imageImgur: https://i.imgur.com/75Ha8N4.png
   description: Ailment Reflect
   descriptionLong:
     - At the start of each battle, this Hero reflects cleansable status ailments they
@@ -22,7 +22,7 @@ ailment_reflect:
 attack_up:
   key: attack_up
   image: aether/attack_up.png
-  imageImgur: https://imgur.com/ghNcCzL.png
+  imageImgur: https://i.imgur.com/ghNcCzL.png
   description: Attack Up
   descriptionLong:
     - At the start of each battle, this Hero gets +20% attack for 6 turns.
@@ -31,7 +31,7 @@ attack_up:
 boosted_regen:
   key: boosted_regen
   image: aether/boosted_regen.png
-  imageImgur: https://imgur.com/G0UlCBl.png
+  imageImgur: https://i.imgur.com/G0UlCBl.png
   description: Boosted Regen
   descriptionLong:
     - At the start of each battle, this Hero regenerates 300 boosted health over 6 turns.
@@ -41,7 +41,7 @@ boosted_regen:
 bulwark:
   key: bulwark
   image: aether/bulwark.png
-  imageImgur: https://imgur.com/cwPnBXB.png
+  imageImgur: https://i.imgur.com/cwPnBXB.png
   description: Bulwark
   descriptionLong:
     - At the start of each battle, this Hero gets +15% defense, and a further 1% increase
@@ -51,7 +51,7 @@ bulwark:
 counterattack:
   key: counterattack
   image: aether/counterattack.png
-  imageImgur: https://imgur.com/VQ1haGS.png
+  imageImgur: https://i.imgur.com/VQ1haGS.png
   description: Counterattack
   descriptionLong:
     - At the start of each battle, this Hero counterattacks with 60% of the damage received
@@ -61,7 +61,7 @@ counterattack:
 damage_reduction:
   key: damage_reduction
   image: aether/damage_reduction.png
-  imageImgur: https://imgur.com/ya4fFQt.png
+  imageImgur: https://i.imgur.com/ya4fFQt.png
   description: Damage Reduction
   descriptionLong:
     - At the start of each battle, all damage received by this Hero is reduced by -10%
@@ -71,7 +71,7 @@ damage_reduction:
 defense_up:
   key: defense_up
   image: aether/defense_up.png
-  imageImgur: https://imgur.com/UKPWIqY.png
+  imageImgur: https://i.imgur.com/UKPWIqY.png
   description: Defense Up
   descriptionLong:
     - At the start of each battle, this Hero gets +20% defense for 6 turns.
@@ -80,7 +80,7 @@ defense_up:
 dodge:
   key: dodge
   image: aether/dodge.png
-  imageImgur: https://imgur.com/g3qGNoQ.png
+  imageImgur: https://i.imgur.com/g3qGNoQ.png
   description: Dodge
   descriptionLong:
     - At the start of each battle, this Hero gets +20% chance to dodge Special Skills
@@ -90,7 +90,7 @@ dodge:
 fiend_resist:
   key: fiend_resist
   image: aether/fiend_resist.png
-  imageImgur: https://imgur.com/neI9bHL.png
+  imageImgur: https://i.imgur.com/neI9bHL.png
   description: Fiend Resist
   descriptionLong:
     - At the start of each battle, this Hero is immune to new Fiends for 6 turns.
@@ -99,7 +99,7 @@ fiend_resist:
 gamble:
   key: gamble
   image: aether/gamble.png
-  imageImgur: https://imgur.com/MxacyML.png
+  imageImgur: https://i.imgur.com/MxacyML.png
   description: Gamble
   descriptionLong:
     - At the start of each battle, this Hero gets +60% attack with -20% accuracy for
@@ -109,7 +109,7 @@ gamble:
 heal_increase:
   key: heal_increase
   image: aether/heal_increase.png
-  imageImgur: https://imgur.com/EFDNkfC.png
+  imageImgur: https://i.imgur.com/EFDNkfC.png
   description: Heal Increase
   descriptionLong:
     - At the start of each battle, this Hero gets +50% increase for any healing received
@@ -119,7 +119,7 @@ heal_increase:
 knights_endurance:
   key: knights_endurance
   image: aether/knights_endurance.png
-  imageImgur: https://imgur.com/JQfOyAa.png
+  imageImgur: https://i.imgur.com/JQfOyAa.png
   description: Knight's Endurance
   descriptionLong:
     - At the start of each battle, this Hero has a 15% chance to drop any received damage
@@ -129,7 +129,7 @@ knights_endurance:
 mana_boost:
   key: mana_boost
   image: aether/mana_boost.png
-  imageImgur: https://imgur.com/wEcShkQ.png
+  imageImgur: https://i.imgur.com/wEcShkQ.png
   description: Mana Boost
   descriptionLong:
     - At the start of each battle, this Hero receives a small amount of mana over 6
@@ -139,7 +139,7 @@ mana_boost:
 rage:
   key: rage
   image: aether/rage.png
-  imageImgur: https://imgur.com/CoJayoV.png
+  imageImgur: https://i.imgur.com/CoJayoV.png
   description: Rage
   descriptionLong:
     - At the start of each battle, this Hero gets +15% attack, and a further 1% increase
@@ -149,7 +149,7 @@ rage:
 regen:
   key: regen
   image: aether/regen.png
-  imageImgur: https://imgur.com/FByU7Ri.png
+  imageImgur: https://i.imgur.com/FByU7Ri.png
   description: Regen
   descriptionLong:
     - At the start of each battle, this Hero regenerates 420 health over 6 turns.
@@ -158,7 +158,7 @@ regen:
 revive:
   key: revive
   image: aether/revive.png
-  imageImgur: https://imgur.com/s0eNwsq.png
+  imageImgur: https://i.imgur.com/s0eNwsq.png
   description: Revive
   descriptionLong:
     - If this Hero is defeated during the first 4 turns of a battle, they are resurrected
@@ -169,7 +169,7 @@ revive:
 special_armor:
   key: special_armor
   image: aether/special_armor.png
-  imageImgur: https://imgur.com/UsOYAKk.png
+  imageImgur: https://i.imgur.com/UsOYAKk.png
   description: Special Armor
   descriptionLong:
     - At the start of each battle, this Hero gets +40% defense against Special Skills
@@ -179,7 +179,7 @@ special_armor:
 special_boost:
   key: special_boost
   image: aether/special_boost.png
-  imageImgur: https://imgur.com/szKG5rf.png
+  imageImgur: https://i.imgur.com/szKG5rf.png
   description: Special Boost
   descriptionLong:
     - At the start of each battle, this Hero's Special Skill deals an additional +30%
@@ -189,7 +189,7 @@ special_boost:
 taunt:
   key: taunt
   image: aether/taunt.png
-  imageImgur: https://imgur.com/9BKP4xh.png
+  imageImgur: https://i.imgur.com/9BKP4xh.png
   description: Taunt
   descriptionLong:
     - At the start of each battle, this Hero gets Taunt that prevents enemies from using
@@ -199,7 +199,7 @@ taunt:
 vampire:
   key: vampire
   image: aether/vampire.png
-  imageImgur: https://imgur.com/bo9eG00.png
+  imageImgur: https://i.imgur.com/bo9eG00.png
   description: Vampire
   descriptionLong:
     - At the start of each battle, this Hero heals 100% of dealt normal damage for 6

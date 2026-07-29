@@ -22,7 +22,7 @@ types:
 passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
-image: https://imgur.com/TSKPS9R.jpg
+image: https://i.imgur.com/TSKPS9R.jpg
 dtReleased: "2025-05-27"
 dtModified: ""
 fancy_name: Exacting Commander
@@ -36,5 +36,5 @@ lb2:
   power: 1431
   attack: 1539
   defense: 1455
-  health: 2578
+  health: 2577
 ...

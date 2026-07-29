@@ -1,0 +1,50 @@
+---
+name: Chilazar
+source: valiant
+family: vegetable
+speed: Very Fast
+class: Wizard
+power: 1344
+attack: 1411
+defense: 1392
+health: 2397
+skill: Hot and Spicy
+effects:
+- Deals 450% damage to the target and all Nature enemies.
+- The attack bypasses defense buffs. (This includes counterattacks.)
+- The target and all Nature enemies receive 765 Burn damage over 3 turns.
+- 'Stack (Max: 10): The caster gets +25% attack.'
+types:
+- Hit 1
+- Hit All Nature
+- Bypass
+- DoT 1
+- DoT All Nature
+- Attack Stack Self
+passives:
+- 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
+  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
+  mana each time they resist.'
+- 'Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.'
+- '* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.'
+- '* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.'
+- '* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.'
+- '1) Seedling Fiend: 50% attack, 20% health'
+- '2) Sprout Fiend: 75% attack, 30% health'
+- '3) Blossom Mega Fiend: 250% attack, 60% health.'
+image: https://i.imgur.com/Xr8GYf8.jpg
+dtReleased: "2026-07-19"
+dtModified: ""
+fancy_name: Inferno Chili
+aetherPower: attack_up
+lb1:
+  power: 1438
+  attack: 1521
+  defense: 1500
+  health: 2583
+lb2:
+  power: 1628
+  attack: 1740
+  defense: 1716
+  health: 2956
+...
