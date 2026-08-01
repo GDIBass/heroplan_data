@@ -1,0 +1,41 @@
+---
+name: Colt
+source: hotm
+family: "2026"
+speed: Very Fast
+class: Ranger
+power: 1250
+attack: 1271
+defense: 1320
+health: 2224
+skill: Biting Bolt
+effects:
+- Deals 200% damage to the target.
+- If the target has less than 50% health remaining, deals 600% damage instead.
+- The target receives 584 Bleed damage over 2 turns.  The caster absorbs 100% of dealt
+  Bleed damage as boosted health.
+- Elemental Link recovers +4% health for all Holy allies for 6 turns. This effect
+  can’t be dispelled.
+types:
+- Hit 1
+- DoT 1
+- Boosted Heal Self on DoT
+passives:
+- 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+image: https://i.imgur.com/UaYj4Re.jpg
+dtReleased: "2026-08-01"
+dtModified: ""
+fancy_name: Alchemist of the Quiver
+aetherPower: dodge
+lb1:
+  power: 1338
+  attack: 1370
+  defense: 1422
+  health: 2397
+lb2:
+  power: 1513
+  attack: 1567
+  defense: 1628
+  health: 2743
+...
