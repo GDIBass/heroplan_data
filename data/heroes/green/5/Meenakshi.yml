@@ -13,7 +13,7 @@ effects:
 - Recovers 25% health for the caster and nearby allies.
 - 'Growth Boon: Recovers 2x extra health for each point of modified defense. (Extra
   health is based on the modified defense on the caster when healing is applied. Up
-  to a maximum 600 of additional healing. Status effects affecting healing received
+  to maximum 600 of additional healing. Status effects affecting healing received
   do affect the healing scaling.)'
 - The caster and nearby allies counterattack with 150% of the damage received for
   4 turns.
@@ -34,7 +34,7 @@ passives:
   effects and damage from Minions and Mega Minions.'
 image: https://i.imgur.com/ncLhZOI.jpg
 dtReleased: "2026-02-25"
-dtModified: "2026-04-28"
+dtModified: "2026-08-01"
 fancy_name: Coconut Chechi
 aetherPower: special_armor
 lb1:
