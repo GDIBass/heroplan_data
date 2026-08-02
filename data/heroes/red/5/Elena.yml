@@ -163,4 +163,39 @@ costume4:
     attack: 1493
     defense: 1485
     health: 3082
+costume5:
+  design: stylish
+  bonuses: 90/90/95/5
+  class: Fighter
+  power: 1337
+  attack: 1330
+  defense: 1311
+  health: 2714
+  skill: Wall of Style
+  effects:
+  - Deals 372% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 522% damage instead.
+  - The caster and nearby allies counterattack with 122% of the damage received for
+    5 turns.
+  types:
+  - Hit All
+  - Counterattack 3
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://i.imgur.com/9hEx1Y1.jpg
+  dtReleased: "2026-08-02"
+  dtModified: ""
+  fancy_name: Captain of the Style Guard
+  aetherPower: regen
+  lb1:
+    power: 1431
+    attack: 1433
+    defense: 1413
+    health: 2925
+  lb2:
+    power: 1620
+    attack: 1640
+    defense: 1617
+    health: 3347
 ...

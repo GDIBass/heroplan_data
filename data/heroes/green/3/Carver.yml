@@ -128,4 +128,38 @@ costume3:
     attack: 875
     defense: 601
     health: 1151
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Rogue
+  power: 546
+  attack: 663
+  defense: 451
+  health: 878
+  skill: Slash of Stylish Blades
+  effects:
+  - Deals 175% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 245% damage instead.
+  - Reduces the mana of all enemies by -19%.
+  types:
+  - Hit All
+  - Mana Reduction All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://i.imgur.com/0gQo781.jpg
+  dtReleased: "2026-08-02"
+  dtModified: ""
+  fancy_name: Stylish Cutpurse
+  aetherPower: attack_up
+  lb1:
+    power: 610
+    attack: 751
+    defense: 511
+    health: 995
+  lb2:
+    power: 739
+    attack: 929
+    defense: 631
+    health: 1230
 ...
