@@ -1,28 +1,26 @@
 ---
-name: Ajay
+name: Avani
 source: temple
 family: mahayoddha
 speed: Fast
-class: Barbarian
-power: 1314
-attack: 1384
-defense: 1339
-health: 2360
-skill: Urumi Lashings
+class: Druid
+power: 1350
+attack: 1398
+defense: 1429
+health: 2401
+skill: Anointed Machete
 effects:
-- Deals 310% damage to the target.
-- The attack chains through all the enemies who are adjacent to any hit enemy.
-- All hit targets receive 933 Bleed damage over 3 turns.
+- Deals 600% damage to the target.
 - 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage
   is based on the modified attack on caster, when damage is dealt. Up to maximum 600
   additional extra damage. Status effects affecting damage dealt do affect the extra
   damage. Defense stat does not affect the extra damage. Status effect affecting attack
   stat do not affect the extra damage.)'
+- The target receives 1068 Sand damage over 3 turns.
 types:
 - Hit 1
-- Chain Attack
-- DoT on hit
 - Hit Growth Boon
+- DoT 1
 passives:
 - 'Mana on Damage Received:'
 - ' * When this character receives direct damage from Special Skills or Normal Attacks
@@ -30,19 +28,19 @@ passives:
 - ' * Maximum of 10% mana gained per turn.'
 - 'Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions
   and Mega Minions.'
-image: https://i.imgur.com/c2yWZe5.jpg
-dtReleased: "2026-04-21"
-dtModified: "2026-08-01"
-fancy_name: Urumi Warrior
+image: https://i.imgur.com/jKyDa9q.jpg
+dtReleased: "2026-08-01"
+dtModified: ""
+fancy_name: Vigilante of Sacred Grove
 aetherPower: attack_up
 lb1:
-  power: 1407
-  attack: 1491
-  defense: 1443
-  health: 2544
+  power: 1445
+  attack: 1507
+  defense: 1540
+  health: 2588
 lb2:
-  power: 1592
-  attack: 1707
-  defense: 1651
-  health: 2910
+  power: 1636
+  attack: 1724
+  defense: 1762
+  health: 2961
 ...

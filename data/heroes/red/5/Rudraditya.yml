@@ -11,10 +11,11 @@ health: 2387
 skill: Agni Talwar Takedown
 effects:
 - Deals 600% damage to the target.
-- 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage  is
-  based on the modified attack on the caster when damage is dealt. Up to a maximum
-  600 of additional damage. Status effects affecting damage dealt do affect the extra
-  damage. Status effects affecting attack stack do not affect the extra damage.)'
+- 'Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage
+  is based on the modified attack on caster, when damage is dealt. Up to maximum 600
+  additional extra damage. Status effects affecting damage dealt do affect the extra
+  damage. Defense stat does not affect the extra damage. Status effect affecting attack
+  stat do not affect the extra damage.)'
 - The target receives 776 Burn damage over 4 turns. Against Nature characters, this
   status effect becomes uncleansable and lasts 2 turns longer.
 - All allies reflect status ailments, negative stacks, and Wither effects to a random
@@ -34,7 +35,7 @@ passives:
   and Mega Minions.'
 image: https://i.imgur.com/FeMFRN3.jpg
 dtReleased: "2026-05-26"
-dtModified: ""
+dtModified: "2026-08-01"
 fancy_name: The Sun Warrior
 aetherPower: defense_up
 lb1:

@@ -11,9 +11,10 @@ health: 2307
 skill: Gift of Rejuvenation
 effects:
 - Recover 25% health for all allies.
-- 'Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum
-  600 additional  healing. Status effects affecting healing received do affect the
-  healing scaling.)'
+- 'Growth Boon: Recovers 2x extra health for each point of modified defense. (Extra
+  health is based on the modified defense on the caster when healing is applied. Up
+  to maximum 600 of additional healing. Status effects affecting healing received
+  do affect the healing scaling.)'
 - Each defeated ally has a 35% chance to get revived with 35% HP.
 - Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the
   order they have been received. The latest status ailments are cleansed first.)
@@ -31,7 +32,7 @@ passives:
   effects and damage from Minions and Mega Minions.'
 image: https://i.imgur.com/4vCPlzL.jpg
 dtReleased: "2025-06-16"
-dtModified: "2026-04-28"
+dtModified: "2026-08-01"
 fancy_name: Warrior Princess of Manipura
 aetherPower: dodge
 lb1:

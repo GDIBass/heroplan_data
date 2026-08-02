@@ -126,4 +126,36 @@ costume3:
     attack: 826
     defense: 731
     health: 1035
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Cleric
+  power: 548
+  attack: 621
+  defense: 557
+  health: 785
+  skill: Stylish Prayer
+  effects:
+  - Recovers 45% health for the ally with the lowest remaining HP. All other allies
+    recover 38% health.
+  types:
+  - Healer All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://i.imgur.com/kCPcFOB.jpg
+  dtReleased: "2026-08-02"
+  dtModified: ""
+  fancy_name: Stylish Shaman
+  aetherPower: defense_up
+  lb1:
+    power: 612
+    attack: 703
+    defense: 631
+    health: 889
+  lb2:
+    power: 741
+    attack: 870
+    defense: 780
+    health: 1099
 ...

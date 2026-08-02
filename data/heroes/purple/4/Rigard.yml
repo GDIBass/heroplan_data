@@ -166,4 +166,38 @@ costume4:
     attack: 1051
     defense: 960
     health: 1546
+costume5:
+  design: stylish
+  bonuses: 30/30/30/5
+  class: Cleric
+  power: 818
+  attack: 906
+  defense: 842
+  health: 1292
+  skill: Stylification
+  effects:
+  - Recovers 55% health for the ally with the lowest remaining HP. All other allies
+    recover 48% health.
+  - Cleanses status ailments from all allies.
+  types:
+  - Healer All
+  - Cleanser
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://i.imgur.com/4XQtbxM.jpg
+  dtReleased: "2026-08-02"
+  dtModified: ""
+  fancy_name: Stylish Cavalier
+  aetherPower: defense_up
+  lb1:
+    power: 881
+    attack: 984
+    defense: 914
+    health: 1403
+  lb2:
+    power: 1009
+    attack: 1141
+    defense: 1061
+    health: 1628
 ...

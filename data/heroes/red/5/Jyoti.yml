@@ -11,9 +11,10 @@ health: 2325
 skill: Fiery Performance
 effects:
 - Recovers 42% health for all allies.
-- 'Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum
-  600 additional  healing. Status effects affecting healing received do affect the
-  healing scaling.)'
+- 'Growth Boon: Recovers 2x extra health for each point of modified defense. (Extra
+  health is based on the modified defense on the caster when healing is applied. Up
+  to maximum 600 of additional healing. Status effects affecting healing received
+  do affect the healing scaling.)'
 - All allies are immune to new status ailments for 4 turns, and recovers 250 health
   for each attempted status ailment.
 - Alters the power of all Fire shields on the board. When an attacking Hero casts
@@ -34,7 +35,7 @@ passives:
   effects and damage from Minions and Mega Minions.'
 image: https://i.imgur.com/vK0I9hS.jpg
 dtReleased: "2026-01-01"
-dtModified: "2026-05-26"
+dtModified: "2026-08-01"
 fancy_name: Chari Dancer
 aetherPower: special_armor
 lb1:
