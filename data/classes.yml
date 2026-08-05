@@ -155,8 +155,8 @@ classes:
           - 30
           - 80
       predefinedRoutes:
-        att-def: 0aaaabbabbabaaaaaaabaaabaa
-        att-def-mana: 0aaaabbabbabaaaaaaaaaaabaa
+        att-def: 0aaaabbabbabaaaaaaabaaaaaa
+        att-def-mana: 0aaaabbabbabaaaaaaaaaaaaaa
         att-health: 0aaaabbaaaaaaaaaaaabaaabaa
         att-health-mana: 0aaaabbaaaaaaaaaaaaaaaabaa
         def-att: 0abbabbabbabaaaabbababbaba
