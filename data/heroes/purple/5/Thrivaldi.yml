@@ -44,4 +44,51 @@ lb2:
   attack: 1513
   defense: 1419
   health: 2865
+costume:
+  design: costume1
+  bonuses: 13/13/15/5
+  class: Sorcerer
+  power: 1351
+  attack: 1398
+  defense: 1298
+  health: 2669
+  skill: Umbral Atmosphere
+  effects:
+  - Attacks all enemies with Frostfall Strike, dealing up to 1800 damage. Deals 40%
+    more if the target is of the Fire element. This Special Skill never misses its
+    targets.
+  - All allies get +30% defense, and a further 10% increase every time they are hit
+    during for 4 turns, up to +90% defense.
+  - All allies are immune to damage from status ailments and negative stacks for 4
+    turns.
+  types:
+  - Frostfall Strike All
+  - Defense Buff All
+  - Status Ailment Immunity All
+  passives:
+  - 'Resist Stealing: This character is immune to stealing and Ransacking.'
+  - 'Empowered Resist Frost: This character is immune to status ailments that deal
+    Frost damage and gains 600 boosted health and 10% mana each time they resist.'
+  - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
+    is cast'
+  - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
+    Core, the Corrosive Frost deals 412 Frost damage and lowers the target''s attack
+    by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Frost damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
+  image: https://i.imgur.com/nTkmApS.jpg
+  dtReleased: "2026-08-05"
+  dtModified: ""
+  fancy_name: Dwarven Void Seeker
+  aetherPower: bulwark
+  lb1:
+    power: 1446
+    attack: 1507
+    defense: 1399
+    health: 2877
+  lb2:
+    power: 1637
+    attack: 1724
+    defense: 1601
+    health: 3292
 ...

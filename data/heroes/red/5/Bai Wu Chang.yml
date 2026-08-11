@@ -1,0 +1,48 @@
+---
+name: Bai Wu Chang
+source: kingdom
+family: ghosts
+speed: Average
+class: Cleric
+power: 1352
+attack: 1400
+defense: 1433
+health: 2401
+skill: Gratified Judgement
+effects:
+- Cleanses status ailments from the caster and nearby allies.
+- Recovers 55% health for the caster and nearby allies.
+- All allies recover 1500 health after 4 turns. If the effect is removed or replaced
+  before the duration ends, recovers 1800 health instead.
+types:
+- Cleanser 3
+- Healer 3
+- Delayed Heal All
+passives:
+- 'Vengeful Haunting: When this character loses more than 25% of max health at once,
+  the following effects activate.'
+- ' * This character casts Full Removal on themselves. (Full Removal removes all status
+  effects, stacks and Growth and Wither effects. Removes even status effects and stacks
+  that are otherwise Stubborn, undispellable or uncleansable.)'
+- ' * This character shifts into Vengeful Ghost form for 2 turns. At the end of each
+  turn, Vengeful Ghost deals 450% damage to a random enemy and dispels buffs from
+  them. This effect is undispellable. (While in a Ghost form, character can''t gain
+  mana and can''t be healed by Special Skills, but is immune to normal attacks, Special
+  Skill attacks, damage dealing passives, status effects and stacks. Immune to new
+  Growth, Wither and Insanity effects.)'
+image: https://i.imgur.com/wDR9Lkx.jpg
+dtReleased: "2026-08-05"
+dtModified: ""
+fancy_name: White Guardian of Underworld
+aetherPower: heal_increase
+lb1:
+  power: 1447
+  attack: 1509
+  defense: 1544
+  health: 2588
+lb2:
+  power: 1638
+  attack: 1726
+  defense: 1767
+  health: 2961
+...

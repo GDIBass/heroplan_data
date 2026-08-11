@@ -10,25 +10,25 @@ defense: 641
 health: 1113
 skill: Buccaneers Blade
 effects:
-- Deals 320% damage to the target
-- The target gets silenced for 3 turns
+- Deals 320% damage to the target.
+- The target gets silenced for 3 turns.
 types:
 - Hit 1
-- Silence
+- Silence 1
 image: https://i.imgur.com/aPVBzpo.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-08-03"
 fancy_name: Cabin Boy of Corellia
 aetherPower: revive
 lb1:
-  power: 694
-  attack: 699
-  defense: 697
+  power: 693
+  attack: 698
+  defense: 696
   health: 1209
 lb2:
-  power: 791
-  attack: 811
-  defense: 808
+  power: 790
+  attack: 810
+  defense: 807
   health: 1402
 costume:
   design: costume1
@@ -45,21 +45,21 @@ costume:
   - The target gets -24% defense for 3 turns.
   types:
   - Hit 1
-  - Silence
-  - Defense debuff
+  - Silence 1
+  - Defense Debuff 1
   image: https://i.imgur.com/caAHKaT.jpg
   dtReleased: "2023-12-28"
-  dtModified: ""
+  dtModified: "2026-08-03"
   fancy_name: Paper Boy at Shore
   aetherPower: ailment_immunity
   lb1:
     power: 732
-    attack: 734
+    attack: 733
     defense: 775
-    health: 1242
+    health: 1240
   lb2:
-    power: 836
-    attack: 851
+    power: 835
+    attack: 850
     defense: 899
     health: 1439
 ...

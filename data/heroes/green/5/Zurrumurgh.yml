@@ -1,0 +1,52 @@
+---
+name: Zurrumurgh
+source: astral
+family: astraldemons
+speed: Average
+class: Wizard
+power: 1353
+attack: 1388
+defense: 1444
+health: 2416
+skill: Eye See You!
+effects:
+- Deals 630% damage to the target.
+- Casts Full Removal on the target. (Full Removes removes all status effects, stacks
+  and Growth and Wither effects. Removes even status effects and stacks that are otherwise
+  Stubborn, undispellable or uncleansable.)
+- The target shifts into Abyss Ghost form for 3 turns.
+- While in Abyss Ghost form the target receives 483 damage each turn. (While in a
+  Ghost form, character can't gain mana and can't be healed by Special Skills, but
+  is immune to normal attacks, Special Skill attacks, damage dealing passives, status
+  effects and stacks. Immune to new Growth, Wither and Insanity effects. Can't be
+  cast if there is only one enemy left in the battle. Titans and Mythic Titans are
+  not affected by this status effect.)
+types:
+- Hit 1
+- Full Removal 1
+- Abyss Ghost 1
+- DoT 1 while ghost
+passives:
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
+- 'Resist Negative Mana Effects: This character is immune to mana reductions, as well
+  as status ailments and negative stacks that affect mana generation. Applies also
+  to effects and status ailments that block or steal mana.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+image: https://i.imgur.com/aKJx8OS.jpg
+dtReleased: "2026-08-11"
+dtModified: ""
+fancy_name: Astral Demon Spirit Whisperer
+aetherPower: regen
+lb1:
+  power: 1448
+  attack: 1496
+  defense: 1556
+  health: 2604
+lb2:
+  power: 1640
+  attack: 1712
+  defense: 1781
+  health: 2980
+...

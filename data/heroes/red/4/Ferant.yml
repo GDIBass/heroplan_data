@@ -51,10 +51,12 @@ costume:
   - Counterattack
   passives:
   - 'Ability: Increased Status Effect Duration Chance to increase the duration of
-    cast status effects. * +1 turn: 75% * +2 turns: 25%'
+    cast status effects.'
+  - ' * +1 turn:  75%'
+  - ' * +2 turns: 25%'
   image: https://i.imgur.com/f9WxEPE.jpg
   dtReleased: "2024-12-17"
-  dtModified: ""
+  dtModified: "2026-08-09"
   fancy_name: Warden of the Wolves
   aetherPower: damage_reduction
   lb1:
