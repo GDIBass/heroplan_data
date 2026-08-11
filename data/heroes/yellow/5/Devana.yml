@@ -33,12 +33,12 @@ fancy_name: Headstrong Huntress
 aetherPower: defense_up
 lb1:
   power: 844
-  attack: 799
+  attack: 798
   defense: 814
-  health: 1514
+  health: 1513
 lb2:
-  power: 948
-  attack: 914
+  power: 947
+  attack: 913
   defense: 932
-  health: 1732
+  health: 1731
 ...

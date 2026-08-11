@@ -15,15 +15,15 @@ effects:
 - ' * Summons a Butterfly Minion for each ally with 14% HP and 20% attack inherited
   from the caster.'
 - ' * Each hit from a Butterfly Minion Gives the target the following status ailment:'
-- ' *** +20% increase to all received damage for 3 turns.'
+- '   * +20% increase to all received damage for 3 turns.'
 - '2x Mana Charge:'
 - ' * Summons a Butterfly Fiend for all enemies. The Fiend damages the enemy with
   43% attack every turn.'
 - ' * The Butterfly Fiend absorbs healing and disappears when it has absorbed health
-  equal to 50% of it''s owner''s max health.'
+  equal to 50% of its owner''s max health.'
 - ' * When summoned, the Butterfly Fiend gives -50% accuracy for its target for as
-  long as the owner has Butterfly Fiends. This effect can''t be cleansed. Chance to
-  miss also applies to offensive Special Skills.'
+  long as the owner has Butterfly Fiends. This effect can''t be cleansed. (Chance
+  to miss also applies to offensive Special Skills.)'
 types:
 - Charge
 - Minion Summoner All
@@ -36,7 +36,7 @@ passives:
   fully charged, the chance is 100%.'''
 image: https://i.imgur.com/87toXMW.jpg
 dtReleased: "2021-09-15"
-dtModified: ""
+dtModified: "2026-08-11"
 fancy_name: Master Groundskeeper
 aetherPower: fiend_resist
 lb1:

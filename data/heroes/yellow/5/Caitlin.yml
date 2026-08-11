@@ -13,7 +13,8 @@ effects:
 - Dispels buffs from all enemies.
 - Deals 180% damage to all enemies.
 - Deals additional 20% damage per removed status effect, up to 340% damage in total.
-- 'Stack (Max: 10): The caster gets +6% mana generation'
+- 'Stack (Max: 10): The caster gets +6% mana generation.  (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 - 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
 types:
 - Dispeller All
@@ -25,7 +26,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/ERb7z96.jpg
 dtReleased: "2021-08-05"
-dtModified: "2026-06-23"
+dtModified: "2026-08-11"
 fancy_name: The Enlightened
 aetherPower: attack_up
 lb1:
@@ -40,7 +41,7 @@ lb2:
   health: 1783
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 57/57/62/5
   class: Fighter
   power: 1210
   attack: 1205
@@ -51,7 +52,9 @@ costume:
   - Dispels buffs from all enemies.
   - Deals 170% damage to all enemies.
   - Deals additional 25% damage per removed status effect, up to 370% damage in total.
-  - 'Stack +2 (Max: 10): The caster gets +12% mana generation.'
+  - 'Stack +2 (Max: 10): The caster gets +12% mana generation. (Affects only mana
+    generated from matching shields or mana gained by the defense team at the end
+    of their turn.)'
   - 'Stack +3 (Max: 10): The caster recovers 45 HP each turn.'
   types:
   - Dispeller All
@@ -65,7 +68,7 @@ costume:
     receive 528 Bleed damage over 4 turns.'
   image: https://i.imgur.com/JgYBU3i.jpg
   dtReleased: "2024-11-14"
-  dtModified: "2026-06-23"
+  dtModified: "2026-08-11"
   fancy_name: The Justicar Crusader
   aetherPower: defense_up
   lb1:

@@ -24,10 +24,10 @@ dtModified: "2026-03-20"
 fancy_name: Commander of the Castle
 aetherPower: attack_up
 lb1:
-  power: 870
-  attack: 828
+  power: 869
+  attack: 827
   defense: 845
-  health: 1562
+  health: 1563
 lb2:
   power: 977
   attack: 947
@@ -35,7 +35,7 @@ lb2:
   health: 1788
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 48/48/48/5
   class: Paladin
   power: 1148
   attack: 1133
@@ -49,7 +49,7 @@ costume:
     max HP.
   types:
   - Hit All
-  - Damage reduction Self
+  - Damage Reduction Self
   - Boosted HoT All
   passives:
   - 'Increased Status Effect Duration: Chance to increase the duration of cast status
@@ -58,17 +58,17 @@ costume:
   - ' * +2 turns: 25%'
   image: https://i.imgur.com/2DLIDng.jpg
   dtReleased: "2024-12-17"
-  dtModified: "2026-03-20"
+  dtModified: "2026-08-11"
   fancy_name: Commander of the Wolves
   aetherPower: damage_reduction
   lb1:
-    power: 1228
-    attack: 1222
-    defense: 1258
-    health: 2309
+    power: 1227
+    attack: 1221
+    defense: 1256
+    health: 2310
   lb2:
-    power: 1387
-    attack: 1398
-    defense: 1439
-    health: 2642
+    power: 1386
+    attack: 1397
+    defense: 1438
+    health: 2643
 ...

@@ -10,7 +10,7 @@ defense: 799
 health: 1404
 skill: Rhythm of Havoc
 effects:
-- Destroys all Minions from all enemies and damages all Mega Minions.
+- Destroys all Minions from all enemies and damages Mega Minions.
 - Deals 275% damage to all enemies.
 - Deals additional 30% damage to all enemies for each Minion destroyed.
 - 'Stack (Max: 10): All enemies get -7% mana generation for each destroyed Minion.'
@@ -24,17 +24,17 @@ passives:
   the battle.'
 image: https://i.imgur.com/8WZ5oVt.jpg
 dtReleased: "2022-12-01"
-dtModified: "2026-05-13"
+dtModified: "2026-08-11"
 fancy_name: Bard of Spirits
 aetherPower: defense_up
 lb1:
   power: 892
   attack: 899
   defense: 861
-  health: 1514
+  health: 1513
 lb2:
-  power: 1003
+  power: 1002
   attack: 1028
   defense: 985
-  health: 1732
+  health: 1731
 ...

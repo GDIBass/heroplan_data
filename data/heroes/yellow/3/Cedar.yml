@@ -31,13 +31,13 @@ dtModified: "2026-03-20"
 fancy_name: Chimpanzee Chain Champion
 aetherPower: attack_up
 lb1:
-  power: 544
+  power: 543
   attack: 606
-  defense: 541
-  health: 827
+  defense: 540
+  health: 826
 lb2:
   power: 657
   attack: 749
-  defense: 669
-  health: 1022
+  defense: 668
+  health: 1021
 ...

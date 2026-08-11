@@ -36,7 +36,7 @@ lb2:
   health: 1752
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 60/60/62/5
   class: Cleric
   power: 1223
   attack: 1126
@@ -58,17 +58,17 @@ costume:
     new copy of the cleansed ailment is applied on a random enemy.'
   image: https://i.imgur.com/9J7qQSS.jpg
   dtReleased: "2025-08-08"
-  dtModified: ""
+  dtModified: "2026-08-11"
   fancy_name: Master of Clowns
   aetherPower: defense_up
   lb1:
     power: 1308
-    attack: 1214
+    attack: 1213
     defense: 1491
-    health: 2438
+    health: 2437
   lb2:
     power: 1479
-    attack: 1389
-    defense: 1706
-    health: 2789
+    attack: 1388
+    defense: 1707
+    health: 2788
 ...

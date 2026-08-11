@@ -23,13 +23,13 @@ dtModified: "2026-04-03"
 fancy_name: Mighty Knight of Springvale
 aetherPower: special_boost
 lb1:
-  power: 841
-  attack: 839
+  power: 840
+  attack: 838
   defense: 783
-  health: 1451
+  health: 1452
 lb2:
   power: 944
-  attack: 960
+  attack: 959
   defense: 896
   health: 1661
 costume:
@@ -59,13 +59,13 @@ costume:
   fancy_name: Mighty Alchemist of Springvale
   aetherPower: attack_up
   lb1:
-    power: 1382
-    attack: 1476
+    power: 1381
+    attack: 1474
     defense: 1371
     health: 2547
   lb2:
-    power: 1563
-    attack: 1689
-    defense: 1569
+    power: 1562
+    attack: 1687
+    defense: 1568
     health: 2914
 ...

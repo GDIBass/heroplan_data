@@ -38,10 +38,10 @@ dtModified: "2026-03-20"
 fancy_name: Artist Cyclops
 aetherPower: heal_increase
 lb1:
-  power: 737
+  power: 736
   attack: 669
-  defense: 801
-  health: 1383
+  defense: 800
+  health: 1382
 lb2:
   power: 840
   attack: 776

@@ -11,7 +11,7 @@ health: 1555
 skill: Reckless Charge
 effects:
 - Deals 410% damage to the target and nearby enemies.
-- The attack has a 80% chance to bypass defensive buffs. This includes counterattacks.
+- The attack has a 80% chance to bypass defensive buffs. (This includes counterattacks.)
 - All allies get +45% defense for 4 turns.
 - Element Link gives all Holy allies a +5% chance to dodge status ailments for 4 turns.
   This effect cannot be dispelled.
@@ -25,17 +25,17 @@ passives:
   buff that the enemy team has at the start of each turn (maximum of 20 buffs).'
 image: https://i.imgur.com/gcaSLmN.jpg
 dtReleased: "2023-03-01"
-dtModified: ""
+dtModified: "2026-08-11"
 fancy_name: Quixotic Adventurer
 aetherPower: regen
 lb1:
-  power: 876
-  attack: 812
+  power: 875
+  attack: 811
   defense: 830
   health: 1676
 lb2:
   power: 984
-  attack: 929
+  attack: 928
   defense: 949
-  health: 1917
+  health: 1918
 ...

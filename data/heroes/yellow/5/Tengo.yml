@@ -10,11 +10,11 @@ defense: 1374
 health: 2301
 skill: Sunlord's Forbidden Flame
 effects:
-- Deals 500% damage to the target and minor damage to all other enemies.
-- Heals the caster for 30% of damage dealt.
+- Deals 520% damage to the target and minor damage to all other enemies.
+- Heals the caster for 35% of damage dealt.
 - The caster gets Taunt that prevents enemies from using Special Skills on the caster's
   allies for 4 turns.
-- Deals 480-1243 damage to all enemies after 4 turns, based  on the damage the caster
+- Deals 579-1342 damage to all enemies after 4 turns, based  on the damage the caster
   had taken while this effect was active. (Maximum effect is achieved upon taking
   50% of max health in damage.)
 types:
@@ -28,17 +28,15 @@ passives:
   mana each time they resist.'
 - 'Minion Core: The Construct Core of this character is Minion Core. The Minion Core
   activates each time this character''s Special Skill is cast.'
-- ' * With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and
-  55% attack inherited from the caster on all allies.'
+- ' * With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and
+  110% attack inherited from the caster on all allies.'
 - ' * The HP and attack inherited from the caster are scaled by the amount of charge
   in the Core. All charge is exhausted when the Core is activated.'
-- ' * Before the Killer Bot Minion hits a target, it destroys all Minions from the
-  target and damages Mega Minions.'
-- ' * The Killer Bot Minion recovers 5% health for its owner at the end of each turn.'
-- ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
+- ' * The Killer Bot Minion recovers 7% health for its owner at the end of each turn.'
+- ' * Wither: Each hit from a Killer Bot Minion gives its target -40 attack.'
 image: https://i.imgur.com/uTvCNZD.jpg
 dtReleased: "2026-05-16"
-dtModified: "2026-07-03"
+dtModified: "2026-08-11"
 fancy_name: Profaned Sunlord Construct
 aetherPower: regen
 lb1:

@@ -18,7 +18,7 @@ effects:
 - ' Additional Info:'
 - ' * Chance to miss also applies to offensive Special Skills.'
 - ' * All existing status effects will be removed when a dance status effect is added.'
-- '* Dance gives immunity to new status effects. New dance status effects will replace
+- ' * Dance gives immunity to new status effects. New dance status effects will replace
   this effect.'
 - ' * Dance effect cannot be dispelled. The effect is removed when the caster is defeated.'
 types:
@@ -35,7 +35,7 @@ passives:
   This effect can activate only once per turn.'
 image: https://i.imgur.com/x8CUwhf.jpg
 dtReleased: "2023-11-30"
-dtModified: ""
+dtModified: "2026-08-11"
 fancy_name: Songbird of the Opera
 aetherPower: counterattack
 lb1:

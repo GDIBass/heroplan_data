@@ -38,6 +38,6 @@ lb1:
 lb2:
   power: 1454
   attack: 1676
-  defense: 1346
+  defense: 1345
   health: 2613
 ...

@@ -23,19 +23,19 @@ dtModified: "2026-03-20"
 fancy_name: Lunar Brawler Tiger
 aetherPower: heal_increase
 lb1:
-  power: 918
-  attack: 910
-  defense: 868
-  health: 1658
+  power: 917
+  attack: 909
+  defense: 867
+  health: 1657
 lb2:
   power: 1032
   attack: 1041
-  defense: 993
+  defense: 992
   health: 1897
 zodiacAnimal: tiger
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 55/55/60/5
   class: Fighter
   power: 1277
   attack: 1311
@@ -55,17 +55,17 @@ costume:
   - 'Stop Minions: Enemy Minions can''t attack or use abilities.'
   image: https://i.imgur.com/DOXTk1A.jpg
   dtReleased: "2026-02-17"
-  dtModified: "2026-03-20"
+  dtModified: "2026-08-11"
   fancy_name: Lunar Lucky Tiger
   aetherPower: regen
   lb1:
-    power: 1368
-    attack: 1414
-    defense: 1345
+    power: 1367
+    attack: 1413
+    defense: 1344
     health: 2656
   lb2:
     power: 1547
-    attack: 1618
-    defense: 1539
+    attack: 1617
+    defense: 1538
     health: 3039
 ...

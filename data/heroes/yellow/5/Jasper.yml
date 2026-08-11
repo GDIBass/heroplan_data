@@ -14,6 +14,8 @@ effects:
 - All allies get +50% attack for 6 turns.
 - All allies get +50% critical chance for 6 turns.
 - The caster gets -5% mana generation for 4 turns. This effect can't be  cleansed.
+  (Affects only mana generated from matching shields or mana gained by the defense
+  team at the end of their turn.)
 types:
 - HoT All
 - Attack Buff All
@@ -21,19 +23,19 @@ types:
 - Mana Generation Debuff Self
 image: https://i.imgur.com/Fqmw2ti.jpg
 dtReleased: "2023-03-27"
-dtModified: "2026-04-03"
+dtModified: "2026-08-11"
 fancy_name: Florist Bull
 aetherPower: defense_up
 lb1:
   power: 926
   attack: 859
   defense: 936
-  health: 1704
+  health: 1705
 lb2:
-  power: 1041
-  attack: 982
+  power: 1042
+  attack: 983
   defense: 1071
-  health: 1950
+  health: 1951
 costume:
   design: costume1
   bonuses: 35/35/35/5
@@ -48,6 +50,8 @@ costume:
   - All allies get +60% attack for 5 turns.
   - All allies get +60% critical chance for 5 turns.
   - The caster gets -5% mana generation for 5 turns. This effect can't be cleansed.
+    (Affects only mana generated from matching shields or mana gained by the defense
+    team at the end of their turn.)
   types:
   - HoT All
   - Attack Buff All
@@ -58,17 +62,17 @@ costume:
     Stack (Max: 10): Recovers 30 HP each turn.'
   image: https://i.imgur.com/iHZz8KB.jpg
   dtReleased: "2024-03-18"
-  dtModified: "2026-04-03"
+  dtModified: "2026-08-11"
   fancy_name: Fisherman Bull
   aetherPower: boosted_regen
   lb1:
-    power: 1207
-    attack: 1129
-    defense: 1270
+    power: 1206
+    attack: 1128
+    defense: 1269
     health: 2367
   lb2:
-    power: 1363
-    attack: 1292
+    power: 1362
+    attack: 1291
     defense: 1453
     health: 2708
 ...

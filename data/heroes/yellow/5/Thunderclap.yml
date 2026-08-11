@@ -15,8 +15,8 @@ effects:
 - The caster regenerates 1250 boosted health over 5 turns. Boosted health can exceed
   max HP.
 - Deals 500-1000 damage to all enemies after 5 turns, based on the damage the caster
-  had taken while this effect was active. Maximum effect is achieved upon taking 50%
-  of max health in damage.
+  had taken while this effect was active. (Maximum effect is achieved upon taking
+  50% of max health in damage.)
 - 'Stack (Max: 10): The caster gets +25% attack against the weaker element.'
 types:
 - Taunt
@@ -32,17 +32,17 @@ passives:
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/8fPiMj3.jpg
 dtReleased: "2023-05-06"
-dtModified: "2026-03-20"
+dtModified: "2026-08-11"
 fancy_name: Enraged Gorilla
 aetherPower: taunt
 lb1:
-  power: 955
-  attack: 927
+  power: 956
+  attack: 928
   defense: 941
-  health: 1736
+  health: 1735
 lb2:
   power: 1075
   attack: 1061
   defense: 1076
-  health: 1986
+  health: 1985
 ...

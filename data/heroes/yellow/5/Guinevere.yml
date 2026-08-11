@@ -25,16 +25,16 @@ aetherPower: bulwark
 lb1:
   power: 815
   attack: 721
-  defense: 839
-  health: 1451
+  defense: 838
+  health: 1452
 lb2:
-  power: 915
+  power: 914
   attack: 825
-  defense: 960
+  defense: 959
   health: 1661
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Paladin
   power: 958
   attack: 797
@@ -45,8 +45,8 @@ costume:
   - Reduces the mana of the target and nearby enemies by 25%.
   - Recovers 40% health for all allies.
   - All allies reflect all status effects and 115% damage back to the attacker and
-    block other negative effects from enemies Dark Special Skill for 4 turns. Status
-    effects cast by characters Minions and Fiends on the same side cannot be reflected.
+    block other negative effects from enemies Dark Special Skill for 4 turns. (Status
+    effects cast by characters Minions and Fiends on the same side cannot be reflected.)
   types:
   - Mana Reduction 3
   - Healer All
@@ -54,17 +54,17 @@ costume:
   - Elemental Counterattack All
   image: https://i.imgur.com/IeQY7xx.jpg
   dtReleased: "2023-04-20"
-  dtModified: ""
+  dtModified: "2026-08-11"
   fancy_name: Dragonrider of Avalon
   aetherPower: special_armor
   lb1:
-    power: 1023
+    power: 1022
     attack: 859
-    defense: 1076
-    health: 2116
+    defense: 1075
+    health: 2115
   lb2:
     power: 1152
     attack: 983
-    defense: 1231
-    health: 2421
+    defense: 1230
+    health: 2420
 ...
