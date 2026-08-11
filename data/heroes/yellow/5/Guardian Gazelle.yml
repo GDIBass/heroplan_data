@@ -33,18 +33,18 @@ dtModified: ""
 fancy_name: Druid of Teltoc
 aetherPower: ailment_immunity
 lb1:
-  power: 832
-  attack: 810
-  defense: 799
+  power: 831
+  attack: 809
+  defense: 798
   health: 1427
 lb2:
   power: 933
-  attack: 927
-  defense: 914
+  attack: 926
+  defense: 913
   health: 1633
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Fighter
   power: 976
   attack: 982
@@ -55,12 +55,15 @@ costume:
   - Removes all status effects from all allies except the caster. Removes even status
     effects that are otherwise undispellable or uncleansable.
   - Recovers 48% health for all allies.
-  - 'All allies except the caster dance the Dance of Spirits for 4 turns:'
+  - All allies except the caster dance the Dance of Spirits for 4 turns.
+  - 'Dance of Spirits:'
   - ' * +110% attack.'
   - ' * Reduces all received damage by -30%.'
-  - ' * If the caster is defeated, the dancer receives 115 damage and their mana is
-    reduced by 100%.'
-  - ' * This effect can''t be dispelled, but it gets removed if caster is defeated.'
+  - ' * If the caster is defeated, the dancer receives 121 damage and their mana is
+    reduced by 100%. (All existing status effects will be removed when a dance status
+    effect is added. Dance gives immunity to new status effects. New dance status
+    effect will replace this effect. Dance effect cannot be dispelled. The effect
+    is removed when the caster is defeated.)'
   types:
   - Full Cleanser 4
   - Healer All
@@ -69,17 +72,17 @@ costume:
   - Damage Reduction 4 while Dancing
   image: https://i.imgur.com/E5qL0sl.jpg
   dtReleased: "2023-01-26"
-  dtModified: ""
+  dtModified: "2026-08-09"
   fancy_name: Swift Striker of Teltoc
   aetherPower: heal_increase
   lb1:
-    power: 1043
-    attack: 1060
-    defense: 1007
+    power: 1042
+    attack: 1058
+    defense: 1005
     health: 1898
   lb2:
-    power: 1175
-    attack: 1212
-    defense: 1152
+    power: 1174
+    attack: 1211
+    defense: 1150
     health: 2172
 ...

@@ -12,30 +12,31 @@ skill: Perfect Teamwork
 effects:
 - Destroys all minions from the target. This effect damages Mega Minions.
 - Deals 600% damage to the target.
-- Reduces max health from all enemies who own Minions by 404. Max health can't get
-  lower than 30% of the original max health.
+- Reduces max health from all enemies who own Minions by 404. The effect is stronger
+  against targets with boosted health. (Max health can't get lower than 30% of the
+  original max health. Any boosted health is reduced by an additional 404.)
 types:
 - Minion Destroyer 1
 - Hit 1
 - Health reduction on each Minion owner
 image: https://i.imgur.com/ISxaSzG.jpg
 dtReleased: "2021-06-10"
-dtModified: ""
+dtModified: "2026-08-09"
 fancy_name: Dynamic Duo
 aetherPower: attack_up
 lb1:
   power: 859
-  attack: 848
-  defense: 810
+  attack: 847
+  defense: 809
   health: 1509
 lb2:
   power: 965
-  attack: 970
-  defense: 927
-  health: 1727
+  attack: 969
+  defense: 926
+  health: 1726
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 60/60/62/5
   class: Sorcerer
   power: 1220
   attack: 1179
@@ -57,17 +58,17 @@ costume:
     new copy of the cleansed ailment is applied on a random enemy.'
   image: https://i.imgur.com/GDnuePZ.jpg
   dtReleased: "2025-08-08"
-  dtModified: ""
+  dtModified: "2026-08-09"
   fancy_name: Dark Duo
   aetherPower: defense_up
   lb1:
     power: 1305
-    attack: 1271
+    attack: 1270
     defense: 1371
-    health: 2513
+    health: 2512
   lb2:
     power: 1475
     attack: 1454
     defense: 1568
-    health: 2876
+    health: 2875
 ...
