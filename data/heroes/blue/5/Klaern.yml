@@ -10,8 +10,8 @@ defense: 772
 health: 1427
 skill: Hailstorm
 effects:
-- Deals 300% damage to all enemies.
-- All enemies receive 400 Water damage over 5 turns. The caster absorbs 35% of dealt
+- Deals 330% damage to all enemies.
+- All enemies receive 500 Water damage over 5 turns. The caster absorbs 35% of dealt
   Water damage as health.
 - Element Link gives all ice allies +10% defense for 4 turns. This effect can't be
   dispelled.
@@ -24,7 +24,7 @@ passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
 image: https://i.imgur.com/zoE3F2A.jpg
 dtReleased: "2022-07-01"
-dtModified: ""
+dtModified: "2026-08-12"
 fancy_name: Rime Sorcerer
 aetherPower: mana_boost
 lb1:

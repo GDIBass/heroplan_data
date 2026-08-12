@@ -76,7 +76,7 @@ costume:
   - 'Resist Dark Ailments: This character is immune to status ailments and negative
     stacks cast by Dark characters.'
   image: https://i.imgur.com/xo8H8dP.jpg
-  dtReleased: "2026-08-11"
+  dtReleased: "2026-08-10"
   dtModified: "2026-08-11"
   fancy_name: Warlord of the Legion
   aetherPower: special_boost

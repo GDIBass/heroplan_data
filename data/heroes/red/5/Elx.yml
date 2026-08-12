@@ -10,12 +10,12 @@ defense: 1404
 health: 2389
 skill: Grimoire Fatalis
 effects:
-- Deals 180% damage to 6 random enemies.
+- Deals 190% damage to 6 random enemies.
 - All enemies get -45% defense against Fire for 3 turns.
 - For 3 turns, the element of all enemies is changed each turn. On the first 2 turns,
   the element is random.
 - On the last turn, enemies revert to their original element.
-- After each element change, enemies take 846 damage if their element is Nature.
+- After each element change, enemies take 941 damage if their element is Nature.
 types:
 - Hit Random 6
 - Elemental Defense Debuff All
@@ -27,17 +27,15 @@ passives:
   mana each time they resist.'
 - 'Minion Core: The Construct Core of this character is Minion Core. The Minion Core
   activates each time this character''s Special Skill is cast.'
-- ' * With a fully charged Minion Core, summons a Killer Bot Minion with 33% HP and
-  55% attack inherited from the caster on all allies.'
+- ' * With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and
+  110% attack inherited from the caster on all allies.'
 - ' * The HP and attack inherited from the caster are scaled by the amount of charge
   in the Core. All charge is exhausted when the Core is activated.'
-- ' * Before the Killer Bot Minion hits a target, it destroys all Minions from the
-  target and damages Mega Minions.'
-- ' * The Killer Bot Minion recovers 5% health for its owner at the end of each turn.'
-- ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
+- ' * The Killer Bot Minion recovers 7% health for its owner at the end of each turn.'
+- ' * Wither: Each hit from a Killer Bot Minion gives its target -40 attack.'
 image: https://i.imgur.com/5rDKpV1.jpg
 dtReleased: "2026-06-07"
-dtModified: "2026-07-03"
+dtModified: "2026-08-12"
 fancy_name: Mage's Vessel Construct
 aetherPower: special_boost
 lb1:
