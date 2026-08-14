@@ -31,7 +31,7 @@ passives:
 - 'Heal when status ailment expires or is cleared: This character receives 15% health
   each time a status ailment expires or is cleansed, removed or reallocated from them.
   This effect can activate only once per turn.'
-- 'Beautiful Inside: Whenever this character would take damage from a status ailment,
+- 'Beautiful Inside: Whenever this character would take damage from a status ailment
   or from a negative stack, they will recover that much health instead.'
 image: https://i.imgur.com/5KRbbot.jpg
 dtReleased: "2026-08-14"
