@@ -38,4 +38,47 @@ lb2:
   attack: 1099
   defense: 1182
   health: 2153
+costume:
+  design: costume1
+  bonuses: 50/49/48/5
+  class: Paladin
+  power: 1355
+  attack: 1330
+  defense: 1442
+  health: 2578
+  skill: Boar Fury
+  effects:
+  - Summons a White Boar Mega Minion with 70% HP and 320% attack inherited from the
+    caster.
+  - When summoned the White Boar Mega Minion gives its owner the ability to counterattack
+    with 150% of the received damage as long as the owner has a White Boar Mega Minion.
+    This effect can't be dispelled.
+  - 'Wither: Each hit from the White Boar Mega Minion gives its target -100 defense.'
+  types:
+  - White Boar Mega Minion
+  - Counterattack Mega Minion
+  - Defense Wither 1 on Mega Minion hit
+  passives:
+  - 'Effects on Special Skill: 50% chance to perform the following actions when this
+    character casts their Special Skill.'
+  - ' * Deals 90% damage to all enemies.'
+  - ' * All enemies get -25% accuracy for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  image: https://i.imgur.com/1kTdUlC.jpg
+  dtReleased: "2026-08-19"
+  dtModified: ""
+  fancy_name: Duo of the Furious Skulls
+  aetherPower: special_armor
+  lb1:
+    power: 1450
+    attack: 1433
+    defense: 1554
+    health: 2779
+  lb2:
+    power: 1641
+    attack: 1640
+    defense: 1778
+    health: 3179
 ...

@@ -1,0 +1,52 @@
+---
+name: Sheppard
+source: goblinvillage
+family: shadyscoundrel
+speed: Very Fast
+class: Monk
+power: 1355
+attack: 1400
+defense: 1411
+health: 2465
+skill: Blink of an Eye
+effects:
+- Deals 225% damage to the target and nearby enemies.
+- Steals all dispellable buffs from the target and nearby enemies and randomly distributes
+  them on allies.
+- Steals 10% mana from the target and nearby enemies and randomly distributes them
+  on allies. (After a character received 5 direct mana additions from Special Skills
+  during a single turn, all subsequent direct mana additions done by Special Skills
+  will have reduced power on that character.)
+- The caster steals 60% of any healing applied to the target an nearby enemies for
+  2 turns.
+types:
+- Hit 3
+- Buff Steal 3 to random allies
+- Mana Steal 3 to random allies
+- Heal Steal 3 to Self
+passives:
+- 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
+  enemy:'
+- 'Ransack:'
+- ' * Steals 100 health.'
+- ' * Safely steals a buff from the enemy. This includes Stubborn effects, undispellable
+  buffs and Dance effects.'
+- 'Cheat Death: The first time this character would receive fatal damage, they instead
+  redirect that damage to a random enemy. In battles with multiple waves, the effect
+  is refreshed at the beginning of each wave.'
+image: https://i.imgur.com/RAlJwU3.jpg
+dtReleased: "2026-08-19"
+dtModified: ""
+fancy_name: Slippery Kiddo
+aetherPower: heal_increase
+lb1:
+  power: 1451
+  attack: 1509
+  defense: 1521
+  health: 2657
+lb2:
+  power: 1641
+  attack: 1726
+  defense: 1740
+  health: 3040
+...
