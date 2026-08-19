@@ -22,15 +22,15 @@ types:
 - Mana Generation Debuff All
 passives:
 - 'Troop Mastery:'
-- 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
-  damage against weaker element.'
-- ' * Dealt extra elemental damage: +100%'
-- 'Passive Skill as defending character: This hero receives less elemental  damage
-  from Troops of stronger element.'
-- ' * Received elemental damage: -10%'
+- 'Passive Skill as attacking character: This character''s Troops deal extra damage
+  against the weaker element.'
+- ' * Extra damage dealt: +100%'
+- 'Passive Skill as defending character: This character receives less damage from
+  Troops of the stronger element.'
+- ' * Received damage: -10%'
 image: https://i.imgur.com/7BkCCl9.jpg
 dtReleased: "2023-12-04"
-dtModified: "2026-07-21"
+dtModified: "2026-08-11"
 fancy_name: Warlord of the Unwavering Orcs
 aetherPower: attack_up
 lb1:
@@ -67,15 +67,17 @@ costume:
   - Mana Generation Debuff All
   passives:
   - 'Troop Mastery:'
-  - 'Passive Skill as attacking character: This hero''s Troops deal extra damage against
-    weaker element.'
-  - ' * Dealt extra elemental damage: +150%'
-  - 'Passive Skill as defending character: This hero receives less damage from Troops
-    of stronger element.'
-  - ' * Received elemental damage: -25%'
+  - 'Passive Skill as attacking character: This character''s Troops deal extra damage
+    against the weaker element.'
+  - ' * Extra damage dealt: +150%'
+  - 'Passive Skill as defending character: This character receives less damage from
+    Troops of the stronger element.'
+  - ' * Received damage: -25%'
+  - 'Resist Dark Ailments: This character is immune to status ailments and negative
+    stacks cast by Dark characters.'
   image: https://i.imgur.com/xo8H8dP.jpg
-  dtReleased: "2026-08-11"
-  dtModified: ""
+  dtReleased: "2026-08-10"
+  dtModified: "2026-08-11"
   fancy_name: Warlord of the Legion
   aetherPower: special_boost
   lb1:

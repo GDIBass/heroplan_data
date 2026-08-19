@@ -10,11 +10,11 @@ defense: 737
 health: 1299
 skill: Sickle of Eradication
 effects:
-- Deals 200% damage to all enemies
+- Deals 200% damage to all enemies.
 - Reduces the mana of all enemies by 20%.
-- All enemies get -35% accuracy for 4 turns. Chance to miss also applies to offensive
-  Special Skills
-- Elemental link gives +4% mana generation for all Holy allies for 4 turns. This effect
+- All enemies get -35% accuracy for 4 turns. (Chance to miss also applies to offensive
+  Special Skills.)
+- Element Link gives +4% mana generation for all Holy allies for 4 turns. This effect
   cannot be dispelled.
 types:
 - Hit All
@@ -25,7 +25,7 @@ passives:
   stop mana generation.'
 image: https://i.imgur.com/5p5UjK8.jpg
 dtReleased: "2019-11-01"
-dtModified: ""
+dtModified: "2026-08-11"
 fancy_name: Opener of the Ways
 aetherPower: attack_up
 lb1:

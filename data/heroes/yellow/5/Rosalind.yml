@@ -12,11 +12,11 @@ skill: A Moment of Joy
 effects:
 - Recovers 30% health for all allies.
 - 'Stack (Max 10): All damage all allies receive is reduced by -5%.'
-- Summnos a Shiled Guard Mega Minion with 65% HP and 180% attack inherited from the
+- Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the
   caster.
 - The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment
   from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage
-  on removal, from the remove status ailment. External effects such as passive skills
+  on removal, from the removed status ailment. External effects such as passive skills
   and family effects can still activate.)
 types:
 - Healer All
@@ -27,7 +27,7 @@ passives:
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/founMKj.jpg
 dtReleased: "2024-10-27"
-dtModified: "2026-07-21"
+dtModified: "2026-08-11"
 fancy_name: Cheerful Captain
 aetherPower: counterattack
 lb1:

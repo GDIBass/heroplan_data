@@ -12,7 +12,7 @@ skill: Dance of the Slimy
 effects:
 - Recovers 50% health for all allies.
 - All allies except the caster dance the Dance of the Slimy for 4 turns.
-- ==Dance of the Slimy==
+- 'Dance of the Slimy:'
 - ' * +45% chance to dodge Special Skills. Each dodge damages the attacker for 1600
   damage.'
 - ' * When the dance ends, the dancer recovers 700 HP. (All existing status effects
@@ -31,17 +31,17 @@ passives:
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://i.imgur.com/IpdLyXH.jpg
 dtReleased: "2024-09-04"
-dtModified: ""
+dtModified: "2026-08-11"
 fancy_name: Singing Tavern Slime
 aetherPower: regen
 lb1:
   power: 1174
   attack: 1209
   defense: 1165
-  health: 2142
+  health: 2141
 lb2:
   power: 1325
-  attack: 1384
+  attack: 1383
   defense: 1333
-  health: 2451
+  health: 2450
 ...

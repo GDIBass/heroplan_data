@@ -11,7 +11,7 @@ health: 2305
 skill: Cup of Mead
 effects:
 - Heals all allies who have less than 50% HP left to 50% health. (Ignores heal steal,
-  healing modifiers and Fiends.
+  healing modifiers and Fiends.)
 - All allies regenerate 1320 boosted health over 3 turns. Boosted health can exceed
   max HP.
 - 'Source of Buffs: The following effects are cast on a random ally at the start of
@@ -35,7 +35,7 @@ passives:
   from receiving new status effect buffs.'
 image: https://i.imgur.com/yG43ChX.jpg
 dtReleased: "2024-11-25"
-dtModified: "2026-07-21"
+dtModified: "2026-08-11"
 fancy_name: Ring-Graced, Royal-Hearted
 aetherPower: defense_up
 lb1:

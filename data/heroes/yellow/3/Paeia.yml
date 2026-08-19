@@ -13,7 +13,8 @@ effects:
 - All allies get a Moonrise Ward for 6 turns, that reduces the incoming Special Skill
   damage by -320. Reduces damage by additional 20% when attacker is Holy.
 - All allies get +24% attack for 6 turns.
-- All allies get +24% mana generation for 6 turns.
+- All allies get +24% mana generation for 6 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Damage from SS Reducer Ward
 - Attack Buff All
@@ -24,17 +25,17 @@ passives:
   to all enemies in the battle.'
 image: https://i.imgur.com/R9551ZQ.jpg
 dtReleased: "2023-12-20"
-dtModified: "2026-03-20"
+dtModified: "2026-08-11"
 fancy_name: Princess of Owl Tower
 aetherPower: damage_reduction
 lb1:
   power: 545
-  attack: 490
+  attack: 489
   defense: 604
-  health: 1002
+  health: 1001
 lb2:
-  power: 659
-  attack: 606
-  defense: 747
+  power: 658
+  attack: 605
+  defense: 746
   health: 1238
 ...

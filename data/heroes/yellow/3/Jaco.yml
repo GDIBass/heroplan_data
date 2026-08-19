@@ -12,10 +12,16 @@ skill: Dubious Merchandise
 effects:
 - 'Special Skill need consecutive uses to reach full power, the following order:'
 - '1st:'
-- ' * Steals 33% mana from the target, and distributes it to allies.'
+- ' * Steals 33% mana from the target, and distributes it to allies. (After a character
+  has received 5 direct mana additions from Special Skill during a single turn, all
+  subsequent direct mana additions done by Special Skills will have reduced power
+  on that character.)'
 - ' * Deals 235% damage to target and minor damage to nearby enemies.'
 - '2nd:'
-- ' * Steals 33% mana from the target, and distributes it to allies.'
+- ' * Steals 33% mana from the target, and distributes it to allies. (After a character
+  has received 5 direct mana additions from Special Skill during a single turn, all
+  subsequent direct mana additions done by Special Skills will have reduced power
+  on that character.)'
 - ' * Deals 310% damage to target and minor damage to nearby enemies.'
 types:
 - Mana steal 1
@@ -27,7 +33,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/ne5YJve.jpg
 dtReleased: "2023-07-05"
-dtModified: "2026-04-03"
+dtModified: "2026-08-11"
 fancy_name: Dodgy Merchant of the Deep
 aetherPower: defense_up
 lb1:
@@ -52,10 +58,16 @@ costume:
   effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'
-  - ' * Steals 25% mana from the target, and distributes it to allies.'
+  - ' * Steals 25% mana from the target, and distributes it to allies. (After a character
+    has received 5 direct mana additions from Special Skill during a single turn,
+    all subsequent direct mana additions done by Special Skills will have reduced
+    power on that character.)'
   - ' * Deals 225% damage to target and minor damage to nearby enemies.'
   - '2nd:'
-  - ' * Steals 35% mana from the target, and distributes it to allies.'
+  - ' * Steals 35% mana from the target, and distributes it to allies. (After a character
+    has received 5 direct mana additions from Special Skill during a single turn,
+    all subsequent direct mana additions done by Special Skills will have reduced
+    power on that character.)'
   - ' * Deals 330% damage to target and minor damage to nearby enemies.'
   types:
   - Mana steal 1
@@ -68,7 +80,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/frMuxcb.jpg
   dtReleased: "2025-02-03"
-  dtModified: "2026-04-03"
+  dtModified: "2026-08-11"
   fancy_name: Dodgy Alchemist of the Deep
   aetherPower: special_armor
   lb1:

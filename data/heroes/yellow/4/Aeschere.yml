@@ -15,8 +15,9 @@ effects:
   each turn'
 - ' * +25% mana generation for 3 turns.'
 - ' * +50% increase for all healing received for 3 turns.'
-- ' * The Source of Buffs will activate 4 times. Each attempt to dispel it removes
-  one activation.'
+- ' * The Source of Buffs will activate 4 times. This effect is Stubborn. (Each attempt
+  to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn
+  or decreases activations left by 1.)'
 - All allies regenerate 600 HP over 4 turns.
 types:
 - Safely Dispels Latest Buff All
@@ -29,17 +30,17 @@ passives:
   a status ailment or a negative stack.'
 image: https://i.imgur.com/b8raA4w.jpg
 dtReleased: "2025-02-13"
-dtModified: "2026-03-20"
+dtModified: "2026-08-11"
 fancy_name: Sage of the Scyldings
 aetherPower: defense_up
 lb1:
-  power: 778
-  attack: 771
-  defense: 801
+  power: 777
+  attack: 770
+  defense: 800
   health: 1422
 lb2:
   power: 888
-  attack: 894
+  attack: 893
   defense: 928
   health: 1649
 ...

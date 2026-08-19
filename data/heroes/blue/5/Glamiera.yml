@@ -1,0 +1,51 @@
+---
+name: Glamiera
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Fast
+class: Wizard
+power: 1353
+attack: 1444
+defense: 1374
+health: 2416
+skill: You Look Wonderful Tonight
+effects:
+- 'Less than 40 Humility:'
+- Deals 280% damage to all enemies.
+- All enemies reflect status effect buffs to a random character on the opposing team
+  for 3 turns. (Only dispellable buffs are reflected.)
+- All allies counterattack with 80% of the damage received for 3 turns.
+- '40 or more Humility:'
+- Deals 320% damage to all enemies.
+- All enemies reflect status effect buffs to a random character on the opposing team
+  for 3 turns. (Only dispellable buffs are reflected.)
+- All allies counterattack with 110% of the damage received for 3 turns.
+types:
+- Humility
+- Hit All
+- Reflect Buffs All
+- Counterattack All
+passives:
+- 'Revival Health Reduction: All enemies have -80% health when revived. Boss enemies
+  are not affected.'
+- 'Heal when status ailment expires or is cleared: This character receives 15% health
+  each time a status ailment expires or is cleansed, removed or reallocated from them.
+  This effect can activate only once per turn.'
+- 'Beautiful Inside: Whenever this character would take damage from a status ailment
+  or from a negative stack, they will recover that much health instead.'
+image: https://i.imgur.com/5KRbbot.jpg
+dtReleased: "2026-08-14"
+dtModified: ""
+fancy_name: Magical Mirror of the Bewitched Castle
+aetherPower: counterattack
+lb1:
+  power: 1448
+  attack: 1556
+  defense: 1481
+  health: 2604
+lb2:
+  power: 1639
+  attack: 1781
+  defense: 1694
+  health: 2980
+...

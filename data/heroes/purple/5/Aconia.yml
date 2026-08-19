@@ -21,15 +21,15 @@ types:
 - Fiend Summoner on Holy Enemies
 passives:
 - 'Troop Mastery:'
-- 'Passive Skill as attacking character: This hero''s Troops deal extra  elemental
-  damage against weaker element.'
-- ' * Dealt extra elemental damage +100%'
-- 'Passive Skill as defending character: This hero receives less elemental  damage
-  from Troops of stronger element.'
-- ' * Received elemental damage -10%'
+- 'Passive Skill as attacking character: This character''s Troops deal extra damage
+  against the weaker element.'
+- ' * Extra damage dealt: +100%'
+- 'Passive Skill as defending character: This character receives less damage from
+  Troops of the stronger element.'
+- ' * Received damage: -10%'
 image: https://i.imgur.com/VT78aoB.jpg
 dtReleased: "2023-05-22"
-dtModified: "2026-06-15"
+dtModified: "2026-08-11"
 fancy_name: Cyber Rogue
 aetherPower: fiend_resist
 lb1:
@@ -66,17 +66,17 @@ costume:
   - Increased Damage from Ailments All
   passives:
   - 'Troop Mastery:'
-  - 'Passive Skill as attacking character: This hero''s Troops deal extra elemental
-    damage against weaker element.'
-  - ' * Dealt extra elemental damage +150%'
-  - 'Passive Skill as defending character: This hero receives less elemental damage
-    from Troops of stronger element.'
-  - ' * Received elemental damage -25%'
+  - 'Passive Skill as attacking character: This character''s Troops deal extra damage
+    against the weaker element.'
+  - ' * Extra damage dealt: +150%'
+  - 'Passive Skill as defending character: This character receives less damage from
+    Troops of the stronger element.'
+  - ' * Received damage: -25%'
   - 'Resist Holy Ailments: This character is immune to status ailments and negative
     stacks cast by Holy characters.'
   image: https://i.imgur.com/cjiqk4D.jpg
   dtReleased: "2026-02-19"
-  dtModified: "2026-06-15"
+  dtModified: "2026-08-11"
   fancy_name: Cyber Courier
   aetherPower: damage_reduction
   lb1:

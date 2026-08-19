@@ -11,9 +11,11 @@ health: 2051
 skill: Reviving Touch
 effects:
 - All allies get +60% attack for 5 turns.
-- All allies get +44% mana generation for 5 turns.
-- 'All allies receive Slime Revive status effect for 2 turns. If defeated while Slime
-  Revive is active, the character will be reborn as a Slime with:'
+- All allies get +44% mana generation for 5 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
+- All allies receive Slime Revive for 2 turns.
+- 'If defeated while Slime Revive is active, the character will be reborn as a Slime
+  with:'
 - ' * 100% inherited health'
 - ' * 50% attack'
 - ' * 50% defense'
@@ -31,7 +33,7 @@ passives:
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://i.imgur.com/QoTjDm5.jpg
 dtReleased: "2025-01-20"
-dtModified: "2026-07-08"
+dtModified: "2026-08-11"
 fancy_name: Wise Sanctuary Goo
 aetherPower: damage_reduction
 lb1:

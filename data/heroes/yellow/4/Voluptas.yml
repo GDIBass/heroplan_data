@@ -36,7 +36,7 @@ lb2:
   health: 1748
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 18/18/18/5
   class: Monk
   power: 796
   attack: 769
@@ -57,7 +57,7 @@ costume:
     prevent the use of Special Skills.'
   image: https://i.imgur.com/y6sMqvm.jpg
   dtReleased: "2026-01-19"
-  dtModified: ""
+  dtModified: "2026-08-11"
   fancy_name: Cupid of Painters
   aetherPower: special_armor
   lb1:

@@ -29,12 +29,12 @@ fancy_name: Gladiator of Frog Kingdom
 aetherPower: attack_up
 lb1:
   power: 540
-  attack: 551
-  defense: 567
+  attack: 550
+  defense: 566
   health: 886
 lb2:
   power: 652
-  attack: 681
+  attack: 680
   defense: 700
   health: 1095
 ...

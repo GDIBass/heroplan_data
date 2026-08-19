@@ -12,7 +12,7 @@ skill: Astral Assistance
 effects:
 - Destroys all Fiends from all allies and damages all Mega Fiends.
 - Recovers 50% health for all allies.
-- At the end of each turn, all allies shot an Astral Beam at a random enemy for 4
+- At the end of each turn, all allies shoot an Astral Beam at a random enemy for 4
   turns.
 - Each Astral Beam deals 100% damage.
 - Each Astral Beam reduces the Max Health of the hit enemy by 100.

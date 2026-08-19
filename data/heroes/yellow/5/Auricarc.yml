@@ -11,7 +11,10 @@ health: 2105
 skill: Riches to Poor
 effects:
 - Steals all Minions or a Mega Minion from the target.
-- Steals 40% mana from the target and distributes it to allies.
+- Steals 40% mana from the target and distributes it to allies. (After a character
+  has received 5 direct mana additions from Special Skill during a single turn, all
+  subsequent direct mana additions done by Special Skills will have reduced power
+  on that character.)
 - Deals 530% damage to the target.
 - The target falls into Deep Sleep and receive +80% increased damage while in Deep
   Sleep. (This character in Deep Sleep cannot gain mana or attack. The character in
@@ -26,7 +29,7 @@ passives:
   deal damage.'
 image: https://i.imgur.com/U5vFSXy.jpg
 dtReleased: "2025-05-01"
-dtModified: ""
+dtModified: "2026-08-11"
 fancy_name: The Master Marksmoth
 aetherPower: special_boost
 lb1:

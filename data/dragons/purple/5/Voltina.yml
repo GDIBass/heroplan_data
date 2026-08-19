@@ -1,0 +1,50 @@
+---
+name: Voltina
+fancy_name: "Slumbering Zapper-Drake"
+source: ancientUnderroot
+speed: Fast
+power: 13250
+attack: 17211
+defense: 16203
+health: 14712
+skill: Erratic Lightning
+effects:
+- Deals 250% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy and
+  deals minor damage.
+- All hit targets receive 700-2100 Lightning damage each turn for 3 turns. (The amount
+  of damage dealt is randomized each turn.
+- Deals extra damage against Holy.
+types:
+- Hit 1
+- Chain Hit
+- Random DoT on hit
+passives:
+- 'Crackling Hatchling: At the start of each turn, each enemy has a 25% chance to
+  receive 350 damage.'
+spiritBonus:
+  spiritClass: Wizard
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Shocking Blaze
+  effects:
+  - Deals 420 damage to all enemies.
+  - Recovers 220 health for all allies.
+  - Reduces max health of all enemies by 460. The effect is stronger against targets
+    with boosted health.
+  - All enemies get -20% defense for 5 turns.
+image: https://i.imgur.com/5XQLiXu.jpg
+dtReleased: "2026-08-18"
+dtModified: ""
+...

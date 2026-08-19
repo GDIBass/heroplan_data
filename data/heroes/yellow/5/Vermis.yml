@@ -1,0 +1,62 @@
+---
+name: Vermis
+source: shadow
+family: forsaken
+speed: Fast
+class: Cleric
+power: 1355
+attack: 1330
+defense: 1406
+health: 2649
+skill: Mysteries of the Worm
+effects:
+- Safely dispels buffs from all enemies and increases all allies' mana by 3% for each
+  removed buff. (After a character has received 5 direct mana additions from Special
+  Skill during a single turn, all subsequent direct mana additions done by Special
+  Skills will have reduced power on that character.)
+- 'The target turns into a Mindworm. Mindworms have 70% attack, 70% defense and the
+  following Special Skill:'
+- One of Us (Very Fast)
+- ' * Inflicts 75 Insanity on one random ally.'
+- ' * Removes the mind Mindworm ailment from the caster. (This effect lasts until
+  it is cleansed, replaced or removed. Bosses, Titans and Mythic Titans are not affected
+  by this status effect.)'
+- Casting this Special Skill inflicts 45 Insanity on the caster.
+types:
+- Safely Dispels All
+- Mana Boost All on removed buff
+- Mindworm Debuff 1
+- Insanity Self
+passives:
+- 'Minion Corruption: At the end of each turn, enemies with Insanity have a chance
+  to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
+  automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
+  inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
+  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+- 'Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch
+  Host. The chance is 10% per 10 Insanity on this character, up to maximum chance
+  of 100%.'
+- If this character defeats themself when activating Insanity, the chance to be reborn
+  is always 100%.
+- The Eldritch Host has
+- ' * 100% inherited health.'
+- ' * 1200 attack.'
+- ' * 1200 defense.'
+- Special Skill - Eldritch Bright.
+- ' * Deals 400% damage to the target and inflicts 35 Insanity on them.'
+image: https://i.imgur.com/OuvQ4Dz.jpg
+dtReleased: "2026-08-17"
+dtModified: ""
+fancy_name: The Worm King
+aetherPower: fiend_resist
+lb1:
+  power: 1450
+  attack: 1433
+  defense: 1515
+  health: 2855
+lb2:
+  power: 1641
+  attack: 1640
+  defense: 1734
+  health: 3267
+...

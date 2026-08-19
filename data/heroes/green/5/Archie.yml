@@ -27,7 +27,7 @@ fancy_name: Traveling Llama Troubadour
 aetherPower: attack_up
 lb1:
   power: 923
-  attack: 939
+  attack: 938
   defense: 892
   health: 1571
 lb2:
@@ -65,12 +65,12 @@ costume:
   aetherPower: special_boost
   lb1:
     power: 1202
-    attack: 1267
+    attack: 1266
     defense: 1204
     health: 2121
   lb2:
-    power: 1358
-    attack: 1450
-    defense: 1378
+    power: 1357
+    attack: 1449
+    defense: 1377
     health: 2427
 ...

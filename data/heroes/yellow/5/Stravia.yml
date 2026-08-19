@@ -20,7 +20,8 @@ effects:
   by 1000 over 4 turns. The effect is stronger against targets with boosted health.
   (Max health can't get lower than 30% of the original max health. Any boosted health
   is reduced by an additional 250 per turn.)
-- All allies resist new effects that block usage of Special Skills for 4 turns.
+- All allies are immune to new effects that prevent the use of Special Skills for
+  4 turns.
 types:
 - Hit All
 - DoT All
@@ -40,7 +41,7 @@ passives:
 - ' * - Growth and Wither effects.'
 image: https://i.imgur.com/2oL1We2.jpg
 dtReleased: "2025-08-23"
-dtModified: "2026-05-24"
+dtModified: "2026-08-11"
 fancy_name: Messenger of the Chentari
 aetherPower: fiend_resist
 lb1:

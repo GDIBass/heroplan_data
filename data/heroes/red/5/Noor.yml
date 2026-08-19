@@ -10,7 +10,7 @@ defense: 782
 health: 1314
 skill: Sparrow Fury
 effects:
-- Recovers 15% health for all allies.
+- Recovers 20% health for all allies.
 - Summons a Sparrow Minion for each ally. The Sparrow Minion inherits 30% HP and 30%
   attack from the caster
 - Before Sparrow Minion hits target, it destroys all Minions from the target.
@@ -24,7 +24,7 @@ passives:
   by Special Skill.'
 image: https://i.imgur.com/GEznO1b.jpg
 dtReleased: "2020-07-01"
-dtModified: ""
+dtModified: "2026-08-12"
 fancy_name: Sparrow Whisperer
 aetherPower: mana_boost
 lb1:

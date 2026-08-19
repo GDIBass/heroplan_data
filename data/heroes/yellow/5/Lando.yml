@@ -10,7 +10,9 @@ defense: 1260
 health: 2311
 skill: Two-Step Swing
 effects:
-- Safely cleanses status ailments for all allies.
+- Safely cleanses status ailments for all allies.  (Safe cleanse bypasses secondary
+  effects, such as damage on removal, from the remove status ailment. External effects
+  such as passive skills and family effects can still activate.)
 - Deals 450% damage to all enemies.
 - All allies deal 300-700 damage to a random enemy after 3 turns, based on the damage
   allies had taken while this effect was active. This effect is undispellable. (Maximum
@@ -34,17 +36,17 @@ passives:
 - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
 image: https://i.imgur.com/vcJysVw.jpg
 dtReleased: "2025-07-05"
-dtModified: ""
+dtModified: "2026-08-11"
 fancy_name: Magic Carpet Charmer
 aetherPower: special_armor
 lb1:
   power: 1302
-  attack: 1283
+  attack: 1282
   defense: 1358
-  health: 2490
+  health: 2491
 lb2:
   power: 1472
-  attack: 1468
+  attack: 1467
   defense: 1554
-  health: 2849
+  health: 2850
 ...

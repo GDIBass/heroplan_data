@@ -19,7 +19,7 @@ effects:
   (This effect applies to Mega Minions as well but instead of destroying, damage equal
   to 50% of the Mega Minion's max health is dealt to the Mega Minion.)
 - The caster gets lasting counterattack with 115% of the damage received. (This effect
-  lasts until it is cleansed, replaced or removed.)
+  lasts until it is dispelled, replaced or removed.)
 types:
 - Hit 1
 - Hit Random
@@ -29,7 +29,7 @@ passives:
 - 'Decreased Healing: All enemies get -50% healing.'
 image: https://i.imgur.com/spHpfyL.jpg
 dtReleased: "2025-07-06"
-dtModified: ""
+dtModified: "2026-08-11"
 fancy_name: The Sentinel Gray Fox
 aetherPower: regen
 lb1:

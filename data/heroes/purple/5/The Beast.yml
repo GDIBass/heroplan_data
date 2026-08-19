@@ -34,11 +34,11 @@ passives:
 - 'Heal when status ailment expires or is cleared: This character receives 15% health
   each time a status ailment expires or is cleansed, removed or reallocated from them.
   This effect can activate only once per turn.'
-- 'Beautiful Inside: Whenever this character would take damage from a status ailment,
-  they will recover that much health instead.'
+- 'Beautiful Inside: Whenever this character would take damage from a status ailment
+  or from a negative stack, they will recover that much health instead.'
 image: https://i.imgur.com/ILZDSqW.jpg
 dtReleased: "2025-11-12"
-dtModified: "2026-06-04"
+dtModified: "2026-08-14"
 fancy_name: Lonely Prince of the Bewitched Castle
 aetherPower: rage
 lb1:

@@ -26,11 +26,11 @@ aetherPower: fiend_resist
 lb1:
   power: 896
   attack: 892
-  defense: 843
+  defense: 842
   health: 1598
 lb2:
   power: 1008
   attack: 1021
-  defense: 965
-  health: 1828
+  defense: 964
+  health: 1829
 ...

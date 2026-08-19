@@ -11,8 +11,8 @@ health: 1314
 skill: Stunning Steel
 effects:
 - Deals 390% damage to the target.
-- The target gets -75% accuracy for 2 turns.  Chance to miss also applies to offensive
-  Special Skills.
+- The target gets -75% accuracy for 2 turns. (Chance to miss also applies to offensive
+  Special Skills.)
 - The target gets -75% decrease for any healing received for 2 turns.
 - Element Link gives all Holy allies +30% defense against Special Skills for 4 turns.
   This effect can't be cleansed.
@@ -25,17 +25,17 @@ passives:
   that are from Minions.'
 image: https://i.imgur.com/4FIVAWy.jpg
 dtReleased: "2020-09-01"
-dtModified: ""
+dtModified: "2026-08-11"
 fancy_name: Blade Dancer
 aetherPower: rage
 lb1:
   power: 827
-  attack: 808
+  attack: 807
   defense: 792
   health: 1416
 lb2:
   power: 928
-  attack: 924
+  attack: 923
   defense: 906
   health: 1620
 ...

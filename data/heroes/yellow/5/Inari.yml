@@ -49,8 +49,8 @@ costume:
   - Summons a Sakura Fox Minion for the caster and nearby allies. Sakura Fox Minion
     has 12% HP and 30% attack inherited from the caster. The minion adds 7% mana to
     its owner at the end of each turn.
-  - All enemies get -40% accuracy for 3 turns. Chance to miss is also applies to offensive
-    Special Skills.
+  - All enemies get -40% accuracy for 3 turns. (Chance to miss is also applies to
+    offensive Special Skills.)
   types:
   - Hit All
   - Summoner 3
@@ -58,7 +58,7 @@ costume:
   - Blind All
   image: https://i.imgur.com/Q0YpLSK.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-04-11"
+  dtModified: "2026-08-11"
   fancy_name: White Kitsune Spirit
   aetherPower: special_boost
   lb1:

@@ -36,13 +36,13 @@ dtModified: ""
 fancy_name: Magic Carpet Mender
 aetherPower: special_boost
 lb1:
-  power: 1294
+  power: 1295
   attack: 1398
-  defense: 1258
+  defense: 1259
   health: 2346
 lb2:
   power: 1463
-  attack: 1600
+  attack: 1599
   defense: 1440
-  health: 2684
+  health: 2685
 ...

@@ -1,0 +1,56 @@
+---
+name: Vora
+source: wilderness
+family: wildcat
+speed: Very Slow
+class: Cleric
+power: 1354
+attack: 1398
+defense: 1380
+health: 2527
+skill: Absolute Stillness
+effects:
+- Safely dispels buffs from all enemies, and increases all allies' mana by 5% for
+  each removed buffs. (After a character has received 5 direct mana additions from
+  Special Skills during a single turn, all subsequent direct mana additions done by
+  Special Skills will have reduced power on that character.)
+- Safely cleanse all Status ailments from all allies, and increases all allies' mana
+  by 5% for each cleansed ailment. (After a character has received 5 direct mana additions
+  from Special Skills during a single turn, all subsequent direct mana additions done
+  by Special Skills will have reduced power on that character.)
+- Reduces the mana of the enemy with the most mana by 50%. Reduces the mana of all
+  other enemies by 30%.
+types:
+- Safely Dispels All
+- Mana Boost All on removed buff
+- Safely Cleanse All
+- Mana Boost All on cleansed ailment
+- Mana Reduction All
+passives:
+- 'Nine Lives:'
+- ' * When defeated, this character has 80% chance to revive at the beginning of their
+  next turn with 50% health and 80% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
+  be prevented with status ailments or Passive Skills.'
+- 'Trait: Lithe Frame'
+- This character is not affected by effects that increase or reduce defense.
+- 'This includes:'
+- ' * Status effect buffs and ailments.'
+- ' * Positive and negative Stacks.'
+- ' * Growth and Wither effects.'
+image: https://i.imgur.com/WfGwtZQ.jpg
+dtReleased: "2026-08-16"
+dtModified: ""
+fancy_name: Elder Lynx of the Whispering Peaks
+aetherPower: regen
+lb1:
+  power: 1450
+  attack: 1507
+  defense: 1487
+  health: 2724
+lb2:
+  power: 1641
+  attack: 1724
+  defense: 1702
+  health: 3116
+...

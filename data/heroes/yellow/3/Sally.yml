@@ -21,13 +21,13 @@ dtModified: "2026-03-20"
 fancy_name: Mascot of Corellia
 aetherPower: dodge
 lb1:
-  power: 537
-  attack: 549
+  power: 536
+  attack: 548
   defense: 529
-  health: 941
+  health: 940
 lb2:
   power: 648
-  attack: 679
+  attack: 678
   defense: 654
   health: 1163
 ...

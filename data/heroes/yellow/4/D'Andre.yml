@@ -13,14 +13,15 @@ effects:
 - Recovers 35% health for all allies.
 - All allies with a cleansable status ailment that affects defense get +50% defense
   for 3 turns.
-- All allies get +24% mana generation for 3 turns.
+- All allies get +24% mana generation for 3 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Healer All
 - Transform Defense Debuffs All
 - Mana Generation Buff All
 image: https://i.imgur.com/XnqMU7V.jpg
 dtReleased: "2021-06-10"
-dtModified: "2026-03-20"
+dtModified: "2026-08-11"
 fancy_name: Sure-Handed Juggler
 aetherPower: special_armor
 lb1:
@@ -31,6 +32,6 @@ lb1:
 lb2:
   power: 830
   attack: 792
-  defense: 803
+  defense: 802
   health: 1740
 ...

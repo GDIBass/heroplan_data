@@ -17,8 +17,8 @@ effects:
 - ' * All enemies are immune to new status effect buffs that affect defense for 3
   turns.'
 - '2x Mana Charge:'
-- ' * All allies bypass defensive buffs with their attacks for 5 turns. Defensive
-  buffs include counterattacks.'
+- ' * All allies bypass defensive buffs with their attacks for 5 turns. (Defensive
+  buffs include counterattacks.)'
 - ' * All allies reduce all received damage by -45% for 5 turns.'
 - ' * All allies counterattack with 115% of the damage received for 5 turns.'
 types:
@@ -39,7 +39,7 @@ passives:
   matching shields or mana gained by the defense team at the end of their turn.)'
 image: https://i.imgur.com/Njfyzmw.jpg
 dtReleased: "2023-05-03"
-dtModified: "2026-07-12"
+dtModified: "2026-08-11"
 fancy_name: Master of Levitation
 aetherPower: ailment_immunity
 lb1:
