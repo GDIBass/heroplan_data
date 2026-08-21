@@ -67,4 +67,43 @@ costume:
     attack: 1377
     defense: 1123
     health: 2231
+costume2:
+  design: toon
+  bonuses: 87/87/90/5
+  class: Paladin
+  power: 1462
+  attack: 1686
+  defense: 1355
+  health: 2629
+  skill: Strength of the Toon
+  effects:
+  - Deals 350% damage to all enemies.
+  - All allies get +150% normal attack for 4 turns. This status effect is undispellable
+    and lasts 2 turns longer on Fire characters. (If additional effects increase attack
+    in general, normal attacks can have a total maximum of +200% increased power.)
+  - All allies get +55% defense for 4 turns. This status effect is undispellable and
+    lasts 2 turns longer on Fire characters.
+  - Deals extra damage against Nature.
+  types:
+  - Hit All
+  - Titan Attack Buff All
+  - Defense Buff All
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  image: https://i.imgur.com/KfvWBb0.jpg
+  dtReleased: "2026-08-21"
+  dtModified: ""
+  fancy_name: Toon Titan of Sea
+  aetherPower: attack_up
+  lb1:
+    power: 1566
+    attack: 1817
+    defense: 1460
+    health: 2834
+  lb2:
+    power: 1774
+    attack: 2079
+    defense: 1671
+    health: 3242
 ...

@@ -73,4 +73,45 @@ costume:
     attack: 1144
     defense: 1084
     health: 2444
+costume2:
+  design: toon
+  bonuses: 90/90/90/5
+  class: Paladin
+  power: 1342
+  attack: 1388
+  defense: 1322
+  health: 2585
+  skill: Toon Wound
+  effects:
+  - Deals 600% damage to the target.
+  - The target resists healing and receives 500 damage per each resisted healing for
+    4 turns. This effect can't be cleansed.
+  - All allies get +95% defense against Nature for 4 turns.
+  - Deals extra damage against Fire.
+  - Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect
+    can't be dispelled.
+  types:
+  - Hit 3
+  - Healing Debuff 1
+  - Elemental Defense Debuff All
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Dispel on Special Skill: When this character casts their Special Skill, they
+    dispel the newest status effect buff from all enemies.'
+  image: https://i.imgur.com/3UqNRwD.jpg
+  dtReleased: "2026-08-21"
+  dtModified: ""
+  fancy_name: Son of Toon Zeus
+  aetherPower: attack_up
+  lb1:
+    power: 1437
+    attack: 1496
+    defense: 1425
+    health: 2786
+  lb2:
+    power: 1626
+    attack: 1712
+    defense: 1630
+    health: 3188
 ...
