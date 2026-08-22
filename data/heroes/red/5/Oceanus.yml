@@ -71,10 +71,10 @@ costume2:
   design: toon
   bonuses: 87/87/90/5
   class: Paladin
-  power: 1462
-  attack: 1686
-  defense: 1355
-  health: 2629
+  power: 1348
+  attack: 1551
+  defense: 1243
+  health: 2373
   skill: Strength of the Toon
   effects:
   - Deals 350% damage to all enemies.
@@ -93,17 +93,17 @@ costume2:
     and buff dispels. Gain 5% mana on each successful resist.'
   image: https://i.imgur.com/KfvWBb0.jpg
   dtReleased: "2026-08-21"
-  dtModified: ""
+  dtModified: "2026-08-21"
   fancy_name: Toon Titan of Sea
   aetherPower: attack_up
   lb1:
-    power: 1566
-    attack: 1817
-    defense: 1460
-    health: 2834
+    power: 1442
+    attack: 1671
+    defense: 1339
+    health: 2558
   lb2:
-    power: 1774
-    attack: 2079
-    defense: 1671
-    health: 3242
+    power: 1633
+    attack: 1913
+    defense: 1533
+    health: 2926
 ...
