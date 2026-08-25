@@ -13,14 +13,14 @@ effects:
 - Deals 375% damage to the target and minor damage to nearby enemies.
 - The target and nearby enemies can't gain mana for 4 turns.
 - Deals extra damage against Holy.
-- Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This
+- Element Link gives all Dark allies +15% attack and +15% defense for 6 turns. This
   effect can't be dispelled.
 types:
 - Hit 3
 - Mana Gain Freeze 3
 image: https://i.imgur.com/5oaRVxv.jpg
 dtReleased: "2017-06-01"
-dtModified: "2026-05-23"
+dtModified: "2026-08-25"
 fancy_name: Celestial of Darkness
 aetherPower: attack_up
 lb1:
@@ -48,8 +48,8 @@ costume:
     increasing every turn until on the last turn all generated mana is stolen. This
     effect can't be cleansed, but it gets removed if the caster is defeated.
   - Deals extra damage to Holy.
-  - Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns.
-    This effect can't be dispelled.
+  - Element Link gives all Dark allies +15% attack and +15% defense for 6 turns. This
+    effect can't be dispelled.
   types:
   - Hit All
   - Mana Steal All
@@ -85,8 +85,8 @@ costume2:
   - The target and nearby enemies get -34% defense against Dark for 4 turns.
   - The target and nearby enemies can't gain mana for 4 turns.
   - Deals extra damage against Holy.
-  - Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns.
-    This effect can't be dispelled.
+  - Element Link gives all Dark allies +15% attack and +15% defense for 6 turns. This
+    effect can't be dispelled.
   types:
   - Hit 3
   - Elemental Defense Debuff 3
@@ -98,7 +98,7 @@ costume2:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/Zy1oEal.jpg
   dtReleased: "2026-04-29"
-  dtModified: "2026-05-23"
+  dtModified: "2026-08-25"
   fancy_name: Toon Celestial of Darkness
   aetherPower: attack_up
   lb1:

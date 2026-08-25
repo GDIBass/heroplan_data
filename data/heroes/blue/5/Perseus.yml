@@ -14,7 +14,7 @@ effects:
 - The target gets -100% decrease for any healing received for 4 turns.  This effect
   can't be cleansed.
 - The caster and nearby allies get +94% defense against Nature for 4 turns.
-- Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This effect
+- Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect
   can't be dispelled. (Affects only mana generated from matching shields or mana gained
   by the defense team at the end of their turn.)
 types:
@@ -50,9 +50,9 @@ costume:
   - The target and nearby enemies get -100% decrease for any healing received for
     4 turns. This effect can't be cleansed.
   - The target and nearby enemies get -68% defense against Ice for 4 turns.
-  - Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This
-    effect can't be dispelled. (Affects only mana generated from matching shields
-    or mana gained by the defense team at the end of their turn.)
+  - Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect
+    can't be dispelled. (Affects only mana generated from matching shields or mana
+    gained by the defense team at the end of their turn.)
   types:
   - Hit 3
   - Healing Debuff 3
