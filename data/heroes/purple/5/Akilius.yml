@@ -14,7 +14,7 @@ effects:
 - Deals 540% damage to the target.
 - The target and nearby enemies get -50% accuracy for 4 turns. (Chance to miss also
   applies to offensive Special Skills.)
-- Elemental Link gives all Dark allies +30% defense against Special Skills for 4 turns.
+- Elemental Link gives all Dark allies +40% defense against Special Skills for 4 turns.
   This effect can't be dispelled.
 types:
 - Steals Minions 1
@@ -27,7 +27,7 @@ passives:
   by them is destroyed.'
 image: https://i.imgur.com/jq0Lgzp.jpg
 dtReleased: "2025-06-01"
-dtModified: "2026-06-27"
+dtModified: "2026-08-24"
 fancy_name: Devious Reaver
 aetherPower: special_boost
 lb1:

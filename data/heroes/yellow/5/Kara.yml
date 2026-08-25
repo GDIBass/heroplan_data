@@ -14,7 +14,7 @@ effects:
   allies for 4 turns.
 - The caster gets +74% defense against special skills for 4 turns.
 - All allies except the caster get +34% attack fo 4 turns.
-- Element Link gives all Holy allies +10% defense for 4 turns. This effect can't be
+- Element Link gives all Holy allies +20% defense for 4 turns. This effect can't be
   dispelled.
 types:
 - Taunt
@@ -27,7 +27,7 @@ passives:
   defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/ltyTaFe.jpg
 dtReleased: "2022-05-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Hallowed Defender
 aetherPower: taunt
 lb1:

@@ -16,7 +16,7 @@ effects:
   end of each turn for as long as the owner has a Spirit of Spring Minion. This effect
   can't be dispelled.
 - All allies' Special Skill deal an additional 25% damage for 4 turn.
-- Element Link gives all Nature allies +10% additional Special Skill damage for 4
+- Element Link gives all Nature allies +15% additional Special Skill damage for 4
   turns. This effect cannot be dispelled.
 types:
 - Summoner All
@@ -28,7 +28,7 @@ passives:
   a minion owned by them is destroyed.'
 image: https://i.imgur.com/YdTKSoW.jpg
 dtReleased: "2023-12-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Queen of Eternal Spring
 aetherPower: defense_up
 lb1:

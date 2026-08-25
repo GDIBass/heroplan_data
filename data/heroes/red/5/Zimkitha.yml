@@ -13,15 +13,15 @@ effects:
 - Deals 215% damage to all enemies.
 - All allies get +30% attack for 4 turns.
 - Cleanses status ailments from all allies.
-- Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't
-  be cleansed.
+- Element Link recovers 5% health for all Fire allies for 6 turns. This effect can't
+  be dispelled.
 types:
 - Hit All
 - Attack Buff All
 - Cleanser All
 image: https://i.imgur.com/ZnoCx4D.jpg
 dtReleased: "2018-11-01"
-dtModified: "2026-06-20"
+dtModified: "2026-08-24"
 fancy_name: Long-Lost Daughter
 aetherPower: attack_up
 lb1:
@@ -47,7 +47,7 @@ costume:
   - Dispels buffs from all enemies.
   - Deals 240% damage to all enemies.
   - Deals additional 15% damage per removed status effect, up to 420% damage in total.
-  - Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't
+  - Element Link recovers 5% health for all Fire allies for 6 turns. This effect can't
     be dispelled.
   types:
   - Dispeller All
@@ -57,7 +57,7 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/M65Mn9a.jpg
   dtReleased: "2023-03-20"
-  dtModified: "2026-06-20"
+  dtModified: "2026-08-24"
   fancy_name: Long-Lost Adventurer
   aetherPower: special_boost
   lb1:

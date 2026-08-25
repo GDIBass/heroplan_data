@@ -13,14 +13,14 @@ effects:
 - Deals 542% damage to the target.
 - The target and nearby enemies get -24% mana generation for 3 turns. This effect
   can't be cleansed.
-- Elemental Link gives all Ice allies +5% attack and +5% defense for 6 turns. This
-  effect can't be cleansed.
+- Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This
+  effect can't be dispelled.
 types:
 - Hit 1
 - Mana Generation Debuff 3
 image: https://i.imgur.com/xx3qiK5.jpg
 dtReleased: "2018-05-01"
-dtModified: "2026-05-15"
+dtModified: "2026-08-24"
 fancy_name: Huntress of Ice Giants
 aetherPower: attack_up
 lb1:
@@ -46,7 +46,7 @@ costume:
   - Deals 496% damage to the target and minor damage to nearby enemies.
   - Reduces the mana of the target and nearby enemies by 10%.
   - The target and nearby enemies get -24% mana generation for 3 turns.
-  - Element Link gives all Ice  allies +5% attack and +5% defense for 6 turns. This
+  - Element Link gives all Ice allies +15% attack and +15% defense for 6 turns. This
     effect can't be dispelled.
   types:
   - Hit 3
@@ -57,7 +57,7 @@ costume:
     the newest status ailment from all allies.'
   image: https://i.imgur.com/UQE64tc.jpg
   dtReleased: "2021-12-23"
-  dtModified: "2026-05-15"
+  dtModified: "2026-08-24"
   fancy_name: Iceberg Champion
   aetherPower: special_boost
   lb1:

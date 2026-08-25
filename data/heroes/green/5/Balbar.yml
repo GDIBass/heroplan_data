@@ -16,7 +16,7 @@ effects:
 - All damage dealt to the sleeping target is increased by +60%.
 - The sleeping target is woken once it takes damage. This excludes damage from minions
   and fiends.
-- Element Link gives +10% increase for any healing received for all Nature allies
+- Element Link gives +15% increase for any healing received for all Nature allies
   for 4 turns. This effect can't be dispelled.
 types:
 - Hit 1
@@ -28,7 +28,7 @@ passives:
   a buff or a positive stack.'
 image: https://i.imgur.com/lTYrovf.jpg
 dtReleased: "2021-11-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Botanist Hermit
 aetherPower: attack_up
 lb1:

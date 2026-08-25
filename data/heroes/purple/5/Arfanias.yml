@@ -13,7 +13,7 @@ effects:
 - Deals 490% damage to the target.
 - The more mana the enemies have, the more damage they will receive up to 680%.
 - The caster gets +75% chance to dodge Special Skills that deal damage for 3 turns.
-- Element Link gives all Dark allies +10% defense for 4 turns. This effect can't be
+- Element Link gives all Dark allies +20% defense for 4 turns. This effect can't be
   dispelled.
 types:
 - Hit 1
@@ -25,7 +25,7 @@ passives:
   health.'
 image: https://i.imgur.com/VIzTbRE.jpg
 dtReleased: "2022-06-01"
-dtModified: "2026-06-27"
+dtModified: "2026-08-25"
 fancy_name: Shadow Assassin
 aetherPower: attack_up
 lb1:

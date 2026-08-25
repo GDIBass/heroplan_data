@@ -13,9 +13,9 @@ effects:
 - All allies get +130% normal attack that only applies when the enemy has more HP
   than the attacker. This effect can be active in addition to effects that alter attack
   in general. Normal attacks can have a total maximum of +170% increased power while
-  this efect is active. The effect lasts for 5 turns.
+  this effect is active. The effect lasts for 5 turns.
 - The target and nearby enemies get silenced for 5 turns
-- Element Link gives +4% mana regeneration for all Ice allies for 4 turns. This effect
+- Element Link gives +5% mana regeneration for all Ice allies for 4 turns. This effect
   can't be dispelled.
 types:
 - Titan Attack Buff All
@@ -25,17 +25,17 @@ passives:
   prevent the use of Special Skill.'
 image: https://i.imgur.com/FM0GgVz.jpg
 dtReleased: "2019-08-01"
-dtModified: "2026-03-22"
+dtModified: "2026-08-24"
 fancy_name: Slayer of Frost Beasts
 aetherPower: attack_up
 lb1:
-  power: 821
-  attack: 768
-  defense: 839
+  power: 820
+  attack: 767
+  defense: 838
   health: 1374
 lb2:
-  power: 921
+  power: 920
   attack: 878
-  defense: 960
+  defense: 959
   health: 1572
 ...

@@ -14,7 +14,7 @@ effects:
 - The caster and nearby allies' Special Skills deal an additional +40% damage for
   4 turns.
 - Cleanses status ailments from all allies.
-- Element Link summons an Ice Minion for all Ice allies with 6% HP and 10% attack
+- Element Link summons an Ice Minion for all Ice allies with 7% HP and 12% attack
   inherited from the caster.
 types:
 - Hit 3
@@ -25,7 +25,7 @@ passives:
   from receiving new status effect buffs.'
 image: https://i.imgur.com/25WLFwN.jpg
 dtReleased: "2020-11-01"
-dtModified: "2026-07-03"
+dtModified: "2026-08-25"
 fancy_name: Magical Godmother
 aetherPower: attack_up
 lb1:

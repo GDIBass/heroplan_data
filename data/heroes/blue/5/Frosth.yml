@@ -14,7 +14,7 @@ effects:
   from the caster.
 - All allies' Minions get +40% HP and +40% attack. This special can increase HP and
   attack up to +200% of the Minion's original HP and attack.
-- Element Link gives all Ice allies small amounts of mana at the end of the turn for
+- Element Link gives all Ice allies small amount of mana at the end of the turn for
   4 turns. This effect can't be dispelled.
 types:
 - Summoner All
@@ -26,14 +26,14 @@ passives:
   owned by them is destroyed.'
 image: https://i.imgur.com/ux7vLKs.jpg
 dtReleased: "2021-04-01"
-dtModified: "2026-04-13"
+dtModified: "2026-08-25"
 fancy_name: Winter Bringer
 aetherPower: defense_up
 lb1:
   power: 841
   attack: 836
   defense: 788
-  health: 1451
+  health: 1452
 lb2:
   power: 944
   attack: 957

@@ -12,14 +12,14 @@ skill: Unwavering Focus
 effects:
 - Deals 550% damage to the target.
 - All allies get +35% critical chance for 3 turns.
-- Element Link gives all Nature allies +5% attack and +5% defense for 6 turns. This
-  effect can't be cleansed.
+- Element Link gives all Nature allies +15% attack and +15% defense for 6 turns. This
+  effect can't be dispelled.
 types:
 - Hit 1
 - Critical Chance Buff All
 image: https://i.imgur.com/Vz5Hvbn.jpg
 dtReleased: "2018-07-01"
-dtModified: ""
+dtModified: "2026-08-24"
 fancy_name: The Adept Archer
 aetherPower: attack_up
 lb1:
@@ -28,9 +28,9 @@ lb1:
   defense: 765
   health: 1456
 lb2:
-  power: 918
+  power: 917
   attack: 899
-  defense: 876
+  defense: 875
   health: 1666
 costume:
   design: costume1
@@ -44,8 +44,8 @@ costume:
   effects:
   - Deals 535% damage to the target.
   - All allies get +45% critical chance for 4 turns.
-  - Element Link gives all Nature allies +5% attack and +5% defense for 6 turns. This
-    effect can't be dispelled.
+  - Element Link gives all Nature allies +15% attack and +15% defense for 6 turns.
+    This effect can't be dispelled.
   types:
   - Hit 1
   - Critical Chance Buff All
@@ -54,17 +54,17 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/ONemvil.jpg
   dtReleased: "2024-03-08"
-  dtModified: ""
+  dtModified: "2026-08-24"
   fancy_name: The Hermit Alchemist
   aetherPower: rage
   lb1:
-    power: 1043
-    attack: 1034
-    defense: 953
-    health: 2073
+    power: 1042
+    attack: 1032
+    defense: 952
+    health: 2071
   lb2:
-    power: 1176
-    attack: 1183
-    defense: 1091
-    health: 2371
+    power: 1175
+    attack: 1181
+    defense: 1090
+    health: 2370
 ...

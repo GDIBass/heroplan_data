@@ -14,8 +14,8 @@ effects:
 - If the target has less than 50% health remaining, deals 600% damage instead.
 - The target receives 584 Bleed damage over 2 turns.  The caster absorbs 100% of dealt
   Bleed damage as boosted health.
-- Elemental Link recovers +4% health for all Holy allies for 6 turns. This effect
-  can’t be dispelled.
+- Element Link recovers 5% health for all Holy allies for 6 turns. This effect can't
+  be dispelled.
 types:
 - Hit 1
 - DoT 1
@@ -25,7 +25,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/UaYj4Re.jpg
 dtReleased: "2026-08-01"
-dtModified: ""
+dtModified: "2026-08-24"
 fancy_name: Alchemist of the Quiver
 aetherPower: dodge
 lb1:

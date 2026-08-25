@@ -15,7 +15,7 @@ effects:
   Status effects casts by characters, Minions and fiends on the same side cannot be
   reflected.
 - The caster and nearby allies regenerate 960 HP over 3 turns.
-- Element Link recovers 4% health for all Ice allies for 4 turns. This effect can't
+- Element Link recovers 5% health for all Ice allies for 4 turns. This effect can't
   be dispelled.
 types:
 - Cleanser 3
@@ -27,7 +27,7 @@ passives:
 - 'Resist Fiends: This character can''t receive Fiends.'
 image: https://i.imgur.com/Mep7TSo.jpg
 dtReleased: "2023-05-01"
-dtModified: "2026-06-08"
+dtModified: "2026-08-24"
 fancy_name: Spellcaster Fashionista
 aetherPower: defense_up
 lb1:

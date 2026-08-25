@@ -13,8 +13,8 @@ effects:
 - Recovers 45% health for all allies.
 - All enemies get -34% defense for 5 turns.
 - Cleanses status ailments from all allies.
-- Element Link gives all Dark allies +46% defense against Holy for 4 turns. This effect
-  can't be cleansed.
+- Element Link gives all Dark allies +60% defense against Holy for 4 turns. This effect
+  can't be dispelled.
 types:
 - Healer All
 - Defense Debuff All
@@ -25,7 +25,7 @@ passives:
   defense.'
 image: https://i.imgur.com/4sKh1TW.jpg
 dtReleased: "2019-02-01"
-dtModified: ""
+dtModified: "2026-08-24"
 fancy_name: Mystical Vagabond
 aetherPower: defense_up
 lb1:

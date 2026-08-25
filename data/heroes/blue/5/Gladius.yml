@@ -14,7 +14,7 @@ effects:
 - Deals 600% damage to the target.
 - 'The target gets a Mark of Dodge for 3 turns. Whenever a marked target dodges, they
   gain a stack (Max: 10). Each stack increases all damage the target receives by +5%.'
-- Element Link gives all Ice allies +10% additional Special Skill damage for 4 turns.
+- Element Link gives all Ice allies +15% additional Special Skill damage for 4 turns.
   This effect can't be dispelled.
 types:
 - Hit 1
@@ -27,7 +27,7 @@ passives:
   turn.'
 image: https://i.imgur.com/oxh0XPo.jpg
 dtReleased: "2024-02-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Relentless Tracker
 aetherPower: attack_up
 lb1:

@@ -14,7 +14,7 @@ effects:
 - Cleanses status ailments from all allies.
 - All allies get +20% attack, and a further +5% increase per each removed status effect
   up to +60% in total, for 4 turns.
-- Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns.
+- Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns.
   This effect cannot be dispelled.
 types:
 - Hit All
@@ -26,7 +26,7 @@ passives:
   a status ailment or negative stack.'
 image: https://i.imgur.com/wf4Kvkm.jpg
 dtReleased: "2024-01-01"
-dtModified: "2026-03-20"
+dtModified: "2026-08-25"
 fancy_name: Knight of the Rose
 aetherPower: damage_reduction
 lb1:

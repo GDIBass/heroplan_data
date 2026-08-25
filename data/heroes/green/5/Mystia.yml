@@ -16,7 +16,7 @@ effects:
 - All allies reflect all status effects and 145% damage back to the attacker and block
   other negative effects from enemies' Fire Special Skill for 4 turns. (Status effects
   cast by characters, Minions and Fiends on the same side cannot be reflected.)
-- Element Link gives all Nature allies +30% defense against Special Skills for 4 turns.
+- Element Link gives all Nature allies +40% defense against Special Skills for 4 turns.
   This effect can't be dispelled.
 types:
 - Enemy Damage Share
@@ -29,17 +29,17 @@ passives:
 - 'Ignore Taunt: This character''s Special Skill is not affected by Taunt.'
 image: https://i.imgur.com/igntudt.jpg
 dtReleased: "2025-02-01"
-dtModified: "2026-03-23"
+dtModified: "2026-08-24"
 fancy_name: Mesmerizing Enchantress
 aetherPower: ailment_immunity
 lb1:
-  power: 1136
-  attack: 1181
+  power: 1135
+  attack: 1180
   defense: 1178
   health: 1915
 lb2:
-  power: 1282
-  attack: 1351
+  power: 1281
+  attack: 1350
   defense: 1348
-  health: 2192
+  health: 2191
 ...

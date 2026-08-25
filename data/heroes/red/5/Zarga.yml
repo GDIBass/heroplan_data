@@ -15,7 +15,7 @@ effects:
 - 'The target gets a Bleed mark for 6 turns. Whenever a marked target receives Bleed
   damage, they gain a stack (Max: 10). Each stack increases all damage the target
   receives by 5%.'
-- Element Link gives all Fire allies +5% dodge chance for 6 turns. This effect cannot
+- Element Link gives all Fire allies +6% dodge chance for 6 turns. This effect cannot
   be dispelled.
 types:
 - Hit 1
@@ -26,7 +26,7 @@ passives:
   damage.'
 image: https://i.imgur.com/Xh5bTXR.jpg
 dtReleased: "2024-04-01"
-dtModified: "2026-04-13"
+dtModified: "2026-08-25"
 fancy_name: Fast Blade
 aetherPower: special_boost
 lb1:

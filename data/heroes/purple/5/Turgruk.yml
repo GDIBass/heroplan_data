@@ -12,7 +12,7 @@ skill: Marked Aim
 effects:
 - Deals 480% damage to the target.
 - 'Stack (Max:10): All damage the target receives is increased by +5%.'
-- Element Link gives all Dark allies +5% chance to dodge status ailments for 4 turns.
+- Element Link gives all Dark allies +6% chance to dodge status ailments for 4 turns.
   This effect cannot be dispelled.
 types:
 - Hit 1
@@ -24,7 +24,7 @@ passives:
   Doesn''t apply to original status effects from allies.'
 image: https://i.imgur.com/ktMsNKD.jpg
 dtReleased: "2023-04-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Vicious Tracker
 aetherPower: attack_up
 lb1:

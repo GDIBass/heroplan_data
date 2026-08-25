@@ -13,7 +13,7 @@ effects:
 - Deals 410% damage to the target and nearby enemies.
 - The attack has a 80% chance to bypass defensive buffs. (This includes counterattacks.)
 - All allies get +45% defense for 4 turns.
-- Element Link gives all Holy allies a +5% chance to dodge status ailments for 4 turns.
+- Element Link gives all Holy allies a +6% chance to dodge status ailments for 4 turns.
   This effect cannot be dispelled.
 types:
 - Hit 3
@@ -25,7 +25,7 @@ passives:
   buff that the enemy team has at the start of each turn (maximum of 20 buffs).'
 image: https://i.imgur.com/gcaSLmN.jpg
 dtReleased: "2023-03-01"
-dtModified: "2026-08-11"
+dtModified: "2026-08-25"
 fancy_name: Quixotic Adventurer
 aetherPower: regen
 lb1:
