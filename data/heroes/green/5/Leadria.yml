@@ -17,7 +17,7 @@ effects:
   can't be dispelled.
 - All allies' Special Skill deal an additional 25% damage for 4 turn.
 - Element Link gives all Nature allies +15% additional Special Skill damage for 4
-  turns. This effect cannot be dispelled.
+  turns. This effect can't be dispelled.
 types:
 - Summoner All
 - Minion Boosting Health

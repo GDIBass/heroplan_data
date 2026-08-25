@@ -18,7 +18,7 @@ effects:
   4 turns. This effect can't be dispelled.
 types:
 - Hit All
-- Mana Generation Debuff All
+- Transform Mana Generation Buff All
 - Buff Immunity Debuff All
 passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'

@@ -18,7 +18,7 @@ effects:
   +25% mana. (After a character has received 5 direct mana additions from Special
   Skills during a single turn, all subsequent direct mana additions done by Special
   Skills will have reduced power on that character.)
-- Elemental Link recovers +4% health for all Ice allies for 6 turns. This effect can’t
+- Element Link recovers +5% health for all Ice allies for 6 turns. This effect can’t
   be dispelled.
 types:
 - Hit 1
@@ -33,7 +33,7 @@ passives:
   Skills, they gain +15% attack Stack (Max: 10). One Stack can be gained per turn.'
 image: https://i.imgur.com/28K5lmr.jpg
 dtReleased: "2026-07-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Battle Wolf
 aetherPower: rage
 lb1:

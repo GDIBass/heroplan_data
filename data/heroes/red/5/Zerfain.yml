@@ -17,7 +17,7 @@ effects:
   is increased on each consecutive hit. Each enemy can only be hit once.
 - For each enemy defeated by the attack, reduces the mana of all enemies by -25%.
 - 'Stack (Max: 10): The caster gets +10% attack.'
-- Elemental Link recovers 4% health for all Fire allies for 6 turns. This effect can't
+- Element Link recovers 5% health for all Fire allies for 6 turns. This effect can't
   be dispelled.
 types:
 - Hit 1
@@ -32,7 +32,7 @@ passives:
   that deals damage, an additional 50% is added to its power.'
 image: https://i.imgur.com/GA0AwK7.jpg
 dtReleased: "2026-06-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Wielder of Crimson Chain
 aetherPower: special_boost
 lb1:

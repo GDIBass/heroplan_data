@@ -46,10 +46,10 @@ costume:
   - Deals 350% damage to all enemies.
   - The caster steals generated mana of all enemies over 4 turns starting low and
     increasing every turn until on the last turn all generated mana is stolen. This
-    effect can't be cleansed, but it gets removed if the caster dies.
+    effect can't be cleansed, but it gets removed if the caster is defeated.
   - Deals extra damage to Holy.
   - Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns.
-    This effect can't be displelled.
+    This effect can't be dispelled.
   types:
   - Hit All
   - Mana Steal All
@@ -58,7 +58,7 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/8SUbwUY.jpg
   dtReleased: "2022-11-28"
-  dtModified: "2026-07-01"
+  dtModified: "2026-08-25"
   fancy_name: Omen of Darkness
   aetherPower: special_boost
   lb1:

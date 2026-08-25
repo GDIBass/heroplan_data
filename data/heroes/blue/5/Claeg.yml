@@ -14,7 +14,7 @@ effects:
   ally has, up to 40% health in total.
 - Cleanses 3 status ailments from all allies. (Status ailments are cleansed in the
   order they have been received. The latest status ailments are cleansed first.)
-- Elemental Link gives all Ice allies +40% defense against Special Skills for 4 turns.
+- Element Link gives all Ice allies +40% defense against Special Skills for 4 turns.
   This effect can't be dispelled.
 types:
 - Healer All
@@ -25,7 +25,7 @@ passives:
 - 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 image: https://i.imgur.com/O5qyXg7.jpg
 dtReleased: "2025-04-01"
-dtModified: "2026-08-24"
+dtModified: "2026-08-25"
 fancy_name: Curse-Touched Healer
 aetherPower: defense_up
 lb1:

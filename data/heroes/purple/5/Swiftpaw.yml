@@ -16,7 +16,8 @@ effects:
   inherited from the caster.
 - Sly Fox Minion has 80% chance to dodge incoming attacks.
 - When a Sly Fox Minion dodges, it steals latest buff from the attacker and gives
-  it to its owner.
+  it to its owner. (For dodged normal attacks, only one buff can be reallocated per
+  turn, per Minion.)
 types:
 - Hit 1
 - Silencer 1
@@ -26,7 +27,7 @@ passives:
 - 'Decreased Healing: All enemies get -50% healing.'
 image: https://i.imgur.com/s7agDwW.jpg
 dtReleased: "2024-10-07"
-dtModified: "2026-06-29"
+dtModified: "2026-08-25"
 fancy_name: The Assassin Silver Fox
 aetherPower: special_boost
 lb1:

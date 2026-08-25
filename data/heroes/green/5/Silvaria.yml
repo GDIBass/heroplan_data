@@ -14,8 +14,8 @@ effects:
 - Deals 390% damage to the target.
 - Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited
   from the caster.
-- Element Link gives all Nature allies +20% atack for 4 turns. This effect can't be
-  dispelled.
+- Element Link gives all Nature allies +20% attack for 4 turns. This effect can't
+  be dispelled.
 types:
 - Defense Debuff 3
 - Hit 1

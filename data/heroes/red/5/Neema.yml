@@ -17,8 +17,8 @@ effects:
   to 45% of its target's max health.
 - When summoned, the Fire Tiger Fiend's target cannot cast any new Taunt status effects
   for as long as the target has Fire Tiger Fiends. This effect can't be cleansed.
-- Elemental Link gives all Fire allies +15% additional Special Skill damage for 4
-  turns. This effect cannot be dispelled.
+- Element Link gives all Fire allies +15% additional Special Skill damage for 4 turns.
+  This effect can't be dispelled.
 types:
 - Hit All
 - Fiend Summoner All

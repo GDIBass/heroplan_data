@@ -14,7 +14,7 @@ effects:
 - The attack has a 80% chance to bypass defensive buffs. (This includes counterattacks.)
 - All allies get +45% defense for 4 turns.
 - Element Link gives all Holy allies a +6% chance to dodge status ailments for 4 turns.
-  This effect cannot be dispelled.
+  This effect can't be dispelled.
 types:
 - Hit 3
 - Bypass Chance

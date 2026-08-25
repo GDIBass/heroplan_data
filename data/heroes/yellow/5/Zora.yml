@@ -15,7 +15,7 @@ effects:
 - All allies get +20% attack, and a further +5% increase per each removed status effect
   up to +60% in total, for 4 turns.
 - Element Link gives all Holy allies +15% additional Special Skill damage for 4 turns.
-  This effect cannot be dispelled.
+  This effect can't be dispelled.
 types:
 - Hit All
 - Cleanser

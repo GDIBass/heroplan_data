@@ -17,7 +17,7 @@ effects:
   dispelled.
 types:
 - Hit 3
-- Dispeller 3
+- Dispeller 3 each turn
 passives:
 - 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 - 'Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled

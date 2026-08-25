@@ -45,7 +45,7 @@ costume:
   effects:
   - Deals 300% damage to the target and nearby enemies.
   - The target and nearby enemies get -50% accuracy for 3 turns. The effect duration
-    is reset if the target is healed. (Chance to miss also applies to offensive Special
+    is resets if the target is healed. (Chance to miss also applies to offensive Special
     Skills.)
   - Element Link gives all Holy allies +15% attack and +15% defense for 6 turns. This
     effect can't be dispelled.
@@ -57,7 +57,7 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/31loghP.jpg
   dtReleased: "2021-12-23"
-  dtModified: "2026-08-24"
+  dtModified: "2026-08-25"
   fancy_name: Serene Fighter
   aetherPower: special_boost
   lb1:

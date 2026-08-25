@@ -14,7 +14,7 @@ effects:
 - Steals the latest dispellable buffs for all enemies and randomly distributes them
   on allies.
 - All allies get lasting 310 health regeneration per turn. (This effect lasts until
-  it is cleansed, replaced or removed.)
+  it is dispelled, replaced or removed.)
 types:
 - Healer All
 - Steals 1 Buff All
@@ -23,7 +23,7 @@ passives:
 - 'Decreased Healing: All enemies get -50% healing.'
 image: https://i.imgur.com/i6CnqeB.jpg
 dtReleased: "2025-06-03"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: The Hungry Fox Kit
 aetherPower: regen
 lb1:

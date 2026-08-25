@@ -18,14 +18,14 @@ effects:
   can't be dispelled.
 types:
 - Hit All
-- Dot All
+- DoT All
 - Attack Debuff All
 passives:
 - 'Resist Negative Minion Effects: This character is immune to incoming negative effects
   and damage from Minions.'
 image: https://i.imgur.com/mUzztO6.jpg
 dtReleased: "2020-01-01"
-dtModified: "2026-08-24"
+dtModified: "2026-08-25"
 fancy_name: Aquatic Conjurer
 aetherPower: attack_up
 lb1:

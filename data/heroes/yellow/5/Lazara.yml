@@ -20,8 +20,8 @@ effects:
 types:
 - Safely Clean All
 - Hit All
-- Healing Decrease All
-- Cleanse Immunity All
+- Healing Debuff All
+- Cleanse Immunity Debuff All
 passives:
 - 'Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns
   when this character receives a status ailment or a negative stack.'
@@ -32,7 +32,7 @@ passives:
   Skill, all enemies receive 300 damage. This effect can activate only once per turn.'
 image: https://i.imgur.com/mxOSRGe.jpg
 dtReleased: "2024-03-08"
-dtModified: "2026-08-11"
+dtModified: "2026-08-25"
 fancy_name: Baseball Champion
 aetherPower: dodge
 lb1:

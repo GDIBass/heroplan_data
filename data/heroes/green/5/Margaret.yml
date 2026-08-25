@@ -15,7 +15,7 @@ effects:
   that do damage. The higher the damage from the special is, the higher the chance
   to dodge it. Each dodge gives +24% mana to the target. Effect lasts 3 turns.
 - Elemental Link gives all Nature allies +60% defense against Fire for 4 turns. This
-  effect cannot be dispelled.
+  effect can't be dispelled.
 types:
 - Hit 3
 - Dodge Chance Buff 3
@@ -25,7 +25,7 @@ passives:
   effect buffs.'
 image: https://i.imgur.com/3T1uKuW.jpg
 dtReleased: "2019-05-01"
-dtModified: "2026-08-24"
+dtModified: "2026-08-25"
 fancy_name: Treasure Hunter
 aetherPower: attack_up
 lb1:

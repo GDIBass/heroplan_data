@@ -16,7 +16,7 @@ effects:
   subsequent direct mana addition done by Special Skills will have reduced power on
   that character.)
 - 'Stack (Max: 10): The caster gets +10% attack.'
-- Elemental Link gives all Ice allies +20% attack for 4 turns. This effect can't be
+- Element Link gives all Ice allies +20% attack for 4 turns. This effect can't be
   dispelled.
 types:
 - Hit 1
@@ -27,13 +27,13 @@ passives:
 - 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 image: https://i.imgur.com/Uu4IHao.jpg
 dtReleased: "2025-10-01"
-dtModified: "2026-03-20"
+dtModified: "2026-08-25"
 fancy_name: The Quiet Death
 aetherPower: special_boost
 lb1:
-  power: 1219
-  attack: 1354
-  defense: 1294
+  power: 1218
+  attack: 1353
+  defense: 1293
   health: 1844
 lb2:
   power: 1376

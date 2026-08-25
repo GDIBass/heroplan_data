@@ -14,9 +14,10 @@ effects:
   than the attacker. This effect can be active in addition to effects that alter attack
   in general. Normal attacks can have a total maximum of +170% increased power while
   this effect is active. The effect lasts for 5 turns.
-- The target and nearby enemies get silenced for 5 turns
+- The target and nearby enemies get silenced for 5 turns.
 - Element Link gives +5% mana regeneration for all Ice allies for 4 turns. This effect
-  can't be dispelled.
+  can't be dispelled. (Affects only mana generated from matching shields or mana gained
+  by the defense team at the end of their turn.)
 types:
 - Titan Attack Buff All
 - Silencer 3
@@ -25,7 +26,7 @@ passives:
   prevent the use of Special Skill.'
 image: https://i.imgur.com/FM0GgVz.jpg
 dtReleased: "2019-08-01"
-dtModified: "2026-08-24"
+dtModified: "2026-08-25"
 fancy_name: Slayer of Frost Beasts
 aetherPower: attack_up
 lb1:

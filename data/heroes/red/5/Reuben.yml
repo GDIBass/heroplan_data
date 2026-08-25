@@ -17,7 +17,7 @@ effects:
   inherited from the caster.
 types:
 - Hit 3
-- Damage Reduction Buff All
+- Damage from Ailments Reduction Buff All
 passives:
 - 'Resist Mana Generation Ailments: This character is immune to status ailments and
   negative stacks that affect mana generation. Doesn''t apply to status ailments that

@@ -14,8 +14,8 @@ effects:
   to all other enemies.
 - The attack will always bypass counterattacks and reflection.
 - Steals the latest dispellable buff from all the enemies and randomly distributes
-  them on alies who have 50% or less HP left.
-- Elemental Link gives all Nature allies +20% critical chance for 4 turns. This effect
+  them on allies who have 50% or less HP left.
+- Element Link gives all Nature allies +20% critical chance for 4 turns. This effect
   can't be dispelled.
 types:
 - Hit All
@@ -27,7 +27,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/8qArtb9.jpg
 dtReleased: "2025-12-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: The Benevolent Bandit
 aetherPower: special_boost
 lb1:

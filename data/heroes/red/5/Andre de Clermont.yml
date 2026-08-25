@@ -15,7 +15,7 @@ effects:
   in Cover, the ally taks no damage from Special attacks or normal attacks. This covering
   character takes 50% of the damage dealt to the ally.)
 - The caster and nearby allies get +89% defense against Ice for 5 turns.
-- Elemental Link gives all Fire allies +20% critical chance for 4 turns. This effect
+- Element Link gives all Fire allies +20% critical chance for 4 turns. This effect
   can't be dispelled.
 types:
 - Hit 3
@@ -29,7 +29,7 @@ passives:
   has a 50% chance to boost this character''s health by 100.'
 image: https://i.imgur.com/9qrVbdW.jpg
 dtReleased: "2026-01-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: The Betrayed Templar
 aetherPower: regen
 lb1:

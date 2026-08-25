@@ -15,7 +15,7 @@ effects:
   for 3 turns. (This effect also prevents cleansing and reallocating of itself.)
 - The target receives 1017 Poison damage over 3 turn. This effect spreads to nearby
   enemies.
-- Elemental Link gives all Nature allies +20% attack for 4 turns. This effect can't
+- Element Link gives all Nature allies +20% attack for 4 turns. This effect can't
   be dispelled.
 types:
 - Hit 1
@@ -27,7 +27,7 @@ passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 image: https://i.imgur.com/5IV59yi.jpg
 dtReleased: "2025-07-01"
-dtModified: "2026-08-12"
+dtModified: "2026-08-25"
 fancy_name: Graceful Elaphocentaur
 aetherPower: attack_up
 lb1:

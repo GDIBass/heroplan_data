@@ -11,8 +11,8 @@ health: 1439
 skill: Double Flail Mayhem
 effects:
 - Deals 580% damage to the target.
-- The target receives 612 bleed damage over 3 turns.
-- Element Link gives all ice allies immunity to new Fiends for 4 turns. This effect
+- The target receives 612 Bleed damage over 3 turns.
+- Element Link gives all Ice allies immunity to new Fiends for 4 turns. This effect
   can't be dispelled.
 types:
 - Hit 1
@@ -25,17 +25,17 @@ passives:
   attack.'
 image: https://i.imgur.com/HIow6YQ.jpg
 dtReleased: "2022-12-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Ferocious Gladiator
 aetherPower: attack_up
 lb1:
   power: 866
   attack: 836
-  defense: 828
+  defense: 827
   health: 1551
 lb2:
   power: 973
   attack: 957
   defense: 947
-  health: 1775
+  health: 1774
 ...

@@ -10,7 +10,10 @@ defense: 716
 health: 1503
 skill: Mana Scavenge
 effects:
-- Steals 50% mana from the target and distributes them on allies.
+- Steals 50% mana from the target and distributes them on allies. (After a character
+  has received 5 direct mana additions from Special Skill during a single turn, all
+  subsequent direct mana additions done by Special Skills will have reduced power
+  on that character.)
 - Deals 480% damage to the target.
 - The more health the enemy has, the more damage they will receive, up to 630%.
 - Element Link gives all Fire allies get +6% chance to dodge status ailments for 4

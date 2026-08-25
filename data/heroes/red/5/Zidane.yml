@@ -20,7 +20,7 @@ effects:
 - 'Fire Bolt:'
 - ' * The target receives 576 Burn damage over 3 turns.'
 - Element Link gives all Fire allies +20% critical chance for 6 turns. This effect
-  cannot be dispelled.
+  can't be dispelled.
 types:
 - Hit 1
 - Steal Buff 1
@@ -34,7 +34,7 @@ passives:
   from receiving new status effect buffs.'
 image: https://i.imgur.com/csrWBuw.jpg
 dtReleased: "2024-10-01"
-dtModified: "2026-05-19"
+dtModified: "2026-08-25"
 fancy_name: Charming Privateer
 aetherPower: gamble
 lb1:

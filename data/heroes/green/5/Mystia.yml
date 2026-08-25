@@ -13,9 +13,9 @@ effects:
 - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received
   damage.
 - All enemies get -34% defense for 4 turns.
-- All allies reflect all status effects and 145% damage back to the attacker and block
-  other negative effects from enemies' Fire Special Skill for 4 turns. (Status effects
-  cast by characters, Minions and Fiends on the same side cannot be reflected.)
+- All allies reflect all status ailments and 145% damage back to the attacker and
+  block other negative effects from enemies' Fire Special Skill for 4 turns. (Status
+  effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
 - Element Link gives all Nature allies +40% defense against Special Skills for 4 turns.
   This effect can't be dispelled.
 types:
@@ -29,7 +29,7 @@ passives:
 - 'Ignore Taunt: This character''s Special Skill is not affected by Taunt.'
 image: https://i.imgur.com/igntudt.jpg
 dtReleased: "2025-02-01"
-dtModified: "2026-08-24"
+dtModified: "2026-08-25"
 fancy_name: Mesmerizing Enchantress
 aetherPower: ailment_immunity
 lb1:

@@ -25,12 +25,12 @@ fancy_name: The Kind Grovekeeper Fox
 aetherPower: heal_increase
 lb1:
   power: 572
-  attack: 610
-  defense: 581
-  health: 941
+  attack: 609
+  defense: 580
+  health: 940
 lb2:
   power: 692
-  attack: 754
-  defense: 718
+  attack: 753
+  defense: 717
   health: 1163
 ...

@@ -14,15 +14,16 @@ effects:
 - The target gets -100% decrease for any healing received for 4 turns.  This effect
   can't be cleansed.
 - The caster and nearby allies get +94% defense against Nature for 4 turns.
-- Elemental Link gives 10% mana generation for all Ice allies for 4 turns. This effect
-  can't be displelled.
+- Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This effect
+  can't be dispelled. (Affects only mana generated from matching shields or mana gained
+  by the defense team at the end of their turn.)
 types:
 - Hit 1
 - Healing Debuff 1
 - Elemental Defense Buff 3
 image: https://i.imgur.com/AMhR92j.jpg
 dtReleased: "2017-12-01"
-dtModified: "2026-05-15"
+dtModified: "2026-08-25"
 fancy_name: Son of Zeus
 aetherPower: attack_up
 lb1:
@@ -37,7 +38,7 @@ lb2:
   health: 1686
 costume:
   design: costume1
-  bonuses: 26/26/45/5
+  bonuses: 28/26/45/5
   class: Fighter
   power: 973
   attack: 928
@@ -50,7 +51,8 @@ costume:
     4 turns. This effect can't be cleansed.
   - The target and nearby enemies get -68% defense against Ice for 4 turns.
   - Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This
-    effect can't be dispelled.
+    effect can't be dispelled. (Affects only mana generated from matching shields
+    or mana gained by the defense team at the end of their turn.)
   types:
   - Hit 3
   - Healing Debuff 3
@@ -60,7 +62,7 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/nzVNwio.jpg
   dtReleased: "2022-11-28"
-  dtModified: "2026-05-15"
+  dtModified: "2026-08-25"
   fancy_name: Challenger of Boreas
   aetherPower: defense_up
   lb1:
@@ -89,7 +91,8 @@ costume2:
   - All allies get +95% defense against Nature for 4 turns.
   - Deals extra damage against Fire.
   - Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect
-    can't be dispelled.
+    can't be dispelled. (Affects only mana generated from matching shields or mana
+    gained by the defense team at the end of their turn.)
   types:
   - Hit 3
   - Healing Debuff 1
@@ -101,7 +104,7 @@ costume2:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/3UqNRwD.jpg
   dtReleased: "2026-08-21"
-  dtModified: ""
+  dtModified: "2026-08-25"
   fancy_name: Son of Toon Zeus
   aetherPower: attack_up
   lb1:

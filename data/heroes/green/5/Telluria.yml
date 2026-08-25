@@ -14,7 +14,8 @@ effects:
 - Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited
   from the caster.
 - All allies regenerate 506 HP over 2 turns.
-- All enemies get -24% mana generation for 2 turns.
+- All enemies get -24% mana generation for 2 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 - Element Link gives all Nature allies +20% critical chance for 6 turns. This effect
   can't be dispelled.
 types:
@@ -27,7 +28,7 @@ passives:
   from them.'
 image: https://i.imgur.com/xKwfgME.jpg
 dtReleased: "2020-03-01"
-dtModified: "2026-08-24"
+dtModified: "2026-08-25"
 fancy_name: Forest God
 aetherPower: bulwark
 lb1:

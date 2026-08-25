@@ -17,11 +17,12 @@ effects:
   from the caster.
 - When summoned the Loyal Hound Minion give +50% attack for tis owner as long as the
   owner has Loyal Hound Minions. This effect can't be dispelled.
-- Element Link gives all Nature allies +6% dodge chance for 6 turns. This effect cannot
+- Element Link gives all Nature allies +6% dodge chance for 6 turns. This effect can't
   be dispelled.
 types:
 - Hit 1
 - Summoner 1
+- Attack Buff Minion
 passives:
 - 'Resist Minion Removal: This character is immune to effects that would remove Minions
   from them.'
