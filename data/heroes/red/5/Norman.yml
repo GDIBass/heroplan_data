@@ -23,10 +23,10 @@ passives:
   when this character receives a status ailment or a negative stack.'
 - 'Mana on Taunt: Each time an enemy receives Taunt status effect this character''s
   mana is increased by 10%.'
-- 'Ignore Taunt: The character''s Special Skill is not affected by Taunt.'
+- 'Ignore Taunt: This character''s Special Skill is not affected by Taunt.'
 image: https://i.imgur.com/xFLIwuu.jpg
 dtReleased: "2024-01-11"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Jousting Champion
 aetherPower: knights_endurance
 lb1:

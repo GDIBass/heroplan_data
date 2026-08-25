@@ -1,0 +1,42 @@
+---
+name: Katzy
+source: tavernoflegends
+family: champions
+speed: Very Fast
+class: Fighter
+power: 1358
+attack: 1452
+defense: 1394
+health: 2393
+skill: Guard Breaking Hook
+effects:
+- Dispels buffs from the target.
+- Deals 225% damage to target.
+- For 2 turns, the target receives 100% of all damage dealt to their allies.
+- Deals 175% damage on the enemies on the edges of the enemy formation. If there is
+  only one enemy, the damage is doubled.
+types:
+- Dispel 1
+- Hit 1
+- Damage Link 1
+- Hit 2
+passives:
+- 'Ignore Taunt: This character''s Special Skill is not affected by Taunt.'
+- 'Mana on Taunt: Each time an enemy receives Taunt status effect this character''s
+  mana is increased by 10%.'
+image: https://i.imgur.com/RPIAbQR.jpg
+dtReleased: "2026-08-25"
+dtModified: ""
+fancy_name: Boxing Champion
+aetherPower: special_boost
+lb1:
+  power: 1454
+  attack: 1565
+  defense: 1502
+  health: 2579
+lb2:
+  power: 1645
+  attack: 1790
+  defense: 1719
+  health: 2951
+...
