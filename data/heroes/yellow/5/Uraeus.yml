@@ -10,11 +10,11 @@ defense: 727
 health: 1324
 skill: Strike of the Cobra
 effects:
-- Deals 635% damage to the target
+- Deals 635% damage to the target.
 - Damage bypasses target's Minions.
 - All enemies who own a Minion or a Fiend receive 420 Sand damage over 3 turns.
-- Element Link summons a Holy Minion for all Holy allies with 6% HP and 10% attack
-  inherited from the caster
+- Element Link summons a Holy Minion for all Holy allies with 7% HP and 12% attack
+  inherited from the caster.
 types:
 - Hit 1
 - Bypass Minions
@@ -26,7 +26,7 @@ passives:
   by them is destroyed.'
 image: https://i.imgur.com/1T6P7Be.jpg
 dtReleased: "2021-02-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Arcane Vizier
 aetherPower: special_boost
 lb1:

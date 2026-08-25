@@ -14,8 +14,9 @@ effects:
 - The target and nearby enemies receive lasting 250 Bleed damage per turn. (This effect
   lasts until it is cleaned, replaced or removed.)
 - After 2 turn the target and nearby enemies get Paralyzed for 1 turn. (Paralyzed
-  enemies can't attack, or gain mana and receive +50% increased damage. Bosses, Titans
-  and Mythic Titans are not affeced by this status effect.)
+  enemies can't attack, or gain mana and receive +50% increased damage. Once Paralyzed,
+  the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected
+  by this status effect.)
 types:
 - Hit 3
 - Lasting DoT 3
@@ -24,7 +25,7 @@ passives:
 - 'Decreased Healing: All enemies get -50% healing.'
 image: https://i.imgur.com/WizK6Nb.jpg
 dtReleased: "2025-04-14"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: The Outlaw Gray Fox
 aetherPower: counterattack
 lb1:

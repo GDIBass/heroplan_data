@@ -14,15 +14,16 @@ effects:
 - The target gets -100% decrease for any healing received for 4 turns.  This effect
   can't be cleansed.
 - The caster and nearby allies get +94% defense against Nature for 4 turns.
-- Elemental Link gives 10% mana generation for all Ice allies for 4 turns. This effect
-  can't be displelled.
+- Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This effect
+  can't be dispelled. (Affects only mana generated from matching shields or mana gained
+  by the defense team at the end of their turn.)
 types:
 - Hit 1
 - Healing Debuff 1
 - Elemental Defense Buff 3
 image: https://i.imgur.com/AMhR92j.jpg
 dtReleased: "2017-12-01"
-dtModified: "2026-05-15"
+dtModified: "2026-08-25"
 fancy_name: Son of Zeus
 aetherPower: attack_up
 lb1:
@@ -37,7 +38,7 @@ lb2:
   health: 1686
 costume:
   design: costume1
-  bonuses: 26/26/45/5
+  bonuses: 28/26/45/5
   class: Fighter
   power: 973
   attack: 928
@@ -50,7 +51,8 @@ costume:
     4 turns. This effect can't be cleansed.
   - The target and nearby enemies get -68% defense against Ice for 4 turns.
   - Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This
-    effect can't be dispelled.
+    effect can't be dispelled. (Affects only mana generated from matching shields
+    or mana gained by the defense team at the end of their turn.)
   types:
   - Hit 3
   - Healing Debuff 3
@@ -60,7 +62,7 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/nzVNwio.jpg
   dtReleased: "2022-11-28"
-  dtModified: "2026-05-15"
+  dtModified: "2026-08-25"
   fancy_name: Challenger of Boreas
   aetherPower: defense_up
   lb1:
@@ -73,4 +75,46 @@ costume:
     attack: 1144
     defense: 1084
     health: 2444
+costume2:
+  design: toon
+  bonuses: 90/90/90/5
+  class: Paladin
+  power: 1342
+  attack: 1388
+  defense: 1322
+  health: 2585
+  skill: Toon Wound
+  effects:
+  - Deals 600% damage to the target.
+  - The target resists healing and receives 500 damage per each resisted healing for
+    4 turns. This effect can't be cleansed.
+  - All allies get +95% defense against Nature for 4 turns.
+  - Deals extra damage against Fire.
+  - Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect
+    can't be dispelled. (Affects only mana generated from matching shields or mana
+    gained by the defense team at the end of their turn.)
+  types:
+  - Hit 3
+  - Healing Debuff 1
+  - Elemental Defense Debuff All
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Dispel on Special Skill: When this character casts their Special Skill, they
+    dispel the newest status effect buff from all enemies.'
+  image: https://i.imgur.com/3UqNRwD.jpg
+  dtReleased: "2026-08-21"
+  dtModified: "2026-08-25"
+  fancy_name: Son of Toon Zeus
+  aetherPower: attack_up
+  lb1:
+    power: 1437
+    attack: 1496
+    defense: 1425
+    health: 2786
+  lb2:
+    power: 1626
+    attack: 1712
+    defense: 1630
+    health: 3188
 ...

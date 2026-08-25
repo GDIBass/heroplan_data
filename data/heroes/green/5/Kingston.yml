@@ -12,9 +12,10 @@ skill: Stiletto Cyclone
 effects:
 - Deals 495% damage to the target.
 - The target and nearby enemies get -31% attack, and a further -4% decrease every
-  time they are hit during 4 turns.
-- Element Link gives +4% mana generation for all Nature allies for 4 turns. This effect
-  can't be cleansed.
+  time they are hit during 4 turns, down to -51% attack..
+- Element Link gives +5% mana generation for all Nature allies for 4 turns. This effect
+  can't be dispelled. (Affects only mana generated from matching shields or mana gained
+  by the defense team at the end of their turn.)
 types:
 - Hit 1
 - Attack Debuff 3
@@ -22,17 +23,17 @@ passives:
 - 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 image: https://i.imgur.com/rlpoKXr.jpg
 dtReleased: "2019-10-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: The Noble Assassin
 aetherPower: attack_up
 lb1:
   power: 820
-  attack: 808
+  attack: 807
   defense: 792
-  health: 1365
+  health: 1364
 lb2:
   power: 920
-  attack: 924
+  attack: 923
   defense: 906
-  health: 1562
+  health: 1561
 ...

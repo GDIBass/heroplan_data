@@ -10,15 +10,15 @@ defense: 780
 health: 1355
 skill: Stalling Spell
 effects:
-- Deals 295% damage to all enemies
+- Deals 325% damage to all enemies
 - All enemies with a dispellable mana generation buff get -54% mana generation for
   5 turns. This effect can't be cleansed.
 - All enemies are immune to new status effect buffs for 5 turns.
-- Element Link gives +10% increase for any healing received for all Dark allies for
+- Element Link gives +15% increase for any healing received for all Dark allies for
   4 turns. This effect can't be dispelled.
 types:
 - Hit All
-- Mana Generation Debuff All
+- Transform Mana Generation Buff All
 - Buff Immunity Debuff All
 passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
@@ -26,7 +26,7 @@ passives:
   when this character receives a status ailment or a negative stack.'
 image: https://i.imgur.com/tvzGcka.jpg
 dtReleased: "2021-08-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Lizardfolk High Priest
 aetherPower: mana_boost
 lb1:

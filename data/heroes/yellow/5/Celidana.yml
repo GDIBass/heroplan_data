@@ -19,7 +19,7 @@ effects:
   can't be dispelled.
 types:
 - Health Boost 3
-- Defense Buff 3
+- Defense Buff 3 while boosted health
 - Max Health Reduction Immunity 3
 passives:
 - 'Resist Max Health Reduction: This character is immune to max health reduction.'
@@ -27,7 +27,7 @@ passives:
   has a 50% chance to boost this character''s health by 100.'
 image: https://i.imgur.com/fzHIBe5.jpg
 dtReleased: "2022-10-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Leader of the Sacred Clergy
 aetherPower: special_armor
 lb1:

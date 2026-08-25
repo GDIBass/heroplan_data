@@ -3,9 +3,7 @@ code: 2017
 description: 2017
 image: https://i.imgur.com/Ukh12sD.png
 bonus:
-  - "Bonus for 1/2/3:"
-  - "+5%/+10%/+15% mana generation."
-  - "Bonus for 2+ Heroes:"
-  - "Element Link affects all allies."
+  - "Bonus for 1/2/3 unique Heroes of the same family:"
+  - " * +5%/+10%/+15% mana generation."
 bonuscostume-5star: 28/26/45/5
 bonuscostume2-5star: 90/90/90/5

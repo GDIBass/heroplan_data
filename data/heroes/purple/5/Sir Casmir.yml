@@ -11,13 +11,13 @@ health: 1746
 skill: Guardian's Retaliation
 effects:
 - Cleanses status ailments from the caster and nearby allies.
-- For the next 5 turns, this character has a 55% chance to deal 600% damage to a random
+- For the next 5 turns, this character has a 55% chance to deal 630% damage to a random
   enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect
   once per turn.)
 - The caster and nearby allies reflect status ailments and negative stacks for 5 turns.
   (Status effects cast by characters, Minions and Fiends on the same side cannot be
   reflected.)
-- Element Link gives all Dark allies +5% dodge chance for 6 turns. This effect cannot
+- Element Link gives all Dark allies +6% dodge chance for 6 turns. This effect can't
   be dispelled.
 types:
 - Cleanser 3
@@ -32,7 +32,7 @@ passives:
   recovered.'
 image: https://i.imgur.com/7f9DRkN.jpg
 dtReleased: "2024-08-01"
-dtModified: "2026-07-01"
+dtModified: "2026-08-25"
 fancy_name: The Vagabond Guardian
 aetherPower: knights_endurance
 lb1:

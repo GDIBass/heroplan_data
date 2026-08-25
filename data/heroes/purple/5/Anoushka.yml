@@ -16,8 +16,8 @@ effects:
   character cannot gain mana or attack. The sleeping target is woken once it takes
   damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends.
   This effect is uncleansable)
-- Elemental Link gives all Dark allies +10% additional Special Skill damage for 4
-  turns. This effect cannot be dispelled.
+- Element Link gives all Dark allies +15% additional Special Skill damage for 4 turns.
+  This effect can't be dispelled.
 types:
 - Heal All
 - Buff Steal 1
@@ -29,7 +29,7 @@ passives:
   when they receive a status ailment or negative stack.'
 image: https://i.imgur.com/mDRIe3A.jpg
 dtReleased: "2024-03-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: The Reclusive Seeress
 aetherPower: regen
 lb1:

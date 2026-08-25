@@ -13,7 +13,7 @@ effects:
 - Deals 330% damage to all enemies.
 - All enemies receive 640 Burn damage over 4 turns.
 - Dispel buffs from all enemies.
-- Elemental Link gives all Fire allies +30% defense against Special Skills for 4 turns.
+- Element Link gives all Fire allies +40% defense against Special Skills for 4 turns.
   This effect can't be dispelled.
 types:
 - Hit All
@@ -24,7 +24,7 @@ passives:
 - 'Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage.'
 image: https://i.imgur.com/MByoToE.jpg
 dtReleased: "2025-03-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Senior Red Mage
 aetherPower: special_armor
 lb1:

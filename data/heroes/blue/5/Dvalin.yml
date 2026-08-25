@@ -15,7 +15,7 @@ effects:
   Frost delas 286 Frost damage and lowers the target's attack by -11% each turn. Deals
   extra damage against heroes with Minions or a Mega Minion.
 - The caster and nearby allies get +54% attack for 4 turns.
-- Elemental Link gives all Ice allies +20% critical chance for 4 turns. This effect
+- Element Link gives all Ice allies +20% critical chance for 4 turns. This effect
   can’t be dispelled.
 types:
 - Hit 3
@@ -27,7 +27,7 @@ passives:
 - 'Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage.'
 image: https://i.imgur.com/1H7NBTN.jpg
 dtReleased: "2026-02-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Frost Wielder
 aetherPower: special_boost
 lb1:
@@ -38,6 +38,6 @@ lb1:
 lb2:
   power: 1421
   attack: 1506
-  defense: 1463
+  defense: 1462
   health: 2570
 ...

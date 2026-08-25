@@ -12,8 +12,9 @@ skill: Mending Mantra
 effects:
 - Recovers 23% health for all allies.
 - All allies are immune to new status ailments for 2 turns.
-- Element Link gives +4% mana regeneration for all Fire allies for 4 turns. This effect
-  can't be dispelled.
+- Element Link gives +5% mana regeneration for all Fire allies for 4 turns. This effect
+  can't be dispelled. (Affects only mana generated from matching shields or mana gained
+  by the defense team at the end of their turn.)
 types:
 - Healer All
 - Status Ailment Immunity All
@@ -22,7 +23,7 @@ passives:
   healing.'
 image: https://i.imgur.com/URTQAvF.jpg
 dtReleased: "2019-09-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: The Fiery Healer
 aetherPower: defense_up
 lb1:

@@ -16,7 +16,7 @@ effects:
 - Alters the critical chance or accuracy of all Ice shields on the board. When attacking
   Hero casts the special, the shield becomes enhanced with +54% critical chance. When
   a defending Hero casts the special, he shields become weakened with -47% accuracy.
-- Element Link gives +10% increase for any healing received for all Ice allies for
+- Element Link gives +15% increase for any healing received for all Ice allies for
   4 turns. This effect can't be dispelled.
 types:
 - Heal All
@@ -28,17 +28,17 @@ passives:
   when they receive a status ailment or a negative stack.'
 image: https://i.imgur.com/aFNgbfI.jpg
 dtReleased: "2021-09-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Shield Against Injustice
 aetherPower: defense_up
 lb1:
   power: 846
   attack: 803
   defense: 805
-  health: 1534
+  health: 1533
 lb2:
-  power: 950
-  attack: 919
-  defense: 922
+  power: 949
+  attack: 918
+  defense: 921
   health: 1755
 ...

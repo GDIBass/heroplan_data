@@ -3,7 +3,5 @@ code: 2023
 description: 2023
 image: https://i.imgur.com/QVYmobT.png
 bonus:
-  - "Bonus for 1/2/3 Heroes:"
-  - "* +10%/+15%/+20% defense."
-  - "Bonus for 2+ Heroes:"
-  - "* Element Link affects all allies."
+  - "Bonus for 1/2/3 Heroes of the same element in team:"
+  - " * +15%/+20%/+25% defense."

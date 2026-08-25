@@ -68,4 +68,46 @@ costume:
     attack: 826
     defense: 853
     health: 1508
+costume2:
+  design: toon
+  bonuses: 30/30/35/5
+  class: Monk
+  power: 828
+  attack: 773
+  defense: 919
+  health: 1543
+  skill: Toontastic Feast
+  effects:
+  - All allies become Soul Connected for 4 turns. Soul Connected allies share received
+    damage. This status effect is undispellable and lasts 2 turns longer on Fire characters.
+  - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received
+    damage. Against Nature characters, this status effect becomes uncleansable and
+    lasts 2 turns longer.
+  - All allies get +63% defense for 4 turns. This status effect is undispellable and
+    lasts 2 turns longer on Fire characters.
+  - All enemies get -44% defense for 4 turns. Against Nature characters, this status
+    effect becomes uncleansable and lasts 2 turns longer.
+  types:
+  - Ally Damage Share
+  - Enemy Damage Share
+  - Defense Buff All
+  - Defense Debuff All
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  image: https://i.imgur.com/OigA540.jpg
+  dtReleased: "2026-08-21"
+  dtModified: ""
+  fancy_name: Valiant Fishertoon
+  aetherPower: regen
+  lb1:
+    power: 892
+    attack: 839
+    defense: 998
+    health: 1676
+  lb2:
+    power: 1022
+    attack: 974
+    defense: 1158
+    health: 1944
 ...

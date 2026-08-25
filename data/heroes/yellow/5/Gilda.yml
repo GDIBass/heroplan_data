@@ -14,7 +14,7 @@ effects:
 - The attack chains through all the enemies who are adjacent to any hit enemy.
 - All hit targets gets -35% accuracy for 3 turns. (Chance to miss also applies to
   offensive Special Skills.)
-- Elemental Link gives all Holy allies +20% critical chance for 4 turns. This effect
+- Element Link gives all Holy allies +20% critical chance for 4 turns. This effect
   can’t be dispelled.
 types:
 - Hit 1
@@ -27,7 +27,7 @@ passives:
   Doesn''t apply to original status effects from allies.'
 image: https://i.imgur.com/19s6gxd.jpg
 dtReleased: "2026-03-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Dwarven Guider of Light
 aetherPower: damage_reduction
 lb1:

@@ -13,8 +13,8 @@ effects:
 - Deals 315% damage to the target and nearby enemies.
 - Summons a Lynx Minion with 35% HP and 35% attack inherited from the caster.
 - Before Lynx Minion hits target, it destroys all Minions from the target.
-- Dispells buffs from the target and nearby enemies.
-- Element Link givs all Holy allies small amount of mana at the end of the turn for
+- Dispels buffs from the target and nearby enemies.
+- Element Link gives all Holy allies small amount of mana at the end of the turn for
   4 turns. This effect can't be dispelled.
 types:
 - Hit 3
@@ -28,7 +28,7 @@ passives:
   and damage from Minions.'
 image: https://i.imgur.com/kOGhPnC.jpg
 dtReleased: "2021-07-01"
-dtModified: "2026-03-20"
+dtModified: "2026-08-25"
 fancy_name: Headstrong Huntress
 aetherPower: defense_up
 lb1:

@@ -13,8 +13,9 @@ effects:
 - Deals 180% damage to the target.
 - The target and nearby enemies receive 822 Poison damage over 3 turns.  The caster
   absorbs 100% of dealt Poison damage as health.
-- Element Link gives +10% mana generation for all Dark allies for 4 turns.  This effect
-  cannot be dispelled.
+- Element Link gives +10% mana generation for all Dark allies for 4 turns. This effect
+  can't be dispelled.  (Affects only mana generated from matching shields or mana
+  gained by the defense team at the end of their turn.)
 types:
 - Hit 1
 - DoT 3
@@ -25,7 +26,7 @@ passives:
   stop mana generation.'
 image: https://i.imgur.com/Pb3fJn3.jpg
 dtReleased: "2023-10-01"
-dtModified: "2026-07-01"
+dtModified: "2026-08-25"
 fancy_name: Toxic Abomination
 aetherPower: defense_up
 lb1:

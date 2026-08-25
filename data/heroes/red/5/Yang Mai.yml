@@ -14,7 +14,7 @@ effects:
 - Has a 65% chance for additional hits on random enemies up to 4 times. Additional
   hits deal minor damage.
 - 'The caster gains the following status effect each hit:'
-- 'Stack (Max: 10): The caster gets +6% attack.'
+- ' * Stack (Max: 10): The caster gets +6% attack.'
 - Element Link gives all Fire allies small amount of mana at the end of the turn for
   4 turns. This effect can't be dispelled.
 types:
@@ -27,7 +27,7 @@ passives:
 - 'Resist Water: This character is immune to status ailments that deal Water damage.'
 image: https://i.imgur.com/vzzuVpu.jpg
 dtReleased: "2021-05-01"
-dtModified: "2026-06-08"
+dtModified: "2026-08-25"
 fancy_name: Fist of the Sun
 aetherPower: special_boost
 lb1:

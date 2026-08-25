@@ -15,7 +15,7 @@ effects:
   for 5 turns. (On the first turn, 106 damage is dealt. The damage increases by +40%
   each turn, up to 409 damage per turn.)
 - If the target is defeated in 4 turns, all enemies receive 1027 damage.
-- Elemental Link gives all Dark  allies +20% critical chance for 4 turns. This effect
+- Element Link gives all Dark  allies +20% critical chance for 4 turns. This effect
   can’t be dispelled.
 types:
 - Hit 3
@@ -26,7 +26,7 @@ passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 image: https://i.imgur.com/HtIXZy1.jpg
 dtReleased: "2026-04-01"
-dtModified: "2026-07-01"
+dtModified: "2026-08-25"
 fancy_name: Queen of Curses
 aetherPower: damage_reduction
 lb1:

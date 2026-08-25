@@ -3,7 +3,5 @@ code: 2024
 description: 2024
 image: https://i.imgur.com/1Smrj7d.png
 bonus:
-  - "Bonus for 1/2/3 Heroes:"
-  - " * +10%/+15%/+20% healing."
-  - "Bonus for 2+ Heroes:"
-  - " * Element Link affects all allies."
+  - "Bonus for 1/2/3 Heroes of the same element in team:"
+  - " * +20%/+25%/+30% healing."

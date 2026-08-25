@@ -11,9 +11,12 @@ health: 1406
 skill: Indifferent Blade
 effects:
 - Deals 520% damage to the target and minor damage to nearby enemies.
-- The attack bypasses defensive buffs. This includes counterattacks.
-- The caster gains 25% mana if any defensive buffs were bypassed.
-- Element Link gives all Fire allies +10% defense for 4 turns. This effect can't be
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- The caster gains 25% mana if any defensive buffs were bypassed. (After a character
+  has received 5 direct mana additions from Special Skill during a single turn, all
+  subsequent direct mana additions done by Special Skills will have reduced power
+  on that character.)
+- Element Link gives all Fire allies +20% defense for 4 turns. This effect can't be
   dispelled.
 types:
 - Hit 3
@@ -27,14 +30,14 @@ passives:
   stacks that effect attack. This includes status effect buffs.'
 image: https://i.imgur.com/jTxW191.jpg
 dtReleased: "2022-03-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Lone Rogue
 aetherPower: regen
 lb1:
   power: 857
   attack: 836
   defense: 814
-  health: 1516
+  health: 1515
 lb2:
   power: 963
   attack: 957

@@ -16,7 +16,7 @@ effects:
 - The target gets -34% decrease for any healing received for 2 turns. The effect duration
   resets if the target is hit with direct damage from a Special Skill.
 - Element Link gives all Dark allies +20% critical chance for 6 turns. This effect
-  cannot be dispelled.
+  can't be dispelled.
 types:
 - Hit 1
 - Defense Debuff 1
@@ -28,7 +28,7 @@ passives:
   Skill that deals damage, an additional 50% is added to its power.'
 image: https://i.imgur.com/G0RFHTr.jpg
 dtReleased: "2025-01-01"
-dtModified: "2026-06-01"
+dtModified: "2026-08-25"
 fancy_name: Imperial Lancer
 aetherPower: attack_up
 lb1:

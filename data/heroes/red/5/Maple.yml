@@ -11,10 +11,10 @@ health: 2057
 skill: Autumnal Wind
 effects:
 - This Special Skill never misses its targets.
-- Deals 300% damage to 3 random enemies.
+- Deals 320% damage to 3 random enemies.
 - All allies get +40% chance to dodge Special Skills that deal damage for 3 turns.
-- Elemental Link gives all Fire allies +20% attack for 5 turns. This effect can't
-  be dispelled.
+- Element Link gives all Fire allies +20% attack for 5 turns. This effect can't be
+  dispelled.
 types:
 - Hit Random 3
 - Dodge Buff All
@@ -25,7 +25,7 @@ passives:
   a buff or positive stack.'
 image: https://i.imgur.com/R97TCxU.jpg
 dtReleased: "2025-08-01"
-dtModified: "2026-06-20"
+dtModified: "2026-08-25"
 fancy_name: Fairy of Auburn Woods
 aetherPower: damage_reduction
 lb1:

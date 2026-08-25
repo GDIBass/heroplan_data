@@ -10,11 +10,11 @@ defense: 741
 health: 1425
 skill: Hunter's Mark
 effects:
-- Deals 400% damage to the target.
-- Deals 600% damage if the target has status ailments or negative stacks.
-- If the target still alive, the nearby enemies get 258 Bleed damage for 3 turns.
+- Deals 420% damage to the target.
+- Deals 630% damage if the target has status ailments or negative stacks.
+- If the target is still alive, the nearby enemies get 258 Bleed damage for 3 turns.
 - Element Link gives all Fire allies immunity to new Fiends for 4 turns. This effect
-  cannot be dispelled.
+  can't be dispelled.
 types:
 - Hit 1
 - DoT 2
@@ -24,7 +24,7 @@ passives:
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/CooQRgw.jpg
 dtReleased: "2022-08-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Nomadic Hunter
 aetherPower: special_boost
 lb1:

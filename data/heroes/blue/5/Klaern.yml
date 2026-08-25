@@ -13,7 +13,7 @@ effects:
 - Deals 330% damage to all enemies.
 - All enemies receive 500 Water damage over 5 turns. The caster absorbs 35% of dealt
   Water damage as health.
-- Element Link gives all ice allies +10% defense for 4 turns. This effect can't be
+- Element Link gives all Ice allies +20% defense for 4 turns. This effect can't be
   dispelled.
 types:
 - Hit All
@@ -24,7 +24,7 @@ passives:
 - 'Resist Mana Reduction: This character is immune to mana reductions.'
 image: https://i.imgur.com/zoE3F2A.jpg
 dtReleased: "2022-07-01"
-dtModified: "2026-08-12"
+dtModified: "2026-08-25"
 fancy_name: Rime Sorcerer
 aetherPower: mana_boost
 lb1:

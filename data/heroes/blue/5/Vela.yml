@@ -14,25 +14,25 @@ effects:
 - All enemies receive 318 Water damage over 3 turns.
 - All enemies get -34% attack for 3 turns.
 - Deals extra damage against Fire.
-- Element link gives all Ice allies +10% critical chance for 6 turns. This effect
+- Element link gives all Ice allies +20% critical chance for 6 turns. This effect
   can't be dispelled.
 types:
 - Hit All
-- Dot All
+- DoT All
 - Attack Debuff All
 passives:
 - 'Resist Negative Minion Effects: This character is immune to incoming negative effects
   and damage from Minions.'
 image: https://i.imgur.com/mUzztO6.jpg
 dtReleased: "2020-01-01"
-dtModified: ""
+dtModified: "2026-08-25"
 fancy_name: Aquatic Conjurer
 aetherPower: attack_up
 lb1:
   power: 821
-  attack: 801
+  attack: 800
   defense: 785
-  health: 1405
+  health: 1404
 lb2:
   power: 922
   attack: 916
