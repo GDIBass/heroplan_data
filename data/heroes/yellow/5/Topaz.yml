@@ -55,4 +55,66 @@ lb2:
   attack: 1012
   defense: 868
   health: 1839
+costume:
+  design: costume1
+  bonuses: 77/77/77/1
+  class: Ranger
+  power: 1354
+  attack: 1453
+  defense: 1249
+  health: 2649
+  skill: Precise Needles
+  effects:
+  - 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+  - 'x1 Mana Charge:'
+  - Destroys all Minions from the target. This effect damages Mega Minions.
+  - Deals 410% damage to the target.
+  - The target can't summon new Minions with Special Skill and receives 100 damage
+    for each Minion they attempt to summon for 2 turns.
+  - All allies get 5% mana for each destroyed Minion. (After a character has received
+    5 direct mana additions from Special Skill during a single turn, all subsequent
+    direct mana additions done by Special Skills will have reduced power on that character.)
+  - 'x2 Mana Charge:'
+  - Destroys all Minions from the target and nearby enemies. This effect damages Mega
+    Minions.
+  - Deals 420% damage to the target and nearby enemies.
+  - The target and nearby enemies can't summon new Minions with Special Skill and
+    receives 200 damage for each Minion they attempt to summon for 3 turns.
+  - All allies get 5% mana for each destroyed Minion. (After a character has received
+    5 direct mana additions from Special Skill during a single turn, all subsequent
+    direct mana additions done by Special Skills will have reduced power on that character.)
+  - 'x3 Mana Charge:'
+  - Destroys all Minions from all enemies and damages Mega Minions.
+  - Deals 430% damage to all enemies.
+  - All enemies can't summon new Minions with Special Skill and receives 500 damage
+    for each Minion they attempt to summon for 4 turns.
+  - All allies get 10% mana for each destroyed Minion. (After a character has received
+    5 direct mana additions from Special Skill during a single turn, all subsequent
+    direct mana additions done by Special Skills will have reduced power on that character.)
+  types:
+  - Charge
+  - Minion Destroyer 1/3/All
+  - Hit 1/3/All
+  - Minion Immunity Debuff 1/3/All
+  - Damage on each attempted summon
+  - Mana Boost All on Minion kill
+  passives:
+  - 'Weaker Minions: Enemy Minions have -50% HP.'
+  - 'Rending Touch: Each time this character counterattacks an enemy, the attacker
+    receives 608 Bleed damage over 4 turns.'
+  image: https://i.imgur.com/3kGSGh9.jpg
+  dtReleased: "2026-08-27"
+  dtModified: ""
+  fancy_name: Ninja of Deadly Precision
+  aetherPower: attack_up
+  lb1:
+    power: 1449
+    attack: 1566
+    defense: 1346
+    health: 2855
+  lb2:
+    power: 1640
+    attack: 1792
+    defense: 1540
+    health: 3267
 ...
