@@ -17,7 +17,7 @@ effects:
   health.)
 - Dispels 2 buffs from all enemies. (The latest buffs are dispelled first.)
 - Deals 450% damage to the enemy with the highest remaining HP. Deals 250% damage
-  to all other enmies.
+  to all other enemies.
 - The enemy that had the highest remaining HP get 810 Water damage over 3 turns. This
   effect can't be cleansed.
 types:
