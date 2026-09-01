@@ -13,7 +13,7 @@ effects:
 - Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)
 - Deals 300% damage to all enemies.
 - Deals additional 6% damage per removed status effect, up to 330% damage in total.
-- Summnos a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the
+- Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the
   caster.
 - The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment
   from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage

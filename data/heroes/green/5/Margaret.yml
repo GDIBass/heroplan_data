@@ -14,7 +14,7 @@ effects:
 - The caster and nearby allies have from +30% to +90% chance of dodging special attacks
   that do damage. The higher the damage from the special is, the higher the chance
   to dodge it. Each dodge gives +24% mana to the target. Effect lasts 3 turns.
-- Elemental Link gives all Nature allies +60% defense against Fire for 4 turns. This
+- Element Link gives all Nature allies +60% defense against Fire for 4 turns. This
   effect can't be dispelled.
 types:
 - Hit 3

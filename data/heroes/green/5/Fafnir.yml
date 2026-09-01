@@ -46,4 +46,51 @@ lb2:
   attack: 1541
   defense: 1448
   health: 2822
+costume:
+  design: costume1
+  bonuses: 13/13/13/5
+  class: Rogue
+  power: 1354
+  attack: 1419
+  defense: 1324
+  health: 2585
+  skill: Lance of Myrkheim
+  effects:
+  - Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2300
+    damage. Deals 40% more damage if the target is of the Fire element. This Special
+    Skill never misses its targets.
+  - 'Stack +2 (Max: 10): All damage the target and nearby enemies receive is increased
+    by +10%.'
+  - The target and nearby enemies reflect status effect buffs to a random character
+    on the opposing team for 3 turns. (Only dispellable buffs are reflected.)
+  types:
+  - Frostfall Strike 3
+  - Damage Increase Debuff Stack 3
+  - Reflect Buffs 3
+  passives:
+  - 'Resist Stealing: This character is immune to stealing and Ransacking.'
+  - 'Empowered Resist Frost: This character is immune to status ailments that deal
+    Frost damage and gains 600 boosted health and 10% mana each time they resist.'
+  - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
+    is cast'
+  - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
+    Core, the Corrosive Frost deals 418 Frost damage and lowers the target''s attack
+    by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Frost damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
+  image: https://i.imgur.com/QltqELL.jpg
+  dtReleased: "2026-08-29"
+  dtModified: ""
+  fancy_name: Fallen Lord of Myrkheim
+  aetherPower: fiend_resist
+  lb1:
+    power: 1449
+    attack: 1529
+    defense: 1427
+    health: 2786
+  lb2:
+    power: 1641
+    attack: 1750
+    defense: 1633
+    health: 3188
 ...

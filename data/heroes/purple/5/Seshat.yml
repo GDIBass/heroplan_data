@@ -16,7 +16,7 @@ effects:
   same amount of HP and attack as the original Minion. The Minion will only clone
   if the target does not already have the maximum number of Minions or Fiends.)
 - Dispels buffs from the target and nearby enemies.
-- Elemental Link gives +5% mana generation for all Dark allies for 4 turns. This effect
+- Element Link gives +5% mana generation for all Dark allies for 4 turns. This effect
   can't be dispelled. (Affects only mana generated from matching shields or mana gained
   by the defense team at the end of their turn.)
 types:

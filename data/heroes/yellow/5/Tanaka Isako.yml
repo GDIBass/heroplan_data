@@ -1,0 +1,53 @@
+---
+name: Tanaka Isako
+source: ninja
+family: ronin
+speed: Charge
+class: Barbarian
+power: 1357
+attack: 1442
+defense: 1398
+health: 2404
+skill: Swift Stabs
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- 'x1 Mana Charge:'
+- Deals 225% damage to all enemies.
+- All allies get +35% chance to dodge Special Skill for 2 turns. Each dodge damages
+  the attacker for 350 damage.
+- 'x2 Mana Charge:'
+- Deals 350% damage to all enemies.
+- All allies get +45% chance to dodge Special Skill for 3 turns. Each dodge damages
+  the attacker for 450 damage.
+- 'x3 Mana Charge:'
+- Deals 550% damage to all enemies.
+- All allies get +65% chance to dodge Special Skill for 5 turns. Each dodge damages
+  the attacker for 1000 damage.
+types:
+- Charge
+- Hit All
+- Dodge Chance Buff All
+- Damage attacker on dodge
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 450% damage.'
+- ' * The attacker receives 1500 Bleed damage over 3 turns.'
+image: https://i.imgur.com/o3bVXQ3.jpg
+dtReleased: "2026-08-27"
+dtModified: ""
+fancy_name: Ronin from the Rustic Village
+aetherPower: attack_up
+lb1:
+  power: 1453
+  attack: 1554
+  defense: 1507
+  health: 2591
+lb2:
+  power: 1645
+  attack: 1778
+  defense: 1724
+  health: 2965
+...
