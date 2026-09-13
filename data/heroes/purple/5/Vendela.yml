@@ -1,0 +1,47 @@
+---
+name: Vendela
+source: titanhunter
+family: titanhunter
+speed: Fast
+class: Monk
+power: 1360
+attack: 1435
+defense: 1396
+health: 2449
+skill: Venom Hunt
+effects:
+- Deals 600% damage to the target.
+- Against Titans, deals 700% damage.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- The target gets -40% defense for 3 turns. Against Holy Titans, the target gets -60%
+  defense and the status effect lasts 2 turns longer.
+types:
+- Hit 1
+- Bypass
+- Defense Debuff 1
+passives:
+- 'Enhanced Shields on Special: Passive Skill as attacking character:'
+- ' * Dark shields on the board become enhanced with +54% critical chance when this
+  character casts their Special Skill.'
+- 'Passive Skill as defending character:'
+- ' * Dark shields on the board become weakened with -47% accuracy when this character
+  casts their Special Skill.'
+- 'Mark of the Titan Hunter: When this character casts their Special Skill, they mark
+  a random enemy with a Hunting Flare for 4 turns. A target marked with a Hunting
+  Flare receives additional 150 damage when they receive a critical hit.'
+image: https://i.imgur.com/t9JNReI.jpg
+dtReleased: "2026-09-13"
+dtModified: ""
+fancy_name: Vanguard of the Cove
+aetherPower: attack_up
+lb1:
+  power: 1456
+  attack: 1546
+  defense: 1504
+  health: 2640
+lb2:
+  power: 1648
+  attack: 1769
+  defense: 1721
+  health: 3020
+...

@@ -1,0 +1,49 @@
+---
+name: Ksorath
+source: astral
+family: astraldemons
+speed: Fast
+class: Ranger
+power: 1360
+attack: 1433
+defense: 1419
+health: 2408
+skill: Coronal Burn
+effects:
+- Deals 275% damage to all enemies.
+- Reduces the max health of all enemies by 900. The effect is stronger against targets
+  with boosted health. (Max health can't get lower than 30% of original health. Any
+  boosted health is reduced by an additional 900.)
+- All enemies receive Mana Corruption for 3 turns. Each time an afflicted enemy receives
+  mana from additional source, they receive 550 damage. (Mana added for defense team
+  at the end of their turn from matching shields activates Mana Corruption only if
+  the target has a mana generation buff or a positive mana generation stack. Mana
+  additions from other sources always activate Mana Corruption.)
+types:
+- Hit All
+- Max Health Reduction All
+- Mana Corruption All
+passives:
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
+- 'Resist Negative Mana Effects: This character is immune to mana reductions, as well
+  as status ailments and negative stacks that affect mana generation. Applies also
+  to effects and status ailments that block or steal mana.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+image: https://i.imgur.com/H6TFJt8.jpg
+dtReleased: "2026-09-12"
+dtModified: ""
+fancy_name: Astral Demon Courier
+aetherPower: special_boost
+lb1:
+  power: 1456
+  attack: 1544
+  defense: 1529
+  health: 2595
+lb2:
+  power: 1649
+  attack: 1767
+  defense: 1750
+  health: 2970
+...

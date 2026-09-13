@@ -53,7 +53,7 @@ wanted_chest:
   fire: https://i.imgur.com/zEVPaHu.png
   ice: https://i.imgur.com/HgqcVmF.png
   nature: https://i.imgur.com/SES8YMg.png
-badge-talent-level:
+badgeTalentLevel:
   1: https://i.imgur.com/IwKbb2K.png
   2: https://i.imgur.com/vx55yo4.png
   3: https://i.imgur.com/J14VWkH.png
@@ -79,11 +79,13 @@ badge-talent-level:
   23: https://i.imgur.com/rKjeLbR.png
   24: https://i.imgur.com/kLh8Awe.png
   25: https://i.imgur.com/LltolVc.png
-badge-ascension:
+badgeAscension:
   3star:
     1: https://i.imgur.com/5LW0kK7.png
     2: https://i.imgur.com/re5bhGf.png
     3: https://i.imgur.com/szuruMh.png
+    4: https://i.imgur.com/aMdsRag.png
+    5: https://i.imgur.com/m3B0ZoN.png
     355: https://i.imgur.com/aMdsRag.png
     360: https://i.imgur.com/m3B0ZoN.png
   4star:
@@ -91,6 +93,8 @@ badge-ascension:
     2: https://i.imgur.com/SmNw3x4.png
     3: https://i.imgur.com/COvKG4S.png
     4: https://i.imgur.com/wVO6TOe.png
+    5: https://i.imgur.com/ofGhwxA.png
+    6: https://i.imgur.com/c721ksx.png
     475: https://i.imgur.com/ofGhwxA.png
     480: https://i.imgur.com/c721ksx.png
   5star:
@@ -98,9 +102,11 @@ badge-ascension:
     2: https://i.imgur.com/SmNw3x4.png
     3: https://i.imgur.com/COvKG4S.png
     4: https://i.imgur.com/wVO6TOe.png
+    5: https://i.imgur.com/ofGhwxA.png
+    6: https://i.imgur.com/c721ksx.png
     485: https://i.imgur.com/ofGhwxA.png
     490: https://i.imgur.com/c721ksx.png
-talent-nodes:
+talentNodes:
   attackbonus: https://i.imgur.com/OX3Ny2W.png
   attackbonuspercent: https://i.imgur.com/GCAEASe.png
   criticalbonus: https://i.imgur.com/B47BSAb.png

@@ -15,20 +15,20 @@ effects:
 - Deals extra damage against Ice.
 types:
 - Hit 3
-- Cleanser All
+- Cleanser All each turn
 passives:
 - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/jBtXWpz.jpg
 dtReleased: "2020-10-26"
-dtModified: ""
+dtModified: "2026-09-10"
 fancy_name: The Monstress
 aetherPower: attack_up
 lb1:
   power: 847
-  attack: 841
-  defense: 801
+  attack: 840
+  defense: 800
   health: 1458
 lb2:
   power: 951
@@ -37,7 +37,7 @@ lb2:
   health: 1668
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 50/50/55/5
   class: Sorcerer
   power: 1140
   attack: 1179
@@ -51,7 +51,7 @@ costume:
   - All Ice enemies get -54% defense against Nature for 3 turns.
   types:
   - Hit 3
-  - Cleanser All
+  - Cleanser All each turn
   - Elemental Defense Debuff All Ice
   passives:
   - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
@@ -59,17 +59,17 @@ costume:
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/ObnUcTT.jpg
   dtReleased: "2021-10-04"
-  dtModified: ""
+  dtModified: "2026-09-10"
   fancy_name: The Mobstress
   aetherPower: special_boost
   lb1:
-    power: 1220
-    attack: 1272
-    defense: 1212
-    health: 2219
+    power: 1218
+    attack: 1270
+    defense: 1210
+    health: 2218
   lb2:
     power: 1377
-    attack: 1455
-    defense: 1386
-    health: 2539
+    attack: 1454
+    defense: 1385
+    health: 2538
 ...

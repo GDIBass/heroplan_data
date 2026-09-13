@@ -34,7 +34,7 @@ lb2:
   health: 1518
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Fighter
   power: 956
   attack: 1022
@@ -43,8 +43,9 @@ costume:
   skill: Serenade of Sedition
   effects:
   - Deals 120% damage to the target and minor damage to nearby enemies.
-  - The target and nearby enemies receive 1118 damage over 4 turns, starting low and
-    increasing with every turn.
+  - The target and nearby enemies receive 166-457 increasing Curse damage each turn
+    for 4 turns. (On the first turn, 166 damage is dealt. The damage increases by
+    +40% each turn, up to 457 damage per turn.)
   - Cleanses status ailments from all allies.
   types:
   - Hit 3
@@ -52,10 +53,10 @@ costume:
   - Cleanser All
   passives:
   - 'Poison on Special Skill: When this character casts their Special Skill, all enemies
-    receive 540 Poison damage over 4 turns.'
+    receive 572 Poison damage over 4 turns.'
   image: https://i.imgur.com/mpM0YIf.jpg
   dtReleased: "2023-12-28"
-  dtModified: ""
+  dtModified: "2026-09-10"
   fancy_name: Rebel Queen
   aetherPower: attack_up
   lb1:

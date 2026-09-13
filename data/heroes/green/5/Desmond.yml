@@ -43,4 +43,49 @@ lb2:
   attack: 1242
   defense: 1201
   health: 2103
+costume:
+  design: costume1
+  bonuses: 43/43/42/5
+  class: Druid
+  power: 1360
+  attack: 1451
+  defense: 1389
+  health: 2418
+  skill: Nephrite Blade
+  effects:
+  - Deals 530% damage to the enemies on the edges of the enemy formation. If there
+    is only one enemy, the damage is doubled.
+  - Boosts the caster's and nearby allies' health by 25% of damage dealt to each enemy.
+  - For each hit Ice enemy, the boosted health is 45% of damage dealt to them.
+  - The enemies on the edges of the enemy formation get silenced for 3 turns. This
+    status effect is undispellable and lasts 2 turns longer on Ice characters.
+  types:
+  - Hit 2
+  - Boost Health on damage dealt 3
+  - Silence 2
+  passives:
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This character''s Troops deal extra damage
+    against the weaker element.'
+  - '* Extra damage dealt: +150%'
+  - 'Passive Skill as defending character: This character receives less damage from
+    Troops of the stronger element.'
+  - '* Received damage: -25%'
+  - 'Resist Ice Ailments: This character is immune to status ailments and negative
+    stacks cast by Ice characters.'
+  image: https://i.imgur.com/CUYRtcN.jpg
+  dtReleased: "2026-09-10"
+  dtModified: ""
+  fancy_name: Blade Assassin
+  aetherPower: counterattack
+  lb1:
+    power: 1456
+    attack: 1564
+    defense: 1497
+    health: 2606
+  lb2:
+    power: 1648
+    attack: 1789
+    defense: 1713
+    health: 2982
 ...
