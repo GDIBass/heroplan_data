@@ -16,7 +16,7 @@ effects:
 - All enemies get -50% defense against Special Skills for 4 turns. Against Dark characters,
   this status effect becomes uncleansable and lasts 2 turns longer.
 types:
-- Reviver All
+- Reviver
 - Boosted HoT All
 - Special Skill Defense Debuff All
 passives:
