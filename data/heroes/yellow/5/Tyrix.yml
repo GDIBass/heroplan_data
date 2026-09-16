@@ -1,0 +1,51 @@
+---
+name: Tyrix
+source: wilderness
+family: wildcat
+speed: Fast
+class: Barbarian
+power: 1362
+attack: 1505
+defense: 1308
+health: 2463
+skill: Rending Flurry
+effects:
+- Deals 335% damage to the target.
+- The attack chains through all the enemies who are adjacent to any hit enemy.
+- 'All hit targets receive 1500 Surge Bleed damage over 6 turns. (If a target already
+  has this effect, the duration will be refreshed and the damage will be increased
+  by 300. Max total damage: 3300.)'
+- 'Stack (Max: 10): Each hit increases all damage the target receives by +4%.'
+types:
+- Hit 1
+- Chain Hit
+- Surge Bleed DoT on hit
+- Damage Increase Debuff Stack on hit
+passives:
+- 'Nine Lives:'
+- ' * When defeated this character has 80% chance to revive at the beginning of their
+  next turn with 50% health and 80% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
+  be prevented with status ailments or Passive Skills.'
+- 'Trait: Lithe Frame'
+- This character is not affected by effects that increase or reduce defense.
+- 'This includes:'
+- ' * Status effect buffs and ailments.'
+- ' * Positive and negative stacks.'
+- ' * Growth and Wither effects.'
+image: https://i.imgur.com/V3xE79p.jpg
+dtReleased: "2026-09-16"
+dtModified: ""
+fancy_name: The Serval of the Zenith Shadow
+aetherPower: special_boost
+lb1:
+  power: 1459
+  attack: 1622
+  defense: 1410
+  health: 2655
+lb2:
+  power: 1651
+  attack: 1856
+  defense: 1613
+  health: 3037
+...
