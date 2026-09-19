@@ -1,0 +1,46 @@
+---
+name: Lynsa
+fancy_name: Beguiling Whelpling
+source: ancientUnderroot
+speed: Very_fast
+power: 13350
+attack: 17421
+defense: 16206
+health: 14893
+skill: Wind-Swift Mischief
+effects:
+- Steals all dispellable buffs from the enemies on the edges of the enemy formation
+  and randomly distributes them on allies.
+- Deals 240% damage to the enemies on the edges of the enemy formation. If there is
+  only one enemy, the damage is doubled.
+- Deals extra damage against Ice.
+types:
+- Buff Steal 2
+- Hit 2
+passives:
+- 'Crackling Hatching: At the start of each turn, each enemy has 25% chance to receive
+  350 damage.'
+spiritBonus:
+  spiritClass: Rogue
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Weakening Blaze
+  effects:
+  - Deals 840 damage to all enemies.
+  - Recovers 210 health for all allies.
+  - All enemies get -20% attack for 5 turns.
+image: https://i.imgur.com/CaRdoAa.jpg
+dtReleased: "2026-09-15"
+dtModified: ""
+...
