@@ -102,7 +102,7 @@ costume2:
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/9f4EoUg.jpg
-  dtReleased: "2026-09-19"
+  dtReleased: "2026-09-17"
   dtModified: ""
   aetherPower: dodge
   fancy_name: Fireborn Toon
