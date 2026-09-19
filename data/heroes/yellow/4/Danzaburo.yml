@@ -80,4 +80,48 @@ costume:
     attack: 767
     defense: 840
     health: 1702
+costume2:
+  design: toon
+  bonuses: 30/30/35/5
+  class: Rogue
+  power: 831
+  attack: 764
+  defense: 852
+  health: 1721
+  skill: Toon's Gambit
+  effects:
+  - 'Perform a trick for a specific effect:'
+  - Swords
+  - ' * Deals 300% damage to all enemies.'
+  - ' * All enemies get -60% accuracy for 3 turns. (Chance to miss also applies to
+    offensive Special Skills.)'
+  - ' * Deals extra damage against Dark.'
+  - Bottle
+  - ' * All allies get +30% mana generation for 4 turns. This status effect is undispellable
+    and lasts 2 turns longer on Holy characters. (Affects only mana generated from
+    matching shields or mana gained by the defense team at the end of their turn.)'
+  - ' * All allies get +65% defense for 4 turns. This status effect is undispellable
+    and lasts 2 turns longer on Holy characters.'
+  - Freeze
+  - ' * The caster can''t gain mana for 2 turns. This effect can''t be cleansed.'
+  types:
+  - Gambler
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  image: https://i.imgur.com/MJTiE40.jpg
+  dtReleased: "2026-09-17"
+  dtModified: ""
+  fancy_name: Dauntless Toon
+  aetherPower: gamble
+  lb1:
+    power: 896
+    attack: 830
+    defense: 925
+    health: 1870
+  lb2:
+    power: 1025
+    attack: 962
+    defense: 1073
+    health: 2169
 ...

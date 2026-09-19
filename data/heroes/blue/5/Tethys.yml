@@ -66,4 +66,41 @@ costume:
     attack: 1291
     defense: 1177
     health: 2343
+costume2:
+  design: toon
+  bonuses: 71/71/71/5
+  class: Ranger
+  power: 1342
+  attack: 1443
+  defense: 1303
+  health: 2486
+  skill: Toon Assault
+  effects:
+  - Deals 410% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 909 Water damage over 3 turns.
+  - All allies that are not of Ice element get +40% attack for 3 turns.
+  - All Ice Heroes get +70% attack for 3 turns. This effect can't be dispelled.
+  - Deals extra damage against Fire.
+  types:
+  - Hit 3
+  - DoT 3
+  - Attack Buff All
+  passives:
+  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
+    and buff dispels. Gain 5% mana on each successful resist.'
+  image: https://i.imgur.com/HDKoIhr.jpg
+  dtReleased: "2026-09-17"
+  dtModified: ""
+  fancy_name: Toon Goddess of All Rivers
+  aetherPower: attack_up
+  lb1:
+    power: 1437
+    attack: 1555
+    defense: 1404
+    health: 2679
+  lb2:
+    power: 1626
+    attack: 1779
+    defense: 1607
+    health: 3066
 ...
