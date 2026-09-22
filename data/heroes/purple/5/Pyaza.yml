@@ -1,0 +1,51 @@
+---
+name: Pyaza
+source: valiant
+family: vegetable
+speed: Slow
+class: Paladin
+power: 1362
+attack: 1431
+defense: 1404
+health: 2457
+skill: Chlorokinesis Tears
+effects:
+- Deals 500% damage to all enemies.
+- Deals additional 5% damage for each Fiend or Mega Fiend owned by the enemies, up
+  to 550% damage in total.
+- All damage all enemies receive is increased by 25% for 5 turns.
+- If the caster is defeated during the next 5 turns, they are resurrected in the beginning
+  of their next turn with 35% health and 1000 damage is dealt to all enemies. (All
+  status effects and stacks are removed when the caster is defeated.)
+types:
+- Hit All
+- Damage Increased Debuff All
+- Self Resurrection
+- Damage All on resurrection
+passives:
+- 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
+  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
+  mana each time they resist.'
+- 'Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.'
+- ' * The Seedling Fiend evolves into a Sprout Fiend after 2 turns.'
+- ' * The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.'
+- ' * The evolution of the Fiends is delayed by 1 turn each time they absorb healing.'
+- ' 1) Seedling Fiend: 50% attack, 20% health'
+- ' 2) Sprout Fiend: 75% attack, 30% health'
+- ' 3) Blossom Mega Fiend: 250% attack, 60% health'
+image: https://i.imgur.com/vGDuWD5.jpg
+dtReleased: "2026-09-19"
+dtModified: ""
+fancy_name: Purple Onion Warlock
+aetherPower: attack_up
+lb1:
+  power: 1459
+  attack: 1542
+  defense: 1513
+  health: 2648
+lb2:
+  power: 1651
+  attack: 1765
+  defense: 1731
+  health: 3030
+...

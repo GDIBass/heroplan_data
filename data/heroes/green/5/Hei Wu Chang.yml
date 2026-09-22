@@ -25,7 +25,7 @@ types:
 - Hit 3
 - Bypass
 - DoT 3
-- Revive Block 3
+- Revive Ability Block 3
 passives:
 - 'Vengeful Haunting: When this character loses more than 25% of max health at once,
   the following effects activate.'

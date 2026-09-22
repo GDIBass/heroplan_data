@@ -1,0 +1,49 @@
+---
+name: Nepant
+source: covenant
+family: construct
+speed: Fast
+class: Rogue
+power: 1362
+attack: 1425
+defense: 1409
+health: 2461
+skill: Recycled Weapons
+effects:
+- Boosts health of all allies by 700. Boosted health can exceed max HP.
+- All allies get +50% attack for 3 turns. If this effect is removed before the duration
+  ends, the ally with the effect get +5% mana.
+- The caster deals 600 damage to all enemies after 3 turns. If this effect is removed
+  or replaced before the duration ends, deals 1000 damage instead.
+types:
+- Boosted Heal All
+- Attack Buff All
+- Delayed Damage All
+passives:
+- 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
+  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
+  mana each time they resist.'
+- 'Minion Core: The Construct Core of this character is Minion Core. The Minion Core
+  activates each time this character''s Special Skill is cast.'
+- ' * With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and
+  110% attack inherited from the caster on all allies.'
+- ' * The HP and attack inherited from the caster are scaled by the amount of charge
+  in the Core. All charge is exhausted when the Core is activated.'
+- ' * The Killer Bot Minion recovers 7% health for its owner at the end of each turn.'
+- ' * Wither: Each hit from a Killer Bot Minion gives its target -40 attack.'
+image: https://i.imgur.com/6THFSNS.jpg
+dtReleased: "2026-09-20"
+dtModified: ""
+fancy_name: Junkyard Squire Construct
+aetherPower: heal_increase
+lb1:
+  power: 1458
+  attack: 1536
+  defense: 1518
+  health: 2652
+lb2:
+  power: 1651
+  attack: 1757
+  defense: 1737
+  health: 3035
+...

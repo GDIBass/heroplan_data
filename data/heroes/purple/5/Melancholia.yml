@@ -15,7 +15,7 @@ effects:
 - If any ally except the caster is defeated in 5 turns, all enemies receive 400 damage.
 - Casting this Special Skill inflicts 50 Insanity on the caster.
 types:
-- Revive All with Insanity
+- Reviver All with Insanity
 - SS Defense Buff All
 - Damage All if caster is defeated
 - Insanity Self

@@ -47,4 +47,54 @@ lb2:
   attack: 1546
   defense: 1491
   health: 2804
+costume:
+  design: costume1
+  bonuses: 13/12/14/5
+  class: Paladin
+  power: 1363
+  attack: 1423
+  defense: 1357
+  health: 2574
+  skill: Defending the Title
+  effects:
+  - Safely cleanses all status ailments from the caster. (Safe cleanse bypasses secondary
+    effects, such as damage on removal, from the remove status ailment. External effects
+    such as passive skills and family effects can still activate.)
+  - Attacks the target with Frostfall Strike, dealing up to 3300 damage. Deals +40%
+    more damage if the target is of the Fire element. This Special Skill never misses
+    its targets.
+  - 'Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)'
+  - 'Stack (Max: 10): All damage all allies receive is reduced by -5%.'
+  types:
+  - Safely Clean Self
+  - Frostfall Strike 1
+  - Mana Generation Stack All
+  - Defense Buff Stack All
+  passives:
+  - 'Resist Stealing: This character is immune to stealing and Ransacking.'
+  - 'Empowered Resist Frost: This character is immune to status ailments that deal
+    Frost damage and gains 450 boosted health and 5% mana each time they resist.'
+  - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
+    is cast'
+  - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
+    Core, the Corrosive Frost deals 338 Frost damage and lowers the target''s attack
+    by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Frost damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
+  image: https://i.imgur.com/lE76Jw7.jpg
+  dtReleased: "2026-09-22"
+  dtModified: ""
+  fancy_name: Dwarven Ice Skating Master
+  aetherPower: boosted_regen
+  lb1:
+    power: 1459
+    attack: 1533
+    defense: 1462
+    health: 2774
+  lb2:
+    power: 1652
+    attack: 1755
+    defense: 1673
+    health: 3174
 ...
