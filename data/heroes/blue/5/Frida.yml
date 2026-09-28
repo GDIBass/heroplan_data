@@ -37,4 +37,44 @@ lb2:
   attack: 904
   defense: 891
   health: 1640
+costume:
+  design: costume1
+  bonuses: 92/92/92/5
+  class: Fighter
+  power: 1363
+  attack: 1415
+  defense: 1380
+  health: 2549
+  skill: Polar Blast
+  effects:
+  - Deals 450% damage to the target and nearby enemies.
+  - The target and nearby enemies get -55% defense against Ice for 4 turns.
+  - Deals extra damage against Fire.
+  - Dispels buffs from the target and nearby enemies.
+  - Element Link gives all Ice allies +60% defense against Nature for 4 turns. This
+    effect can't be dispelled.
+  types:
+  - Hit 3
+  - Elemental Defense Debuff 3
+  - Dispeller 3
+  passives:
+  - 'Resist Attack Ailments: This character is immune to status ailments that affect
+    attack.'
+  - 'Legendary Reflector: Any status ailments this character resists with Passive
+    Skills are reflected to all enemies.'
+  image: https://i.imgur.com/uk2ojDU.jpg
+  dtReleased: "2026-09-25"
+  dtModified: ""
+  fancy_name: Arctic Juggernaut
+  aetherPower: special_boost
+  lb1:
+    power: 1459
+    attack: 1525
+    defense: 1487
+    health: 2747
+  lb2:
+    power: 1652
+    attack: 1745
+    defense: 1702
+    health: 3144
 ...

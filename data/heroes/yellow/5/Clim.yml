@@ -1,0 +1,53 @@
+---
+name: Clim
+source: goblinvillage
+family: shadyscoundrel
+speed: Fast
+class: Ranger
+power: 1363
+attack: 1442
+defense: 1421
+health: 2399
+skill: Target Practice
+effects:
+- Deals 385% damage to the target and 2 random enemies.
+- For each enemy defeated by the attack, the caster recovers +25% health and gains
+  +25% mana. (After a character has received 5 direct mana additions from Special
+  Skill during a single turn, all subsequent direct mana additions done by Special
+  Skills will have reduced power on that character.)
+- The caster goes into Ambush. Damage dealt by the caster is increased by +40%, and
+  damage received by them is decreased by -25%. (When the character goes into Ambush,
+  all existing status ailments and Wither effects are removed. The character can't
+  gain new ailments or Wither effects while in Ambush. This effect is undispellable.
+  Ambush ends once the character has received 1200 damage.)
+types:
+- Hit 1
+- Hit Random 2
+- Heal Self on kill
+- Mana Increase Self on kill
+- Ambush Self
+passives:
+- 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
+  enemy:'
+- ' * Steals 100 health.'
+- ' * Safely steals a buff from the enemy. This includes undispellable buffs and Dance
+  effects.'
+- 'Cheat Death: The first time this character would receive fatal damage, they instead
+  redirect that damage to a random enemy. In battles with multiple waves, the effect
+  is refreshed at the beginning of each wave.'
+image: https://i.imgur.com/2xFzRHO.jpg
+dtReleased: "2026-09-23"
+dtModified: ""
+fancy_name: Deadeye Sharpshooter
+aetherPower: special_boost
+lb1:
+  power: 1459
+  attack: 1554
+  defense: 1531
+  health: 2586
+lb2:
+  power: 1652
+  attack: 1778
+  defense: 1752
+  health: 2959
+...

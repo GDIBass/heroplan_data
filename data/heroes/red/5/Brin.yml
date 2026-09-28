@@ -30,14 +30,14 @@ passives:
 - 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
   enemy:'
 - ' * Steals 100 health.'
-- ' * Safely steals a buff from the enemy. This includes Stubborn effects, undispellable
-  buffs and Dance effects.'
+- ' * Safely steals a buff from the enemy. This includes undispellable buffs and Dance
+  effects.'
 - 'Cheat Death: The first time this character would receive fatal damage, they instead
   redirect that damage to a random enemy. In battles with multiple waves, the effect
   is refreshed at the beginning of each wave.'
 image: https://i.imgur.com/bc3QqCW.jpg
 dtReleased: "2026-07-23"
-dtModified: ""
+dtModified: "2026-09-23"
 fancy_name: Fatal Seducer
 aetherPower: damage_reduction
 lb1:

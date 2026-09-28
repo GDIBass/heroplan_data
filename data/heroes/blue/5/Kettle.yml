@@ -41,4 +41,52 @@ lb2:
   attack: 1170
   defense: 1110
   health: 2037
+costume:
+  design: costume1
+  bonuses: 52/52/52/5
+  class: Paladin
+  power: 1363
+  attack: 1434
+  defense: 1377
+  health: 2508
+  skill: Dubious Field Rations
+  effects:
+  - 'Cook random food for a special effect:'
+  - '- Exquisite Food (45%)'
+  - '  * Boosts health of all allies by 1800. Boosted health can exceed max HP.'
+  - '  * Growth: All allies get 700 attack and 700 defense.'
+  - '- Rotten Food (45%)'
+  - '  * Deals 550% damage to all enemies.'
+  - '  * All enemies receive Corrosive Poison for 5 turns. The Corrosive Poison deals
+    573 Poison damage and lowers the target''s mana generation by -10% each turn.
+    Deals extra damage against heroes with Minions or a Mega Minion. (Affects only
+    mana generated from matching shields or mana gained by the defense team at the
+    end of their turn.)'
+  - '- Catastrophic Kitchen Failure (10%)'
+  - '  * Deals 150% damage to all allies and all enemies.'
+  types:
+  - Gambler
+  passives:
+  - 'Effects on Special Skill: 60% chance to perform the following actions when this
+    character casts their Special Skill.'
+  - ' * Deals 90% damage to all enemies.'
+  - ' * All enemies get -25% accuracy for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  image: https://i.imgur.com/bGaE8WG.jpg
+  dtReleased: "2026-09-23"
+  dtModified: ""
+  fancy_name: Field Cook
+  aetherPower: boosted_regen
+  lb1:
+    power: 1459
+    attack: 1545
+    defense: 1484
+    health: 2703
+  lb2:
+    power: 1652
+    attack: 1768
+    defense: 1698
+    health: 3093
 ...

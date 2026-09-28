@@ -1,0 +1,50 @@
+---
+name: Ishida Aoga
+source: ninja
+family: ronin
+speed: Charge
+class: Fighter
+power: 1363
+attack: 1468
+defense: 1406
+health: 2364
+skill: Devastating Blades
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- 'x1 Mana Charge:'
+- Deals 450% damage to the target.
+- 'Wither: The target gets -200 attack and -200 defense.'
+- 'x2 Mana Charge:'
+- Deals 600% damage to the target and minor damage to nearby enemies.
+- 'Wither: The target and nearby enemies get -250 attack and -250 defense.'
+- 'x3 Mana Charge:'
+- Deals 800% damage to the target and minor damage all other enemies.
+- 'Wither: All enemies get -650 attack and -650 defense.'
+types:
+- Charge
+- Hit 1/3/All
+- Attack Debuff Wither 1/3/All
+- Defense Debuff Wither 1/3/All
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 450% damage.'
+- ' * The attacker receives 1500 Bleed damage over 3 turns.'
+image: https://i.imgur.com/FtVjTru.jpg
+dtReleased: "2026-09-27"
+dtModified: ""
+fancy_name: Steel-Hearted Ronin
+aetherPower: rage
+lb1:
+  power: 1459
+  attack: 1582
+  defense: 1515
+  health: 2548
+lb2:
+  power: 1652
+  attack: 1810
+  defense: 1734
+  health: 2915
+...
