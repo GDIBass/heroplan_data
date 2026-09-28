@@ -17,9 +17,9 @@ effects:
   damage increases by +40% each turn, up to 661 damage per turn. Each attempt to dispel,
   cleanse or reallocate a Stubborn effect reduces the duration by 1 turn or decreases
   activations left by 1.)
-- All damage the target and nearby enemies receive is increased by 5%. (Each attempt
-  to dispel, cleanse or reallocate a Stubborn effect reduces the duration by 1 turn  or
-  decreases activations left by 1.)
+- All damage the target and nearby enemies receive is increased by +20% for 3 turns.
+  (Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration
+  by 1 turn or decreases activations left by 1.)
 types:
 - Safely Dispels Latest Buff 3
 - Stubborn DoT 3
@@ -38,7 +38,7 @@ passives:
   Growth, Wither and Insanity effects.)'
 image: https://i.imgur.com/ajiyHXS.jpg
 dtReleased: "2026-09-05"
-dtModified: ""
+dtModified: "2026-09-28"
 fancy_name: Ghost of Noxious Mouth
 aetherPower: fiend_resist
 lb1:
