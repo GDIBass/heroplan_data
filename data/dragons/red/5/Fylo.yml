@@ -1,0 +1,48 @@
+---
+name: Fylo
+fancy_name: Ember-Touched Drakelet
+source: ancientUnderroot
+speed: Average
+power: 13450
+attack: 17613
+defense: 16263
+health: 15013
+skill: Little Cataclysm
+effects:
+- Deals 300% damage to the target and 130% damage to all other enemies.
+- The target gets -5000 defense against Fire for 4 turns.
+- The target receives 6000 Burn damage over 4 turns. This effect spreads to nearby
+  enemies.
+- Deals extra damage against Nature.
+types:
+- Hit All
+- Elemental Defense Debuff 1
+- Spreading DoT 1
+passives:
+- 'Crackling Hatching: At the start of each turn, each enemy has 25% chance to receive
+  350 damage.'
+spiritBonus:
+  spiritClass: Fighter
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Cracking Blaze
+  effects:
+  - Deals 410 damage to all enemies.
+  - Recovers 210 health for all allies.
+  - All enemies receive 1110 Burn damage over 5 turns.
+  - All enemies get -20% defense for 5 turns.
+image: https://i.imgur.com/0IM7Rcs.jpg
+dtReleased: "2026-10-13"
+dtModified: ""
+...
