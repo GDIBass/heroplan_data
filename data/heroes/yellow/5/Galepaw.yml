@@ -1,0 +1,47 @@
+---
+name: Galepaw
+source: wilderness
+family: rodent
+speed: Very Fast
+class: Ranger
+power: 1367
+attack: 1452
+defense: 1388
+health: 2467
+skill: Plummeting Arrow
+effects:
+- Deals 500% damage to the target.
+- 'Wild: For 2 turns, the target receives 363 or 1089 Bleed each turn. (Wild adds
+  a chance each turn for this effect to be more powerful. This Wild effect has a 50%
+  chance to deal +200% extra damage that turn. When extra damage is dealt, the effect
+  also reduces enemies'' max health and is stronger against boosted health. Wild effects
+  bypass most effects that would normally prevent them from being applied. Wild effects
+  can be applied in addition to other effects of the same type.)'
+- If the target is defeated in the next 2 turns, all enemies' mana is reduced by -10%.
+types:
+- Hit 1
+- Wild
+- DoT 1
+- Mana Reduction All if target defeated
+passives:
+- 'Nibble: When any other ally casts a Special Skill, this character deals 200% damage
+  to a random enemy. The enemy receives -35% defense for 3 turns.'
+- 'Tiny Frame: This character is not affected by effects that increase or reduce attack.
+  This includes status effect buffs and ailments, positive and negative Stacks, Growth
+  and Wither effects.'
+image: https://i.imgur.com/S8Y10JG.jpg
+dtReleased: "2026-10-13"
+dtModified: ""
+fancy_name: The Windborne Kangaroo Rat
+aetherPower: dodge
+lb1:
+  power: 1463
+  attack: 1565
+  defense: 1496
+  health: 2659
+lb2:
+  power: 1656
+  attack: 1790
+  defense: 1712
+  health: 3042
+...
