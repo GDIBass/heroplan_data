@@ -1,0 +1,48 @@
+---
+name: Pluna
+fancy_name: Rejuvenator Aquadrake
+source: ancientUnderroot
+speed: Average
+power: 13400
+attack: 16313
+defense: 17650
+health: 15136
+skill: Whirlpool of Renewal
+effects:
+- Boosts health of all allies by 4000. Boosted health can exceed max HP.
+- 'Growth: All allies get 2000 attack.'
+- For the next 4 turns, this character recovers 2000 boosted health to all allies
+  each time any other ally casts their Special Skill. (Each character can trigger
+  this effect once per turn.)
+types:
+- Boost Health All
+- Attack Growth All
+- Boost Health All on Allies SS
+passives:
+- 'Surgeback: When this character drops below 50% health, they gain 15% mana over
+  3 turns.'
+spiritBonus:
+  spiritClass: Druid
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Crippling Blaze
+  effects:
+  - Deals 410 damage to all enemies.
+  - Recovers 210 health for all allies.
+  - All enemies receive 1120 Burn damage over 5 turns.
+  - All enemies get -10% mana generation for 5 turns.
+image: https://i.imgur.com/W6FkJwF.jpg
+dtReleased: "2026-09-29"
+dtModified: ""
+...

@@ -1,0 +1,44 @@
+---
+name: Xiwang Gui
+source: kingdom
+family: ghosts
+speed: Average
+class: Monk
+power: 1365
+attack: 1444
+defense: 1396
+health: 2461
+skill: All Consuming Hunger
+effects:
+- Destroys all Minions from all enemies and damages Mega Minions.
+- Deals 355% damage to all enemies.
+- 'Wither: All enemies get -300 defense.'
+- All enemies receive 129-317 increasing Curse damage each turn for 4 turns. This
+  effect is Stubborn. (On the first turn, 129 damage is dealt. The damage increases
+  by +35% each turn, up to 317 damage per turn. Each attempt to dispel, cleanse or
+  reallocate a Stubborn effect reduces the duration by 1 turn, or decreases activations
+  left by 1.)
+types:
+- Destroy Minions All
+- Hit All
+- Defense Wither All
+- Stubborn DoT All
+passives:
+- 'Vengeful Haunting: When this character loses more than 25% of max health at once,
+  the following effects activate.'
+image: https://i.imgur.com/CuZFy84.jpg
+dtReleased: "2026-10-11"
+dtModified: ""
+fancy_name: Hungry Ghost
+aetherPower: attack_up
+lb1:
+  power: 1462
+  attack: 1556
+  defense: 1504
+  health: 2652
+lb2:
+  power: 1655
+  attack: 1781
+  defense: 1721
+  health: 3035
+...

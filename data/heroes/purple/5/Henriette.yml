@@ -1,0 +1,55 @@
+---
+name: Henriette
+source: thebraveandthebeautiful
+family: beautyandthebeast
+speed: Very Fast
+class: Sorcerer
+power: 1365
+attack: 1495
+defense: 1367
+health: 2391
+skill: Superfluous Jewelry
+effects:
+- 'Less than 40  Humility:'
+- Deals 265% damage to the enemies on the edges of the enemy formation. If there is
+  only one enemy, the damage is doubled.
+- 'Wither: Enemies on the edges of the enemy formation get -300 defense.'
+- Dispels Buffs from the enemies on the edges of the enemy formation.
+- '40 or more Humility:'
+- Safely dispels Buffs from the enemies on the edges of the enemy formation. (Safe
+  dispel bypasses secondary effects, such as damage on removal, from the removed status
+  effect buffs. External effects such as passive skills and family effects can still
+  activate.)
+- Deals 360% damage to the enemies on the edges of the enemy formation. If there is
+  only one enemy, the damage is doubled.
+- 'Wither: Enemies on the edges of the enemy formation get -350 defense.'
+types:
+- Humility
+- Hit 2
+- Defense Wither 2
+- Dispeller 2
+- Safely Dispel 2
+passives:
+- 'Revival Health Reduction: All enemies have -80% health when revived. Boss enemies
+  are not affected.'
+- 'Heal when Status Ailment Expires or Is Cleared: This character''s receives 15%
+  health each time a status ailment expires or is cleansed, removed or reallocated
+  from them. This effect can activate only once per turn.'
+- 'Beautiful Inside: Whenever this character would take damage from a status ailment
+  or from a negative stack, they will recover that much health instead.'
+image: https://i.imgur.com/Vf6Eafz.jpg
+dtReleased: "2026-10-06"
+dtModified: ""
+fancy_name: Beauty's Supercilious Sister
+aetherPower: special_boost
+lb1:
+  power: 1462
+  attack: 1611
+  defense: 1473
+  health: 2577
+lb2:
+  power: 1655
+  attack: 1844
+  defense: 1686
+  health: 2949
+...

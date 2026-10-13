@@ -43,4 +43,50 @@ lb2:
   attack: 1321
   defense: 1206
   health: 1968
+costume:
+  design: costume1
+  bonuses: 42/42/42/5
+  class: Rogue
+  power: 1364
+  attack: 1535
+  defense: 1371
+  health: 2272
+  skill: Mythic Lightning
+  effects:
+  - Deals 225% damage to the target.
+  - The attack chains through all the enemies who are adjacent to any hit enemy.
+  - All enemies get -40% accuracy for 3 turns. (Chance to miss also applies to offensive
+    Special Skills.)
+  - All Ice allies get +65% attack for 3 turns.
+  - Deals extra damage against Fire.
+  types:
+  - Hit 1
+  - Chain Hit
+  - Blind All
+  - Attack Buff All Ice
+  passives:
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This character''s Troops deal extra damage
+    against the weaker element.'
+  - ' * Extra damage dealt: +150%'
+  - 'Passive Skill as defending character: This character receives less damage from
+    Troops of the stronger element.'
+  - ' * Received damage: -25%'
+  - 'Resist Fire Ailments: This character is immune to status ailments and negative
+    stacks cast by Fire characters.'
+  image: https://i.imgur.com/lO545lz.jpg
+  dtReleased: "2026-10-02"
+  dtModified: ""
+  fancy_name: Mythic Navigator
+  aetherPower: special_boost
+  lb1:
+    power: 1460
+    attack: 1654
+    defense: 1477
+    health: 2449
+  lb2:
+    power: 1653
+    attack: 1893
+    defense: 1691
+    health: 2802
 ...

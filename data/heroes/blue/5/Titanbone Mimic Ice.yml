@@ -1,0 +1,70 @@
+---
+name: Titanbone Mimic Ice
+source: secretsummon
+family: mimic
+speed: Fast
+class: Cleric
+power: 1395
+attack: 1485
+defense: 1446
+health: 2474
+skill: Ravaging Gnaw
+effects:
+- Deals 480% damage to the target.
+- If the target is defeated by the attack, the caster recovers +50% health and gains
+  +33% mana. (After a character has received 5 direct mana additions from Special
+  Skills during a single turn, all subsequent direct mana additions don by Special
+  Skills will have a reduced power on that character.)
+- All Ice allies get +50% attack, and a further +10% increase every time they are
+  hit during 3 turns, up to +100% attack.
+- The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status
+  ailments while closed.)
+types:
+- Hit 1
+- Mimic Chest
+passives:
+- Mimic Loot
+- 'Each unique Mimic on your team can give you extra loot when completing stages.
+  This Mimic grants a chance for the following loot:'
+- LEGENDARY
+- ' - Hurricane'
+- ' - Valkyrie''s Bane'
+- ' - Titan Banner'
+- ' - Scroll of Alteration'
+- ' - Giant Harpoon'
+- EPIC
+- ' - Titan Heart'
+- ' - Titan Skull'
+- RARE
+- ' - Titan Spine'
+- ' - Titan Tail'
+- UNCOMMON
+- ' - Titan Egg'
+- ' - Titan Plume'
+- ' - Titan Eye'
+- ' - Toril'
+- ' - Ragnhild'
+- ' - Olaf'
+- COMMON
+- ' - Titan Shell'
+- ' - Titan Beak'
+- ' - Titan Fang'
+- ' - Sigrunn'
+- ' - Brand'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+image: https://i.imgur.com/6h2eCpu.jpg
+dtReleased: "2026-10-10"
+dtModified: ""
+fancy_name: Hoard of Horned Scavenger
+aetherPower: attack_up
+lb1:
+  power: 1494
+  attack: 1600
+  defense: 1558
+  health: 2666
+lb2:
+  power: 1692
+  attack: 1831
+  defense: 1783
+  health: 3051
+...

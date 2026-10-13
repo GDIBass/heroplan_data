@@ -14,7 +14,7 @@ effects:
 - Casts Full Removal on the target. (Full Removes removes all status effects, stacks
   and Growth and Wither effects. Removes even status effects and stacks that are otherwise
   Stubborn, undispellable or uncleansable.)
-- The target shifts into Abyss Ghost form for 3 turns.
+- The target shifts into Abyss Ghost form for 3 turns. This effect is Stubborn.
 - While in Abyss Ghost form the target receives 483 damage each turn. (While in a
   Ghost form, character can't gain mana and can't be healed by Special Skills, but
   is immune to normal attacks, Special Skill attacks, damage dealing passives, status
@@ -36,7 +36,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/aKJx8OS.jpg
 dtReleased: "2026-08-11"
-dtModified: ""
+dtModified: "2026-10-08"
 fancy_name: Astral Demon Spirit Whisperer
 aetherPower: regen
 lb1:

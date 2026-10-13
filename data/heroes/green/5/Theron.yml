@@ -1,0 +1,42 @@
+---
+name: Theron
+source: hotm
+family: "2026"
+speed: Average
+class: Druid
+power: 1264
+attack: 1357
+defense: 1285
+health: 2179
+skill: Spear of Aggravation
+effects:
+- Deals 275% damage to all enemies.
+- The caster gets Taunt that prevents enemies from using Special Skills on the caster's
+  allies for 4 turns.
+- The caster counterattacks a random enemy with 75% of the damage received for 4 turns.
+- Element Link summons a Nature Minion for all Nature allies with 10% HP and 15% attack
+  inherited from the caster.
+types:
+- Hit All
+- Taunt
+- Counterattack random enemy Self
+passives:
+- 'Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed
+  damage.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+image: https://i.imgur.com/p8hOhsi.jpg
+dtReleased: "2026-10-01"
+dtModified: ""
+fancy_name: Swift Elaphocentaur Warrior
+aetherPower: counterattack
+lb1:
+  power: 1353
+  attack: 1462
+  defense: 1385
+  health: 2348
+lb2:
+  power: 1530
+  attack: 1673
+  defense: 1584
+  health: 2687
+...

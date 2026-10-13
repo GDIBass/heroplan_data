@@ -1,0 +1,44 @@
+---
+name: Honeytuft
+source: wilderness
+family: rodent
+speed: Average
+class: Druid
+power: 546
+attack: 537
+defense: 561
+health: 973
+skill: Purifying Brush
+effects:
+- Destroys all Fiends from all allies and damage all Mega Fiends.
+- 'Wild: For 4 turns, all allies either regenerate 75 HP or receive 225 boosted health
+  each turn. (Wild adds a chance each turn for this effect to be more powerful. This
+  Wild effect has a 50% chance to heal extra +200% HP that turn. When extra HP is
+  healed, the effect gives boosted health. Wild effects bypass most effects that would
+  normally prevent them from being applied. Wild effects can be applied in addition
+  to other effects of the same type.)'
+types:
+- Fiend Destroyer All
+- Wild HoT All
+passives:
+- 'Nibble: When any other ally casts a Special Skill, this character deals 150% damage
+  to a random enemy. The enemy receives -25% defense for 3 turns.'
+- 'Trait: Tiny Frame. This character is not affected by effects that increase or reduce
+  attack. This includes status effect buffs and ailments, positive and negative Stacks,
+  Growth and Wither effects.'
+image: https://i.imgur.com/L5glLXD.jpg
+dtReleased: "2026-10-13"
+dtModified: ""
+fancy_name: The Stylus Wooly Mouse
+aetherPower: fiend_resist
+lb1:
+  power: 609
+  attack: 608
+  defense: 635
+  health: 1102
+lb2:
+  power: 739
+  attack: 752
+  defense: 786
+  health: 1363
+...

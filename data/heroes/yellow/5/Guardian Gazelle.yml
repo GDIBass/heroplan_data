@@ -28,7 +28,7 @@ types:
 - Damage if caster Defeated while Dancing
 - Mana Reduction if caster Defeated while Dancing
 image: https://i.imgur.com/B2LpVrC.jpg
-dtReleased: ""
+dtReleased: "2020-01-01"
 dtModified: ""
 fancy_name: Druid of Teltoc
 aetherPower: ailment_immunity

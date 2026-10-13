@@ -24,7 +24,7 @@ passives:
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/Zwdjhmt.jpg
-dtReleased: ""
+dtReleased: "2018-10-01"
 dtModified: "2026-05-04"
 fancy_name: Child of Night
 aetherPower: vampire

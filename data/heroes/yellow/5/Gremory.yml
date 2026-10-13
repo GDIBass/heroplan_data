@@ -1,0 +1,41 @@
+---
+name: Gremory
+source: astral
+family: astraldemons
+speed: Slow
+class: Cleric
+power: 1365
+attack: 1431
+defense: 1429
+health: 2428
+skill: Power of Shattered Moons
+effects:
+- Deals 400% damage to all enemies.
+- The damage is increased by 60% per each defeated enemy.
+- Each defeated ally has a 50% chance to get revived with 30% HP.
+- Deals extra damage against Dark.
+types:
+- Hit All
+- Reviver
+passives:
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+image: https://i.imgur.com/6vGTTfL.jpg
+dtReleased: "2026-10-08"
+dtModified: ""
+fancy_name: Astral Demon Psychopomp
+aetherPower: bulwark
+lb1:
+  power: 1462
+  attack: 1542
+  defense: 1540
+  health: 2617
+lb2:
+  power: 1655
+  attack: 1765
+  defense: 1762
+  health: 2994
+...

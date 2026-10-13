@@ -1,0 +1,47 @@
+---
+name: Oakspine
+source: wilderness
+family: rodent
+speed: Slow
+class: Paladin
+power: 1367
+attack: 1400
+defense: 1456
+health: 2461
+skill: Sturdy Club
+effects:
+- Deals 420% damage to the target and 5 random enemies.
+- 'Stack (Max:10): Each hit increases all damage the target receives by 6%.'
+- 'Wild: For 5 turns, the caster either regenerate 250 HP or receive 750 boosted health
+  each turn. (Wild adds a chance each turn for this effect to be more powerful. This
+  Wild effect has a 50% chance to heal extra +200% HP that turn. When extra HP is
+  healed, the effect gives boosted health. Wild effects bypass most effects that would
+  normally prevent them from being applied. Wild effects can be applied in addition
+  to other effects of the same type.)'
+types:
+- Hit 1
+- Hit random 5
+- Damage Increase Debuff Stack on hit
+- Wild HoT Self
+passives:
+- 'Nibble: When any other ally casts a Special Skill, this character deals 200% damage
+  to a random enemy. The enemy receives -35% defense for 3 turns.'
+- 'Tiny Frame: This character is not affected by effects that increase or reduce attack.
+  This includes status effect buffs and ailments, positive and negative Stacks, Growth
+  and Wither effects.'
+image: https://i.imgur.com/vy1BLWk.jpg
+dtReleased: "2026-10-13"
+dtModified: ""
+fancy_name: The Lemming Warden
+aetherPower: ailment_reflect
+lb1:
+  power: 1463
+  attack: 1509
+  defense: 1569
+  health: 2652
+lb2:
+  power: 1656
+  attack: 1726
+  defense: 1795
+  health: 3035
+...

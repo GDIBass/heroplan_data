@@ -1,0 +1,42 @@
+---
+name: Vraakhran
+fancy_name: Frenzied Fowldrake
+source: ancientUnderroot
+speed: Average
+power: 9545
+attack: 12196
+defense: 11683
+health: 10111
+skill: Talonrend
+effects:
+- Deals 240% damage to the target and nearby enemies.
+- The target and nearby enemies receive 3520 Bleed damage over 4 turns.
+- The caster gets +30% chance to dodge Special Skills that deal damage for 4 turns.
+types:
+- Hit 3
+- DoT 3
+- Dodge Chance Self
+spiritBonus:
+  spiritClass: Barbarian
+  all:
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
+  elementalBond:
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
+  classLink:
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
+assist:
+  name: Blaze of Torment
+  effects:
+  - Deals 560 damage to all enemies.
+  - Recovers 110 health for all allies.
+  - Reduces the mana of all enemies by 15%.
+image: https://i.imgur.com/vp4PFbT.jpg
+dtReleased: "2026-09-29"
+dtModified: ""
+...

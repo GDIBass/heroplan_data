@@ -1,0 +1,46 @@
+---
+name: Dewfoot
+source: wilderness
+family: rodent
+speed: Fast
+class: Rogue
+power: 804
+attack: 839
+defense: 794
+health: 1455
+skill: Wild Splinter
+effects:
+- Deals 280% damage to the target and nearby enemies.
+- 'Wild: For 3 turns, the target and nearby enemies receive 125 or 375 Bleed each
+  turn. (Wild adds a chance each turn for this effect to be more powerful. This Wild
+  effect has a 50% chance to deal +200% extra damage that turn. When extra damage
+  is dealt, the effect also reduces enemies'' max health and is stronger against boosted
+  health. Wild effects bypass most effects that would normally prevent them from being
+  applied. Wild effects can be applied in addition to other effects of the same type.)'
+- The caster gets +45% chance to dodge Special Skills that deal damage for 3 turns.
+types:
+- Hit 3
+- Wild DoT 3
+- Dodge Chance Self
+passives:
+- 'Nibble: When any other ally casts a Special Skill, this character deals 150% damage
+  to a random enemy. The enemy receives -25% defense for 3 turns.'
+- 'Trait: Tiny Frame. This character is not affected by effects that increase or reduce
+  attack. This includes status effect buffs and ailments, positive and negative Stacks,
+  Growth and Wither effects.'
+image: https://i.imgur.com/1uTFJOQ.jpg
+dtReleased: "2026-10-13"
+dtModified: ""
+fancy_name: The Leaf-Hooded Spiny Mouse
+aetherPower: special_armor
+lb1:
+  power: 866
+  attack: 911
+  defense: 862
+  health: 1581
+lb2:
+  power: 991
+  attack: 1057
+  defense: 1000
+  health: 1833
+...

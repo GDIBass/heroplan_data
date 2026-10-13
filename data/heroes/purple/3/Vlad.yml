@@ -22,7 +22,7 @@ passives:
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/BKgxWVA.jpg
-dtReleased: ""
+dtReleased: "2018-10-01"
 dtModified: ""
 fancy_name: Vampire Henchman
 aetherPower: vampire

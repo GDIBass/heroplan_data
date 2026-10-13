@@ -19,7 +19,7 @@ passives:
   The latest 5 status ailments that are cast on the Hero will stay memorized until
   the Special Skill is cast.'
 image: https://i.imgur.com/J37iEs6.jpg
-dtReleased: ""
+dtReleased: "2020-05-01"
 dtModified: ""
 fancy_name: Spell-Bending Conundrum
 aetherPower: bulwark
