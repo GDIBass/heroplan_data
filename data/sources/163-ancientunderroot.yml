@@ -1,6 +1,11 @@
 ---
 code: 163
-key: ancientunderroot
+key: ancientUnderroot
 description: Ancient Underroot
 descriptionLong: Ancient Underroot Summon Portal
+dragonSpiritBonus:
+  5:
+    all: { attack: 250, defense: 200, health: 100 }
+    elementalBond: { attack: 35, defense: 30, health: 30 }
+    classLink: { attack: 35, defense: 30, health: 30 }
 ...
