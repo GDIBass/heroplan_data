@@ -1,0 +1,44 @@
+---
+name: Orluuth
+fancy_name: Watcher Owldrake
+source: ancientUnderroot
+speed: Fast
+power: 7840
+attack: 9771
+defense: 9399
+health: 8707
+skill: Omenglide
+effects:
+- Deals 190% damage to the target and nearby enemies.
+- Reduces max health of the target and nearby enemies by 1500. The effect is stronger
+  against targets with boosted health. (Max health can't get lower than 30 of the
+  original max health. Any boosted health is reduced by an additional 1500.)
+- Boosts health of the caster by 1700. Boosted health can exceed max HP.
+types:
+- Hit 3
+- Max Health Reduction 3
+- Boost Health Self
+spiritBonus:
+  spiritClass: Paladin
+  all:
+    attack: "+100"
+    defense: "+80"
+    health: "+30"
+  elementalBond:
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
+  classLink:
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
+assist:
+  name: Wounding Blaze
+  effects:
+  - Deals 360 damage to all enemies.
+  - Recovers 60 health for all allies.
+  - All enemies get -10% decrease of any healing received for 5 turns.
+image: https://i.imgur.com/25lBwIU.jpg
+dtReleased: "2026-10-13"
+dtModified: ""
+...

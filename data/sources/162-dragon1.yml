@@ -1,0 +1,19 @@
+---
+code: 162
+key: dragon1
+description: Season 1 Dragons
+descriptionLong: ""
+dragonSpiritBonus:
+  5:
+    all: { attack: 225, defense: 180, health: 80 }
+    elementalBond: { attack: 30, defense: 25, health: 25 }
+    classLink: { attack: 30, defense: 25, health: 25 }
+  4:
+    all: { attack: 160, defense: 120, health: 45 }
+    elementalBond: { attack: 20, defense: 15, health: 15 }
+    classLink: { attack: 20, defense: 15, health: 15 }
+  3:
+    all: { attack: 100, defense: 80, health: 30 }
+    elementalBond: { attack: 15, defense: 10, health: 12 }
+    classLink: { attack: 15, defense: 10, health: 12 }
+...
