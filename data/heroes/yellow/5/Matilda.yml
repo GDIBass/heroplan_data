@@ -41,4 +41,48 @@ lb2:
   attack: 1007
   defense: 1016
   health: 1836
+costume:
+  design: costume1
+  bonuses: 72/72/69/5
+  class: Sorcerer
+  power: 1366
+  attack: 1398
+  defense: 1424
+  health: 2526
+  skill: Perfume Poisoning
+  effects:
+  - All enemies receive 858 Poison damage over 3 turns. The caster and all their allies
+    absorb 20% of dealt Poison damage as health.
+  - Summons a Muffin Fiend for all enemies. The Fiend damages the enemy with 55% attack
+    every turn.
+  - The Muffin Fiend absorbs healing and disappears when it has absorbed health equal
+    to 40% of its target's max health.
+  - 'Each hit from the Muffin Fiend has the following effects:'
+  - ' - The target takes +55% increased damage from status ailments and negative stacks
+    for 3 turns.'
+  - ' - There is a 30% chance to refresh the duration of the status ailment with the
+    least turns remaining.'
+  types:
+  - DoT All
+  - Heal All on DoT
+  - Fiend Summoner All
+  passives:
+  - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+    to steal the newest dispellable buff from a random enemy that has buffs, or Deal
+    150% damage to all enemies if there are no buffs that can be stolen.'
+  image: https://i.imgur.com/gTH7s7j.jpg
+  dtReleased: "2026-10-19"
+  dtModified: ""
+  fancy_name: Gourmet Perfumer
+  aetherPower: fiend_resist
+  lb1:
+    power: 1463
+    attack: 1507
+    defense: 1535
+    health: 2723
+  lb2:
+    power: 1656
+    attack: 1724
+    defense: 1756
+    health: 3115
 ...

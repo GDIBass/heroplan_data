@@ -126,4 +126,38 @@ costume3:
     attack: 751
     defense: 665
     health: 1360
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Fighter
+  power: 549
+  attack: 563
+  defense: 507
+  health: 1036
+  skill: Stylish Traps
+  effects:
+  - Deals 171% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 251% damage instead.
+  - All enemies receive 164 Poison damage over 4 turns.
+  types:
+  - Hit All
+  - DoT All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://i.imgur.com/cWG68dN.jpg
+  dtReleased: "2026-10-28"
+  dtModified: ""
+  fancy_name: Stylish Remnant
+  aetherPower: mana_boost
+  lb1:
+    power: 613
+    attack: 638
+    defense: 574
+    health: 1174
+  lb2:
+    power: 742
+    attack: 788
+    defense: 710
+    health: 1451
 ...

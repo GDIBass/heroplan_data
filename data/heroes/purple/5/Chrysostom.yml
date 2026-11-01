@@ -1,0 +1,40 @@
+---
+name: Chrysostom
+source: sanguine
+family: fleurdesang
+speed: Slow
+class: Paladin
+power: 1368
+attack: 1398
+defense: 1421
+health: 2544
+skill: Commanding Presence
+effects:
+- Dispels buffs from all enemies.
+- Deals 495% damage to all enemies.
+- Reduces the mana of all enemies marked with a Blood Lily by 35%.
+- All enemies marked with Blood Lily are immune to new status effect buffs for 5 turns.
+types:
+- Dispeller All
+- Hit All
+- Mana Reducer Blood Lily marked
+- Buff Immunity Blood Lily marked
+passives:
+- 'Sanguine Mark: All damage from normal attacks and Special Skills dealt by this
+  character is increased by 5% per Blood Lily stack on target.'
+image: https://i.imgur.com/KFD8i2L.jpg
+dtReleased: "2026-10-19"
+dtModified: ""
+fancy_name: Sanguine King
+aetherPower: damage_reduction
+lb1:
+  power: 1465
+  attack: 1507
+  defense: 1531
+  health: 2742
+lb2:
+  power: 1658
+  attack: 1724
+  defense: 1752
+  health: 3137
+...

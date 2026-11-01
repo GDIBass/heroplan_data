@@ -1,0 +1,44 @@
+---
+name: Groagh
+fancy_name: Friendly Toadwyrm
+source: ancientUnderroot
+speed: Average
+power: 9550
+attack: 11745
+defense: 12258
+health: 10127
+skill: Croak of Vitality
+effects:
+- Recovers 5600 health for all allies.
+- All allies regenerate 1600 HP over 4 turns.
+- All allies get +25% critical chance for 4 turns. (Critical hits deal +100% more
+  damage from normal attacks. Critical hits reduce enemies' max health in PVP battles.
+  This effect is stronger against boosted health.)
+types:
+- Healer All
+- HoT All
+- Critical Chance Buff All
+spiritBonus:
+  spiritClass: Druid
+  all:
+    attack: "+160"
+    defense: "+120"
+    health: "+45"
+  elementalBond:
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
+  classLink:
+    attack: "+20"
+    defense: "+15"
+    health: "+15"
+assist:
+  name: Inspirational Breath
+  effects:
+  - Recovers 500 health for all allies.
+  - Deals 200 damage to all enemies.
+  - All allies get +20% critical chance for 5 turns.
+image: https://i.imgur.com/sVYCW64.jpg
+dtReleased: "2026-10-27"
+dtModified: ""
+...

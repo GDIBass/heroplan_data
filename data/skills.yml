@@ -1,0 +1,28 @@
+---
+hit_all:
+  key: hit_all
+  text: Deals {hit} damage to all enemies.
+  vars:
+    hit: 200%
+  types: Hit All
+blazing_rave_dance:
+  key: blazing_rave_dance
+  title: Blazing Rave Dance
+  text: |2-
+     * {def} defense.
+     * If any dancer is hit with direct damage from Special Skill, Blazing Rave Dance is extended by {turns} for all dancers. The dance can only be extended once per turn. (All existing status effect will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. The effect is removed when the caster is defeated.)
+  vars:
+    def: +50%
+    turns: 1 turn
+  types:
+  - Defense Buff while dancing
+  - Extend Dance if hit by SS
+dance_4:
+  key: dance_4
+  text: All allies except the caster dance the {dance} for {turns} turns.
+  vars:
+    dance: Blazing Rave Dance
+    turns: 3
+  types:
+  - '{dance} 4'
+...

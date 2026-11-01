@@ -1,0 +1,41 @@
+---
+name: Bezian
+source: sanguine
+family: fleurdesang
+speed: Fast
+class: Cleric
+power: 1368
+attack: 1413
+defense: 1409
+health: 2529
+skill: Flurry of Bats
+effects:
+- Rearranges the enemy positions randomly.
+- Deals 335% damage to all enemies marked with Blood Lily.
+- Summons a Sanguine Bat Minion for caster and nearby allies with 25% HP and 30% attack
+  inherited from the caster.
+- 'The target hit by the Sanguine Bat Minion is marked with Blood Lily. (A memento
+  from the Fleur de Sang family. This effect can stack (max: 10).)'
+types:
+- Reposition
+- Hit All Blood Lily mark
+- Summoner 3
+passives:
+- 'Sanguine Mark: All damage from normal attacks and Special Skill dealt by this character
+  is increased by 5% per Blood Lily stack on target.'
+image: https://i.imgur.com/gtSCGtb.jpg
+dtReleased: "2026-10-19"
+dtModified: ""
+fancy_name: Sanguine Jester
+aetherPower: ailment_reflect
+lb1:
+  power: 1464
+  attack: 1523
+  defense: 1518
+  health: 2726
+lb2:
+  power: 1657
+  attack: 1742
+  defense: 1737
+  health: 3119
+...

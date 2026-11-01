@@ -1,0 +1,60 @@
+---
+name: Ayami
+source: ninja
+family: ronin
+speed: Charge
+class: Sorcerer
+power: 1367
+attack: 1425
+defense: 1435
+health: 2439
+skill: Fox-Fire Blessing
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- 'x1 Mana Charge:'
+- Increases the mana of all allies by 10%. (After a character has received 5 direct
+  mana additions from Special Skills during a single turn, all subsequent direct mana
+  additions done by Special Skills will have reduced power on that character.)
+- Cleanses 1 status ailment from all allies at the end of each turn for 2 turns.
+- All allies regenerate 700 HP over 2 turns.
+- 'x2 Mana Charge:'
+- Increases the mana of all allies by 15%. (After a character has received 5 direct
+  mana additions from Special Skills during a single turn, all subsequent direct mana
+  additions done by Special Skills will have reduced power on that character.)
+- Cleanses status ailments from all allies at the end of each turn for 3 turns.
+- All allies regenerate 1020 HP over 3 turns.
+- 'x3 Mana Charge:'
+- Increases the mana of all allies by 25%. (After a character has received 5 direct
+  mana additions from Special Skills during a single turn, all subsequent direct mana
+  additions done by Special Skills will have reduced power on that character.)
+- Safely cleanses status ailments from all allies at the end of each turn for 5 turns.
+  This effect can't be dispelled.
+- All allies regenerate 1400 HP over 5 turns. This effect can't be dispelled.
+types:
+- Charge
+- Boost Mana All
+- Cleanser Latest/All/Safely All each turn
+- HoT All
+passives:
+- 'Weaker Minions: Enemy Minions have -50% HP.'
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 450% damage.'
+- ' * The attacker receives 1500 Bleed damage over 3 turns.'
+image: https://i.imgur.com/aEEGZWl.jpg
+dtReleased: "2026-10-20"
+dtModified: ""
+fancy_name: Fox Spirit of Horai-zan
+aetherPower: dodge
+lb1:
+  power: 1463
+  attack: 1536
+  defense: 1546
+  health: 2629
+lb2:
+  power: 1656
+  attack: 1757
+  defense: 1769
+  health: 3008
+...

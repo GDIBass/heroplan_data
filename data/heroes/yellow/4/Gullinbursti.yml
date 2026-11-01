@@ -69,4 +69,43 @@ costume:
     attack: 771
     defense: 801
     health: 1873
+costume2:
+  design: toon
+  bonuses: 30/30/30/5
+  class: Druid
+  power: 838
+  attack: 791
+  defense: 791
+  health: 1822
+  skill: Toon Boar Frenzy
+  effects:
+  - Boosts health of all allies by 450. Boosted health can exceed max HP.
+  - The caster gets +50% attack, and a further 20% increase every time they or any
+    of their allies are hit during 3 turns, up to +290% attack. When the effect ends,
+    all enemies receive 347 damage. Each hit on the caster or their allies during
+    the duration increases the damage by 16 to a maximum of 539 damage.
+  - The caster gets +54% defense against Dark for 3 turns.
+  types:
+  - Boosted HoT All
+  - Attack Buff Self
+  - Delayed Damage All
+  - Elemental Defense Buff Self
+  passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
+  image: https://i.imgur.com/zPgD8fA.jpg
+  dtReleased: "2026-10-18"
+  dtModified: ""
+  fancy_name: Toon Boar
+  aetherPower: heal_increase
+  lb1:
+    power: 903
+    attack: 859
+    defense: 859
+    health: 1979
+  lb2:
+    power: 1034
+    attack: 997
+    defense: 997
+    health: 2296
 ...

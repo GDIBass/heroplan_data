@@ -36,4 +36,43 @@ lb2:
   attack: 860
   defense: 978
   health: 1577
+costume:
+  design: costume1
+  bonuses: 93/93/92/5
+  class: Paladin
+  power: 1369
+  attack: 1422
+  defense: 1445
+  health: 2444
+  skill: Perennial Grudge
+  effects:
+  - Deals 350% damage to all enemies.
+  - Boosts all allies' health by 27% of damage dealt. Boosted health can exceed max
+    HP.
+  - Element Link gives all Fire allies +60% defense against Ice for 4 turns. This
+    effect can't be dispelled.
+  types:
+  - Hit All
+  - Boost Health All
+  passives:
+  - 'Resist Mana Generation Ailments: This character is immune to status ailments
+    and negative stacks that affect mana generation. Doesn''t apply to status ailments
+    that stop mana generation or steal mana.'
+  - 'Legendary Reflector: Any status ailments this character resists with Passive
+    Skills are reflected to all enemies.'
+  image: https://i.imgur.com/Qe07Ltv.jpg
+  dtReleased: "2026-10-26"
+  dtModified: ""
+  fancy_name: Expeditioner with a Grudge
+  aetherPower: attack_up
+  lb1:
+    power: 1465
+    attack: 1532
+    defense: 1557
+    health: 2634
+  lb2:
+    power: 1659
+    attack: 1753
+    defense: 1782
+    health: 3014
 ...

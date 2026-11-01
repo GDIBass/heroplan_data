@@ -1,0 +1,51 @@
+---
+name: Shaw
+source: goblinvillage
+family: shadyscoundrel
+speed: Slow
+class: Paladin
+power: 1367
+attack: 1382
+defense: 1452
+health: 2517
+skill: Pest Inspection
+effects:
+- Deals 500% damage to the target.
+- The target receives 2990 Burn damage over 5 turns. This effect spreads to nearby
+  enemies.
+- Summons a Pesthound Mega Minion with 70% HP and 300% attack inherited from the caster.
+- Before the Pesthound Mega Minion hits a target, it destroys all Minions from the
+  target and damages Mega Minions.
+- Each time the Pesthound Mega Minion hits an enemy, it steals 3 random dispellable
+  buffs from the enemy and gives them to its owner.
+types:
+- Hit 1
+- Spreading DoT 1
+- Pesthound Mega Minion
+passives:
+- 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
+  enemy'
+- 'Ransack:'
+- ' * Steals 100 health.'
+- ' * Safely steals a buff from the enemy. This includes Stubborn effects, undispellable
+  buffs and Dance effects.'
+- 'Cheat Death: The first time this character would receive fatal damage, they instead
+  redirect 50% of that damage to the attacker. Does not activate if this character
+  is the only member of their team in battle. In battles with multiple waves, the
+  effect is refreshed at the beginning of each wave.'
+image: https://i.imgur.com/0M5vgeg.jpg
+dtReleased: "2026-10-25"
+dtModified: ""
+fancy_name: Muttering Rat Catcher
+aetherPower: bulwark
+lb1:
+  power: 1464
+  attack: 1489
+  defense: 1565
+  health: 2713
+lb2:
+  power: 1657
+  attack: 1704
+  defense: 1790
+  health: 3104
+...

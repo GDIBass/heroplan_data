@@ -1,0 +1,56 @@
+---
+name: Yusopea
+source: valiant
+family: vegetable
+speed: Fast
+class: Ranger
+power: 1369
+attack: 1437
+defense: 1415
+health: 2469
+skill: Slingshot Ricochet
+effects:
+- Deals 480% damage to the target.
+- If the target has Fiend or Mega Fiends, deals 320% damage to 2 random different
+  enemies.
+- 'Summons a Seedling Fiend to each hit enemy. (The Seeding Fiend evolves into a Sprout
+  Fiend after 2 turns. The Sprout Fiend evolves into a Blossom Mega Fiend after 2
+  turns. Seedling Fiend: 50% attack, 20% health, Sprout Fiend: 75% attack, 30% health,
+  Blossom Mega Fiend: 250% attack, 60% health. A Fiend damages their target every
+  turn. A Fiend disappears after absorbing healing. Amount of healing required depends
+  on the target''s max health. The evolution of the Fiends is delayed by 1 turn each
+  time they absorb healing.)'
+- Enemies hit get -34% mana generation for 3 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
+types:
+- Hit 1
+- Hit Random 2
+- Fiend Summoner on hit
+- Mana Generation Debuff on hit
+passives:
+- 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
+  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
+  mana each time they resist.'
+- 'Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.'
+- ' * The Seedling Fiend evolves into a Sprout Fiend after 2 turns.'
+- ' * The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.'
+- ' * The evolution of the Fiends is delayed by 1 turn each time they absorb healing.'
+- ' 1) Seedling Fiend: 50% attack, 20% health'
+- ' 2) Sprout Fiend: 75% attack, 30% health'
+- ' 3) Blossom Mega Fiend: 250% attack, 60% health'
+image: https://i.imgur.com/VqMJ8JN.jpg
+dtReleased: "2026-10-29"
+dtModified: ""
+fancy_name: Tactical Pea-shooter
+aetherPower: dodge
+lb1:
+  power: 1466
+  attack: 1549
+  defense: 1525
+  health: 2661
+lb2:
+  power: 1660
+  attack: 1772
+  defense: 1745
+  health: 3045
+...

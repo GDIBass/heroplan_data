@@ -1,0 +1,42 @@
+---
+name: Karlov
+source: morlovia
+family: morlovia
+speed: Average
+class: Rogue
+power: 1367
+attack: 1446
+defense: 1413
+health: 2434
+skill: Midnight Blitzing
+effects:
+- Deals 300% damage to the target and 3 random enemies.
+- 'All hit targets receive 1200 Surge Bleed damage over 6 turns. (If a target already
+  has this effect, the duration will be refreshed and the damage will be increased
+  by 240. Max total damage: 1800.)'
+- The caster steals 70% of any healing applied to all hit enemies for 4 turns.
+types:
+- Hit 1
+- Hit random 3
+- DoT on hit
+- Healing Steal on hit
+passives:
+- 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+  to steal the newest dispellable buff from a random enemy that has buffs, or Deal
+  150% damage to all enemies if there are no buffs that can be stolen.'
+image: https://i.imgur.com/Qj9favw.jpg
+dtReleased: "2026-10-19"
+dtModified: "2026-10-29"
+fancy_name: Vampire Renegade
+aetherPower: vampire
+lb1:
+  power: 1463
+  attack: 1558
+  defense: 1523
+  health: 2623
+lb2:
+  power: 1657
+  attack: 1783
+  defense: 1742
+  health: 3002
+...

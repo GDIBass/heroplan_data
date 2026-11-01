@@ -49,4 +49,53 @@ lb2:
   attack: 1448
   defense: 1506
   health: 3076
+costume:
+  design: costume1
+  bonuses: 12/12/12/5
+  class: Cleric
+  power: 1366
+  attack: 1318
+  defense: 1392
+  health: 2790
+  skill: Holy Rally
+  effects:
+  - All allies get a Frostfall Ward for 4 turns, that reduces incoming Special Skill
+    damage by up to -1600. Reduces damage by additional 30% when the attacker is of
+    the Fire element.
+  - All allies bypass defensive buffs with their attacks for 4 turns. (Defensive buffs
+    include counterattacks.)
+  - All allies get +50% attack, and a further 20% increase every time they are hit
+    during 4 turns, up to 150% attack.
+  - All allies are immune to max health reduction for 4 turns.
+  types:
+  - Frostfall Ward Buff All
+  - Bypass All
+  - Attack Buff All
+  - Max Health Reduction Immunity All
+  passives:
+  - 'Resist Stealing: This character is immune to stealing and Ransacking.'
+  - 'Empowered Resist Frost: This character is immune to status ailments that deal
+    Frost damage and gains 450 boosted health and 5% mana each time they resist.'
+  - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
+    is cast'
+  - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
+    Core, the Corrosive Frost deals 388 Frost damage and lowers the target''s attack
+    by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Frost damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
+  image: https://i.imgur.com/oxOUy9v.jpg
+  dtReleased: "2026-10-16"
+  dtModified: ""
+  fancy_name: Paragon of the Dwarven Frontier
+  aetherPower: boosted_regen
+  lb1:
+    power: 1462
+    attack: 1420
+    defense: 1500
+    health: 3007
+  lb2:
+    power: 1655
+    attack: 1625
+    defense: 1716
+    health: 3441
 ...

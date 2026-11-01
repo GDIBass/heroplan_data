@@ -122,4 +122,36 @@ costume3:
     attack: 709
     defense: 665
     health: 1486
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Ranger
+  power: 551
+  attack: 531
+  defense: 510
+  health: 1129
+  skill: Stylish Rush
+  effects:
+  - Deals 310% damage to the target and minor damage to nearby enemies.
+  - Deals extra damage to enemies with less than 50% health remaining.
+  types:
+  - Hit 3
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://i.imgur.com/Ij4qYQw.jpg
+  dtReleased: "2026-10-28"
+  dtModified: ""
+  fancy_name: Stylish Fighter
+  aetherPower: special_boost
+  lb1:
+    power: 616
+    attack: 601
+    defense: 578
+    health: 1279
+  lb2:
+    power: 746
+    attack: 744
+    defense: 714
+    health: 1581
 ...

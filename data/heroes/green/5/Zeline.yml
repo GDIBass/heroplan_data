@@ -75,4 +75,45 @@ costume:
     attack: 1185
     defense: 1087
     health: 2353
+costume2:
+  design: toon
+  bonuses: 90/90/90/5
+  class: Wizard
+  power: 1349
+  attack: 1455
+  defense: 1311
+  health: 2489
+  skill: Toon Flash
+  effects:
+  - Deals 280% damage to all enemies.
+  - All enemies get -40% attack for 4 turns.
+  - All enemies get -35% defense against Nature for 4 turns.
+  - Deals extra damage against Ice.
+  - Dispels buffs from all enemies.
+  - Element Link gives +10% mana generation for all Nature allies for 4 turns. This
+    effect can't be dispelled. (Affects only mana generated from matching shields
+    or mana gained by the defense team at the end of their turn.)
+  types:
+  - Hit All
+  - Attack Debuff All
+  - Elemental Defense Buff All
+  - Dispeller All
+  passives:
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
+  image: https://i.imgur.com/QbW64rh.jpg
+  dtReleased: "2026-10-18"
+  dtModified: ""
+  fancy_name: Toon Celestial of Nature
+  aetherPower: attack_up
+  lb1:
+    power: 1445
+    attack: 1568
+    defense: 1413
+    health: 2683
+  lb2:
+    power: 1635
+    attack: 1794
+    defense: 1617
+    health: 3070
 ...

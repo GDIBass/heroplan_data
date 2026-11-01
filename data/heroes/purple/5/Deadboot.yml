@@ -40,4 +40,45 @@ lb2:
   attack: 1189
   defense: 1107
   health: 1999
+costume:
+  design: costume1
+  bonuses: 52/52/52/5
+  class: Sorcerer
+  power: 1364
+  attack: 1472
+  defense: 1361
+  health: 2450
+  skill: Unhallowed Tricks
+  effects:
+  - Steals all dispellable buffs from the target and randomly distributes them on
+    allies.
+  - Deals 400% damage to the target.
+  - Deals additional 50% damage per transferred status effect buff, up to 650% damage
+    in total.
+  - 'Wither: The target gets -250 attack and -250 defense.'
+  types:
+  - Buff Steal 1
+  - Hit 1
+  - Attack Wither 1
+  - Defense Wither 1
+  passives:
+  - 'Effects on Special Skill: 30% chance to perform the following actions when this
+    character casts their Special Skill.'
+  - ' * Deals 90% damage to all enemies.'
+  - ' * All enemies get -25% accuracy for 3 turns.'
+  image: https://i.imgur.com/t2rR0PE.jpg
+  dtReleased: "2026-10-25"
+  dtModified: ""
+  fancy_name: Harrowing Goblin
+  aetherPower: dodge
+  lb1:
+    power: 1460
+    attack: 1586
+    defense: 1467
+    health: 2641
+  lb2:
+    power: 1653
+    attack: 1815
+    defense: 1678
+    health: 3021
 ...

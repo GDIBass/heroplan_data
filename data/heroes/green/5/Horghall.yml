@@ -163,4 +163,38 @@ costume4:
     attack: 1338
     defense: 1502
     health: 3431
+costume5:
+  design: stylish
+  bonuses: 90/90/95/5
+  class: Druid
+  power: 1335
+  attack: 1174
+  defense: 1330
+  health: 3051
+  skill: Anger of Arboretum
+  effects:
+  - Deals 450% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 600% damage instead.
+  - All enemies get -32% attack for 6 turns.
+  types:
+  - Hit All
+  - Attack Debuff All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://i.imgur.com/Z9y6rlu.jpg
+  dtReleased: "2026-10-28"
+  dtModified: ""
+  fancy_name: Ancient of the Arboretum
+  aetherPower: defense_up
+  lb1:
+    power: 1429
+    attack: 1265
+    defense: 1433
+    health: 3288
+  lb2:
+    power: 1617
+    attack: 1448
+    defense: 1640
+    health: 3763
 ...

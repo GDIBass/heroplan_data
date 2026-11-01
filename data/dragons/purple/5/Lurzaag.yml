@@ -1,0 +1,49 @@
+---
+name: Lurzaag
+fancy_name: Soul-Trapping Dreadwyrm
+source: ancientUnderroot
+speed: Average
+power: 13500
+attack: 17246
+defense: 16869
+health: 15079
+skill: Soulfright Shriek
+effects:
+- Deals 310% damage to the target and nearby enemies.
+- The target and nearby enemies succumb to Fear for 4 turns. (The target gets -40%
+  defense. Removes all dispellable buffs and Growth effects when a Fear status effect
+  is added. The target cannot gain new buffs or Growth effects for the duration. Target
+  with Fear deals 250% damage to a random ally each time any other ally casts their
+  Special Skill. Each character can trigger this effect once per turn.)
+types:
+- Hit 3
+- Fear 3
+passives:
+- 'Decrease Ailment Duration: Duration of the first 5 status ailments this character
+  receives from Special Skills. Number of turns decreased: 2.'
+spiritBonus:
+  spiritClass: Sorcerer
+  all:
+    attack: "+250"
+    defense: "+200"
+    health: "+100"
+  elementalBond:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+  classLink:
+    attack: "+35"
+    defense: "+30"
+    health: "+30"
+assist:
+  name: Blaze of the Undying
+  effects:
+  - Deals 410 damage to all enemies.
+  - Recovers 210 health for all allies.
+  - All enemies receive 910 Burn damage over 5 turns.
+  - All enemies can't get their status ailments cleansed or reallocated by Special
+    Skills for 5 turns.
+image: https://i.imgur.com/1j01xLg.jpg
+dtReleased: "2026-10-27"
+dtModified: ""
+...

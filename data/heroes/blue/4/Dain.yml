@@ -45,4 +45,50 @@ lb2:
   attack: 902
   defense: 936
   health: 1697
+costume:
+  design: costume1
+  bonuses: 11/11/11/1
+  class: Cleric
+  power: 804
+  attack: 801
+  defense: 822
+  health: 1490
+  skill: Iceberg Meal
+  effects:
+  - The caster and nearby allies get a Frostfall Ward for 3 turns, that reduces incoming
+    Special Skill damage by up to -600. Reduces damage by additional 25% when the
+    attacker is of the Fire element.
+  - The caster and nearby allies get +100% normal attack for 3 turns. The normal attack
+    is increased by +25% each turn. This effect can be active in addition to effects
+    that alter attack in general. Normal attacks can have a total maximum of +200%
+    increased power while this effect is active.
+  types:
+  - Frostfall Ward 3
+  - Attack Buff 3
+  passives:
+  - 'Resist Stealing: This character is immune to stealing and Ransacking.'
+  - 'Empowered Resist Frost: This character is immune to status ailments that deal
+    Frost damage and gains 600 boosted health and 10% mana each time they resist.'
+  - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
+    is cast'
+  - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
+    Core, the Corrosive Frost deals 236 Frost damage and lowers the target''s attack
+    by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Frost damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
+  image: https://i.imgur.com/iyhliQ5.jpg
+  dtReleased: "2026-10-16"
+  dtModified: ""
+  fancy_name: Dwarven Kitchenmaster
+  aetherPower: bulwark
+  lb1:
+    power: 866
+    attack: 870
+    defense: 893
+    health: 1619
+  lb2:
+    power: 991
+    attack: 1009
+    defense: 1036
+    health: 1878
 ...

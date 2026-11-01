@@ -36,4 +36,42 @@ lb2:
   attack: 515
   defense: 680
   health: 1198
+costume:
+  design: costume1
+  bonuses: 24/26/25/5
+  class: Paladin
+  power: 545
+  attack: 447
+  defense: 618
+  health: 1081
+  skill: Dawn of Agony
+  effects:
+  - The target receives 170 Surge Bleed damage over 5 turns. (If a target already
+    has this effect, the duration will be refreshed and the damage will be increased
+    by 320. Max total damage 790.)
+  - The caster gets +50% defense against Holy for 3 turns.
+  - The caster steals 61% of any healing applied to the target for 3 turns.
+  types:
+  - DoT 1
+  - Elemental Defense Buff Self
+  - Healing Steal 1
+  passives:
+  - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
+    to steal the newest dispellable buff from a random enemy that has buffs, or Deal
+    150% damage to all enemies if there are no buffs that can be stolen.'
+  image: https://i.imgur.com/lKVtTP3.jpg
+  dtReleased: "2026-10-19"
+  dtModified: ""
+  fancy_name: Vampire Lieutenant
+  aetherPower: regen
+  lb1:
+    power: 609
+    attack: 506
+    defense: 700
+    health: 1225
+  lb2:
+    power: 738
+    attack: 626
+    defense: 865
+    health: 1514
 ...

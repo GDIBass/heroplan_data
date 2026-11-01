@@ -1,0 +1,45 @@
+---
+name: Marjatta
+source: tavernoflegends
+family: champions
+speed: Average
+class: Wizard
+power: 1369
+attack: 1402
+defense: 1421
+health: 2544
+skill: Baton Toss
+effects:
+- Boosts health of all allies' health by 700. Boosts health of all allies by additional
+  100 for each status ailment the ally has, up to 1200 health in total.
+- Safely cleanse status ailments from all allies. (Safe cleanse bypasses secondary
+  effects, such as damage on removal, from the remove status ailment. External effects
+  such as passive skills and family effects can still activate.)
+- All enemies can't get their status ailments cleansed or reallocated by Special Skills
+  for 4 turns. (This effect also prevents cleansing and reallocating of itself.)
+types:
+- Boost Health All
+- Safely Cleanse All
+- Cleanse Immunity Debuff All
+passives:
+- 'Damage on Attempted Enemy Cleanse: When an enemy attempts to cleanse by using Special
+  Skill, all enemies receive 300 damage. This effect can activate only once per turn.'
+- 'Health Boost on Attempted Ally Cleanse: When an ally attempts to cleanse by using
+  Special Skill, all allies receive 300 boosted health. This effect can activate only
+  once per turn.'
+image: https://i.imgur.com/DuKqh8u.jpg
+dtReleased: "2026-10-26"
+dtModified: ""
+fancy_name: Nordic Skittles Champion
+aetherPower: boosted_regen
+lb1:
+  power: 1466
+  attack: 1511
+  defense: 1531
+  health: 2742
+lb2:
+  power: 1659
+  attack: 1729
+  defense: 1752
+  health: 3137
+...

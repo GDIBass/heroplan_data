@@ -18,7 +18,7 @@ effects:
 - Against Very Fast mana speed or faster targets deals and additional 150% damage.
 - All monsters and bosses are considered as Average mana speed.
 - In Rush Attack tournaments and wars enemies are considered as Very Fast mana speed.
-- Boosts all allies' health by 15% of damage dealt.
+- Boosts all allies' health by 25% of damage dealt.
 types:
 - Hit 1
 - Hit Random 4
@@ -32,7 +32,7 @@ passives:
   Skill, all enemies receive 100 damage. This effect can activate only once per turn.'
 image: https://i.imgur.com/XBlb6EK.jpg
 dtReleased: "2026-09-25"
-dtModified: ""
+dtModified: "2026-10-26"
 fancy_name: Archery Champion
 aetherPower: dodge
 lb1:
