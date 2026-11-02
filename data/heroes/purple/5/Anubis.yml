@@ -69,10 +69,10 @@ costume:
     any of their Passive Skills that grant extra effects on cast are guaranteed to
     activate.'
   - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
-    a status ailment or negative stack.'
+    a status ailment or a negative stack.'
   image: https://i.imgur.com/8BGU68M.jpg
   dtReleased: "2024-02-05"
-  dtModified: "2026-07-01"
+  dtModified: "2026-11-02"
   fancy_name: Arbiter of the Dancefloor
   aetherPower: dodge
   lb1:
