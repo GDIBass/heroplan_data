@@ -40,4 +40,48 @@ lb2:
   attack: 1193
   defense: 1277
   health: 2260
+costume:
+  design: costume1
+  bonuses: 40/41/41/5
+  class: Barbarian
+  power: 1370
+  attack: 1366
+  defense: 1448
+  health: 2587
+  skill: Melody Harvest
+  effects:
+  - This Special Skill never misses its targets.
+  - Deals 480% damage to all enemies.
+  - Heals all allies who have less than 60% HP left. Fire allies are healed to 75%
+    health and other allies to 60% health. (Ignores heal steal, healing modifiers
+    and Fiends.)
+  - Deals extra damage against Nature.
+  types:
+  - Hit All
+  - Heal All
+  passives:
+  - 'Troop Mastery:'
+  - 'Passive Skill as attacking character: This character''s Troops deal extra damage
+    against the weaker element.'
+  - ' * Extra damage dealt: +150%'
+  - 'Passive Skill as defending character: This character receives less damage from
+    Troops of the stronger element.'
+  - ' * Received damage: -25%'
+  - 'Resist Nature Ailments: This character is immune to status ailments and negative
+    stacks cast by Nature characters.'
+  image: https://i.imgur.com/Hj5uZFT.jpg
+  dtReleased: "2026-11-02"
+  dtModified: ""
+  fancy_name: Scythe Master of the Music
+  aetherPower: bulwark
+  lb1:
+    power: 1467
+    attack: 1472
+    defense: 1560
+    health: 2788
+  lb2:
+    power: 1661
+    attack: 1684
+    defense: 1786
+    health: 3190
 ...
