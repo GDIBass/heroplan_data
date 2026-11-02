@@ -13,7 +13,10 @@ effects:
 - Deals 210% damage to all enemies.
 - Deals additional 20% damage per each Holy shield on the board up to 450% damage
   in total.
-- Each fallen ally has a 20% chance to be revived at 40% HP.
+- Each fallen ally has a 20% chance to be revived at 48% HP. (After a character has
+  been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)
 - Each Holy shield on the board increases the chance of to be revived by 5% up to
   80% chance in total.
 types:
@@ -29,7 +32,7 @@ passives:
 - ' * Received damage: -10%'
 image: https://i.imgur.com/h5xLq71.jpg
 dtReleased: "2022-10-10"
-dtModified: "2026-08-11"
+dtModified: "2026-11-02"
 fancy_name: Defender of Space-Time
 aetherPower: regen
 lb1:
@@ -55,7 +58,10 @@ costume:
   - Deals 260% damage to all enemies.
   - Deals additional 25% damage per each Holy shield on the board, up to 560% damage
     in total.
-  - Each defeated ally has a 20% chance to be revived with 45% HP.
+  - Each defeated ally has a 20% chance to be revived with 50% HP. (After a character
+    has been revived by a Special Skill, their HP is -50% less on each subsequent
+    Special Skill revive. After a character has been revived by a Special Skill, the
+    chance for them to be revived is -50% on each subsequent Special Skill revive.)
   - Each Holy shield on the board increases the chance to be revived by 5%, up to
     80% chance in total.
   - Deals extra damage against Dark.
@@ -74,7 +80,7 @@ costume:
     stacks cast by Dark characters.'
   image: https://i.imgur.com/sbozpVC.jpg
   dtReleased: "2025-11-10"
-  dtModified: "2026-08-11"
+  dtModified: "2026-11-02"
   fancy_name: Defender of Galaxies
   aetherPower: bulwark
   lb1:

@@ -67,7 +67,7 @@ costume:
     the beginning of their next turn with 40% health. All status effects and stack
     are removed when the caster is defeated.'
   - '2x Mana Charge:'
-  - ' * Each defeated ally has a 55% chance to get revived with 44% HP. (After a character
+  - ' * Each defeated ally has a 55% chance to get revived with 50% HP. (After a character
     has been revived by a Special Skill, their HP is -50% less on each subsequent
     Special Skill revive. After a character has been revived by a Special Skill, the
     chance for them to be revived is -50% on each subsequent Special Skill revive.)'

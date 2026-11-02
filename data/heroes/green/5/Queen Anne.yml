@@ -21,12 +21,11 @@ types:
 - Defense Buff All
 - Mana Generation Buff All
 passives:
-- 'Damage on Special Skill and Cover Damage: When this character receives damage from
-  Special Skills or in place of a character in Cover, there''s a 60% chance to deal
-  20% of the received damage on all enemies.'
+- 'One for All!: When this character receives damage in place of a character in Cover,
+  they deal 50% of the received damage to all enemies.'
 image: https://i.imgur.com/BoTIbhq.jpg
 dtReleased: "2022-12-14"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Elegant Monarch
 aetherPower: taunt
 lb1:
@@ -64,12 +63,11 @@ costume:
   - 'Resist Defense Ailments: This character is immune to status ailments and negative
     stacks that affect defense. Doesn''t apply to status ailments that affect elemental
     defense.'
-  - 'Damage on Special Skill and Cover Damage: When this character receives damage
-    from Special Skills or in place of a character in Cover, there''s a 75% chance
-    to deal 50% of the received damage on all enemies.'
+  - 'One for All!: When this character receives damage in place of a character in
+    Cover, they deal 75% of the received damage to all enemies.'
   image: https://i.imgur.com/HG83sSn.jpg
   dtReleased: "2026-07-14"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Elegant Commander
   aetherPower: damage_reduction
   lb1:

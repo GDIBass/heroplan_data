@@ -18,7 +18,10 @@ effects:
   Special Skill attacks, damage dealing passives, status effects and stacks. Immune
   to new Growth, Wither and Insanity effects.)
 - 'When the Ghost form expires:'
-- ' * The caster revives a random defeated ally with 40% HP.'
+- ' * The caster revives a random defeated ally with 40% HP. (After a character has
+  been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)'
 - ' * All allies gain 900 health over 3 turns.'
 - ' * Cleanses status ailments from all allies at then end of each turn for 3 turns.'
 types:
@@ -31,7 +34,7 @@ passives:
 - 'Decreased Healing: All enemies get -50% healing.'
 image: https://i.imgur.com/rZTJzw7.jpg
 dtReleased: "2025-02-02"
-dtModified: "2026-08-25"
+dtModified: "2026-11-02"
 fancy_name: The Lost Princess Fox
 aetherPower: ailment_reflect
 lb1:

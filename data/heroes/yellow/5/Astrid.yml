@@ -11,7 +11,10 @@ health: 2251
 skill: Booming Mend
 effects:
 - Recovers 50% health for all allies.
-- Each defeated ally has 40% chance to get revived with 30% HP.
+- Each defeated ally has 40% chance to get revived with 30% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)
 - All allies have a 20% chance to drop any received damage to 1 for 3 turns.
 types:
 - Healer All
@@ -22,7 +25,7 @@ passives:
 - 'Quick Tempo: Dance. All Dances cast by enemies only last for 1 turn.'
 image: https://i.imgur.com/efuZ1Xu.jpg
 dtReleased: "2024-11-14"
-dtModified: "2026-03-20"
+dtModified: "2026-11-02"
 fancy_name: Bard of Resurrection
 aetherPower: defense_up
 lb1:

@@ -11,7 +11,10 @@ health: 771
 skill: Sewing Back Together
 effects:
 - All allies regenerate 425 HP over 5 turns.
-- Each defeated ally has a 35% chance to get revived with 25% HP.
+- Each defeated ally has a 35% chance to get revived with 25% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)
 types:
 - HoT All
 - Reviver
@@ -30,17 +33,17 @@ passives:
 - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
 image: https://i.imgur.com/qorWERP.jpg
 dtReleased: "2025-04-17"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Maker of Magic Carpets
 aetherPower: defense_up
 lb1:
-  power: 565
-  attack: 616
-  defense: 579
-  health: 874
+  power: 564
+  attack: 615
+  defense: 578
+  health: 873
 lb2:
   power: 682
-  attack: 761
-  defense: 715
+  attack: 760
+  defense: 714
   health: 1080
 ...

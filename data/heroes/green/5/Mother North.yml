@@ -11,7 +11,10 @@ health: 1462
 skill: Super Porridge
 effects:
 - Recovers 30% health for all allies.
-- Each fallen ally has a 50% chance to get revived with 10% HP.
+- Each fallen ally has a 50% chance to get revived with 10% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)
 - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the
   caster.
 types:
@@ -20,7 +23,7 @@ types:
 - Summoner All
 image: https://i.imgur.com/463IXXp.jpg
 dtReleased: "2018-12-01"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: The Northern Chef
 aetherPower: defense_up
 lb1:
@@ -43,7 +46,10 @@ costume:
   health: 2060
   skill: Hyper Porridge
   effects:
-  - Each fallen ally has a 55% chance to get revived with 15% HP.
+  - Each fallen ally has a 55% chance to get revived with 20% HP. (After a character
+    has been revived by a Special Skill, their HP is -50% less on each subsequent
+    Special Skill revive. After a character has been revived by a Special Skill, the
+    chance for them to be revived is -50% on each subsequent Special Skill revive.)
   - Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from
     the caster.
   - All allies regenerate 612 HP over 4 turns.
@@ -56,7 +62,7 @@ costume:
     Frost damage over 4 turns.'
   image: https://i.imgur.com/0QsTiw8.jpg
   dtReleased: "2021-12-01"
-  dtModified: "2026-07-06"
+  dtModified: "2026-11-02"
   fancy_name: Holiday Sweater Enthusiast
   aetherPower: special_armor
   lb1:

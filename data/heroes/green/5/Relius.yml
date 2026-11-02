@@ -11,13 +11,11 @@ health: 1695
 skill: Mixed Green Herbs
 effects:
 - Recovers 30% health for all allies.
-- Each defeated ally has a 40% chance to get revived with 30% HP.This Special Skill
-  has a chance to deal Critical hits. (The chance of dealing a Critical hit is based
-  on Hero's overall critical chance when the damage is dealt. The chance is always
-  at least 1%. Critical hits caused by this Special Skill deal 50% more damage. Critical
-  hits can reduces enemies' max health on PVP battles. This effect is stronger against
-  boosted health.)
-- All allies a get Moonrise Ward for 4 turns, that reduces incoming Special Skill
+- Each defeated ally has a 40% chance to get revived with 30% HP.  (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)
+- All allies get a get Moonrise Ward for 4 turns, that reduces incoming Special Skill
   damage by -800. Reduces by additional 30% when attacker is Holy.
 types:
 - Healer All

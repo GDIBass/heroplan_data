@@ -15,7 +15,10 @@ effects:
   health is based on the modified defense on the caster when healing is applied. Up
   to maximum 600 of additional healing. Status effects affecting healing received
   do affect the healing scaling.)'
-- Each defeated ally has a 35% chance to get revived with 35% HP.
+- Each defeated ally has a 35% chance to get revived with 35% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)
 - Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the
   order they have been received. The latest status ailments are cleansed first.)
 types:
@@ -32,7 +35,7 @@ passives:
   effects and damage from Minions and Mega Minions.'
 image: https://i.imgur.com/4vCPlzL.jpg
 dtReleased: "2025-06-16"
-dtModified: "2026-08-01"
+dtModified: "2026-11-02"
 fancy_name: Warrior Princess of Manipura
 aetherPower: dodge
 lb1:
