@@ -32,7 +32,7 @@ lb2:
   power: 1001
   attack: 1021
   defense: 949
-  health: 1811
+  health: 1810
 costume:
   design: costume1
   bonuses: 25/25/30/5
@@ -86,11 +86,11 @@ costume2:
   - DoT 3
   - Attack Buff All
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/HDKoIhr.jpg
   dtReleased: "2026-09-17"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Toon Goddess of All Rivers
   aetherPower: attack_up
   lb1:

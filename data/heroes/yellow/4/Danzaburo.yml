@@ -107,11 +107,11 @@ costume2:
   types:
   - Gambler
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/MJTiE40.jpg
   dtReleased: "2026-09-17"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Dauntless Toon
   aetherPower: gamble
   lb1:

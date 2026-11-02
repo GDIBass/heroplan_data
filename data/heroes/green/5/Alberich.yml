@@ -95,13 +95,13 @@ costume2:
   - HoT All
   - MoT All
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   - 'Cleanse on Special Skill: When this character casts their Special Skill, they
     cleanse the newest status ailment from all allies.'
   image: https://i.imgur.com/I5pyCJU.jpg
   dtReleased: "2026-07-20"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Seelie Toon
   aetherPower: defense_up
   lb1:

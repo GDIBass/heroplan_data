@@ -88,11 +88,11 @@ costume2:
   - Max Health Reduction All
   - Healing Debuff All
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/nlHwD1Y.jpg
   dtReleased: "2026-04-29"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Poisoner Toon of Svartalfheim
   aetherPower: attack_up
   lb1:

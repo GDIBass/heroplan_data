@@ -89,11 +89,11 @@ costume2:
   - Titan Attack Buff All
   - Defense Buff All
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/KfvWBb0.jpg
   dtReleased: "2026-08-21"
-  dtModified: "2026-08-21"
+  dtModified: "2026-11-02"
   fancy_name: Toon Titan of Sea
   aetherPower: attack_up
   lb1:

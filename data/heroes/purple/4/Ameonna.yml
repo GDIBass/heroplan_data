@@ -101,8 +101,8 @@ costume2:
   - Attack Buff Self while ghost
   - Elemental Defense Buff 4
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/ZzDvGTw.jpg
   dtReleased: "2026-06-28"
   dtModified: "2026-11-02"
