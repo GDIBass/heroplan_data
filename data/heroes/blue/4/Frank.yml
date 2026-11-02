@@ -11,7 +11,7 @@ health: 1292
 skill: Undead Razer
 effects:
 - Deals 200% damage to all enemies.
-- The damage is increased by 45% per dead enemy.
+- The damage is increased by 45% per each defeated enemy.
 - All enemies get -44% defense for 4 turns.
 types:
 - Hit All
@@ -22,7 +22,7 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/dQao9jX.jpg
 dtReleased: "2020-10-26"
-dtModified: "2026-05-04"
+dtModified: "2026-11-02"
 fancy_name: The Monster
 aetherPower: regen
 lb1:
@@ -48,9 +48,11 @@ costume:
   - Deals 170% damage to all enemies
   - The damage is increased by 45% for each dead enemy.
   - 'Stack (Max:10): All enemies receive 20 Frost damage per each killed enemy or
-    enemy Minion at the end of each turn.'
+    enemy Minion at the end of each turn. (Cleansing reduces negative stacks by 1.)'
   - 'Stack (Max: 10): All enemies get -4% mana generation per each killed enemy or
-    enemy Minion.'
+    enemy Minion. (Affects only mana generated from matching shields or mana gained
+    by the defense team at the end of their turn. Cleansing reduces negative stacks
+    by 1.)'
   types:
   - Hit All
   - DoT Stack All
@@ -61,7 +63,7 @@ costume:
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/HUrGPkv.jpg
   dtReleased: "2021-10-04"
-  dtModified: "2026-05-04"
+  dtModified: "2026-11-02"
   fancy_name: The Mobster
   aetherPower: special_boost
   lb1:

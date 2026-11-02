@@ -15,7 +15,9 @@ effects:
 - Summons a Sanguine Bat Minion for caster and nearby allies with 25% HP and 30% attack
   inherited from the caster.
 - 'The target hit by the Sanguine Bat Minion is marked with Blood Lily. (A memento
-  from the Fleur de Sang family. This effect can stack (max: 10).)'
+  from the Fleur de Sang family. This effect can stack (max: 10). The Blood Lily stacks
+  can be avoided or removed with various effects that affect stacks. Cleansing reduces
+  negative stacks by 1.)'
 types:
 - Reposition
 - Hit All Blood Lily mark
@@ -25,7 +27,7 @@ passives:
   is increased by 5% per Blood Lily stack on target.'
 image: https://i.imgur.com/gtSCGtb.jpg
 dtReleased: "2026-10-19"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Sanguine Jester
 aetherPower: ailment_reflect
 lb1:

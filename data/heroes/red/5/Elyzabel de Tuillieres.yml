@@ -21,7 +21,8 @@ effects:
   on the opposing team gain the amount of damage dealt as health, divided equally
   between them. Each stack of the Blood Lily effect also increases the damage that
   members of the Fleur de Sang family deal to the target. The Blood Lily stacks can
-  be avoided or removed with various effect that affect stacks. )'
+  be avoided or removed with various effect that affect stacks. Cleansing reduces
+  negatives stacks by 1.)'
 types:
 - Hit 3
 - Immunity SS usage All
@@ -31,7 +32,7 @@ passives:
   is increased by 5% per Blood Lily stack on target.'
 image: https://i.imgur.com/sdFlBeC.jpg
 dtReleased: "2025-10-08"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Sanguine Countess
 aetherPower: fiend_resist
 lb1:

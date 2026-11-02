@@ -15,8 +15,10 @@ effects:
   of their next turn with 27% health. All status effects and stacks are removed when
   the caster is defeated.
 - 'Stack (Max: 10): The caster gets +6% mana generation. (Affects only mana generated
-  from matching shields or mana gained by the defense team at the end of their turn.)'
-- 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
+  from matching shields or mana gained by the defense team at the end of their turn.
+  Dispelling reduces positive stacks by 1.)'
+- 'Stack +2 (Max: 10): The caster recovers 30 HP each turn. (Dispelling reduces positive
+  stacks by 1.)'
 types:
 - Hit 3
 - Resurrect Self
@@ -26,7 +28,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/ema4TPc.jpg
 dtReleased: "2021-08-05"
-dtModified: "2026-07-03"
+dtModified: "2026-11-02"
 fancy_name: The Undying
 aetherPower: attack_up
 lb1:

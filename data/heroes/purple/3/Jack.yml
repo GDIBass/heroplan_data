@@ -16,14 +16,14 @@ effects:
   when the target is defeated.
 types:
 - Hit 1
-- Pumpkin Bomb
+- Pumpkin Bomb 1
 passives:
 - 'Steal Buff: When this character casts their Special Skill, they have a 65% chance
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/1pbBKiM.jpg
 dtReleased: "2020-10-26"
-dtModified: "2026-07-01"
+dtModified: "2026-11-02"
 fancy_name: Pumpkin Minstrel
 aetherPower: damage_reduction
 lb1:
