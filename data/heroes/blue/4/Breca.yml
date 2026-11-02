@@ -22,22 +22,22 @@ types:
 - HoT
 passives:
 - 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
-  also gain 600 boosted health and 10% mana each time they resist.'
+  also gain 10% mana each time they resist.'
 - 'Stacking Attack On Damage Received: When this character receives damage from Special
   Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.'
 image: https://i.imgur.com/JMxr5yp.jpg
 dtReleased: "2025-12-06"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Boon Companion
 aetherPower: defense_up
 lb1:
-  power: 856
-  attack: 863
-  defense: 861
+  power: 855
+  attack: 862
+  defense: 860
   health: 1632
 lb2:
   power: 979
-  attack: 1001
+  attack: 1000
   defense: 998
-  health: 1892
+  health: 1893
 ...

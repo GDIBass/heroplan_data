@@ -23,11 +23,11 @@ types:
 - Source of Ailments Random 1
 passives:
 - 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
-  also gain 600 boosted health and 10% mana each time they resist.'
+  also gain  10% mana each time they resist.'
 - 'Perfect Accuracy: This character''s Special Skill never mises its target.'
 image: https://i.imgur.com/EwK86qB.jpg
 dtReleased: "2025-02-13"
-dtModified: "2026-07-01"
+dtModified: "2026-11-02"
 fancy_name: Hrunting's Bearer
 aetherPower: attack_up
 lb1:

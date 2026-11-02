@@ -63,10 +63,10 @@ costume:
   - 'Damage over time on Special: When this character casts their Special Skill, all
     enemies receive 338 Water damage over 2 turns.'
   - 'Empowered Resist Water: This character is immune to status ailments that deal
-    Water damage and gains 450 boosted health and 5% mana each time they resist.'
+    Water damage and gains 5% mana each time they resist.'
   image: https://i.imgur.com/OGUfptj.jpg
   dtReleased: "2026-06-01"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Stealthy Beach Gnome
   aetherPower: special_armor
   lb1:

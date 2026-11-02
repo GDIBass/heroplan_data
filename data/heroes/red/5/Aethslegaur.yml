@@ -23,7 +23,7 @@ types:
 passives:
 - 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
-  damage and gains 450 boosted health and 5% mana each time they resist.'
+  damage and gains 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
 - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core,

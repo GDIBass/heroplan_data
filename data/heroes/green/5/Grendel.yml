@@ -22,12 +22,12 @@ types:
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never mises its target.'
 - 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
-  also gain 600 boosted health and 10% mana each time they resist.'
+  also gain 10% mana each time they resist.'
 - 'Stacking Attack On Damage Received: When this character receives damage from Special
   Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.'
 image: https://i.imgur.com/ijEHGWi.jpg
 dtReleased: "2025-02-13"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Sword-Breaking Hell-Brute
 aetherPower: attack_up
 lb1:

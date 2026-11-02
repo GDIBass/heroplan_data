@@ -33,10 +33,10 @@ passives:
 - ' * Damage increased for Special Skills 35%.'
 - ' * Damage increased for Minions and Mega Minions 60%.'
 - 'Empowered Resist Water: This character is immune to status ailments that deal Water
-  damage and gains 450 boosted health and 5% mana each time they resist.'
+  damage and gains 5% mana each time they resist.'
 image: https://i.imgur.com/OApybZ4.jpg
 dtReleased: "2026-06-01"
-dtModified: "2026-06-10"
+dtModified: "2026-11-02"
 fancy_name: The Tiki Shark Enchantress
 aetherPower: heal_increase
 lb1:
