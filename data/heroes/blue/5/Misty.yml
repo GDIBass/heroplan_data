@@ -63,7 +63,7 @@ costume:
   - 'Damage over time on Special: When this character casts their Special Skill, all
     enemies receive 338 Water damage over 2 turns.'
   - 'Empowered Resist Water: This character is immune to status ailments that deal
-    Water damage and gains 5% mana each time they resist.'
+    Water damage and gains 10% mana each time they resist.'
   image: https://i.imgur.com/OGUfptj.jpg
   dtReleased: "2026-06-01"
   dtModified: "2026-11-02"
