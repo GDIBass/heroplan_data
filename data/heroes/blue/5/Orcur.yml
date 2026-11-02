@@ -11,7 +11,7 @@ health: 2268
 skill: Lunar Bloom
 effects:
 - Recovers 30% health for all allies.
-- 'Growth: All allies get 250 attack.'
+- 'Growth: All allies get 300 attack.'
 - Boosts health of all allies by 450 after 3 turns, or immediately if the effect is
   removed before the duration ends. Boosted health can exceed max HP.
 types:
@@ -27,7 +27,7 @@ passives:
   healing.'
 image: https://i.imgur.com/dgeBnW2.jpg
 dtReleased: "2025-07-02"
-dtModified: "2026-06-22"
+dtModified: "2026-11-02"
 fancy_name: Astral Dwarf Gardener
 aetherPower: damage_reduction
 lb1:

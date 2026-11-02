@@ -14,7 +14,7 @@ effects:
 - The attack chains through all the enemies who are adjacent to any hit enemy.
 - All hit targets receive +50% increased damage for 5 turns. The effect is increased
   by +10% for each Minion or Mega Minion owned by all enemies, up to +100% in total.
-- 'Wither: All enemies get -450 attack.'
+- 'Wither: All enemies get -540 attack.'
 types:
 - Hit 1
 - Chain Attack
@@ -28,7 +28,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/KNQdOYr.jpg
 dtReleased: "2025-03-27"
-dtModified: "2026-05-13"
+dtModified: "2026-11-02"
 fancy_name: Astral Dwarf Demolisher
 aetherPower: defense_up
 lb1:

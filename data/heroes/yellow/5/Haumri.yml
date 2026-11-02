@@ -15,7 +15,7 @@ effects:
   the other enemies have buffs, targets a random enemy. The damage is reduced on each
   consecutive hit. Each enemy can only be hit once.
 - Safely dispels 1 buff from all enemies. (The latest buffs are dispelled first.)
-- 'Wither: All enemies get -350 defense.'
+- 'Wither: All enemies get -420 defense.'
 types:
 - Hit 1
 - Hit Random
@@ -29,7 +29,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/VuxizwX.jpg
 dtReleased: "2025-06-04"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Astral Dwarf Augur
 aetherPower: special_boost
 lb1:

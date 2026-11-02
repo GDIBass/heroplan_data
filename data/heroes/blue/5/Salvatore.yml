@@ -14,8 +14,8 @@ effects:
   and Growth and Wither effects. Removes even status effects and stacks that are otherwise
   undispellable or uncleansable. )
 - The caster shifts into Deranged Dire Ghost form for 5 turns.
-- While in Deranged Dire Ghost form the caster automatically deal 350% damage and
-  inflict 30 Insanity on a random enemy each turn.
+- While in Deranged Dire Ghost form the caster automatically deal 420% damage and
+  inflict 35 Insanity on a random enemy each turn.
 - While in Deranged Dire Ghost form the caster and nearby allies can take damage from
   enemies whose element is stronger against them. (While in Ghost form, Character
   can't gain mana and can't be healed by Special Skills, but is immune to normal attacks,
@@ -30,7 +30,7 @@ types:
 - Insanity to allies except Self
 image: https://i.imgur.com/kk1oySX.jpg
 dtReleased: "2025-07-08"
-dtModified: "2026-03-22"
+dtModified: "2026-11-02"
 fancy_name: Twisted Medium
 aetherPower: ailment_immunity
 lb1:

@@ -14,7 +14,7 @@ effects:
   Growth and Wither effects. Removes even status effects and stacks that are otherwise
   Stubborn, undispellable or uncleansable.)
 - The caster shifts into Dire Ghost form for 4 turns.
-- While in Dire Ghost form, the caster automatically deals 175% damage against a random
+- While in Dire Ghost form, the caster automatically deals 210% damage against a random
   enemy each turn.
 - While in Dire Ghost form the caster cand take damage from enemies whose element
   is strong against the caster. (While in a Ghost form, character can't gain mana
@@ -26,7 +26,7 @@ types:
 - Dire Ghost Self
 image: https://i.imgur.com/7VLylDF.jpg
 dtReleased: "2020-02-27"
-dtModified: "2026-07-01"
+dtModified: "2026-11-02"
 fancy_name: Relentless Draugr
 aetherPower: rage
 lb1:
