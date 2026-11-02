@@ -11,7 +11,7 @@ health: 1678
 skill: Song of Hoot and Holler
 effects:
 - Attacks the target with Moonrise Strike, dealing up to 2180 damage. Deals 40% more
-  damage if the target is Holy.
+  damage if the target is Holy. This Special Skill never misses its targets.
 - The target automatically casts Shifting Mindless Attack on a random ally when mana
   is full at the start of a turn during 4 turns. When this effect is triggered, it
   shifts to the hit ally and duration is refreshed.
@@ -26,7 +26,7 @@ passives:
   the battle.'
 image: https://i.imgur.com/THCrCkN.jpg
 dtReleased: "2024-05-08"
-dtModified: "2026-06-20"
+dtModified: "2026-11-02"
 fancy_name: Minstrel of Owl Tower
 aetherPower: fiend_resist
 lb1:

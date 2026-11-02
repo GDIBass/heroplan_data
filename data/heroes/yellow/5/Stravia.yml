@@ -29,19 +29,18 @@ types:
 - Resist SS blocking All
 passives:
 - 'Nine Lives:'
-- ' * When defeated this character has 80% chance to revive at the beginning of their
-  next turn with 50% health and 80% mana.'
-- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
-  be prevented with status ailments or Passive Skills.'
+- ' * When defeated this character has 100% chance to revive at the beginning of their
+  next turn with 50% health and 40% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation.'
 - 'Trait: Lithe Frame'
 - This character is not affected by effects that increase or reduce defense.
 - 'This includes:'
-- ' * - Status effect buffs and ailments.'
-- ' * - Positive and negative stacks.'
-- ' * - Growth and Wither effects.'
+- ' * Status effect buffs and ailments.'
+- ' * Positive and negative Stacks.'
+- ' * Growth and Wither effects.'
 image: https://i.imgur.com/2oL1We2.jpg
 dtReleased: "2025-08-23"
-dtModified: "2026-08-11"
+dtModified: "2026-11-02"
 fancy_name: Messenger of the Chentari
 aetherPower: fiend_resist
 lb1:

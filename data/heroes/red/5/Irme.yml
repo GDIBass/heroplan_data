@@ -13,7 +13,7 @@ effects:
 - Deals 330% Clawing damage to all enemies. (Deals 400% damage against enemies with
   any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs,
   Minions or Mega Minions receive -35% defense for 5 turns.)
-- 'Wither: All enemies get -250 attack.'
+- 'Wither: All enemies get -300 attack.'
 - All enemies become Provoked for 4 turns. The Provoked character deals 1% damage
   to a random opponent at the end of the turn.
 - All allies get +50% attack, and a further 20% increase every time they are hit during
@@ -25,10 +25,9 @@ types:
 - Attack Buff All
 passives:
 - 'Nine Lives:'
-- ' * When defeated this character has 80% chance to revive at the beginning of their
-  next turn with 50% health and 80% mana.'
-- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
-  be prevented with status ailments or Passive Skills.'
+- ' * When defeated this character has 100% chance to revive at the beginning of their
+  next turn with 50% health and 40% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation.'
 - 'Trait: Lithe Frame'
 - This character is not affected by effects that increase or reduce defense.
 - 'This includes:'
@@ -37,7 +36,7 @@ passives:
 - ' * Growth and Wither effects.'
 image: https://i.imgur.com/jum99QN.jpg
 dtReleased: "2026-07-25"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Crimson Isle Iriomote
 aetherPower: rage
 lb1:

@@ -15,7 +15,8 @@ effects:
 - 'All hit targets receive 1500 Surge Bleed damage over 6 turns. (If a target already
   has this effect, the duration will be refreshed and the damage will be increased
   by 300. Max total damage: 3300.)'
-- 'Stack (Max: 10): Each hit increases all damage the target receives by +4%.'
+- 'Stack +2(Max: 10): Each hit increases all damage the target receives by +6%. (Cleansing
+  reduces negative stacks by 1.)'
 types:
 - Hit 1
 - Chain Hit
@@ -23,10 +24,9 @@ types:
 - Damage Increase Debuff Stack on hit
 passives:
 - 'Nine Lives:'
-- ' * When defeated this character has 80% chance to revive at the beginning of their
-  next turn with 50% health and 80% mana.'
-- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
-  be prevented with status ailments or Passive Skills.'
+- ' * When defeated this character has 100% chance to revive at the beginning of their
+  next turn with 50% health and 40% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation.'
 - 'Trait: Lithe Frame'
 - This character is not affected by effects that increase or reduce defense.
 - 'This includes:'
@@ -35,7 +35,7 @@ passives:
 - ' * Growth and Wither effects.'
 image: https://i.imgur.com/V3xE79p.jpg
 dtReleased: "2026-09-16"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: The Serval of the Zenith Shadow
 aetherPower: special_boost
 lb1:
