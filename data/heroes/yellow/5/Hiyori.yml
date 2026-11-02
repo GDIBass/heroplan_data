@@ -29,9 +29,9 @@ effects:
 - ' * For the next 3 turns, all allies receive 10% mana at the end of the turn.'
 - 'x3 Mana Charge:'
 - ' * Recovers 55% health for all allies.'
-- ' * Each defeated ally has 60% chance to get revived with 60% HP.'
+- ' * Each defeated ally has 50% chance to get revived with 60% HP.'
 - ' * Cleanses status ailments from all allies.'
-- ' * For the next 5 turns, all allies receive 15% mana at the end of the turn.'
+- ' * For the next 4 turns, all allies receive 10% mana at the end of the turn.'
 types:
 - Charge
 - Healer All

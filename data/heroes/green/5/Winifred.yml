@@ -14,7 +14,7 @@ effects:
 - The attack chains through all the enemies who are adjacent to any hit enemy and
   deals minor damage.
 - All hit targets get -54% attack for 5 turns.
-- All hit targets are immune to new status effect buffs for 5 turns.
+- All hit targets are immune to new status effect buffs until 4 buffs have been resisted.
 types:
 - Hit 1
 - Chain

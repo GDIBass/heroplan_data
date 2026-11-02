@@ -21,7 +21,7 @@ effects:
 - '* All allies regenerate 609 HP over 3 turns.'
 - '3x Mana Charge:'
 - '* Boosts health of all allies by 700. Boosted health can exceed max HP.'
-- '* Each fallen ally has 65% chance to get revived with 32% HP. (After a character
+- '* Each fallen ally has 50% chance to get revived with 32% HP. (After a character
   has been revived by a Special Skill, their HP is -50% less on each subsequent Special
   Skill revive. After a character has been revived by a Special Skill, the chance
   for them to be revived is -50% on each subsequent Special Skill revive.)'

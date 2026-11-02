@@ -502,9 +502,9 @@ classes:
       title: Talent Skill
       talentSkill:
         desc: When receiving a fatal attack, +%d%% chance to revive at the end of
-          the turn.
+          the turn. Chance to revive is reduced on each activation.
         descMaster: |-
-          When receiving a fatal attack, +%d%% chance to revive at the end of the turn. If revived, the following effects are also activated:
+          When receiving a fatal attack, +%d%% chance to revive at the end of the turn. Chance to revive is reduced on each activation. The following effects are also activated when this Talent activates:
           ** This character gets %d%% attack for 2 turns.
         talentImage: revive
         maxedTalentImage: revivemaxed
@@ -512,11 +512,12 @@ classes:
       superior:
         talentSkill:
           desc: |-
-            When receiving a fatal attack, +%d%% chance to revive at the end of the turn. If revived, the following effects are also activated:
+            When receiving a fatal attack, +%d%% chance to revive at the end of the turn. Chance to revive is reduced on each activation. The following effects are also activated when this Talent activates:
             ** This character gains %d%% mana.
           descMaster: |-
-            When receiving a fatal attack, +%d%% chance to revive at the end of the turn. If revived, the following effects are also activated:
-            ** This character gains %d%% mana. ** This character gets %d%% attack for 2 turns.
+            When receiving a fatal attack, +%d%% chance to revive at the end of the turn. Chance to revive is reduced on each activation. The following effects are also activated when this Talent activates:
+             ** This character gains %d%% mana.
+             ** This character gets %d%% attack for 2 turns.
         skill:
         - 35
         - 50

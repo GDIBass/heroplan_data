@@ -15,8 +15,8 @@ effects:
   has been revived by a Special Skill, their HP is -50% less on each subsequent Special
   Skill revive. After a character has been revived by a Special Skill, the chance
   for them to be revived is -50% on each subsequent Special Skill revive.)
-- Each Nature shield on the board increases the chance to be revived by 5%, up to
-  65% chance in total.
+- Each Nature shield on the board increases the chance to be revived by 4%, up to
+  49% chance in total.
 - All allies are immune to new status ailments for 4 turns.
 types:
 - Healer All

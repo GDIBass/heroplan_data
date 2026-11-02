@@ -88,7 +88,7 @@ costume:
   - Deals 430% damage to all enemies.
   - All enemies can't summon new Minions with Special Skill and receives 500 damage
     for each Minion they attempt to summon for 4 turns.
-  - All allies get 10% mana for each destroyed Minion. (After a character has received
+  - All allies get 5% mana for each destroyed Minion. (After a character has received
     5 direct mana additions from Special Skill during a single turn, all subsequent
     direct mana additions done by Special Skills will have reduced power on that character.)
   types:

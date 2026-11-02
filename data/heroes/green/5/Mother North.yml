@@ -46,7 +46,7 @@ costume:
   health: 2060
   skill: Hyper Porridge
   effects:
-  - Each fallen ally has a 55% chance to get revived with 20% HP. (After a character
+  - Each fallen ally has a 50% chance to get revived with 20% HP. (After a character
     has been revived by a Special Skill, their HP is -50% less on each subsequent
     Special Skill revive. After a character has been revived by a Special Skill, the
     chance for them to be revived is -50% on each subsequent Special Skill revive.)

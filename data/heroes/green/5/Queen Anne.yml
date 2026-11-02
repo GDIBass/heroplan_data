@@ -53,7 +53,7 @@ costume:
   - The caster regenerates 1692 boosted health over 6 turns. Boosted health can exceed
     max HP.
   - All allies get +65% defense for 6 turns.
-  - For the next 6 turns, all allies receive 12% mana at the end of the turn.
+  - For the next 6 turns, all allies receive 6% mana at the end of the turn.
   types:
   - Taunt
   - Boosted HoT Self

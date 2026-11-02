@@ -18,7 +18,7 @@ effects:
   Skill revive. After a character has been revived by a Special Skill, the chance
   for them to be revived is -50% on each subsequent Special Skill revive.)
 - Each Holy shield on the board increases the chance of to be revived by 5% up to
-  80% chance in total.
+  65% chance in total.
 types:
 - Hit All
 - Reviver
@@ -63,7 +63,7 @@ costume:
     Special Skill revive. After a character has been revived by a Special Skill, the
     chance for them to be revived is -50% on each subsequent Special Skill revive.)
   - Each Holy shield on the board increases the chance to be revived by 5%, up to
-    80% chance in total.
+    65% chance in total.
   - Deals extra damage against Dark.
   types:
   - Hit All

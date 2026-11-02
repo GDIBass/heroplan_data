@@ -13,7 +13,7 @@ effects:
 - Destroys all Fiends from all allies and damages all Mega Fiends.
 - Cleanses status ailments from all allies.
 - Boosts heath of all allies by 1550. Boosted health can exceed max HP.
-- 'Growth: All allies get 400 attack and 400 defense.'
+- 'Growth: All allies get 480 attack and 480 defense.'
 types:
 - Fiend Destroyer All
 - Cleanser All

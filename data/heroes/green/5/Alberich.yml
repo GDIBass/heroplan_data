@@ -89,7 +89,7 @@ costume2:
   health: 2445
   skill: Toonsummer's Dream
   effects:
-  - Each defeated ally has a 60% chance to get revived with 30% HP. (After a character
+  - Each defeated ally has a 50% chance to get revived with 30% HP. (After a character
     has been revived by a Special Skill, their HP is -50% less on each subsequent
     Special Skill revive. After a character has been revived by a Special Skill, the
     chance for them to be revived is -50% on each subsequent Special Skill revive.)

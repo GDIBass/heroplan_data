@@ -16,7 +16,7 @@ effects:
   the effect gives boosted health. Wild effects bypass most effects that would normally
   prevent them from being applied. Wild effects can be applied in addition to other
   effects of the same type.)'
-- For the next 4 turns, all allies receive 10% mana at the end of the turn.
+- For the next 4 turns, all allies receive 7% mana at the end of the turn.
 - All allies get +55% defense for 4 turns.
 types:
 - Wild
