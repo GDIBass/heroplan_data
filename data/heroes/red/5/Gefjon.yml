@@ -44,11 +44,11 @@ costume:
     Minions.
   - Deals 335% damage to the target and nearby enemies.
   types:
-  - Destroys Mega/Minions 1
+  - Destroys Mega/Minions 3
   - Hit 3
   image: https://i.imgur.com/ZoOkEJb.jpg
   dtReleased: "2022-09-26"
-  dtModified: "2026-04-07"
+  dtModified: "2026-11-02"
   fancy_name: Goddess of the Wild
   aetherPower: special_armor
   lb1:

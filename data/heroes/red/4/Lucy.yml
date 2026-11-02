@@ -16,11 +16,14 @@ effects:
 - ' * Each time the target activates their Special Skill during 3 turns, mana of all
   other enemies is reduced by -8%.'
 - '2x Mana Charge:'
-- ' * All allies get +24% mana generation for 5 turns.'
+- ' * All allies get +24% mana generation for 5 turns. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.)'
 - ' * For the next 5 turns, this character deals 115% damage to all enemies each time
   any other ally casts their Special Skill. Damage is dealt on the first Special Skill
-  cast of each character per turn.'
+  cast of each character per turn. (Each character can trigger this effect once per
+  turn.)'
 types:
+- Charge
 - Hit 1
 - Mana Reduce 4 on target SS
 - Mana Generation Buff All
@@ -29,13 +32,14 @@ passives:
 - 'Stack on Special: When this character casts their Special Skill, all enemies get
   -5% mana generation stack. If the Special Skill is fully charged, all enemies get
   two stacks. An enemy can have up to 10 stacks. (Affects only mana generated from
-  matching shields or mana gained by the defense team at the end of their turn.)'
+  matching shields or mana gained by the defense team at the end of their turn. Cleansing
+  reduces negative stacks by 1.)'
 - 'Health recovery on Special: When this character casts their Special Skill, they
   have a 50% chance to recover 15% health for all allies. If the Special Skill is
   fully charged, the chance is 100%.'
 image: https://i.imgur.com/j3M4iy4.jpg
 dtReleased: "2023-05-03"
-dtModified: "2026-07-12"
+dtModified: "2026-11-02"
 fancy_name: Mageball Prodigy
 aetherPower: attack_up
 lb1:

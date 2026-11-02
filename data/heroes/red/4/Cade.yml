@@ -11,9 +11,9 @@ health: 1281
 skill: Vengeful Mob
 effects:
 - Ransacks the target, stealing 200 health and a buff. (Safely steals one status effect
-  buff from the target. This includes Stubborn effects, undispellable buffs and Dance
-  effects. Safe stealing bypasses secondary effects, such as damage on removal, from
-  the removed buffs. Passive skills and family effects can still activate.)
+  buff from the target. This includes undispellable buffs and Dance effects. Safe
+  stealing bypasses secondary effects, such as damage on removal, from the removed
+  buffs. Passive skills and family effects can still activate.)
 - Deals 420% damage to the target.
 - The target receives 276 Burn damage over 4 turns.
 types:
@@ -21,18 +21,17 @@ types:
 - Hit 1
 - DoT 1
 passives:
-- 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
-  enemy'
-- 'Ransack:'
-- ' * Steals 100 health.'
+- 'Thief''s Opportunity: When any other ally casts a Special Skill, this character
+  Ransacks the enemy with the most buffs:'
+- ' * Steals 50 health.'
 - ' * Safely steals a buff from the enemy. This includes undispellable buffs and Dance
   effects.'
-- 'Cheat Death: The first time this character would receive fatal damage, they instead
-  redirect 50% of that damage to a random enemy. In battles with multiple waves, the
-  effect is refreshed at the beginning of each wave.'
+- 'Cheat Death: The first time this character would receive fatal damage from normal
+  attacks or Special Skills, they instead redirect up to 750 damage to the attacker.
+  Does not activate if this character is the only member of their team in battle.'
 image: https://i.imgur.com/aBjjwRs.jpg
 dtReleased: "2026-07-23"
-dtModified: "2026-09-23"
+dtModified: "2026-11-02"
 fancy_name: The Unruly Peasant
 aetherPower: attack_up
 lb1:

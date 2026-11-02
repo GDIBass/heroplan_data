@@ -15,9 +15,11 @@ effects:
 - 'Devouring Goo: Removes all dispellable buffs and Growth effects, deals 300 damage
   per turn and 100 damage per each removed effect. (If the target already has this
   effect, the duration will be refreshed and an extra damage from the removed effects
-  will be added to the new effect. Damage per turn can''t exceed 700.'
+  will be added to the new effect. Damage per turn can''t exceed 700.)'
 - After 1 turn the target and nearby enemies get Paralyzed for 4 turns. (Paralyzed
-  enemies can't attack or gain mana and receive +50% increased damage.
+  enemies can't attack or gain mana and receive +50% increased damage. Once paralyzed,
+  the effect can't be cleansed. Bosses, Titans and Mythic Titans are not affected
+  by this status effect.)
 types:
 - Hit 3
 - Devouring Goo 3
@@ -29,7 +31,7 @@ passives:
   they summon a Slime Mega Minion for themselves with 50% HP and 40% attack.'
 image: https://i.imgur.com/4w6oCQ7.jpg
 dtReleased: "2025-01-01"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Charming Theater Goo
 aetherPower: revive
 lb1:
@@ -40,6 +42,6 @@ lb1:
 lb2:
   power: 1413
   attack: 1366
-  defense: 1394
+  defense: 1393
   health: 2999
 ...

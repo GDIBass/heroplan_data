@@ -52,11 +52,11 @@ costume:
   - Summoner Self
   - Defense Buff Self
   passives:
-  - 'Frost on Minion Hit: Each hit from the Minions owned by this character inflict
+  - 'Frost on Minion Hit: Each hit from the Minions owned by this character inflicts
     244 Frost damage over 4 turns.'
   image: https://i.imgur.com/1zUQ99W.jpg
   dtReleased: "2025-12-01"
-  dtModified: "2026-06-20"
+  dtModified: "2026-11-02"
   fancy_name: Santa's Knightly Steed
   aetherPower: defense_up
   lb1:

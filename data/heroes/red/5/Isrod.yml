@@ -11,7 +11,8 @@ health: 1423
 skill: Vengeful Scythe
 effects:
 - Deals 260% damage to the target and nearby enemies.
-- The caster and nearby allies counterattack with 110% of received damage for 3 turns.
+- The caster and nearby allies counterattack with 110% of the damage received for
+  3 turns.
 - The caster and nearby allies regenerate a moderate amount of mana for each counterattack
   for 3 turns. The effect gets diminished for consecutive activations during the same
   turn.
@@ -21,7 +22,7 @@ types:
 - Mana on Counterattack
 image: https://i.imgur.com/LVoPJQp.jpg
 dtReleased: "2021-02-11"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Doomed Jarl
 aetherPower: ailment_immunity
 lb1:

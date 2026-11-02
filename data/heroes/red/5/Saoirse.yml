@@ -49,8 +49,11 @@ costume:
   effects:
   - Deals 335% damage to the target and nearby enemies.
   - The target and nearby enemies get -44% defense for 3 turns.
-  - 'Stack +3 (Max: 10): The caster gets +18% mana generation.'
-  - 'Stack +2 (Max: 10): The caster recovers 30 HP each turn.'
+  - 'Stack +3 (Max: 10): The caster gets +18% mana generation. (Affects only mana
+    generated from matching shields or mana gained by the defense team at the end
+    of their turn. Dispelling reduces positive stacks by 1.)'
+  - 'Stack +2 (Max: 10): The caster recovers 30 HP each turn. (Dispelling reduces
+    positive stacks by 1.)'
   types:
   - Hit 3
   - Defense Debuff 3
@@ -63,7 +66,7 @@ costume:
     receive 452 Bleed damage over 4 turns.'
   image: https://i.imgur.com/yHVhyhO.jpg
   dtReleased: "2024-11-14"
-  dtModified: "2026-09-07"
+  dtModified: "2026-11-02"
   fancy_name: The Vanquisher
   aetherPower: defense_up
   lb1:

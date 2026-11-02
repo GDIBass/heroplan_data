@@ -29,18 +29,17 @@ types:
 - Mana Generation Debuff on hit
 passives:
 - 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
-  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
-  mana each time they resist.'
+  that prevent the use of Special Skills. They also gain 5% mana each time they resist.'
 - 'Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.'
-- ' * The Seedling Fiend evolves into a Sprout Fiend after 2 turns.'
-- ' * The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.'
-- ' * The evolution of the Fiends is delayed by 1 turn each time they absorb healing.'
-- ' 1) Seedling Fiend: 50% attack, 20% health'
-- ' 2) Sprout Fiend: 75% attack, 30% health'
-- ' 3) Blossom Mega Fiend: 250% attack, 60% health'
+- '* The Seedling Fiend evolves into a Sprout Fiend after 3 turns.'
+- '* The Sprout Fiend evolves into a Blossom Mega Fiend after 3 turns.'
+- '* Fiends cannot evolve into Mega Fiends if there are Minions on the same hero.'
+- '1) Seedling Fiend: 50% attack, 20% health'
+- '2) Sprout Fiend: 75% attack, 25% health'
+- '3) Blossom Mega Fiend: 150% attack, 70% health.'
 image: https://i.imgur.com/VqMJ8JN.jpg
 dtReleased: "2026-10-29"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Tactical Pea-shooter
 aetherPower: dodge
 lb1:

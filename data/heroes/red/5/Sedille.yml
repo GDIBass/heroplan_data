@@ -13,7 +13,7 @@ effects:
 - Deals 450% damage to all enemies.
 - All enemies receive 785 Burn damage over 5 turns. All allies absorb 25% of dealt
   Burn damage as boosted health.
-- 'Wither: All enemies get -350 attack and -350 defense.'
+- 'Wither: All enemies get -420 attack and -420 defense.'
 types:
 - Hit All
 - DoT All
@@ -26,7 +26,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/hHTFqKf.jpg
 dtReleased: "2025-07-27"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Astral Dwarf Lightbearer
 aetherPower: defense_up
 lb1:

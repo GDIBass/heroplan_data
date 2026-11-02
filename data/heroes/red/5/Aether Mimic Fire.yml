@@ -15,7 +15,8 @@ effects:
   +33% mana. (After a character has received 5 direct mana additions from Special
   Skill during a single turn, all subsequent direct mana additions done by Special
   Skills will have reduced power on that character.)
-- Boosts all allies' health by 30% of damage dealt.
+- Boosts all allies' health by 30% of damage dealt. Boosted health can exceed max
+  HP.
 - The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status
   ailments while closed.)
 types:
@@ -34,7 +35,7 @@ passives:
 - ' * Fire Aether I'
 image: https://i.imgur.com/pU88jAN.jpg
 dtReleased: "2025-11-21"
-dtModified: "2026-08-11"
+dtModified: "2026-11-02"
 fancy_name: Starved Storage of Rods
 aetherPower: bulwark
 lb1:

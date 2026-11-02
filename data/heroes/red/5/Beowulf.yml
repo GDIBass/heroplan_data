@@ -12,8 +12,11 @@ skill: Battle Boast
 effects:
 - Deals 615% damage to the target.
 - Recovers 15% health for all allies.
-- Increases the mana of all allies by 10%.
-- 'Stack (Max 10): All allies get +25% attack.'
+- Increases the mana of all allies by 10%. (After a character has received 5 direct
+  mana additions from Special Skill during a single turn, all subsequent direct mana
+  additions done by Special Skills will have reduced power on that character.)
+- 'Stack (Max 10): All allies get +25% attack. (Dispelling reduces positive stacks
+  by 1.)'
 types:
 - Hit 1
 - Healer All
@@ -22,12 +25,12 @@ types:
 passives:
 - 'Perfect Accuracy: This character''s Special Skill never mises its target.'
 - 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
-  also gain 600 boosted health and 10% mana each time they resist.'
+  also gain 10% mana each time they resist.'
 - 'Stacking Attack On Damage Received: When this character receives damage from Special
   Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn.'
 image: https://i.imgur.com/KcWPSJ3.jpg
 dtReleased: "2025-02-13"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Sword of the Geats
 aetherPower: attack_up
 lb1:

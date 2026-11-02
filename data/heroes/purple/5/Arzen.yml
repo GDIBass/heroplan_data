@@ -17,7 +17,7 @@ effects:
   3 turns.
 types:
 - Hit 1
-- Hit Random
+- Possible Extra Hits
 - Damage on each Resisted Healing 1
 passives:
 - 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
@@ -33,7 +33,7 @@ passives:
 - ' * Wither: Each hit from a Killer Bot Minion gives its target -40 attack.'
 image: https://i.imgur.com/2G4QZv9.jpg
 dtReleased: "2026-02-11"
-dtModified: "2026-08-12"
+dtModified: "2026-11-02"
 fancy_name: Vicious Overseer Construct
 aetherPower: attack_up
 lb1:

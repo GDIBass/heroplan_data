@@ -18,12 +18,12 @@ effects:
   heroes with Minions or a Mega Minion.
 types:
 - Hit All
-- Summoner
+- Summoner All
 passives:
 - 'Decreased Healing: All enemies get -50% healing.'
 image: https://i.imgur.com/dTQNPFE.jpg
 dtReleased: "2025-05-08"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: The Fire Caller Fox
 aetherPower: ailment_immunity
 lb1:

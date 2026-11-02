@@ -57,10 +57,10 @@ costume:
   - SS Defense Buff Self
   passives:
   - 'Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict
-    Mindless Attack on a random enemy for 3 turns.'
+    Mindless Attack  for 3 turns to a random enemy.'
   image: https://i.imgur.com/q5xoHJ1.jpg
   dtReleased: "2023-10-05"
-  dtModified: "2026-06-20"
+  dtModified: "2026-11-02"
   fancy_name: Benefactor of Wonderland
   aetherPower: boosted_regen
   lb1:

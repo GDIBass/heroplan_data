@@ -15,8 +15,8 @@ effects:
   resets if the enemy is healed.
 - Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the
   caster.
-- The target hit by the Sword Guard Mega Minion recieves 456 Bleed damage over 3 turns.
-  This effect spreads on nearby enemies.
+- The target hit by the Sword Guard Mega Minion receives 456 Bleed damage over 3 turns.
+  This effect spreads to nearby enemies.
 types:
 - Hit 3
 - Defense Debuff 3
@@ -27,7 +27,7 @@ passives:
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/z5rjaIR.jpg
 dtReleased: "2024-09-29"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: The Hogmaster
 aetherPower: attack_up
 lb1:

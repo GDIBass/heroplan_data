@@ -19,15 +19,15 @@ effects:
   4 turns. This effect can't be dispelled.
 types:
 - Hit 1
-- Chance for Random Hit 1
-- Attack Buff Stack Self
+- Possible Extra Hits
+- Attack Buff Stack Self on hit
 passives:
 - 'Status effect on mana reduction: The caster gets +30% attack for 3 turns when their
   mana is reduced.'
 - 'Resist Water: This character is immune to status ailments that deal Water damage.'
 image: https://i.imgur.com/vzzuVpu.jpg
 dtReleased: "2021-05-01"
-dtModified: "2026-08-25"
+dtModified: "2026-11-02"
 fancy_name: Fist of the Sun
 aetherPower: special_boost
 lb1:

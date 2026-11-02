@@ -52,7 +52,8 @@ costume:
     team at the end of their turn.)
   - Deals extra damage against Nature.
   - Element Link gives +10% mana generation to all Fire allies for 4 turns. This effect
-    can't be dispelled.
+    can't be dispelled. (Affects only mana generated from matching shields or mana
+    gained by the defense team at the end of their turn.)
   types:
   - Dot 1
   - Mana Generation Debuff 1
@@ -61,7 +62,7 @@ costume:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/IO9WHYd.jpg
   dtReleased: "2023-05-15"
-  dtModified: "2026-08-25"
+  dtModified: "2026-11-02"
   fancy_name: Fireborn Seamstress
   aetherPower: attack_up
   lb1:
@@ -91,7 +92,8 @@ costume2:
   - The target gets -34% defense against Fire for 4 turns. This effect can't be cleansed.
   - Deals extra damage against Nature.
   - Element Link gives +10% mana generation for all Fire allies for 4 turns. This
-    effect can't be dispelled.
+    effect can't be dispelled. (Affects only mana generated from matching shields
+    or mana gained by the defense team at the end of their turn.)
   types:
   - Dot 1
   - Mana Generation Debuff 1
@@ -103,9 +105,9 @@ costume2:
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/9f4EoUg.jpg
   dtReleased: "2026-09-17"
-  dtModified: ""
-  aetherPower: dodge
+  dtModified: "2026-11-02"
   fancy_name: Fireborn Toon
+  aetherPower: dodge
   lb1:
     power: 1436
     attack: 1475

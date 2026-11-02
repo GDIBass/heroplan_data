@@ -11,20 +11,20 @@ health: 1648
 skill: Vanguard of Passion
 effects:
 - Deals 325% damage to the target and nearby enemies.
-- Caster and nearby allies recover 1000 health for 4 turns. If the effect is removed
-  before the duration ends, recovers 1300 health instead.
+- Caster and nearby allies recover 1000 health  after 4 turns. If the effect is removed
+  or replaced before the duration ends, recovers 1300 health instead.
 - The caster and nearby allies counterattack with 125% of the damage received for
   4 turns.
 types:
 - Hit 3
-- HoT 3
+- Delayed Heal 3
 - Counterattack 3
 passives:
 - 'Resist Special Skill Blocking: This character is immune to status ailments that
   prevent the use of Special Skills.'
 image: https://i.imgur.com/H1vwtsQ.jpg
 dtReleased: "2024-01-08"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Stalwart Protector of Love
 aetherPower: damage_reduction
 lb1:

@@ -12,7 +12,7 @@ skill: Mirror of Flames
 effects:
 - Deals 245% damage to the target and nearby enemies.
 - Reduces the mana of the target and nearby enemies by 20%.
-- All allies reflect all status effects and 115% damage back to the attacker  and
+- All allies reflect all status ailments and 115% damage back to the attacker  and
   block other negative effects from enemies' Ice Special Skills for 4 turns. (Status
   effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
 types:
@@ -22,7 +22,7 @@ types:
 - Elemental Counterattack All
 image: https://i.imgur.com/xMxFVwW.jpg
 dtReleased: "2018-08-01"
-dtModified: "2026-07-16"
+dtModified: "2026-11-02"
 fancy_name: Fatal Beauty
 aetherPower: special_boost
 lb1:
@@ -48,7 +48,7 @@ costume:
   - Deals 230% damage to all enemies.
   - All enemies get -34% mana generation. (Affects only mana generated from matching
     shields or mana gained by the defense team at the end of their turn.)
-  - All allies reflect all status effects and 115% damage back to the attacker and
+  - All allies reflect all status ailments and 115% damage back to the attacker and
     block other negative effects from enemies' Ice Special Skills for 4 turns. (Status
     effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
   types:
@@ -58,7 +58,7 @@ costume:
   - Elemental Counterattack All
   image: https://i.imgur.com/8AHvvyw.jpg
   dtReleased: "2023-03-06"
-  dtModified: "2026-07-16"
+  dtModified: "2026-11-02"
   fancy_name: Blazing Beauty
   aetherPower: attack_up
   lb1:
@@ -83,7 +83,7 @@ costume2:
   effects:
   - Deals 255% damage to the target and nearby enemies.
   - Reduces the mana of the target and nearby enemies by 50%.
-  - All allies reflect all status effects and 160% damage back to the attacker and
+  - All allies reflect all status ailments and 160% damage back to the attacker and
     block other negative effects from enemies' Ice Special Skills for 4 turns. (Status
     effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
   - Deals extra damage against Nature.
@@ -97,7 +97,7 @@ costume2:
     and buff dispels. Gain 5% mana on each successful resist.'
   image: https://i.imgur.com/VPsq6eb.jpg
   dtReleased: "2026-04-29"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Toon Beauty
   aetherPower: special_boost
   lb1:

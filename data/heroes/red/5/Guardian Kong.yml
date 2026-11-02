@@ -43,10 +43,10 @@ costume:
   skill: Kong Smash
   effects:
   - Deals 300% damage to all enemies.
-  - All allies reflect all status effects and 115% damage back to the attacker and
-    block other negative effects from enemies' Ice Special Skills for 4 turns. Status
-    effects cast by characters, Minions and Fiends on the same side cannot be reflected.
-  - Dispells buffs from all enemies.
+  - All allies reflect all status ailments and 115% damage back to the attacker and
+    block other negative effects from enemies' Ice Special Skills for 4 turns. (Status
+    effects cast by characters, Minions and Fiends on the same side cannot be reflected.)
+  - Dispels buffs from all enemies.
   types:
   - Hit All
   - Elemental Reflect All
@@ -54,7 +54,7 @@ costume:
   - Dispeller All
   image: https://i.imgur.com/cXwWGpL.jpg
   dtReleased: "2022-04-14"
-  dtModified: "2026-06-20"
+  dtModified: "2026-11-02"
   fancy_name: Conqueror Kong
   aetherPower: regen
   lb1:

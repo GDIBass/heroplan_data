@@ -12,13 +12,13 @@ skill: Mad Rat Mania
 effects:
 - Deals 225% damage to the target and nearby enemies.
 - The caster and nearby allies get +45% attack and a further +20% increase every time
-  they are hit during 3 turns.
+  they are hit during 3 turns, up to +145% attack.
 types:
 - Hit 3
-- Attack Buff
+- Attack Buff 3
 image: https://i.imgur.com/e258l3c.jpg
 dtReleased: "2021-02-11"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Ratman Scoundrel
 aetherPower: special_boost
 lb1:
