@@ -1,0 +1,46 @@
+---
+name: Azaghim
+source: astral
+family: astraldemons
+speed: Average
+class: Paladin
+power: 1370
+attack: 1456
+defense: 1425
+health: 2408
+skill: Scintillating Slam
+effects:
+- Deals 450% damage to the target and nearby enemies.
+- Reduces the mana of the target and nearby enemies by 35%.
+- At the end of each turn, the caster and nearby allies shoot an Astral Beam at a
+  random enemy for 4 turns.
+- Each Astral Beam deals 200% damage.
+- Each Astral Beam reduces the Max Health of the hit enemy by 200. The effect is stronger
+  against targets with boosted health. (Max health can't get lower than 30% of the
+  original max health. Any boosted health is reduced by an additional 200.)
+types:
+- Hit 3
+- Mana Reduction 3
+- Astral Beam Buff 3
+passives:
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
+- 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
+image: https://i.imgur.com/k24v5Eo.jpg
+dtReleased: "2026-11-04"
+dtModified: ""
+fancy_name: Astral Demon Mauler
+aetherPower: attack_up
+lb1:
+  power: 1467
+  attack: 1569
+  defense: 1536
+  health: 2595
+lb2:
+  power: 1661
+  attack: 1795
+  defense: 1757
+  health: 2970
+...
