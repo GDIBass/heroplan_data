@@ -11,13 +11,15 @@ health: 684
 skill: Atlantean Sword
 effects:
 - Deals 120% damage to all enemies.
-- All allies get +36% critical chance for 4 turns.
+- All allies get +36% critical chance for 4 turns. (Critical hits deal +100% more
+  damage from normal attacks. Critical Hits reduce enemies' max health. This effect
+  is stronger against boosted health.)
 types:
 - Hit All
 - Critical Chance Buff All
 image: https://i.imgur.com/4LFidrS.jpg
 dtReleased: "2018-08-01"
-dtModified: "2026-04-03"
+dtModified: "2026-11-02"
 fancy_name: Mermaid of Atlantis
 aetherPower: attack_up
 lb1:
@@ -72,17 +74,19 @@ costume2:
   skill: Atlantean Toon Sword
   effects:
   - Deals 130% damage to all enemies.
-  - All allies get +36% critical chance for 4 turns.
+  - All allies get +36% critical chance for 4 turns. (Critical hits deal +100% more
+    damage from normal attacks. Critical Hits reduce enemies' max health. This effect
+    is stronger against boosted health.)
   - Deals extra damage against Dark.
   types:
   - Hit All
   - Critical Chance Buff All
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/qL8cAYd.jpg
   dtReleased: "2026-04-29"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Toon Mermaid
   aetherPower: attack_up
   lb1:

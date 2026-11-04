@@ -11,7 +11,7 @@ health: 2397
 skill: Slash-And-Burn
 effects:
 - Deals 270% damage to all enemies.
-- 'Wither: All enemies get -200 attack and -200 defense.'
+- 'Wither: All enemies get -240 attack and -240 defense.'
 - All enemies receive 405 Burn damage over 3 turns. The caster absorbs 50% of dealt
   Burn damage as boosted health. Against Ice characters, this status effect becomes
   uncleansable and lasts 2 turns longer.
@@ -26,17 +26,17 @@ passives:
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/yEZuDAp.jpg
 dtReleased: "2026-07-13"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Maiden of Smoldering Swidden
 aetherPower: special_boost
 lb1:
-  power: 1438
+  power: 1437
   attack: 1538
-  defense: 1476
-  health: 2584
+  defense: 1475
+  health: 2583
 lb2:
   power: 1627
   attack: 1760
-  defense: 1689
+  defense: 1688
   health: 2956
 ...

@@ -18,7 +18,7 @@ types:
 passives:
 - 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
-  damage and gains 450 boosted health and 5% mana each time they resist.'
+  damage and gains 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
 - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core,
@@ -28,7 +28,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/URDTarn.jpg
 dtReleased: "2024-12-03"
-dtModified: "2026-06-08"
+dtModified: "2026-11-02"
 fancy_name: Dwarven Rage Runner
 aetherPower: attack_up
 lb1:
@@ -59,7 +59,7 @@ costume:
   passives:
   - 'Resist Stealing: This character is immune to stealing and Ransacking.'
   - 'Empowered Resist Burn: This character is immune to status ailments that deal
-    Burn damage and gains 600 boosted health and 10% mana each time they resist.'
+    Burn damage and gains 10% mana each time they resist.'
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
     is cast:'
   - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
@@ -69,7 +69,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://i.imgur.com/vPctOAj.jpg
   dtReleased: "2025-10-15"
-  dtModified: "2026-06-08"
+  dtModified: "2026-11-02"
   fancy_name: Dwarven Replenisher
   aetherPower: special_boost
   lb1:

@@ -12,13 +12,15 @@ skill: Ballad of Condemnation
 effects:
 - Deals 450% damage to target and nearby enemies.
 - The target and nearby enemies dance to Ballad of Condemnation for 3 turns.
-- '"Ballad of Condemnation"'
-- -50% mana generation.
-- -50% decrease of any healing healing received.
-- When the dance ends, the target suffers 1500 damage. (All existing status effects
-  will be removed a dance status effect is added. Dance gives immunity to new status
-  effects. New dance status effect will replace this effect. Dance effect cannot be
-  dispelled. This effect is removed when the caster is defeated.)
+- 'Ballad of Condemnation:'
+- ' * -50% mana generation.'
+- ' * -50% decrease of any healing healing received.'
+- ' * When the dance ends, the target suffers 1500 damage. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.
+  All existing status effects will be removed a dance status effect is added. Dance
+  gives immunity to new status effects. New dance status effect will replace this
+  effect. Dance effect cannot be dispelled. This effect is removed when the caster
+  is defeated.)'
 types:
 - Hit 3
 - Dance Ballad of Condemnation 3
@@ -33,12 +35,12 @@ passives:
   This effect can activate only once per turn.'
 image: https://i.imgur.com/SZzrHhg.jpg
 dtReleased: "2024-09-19"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Prima Donna
 aetherPower: regen
 lb1:
   power: 1175
-  attack: 1243
+  attack: 1242
   defense: 1087
   health: 2224
 lb2:

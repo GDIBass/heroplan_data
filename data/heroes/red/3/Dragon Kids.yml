@@ -12,7 +12,7 @@ skill: Protective Aura
 effects:
 - Boosts the caster and nearby allies' health by 400 with Spirit Aura. Spirit Aura
   safely removes status ailments before boosting health. (The health boost is reduced
-  by -40 for each removed ailment. Uncleansable ailments are also removed.)
+  by -40 for each removed ailment. Stubborn and Uncleansable ailments are also removed.)
 - Nearby allies dance the Fiery Fortune Dance for 4 turns.
 - Fiery Fortune Dance
 - ' * +30% attack.'
@@ -32,7 +32,7 @@ passives:
   Skill, boosts the health of all allies by 400. Boosted health can exceed max HP.'
 image: https://i.imgur.com/B8zoxwe.jpg
 dtReleased: "2026-02-17"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: The Next Generation of Dragon Dancers
 aetherPower: special_armor
 lb1:

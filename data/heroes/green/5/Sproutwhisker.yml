@@ -16,7 +16,7 @@ effects:
   the effect gives boosted health. Wild effects bypass most effects that would normally
   prevent them from being applied. Wild effects can be applied in addition to other
   effects of the same type.)'
-- For the next 4 turns, all allies receive 10% mana at the end of the turn.
+- For the next 4 turns, all allies receive 7% mana at the end of the turn.
 - All allies get +55% defense for 4 turns.
 types:
 - Wild
@@ -26,12 +26,15 @@ types:
 passives:
 - 'Nibble: When an ally casts their Special Skill, this character deals 200% damage
   and gives -35% defense for 3 turns to a random enemy.'
-- 'Tiny Frame: This character is not affected by effects that increase or reduce attack.
-  This includes status effect buffs and ailments, positive and negative Stacks, Growth
-  and Wither effects.'
+- 'Trait: Tiny Frame'
+- This character is not affected by effects that increase or reduce attack.
+- This includes
+- ' * Status effect buffs and ailments'
+- ' * Positive and negative Stacks.'
+- ' * Growth and Wither effects.'
 image: https://i.imgur.com/54wGetD.jpg
 dtReleased: "2026-03-18"
-dtModified: "2026-04-28"
+dtModified: "2026-11-02"
 fancy_name: The Dark-furred Cleric
 aetherPower: regen
 lb1:

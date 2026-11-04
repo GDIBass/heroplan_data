@@ -50,8 +50,9 @@ costume:
   effects:
   - Reduces the mana of all Ice enemies by 50%. Reduces the mana of all other enemies
     by 30%.
-  - All enemies become Soul Connected for 4 turns. Soul Connected enemis share received
-    damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.
+  - All enemies become Soul Connected for 4 turns. Soul Connected enemies share received
+    damage. Against Ice characters, this status effect is undispellable and lasts
+    2 turns longer.
   - All enemies get -60% defense for 4 turns. Against Ice characters, this status
     effect becomes uncleansable and lasts 2 turns longer.
   types:
@@ -63,7 +64,7 @@ costume:
     time during a battle, they recover 15% health and receive 15% mana.'
   image: https://i.imgur.com/G8Zln8R.jpg
   dtReleased: "2025-07-28"
-  dtModified: "2026-05-04"
+  dtModified: "2026-11-02"
   fancy_name: Expert Artificer
   aetherPower: regen
   lb1:

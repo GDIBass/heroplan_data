@@ -17,11 +17,11 @@ types:
 - Counterattack 3
 - Attack Buff 3
 passives:
-- 'Increase Buff Duration: Duration of the first 3 buff this hero receives from Special
-  Skills is increased by 1 turn.'
+- 'Increase Buff Duration: Duration of the first 3 buffs this character receives from
+  Special Skills is increased by 1 turn.'
 image: https://i.imgur.com/nafpwvj.jpg
 dtReleased: "2021-03-25"
-dtModified: "2026-04-20"
+dtModified: "2026-11-02"
 fancy_name: Halfling Adventurer
 aetherPower: regen
 lb1:
@@ -51,11 +51,11 @@ costume:
   - Counterattack 3
   - Attack Buff 3
   passives:
-  - 'Increase Buff Duration: Duration of the first 3 buff this hero receives from
-    Special Skills is increased by 1 turn.'
+  - 'Increase Buff Duration: Duration of the first 3 buffs this character receives
+    from Special Skills is increased by 1 turn.'
   image: https://i.imgur.com/piqOqpg.jpg
   dtReleased: "2024-05-23"
-  dtModified: "2026-04-20"
+  dtModified: "2026-11-02"
   fancy_name: Halfling Novelist
   aetherPower: damage_reduction
   lb1:

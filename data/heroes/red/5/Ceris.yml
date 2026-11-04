@@ -15,8 +15,8 @@ effects:
   who had over 50% mana before receiving any damage from this Special Skill. If none
   of the other enemies had 50% mana, targets a random enemy. The damage is reduced
   on each consecutive hit. Each enemy can only be hit once.
-- All hit enemies get silenced for 4 turns.
-- 'Wither: All enemies get -250 attack and -250 defense.'
+- All hit targets get silenced for 4 turns.
+- 'Wither: All enemies get -300 attack and -300 defense.'
 types:
 - Hit 1
 - Random Hit
@@ -30,7 +30,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/RSa7LWa.jpg
 dtReleased: "2025-04-21"
-dtModified: "2026-05-28"
+dtModified: "2026-11-02"
 fancy_name: Astral Dwarf Magus
 aetherPower: attack_up
 lb1:

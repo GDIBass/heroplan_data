@@ -16,17 +16,19 @@ effects:
 - Deals 320% damage to all enemies.
 types:
 - Ignore Dodge
-- Bypass
+- Bypass All
 - Hit All
 passives:
 - 'Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns
-  when this character receives a status ailment or a negative stack.'
+  when this character receives a status ailment or a negative stack. (Affects only
+  mana generated from matching shields or mana gained by the defense team at the end
+  of their turn.)'
 - 'Mana on Taunt: Each time an enemy receives Taunt status effect this character''s
   mana is increased by 10%.'
 - 'Ignore Taunt: This character''s Special Skill is not affected by Taunt.'
 image: https://i.imgur.com/xFLIwuu.jpg
 dtReleased: "2024-01-11"
-dtModified: "2026-08-25"
+dtModified: "2026-11-02"
 fancy_name: Jousting Champion
 aetherPower: knights_endurance
 lb1:

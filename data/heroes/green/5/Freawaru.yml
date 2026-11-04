@@ -28,12 +28,12 @@ passives:
 - 'Mana Per Enemy Buff: Gains a small amount of mana for every active status effect
   buff that the enemy team has at the start of each turn (maximum of 20 buffs).'
 - 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
-  also gain 600 boosted health and 10% mana each time they resist.'
+  also gain 10% mana each time they resist.'
 - 'Resist Buff Blocking: This character is immune to effects that would block them
   from receiving new status effect buffs.'
 image: https://i.imgur.com/J5HpBKi.jpg
 dtReleased: "2025-09-05"
-dtModified: "2026-03-23"
+dtModified: "2026-11-02"
 fancy_name: The Peace-Weaver
 aetherPower: bulwark
 lb1:

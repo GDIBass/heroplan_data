@@ -13,7 +13,7 @@ effects:
 - Destroys all Fiends from all allies and damages all Mega Fiends.
 - Cleanses status ailments from all allies.
 - Boosts heath of all allies by 1550. Boosted health can exceed max HP.
-- 'Growth: All allies get 400 attack and 400 defense.'
+- 'Growth: All allies get 480 attack and 480 defense.'
 types:
 - Fiend Destroyer All
 - Cleanser All
@@ -24,10 +24,10 @@ passives:
 - 'Damage over time on Special: When this character casts their Special Skill, all
   enemies receive 316 Water damage over 2 turns.'
 - 'Empowered Resist Water: This character is immune to status ailments that deal Water
-  damage and gains 450 boosted health and 5% mana each time they resist.'
+  damage and gains 10% mana each time they resist.'
 image: https://i.imgur.com/gSTmQnR.jpg
 dtReleased: "2026-06-01"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Bathing Owl of Grizzly Reef
 aetherPower: boosted_regen
 lb1:

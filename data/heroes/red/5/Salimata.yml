@@ -13,9 +13,9 @@ effects:
 - Dispels buffs from the target and nearby enemies.
 - Deals 375% damage to target and nearby enemies.
 - The target and nearby enemies receive Minion Wound for 3 turns.
-- 'Minion Wound: Target''s minions health is reduced by 50% and mega minions health
+- 'Minion Wound: Target''s Minions'' health is reduced by 50% and Mega Minion''s health
   is reduced by 25% each turn. (Reduction is applied to owned minions and to any received
-  minions while the effect is active. Reduction only affects minions'' current health.'
+  minions while the effect is active. Reduction only affects Minions'' current health.)'
 - The target and nearby enemies get -80% decrease for any healing received for 3 turns.
 types:
 - Dispeller 3
@@ -27,7 +27,7 @@ passives:
 - 'Quick Tempo: Dance. All Dances cast by enemies only last for 1 turn.'
 image: https://i.imgur.com/UX2vcRH.jpg
 dtReleased: "2024-12-12"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Bard of Spirit Festivals
 aetherPower: attack_up
 lb1:

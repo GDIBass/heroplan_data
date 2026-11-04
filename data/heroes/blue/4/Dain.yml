@@ -22,7 +22,7 @@ types:
 passives:
 - 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Frost: This character is immune to status ailments that deal Frost
-  damage and gains 450 boosted health and 5% mana each time they resist.'
+  damage and gains 5% mana each time they resist.'
 - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
   is cast'
 - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core,
@@ -32,7 +32,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/r2wMpaa.jpg
 dtReleased: "2025-05-16"
-dtModified: "2026-06-08"
+dtModified: "2026-11-02"
 fancy_name: Dwarven Siegemaster
 aetherPower: defense_up
 lb1:
@@ -68,7 +68,7 @@ costume:
   passives:
   - 'Resist Stealing: This character is immune to stealing and Ransacking.'
   - 'Empowered Resist Frost: This character is immune to status ailments that deal
-    Frost damage and gains 600 boosted health and 10% mana each time they resist.'
+    Frost damage and gains 10% mana each time they resist.'
   - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
     is cast'
   - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
@@ -78,7 +78,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://i.imgur.com/iyhliQ5.jpg
   dtReleased: "2026-10-16"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Dwarven Kitchenmaster
   aetherPower: bulwark
   lb1:

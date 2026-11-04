@@ -11,7 +11,8 @@ health: 1481
 skill: Fists of Atonement
 effects:
 - Deals 355% damage to the target and minor damage to nearby enemies.
-- 'Stack: (Max: 10): The target and nearby enemies get -9% defense.'
+- 'Stack: (Max: 10): The target and nearby enemies get -9% defense. (Cleansing reduces
+  negative stacks by 1.)'
 types:
 - Hit 3
 - Defense Debuff Stack 3
@@ -21,13 +22,13 @@ passives:
   be dispelled.'
 image: https://i.imgur.com/37akyr2.jpg
 dtReleased: "2022-05-12"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Exalted Gargoyle
 aetherPower: counterattack
 lb1:
   power: 897
   attack: 896
-  defense: 841
+  defense: 840
   health: 1596
 lb2:
   power: 1009

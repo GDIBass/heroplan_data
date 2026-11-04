@@ -13,7 +13,8 @@ effects:
 - Deals 450% damage to the target and all Nature enemies.
 - The attack bypasses defense buffs. (This includes counterattacks.)
 - The target and all Nature enemies receive 765 Burn damage over 3 turns.
-- 'Stack (Max: 10): The caster gets +25% attack.'
+- 'Stack (Max: 10): The caster gets +25% attack. (Dispelling reduces positive stacks
+  by 1.)'
 types:
 - Hit 1
 - Hit All Nature
@@ -23,18 +24,17 @@ types:
 - Attack Stack Self
 passives:
 - 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
-  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
-  mana each time they resist.'
+  that prevent the use of Special Skills. They also gain 5% mana each time they resist.'
 - 'Seedling Summoner: Summons a Seedling Fiend every turn to a random enemy.'
-- '* The Seedling Fiend evolves into a Sprout Fiend after 2 turns.'
-- '* The Sprout Fiend evolves into a Blossom Mega Fiend after 2 turns.'
-- '* The evolution of the Fiends is delayed by 1 turn each time they absorb healing.'
+- '* The Seedling Fiend evolves into a Sprout Fiend after 3 turns.'
+- '* The Sprout Fiend evolves into a Blossom Mega Fiend after 3 turns.'
+- '* Fiends cannot evolve into Mega Fiends if there are Minions on the same hero.'
 - '1) Seedling Fiend: 50% attack, 20% health'
-- '2) Sprout Fiend: 75% attack, 30% health'
-- '3) Blossom Mega Fiend: 250% attack, 60% health.'
+- '2) Sprout Fiend: 75% attack, 25% health'
+- '3) Blossom Mega Fiend: 150% attack, 70% health.'
 image: https://i.imgur.com/Xr8GYf8.jpg
 dtReleased: "2026-07-19"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Inferno Chili
 aetherPower: attack_up
 lb1:

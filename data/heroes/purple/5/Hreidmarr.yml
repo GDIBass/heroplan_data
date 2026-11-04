@@ -25,7 +25,7 @@ types:
 passives:
 - 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
-  damage and gains 450 boosted health and 5% mana each time they resist.'
+  damage and gains 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
 - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core,
@@ -35,7 +35,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/UInCnGF.jpg
 dtReleased: "2025-02-23"
-dtModified: "2026-06-08"
+dtModified: "2026-11-02"
 fancy_name: Dwarven Mountain King
 aetherPower: counterattack
 lb1:
@@ -62,7 +62,7 @@ costume:
     more damage if the target is of the Nature element. This Special Skill never misses
     its targets.
   - Reduces the mana of all enemies by 35%.
-  - After the Special Skill has been cast, increases the mana of the caster by 35%.
+  - After the Special Skill has been cast, increases the mana of the caster by 15%.
   - At the end of each turn, steals the latest dispellable buff from all enemies and
     distributes them randomly among allies for 5 turns.
   types:
@@ -73,7 +73,7 @@ costume:
   passives:
   - 'Resist Stealing: This character is immune to stealing and Ransacking.'
   - 'Empowered Resist Burn: This character is immune to status ailments that deal
-    Burn damage and gains 600 boosted health and 10% mana each time they resist.'
+    Burn damage and gains 10% mana each time they resist.'
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
     is cast:'
   - '* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
@@ -83,7 +83,7 @@ costume:
     exhausted when the Core is activated.'
   image: https://i.imgur.com/3FaztF9.jpg
   dtReleased: "2026-05-25"
-  dtModified: "2026-06-08"
+  dtModified: "2026-11-02"
   fancy_name: Royal Dwarven Trader
   aetherPower: boosted_regen
   lb1:

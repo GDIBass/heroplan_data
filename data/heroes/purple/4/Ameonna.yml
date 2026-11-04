@@ -14,7 +14,7 @@ effects:
   and Growth and Wither effects. Removes even status effects and stacks that are otherwise
   Stubborn, undispellable or uncleansable.)
 - The caster shifts into Ghost Form for 4 turns.
-- While in Ghost form the caster gains +82% attack. (While in Ghost form character
+- While in Ghost form the caster gains +87% attack. (While in Ghost form character
   can't gain mana and can't be healed by Special Skills, but is immune to normal attacks,
   Special Skill attacks, damage dealing passives, status effects and stacks. Immune
   to new Growth, Wither and Insanity effects.)
@@ -24,7 +24,7 @@ types:
 - Attack Buff Self while ghost
 image: https://i.imgur.com/VkDdipF.jpg
 dtReleased: "2018-08-01"
-dtModified: "2026-07-16"
+dtModified: "2026-11-02"
 fancy_name: Lone Ghost
 aetherPower: special_armor
 lb1:
@@ -54,7 +54,7 @@ costume:
     can't gain mana and can't be healed by Special Skills, but is immune to normal
     attacks, Special Skill attacks, damage dealing passives, status effects and stacks.
     Immune to new Growth, Wither effects and Insanity effects.)
-  - While in Ghost form, all allies except the caster have +44% defense.
+  - While in Ghost form, all allies except the caster have +50% defense.
   - While in Ghost form, all allies except the caster regenerate 140 HP every turn.
   types:
   - Full Removal Self
@@ -63,7 +63,7 @@ costume:
   - HoT 4 while Ghost
   image: https://i.imgur.com/VZyVFDJ.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-07-16"
+  dtModified: "2026-11-02"
   fancy_name: Lonesome Yurei
   aetherPower: defense_up
   lb1:
@@ -90,7 +90,7 @@ costume2:
     and Growth and Wither effects. Removes even status effects and stacks that are
     otherwise Stubborn, undispellable or uncleansable.)
   - The caster shifts into Ghost Form for 4 turns.
-  - While in Ghost form the caster gains +90% attack. (While in Ghost form Character
+  - While in Ghost form the caster gains +95% attack. (While in Ghost form Character
     can't gain mana and can't be healed by Special Skills, but is immune to normal
     attacks, Special Skill attacks, damage dealing passives, status effects and stacks.
     Immune to new Growth, Wither and Insanity effects.)
@@ -101,11 +101,11 @@ costume2:
   - Attack Buff Self while ghost
   - Elemental Defense Buff 4
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/ZzDvGTw.jpg
   dtReleased: "2026-06-28"
-  dtModified: "2026-07-01"
+  dtModified: "2026-11-02"
   fancy_name: Lone Toon Ghost
   aetherPower: special_armor
   lb1:

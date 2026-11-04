@@ -85,11 +85,11 @@ costume2:
   - Titan Attack Buff All
   - HoT All
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/gd2zgzQ.jpg
   dtReleased: "2026-05-23"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Toon of the Jungle
   aetherPower: counterattack
   lb1:

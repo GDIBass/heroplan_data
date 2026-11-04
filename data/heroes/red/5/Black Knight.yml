@@ -14,14 +14,14 @@ effects:
 - The caster gets Taunt that prevents enemies from using Special Skills on the caster's
   allies for 3 turns.
 - All allies get +45% attack, and a further 20% increase every time they are hit during
-  3 turns.
+  3 turns, up to +145% attack.
 types:
 - Drop Damage to 1 Buff Self
 - Taunt
 - Attack Buff All
 image: https://i.imgur.com/6so0gHz.jpg
 dtReleased: "2019-09-01"
-dtModified: "2026-06-20"
+dtModified: "2026-11-02"
 fancy_name: Terror of Avalon
 aetherPower: knights_endurance
 lb1:

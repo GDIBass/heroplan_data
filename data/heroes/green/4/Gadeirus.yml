@@ -12,14 +12,14 @@ skill: Empowering Bash
 effects:
 - Deals 165% damage to the target and minor damage to nearby enemies.
 - The caster and nearby allies get +48% attack for 4 turns.
-- The caster and nearby allies regenerate 617 HP over 4 turns.
+- The caster and nearby allies regenerate 612 HP over 4 turns.
 types:
 - Hit 3
 - Attack Buff 3
 - HoT 3
 image: https://i.imgur.com/dGtM0Hw.jpg
 dtReleased: "2018-08-01"
-dtModified: "2026-04-03"
+dtModified: "2026-11-02"
 fancy_name: Watcher of Atlantis
 aetherPower: fiend_resist
 lb1:
@@ -84,11 +84,11 @@ costume2:
   - Attack Buff 3
   - HoT 3
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/dm1dpnl.jpg
   dtReleased: "2026-04-29"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Atlantean Watcher Toon
   aetherPower: fiend_resist
   lb1:

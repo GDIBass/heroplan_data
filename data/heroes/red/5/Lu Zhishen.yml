@@ -18,7 +18,9 @@ effects:
 - Deals 340% damage to all enemies.
 - The caster get additional +40% damage power for the next Special kill they cast.
   Additional power increases +30% each turn, up to a maximum of +130% in total.
-- All allies get +40% critical chance for 4 turns.
+- All allies get +40% critical chance for 4 turns. (Critical hits deal +100% more
+  damage from normal attacks. Critical Hits reduce enemies' max health. This effect
+  is stronger against boosted health.)
 types:
 - Chance of Critical hits
 - Hit All
@@ -30,14 +32,14 @@ passives:
   This effect can activate once per turn.'
 - 'Righteous Rebellion:'
 - ' * When this character''s Special Skill hits a character that had higher current
-  HP, gain +20% boosted health.'
+  HP, gain 20% boosted health.'
 - ' * When this character is hit by the Special Skill of a character that had higher
-  current HP, gain +20% mana.'
+  current HP, gain 20% mana.'
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/7VUkIiw.jpg
 dtReleased: "2025-08-30"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Flowery Monk of Water Margin
 aetherPower: bulwark
 lb1:

@@ -12,19 +12,16 @@ skill: Grimoire Fatalis
 effects:
 - Deals 190% damage to 6 random enemies.
 - All enemies get -45% defense against Fire for 3 turns.
-- For 3 turns, the element of all enemies is changed each turn. On the first 2 turns,
-  the element is random.
-- On the last turn, enemies revert to their original element.
-- After each element change, enemies take 941 damage if their element is Nature.
+- For 3 turns, all enemies are afflicted with Elemental Flux. Their element changes
+  randomly each turn, dealing 941 damage whenever their element changes to Nature.
+  (On the last turn of the duration, the target reverts to their original element.)
 types:
 - Hit Random 6
 - Elemental Defense Debuff All
-- Element Change All
-- Damage Nature on change
+- Elemental Flux All
 passives:
 - 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
-  that prevent the use of Special Skills. They also gain 450 boosted health and 5%
-  mana each time they resist.'
+  that prevent the use of Special Skills. They also gain 5% mana each time they resist.'
 - 'Minion Core: The Construct Core of this character is Minion Core. The Minion Core
   activates each time this character''s Special Skill is cast.'
 - ' * With a fully charged Minion Core, summons a Killer Bot Minion with 25% HP and
@@ -35,7 +32,7 @@ passives:
 - ' * Wither: Each hit from a Killer Bot Minion gives its target -40 attack.'
 image: https://i.imgur.com/5rDKpV1.jpg
 dtReleased: "2026-06-07"
-dtModified: "2026-08-12"
+dtModified: "2026-11-02"
 fancy_name: Mage's Vessel Construct
 aetherPower: special_boost
 lb1:

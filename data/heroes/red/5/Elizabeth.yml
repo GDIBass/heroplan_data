@@ -16,7 +16,8 @@ effects:
 - The Spider Fiend absorbs healing and disappears when it has absorbed health equal
   to 28% of the target's max health.
 - The Spider Fiend gives -24% mana generation for its owner as long as the owner has
-  Spider Fiends. This effect cannot be cleansed.
+  Spider Fiends. This effect cannot be cleansed. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Hit All
 - Fiend Summoner All
@@ -26,7 +27,7 @@ passives:
   Skills is increased by 1 turn'
 image: https://i.imgur.com/5redygr.jpg
 dtReleased: "2021-03-25"
-dtModified: "2026-04-20"
+dtModified: "2026-11-02"
 fancy_name: Arachnid Aristocrat
 aetherPower: fiend_resist
 lb1:
@@ -55,7 +56,9 @@ costume:
   - The Spider Fiend absorbs healing. It disappears after absorbing a healing amount
     equal to 40% ot its target's max health.
   - When summoned, the Spider Fiend gives -28% mana generation for its owner for as
-    long as the owner has Spider Fiends. This effect can't be cleansed.
+    long as the owner has Spider Fiends. This effect can't be cleansed. (Affects only
+    mana generated from matching shields or mana gained by the defense team at the
+    end of their turn.)
   types:
   - Hit All
   - Fiend Summoner All
@@ -68,7 +71,7 @@ costume:
     health for 4 turns.'
   image: https://i.imgur.com/aGoeueo.jpg
   dtReleased: "2023-04-27"
-  dtModified: "2026-04-20"
+  dtModified: "2026-11-02"
   fancy_name: Bridal Aristocrat
   aetherPower: counterattack
   lb1:

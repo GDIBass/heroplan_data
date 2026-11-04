@@ -23,12 +23,15 @@ types:
 passives:
 - 'Nibble: When any other ally casts a Special Skill, this character deals 150% damage
   to a random enemy. The enemy receives -25% defense for 3 turns.'
-- 'Trait: Tiny Frame. This character is not affected by effects that increase or reduce
-  attack. This includes status effect buffs and ailments, positive and negative Stacks,
-  Growth and Wither effects.'
+- 'Trait: Tiny Frame'
+- This character is not affected by effects that increase or reduce attack.
+- This includes
+- ' * Status effect buffs and ailments'
+- ' * Positive and negative Stacks.'
+- ' * Growth and Wither effects.'
 image: https://i.imgur.com/L5glLXD.jpg
 dtReleased: "2026-10-13"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: The Stylus Wooly Mouse
 aetherPower: fiend_resist
 lb1:

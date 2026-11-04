@@ -12,7 +12,7 @@ skill: Aetheric Transmutation
 effects:
 - Changes the element of all enemies to Fire for 4 turns. (Titans and Mythic Titans
   are not affected by this status effect.)
-- Deals 300% damage to all enemies and inflicts 20 Insanity of them.
+- Deals 300% damage to all enemies.
 - The caster gets Taunt that prevents enemies from using Special Skills on the caster's
   allies for 4 turns.
 - The caster reflects all status ailments and 165% damage back to the attacker and
@@ -23,7 +23,6 @@ effects:
 types:
 - Element Change to Fire All
 - Hit All
-- Insanity All
 - Taunt
 - Elemental Reflect Self
 - Elemental Counterattack Self
@@ -40,7 +39,7 @@ passives:
   is always 100%.
 image: https://i.imgur.com/JcMgpGS.jpg
 dtReleased: "2026-07-02"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Aetheric Strategist
 aetherPower: taunt
 lb1:

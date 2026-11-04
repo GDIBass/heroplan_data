@@ -13,19 +13,25 @@ effects:
 - 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
 - 'x1 Mana Charge:'
 - ' * Recovers 15% health for all allies.'
-- ' * Each defeated ally has 30% chance to get revived with 30% HP.'
+- ' * Each defeated ally has 30% chance to get revived with 30% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)'
 - ' * For the next 2 turns, all allies receive 10% mana at the end of the turn.'
 - 'x2 Mana Charge:'
 - ' * Recovers 35% health for all allies.'
-- ' * Each defeated ally has 40% chance to get revived with 40% HP.'
+- ' * Each defeated ally has 40% chance to get revived with 40% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)'
 - ' * Cleanses 1 status ailment from all allies. (Status ailments are cleansed in
   the order they have been received. The latest status ailments are cleansed first.)'
 - ' * For the next 3 turns, all allies receive 10% mana at the end of the turn.'
 - 'x3 Mana Charge:'
 - ' * Recovers 55% health for all allies.'
-- ' * Each defeated ally has 60% chance to get revived with 60% HP.'
+- ' * Each defeated ally has 50% chance to get revived with 60% HP.'
 - ' * Cleanses status ailments from all allies.'
-- ' * For the next 5 turns, all allies receive 15% mana at the end of the turn.'
+- ' * For the next 4 turns, all allies receive 10% mana at the end of the turn.'
 types:
 - Charge
 - Healer All
@@ -41,7 +47,7 @@ passives:
 - ' * The attacker receives 1500 Bleed damage over 3 turns.'
 image: https://i.imgur.com/0N0qZAI.jpg
 dtReleased: "2026-05-03"
-dtModified: "2026-06-08"
+dtModified: "2026-11-02"
 fancy_name: Geisha of Horai-zan
 aetherPower: regen
 lb1:

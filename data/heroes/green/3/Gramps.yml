@@ -10,8 +10,11 @@ defense: 514
 health: 804
 skill: Elder's Remedy
 effects:
-- Each fallen ally has a 33% chance to get revived with 23% HP.
-- All allies receive a small ammount of mana over 4 turns.
+- Each fallen ally has a 33% chance to get revived with 23% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)
+- All allies receive a small amount of mana over 4 turns.
 types:
 - Reviver
 - MoT All
@@ -20,7 +23,7 @@ passives:
   by -20% for this character.'
 image: https://i.imgur.com/QGwMonb.jpg
 dtReleased: "2021-03-25"
-dtModified: "2026-04-20"
+dtModified: "2026-11-02"
 fancy_name: Halfling Elder
 aetherPower: bulwark
 lb1:
@@ -43,7 +46,10 @@ costume:
   health: 850
   skill: Gardener's Remedy
   effects:
-  - Each fallen ally has a 33% chance to get revived with 23% HP.
+  - Each fallen ally has a 33% chance to get revived with 23% HP. (After a character
+    has been revived by a Special Skill, their HP is -50% less on each subsequent
+    Special Skill revive. After a character has been revived by a Special Skill, the
+    chance for them to be revived is -50% on each subsequent Special Skill revive.)
   - All allies regenerate 324 HP over 4 turns.
   types:
   - Reviver
@@ -53,7 +59,7 @@ costume:
     by -20% for this character.'
   image: https://i.imgur.com/8hGBh7z.jpg
   dtReleased: "2023-11-09"
-  dtModified: "2026-04-20"
+  dtModified: "2026-11-02"
   fancy_name: Halfling Gardener
   aetherPower: regen
   lb1:

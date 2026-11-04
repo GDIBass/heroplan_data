@@ -10,7 +10,10 @@ defense: 741
 health: 1277
 skill: Midsummer's Dream
 effects:
-- Each fallen ally has a 33% chance to get revived with 23% HP.
+- Each fallen ally has a 33% chance to get revived with 23% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)
 - All allies regenerate 712 HP over 4 turns.
 - All allies regenerate a moderate amount of mana over 4 turns.
 - Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This
@@ -21,7 +24,7 @@ types:
 - MoT All
 image: https://i.imgur.com/0IebpZg.jpg
 dtReleased: "2017-10-01"
-dtModified: "2026-05-23"
+dtModified: "2026-11-02"
 fancy_name: Seelie Champion
 aetherPower: defense_up
 lb1:
@@ -44,7 +47,10 @@ costume:
   health: 1871
   skill: Midsummer's Reverie
   effects:
-  - Each fallen ally has a 38% chance to get revived with 28% HP.
+  - Each fallen ally has a 38% chance to get revived with 28% HP. (After a character
+    has been revived by a Special Skill, their HP is -50% less on each subsequent
+    Special Skill revive. After a character has been revived by a Special Skill, the
+    chance for them to be revived is -50% on each subsequent Special Skill revive.)
   - All allies regenerate 648 HP over 4 turns.
   - All allies get +38% mana generation for 4 turns. (Affects only mana generated
     from matching shields or mana gained by the defense team at the end of their turn.)
@@ -60,7 +66,7 @@ costume:
     the newest status ailment from all allies.'
   image: https://i.imgur.com/qgThGvZ.jpg
   dtReleased: "2021-10-20"
-  dtModified: "2026-08-25"
+  dtModified: "2026-11-02"
   fancy_name: Everoak Knight
   aetherPower: special_armor
   lb1:
@@ -83,11 +89,12 @@ costume2:
   health: 2445
   skill: Toonsummer's Dream
   effects:
-  - Each defeated ally has a 60% chance to get revived with 30% HP.
-  - All allies regenerate 1424 HP over 4 turns. This status effect is undispellable
-    and lasts 2 turns longer on Nature characters.
-  - For the next 4 turns, all allies receive 10% mana at the end of the turn. This
-    status effect is undispellable and lasts 2 turns longer on Nature characters.
+  - Each defeated ally has a 50% chance to get revived with 30% HP. (After a character
+    has been revived by a Special Skill, their HP is -50% less on each subsequent
+    Special Skill revive. After a character has been revived by a Special Skill, the
+    chance for them to be revived is -50% on each subsequent Special Skill revive.)
+  - All allies regenerate 1424 HP over 4 turns.
+  - For the next 4 turns, all allies receive 5% mana at the end of the turn.
   - Element Link gives all Nature allies +15% attack and +15% defense for 6 turns.
     This effect can't be dispelled.
   types:
@@ -95,13 +102,13 @@ costume2:
   - HoT All
   - MoT All
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   - 'Cleanse on Special Skill: When this character casts their Special Skill, they
     cleanse the newest status ailment from all allies.'
   image: https://i.imgur.com/I5pyCJU.jpg
   dtReleased: "2026-07-20"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Seelie Toon
   aetherPower: defense_up
   lb1:

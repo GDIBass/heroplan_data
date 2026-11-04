@@ -25,12 +25,12 @@ types:
 - HoT All
 passives:
 - 'Empowered Resist Mana Reduction: This character is immune to mana reductions. They
-  also gain 600 boosted health and 10% mana each time they resist.'
+  also gain  10% mana each time they resist.'
 - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
   a status ailment or a negative stack.'
 image: https://i.imgur.com/b8raA4w.jpg
 dtReleased: "2025-02-13"
-dtModified: "2026-08-11"
+dtModified: "2026-11-02"
 fancy_name: Sage of the Scyldings
 aetherPower: defense_up
 lb1:

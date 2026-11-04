@@ -11,8 +11,9 @@ health: 2177
 skill: Forceful Advance
 effects:
 - Deals 260% damage to all enemies.
-- 'Stack (Max: 10): All damage all enemies recieve is increased by +7%.'
-- All allies gain 10% mana after 2 turns, or immediatelly if the effect is removed
+- 'Stack (Max: 10): All damage all enemies recieve is increased by +7%. (Cleansing
+  reduces negative stacks by 1.)'
+- All allies gain 10% mana after 2 turns, or immediately if the effect is removed
   before the duration ends.
 types:
 - Hit All
@@ -26,7 +27,7 @@ passives:
   Wither effects that affect attack.'
 image: https://i.imgur.com/52hX4ns.jpg
 dtReleased: "2024-10-23"
-dtModified: "2026-04-02"
+dtModified: "2026-11-02"
 fancy_name: Fearsome Faun Warrior
 aetherPower: special_boost
 lb1:

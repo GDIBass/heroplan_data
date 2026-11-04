@@ -14,10 +14,10 @@ effects:
 - The enemy with the highest base defense gets -44% defense for 4 turns.
 types:
 - Hit 1
-- Defense Debuff
+- Defense Debuff 1
 image: https://i.imgur.com/B0oW04d.jpg
 dtReleased: "2021-06-10"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Boastful Bodybuilder
 aetherPower: counterattack
 lb1:

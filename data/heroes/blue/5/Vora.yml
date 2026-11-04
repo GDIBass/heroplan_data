@@ -14,7 +14,7 @@ effects:
   each removed buffs. (After a character has received 5 direct mana additions from
   Special Skills during a single turn, all subsequent direct mana additions done by
   Special Skills will have reduced power on that character.)
-- Safely cleanse all Status ailments from all allies, and increases all allies' mana
+- Safely cleanse all status ailments from all allies, and increases all allies' mana
   by 5% for each cleansed ailment. (After a character has received 5 direct mana additions
   from Special Skills during a single turn, all subsequent direct mana additions done
   by Special Skills will have reduced power on that character.)
@@ -28,10 +28,9 @@ types:
 - Mana Reduction All
 passives:
 - 'Nine Lives:'
-- ' * When defeated, this character has 80% chance to revive at the beginning of their
-  next turn with 50% health and 80% mana.'
-- ' * Activates up to 9 times. Chance to revive is reduced on each activation. Can''t
-  be prevented with status ailments or Passive Skills.'
+- ' * When defeated this character has 100% chance to revive at the beginning of their
+  next turn with 50% health and 40% mana.'
+- ' * Activates up to 9 times. Chance to revive is reduced on each activation.'
 - 'Trait: Lithe Frame'
 - This character is not affected by effects that increase or reduce defense.
 - 'This includes:'
@@ -40,7 +39,7 @@ passives:
 - ' * Growth and Wither effects.'
 image: https://i.imgur.com/WfGwtZQ.jpg
 dtReleased: "2026-08-16"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Elder Lynx of the Whispering Peaks
 aetherPower: regen
 lb1:

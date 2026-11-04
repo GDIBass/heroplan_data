@@ -12,14 +12,14 @@ skill: Triple Stab
 effects:
 - Deals 435% damage to the target.
 - The target receives 628 Toxin damage over 4 turns. Damage is increased against targets
-  with boosted health, Minions or a Mega Minion. The Toxin damage is increased by
+  with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by
   +100% against targets with boosted health. The Toxin damage is increased by +33%
   per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)
 - Deals 435% damage to the enemies on the edges of the enemy formation. If there is
   only one enemy, the damage is doubled.
 - The enemies on the edges of the enemy formation fall into Deep Sleep and receives
   +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain
-  mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This
+  mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This
   effect is uncleasable.)
 types:
 - Hit 1
@@ -31,7 +31,7 @@ passives:
   deal damage.'
 image: https://i.imgur.com/MrSTdbc.jpg
 dtReleased: "2025-09-11"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: The Daremoth
 aetherPower: attack_up
 lb1:

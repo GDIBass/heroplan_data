@@ -12,7 +12,7 @@ skill: Astral Pastries
 effects:
 - Boosts health for the caster and nearby allies by 350. Boosted health can exceed
   max HP.
-- 'Growth: the caster and nearby allies get 50 attack and 50 defense.'
+- 'Growth: the caster and nearby allies get 60 attack and 60 defense.'
 types:
 - Boosted Healer 3
 - Attack Growth 3
@@ -25,7 +25,7 @@ passives:
   are destroyed from them. This effect deals damage to Mega Fiends.'
 image: https://i.imgur.com/AIJJV87.jpg
 dtReleased: "2025-06-04"
-dtModified: "2026-06-22"
+dtModified: "2026-11-02"
 fancy_name: Astral Dwarf Sweet Tooth
 aetherPower: boosted_regen
 lb1:

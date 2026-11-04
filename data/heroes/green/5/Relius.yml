@@ -11,8 +11,11 @@ health: 1695
 skill: Mixed Green Herbs
 effects:
 - Recovers 30% health for all allies.
-- Each defeated ally has a 40% chance to get revived with 30% HP.
-- All allies a get Moonrise Ward for 4 turns, that reduces incoming Special Skill
+- Each defeated ally has a 40% chance to get revived with 30% HP.  (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)
+- All allies get a get Moonrise Ward for 4 turns, that reduces incoming Special Skill
   damage by -800. Reduces by additional 30% when attacker is Holy.
 types:
 - Healer All
@@ -24,7 +27,7 @@ passives:
   the battle.'
 image: https://i.imgur.com/6ngbYLA.jpg
 dtReleased: "2023-12-20"
-dtModified: "2026-05-13"
+dtModified: "2026-11-02"
 fancy_name: Herbalist of Owl Tower
 aetherPower: regen
 lb1:

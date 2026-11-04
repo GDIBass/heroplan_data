@@ -54,7 +54,9 @@ costume:
     Minions.
   - Deals 245% damage to the target and nearby enemies.
   - All allies recover 12% health for each destroyed Minion.
-  - All allies get 3% mana for each destroyed Minion.
+  - All allies get 3% mana for each destroyed Minion. (After a character has received
+    5 direct mana additions from Special Skill during a single turn, all subsequent
+    direct mana additions done by Special Skills will have reduced power on that character.)
   - The attack bypasses defensive buffs. (This includes counterattacks.)
   types:
   - Minion Destroyer 3
@@ -66,7 +68,7 @@ costume:
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/ed8i62p.jpg
   dtReleased: "2024-09-23"
-  dtModified: "2026-06-20"
+  dtModified: "2026-11-02"
   fancy_name: Vampire Kingpin
   aetherPower: revive
   lb1:

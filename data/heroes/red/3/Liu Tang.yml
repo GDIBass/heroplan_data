@@ -12,14 +12,14 @@ skill: Rough and Tumble
 effects:
 - This Special Skill has a chance to deal Critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
-  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
-  reduces enemies' max health on PVP battles. This effect is stronger against boosted
-  health.)
+  The chance is always at least 1%. Critical hits caused by this Special Skill deal
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 265% damage to the target and minor damage to nearby enemies.
 - The caster gets Taunt that prevents enemies from using Special Skills on the caster's
   allies for 5 turns.
 types:
-- Chance of Critical hits
+- Chance for Critical hits
 - Hit 3
 - Taunt
 passives:
@@ -28,14 +28,14 @@ passives:
   all allies. This effect can activate once per turn.'
 - 'Righteous Rebellion:'
 - ' * When this character''s Special Skill hits a character that had higher current
-  HP, gain +20% boosted health.'
+  HP, gain 20% boosted health.'
 - ' * When this character is hit by the Special Skill of a character that had higher
-  current HP, gain +20% mana.'
+  current HP, gain 20% mana.'
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/7kDzUpm.jpg
 dtReleased: "2025-05-22"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Red-Haired Devil of Water Margin
 aetherPower: taunt
 lb1:

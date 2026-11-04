@@ -15,7 +15,10 @@ effects:
 - ' * Deals 250% damage to all enemies. Each hit has 60% accuracy.'
 - ' * All hit enemies receive 92 Poison damage over 2 turns.'
 - '2x Mana Charge:'
-- ' * Each fallen ally has a 44% chance to get revived with 40% HP.'
+- ' * Each fallen ally has a 44% chance to get revived with 40% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)'
 - ' * All allies regenerate 405 HP over 5 turns'
 types:
 - Charge
@@ -29,7 +32,7 @@ passives:
   fully charged, the chance is 100%.'
 image: https://i.imgur.com/P0bT6Vn.jpg
 dtReleased: "2021-09-15"
-dtModified: "2026-07-12"
+dtModified: "2026-11-02"
 fancy_name: Young Scholar
 aetherPower: defense_up
 lb1:

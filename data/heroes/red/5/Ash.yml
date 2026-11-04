@@ -11,10 +11,10 @@ health: 1835
 skill: Ruby Rush
 effects:
 - Deals 150% damage to 9 random enemies.
-- Damage is increased by 5% per each Fire shield on the board, up to +200% damage
-  per hit.
+- Damage is increased by 5% per each Fire shield on the board, up to 200% damage per
+  hit.
 - All hit targets get -35% defense against Fire and a further -5% decrease every time
-  they are hit during 4 turns.
+  they are hit during 4 turns, down to -60% defense.
 types:
 - Hit Random 9
 - Elemental Defense Debuff on hit
@@ -28,7 +28,7 @@ passives:
 - ' * Received damage: -10%'
 image: https://i.imgur.com/Vb0jBsm.jpg
 dtReleased: "2024-07-14"
-dtModified: "2026-08-11"
+dtModified: "2026-11-02"
 fancy_name: Fierce Bounty Hunter
 aetherPower: special_boost
 lb1:

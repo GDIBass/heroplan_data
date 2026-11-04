@@ -13,9 +13,9 @@ effects:
 - This Special Skill never misses its targets.
 - Ransacks all enemies, stealing 400 health and a buff from each, and randomly distributes
   stolen buffs on allies. (Safely steals one status effect buff from the target. This
-  includes Stubborn effects, undispellable buffs and Dance effects. Safe stealing
-  bypasses secondary effects, such as damage on removal, from the removed buffs. Passive
-  skills and family effects can still activate.)
+  includes undispellable buffs and Dance effects. Safe stealing bypasses secondary
+  effects, such as damage on removal, from the removed buffs. Passive skills and family
+  effects can still activate.)
 - Deals 400% damage to all enemies.
 - The damage is increased by 75% per each defeated enemy.
 - All enemies fall asleep and receive +60 increased damage while in sleeping. (A sleeping
@@ -27,17 +27,17 @@ types:
 - Hit All
 - Sleep All
 passives:
-- 'Thief''s Opportunity: At the start of each turn this character Ransacks a random
-  enemy:'
+- 'Thief''s Opportunity: When any other ally casts a Special Skill, this character
+  Ransacks the enemy with the most buffs:'
 - ' * Steals 100 health.'
 - ' * Safely steals a buff from the enemy. This includes undispellable buffs and Dance
   effects.'
-- 'Cheat Death: The first time this character would receive fatal damage, they instead
-  redirect that damage to a random enemy. In battles with multiple waves, the effect
-  is refreshed at the beginning of each wave.'
+- 'Cheat Death: The first time this character would receive fatal damage from normal
+  attacks or Special Skills, they instead redirect up to 2500 damage to the attacker.
+  Does not activate if this character is the only member of their team in battle.'
 image: https://i.imgur.com/bc3QqCW.jpg
 dtReleased: "2026-07-23"
-dtModified: "2026-09-23"
+dtModified: "2026-11-02"
 fancy_name: Fatal Seducer
 aetherPower: damage_reduction
 lb1:

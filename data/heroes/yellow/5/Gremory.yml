@@ -11,8 +11,11 @@ health: 2428
 skill: Power of Shattered Moons
 effects:
 - Deals 400% damage to all enemies.
-- The damage is increased by 60% per each defeated enemy.
-- Each defeated ally has a 50% chance to get revived with 30% HP.
+- The damage is increased by 75% per each defeated enemy.
+- Each defeated ally has a 50% chance to get revived with 30% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)
 - Deals extra damage against Dark.
 types:
 - Hit All
@@ -25,7 +28,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/6vGTTfL.jpg
 dtReleased: "2026-10-08"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Astral Demon Psychopomp
 aetherPower: bulwark
 lb1:

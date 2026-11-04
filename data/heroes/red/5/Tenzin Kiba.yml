@@ -19,12 +19,14 @@ effects:
 - 'x2 Mana Charge:'
 - Deals 350% damage to all enemies.
 - The attack bypasses counterattacks and reflection.
-- The caster has a 50% chance to drop any received damage to 1 from 3 turns.
+- The caster has a 50% chance to drop any received damage to 1 for 3 turns.
 - The caster gets Taunt that prevents enemies from using Special Skill on the caster's
   allies for 3 turns.
 - 'x3 Mana Charge:'
 - Deals 500% damage to all enemies.
-- The caster has a 50% chance to drop any received damage to 1 from 5 turns.
+- The attack bypasses counterattacks and reflection.
+- The caster has a 50% chance to drop any received damage to 1 for 5 turns. This effect
+  can't be dispelled.
 - The caster gets Taunt that prevents enemies from using Special Skill on the caster's
   allies for 5 turns. This effect can't be dispelled.
 types:
@@ -42,7 +44,7 @@ passives:
 - ' * The attacker receives 1500 Bleed damage over 3 turns.'
 image: https://i.imgur.com/741snSl.jpg
 dtReleased: "2026-07-27"
-dtModified: ""
+dtModified: "2026-11-02"
 fancy_name: Intimidator Ronin
 aetherPower: taunt
 lb1:

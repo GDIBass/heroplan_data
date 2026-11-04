@@ -82,11 +82,11 @@ costume2:
   - Hit 3
   - Weaker Defense 3
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   image: https://i.imgur.com/fVZ8XqN.jpg
   dtReleased: "2026-04-29"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Weavers of Toon Destiny
   aetherPower: special_boost
   lb1:

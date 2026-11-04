@@ -14,7 +14,7 @@ effects:
 - Summons an Elf Minion for the caster with 10% HP and 10% attack inherited from the
   caster.
 - All damage the target and nearby enemies receive is increased by +24% and a further
-  +2% increase per each Fire shield on the board for 4 turns, up to +40% increased
+  +2% increase per each Fire shield on the board for 4 turns, up to +40% received
   damage.
 types:
 - Hit 3
@@ -22,7 +22,7 @@ types:
 - Increased Received Damage Debuff 3
 image: https://i.imgur.com/LgUJQa9.jpg
 dtReleased: "2022-12-01"
-dtModified: "2026-05-04"
+dtModified: "2026-11-02"
 fancy_name: Grumpy Garden Gnome
 aetherPower: dodge
 lb1:

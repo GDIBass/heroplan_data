@@ -10,13 +10,14 @@ defense: 626
 health: 1423
 skill: Channel Ki
 effects:
-- 1x Mana Charge
+- 'Special Skill has a different effect when charged with 100%/200%/300% mana:'
+- '1x Mana Charge:'
 - ' * The caster regenerates 411 HP over 3 turns.'
 - ' * Cleanses status ailments from the caster.'
-- 2x Mana Charge
+- '2x Mana Charge:'
 - ' * The caster and nearby allies regenerate 549 HP over 3 turns.'
 - ' * Cleanses status ailments from the caster and nearby allies.'
-- 3x Mana Charge
+- '3x Mana Charge:'
 - ' * All allies regenerate 714 HP over 3 turns.'
 - ' * Cleanses status ailments from all allies.'
 types:
@@ -27,7 +28,7 @@ passives:
 - 'Weaker Minions: Enemy Minions have -50% HP.'
 image: https://i.imgur.com/MtPyEOT.jpg
 dtReleased: "2020-10-13"
-dtModified: "2026-06-08"
+dtModified: "2026-11-02"
 fancy_name: Ninja of Flying Vigor
 aetherPower: damage_reduction
 lb1:

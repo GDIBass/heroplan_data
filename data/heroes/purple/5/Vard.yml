@@ -11,7 +11,7 @@ health: 1946
 skill: Power of the Void
 effects:
 - Deals 470% damage to all enemies.
-- 'Wither: All enemies get -350 attack and -350 defense.'
+- 'Wither: All enemies get -420 attack and -420 defense.'
 - All enemies get -35% mana generation for 5 turns. (Affects only mana generated from
   matching shields or mana gained by the defense team at the end of their turn.)
 types:
@@ -26,7 +26,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/pddigSQ.jpg
 dtReleased: "2025-01-30"
-dtModified: "2026-07-01"
+dtModified: "2026-11-02"
 fancy_name: Astral Dwarf Grand Master
 aetherPower: bulwark
 lb1:

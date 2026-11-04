@@ -23,7 +23,7 @@ types:
 passives:
 - 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Frost: This character is immune to status ailments that deal Frost
-  damage and gains 450 boosted health and 5% mana each time they resist.'
+  damage and gains 5% mana each time they resist.'
 - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
   is cast'
 - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core,
@@ -33,7 +33,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/Mit6blW.jpg
 dtReleased: "2025-08-06"
-dtModified: "2026-07-14"
+dtModified: "2026-11-02"
 fancy_name: Dwarven Storyteller
 aetherPower: fiend_resist
 lb1:
@@ -71,7 +71,7 @@ costume:
   passives:
   - 'Resist Stealing: This character is immune to stealing and Ransacking.'
   - 'Empowered Resist Frost: This character is immune to status ailments that deal
-    Frost damage and gains 600 boosted health and 10% mana each time they resist.'
+    Frost damage and gains 10% mana each time they resist.'
   - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
     is cast'
   - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
@@ -81,7 +81,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://i.imgur.com/CUNImtp.jpg
   dtReleased: "2026-08-29"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Dwarven Powdermaster
   aetherPower: regen
   lb1:

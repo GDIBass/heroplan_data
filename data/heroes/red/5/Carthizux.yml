@@ -11,7 +11,7 @@ health: 2288
 skill: Astral Madness Unleashed
 effects:
 - Deals 410% damage to the target.
-- Has a 75% chance for additional hits on random enemies up to 4 times. Additional
+- Has a 80% chance for additional hits on random enemies up to 4 times. Additional
   hits deal minor damage.
 - Hit enemies receive Resonance for 3 turns. Each turn, Resonance deals 284 damage
   to the afflicted enemies and 142 damage to nearby enemies.
@@ -19,20 +19,18 @@ effects:
   gets removed if the caster is defeated.
 types:
 - Hit 1
-- Chance to Hit random 4
-- Resonance Damage on hit
+- Possible Extra Hits
+- Resonance Damage 3 on hit
 - Steal Mana on hit
 passives:
 - 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
   family bonuses and status effects by -80%. The effect applies to all enemies in
   the battle.'
-- 'Resist Negative Mana Effects: This character is immune to mana reductions, as well
-  as status ailments and negative stacks that affect mana generation. Applies also
-  to effects and status ailments that block or steal mana.'
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/4BpHVXP.jpg
 dtReleased: "2026-04-05"
-dtModified: "2026-05-13"
+dtModified: "2026-11-02"
 fancy_name: Astral Demon Maniac
 aetherPower: rage
 lb1:

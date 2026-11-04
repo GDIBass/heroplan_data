@@ -10,12 +10,16 @@ defense: 1209
 health: 2274
 skill: Self-preservation
 effects:
-- Safely cleanses all status ailments from the caster.
+- Safely cleanses all status ailments from the caster.(Safe cleanse bypasses secondary
+  effects, such as damage on removal, from the remove status ailment. External effects
+  such as passive skills and family effects can still activate.)
 - Attacks the target with Frostfall Strike, dealing up to 3000 damage. Deals 40% more
   if the target is of the Fire element. This Special Skill never misses its targets.
-- 'Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated
-  from matching shields or mana gained by the defense team at the end of their turn.)'
-- 'Stack (Max: 10): All allies get +20% defense.'
+- 'Stack (Max: 10): All allies get +8% mana generation. (Affects only mana generated
+  from matching shields or mana gained by the defense team at the end of their turn.
+  Dispelling reduces positive stacks by 1.)'
+- 'Stack (Max: 10): All allies get +32% defense. (Dispelling reduces positive stacks
+  by 1.)'
 types:
 - Safely Clean Self
 - Frostfall Strike 1
@@ -24,7 +28,7 @@ types:
 passives:
 - 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Frost: This character is immune to status ailments that deal Frost
-  damage and gains 450 boosted health and 5% mana each time they resist.'
+  damage and gains 5% mana each time they resist.'
 - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
   is cast'
 - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core,
@@ -34,7 +38,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/TXnhxAk.jpg
 dtReleased: "2025-07-11"
-dtModified: "2026-07-01"
+dtModified: "2026-11-02"
 fancy_name: Dwarven Survivalist
 aetherPower: regen
 lb1:
@@ -64,8 +68,10 @@ costume:
     more damage if the target is of the Fire element. This Special Skill never misses
     its targets.
   - 'Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated
-    from matching shields or mana gained by the defense team at the end of their turn.)'
-  - 'Stack (Max: 10): All damage all allies receive is reduced by -5%.'
+    from matching shields or mana gained by the defense team at the end of their turn.
+    Dispelling reduces positive stacks by 1.)'
+  - 'Stack (Max: 10): All damage all allies receive is reduced by -5%. (Dispelling
+    reduces positive stacks by 1.)'
   types:
   - Safely Clean Self
   - Frostfall Strike 1
@@ -74,7 +80,7 @@ costume:
   passives:
   - 'Resist Stealing: This character is immune to stealing and Ransacking.'
   - 'Empowered Resist Frost: This character is immune to status ailments that deal
-    Frost damage and gains 450 boosted health and 5% mana each time they resist.'
+    Frost damage and gains 5% mana each time they resist.'
   - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
     is cast'
   - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
@@ -84,7 +90,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://i.imgur.com/lE76Jw7.jpg
   dtReleased: "2026-09-22"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Dwarven Ice Skating Master
   aetherPower: boosted_regen
   lb1:

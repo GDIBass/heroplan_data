@@ -25,10 +25,10 @@ passives:
 - ' * Damage increased for Special Skills 35%.'
 - ' * Damage increased for Minions and Mega Minions 60%.'
 - 'Empowered Resist Water: This character is immune to status ailments that deal Water
-  damage and gains 450 boosted health and 5% mana each time they resist.'
+  damage and gains 10% mana each time they resist.'
 image: https://i.imgur.com/lKB3QGC.jpg
 dtReleased: "2026-06-01"
-dtModified: "2026-07-21"
+dtModified: "2026-11-02"
 fancy_name: The Mysterious Masked Shark
 aetherPower: regen
 lb1:

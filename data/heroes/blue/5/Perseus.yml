@@ -98,13 +98,13 @@ costume2:
   - Healing Debuff 1
   - Elemental Defense Debuff All
   passives:
-  - 'Empowered Toon: 75% extra chance to resist all status ailments, mana reductions
-    and buff dispels. Gain 5% mana on each successful resist.'
+  - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
+    dispels.'
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/3UqNRwD.jpg
   dtReleased: "2026-08-21"
-  dtModified: "2026-08-25"
+  dtModified: "2026-11-02"
   fancy_name: Son of Toon Zeus
   aetherPower: attack_up
   lb1:

@@ -11,9 +11,11 @@ health: 823
 skill: Swooping Support
 effects:
 - The caster and nearby allies regenerate 429 HP over 3 turns.
-- The caster and nearby allies get +45% chance to dodge attacks and Special skills
+- The caster and nearby allies get +45% chance to dodge attacks and Special Skills
   for 3 turns.
-- The caster and nearby allies get +45% critical chance for 3 turns.
+- The caster and nearby allies get +45% critical chance for 3 turns.  (Critical hits
+  deal +100% more damage from normal attacks. Critical Hits reduce enemies' max health.
+  This effect is stronger against boosted health.)
 types:
 - HoT 3
 - Dodge Chance 3
@@ -28,7 +30,7 @@ passives:
   when the Core is activated.'
 image: https://i.imgur.com/OFz97hb.jpg
 dtReleased: "2024-04-25"
-dtModified: "2026-06-07"
+dtModified: "2026-11-02"
 fancy_name: Owl Construct
 aetherPower: ailment_immunity
 lb1:

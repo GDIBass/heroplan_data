@@ -12,8 +12,10 @@ skill: Planar-time-widget
 effects:
 - Rearranges the enemy positions randomly.
 - Deals 215% damage to all enemies.
-- Increases the duration of all enemies' active status ailments by 1 turn.
-- All enemies get -20% mana generation for 2 turns.
+- Increases the duration of all enemies' active status ailments by 1 turn. (The duration
+  modification affects cleansable, Stubborn and uncleansable effects.)
+- All enemies get -20% mana generation for 2 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Reposition
 - Hit All
@@ -27,7 +29,7 @@ passives:
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/OSAvxSD.jpg
 dtReleased: "2025-02-28"
-dtModified: "2026-05-13"
+dtModified: "2026-11-02"
 fancy_name: Astral Dwarf Tinkerer
 aetherPower: special_boost
 lb1:

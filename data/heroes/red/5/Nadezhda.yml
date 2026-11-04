@@ -17,7 +17,10 @@ effects:
   of their next turn with 32% health. All status effects and stacks are removed when
   the caster dies.'
 - '2x Mana Charge:'
-- ' * Each defeated ally has a 50% chance to get revived with 40% HP.'
+- ' * Each defeated ally has a 50% chance to get revived with 40% HP. (After a character
+  has been revived by a Special Skill, their HP is -50% less on each subsequent Special
+  Skill revive. After a character has been revived by a Special Skill, the chance
+  for them to be revived is -50% on each subsequent Special Skill revive.)'
 - ' * All allies regenerate 714 HP over 3 turns.'
 - ' * All allies reduce all received damage by -50% for 3 turns.'
 types:
@@ -33,7 +36,7 @@ passives:
   fully charged, the chance is 100%.'
 image: https://i.imgur.com/i5g8Fr0.jpg
 dtReleased: "2021-09-15"
-dtModified: "2026-05-04"
+dtModified: "2026-11-02"
 fancy_name: Tower Headmaster
 aetherPower: defense_up
 lb1:
@@ -64,7 +67,10 @@ costume:
     the beginning of their next turn with 40% health. All status effects and stack
     are removed when the caster is defeated.'
   - '2x Mana Charge:'
-  - ' * Each defeated ally has a 55% chance to get revived with 44% HP.'
+  - ' * Each defeated ally has a 55% chance to get revived with 50% HP. (After a character
+    has been revived by a Special Skill, their HP is -50% less on each subsequent
+    Special Skill revive. After a character has been revived by a Special Skill, the
+    chance for them to be revived is -50% on each subsequent Special Skill revive.)'
   - ' * All allies regenerate 795 boosted health over 3 turns. Boosted health can
     exceed max HP.'
   - ' * All allies reduce all received damage by -60% for 3 turns.'
@@ -82,7 +88,7 @@ costume:
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://i.imgur.com/bdS7gtT.jpg
   dtReleased: "2025-07-05"
-  dtModified: "2026-05-04"
+  dtModified: "2026-11-02"
   fancy_name: Tower Postmaster
   aetherPower: special_armor
   lb1:

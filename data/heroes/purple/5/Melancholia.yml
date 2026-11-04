@@ -10,7 +10,8 @@ defense: 1155
 health: 2136
 skill: Grim Awakening
 effects:
-- Revives all allies with 70% HP and 50 Insanity.
+- Revives all allies with 70% HP and 50 Insanity. (After a character has been revived
+  by a Special Skill, their HP is -50% less on each subsequent Special Skill revive.)
 - All allies get +74% defense against Special Skills for 5 turns.
 - If any ally except the caster is defeated in 5 turns, all enemies receive 400 damage.
 - Casting this Special Skill inflicts 50 Insanity on the caster.
@@ -24,7 +25,7 @@ passives:
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/okcHBcF.jpg
 dtReleased: "2024-05-01"
-dtModified: "2026-03-22"
+dtModified: "2026-11-02"
 fancy_name: Acolyte of the Old Ones
 aetherPower: ailment_immunity
 lb1:

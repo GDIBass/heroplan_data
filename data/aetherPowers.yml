@@ -5,8 +5,8 @@ ailment_immunity:
   imageImgur: https://i.imgur.com/yao2wuI.png
   description: Ailment Immunity
   descriptionLong:
-    - At the start of each battle, this Hero is immune to new status ailments for 6
-      turns.
+    - At the start of each battle, this Hero is immune to new status ailments. This
+      effect lasts until 1 ailment has been resisted.
     - In battles with multiple waves, the effect is refreshed at the beginning of each
       wave.
 ailment_reflect:
@@ -172,8 +172,8 @@ special_armor:
   imageImgur: https://i.imgur.com/UsOYAKk.png
   description: Special Armor
   descriptionLong:
-    - At the start of each battle, this Hero gets +40% defense against Special Skills
-      for 6 turns.
+    - At the start of each battle, this Hero gets +60% defense against Special Skills
+      for 8 turns.
     - In battles with multiple waves, the effect is refreshed at the beginning of each
       wave.
 special_boost:
@@ -182,8 +182,8 @@ special_boost:
   imageImgur: https://i.imgur.com/szKG5rf.png
   description: Special Boost
   descriptionLong:
-    - At the start of each battle, this Hero's Special Skill deals an additional +30%
-      damage for 6 turns.
+    - At the start of each battle, this Hero's Special Skill deals an additional +50%
+      damage for 8 turns.
     - In battles with multiple waves, the effect is refreshed at the beginning of each
       wave.
 taunt:

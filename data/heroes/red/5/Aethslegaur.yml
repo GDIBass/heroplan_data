@@ -15,7 +15,7 @@ effects:
 - All allies get +45% chance to dodge attacks and Special Skills for 5 turns.
 - 'This character gets a Mark of Immolation for 5 turns. Whenever an enemy or an ally
   receives Burn damage, the caster gains a stack. (Max: 10). Each stack increases
-  mana generation of the caster by +6%.'
+  mana generation of the caster by +7%. (Dispelling reduces positive stacks by 1.)'
 types:
 - Hit 1
 - Dodge Chance All
@@ -23,7 +23,7 @@ types:
 passives:
 - 'Resist Stealing: This character is immune to stealing and Ransacking.'
 - 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
-  damage and gains 450 boosted health and 5% mana each time they resist.'
+  damage and gains 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
 - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core,
@@ -33,7 +33,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/rCRyftg.jpg
 dtReleased: "2025-03-23"
-dtModified: "2026-06-08"
+dtModified: "2026-11-02"
 fancy_name: Dwarven Fire Seeker
 aetherPower: regen
 lb1:
@@ -63,7 +63,7 @@ costume:
     the attacker for 500 damage.
   - 'This character gets a Mark of Immolation for 5 turns. Whenever an enemy or an
     ally receives Burn damage, the caster gains a stack. (Max: 10). Each stack increases
-    mana generation of the caster by +6%.'
+    mana generation of the caster by +7%. (Dispelling reduces positive stacks by 1.)'
   types:
   - Firestorm Strike 1
   - Dodge Chance All
@@ -72,7 +72,7 @@ costume:
   passives:
   - 'Resist Stealing: This character is immune to stealing and Ransacking.'
   - 'Empowered Resist Burn: This character is immune to status ailments that deal
-    Burn damage and gains 600 boosted health and 10% mana each time they resist.'
+    Burn damage and gains 10% mana each time they resist.'
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
     is cast:'
   - '* All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
@@ -82,7 +82,7 @@ costume:
     exhausted when the Core is activated.'
   image: https://i.imgur.com/bE5pHtK.jpg
   dtReleased: "2026-06-18"
-  dtModified: ""
+  dtModified: "2026-11-02"
   fancy_name: Dwarven Soul Seeker
   aetherPower: mana_boost
   lb1:

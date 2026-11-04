@@ -34,10 +34,11 @@ passives:
 - 'Stack on Special: When this character casts their Special Skill, they have a 50%
   chance to give 10% mana to all allies. If the Special Skill is fully charged, the
   chance is 100%. (Affects only mana generated from matching shields or mana gained
-  by the defense team at the end of their turn.)'
+  by the defense team at the end of their turn. Cleansing reduces negative stacks
+  by 1.)'
 image: https://i.imgur.com/0vSBWSh.jpg
 dtReleased: "2023-05-03"
-dtModified: "2026-07-12"
+dtModified: "2026-11-02"
 fancy_name: Champion of the Court
 aetherPower: ailment_immunity
 lb1:
@@ -78,7 +79,7 @@ costume:
   - Dispeller
   - Boosted HoT All
   - Elemental Attack Buff All
-  - Cleanser
+  - Cleanser All
   passives:
   - 'Mana on Special: When this character casts their Special Skill, they have a 60%
     chance to give 10% mana to all allies. If the Special Skill is fully charged,
@@ -86,11 +87,12 @@ costume:
   - 'Stack on Special: When this character casts their Special Skill, all enemies
     get -7% mana generation stack. If the Special Skill is fully charged, all enemies
     get two stacks. An enemy can have up to 10 stacks. (Affects only mana generated
-    from matching shields or mana gained by the defense team at the end of their turn.)'
+    from matching shields or mana gained by the defense team at the end of their turn.
+    Cleansing reduces negative stacks by 1.)'
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://i.imgur.com/QG8aRPS.jpg
   dtReleased: "2025-07-23"
-  dtModified: "2026-07-12"
+  dtModified: "2026-11-02"
   fancy_name: Champion of the Bramble
   aetherPower: dodge
   lb1:

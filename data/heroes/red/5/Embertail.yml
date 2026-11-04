@@ -11,9 +11,9 @@ health: 2323
 skill: Blazing Matchstick
 effects:
 - Deals 390% damage to the target and nearby enemies.
-- 'Wild: For 3 turns, the target and nearby enemies receive 207 or 414 Burn damage
+- 'Wild: For 3 turns, the target and nearby enemies receive 179 or 537 Burn damage
   each turn. (Wild adds a chance each turn for this effect to be more powerful. This
-  Wild effect has a 50% chance to deal +100% extra damage that turn. When extra damage
+  Wild effect has a 50% chance to deal +200% extra damage that turn. When extra damage
   is dealt, the effect also reduces enemies'' max health and is stronger against boosted
   health. Wild effects bypass most effects that would normally prevent them from being
   applied. Wild effects can be applied in addition to other effects of the same type.)'
@@ -27,12 +27,15 @@ types:
 passives:
 - 'Nibble: When an ally casts their Special Skill, this character deals 200% damage
   and gives -35% defense for 3 turns to a random enemy.'
-- 'Tiny Frame: This character is not affected by effects that increase or reduce attack.
-  This includes status effect buffs and ailments, positive and negative Stacks, Growth
-  and Wither effects.'
+- 'Trait: Tiny Frame'
+- This character is not affected by effects that increase or reduce attack.
+- This includes
+- ' * Status effect buffs and ailments'
+- ' * Positive and negative Stacks.'
+- ' * Growth and Wither effects.'
 image: https://i.imgur.com/8Ssw7iT.jpg
 dtReleased: "2026-03-18"
-dtModified: "2026-07-01"
+dtModified: "2026-11-02"
 fancy_name: The Pyromouse
 aetherPower: damage_reduction
 lb1:

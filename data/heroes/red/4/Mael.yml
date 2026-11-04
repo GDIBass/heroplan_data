@@ -23,13 +23,11 @@ passives:
 - 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
   family bonuses and status effects by -80%. The effect applies to all enemies in
   the battle.'
-- 'Resist Negative Mana Effects: This character is immune to mana reductions, as well
-  as status ailments and negative stacks that affect mana generation. Applies also
-  to effects and status ailments that block or steal mana.'
+- 'Resist Mana Reduction: This character is immune to mana reductions.'
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://i.imgur.com/cNNCvts.jpg
 dtReleased: "2025-10-23"
-dtModified: "2026-05-13"
+dtModified: "2026-11-02"
 fancy_name: Astral Demon Pursuer
 aetherPower: dodge
 lb1:

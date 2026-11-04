@@ -10,7 +10,7 @@ defense: 832
 health: 1433
 skill: Transcendental Frame
 effects:
-- Cast Full Removal on the caster. (Full Removal removes all status efects, stacks
+- Cast Full Removal on the caster. (Full Removal removes all status effects, stacks
   and Growth and Wither effects. Removes even status effects and stacks that are otherwise
   undispellable or uncleasable.)
 - The caster shifts into Ghost form for 4 turns.
@@ -19,8 +19,8 @@ effects:
   Immune to new Growth and Wither effects.
 - While in Ghost form the caster can't gain mana and can't be healed by Special Skills,
   but it is immune to normal attacks, Special Skill attacks, status effects and stacks.
-- While in Ghost form, all allies except the caster get +64% defense
-- While in Ghost form, all allies' except the caster's HP is boosted by 180 HP every
+- While in Ghost form, all allies except the caster get +75% defense.
+- While in Ghost form, all allies' except the caster's HP is boosted by 215 HP every
   turn.
 types:
 - Full Cleanser Self
@@ -32,7 +32,7 @@ passives:
   by -20% for this character.'
 image: https://i.imgur.com/RFjr7Fi.jpg
 dtReleased: "2021-11-04"
-dtModified: "2026-04-20"
+dtModified: "2026-11-02"
 fancy_name: King of the Depths
 aetherPower: special_armor
 lb1:
@@ -62,8 +62,8 @@ costume:
   - While in Ghost form, Character can't gain mana and can't be healed by Special
     Skills, but it is immune to normal attacks, Special Skill attacks, status effects
     and stacks. Immune to new Growth and Wither effects.
-  - While in Ghost form, all allies except the caster have +56% defense.
-  - While in Ghost form, all allies except the caster regenerate 300 boosted health
+  - While in Ghost form, all allies except the caster have +65% defense.
+  - While in Ghost form, all allies except the caster regenerate 360 boosted health
     every turn. Boosted health can exceed max HP.
   types:
   - Full Cleanser Self
@@ -77,7 +77,7 @@ costume:
     they boost the health of all their allies by 10%.'
   image: https://i.imgur.com/EAwYCZr.jpg
   dtReleased: "2024-08-29"
-  dtModified: "2026-04-20"
+  dtModified: "2026-11-02"
   fancy_name: The Deathless King
   aetherPower: boosted_regen
   lb1:
