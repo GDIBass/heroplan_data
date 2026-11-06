@@ -13,16 +13,16 @@ effects:
 - This Special Skill has a chance to deal Critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
   The chance is always at least 1%. Critical hits caused by this Special Skill deal
-  50% more damage. Critical hits can reduces enemies' max health on PVP battles. This
-  effect is stronger against boosted health.)
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Dispels 2 buffs from all enemies. (The latest buffs are dispelled first.)
 - Deals 450% damage to the enemy with the highest remaining HP. Deals 250% damage
   to all other enemies.
-- The enemy that had the highest remaining HP get 810 Water damage over 3 turns. This
+- The enemy that had the highest remaining HP get 822 Water damage over 3 turns. This
   effect can't be cleansed.
 types:
 - Chance for Critical hits
-- Dispeller 2 buffs All
+- Dispel latest 2 buffs All
 - Hit All
 - DoT 1
 passives:
@@ -31,14 +31,14 @@ passives:
   all allies. This effect can activate once per turn.'
 - 'Righteous Rebellion:'
 - ' * When this character''s Special Skill hits a character that had higher current
-  HP, gain +20% boosted health.'
+  HP, gain 20% boosted health.'
 - ' * When this character is hit by the Special Skill of a character that had higher
-  current HP, gain +20% mana.'
+  current HP, gain 20% mana.'
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/YX2qCp0.jpg
 dtReleased: "2025-05-22"
-dtModified: "2026-11-02"
+dtModified: "2026-11-06"
 fancy_name: Destruction Star of Water Margin
 aetherPower: dodge
 lb1:

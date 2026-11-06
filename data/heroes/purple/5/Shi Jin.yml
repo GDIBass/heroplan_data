@@ -30,14 +30,14 @@ passives:
   This effect can activate once per turn.'
 - 'Righteous Rebellion:'
 - ' * When this character''s Special Skill hits a character that had higher current
-  HP, gain +20% boosted health.'
+  HP, gain 20% boosted health.'
 - ' * When this character is hit by the Special Skill of a character that had higher
-  current HP, gain +20% mana.'
+  current HP, gain 20% mana.'
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/eSBywQr.jpg
 dtReleased: "2026-03-01"
-dtModified: "2026-08-11"
+dtModified: "2026-11-06"
 fancy_name: Nine Dragon Tattoos of Water Margin
 aetherPower: attack_up
 lb1:

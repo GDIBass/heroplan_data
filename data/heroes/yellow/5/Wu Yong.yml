@@ -20,7 +20,9 @@ effects:
 - If the target has more than 30% mana after mana stealing, the Special Skill repeats
   targeting a random enemy. The damage is reduced on each consecutive hit. Each enemy
   can only be hit once.
-- All allies get +55% critical chance for 5 turns.
+- All allies get +55% critical chance for 5 turns. (Critical hits deal +100% more
+  damage from normal attacks. Critical Hits reduce enemies' max health. This effect
+  is stronger against boosted health.)
 types:
 - Chance for Critical hit
 - Hit 1
@@ -32,14 +34,14 @@ passives:
   all allies. This effect can activate once per turn.'
 - 'Righteous Rebellion:'
 - ' * When this character''s Special Skill hits a character that had higher current
-  HP, gain +20% boosted health.'
+  HP, gain 20% boosted health.'
 - ' * When this character is hit by the Special Skill of a character that had higher
-  current HP, gain +20% mana.'
+  current HP, gain 20% mana.'
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/t88vH1u.jpg
 dtReleased: "2025-10-28"
-dtModified: "2026-04-28"
+dtModified: "2026-11-06"
 fancy_name: Knowledge Star of Water Margin
 aetherPower: ailment_immunity
 lb1:

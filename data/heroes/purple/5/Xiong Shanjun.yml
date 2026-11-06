@@ -11,12 +11,14 @@ health: 1621
 skill: Fury of the Mountain Lord
 effects:
 - Reduces max health of all enemies by 800 over 4 turns. The effect is stronger against
-  targets with boosted health. Max health can't get lower than 30% of the original
-  max health. Any boosted health is reduced by an additional 200 per turn.
+  targets with boosted health. (Max health can't get lower than 30% of the original
+  max health. Any boosted health is reduced by an additional 200 per turn.)
 - All allies regenerate 800 boosted health over 4 turns. Boosted health can exceed
   max HP.
-- All enemies get -24% mana generation for 4 turns.
-- All allies get +24% mana generation for 4 turns.
+- All enemies get -24% mana generation for 4 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
+- All allies get +24% mana generation for 4 turns. (Affects only mana generated from
+  matching shields or mana gained by the defense team at the end of their turn.)
 types:
 - Max Health Reduction over time All
 - Boosted HoT All
@@ -24,7 +26,7 @@ types:
 - Mana Generation Buff All
 image: https://i.imgur.com/WyjU3s9.jpg
 dtReleased: "2023-04-24"
-dtModified: ""
+dtModified: "2026-11-06"
 fancy_name: Bear Mountain Lord
 aetherPower: heal_increase
 lb1:

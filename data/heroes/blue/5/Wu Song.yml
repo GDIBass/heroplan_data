@@ -11,7 +11,7 @@ health: 2255
 skill: Subduing Strike
 effects:
 - Dispels buffs from all enemies.
-- This Special Skill has a chance to deal Critical hits. (The chance of dealing a
+- This Special Skill has a chance to deal critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
   Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
   reduces enemies' max health on PVP battles. This effect is stronger against boosted
@@ -29,14 +29,14 @@ passives:
   This effect can activate once per turn.'
 - 'Righteous Rebellion:'
 - ' * When this character''s Special Skill hits a character that had higher current
-  HP, gain +20% boosted health.'
+  HP, gain 20% boosted health.'
 - ' * When this character is hit by the Special Skill of a character that had higher
-  current HP, gain +20% mana.'
+  current HP, gain 20% mana.'
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/NYmfFH5.jpg
 dtReleased: "2025-09-27"
-dtModified: "2026-03-28"
+dtModified: "2026-11-06"
 fancy_name: Tiger-Fighting Hero of Water Margin
 aetherPower: fiend_resist
 lb1:

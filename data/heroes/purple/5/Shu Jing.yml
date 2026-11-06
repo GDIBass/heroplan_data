@@ -20,7 +20,7 @@ effects:
   effect reduces the duration by 1 turn or decreases activations left by 1.)
 types:
 - Hit All
-- Blind All
+- Stubborn Blind All
 - Damage from Ailments Immunity All
 passives:
 - 'Vengeful Haunting: When this character loses more than 30% of max health at once,
@@ -29,7 +29,7 @@ passives:
   effects, stacks and Growth and Wither effects. Removes even status effects and stacks
   that are otherwise Stubborn, undispellable or uncleansable.)'
 - ' * This character shifts into Vengeful Ghost form for 2 turns. At the end of each
-  turn, Vengeful Ghost deals 350% damage to a random enemy and dispels buffs from
+  turn, Vengeful Ghost deals 350% damage to a random enemy and dispels 1 buff from
   them. This effect is Stubborn. (While in a Ghost form, character can''t gain mana
   and can''t be healed by Special Skills, but is immune to normal attacks, Special
   Skill attacks, damage dealing passives, status effects and stacks. Immune to new
@@ -38,7 +38,7 @@ passives:
   1.)'
 image: https://i.imgur.com/MIBxx9N.jpg
 dtReleased: "2026-06-13"
-dtModified: "2026-11-02"
+dtModified: "2026-11-06"
 fancy_name: Scholarly Ghost Officer
 aetherPower: counterattack
 lb1:
