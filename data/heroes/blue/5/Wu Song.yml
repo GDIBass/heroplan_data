@@ -13,9 +13,9 @@ effects:
 - Dispels buffs from all enemies.
 - This Special Skill has a chance to deal critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
-  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
-  reduces enemies' max health on PVP battles. This effect is stronger against boosted
-  health.)
+  The chance is always at least 1%. Critical hits caused by this Special Skill deal
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 600% damage to the target.
 - If the target is of Fire element, deals 500% damage to nearby enemies.
 types:

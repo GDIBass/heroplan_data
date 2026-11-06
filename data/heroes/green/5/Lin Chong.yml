@@ -10,11 +10,11 @@ defense: 1287
 health: 2303
 skill: Punishing Strike
 effects:
-- This Special Skill has a chance to deal Critical hits. (The chance of dealing a
+- This Special Skill has a chance to deal critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
-  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
-  reduces enemies' max health on PVP battles. This effect is stronger against boosted
-  health.)
+  The chance is always at least 1%. Critical hits caused by this Special Skill deal
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 390% damage to the target and minor damage to nearby enemies.
 - 'Stack (Max: 10): All damage the target and nearby enemies receive is increased
   by +6%. (Cleansing reduces negative stacks by 1.)'

@@ -12,9 +12,9 @@ skill: Clever Stratagem
 effects:
 - This Special Skill has a chance to deal critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
-  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
-  reduces enemies' max health on PVP battles. This effect is stronger against boosted
-  health.)
+  The chance is always at least 1%. Critical hits caused by this Special Skill deal
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 450% damage to the target.
 - Steals 20% mana from the target and distributes it on allies.
 - If the target has more than 30% mana after mana stealing, the Special Skill repeats

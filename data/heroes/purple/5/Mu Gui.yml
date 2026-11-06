@@ -10,11 +10,11 @@ defense: 1466
 health: 2478
 skill: Buried Vengeance
 effects:
-- This Special Skill has a chance to deal Critical hits. (The chance of dealing a
+- This Special Skill has a chance to deal critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
-  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
-  reduces enemies' max health on PVP battles. This effect is stronger against boosted
-  health.)
+  The chance is always at least 1%. Critical hits caused by this Special Skill deal
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 500% damage to all enemies.
 - All enemies are immune to a new status effect buffs for 5 turns, and receive 500
   damage for each attempted buff. This effect is Stubborn. (Each attempt to dispel,
@@ -53,7 +53,7 @@ passives:
   1.)'
 image: https://i.imgur.com/bNEh23O.jpg
 dtReleased: "2026-11-06"
-dtModified: ""
+dtModified: "2026-11-06"
 fancy_name: Ghost of Forgotten Grave
 aetherPower: special_armor
 lb1:

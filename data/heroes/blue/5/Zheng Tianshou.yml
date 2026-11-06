@@ -10,11 +10,11 @@ defense: 1341
 health: 2342
 skill: Gallant Stance
 effects:
-- This Special Skill has a chance to deal Critical hits. (The chance of dealing a
+- This Special Skill has a chance to deal critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
-  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
-  reduces enemies' max health on PVP battles. This effect is stronger against boosted
-  health.)
+  The chance is always at least 1%. Critical hits caused by this Special Skill deal
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 470% damage to all enemies.
 - Safely dispels status effect buffs from all enemies. (Safe dispel bypasses secondary
   effects, such as damage on removal, from the removed status effect buffs. External
