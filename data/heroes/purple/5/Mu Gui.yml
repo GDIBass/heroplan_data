@@ -1,0 +1,69 @@
+---
+name: Mu Gui
+source: kingdom
+family: ghosts
+speed: Slow
+class: Paladin
+power: 1370
+attack: 1394
+defense: 1466
+health: 2478
+skill: Buried Vengeance
+effects:
+- This Special Skill has a chance to deal Critical hits. (The chance of dealing a
+  Critical hit is based on Hero's overall critical chance when the damage is dealt.
+  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
+  reduces enemies' max health on PVP battles. This effect is stronger against boosted
+  health.)
+- Deals 500% damage to all enemies.
+- All enemies are immune to a new status effect buffs for 5 turns, and receive 500
+  damage for each attempted buff. This effect is Stubborn. (Each attempt to dispel,
+  cleanse or reallocate a Stubborn effect reduces the duration by 1 turn, or decreases
+  activations left by 1.)
+- Casts Full Removal on the caster. (Full Removal removes all status effects, stacks
+  and Growth and Wither effects. Removes even effects and stacks that are otherwise
+  undispellable or uncleansable.)
+- The caster shifts into Vengeful Ghost form for 2 turns. At the end of each turn,
+  Vengeful Ghost deals 350% damage to a random enemy and dispels 1 buff from them.
+  This effect is Stubborn. (While in a Ghost form, character can't gain mana and can't
+  be healed by Special Skills, but immune to normal attacks, Special Skill attacks,
+  damage dealing passives, immune to new Growth, Wither and Insanity effects. Each
+  attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration
+  by 1 turn, or decreases activations left by 1.)
+types:
+- Chance for Critical Hits
+- Hit All
+- Buff Immunity Debuff All
+- Damage on each attempted buff
+- Full Removal Self
+- Vengeful Ghost Self
+passives:
+- 'Vengeful Haunting: When this character loses more than 30% of max health at once,
+  the following effects activate.'
+- ' * This character casts Full Removal on themselves. (Full Removal removes all status
+  effects, stacks and Growth and Wither effects. Removes even status effects and stacks
+  that are otherwise Stubborn, undispellable or uncleansable.)'
+- ' * This character shifts into Vengeful Ghost form for 2 turns. At the end of each
+  turn, Vengeful Ghost deals 350% damage to a random enemy and dispels 1 buff from
+  them. This effect is Stubborn. (While in a Ghost form, character can''t gain mana
+  and can''t be healed by Special Skills, but is immune to normal attacks, Special
+  Skill attacks, damage dealing passives, status effects and stacks. Immune to new
+  Growth, Wither and Insanity effects. Each attempt to dispel, cleanse or reallocate
+  a Stubborn effect reduces the duration by 1 turn or decreases activations left by
+  1.)'
+image: https://i.imgur.com/bNEh23O.jpg
+dtReleased: "2026-11-06"
+dtModified: ""
+fancy_name: Ghost of Forgotten Grave
+aetherPower: special_armor
+lb1:
+  power: 1467
+  attack: 1502
+  defense: 1580
+  health: 2671
+lb2:
+  power: 1660
+  attack: 1719
+  defense: 1808
+  health: 3056
+...
