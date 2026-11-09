@@ -12,9 +12,9 @@ skill: Righteous Strike
 effects:
 - This Special Skill has a chance to deal Critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
-  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
-  reduces enemies' max health on PVP battles. This effect is stronger against boosted
-  health.)
+  The chance is always at least 1%. Critical hits caused by this Special Skill deal
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 450% damage to the target and nearby enemies.
 - Heals the caster and nearby allies for 20% of damage dealt.
 - The target and nearby enemies get silenced for 4 turns.
@@ -31,14 +31,14 @@ passives:
   all allies. This effect can activate once per turn.'
 - 'Righteous Rebellion:'
 - ' * When this character''s Special Skill hits a character that had higher current
-  HP, gain +20% boosted health.'
+  HP, gain 20% boosted health.'
 - ' * When this character is hit by the Special Skill of a character that had higher
-  current HP, gain +20% mana.'
+  current HP, gain 20% mana.'
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/ASg7ZAz.jpg
 dtReleased: "2025-05-22"
-dtModified: "2026-03-28"
+dtModified: "2026-11-06"
 fancy_name: Timely Rain of Water Margin
 aetherPower: ailment_immunity
 lb1:

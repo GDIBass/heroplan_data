@@ -44,4 +44,53 @@ lb2:
   attack: 1129
   defense: 1119
   health: 2220
+costume:
+  design: costume1
+  bonuses: 50/50/51/5
+  class: Barbarian
+  power: 1370
+  attack: 1377
+  defense: 1371
+  health: 2711
+  skill: Charged Cutlass
+  effects:
+  - Deals 430% damage to the target and nearby enemies.
+  - The target and nearby enemies receive 978 Bleed damage over 3 turns.
+  - 'The target and nearby enemies get a Mark of Bleed for 3 turns. Whenever a marked
+    target receives Bleed damage, they gain a stack (Max: 10). Each stack increases
+    all damage the target receives by +5%. (Cleansing reduces negative stacks by 1.)'
+  - The target and nearby enemies get -64% defense against Nature for 3 turns.
+  types:
+  - Hit 3
+  - DoT 3
+  - Mark of Bleed 3
+  - Elemental Defense Debuff 3
+  passives:
+  - 'Resist Special Skill Blocking: This character is immune to status ailments that
+    prevent the use of Special Skills.'
+  - 'Corrosive Core: The Construct Core of this character is a Corrosive Core. The
+    Corrosive Core activates each time this character''s Special Skill is cast'
+  - ' * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive
+    Core, the Corrosive Poison deals 437 Poison damage and lowers the target''s mana
+    generation by -14% each turn. Deals extra damage against heroes with Minions or
+    a Mega Minion.'
+  - ' * The poison damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated. (Affects only mana generated from matching
+    shields or mana gained by the defense team at the end of their turn.)'
+  - 'Energy Saver: When the Core of this character is activated, only 50% of their Core charge is exhausted.'
+  image: https://i.imgur.com/bgoafiO.jpg
+  dtReleased: "2026-11-07"
+  dtModified: ""
+  fancy_name: Shipyard Construct
+  aetherPower: counterattack
+  lb1:
+    power: 1467
+    attack: 1484
+    defense: 1477
+    health: 2922
+  lb2:
+    power: 1660
+    attack: 1698
+    defense: 1691
+    health: 3343
 ...

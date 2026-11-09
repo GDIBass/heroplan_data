@@ -14,12 +14,14 @@ effects:
 - '1st:'
 - ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited
   from the caster.'
-- ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
+- ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.
+  (Dispelling reduces positive stacks by 1.)'
 - '2nd:'
 - ' * Replaces all Fiends on all allies with Jellyfish Minions.'
 - ' * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited
   from the caster.'
-- ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.'
+- ' * Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.
+  (Dispelling reduces positive stacks by 1.)'
 types:
 - Minion Summoner All
 - Minion HP Buff Stack All
@@ -31,7 +33,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/nL4nDAx.jpg
 dtReleased: "2023-06-07"
-dtModified: "2026-04-03"
+dtModified: "2026-11-06"
 fancy_name: Nereid Princess
 aetherPower: dodge
 lb1:
@@ -56,14 +58,16 @@ costume:
   effects:
   - 'Special Skill need consecutive uses to reach full power, the following order:'
   - '1st:'
-  - ' * Summons a Jellyfish Minion for each ally with +35% HP and +40% attack inherited
+  - ' * Summons a Jellyfish Minion for each ally with 35% HP and 40% attack inherited
     from the caster.'
-  - ' * Stack (Max 10): All allies get +4% inherited HP for new Minions they summon.'
+  - ' * Stack (Max 10): All allies get +4% inherited HP for new Minions they summon.
+    (Dispelling reduces positive stacks by 1.)'
   - '2nd:'
   - ' * Replaces all Fiends on all allies with Jellyfish Minions.'
   - ' * Summons a Jellyfish Minion for each ally with 40% HP and 50% attack inherited
     from the caster.'
-  - ' * Stack (Max 10): All allies get +7% inherited HP for new Minions they summon.'
+  - ' * Stack (Max 10): All allies get +7% inherited HP for new Minions they summon.
+    (Dispelling reduces positive stacks by 1.)'
   types:
   - Minion Summoner All
   - Minion HP Buff Stack All
@@ -76,7 +80,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/CAlgEAJ.jpg
   dtReleased: "2025-03-31"
-  dtModified: "2026-04-03"
+  dtModified: "2026-11-06"
   fancy_name: Princess of the Reef
   aetherPower: ailment_immunity
   lb1:

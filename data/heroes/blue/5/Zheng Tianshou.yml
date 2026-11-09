@@ -10,11 +10,11 @@ defense: 1341
 health: 2342
 skill: Gallant Stance
 effects:
-- This Special Skill has a chance to deal Critical hits. (The chance of dealing a
+- This Special Skill has a chance to deal critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
-  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
-  reduces enemies' max health on PVP battles. This effect is stronger against boosted
-  health.)
+  The chance is always at least 1%. Critical hits caused by this Special Skill deal
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 470% damage to all enemies.
 - Safely dispels status effect buffs from all enemies. (Safe dispel bypasses secondary
   effects, such as damage on removal, from the removed status effect buffs. External
@@ -32,14 +32,14 @@ passives:
   This effect can activate once per turn.'
 - 'Righteous Rebellion:'
 - ' * When this character''s Special Skill hits a character that had higher current
-  HP, gain +20% boosted health.'
+  HP, gain 20% boosted health.'
 - ' * When this character is hit by the Special Skill of a character that had higher
-  current HP, gain +20% mana.'
+  current HP, gain 20% mana.'
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/b7rZLXf.jpg
 dtReleased: "2026-02-01"
-dtModified: "2026-04-28"
+dtModified: "2026-11-06"
 fancy_name: Fair-Faced Gentleman of Water Margin
 aetherPower: regen
 lb1:

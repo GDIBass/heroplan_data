@@ -12,9 +12,9 @@ skill: Intimidating Stance
 effects:
 - This Special Skill has a chance to deal Critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
-  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
-  reduces enemies' max health on PVP battles. This effect is stronger against boosted
-  health.)
+  The chance is always at least 1%. Critical hits caused by this Special Skill deal
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 185% damage to the target and minor damage to all other enemies.
 - The caster counterattacks with 70% of the damage received for 4 turns.
 - The caster decreases -5% mana from the attacker on each counterattack for 4 turns.
@@ -26,18 +26,18 @@ types:
 - Mana Reducer on Counterattack
 passives:
 - 'Cleanse on Critical Special Attack: When this character scores a critical hit with
-  their Special Skill, they safely cleanse the latest cleansable status effect from
+  their Special Skill, they safely cleanse the latest cleansable status ailment from
   all allies. This effect can activate once per turn.'
 - 'Righteous Rebellion:'
 - ' * When this character''s Special Skill hits a character that had higher current
-  HP, gain +20% boosted health.'
+  HP, gain 20% boosted health.'
 - ' * When this character is hit by the Special Skill of a character that had higher
-  current HP, gain +20% mana.'
+  current HP, gain 20% mana.'
 - ' * Each of these effects can activate once per turn.'
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/rTKzhQE.jpg
 dtReleased: "2025-05-22"
-dtModified: ""
+dtModified: "2026-11-06"
 fancy_name: Female Tiger of Water Margin
 aetherPower: defense_up
 lb1:

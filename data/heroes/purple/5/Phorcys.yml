@@ -23,7 +23,8 @@ effects:
 - ' * The Minion adds 5% mana to its owner at the end of each turn.'
 - ' * The caster gets Taunt that prevents enemies from using Special Skills on the
   caster''s allies for 3 turns.'
-- ' * Stack (Max 10): All allies get +20% attack for their Minions.'
+- ' * Stack (Max 10): All allies get +20% attack for their Minions. (Dispelling reduces
+  positive stacks by 1.)'
 types:
 - Summoner 3
 - Mana Increase Minion
@@ -36,7 +37,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/6o3KSeL.jpg
 dtReleased: "2023-06-07"
-dtModified: "2026-04-03"
+dtModified: "2026-11-06"
 fancy_name: Primordial God of the Depths
 aetherPower: taunt
 lb1:
@@ -72,7 +73,8 @@ costume:
   - ' * The Minion adds 5% mana to its owner at the end of each turn.'
   - ' * The caster gets Taunt that prevents enemies from using Special Skills on the
     caster''s allies for 4 turns.'
-  - ' * Stack (Max 10): All allies get +25% attack for their Minions.'
+  - ' * Stack (Max 10): All allies get +25% attack for their Minions. (Dispelling
+    reduces positive stacks by 1.)'
   types:
   - Summoner 3
   - Mana Increase Minion
@@ -86,7 +88,7 @@ costume:
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/FXIdE4S.jpg
   dtReleased: "2024-05-23"
-  dtModified: "2026-04-03"
+  dtModified: "2026-11-06"
   fancy_name: Warrior God of the Depths
   aetherPower: revive
   lb1:

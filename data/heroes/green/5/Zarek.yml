@@ -10,11 +10,11 @@ defense: 1264
 health: 2383
 skill: Whirling Stone Storm
 effects:
-- This Special Skill has a chance to deal Critical hits. (The chance of dealing a
+- This Special Skill has a chance to deal critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
   The chance is always at least 1%. Critical hits caused by this Special Skill deal
-  50% more damage. Critical hits can reduces enemies' max health on PVP battles. This
-  effect is stronger against boosted health.)
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 350% damage to the target.
 - Deals additional 150% damage to as many random enemies as there are Nature shields
   on the board, up to maximum of 12 hits. The damage is reduced on each consecutive
@@ -40,7 +40,7 @@ passives:
 - ' * Growth and Wither effects.'
 image: https://i.imgur.com/IaZYblY.jpg
 dtReleased: "2026-05-24"
-dtModified: "2026-11-02"
+dtModified: "2026-11-06"
 fancy_name: Stone-Weaving Caracal
 aetherPower: attack_up
 lb1:

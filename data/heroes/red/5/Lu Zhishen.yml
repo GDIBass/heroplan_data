@@ -10,11 +10,11 @@ defense: 1240
 health: 2239
 skill: Monastic Restraint
 effects:
-- This Special Skill has a chance to deal Critical hits. (The chance of dealing a
+- This Special Skill has a chance to deal critical hits. (The chance of dealing a
   Critical hit is based on Hero's overall critical chance when the damage is dealt.
-  Critical hits caused by this Special Skill deal 50% more damage. Critical hits can
-  reduces enemies' max health on PVP battles. This effect is stronger against boosted
-  health.)
+  The chance is always at least 1%. Critical hits caused by this Special Skill deal
+  50% more damage. Critical hits reduce enemies' max health. This effect is stronger
+  against boosted health.)
 - Deals 340% damage to all enemies.
 - The caster get additional +40% damage power for the next Special kill they cast.
   Additional power increases +30% each turn, up to a maximum of +130% in total.
@@ -39,7 +39,7 @@ passives:
 - 'Resist Bleed: This character is immune to status ailments that deal Bleed damage.'
 image: https://i.imgur.com/7VUkIiw.jpg
 dtReleased: "2025-08-30"
-dtModified: "2026-11-02"
+dtModified: "2026-11-06"
 fancy_name: Flowery Monk of Water Margin
 aetherPower: bulwark
 lb1:

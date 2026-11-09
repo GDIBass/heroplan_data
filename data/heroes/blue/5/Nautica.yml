@@ -46,4 +46,51 @@ lb2:
   attack: 1229
   defense: 1229
   health: 2133
+costume:
+  design: costume1
+  bonuses: 42/43/44/5
+  class: Paladin
+  power: 1370
+  attack: 1421
+  defense: 1431
+  health: 2485
+  skill: Stargazer's Telescope
+  effects:
+  - All allies regenerate 1800 HP over 4 turns.
+  - For the next 4 turns, nearby allies receive 5% mana at the end of the turn.
+  - Nearby allies get +45% mana generation for 4 turns.  (Affects only mana generated
+    from matching shields or mana gained by the defense team at the end of their turn.)
+  - The caster and nearby allies get +55% critical chance for 4 turns. (Critical hits
+    deal +100% more damage from normal attacks. Critical Hits reduce enemies' max
+    health. This effect is stronger against boosted health.)
+  types:
+  - HoT All
+  - Mana Boost nearby
+  - Mana Generation Buff nearby
+  - Critical Chance Buff 3
+  passives:
+  - 'Resist Special Skill Blocking: This character is immune to status ailments that
+    prevent the use of Special Skills.'
+  - 'Repair Core: The Construct Core of this character is a Repair Core. The Repair
+    Core activates each time this character''s Special Skill is cast'
+  - ' * With a fully charged Repair Core, boosts the health of all allies by 26%.'
+  - ' * The healing is scaled by the amount of charge in the Core. All charge is exhausted
+    when the Core is activated.'
+  - 'Energy Saver: When the Core of this character is activated, only 50% of their
+    Core charge is exhausted.'
+  image: https://i.imgur.com/g6pNuwa.jpg
+  dtReleased: "2026-11-07"
+  dtModified: ""
+  fancy_name: Astronomer Construct
+  aetherPower: boosted_regen
+  lb1:
+    power: 1467
+    attack: 1531
+    defense: 1542
+    health: 2678
+  lb2:
+    power: 1661
+    attack: 1752
+    defense: 1765
+    health: 3065
 ...

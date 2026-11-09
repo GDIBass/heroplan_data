@@ -15,30 +15,34 @@ effects:
   and Growth and Wither effects. Removes even status effects and stacks that are otherwise
   Stubborn, undispellable or uncleansable.)
 - The caster shifts into Vengeful Ghost form for 2 turns.
-- At the end of each turn, Vengeful Ghost deals 250% damage to a random enemy and
-  dispels buffs from them. This effect is undispellable. (While in a Ghost form, character
+- At the end of each turn, Vengeful Ghost deals 200% damage to a random enemy and
+  dispels 1 buff from them. This effect is Stubborn. (While in a Ghost form, character
   can't gain mana and can't be healed by Special Skills, but is immune to normal attacks,
   Special Skill attacks, damage dealing passives, status effects and stacks. Immune
-  to new Growth, Wither and Insanity effects.)
+  to new Growth, Wither and Insanity effects. Each attempt to dispel, cleanse or reallocate
+  a Stubborn effect reduces the duration by 1 turn  or decreases activations left
+  by 1.)
 types:
 - Healer Nearby
 - Full Removal Self
 - Vengeful Ghost Self
 passives:
-- 'Vengeful Haunting: When this character loses more than 25% of max health at once,
+- 'Vengeful Haunting: When this character loses more than 30% of max health at once,
   the following effects activate.'
 - ' * This character casts Full Removal on themselves. (Full Removal removes all status
   effects, stacks and Growth and Wither effects. Removes even status effects and stacks
   that are otherwise Stubborn, undispellable or uncleansable.)'
 - ' * This character shifts into Vengeful Ghost form for 2 turns. At the end of each
-  turn, Vengeful Ghost deals 250% damage to a random enemy and dispels buffs from
-  them. This effect is undispellable. (While in a Ghost form, character can''t gain
-  mana and can''t be healed by Special Skills, but is immune to normal attacks, Special
+  turn, Vengeful Ghost deals 200% damage to a random enemy and dispels 1 buff from
+  them. This effect is Stubborn. (While in a Ghost form, character can''t gain mana
+  and can''t be healed by Special Skills, but is immune to normal attacks, Special
   Skill attacks, damage dealing passives, status effects and stacks. Immune to new
-  Growth, Wither and Insanity effects.)'
+  Growth, Wither and Insanity effects. Each attempt to dispel, cleanse or reallocate
+  a Stubborn effect reduces the duration by 1 turn or decreases activations left by
+  1.)'
 image: https://i.imgur.com/Kw1QPCp.jpg
 dtReleased: "2026-05-21"
-dtModified: "2026-07-05"
+dtModified: "2026-11-06"
 fancy_name: Playful Forest Spirit
 aetherPower: regen
 lb1:
