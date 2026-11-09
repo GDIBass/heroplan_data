@@ -39,4 +39,47 @@ lb2:
   attack: 821
   defense: 957
   health: 1564
+costume:
+  design: costume1
+  bonuses: 17/17/17/5
+  class: Wizard
+  power: 804
+  attack: 762
+  defense: 891
+  health: 1451
+  skill: Rock and Rime
+  effects:
+  - Deals 250% damage to the target and nearby enemies.
+  - The target and nearby enemies get -40% defense against Special Skills for 3 turns.
+  - The caster and nearby allies get +84% defense against Nature, and a further 2%
+    increase every time they are hit during 3 turns, up to +100% defense.
+  types:
+  - Hit 3
+  - Special Skill Defense Debuff 3
+  - Elemental Defense Buff 3
+  passives:
+  - 'Resist Special Skill Blocking: This character is immune to status ailments that
+    prevent the use of Special Skills.'
+  - 'Destructive Core: The Construct Core of this character is a Destructive Core.
+    The Destructive Core activates each time this character''s Special Skill is cast'
+  - ' * With a fully charged Destructive Core, deals 200% damage to all enemies.'
+  - ' * The damage is scaled by the amount of charge in the Core. All charge is exhausted
+    when the Core is activated.'
+  - 'Energy Saver: When the Core of this character is activated, only 50% of their
+    Core charge is exhausted.'
+  image: https://i.imgur.com/nfNwqk8.jpg
+  dtReleased: "2026-11-07"
+  dtModified: ""
+  fancy_name: Bedrock Construct
+  aetherPower: special_boost
+  lb1:
+    power: 866
+    attack: 827
+    defense: 968
+    health: 1576
+  lb2:
+    power: 991
+    attack: 960
+    defense: 1123
+    health: 1828
 ...

@@ -43,4 +43,48 @@ lb2:
   attack: 693
   defense: 713
   health: 1153
+costume:
+  design: costume1
+  bonuses: 11/12/12/5
+  class: Cleric
+  power: 546
+  attack: 551
+  defense: 570
+  health: 921
+  skill: Swooping Aid
+  effects:
+  - Recovers 15% health for the caster and nearby allies.
+  - The caster and nearby allies get +45% chance to dodge attacks and Special Skills
+    for 3 turns.
+  - The caster and nearby allies get +50% critical chance for 3 turns. (Critical hits
+    deal +100% more damage from normal attacks. Critical Hits reduce enemies' max
+    health. This effect is stronger against boosted health.)
+  types:
+  - Healer 3
+  - Dodge Chance Buff 3
+  - Critical Chance Buff 3
+  passives:
+  - 'Resist Special Skill Blocking: This character is immune to status ailments that
+    prevent the use of Special Skills.'
+  - 'Repair Core: The Construct Core of this character is a Repair Core. The Repair
+    Core activates each time this character''s Special Skill is cast'
+  - ' * With a fully charged Repair Core, boosts the health of all allies by 26%.'
+  - ' * The healing is scaled by the amount of charge in the Core. All charge is exhausted
+    when the Core is activated.'
+  - 'Energy Saver: When the Core of this character is activated, only 50% of their
+    Core charge is exhausted.'
+  image: https://i.imgur.com/rqt22OG.jpg
+  dtReleased: "2026-11-07"
+  dtModified: ""
+  aetherPower: fiend_resist
+  lb1:
+    power: 610
+    attack: 624
+    defense: 646
+    health: 1043
+  lb2:
+    power: 739
+    attack: 772
+    defense: 798
+    health: 1290
 ...
