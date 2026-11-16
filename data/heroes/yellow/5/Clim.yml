@@ -16,10 +16,9 @@ effects:
   Skill during a single turn, all subsequent direct mana additions done by Special
   Skills will have reduced power on that character.)
 - The caster goes into Ambush. Damage dealt by the caster is increased by +40%, and
-  damage received by them is decreased by -25%. (When the character goes into Ambush,
-  all existing status ailments and Wither effects are removed. The character can't
-  gain new ailments or Wither effects while in Ambush. This effect is undispellable.
-  Ambush ends once the character has received 1200 damage.)
+  damage received by them is decreased by -25%. (The character can't gain new ailments
+  or Wither effects while in Ambush. This effect is undispellable. Ambush ends once
+  the character has received 1200 damage.)
 types:
 - Hit 1
 - Hit Random 2
@@ -33,11 +32,11 @@ passives:
 - ' * Safely steals a buff from the enemy. This includes undispellable buffs and Dance
   effects.'
 - 'Cheat Death: The first time this character would receive fatal damage, they instead
-  redirect that damage to a random enemy. In battles with multiple waves, the effect
-  is refreshed at the beginning of each wave.'
+  redirect up to 2500 damage to the attacker. Does not activate if this character
+  is the only member of their team in battle.'
 image: https://i.imgur.com/2xFzRHO.jpg
 dtReleased: "2026-09-23"
-dtModified: ""
+dtModified: "2026-11-09"
 fancy_name: Deadeye Sharpshooter
 aetherPower: special_boost
 lb1:

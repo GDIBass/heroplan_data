@@ -1,0 +1,42 @@
+---
+name: Gaibhlen
+source: knights
+family: boar
+speed: Average
+class: Cleric
+power: 547
+attack: 531
+defense: 563
+health: 995
+skill: Earthen Tempering
+effects:
+- Deals 200% damage to all enemies starting from the left edge of the enemy formation.
+  The damage is reduced on each consecutive hit. (This damage is reduced by 10% on
+  each consecutive hit.)
+- All allies bypass defensive buffs with their attacks for 4 turns. (Defensive buffs
+  include counterattacks.)
+types:
+- Hit All
+- Bypass Buff All
+passives:
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
+- 'Extend Ailment Duration: When this character casts their Special Skill, the duration
+  of all ailments on all enemies is increased by 1 turn.'
+image: https://i.imgur.com/lT2MV8v.jpg
+dtReleased: "2026-11-11"
+dtModified: ""
+fancy_name: Swordsmith of Bristle Woods
+aetherPower: attack_up
+lb1:
+  power: 611
+  attack: 601
+  defense: 638
+  health: 1127
+lb2:
+  power: 741
+  attack: 744
+  defense: 788
+  health: 1394
+...

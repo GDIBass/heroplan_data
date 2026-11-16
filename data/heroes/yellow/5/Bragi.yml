@@ -46,4 +46,51 @@ lb2:
   attack: 1570
   defense: 1564
   health: 2783
+costume:
+  design: costume1
+  bonuses: 11/12/12/5
+  class: Paladin
+  power: 1371
+  attack: 1419
+  defense: 1417
+  health: 2523
+  skill: Freezing Power Jabs
+  effects:
+  - Attacks the target with Frostfall Strike, dealing up to 3000 damage. Deals 40%
+    more damage if the target is of the Fire element. This Special Skill never misses
+    its targets.
+  - Steals all dispellable buffs from the target to the caster.
+  - If the target has been inflicted with Frost, Freezing Power Jabs will be recast
+    once on a random target. (If the target is defeated, the Special Skill will not
+    be recast.)
+  types:
+  - Frostfall Strike Hit 1
+  - Steals random buff 1
+  - Hit Random 1
+  passives:
+  - 'Resist Stealing: This character is immune to stealing and Ransacking.'
+  - 'Empowered Resist Frost: This character is immune to status ailments that deal
+    Frost damage and gains 10% mana each time they resist.'
+  - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
+    is cast'
+  - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
+    Core, the Corrosive Frost deals 418 Frost damage and lowers the target''s attack
+    by -16% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Frost damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
+  image: https://i.imgur.com/nHW1Pzl.jpg
+  dtReleased: "2026-11-09"
+  dtModified: ""
+  fancy_name: Dwarven Stone Boxer
+  aetherPower: bulwark
+  lb1:
+    power: 1468
+    attack: 1529
+    defense: 1527
+    health: 2719
+  lb2:
+    power: 1662
+    attack: 1750
+    defense: 1747
+    health: 3111
 ...

@@ -16,10 +16,12 @@ effects:
   additional extra damage. Status effects affecting damage dealt do affect the extra
   damage. Defense stat does not affect the extra damage. Status effect affecting attack
   stat do not affect the extra damage.)'
+- 'Wither: The target gets -500 attack.'
 - The target receives 1068 Sand damage over 3 turns.
 types:
 - Hit 1
 - Hit Growth Boon
+- Attack Wither 1
 - DoT 1
 passives:
 - 'Mana on Damage Received:'
@@ -30,7 +32,7 @@ passives:
   and Mega Minions.'
 image: https://i.imgur.com/jKyDa9q.jpg
 dtReleased: "2026-08-01"
-dtModified: ""
+dtModified: "2026-11-16"
 fancy_name: Vigilante of Sacred Grove
 aetherPower: attack_up
 lb1:

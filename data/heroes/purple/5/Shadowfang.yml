@@ -11,7 +11,7 @@ health: 2208
 skill: Flying Bones
 effects:
 - Deals 390% damage to all enemies.
-- At the end of each turn, the caster cast a Bone Toss at a random enemy for 5 turns.
+- At the end of each turn, the caster casts a Bone Toss at a random enemy for 5 turns.
 - Each Bone Toss deals 230% damage.
 - Each Bone Toss summons a Skeleton Fox Fiend to the target. The Fiend damages its
   target with 100% attack every turn.
@@ -25,7 +25,7 @@ passives:
 - 'Decreased Healing: All enemies get -50% healing.'
 image: https://i.imgur.com/WRT0fPv.jpg
 dtReleased: "2024-12-23"
-dtModified: ""
+dtModified: "2026-11-10"
 fancy_name: The Bone Collector Sand Fox
 aetherPower: mana_boost
 lb1:

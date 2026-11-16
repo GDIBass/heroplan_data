@@ -13,17 +13,17 @@ effects:
 - Deals 220% damage to all enemies.
 - The damage is increased by 50% per each defeated enemy.
 - 'Stack (Max: 10): All enemies receive 30 Frost damage per each defeated enemy or
-  enemy minion at the end of each turn.'
+  enemy minion at the end of each turn. (Cleansing reduces negative stacks by 1.)'
 - 'Stack (Max: 10): All enemies get -6% mana generation per each killed enemy or enemy
   minion. (Affects only mana generated from matching shields or mana gained by the
-  defense team at the end of their turn.)'
+  defense team at the end of their turn. Cleansing reduces negative stacks by 1.)'
 types:
 - Hit All
 - DoT Stack All on enemy/minion defeated
 - Mana Generation Debuff Stack All on enemy/minion defeated
 image: https://i.imgur.com/MzjdnYC.jpg
 dtReleased: "2020-06-25"
-dtModified: "2026-07-20"
+dtModified: "2026-11-10"
 fancy_name: Goddess of Jotunheim
 aetherPower: attack_up
 lb1:
@@ -49,17 +49,19 @@ costume:
   - Deals 320% damage to the target and nearby enemies.
   - The damage is increased by 35% per each defeated enemy.
   - 'Stack (Max: 10): All enemies receive 54 Frost damage per each defeated enemy
-    or enemy Minion at the end of each turn.'
+    or enemy Minion at the end of each turn. (Cleansing reduces negative stacks by
+    1.)'
   - 'Stack (Max: 10): All enemies get -7% mana generation per each defeated enemy
     or enemy Minion. (Affects only mana generated from matching shields or mana gained
-    by the defense team at the end of their turn.)'
+    by the defense team at the end of their turn. Cleansing reduces negative stacks
+    by 1.)'
   types:
   - Hit 3
   - DoT Stack All on enemy/minion defeated
   - Mana Generation Debuff Stack All on enemy/minion defeated
   image: https://i.imgur.com/SWH0vbH.jpg
   dtReleased: "2022-07-04"
-  dtModified: "2026-07-20"
+  dtModified: "2026-11-10"
   fancy_name: Guardian of Jotunheim
   aetherPower: special_boost
   lb1:

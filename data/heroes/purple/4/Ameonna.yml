@@ -14,17 +14,19 @@ effects:
   and Growth and Wither effects. Removes even status effects and stacks that are otherwise
   Stubborn, undispellable or uncleansable.)
 - The caster shifts into Ghost Form for 4 turns.
-- While in Ghost form the caster gains +87% attack. (While in Ghost form character
-  can't gain mana and can't be healed by Special Skills, but is immune to normal attacks,
-  Special Skill attacks, damage dealing passives, status effects and stacks. Immune
-  to new Growth, Wither and Insanity effects.)
+- While in Ghost form the caster gains +87% attack. This effect is Stubborn. (While
+  in Ghost form Character can't gain mana and can't be healed by Special Skills, but
+  is immune to normal attacks, Special Skill attacks, damage dealing passives, status
+  effects and stacks. Immune to new Growth, Wither effects and Insanity effects. Each
+  attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration
+  by 1 turn or decreases activations left by 1.)
 types:
 - Full Removal Self
 - Ghost Self
 - Attack Buff Self while ghost
 image: https://i.imgur.com/VkDdipF.jpg
 dtReleased: "2018-08-01"
-dtModified: "2026-11-02"
+dtModified: "2026-11-13"
 fancy_name: Lone Ghost
 aetherPower: special_armor
 lb1:
@@ -50,10 +52,12 @@ costume:
   - Casts Full Removal on the caster. (Full Removal removes all status effects, stacks
     and Growth and Wither effects. Removes even status effects and stacks that are
     otherwise Stubborn, undispellable or uncleansable.)
-  - The caster shifts into Ghost Form for 4 turns. (While in Ghost form Character
-    can't gain mana and can't be healed by Special Skills, but is immune to normal
-    attacks, Special Skill attacks, damage dealing passives, status effects and stacks.
-    Immune to new Growth, Wither effects and Insanity effects.)
+  - The caster shifts into Ghost Form for 4 turns. This effect is Stubborn. (While
+    in Ghost form Character can't gain mana and can't be healed by Special Skills,
+    but is immune to normal attacks, Special Skill attacks, damage dealing passives,
+    status effects and stacks. Immune to new Growth, Wither effects and Insanity effects.
+    Each attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration
+    by 1 turn or decreases activations left by 1.)
   - While in Ghost form, all allies except the caster have +50% defense.
   - While in Ghost form, all allies except the caster regenerate 140 HP every turn.
   types:
@@ -63,7 +67,7 @@ costume:
   - HoT 4 while Ghost
   image: https://i.imgur.com/VZyVFDJ.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-11-02"
+  dtModified: "2026-11-13"
   fancy_name: Lonesome Yurei
   aetherPower: defense_up
   lb1:

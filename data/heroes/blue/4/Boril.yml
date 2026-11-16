@@ -153,4 +153,38 @@ costume4:
     attack: 847
     defense: 1082
     health: 1788
+costume5:
+  design: stylish
+  bonuses: 30/30/30/5
+  class: Cleric
+  power: 813
+  attack: 731
+  defense: 943
+  health: 1491
+  skill: Stylish Riposte
+  effects:
+  - The caster and nearby allies counterattack with 125% of the damage received for
+    5 turns.
+  - The caster and nearby allies regenerate 500 HP over 5 turns.
+  types:
+  - Counterattack 3
+  - HoT 3
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://i.imgur.com/JeDpq6r.jpg
+  dtReleased: "2026-11-09"
+  dtModified: ""
+  fancy_name: Stylish Defender
+  aetherPower: regen
+  lb1:
+    power: 876
+    attack: 794
+    defense: 1024
+    health: 1620
+  lb2:
+    power: 1003
+    attack: 921
+    defense: 1188
+    health: 1879
 ...

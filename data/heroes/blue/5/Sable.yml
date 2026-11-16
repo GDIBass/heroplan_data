@@ -13,17 +13,16 @@ effects:
 - Casts Full Removal on the caster. (Full Removal removes all status effects, stacks
   and Growth and Wither effects. Removes even status effects and stacks that are otherwise
   Stubborn, undispellable or uncleasable.)
-- The caster shifts into Ghost form for 3 turns. (While in Ghost form, Character can't
-  gain mana, and can't be healed by Special Skills, but is immune to normal attacks,
-  Special Skill attacks, damage dealing passives, status effects and stacks. Immune
-  to new Growth, Wither and Insanity effects.)
+- The caster shifts into Ghost form for 3 turns. This effect is Stubborn.
 - 'When the Ghost form expires:'
-- ' * The caster revives a random defeated ally with 40% HP. (After a character has
-  been revived by a Special Skill, their HP is -50% less on each subsequent Special
-  Skill revive. After a character has been revived by a Special Skill, the chance
-  for them to be revived is -50% on each subsequent Special Skill revive.)'
+- ' * The caster revives one random defeated ally with 40% HP.'
 - ' * All allies gain 900 health over 3 turns.'
-- ' * Cleanses status ailments from all allies at then end of each turn for 3 turns.'
+- ' * Cleanses status ailments from all allies at then end of each turn for 3 turns.
+  (While in Ghost form, Character can''t gain mana, and can''t be healed by Special
+  Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives,
+  status effects and stacks. Immune to new Growth, Wither and Insanity effects. Each
+  attempt to dispel, cleanse or reallocate a Stubborn effect reduces the duration
+  by 1 turn  or decreases activations left by 1.)'
 types:
 - Self Full Removal
 - Ghost
@@ -34,7 +33,7 @@ passives:
 - 'Decreased Healing: All enemies get -50% healing.'
 image: https://i.imgur.com/rZTJzw7.jpg
 dtReleased: "2025-02-02"
-dtModified: "2026-11-02"
+dtModified: "2026-11-10"
 fancy_name: The Lost Princess Fox
 aetherPower: ailment_reflect
 lb1:

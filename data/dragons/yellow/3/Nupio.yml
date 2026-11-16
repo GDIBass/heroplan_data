@@ -1,0 +1,47 @@
+---
+name: Nupio
+fancy_name: Perplexed Hatchling
+source: ancientUnderroot
+speed: Fast
+power: 7845
+attack: 9263
+defense: 9950
+health: 8907
+skill: Sacred Hatchlight
+effects:
+- Recovers 4000 health for the caster and nearby allies.
+- 'Randomly casts one of the following alternatives:'
+- 'Alternative 1:'
+- The caster and nearby allies get +15% mana generation for 3 turns.
+- 'Alternative 2:'
+- The caster and nearby allies have a 10% chance to drop any received damage to 1
+  for 3 turns.
+types:
+- Healer 3
+- Gambler
+- Mana Generation Buff 3
+- Damage Drop to 1 Chance 3
+spiritBonus:
+  spiritClass: Monk
+  all:
+    attack: "+100"
+    defense: "+80"
+    health: "+30"
+  elementalBond:
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
+  classLink:
+    attack: "+15"
+    defense: "+10"
+    health: "+12"
+assist:
+  name: Resuscitating Breath
+  effects:
+  - Recovers 310 health for all allies.
+  - Deals 110 damage to all enemies.
+  - All allies regenerate 100 HP over 5 turns.
+image: https://i.imgur.com/sG5cEoo.jpg
+dtReleased: "2026-11-10"
+dtModified: ""
+...

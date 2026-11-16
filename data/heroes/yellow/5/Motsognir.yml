@@ -17,7 +17,9 @@ effects:
   include counterattacks.)
 - All allies get +45% attack, and a further 20% increase every time they are hit during
   4 turns, up to +145% attack.
-- All allies get +55% critical chance for 4 turns.
+- All allies get +55% critical chance for 4 turns. (Critical hits deal +100% more
+  damage from normal attacks. Critical Hits reduce enemies' max health. This effect
+  is stronger against boosted health.)
 types:
 - Frostfall Ward Buff All
 - Bypass All
@@ -36,7 +38,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/393CAV1.jpg
 dtReleased: "2025-08-06"
-dtModified: "2026-11-02"
+dtModified: "2026-11-10"
 fancy_name: Dwarven Frontier Wildman
 aetherPower: regen
 lb1:
@@ -75,7 +77,7 @@ costume:
   passives:
   - 'Resist Stealing: This character is immune to stealing and Ransacking.'
   - 'Empowered Resist Frost: This character is immune to status ailments that deal
-    Frost damage and gains 5% mana each time they resist.'
+    Frost damage and gains 10% mana each time they resist.'
   - 'Arctic Core: The Arctic Core activates each time this character''s Special Skill
     is cast'
   - ' * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic
@@ -85,7 +87,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://i.imgur.com/oxOUy9v.jpg
   dtReleased: "2026-10-16"
-  dtModified: "2026-11-02"
+  dtModified: "2026-11-10"
   fancy_name: Paragon of the Dwarven Frontier
   aetherPower: boosted_regen
   lb1:

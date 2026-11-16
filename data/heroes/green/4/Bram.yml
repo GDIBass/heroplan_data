@@ -1,0 +1,44 @@
+---
+name: Bram
+source: knights
+family: boar
+speed: Slow
+class: Barbarian
+power: 805
+attack: 799
+defense: 835
+health: 1481
+skill: Exhaustive Grubbing
+effects:
+- Recovers 30% health for all allies.
+- Recovers additional 5% health for each status ailment on enemies, up to 50% health
+  in total.
+- All allies are immune to new Fiends for 5 turns.
+- All allies reflect status ailments to a random character on the opposing team for
+  5 turns. (Only cleansable status ailments are reflected.)
+types:
+- Healer All
+- Fiend Immunity All
+- Reflect Ailments All
+passives:
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
+- 'Extend Ailment Duration: When this character casts their Special Skill, the duration
+  of all ailments on all enemies is increased by 1 turn.'
+image: https://i.imgur.com/CJNOith.jpg
+dtReleased: "2026-11-11"
+dtModified: ""
+fancy_name: Master Farmer of Bristle Woods
+aetherPower: fiend_resist
+lb1:
+  power: 868
+  attack: 868
+  defense: 907
+  health: 1609
+lb2:
+  power: 993
+  attack: 1007
+  defense: 1052
+  health: 1866
+...

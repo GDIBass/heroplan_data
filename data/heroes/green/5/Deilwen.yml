@@ -1,0 +1,43 @@
+---
+name: Deilwen
+source: knights
+family: boar
+speed: Fast
+class: Druid
+power: 1372
+attack: 1386
+defense: 1452
+health: 2539
+skill: Sylvan Solace
+effects:
+- Recovers 27% health for all allies.
+- Recovers additional 3% health for each status ailment on enemies, up to 42% health.
+- Lifts the latest 2 cleansable status ailments from all allies and randomly distributes
+  them on enemies.
+- All enemies get -75% decrease for any healing received for 3 turns.
+types:
+- Healer All
+- Lifts Latest 2 Ailments All
+- Healing Debuff All
+passives:
+- 'Hinder Mana: Reduces the amount of mana increased by Special Skills, Passive Skills,
+  family bonuses and status effects by -80%. The effect applies to all enemies in
+  the battle.'
+- 'Extend Ailment Duration: When this character casts their Special Skill, the duration
+  of all ailments on all enemies is increased by 1 turn.'
+image: https://i.imgur.com/JCHEsxt.jpg
+dtReleased: "2026-11-11"
+dtModified: ""
+fancy_name: Sylvan of Bristle Woods
+aetherPower: regen
+lb1:
+  power: 1469
+  attack: 1494
+  defense: 1565
+  health: 2737
+lb2:
+  power: 1662
+  attack: 1709
+  defense: 1790
+  health: 3131
+...

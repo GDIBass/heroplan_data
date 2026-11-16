@@ -128,4 +128,38 @@ costume3:
     attack: 779
     defense: 717
     health: 1172
+costume4:
+  design: stylish
+  bonuses: 25/25/30/5
+  class: Wizard
+  power: 548
+  attack: 596
+  defense: 538
+  health: 887
+  skill: Stylish Blizzard
+  effects:
+  - Deals 166% damage to all enemies.
+  - If the enemies have less than 50% health remaining, deals 246% damage instead.
+  - All enemies get -32% defense for 6 turns.
+  types:
+  - Hit All
+  - Defense Debuff All
+  passives:
+  - 'Stylish!: 65% chance to replace incoming negative effects with matching positive
+    ones.'
+  image: https://i.imgur.com/yU4eSe8.jpg
+  dtReleased: "2026-11-09"
+  dtModified: ""
+  fancy_name: Stylist of Glaceholm
+  aetherPower: defense_up
+  lb1:
+    power: 612
+    attack: 675
+    defense: 609
+    health: 1005
+  lb2:
+    power: 741
+    attack: 835
+    defense: 753
+    health: 1242
 ...

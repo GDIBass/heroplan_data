@@ -13,9 +13,9 @@ effects:
 - The caster and nearby allies get a Frostfall Ward for 3 turns, that reduces incoming
   Special Skill damage up to -500. Reduces damage by additional 25% when the attacker
   is of Fire element.
-- The caster and nearby allies get +120% normal attack for 3 turns. This effect can
-  be active in addition to effects that alter attack in general. Normal attacks can
-  have a total maxiumum of +200% increased attack while this effect is active.
+- The caster and nearby allies get +120% normal attack for 3 turns. (If additional
+  effect increase attack in general, normal attacks can have a total maximum of +200%
+  increased power.)
 types:
 - Frostfall Ward 3
 - Attack Buff 3
@@ -32,7 +32,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/r2wMpaa.jpg
 dtReleased: "2025-05-16"
-dtModified: "2026-11-02"
+dtModified: "2026-11-10"
 fancy_name: Dwarven Siegemaster
 aetherPower: defense_up
 lb1:
@@ -59,9 +59,8 @@ costume:
     Special Skill damage by up to -600. Reduces damage by additional 25% when the
     attacker is of the Fire element.
   - The caster and nearby allies get +100% normal attack for 3 turns. The normal attack
-    is increased by +25% each turn. This effect can be active in addition to effects
-    that alter attack in general. Normal attacks can have a total maximum of +200%
-    increased power while this effect is active.
+    is increased by +25% each turn.  (If additional effect increase attack in general,
+    normal attacks can have a total maximum of +200% increased power.)
   types:
   - Frostfall Ward 3
   - Attack Buff 3
@@ -78,7 +77,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://i.imgur.com/iyhliQ5.jpg
   dtReleased: "2026-10-16"
-  dtModified: "2026-11-02"
+  dtModified: "2026-11-10"
   fancy_name: Dwarven Kitchenmaster
   aetherPower: bulwark
   lb1:

@@ -17,7 +17,7 @@ effects:
   600 additional extra damage. Status effects affecting damage dealt do affect the
   extra damage. Defense stat does not affect the extra damage. Status effects affecting
   attack stat do not affect the extra damage.)'
-- 'Wither: The target gets -400 defense.'
+- 'Wither: The target gets -480 defense.'
 types:
 - Hit 1
 - Hit Growth Boon
@@ -31,7 +31,7 @@ passives:
   and Mega Minions.'
 image: https://i.imgur.com/EHCDuod.jpg
 dtReleased: "2025-12-10"
-dtModified: "2026-04-28"
+dtModified: "2026-11-16"
 fancy_name: Fierce Warrior Princess
 aetherPower: special_boost
 lb1:

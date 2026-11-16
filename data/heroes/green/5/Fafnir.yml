@@ -60,7 +60,7 @@ costume:
     damage. Deals 40% more damage if the target is of the Fire element. This Special
     Skill never misses its targets.
   - 'Stack +2 (Max: 10): All damage the target and nearby enemies receive is increased
-    by +10%.'
+    by +10%. (Cleansing reduces negative stacks by 1.)'
   - The target and nearby enemies reflect status effect buffs to a random character
     on the opposing team for 3 turns. (Only dispellable buffs are reflected.)
   types:
@@ -80,7 +80,7 @@ costume:
     is exhausted when the Core is activated.'
   image: https://i.imgur.com/QltqELL.jpg
   dtReleased: "2026-08-29"
-  dtModified: "2026-11-02"
+  dtModified: "2026-11-10"
   fancy_name: Fallen Lord of Myrkheim
   aetherPower: fiend_resist
   lb1:
