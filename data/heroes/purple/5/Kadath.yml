@@ -19,7 +19,7 @@ effects:
 - If the target is defeated by the attack, then nearby enemies succumb to Fear for
   3 turns. (The target gets -40% defense. Removes all dispellable buffs and Growth
   effects when a Fear status effect is added. The target cannot gain new buffs or
-  Growth effects for the duration. Target with Fear deals 160% damage to random ally
+  Growth effects for the duration. Target with Fear deals 250% damage to random ally
   each time any other ally casts their Special Skill. Each character can trigger this
   effect once per turn.)
 - Casting this Special Skill inflicts 40 Insanity on the caster.
@@ -34,13 +34,13 @@ passives:
   to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
   automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
   inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
-  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+  Fiend: 115% attack, 68% health, inflicts 10 Insanity every turn.'
 - 'Branded by the Old Ones: All damage done to enemies by normal attacks and Special
   Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not
   include damage dealt to self or allies when activating Insanity.'
 image: https://i.imgur.com/yyiYX5p.jpg
 dtReleased: "2025-11-06"
-dtModified: "2026-07-02"
+dtModified: "2026-11-18"
 fancy_name: Accursed Clergyman
 aetherPower: bulwark
 lb1:

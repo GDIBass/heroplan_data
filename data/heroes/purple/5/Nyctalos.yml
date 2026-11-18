@@ -14,7 +14,9 @@ effects:
 - At the end of each turn, the caster and nearby allies shoot an Ocular Ray at a random
   enemy for 2 turns.
 - Each Ocular Ray inflicts 10 Insanity on the hit enemy.
-- Each Ocular Ray reduces the Max Health of the hit Enemy by 100.
+- Each Ocular Ray reduces the Max Health of the hit Enemy by 100. The effect is stronger
+  against targets with boosted health. (Max health can't get lower than 30% of the
+  original max health. Any boosted health is reduced by an additional 100.)
 - Casting this Special Skill inflicts 35 Insanity on the caster.
 types:
 - Hit 3
@@ -27,13 +29,13 @@ passives:
   to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
   automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
   inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
-  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+  Fiend: 115% attack, 68% health, inflicts 10 Insanity every turn.'
 - 'Branded by the Old Ones: All damage done to enemies by normal attacks and Special
   Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not
   include damage dealt to self or allies when activating Insanity.'
 image: https://i.imgur.com/WMq6Bqs.jpg
 dtReleased: "2026-05-19"
-dtModified: "2026-06-22"
+dtModified: "2026-11-18"
 fancy_name: The All-Seeing Terror
 aetherPower: attack_up
 lb1:

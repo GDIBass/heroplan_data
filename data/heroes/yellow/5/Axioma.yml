@@ -16,7 +16,7 @@ effects:
   total.
 - All allies are immune to buff dispels and reallocations for 4 turns. (The immunity
   also includes this effect itself. Also includes Ransack.)
-- Casting this Special Skill inflicts 20 Insanity on all allies.
+- Casting this Special Skill inflicts 15 Insanity on all allies.
 types:
 - Hit 3
 - Insanity 3
@@ -28,13 +28,13 @@ passives:
   to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
   automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
   inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
-  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+  Fiend: 115% attack, 68% health, inflicts 10 Insanity every turn.'
 - 'Branded by the Old Ones: All damage done to enemies by normal attacks and Special
   Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not
   include damage dealt to self or allies when activating Insanity.'
 image: https://i.imgur.com/09iwXme.jpg
 dtReleased: "2026-06-12"
-dtModified: "2026-06-22"
+dtModified: "2026-11-18"
 fancy_name: Scholar of Unseen Forces
 aetherPower: counterattack
 lb1:

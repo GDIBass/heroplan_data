@@ -13,9 +13,9 @@ effects:
 - All enemies succumb to Fear for 5 turns. (The target gets -40% defense. Removes
   all dispellable buffs and Growth effects when a Fear status effect is added. The
   target cannot gain new buffs or Growth effects for the duration. Target with Fear
-  deals 160% damage to a random ally each time any other ally casts their Special
+  deals 250% damage to a random ally each time any other ally casts their Special
   Skill. Each character can trigger this effect once per turn.)
-- 'Wither: All enemies get -400 attack.'
+- 'Wither: All enemies get -480 attack.'
 - Deals 420% damage to all enemies and inflicts 25 Insanity on them.
 - Casting this Special Skill inflicts 45 Insanity on the caster.
 types:
@@ -29,13 +29,13 @@ passives:
   to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
   automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
   inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
-  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+  Fiend: 115% attack, 68% health, inflicts 10 Insanity every turn.'
 - 'Branded by the Old Ones: All damage done to enemies by normal attacks and Special
   Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not
   include damage dealt to self or allies when activating Insanity.'
 image: https://i.imgur.com/QhHCnui.jpg
 dtReleased: "2026-03-22"
-dtModified: "2026-06-22"
+dtModified: "2026-11-18"
 fancy_name: Director of the Institute
 aetherPower: bulwark
 lb1:
