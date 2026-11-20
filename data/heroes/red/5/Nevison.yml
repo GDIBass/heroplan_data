@@ -1,0 +1,51 @@
+---
+name: Nevison
+source: goblinvillage
+family: shadyscoundrel
+speed: Very Fast
+class: Rogue
+power: 1374
+attack: 1458
+defense: 1435
+health: 2410
+skill: Heads or Tails?
+effects:
+- Ransacks the target, stealing 400 health and a buff. (Safely steals one random status
+  effect buff from the target. This includes undispellable buffs and Dance effects.
+  Safe stealing bypasses secondary effects, such as damage on removal, from the removed
+  buffs. Passive skills and family effects can still activate.)
+- Deals 400% damage to the target.
+- The target gets -24% defense for 2 turns.
+- After a successful cast, has a 50% chance to recast Heads or Tails? on a random
+  target.
+- Can recast up to 2 times.
+types:
+- Ransack 1
+- Hit 1
+- Defense Debuff 1
+- Recast Chance
+passives:
+- 'Thief''s Opportunity: When any other ally casts a Special Skill, this character
+  Ransacks the enemy with the most buffs:'
+- '* Steals 100 health.'
+- '* Safely steals a buff from the enemy. This includes undispellable buffs and Dance
+  effects.'
+- 'Cheat Death: The first time this character would receive fatal damage from normal
+  attacks or Special Skills, they instead redirect up to 2500 damage to the attacker.
+  Does not activate if this character is the only member of their team in battle.'
+image: https://i.imgur.com/ooLpk9x.jpg
+dtReleased: "2026-11-20"
+dtModified: ""
+fancy_name: Gambling Scoundrel
+aetherPower: special_boost
+lb1:
+  power: 1471
+  attack: 1571
+  defense: 1546
+  health: 2597
+lb2:
+  power: 1665
+  attack: 1798
+  defense: 1769
+  health: 2972
+...
