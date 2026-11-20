@@ -23,12 +23,12 @@ types:
 - Gambler
 passives:
 - 'Effects on Special Skill: 60% chance to perform the following actions when this
-  character casts their Special Skill.'
+  character casts their Special Skill:'
 - ' * Deals 90% damage to all enemies.'
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/tT0NNbo.jpg
 dtReleased: "2023-09-18"
-dtModified: ""
+dtModified: "2026-11-20"
 fancy_name: Kitchen Alchemist
 aetherPower: special_armor
 lb1:
@@ -68,7 +68,7 @@ costume:
   - Gambler
   passives:
   - 'Effects on Special Skill: 60% chance to perform the following actions when this
-    character casts their Special Skill.'
+    character casts their Special Skill:'
   - ' * Deals 90% damage to all enemies.'
   - ' * All enemies get -25% accuracy for 3 turns.'
   - 'Extra Chance for Effects on Special Skill: When this character casts their Special
@@ -76,7 +76,7 @@ costume:
     to activate.'
   image: https://i.imgur.com/bGaE8WG.jpg
   dtReleased: "2026-09-23"
-  dtModified: ""
+  dtModified: "2026-11-20"
   fancy_name: Field Cook
   aetherPower: boosted_regen
   lb1:

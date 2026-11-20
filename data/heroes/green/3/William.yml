@@ -12,7 +12,9 @@ skill: Situational Awareness
 effects:
 - Deals 210% damage to the target and nearby enemies.
 - The caster and nearby allies get +36% defense for 3 turns.
-- The caster and nearby allies get +36% critical chance for 3 turns.
+- The caster and nearby allies get +36% critical chance for 3 turns. (Critical hits
+  deal +100% more damage from normal attacks. Critical Hits reduce enemies' max health.
+  This effect is stronger against boosted health.)
 types:
 - Hit 3
 - Defense Buff 3
@@ -22,17 +24,17 @@ passives:
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/A9SHPn4.jpg
 dtReleased: "2024-04-15"
-dtModified: ""
+dtModified: "2026-11-20"
 fancy_name: Nervous Night Guardsman
 aetherPower: defense_up
 lb1:
-  power: 552
-  attack: 616
-  defense: 567
-  health: 807
+  power: 551
+  attack: 615
+  defense: 566
+  health: 806
 lb2:
   power: 666
-  attack: 761
+  attack: 760
   defense: 700
   health: 997
 ...

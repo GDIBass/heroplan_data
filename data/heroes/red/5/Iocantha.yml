@@ -13,8 +13,8 @@ effects:
 - The attack bypasses defensive buffs. (This includes counterattacks.)
 - Deals 320% damage to the target and 2 random enemies.
 - Each hit reduces the duration of all status effect buffs on the hit enemy by one
-  turn. (The duration reduction affects both dispellable and undispellabe status effect
-  buffs. If the duration on any buff is reduced to zero, the effect is considered
+  turn. (The duration reduction affects Stubborn, dispellable and undispellable status
+  effect buffs. If the duration on any buff is reduced to zero, the effect is considered
   as having expired naturally.)
 types:
 - Bypass
@@ -26,7 +26,7 @@ passives:
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/mk7552K.jpg
 dtReleased: "2024-07-07"
-dtModified: ""
+dtModified: "2026-11-20"
 fancy_name: Master-at-Arms
 aetherPower: special_boost
 lb1:

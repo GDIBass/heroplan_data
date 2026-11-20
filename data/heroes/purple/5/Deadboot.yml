@@ -56,19 +56,24 @@ costume:
   - Deals additional 50% damage per transferred status effect buff, up to 650% damage
     in total.
   - 'Wither: The target gets -250 attack and -250 defense.'
+  - The target is immune to new status effect buffs for 2 turns.
   types:
   - Buff Steal 1
   - Hit 1
   - Attack Wither 1
   - Defense Wither 1
+  - Buff Immunity 1
   passives:
   - 'Effects on Special Skill: 30% chance to perform the following actions when this
-    character casts their Special Skill.'
+    character casts their Special Skill:'
   - ' * Deals 90% damage to all enemies.'
   - ' * All enemies get -25% accuracy for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
   image: https://i.imgur.com/t2rR0PE.jpg
   dtReleased: "2026-10-25"
-  dtModified: ""
+  dtModified: "2026-11-20"
   fancy_name: Harrowing Goblin
   aetherPower: dodge
   lb1:
