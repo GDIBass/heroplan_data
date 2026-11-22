@@ -1,0 +1,41 @@
+---
+name: Rubio
+source: tavernoflegends
+family: champions
+speed: Fast
+class: Sorcerer
+power: 1374
+attack: 1458
+defense: 1419
+health: 2443
+skill: Spectacular Spirals
+effects:
+- Deals 630% damage to target.
+- Deals 760% damage against characters that cleanse or dispel using Special Skills.
+  (Only direct Dispel or Cleanse effects from Special Skills are considered. This
+  excludes Remove effects, Passives, Minions, Family effects, Talents and Status effects.)
+- Al allies are immune to buff dispels and reallocations for 3 turns. (This immunity
+  also includes this effect itself. Also includes Ransack.)
+types:
+- Hit 1
+- Buff Dispel Immunity All
+passives:
+- 'Health Boost on Buff Dispel: This character receives 450 boosted health each time
+  a buff is dispelled from this character. This effect can activate only once per
+  turn. It also activates on attempted dispels.'
+image: https://i.imgur.com/0alOhY1.jpg
+dtReleased: "2026-11-22"
+dtModified: ""
+fancy_name: Rhythmic Gymnastic Champion
+aetherPower: special_boost
+lb1:
+  power: 1471
+  attack: 1571
+  defense: 1529
+  health: 2633
+lb2:
+  power: 1666
+  attack: 1798
+  defense: 1750
+  health: 3013
+...
