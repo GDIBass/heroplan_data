@@ -14,9 +14,11 @@ effects:
   enemies and inflicts 15 Insanity to them each time any other ally casts their Special
   Skill. (Damage and Insanity are dealt on the first Special Skill cast of each character
   per turn. The damage and Insanity dealt by this effect are not affected by Insanity.)
-- 'Stack (Max: 10): All allies get +20% attack.'
+- 'Stack (Max: 10): All allies get +20% attack. (Dispelling reduces positive stacks
+  by 1.)'
 - 'Stack (Max: 10): All allies get +5% mana generation. (Affects only mana generated
-  from matching shields or mana gained by the defense team at the end of their turn.)'
+  from matching shields or mana gained by the defense team at the end of their turn.
+  Dispelling reduces positive stacks by 1.)'
 - Casting this Special Skill inflicts 50 Insanity on the caster.
 types:
 - Hit Random 3 on ally SS cast
@@ -29,7 +31,7 @@ passives:
   up to a maximum reduction of 50%.'
 image: https://i.imgur.com/sAavBEB.jpg
 dtReleased: "2024-05-17"
-dtModified: "2026-07-02"
+dtModified: "2026-11-18"
 fancy_name: Reckless Private Investigator
 aetherPower: attack_up
 lb1:

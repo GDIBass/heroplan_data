@@ -1,0 +1,52 @@
+---
+name: Barleybelly
+source: wilderness
+family: rodent
+speed: Slow
+class: Monk
+power: 1373
+attack: 1411
+defense: 1448
+health: 2492
+skill: Frothy Stein
+effects:
+- Recovers 50% health for all allies.
+- 'Wild: For 5 turns, the caster and nearby allies either regenerate 200 HP or receive
+  600 boosted health each turn. (Wild adds a chance each turn for this effect to be
+  more powerful. This Wild effect has a 50% chance to heal extra +200% HP that turn.
+  When extra HP is healed, the effect gives boosted health. Wild effects bypass most
+  effects that would normally prevent them from being applied. Wild effects can be
+  applied in addition to other effects of the same type.)'
+- Cleanses 1 status ailment from all allies at the end of each turn for 5 turns. The
+  effect can't be dispelled.
+- All allies get +65% defense for 5 turns.
+types:
+- Healer All
+- Wild HoT All
+- Clean All each turn
+- Defense Buff All
+passives:
+- 'Nibble: When any other ally casts a Special Skill, this character deals 200% damage
+  to a random enemy. The enemy receives -35% defense for 3 turns.'
+- 'Trait: Tiny Frame'
+- This character is not affected by effects that increase or reduce attack.
+- This includes
+- ' * Status effect buffs and ailments'
+- ' * Positive and negative Stacks.'
+- ' * Growth and Wither effects.'
+image: https://i.imgur.com/jStqCsl.jpg
+dtReleased: "2026-11-17"
+dtModified: ""
+fancy_name: The Hearty Guinea Pig
+aetherPower: bulwark
+lb1:
+  power: 1470
+  attack: 1521
+  defense: 1560
+  health: 2686
+lb2:
+  power: 1664
+  attack: 1740
+  defense: 1786
+  health: 3073
+...

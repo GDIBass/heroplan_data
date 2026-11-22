@@ -15,7 +15,9 @@ effects:
   2 turns. (The duration modification affects cleansable, Stubborn and uncleansable
   effects. If the duration of any effect is reduced to zero, the effect is considered
   as having expired naturally.)
-- The caster and nearby allies get +40% critical chance for 3 turns.
+- The caster and nearby allies get +40% critical chance for 3 turns. (Critical hits
+  deal +100% more damage from normal attacks. Critical Hits reduce enemies' max health.
+  This effect is stronger against boosted health.)
 types:
 - Hit 3
 - Reduces Ailments Duration 3
@@ -25,7 +27,7 @@ passives:
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/T8J02Mj.jpg
 dtReleased: "2025-01-17"
-dtModified: "2026-06-22"
+dtModified: "2026-11-20"
 fancy_name: Lizardfolk Flagbearer
 aetherPower: regen
 lb1:

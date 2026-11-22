@@ -12,16 +12,14 @@ skill: Soothing Melody
 effects:
 - Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the
   caster.
-- The Shield Guard Mega Minion cleanses the latest cleansable status ailment from
-  all allies each turn.  (Safe cleanse bypasses secondary effects, such as damage
+- The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment
+  from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage
   on removal, from the remove status ailment. External effects such as passive skills
   and family effects can still activate.)
 - All enemies fall asleep and receive +70% increased damage while sleeping. (A sleeping
   character cannot gain mana or attack. The sleeping target is woken once it takes
   damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends.
   This effect is uncleansable.)
-- The sleeping target is woken once it take damage. This excludes damage from Minions
-  and Fiends.
 types:
 - Shield Guard Mega Minion
 - Cleanser Minion
@@ -31,7 +29,7 @@ passives:
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/HHfGYBP.jpg
 dtReleased: "2024-05-13"
-dtModified: "2026-07-21"
+dtModified: "2026-11-20"
 fancy_name: The Pensive Poet
 aetherPower: regen
 lb1:

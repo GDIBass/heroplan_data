@@ -42,4 +42,50 @@ lb2:
   attack: 1158
   defense: 1143
   health: 2085
+costume:
+  design: costume1
+  bonuses: 51/52/52/5
+  class: Cleric
+  power: 1374
+  attack: 1420
+  defense: 1407
+  health: 2564
+  skill: Heavy-Duty Hammer Flurry
+  effects:
+  - The attack bypasses defensive buffs. (This includes counterattacks.)
+  - Deals 600% damage to the target.
+  - Has 50% chance to deal 600% damage to a random different enemy. (This effect targets
+    the same enemy as the first hit if there are no other valid targets.)
+  - Summons a Black Boar Mega Minion with 65% HP and 280% attack inherited from the
+    caster.
+  - The target hit by Black Boar Mega Minion can't get their status ailments cleansed
+    or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing
+    and reallocating of itself.)
+  types:
+  - Hit 1
+  - Extra Hit 1 Chance
+  - Black Boar Mega Minion Self
+  passives:
+  - 'Effects on Special Skill: 40% chance to perform the following actions when this
+    character casts their Special Skill:'
+  - '* Deals 90% damage to all enemies.'
+  - '* All enemies get -25% accuracy for 3 turns.'
+  - 'Extra Chance for Effects on Special Skill: When this character casts their Special
+    Skill, any of their Passive Skills that grant extra effects on cast have 3 chances
+    to activate.'
+  image: https://i.imgur.com/uOX86S9.jpg
+  dtReleased: "2026-11-20"
+  dtModified: ""
+  fancy_name: Goblin Engineer
+  aetherPower: rage
+  lb1:
+    power: 1471
+    attack: 1530
+    defense: 1516
+    health: 2763
+  lb2:
+    power: 1666
+    attack: 1751
+    defense: 1735
+    health: 3162
 ...

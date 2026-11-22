@@ -11,7 +11,7 @@ health: 1680
 skill: The Eagle's Blessing
 effects:
 - Recovers 25% health of all allies.
-- 'Growth: All allies get 180 attack and 180 defense.'
+- 'Growth: All allies get 215 attack and 215 defense.'
 - All allies have 50% chance to deal 270% damage to a random enemy after any subsequent
   allied Special Skill is cast for 3 turns. (Each character can trigger this effect
   once per turn.)
@@ -22,12 +22,12 @@ types:
 - Extra hit chance after ally SS All
 passives:
 - 'Effects on Special Skill: 50% chance to perform the following actions when this
-  character casts their Special Skill.'
+  character casts their Special Skill:'
 - ' * Deals 90% damage to all enemies.'
 - ' * All enemies get -25% accuracy for 3 turns.'
 image: https://i.imgur.com/9UklXhJ.jpg
 dtReleased: "2023-09-18"
-dtModified: "2026-07-23"
+dtModified: "2026-11-20"
 fancy_name: Adept Eagle Trainer
 aetherPower: defense_up
 lb1:
@@ -52,7 +52,7 @@ costume:
   effects:
   - All allies regenerate 1200 boosted health over 3 turns. Boosted heath can exceed
     max HP.
-  - 'Growth: All allies get 200 attack and 200 defense.'
+  - 'Growth: All allies get 240 attack and 240 defense.'
   - All allies have 50% chance to deal 280% damage to a random enemy after any subsequent
     allied Special Skill is cast for 3 turns. (Each character can trigger this effect
     once per turn.)
@@ -63,7 +63,7 @@ costume:
   - Extra hit chance after ally SS All
   passives:
   - 'Effects on Special Skill: 50% chance to perform the following actions when this
-    character casts their Special Skill.'
+    character casts their Special Skill:'
   - ' * Deals 90% damage to all enemies.'
   - ' * All enemies get -25% accuracy for 3 turns.'
   - 'Extra Chance for Effects on Special Skill: When this character casts their Special
@@ -71,7 +71,7 @@ costume:
     to activate.'
   image: https://i.imgur.com/jGw59w5.jpg
   dtReleased: "2026-07-23"
-  dtModified: ""
+  dtModified: "2026-11-20"
   fancy_name: Adept Eagle Enchanter
   aetherPower: bulwark
   lb1:

@@ -31,7 +31,7 @@ passives:
   to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
   automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
   inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
-  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+  Fiend: 115% attack, 68% health, inflicts 10 Insanity every turn.'
 - 'Eldritch Pact: If defeated, this character has a chance to be reborn as Eldritch
   Host. The chance is 10% per 10 Insanity on this character, up to maximum chance
   of 100%.'
@@ -39,7 +39,7 @@ passives:
   is always 100%.
 image: https://i.imgur.com/JcMgpGS.jpg
 dtReleased: "2026-07-02"
-dtModified: "2026-11-02"
+dtModified: "2026-11-18"
 fancy_name: Aetheric Strategist
 aetherPower: taunt
 lb1:

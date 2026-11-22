@@ -10,9 +10,8 @@ defense: 1223
 health: 2160
 skill: Join In Joyful Song
 effects:
-- Boosts health of all allies by 800. Boosted health can exceed max HP.
-- Boosts health of all allies by 160 foreach status ailment the ally has, up to 800
-  health in total.
+- Boosts health of all allies by 800. Boosts health of all allies by 160 for each
+  status ailment the ally has, up to 1600 health in total.
 - Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the
   caster.
 - The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment
@@ -28,7 +27,7 @@ passives:
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/aJDM9qb.jpg
 dtReleased: "2025-02-14"
-dtModified: "2026-07-01"
+dtModified: "2026-11-20"
 fancy_name: The Merry Mason
 aetherPower: special_armor
 lb1:

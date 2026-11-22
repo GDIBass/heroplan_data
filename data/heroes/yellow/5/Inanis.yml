@@ -13,7 +13,8 @@ effects:
 - Deals 350% damage to the target.
 - Deals additional 350% damage to 2 random enemies.
 - All hit targets get 15 Insanity every time they are hit.
-- 'Stack (Max: 10): All damage the hit enemy receives is increased by 5%.'
+- 'Stack (Max: 10): All damage the hit enemy receives is increased by 5%. (Cleansing
+  reduces negative stacks by 1.)'
 - Casting this Special Skill inflicts 35 Insanity on the caster.
 types:
 - Hit 1
@@ -26,13 +27,13 @@ passives:
   to have their Minions turn to Fiends. Reaching 70 Insanity activates the transformation
   automatically. A Minion will transform into an Eldritch Fiend: 15% attack, 18% health,
   inflicts 5 Insanity every turn. A mega Minion will transform into an Eldritch Mega
-  Fiend: 115% attack, 68% health, inflicts 10% Insanity every turn.'
+  Fiend: 115% attack, 68% health, inflicts 10 Insanity every turn.'
 - 'Branded by the Old Ones: All damage done to enemies by normal attacks and Special
   Skills is increased by 6% per 10 Insanity on this character, up to 60%. Does not
   include damage dealt to self or allies when activating Insanity.'
 image: https://i.imgur.com/nOztQOp.jpg
 dtReleased: "2025-12-28"
-dtModified: "2026-06-22"
+dtModified: "2026-11-18"
 fancy_name: The Untethered
 aetherPower: dodge
 lb1:
