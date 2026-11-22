@@ -38,4 +38,43 @@ lb2:
   attack: 1012
   defense: 799
   health: 1554
+costume:
+  design: costume1
+  bonuses: 94/93/93/5
+  class: Sorcerer
+  power: 1374
+  attack: 1598
+  defense: 1242
+  health: 2443
+  skill: Lurk in Shadows
+  effects:
+  - Deals 350% damage to the target and nearby enemies.
+  - The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns.
+    Each dodge gives +10% mana to the ally.
+  - Element Link gives all Nature allies +60% defense against Fire for 4 turns. This
+    effect can't be dispelled.
+  types:
+  - Hit 3
+  - Dodge Chance Buff 3
+  passives:
+  - 'Legendary Reversal: All allies gain 600 boosted health and 10% mana each time
+    this character resists any effects with Passive Skills. This effect can activate
+    once per turn.'
+  - 'Resist Dispels: This character is immune to effects that would dispel their status
+    effect buffs.'
+  image: https://i.imgur.com/wpfFuhT.jpg
+  dtReleased: "2026-11-22"
+  dtModified: ""
+  fancy_name: xx
+  aetherPower: special_boost
+  lb1:
+    power: 1470
+    attack: 1722
+    defense: 1338
+    health: 2633
+  lb2:
+    power: 1665
+    attack: 1971
+    defense: 1531
+    health: 3013
 ...
