@@ -46,23 +46,23 @@ costume:
   health: 1908
   skill: Plume Flash
   effects:
-  - Deals 255% damage to all enemies.
-  - All enemies get -34% attack for 4 turns.
-  - Deals extra damage against Ice.
   - Dispels buffs from all enemies.
+  - Deals 240% damage to all enemies.
+  - All enemies get -38% attack for 4 turns.
+  - Deals extra damage against Ice.
   - Element Link gives +10% mana generation for all Nature allies for 4 turns. This
     effect can't be dispelled. (Affects only mana generated from matching shields
     or mana gained by the defense team at the end of their turn.)
   types:
+  - Dispeller All
   - Hit All
   - Attack Debuff All
-  - Dispeller All
   passives:
   - 'Cleanse on Special Skill: When this character casts their Special Skill, they
     cleanse the newest status ailment from all allies.'
   image: https://i.imgur.com/QJNIkdZ.jpg
   dtReleased: "2023-12-19"
-  dtModified: "2026-08-25"
+  dtModified: "2026-11-22"
   fancy_name: Avian Celestial
   aetherPower: special_boost
   lb1:

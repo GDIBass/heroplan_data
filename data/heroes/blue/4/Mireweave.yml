@@ -11,13 +11,14 @@ health: 1175
 skill: Chain of Pain
 effects:
 - Deals 150% damage to the target and nearby enemies.
-- 'Stack (Max: 10): The caster gets +10% attack.'
+- 'Stack (Max: 10): The caster gets +10% attack. (Dispelling reduces positive stacks
+  by 1.)'
 types:
 - Hit 3
 - Attack Buff Stack Self
 image: https://i.imgur.com/mjsblyy.jpg
 dtReleased: "2020-02-27"
-dtModified: "2026-03-23"
+dtModified: "2026-11-22"
 fancy_name: Swift Draugr
 aetherPower: special_boost
 lb1:
